@@ -1,0 +1,178 @@
+import os
+from tqdm import tqdm
+import whisper
+import pprint
+import argparse
+import time
+from pytube import YouTube, Playlist
+from datetime import datetime
+
+def make_transcript_folder():
+  if '_Transcripts' not in os.listdir():
+    os.mkdir('_Transcripts') 
+
+def load_model(model_name='base'):
+  '''
+  Import the modules you will be using, and load the whisper model -- `base` is ok, but from the documentation:
+
+  There are five model sizes, four with English-only versions, offering speed and accuracy tradeoffs. Below are the names of the available models and their approximate memory requirements and inference speed relative to the large model; actual speed may vary depending on many factors including the available hardware.
+
+  |  Size  | Parameters | English-only model | Multilingual model | Required VRAM | Relative speed |
+  | :----: | :--------: | :----------------: | :----------------: | :-----------: | :------------: |
+  |  tiny  |    39 M    |     `tiny.en`      |       `tiny`       |     ~1 GB     |      ~32x      |
+  |  base  |    74 M    |     `base.en`      |       `base`       |     ~1 GB     |      ~16x      |
+  | small  |   244 M    |     `small.en`     |      `small`       |     ~2 GB     |      ~6x       |
+  | medium |   769 M    |    `medium.en`     |      `medium`      |     ~5 GB     |      ~2x       |
+  | large  |   1550 M   |        N/A         |      `large`       |    ~10 GB     |       1x       |
+  '''
+
+  print(f'Loading Whisper Model: {model_name}')
+  model = whisper.load_model(model_name)
+  print('  Model Loaded.')
+  return model
+
+class Video:
+  def __init__(self):
+    self.title = None
+    self.author = None
+    self.date = None
+    self.url = None
+    self.transcript_path = None
+    self.transcript_exists = False
+    self.transcript = None
+
+  def check_transcript(self):
+    # see if directory exists, if not create it
+    author_folder = os.path.join('_Transcripts', self.author)
+    if not os.path.exists(author_folder):
+      print('Creating directory:', author_folder)
+      os.makedirs(author_folder)
+    short_date = datetime.strptime(self.date, '%B %d, %Y').strftime('%Y%m%d')
+    transcript_path = os.path.join(author_folder, f'{short_date}_{self.author}.md')
+    self.transcript_path = transcript_path
+    # check if file already exists
+    if os.path.exists(transcript_path):
+      print(f'  File already exists: {transcript_path}')
+      self.transcript_exists = True
+    self.transcript_exists = False
+
+  def get_video(self, source='youtube', url=None, local_path=None):
+    '''
+    Download a video from a source and set the video attributes
+
+    Args:
+      source (str): The source of the video. Options are 'youtube' or 'local'
+      url (str): The URL of the video. Required if source is 'youtube'
+      local_path (str): The local path of the video. Required if source is 'local'
+
+    Returns:
+      None
+    '''
+
+    if source=='youtube':
+      if url == None:
+        # ask for the url
+        url = input('Enter the URL of the video: ')
+      try:
+        youtube_obj = YouTube(url)
+        streams = youtube_obj.streams.filter(only_audio=True)
+        stream = streams.first()
+        video_path = 'youtube.mp4'
+        # Set video attributes
+        self.title = stream.title
+        self.author = youtube_obj.author
+        self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
+        self.url = stream.url
+        self.video_path = video_path
+        self.check_transcript()
+        if self.transcript_exists:
+          print(f'  Skipping video.')
+          return
+        print(f'Downloading video from: {url}')
+        stream.download(filename=video_path)
+        print(f'  Video downloaded to {video_path}')
+      except:
+        raise ValueError('Invalid URL')
+    elif source=='local':
+      if local_path == None:
+        raise ValueError('Local Path must be provided for local videos')
+      self.video_path = local_path
+      self.title = video_path
+      self.url = None
+      self.author = 'Local File'
+      self.date = f"{datetime.now():%B %d, %Y}"
+
+    print(f'Video Title: {self.title}')
+    print(f'  Author: {self.author}')
+    print(f'  Date: {self.date}')
+
+  def transcribe_video(self, video, model):
+    '''Transcribe the video using the whisper model'''
+    print('Transcribing Video')
+    start_time = time.time()
+    output = model.transcribe(video.video_path, fp16=False)
+    print(f'  Transcription Time: {time.time() - start_time:.2f} seconds')
+    # print('Output Keys:', output.keys())
+    # print('  Segment Keys:', output['segments'][0].keys())
+    segments = [text['text'] for text in output['segments']]
+    video.transcript = segments
+    # format value 100000 -> 100.000
+    num_words = "{:,}".format(len(segments))
+    print(f'  Segments Transcribed: {num_words}')
+
+  def write_transcript(self):
+    '''Write the transcript to a markdown file'''
+    print('Writing transcript to file')
+    # if file does not exist, write the transcript
+    with open(self.transcript_path, 'w') as f:
+      f.write(f'# {self.title}\n')
+      # strip all non-alphanumeric characters from the author in order to create a valid file name
+      f.write(f'**{self.author}:** [{self.date}]({self.url})\n')
+      if self.transcript == None:
+        raise ValueError('Transcript must be generated before writing')
+      for segment in self.transcript:
+        f.write(f'* {segment}\n')
+    f.close()
+
+  def delete_video(self):
+    '''Delete the video file'''
+    os.remove(self.video_path)
+    print(f'Video file deleted: {self.video_path}')
+
+if __name__ == '__main__':
+  
+  # Parse the command line arguments
+  parser = argparse.ArgumentParser(description='Video Transcription')
+  parser.add_argument('--source', choices=['youtube', 'local'], 
+                                  default='youtube', 
+                                  help='The source of the video')
+  parser.add_argument('--url', help='The URL of the video (required if source is youtube)')
+  parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
+  args = parser.parse_args()
+  
+  # Load the model
+  model = load_model('medium')
+
+  # Check if the transcript folder exists
+  make_transcript_folder()
+
+  if 'playlist' in args.url.lower():
+    playlist_url = args.url
+    playlist = Playlist(playlist_url)
+    print(f'Transcribing Playlist: {playlist.title}')
+    url_list = list(playlist.video_urls)
+    print(f'  Number of Videos: {len(url_list)}')
+  else:
+    url_list = [args.url]
+
+  for u_index, url in enumerate(tqdm(url_list)):    
+    # Create a video object
+    video = Video()
+    # Get the video and transcribe
+    video.get_video(source=args.source, url=url)
+    if not video.transcript_exists:
+      video.transcribe_video(video, model)
+      video.write_transcript()
+      video.delete_video()
+  print('Transcription Complete')
+  print(f'  Number of Videos Transcribed: {len(url_list)}')
