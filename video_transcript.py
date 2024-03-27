@@ -1,11 +1,12 @@
 import os
-from tqdm import tqdm
+import time
+import pickle
 import whisper
 import pprint
 import argparse
-import time
-from pytube import YouTube, Playlist
+from tqdm import tqdm
 from datetime import datetime
+from pytube import YouTube, Playlist
 
 def make_transcript_folder():
   if '_Transcripts' not in os.listdir():
@@ -37,24 +38,10 @@ class Video:
     self.author = None
     self.date = None
     self.url = None
+    self.author_folder = None
     self.transcript_path = None
     self.transcript_exists = False
     self.transcript = None
-
-  def check_transcript(self):
-    # see if directory exists, if not create it
-    author_folder = os.path.join('_Transcripts', self.author)
-    if not os.path.exists(author_folder):
-      print('Creating directory:', author_folder)
-      os.makedirs(author_folder)
-    short_date = datetime.strptime(self.date, '%B %d, %Y').strftime('%Y%m%d')
-    transcript_path = os.path.join(author_folder, f'{short_date}_{self.author}.md')
-    self.transcript_path = transcript_path
-    # check if file already exists
-    if os.path.exists(transcript_path):
-      print(f'  File already exists: {transcript_path}')
-      self.transcript_exists = True
-    self.transcript_exists = False
 
   def get_video(self, source='youtube', url=None, local_path=None):
     '''
@@ -82,9 +69,10 @@ class Video:
         self.title = stream.title
         self.author = youtube_obj.author
         self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
-        self.url = stream.url
+        self.url = url
         self.video_path = video_path
-        self.check_transcript()
+        self.transcript_exists = self.check_transcript()
+
         if self.transcript_exists:
           print(f'  Skipping video.')
           return
@@ -106,12 +94,29 @@ class Video:
     print(f'  Author: {self.author}')
     print(f'  Date: {self.date}')
 
+  def check_transcript(self):
+    # see if directory exists, if not create it
+    author_folder = os.path.join('_Transcripts', self.author)
+    self.author_folder = author_folder
+    if not os.path.exists(author_folder):
+      print('Creating directory:', author_folder)
+      os.mkdir(author_folder)
+    short_date = datetime.strptime(self.date, '%B %d, %Y').strftime('%Y%m%d')
+    transcript_path = os.path.join(author_folder, f'{short_date}_{self.author}.md')
+    self.transcript_path = transcript_path
+    # check if file already exists
+    if os.path.exists(transcript_path):
+      print(f'  File already exists: {transcript_path}')
+      return True
+    return False
+
   def transcribe_video(self, video, model):
     '''Transcribe the video using the whisper model'''
     print('Transcribing Video')
     start_time = time.time()
     output = model.transcribe(video.video_path, fp16=False)
-    print(f'  Transcription Time: {time.time() - start_time:.2f} seconds')
+    transcription_time = round((time.time() - start_time)/60, 2)
+    print(f'  Transcription Time: {transcription_time} min')
     # print('Output Keys:', output.keys())
     # print('  Segment Keys:', output['segments'][0].keys())
     segments = [text['text'] for text in output['segments']]
@@ -156,6 +161,7 @@ if __name__ == '__main__':
   # Check if the transcript folder exists
   make_transcript_folder()
 
+  # Youtube Playlist URL Example: https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4
   if 'playlist' in args.url.lower():
     playlist_url = args.url
     playlist = Playlist(playlist_url)
@@ -170,6 +176,7 @@ if __name__ == '__main__':
     video = Video()
     # Get the video and transcribe
     video.get_video(source=args.source, url=url)
+    
     if not video.transcript_exists:
       video.transcribe_video(video, model)
       video.write_transcript()
