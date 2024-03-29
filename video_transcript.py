@@ -1,4 +1,5 @@
 import os
+import sys
 import time
 import pickle
 import whisper
@@ -38,7 +39,13 @@ class Video:
     self.author = None
     self.date = None
     self.url = None
+    self.video_path = None
+    self.views = None
+    self.description = None
     self.author_folder = None
+    self.keywords = None
+    self.length = None
+    self.rating = None
     self.transcript_path = None
     self.transcript_exists = False
     self.transcript = None
@@ -71,6 +78,12 @@ class Video:
         self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
         self.url = url
         self.video_path = video_path
+        self.length = youtube_obj.length
+        self.rating = youtube_obj.rating
+        self.keywords = youtube_obj.keywords
+        self.description = youtube_obj.description
+        self.views = youtube_obj.views
+        sys.exit()
         self.transcript_exists = self.check_transcript()
 
         if self.transcript_exists:
@@ -129,7 +142,7 @@ class Video:
     '''Write the transcript to a markdown file'''
     print('Writing transcript to file')
     # if file does not exist, write the transcript
-    with open(self.transcript_path, 'w') as f:
+    with open(self.transcript_path, 'w', encoding='utf-8') as f:
       f.write(f'# {self.title}\n')
       # strip all non-alphanumeric characters from the author in order to create a valid file name
       f.write(f'**{self.author}:** [{self.date}]({self.url})\n')
