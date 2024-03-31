@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2220s
+Video Keywords: []
+Video Views: 5996
+Video Rating: None
+---
+
 # Inside Ukraine’s Drone Attacks on Russia
 **New York Times Podcasts:** [September 19, 2023](https://www.youtube.com/watch?v=2Sg_kOg1Ebw)
 *  From the New York Times, I'm Sabrina Taverniisi, and this is The Daily.

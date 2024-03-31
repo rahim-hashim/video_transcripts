@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 3120s
+Video Keywords: []
+Video Views: 5762
+Video Rating: None
+---
+
 # The Sunday Read: ‘Wikipedia’s Moment of Truth’
 **New York Times Podcasts:** [September 10, 2023](https://www.youtube.com/watch?v=EX1qanIHm4s)
 *  Hi, I'm John Gertner. I'm a contributor to the New York Times magazine, and I write about

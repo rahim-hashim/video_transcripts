@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2016s
+Video Keywords: []
+Video Views: 4549
+Video Rating: None
+---
+
 # A Strategy to Treat Big Tech Like Big Tobacco
 **New York Times Podcasts:** [November 15, 2023](https://www.youtube.com/watch?v=ZD5vdSCRZOc)
 *  From the New York Times, I'm Michael Bobarro.
@@ -14,7 +23,7 @@
 *  Right.
 *  When we were talking about Utah, it was a single state trying to restrict social media
 *  on behalf of young people.
-*  And now what we have—
+*  And now what we haveâ€”
 *  Good morning, everyone.
 *  Good morning.
 *  Good morning, and thank you for joining me today.
@@ -22,11 +31,11 @@
 *  And we need to act.
 *  Is dozens of states banding together.
 *  So today, myself and 42 other attorney generals across this nation are announcing collective
-*  action in state—
+*  action in stateâ€”
 *  A kind of astonishing coalition of red states like Texas and Tennessee and blue liberal
-*  states like Massachusetts—
+*  states like Massachusettsâ€”
 *  Today my office has filed a lawsuit against Meta Platforms Inc.
-*  The company formerly known as Facebook—
+*  The company formerly known as Facebookâ€”
 *  For knowingly harming the mental health of young social media users.
 *  Coming together to sue Meta, which is the social media giant, as you know, that owns
 *  Instagram and Facebook and WhatsApp.

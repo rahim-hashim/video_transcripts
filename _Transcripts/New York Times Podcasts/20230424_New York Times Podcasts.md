@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1356s
+Video Keywords: []
+Video Views: 1189
+Video Rating: None
+---
+
 # How Two Generals Led Sudan to the Brink of Civil War
 **New York Times Podcasts:** [April 24, 2023](https://www.youtube.com/watch?v=EhXaEW7JSDM)
 *  From New York Times, I'm Michael Bobarro.

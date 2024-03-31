@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1544s
+Video Keywords: []
+Video Views: 2018
+Video Rating: None
+---
+
 # A Forced Reckoning in the Restaurant Industry
 **New York Times Podcasts:** [June 13, 2023](https://www.youtube.com/watch?v=N1i-0JrIXNo)
 *  From the New York Times, I'm Sabrina Tavernisi. And this is The Daily.

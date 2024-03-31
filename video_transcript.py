@@ -83,9 +83,7 @@ class Video:
         self.keywords = youtube_obj.keywords
         self.description = youtube_obj.description
         self.views = youtube_obj.views
-        sys.exit()
         self.transcript_exists = self.check_transcript()
-
         if self.transcript_exists:
           print(f'  Skipping video.')
           return
@@ -105,7 +103,9 @@ class Video:
 
     print(f'Video Title: {self.title}')
     print(f'  Author: {self.author}')
-    print(f'  Date: {self.date}')
+    print(f'  Date:   {self.date}')
+    print(f'  Length: {self.length}s')
+    print(f'  Views:  {self.views}')
 
   def check_transcript(self):
     # see if directory exists, if not create it
@@ -138,13 +138,30 @@ class Video:
     num_words = "{:,}".format(len(segments))
     print(f'  Segments Transcribed: {num_words}')
 
+  def write_yaml(self, f):
+    f.write('---\n')
+    f.write(f'Date Generated: {datetime.now():%B %d, %Y}\n')
+    whisper_version = whisper.__version__
+    f.write(f'Transcription Model: whisper medium {whisper_version}\n')
+    f.write(f'Length: {self.length}s\n')
+    f.write(f'Video Keywords: {self.keywords}\n')
+    f.write(f'Video Views: {self.views}\n')
+    # rating can either be a float or None
+    if self.rating == None:
+      f.write('Video Rating: None\n')
+    else:
+      f.write(f'Video Rating: {round(self.rating, 3)}\n')
+    f.write('---\n\n')
+
   def write_transcript(self):
     '''Write the transcript to a markdown file'''
     print('Writing transcript to file')
     # if file does not exist, write the transcript
     with open(self.transcript_path, 'w', encoding='utf-8') as f:
+      # write yaml front matter
+      self.write_yaml(f)
+      # write the title and author
       f.write(f'# {self.title}\n')
-      # strip all non-alphanumeric characters from the author in order to create a valid file name
       f.write(f'**{self.author}:** [{self.date}]({self.url})\n')
       if self.transcript == None:
         raise ValueError('Transcript must be generated before writing')

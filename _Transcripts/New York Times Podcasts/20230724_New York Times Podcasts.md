@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1497s
+Video Keywords: []
+Video Views: 2514
+Video Rating: None
+---
+
 # A One-Man Blockade Against the U.S. Military
 **New York Times Podcasts:** [July 24, 2023](https://www.youtube.com/watch?v=VYOf-XdNFPc)
 *  From the New York Times, I'm Michael Bobauro. This is The Daily.

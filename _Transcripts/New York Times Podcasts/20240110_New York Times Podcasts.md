@@ -1,4 +1,13 @@
-# Trump’s Case for Total Immunity
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1660s
+Video Keywords: []
+Video Views: 10039
+Video Rating: None
+---
+
+# Trumpâ€™s Case for Total Immunity
 **New York Times Podcasts:** [January 10, 2024](https://www.youtube.com/watch?v=kpGNsZst804)
 *  From the New York Times, this is The Daily.
 *  I'm Natalie Ketroff.

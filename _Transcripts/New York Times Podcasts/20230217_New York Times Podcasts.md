@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1746s
+Video Keywords: []
+Video Views: 1043
+Video Rating: None
+---
+
 # The Online Search Wars Got Scary. Fast.
 **New York Times Podcasts:** [February 17, 2023](https://www.youtube.com/watch?v=Z55QwBPf5uk)
 *  From the New York Times, I'm Michael Bobauro.

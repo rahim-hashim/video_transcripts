@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1385s
+Video Keywords: []
+Video Views: 2194
+Video Rating: None
+---
+
 # Ukraine Lost in Bakhmut. But It Has Much Bigger Plans.
 **New York Times Podcasts:** [May 24, 2023](https://www.youtube.com/watch?v=8enhoBX7jIc)
 *  Before we get started today, I wanted to share two pieces of exciting news.

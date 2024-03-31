@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2272s
+Video Keywords: []
+Video Views: 6399
+Video Rating: None
+---
+
 # The Ozempic Era of Weight Loss
 **New York Times Podcasts:** [September 18, 2023](https://www.youtube.com/watch?v=JNVmsUUhxqc)
 *  From the New York Times, I'm Michael Bobarro. This is a daily.

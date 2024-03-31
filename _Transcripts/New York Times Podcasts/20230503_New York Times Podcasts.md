@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1789s
+Video Keywords: []
+Video Views: 1300
+Video Rating: None
+---
+
 # The Democrats’ Dianne Feinstein Problem
 **New York Times Podcasts:** [May 03, 2023](https://www.youtube.com/watch?v=b_00QKRi3i8)
 *  From the New York Times, I'm Michael Bobauro.

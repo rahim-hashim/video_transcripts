@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1667s
+Video Keywords: []
+Video Views: 28039
+Video Rating: None
+---
+
 # Inside the Coup at OpenAI
 **New York Times Podcasts:** [November 22, 2023](https://www.youtube.com/watch?v=c9yHMyk1l7s)
 *  From New York Times, I'm Michael Bobarro. This is The Daily.

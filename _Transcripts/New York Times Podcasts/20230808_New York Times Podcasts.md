@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1665s
+Video Keywords: []
+Video Views: 6898
+Video Rating: None
+---
+
 # The Legal Strategy Behind the Latest Trump Indictment
 **New York Times Podcasts:** [August 08, 2023](https://www.youtube.com/watch?v=UdZ8yjeQMEk)
 *  From New York Times, I'm Michael Bobarro.

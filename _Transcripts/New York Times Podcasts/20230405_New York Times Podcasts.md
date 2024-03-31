@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1590s
+Video Keywords: []
+Video Views: 1077
+Video Rating: None
+---
+
 # What It Was Like at Donald Trump’s Arraignment
 **New York Times Podcasts:** [April 05, 2023](https://www.youtube.com/watch?v=Ys3PYzBUJf4)
 *  Oh, hi Michael.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1637s
+Video Keywords: []
+Video Views: 1922
+Video Rating: None
+---
+
 # The Sunday Read: ‘Why Are These Italians Massacring Each Other With Oranges?’
 **New York Times Podcasts:** [April 23, 2023](https://www.youtube.com/watch?v=Kkcco_dXi2c)
 *  Hi, my name is John Moallam, and I'm a contributing writer to the New York Times magazine.
@@ -291,10 +300,9 @@
 *  One night, I was having a pleasant conversation in the lobby of City Hall and didn't notice
 *  the uniformed brass players and soldiers amassing on the front staircase behind me, forming
 *  a parade, trapping me inside.
-*  Soon I'd tense up at the sound of distant fives.
-*  Felt preposterous, like a metaphor, like a Kafka story.
-*  A lowly office clerk in a European city who, every time he leaves his apartment, is encircled
-*  and thwarted by ceremonial parades.
+*  Soon a tense up at the sound of distant fives.
+*  Felt preposterous, like a metaphor, like a Kafka story, a lowly office clerk in a European
+*  city who every time he leaves his apartment is encircled and thwarted by ceremonial parades.
 *  Except, this couldn't have been clearer.
 *  I wasn't the protagonist.
 *  I was nothing.
@@ -305,7 +313,7 @@
 *  Still others were bloody, or they should have been white.
 *  These were signs of valor in Ivrea.
 *  According to several team leaders I spoke to, people wanted to get bruised.
-*  In fact, you'd periodically spot some gung-ho aron-cherry standing stock still behind a
+*  In fact, you'd periodically spot some gung-ho aron cherry standing stock still behind a
 *  carriage with his face raised toward the throwers to invite a direct hit, like a man who'd been
 *  confined indoors for years, hypnotized by the heat of the sun.
 *  And among the many patches I'd spot sewn onto people's jerseys was one with the same figure
@@ -315,7 +323,7 @@
 *  By the time the last orange was thrown, 469 people would seek medical attention from the
 *  on-site paramedics, though looking around you got the sense that these weren't necessarily
 *  the most severely injured people, just the complainers.
-*  And yet, what I almost never saw during the Battle of the Oranges was any public expression
+*  And yet what I almost never saw during the Battle of the Oranges was any public expression
 *  of pain.
 *  Only once, a young boy running into his mother's arms, wailing after being tagged in the eye.
 *  Consider not only the pain of the impact, but the sting of the juice.

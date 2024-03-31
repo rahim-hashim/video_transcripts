@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1491s
+Video Keywords: []
+Video Views: 1425
+Video Rating: None
+---
+
 # Turkey’s President Fights for Political Survival
 **New York Times Podcasts:** [May 17, 2023](https://www.youtube.com/watch?v=5c8_pgO-I10)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

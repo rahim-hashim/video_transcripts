@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2139s
+Video Keywords: []
+Video Views: 3771
+Video Rating: None
+---
+
 # Why One Drug Company Held Back a Better Drug
 **New York Times Podcasts:** [September 07, 2023](https://www.youtube.com/watch?v=FlUqKMswYrY)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

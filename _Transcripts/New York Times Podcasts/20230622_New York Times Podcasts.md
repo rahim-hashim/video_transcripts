@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1651s
+Video Keywords: []
+Video Views: 7845
+Video Rating: None
+---
+
 # Lost 2 Miles Below the Ocean
 **New York Times Podcasts:** [June 22, 2023](https://www.youtube.com/watch?v=vcEOomGaaws)
 *  From New York Times, I'm Michael Bobarro. This is a daily.

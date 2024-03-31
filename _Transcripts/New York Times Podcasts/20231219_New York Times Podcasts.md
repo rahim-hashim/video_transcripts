@@ -1,4 +1,13 @@
-# Football’s Young Victims
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1955s
+Video Keywords: []
+Video Views: 3295
+Video Rating: None
+---
+
+# Footballâ€™s Young Victims
 **New York Times Podcasts:** [December 19, 2023](https://www.youtube.com/watch?v=r3vOo6qIHJI)
 *  From the New York Times, I'm Michael Bobauro.
 *  This is The Daily.
@@ -305,14 +314,12 @@
 *  That's a lot.
 *  Yeah.
 *  It sounds like a staggering number.
-*  It's a lot.
-*  It's a lot.
-*  It's a lot.
-*  And it's a lot.
-*  So we have to be clear that this is a biased sample.
+*  And it's not just the brain that's going to be trying to optimize even the researchers.
+*  Now we have to be clear that this is a biased sample.
 *  People are donating these brains because they are looking for answers.
 *  So it's a no way to suggest that 40% of kids who play football or anything else are going
-*  to have CTE, but yeah, more than 40% of the brains that they had, had CTE.
+*  to have CTE.
+*  But yeah, more than 40% of the brains that they had, had CTE.
 *  Among those are athletes who were as young as 17 years old, 18 year olds with very severe
 *  cases of CTE, as bad as many of these NFL football players and hall of famers that we've
 *  been talking about.

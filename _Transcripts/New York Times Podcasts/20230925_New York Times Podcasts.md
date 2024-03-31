@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1486s
+Video Keywords: []
+Video Views: 8244
+Video Rating: None
+---
+
 # An Unexpected Battle Over Banning Caste Discrimination
 **New York Times Podcasts:** [September 25, 2023](https://www.youtube.com/watch?v=UDTbJNZZLSM)
 *  From the New York Times, I'm Michael Bobauro.

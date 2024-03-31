@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1376s
+Video Keywords: []
+Video Views: 86
+Video Rating: None
+---
+
 # Why Election Denialism Might Cost Fox News $1.6 Billion
 **New York Times Podcasts:** [February 27, 2023](https://www.youtube.com/watch?v=7bT6XwbFXzM)
 *  From the New York Times, I'm Michael Bobauro. This is a daily.

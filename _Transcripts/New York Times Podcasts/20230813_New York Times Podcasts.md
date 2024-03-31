@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2048s
+Video Keywords: []
+Video Views: 5549
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Silicon Blockade’
 **New York Times Podcasts:** [August 13, 2023](https://www.youtube.com/watch?v=8EhTftWyjmo)
 *  My name is Alex W. Palmer. I'm a contributing writer for the New York Times magazine.

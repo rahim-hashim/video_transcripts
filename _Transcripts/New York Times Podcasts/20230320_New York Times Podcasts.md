@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1730s
+Video Keywords: ['the daily', 'tiktok', 'new york times', 'nyt']
+Video Views: 298
+Video Rating: None
+---
+
 # How TikTok Became a Matter of National Security
 **New York Times Podcasts:** [March 20, 2023](https://www.youtube.com/watch?v=3YAMUpWtVPE)
 *  From the New York Times, I'm Sabrina Taverdisy, and this is The Daily.

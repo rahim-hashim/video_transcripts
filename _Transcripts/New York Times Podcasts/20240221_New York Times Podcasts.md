@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1381s
+Video Keywords: []
+Video Views: 15365
+Video Rating: None
+---
+
 # What Happens if America Turns Its Back on Its Allies in Europe
 **New York Times Podcasts:** [February 21, 2024](https://www.youtube.com/watch?v=drQm7KoJLbk)
 *  From the New York Times, I'm Katrin Benholt. And this is The Daily.
@@ -14,7 +23,7 @@
 *  if they don't pay, they fair share towards NATO.
 *  No, I would not protect you. In fact, I would encourage them to do whatever the hell they want.
 *  You got to pay. You got to pay.
-*  He would encourage Russia to attack them. And…
+*  He would encourage Russia to attack them. Andâ€¦
 *  Condemnation is ringing out tonight. After news, Russian opposition leader Alexei Navalny has died.
 *  Russia's loudest voice of internal dissent, Alexei Navalny, has died in prison.
 *  Make no mistake, Putin is responsible for Navalny's death.

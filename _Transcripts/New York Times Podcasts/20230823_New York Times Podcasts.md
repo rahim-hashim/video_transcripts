@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2018s
+Video Keywords: []
+Video Views: 5461
+Video Rating: None
+---
+
 # Ready or Not, Driverless Cars Are Here
 **New York Times Podcasts:** [August 23, 2023](https://www.youtube.com/watch?v=7L-NSPfU1RY)
 *  From the New York Times, I'm Michael Bobarro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1376s
+Video Keywords: ['The daily', 'new york times', 'nyt', 'the new york times', 'covid']
+Video Views: 185
+Video Rating: None
+---
+
 # What to Know About the Covid Lab Leak Theory
 **New York Times Podcasts:** [March 15, 2023](https://www.youtube.com/watch?v=O7NtdAllUUc)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

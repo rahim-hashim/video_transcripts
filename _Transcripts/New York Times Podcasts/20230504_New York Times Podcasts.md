@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1599s
+Video Keywords: []
+Video Views: 896
+Video Rating: None
+---
+
 # What if You Could Save Someone From an Overdose?
 **New York Times Podcasts:** [May 04, 2023](https://www.youtube.com/watch?v=IJBAG_mmPr0)
 *  From the New York Times, I'm Sabrina Taverdisi, and this is The Daily.

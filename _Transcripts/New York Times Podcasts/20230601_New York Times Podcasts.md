@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1673s
+Video Keywords: []
+Video Views: 3004
+Video Rating: None
+---
+
 # How the G.O.P. Picked Trans Kids as a Rallying Cry
 **New York Times Podcasts:** [June 01, 2023](https://www.youtube.com/watch?v=igYZ06-MUeY)
 *  From New York Times, I'm Michael Bobarro.

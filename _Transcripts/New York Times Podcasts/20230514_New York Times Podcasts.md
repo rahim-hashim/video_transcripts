@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 3174s
+Video Keywords: []
+Video Views: 1673
+Video Rating: None
+---
+
 # The Lifesaving Power of … Paperwork?
 **New York Times Podcasts:** [May 14, 2023](https://www.youtube.com/watch?v=vBiYmGv8F8M)
 *  Hi, my name is Janine Interlandi and I'm a staff writer for the New York Times Magazine.
@@ -171,17 +180,17 @@
 *  curbing childhood mortality, and conquering infectious diseases like malaria and HIV.
 *  The health goals became the subject of countless international summits and
 *  steady news coverage, and the world's most important health goal was to
-*  save the world's wealthiest nations from the world's wealthiest
-*  investments and steady news coverage, ultimately spurring billions of dollars
-*  in investment from the world's wealthiest nations, including the United States.
+*  ultimately spurring billions of dollars in investment from the world's wealthiest
+*  nations, including the United States.
 *  But a fierce debate quickly ensued.
 *  Critics said that health officials at the United Nations and
-*  elsewhere had almost no idea what the baseline conditions were in many
-*  years ago, whether the number of deaths per year was increasing or
-*  decreasing, or how many people were being infected with malaria,
-*  or how fast tuberculosis was spreading.
+*  elsewhere had almost no idea what the baseline conditions were in
+*  many of the countries they were trying to help.
+*  They could not say whether maternal mortality was increasing or decreasing,
+*  or how many people were being infected with malaria, or
+*  how fast tuberculosis was spreading.
 *  In a 2004 paper, the World Health Organization's former director of evidence,
-*  Chris Murray, and other researchers described the agency's estimate as
+*  Chris Murray, and other researchers described the agency's estimates as
 *  serial guessing.
 *  Without that baseline data, progress toward any given goal,
 *  to have hunger, for example, could not be measured.
@@ -206,12 +215,12 @@
 *  Which then undermines the case for investing in more robust fixes.
 *  In 2015, the United Nations set out to correct this problem
 *  with yet another bold initiative.
-*  This one aimed at ensuring that all births and at least 80% of deaths
-*  would be routinely registered by 2030.
+*  This one aimed at ensuring that all births and
+*  at least 80% of deaths would be routinely registered by 2030.
 *  But more than seven years in, that effort is falling far short of its goals.
 *  It's probably the single most critical failure of development in the past 30 years,
-*  says Philip Settle, a medical and demographic anthropologist who
-*  directs the civil registration initiative at vital strategies.
+*  says Philip Settle, a medical and demographic anthropologist
+*  who directs the civil registration initiative at vital strategies.
 *  Not only because of how pervasive or underappreciated the problem is,
 *  but because of how broad its impacts are.
 *  Bangladeshi widows can't secure land rights or

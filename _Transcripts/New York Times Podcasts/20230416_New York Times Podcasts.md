@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 3277s
+Video Keywords: []
+Video Views: 3811
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Daring Ruse That Exposed China’s Campaign to Steal American Secrets’
 **New York Times Podcasts:** [April 16, 2023](https://www.youtube.com/watch?v=epe5MlaCoo0)
 *  Hi, my name is Yudhijit Padacharji and I'm a contributor to the New York Times Magazine

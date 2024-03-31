@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1693s
+Video Keywords: []
+Video Views: 20194
+Video Rating: None
+---
+
 # A Breakout Moment for Vivek Ramaswamy
 **New York Times Podcasts:** [August 30, 2023](https://www.youtube.com/watch?v=QbPL4poxUDU)
 *  From the New York Times, I'm Michael Bobarro. This is a daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1347s
+Video Keywords: []
+Video Views: 12013
+Video Rating: None
+---
+
 # A Law Used Against the Mafia — and Now Trump
 **New York Times Podcasts:** [August 15, 2023](https://www.youtube.com/watch?v=FfsIk0cd_X8)
 *  From the New York Times, I'm Michael O'Borrow.

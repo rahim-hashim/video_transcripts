@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1972s
+Video Keywords: []
+Video Views: 1730
+Video Rating: None
+---
+
 # The Sunday Read: ‘A Week With the Wild Children of the A.I. Boom’
 **New York Times Podcasts:** [July 02, 2023](https://www.youtube.com/watch?v=yzI-TREYqck)
 *  My name is Yi Ran Liu. I'm a writer based in Greenwich, Connecticut. I've been around

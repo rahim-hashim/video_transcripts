@@ -1,4 +1,13 @@
-# Golan’s Story
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1936s
+Video Keywords: []
+Video Views: 6425
+Video Rating: None
+---
+
+# Golanâ€™s Story
 **New York Times Podcasts:** [October 13, 2023](https://www.youtube.com/watch?v=Vlfm1gPxhQM)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  In the weeks since Israel suffered the deadliest day in its history, fresh accounts have emerged
@@ -235,6 +244,6 @@
 *  It was edited by M.J. Davis-Lynn, with help from Paige Cowitt and Michael Benoit.
 *  The theme music contains original music by Dan Powell, Marian Lozano, and Alicia Bitt YouTube, and was engineered by Alyssa Moxley.
 *  Our theme music is by Jim Brunberg and Ben Landsvark of Wonderly.
-*  Special thanks to Alain de la Carrière.
+*  Special thanks to Alain de la CarriÃ¨re.
 *  That's it for the Daily. I'm Sabrina Tavernisi. See you on Monday.
 *  you

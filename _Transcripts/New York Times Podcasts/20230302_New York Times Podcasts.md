@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1489s
+Video Keywords: []
+Video Views: 107
+Video Rating: None
+---
+
 # Will the Supreme Court Let Biden Cancel Student Debt?
 **New York Times Podcasts:** [March 02, 2023](https://www.youtube.com/watch?v=MAxe4jIfp9I)
 *  This is Sydney Harper, Daily Producer.

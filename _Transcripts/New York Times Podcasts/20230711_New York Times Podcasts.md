@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1417s
+Video Keywords: []
+Video Views: 2371
+Video Rating: None
+---
+
 # Many Countries Banned Cluster Munitions. The U.S. Is Sending Them to Ukraine Anyway.
 **New York Times Podcasts:** [July 11, 2023](https://www.youtube.com/watch?v=O1qUGT-stYs)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

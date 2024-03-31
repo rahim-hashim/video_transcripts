@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1441s
+Video Keywords: []
+Video Views: 2302
+Video Rating: None
+---
+
 # The Sunday Read: ‘The High-Risk Feat of Bringing ‘American Born Chinese’ to TV’
 **New York Times Podcasts:** [June 18, 2023](https://www.youtube.com/watch?v=WjJskBZFWu4)
 *  Hi, my name is Jamie Fisher and I work for and sometimes write for the New York Times

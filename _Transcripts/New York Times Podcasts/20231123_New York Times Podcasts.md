@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3283s
+Video Keywords: []
+Video Views: 5897
+Video Rating: None
+---
+
 # Thanksgiving With 'The Run-Up': Are Black Voters Leaving Democrats Behind?
 **New York Times Podcasts:** [November 23, 2023](https://www.youtube.com/watch?v=QPJaG8aaAI0)
 *  Hey, it's Michael. First, a very happy Thanksgiving to you from everyone here at The Daily. In

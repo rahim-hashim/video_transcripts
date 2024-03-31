@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2031s
+Video Keywords: []
+Video Views: 28888
+Video Rating: None
+---
+
 # The Oct. 7 Warning That Israel Ignored
 **New York Times Podcasts:** [December 04, 2023](https://www.youtube.com/watch?v=m-kWt1jhA7Y)
 *  From the New York Times, I'm Michael Bobarro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1477s
+Video Keywords: []
+Video Views: 1345
+Video Rating: None
+---
+
 # A Big Policy Change at the Border
 **New York Times Podcasts:** [May 09, 2023](https://www.youtube.com/watch?v=PGey2kPVHyg)
 *  From New York Times, I'm Michael Boboro. This is a daily.

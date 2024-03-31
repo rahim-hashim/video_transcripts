@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1756s
+Video Keywords: []
+Video Views: 4028
+Video Rating: None
+---
+
 # Suspicion, Cheating and Bans: A.I. Hits America’s Schools
 **New York Times Podcasts:** [June 28, 2023](https://www.youtube.com/watch?v=a65K1S6S-v0)
 *  From New York Times, I'm Michael Bobarro.

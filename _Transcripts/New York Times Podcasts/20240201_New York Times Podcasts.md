@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1602s
+Video Keywords: []
+Video Views: 6799
+Video Rating: None
+---
+
 # Secure the Border, Say Republicans. So Why Are They Killing a Plan to Do That?
 **New York Times Podcasts:** [February 01, 2024](https://www.youtube.com/watch?v=-Yk0RN-MCiE)
 *  From New York Times, I'm Michael Bobarro. This is The Daily.

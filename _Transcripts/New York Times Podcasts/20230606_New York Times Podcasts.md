@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2361s
+Video Keywords: []
+Video Views: 7639
+Video Rating: None
+---
+
 # The Fight Over Phonics
 **New York Times Podcasts:** [June 06, 2023](https://www.youtube.com/watch?v=aerQQFrBbPQ)
 *  From New York Times, I'm Michael Bobarro.

@@ -1,4 +1,13 @@
-# A Reporter’s Journey Into Gaza
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2336s
+Video Keywords: []
+Video Views: 11030
+Video Rating: None
+---
+
+# A Reporterâ€™s Journey Into Gaza
 **New York Times Podcasts:** [November 21, 2023](https://www.youtube.com/watch?v=j2yyHmWULMI)
 *  From The New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  Israel's war against Hamas has caused large-scale destruction in Gaza and a death toll that

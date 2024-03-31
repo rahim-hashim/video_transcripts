@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2376s
+Video Keywords: []
+Video Views: 2647
+Video Rating: None
+---
+
 # When the Culture Wars Came for NASA
 **New York Times Podcasts:** [May 19, 2023](https://www.youtube.com/watch?v=4LTUy6h_wB0)
 *  From New York Times, I'm Michael Bobarro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1448s
+Video Keywords: []
+Video Views: 9551
+Video Rating: None
+---
+
 # U.S. v. Google
 **New York Times Podcasts:** [September 11, 2023](https://www.youtube.com/watch?v=sloHGysP7P4)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

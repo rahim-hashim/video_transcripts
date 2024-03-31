@@ -1,4 +1,13 @@
-# The Sunday Read: ‘The Great Freight-Train Heists of the 21st Century’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2962s
+Video Keywords: []
+Video Views: 2834
+Video Rating: None
+---
+
+# The Sunday Read: â€˜The Great Freight-Train Heists of the 21st Centuryâ€™
 **New York Times Podcasts:** [February 04, 2024](https://www.youtube.com/watch?v=XH_35f4DEPo)
 *  Hi, my name is Malia Wallin, and I'm a contributing writer for the New York Times magazine, based
 *  in Oakland, California.
@@ -213,8 +222,8 @@
 *  They each, along with the Association of American Railroads, an industry trade group
 *  representing major freight rail, provided written statements emphasizing their commitment
 *  to combating theft.
-*  None of the parties involved—the rail companies, the truckers, the shippers, the warehouses,
-*  the insurance companies—are required to publicly disclose stolen freight either.
+*  None of the parties involvedâ€”the rail companies, the truckers, the shippers, the warehouses,
+*  the insurance companiesâ€”are required to publicly disclose stolen freight either.
 *  On the website of Operation Boiling Point, which the Department of Homeland Security
 *  recently created to go after organized theft groups, the agency states that cargo theft
 *  accounts for between $15 billion and $35 billion in annual losses.
@@ -266,13 +275,13 @@
 *  online and reroutes a truck's load.
 *  This kind of theft increased almost 600% between 2021 and 2022, according to CargoNet
 *  data.
-*  And on the rails, some cargo—coal, grain, cement, fertilizer, petrochemicals, lumber—is
+*  And on the rails, some cargoâ€”coal, grain, cement, fertilizer, petrochemicals, lumberâ€”is
 *  just too cumbersome to appeal to thieves.
 *  It's easier to run off with pallets of beer or the newest issue Nikes.
 *  But railroads have increasingly been vying to move more containerized freight.
 *  They want to make the most of the e-commerce boom.
 *  The fastest growing segment of rail traffic is what's called intermodal, which refers
-*  to shipping containers and trailers that move on more than one mode of transit—ships,
+*  to shipping containers and trailers that move on more than one mode of transitâ€”ships,
 *  trains, and trucks.
 *  These containers often carry merchandise bound for stores, or packages bound for consumers.
 *  Amazon, for example, now has its own branded containers, in part to meet its net-zero carbon
@@ -287,7 +296,7 @@
 *  Currently, the Federal Railroad Administration does not place limits on freight train length,
 *  despite safety concerns.
 *  The tracks heading away from the ports of Los Angeles and Long Beach are thick, with
-*  long trains carrying intermodal containers teeming with imports from Asia—electronics,
+*  long trains carrying intermodal containers teeming with imports from Asiaâ€”electronics,
 *  toys, clothing, shoes, food and beverages.
 *  Just the sort of offerings thieves find most enticing.
 *  See this?
@@ -456,8 +465,8 @@
 *  Insurance, shipping and retail companies hire private investigators, asset recovery teams,
 *  and loss prevention personnel, many of them former police officers.
 *  Though the rail companies have their own police forces and interstate law enforcement authority
-*  – Union Pacific police officers, for example, patrol 32,000 miles of track in 23 states
-*  – much of the work still falls to local law enforcement.
+*  â€“ Union Pacific police officers, for example, patrol 32,000 miles of track in 23 states
+*  â€“ much of the work still falls to local law enforcement.
 *  Last fall, I met Buddy Porch, a detective from the Fontana Police Department, at a monthly
 *  meeting of the Western States Cargo Theft Association.
 *  He is one of two detectives recently assigned to cargo theft in Fontana, a city of 200,000

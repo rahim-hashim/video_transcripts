@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1665s
+Video Keywords: []
+Video Views: 1423
+Video Rating: None
+---
+
 # Fear and Bravado: Inside Trump’s Reaction to the Indictment
 **New York Times Podcasts:** [April 03, 2023](https://www.youtube.com/watch?v=IxBY2QAV-fM)
 *  From New York Times, I'm Michael Bobarro. This is a daily.

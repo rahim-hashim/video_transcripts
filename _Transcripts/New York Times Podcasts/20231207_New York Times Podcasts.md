@@ -1,4 +1,13 @@
-# Nikki Haley’s Moment
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1782s
+Video Keywords: []
+Video Views: 21064
+Video Rating: None
+---
+
+# Nikki Haleyâ€™s Moment
 **New York Times Podcasts:** [December 07, 2023](https://www.youtube.com/watch?v=m8cmFxJOvVY)
 *  From New York Times, I'm Michael Bobauro.
 *  This is The Daily.

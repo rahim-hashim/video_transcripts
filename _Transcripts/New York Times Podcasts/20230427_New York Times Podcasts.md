@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1826s
+Video Keywords: []
+Video Views: 1997
+Video Rating: None
+---
+
 # Can India Become the Next Global Superpower?
 **New York Times Podcasts:** [April 27, 2023](https://www.youtube.com/watch?v=6Iz2z60QTs8)
 *  Hey, everybody. It's Sabrina. Before we get started today, I just wanted to let you know

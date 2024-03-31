@@ -1,4 +1,13 @@
-# The Sunday Read: ‘What Does the U.S. Space Force Actually Do?’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2089s
+Video Keywords: []
+Video Views: 6090
+Video Rating: None
+---
+
+# The Sunday Read: â€˜What Does the U.S. Space Force Actually Do?â€™
 **New York Times Podcasts:** [November 19, 2023](https://www.youtube.com/watch?v=_Ckdx1J03Hg)
 *  Hi, my name is John Gertner.
 *  I'm a contributor to the New York Times Magazine, and I write about science and technology.

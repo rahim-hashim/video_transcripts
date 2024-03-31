@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1302s
+Video Keywords: []
+Video Views: 5876
+Video Rating: None
+---
+
 # The Bad Vibes Around a Good Economy
 **New York Times Podcasts:** [November 30, 2023](https://www.youtube.com/watch?v=HAqRvnBbwNY)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

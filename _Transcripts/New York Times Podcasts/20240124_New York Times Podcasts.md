@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1550s
+Video Keywords: []
+Video Views: 18319
+Video Rating: None
+---
+
 # Why the G.O.P. Nomination Fight Is Now (All But) Over
 **New York Times Podcasts:** [January 24, 2024](https://www.youtube.com/watch?v=hxrAptgA8-E)
 *  From the New York Times, I'm Michael Bobarro.

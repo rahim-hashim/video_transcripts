@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2060s
+Video Keywords: []
+Video Views: 6933
+Video Rating: None
+---
+
 # Lessons From an Unending Conflict
 **New York Times Podcasts:** [November 01, 2023](https://www.youtube.com/watch?v=f-QUtn1Te_4)
 *  From the New York Times, I'm Sabrina Tavernisi.
@@ -321,7 +330,7 @@
 *  And what about the rest of the world?
 *  I mean, there was a time, as we were talking about, when all of the big powers were focused
 *  on this conflict, in particular the Americans.
-*  Yeah, this area was the focus of what became in the journalistic cliché, the great game.
+*  Yeah, this area was the focus of what became in the journalistic clichÃ©, the great game.
 *  But by the time this latest conflict of Nagorno-Karabakh, the Americans were a much
 *  diminished force, at least in terms of their ambitions.
 *  I mean, the days of the 1990s when Washington hoped that the former Soviet Union would become

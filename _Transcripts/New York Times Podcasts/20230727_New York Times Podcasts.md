@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2305s
+Video Keywords: []
+Video Views: 3483
+Video Rating: None
+---
+
 # Affirmative Action for the 1 Percent
 **New York Times Podcasts:** [July 27, 2023](https://www.youtube.com/watch?v=fhmmptS0WLQ)
 *  From New York Times, I'm Michael Barbaro. This is a daily.

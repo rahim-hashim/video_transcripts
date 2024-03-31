@@ -1,4 +1,13 @@
-# The Sunday Read: ‘Bariatric Surgery at 16’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3857s
+Video Keywords: []
+Video Views: 2499
+Video Rating: None
+---
+
+# The Sunday Read: â€˜Bariatric Surgery at 16â€™
 **New York Times Podcasts:** [December 17, 2023](https://www.youtube.com/watch?v=M9QkwfMbJHA)
 *  Hi, my name is Helen O-Yang. I'm a contributing writer for the New York Times Magazine and
 *  I'm also an associate professor in emergency medicine at Columbia University. This episode
@@ -44,7 +53,7 @@
 *  and original music was composed and performed by Aaron Esquizito.
 *  Last fall, Alexandra Duarte, who is now 16, went to see her endocrinologist
 *  at Texas Children's Hospital outside Houston. From age 10, she had been living with polycystic
-*  ovary syndrome, and more recently, pre-diabetes. After Alexandra described her recent quinceañera,
+*  ovary syndrome, and more recently, pre-diabetes. After Alexandra described her recent quinceaÃ±era,
 *  the doctor brought up an operation that might benefit her, one that might help her lose weight,
 *  and as a result, improve these obesity-related problems. Alexandra, who smiles shyly and speaks
 *  softly but confidently, says she was a little skeptical at first, because, like, it's a surgery.
@@ -320,222 +329,168 @@
 *  can exist that are unique to that age group. The morning after her operation, Alexandra,
 *  her hair and pigtails, shuffled slowly around her hospital room. She steadily took tiny sips of water.
 *  There's no going back now, she said.
-*  If our biology ingrained by evolution is no longer well engineered for our modern
-*  world, it will not be so generally convenient to deal with it with hip health matters and
-*  normal and controlled scratching Germany. Dear President, once gotten from knocked off
-*  to give one-to-one care, how do we keep ourselves safe? There are many rules there.
-*  engineered for our modern surroundings, can pharmaceuticals help redesign us?
-*  One medicine that Alexandra took, metformin, which reduces glucose,
-*  has a moderate benefit for teenagers like her,
-*  who also have pre-diabetes and polycystic ovary syndrome.
-*  But the latest glucagon-like peptide 1 receptor agonists,
-*  as a group commonly referred to as Ozempic, are the true game changers.
-*  A class of drugs that are making possible a degree of weight loss
-*  not seen before with medications.
-*  The pharmaceutical company Novo Nordisk manufactures GLP-1s for
-*  weight loss, one of which is semaglutide, and sold under the brand name Wegovi.
-*  Ozempic is the brand name for a lower dose version of semaglutide that is
-*  prescribed to treat diabetes by increasing insulin, but has become so
-*  popular in the last year for cosmetic weight loss that it has helped
-*  Novo Nordisk's market value surpass the gross domestic product of Denmark,
-*  where the company is headquartered.
-*  GLP-1s are the new frontier of anti-obesity medications, says Erin Kelly,
-*  co-director of the University of Minnesota's Center for Pediatric Obesity Medicine.
-*  In a 16-month study that appeared in December in the New England Journal of
-*  Medicine, co-authored by Kelly, adolescents lost 16% of their BMI on
-*  semaglutide compared with the placebo group, which gained 0.6%.
+*  There's no going back now, she said.
+*  If our biology, ingrained by evolution, is no longer well engineered for our modern surroundings,
+*  can pharmaceuticals help redesign us?
+*  One medicine that Alexandra took, metformin, which reduces glucose, has a moderate benefit
+*  for teenagers like her who also have prediabetes and polycystic ovary syndrome.
+*  But the latest glucagon-like peptide-1 receptor agonists, as a group commonly referred to
+*  as ozempic, are the true game changers.
+*  A class of drugs that are making possible a degree of weight loss not seen before with medications.
+*  The pharmaceutical company Novo Nordisk manufactures GLP-1s for weight loss, one of which is semaglutide,
+*  and sold under the brand name Wegovi.
+*  Ozempic is the brand name for a lower dose version of semaglutide that is prescribed
+*  to treat diabetes by increasing insulin, but has become so popular in the last year
+*  for cosmetic weight loss that it has helped Novo Nordisk's market value surpass the gross domestic product
+*  of Denmark, where the company is headquartered.
+*  GLP-1s are the new frontier of anti-obesity medications, says Erin Kelly, co-director
+*  of the University of Minnesota's Center for Pediatric Obesity Medicine.
+*  In a 16-month study that appeared in December in the New England Journal of Medicine, co-authored by Kelly,
+*  adolescents lost 16% of their BMI on semaglutide compared with the placebo group, which gained 0.6%.
 *  The treatment group also registered improved cholesterol and liver tests.
 *  Both cohorts underwent lifestyle therapy.
-*  Semaglutide, currently administered through weekly injections at home,
-*  suppresses appetite primarily by acting on GLP-1 receptors in the brain.
+*  Semaglutide, currently administered through weekly injections at home, suppresses appetite
+*  primarily by acting on GLP-1 receptors in the brain.
 *  It may also reduce cravings by modifying the brain's pleasure pathways.
-*  Outside the brain, it slows down the transit of food through the gut,
-*  so the feeling of fullness lasts longer.
-*  When you put those three things together, the appetite, the satiety, and
-*  the suppression of cravings, all of a sudden,
-*  you get a medication that has pretty profound effects on reducing weight.
-*  Kelly explains, I think we're entering a new phase of pediatric obesity medicine,
-*  where we're going to continue to see increasingly effective and durable
-*  treatments.
-*  For several years, Arianna Stovall, who just turned 14,
-*  has tried unsuccessfully to reduce her meal portions.
-*  Her attempts at more healthful eating were also thwarted by the temptation of
-*  junk food in the house that her younger siblings, who do not have obesity, love to eat.
+*  Outside the brain, it slows down the transit of food through the gut, so the feeling of fullness lasts longer.
+*  When you put those three things together, the appetite, the satiety, and the suppression of cravings,
+*  all of a sudden, you get a medication that has pretty profound effects on reducing weight.
+*  Kelly explains,
+*  I think we're entering a new phase of pediatric obesity medicine,
+*  where we're going to continue to see increasingly effective and durable treatments.
+*  For several years, Arianna Stovall, who just turned 14, has tried unsuccessfully to reduce her meal portions.
+*  Her attempts at more healthful eating were also thwarted by the temptation of junk food in the house
+*  and her younger siblings, who do not have obesity, love to eat.
 *  I would crave junk food 24-7, Arianna says.
 *  She snacked late at night on Doritos and strawberry shortcake in her bedroom.
-*  Her mother, who is a nurse,
-*  raised the AAP guidelines with their pediatrician, but
-*  she doesn't prescribe weight loss medications.
-*  When I spoke with Arianna in May, she had been on WeGoV for
-*  a month after the family found an obesity specialist.
-*  At first, I was really scared because I don't like shots, she told me,
-*  but it felt like a little instant pinch.
+*  Her mother, who is a nurse, raised the AAP guidelines with their pediatrician,
+*  but she doesn't prescribe weight loss medications.
+*  When I spoke with Arianna in May, she had been on WeGoV for a month after the family found an obesity specialist.
+*  At first, I was really scared because I don't like shots, she told me, but it felt like a little instant pinch.
 *  For the first two weeks, Arianna didn't notice a change.
-*  Then her mother observed that she was full after finishing half her plate,
-*  instead of asking for her usual seconds.
+*  Then her mother observed that she was full after finishing half her plate, instead of asking for her usual seconds.
 *  Since the surgery, fruits and vegetables are tasty to me now, Arianna says.
 *  I think the medicine did something to my taste buds.
-*  The major studies of children and
-*  these drugs have enrolled many fewer adolescent subjects than adults.
-*  But no new safety concerns have emerged.
-*  In addition to semaglutides' principal side effects of nausea, vomiting,
-*  and diarrhea, reported by two-thirds of study participants,
-*  more serious ones include gallstones and pancreatitis.
-*  WeGoV comes with a caution about possible thyroid cancer, and
-*  the FDA mandates that it include a warning about the possibility of suicidal
-*  ideation because it acts on the brain.
+*  The major studies of children and these drugs have enrolled many fewer adolescent subjects than adults,
+*  but no new safety concerns have emerged.
+*  In addition to semaglutides' principal side effects of nausea, vomiting, and diarrhea,
+*  reported by two-thirds of study participants, more serious ones include gallstones and pancreatitis.
+*  WeGoV comes with a caution about possible thyroid cancer,
+*  and the FDA mandates that it include a warning about the possibility of suicidal ideation because it acts on the brain.
 *  Further studies are being conducted in Europe.
 *  If patients discontinue the medicines, the weight returns.
-*  Compared with Fenfen, a popular weight loss drug in the 1990s that was
-*  eventually linked to heart valve problems, doctors are less concerned about
-*  semaglutide because older drugs in its class
-*  have been used to treat diabetes for nearly two decades.
+*  Compared with fenfen, a popular weight loss drug in the 1990s that was eventually linked to heart valve problems,
+*  doctors are less concerned about semaglutide because older drugs in its class have been used to treat diabetes for nearly two decades.
 *  But for any new medicine, the long-term risks remain uncertain.
-*  For now, most adolescents who qualify for
-*  semaglutide probably won't be able to get the drug at all.
+*  For now, most adolescents who qualify for semaglutide probably won't be able to get the drug at all.
 *  I always say it's an insurance game.
-*  Trea Haggerty, a family medicine obesity doctor at West Virginia
-*  University Medicine told me, what hoops can you jump through?
+*  Trea Haggerty, a family medicine obesity doctor at West Virginia University Medicine, told me,
+*  What hoops can you jump through?
 *  If families pay out of pocket, monthly costs could reach $1,400.
-*  We're creating haves and have nots, Haggerty says.
+*  We're creating haves and have-nots, Haggerty says.
 *  Even with insurance, parents may still encounter drug shortages.
-*  Novo Nordisk is already restricting the US supply of starter doses into 2024,
-*  effectively limiting new patients.
-*  Arianna was forced to stop Wegovi when the drug became unavailable to her
-*  this summer.
-*  She switched to an older, less effective GLP-1, but
-*  then that went on backorder too.
+*  Novo Nordisk is already restricting the U.S. supply of starter doses into 2024, effectively limiting new patients.
+*  Ariana was forced to stop Wegovi when the drug became unavailable to her this summer.
+*  She switched to an older, less effective GLP-1, but then that went on backorder, too.
 *  We are so devastated, her mother texted me recently.
 *  It seems like a very big mountain we are climbing.
-*  For every child given a diagnosis of being overweight or having obesity,
-*  even those who choose medication or surgery, the AAP encourages
-*  immediately starting intensive health behavior and lifestyle treatment,
-*  like the one Alexandra undertook.
+*  For every child given a diagnosis of being overweight or having obesity, even those who choose medication or surgery,
+*  the AAP encourages immediately starting intensive health behavior and lifestyle treatment, like the one Alexandra undertook.
 *  For younger children, this may be the only therapy available to them.
-*  Amanda Stianno, a developmental psychologist who helped write the AAP
-*  section on lifestyle programs, describes them as trying to re-engineer
-*  the child's environment and helping with positive parenting strategies.
-*  This spring, Michael and Christy Piantosky took their five-year-old
-*  daughter, Emmy, to one such program in Madison, Mississippi,
+*  Amanda Stianno, a developmental psychologist who helped write the AAP section on lifestyle programs,
+*  describes them as trying to re-engineer the child's environment and helping with positive parenting strategies.
+*  This spring, Michael and Christy Piantosky took their five-year-old daughter, Emmy, to one such program in Madison, Mississippi,
 *  a state with one of the highest childhood obesity rates in the country.
 *  They were referred by Emmy's pediatrician because she was gaining weight rapidly.
 *  Her BMI was pulling upward away from her growth curve on the CDC's BMI chart.
-*  At their first appointment, Emmy's parents told the doctor,
-*  Whitney Herring, that they were worried about Emmy's appetite.
-*  She eats, then she'll immediately be like, can I have a snack?
-*  Or when are we eating?
-*  Michael said, if we didn't stop her, she would keep asking for more and more,
-*  Christy added.
+*  At their first appointment, Emmy's parents told the doctor, Whitney Herring, that they were worried about Emmy's appetite.
+*  She eats, then she'll immediately be like, can I have a snack? Or when are we eating? Michael said.
+*  If we didn't stop her, she would keep asking for more and more, Christy added.
 *  She would get mad at us for having more than she did.
-*  We wanted Emmy to see somebody before kindergarten,
-*  Michael says.
-*  We know how kids are these days.
-*  We just don't want her to be bullied.
+*  We wanted Emmy to see somebody before kindergarten, Michael says.
+*  We know how kids are these days. We just don't want her to be bullied.
 *  Herring told them not to expect a fast fix.
-*  Even with the body mass index coming down, that is often not a quick process,
-*  she said.
-*  If kids see any reduction in BMI from lifestyle treatment,
-*  the average is a 1 to 3% change in percentile,
+*  Even with the body mass index coming down, that is often not a quick process, she said.
+*  If kids see any reduction in BMI from lifestyle treatment, the average is a 1-3% change in percentile,
 *  though other health indicators may improve.
 *  Herring asked about Emmy's meals.
-*  We're working on it, Christy said.
-*  The only vegetable that she will eat is carrots.
-*  What about at school, Herring asked.
+*  We're working on it, Christy said. The only vegetable that she will eat is carrots.
+*  What about at school? Herring asked.
 *  Christy described a lunch with green beans and peas.
 *  The doctor turned to Emmy, who is blonde with ruddy cheeks and dimples.
-*  Do you like those at school?
-*  No, I never eat those.
-*  Do you ever have broccoli at school?
-*  No.
-*  We are very picky too, Christy said.
-*  She avoided most vegetables herself.
-*  Some families have trouble affording vegetables or
-*  lack the time to prepare them.
-*  At school, children like Emmy may not touch their lunch or
-*  they might snack from vending machines.
-*  But improving school meals involves more than just substituting asparagus for
-*  fries.
-*  Judith Sibart, a dietitian who worked with schools nationally,
-*  recalls being told, we can serve all these healthy foods, but
-*  if the kids don't eat it, what have we gained?
-*  Next, Rebecca Bagwell, the program's dietitian,
-*  wheeled in a cart stacked with silicone foods.
-*  She pulled out a seven inch plate sectioned into different proportions for
-*  various foods groups, following my plate suggestions.
-*  Emmy chose what she liked, chicken, mac and cheese,
-*  as Bagwell piled them on the plate in generous portions.
-*  So do you feel like you would want more or less than this?
-*  Bagwell asked.
-*  Emmy looked at the plate.
-*  More?
+*  Do you like those at school? No, I never eat those.
+*  Do you ever have broccoli at school? No.
+*  We are very picky, too, Christy said. She avoided most vegetables herself.
+*  Some families have trouble affording vegetables or lack the time to prepare them.
+*  At school, children like Emmy may not touch their lunch or they might snack from vending machines.
+*  But improving school meals involves more than just substituting asparagus for fries.
+*  Judith Sibart, a dietitian who worked with schools nationally, recalls being told,
+*  Next, Rebecca Bagwell, the program's dietitian, wheeled in a cart stacked with silicone foods.
+*  She pulled out a seven-inch plate sectioned into different proportions for various foods groups,
+*  following my plate suggestions.
+*  Emmy chose what she liked, chicken, mac and cheese.
+*  As Bagwell piled them on the plate in generous portions.
+*  So do you feel like you would want more or less than this? Bagwell asked.
+*  Emmy looked at the plate. More?
 *  Some of Herring's patients have trouble getting exercise.
-*  One boy, who told me the farthest he has walked is down his block,
-*  signed up for track team.
+*  One boy, who told me the farthest he has walked is down his block, signed up for track team.
 *  But the school never started practice.
-*  His experience is not uncommon among poorer youth,
-*  whose sports participation rates are lower.
-*  And while two-thirds of ninth graders attended physical education weekly in
-*  1991, only one-third did so in 2019.
-*  Though exercise alone may not result in profound weight loss,
-*  it has extraordinary health benefits and helps our brains regulate appetite.
-*  Herring has expanded her program to cover three different parts of the state.
-*  But she still expects as much as 30% of her appointments to be no shows,
+*  His experience is not uncommon among poorer youth, whose sports participation rates are lower.
+*  And while two-thirds of ninth graders attended physical education weekly in 1991,
+*  only one-third did so in 2019.
+*  Though exercise alone may not result in profound weight loss, it has extraordinary health benefits
+*  and helps our brains regulate appetite.
+*  Herring has expanded her program to cover three different parts of the state,
+*  but she still expects as much as 30 percent of her appointments to be no-shows,
 *  a problem for many lifestyle treatment programs.
-*  From parents missing work to children missing school,
-*  families have trouble going to them, if they can find one at all.
-*  Herring reckons that the AAP's recommendation,
-*  that patients attend at least 26 hours in person over 3 to 12 months,
-*  is not feasible for most.
-*  I have yet to find even the most motivated person who's willing to do
-*  two visits a month.
-*  Many primary care doctors do not have a program like Herring's to refer
-*  their patients to.
+*  From parents missing work to children missing school, families have trouble going to them,
+*  if they can find one at all.
+*  Herring reckons that the AAP's recommendation that patients attend at least 26 hours in person
+*  over three to 12 months is not feasible for most.
+*  I have yet to find even the most motivated person who's willing to do two visits a month.
+*  Many primary care doctors do not have a program like Herring's to refer their patients to.
 *  It puts more pressure on me to make sure that I'm not only identifying these kids,
 *  says Sarah Hart, a pediatrician in Kentucky.
-*  But in the short time that I do have with them, how can I really home in and
-*  find those areas that we can make a real sustainable change?
-*  It can seem like an impossible ambition to achieve in 15-minute
-*  primary care appointments.
-*  How the medical community approaches patients' weight, and
-*  whether it should even be diagnosing or treating obesity,
-*  has led to all sorts of criticism, which has been growing ever since
-*  the American Medical Association declared in 2013 that obesity is a disease.
+*  But in the short time that I do have with them, how can I really home in
+*  and find those areas that we can make a real sustainable change?
+*  It can seem like an impossible ambition to achieve in 15-minute primary care appointments.
+*  How the medical community approaches patients' weight,
+*  and whether it should even be diagnosing or treating obesity,
+*  has led to all sorts of criticism, which has been growing ever since the American Medical Association
+*  declared in 2013 that obesity is a disease.
 *  While some people felt relief in knowing that they had a medical disorder,
 *  many others felt injury in being considered diseased.
-*  As weight became a preoccupation in doctor's offices, and
-*  the size of people's bodies became subject to medical treatment,
-*  even if they seemed otherwise healthy, patients felt increasingly more
-*  stigmatized and concerned that the care they received was biased.
-*  Remedies that were meant to help with obesity,
-*  instead seemed to be hurting the people with the condition.
+*  As weight became a preoccupation in doctors' offices,
+*  and the size of people's bodies became subject to medical treatment,
+*  even if they seemed otherwise healthy,
+*  patients felt increasingly more stigmatized and concerned that the care they received was biased.
+*  Remedies that were meant to help with obesity instead seemed to be hurting the people with the condition.
 *  One of the most vehement responses to the AAP guidelines
 *  came from the Collaborative of Eating Disorders organizations.
 *  This idea of weight loss for higher weight children,
 *  I think all of us were just completely taken aback, says Joanna Candel,
 *  chief executive of the National Alliance for Eating Disorders,
 *  who helped spearhead an open letter from CEDAW that responded to the guidelines.
-*  Calling them harmful and irresponsible, the letter's foremost concern
-*  was that screening and treating children for obesity can lead to eating disorders,
-*  for which youth at higher weights are already at increased risk.
+*  Calling them harmful and irresponsible,
+*  the letter's foremost concern was that screening and treating children for obesity
+*  can lead to eating disorders, for which youth at higher weights are already at increased risk.
 *  Tracy Richmond, who directs the Boston Children's Eating Disorder Program,
 *  explains that weight loss in children can trigger eating disorders
-*  by making them hyper fixated on weight and body, which can then spiral out of control.
-*  As children continue to restrict their intake, they can become undernourished
-*  relative to where their body would like to be, a type of anorexia,
-*  even if their BMI may not have fallen into the low range.
+*  by making them hyper-fixated on weight and body, which can then spiral out of control.
+*  As children continue to restrict their intake,
+*  they can become undernourished relative to where their body would like to be,
+*  a type of anorexia, even if their BMI may not have fallen into the low range.
 *  Other eating disorders, bulimia, binge eating, also may emerge.
-*  CEDAW's open letter registered its unequivocal opposition to treating
-*  children with obesity with drugs or surgery on the grounds that the long-term effects
-*  of these procedures on pediatric patients haven't been well studied,
-*  and could also worsen disordered eating.
-*  But criticism was also directed at pushing children to make lifestyle changes,
-*  what the journalist Virginia Soul Smith calls textbook diet culture marketing
+*  CEDAW's open letter registered its unequivocal opposition to treating children with obesity
+*  with drugs or surgery on the grounds that the long-term effects of these procedures
+*  on pediatric patients haven't been well studied and could also worsen disordered eating.
+*  But criticism was also directed at pushing children to make lifestyle changes.
+*  What the journalist Virginia Soul Smith calls textbook diet culture marketing
 *  in her 2023 book, Fat Talk, because these can also eventually lead to eating disorders.
 *  Soul Smith has written for this magazine.
-*  While research has shown that intensive treatments focusing on health and
-*  lifestyle behaviors decrease eating disorders, some experts have pointed out
-*  that those studies don't track children long enough to know if they end up
-*  developing disorders.
+*  While research has shown that intensive treatments focusing on health and lifestyle behaviors
+*  decrease eating disorders, some experts have pointed out that those studies don't track children
+*  long enough to know if they end up developing disorders.
 *  Most of this research followed the children for only a year or less.
 *  Such concerns raised by CEDAW are particularly worrisome,
 *  given that the rate of eating disorders doubled in teenage girls during the pandemic.
@@ -543,141 +498,126 @@
 *  Two-thirds of people with obesity report experiencing bias from doctors.
 *  In extreme cases, this can result in devastating consequences,
 *  including missed or delayed diagnoses, even death.
-*  The healthcare system may blame parents for their children's weight and
-*  accuse them of overfeeding or not providing enough healthful food.
+*  The health care system may blame parents for their children's weight
+*  and accuse them of overfeeding or not providing enough healthful food.
 *  A few states have even moved children with severe obesity into foster care.
 *  The pushback against conceiving weight as a medical problem
 *  has brought intense scrutiny to the act of measuring obesity.
-*  The backlash against BMI, calculated as weight in kilograms
-*  divided by height in meters squared, has been especially forceful.
-*  BMI doesn't take into account whether the weight comes from muscle or
-*  fat or where in the body it's distributed.
-*  In June, the AMA began to move away from the measurement when it acknowledged
-*  that BMI cutoffs are based primarily on data collected from previous
-*  generations of non-Hispanic white populations and
-*  does not consider a person's gender or ethnicity.
-*  For now, the AAP still endorses BMI, in part because alternative
-*  measurements can't readily be performed in most pediatricians' offices.
-*  Diagnosing people whose BMIs exceed a certain level with obesity,
-*  a disease, can increase weight stigma outside medical settings as well.
-*  Our entire concept of fat is bad is so rooted in anti-blackness,
-*  white supremacy, Soul Smith writes.
-*  When we strive for thinness,
+*  The backlash against BMI, calculated as weight in kilograms divided by height in meters squared,
+*  has been especially forceful.
+*  BMI doesn't take into account whether the weight comes from muscle or fat
+*  or where in the body it's distributed.
+*  In June, the AMA began to move away from the measurement
+*  when it acknowledged that BMI cutoffs are based primarily on data
+*  collected from previous generations of non-Hispanic white populations
+*  and does not consider a person's gender or ethnicity.
+*  For now, the AAP still endorses BMI,
+*  in part because alternative measurements can't readily be performed in most pediatricians' offices.
+*  Diagnosing people whose BMIs exceed a certain level with obesity, a disease,
+*  can increase weight stigma outside medical settings as well.
+*  Our entire concept of fat is bad is so rooted in anti-blackness, white supremacy,
+*  Soul Smith writes, when we strive for thinness,
 *  we're reinforcing every other form of stigma at the same time.
-*  People in larger bodies may be perceived as lazy, stupid, or sloppy,
+*  People in larger bodies may be perceived as lazy, stupid, or sloppy
 *  and are constantly vulnerable to insults, slights, and jokes.
 *  Stigma can also be surprisingly insidious.
-*  If parents say fruits and veggies are awesome because it helps us lose weight,
-*  the weight stigma starts to creep in, says a Janet Tomiyama,
-*  a psychology professor at UCLA.
-*  Experiencing stigma or discrimination because of body size can worsen or
-*  even cause health problems.
-*  When it comes to individuals, it's undeniable that people with obesity can
-*  be metabolically healthy, just as normal weight individuals can be unhealthy.
+*  If parents say, fruits and veggies are awesome because it helps us lose weight,
+*  the weight stigma starts to creep in, says a Janet Tomiyama, a psychology professor at UCLA.
+*  Experiencing stigma or discrimination because of body size
+*  can worsen or even cause health problems.
+*  When it comes to individuals, it's undeniable that people with obesity can be metabolically healthy,
+*  just as normal weight individuals can be unhealthy.
 *  Some studies have even shown that normal weight individuals
 *  may not live as long as those with higher BMIs.
-*  Findings like these, along with a greater awareness of the drawbacks that
-*  can accompany the medicalizing of obesity, have fueled popular body positivity
-*  movements like Health at Every Size, which seek to disentangle weight from health.
-*  But despite the risks that can accompany obesity treatments, and
-*  despite the fact that the data doesn't always present a clear picture,
+*  Findings like these, along with a greater awareness of the drawbacks
+*  that can accompany the medicalizing of obesity,
+*  have fueled popular body positivity movements like Health at Every Size,
+*  which seek to disentangle weight from health.
+*  But despite the risks that can accompany obesity treatments,
+*  and despite the fact that the data doesn't always present a clear picture,
 *  the prevailing attitude within the medical establishment is that, on balance,
 *  the potential negative consequences of obesity are too evident to ignore.
-*  When Andrew Stokes, a demographer and
-*  public health professor at Boston University, used people's weight histories,
-*  and adequately accounted for important factors like smoking and illnesses,
+*  When Andrew Stokes, a demographer and public health professor at Boston University,
+*  used people's weight histories and adequately accounted for important factors like smoking and illnesses,
 *  he found that obesity was associated with significantly shorter lifespans.
 *  Studies can't prophesy what will happen to any one person, he says,
 *  but this is about probabilities and relative risks.
 *  He adds that obesity is a cumulative process.
-*  Children with obesity may not be dying of heart attacks, but the Bogaluca Heart Study,
-*  one of the longest running epidemiological studies, it recruited children in the 1970s
-*  and followed them through middle age, has nonetheless found that childhood obesity
-*  is already associated with cardiovascular and
-*  kidney changes that then developed into diseases in adulthood.
+*  Children with obesity may not be dying of heart attacks,
+*  but the Bogaluca Heart Study, one of the longest-running epidemiological studies,
+*  it recruited children in the 1970s and followed them through middle age,
+*  has nonetheless found that childhood obesity is already associated with cardiovascular
+*  and kidney changes that then developed into diseases in adulthood.
 *  These findings have been confirmed by autopsies of youth who died in accidents.
-*  During the pandemic, obesity was the most common medical condition
-*  associated with deaths of people under 21.
-*  Lila Monahan, a primary care pediatrician who uses BMI as a screening tool to help
-*  prevent diseases, asks why you would wait until someone started developing abnormalities.
-*  She says that's like saying someone has high blood pressure, but
-*  they're not having heart attacks, so why are we even measuring their blood pressure?
-*  Though the AAP guidelines include advice on how to minimize weight bias and
-*  avoid stigmatizing patients, and even though they recommend screening children
-*  with obesity for eating disorders, and were even vetted by eating disorder experts,
-*  Campbell told me, such safeguards may not be enough.
-*  The potential harm that the CEDAW letter warns about became a reality
-*  a few years ago for a fifth grader whose middle name is Esther.
+*  During the pandemic, obesity was the most common medical condition associated with deaths of people under 21.
+*  Lila Monahan, a primary care pediatrician who uses BMI as a screening tool to help prevent diseases,
+*  asks why you would wait until someone started developing abnormalities.
+*  She says that's like saying someone has high blood pressure,
+*  but they're not having heart attacks, so why are we even measuring their blood pressure?
+*  Though the AAP guidelines include advice on how to minimize weight bias and avoid stigmatizing patients,
+*  and even though they recommend screening children with obesity for eating disorders
+*  and were even vetted by eating disorder experts, Hample told me,
+*  such safeguards may not be enough.
+*  The potential harm that the CEDAW letter warns about became a reality a few years ago
+*  for a fifth grader whose middle name is Esther.
 *  Her school in New Jersey sent home a letter to be signed,
 *  a BMI report card that said her BMI was greater than the 95th percentile for her age.
 *  The signature that was required was not her parents, but her doctors.
-*  The pediatrician told her mother, Lynn, also a middle name,
-*  that the weight gain was not a big deal, and
-*  mentioned an academic medical center's program that you guys may want to look into.
-*  The first session taught Esther to assign traffic lights to foods,
-*  vegetables green, candy red.
-*  They weren't like, you're too heavy, Lynn says.
-*  It was more like, this is a way to be healthier and change your lifestyle,
+*  The pediatrician told her mother, Lynn, also a middle name, that the weight gain was not a big deal
+*  and mentioned an academic medical center's program that you guys may want to look into.
+*  The first session taught Esther to assign traffic lights to foods, vegetables green, candy red.
+*  They weren't like, oh, you're too heavy, Lynn says.
+*  It was more like, this is a way to be healthier and change your lifestyle
 *  so you can keep this as part of your routine for the rest of your life.
-*  Esther seemed uncomfortable though, and cried in the car afterward.
+*  Esther seemed uncomfortable, though, and cried in the car afterward.
 *  The whole family can do better to eat healthy, Lynn reassured her.
-*  Esther refused to go back, but that summer,
-*  she told her parents she was trying to be healthier.
+*  Esther refused to go back.
+*  But that summer, she told her parents she was trying to be healthier.
 *  She started eating less and walking to school.
 *  Then her weight began to drop.
 *  The following spring, Esther was diagnosed with anorexia.
-*  Overall, she needed four hospitalizations and
-*  five months in a residential treatment facility across the country during
-*  the pandemic.
-*  There, she kicked so hard to resist a feeding tube that she nearly broke
-*  Lynn's ribs.
+*  Overall, she needed four hospitalizations and five months in a residential treatment facility
+*  across the country during the pandemic.
+*  There, she kicked so hard to resist a feeding tube that she nearly broke Lynn's ribs.
 *  Later, Esther's heart rate plunged dangerously.
 *  We almost lost her, Lynn says, her voice cracking.
 *  Esther is better now, but her family remains unsettled.
-*  The pandemic's social isolation was central to her daughter's eating disorder,
-*  Lynn says, but the lifestyle program was probably the catalyst for it.
-*  I'm feeling more confident in myself,
-*  like I'm no longer wanting to hide away in a jacket or hoodie,
+*  The pandemic's social isolation was central to her daughter's eating disorder, Lynn says.
+*  But the lifestyle program was probably the catalyst for it.
+*  I'm feeling more confident in myself, like I'm no longer wanting to hide away in a jacket or hoodie,
 *  Alexandra told me in October.
 *  Four months after her surgery, she has lost more than 50 pounds and
-*  is thrilled to feel good wearing a dress for the first time in a long time for
-*  homecoming.
+*  is thrilled to feel good wearing a dress for the first time in a long time for homecoming.
 *  I'm so proud of her, Alexandra's mother says.
 *  She's doing so great.
-*  Alexandra's improved health means she has been able to stop taking her
-*  diabetes pills.
+*  Alexandra's improved health means she has been able to stop taking her diabetes pills.
 *  She will, like all patients who receive bariatric surgery,
-*  have to take vitamins for the rest of her life, in part because her altered
-*  gastrointestinal tract does not absorb nutrients as well.
+*  have to take vitamins for the rest of her life,
+*  in part because her altered gastrointestinal tract does not absorb nutrients as well.
 *  A decision she made at 16 will continue to affect her entire life.
-*  For someone like Fatima Cody Stanford, a specialist at Harvard who cares for
-*  both children and adults with obesity, that's a positive thing.
-*  Redirecting Alexandra's health in this way is how clinicians
-*  should approach childhood obesity.
-*  Stanford, who has been using many of the therapies in the AAP guidelines for
-*  over a decade, sometimes sees her pediatric patients or
-*  their families defer more aggressive treatment,
-*  then grow up into adults with obesity, which may pose even greater dangers
-*  to their health and be harder to treat, a progression Stanford would like to
-*  interrupt when people are still young.
-*  Many people still have this really strong intrinsic belief that if it's not diet and
-*  exercise, then you must have just failed as a human being,
-*  particularly in the pediatric population, she says.
-*  As increasingly more effective remedies become available to children like
-*  Alexandra, more of them might be set up to lead longer, healthier lives.
-*  The reason the AAP put out such comprehensive and urgent guidelines.
+*  For someone like Fatima Cody Stanford,
+*  a specialist at Harvard who cares for both children and adults with obesity,
+*  that's a positive thing.
+*  Redirecting Alexandra's health in this way is how clinicians should approach childhood obesity.
+*  Stanford, who has been using many of the therapies in the AAP guidelines for over a decade,
+*  sometimes sees her pediatric patients, or their families,
+*  defer more aggressive treatment, then grow up into adults with obesity,
+*  which may pose even greater dangers to their health and be harder to treat,
+*  a progression Stanford would like to interrupt when people are still young.
+*  Many people still have this really strong intrinsic belief that if it's not diet and exercise,
+*  then you must have just failed as a human being, particularly in the pediatric population, she says.
+*  As increasingly more effective remedies become available to children like Alexandra,
+*  more of them might be set up to lead longer, healthier lives,
+*  the reason the AAP put out such comprehensive and urgent guidelines.
 *  Yet they are also the same children that others fear will be deeply harmed the most
-*  by these very recommendations and in ways that they may not grasp at such a young age.
-*  Alexandra still exercises most days, but
-*  it's tough to balance a routine with a demanding junior year.
-*  Two AP classes, SAT prep, competing for a summer language program in South Korea.
+*  by these very recommendations, and in ways that they may not grasp at such a young age.
+*  Alexandra still exercises most days, but it's tough to balance a routine with a demanding junior year,
+*  two AP classes, SAT prep, competing for a summer language program in South Korea.
 *  After her operation, dining out with her family has become less enjoyable.
-*  She feels full so easily now.
-*  Even when meals taste delicious and she wants to eat more,
-*  she can't because she is no longer hungry.
-*  Sugar also makes her feel nauseated, so
-*  she avoids sweets even though she really wants them sometimes.
-*  But Alexandra says she was so
-*  disheartened before the surgery, putting so much effort into losing weight and
-*  feeling like she was accomplishing nothing.
+*  She feels full so easily now, even when meals taste delicious and she wants to eat more,
+*  she can't, because she is no longer hungry.
+*  Sugar also makes her feel nauseated, so she avoids sweets, even though she really wants them sometimes.
+*  But, Alexandra says, she was so disheartened before the surgery,
+*  putting so much effort into losing weight and feeling like she was accomplishing nothing.
 *  Now, she says, it's refreshing to see the hard work I'm putting in is finally showing results.
+*  you

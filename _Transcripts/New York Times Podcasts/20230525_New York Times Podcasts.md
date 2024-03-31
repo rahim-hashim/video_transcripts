@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1535s
+Video Keywords: []
+Video Views: 2306
+Video Rating: None
+---
+
 # Millions of Dollars, Thousands of Robocalls and 1 Legal Loophole
 **New York Times Podcasts:** [May 25, 2023](https://www.youtube.com/watch?v=gVINTc60D9s)
 *  Before we get started today, I wanted to share two pieces of exciting news.

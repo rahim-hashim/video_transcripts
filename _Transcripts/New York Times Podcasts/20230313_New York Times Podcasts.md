@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1625s
+Video Keywords: ['the daily', 'new york times', 'esg', 'biden', 'republicans']
+Video Views: 162
+Video Rating: None
+---
+
 # What Is E.S.G., and Why Are Republicans So Mad About It?
 **New York Times Podcasts:** [March 13, 2023](https://www.youtube.com/watch?v=bazIAR3EsJ4)
 *  From the New York Times, I'm Michael Bobarro. This is a daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1748s
+Video Keywords: []
+Video Views: 1420
+Video Rating: None
+---
+
 # Fox News Fires Its Biggest Star
 **New York Times Podcasts:** [April 25, 2023](https://www.youtube.com/watch?v=7ui9I-7pfjI)
 *  From New York Times, I'm Michael Bobarro.

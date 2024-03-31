@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1551s
+Video Keywords: []
+Video Views: 4846
+Video Rating: None
+---
+
 # Did Hollywood Writers Get Their Happy Ending?
 **New York Times Podcasts:** [September 27, 2023](https://www.youtube.com/watch?v=LIpy8IElU38)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

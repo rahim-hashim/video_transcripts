@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1449s
+Video Keywords: []
+Video Views: 5316
+Video Rating: None
+---
+
 # The Complicated Future of Student Loans
 **New York Times Podcasts:** [July 07, 2023](https://www.youtube.com/watch?v=Gx7efliPjHY)
 *  From the New York Times, I'm Natalie Ketroef, in for Michael Barbaro.

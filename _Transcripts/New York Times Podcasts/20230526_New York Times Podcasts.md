@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1978s
+Video Keywords: []
+Video Views: 3149
+Video Rating: None
+---
+
 # The Ticking Clock of a U.S. Debt Default
 **New York Times Podcasts:** [May 26, 2023](https://www.youtube.com/watch?v=YQKlUAX_Eo8)
 *  Hey, it's Michael.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2121s
+Video Keywords: []
+Video Views: 4054
+Video Rating: None
+---
+
 # Hamas Took Her Son
 **New York Times Podcasts:** [October 20, 2023](https://www.youtube.com/watch?v=repn_BAvRVM)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

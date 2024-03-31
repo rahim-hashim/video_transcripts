@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1546s
+Video Keywords: []
+Video Views: 2360
+Video Rating: None
+---
+
 # Nuclear Secrets and Taped Conversations: A Look at the Evidence Against Trump.
 **New York Times Podcasts:** [June 12, 2023](https://www.youtube.com/watch?v=ymG8CecjciQ)
 *  From New York Times, I'm Michael Bobauro.

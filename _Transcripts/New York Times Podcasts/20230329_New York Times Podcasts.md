@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1384s
+Video Keywords: []
+Video Views: 807
+Video Rating: None
+---
+
 # Israel’s Far Right Government Backs Down
 **New York Times Podcasts:** [March 29, 2023](https://www.youtube.com/watch?v=-UL3T4Cgr4M)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

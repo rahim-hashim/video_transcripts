@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1410s
+Video Keywords: []
+Video Views: 4807
+Video Rating: None
+---
+
 # A New Threat: Surprise Hurricanes
 **New York Times Podcasts:** [October 27, 2023](https://www.youtube.com/watch?v=Qyszr5qHUzU)
 *  From New York Times, I'm Michael Bobauro. This is a daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1968s
+Video Keywords: []
+Video Views: 10858
+Video Rating: None
+---
+
 # A Major Overhaul of Prescription Drug Prices
 **New York Times Podcasts:** [August 31, 2023](https://www.youtube.com/watch?v=DnNyt9QExy4)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

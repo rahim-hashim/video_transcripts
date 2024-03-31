@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1702s
+Video Keywords: []
+Video Views: 2644
+Video Rating: None
+---
+
 # Passenger Planes Nearly Collide Far More Than You Know
 **New York Times Podcasts:** [September 05, 2023](https://www.youtube.com/watch?v=25CIrpk6YdM)
 *  From New York Times, I'm Michael Barrow. This is The Daily.

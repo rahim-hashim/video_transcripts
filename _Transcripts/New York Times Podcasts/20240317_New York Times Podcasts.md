@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1764s
+Video Keywords: []
+Video Views: 3684
+Video Rating: None
+---
+
 # The Sunday Read: ‘Sure, It Won an Oscar. But Is It Criterion?’
 **New York Times Podcasts:** [March 17, 2024](https://www.youtube.com/watch?v=UP5EIJsuYj8)
 *  My name is Joshua Hunt and I'm a contributor to the New York Times magazine.
@@ -32,7 +41,7 @@
 *  This closet, which has become a sacred space for movie buffs, was once a disused bathroom
 *  at the headquarters of the Criterion collection.
 *  A 40-year-old company dedicated to gathering the greatest films from around the world and
-*  making high quality additions available to the public on DVD and Blu-ray and, more recently,
+*  making high quality editions available to the public on DVD and Blu-ray and, more recently,
 *  through its streaming service, the Criterion Channel.
 *  Today Criterion uses the closet as its stockroom, housing films by some 600 directors from more
 *  than 50 countries.
@@ -86,7 +95,7 @@
 *  The operator takes an incoming call, and then it's like, Michael Nash, David Bowie on line
 *  four.
 *  Bowie was calling about Nicholas Rogue's 1976 film, The Man Who Fell to Earth, in which
-*  alien visitor who masquerades as human and succumbs to the human condition.
+*  Bowie starred as an alien visitor who masquerades as human and succumbs to the human condition.
 *  Nash remembered seeing the movie years earlier and finding it amazing but difficult to understand.
 *  I was totally confused, he said.
 *  The reason audiences couldn't make sense of it, Bowie explained, was that the theatrical
@@ -97,16 +106,16 @@
 *  cut of the film on Laserdisc.
 *  Criterion was founded nearly a decade earlier by the CD-ROM pioneer Bob Stein, along with
 *  his wife, Aline Stein, and a former Warner Brothers executive named Roger Smith, to explore
-*  the technological possibilities of the Laserdisc.
-*  Then a novel format that could accommodate multiple audio tracks and allowed viewers
-*  frame of a film with no image distortion.
+*  the technological possibilities of the Laserdisc, then a novel format that could accommodate
+*  multiple audio tracks and allowed viewers to stop on any frame of a film with no image
+*  distortion.
 *  Criterion would track down the original negative or best surviving preprint version, then hire
 *  technicians to scan the film, remove blemishes when possible, and correct colors that may
 *  have faded or turned pink over time.
-*  The vision, says Rebecca Odick, who worked as head of design at Criterion from 1991 to
+*  The vision, says Rebecca Otick, who worked as head of design at Criterion from 1991 to
 *  1994, was getting people access to all these great films.
-*  Before the emergence of the home video market in the late 1970s, Hollywood studios had little
-*  use for films whose theatrical runs had concluded.
+*  Before the emergence of the home video market in the late 1970s, Hollywood studios had
+*  little use for films whose theatrical runs had concluded.
 *  They ceased to be commodities and were often destroyed or transferred to public archives
 *  where they remained vulnerable to fire, deterioration, and discoloration.
 *  Nonprofits led the nascent movement to preserve and restore motion pictures until Criterion
@@ -122,8 +131,8 @@
 *  Acquiring the rights to Citizen Kane and King Kong from RKO Pictures cost Criterion around
 *  $10,000.
 *  Securing the best surviving print of a film often required assiduous detective work.
-*  The original negative for Dr. Strangelove was lost, says Morgan Holly, who served as
-*  an in-house producer for the Criterion Laserdisc of Stanley Kubrick's 1964 Cold War satire.
+*  The original negative for Dr. Strangelove was lost, says Morgan Holly, who served as an
+*  in-house producer for the Criterion Laserdisc of Stanley Kubrick's 1964 Cold War satire.
 *  There was one print that was struck from the original negative that was somewhere in the
 *  world.
 *  One of Criterion's editors, Maria Palazzola, tracked it down only to learn that on its
@@ -137,12 +146,11 @@
 *  The company popularized the practice of letterboxing, or presenting a film in its original aspect
 *  ratio by adding black bars at the top and bottom of the screen rather than cropping
 *  the image to fit a standard television display.
-*  Director's commentary tracks were another Criterion innovation.
+*  Directors' commentary tracks were another Criterion innovation.
 *  Some of the earliest were recorded by Martin Scorsese for the Taxi Driver and Raging Bull
 *  Laserdiscs, which helped cement his influence on an entire generation of young directors.
-*  I knew from Scorsese, from those commentaries sometimes, how they were accomplishing those
-*  shots.
-*  The filmmaker Wes Anderson told me.
+*  I knew from Scorsese, from those commentaries, sometimes, how they were accomplishing those
+*  shots, the filmmaker Wes Anderson told me.
 *  And I think I got a sense of his approach with actors of trying to get a sort of documentary
 *  feeling to certain aspects of those movies.
 *  Criterion's respect for creators was what caught Bowie's attention.
@@ -196,7 +204,7 @@
 *  You know, the Bergman films and the Kurosawa films, Holly told me.
 *  It was an important film because a lot of people watched it.
 *  Some of Holly's colleagues nevertheless disagreed vehemently with the decision.
-*  There was one producer, I won't name his name, but he wrote this 10 page internal memo about
+*  There was one producer, I won't name his name, but he wrote this 10-page internal memo about
 *  why we should not do Ghostbusters, he told me.
 *  That was one of many attempts Criterion made to curb its stuffy image, among them The Rock
 *  and Armageddon by Michael Bay.
@@ -231,8 +239,8 @@
 *  The brand's cultural cachet had grown to such an extent that being selected for inclusion
 *  in the collection could boost a young filmmaker's sales as well as reputation.
 *  Kelly Reichardt, whose films Certain Women and Old Joy did not enter the collection until
-*  much later, explained that, at the time, the Criterion and premature meant getting the
-*  equivalent of dedicated shelf space in video stores alongside big-name male directors.
+*  much later, explained that, at the time, the Criterion and Primitur meant getting the equivalent
+*  of dedicated shelf space in video stores alongside big-name male directors.
 *  Back in the video store days, it was really hard to get a shelf if you were a woman, Reichardt
 *  told me.
 *  They have all the dudes stocked by director with their entire catalog in one place, and
@@ -246,140 +254,134 @@
 *  out to correct course.
 *  Since then, it has released additional films by Steve McQueen and Ousmane Sombin and added,
 *  among others, Marlon Riggs and Cheryl Dunye, whose 1996 romantic comedy The Watermelon
+*  is a landmark of the 90s indie renaissance and of queer black cinema.
 *  It's a film that is so genuine and connects with audiences so beautifully, Becker told
 *  me.
 *  Adding it to the collection was a no-brainer once the rights became available.
 *  Dunye told me that she was proud of its inclusion and happy to have made something that enriches
 *  the global storytelling that Criterion represents.
 *  Securing the rights to films remains a defining factor in determining what ends up in the
-*  Licensing often starts with a wish list submitted to various Hollywood studios.
+*  licensing often starts with a wish list submitted to various Hollywood studios.
 *  What goes on that list is often a result of conversations and meetings among technical
-*  staff, producers and editors, and, of course, Becker and the chief executive of Criterion,
+*  staff, producers and editors and, of course, Becker and the chief executive of Criterion,
 *  Jonathan Terrell.
 *  I've seen more movies than a lot of my friends, Becker said.
 *  I certainly haven't seen more movies than all of my colleagues put together.
-*  Occasionally, high-powered interlopers have their say by lobbying Becker.
-*  For a few years, I kept asking him about this film by Dino Ricci, Il Sorpasso, says Jim
-*  Jarmusch, director of Down by Law, Ghost Dog and other Criterion titles.
+*  Occasionally, high powered interlopers have their say by lobbying Becker.
+*  For a few years, I kept asking him about this film by Dino Ricci, Il Sorpasso,
+*  says Jim Jarmusch, director of Down by Law, Ghost Dog and other Criterion titles.
 *  And he says, damn it, Jim, it's you and Marty Scorsese.
 *  You guys are calling me every month or so about this damn film.
 *  Becker didn't remember those calls.
 *  He said Antonio Monda, an Italian writer and filmmaker, was its major champion.
 *  But one way or another, Il Sorpasso entered the collection in 2014.
 *  Criterion has shaped generations of filmmakers who grew up under its influence.
-*  Josh Safdie told me that he watched countless Criterion releases in high school, starting
-*  with Kurosawa's Seven Samurai and Fritz Lang's M.
-*  He got his first glimpse of the directing process from a behind-the-scenes documentary
+*  Josh Safdie told me that he watched countless Criterion releases in high school,
+*  starting with Kurosawa's Seven Samurai and Fritz Lang's M.
+*  He got his first glimpse of the directing process from a behind the scenes documentary
 *  included with a Criterion DVD for Wes Anderson's film Rushmore.
 *  Among the supplementary features for the Criterion DVD of Francois Truffaut's The 400 Blows,
 *  he recalled seeing his first glimpse of an actor's audition tape.
 *  Back then, you were lucky to get a theatrical trailer as an extra on a DVD, he said.
-*  Getting a look into Truffaut's process was really special, which in turn made the disc
-*  a really special object.
-*  The extra touches that made them special objects also meant they were more expensive than standard
-*  DVD releases.
-*  So Safdie and his brother Benny would make illicit copies of the Criterion discs they
-*  rented by mail through Netflix.
+*  Getting a look into Truffaut's process was really special,
+*  which in turn made the disc a really special object.
+*  The extra touches that made them special objects also meant they were more expensive than standard DVD releases.
+*  So Safdie and his brother Benny would make illicit copies of the Criterion discs they rented by mail through Netflix.
 *  Benny would make his own Criterion DVD inserts, Safdie said.
 *  He would do this by mimicking the unifying aesthetic features of each Criterion DVD,
-*  a catalog number on the spine designating its place in the collection and drawn across
-*  the top of its cover, a thin line, above which distinctive text with extra-wide kerning spelled
-*  out the Criterion collection.
-*  Criterion's distinctive visual language began to emerge in the early 90s when Otick, the
-*  former head of design, started building up its art staff with an aim to really show the
-*  power of these films through the cover designs, she told me.
-*  To do that, it was sometimes necessary to go through every frame of film in search of
-*  the perfect image.
+*  a catalog number on the spine designating its place in the collection and drawn across the top of its cover, a thin line,
+*  above which distinctive text with extra wide kerning spelled out the Criterion collection.
+*  Criterion's distinctive visual language began to emerge in the early 90s when Otick,
+*  the former head of design, started building up its art staff with an aim to really show the power of these films through the cover designs, she told me.
+*  To do that, it was sometimes necessary to go through every frame of film in search of the perfect image.
 *  Other times, images alone were not enough.
-*  For the cover of Robocop, we had an actual aluminum cast letterpress plate made and then
-*  photographed the plate with a 4x5 camera, Otick says.
-*  It took days, she told me, but using a physical piece of metal gave it a feeling of aesthetic
-*  truth.
-*  When Wes Anderson started working with Criterion on DVD releases of his films, the cover designers
-*  incorporated illustrations that his brother Eric Chase Anderson had made as part of the
-*  pre-production process.
+*  For the cover of Robocop, we had an actual aluminum cast letterpress plate made and
+*  then photographed the plate with a four by five camera, Otick says.
+*  It took days, she told me, but using a physical piece of metal gave it a feeling of aesthetic truth.
+*  When Wes Anderson started working with Criterion on DVD releases of his films,
+*  the cover designers incorporated illustrations that his brother Eric Chase Anderson had made as part of the pre-production process.
 *  Anderson, who asked that verbal tics like uh and um not be excised from his quotes,
-*  told me that he had always admired how Criterion covers tended to be, more adventurous than
-*  uh what a movie studio would be inclined to go with.
-*  The work being done by its art department, he said, was on par creatively with the famously
-*  impressionistic movie poster designers of Soviet-era Poland.
-*  They invent their own uh their own posters, he said, their own imagery to go with the
-*  movie.
-*  Anderson was equally eager to work with specialists like the mastering supervisor Lee Klein, who
-*  inherited from his mentor, Maria Palazzola, a rigorous approach to editing that begins
-*  with preserving the intent of the filmmaker rather than the results they achieved.
-*  If some technical limitation had made the film look a certain way, Klein might try,
-*  within reason, to help them get closer to their vision than they had the first time
-*  around.
-*  Across three decades at the company, Klein told me, his actual duties on any given project
-*  have varied wildly depending on the filmmaker and the source material.
-*  Michael Mann, for example, wants the digital copies of his films to be faithful to the
-*  35 millimeter print.
-*  John Waters makes the most of Klein's ability to improve the look of films that were originally
-*  shot for very little money.
-*  He's a guy who wants to make the movies look as good as they can, and everyone always thinks
-*  he would probably want to make them look as bad as they can, Klein said of the Pink Flamingos
-*  director.
+*  told me that he had always admired how Criterion covers tended to be more adventurous than uh what a movie studio would be inclined to go with.
+*  The work being done by its art department, he said, was on par creatively with the famously impressionistic movie poster designers of Soviet era Poland.
+*  They invent their own uh their own posters, he said, their own imagery to go with the movie.
+*  Anderson was equally eager to work with specialists like the mastering supervisor Lee Klein,
+*  who inherited from his mentor, Maria Palazzola, a rigorous approach to editing that begins with preserving the intent of a filmmaker,
+*  rather than the results they achieved.
+*  If some technical limitation had made the film look a certain way,
+*  Klein might try, within reason, to help them get closer to their vision than they had the first time around.
+*  Across three decades at the company, Klein told me, his actual duties on any given project have varied wildly depending on the filmmaker and the source material.
+*  Michael Mann, for example, wants the digital copies of his films to be faithful to the 35 millimeter print.
+*  John Waters makes the most of Klein's ability to improve the look of films that were originally shot for very little money.
+*  He's a guy who wants to make the movies look as good as they can,
+*  and everyone always thinks he would probably want to make them look as bad as they can,
+*  Klein said of the Pink Flamingos director.
 *  It's just the opposite.
 *  He wants them to look like Bergman films.
-*  Klein sometimes works for years on a restoration project, as in the case of Satyajit Ray's
-*  Pothar Panchali, Aporazhito and Opur Shancher, three films from the second half of the 1950s
-*  that are collectively known as the Apu Trilogy.
+*  Klein sometimes works for years on a restoration project,
+*  as in the case of Satyajit Ray's Pother Panchali,
+*  Aporazito, and Opur Shancher,
+*  three films from the second half of the 1950s that are collectively known as the Apu Trilogy.
 *  The late Indian filmmaker was beloved by other great masters of cinema.
-*  Scorsese saw Pothar Panchali as a young boy, and Kurosawa once compared never seeing a
-*  Ray film to never having seen the sun or the moon.
+*  Scorsese saw Pother Panchali as a young boy,
+*  and Corsaro once compared never seeing a Ray film to never having seen the sun or the moon.
 *  But he was not very well known even among cinephiles.
-*  Changing that through the release of a criterion box set required the restoration of sections
-*  of the films from the trilogy that had been badly damaged in a fire by the time Klein
-*  started working on them.
-*  Klein repaired what he could, found other sources to replace what he couldn't, and digitally
-*  married them in such a way that they matched.
+*  Changing that through the release of a Criterion box set
+*  required the restoration of sections of the films from the trilogy
+*  that had been badly damaged in a fire by the time Klein started working on them.
+*  Klein repaired what he could,
+*  found other sources to replace what he couldn't,
+*  and digitally married them in such a way that they matched.
 *  The undertaking was a source of great pressure, he told me.
-*  You feel the cinematic weight of the world on your shoulders when you're dealing with
-*  those classics, he said.
-*  One wrong move and the print might be damaged irreparably, another great film lost to history.
-*  In 2019, after the sudden demise of its popular streaming partnership with TCM, called Filmstruck,
-*  A tremendous opportunity, I think, from an aesthetic standpoint, a content standpoint,
-*  for Criterion to have our own space and our own place in this kind of new streaming world,
-*  Altman said.
-*  Criterion made a conscious decision, Becker told me, to use the architecture of streaming
-*  technology differently from the way others have.
-*  Instead of an algorithm, viewers are guided to what they might want to watch through careful
-*  human curation.
-*  Go essays, interviews with filmmakers, and programming blocks resembling those once common
-*  at independent movie theaters throughout America.
-*  Some as straightforward as retrospectives celebrating specific filmmakers, others as
-*  niche as collections dedicated to obscure genres like Gaslight Noir and Gothic Noir,
+*  You feel the cinematic weight of the world on your shoulders when you're dealing with those classics, he said.
+*  One wrong move and the print might be damaged irreparably,
+*  another great film lost to history.
+*  In 2019, after the sudden demise of its popular streaming partnership with TCM,
+*  called FilmStruck, Criterion started its standalone subscription-based streaming service,
+*  which features a broader range of films than just those in the collection.
+*  Getting the Criterion channel off the ground was hugely energizing, Jason Altman,
+*  a producer at Criterion, said, because it was ours.
+*  We weren't partnering with anybody.
+*  The abrupt shuddering of FilmStruck was the work of Warner Brothers' bosses,
+*  several Criterion staff members told me,
+*  and there was a sense of relief to be free of such relationships.
+*  It was a tremendous opportunity, I think, from an aesthetic standpoint, a content standpoint,
+*  for Criterion to have our own space and our own place in this kind of new streaming world, Altman said.
+*  Criterion made a conscious decision, Becker told me,
+*  to use the architecture of streaming technology differently from the way others have.
+*  Instead of an algorithm, viewers are guided to what they might want to watch through careful human curation.
+*  Video essays, interviews with filmmakers, and programming blocks
+*  resembling those once common at independent movie theaters throughout America.
+*  Some as straightforward as retrospectives celebrating specific filmmakers,
+*  others as niche as collections dedicated to obscure genres like Gaslight Noir and Gothic Noir,
 *  between which, Becker assures me, there is a difference.
 *  They're not algorithmic by nature, Becker said of the major streaming services.
 *  They're algorithmic by intention.
 *  The workload associated with keeping the service going, however, can be immense.
-*  The strain was particularly acute after Criterion laid off 20% of its staff near the end of
-*  2022.
-*  A reorganization, as Becker called it, from which many staff members have since been brought
-*  back to the company as its financial situation improved.
+*  The strain was particularly acute after Criterion laid off 20% of its staff near the end of 2022.
+*  A reorganization, as Becker called it, from which many staff members have since been brought back to the company
+*  as its financial situation improved.
 *  Altman, who was among those temporarily laid off and brought back on a freelance basis,
-*  nevertheless felt that doing things the hard way was still the correct path forward for
-*  the Criterion channel, just as it had been for the brand's laserdiscs and DVDs.
+*  nevertheless felt that doing things the hard way was still the correct path forward for the Criterion channel.
+*  Just as it had been for the brands, Laserdiscs and DVDs.
 *  You know all those streaming channels.
 *  It's all the content war, right?
 *  Altman said.
-*  I mean, it's like, who has the most content?
+*  I mean, it's like who has the most content?
 *  It's not necessarily the best content.
 *  That's the challenge for Criterion.
-*  The benefit of this curation, Kelly Reichart told me, was that you don't feel like you've
-*  entered a mall and you're going to exhaust yourself.
-*  With some other streaming services, she told me, she often gives up before settling on
-*  anything to watch.
-*  When we spoke, she was preparing for a talk she was invited to give in Tokyo on what would
-*  have been the director, Yoshujirō Ozu's 120th birthday, by watching as many of the 40 or
-*  so films of his that are available on the Criterion channel.
-*  I did the same, often stopping between daylong Ozu matinees to reflect on what Todd Field
-*  had called the messiness of our own narrative, which is to say the process by which friends,
-*  lovers and strangers guide us toward movies that end up changing our lives.
-*  Field told me a story about waiting tables at a Manhattan restaurant in 1984 and being
-*  shoved across the street to see a film festival at Lincoln Center.
+*  The benefit of this curation, Kelly Reichart told me, was that you don't feel like you've entered a mall
+*  and you're going to exhaust yourself.
+*  With some other streaming services, she told me, she often gives up before settling on anything to watch.
+*  When we spoke, she was preparing for a talk she was invited to give in Tokyo on what would have been
+*  the director, Yoshujirō Ozu's 120th birthday, by watching as many of the 40 or so films of his
+*  that are available on the Criterion channel.
+*  For weeks afterward, I did the same, often stopping between daylong Ozu matinees
+*  to reflect on what Todd Field had called the messiness of our own narrative,
+*  which is to say the process by which friends, lovers and strangers guide us toward movies
+*  that end up changing our lives.
+*  Field told me a story about waiting tables at a Manhattan restaurant in 1984
+*  and being shoved across the street to see a film festival at Lincoln Center.
 *  He saw films by Victor Núñez, Jim Jarmusch, the Coen brothers and Vim Venders, he said.
 *  But that's just because somebody pushed me across the street.
 *  For Field, that's what Criterion represents.
-*  Not an algorithm saying this will turn you on, but the gift of being shoved toward great cinema.
+*  Not an algorithm saying, this will turn you on, but the gift of being shoved toward great cinema.

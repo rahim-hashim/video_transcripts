@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1757s
+Video Keywords: []
+Video Views: 15528
+Video Rating: None
+---
+
 # Inside the Sputtering Campaign of Ron DeSantis
 **New York Times Podcasts:** [August 21, 2023](https://www.youtube.com/watch?v=mG0OUt3gJow)
 *  From the New York Times, I'm Michael Bobarro.

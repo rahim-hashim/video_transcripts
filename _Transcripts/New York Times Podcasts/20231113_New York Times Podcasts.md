@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2251s
+Video Keywords: []
+Video Views: 5624
+Video Rating: None
+---
+
 # The Doctors of Gaza
 **New York Times Podcasts:** [November 13, 2023](https://www.youtube.com/watch?v=4VIiGJJzJ_s)
 *  From the New York Times, I'm Sabrina Tavernisi.

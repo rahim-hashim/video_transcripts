@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1860s
+Video Keywords: []
+Video Views: 6203
+Video Rating: None
+---
+
 # 43% vs. 43%: Why Trump and Biden Are Tied in Our New Poll
 **New York Times Podcasts:** [August 03, 2023](https://www.youtube.com/watch?v=U4N82M0kLuE)
 *  From New York Times, I'm Michael Bobarro.

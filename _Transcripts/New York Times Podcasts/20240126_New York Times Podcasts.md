@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3657s
+Video Keywords: []
+Video Views: 3998
+Video Rating: None
+---
+
 # The Mother Who Changed: A Story of Dementia
 **New York Times Podcasts:** [January 26, 2024](https://www.youtube.com/watch?v=CZq_VGuWmpU)
 *  Amongst philosophers who study dementia, there's this story that gets told over and over again,
@@ -148,20 +157,25 @@
 *  Their mother had always been very well dressed, very interested in her appearance.
 *  But then I came home and she's wearing jeans.
 *  And she was wearing a white dress.
-*  But then I came home and she's wearing jeans with a big, wide cowboy belt.
+*  And she was wearing a white dress with a big, wide cowboy belt.
 *  And this old, cruddy horse breeders baseball cap.
 *  All of a sudden she was dressing like a cowboy.
-*  And no makeup. No makeup.
+*  And no makeup.
+*  No makeup.
 *  And I was just like, who are you?
 *  And some of the changes were deeper ones.
 *  And she said to me one day, you know, I'm trying to be more assertive.
+*  Denzel's training me.
+*  I'm trying to be more assertive.
 *  Denzel's training me to be more assertive.
 *  Kristen and Julie really felt like their joyful, joyous mother was growing sour.
 *  She was being aggressive and mean to people.
 *  Even Diane's phone calls with her daughters were changing.
 *  There started to be this gradual isolation that mom wasn't calling as much.
-*  I'd call her and oh, she'd be busy. I'll have her call you back.
-*  They're finding it harder to reach their mother. She's not answering the phone.
+*  I'd call her and oh, she'd be busy.
+*  I'll have her call you back.
+*  They're finding it harder to reach their mother.
+*  She's not answering the phone.
 *  When she does answer the phone, it seems as if Denzel's always beside her,
 *  always sort of coaching her almost on what to say.
 *  But I think it was harder and harder for her to understand our conversations when we would talk.
@@ -169,10 +183,12 @@
 *  But it's only in September of 2017 that a doctor finally gives shape to what Diane's daughters sort of both knew and couldn't see.
 *  I couldn't get a hold of mom and was worried about her.
 *  And I got a phone call from Denzel that said mom was in the hospital.
-*  He didn't think it was a good idea to have her go to the hospital.
+*  He didn't think it was her heart.
+*  They weren't sure.
 *  Denzel had taken Diane to the emergency room because she felt short of breath.
 *  And at the hospital, she was given a cognitive test.
-*  She scored poorly. She didn't know the name of the president, for instance.
+*  She scored poorly.
+*  She didn't know the name of the president, for instance.
 *  I decided, you know what, I'm going back to Iowa and I got a plane ticket.
 *  Chris actually got a plane ticket too, but I got back there before Chris.
 *  So I went to the hospital, met with mom.
@@ -180,53 +196,66 @@
 *  And it's here at this time that Diane is diagnosed with dementia.
 *  That was the day we went to Vicki's house.
 *  Vicki was kind of a friend to mom and to us.
-*  We were so shocked. We're sitting at her bar crying.
-*  And she's like, well, of course your mom has dementia. We all know that. We've known that for years.
+*  And we were so shocked.
+*  We're sitting at her bar crying.
+*  And she's like, well, of course your mom has dementia.
+*  We all know that.
+*  We've known that for years.
 *  It's around the time that she receives that diagnosis that Diane starts rearranging her affairs.
 *  That's when Denzel was added to the bank accounts.
 *  She gives Denzel her financial power of attorney.
-*  He was a signer. He could co-sign on mom's checks.
+*  He was a signer.
+*  He could co-sign on mom's checks.
 *  She redrafts her will so that if she dies before Denzel, he has the right to live on her property.
 *  Basically, it gave Denzel control of almost everything.
 *  And she also dissolves her financial trust.
-*  This is the trust that her daughter Julie managed, which holds all of her assets and all of her investments.
+*  This is the trust that her daughter, Julie, managed, which holds all of her assets and all of her investments.
 *  And when Julie checks Diane's bank statements, she starts seeing cash withdrawals of hundreds of dollars at a time.
 *  This was especially worrying because they knew that their mother was worth around $4 million.
-*  And that Denzel, you know, three times divorced, a retired horse shoe, was worth basically nothing.
-*  Denzel had taken mom's phones away. We couldn't talk to her on the phone.
-*  We didn't know if she was dead or alive. He wouldn't respond to us anymore. We were scared.
+*  And that Denzel, you know, three times divorced, a retired horse-shoer, was worth basically nothing.
+*  Denzel had taken mom's phones away.
+*  We couldn't talk to her on the phone.
+*  We didn't know if she was dead or alive.
+*  He wouldn't respond to us anymore.
+*  We were scared.
 *  All of this just leads Chris and Julie to the conclusion that they need to get to the bottom of what's been happening.
 *  I was just sitting in a chair in my living room and it's like something swept over me and said, you need to go to Iowa right now.
 *  So what do they decide to do?
-*  Their first step is to call a lawyer. And the lawyer recommended that they obtain what's called a temporary protective order,
-*  basically an emergency restraining order that would force Denzel to move out of the house and stay away from Diane.
+*  Their first step is to call a lawyer.
+*  And the lawyer recommended that they obtain what's called a temporary protective order, basically an emergency restraining order that would force Denzel to move out of the house and stay away from Diane.
 *  And the sisters hoped to really give them a chance to sit down with their mother away from Denzel's influence and really get to the bottom of what was happening.
 *  And that's what the restraining order would, in theory, do, right?
 *  It wouldn't get Denzel arrested, but it would get him out of the house.
-*  That's right. So as a lawyer sort of working away on this paperwork, Chris and Julie get in a flight home to Iowa.
-*  It was I think on a Thursday that we flew in to Omaha.
-*  It's October 2017. They drive up to the old farmhouse.
+*  That's right.
+*  So as a lawyer sort of working away on this paperwork, Chris and Julie get on a flight home to Iowa.
+*  It was, I think, on a Thursday that we flew in to Omaha.
+*  It's October 2017.
+*  They drive up to the old farmhouse.
 *  Our level of fear driving up that driveway was unreal because we didn't know how Denzel was going to react.
-*  We didn't know how soon the police were going to be there. Walking up to that door was the most frightening moment of my life.
-*  They knock on the side door. They describe their mother answering and her initial response to them being there is to hesitate.
-*  She just stood there and I said, Mom, can we come in? And she goes, Oh, yeah.
-*  You know, like she was startled, like, of course you can come in.
+*  We didn't know how soon the police were going to be there.
+*  Walking up to that door was the most frightening moment of my life.
+*  They knock on the side door.
+*  They describe their mother answering and her initial response to them being there is to hesitate.
+*  She just stood there and I said, Mom, can we come in?
+*  And she goes, Oh, yeah.
+*  You know, like she was startled.
+*  Like, of course you can come in.
 *  When the daughters walk into the house, they are shocked by what they see.
 *  This farmhouse, which was once scrupulously tidy, now just looks unkempt.
 *  In the kitchen, the landline phone is missing and the shelves are basically bare.
-*  The only food that Diane seems to have in the house is a freezer full of ice cream cones on the stove.
-*  There's this piece of masking tape with Denzel's handwriting on it.
-*  It says, Do not use in big letters on the doorframe.
-*  There's this piece of wood that's just blocking access to the staircase.
+*  The only food that Diane seems to have in the house is a freezer full of ice cream cones.
+*  On the stove, there's this piece of masking tape with Denzel's handwriting on it.
+*  It says, Do not use in big letters.
+*  On the doorframe, there's this piece of wood that's just blocking access to the staircase.
 *  When we go in, we find our mom incapable of doing anything or understanding why we're there or anything.
 *  And their mother just seems completely out of it.
 *  Her curly white hair, which is usually perfectly styled and puffed, is flat around her neck as if it hasn't been washed.
-*  Her watch is on upside down. Her words come out slurred.
+*  Her watch is on upside down.
+*  Her words come out slurred.
 *  Eventually, Diane kind of gives up and goes into the bedroom and just lies face down on her bed.
 *  So Chris and I just tried to make conversation, hoping and praying that the police would come driving up the driveway.
 *  As expected for the daughters, two sheriff's deputies pull up.
-*  And I looked at Chris like, oh, you know, because I didn't know how he was going to react.
-*  I was terrified.
+*  And I looked at Chris like, oh, you know, because I didn't know how he was going to react. I was terrified.
 *  The deputies explained that under the terms of the order, Denzel would be immediately removed from Diane's home and, quote,
 *  restrained from committing further acts of abuse or threats of elder abuse, charges that Denzel immediately denied.
 *  Chris went straight back to the bedroom so that she could be with mom because I said, I don't want mom to be upset or to wake up to any of what's going on.
@@ -241,17 +270,17 @@
 *  And I think what surprised the most on that initial day was that none of this seemed to register for Diane at all.
 *  You know, when the police left, she fell asleep.
 *  The first thing she said when she woke up from her nap, despite having witnessed, you know, this whole scene before her was, where's Denzel?
-*  And she asked it again and she asked it again and all evening and in the middle of the night and the next day too.
+*  And she asked it again and she asked it again and all evening and in the middle of the night and the next day, too.
 *  She didn't even know where he had gone.
 *  And I think the daughters, you know, they tried to explain to their mother what was happening.
 *  Can I ask a question?
 *  Yeah, but you don't necessarily get an answer.
-*  Later I listened to this long conversation that Chris recorded on her phone.
+*  Later, I listened to this long conversation that Chris recorded on her phone.
 *  Did you terminate my general power of attorney?
 *  And you can hear Chris and Julie, you know, ask questions of their mother.
 *  What do you mean general power of attorney?
-*  Just, I had, I know you terminated my trust, but did you also terminate my power of attorney?
-*  What is the power of, not to my knowledge, what?
+*  Just I had I know you terminated my trust, but did you also terminate my power of attorney?
+*  What is the power of the natural?
 *  Okay.
 *  Why?
 *  And Diane's responses are really shocking.
@@ -259,18 +288,19 @@
 *  And there are changes she doesn't remember making.
 *  You know, I can grasp nothing about the trust.
 *  All I know is it was there and you doled it out.
-*  I never doled anything from your 12.
+*  I didn't I never doled anything from your 12.
 *  She's using that.
 *  But while Diane clearly doesn't understand, you know, the precise financial and legal decisions that she made, her motivation is very clear.
 *  A long time ago, when after dad died, we did this.
-*  You asked me, you said, mom, you know, would you want to take care of their trust?
+*  You asked me, you said, Mom, you know, I would want to take care of their trust.
 *  And I looked at you and I said, honey, I don't know if I know the first thing about that sort of thing.
 *  Do you want to do it?
 *  You said you'd be happy to.
-*  And I said, okay, go ahead.
-*  Okay.
+*  And I said, OK, yes.
+*  OK.
 *  So I can remember saying that.
-*  But now I've got the feeling and it has nothing to do with Denzel.
+*  But now I've got the feeling.
+*  And it has nothing to do with Denzel.
 *  He's got his own money.
 *  I got my own money.
 *  I want to be able to be my own person before I die.
@@ -280,19 +310,21 @@
 *  Probably better.
 *  It is not.
 *  But I want to be my own person.
-*  I'm realizing, Katie, in this moment that I don't really understand what the law has to say about this complicated situation.
-*  I mean, here, Diane is asking to see Denzel, who has just been removed from the house per that protective order.
+*  I'm realizing, Katie, in this moment, I don't really understand what the law has to say about this complicated situation.
+*  And here, Diane is asking to see Denzel, who has just been removed from the house per that protective order.
 *  And Diane is taking actions like giving him power of attorney.
-*  She's been given a diagnosis of dementia and that recording you heard suggests she doesn't even understand what power of attorney is at this moment, both of which runs contrary to the idea that she's really capable of being in control of her life and these kinds of decisions.
+*  But she's been given a diagnosis of dementia.
+*  And that recording you heard suggests she doesn't even understand what power of attorney is at this moment, both of which runs contrary to the idea that she's really capable of being in control of her life and these kinds of decisions.
 *  So what does the law say about that?
-*  Yeah, this definitely confused Diane's daughter and it confuses a lot of adult children, of people with dementia.
-*  Adult children often assume that the moment a doctor pronounces a person to have dementia, that kind of flips a decisional switch and all of a sudden that person is now legally and medically incapable of choosing for herself anymore.
+*  Yeah, this definitely confused Diane's daughter and it confuses a lot of adult children of people with dementia.
+*  Adult children often assume that the moment a doctor pronounces a person to have dementia, that kind of flips a decisional switch.
+*  And all of a sudden, that person is now legally and medically incapable of choosing for herself anymore.
 *  The reality is that there's no such switch within modern medicine.
 *  Patients are never declared completely competent or incompetent in some holistic sense.
 *  Instead, doctors are asked to look at individual choices and whether or not a person is able to make a specific choice in a specific moment.
 *  This in practice can mean that a person with dementia can retain the ability to make choices for many years and then lose the ability in stages.
 *  So lose the ability to make complex choices first and then simple ones later.
-*  And this is important from a legal perspective too, because it means that people with dementia retain the ability to make legal choices, even when they are cognitively impaired.
+*  And this is important from a legal perspective, too, because it means that people with dementia retain the ability to make legal choices, even when they are cognitively impaired.
 *  But of course, this often creates conflicts within families because there's no clear cut medical way to determine without error that a person is capable of making a specific choice.
 *  So based on what you just said, the daughter's options would seem to be pretty limited here.
 *  So what is their next move?
@@ -300,39 +332,55 @@
 *  At this point, Diane is still speaking well and she can be engaged in conversation.
 *  So her daughters decide that it's probably going to be important for them to get some evidence that their mother is actually very sick.
 *  And their decision is to bring her to the University of Iowa hospitals and clinic where they know there's a dedicated geriatric psychiatry unit where their mother can get a more formal assessment.
-*  And so we sat mom down and explained it to her as best we could without having it sound scary, like we're taking you to a hospital.
-*  And they're telling Diane agrees to go. She helps to pack her bag. She gets into the car.
-*  And they all start in on this hours long drive to the hospital.
-*  Everything stayed quiet in the car for quite a while. We got to Des Moines and my phone rang and it was our attorney's mother, who's a nurse.
+*  And so we sat mom down and explained it to her as best we could without having it sound scary, like we're taking you to a hospital and they're telling Diane agrees to go.
+*  She helps to pack her bag.
+*  She gets into the car and they all start in on this hours long drive to the hospital.
+*  Everything stayed quiet in the car for quite a while.
+*  We got to Des Moines and my phone rang and it was our attorney's mother who's a nurse.
 *  It's sometime around sunset.
-*  And mom said, who is that? I said, Eileen. Well, can I talk to her? Of course.
+*  And mom said, who is that?
+*  I said, Eileen, well, can I talk to her?
+*  Of course.
 *  That Diane starts getting upset.
-*  So she gets the phone, Eileen, I'm being kidnapped. Please call the police. Come and get me. I'm being kidnapped.
-*  And Eileen. At some point, she throws a book at Julie. She starts hitting Chris.
+*  So she gets the phone, Eileen, I'm being kidnapped.
+*  Please call the police.
+*  Come and get me.
+*  I'm being kidnapped.
+*  And Eileen.
+*  At some point, she throws a book at Julie.
+*  She starts hitting Chris.
 *  And I had to grab her wrist to keep her from continuing to hit me.
 *  She's screaming that she doesn't know where she is and is being driven somewhere against her will.
-*  Yes, it was terrifying. Physically, it's the voice. It's the body. It's everything that nurtured you before.
+*  Yes, it was terrifying.
+*  Physically, it's the voice, it's the body, it's everything that nurtured you before.
 *  And suddenly it's like she's possessed.
 *  After a few minutes of this, the sisters decide they're going to call an ambulance and have an ambulance drive Diane the rest of the way to the hospital.
 *  When they get there, Diane's given a cognitive assessment.
-*  And what's shocking is that while Diane has been operating more or less normally in her life, she actually has very significant deficits.
+*  And what's shocking is that, you know, while Diane has been operating more or less normally in her life, she actually has very significant deficits.
 *  The neuropsychologist who tests her describes deficits in almost every field that he tests for and decides that Diane is unable to safely perform tasks as complex as preparing a meal.
 *  In his final report, he describes Diane as having significantly limited capacity for informed personal, medical and financial decision making.
-*  Later, a doctor helps to kind of interpret these findings. And she uses the phrase Alzheimer's disease for the first time.
-*  In her view, Diane is already at a late moderate stage, so far beyond the kind of mild forgetfulness that had started to worry her daughters.
-*  So the kids wanted to know how bad things had gotten for their mom, and now they know. I mean, they have a very serious diagnosis now.
+*  Later, a doctor helps to kind of interpret these findings.
+*  And she uses the phrase Alzheimer's disease for the first time.
+*  In her view, Diane is already at a late, moderate stage.
+*  So far beyond the kind of mild forgetfulness that had started to worry her daughters.
+*  So the kids wanted to know how bad things had gotten for their mom.
+*  And now they know. I mean, they have a very serious diagnosis now.
 *  Right. And that really convinces them that they need to take control of the situation in a more formal way.
-*  So talking to their lawyer, Chris and Julie decide that they're going to focus on getting legal guardianship of their mother, which will effectively give them control over many of her personal and medical choices.
+*  So talking to their lawyer, Chris and Julie decide that they're going to focus on getting legal guardianship of their mother,
+*  which will effectively give them control over many of her personal and medical choices.
 *  And they're convinced that, you know, this will be a fairly straightforward case and that once they get guardianship, they'll be able to kind of fix everything.
 *  But it's also at this point that their personal relationship with their mother really evaporates.
-*  Diane is moved from the hospital to an assisted living facility in Denison. And because the elder abuse charges against Denzil have been dropped, she's able to start seeing him again.
+*  Diane has moved from the hospital to an assisted living facility in Denison.
+*  And because the elder abuse charges against Denzil have been dropped, she's able to start seeing him again.
 *  And once that happens, Diane quickly makes the choice to stop seeing her children.
-*  She tells pretty much everyone she knows, everyone she sees, that she wants nothing to do with them, that she doesn't want them to visit.
+*  She tells pretty much everyone she knows, everyone she sees that she wants nothing to do with them, that she doesn't want them to visit.
 *  At one point, she even tells a friend she doesn't have daughters anymore.
 *  Hello. Hi, Denzil. Hi.
-*  There's this recording of a phone call. Not sure where to start.
-*  So I'll tell you what I planned on saying, and that is that I would be happy to sit down and talk with you and Nana.
-*  Well, I don't know. I'll have to get back to you. Please let me tell my grandmother the same thing.
+*  There's this recording of a phone call.
+*  Not sure where to start. So I'll tell you what I planned on saying.
+*  And that is that I would be happy to sit down and talk with you and Nana.
+*  Well, I don't know. I'll have to get back to you.
+*  Please let me tell my grandmother the same thing.
 *  I'll let you tell her.
 *  Julie's daughter, Haley, calls her grandmother, Diane, and tries to mediate the situation.
 *  Hi, Nana. Hi.
@@ -341,11 +389,11 @@
 *  You know, this has just got out of control. Chris and Julie love their mother.
 *  I need you both to know, and I need especially Denzil to know, that from my perspective, there are opportunities for everybody to come together and everybody to be happy, especially Nana.
 *  There's got to be some way to resolve this.
-*  It's up to Nana whether she accepts them again. Not them and Nana. It's up to Nana.
-*  And she has chosen to write them off.
+*  It's up to Nana, whether she accepts them again. Not them and Nana. It's up to Nana.
+*  And she has chosen to write them off. Tell them.
 *  I have chosen to write them off, Haley.
 *  And Diane, for her part, she speaks very lucidly.
-*  I know there's an easy way out of this, and there is not. I can handle much more stress.
+*  I know there's an easy way out of this, and there is not. I can't handle much more stress.
 *  And the only way I can get rid of that stress is to get rid of what's causing the stress, which happens to be your family. I'm sorry.
 *  She says quite clearly there's not a way to move on.
 *  And I know what I have to do to save my life. And the only thing I can do is for you and I have to accept. I'm sorry.
@@ -354,6 +402,7 @@
 *  Goodbye.
 *  Bye.
 *  We'll be right back.
+*  Hello.
 *  Hi, Mr. Nelson. Thanks so much for getting back to me again.
 *  Can you hear me okay?
 *  Yes.
@@ -361,28 +410,36 @@
 *  So, Katie, you eventually spoke with Denzel about how he saw his relationship with Diane and with her family.
 *  So in his mind, how did all of this play out?
 *  So Denzel also describes falling in love as sort of sudden and unexpected.
-*  Well, one day I decided I was just going to go for a drive. And Diane was out working in the yard. She says, what are you up to today? And I said, you know, it's a nice day. I'm going to get in a truck and just go for a drive.
+*  Well, one day I decided I was just going to go for a drive. And Diane was out working in the yard. She says, what are you up to today?
+*  And I said, you know, it's a nice day. I'm going to get in a truck and just go for a drive.
 *  When I first got in touch with him on the phone, he told me this long story about falling in love with Diane and his truck.
 *  I said, you want to come along? And she said, well, where are you going? I said, I don't know.
 *  She said, well, yeah.
-*  And that day they took their first drive.
-*  Soon one drive became regular drives and then longer drives. They took trips to horse shows and quilt shows and antique sales all around the state.
-*  One of the first trips we made, it always tickled me because her husband was an attorney. And every trip they ever went on, they had to be certain such a place because they had a motive.
+*  And that day they took their first drive. Soon one drive became regular drives and then longer drives.
+*  They took trips to horse shows and quilt shows and antique sales all around the state.
+*  One of the first trips we made, it always tickled me because her husband was an attorney.
+*  And every trip they ever went on, they had to be certain such a place because they had a motive.
 *  You know, these trips were themselves kind of an entirely new experience for Diane.
-*  And the first trip we went on, we just took off. She says, where are we staying tonight? And I said, well, where do you want to stay?
-*  Diane, he said, was amazed to learn that Denzel never booked a motel room in advance. He just got in his car and drove and drove until he felt like stopping and then he'd stay at whatever motel happened to have space.
+*  And the first trip we went on, we just took off. She says, where are we staying tonight?
+*  And I said, well, where do you want to stay?
+*  Diane said was amazed to learn that Denzel never booked a motel room in advance.
+*  He just got in his car and drove and drove until he felt like stopping and then he'd stay at whatever motel happened to have space.
 *  So she liked how it was kind of more spontaneous traveling with you.
 *  The staneous deal was something that just really tickled her.
-*  And Denzel says that on those longer trips, they would sometimes stay overnight at a motel. In the beginning, of course, they're just friends. So they would sleep in two separate beds. He talked about leaving the room to go outside while she got dressed and he'd do the same for her.
-*  But then one night, as he told it, Diane just climbed out of her bed and into his arms and he thought at that moment about how she was the gentlest person he'd ever met.
+*  And Denzel says that on those longer trips, they would sometimes stay overnight at a motel.
+*  In the beginning, of course, they're just friends, so they would sleep in two separate beds.
+*  He talked about leaving the room to go outside while she got dressed and he'd do the same for her.
+*  But then one night, as he told it, Diane just climbed out of her bed and into his arms.
+*  And he thought at that moment about how she was the gentlest person he'd ever met.
 *  Finally one day.
 *  Well, anyway, we ended up in a big house and I was invited.
 *  And so this relationship just blossoms.
-*  We had some really a couple, three really good years there from 2013 until this all came to pass.
+*  We had some really a couple, three really good years there from 2013 until this all came to fan.
 *  When Denzel moved in, you know, he knew that Diane's daughters weren't really accepting of the relationship.
 *  Chris never did like the idea that I was living in her dad's house.
 *  But he also didn't really care.
-*  You know, it wasn't her dad's house anymore. It was her mother's house.
+*  You know, it wasn't her dad's house anymore.
+*  It was her mother's house.
 *  I think Denzel felt like, you know, Diane was a grown woman and she was entitled to make her own decisions.
 *  And it didn't really bother him whether a couple of daughters who lived out of state approved of him or not.
 *  But later, I think Denzel started to butt heads more with Chris and Julie.
@@ -393,34 +450,28 @@
 *  No, she hated it.
 *  Yeah.
 *  She was perfectly able to take care of her own bills and everything.
-*  Hmm.
-*  I'm curious what Denzel's interpretation and recollection is of the day that Diane's daughters show up with that order, forcing him to leave the house.
+*  I'm curious what Denzel's interpretation and recollection is of the day that Diane's daughters show up with that order forcing him to leave the house.
 *  I think he was completely amazed by it.
 *  I was home and I saw Chris and Julie come up to the door and I told Diane, I says, there's going to be trouble.
 *  He didn't see it coming at all.
-*  And then the sheriff showed up and they had a restraining order and they hauled me out of the house.
-*  And I heard Chris tell Diane, Denzel did something illegal and you're never going to see it again.
 *  In Denzel's version of events, he doesn't resist at all.
 *  He goes into Diane's bedroom to say goodbye to her.
 *  I told Diane, I said, be tough, honey.
 *  He gathers his various medications and gets into his car and drives away.
 *  And I think Denzel was completely taken aback when he heard the specific charges that he was accused of.
-*  They charged me with elderly abuse.
-*  Just one lie right after another.
+*  They charged me with elderly abuse, just one lie right after another.
 *  Certainly the phrase elder abuse struck him as being entirely inappropriate.
-*  Denzel ended up giving me a copy of his diary from that time.
-*  And he called them the Sin Sisters, kind of coming in and making up stories about him hurting this person who he loved more than anyone else.
+*  Denzel ended up giving me a copy of his diary from that time and he called them the Sin Sisters, kind of coming in and making up stories about him hurting this person who he loved more than anyone else.
 *  They said I wasn't seeing it right or we weren't eating right.
+*  Yeah.
 *  That's the lies they told.
 *  And he had his own explanation for things.
 *  Most of the time we went out to eat because we cooked.
-*  And Diane had cooked all her lives.
-*  As for the cupboards being bare, well, Denzel said the cupboards were bare because he knew that Diane had spent 50 years of her life cooking for other people.
-*  And he thought it would be nice for her to be taken care of.
+*  And Diana took all her lies.
+*  As for the cupboards being bare, well, Denzel said the cupboards were bare because he knew that Diane had spent 50 years of her life cooking for other people and he thought it would be nice for her to be taken care of.
 *  They said there was some mold in there and there was no mold.
 *  As for the house being dirty, again, he said it looked okay to him.
-*  But anyway, he didn't like to see Diane on her hands and knees scrubbing the floor.
-*  And any time he did, he told her to get up and not worry about it.
+*  But anyway, he didn't like to see Diane on her hands and knees scrubbing the floor and anytime he did, he told her to get up and not worry about it.
 *  He would take care of things.
 *  So Denzel, you know, he left the house as he was forced to do.
 *  But I think from that moment, he had every intention to fight Diane's daughters for what he saw as Diane's freedom and liberation.
@@ -428,34 +479,43 @@
 *  What does he say about that?
 *  He really denies that at this time, Diane was sick?
 *  No, he was not having any memory issues.
-*  So in your opinion, she didn't really have dementia right when this all started. She got it later?
+*  So in your opinion, she didn't really have dementia right when this all started.
+*  She got it later?
 *  No, no.
-*  Sure. He noticed Diane was a little less steady on her feet.
-*  You know, maybe her memory wasn't what it was at the age of 30 or 40, but he didn't see it as being some big serious thing.
+*  Sure, he noticed Diane was a little less steady on her feet and, you know, maybe her memory wasn't what it was at the age of 30 or 40.
+*  But he didn't see it as being some big serious thing.
 *  A lot of people have a bit of dementia.
 *  And I think his view was that Diane was more or less unchanged and certainly not changed to the point where she needed someone to be caring for her all of the time.
 *  He was prepared to care for her in whatever way he said she needed.
 *  So what does Denzel do after he and Diane are forcibly separated?
-*  So the first thing he does is leave the house, as he's ordered to do. He moves in with his son.
-*  But once Diane's transferred to the assisted living facility, he's given visitation rights again, and he starts visiting her every day.
-*  He shows up at 7 a.m. He stays 12 hours. He goes for little walks with her around the building. He calculates that if they walk around the building 10 times, it's a mile. They'll walk it twice. He sits with her while she naps.
+*  So the first thing he does is leave the house, as he's ordered to do.
+*  He moves in with his son.
+*  I just went nuts. I mean, couldn't connect with her, couldn't call her or nothing.
+*  But once Diane's transferred to the assisted living facility, he's given visitation rights again and he starts visiting her every day.
+*  Most morning, I'm an early riser, always have been. I wake up at four o'clock. I don't care what time I go to bed.
+*  And so I'd wait around until seven when I could go out there, go to breakfast with her.
+*  He shows up at seven a.m. He stays 12 hours. He goes for little walks with her around the building.
+*  He calculates that if they walk around the building 10 times, it's a mile. They'll walk it twice.
+*  He sits with her while she naps.
 *  We played a lot of cards and watched TV and sat out in the porch swing.
-*  And he says that oftentimes in the night he would get a call from the assisted living facility and a nurse would tell him that Diane was crying, 2 a.m., 3 a.m., that she was crying and she wouldn't stop. And they'd ask if he could come.
+*  And he says that oftentimes in the night he would get a call from the assisted living facility and a nurse would tell him that Diane was crying,
+*  2 a.m., 3 a.m., that she was crying and she wouldn't stop. And they'd ask if he could come.
 *  But many nights they'd call me that Diane was having a bad time.
 *  Was it just because she was sick or she was lonely, do you think?
+*  She just, with what her daughters did to her. And then maybe they tried to call that day or something that she wouldn't talk to them and then she'd be thinking about it.
 *  Yeah. How would you settle her down?
-*  Hug her? Yes, sir. Tell her everything was going to be alright.
+*  Hug her? Yes, sir. Tell her everything was going to be all right.
 *  And as Denzel tells it, you know, Diane is very clear throughout this whole time that she loves him, that she wants to be with him, and that more than that, she doesn't want to see her daughters anymore.
-*  And Denzel sees it for himself. He says, you know, when Chris and Julie call, Diane's asked if she wants to take the call. She always says no.
-*  As Christmas approaches, Diane sends word to her daughters through her lawyers that she doesn't want to see them at all.
-*  And I think Denzel really feels, heading into the guardianship case, that he has a really good chance of winning because isn't it obvious?
+*  And Denzel sees it for himself. He says, you know, when Chris and Julie call, Diane's asked if she wants to take the call.
+*  She always says no. As Christmas approaches, Diane sends word to her daughters through her lawyers that she doesn't want to see them at all.
+*  And I think Denzel really feels heading into the guardianship case that he has a really good chance of winning because isn't it obvious?
 *  Diane is telling everyone that she wants Denzel and shouldn't it be her choice?
 *  Well, eventually a court had to make that decision. Tell us what happened during this trial over guardianship for Diane.
 *  Well, in a way, this kind of routine trial in this small town in Iowa became this larger philosophical debate over which version of Diane should be listened to.
-*  Chris and Julie made the point that their mother had for years told them if she ever got dementia, they should be the ones to take care of her. She trusted them to make the right decision for her.
-*  Denzel, on the other hand, argued that none of that really mattered because the version of Diane who was sitting in front of them all was saying something very different.
-*  She was saying she wanted him. So in the end, it was a question of what does Diane really want?
-*  Is it what she's saying she wants there in the moment in court or is it what she said consistently for all the years before her mind became impaired?
+*  Chris and Julie made the point that their mother had for years told them if she ever got dementia, they should be the ones to take care of her.
+*  She trusted them to make the right decision for her. Denzel, on the other hand, argued that none of that really mattered because the version of Diane who was sitting in front of them all was saying something very different.
+*  She was saying she wanted him. So in the end, it was a question of what does Diane really want? Is it what she's saying she wants there in the moment in court?
+*  Or is it what she said consistently for all the years before her mind became impaired?
 *  And ultimately, what does the judge decide?
 *  In the end, neither of those two sides wins.
 *  The judge decides that Chris and Julie won't be suitable guardians in part because they live out of state, but also because they don't seem to be taking their mother's wishes into consideration when making decisions for her.

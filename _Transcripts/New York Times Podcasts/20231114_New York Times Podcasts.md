@@ -1,4 +1,13 @@
-# Hamas’s Bloody Arithmetic
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2071s
+Video Keywords: []
+Video Views: 13963
+Video Rating: None
+---
+
+# Hamasâ€™s Bloody Arithmetic
 **New York Times Podcasts:** [November 14, 2023](https://www.youtube.com/watch?v=69yDDhDFSh4)
 *  From the New York Times, I'm Michael Bavaro.
 *  This is The Daily.

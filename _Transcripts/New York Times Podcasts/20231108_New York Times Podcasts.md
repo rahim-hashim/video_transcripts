@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1505s
+Video Keywords: []
+Video Views: 30830
+Video Rating: None
+---
+
 # The Trumps Take the Stand
 **New York Times Podcasts:** [November 08, 2023](https://www.youtube.com/watch?v=6plkl8dADek)
 *  From New York Times, I'm Michael Bobarro.

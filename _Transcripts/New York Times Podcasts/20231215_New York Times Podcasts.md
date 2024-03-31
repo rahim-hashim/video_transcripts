@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2251s
+Video Keywords: []
+Video Views: 11231
+Video Rating: None
+---
+
 # The Year of Taylor Swift
 **New York Times Podcasts:** [December 15, 2023](https://www.youtube.com/watch?v=dYtxBRSoJbM)
 *  From New York Times, I'm Michael Bobarro. This is The Daily.
@@ -244,8 +253,8 @@
 *  Well, talk about the lyrics because I think it's an incredibly exhaustive, encyclopedic
 *  kind of after study of a failed relationship.
 *  Right.
-*  And something about her as a songwriter, she loves to upend a cliché.
-*  Her understanding of cliché and language and metaphor.
+*  And something about her as a songwriter, she loves to upend a clichÃ©.
+*  Her understanding of clichÃ© and language and metaphor.
 *  Listen to this.
 *  You call me up again just to break me like a promise.
 *  And then she says something that is so withering, so casually cruel in the name of being honest.

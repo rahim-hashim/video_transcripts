@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1995s
+Video Keywords: []
+Video Views: 3298
+Video Rating: None
+---
+
 # Will Threads Kill Twitter?
 **New York Times Podcasts:** [July 10, 2023](https://www.youtube.com/watch?v=MMDhyNAqRg8)
 *  From the New York Times, I'm Natalie Ketroweth.

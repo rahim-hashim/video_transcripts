@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1628s
+Video Keywords: []
+Video Views: 794
+Video Rating: None
+---
+
 # Should The Government Pay for Your Bad Climate Decisions?
 **New York Times Podcasts:** [March 24, 2023](https://www.youtube.com/watch?v=9DZKwLaHbDw)
 *  From New York Times, I'm Michael Bobauro. This is a daily.

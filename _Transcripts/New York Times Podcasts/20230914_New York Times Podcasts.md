@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1623s
+Video Keywords: []
+Video Views: 53245
+Video Rating: None
+---
+
 # An Armored Train and a Dangerous New Alliance
 **New York Times Podcasts:** [September 14, 2023](https://www.youtube.com/watch?v=DyYZfXhaFY8)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

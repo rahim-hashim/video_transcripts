@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1609s
+Video Keywords: []
+Video Views: 4538
+Video Rating: None
+---
+
 # The Supreme Court Tests Its Own Limits on Guns
 **New York Times Podcasts:** [November 09, 2023](https://www.youtube.com/watch?v=yI0p8hgR8xA)
 *  From the New York Times, I'm Sabrina Taverdisy, and this is The Daily.

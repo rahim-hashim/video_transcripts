@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 3079s
+Video Keywords: []
+Video Views: 2605
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Most Dangerous Person in the World Is Randi Weingarten’
 **New York Times Podcasts:** [June 11, 2023](https://www.youtube.com/watch?v=VEFEJTLCBc4)
 *  Hi, my name is Jonathan Mahler, and I'm a staff writer for the New York Times magazine.

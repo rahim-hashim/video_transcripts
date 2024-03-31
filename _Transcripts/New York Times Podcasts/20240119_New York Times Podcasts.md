@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1604s
+Video Keywords: []
+Video Views: 8903
+Video Rating: None
+---
+
 # The Fishermen Who Could End Federal Regulation as We Know It
 **New York Times Podcasts:** [January 19, 2024](https://www.youtube.com/watch?v=HR5DMZhUJP4)
 *  From New York Times, I'm Michael Bobarro. This is The Daily.

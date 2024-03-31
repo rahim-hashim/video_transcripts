@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1557s
+Video Keywords: []
+Video Views: 13714
+Video Rating: None
+---
+
 # The Arm-Twisting, Back-Stabbing Battle for House Speaker
 **New York Times Podcasts:** [October 17, 2023](https://www.youtube.com/watch?v=Oi3NTIWO3jk)
 *  From the New York Times, I'm Michael Bobauro.

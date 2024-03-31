@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1864s
+Video Keywords: []
+Video Views: 4295
+Video Rating: None
+---
+
 # The Man Who Counts Every Shooting in America
 **New York Times Podcasts:** [December 18, 2023](https://www.youtube.com/watch?v=V3mV7YEuKpw)
 *  From New York Times, I'm Michael Bobarro.

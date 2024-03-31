@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1854s
+Video Keywords: []
+Video Views: 1934
+Video Rating: None
+---
+
 # Turned Away and Left at Sea
 **New York Times Podcasts:** [June 07, 2023](https://www.youtube.com/watch?v=CfwgWg0iYy8)
 *  From New York Times, I'm Michael Bobarro.

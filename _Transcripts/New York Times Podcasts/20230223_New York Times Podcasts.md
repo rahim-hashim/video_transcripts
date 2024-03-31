@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1684s
+Video Keywords: []
+Video Views: 236
+Video Rating: None
+---
+
 # A Ruling That Could End the Internet as We Know It
 **New York Times Podcasts:** [February 23, 2023](https://www.youtube.com/watch?v=savYer-l7zQ)
 *  From the New York Times, I'm Michael Bobarro. This is The Daily.

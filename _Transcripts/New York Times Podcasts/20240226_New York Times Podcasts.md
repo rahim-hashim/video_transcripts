@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1715s
+Video Keywords: []
+Video Views: 35335
+Video Rating: None
+---
+
 # The Alabama Ruling That Could Stop Families From Having Kids
 **New York Times Podcasts:** [February 26, 2024](https://www.youtube.com/watch?v=6RazfLflFzI)
 *  From the New York Times, I'm Michael Bobarro.
@@ -284,15 +293,16 @@
 *  How are you?
 *  Hey, how are you?
 *  I'm good.
-*  So as promised, we wanted to check back in with you.
+*  So, as promised, we wanted to check back in with you.
 *  Yes.
-*  And it's now Friday, the 14th of July, and we're going to be having a very special
+*  It's now Friday afternoon.
+*  This was the day that your transfer was scheduled to happen.
 *  So I wonder if you can just catch us up on what's happened since we last spoke with you
 *  a couple days ago.
 *  Sure.
 *  So later on that night, like at seven o'clock, I got a response, but it was kind of like
-*  lawyer response and a very much of we don't really know yet what's going on.
-*  You know, we'll be in touch as we figure things out.
+*  a lawyer response and a very much of, we don't really know yet what's going on.
+*  We'll be in touch as we figure things out.
 *  So after I got that, I just sent an email directly to my doctor and I said, you know,
 *  you got to shoot me straight.
 *  What's going on?
@@ -306,17 +316,17 @@
 *  And he was basically silent, you know, for 20, 30 minutes.
 *  He just didn't know what to say and was trying to process this decision and the cancellation
 *  of the transfer that we've been waiting for for over a year.
-*  And then, you know, I called our surrogate and had to break the news to her, the person
-*  who'd been taking hormone medications for the last three weeks and dealing with that
-*  while also dealing, you know, with her own family and had to break that news.
+*  And then, you know, I called our surrogate and had to break the news to her.
+*  The person who's been taking hormone medications for the last three weeks and dealing with
+*  that while also dealing, you know, with her own family and had to break that news.
 *  And she was obviously devastated as well.
 *  After you processed this, after you got off the phone with the surrogate, what was going
 *  through your head?
 *  It was, how are we going to make this happen?
 *  How are we going to get these embryos out of this state and have our transfer move forward?
-*  But as of now, we are unable to move our embryos out of the state because the clinics
-*  are worried that there might be destruction of an embryo, you know, obviously through
-*  the process of transporting them out of state.
+*  But as of now, we are unable to move our embryos out of the state because the clinics are worried
+*  that there might be destruction of an embryo, you know, obviously through the process of
+*  transporting them out of state.
 *  And that could open them up to liability.
 *  It could open us up to liability.
 *  So that was not an option either.
@@ -332,8 +342,8 @@
 *  Right.
 *  Which every, every, when you're in this process, every day seems like a year.
 *  We've been waiting and waiting to have a child and we were on the cusp.
-*  And so the thought of having to wait, you know, another year or even another six months
-*  is really hard for us.
+*  And so the thought of having to wait another year or even another six months is really
+*  hard for us.
 *  How did you end up spending this day, Friday, the day where you thought that you were going
 *  to begin a journey towards having a child and instead you didn't because of this ruling?
 *  I mean, I spoke with my mom, my dad and my sister all today.
@@ -342,17 +352,18 @@
 *  Like we were all excited to have the possibility that a child would be coming into our family.
 *  And she said, you know, it feels like a death.
 *  Do you feel that way?
-*  I do in the sense of, it feels like a death of our dream to become parents.
+*  I do in the sense of it feels like a death of our dream to become parents.
 *  You know, we were almost there.
 *  And so now that dream has, it seems less obtainable at this moment.
-*  Megan, thank you for sharing all this with us.
+*  Hmm.
+*  Well, Megan, thank you for sharing all this with us.
 *  Of course.
 *  In our first conversation and now in this second one.
 *  And I wish you and your husband the very best.
 *  Yeah, no problem.
 *  Thank you.
 *  Over the weekend, both Democratic and Republican lawmakers in Alabama, including its conservative
-*  governor, Kay Ivey, said they would consider legislation to protect IVF treatments from
+*  Governor Kay Ivey, said they would consider legislation to protect IVF treatments from
 *  the court's ruling.
 *  But so far, it's unclear when such legislation would be voted on and whether there's enough
 *  support for it to pass.
@@ -377,8 +388,8 @@
 *  for himself and his family.
 *  Today's episode was produced by Eric Krupke, Alex Stern, Sydney Harper, and Mary Wilson.
 *  It was edited by Patricia Willens, fact-checked by Will Peischel, contains original music
-*  by Mary Lozano, Diane Wong, and Dan Powell, and was engineered by Alyssa Moxley.
-*  Our theme music is by Jim Brunberg and Ben Lansferk of Wonderly.
+*  by Marian Lozano, Diane Wong, and Dan Powell, and was engineered by Alyssa Moxley.
+*  Our theme music is by Jim Brunberg and Ben Landsberg of Wonderly.
 *  That's it for the Daily.
 *  I'm Michael Bobarro.
 *  See you tomorrow.

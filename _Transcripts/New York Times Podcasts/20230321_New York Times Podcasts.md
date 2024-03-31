@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1399s
+Video Keywords: []
+Video Views: 200
+Video Rating: None
+---
+
 # China, Russia and the Risk of a New Cold War
 **New York Times Podcasts:** [March 21, 2023](https://www.youtube.com/watch?v=3rqJX6pvmXE)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

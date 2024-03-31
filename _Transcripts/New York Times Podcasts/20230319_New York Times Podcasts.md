@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 3287s
+Video Keywords: ['Ghibli Park', 'the daily', 'narrated articles', 'audio', 'new york times', 'nyt']
+Video Views: 447
+Video Rating: None
+---
+
 # The Sunday Read: ‘Spirited Away to Miyazaki Land’
 **New York Times Podcasts:** [March 19, 2023](https://www.youtube.com/watch?v=iC_rFFyXB30)
 *  I grew up going to what I think of as very American theme parks. Roller coasters everywhere,

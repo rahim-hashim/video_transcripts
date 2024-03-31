@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1630s
+Video Keywords: []
+Video Views: 4092
+Video Rating: None
+---
+
 # The Afterlife of a Gun
 **New York Times Podcasts:** [January 09, 2024](https://www.youtube.com/watch?v=rnbij_j9pYQ)
 *  From the New York Times, I'm Natalie Ketroff. This is The Daily.

@@ -1,4 +1,13 @@
-# The Sunday Read: ‘The Botched Hunt for the Gilgo Beach Killer’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3276s
+Video Keywords: []
+Video Views: 4178
+Video Rating: None
+---
+
+# The Sunday Read: â€˜The Botched Hunt for the Gilgo Beach Killerâ€™
 **New York Times Podcasts:** [November 05, 2023](https://www.youtube.com/watch?v=_8Ja2mKoMr0)
 *  I first heard about this case 13 years ago, in 2010.
 *  Four sets of human remains were found on the side of a highway on Long Island, just an
@@ -647,7 +656,7 @@
 *  Those calls resumed the day after Hewerman came home.
 *  Scouring Hewerman's email, the police found accounts for burner phones.
 *  None were the ones connected to the women's disappearances, but with one of those burners,
-*  they found something significant—an email account he used to conduct Google searches.
+*  they found something significantâ€”an email account he used to conduct Google searches.
 *  The content of these searches was everything the police had hoped and dreaded it to be.
 *  He was interested in violent porn.
 *  He was interested in child porn.
@@ -668,7 +677,7 @@
 *  They needed DNA to confirm everything else they had found, including the hairs on the
 *  tape used to bind the bodies.
 *  Tailing Hewerman, they picked their sample from a pizza box he tossed into a garbage
-*  can on Fifth Avenue in Manhattan—one more indelible image to make this case notorious,
+*  can on Fifth Avenue in Manhattanâ€”one more indelible image to make this case notorious,
 *  and the bramble.
 *  The hair follicles from the tape contained trace genetic samples requiring a special
 *  process called mitochondrial analysis.

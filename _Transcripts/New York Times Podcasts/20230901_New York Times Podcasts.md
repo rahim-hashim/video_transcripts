@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2343s
+Video Keywords: []
+Video Views: 10673
+Video Rating: None
+---
+
 # Arizona’s Pipe Dream
 **New York Times Podcasts:** [September 01, 2023](https://www.youtube.com/watch?v=4nPRmfMfbLE)
 *  It's just past 7 a.m. in Phoenix. I'm standing at the top of Camelback Mountain. It's the

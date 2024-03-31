@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1905s
+Video Keywords: []
+Video Views: 9295
+Video Rating: None
+---
+
 # The U.N. Scandal Threatening Crucial Aid to Gaza
 **New York Times Podcasts:** [February 06, 2024](https://www.youtube.com/watch?v=tWt95wMsKSw)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
@@ -292,7 +301,7 @@
 *  feel this is the time to try and bring it down because as much as they dislike the premise
 *  of what UNRWA stands for, they recognize that it plays a huge and important role in sustaining
 *  life ultimately during a devastating war that has killed roughly one in a hundred Garzons,
-*  according to Garzón official estimates.
+*  according to GarzÃ³n official estimates.
 *  And they don't have a plan for what could replace UNRWA and who could step in, who has
 *  the manpower and the logistical footprint to deliver aid, to provide shelter.
 *  And there are fears that if UNRWA collapses, it would hugely worsen what is already a very

@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2045s
+Video Keywords: []
+Video Views: 17276
+Video Rating: None
+---
+
 # Kick Trump Off the Ballot? Even Liberal Justices Are Skeptical
 **New York Times Podcasts:** [February 09, 2024](https://www.youtube.com/watch?v=HdphPIxZ5GQ)
 *  From New York Times, I'm Michael Bobauro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1822s
+Video Keywords: []
+Video Views: 138
+Video Rating: None
+---
+
 # Why Russia Is Taking Thousands of Ukrainian Children
 **New York Times Podcasts:** [March 03, 2023](https://www.youtube.com/watch?v=HOnv-fCNnzU)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

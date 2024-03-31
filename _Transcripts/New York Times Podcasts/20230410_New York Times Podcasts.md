@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1752s
+Video Keywords: []
+Video Views: 1189
+Video Rating: None
+---
+
 # An Extraordinary Act of Political Retribution in Tennessee
 **New York Times Podcasts:** [April 10, 2023](https://www.youtube.com/watch?v=nqrEIvfbexE)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
@@ -324,115 +333,90 @@
 *  It's been pretty remarkable, honestly.
 *  These are two state legislators who have now been elevated to a national profile.
 *  Given the opportunity with the ILO, the state of Tennessee has been able to
-*  To preach about gun violence, the need to restrict gun access, racism in their
-*  state, in their support for these young protesters.
+*  give the opportunity to all kinds of national media watching to preach about
+*  gun violence, the need to restrict gun access, racism in their state, in their
+*  support for these young protesters.
 *  And now you've seen everyone from former President Barack Obama, President Biden,
-*  and many other people who have been in charge of this country's
-*  one from former President Barack Obama, President Biden,
-*  all of these national Democrats weigh in,
-*  talk about how unfair and undemocratic this was,
-*  circulate fundraising links.
+*  all of these national Democrats weigh in, talk about how unfair and undemocratic
+*  this was, circulate fundraising links.
 *  They've raised thousands of dollars in the days since.
-*  I mean, respectfully, I don't think a lot of people
-*  outside of the state of Tennessee
-*  would have necessarily known about them, and here we are.
-*  But what, at a practical level, will happen to them?
-*  So there's a very real possibility
-*  this ends with them back in the state legislature.
-*  Really?
-*  How?
-*  So under the rules governing this whole process,
-*  the governing bodies in their counties
-*  can appoint someone to fill the seat until a special election.
-*  And in Nashville, it seems pretty clear
-*  that there are the votes to name Jones back to that open seat
-*  as early as Monday.
+*  I mean, respectfully, I don't think a lot of people outside of the state of Tennessee
+*  would have necessarily known about them.
+*  And here we are.
+*  I mean, I think that's a great way to start a conversation.
+*  I think that's a great way to start a conversation.
+*  would have necessarily known about them.
+*  And here we are.
+*  But what at a practical level will happen to them?
+*  So there's a very real possibility this ends with them back in the state legislature.
+*  Really? How?
+*  So under the rules governing this whole process, the governing bodies in their
+*  counties can appoint someone to fill the seat until a special election.
+*  And in Nashville, it seems pretty clear that there are the votes to name Jones
+*  back to that open seat as early as Monday.
 *  Oh my gosh.
-*  And it's likely that both men will run again for their seats,
-*  and they will do so now with a war chest
-*  filled with donations from appreciative voters
-*  across the country.
-*  So Emily, I'm listening to your telling of this story
-*  and thinking really, this did not
-*  go that badly for these lawmakers.
+*  And it's likely that both men will run again for their seats and they will do so
+*  now with a war chest filled with donations from appreciative voters across the country.
+*  So, Emily, I'm listening to your telling of this story.
+*  And thinking really, you know, this did not go that badly for these lawmakers.
 *  On the contrary, it raised their national profile.
 *  They now have a war chest.
-*  And in some ways, I don't know.
-*  To me, it looks like own goal for Republicans, right?
+*  And, you know, in some ways, I don't know, to me, it looks like own goal for
+*  Republicans, right?
 *  This kind of backfired.
-*  I think that's why a lot of people in this state,
-*  a lot of political observers, are almost bewildered
-*  about why the Republicans chose to pick this fight
-*  and chose to give them this kind of platform.
-*  I will say the conservative base is pretty happy
-*  with what happened.
-*  And in a state where, quite frankly, the majority
-*  of elections are now decided in Republican primaries
-*  as opposed to general elections, for lawmakers,
-*  I think that's what matters.
-*  The hard right is praising them for fighting,
-*  for showing how to deal with a so-called insurrection.
+*  I think that's why a lot of people in the state, a lot of political observers are
+*  almost bewildered about why the Republicans chose to pick this fight and
+*  chose to give them this kind of platform.
+*  I will say the conservative base is pretty happy with what happened.
+*  And in a state where, quite frankly, the majority of elections are now decided in
+*  Republican primaries as opposed to general elections, for lawmakers, I think
+*  that's what matters.
+*  The hard right is praising them for fighting, for showing how to deal with a so
+*  called insurrection.
 *  This is what happens now.
 *  They're happy with this.
 *  They say this is how it should be done.
-*  So Emily, in some ways, this is where
-*  we are with politics in America right now, right?
-*  Like each side speaking only to its base, not to each other.
-*  It's really like a performance intended
-*  for an audience that's sometimes even outside the state
-*  completely.
-*  Like the more traditional route for these lawmakers
-*  who felt unheard, in some ways, would
-*  have been to work within the system,
-*  focus on changing the power dynamic from the inside
-*  by persuading voters in elections, right?
+*  So, Emily, in some ways, this is where we are with politics in America right now,
+*  right? Like each side speaking only to its base, not to each other.
+*  It's really like a performance intended for an audience that's sometimes even
+*  outside the state completely.
+*  Like the more traditional route for these lawmakers who felt unheard in some ways
+*  would have been to work within the system, focus on changing the power dynamic from
+*  the inside by persuading voters in elections, right?
 *  But that's not what happened.
-*  Right.
-*  Because if you're one of these Democrats,
-*  how do you find compromise with this particular brand
-*  of Republican majority?
-*  This is a Republican supermajority
-*  that is willing to wield their power in what
-*  seems like any way they can to squash concern or pushback
-*  from these Democrats who represent these little blue
-*  dots in red states.
-*  So even if ultimately these Democratic lawmakers end up
-*  back in their seats, the fact that Republicans took
-*  this step at all, I think raises concerns about the precedent
-*  it sets, not only in Tennessee, but across the country.
-*  About the steps a supermajority is willing to take
-*  to punish duly elected members of the minority.
+*  Right. Because if you're one of these Democrats, how do you find compromise with
+*  this particular brand of Republican majority?
+*  This is a Republican supermajority that is willing to wield their power in what
+*  seems like any way they can to squash concern or pushback from these Democrats
+*  who represent these little blue dots in red states.
+*  So even if ultimately these Democratic lawmakers end up back in their seats, the
+*  fact that Republicans took this step at all, I think raises concerns about the
+*  precedent it sets not only in Tennessee, but across the country about the steps a
+*  supermajority is willing to take to punish duly elected members of the
+*  minority.
 *  Emily, thank you.
 *  We'll be right back.
 *  Here's what else you should know today.
-*  On Friday night, a federal judge in Texas
-*  issued a preliminary ruling invalidating
-*  the federal government's 23-year-old approval
-*  of the abortion pill, Mifepristone.
-*  It was an unprecedented order that, if it survives court
-*  challenges, could make it harder to get abortions in states
-*  like New York and California, where the procedure is legal.
-*  The drug, part of a two-year-old abortion
-*  that accounts for about half of all abortions in the country,
-*  will continue to be available in the short term.
-*  The judge, Matthew Kaczmarek, suspended his own ruling
-*  for a week to give the federal government time
-*  to ask an appeals court to intervene.
-*  Less than an hour after the ruling came down,
-*  a judge in Washington state issued another ruling,
-*  which contradicted that of the Texas judge.
-*  The conflicting orders appear to create a legal standoff
-*  that will lead to a legal standoff
-*  Today's episode was produced by Asta Chaturvedi,
-*  Ricky Nowacki, Will Reed, Alex Stern, and Diana Nguyen.
-*  It was edited by Mark George, Lisa Chow, and Patricia Willens,
-*  contains original music by Marian Lozano and Rowan Nimisto,
-*  and was engineered by Chris Wood.
+*  On Friday night, a federal judge in Texas issued a preliminary ruling invalidating the
+*  federal government's 23-year-old approval of the abortion pill, Mifepristone.
+*  It was an unprecedented order that, if it survives court challenges, could make it
+*  harder to get abortions in states like New York or New York City.
+*  The drug, part of a two-pill regimen that accounts for about half of all abortions in
+*  the country, will continue to be available in the short term.
+*  The judge, Matthew Kaczmarek, suspended his own ruling for a week to give the
+*  federal government time to ask an appeals court to intervene.
+*  Less than an hour after the ruling came down, a judge in Washington state issued
+*  another ruling which contradicted the ruling.
+*  The judge said that the bill would be passed in the next two weeks, and that
+*  another ruling, which contradicted that of the Texas judge.
+*  The conflicting orders appear to create a legal standoff that will likely end up in
+*  the Supreme Court.
+*  Today's episode was produced by Asta Chaturvedi, Ricky Nowetzki, Will Reed, Alex
+*  Stern and Diana Nguyen.
+*  It was edited by Mark George, Lisa Chow and Patricia Willens, contains original music
+*  by Marian Lozano and Rowan Niemesto and was engineered by Chris Wood.
 *  Special thanks to William Davis.
-*  Our theme music is based on the original music
-*  of the original music, and it's a very unique piece of music
-*  Our theme music is by Jim Brunberg and Ben Lansford
-*  of Wonderly.
+*  Our theme music is by Jim Brunberg and Ben Landsberg of Wonderly.
 *  That's it for the daily.
 *  I'm Sabrina Tavernisi.
 *  We'll see you tomorrow.

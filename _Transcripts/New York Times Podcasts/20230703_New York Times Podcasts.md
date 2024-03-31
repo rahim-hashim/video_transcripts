@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1732s
+Video Keywords: []
+Video Views: 5702
+Video Rating: None
+---
+
 # A Clash Between Religious Faith and Gay Rights
 **New York Times Podcasts:** [July 03, 2023](https://www.youtube.com/watch?v=IOaNvYsdalE)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
@@ -359,6 +368,15 @@
 *  Adam, thank you.
 *  Thank you, Sabrina.
 *  Thank you, Adam.
+*  Thank you.
+*  Thank you.
+*  Thank you.
+*  Thank you.
+*  Thank you.
+*  Thank you.
+*  Thank you.
+*  Thank you.
+*  Thank you.
 *  We'll be right back.
 *  Here's what else you should know today.
 *  I am so disappointed with this decision and it actually almost brings me to tears.
@@ -381,20 +399,19 @@
 *  And I must admit I do too.
 *  Speaking at the White House on Friday, President Biden made his displeasure with the court's
 *  decision clear.
-*  I believe the court's decision to strike down my student debt relief program was a mistake,
-*  was wrong.
+*  I believe the court's decision to strike down my student debt relief program was a
+*  mistake, was wrong.
 *  I'm not going to stop fighting to deliver borrowers what they need, particularly those
 *  at the bottom end of the economic scale.
 *  He announced he would continue the fight for debt relief and was directing the Secretary
 *  of Education to find new ways to ease the economic burden for borrowers.
 *  Today's decision has closed one path.
 *  Now we're going to pursue another.
-*  Today's episode was produced by Rob Zipko, Rachel Quester, Alex Stern and Shannon Lin,
+*  Today's episode was produced by Rob Zipko, Rachel Quester, Alex Stern, and Shannon Lin,
 *  with help from Michael Simon Johnson.
-*  It was edited by Mark George and Paige Cowitt, with help from Devin Taylor.
-*  Contains original music by Alicia Beatube and Marian Lozano and was engineered by Chris
-*  Wood.
+*  It was edited by Mark George and Paige Cowitt, with help from Devin Taylor, contains original
+*  music by Alicia Beaty Tube and Marian Lozano, and was engineered by Chris Wood.
 *  Our theme music is by Jim Brunberg and Ben Landsvark of Wonderly.
 *  That's it for the Daily.
-*  I'm Sabrina Tavernisi.
+*  I'm Sabrina Tavernese.
 *  See you on Wednesday, after the holiday.

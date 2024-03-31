@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1519s
+Video Keywords: []
+Video Views: 4156
+Video Rating: None
+---
+
 # The Presidential Politics of the Autoworkers’ Strike
 **New York Times Podcasts:** [September 28, 2023](https://www.youtube.com/watch?v=DsgDHqanS8Q)
 *  From New York Times, I'm Michael Bobarro.

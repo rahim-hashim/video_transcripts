@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1778s
+Video Keywords: []
+Video Views: 106293
+Video Rating: None
+---
+
 # Swing State Voters Are Souring on Biden
 **New York Times Podcasts:** [November 06, 2023](https://www.youtube.com/watch?v=IeToZ157OIs)
 *  From the New York Times, I'm Michael Bobarro. This is The Daily Report.

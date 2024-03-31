@@ -1,4 +1,13 @@
-# The Sunday Read: ‘Podcasters Took Up Her Sister’s Murder Investigation. Then They Turned on Her’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2930s
+Video Keywords: []
+Video Views: 3672
+Video Rating: None
+---
+
+# The Sunday Read: â€˜Podcasters Took Up Her Sisterâ€™s Murder Investigation. Then They Turned on Herâ€™
 **New York Times Podcasts:** [January 21, 2024](https://www.youtube.com/watch?v=S2-MIoz5eDI)
 *  True crime is as old as storytelling.
 *  The cultural obsession, it's nothing new.

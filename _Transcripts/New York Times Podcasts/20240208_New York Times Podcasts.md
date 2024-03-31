@@ -1,4 +1,13 @@
-# A Guilty Verdict For a Mass Shooter’s Mother
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2213s
+Video Keywords: []
+Video Views: 9367
+Video Rating: None
+---
+
+# A Guilty Verdict For a Mass Shooterâ€™s Mother
 **New York Times Podcasts:** [February 08, 2024](https://www.youtube.com/watch?v=wNm1pAvL8Gg)
 *  From the New York Times, I'm Michael Bavaro.
 *  This is The Daily.

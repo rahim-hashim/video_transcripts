@@ -1,4 +1,13 @@
-# The Sunday Read: ‘Is Måneskin the Last Rock Band?’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1732s
+Video Keywords: []
+Video Views: 4147
+Video Rating: None
+---
+
+# The Sunday Read: â€˜Is MÃ¥neskin the Last Rock Band?â€™
 **New York Times Podcasts:** [October 15, 2023](https://www.youtube.com/watch?v=kNFa2GWKkwM)
 *  Cantano e Maneskin.
 *  I'm Dan Brooks and I'm a contributor to the New York Times Magazine.

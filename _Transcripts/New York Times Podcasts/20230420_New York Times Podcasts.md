@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1487s
+Video Keywords: []
+Video Views: 1140
+Video Rating: None
+---
+
 # The Blockbuster Fox Defamation Trial That Wasn’t
 **New York Times Podcasts:** [April 20, 2023](https://www.youtube.com/watch?v=p4Bt1eP4q4o)
 *  From New York Times, I'm Michael Bavaro.

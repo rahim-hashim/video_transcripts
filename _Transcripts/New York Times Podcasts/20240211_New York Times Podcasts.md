@@ -1,4 +1,13 @@
-# The Sunday Read: ‘The Unthinkable Mental Health Crisis That Shook a New England College’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2524s
+Video Keywords: []
+Video Views: 4766
+Video Rating: None
+---
+
+# The Sunday Read: â€˜The Unthinkable Mental Health Crisis That Shook a New England Collegeâ€™
 **New York Times Podcasts:** [February 11, 2024](https://www.youtube.com/watch?v=sbmw7Zo6cWA)
 *  My name is Jordan Kissner. I'm a contributing writer for the New York Times magazine, and
 *  I've been teaching writing to university students for most of the last 10 years.

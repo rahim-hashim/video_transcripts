@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2444s
+Video Keywords: []
+Video Views: 4627
+Video Rating: None
+---
+
 # Stranded in Rafah as an Israeli Invasion Looms
 **New York Times Podcasts:** [February 20, 2024](https://www.youtube.com/watch?v=vFuNntqsSYs)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
@@ -425,165 +434,218 @@
 *  It sounds like there's honking in the background, Hussein.
 *  What is that? Where are you right now?
 *  Actually, right now, I'm down on the street.
-*  A lot of crowds here, you can imagine.
-*  There is more than a million dead people out here in small cities
+*  A lot of crowds here, people imagine.
+*  There is more than a million dead people out here in this small city
 *  at the border with Egypt.
 *  What does it look like?
-*  It looks like it's going to be a lot more crowded.
+*  I don't know.
+*  I don't know.
+*  I don't know.
+*  I don't know.
+*  I don't know.
+*  I don't know.
 *  What does it look like?
 *  They are looking like not being alive.
+*  You know?
 *  It's indescribable, actually, because their faces don't show life.
 *  They look like lost.
 *  They are lost.
 *  Thousands of people, all of them are lost on the street.
+*  Yes.
 *  Are you lost?
-*  Yes, for sure I'm lost, because I don't know what's going to happen.
+*  Yes, for sure I'm lost because I don't know what's going to happen.
 *  I don't know what shall I do.
 *  You know, it was a very scary night last night.
-*  A lot of bombardment and shooting started, a lot of shooting.
-*  We were asleep, actually, and all of us woke up due to the sound.
+*  Yeah.
+*  A lot of bombardment and shooting started.
+*  A lot of shooting.
+*  We were asleep, actually.
+*  And all of us woke up due to the sound.
 *  The house was shaking due to the bombing.
 *  My son and daughter were screaming and asking me for hugging them and hiding them.
-*  I just hugged them and found the most safe place, which is near the stairs.
-*  We just sat in there, praying to be alive, to be safe.
+*  And I just hugged them and found the most safe place, which is near the stairs.
+*  And we just sat in there, praying to be alive, to be safe.
 *  All of us were scared to be shot or be bombed for no reason.
-*  In the morning, I got to go outside to get some groceries for the house.
-*  My daughter said to me, we don't need to eat, just to stay with us.
-*  It's very dangerous to get outside, don't move.
-*  I convinced her that I'm a big man, I can manage myself.
-*  We got to eat and I'm going to be back.
-*  Don't worry about me, just be alive here and listen to your mum.
-*  Did you find food?
-*  I went to a shelter next to our house and I found tomatoes, canned meat, spaghetti.
-*  I went back to the home and did the spaghetti.
-*  It was a very difficult task.
-*  As Lynn told me, more than 50 people were killed in Lafay.
-*  I'm thinking that it could be us any day.
-*  We should live the best lives we can and enjoy every second and a minute as much as we can.
+*  At the morning, I got to go outside to get kind of groceries for the house.
+*  And my daughter said to me, we don't need to eat, just to stay with us.
+*  It's very dangerous to get outside.
+*  Don't move.
+*  Yeah.
+*  And I convinced her that I'm a big man, I can manage myself.
+*  And we got to eat.
+*  And I'm going to be back.
+*  Don't worry about me.
+*  Just be a good life here and listen to your mommy.
+*  And did you find food?
+*  Yeah.
+*  I went to a shelter next door and I found tomatoes.
+*  I bought canned meat.
+*  I bought the spaghetti and went back to the home and did the spaghetti.
+*  Because it was a very difficult night.
+*  As Lynn told me, there were more than 50 people killed in Rafa last night.
+*  So I'm thinking that it could be us any day.
+*  We should live the best lives we can.
+*  And enjoy every second and a minute as much as we can.
 *  So I got to prepare something special for this.
-*  So you got the spaghetti?
+*  So you got the spaghetti.
 *  Yes.
-*  Hussein, what was your life like before all of this started, before October 7th?
+*  That way!
+*  Hussein, what was your life like before all of this started?
+*  Before October 7th?
 *  Tell me a little bit about you.
 *  Actually, I was very busy.
 *  I just finished building my house, which was supposed to move into on the 7th of October.
-*  I bought the furniture and everything and it was to receive the furniture on 7th of October.
-*  But I didn't receive the furniture and my new house is totally destroyed.
+*  Oh wow.
+*  I bought the furniture and everything.
+*  And it was to receive the furniture on the 7th of October.
+*  Oh my goodness.
+*  But I didn't receive the furniture.
+*  And my new house is totally destroyed.
 *  Actually, it took me around two years to finish it.
 *  I got to design every corner.
-*  I was my wife, what colors to use, what materials to use.
-*  And actually, it was very beautiful.
+*  I was my wife.
+*  What colors to use, what materials to use.
+*  And actually, it was very beautiful actually.
 *  We did a great kitchen, an open kitchen to the living room.
 *  And we had a big balcony.
-*  And we were thinking that this big balcony would be a place to sit in, drinking coffee and tea and eating fresh air.
-*  Oh, that's not talking about that.
+*  And we were thinking that this big balcony would be a place to sit in, drinking coffee and tea and eating fish head.
+*  And...
+*  Let's not talk about that.
 *  Sorry about that.
 *  Sorry for that.
 *  Are you okay?
 *  Alhamdulillah, yeah, I'm fine.
-*  What are you doing now? Where are you going to go?
-*  I got a roof above me. I'm not in it.
+*  What are you doing now?
+*  Where are you going to go?
+*  I'm just walking right now.
+*  Like a zombie.
+*  Thank God that it's dark.
+*  No one can see the tears in my eyes.
+*  Actually, for me, at least I got money.
+*  I can buy food.
+*  I got a roof above me.
+*  I'm not in it.
 *  But imagine the other people who are sleeping on the seats, sleeping on tents, sleeping by the seashore.
-*  They got no toilets. They got no bathrooms.
-*  And it's not a life for humans, actually.
-*  A lot of diseases, a lot of manuication.
-*  And the people are really suffering here. They are really suffering.
+*  They got no toilets.
+*  They got no bathrooms.
+*  And it's not alive for humans actually.
+*  A lot of diseases, a lot of man-mutation.
+*  And the people are really suffering here.
+*  They are really suffering.
 *  It's inhuman what we are living in.
-*  And we did nothing. It's not our fault. We did nothing.
+*  And we did nothing.
+*  It's not our fault. We did nothing.
 *  We are just normal people just trying to live our lives.
-*  Why are we here? Why is this happening to us?
+*  Why are we here?
+*  Why is this happening to us?
 *  Sometimes I think my kids should be at school, should be studying.
-*  Are they going to join schools again? There will be schools.
-*  But they live a normal life.
+*  Are they going to join schools again?
+*  There will be schools.
+*  But they live normal lives.
 *  You know, at the beginning I tried to convince my children that we are doing a kind of camping.
 *  And my daughter just kept telling me that, no, it's not camping.
 *  If it's camping, at least we should have living bags.
 *  How is it going to be camping?
 *  People do camping at the forest, but there is no forest.
 *  We should start fire and we need marshmallows to do on fire.
-*  And there is nothing to do. We are just living on the street. It's not camping.
+*  And there is nothing to do.
+*  We are just living on the street. It's not camping.
 *  Actually, I don't get the proper answer for her.
 *  And I just said to her that you should enjoy your time with your family.
-*  At least we are all together. And we are surviving.
-*  It's kind of a special experience. We are living together and you should enjoy it.
-*  Do you think they'll remember this, Hussein? Are you worried they'll remember this?
-*  It's a scar in their memories. It won't disappear, actually.
+*  At least we are all together.
+*  And we are surviving.
+*  It's kind of a special experience.
+*  We are living together and you should enjoy it.
+*  Do you think they'll remember this, Hussein?
+*  Are you worried they'll remember this?
+*  It's a scar in their memories.
+*  And won't disappear, actually.
 *  Are you hopeful that your 16-month-old might not remember this?
-*  Maybe he won't remember it, but I guess that he is going to leave its effect on his life.
-*  Because while his family has no house, there is no proper life for him or for any child to live in.
-*  There is nothing that can be done.
-*  There is nothing to live in. There is nothing.
-*  And actually, when I see the pictures and the videos of the other people that are used to live, it's totally destroyed.
-*  So where is he going to live? It's not a proper place to live in.
+*  I hope so.
+*  Maybe he won't remember this.
+*  I hope so.
+*  Maybe he won't remember it.
+*  But I guess that he is going to leave its effect on his life.
+*  Because while his family has no house,
+*  there is no proper life for him or for any child to live in.
+*  There is nothing.
+*  And actually, when I see the pictures and the videos of the girls that we used to live,
+*  it's totally destroyed.
+*  So where is he going to live?
+*  It's not a proper place to live in.
 *  And it will affect him, deeply affect him, living in such a situation.
 *  Yeah.
-*  It's their childhood. It's my life. It's our lives, which is stolen from us.
-*  What does that feel like?
-*  No power, nothing, no choices. We don't know what to do.
-*  This doesn't declare any safe place to go to.
+*  It's their childhood.
+*  It's my life. It's our lives.
+*  Which is stolen from us.
+*  No power.
+*  Nothing. No choices.
+*  We don't know what to do.
+*  This isn't a clear, any safe place to go to.
 *  You know?
 *  So we are just sitting here, waiting for our destiny.
-*  I'm just going to go there, go there. We don't know. Maybe we are going to die. We are going to die. We don't know.
-*  We are going to die. We are going to die.
-*  We are going to die.
-*  And he had her.
-*  And he had her.
-*  We are going to camp.
-*  And there is no sleeping bag, tent.
-*  Where is the tent?
-*  Flashlight.
-*  Flashlight? There is no light. We have to go to the flashlight.
-*  No, to make the animals eat and the animals.
-*  There is no flashlight.
-*  Hmm.
-*  There is no light.
-*  There is nothing to do.
+*  I'm just going to go to the destiny.
+*  We don't know. Maybe we are going to die.
+*  We are going to die. We don't know.
+*  It's our destiny. It's our fate.
+*  It's our destiny.
+*  I don't know. They are playing with the can be.
+*  And we saw can be.
+*  They are pulling the can be.
+*  And you see the can be in the forest?
+*  And there is no sleeping bag.
+*  There is no tent.
+*  Where are you going to sleep?
+*  Flashlights.
+*  Flashlights? There's no light.
+*  We have to look for flashlights.
+*  No, we have to look for animals to eat and the Marshall.
+*  There's no Marshall? No.
+*  There's no light.
+*  There's nothing to do.
 *  I just remember the silly questions we used to play in our childhood.
-*  Who will you choose to serve?
+*  Who will you choose to save?
 *  We never imagined that we can be in a real situation where we got to choose.
-*  Unfortunately, I can't serve anyone.
-*  I only can try to serve one, two, three at maximum.
-*  Now I'm thinking about evacuating my kids to save them from the hell we are living in.
+*  Unfortunately, I can't save anyone.
+*  I only can try to save one, two, three at maximum.
+*  Right now I'm thinking about evacuating my kids to save them from the hell we are living in.
 *  A day after we spoke to Hussein, he sent a voice memo saying that he was trying to decide whether to get his family out of Gaza, through Egypt.
-*  The border is officially closed, but Gazans say that with enough money you can get people out.
+*  The border is officially closed, but Gazans say that with enough money, you can get people out.
 *  Evacuating one person from Gaza costs around $5,000.
-*  Actually, it's very hard to decide.
+*  It's very hard to decide.
 *  I cannot make a decision to try to evacuate my kids so they can be safe, they can go to school, but they are going to be far away from me.
-*  Which I don't know if I can handle.
-*  All of us just can stay here together facing the same destiny.
-*  It's really hard to take a decision.
+*  I don't know if I can handle it.
+*  All of us can stay here together facing the same destiny.
+*  It's really hard to make a decision.
 *  It's so difficult.
 *  Would you do that?
 *  I don't think so.
 *  Why? Why would you not leave?
-*  First of all, because of my daughter.
-*  I'm so attached to this land, actually. I love Gaza.
-*  But even to save your own life?
+*  First of all because of my daughter.
+*  And then I'm so attached to this land, actually. I love Gaza.
+*  But even to save your own life.
 *  My daughter's life is more important than my life.
 *  I will not be comfortable outside Gaza.
 *  On Sunday, Hussein made his decision.
 *  He said he paid to get his wife and children across the border.
 *  But he said he stayed behind to take care of his elderly parents and to pay back the money he borrowed to get his family to safety.
-*  Gada remains in Rafa.
-*  And over the weekend, Netanyahu said that negotiations over a ceasefire and a potential hostage release with Hamas had reached an impasse.
+*  Gaza remains in Rafa.
+*  And over the weekend Netanyahu said that negotiations over a ceasefire and a potential hostage release with Hamas had reached an impasse.
 *  And that his government was pushing ahead with plans for an invasion of Rafa, despite international pressure to call it off.
 *  We'll be right back.
 *  Here's what else you should know today.
-*  I will continue to do what Alexei Navalny did.
-*  I will continue to fight for our country.
-*  And I urge you to stand by me.
-*  On Monday, the widow of Alexei Navalny, the Russian opposition leader who died in a Russian prison on Friday,
-*  appeared on her husband's YouTube channel for the first time, pledging in a fiercely emotional tone to continue the fight that her husband began.
-*  I ask you to share with me your anger, anger, anger, hatred to those who...
-*  Yulia Navalnaya, who is 47 and had long shunned the spotlight, urged her husband's followers to take action, however small, against the regime of Vladimir Putin,
-*  saying, quote, I ask you to share my rage, anger and hatred of those who have dared to kill our future.
+*  I will continue to fight for our country and I urge you to stand by me.
+*  On Monday, the widow of Alexei Navalny, the Russian opposition leader who died in a Russian prison on Friday, appeared on her husband's YouTube channel for the first time.
+*  Pledging in a fiercely emotional tone to continue the fight that her husband began.
+*  Yulia Navalnaya, who is 47 and had long shunned the spotlight, urged her husband's followers to take action, however small, against the regime of Vladimir Putin.
+*  Saying, quote, I ask you to share my rage, anger and hatred of those who have dared to kill our future.
 *  She said that the best way to honor her husband's legacy was to fight more desperately and furiously than before.
 *  Meanwhile, the Russian authorities are refusing to release Navalny's body to his mother in a remote Arctic town close to the prison where he died.
 *  They told her that her son's body would be subject to a, quote, chemical examination for the next 14 days.
-*  Today's episode was produced by Rachelle Bonge, Lindsay Garrison and Stella Tan.
+*  Today's episode was produced by Rochelle Bonsha, Lindsay Garrison and Stella Tan.
 *  It was edited by Paige Cowitt and Liz O'Balin.
-*  Fact-checked by Susan Lee and Rachelle Bonge.
-*  The theme music is by Rachelle Bonge, contains original music by Dan Powell, Marian Lozano and Corey Schrupple, and was engineered by Alyssa Moxley.
-*  Special thanks to Hiba Yazbek and Yusur Alhalu.
+*  Fact checked by Susan Lee and Rochelle Bonsha.
+*  Rochelle Bonsha contains original music by Dan Powell, Marian Lozano and Corey Schrupple and was engineered by Alyssa Moxley.
+*  Special thanks to Hiba Yazbek and Yusar Alhalu.
 *  Our theme music is by Jim Brunberg and Ben Landsvark of Wonderly.
 *  That's it for the Daily. I'm Sabrina Tavernisi. See you tomorrow.

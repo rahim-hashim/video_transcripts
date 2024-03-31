@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1876s
+Video Keywords: []
+Video Views: 4029
+Video Rating: None
+---
+
 # The Wild World of Money in College Football
 **New York Times Podcasts:** [January 08, 2024](https://www.youtube.com/watch?v=ztczFpub0Jk)
 *  From the New York Times, this is The Daily.

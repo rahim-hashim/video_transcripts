@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1563s
+Video Keywords: []
+Video Views: 11394
+Video Rating: None
+---
+
 # Why a Coup in Niger Has the World’s Attention
 **New York Times Podcasts:** [August 16, 2023](https://www.youtube.com/watch?v=3u-QoTaiGb4)
 *  From the New York Times, I'm Michael Bobauro.

@@ -1,4 +1,13 @@
-# Israel and Hamas’s Fragile Cease-Fire
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1801s
+Video Keywords: []
+Video Views: 8053
+Video Rating: None
+---
+
+# Israel and Hamasâ€™s Fragile Cease-Fire
 **New York Times Podcasts:** [November 28, 2023](https://www.youtube.com/watch?v=KNyyMarY-k8)
 *  From the New York Times, I'm Sabrina Taverdisi, and this is The Daily.
 *  The fragile ceasefire between Israel and Hamas, now in its fifth day, has been historic in

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1333s
+Video Keywords: []
+Video Views: 1231
+Video Rating: None
+---
+
 # The U.S. Banned Spyware — and Then Kept Trying to Use It
 **New York Times Podcasts:** [May 15, 2023](https://www.youtube.com/watch?v=u3iyyZzL_ZA)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

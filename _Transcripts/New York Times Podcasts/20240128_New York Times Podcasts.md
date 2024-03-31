@@ -1,4 +1,13 @@
-# The Sunday Read: ‘The Whale Who Went AWOL’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2681s
+Video Keywords: []
+Video Views: 4952
+Video Rating: None
+---
+
+# The Sunday Read: â€˜The Whale Who Went AWOLâ€™
 **New York Times Podcasts:** [January 28, 2024](https://www.youtube.com/watch?v=zV3Y9kx2Zqc)
 *  What is it like for a whale to be taken out of the wild and placed in captivity?
 *  I think the closest analogy is alien abduction.
@@ -75,7 +84,7 @@
 *  was in fact wearing a harness, one strap girdling his neck and another gripping his torso just
 *  behind his flippers.
 *  Heston contacted a local scientist and word eventually reached the Norwegian Directorate
-*  of Fisheries, which dispatched an inspector, Jørgen Rea Vig.
+*  of Fisheries, which dispatched an inspector, JÃ¸rgen Rea Vig.
 *  After several failed attempts by Vig and a colleague to free the beluga while on board
 *  a dinghy, Heston put on an immersion suit and plunged into the water.
 *  Though the whale was not quite as hefty as an average adult male of his species, he was
@@ -109,7 +118,7 @@
 *  As several experts told media outlets at the time, the whale had most likely escaped from
 *  the nearby Russian navy.
 *  Based on a poll of more than 25,000 respondents, the Norwegian Broadcasting Corporation christened
-*  the beluga Valdimir, a portmanteau of Vál, the Norwegian word for whale, and the Russian
+*  the beluga Valdimir, a portmanteau of VÃ¡l, the Norwegian word for whale, and the Russian
 *  name Vladimir.
 *  The military conscription of a beluga whale might sound like a conceit plucked from less
 *  than convincing spy fiction, but it is actually a well-documented practice.
@@ -265,7 +274,7 @@
 *  Merlin Entertainments, a global operator of theme parks and other attractions, has been
 *  developing an eight-acre beluga sanctuary in Iceland since 2012.
 *  In 2019, Merlin and its various partners transported two belugas from a Shanghai aquarium to a
-*  bay on the remote island Hémai, the same bay that housed Caico, the orca that starred
+*  bay on the remote island HÃ©mai, the same bay that housed Caico, the orca that starred
 *  in Free Willy during his attempted rehabilitation in the late 1990s.
 *  As with parallel efforts, the environment has been problematic, especially in winter.
 *  Jeff Foster, a cetacean welfare expert who worked with Caico in Iceland, recalls wind

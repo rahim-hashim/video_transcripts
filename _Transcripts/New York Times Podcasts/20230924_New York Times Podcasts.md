@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2269s
+Video Keywords: []
+Video Views: 1894
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Kidnapped Child Who Became a Poet’
 **New York Times Podcasts:** [September 24, 2023](https://www.youtube.com/watch?v=cZbaQ8ewHnY)
 *  My name is Wyatt Mason, and I'm a contributing writer for the New York Times Magazine.
@@ -539,4 +548,4 @@
 *  McCray's version of the story inverts that myth.
 *  At his memoir's end, he finds his father, learns his name, and
 *  lives.
-*  ąda
+* !,

@@ -1,4 +1,13 @@
-# The Booming Business of Cutting Babies’ Tongues
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2149s
+Video Keywords: []
+Video Views: 7496
+Video Rating: None
+---
+
+# The Booming Business of Cutting Babiesâ€™ Tongues
 **New York Times Podcasts:** [February 19, 2024](https://www.youtube.com/watch?v=ZMQ583iwtf0)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  A Times investigation has found that doctors are increasingly performing unnecessary medical

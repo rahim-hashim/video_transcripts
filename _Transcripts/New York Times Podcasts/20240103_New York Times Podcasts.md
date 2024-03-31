@@ -1,4 +1,13 @@
-# Biden’s 2024 Playbook
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1645s
+Video Keywords: []
+Video Views: 6948
+Video Rating: None
+---
+
+# Bidenâ€™s 2024 Playbook
 **New York Times Podcasts:** [January 03, 2024](https://www.youtube.com/watch?v=lBNyZqXf83I)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  Yesterday on the show, we went inside Donald Trump's campaign for president to understand

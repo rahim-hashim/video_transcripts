@@ -1,4 +1,13 @@
-# The Sunday Read: ‘How an Ordinary Football Game Turns Into the Most Spectacular Thing on TV’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3628s
+Video Keywords: []
+Video Views: 3559
+Video Rating: None
+---
+
+# The Sunday Read: â€˜How an Ordinary Football Game Turns Into the Most Spectacular Thing on TVâ€™
 **New York Times Podcasts:** [January 14, 2024](https://www.youtube.com/watch?v=tDB6K8M_rN0)
 *  I'm Jody Rosen and I'm a contributing writer for the New York Times Magazine.
 *  Every week, tens of millions of people in the United States watch football, including
@@ -178,7 +187,7 @@
 *  He spoke into his headset mic.
 *  Be great, Graphics.
 *  The teams lined up for the kickoff.
-*  Toreko, 56, is a suave and eloquent announcer who typically steers clear of clichés and
+*  Toreko, 56, is a suave and eloquent announcer who typically steers clear of clichÃ©s and
 *  bombast, but the moment called for a touch of grandiloquence.
 *  Deep in the distance, it's Las Vegas, he intoned, a reference to the site where Super Bowl
 *  58 will take place in February.
@@ -537,11 +546,11 @@
 *  This play just 17 times over an 18-week period, a stakes-raising regimen that makes every
 *  game important.
 *  The drama is heightened on Sunday nights when the field is washed in light and everything
-*  – hash marks, helmets, coaches' headsets – takes on a cinematic gleam.
+*  â€“ hash marks, helmets, coaches' headsets â€“ takes on a cinematic gleam.
 *  Viewed in high definition, the game is both intimate and enormous.
 *  Players pick out beads of sweat and blades of grass, and they sweep up panoramic troop
 *  movements and eruptions of athleticism.
-*  At SNF, Esikoff is the person most attuned to the craft – the art – of televised
+*  At SNF, Esikoff is the person most attuned to the craft â€“ the art â€“ of televised
 *  football.
 *  As the halftime break wound down, he retook his position in the control room, facing that
 *  big wall of screens.
@@ -551,7 +560,7 @@
 *  Two monitors, nicknamed Elvis and Costello, had been used in the first half for a segment
 *  featuring the parents of the Lions defensive end Aidan Hutchinson, who agreed to wear mics
 *  in the stands so NBC could air their reactions.
-*  Esikoff was seated in front of the two largest screens – the program monitor, showing the
+*  Esikoff was seated in front of the two largest screens â€“ the program monitor, showing the
 *  picture currently on air, and the preview monitor, the image queued to go live next.
 *  He had a cup of coffee, and a flip card of team rosters was spread in front of him.
 *  As Esikoff explains it, directing a football game is both diabolically complex and simple

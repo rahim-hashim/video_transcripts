@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1821s
+Video Keywords: []
+Video Views: 1082
+Video Rating: None
+---
+
 # The Plan to Save Baseball From Boredom
 **New York Times Podcasts:** [March 30, 2023](https://www.youtube.com/watch?v=GWrEnojytmY)
 *  I have a mild amount of light buzzing. Is that okay?

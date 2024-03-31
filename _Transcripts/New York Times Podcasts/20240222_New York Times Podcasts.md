@@ -1,4 +1,13 @@
-# Putin’s Opposition Ponders a Future Without Aleksei Navalny
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1891s
+Video Keywords: []
+Video Views: 16836
+Video Rating: None
+---
+
+# Putinâ€™s Opposition Ponders a Future Without Aleksei Navalny
 **New York Times Podcasts:** [February 22, 2024](https://www.youtube.com/watch?v=A_Q8RAl6fiM)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  Last week, the Russian authorities announced that Alexei Navalny, the leader of Russia's

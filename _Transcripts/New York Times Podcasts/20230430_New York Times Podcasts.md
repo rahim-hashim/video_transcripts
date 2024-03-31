@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1899s
+Video Keywords: []
+Video Views: 918
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Agony of Putting Your Life on Hold to Care for Your Parents’
 **New York Times Podcasts:** [April 30, 2023](https://www.youtube.com/watch?v=B4dwZ1W1A04)
 *  Hi, my name is Jaya Lee and I'm a contributing writer for the New York Times Magazine.

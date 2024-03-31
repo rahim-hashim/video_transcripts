@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1510s
+Video Keywords: []
+Video Views: 8395
+Video Rating: None
+---
+
 # The 1948 Economic Moment That Might Explain Our Own
 **New York Times Podcasts:** [February 05, 2024](https://www.youtube.com/watch?v=yH9M5OLvU44)
 *  From the New York Times, I'm Michael Bobarro. This is The Daily.

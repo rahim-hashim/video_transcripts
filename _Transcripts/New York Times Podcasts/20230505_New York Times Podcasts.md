@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1672s
+Video Keywords: []
+Video Views: 1541
+Video Rating: None
+---
+
 # How Streaming Hurt Hollywood Writers
 **New York Times Podcasts:** [May 05, 2023](https://www.youtube.com/watch?v=GqT6qEaoL2o)
 *  Hey John, how are you? Good, hi. Hi, nice to meet you.

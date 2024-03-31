@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1662s
+Video Keywords: []
+Video Views: 3587
+Video Rating: None
+---
+
 # The Re-Militarization of Germany
 **New York Times Podcasts:** [June 21, 2023](https://www.youtube.com/watch?v=fXL8NraWSPk)
 *  From New York Times, I'm Michael Bobarro.

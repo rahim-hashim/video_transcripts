@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1745s
+Video Keywords: []
+Video Views: 761
+Video Rating: None
+---
+
 # The Election That Could Reshape Wisconsin, and the Country
 **New York Times Podcasts:** [April 04, 2023](https://www.youtube.com/watch?v=cKhRKMZYxS8)
 *  From New York Times, I'm Michael Bobarro. This is a daily.

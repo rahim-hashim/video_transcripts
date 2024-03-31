@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1643s
+Video Keywords: []
+Video Views: 7530
+Video Rating: None
+---
+
 # Why the Race to Replace George Santos Is So Close
 **New York Times Podcasts:** [February 13, 2024](https://www.youtube.com/watch?v=UP5xTBQ9RVM)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

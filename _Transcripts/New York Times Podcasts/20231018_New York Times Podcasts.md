@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1814s
+Video Keywords: []
+Video Views: 10040
+Video Rating: None
+---
+
 # The Diplomatic Scramble to Contain the Israel-Hamas War
 **New York Times Podcasts:** [October 18, 2023](https://www.youtube.com/watch?v=AUhaAa_n3N4)
 *  From the New York Times, I'm Sabrina Tavernisi and this is The Daily.

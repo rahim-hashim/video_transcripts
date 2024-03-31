@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1732s
+Video Keywords: []
+Video Views: 9524
+Video Rating: None
+---
+
 # Is College Worth It?
 **New York Times Podcasts:** [September 20, 2023](https://www.youtube.com/watch?v=dmP8YMV4ps0)
 *  From New York Times, I'm Michael Bobarro. This is a daily.

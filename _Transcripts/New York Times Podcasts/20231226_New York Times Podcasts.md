@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1191s
+Video Keywords: []
+Video Views: 12990
+Video Rating: None
+---
+
 # How A Paradise Became A Death Trap: An Update
 **New York Times Podcasts:** [December 26, 2023](https://www.youtube.com/watch?v=rp4Ty9hpAqI)
 *  Hey, it's Sabrina.
@@ -202,22 +211,22 @@
 *  I tried to go and take his shoes off, but I can't even find his feet.
 *  The ocean was just pushing me against the wall.
 *  And I, and I, I took him to the water.
-*  And he was just pulling me against the wall.
 *  And I told him, you have to follow me.
 *  I see.
 *  And the way he was swimming, I said, there's no way he's going to make it.
 *  He was just struggling, just swelling water and coughing and somehow he managed
 *  to get very close to the rock and I pulled him up.
-*  You know, he's overweight and he's, you know, older.
+*  You know, he's overweight and he's older.
 *  It was a miracle.
 *  And, you know, we still had debris falling on us and we had waves just coming over us.
 *  We were holding onto the rocks to not like get pulled or stuck in by the ocean.
-*  A nightmare.
+*  It was just, it was just, it was just, it was just, it was just,
+*  a nightmare.
 *  And then I heard a dog screaming.
 *  So I was like, I have to go back and I jumped back in the water.
 *  You know, I try to get back on the Harbor.
 *  He was laying against the wall.
-*  His eyes closed and it was screaming.
+*  His eyes closed and just screaming.
 *  There's no way I could care.
 *  I was a big pit bull and I had one, you know, my hand was fractured or broken.
 *  So I thought if I, if I try to grab him in the water, he's already freaked out.
@@ -277,7 +286,7 @@
 *  Everybody knew, you know, we're the ones who survived.
 *  You know, everybody that was in the shelter or the lucky ones.
 *  After the break, senior producer, Lindsay Garrison shares an update on Idris,
-*  a survivor of La Jueña's fire.
+*  a survivor of La JueÃ±a's fire.
 *  It's still very fresh.
 *  They already honestly till this day, it feels like it was yesterday.
 *  You know, I'm at a hotel and no one knows what happened.

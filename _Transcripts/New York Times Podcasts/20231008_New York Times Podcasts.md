@@ -1,4 +1,13 @@
-# The Sunday Read: ‘The Dungeons & Dragons Players of Death Row’
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2069s
+Video Keywords: []
+Video Views: 3644
+Video Rating: None
+---
+
+# The Sunday Read: â€˜The Dungeons & Dragons Players of Death Rowâ€™
 **New York Times Podcasts:** [October 08, 2023](https://www.youtube.com/watch?v=7sRjxYJ9TuU)
 *  On a sunny morning in a lush area of Eberron, Arthax Deaconeth was hard at work on a new
 *  invention.
@@ -71,7 +80,7 @@
 *  The game has since become one of the most popular in the world,
 *  celebrated in nostalgic television shows and dramatized in movies. It is played in homes,
 *  at large conventions, and even in prisons. By the time Ford got to high school, he had
-*  drifted toward other interests—girls, cars, and friends who sold drugs and ran with gangs.
+*  drifted toward other interestsâ€”girls, cars, and friends who sold drugs and ran with gangs.
 *  Ford started doing those things, too. He didn't get into serious trouble until December 18, 1991.
 *  Sometime before 9 p.m., two black men knocked on the door of a small home on Dale Douglas Drive
 *  in southeast El Paso, asking for the man of the house. The woman who answered, Myra Morello,

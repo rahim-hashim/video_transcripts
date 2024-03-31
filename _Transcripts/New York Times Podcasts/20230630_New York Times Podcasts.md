@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1661s
+Video Keywords: []
+Video Views: 22417
+Video Rating: None
+---
+
 # The Supreme Court Ends Affirmative Action
 **New York Times Podcasts:** [June 30, 2023](https://www.youtube.com/watch?v=sTA70qpMzJM)
 *  From the New York Times, I'm Katrin Benhold, and this is The Daily.
@@ -188,11 +197,11 @@
 *  Protesters have been calling for an end to police brutality in France, burning cars and setting fire to buildings.
 *  According to French authorities, about 180 people have been arrested and 170 officers injured.
 *  It's unclear whether the officer's detention would calm the widespread anger against the police, which has been simmering for years in France's poorer urban neighborhoods.
-*  And in the United States, dangerous temperatures are expected across the south.
-*  The heat index is forecast to reach as high as 120 degrees in many areas and stay high through the weekend.
-*  Today's episode was produced by Rob Zipko, Asta Chaturvedi and Vlexandra Lee Young with help from Rachelle Bonja.
-*  It was edited by Lexi Diao, Paige Kutyn, and the director of the film, who is also the director of the film.
-*  The film contains original music by Marian Lazana and was engineered by Chris Wood.
+*  And, in the United States, dangerous temperatures are expected across the south.
+*  The heat index is forecast to reach as high as 120 degrees in many areas, and stay high through the weekend.
+*  Today's episode was produced by Rob Zipko, Asta Chaturvedi and Vlexandra Lee Young, with help from Rachelle Bonja.
+*  It was edited by Lexi Diao, Paige Kovrini and Yvonne Dupont-Jones.
+*  It contains original music by Marian Lazana and was engineered by Chris Wood.
 *  Our theme music is by Jim Brunberg and Ben Landsberg of Wanderley.
 *  That's it for the Daily. I'm Katrin Benhold. See you on Monday.
 *  you

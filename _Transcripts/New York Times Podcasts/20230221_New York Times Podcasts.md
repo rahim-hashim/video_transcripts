@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1720s
+Video Keywords: []
+Video Views: 216412
+Video Rating: None
+---
+
 # Why ‘Made in China’ Is Becoming ‘Made in Mexico’
 **New York Times Podcasts:** [February 21, 2023](https://www.youtube.com/watch?v=eUs1m_wDHIQ)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

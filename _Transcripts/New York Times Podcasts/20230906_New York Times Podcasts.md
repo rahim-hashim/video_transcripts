@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1700s
+Video Keywords: []
+Video Views: 13871
+Video Rating: None
+---
+
 # How 100,000 Migrants Became a Political Crisis in New York
 **New York Times Podcasts:** [September 06, 2023](https://www.youtube.com/watch?v=YVXpCdKaSmY)
 *  From New York Times, I'm Michael Bobarro.

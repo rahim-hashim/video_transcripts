@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1687s
+Video Keywords: []
+Video Views: 29096
+Video Rating: None
+---
+
 # War in Israel
 **New York Times Podcasts:** [October 09, 2023](https://www.youtube.com/watch?v=mzI8A875U10)
 *  I'm very sorry about what happened first of all.

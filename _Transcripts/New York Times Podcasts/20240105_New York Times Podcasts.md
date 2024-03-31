@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2073s
+Video Keywords: []
+Video Views: 4751
+Video Rating: None
+---
+
 # A Confusing New World for College Applicants
 **New York Times Podcasts:** [January 05, 2024](https://www.youtube.com/watch?v=LLUN8WdnahI)
 *  From the New York Times, I'm Michael Bobarro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1503s
+Video Keywords: []
+Video Views: 7724
+Video Rating: None
+---
+
 # Why the Government is About to Shut Down
 **New York Times Podcasts:** [September 29, 2023](https://www.youtube.com/watch?v=lQfApZyA1aU)
 *  From New York Times, I'm Michael Bobarro.

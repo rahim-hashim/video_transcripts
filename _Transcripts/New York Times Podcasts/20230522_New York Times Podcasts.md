@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2540s
+Video Keywords: []
+Video Views: 2804
+Video Rating: None
+---
+
 # Is Trump's Nomination Now Inevitable?
 **New York Times Podcasts:** [May 22, 2023](https://www.youtube.com/watch?v=aRY4lho7Eck)
 *  Hey, it's Michael.

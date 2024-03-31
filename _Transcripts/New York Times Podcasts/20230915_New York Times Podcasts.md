@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1714s
+Video Keywords: []
+Video Views: 21898
+Video Rating: None
+---
+
 # The Republican Attempt to Impeach President Biden
 **New York Times Podcasts:** [September 15, 2023](https://www.youtube.com/watch?v=g7xciyEL3w4)
 *  From New York Times, I'm Michael Bobarro.

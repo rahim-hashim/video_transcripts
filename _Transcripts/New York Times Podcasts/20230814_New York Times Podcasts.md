@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1682s
+Video Keywords: []
+Video Views: 4489
+Video Rating: None
+---
+
 # What Lahaina Lost in Hawaii’s Wildfires
 **New York Times Podcasts:** [August 14, 2023](https://www.youtube.com/watch?v=BII0bK4uEUo)
 *  Anela, for someone who's never been to Lahaina town, can you paint a picture of the town

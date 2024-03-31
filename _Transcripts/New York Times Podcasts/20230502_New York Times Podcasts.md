@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1412s
+Video Keywords: []
+Video Views: 1145
+Video Rating: None
+---
+
 # A Third Bank Implodes. Now What?
 **New York Times Podcasts:** [May 02, 2023](https://www.youtube.com/watch?v=2vARiIo3160)
 *  From New York Times, I'm Michael Bavaro. This is a daily.

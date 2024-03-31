@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1549s
+Video Keywords: []
+Video Views: 7446
+Video Rating: None
+---
+
 # Two Superpowers Walk Into a Garden
 **New York Times Podcasts:** [November 17, 2023](https://www.youtube.com/watch?v=17_oi1KNT0k)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

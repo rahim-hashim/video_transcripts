@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1834s
+Video Keywords: []
+Video Views: 3382
+Video Rating: None
+---
+
 # The Supreme Court vs. Andy Warhol
 **New York Times Podcasts:** [May 23, 2023](https://www.youtube.com/watch?v=sbj1Dev_jYE)
 *  Hey, it's Michael.

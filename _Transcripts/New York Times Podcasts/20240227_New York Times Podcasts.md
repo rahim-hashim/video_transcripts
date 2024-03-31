@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2104s
+Video Keywords: []
+Video Views: 8420
+Video Rating: None
+---
+
 # The Voters Willing to Abandon Biden Over Gaza
 **New York Times Podcasts:** [February 27, 2024](https://www.youtube.com/watch?v=qp4imrHEAbg)
 *  Okay, Salaam alaikum everyone.

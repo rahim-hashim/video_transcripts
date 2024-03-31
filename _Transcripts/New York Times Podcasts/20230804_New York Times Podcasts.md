@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1631s
+Video Keywords: []
+Video Views: 3770
+Video Rating: None
+---
+
 # Fighting Canada’s Unending Fires
 **New York Times Podcasts:** [August 04, 2023](https://www.youtube.com/watch?v=gOwILlYwcQ4)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

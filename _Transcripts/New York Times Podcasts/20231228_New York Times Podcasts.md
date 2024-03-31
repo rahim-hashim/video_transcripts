@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1259s
+Video Keywords: []
+Video Views: 3449
+Video Rating: None
+---
+
 # A Mother, a Daughter, a Deadly Journey: An Update
 **New York Times Podcasts:** [December 28, 2023](https://www.youtube.com/watch?v=1e2lGqZeZec)
 *  Hey, it's Michael.
@@ -44,7 +53,7 @@
 *  These formerly tourist boat, now migrant boat companies, are calling the migrants one by
 *  one to get on their assigned boat after they've bought their ticket.
 *  So we get on this boat with a large group of migrants on their way to start this journey.
-*  And we reach Caburgan·, the last town before people enter the jungle.
+*  And we reach Caburgan√°, the last town before people enter the jungle.
 *  So we are leaving now to begin this hike.
 *  We're a group of maybe 100 people.
 *  There's lots of children.
@@ -219,17 +228,17 @@
 *  And you know, life is difficult.
 *  His family is now broken apart, but he feels that in the U.S., making this amount of money,
 *  he can deliver on what he set out to do.
-*  And this is what made him cross the DariÈn.
+*  And this is what made him cross the Dari√©n.
 *  He can help his child back home and he can fulfill what he sees as his duties as a father.
-*  So last year, when we were with Alexandra and Sarah, 248,000 people crossed the DariÈn
+*  So last year, when we were with Alexandra and Sarah, 248,000 people crossed the Dari√©n
 *  Gap.
 *  That was a record annual high.
 *  This year, we are about to hit 500,000 people crossing this jungle.
-*  The word is out that the DariÈn Gap is this treacherous pathway to the United States.
+*  The word is out that the Dari√©n Gap is this treacherous pathway to the United States.
 *  And you see large numbers of Ecuadorians, of people from China, people from Afghanistan
 *  taking this route and they are fleeing economic instability, political instability, conflict,
 *  war.
-*  It's not that they don't know that the DariÈn Gap is dangerous.
+*  It's not that they don't know that the Dari√©n Gap is dangerous.
 *  It's that many of them are making the calculation that the potential reward is worth the risk.
 *  Today's episode was produced by Sydney Harper and Carlos Prieto with help from Nina Feldman
 *  and Claire Tennis-Getter.

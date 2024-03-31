@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1650s
+Video Keywords: []
+Video Views: 7930
+Video Rating: None
+---
+
 # A 36-Hour Rebellion in Russia
 **New York Times Podcasts:** [June 26, 2023](https://www.youtube.com/watch?v=cDvV6ILq9Us)
 *  From the New York Times, I'm Sabrina Taverdisi, and this is The Daily.

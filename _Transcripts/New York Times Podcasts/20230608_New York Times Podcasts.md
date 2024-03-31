@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2170s
+Video Keywords: []
+Video Views: 1663
+Video Rating: None
+---
+
 # A Guide to the Suddenly Crowded Republican Primary
 **New York Times Podcasts:** [June 08, 2023](https://www.youtube.com/watch?v=z3hOG7Of4Kw)
 *  I'm announcing today that I'm running for president of the United States of America.

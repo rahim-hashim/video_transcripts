@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 6236s
+Video Keywords: []
+Video Views: 5364
+Video Rating: None
+---
+
 # The Sunday Read: ‘The America That Americans Forget’
 **New York Times Podcasts:** [July 30, 2023](https://www.youtube.com/watch?v=MbfkKeLKFZ0)
 *  If you've listened to what lawmakers and journalists and foreign policy are talking

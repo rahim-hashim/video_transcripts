@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1296s
+Video Keywords: []
+Video Views: 1067
+Video Rating: None
+---
+
 # Kevin McCarthy’s Debt Ceiling Dilemma
 **New York Times Podcasts:** [May 01, 2023](https://www.youtube.com/watch?v=Yfuhb4CReTQ)
 *  From New York Times, I'm Michael Bobarro.

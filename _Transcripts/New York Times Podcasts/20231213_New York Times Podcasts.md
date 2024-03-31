@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1850s
+Video Keywords: []
+Video Views: 12900
+Video Rating: None
+---
+
 # Antisemitism and Free Speech Collide on Campuses
 **New York Times Podcasts:** [December 13, 2023](https://www.youtube.com/watch?v=lPqqgsnx5vA)
 *  From the New York Times, I'm Michael Bobarro.
@@ -34,7 +43,7 @@
 *  It was exhilarating!
 *  It was energizing!
 *  Endorsing them, celebrating them.
-*  And there was one vivid example at UCLA where students battered a piñata of Benjamin Netanyahu,
+*  And there was one vivid example at UCLA where students battered a piÃ±ata of Benjamin Netanyahu,
 *  the prime minister of Israel, while a woman chanted, beat that Jew.
 *  A lot of those moments were seen by millions of people who wouldn't otherwise tune in to
 *  what's happening on these campuses.

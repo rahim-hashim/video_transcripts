@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2062s
+Video Keywords: []
+Video Views: 78
+Video Rating: None
+---
+
 # A Year of War in Ukraine
 **New York Times Podcasts:** [February 24, 2023](https://www.youtube.com/watch?v=pHY36oDnhyc)
 *  My name is Igor Lutsenko. I am 44. I am a reconnaissance specialist in the Ukrainian

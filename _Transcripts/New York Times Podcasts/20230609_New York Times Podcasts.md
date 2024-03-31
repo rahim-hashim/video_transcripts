@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1063s
+Video Keywords: []
+Video Views: 3210
+Video Rating: None
+---
+
 # Special Episode: A Second Trump Indictment
 **New York Times Podcasts:** [June 09, 2023](https://www.youtube.com/watch?v=1uhw0VhOqHE)
 *  From New York Times, I'm Michael Bobarro.

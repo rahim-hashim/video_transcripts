@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1704s
+Video Keywords: []
+Video Views: 279
+Video Rating: None
+---
+
 # The Veterans Fighting to Legalize Psychedelics
 **New York Times Podcasts:** [February 22, 2023](https://www.youtube.com/watch?v=sMrOhXnW_GU)
 *  From the New York Times, I'm Michael Boboro. This is a daily.

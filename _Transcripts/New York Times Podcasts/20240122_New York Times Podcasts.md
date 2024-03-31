@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2247s
+Video Keywords: []
+Video Views: 11583
+Video Rating: None
+---
+
 # The Rules of War
 **New York Times Podcasts:** [January 22, 2024](https://www.youtube.com/watch?v=2C5z4UvCNZc)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

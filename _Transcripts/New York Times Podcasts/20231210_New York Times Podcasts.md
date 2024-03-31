@@ -1,4 +1,13 @@
-# The Sunday Read: ‘The Bodily Indignities of the Space Life’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2352s
+Video Keywords: []
+Video Views: 3282
+Video Rating: None
+---
+
+# The Sunday Read: â€˜The Bodily Indignities of the Space Lifeâ€™
 **New York Times Podcasts:** [December 10, 2023](https://www.youtube.com/watch?v=dAMrwvwANtE)
 *  Hi, this is the Sunday Read.
 *  My name is Kim Tingley, and I'm a contributing writer to the New York Times Magazine.
@@ -44,7 +53,7 @@
 *  As an incubator of life, Earth has a lot going for it, something we often fail to appreciate
 *  fully from within its nurturing bounds.
 *  Merely sending probes and rovers to the moon and Mars won't do.
-*  For various reasons—adventure, apocalypse, commerce—we insist upon taking our corporeal
+*  For various reasonsâ€”adventure, apocalypse, commerceâ€”we insist upon taking our corporeal
 *  selves off world too.
 *  Multiple private companies have announced plans to put hotels in space soon.
 *  NASA is aiming to 3D print lunar neighborhoods within a couple of decades.
@@ -412,10 +421,10 @@
 *  Fewer than 700 people have flown to space so far,
 *  and it is often easy to identify who they are in research publications,
 *  which can make them reticent about details that might satisfy behaviorists.
-*  In short, says Simone Dubé, a postdoctoral research fellow at the Kinsey Institute at Indiana University,
+*  In short, says Simone DubÃ©, a postdoctoral research fellow at the Kinsey Institute at Indiana University,
 *  We know very little about the intimacy and sexuality of astronauts,
 *  but we do know some basics.
-*  There are good indications that erection and lubrication are not inhibited in space, Dubé says,
+*  There are good indications that erection and lubrication are not inhibited in space, DubÃ© says,
 *  and it appears that microgravity doesn't subject contraceptives to additional side effects.
 *  There are concerns about reproduction, however,
 *  that will have to be addressed if our species is ever to take up permanent residence somewhere else besides Earth.
@@ -426,12 +435,12 @@
 *  Radiation exposure damages DNA and can cause infertility and sterility in adults, for example.
 *  Exposed embryos and fetuses appear more likely to have growth and cognitive delays,
 *  birth defects, and higher rates of newborn mortality.
-*  Dubé is worried, most of all, about the psychological effects of intercourse, or a lack thereof, in space.
+*  DubÃ© is worried, most of all, about the psychological effects of intercourse, or a lack thereof, in space.
 *  What I want to draw people's attention to is that we are going to try to enact sexuality in all its complexity
 *  in a very small, remote, isolated, very small space with limited partners who are people you work with and depend on.
 *  Historically, in analogous situations like military basic training, this has proved disastrous, mostly for women.
 *  I'm much more worried about the next morning, after people have sex, how it's going to affect the crew dynamic,
-*  Dubé told me, rather than, are people going to be able to have sex or masturbate in the space station?
+*  DubÃ© told me, rather than, are people going to be able to have sex or masturbate in the space station?
 *  The potential adverse health effects of loneliness and isolation in space have also been understudied,
 *  but will most likely become more significant the longer a mission lasts.
 *  Being in space is like the pandemic lockdowns many people experienced in 2020,

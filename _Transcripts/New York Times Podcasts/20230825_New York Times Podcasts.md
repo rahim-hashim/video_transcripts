@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1547s
+Video Keywords: []
+Video Views: 16480
+Video Rating: None
+---
+
 # A Plane Crash, 10 Dead People and a Question: Was This Putin’s Revenge?
 **New York Times Podcasts:** [August 25, 2023](https://www.youtube.com/watch?v=7pEI6HkvnoQ)
 *  From the New York Times, I'm Sabrina Taverdisi, and this is The Daily.

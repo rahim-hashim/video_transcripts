@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2124s
+Video Keywords: []
+Video Views: 3358
+Video Rating: None
+---
+
 # Lives, Livelihoods, and the High Cost of Heat
 **New York Times Podcasts:** [August 10, 2023](https://www.youtube.com/watch?v=hTr5S8EWSUw)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

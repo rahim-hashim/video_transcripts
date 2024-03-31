@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1763s
+Video Keywords: []
+Video Views: 25890
+Video Rating: None
+---
+
 # The Woman Who Fought the Texas Abortion Ban
 **New York Times Podcasts:** [December 14, 2023](https://www.youtube.com/watch?v=zIg34GFnRjk)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

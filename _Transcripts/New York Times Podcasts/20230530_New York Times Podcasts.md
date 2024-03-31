@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2348s
+Video Keywords: []
+Video Views: 4586
+Video Rating: None
+---
+
 # The Godfather of A.I. Has Some Regrets
 **New York Times Podcasts:** [May 30, 2023](https://www.youtube.com/watch?v=2gpFPycQheA)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

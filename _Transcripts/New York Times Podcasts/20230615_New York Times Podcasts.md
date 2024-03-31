@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1745s
+Video Keywords: []
+Video Views: 2083
+Video Rating: None
+---
+
 # How Saudi Arabia Took on Pro Golf — and Won
 **New York Times Podcasts:** [June 15, 2023](https://www.youtube.com/watch?v=-tx-tI1sZco)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

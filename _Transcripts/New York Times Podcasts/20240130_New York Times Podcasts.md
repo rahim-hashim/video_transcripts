@@ -1,4 +1,13 @@
-# Trump’s Voters vs. Haley’s Donors
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1808s
+Video Keywords: []
+Video Views: 20829
+Video Rating: None
+---
+
+# Trumpâ€™s Voters vs. Haleyâ€™s Donors
 **New York Times Podcasts:** [January 30, 2024](https://www.youtube.com/watch?v=Taa00fdf9tE)
 *  From the New York Times, I'm Michael Bobarro. This is The Daily.
 *  Inside the Republican Party, a class war is playing out between the pro-Trump base, who's

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1687s
+Video Keywords: []
+Video Views: 136
+Video Rating: None
+---
+
 # Ron DeSantis’s Rise From Unknown to Heir Apparent
 **New York Times Podcasts:** [March 07, 2023](https://www.youtube.com/watch?v=du2aClhkhe0)
 *  From the New York Times, I'm Michael Bobarro.

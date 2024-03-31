@@ -1,4 +1,13 @@
-# The Sunday Read: ‘Ghosts on the Glacier’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 4590s
+Video Keywords: []
+Video Views: 3868
+Video Rating: None
+---
+
+# The Sunday Read: â€˜Ghosts on the Glacierâ€™
 **New York Times Podcasts:** [January 07, 2024](https://www.youtube.com/watch?v=3KpwXMXFKgM)
 *  Hi, my name is John Branch and I've been a reporter at the New York Times since 2005.
 *  I grew up in Colorado, skiing and hiking in the mountains.
@@ -560,7 +569,7 @@
 *  just as Americans were getting false accounts of avalanches and blinding snowstorms.
 *  At the base of Aconcagua, Alfonso and the American survivors were held for questioning.
 *  In Mendoza, a judge was assigned to the case. So was a police investigator.
-*  Officials labeled the case Averagüeción de Homicidio Coposo, investigation of manslaughter.
+*  Officials labeled the case AveragÃ¼eciÃ³n de Homicidio Coposo, investigation of manslaughter.
 *  Even the American government validated the suspicion.
 *  It was standard procedure for the case to remain open, the embassy wrote in its files, to, quote,
 *  ensure that foul play may be ruled out.

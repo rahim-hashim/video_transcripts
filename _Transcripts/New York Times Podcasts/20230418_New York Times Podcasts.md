@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1707s
+Video Keywords: []
+Video Views: 803
+Video Rating: None
+---
+
 # How the I.R.S. Became a Political Boogeyman
 **New York Times Podcasts:** [April 18, 2023](https://www.youtube.com/watch?v=mP2zzyhCgMY)
 *  From New York Times, I'm Michael Bobarro.

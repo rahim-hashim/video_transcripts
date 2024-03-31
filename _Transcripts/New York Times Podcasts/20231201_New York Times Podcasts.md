@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1658s
+Video Keywords: []
+Video Views: 9190
+Video Rating: None
+---
+
 # Should You Rent or Buy? The New Math.
 **New York Times Podcasts:** [December 01, 2023](https://www.youtube.com/watch?v=MVVW0symuu8)
 *  From the New York Times, I'm Michael Bobarro.

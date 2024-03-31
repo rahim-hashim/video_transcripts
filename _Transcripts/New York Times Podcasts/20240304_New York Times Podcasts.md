@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1482s
+Video Keywords: []
+Video Views: 8876
+Video Rating: None
+---
+
 # An F.B.I. Informant, a Bombshell Claim, and an Impeachment Built on a Lie
 **New York Times Podcasts:** [March 04, 2024](https://www.youtube.com/watch?v=KFh7ORWhOP4)
 *  Let's see if we can do this.
@@ -19,8 +28,8 @@
 *  From the New York Times, I'm Michael Bavaro.
 *  This is The Daily.
 *  Today, Mike Schmidt on how a single piece of unverified intelligence became the centerpiece
-*  of a Republican attempt to impeach President Biden and what happened once that intelligence
-*  was discredited.
+*  of a Republican attempt to impeach President Biden.
+*  And what happened once that intelligence was discredited?
 *  It's Monday, March 4th.
 *  So Mike, if this is a story about a piece of intelligence and its journey through our
 *  government, I think we should start there with the piece of intelligence and the story
@@ -31,33 +40,33 @@
 *  Giuliani went to Ukraine.
 *  He met with these officials and figures there, and he came back and is basically like, Joe
 *  Biden's son's corrupt and Joe Biden is part of it, and made such a fuss that the attorney
-*  general, Bill Barr, eventually asked a United States attorney in Pennsylvania to essentially
-*  just deal with Rudy.
+*  attorney general, Bill Barr, eventually asked a United States attorney in Pennsylvania to
+*  essentially just deal with Rudy.
 *  Listen to what Rudy has to say, find out if any of it is true, and if it is, pass it along
 *  to the investigators who should look at it.
 *  I remember all this.
 *  It was not about Hunter Biden so much as tying Joe Biden, his father, to his son's alleged
 *  corruption.
 *  Exactly.
-*  And what we didn't know at the time was that the US attorney's investigators went back
-*  and looked through government files, and they see that years earlier, an FBI informant told
+*  What we didn't know at the time was that the US attorney's investigators went back and
+*  looked through government files, and they see that years earlier, an FBI informant told
 *  his handler that he had a contact at the Ukrainian energy company, Burisma, where Joe Biden's
 *  son, Hunter, was on the board.
 *  On the board and very well paid.
 *  Correct.
 *  So that US attorney asks that the FBI handler go back and ask the informant what he knows
-*  about Hunter Biden, and in response, the informant makes a very salacious allegation.
-*  Which is what?
-*  He says that Hunter Biden and his father each took $5 million in bribes from Burisma, and
-*  in exchange for that money, Joe Biden, in his position as vice president at the time,
+*  about Hunter Biden.
+*  And in response, the informant makes a very salacious allegation, which is what he says
+*  that Hunter Biden and his father each took $5 million in bribes from Burisma.
+*  And in exchange for that money, Joe Biden, in his position as vice president at the time,
 *  would protect Burisma from corruption investigations by a Ukrainian prosecutor.
 *  In other words, Joe Biden took a politically motivated bribe.
-*  So this is the moment when this piece of intelligence we're talking about in this episode is born,
+*  So this is the moment when this piece of intelligence we're talking about in this episode is born.
 *  And it's a bombshell that a senior American elected official, former vice president, has
 *  gone rogue and taken money from a foreign company asking him to protect it.
 *  I mean, a genuinely shocking claim.
-*  Well, it's potentially a bombshell, or it's one person telling his FBI handler something
-*  he says he heard.
+*  Well, it's potentially a bombshell.
+*  Or it's one person telling his FBI handler something he says he heard.
 *  It's what one informant relayed to the FBI.
 *  And this is really important.
 *  What we're looking at in this case is not some polished product that's been vetted and
@@ -80,8 +89,7 @@
 *  still seeking revenge from the two impeachments of Trump want to find a link between Joe and
 *  his son.
 *  But they can't.
-*  And that's the case for three long years.
-*  Until late last spring.
+*  And that's the case for three long years until late last spring.
 *  Senator from Iowa.
 *  When Chuck Grassley, the senator from Iowa, goes to the floor.
 *  Thank you, Mr. President.
@@ -89,7 +97,7 @@
 *  the FBI has very damaging allegations on the Biden family.
 *  The allegations my office has received are very precise, very direct and very consistent.
 *  Grassley says that this information is documented in a form that the FBI uses all the time called
-*  the 1023.
+*  a 1023.
 *  The 1023 that I sought from the FBI references a criminal scheme involving then Vice President
 *  Biden and his alleged receipt of five million dollars.
 *  He says that politics has infected the bureau and that this information.
@@ -125,8 +133,9 @@
 *  shows what the informant told the handler.
 *  This feels like an important moment because this is the FBI taking unverified intelligence
 *  and allowing it to enter the political sphere.
-*  Let's be honest, the people demanding this document are not members of the House Intelligence
-*  Committee trying to better understand U.S.-Ukraine relations.
+*  Let's be honest.
+*  The people demanding this document are not members of the House Intelligence Committee
+*  trying to better understand U.S.-Ukraine relations.
 *  They are pretty far right conservatives who are openly seeking to find evidence against
 *  the president.
 *  And are doing this at the same time that the FBI is saying, look, all this document does
@@ -161,7 +170,7 @@
 *  I'm going to figure out whether this is real.
 *  Correct.
 *  So working with the US attorney, the FBI handler goes back to the informant to talk about the
-*  allegation, to see what else is there.
+*  allegation to see what else is there.
 *  And the Justice Department starts to have doubts about the accuracy of his story.
 *  Why?
 *  What explains that?
@@ -171,11 +180,11 @@
 *  In that role, he's provided information to the Bureau that led to criminal investigations
 *  and even more, he's received special dispensation from the FBI to go out and conduct criminal
 *  activity as he gets information for the Bureau.
-*  Okay, so he is a valuable source.
+*  Okay, so he's a valuable source.
 *  Why does the Justice Department suddenly have doubts about him?
 *  Because his story is not holding up to scrutiny.
 *  Smirnoff had said that he learned about the allegation in 2015 or 2016.
-*  But he actually hadn't been talking to anyone at Burisma until 2017, after Joe Biden had
+*  But he actually hadn't been talking to anyone at Burisma until 2017 after Joe Biden had
 *  left office as vice president.
 *  He also said he saw footage of Hunter Biden entering a hotel in Ukraine and that there
 *  were audio recordings of Hunter talking about the bribe.
@@ -183,9 +192,9 @@
 *  So these inconsistencies were really alarming to the FBI.
 *  On top of that, the informant is telling his handler about how much he doesn't like Joe
 *  Biden and how much Joe Biden's ties to Ukraine are going to take down his presidency.
-*  Perhaps even more troublingly, the informant tells the FBI that he's recently been in
-*  touch with Russian intelligence officials who have been feeding him their own information,
-*  including some on Hunter Biden.
+*  Perhaps even more troublingly, the informant tells the FBI that he's recently been in touch
+*  with Russian intelligence officials who have been feeding him their own information, including
+*  some on Hunter Biden.
 *  In other words, the informant might be a Russian asset, might be doing the bidding of the Russian
 *  government, which has a long history of trying to feed misinformation into the American political
 *  system.
@@ -206,7 +215,7 @@
 *  And in that, at times, are really important kernels that the US government has to learn
 *  about.
 *  And if you charge informants, you're going to deter other informants from talking to
-*  the Bureau because they know, oh man, if I make a mistake, I too make it charge myself.
+*  the bureau because they know, oh man, if I make a mistake, I too may get charged myself.
 *  So should we understand the fact that the government charges this informant as perhaps
 *  a measure of just how offended they were by the nature of the lies he told and based on
 *  the fact that it contributes to an impeachment inquiry, the oversized impact that it had.
@@ -244,8 +253,8 @@
 *  doesn't necessarily mean it's true.
 *  And that when we hear things, that there's a bit of skepticism that not everything that
 *  is recorded by the government or said publicly is true.
-*  And that we have to have some humility to the fact that this is a really, really complex,
-*  crazy world and not every disclosure answers the major questions of the moment.
+*  And that we have to have some humility to the fact that this is a really complex, crazy
+*  world and not every disclosure answers the major questions of the moment.
 *  And I think that in a time where there's a ton of uncertainty, people grasp for these
 *  things and they try to use them to make their point.
 *  But at the end of the day, it may not be true.
@@ -254,7 +263,7 @@
 *  The hardline Republicans have said, this indictment, it's just the next part of the cover-up.
 *  It's just the next way that the FBI is doing the bidding of the Biden crime family.
 *  So you're saying many of the Republicans who first relied on this now false intelligence
-*  are undeterred by the fact that it has been branded fake by the government?
+*  are undeterred by the fact that it has been branded fake by the government.
 *  And are now also claiming that this allegation was not that central to the impeachment inquiry.
 *  But it was.
 *  Correct.
@@ -267,8 +276,9 @@
 *  that it still could do a tremendous amount of damage.
 *  It almost seems too easy for our adversaries.
 *  You think of intelligence operations as these really complex things that involve gadgets
-*  and double agents, but to get the United States ramped up and huffing and puffing.
-*  And impeaching its president?
+*  and double agents.
+*  But to get the United States ramped up and huffing and puffing.
+*  And impeaching its president.
 *  You really just need to feed one side something that fits their narrative.
 *  Right.
 *  And they follow it out the window.
@@ -276,24 +286,29 @@
 *  Thanks for having me.
 *  We'll be right back.
 *  Here's what else you need to know today.
-*  Over the weekend, Donald Trump won three more nominating contests in Michigan, Missouri,
+*  Over the weekend, Donald Trump won three more nominating contests in Michigan, Missouri
 *  and Idaho, doubling his delegate count and making clear that his last remaining rival,
 *  Nikki Haley, has no real path forward.
 *  So far, Haley has won just a single primary, the District of Columbia.
 *  Trump is expected to officially clinch the Republican nomination by the end of the month.
-*  LeBron dribbles at Porter, sizes him up, 360, spin to the rim, head in, there it is, 40,000.
-*  LeBron makes history.
+*  And.
+*  LeBron dribbles at Porter, sizes him up.
+*  360, spin to the rim.
+*  And in!
+*  There it is!
+*  Forty thousand!
+*  LeBron makes history!
 *  LeBron James has become the first player in NBA history to score 40,000 career points
-*  after making a left-hand layup during the L.A. Lakers' matchup against the Denver Nuggets
+*  after making a left-hand layup during the L.A. Lakers matchup against the Denver Nuggets
 *  on Saturday.
 *  The milestone may help to settle a long-running debate over who is the greatest NBA player
 *  of all time.
 *  James, the Times wrote, is now, quote, all by himself in the annals of basketball history.
-*  Today's episode was produced by Ricky Nowitzki, Olivia Natt, and Will Reid.
-*  It was edited by MJ Davis-Lynn and Devin Taylor.
-*  Fact Checked by Susan Lee contains original music by Mary Lozano and Alicia LaEdube, and
-*  was engineered by Alyssa Moxley.
-*  Our theme music is by Jim Brunberg and Ben Landsferk of Wenderley.
+*  Today's episode was produced by Ricky Nowitzki, Olivia Nat, and Will Reed.
+*  It was edited by M.J. Davis-Lynn and Devin Taylor.
+*  Fact Checked by Susan Lee contains original music by Mary Lozano and Alicia Maidupe and
+*  it was engineered by Alyssa Moxley.
+*  Our theme music is by Jim Brunberg and Ben Lansferk of Wingerley.
 *  That's it for the Daily.
-*  I'm Michael Baboro.
+*  I'm Michael Barbaro.
 *  See you tomorrow.

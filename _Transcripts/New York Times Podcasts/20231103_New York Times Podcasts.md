@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2587s
+Video Keywords: []
+Video Views: 16843
+Video Rating: None
+---
+
 # 1948
 **New York Times Podcasts:** [November 03, 2023](https://www.youtube.com/watch?v=jKHcUZ1g844)
 *  From the New York Times, I'm Michael Bobarro.

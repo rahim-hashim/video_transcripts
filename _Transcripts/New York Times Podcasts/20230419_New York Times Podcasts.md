@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1507s
+Video Keywords: []
+Video Views: 1280
+Video Rating: None
+---
+
 # Abortion Goes to the Supreme Court (Again)
 **New York Times Podcasts:** [April 19, 2023](https://www.youtube.com/watch?v=mJwT5Zxqn6o)
 *  From New York Times, I'm Michael Bobarro. This is The Daily.

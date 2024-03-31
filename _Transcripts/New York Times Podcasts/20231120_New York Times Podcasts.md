@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1653s
+Video Keywords: []
+Video Views: 14862
+Video Rating: None
+---
+
 # The New Speaker Avoided a Shutdown. Can He Avoid Being Ousted?
 **New York Times Podcasts:** [November 20, 2023](https://www.youtube.com/watch?v=oizRhOAtdKA)
 *  From the New York Times, I'm Michael Bobauro.

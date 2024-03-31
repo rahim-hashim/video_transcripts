@@ -1,4 +1,13 @@
-# Amazon’s Most Beloved Features May Turn Out to Be Illegal
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1354s
+Video Keywords: []
+Video Views: 6250
+Video Rating: None
+---
+
+# Amazonâ€™s Most Beloved Features May Turn Out to Be Illegal
 **New York Times Podcasts:** [October 02, 2023](https://www.youtube.com/watch?v=tktxhIdGXPg)
 *  From the New York Times, I'm Michael Boborio. This is The Daily.
 *  Last week, when the U.S. government filed a landmark antitrust lawsuit against Amazon,

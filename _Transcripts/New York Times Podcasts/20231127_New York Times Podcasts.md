@@ -1,4 +1,13 @@
-# Botox, Hermès and OnlyFans: Why This May Be George Santos’s Last Week in Congress
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1723s
+Video Keywords: []
+Video Views: 12878
+Video Rating: None
+---
+
+# Botox, HermÃ¨s and OnlyFans: Why This May Be George Santosâ€™s Last Week in Congress
 **New York Times Podcasts:** [November 27, 2023](https://www.youtube.com/watch?v=B3XN_l8jHOE)
 *  From the New York Times, I'm Michael Bobarro.
 *  This is The Daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 3484s
+Video Keywords: []
+Video Views: 5197
+Video Rating: None
+---
+
 # From Serial: ‘The Retrievals’
 **New York Times Podcasts:** [July 04, 2023](https://www.youtube.com/watch?v=9qQgwtyJVgM)
 *  Hi everyone, it's Sabrina.

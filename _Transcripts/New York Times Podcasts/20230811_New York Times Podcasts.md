@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1979s
+Video Keywords: []
+Video Views: 3054
+Video Rating: None
+---
+
 # The End of An Era for U.S. Women’s Soccer
 **New York Times Podcasts:** [August 11, 2023](https://www.youtube.com/watch?v=jPAMqmRsVSI)
 *  From New York Times, I'm Michael Bavaro.

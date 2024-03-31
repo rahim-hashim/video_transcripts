@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1441s
+Video Keywords: []
+Video Views: 3459
+Video Rating: None
+---
+
 # Opioid Victims Have a Settlement. Will the Supreme Court Undo It?
 **New York Times Podcasts:** [December 06, 2023](https://www.youtube.com/watch?v=Yz4u4KUCIeQ)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

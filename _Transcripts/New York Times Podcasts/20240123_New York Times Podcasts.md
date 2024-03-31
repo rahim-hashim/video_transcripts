@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1309s
+Video Keywords: []
+Video Views: 5522
+Video Rating: None
+---
+
 # The Shadowy Story of Oppenheimer and Congress
 **New York Times Podcasts:** [January 23, 2024](https://www.youtube.com/watch?v=dvftk_W5Y-s)
 *  From the New York Times, I'm Sabrina Ternese, and this is The Daily.

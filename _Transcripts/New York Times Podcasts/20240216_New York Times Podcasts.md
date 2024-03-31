@@ -1,4 +1,13 @@
-# An Explosive Hearing in Trump’s Georgia Election Case
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2185s
+Video Keywords: []
+Video Views: 14568
+Video Rating: None
+---
+
+# An Explosive Hearing in Trumpâ€™s Georgia Election Case
 **New York Times Podcasts:** [February 16, 2024](https://www.youtube.com/watch?v=hZnVXLSX_y8)
 *  From New York Toms, I'm Michael Bobauro.
 *  This is The Daily.

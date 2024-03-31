@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1514s
+Video Keywords: []
+Video Views: 8750
+Video Rating: None
+---
+
 # The Problem With a $2 Trillion Deficit
 **New York Times Podcasts:** [October 23, 2023](https://www.youtube.com/watch?v=n6ZNTtM9Y-M)
 *  From New York Times, I'm Michael Bobauro.

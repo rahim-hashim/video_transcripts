@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1205s
+Video Keywords: []
+Video Views: 21524
+Video Rating: None
+---
+
 # Why a Colorado Court Just Knocked Trump Off the Ballot
 **New York Times Podcasts:** [December 20, 2023](https://www.youtube.com/watch?v=-AaJ-W4xhjQ)
 *  From New York Times, I'm Michael Bobauro. This is The Daily.

@@ -1,4 +1,13 @@
-# Inside Russia’s Crackdown on Dissent: An Update
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1258s
+Video Keywords: []
+Video Views: 7528
+Video Rating: None
+---
+
+# Inside Russiaâ€™s Crackdown on Dissent: An Update
 **New York Times Podcasts:** [December 27, 2023](https://www.youtube.com/watch?v=5vFJEqQ0W2A)
 *  Hey, it's Sabrina.
 *  This week, The Daily is revisiting some of our favorite episodes of the year and hearing
@@ -231,16 +240,19 @@
 *  It was so nice to see you and talk to you and I'm looking forward to meeting up soon.
 *  And I hope that you have a great new year.
 *  Thank you very much.
-*  Thank you.
+*  Thank you very much.
 *  Talk to you soon.
 *  Stay in touch.
 *  Bye.
-*  Thank you.
 *  Bye.
-*  Today's episode was produced by Claire Tennisketter, Mujzedi and Will Reid with help from Alex Stearn.
+*  Thank you very much.
+*  Today's episode was produced by Claire Tennesketter, Moosh Zaydee and Will Reed, with help from Alex Stern.
 *  It was edited by Michael Benoit and Patricia Willens.
-*  contains original music by Alisha by Etube, Diane Wong, Dan Powell and Marian Lozano,
-*  and was engineered by Chris Wood and Alyssa Moxley.
+*  It contains original music by Alisha Baitube, Diane Wong, Dan Powell and Marian Lozano.
+*  And was engineered by Chris Wood and Alyssa Moxley.
 *  Anastasia Vrstsova provided translation.
 *  Our theme music is by Jim Brunberg and Ben Landsvark of Wonderly.
-*  That's it for the Daily. I'm Sabrina Tavernisi. See you tomorrow.
+*  That's it for the daily.
+*  I'm Sabrina Tavernisi.
+*  See you tomorrow.
+*  Bye.

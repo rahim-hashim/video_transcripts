@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1747s
+Video Keywords: ['the daily', 'new york times', 'nyt', 'audio', 'audio journalism', 'Silicon Valley Bank']
+Video Views: 209
+Video Rating: None
+---
+
 # Why the Banking Crisis Isn’t Over Yet
 **New York Times Podcasts:** [March 17, 2023](https://www.youtube.com/watch?v=EmMaRtyXRus)
 *  From the New York Times, I'm Michael Bobarro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1299s
+Video Keywords: []
+Video Views: 5823
+Video Rating: None
+---
+
 # Why Are So Many More Pedestrians Dying in the U.S.?
 **New York Times Podcasts:** [January 04, 2024](https://www.youtube.com/watch?v=4m99ecBUmcU)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

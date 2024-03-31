@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1523s
+Video Keywords: []
+Video Views: 2115
+Video Rating: None
+---
+
 # Why Low-Ranking Soldiers Have Access to Top Secret Documents
 **New York Times Podcasts:** [April 21, 2023](https://www.youtube.com/watch?v=uiCgL7QSzn8)
 *  From New York Times, I'm Michael Bobarro.

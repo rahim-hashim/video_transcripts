@@ -1,4 +1,13 @@
-# Trump’s Cash Crunch
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1516s
+Video Keywords: []
+Video Views: 21224
+Video Rating: None
+---
+
+# Trumpâ€™s Cash Crunch
 **New York Times Podcasts:** [February 23, 2024](https://www.youtube.com/watch?v=CVzWsy12Rcc)
 *  From the New York Times, I'm Michael Bavaro. This is The Daily.
 *  Last week, when a civil court judge in New York ruled against Donald Trump, he imposed

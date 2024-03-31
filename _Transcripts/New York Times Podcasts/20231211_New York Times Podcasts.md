@@ -1,4 +1,13 @@
-# Can an ‘Anarcho-Capitalist’ President Save Argentina’s Economy?
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1273s
+Video Keywords: []
+Video Views: 44772
+Video Rating: None
+---
+
+# Can an â€˜Anarcho-Capitalistâ€™ President Save Argentinaâ€™s Economy?
 **New York Times Podcasts:** [December 11, 2023](https://www.youtube.com/watch?v=3u2iL2MwIWk)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  Argentina, a poster child for economic dysfunction, is again in the midst of an acute crisis.

@@ -1,4 +1,13 @@
-# How China Broke One Man’s Dreams
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1778s
+Video Keywords: []
+Video Views: 6313
+Video Rating: None
+---
+
+# How China Broke One Manâ€™s Dreams
 **New York Times Podcasts:** [February 15, 2024](https://www.youtube.com/watch?v=ovNtkI-Zs6Y)
 *  From the New York Times, I'm Michael Bobarro.
 *  This is The Daily.

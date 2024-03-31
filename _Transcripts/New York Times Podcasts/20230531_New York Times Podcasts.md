@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1632s
+Video Keywords: []
+Video Views: 2187
+Video Rating: None
+---
+
 # Republicans Impeach One of Their Own
 **New York Times Podcasts:** [May 31, 2023](https://www.youtube.com/watch?v=41jMmMM52gI)
 *  From New York Times, I'm Michael Bobarro. This is a daily.
@@ -159,33 +168,35 @@
 *  Out of the 85 Republican members, 60 of them vote in favor of impeachment, which means immediately at that moment, Paxton is temporarily removed as a state attorney general.
 *  So, David, this is the key question. What exactly had changed here?
 *  Because Ken Paxton, up to this point, is still this MAGA hero attorney general who has just been endorsed by Donald Trump and Donald Jr.
-*  And has been fighting the liberal establishment one lawsuit at a time.
+*  and has been fighting the liberal establishment one lawsuit at a time.
 *  So what suddenly inspired these Texas House Republicans to turn on Paxton and go so far as to actually impeach him?
 *  Because as you have said throughout this episode, so much of this information has been available for so long.
 *  Right. I mean, that was the argument that his defenders were making is that this is not new.
-*  And in fact, he was just reelected by voters who knew this information, you know, only a few months earlier.
+*  And in fact, he was just reelected by voters who knew this information, you know, only a few months ago.
 *  But what really seems to have changed for the Republicans that voted to impeach was that now Ken Paxton was trying to get them into his mess, essentially.
 *  He wanted them to vote for settling a lawsuit based on what he had done.
 *  And in a certain sense, as some of the Republicans who spoke during the proceedings said, he was trying to make them complicit in his activities.
-*  And I think that was the bridge that for many was too far.
-*  This was an attorney general that was now asking them to say, you did nothing wrong and this is okay.
+*  Fascinating.
+*  That was the bridge that for many was too far.
+*  This was an attorney general that was now asking them to say you did nothing wrong and this is OK.
 *  Right. Because if they approved that money, they were in a sense approving of his conduct by paying off his accusers, his former employees.
-*  Right. They would have been part of the effort to essentially cover it up and they didn't want to be part of that.
+*  Right. They would have been part of the effort to essentially cover it up.
+*  And they didn't want to be part of that.
 *  But there's also something else at play, which is the political character of the Texas House.
 *  This is a body that, for structural reasons, is more moderate.
 *  And many of the Republicans who are representatives in it are not as sort of lockstep with what Donald Trump wants or even what that wing of the party wants.
 *  It's much more rooted in a more traditional Texas Republican posture.
 *  And they have their own voters at home who are in districts that are relatively more suburban, in some cases a little more urban.
-*  And so you have this body that has increasingly found itself really at odds and sometimes at open political war with the more conservative, more sort of Trump aligned wing of the party in Texas coming out and making this stand and drawing this line and saying that they're not going to stand for Kenyans.
-*  They're going to stand for Ken Paxton's accused actions in this instance if he wants to bring them into it, come what will politically.
+*  And so you have this body that has increasingly found itself really at odds and sometimes at open political war with the more conservative, more sort of Trump aligned wing of the party in Texas coming out and making this stand and drawing this line and saying that they're not going to stand for Ken Paxton's accused actions in this instance.
+*  If he wants to bring them into it, come what will politically.
 *  Right. So the geographic and demographic reality of these Texas House districts allows these House Republicans to vote to do something that would, to the outside, would look incredibly hard, which is impeach Ken Paxton in this moment.
 *  Right. And it really is reflecting this sort of debate that's been roiling the Republican Party, which is over the future direction of the party.
 *  And really in Texas, this debate is front and center because of the demographic changes and the urbanization that's happening here.
 *  You have some Republicans who believe that the party needs to better appeal to the growing cities in the state.
 *  And then there are others who believe that, no, you know, the party needs to stick closer to its principles, more like what Ken Paxton represents in his lawsuits and what Donald Trump represents in some of his actions.
-*  And the House more represents a side that says if we're going to survive, you know, not in two years or in five years, but in 10 years in a state that's becoming increasingly urban, increasingly diverse and beat Democrats, we can't go so far in this direction of, you know, anything goes.
+*  And the House more represents a side that says if we're going to survive, you know, not in two years or in five years, but in 10 years in a state that's becoming increasingly urban, increasingly diverse and beat Democrats, we can't go so far in this direction of anything goes.
 *  And I think it's that debate over where to take the party that is being reflected in this impeachment battle.
-*  So David, when we try to understand why the situation went the way that it did, why these 60 Texas House Republicans decided to break the rules of the Republican Party and do what the vast majority of congressional Republicans refused to do twice when it came to impeaching Trump, we should see their decision in a few ways.
+*  So, David, when we try to understand why this situation went the way that it did, why these 60 Texas House Republicans decided to break the rules of the Republican Party and do what the vast majority of congressional Republicans refused to do twice when it came to impeaching Trump, we should see their decision in a few ways.
 *  First, that they could tolerate Paxton's problems when they were Paxton's problems.
 *  But the minute Paxton tried to make it the legislature's problems, they said enough is enough.
 *  Second, because so many of these Texas House Republicans represent moderate districts where voters are not in the thrall of Trump or Paxton, these Republicans could afford, politically speaking, to vote their conscience.

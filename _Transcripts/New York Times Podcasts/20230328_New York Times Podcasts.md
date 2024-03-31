@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1602s
+Video Keywords: []
+Video Views: 524
+Video Rating: None
+---
+
 # The Fight Over ‘Cop City’
 **New York Times Podcasts:** [March 28, 2023](https://www.youtube.com/watch?v=4M-7mDCF2eo)
 *  From the New York Times, I'm Serena Tavernisi, and this is The Daily.

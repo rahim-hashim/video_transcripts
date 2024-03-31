@@ -1,4 +1,13 @@
-# The Many Missed Warnings Before Maine’s Mass Shooting
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1450s
+Video Keywords: []
+Video Views: 5564
+Video Rating: None
+---
+
+# The Many Missed Warnings Before Maineâ€™s Mass Shooting
 **New York Times Podcasts:** [November 02, 2023](https://www.youtube.com/watch?v=9cTyF8t48cE)
 *  From New York Times, I'm Michael Bobauro.
 *  This is a daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1791s
+Video Keywords: []
+Video Views: 3918
+Video Rating: None
+---
+
 # America’s Big City Brain Drain
 **New York Times Podcasts:** [June 02, 2023](https://www.youtube.com/watch?v=ZSWdXrDAcPg)
 *  Hello?

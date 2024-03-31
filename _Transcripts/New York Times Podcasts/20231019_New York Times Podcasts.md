@@ -1,4 +1,13 @@
-# A Texas Town Wanted Tougher Border Security. Now It’s Having Regrets.
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1713s
+Video Keywords: []
+Video Views: 8302
+Video Rating: None
+---
+
+# A Texas Town Wanted Tougher Border Security. Now Itâ€™s Having Regrets.
 **New York Times Podcasts:** [October 19, 2023](https://www.youtube.com/watch?v=JATtPwKas_c)
 *  From New York Times, I'm Michael Boborow.
 *  This is The Daily.

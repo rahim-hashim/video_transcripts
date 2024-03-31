@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1432s
+Video Keywords: []
+Video Views: 7100
+Video Rating: None
+---
+
 # The Man Trying to Save Phoenix From Historic Heat
 **New York Times Podcasts:** [July 20, 2023](https://www.youtube.com/watch?v=JHpDMbpPals)
 *  From New York Times, I'm Michael Bavaro. This is a daily.

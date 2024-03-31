@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1509s
+Video Keywords: []
+Video Views: 1998
+Video Rating: None
+---
+
 # Biden’s Radical Option to End the Debt Fight
 **New York Times Podcasts:** [May 12, 2023](https://www.youtube.com/watch?v=Ub_z7Vxw2P4)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

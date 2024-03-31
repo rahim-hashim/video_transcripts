@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1829s
+Video Keywords: []
+Video Views: 9055
+Video Rating: None
+---
+
 # A Breaking Point for the U.S. Auto Industry
 **New York Times Podcasts:** [September 12, 2023](https://www.youtube.com/watch?v=hx6g7Ct_N4M)
 *  From New York Times, I'm Michael Bobarro.

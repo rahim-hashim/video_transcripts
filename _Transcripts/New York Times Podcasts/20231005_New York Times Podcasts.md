@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1813s
+Video Keywords: []
+Video Views: 6316
+Video Rating: None
+---
+
 # The Mosquitoes Are Winning
 **New York Times Podcasts:** [October 05, 2023](https://www.youtube.com/watch?v=tj6-MLfunNw)
 *  From New York Times, I'm Michael Barbaro. This is a daily.
@@ -202,7 +211,7 @@
 *  Fet mosquito.
 *  Fet mosquito. You can tell from out here?
 *  OK, OK. All right.
-*  Tijené is able in the dark, in the gloom with the goats to identify which mosquitoes they are.
+*  TijenÃ© is able in the dark, in the gloom with the goats to identify which mosquitoes they are.
 *  I can barely see them.
 *  Oh, oh, oh, oh, angry goat.
 *  Sorry, goats. Sorry.

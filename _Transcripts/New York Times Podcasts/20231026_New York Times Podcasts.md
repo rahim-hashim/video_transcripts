@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1682s
+Video Keywords: []
+Video Views: 10341
+Video Rating: None
+---
+
 # The House Finally Has a Speaker
 **New York Times Podcasts:** [October 26, 2023](https://www.youtube.com/watch?v=gZm8NNlz5GA)
 *  From the New York Times, I'm Michael Bobauro.

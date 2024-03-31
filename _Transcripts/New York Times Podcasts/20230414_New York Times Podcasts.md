@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2045s
+Video Keywords: []
+Video Views: 622
+Video Rating: None
+---
+
 # Broadway’s Longest-Running Musical Turns Out the Lights
 **New York Times Podcasts:** [April 14, 2023](https://www.youtube.com/watch?v=c6jBJLpcCNE)
 *  Thank you.

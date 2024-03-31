@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1776s
+Video Keywords: []
+Video Views: 9638
+Video Rating: None
+---
+
 # The Spoiler Threat of R.F.K. Jr.
 **New York Times Podcasts:** [October 12, 2023](https://www.youtube.com/watch?v=1ew-QVvVq2M)
 *  This is Mary Wilson, producer for The Daily, in downtown Philadelphia waiting for a campaign

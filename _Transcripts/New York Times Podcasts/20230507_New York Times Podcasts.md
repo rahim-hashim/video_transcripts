@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2246s
+Video Keywords: []
+Video Views: 998
+Video Rating: None
+---
+
 # The Sunday Read: ‘The School Where the Pandemic Never Ended’
 **New York Times Podcasts:** [May 07, 2023](https://www.youtube.com/watch?v=uKBe7VVypl4)
 *  Hi, my name is Meg Bernhard, and I'm a contributor to the New York Times magazine.

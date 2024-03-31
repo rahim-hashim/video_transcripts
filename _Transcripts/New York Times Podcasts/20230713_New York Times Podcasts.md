@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2197s
+Video Keywords: []
+Video Views: 2346
+Video Rating: None
+---
+
 # How Affirmative Action Changed Their Lives
 **New York Times Podcasts:** [July 13, 2023](https://www.youtube.com/watch?v=FczGK9Q31jk)
 *  From the New York Times, I'm Sabrina Tavernese, and this is The Daily.
@@ -192,7 +201,6 @@
 *  I've always checked the other one.
 *  I've always checked the other one.
 *  I've always checked the other one.
-*  I've always checked the other one.
 *  I've always checked the black box.
 *  I've always checked the black box.
 *  I've always checked the black box.
@@ -201,54 +209,55 @@
 *  Was affirmative action also a play there?
 *  Do you have any sense of that?
 *  Oh, yeah.
-*  Yeah.
-*  I remember really clearly my Haverford interview where the interviewer was asking me about
-*  my hobbies.
-*  And I mentioned I used to do competitive bass fishing tournaments really seriously.
-*  Oh, my gosh.
-*  Wow.
-*  And so I was actually, to my knowledge, the youngest person to go to the state championship
-*  when I was 16.
-*  And she thought that was delightful.
-*  But she said a number of things along the lines of that's very a curious hobby for someone
-*  of your background.
-*  I didn't really know what she meant by my background because I'm from an area where
-*  a lot of people fish.
-*  So I thought I had the exact background for someone who would do this kind of thing.
+*  I remember really clearly my Haverford interview
+*  where the interviewer was asking me about my hobbies,
+*  and I mentioned I used to do competitive bass fishing tournaments
+*  really seriously all over the Northeast.
+*  And so I was actually, to my knowledge,
+*  the youngest person to go to the state championship when I was 16.
+*  And she thought that was delightful,
+*  but she said a number of things along the lines of,
+*  that's a very curious hobby for someone of your background.
+*  I didn't really know what she meant by my background
+*  because I'm from an area where a lot of people fish.
+*  So I thought I had the exact background for someone
+*  who would do this kind of thing.
 *  And I gradually came to realize she meant my racial background.
 *  A black fisherman was not something they ran into a lot.
 *  And she really fixated on that, asked me a ton of questions about it.
 *  And I think it was one of the reasons they were interested in me.
 *  She thought I had a curious background, she kept saying.
-*  Based on the tone of my conversation with the admissions officer, it was very clear
-*  that they were very excited to be talking to a person of color, especially a person
-*  of color that had scores they were excited about.
-*  Well, how did that make you feel?
-*  What did you think about that?
-*  I've always had mixed feelings about affirmative action, very grateful for it.
-*  I think it's important.
-*  I think it's necessary.
-*  But it's also just uncomfortable to realize you are somewhere whether you deserve to be
-*  there or not because of the color of your skin.
-*  As I left Haverford and went on to my PhD program, I began tutoring the first summer
-*  after grad school as a way to make extra money during the summers.
-*  And it was really once I started tutoring that I became fully aware of the extent to
-*  which affirmative action seemed to have gone off the rails and really problematic and quite
-*  disturbing directions.
-*  You know, I was somebody getting a literature PhD.
-*  My bread and butter was helping them with their writing and their college essay in particular.
-*  And I came to realize very swiftly that this intense concern about leveraging, minimizing
-*  or maximizing one's identity in ways that would be legible and beneficial in the admissions
-*  process was something most of these students seem to have in mind.
-*  Do you remember, Tyler, the first time you started encountering this?
+*  Based on the tone of my conversation with the admissions officer,
+*  it was very clear to me that they were very excited to be talking
+*  to a person of color, especially a person of color
+*  that had scores they were excited about.
+*  I've always had mixed feelings about affirmative action,
+*  very grateful for it, I think it's important, I think it's necessary.
+*  But it's also just uncomfortable to realize you are somewhere,
+*  whether you deserve to be there or not, because of the color of your skin.
+*  As I left Haverford and went on to my PhD program,
+*  I began tutoring the first summer after grad school
+*  as a way to make extra money during the summers.
+*  And it was really once I started tutoring that I became fully aware
+*  of the extent to which affirmative action seemed to have gone off the rails
+*  and really problematic and quite disturbing directions.
+*  You know, I was somebody getting a literature PhD,
+*  my bread and butter was helping them with their writing
+*  and their college essay in particular.
+*  And I came to realize very swiftly that this intense concern about leveraging,
+*  minimizing or maximizing one's identity in ways that would be legible
+*  and beneficial in the admissions process was something
+*  most of these students seem to have in mind.
+*  I was a student of the University of Michigan,
+*  and one of the most prominent students seemed to have in mind.
 *  Yeah, absolutely.
-*  The first student I encountered who had this mindset was a Chinese American student who
-*  I tutored in Queens.
+*  The first student I encountered who had this mindset
+*  was a Chinese-American student who I tutored in Queens.
 *  And I arrived and she has all our materials.
-*  And she wanted me to look through them.
-*  And she asked me to read them to make sure they didn't seem too Asian.
+*  And she wanted me to look through them,
+*  and she asked me to read them to make sure they didn't seem too Asian.
 *  And I laughed because I thought she was being ironic.
-*  And she was like, No, I'm serious.
+*  And she was like, no, I'm serious.
 *  And she pulled out her CV and was like, I've been wondering, can I keep chess and math
 *  club on here?
 *  Or do those seem too Asian?
@@ -261,10 +270,10 @@
 *  But these kinds of conversations were basically the norm throughout my tutoring.
 *  And these were not cynically conspiring students that desperately were just trying to rig the
 *  system.
-*  It was very clear to me that they felt that this is what was expected of them.
+*  It was very clear to me that they felt this is what was expected of them.
 *  This is what was wanted from them.
 *  And they were just trying to do it as best they could.
-*  The Supreme Court hands down the ruling that overturns affirmative action.
+*  So the Supreme Court hands down the ruling that overturns affirmative action.
 *  What do you think?
 *  What was the first thing that came to your mind?
 *  I think what I thought is that things are just going to get worse.
@@ -289,29 +298,29 @@
 *  And to present versions of their racial identity that will be the most legible to admissions
 *  officers.
 *  Other students might find creative ways to be racially ambiguous, right?
-*  Make it a little harder for colleges to read, you know, what someone's racial identity might
-*  be.
+*  Make it a little harder for colleges to read.
+*  What someone's racial identity might be.
 *  I mean, that's my prediction, yeah.
 *  I think we're going to be left with all of the negative externalities of affirmative
 *  action without the benefits of actual structural redress and opportunity that accompanied a
 *  system that was admittedly imperfect but better than the alternative.
 *  We'll be right back.
-*  So, when the Supreme Court decision came out, I was, like a lot of Asian Americans celebrating.
+*  So when the Supreme Court decision came out, I was like a lot of Asian Americans celebrating.
 *  My family was actually very happy too.
 *  Just saying, oh, this is good for us.
 *  Like, this is kind of like a win for the community.
 *  And I kind of felt that initially too.
 *  And was that in part because of your college admissions process?
 *  Yes, yeah.
-*  So, my name is Jia Shin.
+*  So my name is Ji-A Shin.
 *  I'm currently 18 years old.
 *  I recently just graduated from Tanaflay High School.
 *  So that's in Tanaflay, New Jersey.
 *  And I will be attending Boston University to study journalism in the fall.
 *  My parents are immigrants.
 *  They immigrated from South Korea when they were in their late 20s.
-*  It took a long time, a lot of hard work for them to get to where they are today.
-*  Right now, my mom is an accountant and my dad works as a bank examiner.
+*  It took a long time and a lot of hard work for them to get to where they are today.
+*  Currently now, my mom is an accountant and my dad works as a bank examiner.
 *  I grew up in a pretty affluent town with a lot of resources.
 *  My parents had done everything to provide me with the best opportunities possible.
 *  The reason why we live in the area that we do with a good public school education is
@@ -325,7 +334,7 @@
 *  And that was always the priority.
 *  My mom used state school as a threat.
 *  She'd say like, you're either going to an Ivy or Rutgers.
-*  There's no in between.
+*  There's no in-between.
 *  I'm not paying for your tuition if you don't get into an Ivy.
 *  Wow.
 *  GPA was always first.
@@ -339,7 +348,7 @@
 *  and the hardships that she's been through.
 *  She honestly like works harder than anyone else I know.
 *  She can't go out because she's working.
-*  And if she's not working, she's taking care of me or my brother, or she's giving rides
+*  And if she's not working, she's taking care of me or my brother, or she's giving rides,
 *  or she's cooking.
 *  So she never really had a life outside of her work and her family.
 *  She thought that me having an elite education at an elite institution meant that it would
@@ -348,46 +357,47 @@
 *  She didn't want me to be tied down to just working, working, working, just like she did.
 *  But rather she wanted me to have financial freedom.
 *  She wanted me to have the freedom to pursue what I'm passionate about.
-*  At the end of the day, I think that's a very noble dream.
+*  And at the end of the day, I think that's a very noble dream.
 *  It's very selfless.
 *  But that's kind of why she pushed me so hard to achieve success at an Ivy League institution.
 *  So tell me about your high school experience.
 *  What was it like at high school?
-*  Okay, so yeah, throughout high school, I was very ambitious as a student.
+*  Okay.
+*  So yeah, throughout high school, I was very ambitious as a student.
 *  And I was very dedicated and committed to extracurriculars.
 *  What's an example, Jia?
 *  Tell me what you did.
-*  Okay, so for two years, I worked as co-editor-in-chief for my newspaper and my school's literary
+*  Okay.
+*  So for two years, I worked as co-editor-in-chief for my newspaper and my school's literary
 *  magazine.
 *  I self-published a book talking about the different challenges that we as Gen Z face.
-*  I created a non-profit organization for youth mental health.
+*  I created a nonprofit organization for youth mental health.
 *  I did varsity cheer and martial arts.
 *  I also played the violin.
 *  I've been playing for 12 years now.
 *  I was a concertmaster of my school's orchestra.
 *  I had a 4.56 GPA.
 *  After my junior year, I attended a creative writing summer program at University of Pennsylvania.
-*  I loved just all the instructors and the assignments.
-*  Connected so well with the people, loved the culture.
-*  For me, U Penn felt like somewhere that I could call home.
+*  I loved just all the instructors and the assignments, connected so well with the people, loved the
+*  culture.
+*  For me, UPenn felt like somewhere that I could call home.
 *  So I applied early decision there.
 *  And the day before my decision came out, people around me were saying, like, oh, you are going
-*  to get like, they were already making their Instagram stories, posts to like say like,
+*  to get, like, they were already making their Instagram stories, posts to like say like,
 *  yeah, you got it.
 *  My friends were like, they had cake prepared.
 *  They had all these things prepared.
-*  But they said if you don't get in, who is gonna like who's gonna get in.
+*  But they said if you don't get in, who is gonna, like, who's gonna get in?
 *  So it was kind of like a no brainer that I would go to, not even just an Ivy, but at
 *  least a top 20 in the institution.
-*  Overall that day, I was like so nervous.
-*  I couldn't eat.
+*  Overall that day, I was like so nervous I couldn't eat.
 *  I could barely sleep at night too.
 *  And when it was time for me to open my decision, my family was behind me looking at my laptop.
 *  They were all excited to check.
 *  And then it was 7pm when decisions were supposed to come out.
 *  I still remember it was 7.02 when it came out, because I had to wait two whole minutes,
 *  which felt like forever.
-*  But when I opened my letter, it said like, sorry, we regret to inform you dot dot dot.
+*  But when I opened my letter, it said, like, sorry, we regret to inform you, dot dot dot.
 *  And that was not even a possibility in my mind, actually.
 *  I think that was probably the biggest shock of my life.
 *  I mean, I've only lived 18 years, but it was still a huge shock for me and my family.
@@ -407,7 +417,7 @@
 *  Right.
 *  So I applied to 19 schools in total.
 *  And it was just one rejection after another.
-*  Even the schools that I was confident I would get into, they were just no's.
+*  Even the schools that I was confident I would get into, they were just noes.
 *  And by the end of it, I ended up only getting into two, one of which was my state school
 *  Rutgers.
 *  The other one was Boston University.
@@ -418,7 +428,7 @@
 *  I just felt really horrible about myself.
 *  I felt like I couldn't really show my face really in public.
 *  I felt ashamed.
-*  Like I was having this big sticker in my head that said loser, I didn't make it.
+*  Like I was having this big sticker in my head that said, loser, I didn't make it.
 *  But my mom also said that she couldn't meet with her friends.
 *  She felt embarrassed too.
 *  And I totally understood because in my community, there's also a culture of a lot of gossip

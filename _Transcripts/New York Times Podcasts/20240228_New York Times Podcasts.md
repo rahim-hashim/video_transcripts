@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1494s
+Video Keywords: []
+Video Views: 5680
+Video Rating: None
+---
+
 # An Arms Race Quietly Unfolds in Space
 **New York Times Podcasts:** [February 28, 2024](https://www.youtube.com/watch?v=n0MFNvKTyBc)
 *  From New York Times, I'm Michael Bobarro.

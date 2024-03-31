@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1692s
+Video Keywords: []
+Video Views: 8240
+Video Rating: None
+---
+
 # Why the Coral Reef Crisis in Florida Is a Problem for All of Us
 **New York Times Podcasts:** [August 22, 2023](https://www.youtube.com/watch?v=lIugDo_72-0)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

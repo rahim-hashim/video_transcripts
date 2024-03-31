@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1618s
+Video Keywords: []
+Video Views: 2920
+Video Rating: None
+---
+
 # The Secret History of Gun Rights
 **New York Times Podcasts:** [August 01, 2023](https://www.youtube.com/watch?v=9EgJSquCX9g)
 *  From New York Times, I'm Michael Bobarro.

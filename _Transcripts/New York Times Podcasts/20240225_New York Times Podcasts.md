@@ -1,4 +1,13 @@
-# The Sunday Read: ‘How Do You Make a Weed Empire? Sell It Like Streetwear.’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1749s
+Video Keywords: []
+Video Views: 2393
+Video Rating: None
+---
+
+# The Sunday Read: â€˜How Do You Make a Weed Empire? Sell It Like Streetwear.â€™
 **New York Times Podcasts:** [February 25, 2024](https://www.youtube.com/watch?v=hMhVMud57Ek)
 *  Hi, I'm Ezra Marcus.
 *  I'm a contributing writer to the New York Times Magazine.

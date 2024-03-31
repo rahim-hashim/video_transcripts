@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1632s
+Video Keywords: []
+Video Views: 79
+Video Rating: None
+---
+
 # How a Derailed Train Galvanized an Ohio Town, and Congress
 **New York Times Podcasts:** [March 06, 2023](https://www.youtube.com/watch?v=Ip3K71cnNDI)
 *  From New York Times, I'm Michael Bobarro.

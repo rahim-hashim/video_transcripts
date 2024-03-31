@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1743s
+Video Keywords: ['Israel', 'The Daily', 'New York Times', 'The New York Times', 'NYT', 'Democracy']
+Video Views: 104
+Video Rating: None
+---
+
 # Protests and the Future of Democracy in Israel
 **New York Times Podcasts:** [March 10, 2023](https://www.youtube.com/watch?v=SM26etn2ehE)
 *  From the New York Times, I'm Sabrina Tavernisi. And this is The Daily.

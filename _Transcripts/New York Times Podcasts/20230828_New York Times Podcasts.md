@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1418s
+Video Keywords: []
+Video Views: 5723
+Video Rating: None
+---
+
 # A New Race to the Moon
 **New York Times Podcasts:** [August 28, 2023](https://www.youtube.com/watch?v=ljyfYu8NB78)
 *  From New York Times, I'm Michael Bobauro. This is a daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2621s
+Video Keywords: []
+Video Views: 2341
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Fight for the Right to Trespass’
 **New York Times Podcasts:** [August 27, 2023](https://www.youtube.com/watch?v=rxRQliVF5zc)
 *  As Americans, I think we're used to the idea that land can be owned.

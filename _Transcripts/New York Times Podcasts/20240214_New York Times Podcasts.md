@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1986s
+Video Keywords: []
+Video Views: 66759
+Video Rating: None
+---
+
 # The Biden Problem Democrats Can No Longer Ignore
 **New York Times Podcasts:** [February 14, 2024](https://www.youtube.com/watch?v=LrmmbSwoHvY)
 *  From the New York Times, I'm Michael Waboro. This is The Daily.
@@ -49,7 +58,7 @@
 *  You know, he will confuse people, for instance, mentioning Helmut Kohl when he means Angela Merkel,
 *  different chancellors of Germany.
 *  Helmut Kohl, of course, been dead for a number of years.
-*  Same with France. He confused François Mitterrand, the late president of France, with Emmanuel Macron,
+*  Same with France. He confused FranÃ§ois Mitterrand, the late president of France, with Emmanuel Macron,
 *  the current president of France.
 *  In my reporting, even talking with people about private moments with the president,
 *  what's striking is like administration officials, for instance, who haven't seen him in a while,

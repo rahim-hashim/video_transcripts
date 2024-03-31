@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1324s
+Video Keywords: []
+Video Views: 389
+Video Rating: None
+---
+
 # Who Blew Up the Nord Stream Pipelines?
 **New York Times Podcasts:** [March 08, 2023](https://www.youtube.com/watch?v=k8O2-CxDeQY)
 *  From New York Times, I'm Michael Bobarro.

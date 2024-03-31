@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 3258s
+Video Keywords: []
+Video Views: 3380
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Trillion- Gallon Question’
 **New York Times Podcasts:** [July 23, 2023](https://www.youtube.com/watch?v=9lOrpw9RoXY)
 *  The tallest dam in the U.S. sits above a place called Oroville, a town of about 20,000 people in Northern California.

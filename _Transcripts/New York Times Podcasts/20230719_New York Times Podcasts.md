@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1768s
+Video Keywords: []
+Video Views: 2288
+Video Rating: None
+---
+
 # How the Birth Control Pill Got Over the Counter
 **New York Times Podcasts:** [July 19, 2023](https://www.youtube.com/watch?v=2xZFqQdSrWg)
 *  From the New York Times, I'm Natalie Ketroweth. This is The Daily.

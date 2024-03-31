@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1573s
+Video Keywords: []
+Video Views: 2479
+Video Rating: None
+---
+
 # The Economy is on an Upswing. Should Biden Get Credit for It?
 **New York Times Podcasts:** [August 07, 2023](https://www.youtube.com/watch?v=wC0kLE1YRa4)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

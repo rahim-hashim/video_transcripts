@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1415s
+Video Keywords: []
+Video Views: 5357
+Video Rating: None
+---
+
 # Gold Bars, Wads of Cash and a Senator’s Indictment
 **New York Times Podcasts:** [September 26, 2023](https://www.youtube.com/watch?v=bHcb_KoPpIw)
 *  From the New York Times, I'm Sabrina Tavernisi and this is The Daily.

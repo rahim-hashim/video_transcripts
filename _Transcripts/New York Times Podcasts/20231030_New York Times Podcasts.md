@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1402s
+Video Keywords: []
+Video Views: 77532
+Video Rating: None
+---
+
 # Israel's Invasion Begins
 **New York Times Podcasts:** [October 30, 2023](https://www.youtube.com/watch?v=5mG_1CncoZw)
 *  I'm Raja Abdel Raheem, and I'm a reporter in the Jerusalem Bureau, and I've been covering

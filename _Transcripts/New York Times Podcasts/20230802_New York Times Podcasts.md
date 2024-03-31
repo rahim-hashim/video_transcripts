@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1585s
+Video Keywords: []
+Video Views: 31540
+Video Rating: None
+---
+
 # The Charges Against Trump for Conspiring to Overturn the Election
 **New York Times Podcasts:** [August 02, 2023](https://www.youtube.com/watch?v=t7PcnEC12sc)
 *  From the New York Times, I'm Michael Bavaro. This is The Daily.

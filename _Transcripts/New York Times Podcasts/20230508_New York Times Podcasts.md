@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2032s
+Video Keywords: []
+Video Views: 2050
+Video Rating: None
+---
+
 # A Crisis of Ethics at the Supreme Court
 **New York Times Podcasts:** [May 08, 2023](https://www.youtube.com/watch?v=rpbA0njEF3U)
 *  From the New York Times, I'm Michael Bobarro. This is a daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2017s
+Video Keywords: []
+Video Views: 3497
+Video Rating: None
+---
+
 # How Clarence Thomas Came to Reject Affirmative Action
 **New York Times Podcasts:** [July 14, 2023](https://www.youtube.com/watch?v=HuB8Z6JHBn0)
 *  From the New York Times, I'm Natalie Ketroweth. This is The Daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1873s
+Video Keywords: []
+Video Views: 5496
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Moral Crisis of America’s Doctors’
 **New York Times Podcasts:** [July 16, 2023](https://www.youtube.com/watch?v=IoJ2_vE0n7w)
 *  Hi, my name is Ayal Press and I'm a contributor to the New York Times magazine.

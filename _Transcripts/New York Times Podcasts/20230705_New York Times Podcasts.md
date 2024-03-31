@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1777s
+Video Keywords: []
+Video Views: 3708
+Video Rating: None
+---
+
 # How MrBeast Became the Willy Wonka of YouTube
 **New York Times Podcasts:** [July 05, 2023](https://www.youtube.com/watch?v=2vfBLFIxOVE)
 *  From the New York Times, I'm Katrin Benhold, and this is The Daily.

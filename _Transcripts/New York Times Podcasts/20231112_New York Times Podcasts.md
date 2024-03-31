@@ -1,4 +1,13 @@
-# From Serial: ‘The Kids of Rutherford County’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1736s
+Video Keywords: []
+Video Views: 3367
+Video Rating: None
+---
+
+# From Serial: â€˜The Kids of Rutherford Countyâ€™
 **New York Times Podcasts:** [November 12, 2023](https://www.youtube.com/watch?v=QvlPE0SUlgs)
 *  Hey everyone, it's Sabrina.
 *  I'm just jumping in here to tell you that today we're sharing the first episode of

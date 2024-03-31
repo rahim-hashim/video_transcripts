@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1623s
+Video Keywords: []
+Video Views: 3245
+Video Rating: None
+---
+
 # Sunday Special: Un-Marry Me!
 **New York Times Podcasts:** [February 18, 2024](https://www.youtube.com/watch?v=2wz__oE1ULs)
 *  Hey, it's Michael.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1595s
+Video Keywords: []
+Video Views: 2784
+Video Rating: None
+---
+
 # Speaker McCarthy Has Lost Control of His House
 **New York Times Podcasts:** [June 27, 2023](https://www.youtube.com/watch?v=UvlhVmIuagw)
 *  From New York Times, I'm Michael Bobarro. This is a daily.

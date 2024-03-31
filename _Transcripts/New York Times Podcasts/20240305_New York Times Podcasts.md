@@ -1,16 +1,25 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1787s
+Video Keywords: []
+Video Views: 5653
+Video Rating: None
+---
+
 # A Deadly Aid Delivery and Growing Threat of Famine in Gaza
 **New York Times Podcasts:** [March 05, 2024](https://www.youtube.com/watch?v=6LGmzycioCk)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
-*  Late last week, an effort to get food into northern Gaza turned deadly, as thousands
-*  of desperate Gazans descended on aid trucks, and Israeli troops, tasked with guarding those
-*  trucks, opened fire.
-*  But exactly how people died, and who was responsible, remains contested.
-*  Today, my colleague Hiba Yazbek, on what we know about what happened, and what it tells
+*  Late last week, an effort to get food into northern Gaza turned deadly as thousands of
+*  desperate Gazans descended on aid trucks and Israeli troops tasked with guarding those
+*  trucks opened fire.
+*  But exactly how people died and who was responsible remains contested.
+*  Today, my colleague Hiba Yazbek on what we know about what happened and what it tells
 *  us about hunger in Gaza.
 *  It's Tuesday, March 5th.
 *  So Hiba, we are now in the fifth month of Israel's war against Hamas in Gaza.
 *  And for weeks, we've been hearing about negotiations over a ceasefire and a hostage exchange.
-*  And then, late last week, there was a disaster surrounding an aid convoy that was brought
+*  And then late last week, there was a disaster surrounding an aid convoy that was brought
 *  into Gaza.
 *  You've been reporting on what happened.
 *  Tell us about it.
@@ -18,21 +27,21 @@
 *  disaster since the war started nearly five months ago, in which 118 Palestinians were
 *  killed and more than 760 were wounded in Gaza City.
 *  But there are conflicting reports on how they died and what exactly happened.
-*  The Israeli military has one account of what happened, and the Gaza Health Ministry and
+*  The Israeli military has one account of what happened and the Gaza Health Ministry and
 *  witnesses have another account.
 *  So my colleagues and I started digging into the details.
 *  We started calling people, piecing together a picture of what had actually happened there.
 *  And what did you find when you guys started really looking into this?
 *  So first, let me just give you the context of what happened.
 *  This happened in northern Gaza, the place that has been at war the longest.
-*  This is where Israeli ground forces began their invasion of the Gaza Strip.
+*  That's where Israeli ground forces began their invasion of the Gaza Strip.
 *  Many people have left the north, but we do know that some 300,000 people are still there.
 *  And the people who have remained there are really living through very desperate conditions.
 *  Very little aid has come in to the north of Gaza since the war started, and especially
 *  in recent weeks.
 *  And food is barely available for the people who've remained there.
 *  And the UN has been warning of a famine that is looming over the territory.
-*  And Hiba, why is there so little aid getting into northern Gaza in particular?
+*  And Heba, why is there so little aid getting into northern Gaza in particular?
 *  Well, first of all, there's less aid getting into the Gaza Strip in general, not just the
 *  north.
 *  There's multiple reasons as to why that is.
@@ -41,15 +50,15 @@
 *  Because Israel says that they don't want the aid to end up in the hands of Hamas, that
 *  they don't want them to get a hold of the packages.
 *  Got it.
-*  And when Israel does approve the permits and the aid trucks start their journeys, there's
-*  multiple hurdles that they have to go through in order to actually deliver it to the people.
+*  When Israel does approve the permits and the aid trucks start their journeys, there's multiple
+*  hurdles that they have to go through in order to actually deliver it to the people.
 *  Some of these hurdles include the widespread destruction in Gaza.
 *  There's vast damage across the Gaza Strip.
 *  Roads have been destroyed.
 *  There's rubble everywhere.
 *  And it's very difficult for the trucks to actually move through that rubble and through
 *  those roads.
-*  And then these aid convoys have to go through multiple Israeli checkpoints on the way.
+*  These aid convoys have to go through multiple Israeli checkpoints on the way.
 *  And there's often significant delays at these checkpoints by Israeli soldiers who are inspecting
 *  the aid.
 *  This makes it hard for the trucks to make it from where they enter in the south all
@@ -74,7 +83,7 @@
 *  Right.
 *  And the few aid trucks that do come in have had to either suspend their aid deliveries
 *  into the north or have not been able to deliver aid there.
-*  The last time UNRWA, the UN agency in charge of Palestinian refugees, tried to bring trucks
+*  The last time Anarwa, the UN agency in charge of Palestinian refugees, tried to bring trucks
 *  to the north was nearly a month ago.
 *  They said that one of their convoys came under fire.
 *  And another major aid provider, the World Food Program, said that they haven't delivered
@@ -82,6 +91,7 @@
 *  And they cited all of the reasons we talked about for this suspension.
 *  So while aid hasn't been coming into the north, people have been growing more desperate
 *  and hungry and the situation there has been getting worse, which has been raising international
+*  alarm.
 *  And there's been increased calls on Israel to let aid go through to the north and to
 *  alleviate the suffering of the residents there.
 *  So Israel partnered with these local Palestinian businessmen in Gaza and they promised to secure
@@ -96,7 +106,8 @@
 *  and they start getting closer to the crowds of people who had camped there overnight waiting
 *  for this aid to come.
 *  And when the people see the trucks coming, they're very desperate.
-*  They surround them, they get on top of them.
+*  They surround them.
+*  They get on top of them.
 *  And then at some point, Israeli soldiers start firing shots.
 *  And then it turned violent very fast.
 *  And it ended with 118 Palestinians dead and 760 injured.
@@ -106,23 +117,26 @@
 *  So the Israeli military said that it was trying to secure the convoy and it had tanks nearby
 *  to make sure that the convoy reached the area.
 *  And it did acknowledge that its troops had opened fire at the crowd.
-*  But they said that they opened fire when a violent crowd or a violent mob approached
-*  their troops and endangered their lives.
+*  They said that they opened fire when a violent crowd or a violent mob approached their troops
+*  and endangered their lives.
 *  And they said the shots that were fired weren't really the reason why so many people died.
 *  But the reason that so many people died was because in the chaos of all of it, they trampled
 *  each other and many had died from suffocation or trampling and also that the trucks had
 *  run over some of the people who were trying to run away.
 *  Oh, God.
 *  So the Israelis don't deny actually shooting, but they say it was more about controlling
-*  the crowd kind of as warning shots type thing and that this was not the way people actually died.
-*  They say the way people actually died was suffocation or being crushed by the aid trucks themselves.
+*  the crowd kind of as warning shots type thing and that this was not the way people actually
+*  died.
+*  They say the way people actually died was suffocation or being crushed by the aid trucks
+*  themselves.
 *  Right.
 *  And what did the Gazan health authorities say?
 *  So the Gazan health authorities have actually been calling this the Flower Massacre or the
 *  Massacre of the Hungry Stomachs because what they're saying is that Israeli forces fired
-*  at a crowd of hungry and desperate people who are waiting for aid and witnesses and
-*  Palestinians who were there have said that although some people were trampled and possibly
-*  run over by the trucks, that was not the main reason for the high death toll.
+*  at a crowd of hungry and desperate people who are waiting for aid.
+*  And witnesses and Palestinians who were there have said that although some people were trampled
+*  and possibly run over by the trucks, that was not the main reason for the high death
+*  toll.
 *  Most of the people who were injured or killed were injured and killed by Israeli fire.
 *  So the Gazan health authorities are essentially saying this was a massacre by Israel.
 *  Right.
@@ -150,7 +164,7 @@
 *  And the tracer rounds originated from the direction of a nearby Israeli military base.
 *  So although that did not conclude that the shots came from the direction of the Israeli
 *  military, it did add another layer of evidence.
-*  So hey, but it sounds like these videos are suggestive, but not conclusive.
+*  So it sounds like these videos are suggestive, but not conclusive.
 *  But what did the people you spoke to on the ground say?
 *  The eyewitnesses and survivors and doctors you spoke with?
 *  Right.
@@ -184,13 +198,13 @@
 *  And we also have the UN and aid organizations saying that one in six children in northern
 *  Gaza were acutely malnutritioned and that more than 90% of children under two are facing
 *  severe food poverty.
-*  And the UN humanitarian coordinator said that a quarter of all Gaza residents are one step
-*  away from famine.
+*  And the UN humanitarian coordinator said that a quarter of all Gaza residents are
+*  one step away from famine.
 *  And how exactly are people surviving, Hiba?
 *  I mean, you're talking to people in northern Gaza.
 *  What are they saying?
-*  I've been reporting on hunger for weeks and I've talked to people about what they're doing
-*  in order to survive with such little food.
+*  I've been reporting on hunger for weeks and I've talked to people about what they're
+*  doing in order to survive with such little food.
 *  And I recently talked to one woman whose experience is very typical in northern Gaza.
 *  Her name is Ghada Krayem.
 *  She's a 23-year-old woman from the north who stayed in the north and didn't flee.
@@ -222,7 +236,7 @@
 *  It wasn't better for them.
 *  So they realized that they should probably just go back to the north and stay as close
 *  as possible to their home in case they're able to go back later.
-*  But that never happened because Israeli forces took up their home as a military base and
+*  That never happened because Israeli forces took up their home as a military base and
 *  they were there for two weeks, she said.
 *  And after they'd left, two weeks later, she went back to check on her home and it was
 *  burned.
@@ -235,7 +249,7 @@
 *  Well, she told me that in the beginning of the war, they still were able to find some
 *  things to buy and eat like rice and vegetables.
 *  But she said that by the end of December, basically, when aid to the north became less
-*  frequent, and things that they were eating had started to run out, including flour, which
+*  frequent and things that they were eating had started to run out, including flour, which
 *  became much less available and much more expensive, they didn't know what to do.
 *  I mean, they had nothing to eat, so they started mixing water with starch to eat.
 *  They were having one meal a day and the children were constantly hungry.
@@ -263,8 +277,8 @@
 *  Yes, but that was still not enough.
 *  At that point, Ghada and her family were only eating one meal a day.
 *  And that was not enough for them or the children in the family.
-*  She told me that her little sister, two-year-old Ilyin, who's actually the youngest person
-*  sheltering with them, was hungry all the time.
+*  She told me that her little sister, two-year-old Elin, who's actually the youngest person sheltering
+*  with them, was hungry all the time.
 *  She was going to sleep crying and waking up crying and she loved milk, but they ran
 *  out of milk more than two months ago.
 *  So what they've been doing is basically giving her expired juice.
@@ -326,13 +340,13 @@
 *  She even said that more people were going back on the beach and waiting and camping
 *  out and sleeping there, hoping for more aid to come.
 *  And she also said that her brother, Muhammad, was also going back every day since Thursday,
-*  hoping to get another bag of flour because he was so hungry that he wanted to eat anything.
-*  And risking his life for a bag of flour was worth it.
+*  hoping to get another bag of flour because he was so hungry that he wanted to eat anything
+*  and risking his life for a bag of flour was worth it.
 *  Despite the fact that so many people had died on Thursday trying to get flour, the fact
 *  that some people did come home with a bag of flour, that was enough for them and others
 *  to go back there in hopes that more was going to come.
 *  Bye bye.
-*  Heba, thank you.
+*  Hiba, thank you.
 *  Thank you, Sabrina.
 *  Over the weekend, the Biden administration air-dropped food into Gaza for the first time,
 *  and Vice President Kamala Harris called for a ceasefire, a position she pressed with a
@@ -355,7 +369,7 @@
 *  during the October 7th attack, the Nova Music Festival site, Road 232, and Kibbutz Reim.
 *  The experts also said they had found circumstantial evidence that could indicate sexual violence
 *  had occurred with a number of victims, mostly women, who were found fully or partially naked,
-*  bound and shot.
+*  bound, and shot.
 *  In addition, the UN group said it had found clear and convincing information based on
 *  firsthand accounts from released hostages that sexual violence, including rape, was
 *  inflicted against some women during their time in captivity in Gaza.
@@ -364,7 +378,7 @@
 *  Today's episode was produced by Sydney Harper, Rochelle Banja, and Lindsay Garrison.
 *  It was edited by Liz O'Balin and Lisa Chow, contains original music by Dan Powell, Marianne
 *  Lozano, and Alicia Bitu, and was engineered by Alyssa Moxley.
-*  Our theme music is by Jim Brunberg and Ben Landsberg of Wonderly.
+*  Our theme music is by Jim Brunberg and Ben Landsvark of Wonderly.
 *  That's it for the daily.
 *  I'm Sabrina Tavernisi.
 *  See you tomorrow.

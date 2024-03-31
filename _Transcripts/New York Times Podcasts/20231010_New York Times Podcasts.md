@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1510s
+Video Keywords: []
+Video Views: 4975
+Video Rating: None
+---
+
 # The New Supreme Court Cases to Watch
 **New York Times Podcasts:** [October 10, 2023](https://www.youtube.com/watch?v=N1D8C9V3TYY)
 *  From the New York Times, I'm Sabrina Tavernisi. And this is The Daily.

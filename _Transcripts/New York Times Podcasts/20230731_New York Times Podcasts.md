@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1892s
+Video Keywords: []
+Video Views: 3855
+Video Rating: None
+---
+
 # Italy’s Giorgia Meloni Charts a Path for the Far Right
 **New York Times Podcasts:** [July 31, 2023](https://www.youtube.com/watch?v=7X6gZUFhu-w)
 *  From the New York Times, I'm Matina Stavris-Gridnev.

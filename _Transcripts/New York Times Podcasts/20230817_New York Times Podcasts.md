@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1613s
+Video Keywords: []
+Video Views: 12898
+Video Rating: None
+---
+
 # Hunter Biden’s Legal Problems Keep Getting Worse
 **New York Times Podcasts:** [August 17, 2023](https://www.youtube.com/watch?v=cFcJK_uQlSw)
 *  From the New York Times, I'm Michael Barbaro. This is a daily.

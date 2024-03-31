@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1405s
+Video Keywords: []
+Video Views: 871
+Video Rating: None
+---
+
 # Even More Trouble for George Santos
 **New York Times Podcasts:** [May 11, 2023](https://www.youtube.com/watch?v=8ao7C6H98Hw)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

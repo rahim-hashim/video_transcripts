@@ -1,4 +1,13 @@
-# Ending Roe Was Supposed to Reduce Abortions. It Didn’t.
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1329s
+Video Keywords: []
+Video Views: 6029
+Video Rating: None
+---
+
+# Ending Roe Was Supposed to Reduce Abortions. It Didnâ€™t.
 **New York Times Podcasts:** [November 29, 2023](https://www.youtube.com/watch?v=vhUUFVQ02pA)
 *  From New York Times, I'm Michael Bobarro.
 *  This is The Daily.

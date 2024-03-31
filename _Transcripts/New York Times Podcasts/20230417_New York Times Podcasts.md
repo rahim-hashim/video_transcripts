@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1505s
+Video Keywords: []
+Video Views: 2147
+Video Rating: None
+---
+
 # China and Taiwan: A Torrid Backstory
 **New York Times Podcasts:** [April 17, 2023](https://www.youtube.com/watch?v=5WJX-uf8omE)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

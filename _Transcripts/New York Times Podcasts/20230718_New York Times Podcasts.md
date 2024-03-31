@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1727s
+Video Keywords: []
+Video Views: 4276
+Video Rating: None
+---
+
 # The Writers’ Revolt Against A.I. Companies
 **New York Times Podcasts:** [July 18, 2023](https://www.youtube.com/watch?v=5rEIeWoeDVA)
 *  From New York Times, I'm Michael Barbaro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2242s
+Video Keywords: []
+Video Views: 10374
+Video Rating: None
+---
+
 # Biden Is Trying to Rein In Israel. Is It Working?
 **New York Times Podcasts:** [December 08, 2023](https://www.youtube.com/watch?v=G9KpJJB8wvI)
 *  From New York Times, I'm Michael Bobarro. This is The Daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1817s
+Video Keywords: []
+Video Views: 7259
+Video Rating: None
+---
+
 # The Hybrid Worker Malaise
 **New York Times Podcasts:** [January 25, 2024](https://www.youtube.com/watch?v=u0Of-wxr63o)
 *  So we are going to go pick up our colleague Emma Goldberg, who told us to meet her on

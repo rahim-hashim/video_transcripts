@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3565s
+Video Keywords: []
+Video Views: 14394
+Video Rating: None
+---
+
 # 'Hard Fork': An Interview With Sam Altman
 **New York Times Podcasts:** [November 24, 2023](https://www.youtube.com/watch?v=wBX4xeefPiA)
 *  Hey, it's Michael.
@@ -937,131 +946,75 @@
 *  You recently posted on X that you expect AI to be capable of superhuman persuasion
 *  well before it is superhuman at general intelligence,
 *  which may lead to some very strange outcomes.
-*  Can you expand on that?
-*  Like what are some things that AI might become very good at persuading us to do?
-*  And what are some of those strange outcomes you're worried about?
+*  Can you expand on that like, what are some things that AI might become very good at persuading us
+*  to do and what are some of those strange outcomes you're worried about?
 *  The thing I was thinking about at that moment was the upcoming election.
-*  There's a huge focus on the U.S. 2024 election.
+*  There's a huge focus on the US 2024 election.
 *  There's a huge focus on deep fakes and the impact of AI there.
 *  And I think that's reasonable to worry about, good to worry about.
 *  But we already have some societal antibodies towards people seeing like,
-*  like, the world is changing,
-*  but we're not seeing any of that.
-*  I think that's a good thing.
-*  I think that's a good thing.
-*  But I think that's a good thing.
-*  I think that's a good thing.
-*  Because people seeing doctored photos or whatever,
-*  and yeah, they're going to get more compelling,
-*  it's going to be more, but we kind of know those are there.
-*  There's a lot of discussion about that.
-*  There's almost no discussion about what are the new things AI can do
-*  to influence an election.
-*  AI tools can do to influence an election.
-*  And one of those is to like carefully,
-*  you know, one-on-one persuade individual people.
-*  Tailored messages.
-*  That's like a new thing that the content farms couldn't quite do.
-*  Right.
-*  still be pretty harmful.
-*  I think so, yeah.
-*  I know we are running out of time,
-*  but I do want to push us a little bit further
-*  into the future than the sort of, I don't know,
-*  maybe five-year horizon we've been talking about.
-*  If you can imagine a good post-AGI world,
-*  a world in which we have reached this threshold,
-*  whatever it is, what does that world look like?
-*  Does it have a government?
-*  Does it have companies?
-*  What do people do all day?
-*  Like a lot of material abundance.
-*  People continue to be very busy,
-*  but the way we define work always moves.
-*  Like if you, our jobs would not have seemed like real jobs
-*  to people several hundred years ago, right?
-*  This would have seemed like incredibly silly entertainment.
-*  It's important to me, it's important to you.
-*  And hopefully it has some value to other people as well.
-*  There will be, and the jobs of the future may seem,
-*  I hope they seem even sillier to us,
-*  but I hope the people get even more fulfillment,
-*  I hope society gets even more fulfillment out of them.
-*  But everybody can have a really great quality of life,
-*  like to a degree that I think we probably
-*  just can't imagine now.
-*  Of course we'll still have governments.
-*  Of course people will still squabble over
-*  whatever they squabble over.
-*  Less different in all of these ways than someone would think.
-*  And then like unbelievably different in terms of what
-*  you can get a computer to do for you.
-*  One fun thing about becoming a very prominent person
-*  in the tech industry as you are,
-*  is that people have all kinds of theories about you.
-*  One fun one that I heard the other day
-*  is that you have a secret Twitter account
-*  where you are way less measured and careful.
-*  I don't anymore.
-*  I did for a while.
-*  I decided I just couldn't keep up with the opsec.
-*  It's so hard to lead a double life.
-*  What was your secret Twitter account?
-*  Obviously I can't.
-*  I mean, I had a good alt, a lot of people have good alts,
-*  but you know.
-*  Your name is literally Sam Altman.
-*  I mean, it would have been weird if you didn't have one.
-*  But I think I just got, yeah,
-*  like too well known or something to be doing that.
-*  Yeah.
-*  Well, and the sort of theory that I heard attached to this
-*  was that you are secretly an accelerationist.
-*  A person who wants AI to go as fast as possible.
-*  And then all this careful diplomacy that you're doing
-*  and asking for regulation.
-*  This is really just the sort of polite face
-*  that you put on for society.
-*  But deep down, you just think we should go
-*  all gas, no brakes toward the future.
-*  No, I certainly don't think all gas, no brakes to the future.
-*  But I do think we should go to the future.
-*  And that probably is what differentiates me
-*  than like most of the AI companies is I think AI is good.
-*  Like I don't secretly hate what I do all day.
-*  I think it's gonna be awesome.
-*  Like I want to see this get built.
-*  I want people to benefit from this.
-*  So all gas, no brake, certainly not.
-*  And I don't even think like most people who say it mean it,
-*  but I am a believer that this is a tremendously
-*  beneficial technology and that we have got to find a way
-*  safely and responsibly to get into the hands of the people,
-*  to confront the risk so that we get to enjoy
-*  the huge rewards and like maybe relative to the prior
-*  of most people who work on AI,
-*  that does make me an accelerationist.
-*  But compared to those like accelerationist people,
-*  I'm clearly not them.
-*  So I'm like somewhere,
-*  I think you like want the CEO of this company to be somewhere.
-*  Your acceleration is adjacent.
-*  Your gas and brakes.
-*  I believe that this will be the most important
-*  and beneficial technology humanity has ever
-*  has yet invented.
-*  And I also believe that if we're not careful about it,
-*  it can be quite disastrous.
-*  And so we have to navigate it carefully.
-*  Yeah.
-*  Sam, thanks so much for coming on Hard Fork.
+*  human intelligence and artificial intelligence.
+*  And we've had, like, the talking of AI and AI-based media,
+*  the online media that is very, very complicated.
+*  And I think it's important to think about it.
+*  antibodies towards people seeing like doctored photos or whatever and yeah
+*  they're gonna get more compelling, it's gonna be more but we kind of know those are there.
+*  There's a lot of discussion about that. There's almost no discussion about what
+*  are like the new things AI can do to influence an election, AI tools can do
+*  to influence an election and one of those is to like carefully, you know, one
+*  on one persuade individual people. Tailored messages. That's like a new
+*  thing that the content firms couldn't quite do. Right and that's not AGI but
+*  that could still be pretty harmful. I think so, yeah. I know we are running out
+*  of time but I do want to push us a little bit further into the future than
+*  the sort of, I don't know, maybe five-year horizon we've been talking about. If you
+*  can imagine a good post-AGI world, a world in which we have reached this
+*  threshold, whatever it is, what does that world look like? Does it have a government?
+*  Does it have companies? What do people do all day? Like a lot of material
+*  abundance. People are, people continue to be very busy but the way we define work
+*  always moves. Like if you, our jobs would not have seemed like real jobs to people
+*  several hundred years ago, right? This would have seemed like incredibly silly
+*  entertainment. It's important to me, it's important to you and hopefully it has
+*  some value to other people as well. There will be, and the jobs of the future may
+*  seem, I hope they seem even sillier to us but I hope the people get even more
+*  fulfillment and I hope society gets even more fulfillment out of them. But
+*  everybody can have a really great quality of life like to a degree that I
+*  think we probably just can't imagine now. Of course we'll still have governments.
+*  Of course people will still squabble over whatever they squabble over. You know,
+*  less different in all of these ways than someone would think and then like
+*  unbelievably different in terms of what you can get a computer to do for you.
+*  One fun thing about becoming a very prominent person in the tech industry as
+*  you are is that people have all kinds of theories about you. One fun one that I
+*  heard the other day is that you have a secret Twitter account where you are way
+*  less measured and careful. I don't anymore. I did for a while. I decided I
+*  just couldn't keep up with the opsec. It's so hard to lead a double life. What was
+*  your secret Twitter account? Obviously I can't. I mean I had a good alt, a lot of people have good alt's.
+*  Your name is literally Sam Altman. I mean it would have been weird if you didn't have one.
+*  But I think I just got too well-known or something to be doing that.
+*  Yeah well and the sort of theory that I heard attached to this was that you are
+*  you are secretly an accelerationist. A person who wants AI to go as fast as
+*  possible and that all this careful diplomacy that you're doing and asking
+*  for regulation. This is really just the sort of polite face that you put on for
+*  society. But deep down you just think we should go all gas no breaks toward the
+*  future. No I certainly don't think all gas no breaks to the future but I do
+*  think we should go to the future and that probably is what differentiates me
+*  than like most of the AI companies. I think AI is good. Like I don't secretly
+*  hate what I do all day. I think it's gonna be awesome. Like I want to see this
+*  get built. I want people to benefit from this. So all gas no break, certainly not.
+*  And I don't even think like most people who say it mean it. But I am a believer
+*  that this is a tremendously beneficial technology and that we have got to find
+*  a way safely and responsibly to get into the hands of the people to confront the
+*  risk so that we get to enjoy the huge rewards. And like you know maybe
+*  relative to the prior of most people who work on AI that does make me an
+*  accelerationist. But compared to those like accelerationist people I'm clearly
+*  not them. So you know I'm like somewhere I think you like want the CEO of this
+*  company to be somewhere. Your accelerationist. Your gas and breaks. I believe that this will be the most
+*  important and beneficial technology humanity has ever has yet invented and I
+*  also believe that if we're not careful about it it can be quite disastrous and
+*  so we have to navigate it carefully. Yeah. Sam, thanks so much for coming on
 *  Thank you guys.
-*  Hard Fork is produced by Davis Land and Rachel Cohn.
-*  We're edited by Jen Poyant.
-*  Today's show was engineered by Alyssa Moxley.
-*  Original music by Marian Lozano and Dan Powell.
-*  Our audience editor is Nelka Lokely.
-*  Video production by Ryan Manning and Dylan Bergeson.
-*  Special thanks to Paula Schumann, Pui Wing Tam,
-*  Kate Lepresty and Jeffrey Miranda.
-*  You can email us at hardforknytimes.com.
+*  Heart Fork is produced by Davis Land and Rachel Cohn. We're edited by David
+*  and Rachel.
+*  Today's show was engineered by Alyssa Moxley. Original music by Marian
+*  Lozano and Dan Powell. Our audience editor is Nelga Lokely. Video production by
+*  Ryan Manning and Dylan Bergeson. Special thanks to Paula Schumann, Pui Wing Tam,
+*  Kate Lepresti and Jeffrey Miranda. You can email us at heartforknytimes.com

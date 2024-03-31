@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1328s
+Video Keywords: []
+Video Views: 4435
+Video Rating: None
+---
+
 # Understanding Ukraine’s Counteroffensive
 **New York Times Podcasts:** [June 23, 2023](https://www.youtube.com/watch?v=SSIcIxiXKsc)
 *  From the New York Times, I'm Katrin Benhold, in for Sabrina Tavernisi.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2886s
+Video Keywords: []
+Video Views: 184
+Video Rating: None
+---
+
 # The Sunday Read: ‘Elon Musk’s Appetite for Destruction’
 **New York Times Podcasts:** [February 26, 2023](https://www.youtube.com/watch?v=DQO_N7N0yHM)
 *  Hi, this is Christopher Cox.
@@ -299,31 +308,34 @@
 *  bystanders who might be killed along the way.
 *  Online, there's a battle between pro-Musk and
 *  anti-Musk factions about autopilot and FSD.
-*  Reddit has a forum called r-real-tesla that showcases the most embarrassing AI screw-ups,
-*  along with more generic and more sophisticated features.
-*  For example, the AI-based version of the Tesla-based version of the Tesla-based version
-*  The Musk stands tend to sequester themselves in r-Tesla Motors,
-*  where they post Tesla sightings, cheer on the company's latest factory openings,
-*  and await the next big announcement from the boss.
-*  The Musk stands tend to sequester themselves in r-Tesla Motors,
+*  Reddit has a forum called R, real Tesla,
+*  that showcases the most embarrassing AI screw ups,
+*  along with more generic and more sophisticated AI solutions.
+*  And it's been a long time since the last time we've had a battle
+*  between pro-Musk and anti-Musk factions.
+*  Real Tesla that showcases the most embarrassing AI screw ups,
+*  along with more generic complaints.
+*  Squeaky steering wheels, leaky roofs, haywire electronics, noisy cabins,
+*  stiff suspensions, wrinkled leather seats, broken door handles.
+*  The Musk's stands tend to sequester themselves in R Tesla Motors,
 *  where they post Tesla sightings, cheer on the company's latest factory openings,
 *  and await the next big announcement from the boss.
 *  I found David Alford on YouTube, where he posted a video called
-*  Tesla Full Self-Driving Running a Red Light.
+*  Tesla Full Self Driving Running a Red Light.
 *  In it, we see the view through the windshield as Alford's car approaches
 *  an intersection with a left turn lane that has a dedicated traffic signal.
 *  With a few hundred yards remaining, the light shifts from green to red.
 *  But the car doesn't stop.
 *  Instead, it rolls into the intersection where it's on track to collide with
 *  oncoming traffic until Alford takes over.
-*  In the comments, Tesla fans grow angry with Alford for posting the video,
-*  but he pushes back.
+*  In the comments, Tesla fans grow angry with Alford for posting the video, but
+*  he pushes back.
 *  How does it help put pressure on Tesla to improve their systems if you are scared to
 *  post their faults?
 *  Replying to one comment, he writes that FSD is unethical in the context they
 *  are using it.
-*  When I called Alford, I was expecting someone suited for r-Real-Tesla, but
-*  he ended up having more of an r-Tesla Motors vibe.
+*  When I called Alford, I was expecting someone suited for R real Tesla, but
+*  he ended up having more of an R Tesla Motors vibe.
 *  He told me that he would be willing to take me to the site of his video and
 *  demonstrate the failure, but first I had to make a promise.
 *  The only thing I ask is try not to put me in a bad light toward Tesla, he said.

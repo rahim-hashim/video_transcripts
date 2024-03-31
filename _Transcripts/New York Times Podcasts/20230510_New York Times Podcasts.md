@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1755s
+Video Keywords: []
+Video Views: 1974
+Video Rating: None
+---
+
 # Trump Liable for Sexual Abuse
 **New York Times Podcasts:** [May 10, 2023](https://www.youtube.com/watch?v=E5dak5dDdBM)
 *  From New York Times, I'm Michael Abaro. This is a daily.

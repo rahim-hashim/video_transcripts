@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1766s
+Video Keywords: []
+Video Views: 2481
+Video Rating: None
+---
+
 # America Has a Problem in Africa: China
 **New York Times Podcasts:** [April 06, 2023](https://www.youtube.com/watch?v=wq3Bcy0CisE)
 *  Hey, it's Michael. Our politics show, The Run-Up, is back today with a new season. And

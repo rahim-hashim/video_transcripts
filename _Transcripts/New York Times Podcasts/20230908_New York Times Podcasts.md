@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1919s
+Video Keywords: []
+Video Views: 3170
+Video Rating: None
+---
+
 # A Tragic Fire and Broken Promises in South Africa
 **New York Times Podcasts:** [September 08, 2023](https://www.youtube.com/watch?v=Jih4J2H9GEc)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

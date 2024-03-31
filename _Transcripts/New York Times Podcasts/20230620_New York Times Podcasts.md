@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1434s
+Video Keywords: []
+Video Views: 2567
+Video Rating: None
+---
+
 # Inflation Is Way Down. Is It by Design or Just Luck?
 **New York Times Podcasts:** [June 20, 2023](https://www.youtube.com/watch?v=QZ1VGj-EE2o)
 *  From New York Times, I'm Michael Bobarro. This is a daily.

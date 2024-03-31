@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1723s
+Video Keywords: []
+Video Views: 9979
+Video Rating: None
+---
+
 # What the Houthis Really Want
 **New York Times Podcasts:** [January 18, 2024](https://www.youtube.com/watch?v=bmh1Tg10zQ4)
 *  From New York Times, I'm Michael Boboro. This is The Daily.

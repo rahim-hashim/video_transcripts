@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2166s
+Video Keywords: []
+Video Views: 861
+Video Rating: None
+---
+
 # Barney Frank on His Role in the Banking Crisis
 **New York Times Podcasts:** [March 22, 2023](https://www.youtube.com/watch?v=bfye-f77LPc)
 *  From the New York Times, I'm Michael Bobarro. This is a daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1456s
+Video Keywords: []
+Video Views: 4654
+Video Rating: None
+---
+
 # The Great Resignation is Over
 **New York Times Podcasts:** [July 12, 2023](https://www.youtube.com/watch?v=r9KFjzwja9s)
 *  Previously on The Daily.

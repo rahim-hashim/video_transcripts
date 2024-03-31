@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 5631s
+Video Keywords: []
+Video Views: 5707
+Video Rating: None
+---
+
 # Sunday Special: Elon Musk at 'DealBook'
 **New York Times Podcasts:** [December 03, 2023](https://www.youtube.com/watch?v=f8qTO2kBwm0)
 *  Hey, it's Michael.
@@ -9,7 +18,7 @@
 *  before a live audience.
 *  It's a remarkable conversation.
 *  Sorkin presses Musk on a recent public controversy, but he also explores Musk's ideas about
-*  a variety of topics – freedom of speech, technology, optimism, aliens, and screen time.
+*  a variety of topics â€“ freedom of speech, technology, optimism, aliens, and screen time.
 *  It was all part of a series of live interviews put together by our colleagues at Dealbook,
 *  with significant leaders, including Vice President Kamala Harris and former House Speaker Kevin
 *  McCarthy.
@@ -30,7 +39,7 @@
 *  He's the richest person in the world.
 *  What?
 *  He may very well be the most consequential individual in the world right now.
-*  He runs the most innovative companies in the world – Tesla, SpaceX, Starlink, which
+*  He runs the most innovative companies in the world â€“ Tesla, SpaceX, Starlink, which
 *  is part of that, Neuralink, the Boring Company X, and his X.ai.
 *  He's disrupted each of these lanes.
 *  He's moved at breakneck speeds, but he's faced a storm of controversy in the process.

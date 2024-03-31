@@ -1,4 +1,13 @@
-# Why Boeing’s Top Airplanes Keep Failing
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1318s
+Video Keywords: []
+Video Views: 6960
+Video Rating: None
+---
+
+# Why Boeingâ€™s Top Airplanes Keep Failing
 **New York Times Podcasts:** [February 12, 2024](https://www.youtube.com/watch?v=pOIHC6qFY38)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  Questions have swirled for weeks over what went wrong on an Alaska Airlines flight where

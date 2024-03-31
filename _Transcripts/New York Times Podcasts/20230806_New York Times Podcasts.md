@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2796s
+Video Keywords: []
+Video Views: 3992
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Vanishing Family: Life in the Shadow of a Cruel Genetic Mutation’
 **New York Times Podcasts:** [August 06, 2023](https://www.youtube.com/watch?v=5wy7UAQJZMg)
 *  Hi, I'm Robert Kolker and I'm a contributing writer to the New York Times magazine.

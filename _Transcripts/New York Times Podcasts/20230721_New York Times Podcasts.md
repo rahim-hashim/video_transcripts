@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1880s
+Video Keywords: []
+Video Views: 4051
+Video Rating: None
+---
+
 # Can Barbie Be Rebranded as a Feminist Icon?
 **New York Times Podcasts:** [July 21, 2023](https://www.youtube.com/watch?v=cWwIvTH_AUQ)
 *  From the New York Times, I'm Natalie Ketroff.

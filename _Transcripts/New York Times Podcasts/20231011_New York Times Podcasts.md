@@ -1,4 +1,13 @@
-# Israel’s Plan to Destroy Hamas
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1616s
+Video Keywords: []
+Video Views: 21557
+Video Rating: None
+---
+
+# Israelâ€™s Plan to Destroy Hamas
 **New York Times Podcasts:** [October 11, 2023](https://www.youtube.com/watch?v=5bZrtU2-dzw)
 *  From the New York Times, I'm Michael Boboro.
 *  This is a daily.

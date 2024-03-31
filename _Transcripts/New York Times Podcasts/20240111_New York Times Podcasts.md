@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1351s
+Video Keywords: []
+Video Views: 10710
+Video Rating: None
+---
+
 # The Threat of a Wider War in the Middle East
 **New York Times Podcasts:** [January 11, 2024](https://www.youtube.com/watch?v=eBkBvQEwWJA)
 *  From the New York Times, I'm Katharine Benhold, in for Sabrina Terenisi. This is The Daily.

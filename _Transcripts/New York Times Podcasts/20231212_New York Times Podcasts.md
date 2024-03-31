@@ -1,4 +1,13 @@
-# Ukraine’s Counteroffensive Fizzled. U.S. Funding May Be Next.
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1512s
+Video Keywords: []
+Video Views: 13742
+Video Rating: None
+---
+
+# Ukraineâ€™s Counteroffensive Fizzled. U.S. Funding May Be Next.
 **New York Times Podcasts:** [December 12, 2023](https://www.youtube.com/watch?v=-Zf-wbfZYmA)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
 *  Ukraine's president, Vladimir Zelensky, has made a rare trip to Washington this week,

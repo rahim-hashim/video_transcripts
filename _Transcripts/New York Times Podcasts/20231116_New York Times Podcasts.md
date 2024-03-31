@@ -1,4 +1,13 @@
-# Biden’s Electric Car Problem
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1510s
+Video Keywords: []
+Video Views: 8100
+Video Rating: None
+---
+
+# Bidenâ€™s Electric Car Problem
 **New York Times Podcasts:** [November 16, 2023](https://www.youtube.com/watch?v=xWbC9bcJb9I)
 *  From New York Times, I'm Michael Boboro. This is The Daily.
 *  A little over a year ago, at President Biden's urging, Congressional Democrats passed a sweeping

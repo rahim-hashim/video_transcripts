@@ -1,4 +1,13 @@
-# The Sunday Read: ‘The Genius Behind Hollywood’s Most Indelible Sets’
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3147s
+Video Keywords: []
+Video Views: 3632
+Video Rating: None
+---
+
+# The Sunday Read: â€˜The Genius Behind Hollywoodâ€™s Most Indelible Setsâ€™
 **New York Times Podcasts:** [October 22, 2023](https://www.youtube.com/watch?v=2YWJScD9Rk8)
 *  Noah Gallagher Shannon
 *  My name is Noah Gallagher Shannon.
@@ -672,7 +681,7 @@
 *  cookware from people passing through.
 *  You start looking at the character and you just kind of build from the character, Fisk
 *  told me.
-*  What I try to do with the sets is just… find the essence.
+*  What I try to do with the sets is justâ€¦ find the essence.
 *  We were seated in his office on the ground floor of his house.
 *  Like every other room, Fisk had meticulously remodeled it himself.
 *  The walls and carpet were matching palace arms red, a shade close to oxblood, illuminated

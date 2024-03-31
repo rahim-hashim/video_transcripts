@@ -1,4 +1,13 @@
-# The Sunday Read: �The Art of Telling Forbidden Stories in China�
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2288s
+Video Keywords: []
+Video Views: 3287
+Video Rating: None
+---
+
+# The Sunday Read: ‘The Art of Telling Forbidden Stories in China’
 **New York Times Podcasts:** [October 01, 2023](https://www.youtube.com/watch?v=lO7XZ2h83CI)
 *  Hi, my name is Han Zhang, and I'm a contributor to the New York Times magazine.
 *  I write about the political and literary narratives that are shaping the Chinese world.
@@ -481,3 +490,44 @@
 *  Along with all the little intricacies and inexplicable imagery within it.
 *  To abandon it is almost like abandoning yourself.
 *  He told me the story behind his favorite Chinese phrase,
+*  黄粮一梦, or a fleeting dream as the golden millet cooks.
+*  It refers to a story in which a young man falls asleep at an inn as the innkeeper steams a pot of millet.
+*  In his dream, the man marries a beautiful woman from a wealthy family,
+*  rises to power in court politics, and narrowly escapes death after jealous rivals set him up.
+*  After a lifetime, he wakes up.
+*  The millet isn't done yet.
+*  Which is the reality?
+*  Eventless destitution, or surreal splendor punctuated by viciousness?
+*  Hao has readily joined a growing community of Chinese activists and writers in exile.
+*  As the environment grows dire, he wrote to Zhang on Signal, the encrypted messaging service,
+*  we are a generation that's destined to be uprooted and scattered, to drift through the world.
+*  Privately though, Hao is still processing the past.
+*  Since self-exiling, Hao has experienced a measure of survivor's guilt.
+*  His tally of arrested friends has risen to 41.
+*  Last fall, when thousands of citizens protested the arbitrary COVID policies,
+*  Hao had an intense feeling of missing out.
+*  One day, perhaps, he thought, he would decide to return home as abruptly as he left.
+*  In his early essays, Hao depicted himself to be a somewhat feeble man.
+*  When he encountered physical conflict in the streets,
+*  he tended to avert his eyes and avoid getting involved.
+*  It's different, however, when the conflict is intellectual.
+*  He finds himself oscillating between wary caution and reckless bravery.
+*  He cannot stomach the government's authoritarian grip on China's literary culture and public life.
+*  Who gives you the right to rule this way?
+*  He wondered aloud.
+*  Last year, Hao began writing fiction again at the age of 48.
+*  He is in the middle of a new novel he is calling Homeless Dog.
+*  The working title is inspired by a friend's experience during a tea session
+*  when a guobao officer scolded him,
+*  don't fancy yourself to be some kind of big figure.
+*  To me, you are merely a homeless dog.
+*  Seen in this light, the title poses a question.
+*  Who gets to define writers like Hao?
+*  I had to make many difficult choices, but I'm proud of the life I lived, Hao says.
+*  In May, he was touring for his Wuhan book in Norway.
+*  In drizzling rain, on a train passing through unfamiliar cities, he dozed.
+*  A dream came.
+*  He was 18 again and about to take the college entrance exam.
+*  He was feeling unprepared.
+*  He woke up feeling jittery, then remembered that the old days are long gone.
+*  He is far from home.

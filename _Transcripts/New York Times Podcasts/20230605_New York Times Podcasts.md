@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2418s
+Video Keywords: []
+Video Views: 2085
+Video Rating: None
+---
+
 # The New Afghanistan, Through the Eyes of Three Women
 **New York Times Podcasts:** [June 05, 2023](https://www.youtube.com/watch?v=5FEucq1u2ws)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
@@ -301,42 +310,29 @@
 *  They have students come at slightly different times to kind of stagger their entrance and stagger their exits.
 *  Only people in the neighborhood really care about their children.
 *  And they're not going to be able to do that.
-*  They have students come at slightly different times to kind of stagger their entrance and stagger their exits.
-*  Only people in the neighborhood really know about the school and they'll keep an eye out too for anyone who they think is maybe an Taliban intelligence officer.
+*  And then by the end of the first week, they have about 50 students come at slightly different times to kind of stagger their entrance and stagger their exits.
+*  Only people in the neighborhood really know about the school and they'll keep an eye out for anyone who they think is maybe in a Taliban intelligence officer.
 *  It's really this whole community effort to keep us going and keep girls in the neighborhood going to school.
-*  So, is Bamiyan and the secret school an outlier?
-*  Is this very unusual for Afghanistan?
-*  So it's really not.
-*  There are probably now hundreds of these kind of underground schools for girls all across
-*  the country.
-*  Hundreds?
-*  Wow.
-*  And not long ago, we visited a school in Kandahar, the southern heartland of the Taliban.
+*  So is Bamiyan and the secret school an outlier?
+*  Like, is this very unusual for Afghanistan?
+*  So it's really not. There are probably now hundreds of these kind of underground schools for girls all across the country.
+*  Hundreds? Wow.
+*  And not long ago, you know, we visited a school in Kandahar, right?
+*  The southern heartland of the Taliban.
 *  And there was an underground school there that worked in pretty similar ways.
-*  So really across the country, since high schools have closed, people have accepted that this
-*  is the new reality, that they don't feel like there is really any chance that this government
-*  under this leadership will reopen high schools.
-*  They found these ways of continuing to get educated and continuing to kind of cultivate
-*  these seeds of hope for girls' futures.
-*  So Christina, at the end of the day, for these girls, isn't it a dead end?
-*  Okay, they can go to school in this secret school, but there won't be a college for them
-*  to go to and there won't be a job for them to go to.
-*  That's true.
-*  And you know, Hamida, these girls, they all recognize that.
-*  But I think also what motivates her is knowing that in order for there to be any hope that
-*  women win back their rights in Afghanistan, first, they need to be educated.
-*  Hamida and these girls want to prepare for whatever comes next because they hope they
-*  might be able to use this education and bring the country forward.
-*  Right.
-*  So, Christina, you went to WARDAC where you met Aisha, who feels freer since the Taliban
-*  returned, and then you went to Bamiyan and met Hamida, who feels the opposite.
+*  So really across the country, since high schools have closed, people have accepted that this is the new reality, that they don't feel like there is really any chance that this government under this leadership will reopen high schools.
+*  They found these ways of continuing to get educated and continuing to kind of cultivate these seeds of hope for girls' futures.
+*  But Christina, at the end of the day, for these girls, isn't it a dead end?
+*  Okay, they can go to school in this secret school, but there won't be a college for them to go to and there won't be a job for them to go to.
+*  That's true. And you know, Hamida, these girls, they all recognize that.
+*  But I think also what motivates her is knowing that in order for there to be any hope that women win back their rights in Afghanistan, first, they need to be educated.
+*  You know, Hamida and these girls want to prepare for whatever comes next because they hope they might be able to use this education and bring the country forward.
+*  Right. So Christina, you went to WARDAC where you met Aisha, who feels freer since the Taliban returned.
+*  And then you went to Bamiyan and met Hamida, who feels the opposite.
 *  Where did you go next?
-*  So one of the most consequential restrictions that the Taliban introduced was the ban on
-*  women working for aid groups and the UN because so many people in the country rely on those
-*  groups to survive.
+*  So one of the most consequential restrictions that the Taliban introduced was the ban on women working for aid groups in the UN because so many people in the country rely on those groups to survive.
 *  And I wanted to understand how that ban was affecting women who relied on aid every day.
-*  So it's around 5 p.m.
-*  We're on the outskirts of Herat, this big city in northwestern Afghanistan.
+*  So it's around 5 p.m. We're on the outskirts of Herat, this big city in northwestern Afghanistan.
 *  So we went to Herat, which is a city in the northwest part of the country.
 *  It's along the border with Iran.
 *  It's known for the kind of poetry and art that comes out of it.
@@ -344,181 +340,110 @@
 *  There's Herat to the south, which is pretty much just desert.
 *  There's Ghor to the east, which has historically been one of the poorest areas of Afghanistan.
 *  And Baghdiz to the north, which has been hit by drought for the last couple of years.
-*  And so over the past couple of decades, Herat's become this kind of hub for people who are
-*  displaced from their homes and were looking for aid.
-*  Because a lot of the big aid groups have bases in that city.
-*  And we're in the settlement that's on just the outskirts of the city, where a lot of
-*  those families have come in recent years.
+*  And so over the past couple of decades, Herat's become this kind of hub for people who are displaced from their homes and we're looking for aid because a lot of the big aid groups have bases in that city.
+*  And we're in this settlement that's on just the outskirts of the city where a lot of those families have come in recent years.
 *  And we went to one of those camps where there are about 600 families living.
 *  And we're here to meet with this woman, Jamila, who's 27.
 *  She's a widow and she's helped organize a lot of the aid that's come in here.
 *  And that's where I met this woman named Jamila.
-*  So Jamila, can you tell me a little bit about yourself?
 *  She moved to the camp around five years ago after her husband died.
-*  And that was a really rough time because her husband, who was a day laborer, was the breadwinner
-*  for her and her children.
-*  And she thought, OK, maybe if I move to Herat, one of these camps, that she'd be closer to
-*  some of the aid organizations that would be able to help her family.
-*  And to an extent, that plan kind of worked.
+*  And it was a really rough time because her husband, who was a day laborer, was the breadwinner for her and her children.
+*  And she thought, OK, maybe if I move to Herat, one of these camps, that she'd be closer to some of the aid organizations that would be able to help her family.
+*  And to an extent that plan kind of worked.
 *  She said that they got food aid from groups like the World Food Program.
 *  And over time, she kind of became a fixer of sorts for aid groups working in the camp.
-*  So if they were going to do a food distribution on a particular day, they would call her up and
-*  she would get the word out to people that they needed to be at this particular place at this
-*  particular time.
-*  If other women in the camp need anything, they would go to her.
+*  So if they were going to do a food distribution on a particular day, they would call her up and she would get the word out to people that they needed to be at this particular place at this particular time.
+*  If other women in the camp needed anything, they would go to her.
 *  And then she had the number for people to call to say, hey, we need some more flour.
-*  Hey, we need some more oil.
-*  We need medical help.
+*  Hey, we need some more oil. We need medical help.
 *  And ultimately, over the last five years, that aid is what helped her family survive.
-*  And for a while, she was even hopeful that if things continued in that way, that she'd be
-*  able to send her kids to school.
+*  And for a while, she was even hopeful that if things continued in that way, that she'd be able to send her kids to school.
 *  And she had this kind of hope.
 *  But then the Taliban seized power.
 *  About a year later, they banned women from working in these aid organizations.
 *  And it suddenly became a lot harder for women to access aid.
 *  And why was that?
 *  So there are two parts to that.
-*  For one, even before the Taliban came to power, in many parts of the country, women, especially
-*  in rural areas, typically don't interact with men outside their families.
-*  And so by banning women from working for aid groups, it effectively cut women off from
-*  being able to directly access aid distribution.
-*  And the second thing is that in response to the initial ban, some of the major aid
-*  organizations also suspended their operations entirely while they tried to figure out what
-*  to do.
-*  Okay, so it's not just the Taliban banning women from these aid groups.
-*  It's the aid groups themselves.
-*  Their response to what the Taliban did that's also making women's lives more difficult.
+*  For one, even before the Taliban came to power in many parts of the country, women, especially in rural areas, typically don't interact with men outside their families.
+*  And so by banning women from working for aid groups, it effectively cut women off from being able to directly access aid distribution.
+*  And the second thing is that in response to the initial ban, some of the major aid organizations also suspended their operations entirely while they tried to figure out what to do.
+*  OK, so it's not just the Taliban banning women from these aid groups.
+*  It's the aid groups themselves, their response to what the Taliban did that's also making women's lives more difficult.
 *  In other words, doubly bad for someone like Jamila.
 *  Exactly.
-*  Practically what it's meant for Jamila is that on the one hand, you know, some organizations
-*  aren't working anymore.
-*  So this lifeline she had, people she could call and get help, suddenly they're telling
-*  her, you know, sorry, I'm not going to work anymore.
-*  They're telling her, you know, sorry, our operations have been suspended.
+*  Practically what it's meant for Jamila is that on the one hand, you know, some organizations aren't working anymore.
+*  So this lifeline she had, people she could call and get help, suddenly they're telling her, you know, sorry, our operations have been suspended.
 *  We can't come deliver you a food parcel.
-*  And on the other hand, the aid organizations that are still working, many of them are only
-*  using men for, say, food distribution.
+*  And on the other hand, the aid organizations that are still working, many of them are only using men for, say, food distribution.
 *  And because Jamila is a widow, she doesn't have a husband she could send in her place.
 *  Right.
-*  So what this means pretty much is that she's kind of lost access to the steady stream of
-*  food that she once had.
+*  So what this means pretty much is that she's kind of lost access to the steady stream of food that she once had.
 *  So this just sounds like a pretty dire situation for her.
 *  How is her family surviving at this point?
-*  So, you know, for now, she's surviving on the little money she's making from kind of
-*  creating these handicrafts for the wool and harvesting saffron during the saffron season.
-*  People in the camp give her what they can to try to help, but it's incredibly difficult.
-*  And she really worries now about her children's future because she doesn't have food for them
-*  on a day-to-day basis.
-*  And then she also knows that she probably won't be able to send them to school because
-*  they're going to have to start earning money as young as they can in order to help the
-*  families survive.
-*  And she's especially worried that if things continue like this for a long time, she'll
-*  have to marry off her very young daughter in a couple of years or promise her for marriage
-*  in order to get the dowry money from the Grimms family.
+*  So, you know, for now, she's surviving on the little money she's making from creating these handicrafts for the wool and harvesting saffron during the saffron season.
+*  People in the camp give her what they can to try to help.
+*  And she really worries now about her children's future because she doesn't have food for them on a day to day basis.
+*  And then she also knows that she probably won't be able to send them to school because they're going to have to start earning money as young as they can in order to help the family survive.
+*  And she's especially worried that if things continue like this for a long time, she'll have to marry off her very young daughter in a couple of years or promise her for marriage in order to get the dowry money from the groom's family.
 *  So selling off her own daughter to buy food.
-*  Yeah.
-*  I mean, it's a devastating prospect.
-*  It's one that a lot of women across Afghanistan now are faced with.
+*  Yeah. I mean, it's a devastating prospect. It's one that a lot of women across Afghanistan now are faced with.
 *  And, you know, she told me that right now she just feels totally hopeless.
-*  She said when she was younger, she used to have this hope that one day she would live
-*  a better life.
-*  And now...
-*  She told me that she'll take the dream of a better life with her to her grave.
+*  She said when she was younger, she used to have this hope that one day she would live a better life.
+*  And now she told me that she'll take the dream of a better life with her to her grave.
 *  You know, that is how she feels about the current situation.
-*  Yeah.
-*  She is single-mindedly focused on basic survival.
-*  And what her story does really show is that the world hasn't figured out how to help women
-*  in this gender apartheid state.
-*  Exactly.
-*  I mean, what Jamila is living through now just really epitomizes that dilemma, right?
+*  Yeah, she is single-mindedly focused on basic survival.
+*  And what her story does really show is that the world hasn't figured out how to help women in this gender apartheid state.
+*  Exactly. I mean, what Jamila is living through now just really epitomizes that dilemma, right?
 *  How does the world interact with and respond to the Taliban?
-*  And when I asked her about, you know, what she thought of all of this...
+*  And when I asked her about, you know, what she thought of all of this.
 *  She said she felt like women were suffering from both sides of this equation.
-*  On the one hand, the Taliban's policies have been so restrictive towards women that they
-*  don't have any opportunities to go to school or get jobs and pay for food for their own
-*  families.
-*  So that's what she would say to the Taliban.
-*  What would she say to the NGOs who are saying, we'll just leave?
-*  And on the other side of it, she said that if she could talk to the heads of these international
-*  organizations, she would say, look at how my family is suffering.
+*  On the one hand, the Taliban's policies have been so restrictive towards women that they don't have any opportunities to go to school or get jobs and pay for food for their own families.
+*  So that's what she would say to the Taliban. What would she say to the NGOs who are saying, we'll just leave?
+*  And on the other side of it, she said that if she could talk to the heads of these international organizations, she would say, look at how my family is suffering.
 *  And to be fair, these organizations are in a kind of impossible situation.
-*  I mean, they're faced with this choice between either delivering life-saving aid that may
-*  not reach women at all if they're only using men to deliver it, or upholding these principles
-*  of gender equality that are at the core of a lot of their missions.
-*  It's so difficult to understand.
-*  And I think that's why she's saying that women are suffering from this kind of problem.
-*  So stepping back here, Christina, you traveled all over Afghanistan, far from Kabul, heard
-*  all of these perspectives from women in different places in the country.
-*  Fundamentally, you were a woman of color, but you were also a woman of color, and you
-*  were also a woman of color.
-*  So what was it like to be a woman of color?
-*  And how did you get into the world of Afghanistan?
-*  And how did you get into the world of Afghanistan?
-*  So, I knew going into this that it had become pretty clear that the Taliban government,
-*  under this leadership, with its current emir, is determined to roll back the clock on women's
-*  rights.
-*  You know, his vision for women in the country is much like it was in the 90s.
-*  That hasn't changed.
-*  Another thing that hasn't changed is that the international community, the international
-*  community, has been very, very supportive of women's rights.
-*  Another thing that hasn't changed is that the international community, especially the
-*  West, is really struggling to create any kind of coherent policies towards Afghanistan.
-*  But one thing I was surprised by was just how much women had changed in such different
-*  parts of the country over the last 20 years.
-*  And you can really hear that in the stories of these women.
-*  You know, Jamila only has an elementary school education, and yet she was sitting and talking
-*  to me so in-depth against the Taliban's recent policies.
+*  I mean, they're faced with this choice between either delivering life-saving aid that may not reach women at all if they're only using men to deliver it,
+*  or upholding these principles of gender equality that are at the core of a lot of their missions.
+*  It's an incredibly tough spot to be in.
+*  But in the meantime, as the rest of the world tries to figure out what to do, ordinary Afghans in the country are suffering.
+*  So stepping back here, Christina, you traveled all over Afghanistan, far from Kabul, heard all of these perspectives from women in different places in the country.
+*  Fundamentally, what did you take away from your trip and from all those conversations?
+*  So I knew going into this that it had become pretty clear that the Taliban government under this leadership with its current emir is determined to roll back the clock on women's rights.
+*  His vision for women in the country is much like it was in the 90s. That hasn't changed.
+*  Another thing that hasn't changed is that the international community, especially the West, is really struggling to create any kind of coherent policies towards Afghanistan.
+*  But one thing I was surprised by was just how much women had changed in such different parts of the country over the last 20 years.
+*  And you can really hear that in the stories of these women. You know, Jamila only has an elementary school education, and yet she was sitting and talking to me so in depth against the Taliban's recent policies.
 *  Hamida is from Bamiyan, a place that has a terrifying, devastating history with the Taliban.
-*  And yet she is defying the Taliban's edicts day in and day out at great risk to herself.
+*  And yet she is defying the Taliban's edicts day in and day out and great risk to herself.
 *  And Aisha is a grandmother from a Taliban stronghold who never got an education herself.
-*  And yet, even though she prefers life under the Taliban, she is still advocating for her
-*  granddaughter to go to high school.
+*  And yet, even though she prefers life under the Taliban, she is still advocating for her granddaughter to go to high school.
 *  I mean, all of that is pretty incredible.
-*  And it shows how while it might be easy for this government to enact these restrictive
-*  policies, it's going to take a lot longer and be a lot harder for them to weed out these
-*  values that have taken root across the country over the last 20 years.
+*  And it shows how while it might be easy for this government to enact these restrictive policies, it's going to take a lot longer and be a lot harder for them to weed out these values that have taken root across the country over the last 20 years.
 *  And Hamida in particular spoke to me really powerfully about that.
 *  But she also offered a kind of warning.
-*  She said that right now, women have this window where they can maintain some of the gains
-*  they've made in the last 20 years.
-*  But she worries about what happens in five or 10 or 15 years down the line, if things
-*  continue the way that they are now.
+*  She said that right now, women have this window where they can maintain some of the gains they've made in the last 20 years.
+*  But she worries about what happens in five or 10 or 15 years down the line if things continue the way that they are now.
 *  The way that she put it, it really sounds like the situation is like a race against time.
-*  A race against time because right now, many women and girls remember what it was like
-*  during the generation that women did have freedoms.
+*  A race against time because right now many women and girls remember what it was like during the generation that women did have freedoms.
 *  And that did change things.
 *  Exactly.
-*  You know, she said if young girls today, unlike their moms and their older sisters, if they
-*  don't see girls going to school, if they don't see women with any kind of power in society,
-*  then that's it.
+*  You know, she said if young girls today, unlike their moms and their older sisters, if they don't see girls going to school, if they don't see women with any kind of power in society, then that's it.
 *  All of those gains will be lost.
 *  Christina, thank you.
 *  Thanks so much for having me.
 *  We'll be right back.
 *  Here's what else you should know today.
-*  And now, a bipartisan budget agreement.
-*  President Biden signed the Fiscal Responsibility Act into law on Saturday, ending the threat
-*  of economic calamity from a debt default just two days before the government was set to
-*  run out of cash to pay its bills.
-*  Passing the bill, we're going to have to pay the bills.
+*  And now a bipartisan budget agreement.
+*  President Biden signed the Fiscal Responsibility Act into law on Saturday, ending the threat of economic calamity from a debt default just two days before the government was set to run out of cash to pay its bills.
 *  Passing this budget agreement was critical.
 *  The stakes could not have been higher.
-*  In remarks to the nation from the Oval Office on Friday night, Biden praised the bipartisanship
-*  that led to the deal.
+*  In remarks to the nation from the Oval Office on Friday night, Biden praised the bipartisanship that led to the deal.
 *  And it's very good news for the American people.
 *  No one got everything they wanted, but the American people got what they needed.
-*  And a train crash in eastern India on Friday left 275 people dead, marking one of the
-*  deadliest crashes in India's history.
-*  Officials investigating the crash are focusing on the possibility that a signal failure
-*  caused the disaster.
-*  The crash has cast a pall over Prime Minister Narendra Modi's efforts to modernize India's
-*  infrastructure, which he's made a central theme in his campaign for a third term.
-*  Today's episode was produced by Astha Chaturvedi and Claire Tannisketter, with help from Eric
-*  Krupke and Nina Feldman.
-*  It was edited by Anita Battajow, contains original music by Marian Lozano, Dan Powell
-*  and Diane Wong, and was engineered by Chris Wood.
+*  And a train crash in eastern India on Friday left 275 people dead, marking one of the deadliest crashes in India's history.
+*  Officials investigating the crash are focusing on the possibility that a signal failure caused the disaster.
+*  The crash has cast a pall over Prime Minister Narendra Modi's efforts to modernize India's infrastructure, which he's made a central theme in his campaign for a third term.
+*  Today's episode was produced by Astha Chaturvedi and Claire Tannis-Sketter with help from Eric Krupke and Nina Feldman.
+*  It was edited by Anita Batta-Joe, contains original music by Marian Lozano, Dan Powell and Diane Wong, and was engineered by Chris Wood.
 *  Our theme music is by Jim Brunberg and Ben Landsvark of Wonderly.
-*  Special thanks to Susan Lee, Yaqub Akbari, Safi Padshah, Kiana Hayeri and Fahim Abed.
-*  That's it for the Daily.
-*  I'm Sabrina Tavernisi.
-*  See you tomorrow.
+*  Special thanks to Susan Lee, Yakub Akbari, Safi Padshah, Kiana Hayeri and Fahim Abed.
+*  That's it for the Daily. I'm Sabrina Tavernisi. See you tomorrow.

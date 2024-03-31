@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 3183s
+Video Keywords: []
+Video Views: 141
+Video Rating: None
+---
+
 # The Sunday Read: ‘Can Germany Be a Great Military Power Again?’
 **New York Times Podcasts:** [March 12, 2023](https://www.youtube.com/watch?v=nh11rC4jG2w)
 *  My name is James Angelos and I'm a contributing writer to the New York Times magazine.

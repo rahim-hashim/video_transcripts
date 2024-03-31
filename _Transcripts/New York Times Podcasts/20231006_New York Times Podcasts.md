@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1935s
+Video Keywords: []
+Video Views: 5381
+Video Rating: None
+---
+
 # Chaos or Conscience? A Republican Explains His Vote to Oust McCarthy.
 **New York Times Podcasts:** [October 06, 2023](https://www.youtube.com/watch?v=mhHsUmzDFUQ)
 *  From New York Times, I'm Michael Bobarro.
@@ -72,10 +81,10 @@
 *  And she looked at me said, I don't know.
 *  Next question.
 *  I said, no.
-*  You know, and later, oh, whoa, whoa, whoa, whoa.
+*  You know, and later, oh, whoa, whoa, whoa, whoa, whoa, whoa.
 *  You can't question her.
 *  You can't do that.
-*  You know, and then I never did find out how much that piece of legislation costs.
+*  You know, and then I never did find out how much that piece of legislation cost.
 *  So that was something I asked the speaker about it.
 *  And they said they would use that.
 *  You said I should be able to know exactly what the price tag is on a piece of legislation.

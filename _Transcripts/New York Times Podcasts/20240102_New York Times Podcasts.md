@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1707s
+Video Keywords: []
+Video Views: 19193
+Video Rating: None
+---
+
 # Trump's 2024 Playbook
 **New York Times Podcasts:** [January 02, 2024](https://www.youtube.com/watch?v=XEuYKRJhM0Y)
 *  From the New York Times, I'm Michael Bobarro.

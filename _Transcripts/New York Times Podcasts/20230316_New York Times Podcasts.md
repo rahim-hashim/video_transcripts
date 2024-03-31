@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1254s
+Video Keywords: []
+Video Views: 143
+Video Rating: None
+---
+
 # France’s Battle Over Retirement
 **New York Times Podcasts:** [March 16, 2023](https://www.youtube.com/watch?v=nGs9aRRDf2c)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2538s
+Video Keywords: []
+Video Views: 7198
+Video Rating: None
+---
+
 # How a Paradise Became a Death Trap
 **New York Times Podcasts:** [August 18, 2023](https://www.youtube.com/watch?v=Nx6G_g9-ofM)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.

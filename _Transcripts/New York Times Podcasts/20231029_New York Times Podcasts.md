@@ -1,4 +1,13 @@
-# The Sunday Read: ëWho Hired the Hitmen to Silence Zit·cuaro?í
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 3300s
+Video Keywords: []
+Video Views: 3780
+Video Rating: None
+---
+
+# The Sunday Read: ‚ÄòWho Hired the Hitmen to Silence Zit√°cuaro?‚Äô
 **New York Times Podcasts:** [October 29, 2023](https://www.youtube.com/watch?v=KJ2drLynwpU)
 *  My name is Nick Casey. I'm a writer for the New York Times magazine. Mexico is in the
 *  middle of a war against drug traffickers. But there's a second conflict there that
@@ -115,7 +124,7 @@
 *  and criminal groups. A former mayor Brech had reported on, Hugo Amedxultz Alcaraz, later
 *  admitted to passing along recordings of the journalist to members of the gang that killed
 *  her and was sentenced to eight years in prison for his role in her death.
-*  But concerns about government complicity often fall on deaf ears. In 2014, RubÈn Espinosa,
+*  But concerns about government complicity often fall on deaf ears. In 2014, Rub√©n Espinosa,
 *  a 31-year-old photographer began receiving threats after the news magazine Proceso published a
 *  picture he took of Javier Duarte de Ochoa, then governor of the state of Veracruz, in an article
 *  declaring it a lawless state. In 2015, after fleeing Veracruz, Espinosa was shot to death
@@ -124,11 +133,11 @@
 *  crime charges, but he has never been indicted in connection with any of the killings. Of 105
 *  investigations of killings of journalists in Mexico since 2010, only six resulted in
 *  homicide sentences, according to Human Rights Watch. Far from defending journalists, some of
-*  the country's most prominent officials have turned on them. In 2021, President AndrÈs Manuel LÛpez
+*  the country's most prominent officials have turned on them. In 2021, President Andr√©s Manuel L√≥pez
 *  Obrador added a new weekly segment to his morning press briefing called, Who's Who in Lies.
-*  In December, he took aim at three reporters including Ciro GÛmez Leyva, a prominent television
+*  In December, he took aim at three reporters including Ciro G√≥mez Leyva, a prominent television
 *  anchor saying that, if you listen to them too much, you could even get a brain tumor. The next day,
-*  GÛmez Leyva was driving home from his broadcast when two men on a motorcycle opened fire on his
+*  G√≥mez Leyva was driving home from his broadcast when two men on a motorcycle opened fire on his
 *  car. The anchor survived only because the car was equipped with bullet-resistant glass windows.
 *  Armando Linares knew that investigating the local government could be risky on many levels.
 *  At his last news outfit, a daily broadsheet called El Despertar, he had spent months looking into
@@ -141,15 +150,15 @@
 *  reporter who was so plugged in that he sometimes showed up at crime scenes before the police.
 *  But he also had had drinking problems and years before went to rehab for drug addiction. He was
 *  married but hadn't lived in the same house as his wife and three children in years.
-*  Joel Vera-Terrazas, his colleague at Monitor Michoac·n, told me that reporting is what
+*  Joel Vera-Terrazas, his colleague at Monitor Michoac√°n, told me that reporting is what
 *  saved Armando from Armando, from his demons. When Vera, a prominent attorney in Zitacuaro,
 *  spotted Linares at a traditional Mexican sweat lodge on the outskirts of town after he parted
 *  ways with El Despertar, he said he could see the toll the last months had taken on his friend.
 *  And so Vera made Linares a proposal. He would bankroll a new outlet in town with Linares at the helm.
-*  On a Monday morning in 2019, the staff of Monitor Michoac·n gathered in its newsroom,
+*  On a Monday morning in 2019, the staff of Monitor Michoac√°n gathered in its newsroom,
 *  a small office downstairs from Vera's law firm. Among those there was Roberto Toleda Barrera,
 *  a former bus driver who signed up to work as the outlet's cameraman and photographer.
-*  Wilbert Sebasti·n Holen, a lawyer in Vera's office, was hired as a part-time researcher.
+*  Wilbert Sebasti√°n Holen, a lawyer in Vera's office, was hired as a part-time researcher.
 *  Vera would take care of the business end and write his own weekly column, and Linares,
 *  as Vera had promised, was now the outlet's editor and lead writer.
 *  Vera eventually bought a suit and matching shoes for Linares and insisted that he wear
@@ -158,7 +167,7 @@
 *  ever enjoyed. He was in charge of his own outlet and was editorially independent.
 *  No vendas tu pluma, he told the newsroom. Don't sell your pen.
 *  I fear for my life.
-*  In the two years that Monitor Michoac·n had been publishing, over the course of dozens of
+*  In the two years that Monitor Michoac√°n had been publishing, over the course of dozens of
 *  investigations, Linares had never received such a direct threat as the ones levelled by the
 *  mysterious call and WhatsApp message. Vera decided to seek help from the authorities,
 *  but no one in the newsroom trusted officials in Sitacuero.
@@ -237,8 +246,8 @@
 *  One of the men wore a gray hoodie with the hood pulled down low, and the other was in a baseball
 *  cap. Only their eyes could be seen above their face masks.
 *  Vera buzzed Toledo through the first door, and the two men came in behind him.
-*  Sebasti·n cracked open the second door, then shut it immediately when he saw guns.
-*  H·gale, h·gale! called the man in the hoodie. Do it.
+*  Sebasti√°n cracked open the second door, then shut it immediately when he saw guns.
+*  H√°gale, h√°gale! called the man in the hoodie. Do it.
 *  Gunfire rang out. Toledo raised his arms out of instinct as though he could block the bullets.
 *  They tore through his forearms and pierced his torso.
 *  Vera watched all this, petrified, through the closed-circuit video cameras.
@@ -247,7 +256,7 @@
 *  Another volley of bullets rang out, hitting the door several times.
 *  The door held. There were more words outside, and the sound of a motorcycle speeding away.
 *  Finally, Vera put down his gun.
-*  Someone called an ambulance. Sebasti·n rushed outside. For a second Toledo still seemed very
+*  Someone called an ambulance. Sebasti√°n rushed outside. For a second Toledo still seemed very
 *  much himself, his black running shoes still on his feet, his cigarettes and big pen still in his
 *  pocket. Yet he was in a pool of blood. There were three bullet holes in his stomach, and others in
 *  his arms, his sternum, and his shoulder. Bullet fragments were lodged in his heart, liver,
@@ -296,12 +305,12 @@
 *  If there had been any links, he told me, it would have been apparent to the journalists at the
 *  monitor. Their newsroom shared an office with his firm.
 *  It became clear to Vera that the notes were part of a broader campaign that evening,
-*  when Ixlahuac himself gave an interview to reporters on Milenio TelevisiÛn,
+*  when Ixlahuac himself gave an interview to reporters on Milenio Televisi√≥n,
 *  a national cable news network.
 *  I'd like to first make some clarifications, the mayor said of the killing.
 *  The preliminary information that we have is that this wasn't a journalist. As the mayor spoke,
 *  he repeated several times that the attack had occurred at a legal office,
-*  and he never mentioned the monitor by name. Hector ZamarrÛn, one of the reporters,
+*  and he never mentioned the monitor by name. Hector Zamarr√≥n, one of the reporters,
 *  looked skeptical, saying that Toledo had worked at the monitor.
 *  The mayor replied that he hadn't found Toledo's name registered with the journalist's guild.
 *  The other reporter, Paula Parquet, pointed out that Toledo had received death threats from the
@@ -320,7 +329,7 @@
 *  attack on its newsroom, was no longer in control of the news cycle in Zitacuaro.
 *  The government was. And the narrative was this. The attack on the newsroom had nothing to do
 *  with its journalism. The stories seemed to be solidifying at the highest level.
-*  That afternoon, Jes˙s RamÌrez Cuevas, the spokesman for LÛpez Obrador, had condemned
+*  That afternoon, Jes√∫s Ram√≠rez Cuevas, the spokesman for L√≥pez Obrador, had condemned
 *  the assassination of the journalist Roberto Toledo in a statement from the president's office.
 *  But that evening, he issued a new statement. According to judicial investigations, the citizen
 *  Roberto Toledo, who was assassinated today, worked as an assistant in a lawyer's office,
@@ -331,13 +340,13 @@
 *  Linares the possibility of extraction into a safe house. But putting himself in the hands of one
 *  branch of government to protect himself from another seemed not just absurd,
 *  but like a potentially deadly gamble. Vera was insistent. Whoever attacked the newsroom
-*  had already won. Monitor Michoac·n could no longer safely publish, he said. No story was
+*  had already won. Monitor Michoac√°n could no longer safely publish, he said. No story was
 *  worth their lives. But Linares argued that his life wasn't in danger.
 *  Don't be a fool, Vera replied. He was yelling now.
 *  What would I do? Linares asked. How would I make my living?
 *  Vera, realizing that his friends would be crushed if he lost his work, backed down.
 *  Linares lived alone with two dogs. On some days, his sources were his only human contact.
-*  Vera and Sebasti·n left Sitacuaro, deciding they would try to persuade Linares to join them later.
+*  Vera and Sebasti√°n left Sitacuaro, deciding they would try to persuade Linares to join them later.
 *  Linares, acting on his vow to take this to the bitter end, had spent the afternoon lining up
 *  a long series of television and radio interviews in which he linked the local government to the
 *  killing. In one, Linares repeated his claim that the mayor's office had been behind the threats,
@@ -377,7 +386,7 @@
 *  The motorcycle headed one direction, slowly, along north Dr. Emilio Garcia Street,
 *  and then a minute later doubled back. The man riding on the back stepped off.
 *  He was looking for Linares, he said to one of the neighbors.
-*  He was a soccer fan and wanted to publish something in Monitor Michoac·n.
+*  He was a soccer fan and wanted to publish something in Monitor Michoac√°n.
 *  Someone must have pointed to Linares' door.
 *  At around 6 p.m., Linares posted an article about a motorcycle accident, then headed home.
 *  As he approached his door, a man walked toward him wearing a black suit and a red tie.
@@ -407,7 +416,7 @@
 *  journalist did the same. The press corps in Sitacuero was dwindling.
 *  Linares' funeral was held the day after his killing, at a funeral home a few blocks from
 *  the municipal cemetery. It was a hot day for March, and the scent of roses and lilies hung in the air.
-*  Most of the seats in the chapel were empty. Vera sent a wreath. He and Sebasti·n, once again,
+*  Most of the seats in the chapel were empty. Vera sent a wreath. He and Sebasti√°n, once again,
 *  watched a live stream from their government safe houses.
 *  Linares' wife, Rosa Elena Pedraza, attended along with her children. When a cameraman from a national
 *  news station approached her for an interview, she said she would talk, just not on camera.
@@ -447,7 +456,7 @@
 *  free speech, the same office where Vera and Linares filed their original complaints.
 *  Much had changed since their initial visit when they returned to Sitacuaro empty-handed.
 *  With two journalists killed at the same outlet, the monitor's case had become one of the most
-*  notorious to reach the office in years. Ricardo S·nchez PÈrez del Pozo, the young prosecutor
+*  notorious to reach the office in years. Ricardo S√°nchez P√©rez del Pozo, the young prosecutor
 *  who heads the office, greeted me formally and offered a description of the inner workings of
 *  his unit. The department had been charged with, among other tasks, taking over investigations of
 *  attacks on journalists when local investigators or elected officials might themselves be complicit.
@@ -459,15 +468,15 @@
 *  I told him I had a copy of the state prosecutor's case file and it contained page upon page of
 *  threats from an alleged cartel commander saying the Monitor needed to stop criticizing the
 *  government or there would be consequences. There were screenshots of Linares' phone with the
-*  WhatsApp messages. S·nchez seemed surprised that I had the documents and warned that they were
+*  WhatsApp messages. S√°nchez seemed surprised that I had the documents and warned that they were
 *  confidential. He said again that there was little evidence the crime had to do with journalism
 *  and no need for him to take over the case. Michoacan's state prosecutor was handling the
 *  case instead. That appeared to conclude the conversation. But as he packed up to head to a
-*  hearing, I reminded S·nchez that the threats against the Monitor were sent to stop the
+*  hearing, I reminded S√°nchez that the threats against the Monitor were sent to stop the
 *  corruption investigations of the same prosecutor's office that was now assigned to solve their
 *  killings. The office investigating the case had repeatedly been named as one of the suspects in
 *  the attacks by Linares. Could they really be trusted to solve a crime that the newspaper had
-*  accused them of being behind? S·nchez said he was only following the law. I can't change what's
+*  accused them of being behind? S√°nchez said he was only following the law. I can't change what's
 *  in the Constitution, he told me on his way out. The state prosecutor's office never replied to
 *  my requests for an interview. But Ixtlahuac, the mayor, agreed to answer my written questions
 *  about Linares' accusations that he had ordered the attacks. I was not the mastermind or the man
@@ -487,40 +496,40 @@
 *  government had been corrupted at almost nearly every level. Mexico is a hall of mirrors to any
 *  journalist. It is so hard to tell who is telling the truth because the line between crime fighter
 *  and criminal has become so blurred it often ceases to exist. The people who were supposed
-*  to clarify that line were the local reporters at Monitor Michoac·n, but of course, they too
+*  to clarify that line were the local reporters at Monitor Michoac√°n, but of course, they too
 *  were gone. Sitacuaro is a zone of silence.
-*  The recent months have only left more cases piling up. On July 8th, the body of Luis MartÌn Sanchez
+*  The recent months have only left more cases piling up. On July 8th, the body of Luis Mart√≠n Sanchez
 *  in Gies, a correspondence for the newspaper La Jornada, was found dead with signs of violence,
-*  according to authorities in the state of Nayarit. A week later, Nelson Matos PeÒa,
+*  according to authorities in the state of Nayarit. A week later, Nelson Matos Pe√±a,
 *  a photographer and editor in Acapulco, was shot dead in his car. I knew Matos from when
 *  he shot photos for an article I wrote about drug gang hits in 2011. One afternoon in August,
 *  I was scanning the local papers in Mexico when I came across a headline. The police had captured
 *  a suspect in Linadis' killing. It appeared to have happened somewhat by accident. He was caught
 *  with two other gang members when their truck was seen speeding in front of a police station.
-*  When the police ran his name, Carlos Gerardo S·nchez Mendoza, through the system,
-*  they found an arrest warrant from the Michoac·n Prosecutor's Office seeking him in connection
+*  When the police ran his name, Carlos Gerardo S√°nchez Mendoza, through the system,
+*  they found an arrest warrant from the Michoac√°n Prosecutor's Office seeking him in connection
 *  with the murder. The authorities said he had gone by the alias O2 as a member of the Jalisco New
-*  Generation Cartel. Not long afterward, I received a message from Sebasti·n, the researcher at
-*  Monitor Michoac·n, who was on the other side of the door when Roberto Toledo was shot.
+*  Generation Cartel. Not long afterward, I received a message from Sebasti√°n, the researcher at
+*  Monitor Michoac√°n, who was on the other side of the door when Roberto Toledo was shot.
 *  We had been in communication several times during my reporting, and I wanted to know if the news
-*  had given him any sense of calm. It hadn't. Maybe S·nchez had pulled the trigger, he said,
+*  had given him any sense of calm. It hadn't. Maybe S√°nchez had pulled the trigger, he said,
 *  but if he was the hitman, then who ordered the attack?
-*  The arrest wasn't the only reason Sebasti·n had asked to speak that evening. He wanted to tell me
+*  The arrest wasn't the only reason Sebasti√°n had asked to speak that evening. He wanted to tell me
 *  that the government agency in charge of the safe house that he was staying in had notified him that
-*  he would no longer need their protection. The decision had happened before S·nchez's arrest,
+*  he would no longer need their protection. The decision had happened before S√°nchez's arrest,
 *  so it was far from clear how the government concluded that the threat was gone.
-*  Sebasti·n paused on the other end of the line, as though the news needed to sink in for him as well.
+*  Sebasti√°n paused on the other end of the line, as though the news needed to sink in for him as well.
 *  He had been in hiding for the better part of two years, and his wife and three-year-old son were
 *  leading the same precarious life with him. He had felt a higher calling to be a journalist,
 *  but that vanished long ago, replaced now by a simple desire for survival.
 *  In many ways, it was the same in Cidad Cuero itself now.
 *  A few reporters had stepped in to fill the vacuum left by those who fled,
-*  and someone had even started posting regularly again on Morneito de Michoac·n's Facebook page.
+*  and someone had even started posting regularly again on Morneito de Michoac√°n's Facebook page.
 *  But the tone was different. The pigeons of Cidad Cuero also form part of the image of our city,
 *  was what ran over a series of photos of birds in the city's main square.
 *  There were no signs of the muckraking the outlet was known for.
-*  Cidad Cuero is a zone of silence now, Sebasti·n said.
-*  Sebasti·n was no longer a reporter, but he retained the gallows humor that has become so
+*  Cidad Cuero is a zone of silence now, Sebasti√°n said.
+*  Sebasti√°n was no longer a reporter, but he retained the gallows humor that has become so
 *  common among journalists in Mexico. He would challenge the decision to end most of his
 *  protection, he said, but even if he lost his safe house, he would still have his government issued
 *  panic button. When the hitman comes and wants to kill me again, I'll tell him,

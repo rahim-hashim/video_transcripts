@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1619s
+Video Keywords: []
+Video Views: 7813
+Video Rating: None
+---
+
 # Democrats’ Plan to Save the Republican House Speaker
 **New York Times Podcasts:** [March 27, 2024](https://www.youtube.com/watch?v=PaEBkNA-95c)
 *  From New York Times, I'm Michael Boborjo.

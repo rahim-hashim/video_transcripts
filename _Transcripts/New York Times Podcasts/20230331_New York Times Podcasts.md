@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1406s
+Video Keywords: []
+Video Views: 1840
+Video Rating: None
+---
+
 # The Indictment of Donald Trump
 **New York Times Podcasts:** [March 31, 2023](https://www.youtube.com/watch?v=vopEC32egGw)
 *  From the New York Times, I'm Michael Bobarro.

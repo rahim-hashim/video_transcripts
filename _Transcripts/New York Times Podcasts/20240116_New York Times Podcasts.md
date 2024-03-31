@@ -1,4 +1,13 @@
-# Trump’s Domination and the Battle for No. 2 in Iowa
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1583s
+Video Keywords: []
+Video Views: 5266
+Video Rating: None
+---
+
+# Trumpâ€™s Domination and the Battle for No. 2 in Iowa
 **New York Times Podcasts:** [January 16, 2024](https://www.youtube.com/watch?v=98sOb9kPkkI)
 *  From New York Times, I'm Michael Bobarro. This is The Daily.
 *  On Monday night, the 2024 presidential race officially began with the Iowa caucuses, where

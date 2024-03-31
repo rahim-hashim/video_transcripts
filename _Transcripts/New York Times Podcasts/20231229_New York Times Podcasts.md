@@ -1,4 +1,13 @@
-# Baseball’s Plan To Save Itself From Boredom: An Update
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1354s
+Video Keywords: []
+Video Views: 2886
+Video Rating: None
+---
+
+# Baseballâ€™s Plan To Save Itself From Boredom: An Update
 **New York Times Podcasts:** [December 29, 2023](https://www.youtube.com/watch?v=w6rwCM6dJ0Y)
 *  Hey, it's Michael.
 *  This week, The Daily is revisiting some of our favorite episodes of the year, listening

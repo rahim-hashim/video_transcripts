@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1613s
+Video Keywords: []
+Video Views: 21270
+Video Rating: None
+---
+
 # A Fiery First Republican Debate — Without Trump
 **New York Times Podcasts:** [August 24, 2023](https://www.youtube.com/watch?v=pXhhmH9Yc1s)
 *  From the New York Times, I'm Michael Bobauro. This is The Daily.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2732s
+Video Keywords: []
+Video Views: 2461
+Video Rating: None
+---
+
 # An Anonymous #MeToo Source Goes Public
 **New York Times Podcasts:** [May 18, 2023](https://www.youtube.com/watch?v=m16NXq_0W-A)
 *  Are you worried about repercussions coming from this interview today?

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 3236s
+Video Keywords: []
+Video Views: 1059
+Video Rating: None
+---
+
 # ‘The Run-Up’: The Republican Party Sorts Through Its Mess
 **New York Times Podcasts:** [April 09, 2023](https://www.youtube.com/watch?v=-UVMHg30Sd4)
 *  Hey, it's Michael.

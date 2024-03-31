@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 2472s
+Video Keywords: []
+Video Views: 2390
+Video Rating: None
+---
+
 # Our Film Critic on Why He’s Done With the Movies
 **New York Times Podcasts:** [March 23, 2023](https://www.youtube.com/watch?v=cYOzV8bzHDI)
 *  Hey Tony.

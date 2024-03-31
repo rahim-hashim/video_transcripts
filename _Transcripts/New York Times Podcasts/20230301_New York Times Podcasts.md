@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1863s
+Video Keywords: ['new york times', 'the daily', 'the new york times', 'nyt', 'abortion']
+Video Views: 43
+Video Rating: None
+---
+
 # A Threat to Abortion Pills. Plus, the U.S. Shares Secrets
 **New York Times Podcasts:** [March 01, 2023](https://www.youtube.com/watch?v=rbBsgsP1CBY)
 *  From the New York Times, I'm Sabrina Taverisi.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1376s
+Video Keywords: []
+Video Views: 21551
+Video Rating: None
+---
+
 # China’s Economic Rebound Hits a Wall
 **New York Times Podcasts:** [July 17, 2023](https://www.youtube.com/watch?v=ZGJWtK_1jp4)
 *  From the New York Times, I'm Sabrina Tavernisi.

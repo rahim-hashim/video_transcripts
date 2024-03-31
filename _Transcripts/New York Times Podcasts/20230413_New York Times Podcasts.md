@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1624s
+Video Keywords: []
+Video Views: 1466
+Video Rating: None
+---
+
 # What We’re Learning From the Leaked Military Documents
 **New York Times Podcasts:** [April 13, 2023](https://www.youtube.com/watch?v=5VMimw0lb24)
 *  From the New York Times, I'm Sabrina Tavernisi and this is The Daily.

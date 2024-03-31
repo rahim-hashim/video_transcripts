@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 2044s
+Video Keywords: []
+Video Views: 7910
+Video Rating: None
+---
+
 # Hunter Biden’s Day in Court
 **New York Times Podcasts:** [July 26, 2023](https://www.youtube.com/watch?v=U3odSghamxI)
 *  From the New York Times, I'm Michael Bobarro.

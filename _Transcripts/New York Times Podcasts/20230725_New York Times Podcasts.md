@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1311s
+Video Keywords: []
+Video Views: 6519
+Video Rating: None
+---
+
 # Russia’s Newest Target: The Global Food Supply
 **New York Times Podcasts:** [July 25, 2023](https://www.youtube.com/watch?v=EChj7FCWbkM)
 *  From The New York Times, I'm Matina Steves-Gridnev.

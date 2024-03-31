@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1942s
+Video Keywords: []
+Video Views: 16541
+Video Rating: None
+---
+
 # A Journey Through Putin’s Russia
 **New York Times Podcasts:** [March 15, 2024](https://www.youtube.com/watch?v=mrneKV-wt0A)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
@@ -5,55 +14,56 @@
 *  invaded Ukraine two years ago.
 *  The war was expected to carry a steep cost for Vladimir Putin.
 *  But as my colleague Valerie Hopkins explains, the opposite has happened.
-*  Today, Valerie travels around Russia to understand how Putin has done it and how long that can
-*  last.
+*  Today, Valerie travels around Russia to understand how Putin has done it, and how long that can last.
 *  It's Friday, March 15th.
 *  So Valerie, the presidential elections in Russia are starting today.
 *  And it's the first one since the beginning of the invasion of Ukraine two years ago.
 *  And back then, you know, there was this idea that the war could potentially become ruinous
 *  for Vladimir Putin, both politically and economically.
 *  And here we are with Putin running for reelection two years later.
-*  So we come to you as our on the ground Russia expert to talk about where we are in the arc
+*  So we come to you as our on-the-ground Russia expert to talk about where we are in the arc
 *  of President Putin's power.
 *  Well, Sabrina, these elections are set to run Friday to Sunday.
 *  29 regions are voting online, and some of them have already started.
 *  And it's a big event for Putin, but you and I both know very well that elections aren't
 *  best measure of the people's choice in Russia.
 *  Putin is running once again without any real genuine competition.
-*  Some of my friends in Moscow actually just refer to it as the voting, the voting, because
-*  it's not really an election.
+*  Some of my friends in Moscow actually just refer to it as the voting.
+*  The voting.
+*  Because it's not really an election.
 *  People are going to vote, but it's not truly a choice.
 *  Exactly.
-*  Putin is expected to just glide to another six year term, his fifth, and that puts him
-*  on a path to becoming the longest serving leader in Russia since the Russian Revolution
+*  Putin is expected to just glide to another six-year term, his fifth, and that puts him
+*  on a path to becoming the longest-serving leader in Russia since the Russian Revolution
 *  more than 100 years ago.
 *  Incredible.
 *  And what's so remarkable is that this isn't just a story about an autocrat extending his
 *  reign.
-*  This is a leader with pretty sky high polling numbers right now and seemingly broad support.
+*  This is a leader with pretty sky-high polling numbers right now and seemingly broad support.
 *  So tell me about that.
 *  What is that support?
 *  I mean, Sabrina, you and I both know that opinion polls are to be taken with a grain
 *  of salt in Russia, especially in a time when repression has become very intense and is
 *  only getting stronger by the month.
 *  But you know, polls conducted by independent pollsters like the Levada Center, which use
-*  focus groups and really big sample sizes, show that Putin's approval rating is at 86%.
+*  focus groups and really big sample sizes, show that Putin's approval rating is at 86
+*  percent.
 *  Wow.
-*  The highest in nearly a decade.
-*  86%.
+*  In nearly a decade.
+*  86 percent.
 *  Yeah.
 *  And even the more general question, is Russia going in the right direction?
 *  That answer has really shocked me.
-*  It's 75%.
+*  It's 75 percent.
 *  Right now, it's the highest it's ever been since a pollster started asking the question
 *  in 1996.
 *  That is incredible.
 *  I mean, the highest number since the beginning of polling, basically.
 *  Yes.
-*  So for me, that's really so incongruous because remember, you and I were on the ground in
-*  Ukraine when the war started and Russia began being deluged with Western sanctions.
+*  And you know, for me, that's really so incongruous because remember, you and I were on the ground
+*  in Ukraine when the war started and Russia began being deluged with Western sanctions.
 *  You know, one company after another announced they were pulling out.
-*  And then slowly, it became clear that this war was going to last much longer and be far
+*  And then slowly it became clear that this war was going to last much longer and be far
 *  more deadly than anyone originally expected.
 *  I think including Mr. Putin himself.
 *  And it seemed like Russia's future was a massive question mark.
@@ -71,7 +81,7 @@
 *  were experiencing all these changes to Russia's economic life.
 *  I mean, again, this was one of the big questions hanging over the war.
 *  Would it crater the Russian economy?
-*  And it occurred to me that a really good place to get a feel for that is at the mall.
+*  It occurred to me that a really good place to get a feel for that is at the mall.
 *  So I went to one downtown with a couple of my colleagues.
 *  And I was really interested to go and see what ordinary life is like for people who
 *  are doing some shopping or catching a film.
@@ -92,15 +102,14 @@
 *  And these were departures of Western companies because of the sanctions.
 *  Absolutely.
 *  And you would go to malls and it would just feel like a dead zone.
-*  Malls shuttered, dark hallways.
-*  You could see what was no longer available to you as a Russian consumer.
+*  Those shuttered, dark hallways, you could see what was no longer available to you as
+*  a Russian consumer.
 *  And now all that has changed.
 *  But I don't know, there's also a lot of new stores like Be Free and DJ.
 *  Like I don't know what that is.
 *  Oh, but that's a Russian brand, right?
 *  Of course, Zara and H&M have been replaced by stores that we in the States have never
-*  heard of.
-*  But you could still get a lot of the same goods.
+*  heard of, but you could still get a lot of the same goods.
 *  It seemed like your average mall, teenagers walking around drinking soda.
 *  One of the big questions I get from friends back home is, did you try the fake Coca-Cola,
 *  Dobrykola, the new brand that has essentially taken over all of Coca-Cola's business inside
@@ -118,13 +127,13 @@
 *  Pretty much like the real thing.
 *  Maybe like a normal knockoff Coke.
 *  Do you think there's any difference?
-*  Um, a little bit.
+*  A little bit.
 *  Really?
 *  I don't know if Coca-Cola took their secret sauce when they left or not.
 *  But I don't mean to paint a picture of a mall full of only knockoffs, you know?
 *  I think frankly, I was astonished by the amount of Western goods still available.
-*  There were still Chanel, all of the luxury cosmetics and perfume are widely available
-*  in Russia.
+*  There were still Chanel.
+*  All of the luxury cosmetics and perfume are widely available in Russia.
 *  So really what you're seeing is a mall that has actually returned to some semblance of
 *  economic normal.
 *  Yeah.
@@ -134,7 +143,8 @@
 *  Armenia and the neighboring countries through middlemen.
 *  Oh, let's talk to the Apple people.
 *  They're selling all the Apple products.
-*  Let's find out like how do they get them, are they more expensive?
+*  Let's find out like how do they get them?
+*  Are they more expensive?
 *  This became really clear to me once I set foot into a shop selling Apple products.
 *  So tell me about that shop.
 *  So it looked like an ordinary Apple store.
@@ -158,11 +168,12 @@
 *  It's one of the world's biggest oil producers and that has already helped it to generate
 *  money to keep the economy afloat.
 *  So this is one of the keys to Putin's success, right?
-*  Keep the people happy with iPhones, have the stuff still come in, make sure that they're
-*  not cut off from the world in terms of the stuff that they want.
+*  Keep the people happy with iPhones.
+*  Have the stuff still come in.
+*  Make sure that they're not cut off from the world in terms of the stuff that they want.
 *  Exactly.
-*  Standing in this fake Apple store in the Samara mall, the war felt really distant to
-*  this guy.
+*  Standing in this fake Apple store in the Samara mall, the war felt really distant
+*  to this guy.
 *  You know, he's injured so he couldn't be mobilized, although he does feel bad for some
 *  of his friends who are fighting.
 *  But he said the war is not really this immediate presence in his life and that his life really
@@ -207,7 +218,7 @@
 *  in and out to pay their respects, they told me about him.
 *  His name was Garipul S. Kadyrov.
 *  He was an ethnic Kazakh, like most of his relatives.
-*  To his friends and family, he was known by his Russian nickname, Vitya.
+*  But to his friends and family, he was known by his Russian nickname, Vitya.
 *  He was a soft-spoken farmer.
 *  And shortly after Vladimir Putin announced a general mobilization, officials from the
 *  military commissariat came to his house and told him he was going with them.
@@ -219,7 +230,7 @@
 *  Shortly after we arrived, a military convoy came carrying his body.
 *  His mother sobbed most of the day, and one of his sisters was wailing so much that she
 *  needed to take sedatives.
-*  Just witnessing the pain, it was immense.
+*  And just witnessing the pain, it was immense.
 *  And then the whole village assembled for a formal ceremony for him with military honors.
 *  The head of the district government even came to speak.
 *  He gave a patriotic speech about him dying for the sake of freedom.
@@ -229,15 +240,15 @@
 *  war, they are protecting our freedom, our lives, and the health of our children.
 *  So what did the family make of all of this?
 *  Well, despite the fact that they had lost their son, their brother in the war, despite
-*  the poverty and pain of this small village community.
-*  You hear them embracing certain elements of Putin's messaging around the war.
-*  Many relatives repeated a lot of the shorthand that Putin has been using from the beginning,
-*  for the good of the motherland, you know, and that this has long been Russian territory,
-*  that most of Ukraine has always historically been a part of Russia, that Ukrainians and
-*  Russians are actually one ethnic group.
+*  the poverty and pain of this small village community, you hear them embracing certain
+*  elements of Putin's messaging around the war.
+*  You know, many relatives repeated a lot of the shorthand that Putin has been using from
+*  the beginning, saying that this was for the good of the motherland, you know, and that
+*  this has long been Russian territory, that most of Ukraine has always historically been
+*  a part of Russia, that Ukrainians and Russians are actually one ethnic group.
 *  One thing that really stuck out to me the most was the fervent belief that this is a
 *  war against the West.
-*  There was a strong conviction that the West had turned Ukraine against Russia, and this
+*  There was a strong conviction that the West had turned Ukraine against Russia and this
 *  was not a war of choice for Putin.
 *  And so, you know, I don't think this was purely that they were taking Putin's propaganda
 *  wholesale, you know, but you could see a need to make sense of their loss and to understand
@@ -246,22 +257,20 @@
 *  really speak about.
 *  And that's the fact that, you know, men who often are not able to really provide very
 *  much for their families while they're alive know that if they do die, their family can
-*  get, you know, somewhere up to $60,000, $70,000, $80,000 in compensation payments after their
-*  death.
+*  get, you know, somewhere up to 60, 70, $80,000 in compensation payments after their death.
 *  Wow.
-*  So extremely meaningful for a family like Vichyaz.
+*  So extremely meaningful for a family like Viches.
 *  Absolutely.
-*  This is a place where presumably people are, you know, living on maybe the equivalent of
-*  a hundred, a couple hundred dollars a month.
+*  You know, this is a place where presumably people are, you know, living on maybe the
+*  equivalent of a hundred, a couple hundred dollars a month.
 *  So these salaries are an incredible boon.
 *  And in fact, you know, Putin in his most recent State of Union speech last month actually
 *  talked about wanting to elevate the role of soldiers and veterans in society and give
 *  them more leadership roles and more opportunities.
-*  And, you know, this is widely perceived as an attempt by Putin to kind of re-engineer
+*  And you know, this is widely perceived as an attempt by Putin to kind of re-engineer
 *  a new middle class comprised of people involved in the war effort.
-*  Wow.
-*  God.
-*  I mean, it's very dark, but it's also quite cunning of Putin, right?
+*  Wow, God, I mean, it's very dark.
+*  But it's also quite cunning of Putin, right?
 *  That there is an economic element to this war for the people who are dying.
 *  And that is something that can blunt any potential political opposition to it.
 *  So the people doing the dying are not going to be the people asking the questions in part
@@ -273,60 +282,62 @@
 *  to uniting in some kind of a protest movement that could challenge Putin.
 *  But, you know, Sabrina, with all that being said, the longer I spent time in the Kadyrov
 *  house, the more I realized that there were so many layers to this family's grief and
-*  that there were people present at the funeral who really aren't on the same page about this
-*  war.
+*  that there were people present at the funeral who really aren't on the same page about
+*  this war.
 *  So tell me about those people.
 *  So I had this really surreal reporting experience after this military honor ceremony.
 *  The Crimson military issued casket was actually brought into the house where, according to
-*  local custom, Vito was to spend one final night at home before being buried in a nearby
+*  local custom, Vita was to spend one final night at home before being buried in a nearby
 *  cemetery.
-*  And as members of his family gathered around his coffin, they got into a debate actually
-*  about why he died.
+*  As members of his family gathered around his coffin, they got into a debate actually about
+*  why he died.
 *  Wow.
 *  You know, they're gathered around his casket.
 *  Nobody knows what was inside.
 *  The members of the family knew that the body had actually been decomposing for some time
 *  in the trench before the Russians were able to get it out.
-*  So, you know, many people were heartbroken that they couldn't wash the body, they couldn't
-*  see the body.
-*  And I think that drove one of the family members especially to start speaking out against the
-*  war.
+*  So you know, many people were heartbroken that they couldn't wash the body.
+*  They couldn't see the body.
+*  And I think that drove one of the family members especially to start speaking out against the war.
 *  He called the war in Ukraine nonsense.
+*  Wow.
 *  And then he said, what?
 *  Defending the motherland?
 *  From whom?
 *  He said that he thought the people who believed that this war was necessary had been in some
 *  kind of a stupor.
 *  He was one of the few people in the family who was willing to say, actually, we attacked
-*  Ukraine, not the other way around.
-*  You know, amazing.
+*  Ukraine, not the other way around, you know.
+*  Amazing.
 *  There were other people around who chimed in.
 *  One family member compared it to Putin's annexation of Crimea, saying, you know, what do we even
 *  need that for?
 *  In other words, like, Russia is already such a vast and huge country.
-*  I mean, the biggest one, territorially, in the world.
+*  I mean, the biggest one, territorially in the world.
 *  Like, why do we need new territories?
-*  of a greater unified Russia encompassing Ukrainian land wasn't really landing for him.
+*  And this idea of a greater, unified Russia encompassing Ukrainian land wasn't really landing
+*  for him.
 *  I mean, these are very brave questions, right?
 *  You know, saying this also to you, sitting there, an American reporter, like, this is
 *  the thing Putin has really been focused on, that people not say things like this, right?
-*  And yet there they were.
-*  There's no doubt this is a really dangerous thing to say to a journalist at a time when
-*  the Russian government is really policing all kind of dissenting voices on this war.
+*  And yet there they were, saying these things against the war.
+*  This is a really dangerous thing to say to a journalist at a time when the Russian government
+*  is really policing all kind of dissenting voices on this war.
 *  And the extent of repression in Russia now is so strong that even whispering about them
-*  can get you in huge trouble.
-*  can land you in jail, can land you with a fine.
-*  You know, with my colleague Anton Trinovsky and other members of our bureau, we've been
-*  reporting on the way that, you know, people have been fined for anti-war scribbles on
-*  a bathroom wall or a simple, you know, request to a DJ to play a song by a Ukrainian musician,
-*  not to mention people who take the risk of standing in the street with an anti-war slogan.
-*  Right, boosting the economy and paying off soldiers is one thing, but repression is really
-*  the foundation of what Putin has been up to here.
+*  can get you in huge trouble, can land you in jail, can land you with a fine.
+*  With my colleague Anton Trinovsky and other members of our bureau, we've been reporting
+*  on the way that people have been fined for anti-war scribbles on a bathroom wall or a
+*  simple request to a DJ to play a song by a Ukrainian musician.
+*  Not to mention people who take the risk of standing in the street with an anti-war slogan.
+*  Right.
+*  The economy and paying off soldiers is one thing, but repression is really the foundation
+*  of what Putin has been up to here.
 *  Absolutely.
-*  I mean, that's what holds this whole system together, right?
+*  I mean, that's what holds this whole system together.
+*  Right?
 *  You know, there are a lot of people in Russia who share anti-war views and who are fed up
-*  with more than two decades of Putin in power, but they have very little recourse to do anything
-*  to change the situation at this point.
+*  with more than two decades of Putin in power.
+*  But they have very little recourse to do anything to change the situation at this point.
 *  We've been reminded of that in the past few weeks in the aftermath of the death of Alexei
 *  Navalny, the biggest and most important opposition politician and dissident in post-Soviet Russia.
 *  You know, his supporters have shown up to memorials, to his funeral, but everywhere
@@ -341,32 +352,33 @@
 *  Wow.
 *  So even in this moment where the opposition may have been galvanized to some degree in
 *  the lead-up to Election Day, we're still reminded of the hold that Putin has on Russia.
-*  So, Valerie, to answer the question you started with, you know, how has Putin managed to keep
+*  So Valerie, to answer the question you started with, you know, how has Putin managed to keep
 *  such a tight grip on things, repression is still central to how he's doing that.
 *  But he's also worked extremely hard to keep people happy, right?
 *  In malls, with their iPhones, keeping the economy going and also paying out those bonuses
 *  to soldiers' families in these very poor areas.
 *  And at this moment, heading into his re-election, that's all basically working.
-*  That's true, Sabrina, but these are a lot of plates he's spinning, you know, trying
-*  to keep the economy afloat while paying huge salaries to military personnel and, you know,
-*  revamping the entire military industry.
+*  That's true, Sabrina.
+*  But these are a lot of plates he's spinning, you know, trying to keep the economy afloat
+*  while paying huge salaries to military personnel and, you know, revamping the entire military
+*  industry.
 *  The Kremlin has dipped into reserves to make these financial payments.
 *  The economy has changed so much and no one knows how it will be affected in the long
 *  run.
 *  The oil price could change.
 *  And on top of that, the kernel of dissent remains despite this inertia of repression.
-*  Interesting.
 *  So, you know, he's of course very much in control, but it's tenuous, right?
-*  I mean, for it to work, Putin really needs to keep his eyes on all of these areas at once.
+*  I mean, for it to work, Putin really needs to keep his eyes on all of these areas at
+*  once.
 *  Absolutely, Sabrina.
 *  I mean, it's a precarious balance.
-*  And, you know, traveling across this vast country, I've seen the tremendous power and
-*  reach of Putin, even if these elections are not legitimate.
-*  He's still on the cusp of becoming one of the longest serving leaders in Russia's history.
+*  And you know, traveling across this vast country, I've seen the tremendous power and reach of
+*  Putin, even if these elections are not legitimate, he's still on the cusp of becoming one of
+*  the longest serving leaders in Russia's history.
 *  And that is a testament to his tremendous staying power.
 *  But you also do see the cracks and the tension here.
-*  And so the question is whether these cracks begin to widen or whether Putin will prevail,
-*  as he has, over yet another tumultuous period in Russia's history.
+*  And so the question is whether these cracks begin to widen or whether Putin will prevail
+*  as he has over yet another tumultuous period in Russia's history.
 *  Valerie, thank you.
 *  Thank you, Sabrina.
 *  Alexei Navalny's widow, Yulia Navalnaya, has called on Russians who oppose Putin to
@@ -374,22 +386,21 @@
 *  Earlier this week, Navalny's top aide, Leonid Volkov, who was helping lead that call to
 *  action, was beaten and sprayed with tear gas near his home in Vilnius, Lithuania.
 *  Just hours before the attack, Volkov had given an interview in which he expressed concern
-*  for the safety of Navalny's supporters, saying, quote,
-*  The key risk is that we will all be killed.
+*  for the safety of Navalny's supporters, saying, quote, The key risk is that we will all be
+*  killed.
 *  We'll be right back.
 *  Here's what else you should know today.
 *  A jury in Michigan found James Crumbly guilty of involuntary manslaughter, holding him partially
 *  responsible for failing to prevent his son from carrying out the state's deadliest school
 *  shooting in 2021.
 *  Crumbly's wife was convicted of similar charges in a separate trial last month.
-*  The couple's parenting skills had come under intense scrutiny.
 *  The couple's parenting skills had come under intense scrutiny, as had their son's access
 *  to a handgun that his father had bought.
 *  Now two separate juries have taken the unusual step of holding parents criminally responsible
 *  for their child's crimes.
-*  And Senate Majority Leader Chuck Schumer of New York condemned Israeli Prime Minister
-*  Benjamin Netanyahu during a speech on the Senate floor, calling him a major obstacle
-*  to peace in the Middle East and calling for new leadership in Israel.
+*  Senate Majority Leader Chuck Schumer of New York condemned Israeli Prime Minister Benjamin
+*  Netanyahu during a speech on the Senate floor, calling him a major obstacle to peace in the
+*  Middle East and calling for new leadership in Israel.
 *  As a lifelong supporter of Israel, it has become clear to me the Netanyahu coalition
 *  no longer fits the needs of Israel after October 7th.
 *  Schumer's speech was the sharpest critique yet from a senior American elected official.
@@ -398,16 +409,17 @@
 *  I believe in his heart he has his highest priority is the security of Israel.
 *  However, I also believe Prime Minister Netanyahu has lost his way.
 *  Schumer, the highest ranking Jewish elected official in the United States, said that he
-*  believed that Netanyahu had chosen himself and his ambition as a politician over his country.
+*  believed that Netanyahu had chosen himself and his ambition as a politician over his
+*  country.
 *  Schumer also said that Netanyahu had allowed too many civilian deaths in Gaza, which he
 *  argued had reduced support for Israel around the world.
-*  Today's episode was produced by Rob Zitko, Mary Wilson and Shannon Lin with help from
+*  Today's episode was produced by Rob Zipko, Mary Wilson, and Shannon Lin, with help from
 *  Summer Tamad.
 *  It was edited by Brendan Klinkenberg and Michael Benoit.
 *  Fact-checked by Susan Lee and Milana Mazaeva.
 *  Contains original music by Dan Powell and Marian Lozano and translations by Milana Mazaeva.
 *  It was engineered by Chris Wood.
-*  Our theme music is by Jim Brunberg and Ben Landsvark of Wonderly.
-*  That's it for the daily.
+*  Our theme music is by Jim Brunberg and Ben Landsvark of Wonder Lee.
+*  That's it for the Daily.
 *  I'm Sabrina Tavernisi.
 *  See you on Monday.

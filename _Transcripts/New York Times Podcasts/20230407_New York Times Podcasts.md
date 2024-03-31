@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1444s
+Video Keywords: []
+Video Views: 1134
+Video Rating: None
+---
+
 # The Outsourcing of America’s Border Problem
 **New York Times Podcasts:** [April 07, 2023](https://www.youtube.com/watch?v=b1wxdHPlkMk)
 *  From the New York Times, I'm Sabrina Tavernisi, and this is The Daily.
@@ -235,19 +244,22 @@
 *  weighed in on the
 *  debate over transgender athletes, announcing a proposed rule change that would prohibit schools
 *  from categorically banning transgender students from athletic teams that are consistent with
-*  their gender identities. But the proposed change to Title IX, the federal civil rights law that
-*  prevents discrimination based on sex in education programs, would also offer flexibility to limit
-*  the participation of transgender students when including them could undermine, quote,
-*  fairness in competition or potentially lead to injuries. And in the wake of a school shooting
-*  in Nashville last week, three Democratic lawmakers took to the floor of the Republican-controlled
-*  Tennessee House chamber and interrupted debate by leading protesters in a call for stricter gun laws.
-*  On Thursday, in a dramatic act of political retribution, the state's legislature voted to
-*  oust two of them. The ousted lawmakers, Justin Jones and Justin Pearson, two of the state's
-*  youngest Black representatives, can run again for their seats. But the ousters temporarily leave
-*  thousands of residents in Memphis and in Nashville without representation in the final weeks of
-*  Tennessee's legislative session. Today's episode was produced by Carlos Prieto, Nina Feldman,
-*  Michael Simon Johnson, and Shannon Lin. It was edited by Anita Batajow and Liz O'Balin,
+*  their gender identities. But the proposed rule change would be a way to prevent schools from
+*  banning transgender students from athletic teams that are consistent with their gender identities.
+*  Transgender students from athletic teams that are consistent with their gender identities.
+*  But the proposed change to Title IX, the federal civil rights law that prevents discrimination
+*  based on sex in education programs, would also offer flexibility to limit the participation of
+*  transgender students when including them could undermine, quote, fairness in competition or
+*  potentially lead to injuries. And in the wake of a school shooting in Nashville last week,
+*  three Democratic lawmakers took to the floor of the Republican-controlled Tennessee House Chamber
+*  and interrupted debate by leading protesters in a call for stricter gun laws. On Thursday,
+*  in a dramatic act of political retribution, the state's legislature voted to oust two of them.
+*  The ousted lawmakers, Justin Jones and Justin Pearson, two of the state's youngest Black
+*  representatives, can run again for their seats. But the ousters temporarily leave thousands of
+*  residents in Memphis and in Nashville without representation in the final weeks of Tennessee's
+*  legislative session. Today's episode was produced by Carlos Prieto, Nina Feldman,
+*  Michael Simon Johnson, and Shannon Lin. It was edited by Anita Batajow and Liz O'Balin
 *  with help from Paige Cowitt. Fact Checked by Susan Lee contains original music by Marian Lozano
-*  and Alicia Petitube and was engineered by Chris Wood. Special thanks to Natalie Kichereff and
+*  and Alicia Petitube and was engineered by Chris Wood. Special thanks to Natalie Kichroef and
 *  Miriam Jordan. Our theme music is by Jim Brunberg and Ben Landsferk of Wonder Lane.
 *  That's it for the Daily. I'm Sabrina Tavernisi. See you on Monday.

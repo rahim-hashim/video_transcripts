@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 3417s
+Video Keywords: []
+Video Views: 5283
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Inheritance Case That Could Unravel an Art Dynasty’
 **New York Times Podcasts:** [September 17, 2023](https://www.youtube.com/watch?v=Q2BFqq3lMfk)
 *  My name is Rachel Corbett. I'm a contributor to the New York Times magazine, and I've

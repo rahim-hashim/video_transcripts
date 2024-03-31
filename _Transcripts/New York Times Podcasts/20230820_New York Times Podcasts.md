@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 3737s
+Video Keywords: []
+Video Views: 8945
+Video Rating: None
+---
+
 # The Sunday Read: ‘The Ongoing Mystery of Covid’s Origin’
 **New York Times Podcasts:** [August 20, 2023](https://www.youtube.com/watch?v=Ic8_N_RhzmI)
 *  Hi, this is David Quammen.

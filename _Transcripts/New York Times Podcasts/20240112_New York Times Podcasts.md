@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 2420s
+Video Keywords: []
+Video Views: 4832
+Video Rating: None
+---
+
 # In Iowa, Two Friends Debate DeSantis vs. Trump
 **New York Times Podcasts:** [January 12, 2024](https://www.youtube.com/watch?v=sGelUcu0GGc)
 *  From the New York Times, I'm Michael Bobarro.

@@ -1,3 +1,12 @@
+---
+Date Generated: March 31, 2024
+Transcription Model: whisper medium 20231117
+Length: 1650s
+Video Keywords: []
+Video Views: 1096
+Video Rating: None
+---
+
 # A Sweeping Plan to Protect Kids From Social Media
 **New York Times Podcasts:** [March 27, 2023](https://www.youtube.com/watch?v=dx0iZ4eA658)
 *  From the New York Times, I'm Michael Bobarro.

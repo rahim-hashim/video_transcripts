@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1475s
+Video Keywords: []
+Video Views: 5913
+Video Rating: None
+---
+
 # Is the Future of Medicine Hidden in Ancient DNA?
 **New York Times Podcasts:** [January 31, 2024](https://www.youtube.com/watch?v=9CJ8H2VKAtU)
 *  From the New York Times, I'm Sabrina Taverdisy, and this is The Daily.

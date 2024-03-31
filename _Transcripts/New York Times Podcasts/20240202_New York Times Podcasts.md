@@ -1,4 +1,13 @@
-# On the Ballot in South Carolina: Biden’s Pitch to Black Voters
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1777s
+Video Keywords: []
+Video Views: 5599
+Video Rating: None
+---
+
+# On the Ballot in South Carolina: Bidenâ€™s Pitch to Black Voters
 **New York Times Podcasts:** [February 02, 2024](https://www.youtube.com/watch?v=SmBkO3GCsxg)
 *  From New York Times, I'm Michael Bobauro.
 *  This is The Daily.

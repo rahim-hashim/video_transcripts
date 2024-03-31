@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1914s
+Video Keywords: []
+Video Views: 5641
+Video Rating: None
+---
+
 # Menopause Is Having a Moment
 **New York Times Podcasts:** [July 28, 2023](https://www.youtube.com/watch?v=bCZjypwb_Zc)
 *  From the New York Times, I'm Brussels Bureau Chief, Matina Stavris-Gridnev.

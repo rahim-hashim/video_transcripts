@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1674s
+Video Keywords: []
+Video Views: 2637
+Video Rating: None
+---
+
 # Is Washington Finally Ready to Take On Big Tech?
 **New York Times Podcasts:** [June 29, 2023](https://www.youtube.com/watch?v=XEVeSuWaVbk)
 *  From the New York Times, I'm Katrin Benholt.

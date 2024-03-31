@@ -1,3 +1,12 @@
+---
+Date Generated: March 29, 2024
+Transcription Model: whisper medium 20231117
+Length: 1637s
+Video Keywords: []
+Video Views: 2689
+Video Rating: None
+---
+
 # The Blurry Line Between Rap Star and Crime Boss
 **New York Times Podcasts:** [December 05, 2023](https://www.youtube.com/watch?v=Vt4Lq58TqBA)
 *  From New York Times, I'm Michael Bobarro.

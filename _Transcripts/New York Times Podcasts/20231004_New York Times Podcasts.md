@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1703s
+Video Keywords: []
+Video Views: 21693
+Video Rating: None
+---
+
 # The Ouster of House Speaker Kevin McCarthy
 **New York Times Podcasts:** [October 04, 2023](https://www.youtube.com/watch?v=zRPLqXqpUso)
 *  From New York Times, I'm Michael Bobarro.

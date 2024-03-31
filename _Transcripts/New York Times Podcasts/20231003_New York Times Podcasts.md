@@ -1,3 +1,12 @@
+---
+Date Generated: March 30, 2024
+Transcription Model: whisper medium 20231117
+Length: 1795s
+Video Keywords: []
+Video Views: 6135
+Video Rating: None
+---
+
 # Sam Bankman-Fried Goes on Trial
 **New York Times Podcasts:** [October 03, 2023](https://www.youtube.com/watch?v=cjol6xAiF5c)
 *  From the New York Times, I'm Sabrina Tavernisi and this is The Daily.
