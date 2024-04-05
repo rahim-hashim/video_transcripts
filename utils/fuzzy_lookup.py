@@ -84,7 +84,7 @@ def levenshtein_ratio_and_distance(s, t, ratio_calc = False):
 		# This is the minimum number of edits needed to convert string a to string b
 		return "The strings are {} edits away".format(distance[row][col])
 
-def fuzzy_matching(target_word, segments):
+def fuzzy_matching(target_word, segments, fuzzy_threshold=0.8):
 	'''Fuzzy matching for players while requesting from html'''
 	fuzzy_matches = defaultdict(lambda: defaultdict(list))
 	max_fuzzy = [0, None]  # [score, name]
@@ -99,6 +99,9 @@ def fuzzy_matching(target_word, segments):
 			fuzzy_ratio = levenshtein_ratio_and_distance(target_word.lower(), ngram.lower(), ratio_calc=True)
 			if fuzzy_ratio > max_fuzzy[0]:
 				max_fuzzy = [fuzzy_ratio, ngram]
+			# if above a threshold, stop looking for the word
+			if max_fuzzy[0] >= fuzzy_threshold:
+				break
 	# align the target word, match score and the segment print using fstring
 	print(f'  \"{target_word}\" Match Score: {round(max_fuzzy[0], 4):<6} | Match: {max_fuzzy[1]}')
 	return (max_fuzzy[0], max_fuzzy[1])
