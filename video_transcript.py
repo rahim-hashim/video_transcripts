@@ -231,8 +231,6 @@ if __name__ == '__main__':
 	else:
 		url_list = [args.url]
 
-
-
 	for u_index, url in enumerate(tqdm(url_list)):    
 		# Create a video object
 		video = Video()

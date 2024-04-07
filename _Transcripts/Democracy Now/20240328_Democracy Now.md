@@ -1,191 +1,197 @@
 ---
-Date Generated: April 04, 2024
+Date Generated: April 06, 2024
 Transcription Model: whisper medium 20231117
-Length: 777s
+Length: 819s
 Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
-Video Views: 230530
+Video Views: 610724
 Video Rating: None
 ---
 
-# Top U.S. & World Headlines — March 28, 2024
-**Democracy Now!:** [March 28, 2024](https://www.youtube.com/watch?v=XoUzMytGX_8)
-*  Welcome to Democracy Now!, democracynow.org, The War and Peace Report.
-*  I'm Amy Goodman.
-*  Al Jazeera has released a video showing Israeli soldiers fatally shooting two unarmed Palestinians
-*  near Gaza City, then burying their bodies with a bulldozer.
-*  One of the men can be seen waving a piece of white fabric before they shoot him dead.
-*  Indiscriminate Israeli attacks continued throughout the Gaza Strip Wednesday.
-*  Musa Dahir lost his parents in an Israeli airstrike.
-*  Anraha.
-*  I don't know what to do.
-*  I don't know what to say.
-*  I can't make sense of what happened.
-*  My parents, my father, with his displaced friends, who came from Gaza near the industrial
-*  area and were staying with him, they were all together when suddenly they were all gone
-*  like dust.
-*  They fled from one death and came to another.
-*  If the Security Council issues another resolution, they will hit more.
-*  For God's sake, do not pass more resolutions.
-*  That's enough.
-*  Every time they pass a resolution, they hit us more.
-*  We're all dying.
-*  My parents last night.
-*  We will be tomorrow.
-*  Others will follow.
-*  We're all on the way to death.
-*  The Israeli raid and siege on Al-Shifa Hospital in Gaza City is now in its 10th day.
-*  The rights group Euromed Human Rights Monitor says at least 13 children have been killed
-*  by Israeli forces in and near Al-Shifa since the raid started.
-*  Meanwhile, local media is reporting Palestinian journalist Mohammed Abu Sahir was shot and
-*  killed at Al-Shifa Hospital.
-*  In related news, the Palestine Red Crescent says Israel recently released seven of its
-*  members who were detained on the raid on Al Amal Hospital in February.
-*  The health workers, who included the director of ambulance and emergency services in Gaza,
-*  spent 47 days in prison.
-*  Eight other Red Crescent staffers are still being held.
-*  This comes, as UNRWA said, 171 of its workers have now been killed in Gaza.
-*  The death toll there since October 7th has now topped 32,500, including 14,000 children.
-*  In the occupied West Bank, Israeli forces killed at least four Palestinians Wednesday.
-*  Three of them were killed in an overnight air raid.
-*  I started screaming, and my nephew was with me.
-*  I was calling for an ambulance or a car and calling on the people to come and help us
-*  to move bodies from the ground.
-*  People came to help because the ambulance was late, because the checkpoint was closed.
-*  We carried Hamza, and he was still breathing.
-*  But when we reached the ambulance, he died.
-*  The Palestinian Health Ministry says at least 450 Palestinians have been killed in the West
-*  Bank since October 7th.
-*  Another 4,700 have been wounded.
-*  Over 7,300 have been detained.
-*  Also in the occupied West Bank, the Israeli human rights group Looking the Occupation
-*  in the Eye said a shooting attack on a highway near the town of Al-Aujah injured two of its
-*  activists.
-*  They were reportedly on their way to help Palestinian shepherds.
-*  A 13-year-old Israeli boy was also injured.
-*  Here in the U.S., another State Department official has publicly resigned over the Biden
-*  administration's support for Israel.
-*  Anel Shielin was a foreign affairs officer in the Bureau of Democracy, Human Rights and
-*  Labor who focused on promoting human rights in the Middle East and North Africa.
-*  In a piece for CNN, she writes, quote, whatever credibility the United States had as an advocate
-*  for human rights has almost entirely vanished since the war began.
-*  Anel Shielin will be joining us later in the broadcast.
-*  The president of the Center for American Progress, Patrick Gaspard, who is also a longtime Democratic
-*  insider and former U.S. ambassador to South Africa, blasted the Biden administration's
-*  defense of Israel's actions in Gaza.
-*  Gaspard's comments came after State Department spokesperson Matthew Miller told reporters
-*  this week the U.S. believes Israel is complying with international law.
-*  Gaspard said Miller's statement is, quote,
-*  a gross disregard of overwhelming evidence and a dangerous precedent in the conduct of
-*  U.S. foreign policy.
-*  Meanwhile, the White House says it's working with Israel to reschedule a date for a D.C.
-*  visit by an Israeli delegation to discuss the planned invasion of Ra'a.
-*  Prime Minister Benjamin Netanyahu had previously canceled the meeting after the U.S. refused
-*  to veto a U.N. Security Council ceasefire resolution.
-*  Elsewhere, Ireland says it'll intervene in South Africa's genocide case against
-*  Israel at the International Court of Justice.
-*  The Irish foreign minister, Michael Martin, said Israel's actions in Gaza constitute
-*  a, quote, blatant violation of international humanitarian law on a mass scale.
-*  In Jordan, police continue to crack down on thousands of protesters who've been demonstrating
-*  near the Israeli embassy in Amman for three days.
-*  Protesters could be heard chanting, betrayal, as they call on Jordan to cancel its deals
-*  with Israel.
-*  Our message has been a message of the Jordanian popular movement since the beginning of October
-*  7th and before that.
-*  We are asking the Jordanian government to cancel the Wadi Araba peace treaty with Israel
-*  and all its annexes that we believe harm Jordanian national interests.
-*  This requires us to stand with the choices of the Palestinian people, who are facing
-*  an aggression by the Zionist entity, the American administration and the European West.
-*  In Baltimore, rescue workers recovered the bodies of two victims of the Francis Scott
-*  Key Bridge collapse.
-*  The men were identified as 35-year-old Alejandro Hernandez Fuentes, originally from Mexico,
-*  and 26-year-old Dorlian Roniel Castillo Cabrera, from Guatemala.
-*  Another four workers are still missing and presumed dead in the river.
-*  All six victims were immigrant overnight construction workers.
-*  The National Transportation Safety Board said the investigation into the cargo ship's
-*  collision with the bridge could take one to two years to complete.
-*  President Biden has vowed to direct federal funds to pay for the entire cost of the bridge's
-*  reconstruction.
-*  In Alabama, a Democrat has flipped a seat in the state legislature after running on
-*  abortion rights and preserving access to IVF, in vitro fertilization, in what Democrats
-*  hope is a bellwether ahead of November.
-*  Marilyn Land said of her victory, quote,
-*  "'Alabama women and families sent a clear message that will be heard in Montgomery
-*  and across the nation.
-*  Our legislature must repeal Alabama's No Exceptions abortion ban, fully restore access
-*  to IVF and protect the right to contraception,' she said."
-*  Voting rights advocates in Pennsylvania are expressing alarm after a federal appeals court
-*  ruled undated mail-in ballots should not be counted even if they arrive on time.
-*  The ACLU said this could result in thousands of Pennsylvania voters losing their votes.
-*  The Republican National Committee praised the ruling.
-*  Meanwhile, in Montana, the state Supreme Court has struck down four Republican laws aimed
-*  at restricting the vote, including one which would have largely ended same-day voter registration.
-*  The three white men who chased down and killed Ahmaud Arbery in 2020 asked a federal appeals
-*  to toss out their hate crimes convictions.
-*  The three convicted murderers say prosecutors did not prove they targeted Arbery, who they
-*  shot and killed while he was out for a jog because he was black.
-*  During the trial of William Bryan and father and son Greg and Travis McMichael, prosecutors
-*  shared dozens of racist text messages and social media posts from the men in the months
-*  and years before the murder of 25-year-old Ahmaud Arbery.
-*  Ahmaud's father Marcus Arbery responded to the news Wednesday.
-*  Donald Trump lashed out at New York judge Juan Marchand and the judge's daughter just
-*  hours after the judge imposed a gag order on Trump ahead of his criminal hush money
-*  trial next month.
-*  On his Truth Social platform, Trump called Judge Marchand a hater and accused him of
-*  being biased and conflicted.
-*  In response to the partial gag order, Trump claimed Marchand was, quote,
-*  wrongfully attempting to deprive me of my First Amendment right to speak out against
-*  the weaponization of law enforcement, unquote.
-*  The gag order does not technically shield Marchand from public statements by Trump.
-*  Former Connecticut senator and vice presidential candidate Joe Lieberman has died at the age
-*  of 82 after a fall.
-*  Lieberman was a leading backer of the 2003 invasion of Iraq.
-*  He also helped kill the public option in the Affordable Care Act and fought efforts to
-*  expand Medicare eligibility.
-*  In 2000, he became the first Jewish vice presidential nominee on a major party ticket when he ran
-*  as Al Gore's running mate.
-*  In 2008, he endorsed Republican Senator John McCain for president over Barack Obama in
-*  his memoir.
-*  McCain said he was sorry he didn't choose Lieberman as his vice presidential running
-*  mate over Sarah Palin.
-*  The Phoenix City Council has approved a new ordinance to protect many workers from extreme
-*  heat.
-*  Phoenix is the hottest city in the country.
-*  Contractors working with the city will be required to provide cooling breaks, cold water
-*  and air conditioning.
-*  Meanwhile, in Florida, the Republican-led state legislature recently passed a bill barring
-*  municipalities in Florida from adopting any local measures to protect workers from extreme
-*  heat.
-*  In Argentina, a court has convicted 11 former officials of crimes against humanity for committing
-*  atrocities against over 600 people during the military dictatorship that ruled Argentina
-*  from 1976 to 1983.
-*  The victims included transgender women, high school students, prisoners who gave birth
-*  in captivity and whose babies were taken from them.
-*  The court ruled the former military, police and government officials were involved in
-*  torture, rape and murder at secret torture centers on the outskirts of Buenos Aires.
-*  On Sunday, thousands of Argentines gathered in Buenos Aires to remember the victims of
-*  the military dictatorship.
-*  Today, some families here in Argentina are still searching for their children.
-*  The idea is that every March 24th we should remember that date so we don't repeat those
-*  mistakes.
-*  People that have a memory do not repeat those mistakes.
-*  This all comes as Argentina's new far-right president Javier Mele faces renewed criticism
-*  for downplaying dictatorship-era atrocities.
-*  In Indonesia, 13 soldiers have been arrested after video emerged showing them torturing
-*  a man at a military outpost in West Papua.
-*  The Indonesian military also issued a rare apology for the incident, according to Amnesty
-*  International.
-*  The man who was tortured later died.
-*  In Russia, the death toll from last week's concert hall attack has risen to 143.
-*  Around 80 people remain hospitalized after surviving the worst terror attack in Moscow
-*  in decades.
-*  The arrest of four Tajik nationals has sparked an increase in attacks on Central Asian migrants
-*  in Moscow and other cities.
-*  The Embassy of Tajikistan in Russia has warned its citizens to stay home if possible.
-*  And U.N. Secretary-General Antonio Guterres has called for reparations for the transatlantic
-*  slave trade to, quote, help overcome generations of exclusion and discrimination.
-*  Guterres made the statement on the U.N. International Day of Remembrance of the Victims of Slavery.
-*  And those are some of the headlines.
+# I Could Not Stay Silent: Annelle Sheline Resigns from State Dept. over U.S. Gaza Policy
+**Democracy Now!:** [March 28, 2024](https://www.youtube.com/watch?v=nRI-MtoSD_E)
 *  This is Democracy Now!, democracynow.org, The War and Peace Report.
-*  I'm Amy Goodman.
-*  And I'm Nermeen Shaikh.
-*  Welcome to our listeners and viewers across the country and around the world.
+*  I'm Amy Goodman, with Nermeen Shaikh.
+*  A State Department official working on human rights issues in the Middle East resigned
+*  Wednesday in protest against U.S. support for Israel's assault on Gaza.
+*  Anel Shieline worked as a foreign affairs officer in the Bureau of Democracy, Human
+*  Rights and Labor for a year before publicly resigning.
+*  In an op-ed published in CNN, she wrote, quote, "'For the past year, I worked for the office
+*  devoted to promoting human rights in the Middle East.
+*  I believe strongly in the mission and in the important work of that office.
+*  However, as a representative of a government that is directly enabling what the International
+*  Court of Justice has said could plausibly be a genocide in Gaza, such work has become
+*  almost impossible.
+*  Unable to serve an administration that enables such atrocities, I have decided to resign from
+*  my position at the Department of State,' she wrote.
+*  Anel Shieline is the most significant protest resignation over U.S. support for Israel's
+*  assault on Gaza since the resignation in October of Josh Paul, the senior State Department
+*  official involved in arms transfers to foreign governments.
+*  Anel Shieline joins us now from Washington, D.C.
+*  And now, welcome to Democracy Now!
+*  Can you tell us further about the decision you made?
+*  ANEL SHIELINE
+*  Thanks so much for having me and for your coverage of this issue.
+*  I hadn't initially planned to resign publicly.
+*  I hadn't been at state for very long, and I didn't think it would necessarily matter.
+*  But I decided to go public because when I started to tell colleagues that I was planning
+*  to resign over Gaza, so many people's response was, please speak out, please speak for us.
+*  Many people are not in a position where they feel they could resign or they are trying
+*  to do what they can on the inside.
+*  There's still a lot of important, crucial work the State Department does.
+*  And so I decided I would go ahead and go public.
+*  NERMEEN SHAIKH
+*  Well, you told—Anel, you told The Washington Post that you tried to raise concerns internally
+*  with dissent cables and at staff forums.
+*  So what was the result of that?
+*  And how are other people within state, as you said, trying to speak out within the State
+*  Department to change policy?
+*  ANEL SHIELINE
+*  Yes, many people are extremely horrified by the U.S. government's position on this horrific
+*  conflict and the actions of both the Israeli and the U.S. governments.
+*  There is the dissent channel inside the State Department.
+*  I co-wrote a cable and signed other cables.
+*  There have been forums for State Department employees to speak out.
+*  I spoke with supervisors.
+*  I was able to speak with a senior official about my resignation.
+*  I think at the end of the day, many people inside state know that this is a horrific
+*  policy and can't believe that the United States government is engaged in such actions
+*  that contravene American values so directly.
+*  But the leadership is not listening.
+*  AMY GOODMAN
+*  I want to go to the State Department spokesperson, Matt Miller, being questioned by a reporter
+*  about the internal dissent channel within the State Department and employees raising
+*  concerns over the policies.
+*  MAHER ZOUWALILI
+*  What is the point of the whole channel?
+*  I mean, the secretary listens, and we've all reported about various listening sessions
+*  between mid-level or like more senior officials with the secretary, more junior officials.
+*  If it's not, if it's being heard, but if it's not taken into account in the policy
+*  at all, then don't you think it's a little bit pointless?
+*  MATT MILLER So I would disagree with that completely.
+*  It is taken into account in the policymaking process.
+*  The secretary has heard things in those meetings that he takes on board and that he, that
+*  influences his thinking and that he brings to bear in making policy decisions.
+*  Now, if what you mean is, are we going to execute a complete reversal of the policy
+*  that we implemented?
+*  Or are we going to implement exactly some of the policies that the people in these meetings
+*  have called for?
+*  That's not how this process works.
+*  That's not how any organization works.
+*  I dare say any of the media organizations in this room, if reporters go to their bosses
+*  and offer feedback and the bosses say, well, that's a good point, we're going to take
+*  that to bear.
+*  On the larger policy, this is the decision that we have made.
+*  That's how leadership works.
+*  You're doing a long rant on something that I didn't suggest, but do you have any examples
+*  on any changes?
+*  I'm genuinely curious.
+*  Yeah, I will say with respect to any number of issues, with respect to the delivery of
+*  humanitarian assistance, we have heard good ideas from people inside the building who
+*  have come and offered constructive feedback, and we have implemented those.
+*  Now, there are people that when you say, like, if the idea is that the United States to cut
+*  off support for Israel, that's just a fundamental policy disagreement.
+*  So when you see people who offer interviews that say, we want the United States to stop
+*  supporting Israel's right to defend itself, that's not something the secretary agrees
+*  with, it's not something the president agrees with, and ultimately they are the ones who
+*  have the responsibility of making those decisions.
+*  So Anel Sheline, if you can respond to the State Department spokesperson, Matt Miller.
+*  You know, I think American law is quite clear here in terms of the Leahy laws, for example,
+*  that when a foreign military is credibly accused of gross human rights violations, the law
+*  is that the U.S. will no longer provide weapons to those units, or 620-I of the Foreign Assistance
+*  Act, that a government that is blocking American humanitarian aid is no longer eligible for
+*  U.S. military assistance.
+*  These laws are not being applied.
+*  So I think this is not only having a horrific effect on the people of Gaza, but in terms
+*  of America's standing in the rest of the world.
+*  This administration came in pledging to reestablish American moral leadership, re-engagement with
+*  the international community, uphold the law and the so-called rules-based liberal international
+*  order.
+*  And I think it's just become clear that this administration is not in fact carrying out
+*  any of those pledges.
+*  And, you know, my work was on human rights, which is very important work that the State
+*  Department does.
+*  But I think on this issue in particular, the political calculus has been that U.S. support
+*  for Israel is a better political move.
+*  But I think what the administration may be starting to see is they may have made the
+*  wrong decision on that politically.
+*  And, Anil, can you explain whether there's any distinction made?
+*  There's a blanket statement about U.S. support for Israel.
+*  But is there no distinction within discussions at the State Department between different
+*  forms of U.S. support for Israel?
+*  So for instance, obviously in this instance, the most important question is that of military
+*  aid to Israel at this moment.
+*  There, I should be clear that, you know, my area of focus, I was not, Israel and Palestine
+*  were not part of my portfolio.
+*  I was focusing primarily on North Africa.
+*  So I can't speak directly to, you know, some of those conversations.
+*  I do think, you know, at the end of the day, the U.S.-Israel relationship is of, is considered
+*  of such political importance that decisions regarding it are made at the very top.
+*  And so while there are other processes and certainly discussions going on inside state,
+*  inside other parts of the government about some of those nuances you were discussing,
+*  I don't think we're likely to see any public shift on any of that until those decisions
+*  come from the top, that they're ready to reimagine the U.S.-Israel relationship.
+*  I wanted to go to another clip of the State Department spokesperson, Matt Miller, saying
+*  the Biden administration has not found Israel's actions in Gaza to be a violation of international
+*  law.
+*  This is some of what he said.
+*  We have not found them to be in violation of international humanitarian law, either
+*  when it comes to the conduct of the war or when it comes to the provision of humanitarian
+*  assistance.
+*  That was this week in El Shilin.
+*  Either violation of international law or when it comes to providing humanitarian assistance.
+*  And yet, President Biden says he is building a port because the Palestinians cannot get
+*  enough aid.
+*  Exactly.
+*  I think that the evidence speaks for itself.
+*  We've had, you know, not only the ICJ's ruling, not only the U.N. Security Council
+*  ruling.
+*  Clearly the administration is unwilling to admit to reality.
+*  And again, I just want to reiterate, I think this is not only obviously devastating for
+*  the lives of people in Gaza, but is doing incredible damage to America's standing on
+*  the international stage.
+*  It is incredibly demoralizing for people inside the State Department, many of whom believe
+*  very deeply in what America says it stands for.
+*  So I'm trying to speak on behalf of those many, many people who feel so betrayed by
+*  our government stance.
+*  And Anil, could you explain the effect that the massive protests across the United States
+*  have had within the State Department, what discussion there was of them, and then of
+*  course the uncommitted vote?
+*  So, within the State Department, civil servants are very committed to their role of being
+*  non-political, of following the instruction that they receive.
+*  Within state, people are aware of what's going on outside, but this is not the first
+*  time that people have been involved or had to carry out policies they perhaps did not
+*  agree with.
+*  And it is something that many of these people have signed up for.
+*  This is the role of carrying out America's foreign policy.
+*  On this issue, I think because it has been so horrific and because we are seeing such
+*  growing political pushback from the American public, people are increasingly frustrated.
+*  Many other people with whom I spoke said they're considering resigning.
+*  But again, it is challenging for someone to, you know, it's not easy to not have a job
+*  in this country.
+*  I wanted to quote further what you've said in explanation of why you're resigning.
+*  You said you're haunted by the final social media post of Aaron Bushnell, the 25-year-old
+*  U.S. Air Force serviceman who self-immolated in front of the Israeli embassy in Washington
+*  on February 25.
+*  You quote him, many of us like to ask ourselves, what would I do if I was alive during slavery
+*  or the Jim Crow South or apartheid?
+*  What would I do if my country was committing genocide?
+*  The answer is you're doing it right now.
+*  If you can explain what that meant to you and how people have responded to you.
+*  Sorry.
+*  I, you know, that post, I think, spoke to me and many people who had to really look
+*  at what they were doing and whether—you know, for me, I have a young daughter, and
+*  I thought about in the future if she were to ask me, you know, what were you doing when
+*  this was happening?
+*  You were at the State Department.
+*  I want to be able to tell her that I didn't stay silent.
+*  And I know many people who are deeply affected by those words that Aaron Bushnell posted.
+*  And I do think people are trying to do what they can.
+*  There is still very important work being done inside the State Department.
+*  But I do think until our top levels of leadership are ready to make a change, there's very
+*  little that the rank and file are able to do.
+*  AMY GOODMAN, The New York Times, April 20, 2012
+*  Anel Shieline, we want to thank you so much for being with us.
+*  Anel has just resigned from the State Department in protest of U.S. support for Israel's
+*  war on Gaza.
+*  She worked as Foreign Affairs Officer in the Bureau of Democracy, Human Rights and Labor.
+*  She's also the first State Department official to publicly resign since Josh Paul did months ago.
