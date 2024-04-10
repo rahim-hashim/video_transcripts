@@ -7,10 +7,13 @@ import pprint
 import argparse
 from tqdm import tqdm
 from datetime import datetime
+from collections import defaultdict
 from pytube import YouTube, Playlist
 # for slugify
 import unicodedata
 import re
+# remapping Youtube Playlist links to specified directory names
+from youtube_links import podcast_playlist_names
 
 def slugify(value, allow_unicode=False):
 	"""
@@ -69,7 +72,7 @@ class Video:
 		self.transcript_exists = False
 		self.transcript = None
 
-	def get_video(self, source='youtube', url=None, local_path=None):
+	def get_video(self, source='youtube', playlist_url=None, url=None, local_path=None):
 		'''
 		Download a video from a source and set the video attributes
 
@@ -97,6 +100,10 @@ class Video:
 				self.author = youtube_obj.author
 				self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
 				self.url = url
+				# rename the author to the specified author name
+				if playlist_url and playlist_url in podcast_playlist_names.keys():
+					print(f'  Renaming {self.author} to: {podcast_playlist_names[playlist_url]}')
+					self.author = podcast_playlist_names[playlist_url]
 				self.video_path = video_path
 				self.length = youtube_obj.length
 				self.rating = youtube_obj.rating
@@ -125,7 +132,7 @@ class Video:
 		print(f'Video Title: {self.title}')
 		print(f'  Author: {self.author}')
 		print(f'  Date:   {self.date}')
-		print(f'  Length: {self.length}s')
+		print(f'  Length: {round(self.length/60, 2)}m')
 		print(f'  Views:  {self.views}')
 		return True
 
@@ -197,6 +204,27 @@ class Video:
 		os.remove(self.video_path)
 		print(f'Video file deleted: {self.video_path}')
 
+def extract_playlist_urls(args, playlists):
+	url_list = []
+	url_playlist_map = defaultdict(str)
+	for playlist_url in playlists:
+		playlist = Playlist(playlist_url)
+		playlist_url_list = list(playlist.video_urls)
+		print(f'Transcribing Playlist: {playlist.title}')
+		print(f'  Number of Total Videos: {len(playlist_url_list)}')
+		if args.refresh and args.max_load == None:
+			print(f'     --refresh specified, only transcribing the most recent video in the playlist')
+			url_list.append(playlist_url_list[0])
+		elif args.max_load != None:
+			print(f'    --max_load specified {args.max_load} videos')
+			url_list.append(playlist_url_list[:args.max_load])
+		else:
+			url_list += playlist_url_list
+		# map each video url to the playlist url
+		for url in playlist_url_list:
+			url_playlist_map[url] = playlist_url
+	return url_list, url_playlist_map
+
 if __name__ == '__main__':
 	
 	# Parse the command line arguments
@@ -206,6 +234,10 @@ if __name__ == '__main__':
 																	help='The source of the video')
 	parser.add_argument('--url', help='The URL of the video (required if source is youtube)')
 	parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
+	# if --refresh is specified, set the value of the argument to True (default is False)
+	parser.add_argument('--refresh', help='If specified, retrieve all playlist links from \'youtube_links.py\' and generate \
+										 										 transcripts for only the most recent video in each playlist', 
+																	 action='store_true')
 	parser.add_argument('--max_load', help='If specified, the max number of videos to transcribe from a playlist',
 																		default=None, type=int)
 
@@ -217,25 +249,30 @@ if __name__ == '__main__':
 	# Check if the transcript folder exists
 	make_transcript_folder()
 
-	# Youtube Playlist URL Example: https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4
-	# https://www.youtube.com/watch?v=Bg1LQ_jWliU&list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k
-	if 'playlist' in args.url.lower():
-		playlist_url = args.url
-		playlist = Playlist(playlist_url)
-		print(f'Transcribing Playlist: {playlist.title}')
-		url_list = list(playlist.video_urls)
-		print(f'  Number of Total Videos: {len(url_list)}')
-		if args.max_load != None:
-			print(f'    --max_load specified {args.max_load} videos')
-			url_list = url_list[:args.max_load]
+	playlists = []
+	if args.refresh:
+		playlists = list(podcast_playlist_names.keys())
+		print(f'Refreshing playlists from \'youtube_links.py\'.')
+		print(f'  Number of Playlists: {len(playlists)}')
+	elif 'playlist' in args.url.lower():
+		# Youtube Playlist URL Example: https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4
+		# https://www.youtube.com/watch?v=Bg1LQ_jWliU&list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k
+		playlists = [args.url]
+	
+	if playlists:
+		url_list, url_playlist_map = extract_playlist_urls(args, playlists)
 	else:
-		url_list = [args.url]
+		url_playlist_map = defaultdict(str)
+		url_list  = [args.url]
 
+	print(f'Number of Videos to Transcribe: {len(url_list)}')
 	for u_index, url in enumerate(tqdm(url_list)):    
 		# Create a video object
 		video = Video()
 		# Get the video and transcribe
-		status = video.get_video(source=args.source, url=url)
+		status = video.get_video(source=args.source, 
+													   playlist_url=url_playlist_map[url], 
+														 url=url)
 		
 		if not video.transcript_exists and status != None:
 			video.transcribe_video(video, model)
