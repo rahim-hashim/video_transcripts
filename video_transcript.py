@@ -39,7 +39,9 @@ def load_model(model_name='base'):
 	'''
 	Import the modules you will be using, and load the whisper model -- `base` is ok, but from the documentation:
 
-	There are five model sizes, four with English-only versions, offering speed and accuracy tradeoffs. Below are the names of the available models and their approximate memory requirements and inference speed relative to the large model; actual speed may vary depending on many factors including the available hardware.
+	There are five model sizes, four with English-only versions, offering speed and accuracy tradeoffs. 
+	Below are the names of the available models and their approximate memory requirements and inference speed relative 
+	to the large model; actual speed may vary depending on many factors including the available hardware.
 
 	|  Size  | Parameters | English-only model | Multilingual model | Required VRAM | Relative speed |
 	| :----: | :--------: | :----------------: | :----------------: | :-----------: | :------------: |
@@ -232,12 +234,11 @@ if __name__ == '__main__':
 	parser.add_argument('--source', choices=['youtube', 'local'], 
 																	default='youtube', 
 																	help='The source of the video')
-	parser.add_argument('--url', help='The URL of the video (required if source is youtube)')
-	parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
-	# if --refresh is specified, set the value of the argument to True (default is False)
 	parser.add_argument('--refresh', help='If specified, retrieve all playlist links from \'youtube_links.py\' and generate \
 										 										 transcripts for only the most recent video in each playlist', 
 																	 action='store_true')
+	parser.add_argument('--url', help='The URL of the video (required if source is youtube and not refreshing playlists)')
+	parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
 	parser.add_argument('--max_load', help='If specified, the max number of videos to transcribe from a playlist',
 																		default=None, type=int)
 
@@ -251,12 +252,14 @@ if __name__ == '__main__':
 
 	playlists = []
 	if args.refresh:
+		# get all the playlist links from youtube_links.py
 		playlists = list(podcast_playlist_names.keys())
 		print(f'Refreshing playlists from \'youtube_links.py\'.')
 		print(f'  Number of Playlists: {len(playlists)}')
 	elif 'playlist' in args.url.lower():
-		# Youtube Playlist URL Example: https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4
-		# https://www.youtube.com/watch?v=Bg1LQ_jWliU&list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k
+		# Youtube Playlist URL Example: 
+		#   https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4
+		#   https://www.youtube.com/watch?v=Bg1LQ_jWliU&list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k
 		playlists = [args.url]
 	
 	if playlists:
