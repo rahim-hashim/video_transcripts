@@ -272,11 +272,11 @@ if __name__ == '__main__':
 	for u_index, url in enumerate(tqdm(url_list)):    
 		# Create a video object
 		video = Video()
-		# Get the video and transcribe
+		# Get the video
 		status = video.get_video(source=args.source, 
 													   playlist_url=url_playlist_map[url], 
 														 url=url)
-		
+		# Transcribe the video
 		if not video.transcript_exists and status != None:
 			video.transcribe_video(video, model)
 			video.write_transcript()
