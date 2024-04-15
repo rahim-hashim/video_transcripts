@@ -4,5 +4,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLneypbodq-jb6iEDCsi5QFKv-ACMdZ86s': 'Democracy Now',
   'https://www.youtube.com/playlist?list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k': 'Cognitive Revolution How AI Changes Everything',
   'https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4': 'Lex Fridman',
-  'https://www.youtube.com/playlist?list=PL5PjwSaEJGg6A3LBmWDMXO-xTH4CXoNgE': 'Brain Inspired' 
+  'https://www.youtube.com/playlist?list=PL5PjwSaEJGg6A3LBmWDMXO-xTH4CXoNgE': 'Brain Inspired',
+  'https://www.youtube.com/playlist?list=PLYHjB_Comy8RhgQ_JNUbVNEQ6gc4iolhN': 'Bill Simmons NBA',
+  'https://www.youtube.com/playlist?list=PLYHjB_Comy8SKByVPadM3Xm0WJQV102Ya': 'Bill Simmons NFL'
 }

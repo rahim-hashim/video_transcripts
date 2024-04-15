@@ -13,7 +13,7 @@ from pytube import YouTube, Playlist
 import unicodedata
 import re
 # remapping Youtube Playlist links to specified directory names
-from youtube_links import podcast_playlist_names
+from utils.podcast_yt_links import podcast_playlist_names
 
 def slugify(value, allow_unicode=False):
 	"""
