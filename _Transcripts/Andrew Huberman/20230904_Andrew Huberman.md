@@ -1,0 +1,5137 @@
+---
+Date Generated: April 27, 2024
+Transcription Model: whisper medium 20231117
+Length: 10622s
+Video Keywords: ['andrew huberman', 'huberman lab podcast', 'huberman podcast', 'dr. andrew huberman', 'neuroscience', 'huberman lab', 'andrew huberman podcast', 'the huberman lab podcast', 'science podcast', 'marc andreessen', 'mosaic', 'netscape', 'andreessen horowitz', 'venture capital', 'software innovator', 'technology', 'true innovator', 'personality traits', 'innovation environment', 'revolutionary ideas', 'risk-taking', 'intrinsic motivation', 'navigate uncertainty', 'artificial intelligence', 'ai coach']
+Video Views: 481522
+Video Rating: None
+---
+
+# Marc Andreessen: How Risk Taking, Innovation & Artificial Intelligence Transform Human Experience
+**Andrew Huberman:** [September 04, 2023](https://www.youtube.com/watch?v=yixIc1Ai6jM)
+*  Welcome to the Huberman Lab Podcast,
+*  where we discuss science
+*  and science-based tools for everyday life.
+*  I'm Andrew Huberman,
+*  and I'm a professor of neurobiology and ophthalmology
+*  at Stanford School of Medicine.
+*  Today, my guest is Mark Andreessen.
+*  Mark Andreessen is a software engineer
+*  and an investor in technology companies.
+*  He co-founded and developed Mosaic,
+*  which was one of the first widely used web browsers.
+*  He also co-founded and developed Netscape,
+*  which was one of the earliest widespread used web browsers.
+*  And he co-founded and is a general partner
+*  at Andreessen Horowitz,
+*  one of the most successful Silicon Valley
+*  venture capital firms.
+*  All of that is to say that Mark Andreessen
+*  is one of the most successful innovators
+*  and investors ever.
+*  I was extremely excited to record this episode with Mark
+*  for several reasons.
+*  First of all, he himself is an incredible innovator.
+*  Second of all, he has an uncanny ability
+*  to spot the innovators of the future.
+*  And third, Mark has shown over and over again
+*  the ability to understand how technologies
+*  not yet even developed are going to impact
+*  the way that humans interact at large.
+*  Our conversation starts off by discussing
+*  what makes for an exceptional innovator,
+*  as well as what sorts of environmental conditions
+*  make for exceptional innovation
+*  and creativity more generally.
+*  In that context, we talk about risk-taking,
+*  not just in terms of risk-taking in one's profession,
+*  but about how some people, not all,
+*  but how some people who are risk-takers and innovators
+*  in the context of their work,
+*  also seem to take a lot of risks in their personal life
+*  and some of the consequences that can bring.
+*  Then we discuss some of the most transformative technologies
+*  that are now emerging, such as novel approaches
+*  to developing clean energy,
+*  as well as AI or artificial intelligence.
+*  With respect to AI, Mark shares his views
+*  as to why AI is likely to greatly improve human experience.
+*  And we discuss the multiple roles that AI is very likely
+*  to have in all of our lives in the near future.
+*  Mark explains how not too long from now,
+*  all of us are very likely to have AI assistance.
+*  For instance, assistance that give us
+*  highly informed health advice,
+*  highly informed psychological advice.
+*  Indeed, it is very likely that all of us
+*  will soon have AI assistance that govern most,
+*  if not all, of our daily decisions.
+*  And Mark explains how, if done correctly,
+*  this can be a tremendously positive addition to our life.
+*  In doing so, Mark provides a stark counterargument
+*  for those that argue that AI
+*  is going to diminish human experience.
+*  So if you're hearing about and or concerned about
+*  the ways that AI is likely to destroy us,
+*  today you are going to hear about the many different ways
+*  that AI technologies now in development
+*  are likely to enhance our human experience at every level.
+*  What you'll soon find is that while today's discussion
+*  does center around technology and technology development,
+*  it is really a discussion about human beings
+*  and human psychology.
+*  So whether you have an interest in technology development
+*  and or AI, I'm certain that you'll find today's discussion
+*  to be an important and highly lucid view
+*  into what will soon be the future that we all live in.
+*  Before we begin, I'd like to emphasize that this podcast
+*  is separate from my teaching and research roles at Stanford.
+*  It is however, part of my desire and effort
+*  to bring zero cost to consumer information about science
+*  and science related tools to the general public.
+*  In keeping with that theme,
+*  I'd like to thank the sponsors of today's podcast.
+*  Our first sponsor is Element.
+*  Element is an electrolyte drink that has everything you need
+*  and nothing you don't.
+*  That means plenty of the electrolytes, sodium, magnesium
+*  and potassium in the correct ratios, but no sugar.
+*  The electrolytes and hydration are absolutely key
+*  for mental health, physical health and performance.
+*  Even a slight degree of dehydration can impair our ability
+*  to think, our energy levels and our physical performance.
+*  Element makes it very easy to achieve proper hydration
+*  and it does so by including the three electrolytes
+*  in the exact ratios they need to be present.
+*  I drink Element first thing in the morning when I wake up,
+*  I usually mix it with about 16 to 32 ounces of water.
+*  If I'm exercising, I'll drink one while I'm exercising
+*  and I tend to drink one after exercising as well.
+*  Now, many people are scared off by the idea
+*  of ingesting sodium because obviously we don't want
+*  to consume sodium in excess.
+*  However, for people that have normal blood pressure
+*  and especially for people that are consuming
+*  very clean diets, that is consuming not so many processed
+*  foods or highly processed foods.
+*  Oftentimes we are not getting enough sodium, magnesium
+*  and potassium and we can suffer as a consequence.
+*  And with Element, simply by mixing water,
+*  it tastes delicious, it's very easy
+*  to get that proper hydration.
+*  If you'd like to try Element, you can go to drink Element,
+*  that's lmnt.com slash Huberman to claim a free Element
+*  sample pack with your purchase.
+*  Again, that's drink element lmnt.com slash Huberman.
+*  Today's episode is also brought to us by 8 Sleep.
+*  8 Sleep makes smart mattress covers with cooling, heating
+*  and sleep tracking capacity.
+*  I've spoken many times before in this podcast
+*  about the fact that sleep, that is getting
+*  a great night's sleep is the foundation
+*  of all mental health, physical health and performance.
+*  When we're sleeping well, everything goes far better.
+*  When we are not sleeping well, we're enough,
+*  everything gets far worse at the level of mental health,
+*  physical health and performance.
+*  Then one of the key things to getting a great night's sleep
+*  and waking up feeling refreshed is that you have
+*  to control the temperature of your sleeping environment.
+*  And that's because in order to fall and stay deeply asleep,
+*  you need your core body temperature to drop
+*  by about one to three degrees.
+*  And in order to wake up feeling refreshed and energized,
+*  you want your core body temperature to increase
+*  by about one to three degrees.
+*  With 8 Sleep, it's very easy to induce that drop
+*  in core body temperature by cooling your mattress early
+*  and throughout the night
+*  and warming your mattress toward morning.
+*  I started sleeping on an 8 Sleep mattress cover
+*  a few years ago and it has completely transformed
+*  the quality of the sleep that I get.
+*  So much so that I actually loathe traveling
+*  because I don't have my 8 Sleep mattress cover
+*  when I travel.
+*  If you'd like to try 8 Sleep,
+*  you can go to 8sleep.com slash Huberman
+*  and you'll save up to $150 off their pod three cover.
+*  8 Sleep currently ships in the USA, Canada, UK,
+*  select countries in the EU and Australia.
+*  Again, that's 8sleep.com slash Huberman.
+*  And now for my discussion with Mark Andreessen.
+*  Mark, welcome.
+*  Hey, thank you.
+*  Delighted to have you here and have so many questions
+*  for you about innovation, AI, your view of the landscape
+*  of tech and humanity in general.
+*  I wanna start off by talking about innovation
+*  from three different perspectives.
+*  There's the inner game, so to speak,
+*  or the psychology of the innovator or innovators.
+*  Things like their propensity for engaging in conflict
+*  or not, their propensity for having a dream or a vision.
+*  And in particular, their innovation as it relates
+*  to some psychological trait or expression.
+*  So we'll get to that in a moment.
+*  The second component that I'm curious about
+*  is the outer landscape around innovators,
+*  who they place themselves with,
+*  the sorts of choices that they make,
+*  and also the sorts of personal relationships
+*  that they might have or not have.
+*  And then the last component is this notion
+*  of the larger landscape
+*  that they happen to find themselves in.
+*  What time in history?
+*  What's the geography?
+*  Bay Area, New York, Dubai, et cetera.
+*  So to start off, is there a common trait of innovators
+*  that you think is absolutely essential as a seed
+*  to creating things that are really impactful?
+*  Yeah, so I'm not a psychologist,
+*  but I've picked up some of the concepts
+*  and some of the terms.
+*  And so it was a great moment of delight in my life
+*  when I learned about the big five personality traits.
+*  Because I was like, aha, there's a way to actually describe
+*  the answer to this question
+*  in at least reasonably scientific terms.
+*  And so I think what you're looking for
+*  when you're talking about real innovators,
+*  like people who actually do really creative
+*  breakthrough work,
+*  I think you're talking about a couple things.
+*  So one is very high in what's called trait openness,
+*  which is one of the big five,
+*  which is basically just like flat out open to new ideas.
+*  And of course, the nature of trait openness is,
+*  trait openness means you're not just open to new ideas
+*  in one category, you're open to many different kinds
+*  of new ideas.
+*  And so we might talk about the fact
+*  that a lot of innovators also are very creative people
+*  in other aspects of their lives, right?
+*  Even outside of their specific creative domain.
+*  So that's important,
+*  but of course, just being open is not sufficient.
+*  Because if you're just open,
+*  you could just be curious and explore, right?
+*  And spend your entire life reading and doing,
+*  you know, talking to people
+*  and never actually create something.
+*  So you also need a couple other things.
+*  You need a high level of conscientiousness,
+*  which is another one of the big five.
+*  You need somebody who's really willing to apply themselves
+*  and in our world, typically over a period of many years,
+*  right, to be able to accomplish something great.
+*  You know, they typically work very hard.
+*  That often gets obscured because the stories
+*  that are getting told about these people are,
+*  you know, it's just like this kid,
+*  and he just had this idea,
+*  and it was like a stroke of genius,
+*  and it was like a moment in time,
+*  and you know, it's just like, oh, he was so lucky.
+*  And it's like, no, like for most of these people,
+*  it's years and years and years of applied effort.
+*  And so you need somebody with like an extreme,
+*  you know, basically willingness to defer gratification
+*  and really apply themselves to a specific thing
+*  for a long time.
+*  And of course, this is why there aren't very many
+*  of these people, is there aren't many people
+*  who are high in openness and high in conscientiousness,
+*  to a certain extent, they're opposed, right, traits.
+*  And so you need somebody who has both of those.
+*  Third is you need somebody high in disagreeableness,
+*  which is the third of the big five.
+*  So you need somebody who's just like basically ornery,
+*  right, because if they're not ornery,
+*  then they'll be talked out of their ideas
+*  by people who will be like, oh, well, you know,
+*  because the reaction most people have new ideas is,
+*  oh, that's dumb.
+*  And so somebody who's too agreeable
+*  will be easily dissuaded to not pursue,
+*  you know, not pulling the thread anymore.
+*  So you need somebody highly disagreeable.
+*  Again, the nature of disagreeableness
+*  is they tend to be disagreeable about everything, right?
+*  So they tend to be these very sort of iconoclastic,
+*  you know, kind of renegade characters.
+*  And then there's just a table stakes component,
+*  which is they just also need to be high IQ.
+*  They just need to be really smart,
+*  because it's just, it's hard to innovate in any category
+*  if you can't synthesize large amounts of information quickly.
+*  And so those are four, like basically like high spikes,
+*  you know, very rare traits that basically
+*  have to come together.
+*  You could probably also say they probably at some point
+*  need to be relatively low in neuroticism,
+*  which is another of the big five,
+*  because if they're too neurotic,
+*  they probably can't handle the stress, right?
+*  So it's kind of this dial in there.
+*  And then of course, if you're into like this sort of science
+*  of the big five, basically, you know,
+*  these are all people who are on like the far outlying
+*  kind of point on the normal distribution
+*  across all these traits.
+*  And then that just gets you to, I think,
+*  the sort of hardest topic of all around this whole concept,
+*  which is just there are very few of these people.
+*  Do you think they're born with these traits?
+*  Yeah, well, so they're born with the traits.
+*  And then, of course, the traits are not, you know,
+*  genetics are not destiny.
+*  And so the traits are not deterministic
+*  in the sense of that, you know,
+*  just because they have those personality traits
+*  doesn't mean they're gonna deliver great creativity,
+*  but like they need to have those properties
+*  because otherwise they're just not either
+*  gonna be able to do the work
+*  or they're not gonna enjoy it, right?
+*  I mean, look, a lot of these people
+*  are highly capable, competent people.
+*  It, you know, it's very easy for them to get
+*  like high paying jobs in traditional institutions
+*  and, you know, get lots of traditional awards
+*  and, you know, end up with big paychecks.
+*  And, you know, there's a lot of people
+*  at big institutions that we, you know,
+*  you and I know well, and I deal with many of these,
+*  where people get paid a lot of money
+*  and they get a lot of respect and they go for 20 years
+*  and it's great and they never create anything new, right?
+*  And so there's a lot of-
+*  Administrators.
+*  Yeah, well, and a lot of them, yeah,
+*  a lot of them end up in administrative jobs.
+*  And that's fine, that's good.
+*  The world needs, you know, the world needs that also, right?
+*  The innovators can't run everything
+*  because everything, you know, the rate of change
+*  would be too high.
+*  Society, I think, probably wouldn't be able to handle it.
+*  So you need some people who are on the other side
+*  who are gonna kind of keep the lights on
+*  and keep things running.
+*  But there is this decision that people have to make,
+*  which is, okay, if I have the sort of latent capability
+*  to do this, is this actually what I want
+*  to spend my life doing?
+*  And do I wanna go through the stress
+*  and the pain and the trauma, right?
+*  And the anxiety, right?
+*  And the risk of failure, right?
+*  And so do I really want to?
+*  Once in a while, you run into somebody
+*  who's just like, can't do it any other way.
+*  Like they just have to.
+*  Who's an example of that?
+*  I mean, Elon's the paramount example of our time.
+*  And I bring him up in part
+*  because he's such an obvious example,
+*  but in part because he's talked about this
+*  in interviews where he basically says,
+*  he's like, I can't turn it off.
+*  Like, the ideas come, I have to pursue them, right?
+*  It's why he's like running five companies at the same time
+*  and like working on a sixth, right?
+*  It's just like, he can't turn it off.
+*  You know, look, there's a lot of other people
+*  who probably have the capability to do it,
+*  who ended up talking themselves into,
+*  or you know, whatever, events conspired
+*  to put them in a position where they did something else.
+*  Obviously there are people who try to be creative
+*  who just don't have the capability.
+*  And so there's some Venn diagram there
+*  of determinism through traits, but also choices in life.
+*  And then also of course, the situation in which they're born,
+*  the context within which they grow up,
+*  the culture, right, what their parents expect of them
+*  and so forth.
+*  And so you have to, you know,
+*  you kind of get all the way through this.
+*  You have to thread all these needles kind of
+*  at the same time.
+*  Do you think there are folks out there
+*  that meet these criteria who are disagreeable,
+*  but that can feign agreeableness?
+*  You know, that can,
+*  for those just listening, Mark just raised his right hand.
+*  Hello, Andrew.
+*  In other words, that can sort of,
+*  phrase that comes to mind,
+*  maybe because I can relate to a little bit,
+*  they sneak up through the system,
+*  meaning they behave ethically
+*  as it relates to the requirements of the system.
+*  They're not breaking laws or breaking rules.
+*  In fact, quite the opposite,
+*  they're paying attention to the rules
+*  and following the rules until they get to a place
+*  where being disagreeable feels less threatening
+*  to their overall sense of security.
+*  Yeah, I mean, look,
+*  the really highly competent people
+*  don't have to break laws, right?
+*  Like it's the, there was this,
+*  there was this myth, you know,
+*  that sort of happened around the movie, The Godfather.
+*  And then there was this character, Meyer Lansky,
+*  you know, who's like ran basically the mafia,
+*  you know, 50, 60, 70 years ago.
+*  And there was this great line of like,
+*  well, Meyer Lansky had only like applied himself
+*  to running General Motors.
+*  He would have been the best CEO of all time.
+*  It's like, no, not really, right?
+*  Like the people who are like great
+*  at running the big companies,
+*  they don't have to be mob bosses.
+*  They don't have to like break laws.
+*  They can, you know, they can work.
+*  They're smart and sophisticated enough
+*  to be able to work inside the system.
+*  You know, they don't need to take the easy out.
+*  So I don't think there's any implication
+*  that they have to, you know,
+*  that they have to break laws.
+*  That said, they have to break norms, right?
+*  And specifically the thing,
+*  this is probably the thing that gets missed the most
+*  because the process of innovating,
+*  the process of creating something new,
+*  like once it works, like the stories get retconned,
+*  as they say in comic books.
+*  So the stories get adapted to where it's like,
+*  it was inevitable all along.
+*  You know, everybody always knew that this was a good idea.
+*  You know, the person has won all these awards.
+*  Society embraced them.
+*  And invariably, if you were with them
+*  when they were actually doing the work,
+*  or if you actually get a couple drinks into them
+*  and talk about it, it'd be like, no,
+*  that's not how it happened at all.
+*  They faced a wall of skepticism,
+*  just like a wall of basically social,
+*  you know, essentially denial.
+*  No, this is not gonna work.
+*  No, I'm not gonna join your lab.
+*  No, I'm not gonna come work for your company.
+*  No, I'm not gonna buy your product, right?
+*  No, I'm not gonna meet with you.
+*  And so they get just like tremendous social resistance.
+*  So they're not getting positive feedback
+*  from their social network,
+*  the way that more agreeable people need to have, right?
+*  And this is why agreeableness is a problem for innovation.
+*  If you're agreeable,
+*  you're gonna listen to the people around you.
+*  They're gonna tell you that new ideas are stupid.
+*  Right, end of story.
+*  You're not gonna proceed.
+*  And so I would put it more on like,
+*  they need to be able to deal with social discomfort
+*  to the level of ostracism,
+*  or at some point they're gonna get shaken out
+*  and they're just gonna quit.
+*  Do you think that people that meet these criteria
+*  do best by banding with others
+*  that meet these criteria early?
+*  Or is it important that they form this deep sense of self,
+*  like the ability to cry oneself to sleep at night
+*  or, you know, lie in the fetal position
+*  worrying that things aren't going to work out
+*  and then still get up the next morning
+*  and get right back out there?
+*  Right, so Sean Parker has the best line, by the way,
+*  on this, he says, you know, being an entrepreneur,
+*  being a creator is like, you know,
+*  getting punched in the face like over and over again.
+*  He said, eventually you start to like
+*  the taste of your own blood.
+*  And I love that line
+*  because it makes everybody like massively uncomfortable.
+*  Right, but it gives you a sense of like
+*  how basically painful the process is.
+*  If you talk to any entrepreneur, you know,
+*  who's been through it about that,
+*  they're like, oh yeah, that's exactly what it's like.
+*  So there is a big individual component to it.
+*  But look, it can be very lonely, right?
+*  And especially, you know, very hard, I think, to do this
+*  if nobody around you is trying to do anything
+*  even remotely similar, right?
+*  And if you're getting just universally negative responses,
+*  like, you know, very few people, I think,
+*  very few people have the ego strength
+*  to be able to survive that for years.
+*  So I do think there's a huge advantage.
+*  And this is why you do see clusters.
+*  There's a huge advantage to clustering, right?
+*  And so you have, and you know, throughout history,
+*  you've had this clustering effect, right?
+*  You had, you know, clustering of the great artists
+*  and sculptors and Renaissance Florence, you know,
+*  you have the clustering of the philosophers of Greece.
+*  You have the clustering of tech people in Silicon Valley.
+*  You have the clustering of creative, you know,
+*  arts, movie, TV people in Los Angeles, right?
+*  And so forth and so on, you know, for, you know,
+*  there's always a scene, right?
+*  There's always like a nexus and a place
+*  where people come together, you know,
+*  for these kinds of things.
+*  So generally speaking, like,
+*  if somebody wants to work in tech,
+*  they're gonna be much better off being around a lot of people
+*  who are trying to do that kind of thing
+*  than they are in a place where nobody else is doing it.
+*  Having said that, the clustering has,
+*  it can have downsides, it can have side effects.
+*  And you put any group of people together
+*  and you do start to get group think,
+*  even among people who are individually very disagreeable.
+*  And so these same clusters
+*  where you get these very idiosyncratic people,
+*  they do have fads and trends just like every place else,
+*  right?
+*  And so they get wrapped up in their own social dynamics.
+*  And the good news is the social dynamic in those places
+*  is usually very forward looking, right?
+*  And so it's usually like, you know, it's, I don't know,
+*  it's like a herd of iconoclasts
+*  looking for the next big thing, right?
+*  So iconoclasts looking for the next big thing,
+*  that's good.
+*  The herd part, right?
+*  That's what you gotta be careful of.
+*  So even when you're in one of these environments,
+*  you have to be careful that you're not getting sucked
+*  into the group think too much.
+*  When you say group think, do you mean excessive friction
+*  due to pressure testing each other's ideas
+*  to the point where things just don't move forward?
+*  Or are you talking about group think
+*  where people start to form a consensus
+*  or the self belief that, gosh, we are so strong
+*  because we are so different.
+*  Can we better define group think?
+*  It's actually less either one of,
+*  those things both happen and those are good.
+*  I was gonna say that those are good.
+*  The part of group think I'm talking about is just like,
+*  we all basically zero in.
+*  We just end up zeroing in on the same ideas, right?
+*  In Hollywood, there's this classic thing.
+*  It's like, there are years where there's all this
+*  and there's like a lot of volcano movies.
+*  It's like, why are there all these volcano movies?
+*  And it's just like, I don't know,
+*  there was just something in the gestalt, right?
+*  There was just something in the air.
+*  You know, look, Silicon Valley has this.
+*  You know, there are moments in time where you'll have these,
+*  it's like the old thing, like,
+*  what's the difference between a fad and a trend, right?
+*  You know, the fad is the trend that doesn't last, right?
+*  And so, you know, Silicon Valley is subject to fads
+*  and both fads and trends just like any place else.
+*  Right, in other words, you take smart,
+*  disagreeable people, you cluster them together.
+*  They will act like a herd, right?
+*  They will end up thinking the same things
+*  unless they try very hard not to.
+*  You've talked about these personality traits
+*  of great innovators before,
+*  and we're talking about them now.
+*  You invest in innovators, you try and identify them,
+*  and you are one, so you can recognize these traits.
+*  Here, I'm making the presumption
+*  that you have these traits, indeed you do.
+*  We'll just get that out of the way.
+*  Have you observed people trying to feign these traits?
+*  And are there any specific questions
+*  or behaviors that are a giveaway?
+*  That they're pretending to be the young Steve Jobs
+*  or that they're pretending to be the young Henry Ford?
+*  Pick your list of other names
+*  that qualify as authentic, legitimate innovators.
+*  We won't name names of people
+*  who have tried to disguise themselves as true innovators,
+*  but what are some of the litmus tests?
+*  And I realize here that we don't want you to give these away
+*  to the point where they lose their potency,
+*  but if you could share a few of those.
+*  Yeah, no, that's good.
+*  We're actually pretty open book on this.
+*  So yeah, so first of all, yes,
+*  so there are people who definitely try to come in
+*  and basically present as being something that they're not.
+*  And they've read all the books,
+*  they will have listened to this interview, right?
+*  They study everything and they construct a facade
+*  and they come in and present as something they're not.
+*  I would say the amount of that
+*  varies exactly correlated to the NASDAQ.
+*  And so when stock prices are super low,
+*  you actually get the opposite.
+*  When stock prices are super low,
+*  people get too demoralized
+*  and people who should be doing it basically give up
+*  because they just think that whatever,
+*  whatever, the industry's over, the trend is over,
+*  whatever, it's all hopeless.
+*  And so you get this flushing thing.
+*  Nobody ever shows up at a stock market low
+*  and says like, I'm the new next big thing
+*  and doesn't really wanna do it
+*  because there are higher status.
+*  The kinds of people who do the thing
+*  that you're talking about,
+*  they're fundamentally oriented for social status.
+*  They're trying to get the social status
+*  without actually the substance
+*  and there are always other places to go get social status.
+*  So after 2000, the joke was,
+*  so when I got to Silicon Valley in 93, 94,
+*  the valley was dead.
+*  We talked about that.
+*  By 98, it was roaring
+*  and you had a lot of these people showing up
+*  who were basically had a lot of people showing up
+*  with certain kind of stories.
+*  2000 market crash, by 2001,
+*  the joke was that there were these terms B to C and B to B.
+*  And in 1998, they meant B to C meant business to consumer
+*  and B to B meant business to business,
+*  which is two different kinds of business models
+*  for internet companies.
+*  By 2001, B to B meant back to banking
+*  and B to C meant back to consulting, right?
+*  Which is the high status people,
+*  the people oriented to status who showed up to be in tech
+*  were like, yeah, screw it.
+*  Like this is over, stick a fork in it.
+*  I'm gonna go back to Goldman Sachs or go back to McKinsey,
+*  where I can be high status.
+*  You get this flushing kind of effect
+*  that happens in a downturn.
+*  That said, in a big upswing,
+*  yeah, you get a lot of people showing up
+*  with a lot of, let's say public persona
+*  without the substance to back it up.
+*  So the way we stress that,
+*  I can actually say exactly how we test for this,
+*  because the test exactly addresses the issue
+*  in a way that is impossible to fake.
+*  And it's actually the same way homicide detectives
+*  try to find out if you've actually,
+*  if you're innocent or whether you've killed somebody,
+*  it's the same tactic,
+*  which is you ask increasingly detailed questions.
+*  And so the way a homicide cop does this is,
+*  what were you doing last night?
+*  Oh, I was at a movie.
+*  Well, which movie?
+*  Oh, which theater?
+*  Okay, which seat did you sit in?
+*  Okay, what was the end of the movie?
+*  And you ask increasingly detailed questions
+*  and people have trouble,
+*  at some point people have trouble making up
+*  and things just fuzz into just kind of obvious bullshit.
+*  And basically fake founders
+*  basically have the same problem.
+*  They're able to relay a conceptual theory
+*  of what they're doing that they've kind of engineered.
+*  But as they get into the details, it just fuzzes out.
+*  Whereas the true people that you want to back
+*  that can do it, basically what you find is
+*  they've spent five or 10 or 20 years
+*  obsessing on the details
+*  of whatever it is they're about to do.
+*  And they're so deep in the details
+*  that they know so much more about it than you ever will.
+*  And in fact, the best possible reaction
+*  is when they get mad, right?
+*  Which is also what the homicide cops say, right?
+*  What you actually want is you actually want the emotional
+*  response of like, I can't believe
+*  that you're asking me questions this detailed
+*  and specific and picky.
+*  And they kind of figure out what you're doing.
+*  And then they get upset.
+*  Like that's good.
+*  That's perfect, right?
+*  But they have to prove it themselves
+*  in the sense of like, they have to be able
+*  to answer the questions in great detail.
+*  Do you think that people that are able to answer
+*  those questions in great detail
+*  have actually taken the time to systematically think
+*  through the if-ands of all the possible implications
+*  of what they're going to do.
+*  And they have a specific vision in mind
+*  of how things need to turn out or will turn out.
+*  Or do you think that they have a vision
+*  and it's a no matter what it will work out
+*  because the world will sort of bend around it?
+*  I mean, in other words,
+*  do you think that they place their vision in context
+*  or they simply have a vision
+*  and they have that tunnel vision of that thing
+*  and that's gonna be it?
+*  Let's use you for an example with Netscape.
+*  I mean, that's how I first came to know your name.
+*  When you were conceiving Netscape,
+*  did you think, okay, there's this search engine
+*  and this browser and it's going to be this thing
+*  that looks this way and works this way and feels this way.
+*  Did you think that?
+*  And also think about, you know,
+*  that there was going to be a gallery of other search engines
+*  and it would fit into that landscape of other search engines
+*  or were you just projecting your vision of this thing
+*  as this unique and special brainchild?
+*  Let me give the general answer
+*  and then we can talk about the specific examples.
+*  So the general answer is with entrepreneurship,
+*  creativity, innovation is what economists call
+*  decision-making under uncertainty.
+*  And so in both parts, that's important.
+*  Decision-making, like you're gonna make a ton of decisions
+*  because you have to decide what to do, what not to do.
+*  And then uncertainty, which is like,
+*  the world's a complicated place, right?
+*  And in mathematical terms,
+*  the world is a complex adaptive system with feedback loops
+*  and like, it's really, I mean, it's, you know,
+*  Isaac Asimov wrote in his novels,
+*  he wrote about this field called psychohistory, right?
+*  Which is the idea that there's like a supercomputer
+*  that can predict the future of human affairs, right?
+*  And it's like, we don't have that.
+*  Not yet. Not yet.
+*  Well, we'll get to that later.
+*  We certainly don't have that yet.
+*  And so you're just dealing, you know,
+*  military commanders call this the fog of war, right?
+*  You're just dealing with a situation
+*  where the number of variables are just off the charts.
+*  It's all these other people, right?
+*  And so you're dealing with people
+*  who are inherently unpredictable
+*  making all these decisions in different directions.
+*  And then the whole system is combinatorial,
+*  which is these people are colliding with each other,
+*  influencing their decisions.
+*  And so, I mean, look, the most straightforward
+*  kind of way to think about this is, it's just, it's amazing.
+*  Like anybody who believes in economic central planning,
+*  it always blows my mind,
+*  because it's just like, try opening a restaurant.
+*  Like, try just opening a restaurant on the corner down here
+*  and like 50, 50 odds the restaurant's gonna work.
+*  And like, all you have to do to run a restaurant
+*  is to let most restaurants fail, right?
+*  And so, and restaurant people run restaurants
+*  are like pretty smart.
+*  Like, they're, you know, they're,
+*  they're usually thinking about these things very hard.
+*  They all wanna succeed.
+*  And it's hard to do that.
+*  And so to start a tech company
+*  or to start an artistic movement or to, or to fight a war,
+*  like you're just going into this, like, basically,
+*  about conceptual battleground or military terms,
+*  real battleground where there's just like incredible levels
+*  of complexity branching future paths.
+*  And so there's nothing, it's, you know,
+*  there's nothing predictable.
+*  And so what we look for is basically the sort of drop,
+*  the really good innovators,
+*  they've got a drive to basically be able to cope with that
+*  and deal with that.
+*  And they basically do that in two steps.
+*  So one is they try to pre-plan as much as they possibly can.
+*  And we call that the process of navigating the,
+*  we call the idea maze, right?
+*  And so the idea maze basically is,
+*  I've got this general idea
+*  and it might be the internet's gonna work
+*  or search or whatever.
+*  And then it's like, okay, in their head,
+*  they have thought through of like,
+*  okay, if I do it this way, that way, this third way,
+*  here's what will happen.
+*  Then I have to do that.
+*  Then I have to do this.
+*  Then I have to bring in somebody to do that.
+*  Here's the technical challenge I'm gonna hit.
+*  And they've got in their heads as best anybody could,
+*  they've got as complete a sort of a map of possible futures
+*  as they could possibly have.
+*  And this is where I say,
+*  when you ask them increasing detailed questions,
+*  that's what you're trying to kind of get them
+*  to kind of chart out is, okay,
+*  how far ahead have you thought?
+*  And how much are you anticipating
+*  all of the different twists and turns
+*  that this is gonna take?
+*  Okay, so then they start on day one.
+*  And then of course, what happens is,
+*  now they're in it.
+*  Now they're in the fog of war, right?
+*  They're in future uncertainty.
+*  And now that idea maze is maybe not helpful practically,
+*  but now they're gonna be basically constructing
+*  on the fly day by day as they learn
+*  and discover new things.
+*  And as the world changes around them.
+*  And of course, it's a feedback loop
+*  because they're gonna change,
+*  if their thing starts to work,
+*  it's gonna change the world.
+*  And then the fact the world is changing
+*  is gonna cause their plan to change as well.
+*  And so, yeah, the great ones basically,
+*  they course correct,
+*  the great ones course correct every single day.
+*  They take stock of what they've learned.
+*  They modified the plan.
+*  The great ones tend to think in terms of hypotheses, right?
+*  Like a scientific sort of mentality,
+*  which is they tend to think, okay,
+*  I'm gonna try this,
+*  I'm gonna go into the world,
+*  I'm gonna announce that I'm doing this for sure.
+*  I'm gonna say like, this is my plan.
+*  Then I'm gonna tell all my employees that,
+*  I'm gonna tell all my investors that,
+*  I'm gonna put a stake in there,
+*  that's my plan, and then I'm gonna try it.
+*  And even though I sound like I have complete certainty,
+*  I know that I need to test to find out
+*  whether it's gonna work.
+*  And if it's not,
+*  then I have to go back to all those same people
+*  and I have to say, well, actually,
+*  we're not going left, we're going right.
+*  And they have to run that loop thousands of times
+*  to get through the other side.
+*  And this led to the creation of this great term pivot,
+*  which has been very helpful in our industry,
+*  because the word when I was young,
+*  the word we used was fuck up.
+*  And pivot sounds like so much better.
+*  Sounds like so much more professional.
+*  But yeah, you make mistakes.
+*  It's just too complicated to understand.
+*  You course correct, you adjust, you evolve.
+*  Often these things, at least in business,
+*  the businesses that end up working really well
+*  tend to be different than the original plan.
+*  But that's part of the process of a really smart founder
+*  basically working their way through reality
+*  as they're executing their plan.
+*  The way you're describing this
+*  has parallels to a lot of models in biology
+*  and the practice of science, you know, random walks,
+*  but that aren't truly random,
+*  pseudo random walks in biology, et cetera.
+*  But one thing that is becoming clear
+*  from the way you're describing this is that
+*  I could imagine a great risk to early success.
+*  So for instance, somebody develops a product,
+*  people are excited by it,
+*  they start to implement that product,
+*  but then the landscape changes
+*  and they don't learn how to pivot
+*  to use the less profane version of it, right?
+*  They don't learn how to do that.
+*  In other words, and I think of everything these days
+*  or most everything in terms of reward schedules
+*  and dopamine reward schedules,
+*  because that is the universal currency of reward.
+*  And so when you talk about the Sean Parker quote
+*  of learning to enjoy the taste of one's own blood,
+*  that is very different
+*  than learning to enjoy the taste of success, right?
+*  It's about internalizing success
+*  as a process of being self-determined
+*  and less agreeable, et cetera.
+*  In other words, building up of those five traits
+*  becomes the source of dopamine perhaps
+*  in a way that's highly adaptive.
+*  So on the outside, we just see the product,
+*  the end product, the iPhone, the Mac book,
+*  the Netscape, et cetera.
+*  But I have to presume, and I'm not a psychologist,
+*  but I have done neurophysiology
+*  and I've studied the dopamine system
+*  enough to know that what's being rewarded
+*  in the context of what you're describing
+*  sounds to be a reinforcement of those five traits,
+*  rather than, oh, it's going to be this particular product
+*  or the company's gonna look this way
+*  or the logo is gonna be this or that.
+*  That all seems like the peripheral
+*  to what's really going on,
+*  that great innovators are really in the process
+*  of establishing neural circuitry
+*  that is all about reinforcing the me
+*  and the process of being me.
+*  Yeah.
+*  Yeah, so this goes to, yeah,
+*  so this is like extrinsic versus intrinsic motivation.
+*  So Steve Jobs' kind of Zen version of this, right,
+*  or the sort of hippie version of this
+*  was the journey is the reward, right?
+*  He always told his employees that.
+*  It's like, look, everybody thinks in terms
+*  of these big public markers like the stock price
+*  or the IPO or the product launch or whatever.
+*  He's like, no, it's actually the process itself
+*  is the point, right?
+*  And to your point, if you have that mentality,
+*  then that's an intrinsic motivation,
+*  not an extrinsic motivation.
+*  And so that's the kind of intrinsic motivation
+*  that can keep you going for a long time.
+*  Another way to think about it
+*  is competing against yourself, right?
+*  It's like, can I get better at doing this, right?
+*  And can I prove to myself that I can get better?
+*  There's also a big social component to this.
+*  And this is one of the reasons why Silicon Valley
+*  punches so far above its weight as a place.
+*  There's a psychological component,
+*  which also goes to the comparison set.
+*  So a phenomenon that we've observed over time
+*  is the leading tech company in any city
+*  will aspire to be as large as the previous
+*  leading tech company in that city,
+*  but often not larger, right?
+*  Because they sort of have to have a model of success.
+*  And as long as they beat that level of success,
+*  they've kind of checked the box.
+*  Like they've made it.
+*  But then in contrast, you're in Silicon Valley
+*  and you look around and it's just like Facebook
+*  and Cisco and Oracle and, you know,
+*  Hewlett Packard and-
+*  Gladiators.
+*  Yeah, and you're just like looking at these giants.
+*  And many of them are still,
+*  Mark Zuckerberg's still going to work every day
+*  and trying to do, you know.
+*  And so these people are like,
+*  the role models are like alive, right?
+*  And they're like right there, right?
+*  And it's so clear how much better they are
+*  and how much bigger their accomplishments are.
+*  And so what we find is young founders in that environment
+*  have much greater aspirations, right?
+*  Because they just, again, maybe at that point,
+*  maybe it's the social status,
+*  maybe there's an extrinsic component to that.
+*  But maybe it helps calibrate that internal system
+*  to basically say actually, you know,
+*  no, the opportunity here is not to build a local,
+*  you know, what you may call local maximum form of success,
+*  but let's build to a global maximum form of success,
+*  which is something as big as we possibly can.
+*  Ultimately, the great ones are probably driven
+*  more internally than externally.
+*  When it comes down to it.
+*  And that is where you get this phenomenon
+*  where you get people who are, you know,
+*  extremely successful and extremely wealthy
+*  who very easily could punch out
+*  and move to Fiji and just call it.
+*  And they're still working 16 hour days, right?
+*  And so obviously something explains that
+*  that has nothing to do with external rewards.
+*  And I think it's an internal thing.
+*  As many of you know,
+*  I've been taking AG1 daily since 2012.
+*  So I'm delighted that they're sponsoring the podcast.
+*  AG1 is a vitamin mineral probiotic drink
+*  that's designed to meet
+*  all of your foundational nutrition needs.
+*  Now, of course, I try to get enough servings
+*  of vitamins and minerals through whole food sources
+*  that include vegetables and fruits every day.
+*  But oftentimes I simply can't get enough servings.
+*  But with AG1, I'm sure to get enough vitamins and minerals
+*  and the probiotics that I need.
+*  And it also contains adaptogens to help buffer stress.
+*  Simply put, I always feel better when I take AG1.
+*  I have more focus and energy and I sleep better.
+*  And it also happens to taste great.
+*  For all these reasons, whenever I'm asked
+*  if you could take just one supplement, what would it be?
+*  I answer AG1.
+*  If you'd like to try AG1,
+*  go to drinkag1.com slash Huberman to claim a special offer.
+*  They'll give you five free travel packs
+*  plus a year supply of vitamin D3K2.
+*  Again, that's drinkag1.com slash Huberman.
+*  I've heard you talk a lot about the inner landscape,
+*  the inner psychology of these folks.
+*  And I appreciate that we're going even deeper
+*  into that today.
+*  And we will talk about the landscape
+*  around whether or not Silicon Valley or New York,
+*  whether or not there are specific cities
+*  that are ideal for certain types of pursuits.
+*  I think there was an article written by Paul Graham
+*  some years ago about the conversations
+*  that you overhear in a city will tell you everything
+*  you need to know about whether or not you belong there
+*  in terms of your professional pursuits.
+*  Some of that's changed over time
+*  and now we should probably add Austin to the mix
+*  because it was written some time ago.
+*  In any event, I want to return to that,
+*  but I want to focus on an aspect of this intrinsic
+*  versus extrinsic motivators in terms of something
+*  that's a bit more cryptic,
+*  which is one's personal relationships.
+*  If I think about the catalog of innovators
+*  in Silicon Valley, some of them, like Steve Jobs,
+*  had complicated personal lives,
+*  romantic personal lives early on.
+*  And it sounds like he worked it out.
+*  I don't know, I wasn't their couples therapist,
+*  but when he died, he was in a marriage
+*  that for all the world seemed like a happy marriage.
+*  You also have examples of innovators
+*  who have had many partners, many children
+*  with other partners.
+*  Elon comes to mind.
+*  I don't think I'm disclosing anything
+*  that isn't already obvious.
+*  Those could have been happy relationships
+*  and just had many of them.
+*  But the reason I'm asking this is you can imagine
+*  that for the innovator, the person with these traits
+*  who's trying to build up this thing, whatever it is,
+*  that having someone or several people in some cases
+*  who just truly believe in you
+*  when the rest of the world may not believe in you yet
+*  or at all could be immensely powerful.
+*  And we have examples from cults that embody this.
+*  We have examples from politics.
+*  We have examples from tech innovation and science.
+*  And I've always been fascinated by this
+*  because I feel like it's the more cryptic
+*  and yet very potent form of allowing someone
+*  to build themselves up.
+*  It's a combination of inner psychology
+*  and extrinsic motivation because obviously
+*  if that person were to die or leave them
+*  or cheat on them or pair up with some other innovator,
+*  which we've seen several times recently and in the past,
+*  it can be devastating to that person.
+*  But what are your thoughts on the role of personal
+*  and in particular romantic relationship
+*  as it relates to people having an idea
+*  and their feeling that they can really bring that idea
+*  to fruition in the world?
+*  It's a real mixed bag.
+*  You have lots of examples in all directions.
+*  And I think it's something like following.
+*  So first is we talked about the personality traits
+*  of these people.
+*  They tend to be highly disagreeable.
+*  Doesn't foster a good romantic relationship.
+*  Highly disagreeable people can be difficult
+*  to be in a relationship.
+*  I may have heard of that once or twice.
+*  A friend may have given me that example.
+*  Yeah, right?
+*  And maybe you just need to find the right person
+*  who like how comments that and is willing to,
+*  there's a lot of relationships where like,
+*  it's always this question about relationships, right?
+*  Which is, do you wanna have the same personality,
+*  growth profile, the same behavioral traits
+*  basically as your partner?
+*  Do you actually wanna have, is it an opposite thing?
+*  And I'm sure you've seen this.
+*  There are relationships where you'll have somebody
+*  who's highly disagreeable,
+*  who's paired with somebody who's highly agreeable.
+*  And actually we're so great.
+*  Because one person just gets to be on their soapbox
+*  all the time and the other person is just like, okay.
+*  Right?
+*  And it's fine, right?
+*  It's fine, it's good.
+*  You put two disagreeable people together,
+*  maybe sparks fly and they have great conversations
+*  all the time and maybe they come to hate each other.
+*  So anyway, so these people,
+*  if you're gonna be with one of these people,
+*  you're fishing out of the disagreeable end of the pond.
+*  And again, when I say disagreeable,
+*  I don't mean, these are normal distributions.
+*  I don't mean like 60% disagreeable or 80% disagreeable.
+*  The people we're talking about are 99.99% disagreeable,
+*  right?
+*  So these are ornery people.
+*  So part of it's that.
+*  And then of course they have the other personality traits,
+*  right?
+*  They're super conscientious, they're super driven.
+*  As a consequence, they tend to work really hard.
+*  They tend to not have a lot of time for family vacations
+*  or other things.
+*  And they don't enjoy them if they're forced to go on them.
+*  And so again, that kind of thing can fray at a relationship.
+*  So there's a fair amount in there that's loaded.
+*  Like somebody's gonna partner with one of these people
+*  needs to be signed up for the ride.
+*  And that's a hard thing.
+*  It's a hard thing to do.
+*  Or you need a true partnership with two of these,
+*  which is also hard to do.
+*  So I think that's part of it.
+*  And then look, I think a big part of it is,
+*  people achieve a certain level of success
+*  and either in their own minds or publicly.
+*  And then they start to be able to get away with things,
+*  right?
+*  And they start to be able to say, well, okay,
+*  now we're rich and successful and famous.
+*  And now I deserve, you know,
+*  and this is where you get into,
+*  I view this now in the realm of personal choice, right?
+*  You get into this thing where people start to think
+*  that they deserve things.
+*  And so they start to behave in very bad ways.
+*  And then they blow up their personal worlds
+*  as a consequence.
+*  And maybe they regret it later and maybe they don't, right?
+*  It's always a question.
+*  So yeah, so I think there's that.
+*  And then I don't know, like, yeah, some people just need,
+*  maybe the other part of it is,
+*  some people just need more emotional support than others.
+*  And I don't know that that's a big,
+*  I don't know that that tilts either way.
+*  Like I know some of these people
+*  who have like great loving relationships
+*  and seem to draw very much on having
+*  this kind of firm foundation to rely upon.
+*  And then I know other people who are just like
+*  their personal lives are just a continuous train wreck
+*  and it doesn't seem to matter.
+*  Like professionally, they just keep doing
+*  what they're doing.
+*  And maybe there's, maybe we could talk here about like,
+*  you know, whatever is the personality trait
+*  for risk taking, right?
+*  Some people are so incredibly risk prone
+*  that they need to take risk in all aspects
+*  of their lives at all times.
+*  And if part of their life gets stable,
+*  they find a way to blow it up.
+*  And that's some of these people
+*  you could describe in those terms also.
+*  Yeah, let's talk about that.
+*  Because I think risk taking and sensation seeking
+*  is something that fascinates me for my own reasons
+*  and in my observations of others.
+*  Does it dovetail with these five traits
+*  in a way that can really serve innovation
+*  in ways that can benefit everybody?
+*  The reason I say to benefit everybody
+*  is because there is a view of how we're painting
+*  this picture of the innovator
+*  as this like really cruel person.
+*  But oftentimes what we're talking about
+*  are innovations that make the world far better
+*  for billions of people.
+*  Yeah, that's right.
+*  Yeah, and by the way,
+*  everything we're talking about also
+*  is not just in tech or science or in business.
+*  It's also, everything we're also talking about
+*  is true for the arts, right?
+*  So now you have a history of like artistic expression
+*  as you know, you have people
+*  with all these same kinds of traits.
+*  Well, I was thinking about Picasso
+*  and his regular turnover of lovers and partners.
+*  And he was very open about the fact
+*  that it was one of the sources
+*  of his productivity slash creativity.
+*  He wasn't shy about that.
+*  I suppose if he were alive today,
+*  it might be a little bit different.
+*  He might be judged a little differently.
+*  Right, or that was his story for behaving in a pattern
+*  that was very awful for the people around him
+*  and he didn't care, right?
+*  Right, maybe they left him.
+*  Yeah, like, you know, who knows, right?
+*  So, you know, puts and takes to all this.
+*  But no, okay, so I have a theory.
+*  So here's a theory.
+*  This is one of these, I keep a list of things
+*  that will get me kicked out of a dinner party
+*  and at a topic at any given point in time.
+*  Do you read it before you go in?
+*  Yeah, I just, I, yeah.
+*  So I have it on auto recall
+*  so that I can get out of these things.
+*  But so here's the thing that can get me kicked out
+*  of a dinner party, especially these days.
+*  So think of the kind of person where it's like very clear
+*  that they're like super high, to your point,
+*  there's somebody who's super high output
+*  in whatever domain they're in.
+*  They've done things that have fundamentally changed the world.
+*  They've brought new, whether it's businesses
+*  or technologies or works of art,
+*  you know, entire schools of creative expression
+*  in some cases to the world.
+*  And then at a certain point,
+*  they blow themselves to smithereens, right?
+*  And they do that either through like a massive
+*  like financial scandal.
+*  They do that through a massive personal breakdown.
+*  They do that through some sort of public expression
+*  that causes them a huge amount of problems.
+*  You know, they say the wrong thing, maybe not once,
+*  but several hundred times
+*  and blow themselves to smithereens.
+*  And there's this, you know, there's this kind of arc.
+*  There's this moral arc that people kind of want to apply,
+*  which it's like the Icarus, you know,
+*  flying too close to the sun and, you know, he had it coming
+*  and he needed to keep his ego under control.
+*  And you get kind of this, you know,
+*  kind of this judgment that applies.
+*  So I have a different theory on this.
+*  So the term I use to describe these people,
+*  and a lot of, and by the way,
+*  a lot of other people who don't actually blow themselves up,
+*  but get close to it,
+*  which is a whole nother set of people,
+*  I call them martyrs to civilizational progress, right?
+*  So, you know, we're backwards, civilizational progress.
+*  So look, the only way civilization gets moved forward
+*  is when people like this do something new, right?
+*  Because civilization as a whole does not do new things,
+*  right?
+*  Groups of people do not do new things, right?
+*  These things don't happen automatically.
+*  Like by default, nothing changes.
+*  The only way civilizational change
+*  on any of these axes ever happens
+*  is because one of these people stands up and says,
+*  no, no, I'm gonna do something different
+*  than what everybody else has ever done before.
+*  So this is progress.
+*  Like this is actually how it happens.
+*  Sometimes they get lionessured or awarded.
+*  Sometimes they get crucified.
+*  Sometimes the crucification is literal.
+*  Sometimes it's just symbolic,
+*  but they are those kinds of people.
+*  And then murders.
+*  When they go down in flames, they have,
+*  and again, this is where it really screws
+*  the people's moral judgments,
+*  because everybody wants to have this sort of
+*  super clear story of like, okay, he did a bad thing
+*  and he was punished.
+*  And I'm like, no, no, no, no, no, no.
+*  He was the kind of person who was going to do great things
+*  and also was going to take on a level of risk
+*  and take on a level of sort of extreme behavior
+*  such that he was going to expose himself
+*  to flying too close to the sun,
+*  wings melt and crash to ground.
+*  But it's a package deal, right?
+*  The reason you have the Picasso's and the Beethoven's
+*  and all these people is because they're willing
+*  to take these extreme level of risks.
+*  They are that creative and original,
+*  not just in their art or their business,
+*  but in everything else that they do,
+*  that they will set themselves up to be able to fail.
+*  Psychologic, a psychologist would probably,
+*  a psychiatrist would probably say,
+*  maybe to what extent do they actually have a death wish?
+*  Do they actually, at some point,
+*  do they wanna punish themselves?
+*  Do they wanna fail?
+*  I don't know.
+*  But you see this, they deliberately move themselves
+*  too close to the sun.
+*  And you can see it when it's happening
+*  because if they get too far from the sun,
+*  they deliberately move back towards it, right?
+*  They come right back and they want the risk.
+*  And so anyway, yeah, so murders to civilization progress.
+*  This is how progress happens.
+*  When these people crash and burn,
+*  the natural inclination is to judge them morally.
+*  I tend to think we should basically say, look,
+*  and I don't even know if this means
+*  giving them a moral pass or whatever,
+*  but it's like, look, this is how civilization progresses
+*  and we need to at least understand
+*  that there's a self-sacrificial aspect to this
+*  that may be tragic and often is tragic,
+*  but it is quite literally self-sacrificial.
+*  Are there any examples of great innovators
+*  who were able to compartmentalize their risk-taking
+*  to such a degree that they had
+*  what seemed to be a morally impeccable life
+*  in every domain except in their business pursuits?
+*  Yeah, that's right.
+*  Some people are very highly controlled like that.
+*  Some people are able to very narrowly,
+*  and I don't really wanna set myself an example
+*  on a lot of this, but I will tell you as an example,
+*  I will never use debt in business, number one.
+*  Number two, I have the most passive personal life
+*  you can imagine.
+*  Number three, I'm the last person in the world
+*  who's ever gonna do an extreme sport.
+*  I mean, I'm not even gonna go on the sauna
+*  on the ice bath.
+*  I'm not doing any of this.
+*  I don't end up doing anything.
+*  I'm not power skiing.
+*  No obligation to do the ice bath.
+*  I'm not on the Titan.
+*  I'm not going down to see the Titanic.
+*  Thank goodness you weren't there.
+*  I'm not doing any of this.
+*  I'm not doing any of this stuff.
+*  I have no interest.
+*  I don't play golf.
+*  I don't ski.
+*  I have no interest in any of this stuff.
+*  And so, there are, and I know people like this
+*  who are very high achievers.
+*  It's just like, yeah, they're completely segmented.
+*  They're extreme risk takers in business.
+*  They're completely buttoned down on the personal side.
+*  They're completely buttoned down financially.
+*  They're scrupulous with following every rule and law
+*  you can possibly imagine,
+*  but they're still fantastic innovators.
+*  And then I know many others who are just like,
+*  their life is on fire all the time in every possible way.
+*  And whenever it looks like the fire is turning into embers,
+*  they figure out a way to like relight the fire, right?
+*  And they just really want to live on the edge.
+*  And so, I think that's maybe,
+*  I think that's an independent variable.
+*  And again, I would apply the same thing.
+*  I think the same thing applies to the arts.
+*  Classical music is an example.
+*  Like I think Bach was, as an example,
+*  one of the kind of best musicians of all time,
+*  had just a completely sedate personal life,
+*  never had any aberrant behavior at all in his personal life.
+*  Family man, tons of kids,
+*  apparently, pillar of the community, right?
+*  And so like if Bach could be Bach
+*  and yet not like burn his way through 300 mistresses
+*  or whatever, maybe you can too.
+*  So in thinking about these two different categories
+*  of innovators, those that take on tremendous risk
+*  in all domains of their life,
+*  and those that take on tremendous risk
+*  in a very compartmentalized way,
+*  I don't know what the percentages are,
+*  but I have to wonder if in this modern age
+*  of the public being far less forgivable,
+*  what I'm referring to is cancel culture,
+*  do you think that we are limiting
+*  the number of innovations in total,
+*  like by just simply frightening or eliminating
+*  an enormous category of innovators
+*  because they don't have the confidence or the means
+*  or the strategies in place to regulate.
+*  So they're just either bowing out
+*  or they're getting crossed off,
+*  they're getting canceled one by one.
+*  So do you think the public is less tolerant
+*  than they used to be or more tolerant?
+*  Well, the systems that, I'm not going to be careful here,
+*  I think the large institution systems
+*  are not tolerant of what the public tells them
+*  they shouldn't be tolerant of.
+*  And so if there's enough noise,
+*  there's enough noise in the mob,
+*  I think institutions bow out.
+*  And here I'm referring not just to,
+*  they essentially say, okay, let the cancellation proceed.
+*  Or they, and then maybe they're the gavel that comes down,
+*  but they're not the lever that got the thing going.
+*  And so I'm not just thinking about universities,
+*  I'm also thinking about advertisers,
+*  I'm thinking about the big movie houses
+*  that cancel a film that a given actor might be in
+*  because they had something in their personal life
+*  that's still getting worked out.
+*  I'm thinking about people who are in a legal process
+*  that's not yet resolved,
+*  but the public has decided they're a bad person, et cetera.
+*  My question is, are we really talking about the public?
+*  I agree with your question, and I'm gonna come back to it,
+*  but I'm gonna examine one part of your question,
+*  which is, is this really the public we're talking about?
+*  And I would just say exhibit A is,
+*  who is the current front runner
+*  for the Republican nomination today?
+*  The public, at least on one side of the political aisle,
+*  seems very on board, right?
+*  Number two, like, look, there's a certain musician
+*  who flew too close to the sun,
+*  flew himself to smithereens,
+*  he's still hitting all-time highs on music streams
+*  every month, the public seems fine.
+*  I think the public might, I would argue the public
+*  is actually more open to these things
+*  than it actually maybe ever has been.
+*  And we could talk about why that's the case.
+*  I think it's a differentiation,
+*  and this is what your question was aiming at,
+*  but it's a differentiation between the public
+*  and the elites.
+*  And so my view is everything that you just described
+*  is an elite phenomenon,
+*  and actually the public is very much not on board with it.
+*  Interesting.
+*  And so what's actually happening is the division,
+*  what's happened is the public and the elites have gapped out.
+*  The public is more forgiving
+*  of what previously might've been considered
+*  kind of ever-in-extreme behavior.
+*  F. Scott Fitzgerald, there are no second acts
+*  in American lives, it turns out completely wrong.
+*  It turns out there are second acts, third acts, fourth acts.
+*  Apparently you can have a limited number of acts.
+*  The public is actually up for it.
+*  Yeah, I mean, I think of somebody like Mike Tyson, right?
+*  I feel like he's every, you know, his life exemplifies
+*  everything that's amazing and great
+*  and also terrible about America.
+*  If we took Mike Tyson to dinner tonight at any restaurant
+*  anywhere in the United States, what would happen?
+*  He would be loved.
+*  Oh, he would be like...
+*  Adored.
+*  He would be, the outpouring of enthusiasm and passion
+*  and love would be incredible.
+*  Like it would be unbelievable.
+*  This is a great example.
+*  Like it just like the, and again,
+*  I'm not even gonna draw more.
+*  I'm not even gonna say I agree with that or disagree with that.
+*  I'm just like, I think we all intuitively know
+*  that the public is just like 100%, like absolutely.
+*  Like he's a legend, like he's a legend,
+*  he's a living legend.
+*  He full-loved Mike.
+*  He's like a cultural touchstone.
+*  Absolutely.
+*  And then you see it when he shows up in movies, right?
+*  He shows, I remember the, I mean, the big breakthrough
+*  I figured this out with respect to him
+*  because I don't really follow sports,
+*  but when he showed up in that,
+*  it was that first hangover movie and he shows up.
+*  And then, you know, I was in a theater
+*  and like the audience just goes, banana's crazy.
+*  They're so excited to see him.
+*  Yeah, he evokes delight.
+*  I always say that Mike Tyson is the only person I'm aware of
+*  that can wear a shirt with his own name on it.
+*  And it somehow doesn't seem wrong.
+*  In fact, it just kind of makes you like him more.
+*  His ego feels very contoured in a way
+*  that he knows who he is and who he was.
+*  And yet there's a humbleness woven in,
+*  maybe as a consequence of all that he's been through.
+*  I don't know.
+*  But yeah, people love Mike.
+*  Public loves him.
+*  Now, exactly.
+*  Now, you know, if he shows up to like lecture at Harvard,
+*  right, like I think you're probably gonna get
+*  a different reaction.
+*  I don't know.
+*  I don't know.
+*  I mean, David Simon, you know, the guy who wrote The Wire
+*  gave a talk at Harvard.
+*  And it sounded to me based on his report of that,
+*  which is very interesting in fact,
+*  that people adore people who are connected
+*  to everybody in that way.
+*  Like I feel like everybody loves Mike from above his status,
+*  the sides, below his status.
+*  He's just sort of, he occupies this halo
+*  of love and adoration.
+*  Okay, all right.
+*  Yeah.
+*  Yeah, and then look, the other side of this is the elites.
+*  And you kind of alluded to this, so the institutions.
+*  So basically it's like the people who are like
+*  at least nominally in charge
+*  or feel like they should be in charge.
+*  Yeah, I wanna make sure we define elite.
+*  So you're not necessarily talking about people
+*  who are wealthy, you're talking about people
+*  who have authority within institutions.
+*  So the ultimate definition of an elite
+*  is who can get who fired, right?
+*  Like that's the ultimate test.
+*  Who can get who fired, boycotted, blacklisted, ostracized?
+*  Like when a push prosecuted, jailed.
+*  Like when push comes to shove, right.
+*  I think that's always the question.
+*  Who can destroy whose career?
+*  And of course you'll notice that that is heavily asymmetric
+*  when these fights play out.
+*  Like there's very clear which side can get the other
+*  the other side fired and which side can't.
+*  And so, yeah, so look, I think we live in a period of time
+*  where the elites have gotten to be extreme
+*  in a number of dimensions.
+*  And I think it's characterized by for sure
+*  extreme group think, extreme sanctimony,
+*  extreme moral, I would say, dutian,
+*  this weird sort of modern puritanism
+*  and then an extreme sort of morality
+*  of like punishment and terror
+*  against their perceived enemies.
+*  But I wanna go through that because I actually think
+*  I actually think that's a very different phenomenon.
+*  I think what's happened with the elites is very different
+*  than what's happening in the population at large.
+*  And then of course, I think there's a feedback loop in there
+*  which is I think the population at large
+*  is not on board with that program, right?
+*  I think the elites are aware that the population
+*  is not on board with that program.
+*  I think they judge the population negatively
+*  as a consequence.
+*  That causes the elites to harden their own positions.
+*  That causes them to be even more alienating
+*  to the population.
+*  And so they're, you know, they're in sort of
+*  an oppositional negative feedback loop.
+*  And yeah, it's gonna be, and you know,
+*  but again, it's a sort of question, okay,
+*  who can get who fired?
+*  And so, you know, elites are really good
+*  at getting like normal people fired, ostracized, banned,
+*  you know, hit pieces in the press, like whatever.
+*  You know, for normal people to get elites fired,
+*  they have to really light band together, right?
+*  And really mount a serious challenge,
+*  which mostly doesn't happen,
+*  but might be starting to happen in some cases.
+*  Do you think this power of the elites
+*  over stemmed from social media
+*  sort of going against its original purpose?
+*  I mean, when you think social media,
+*  you think you're giving each and every person
+*  their own little reality TV show, their own voice.
+*  And yet we've seen a dramatic uptick
+*  in the number of cancellations and firings
+*  related to immoral behavior based on things
+*  that were either done or amplified on social media.
+*  It's almost as if the public is holding
+*  the wrong end of the knife.
+*  Yeah, so the way I describe it,
+*  so I use these two terms,
+*  and they're somewhat interchangeable,
+*  but elites and institutions.
+*  And then there's somebody interchangeable
+*  because who runs the institutions?
+*  The elites, right?
+*  And so it's sort of a self-reinforcing thing.
+*  And you know, institutions of all kinds,
+*  institutions, everything from, you know,
+*  the government, bureaucracies, companies,
+*  nonprofits, foundations, NGOs, you know, tech companies,
+*  you know, on and on and on.
+*  Like, you know, people who are in charge of big complexes
+*  and that carry a lot of basically power and influence
+*  and capability and money as a consequence
+*  of their positional authority, right?
+*  So, you know, the head of a giant foundation
+*  may never have done anything in their life
+*  that would cause somebody to have a high opinion
+*  of them as a person, but they're in charge of this,
+*  you know, gigantic multi-billion dollar complex
+*  and have all this power of the results.
+*  And so that's just defined terms, the elites and institutions.
+*  So it's actually interesting,
+*  Gallup has been doing polls on the following,
+*  on the question of trust in institutions,
+*  which is sort of a therefore proxy for trust in elites,
+*  basically since the early 1970s.
+*  And what you find, and they do this across all the categories
+*  of big institutions, you know, basically every one
+*  I just talked about, a bunch of others,
+*  big business, small business, banks, newspapers,
+*  broadcast television, the military, police.
+*  So they've got like 30 categories or something.
+*  And basically what you see is almost all the categories
+*  basically started in the early 70s
+*  at like 60 or 70% trust, and now they've,
+*  almost across the board, they've just done,
+*  had a complete basically linear slide down for 50 years,
+*  basically my whole life.
+*  And you know, they're now bottoming out,
+*  you know, Congress and journalists bottom out at like 10%.
+*  Right, like the two groups everybody hates
+*  are like Congress and journalists.
+*  And then it's like a lot of other big institutions
+*  are like in their 20s, 30s, 40s.
+*  Actually, big business actually scores fairly high,
+*  tech actually scores quite high,
+*  the military scores quite high,
+*  but basically everything else has really caved in.
+*  And so this is sort of my fundamental challenge
+*  to everybody who basically says,
+*  you didn't do this, but you'll hear the simple form of this,
+*  which is social media caused the current trouble.
+*  And it's called this an example,
+*  collapse in faith in institutions and elites,
+*  let's call that part of the current trouble.
+*  Everybody's like, well, social media caused that.
+*  I was like, well, no, social media is new, right?
+*  In the last, you know, social media is effectively new,
+*  practically speaking since 2010, 2012
+*  is when it really took off.
+*  And so if the trend started in the early 1970s, right,
+*  and has been continuous,
+*  then we're dealing with something broader.
+*  And Martin Gury wrote, I think the best book on this
+*  called The Revolt of the Public,
+*  where he goes through this in detail.
+*  And he does say that social media had a lot to do
+*  with what's happened in the last decade.
+*  But he says, yeah, if you go back, you look further,
+*  it was basically two things coinciding.
+*  One was just a general change in the media environment.
+*  And in particular, the 1970s is when you started,
+*  especially in the 1980s is when you started to get,
+*  specifically talk radio, which was a new outlet.
+*  And then you also started, you also got cable television.
+*  And then you also, by the way,
+*  it's actually interesting in the 50s, 60s,
+*  you had paperback books, which was another one of these,
+*  which was an outlet.
+*  So you had like a fracturing in the media landscape
+*  that started in the 50s through the 80s.
+*  And then of course the internet like blew it wide open.
+*  Having said that, if the elites
+*  and the institutions were fantastic,
+*  you would know it more than ever.
+*  Because information is more accessible.
+*  And so the other thing that he says, and I agree with is,
+*  the public is not being tricked into thinking
+*  the elites and institutions are bad,
+*  they're learning that they're bad, right.
+*  And the mystery, and therefore the mystery
+*  of the Gallup poll is why those numbers aren't all just zero.
+*  Right, which is arguably in a lot of cases
+*  where they should be.
+*  I think one reason that...
+*  Oh, and by the way, he thinks this is bad.
+*  So he and I have a different view.
+*  So here's our, he and I disagree.
+*  He thinks this is bad.
+*  So he basically says, you can't replace elites with nothing.
+*  You can't replace institutions with nothing.
+*  If, because what you're just left with
+*  is just gonna be wreckage.
+*  You're gonna be left with a completely basically,
+*  atomized out of control society
+*  that has no ability to marshal any sort of activity
+*  in any direction.
+*  It's gonna be a dog eat dog awful world.
+*  I have a very different view on that,
+*  which we can talk about.
+*  Yeah, I'd love to hear your views on that.
+*  Yeah.
+*  I'd like to take a quick break
+*  and acknowledge our sponsor, InsideTracker.
+*  InsideTracker is a personalized nutrition platform
+*  that analyzes data from your blood and DNA
+*  to help you better understand your body
+*  and help you meet your health goals.
+*  I'm a big believer in getting regular blood work done
+*  for the simple reason that many of the factors
+*  that impact your immediate and long-term health
+*  can only be analyzed from a quality blood test.
+*  However, with a lot of blood tests out there,
+*  you get information back about blood lipids,
+*  about hormones and so on,
+*  but you don't know what to do with that information.
+*  With InsideTracker, they have a personalized platform
+*  that makes it very easy to understand your data,
+*  that is to understand what those lipids,
+*  what those hormone levels, et cetera, mean,
+*  and behavioral supplement nutrition and other protocols
+*  to adjust those numbers to bring them into the ranges
+*  that are ideal for your immediate and long-term health.
+*  InsideTracker's ultimate plan now includes measures
+*  of both ApoB and of insulin,
+*  which are key indicators of cardiovascular health
+*  and energy regulation.
+*  If you'd like to try InsideTracker,
+*  you can visit insidetracker.com slash Huberman
+*  to get 20% off any of InsideTracker's plans.
+*  Again, that's insidetracker.com slash Huberman
+*  to get 20% off.
+*  The quick question I was going to ask before we go there
+*  is I think that one reason that I and many other people
+*  sort of reflexively assume that social media
+*  caused the demise of our faith in institutions
+*  is, well, first of all, I wasn't aware of this
+*  lack of correlation between the decline in faith
+*  in institutions and the rise of social media,
+*  but secondarily that we've seen some movements
+*  that have essentially rooted themselves in tweets,
+*  in comments, in posts that get amplified,
+*  and those tweets and comments and posts
+*  come from everyday people.
+*  In fact, I can't name one person who initiated
+*  a given cancellation or movement
+*  because it was the sort of dogpiling or mob
+*  adding on to some person that was essentially anonymous.
+*  So I think that for many of us,
+*  we have the bottom, to use neuroscience language,
+*  it's sort of a bottom-up and a perspective.
+*  Oh, someone sees something in their daily life
+*  or experiences something in their daily life
+*  and they tweet about it or they comment about it
+*  or they post about it, and then enough people dogpile
+*  on the accused that it picks up force
+*  and then the elites feel compelled,
+*  obligated to cancel somebody.
+*  That tends to be the narrative.
+*  And so I think the logical conclusion is,
+*  oh, social media allows for this to happen,
+*  whereas normally someone would just be standing
+*  on the corner shouting or calling lawyers
+*  that don't have faith in them.
+*  And you've got the like the Aaron Brockovich model
+*  of that turns into a movie, but that's a rare case
+*  of this lone woman who's got this idea in mind
+*  about how big institution is doing wrong
+*  or somebody is doing wrong in the world
+*  and then can leverage big institutions, excuse me.
+*  But the way that you describe it is that the elites
+*  are leading this shift.
+*  So what is the role of the public in it?
+*  I mean, just to give it a concrete example,
+*  if for instance, no one tweeted or commented a me too
+*  or no one tweeted or commented about some ill behavior
+*  of some, I don't know, university faculty member
+*  or a business person, would the elite have come down
+*  on them anyway?
+*  Oh yeah, so what's happening, so based on what I've seen
+*  over the years, there is so much astroturfing right now.
+*  There are entire categories of people
+*  who are paid to do this.
+*  Some of them we call journalists,
+*  some of them we call activists,
+*  some of them we call NGO, non-profits,
+*  some of them we call university professors,
+*  some of them we call grad students, whatever,
+*  they're paid to do this.
+*  I don't know if you've ever looked
+*  into the misinformation industrial complex,
+*  there's this whole universe of basically these funded groups
+*  that basically do quote unquote misinformation
+*  and they're constantly mounting these kinds of attacks.
+*  They're constantly trying to gin up this kind
+*  of basically panic to cause somebody to get fired.
+*  So it's not grassroots?
+*  No, it's the opposite of grassroots.
+*  No, and almost always you trace these things back.
+*  It was a journalist, it was an activist,
+*  it was a public figure of some kind.
+*  These are entrepreneurs in a sort of a weird way.
+*  They're basically, they're paid,
+*  their job, mission, calling, it's all wrapped up together.
+*  They're true believers, but they're also getting paid
+*  to do it.
+*  And there's a giant funding, I mean,
+*  there's a very large funding complex for this
+*  coming from certain high profile people
+*  who put huge amounts of money into this.
+*  Is this well known?
+*  Yes, well, so I mean, it is in my world.
+*  So this is what the social media companies have been
+*  on the receiving end of for the last decade.
+*  Is this, it's basically a political media activism complex
+*  with very deep pockets behind it.
+*  And you've got people who basically,
+*  literally people who sit all day
+*  and watch the TV network on the other side
+*  or watch the Twitter feeds the other side
+*  and they wait, they basically wait.
+*  It's like every politician,
+*  this has been the case for a long time now,
+*  every politician who goes out and gives stump speeches,
+*  you'll see there's always somebody in the crowd
+*  of the camcorder or now with a phone recording them.
+*  And that's somebody from the other campaign
+*  who's paid somebody to just be there
+*  and record every single thing the politician says
+*  so that when Mitt Romney says whatever,
+*  the 47% thing, they've got it on tape.
+*  And then they clip it and they try to make it viral.
+*  So this stuff is, and again, look,
+*  these people believe what they're doing.
+*  I'm not saying it's even dishonest.
+*  These people believe what they're doing.
+*  They think they're fighting a holy war.
+*  They think they're protecting democracy.
+*  They think they're protecting civilization.
+*  They think they're protecting
+*  whatever it is they're protecting.
+*  But then they know how to use the tools.
+*  And so they know how to try to gin up the outrage.
+*  And then by the way, sometimes it works
+*  and sometimes it doesn't.
+*  Sometimes it doesn't, sometimes it cascades,
+*  sometimes it doesn't.
+*  But if you follow these people on Twitter,
+*  this is what they do every day.
+*  They're constantly trying to light this fire.
+*  Right?
+*  I assume that it was really bottom up,
+*  but it sounds like it's sort of a middle level
+*  and then it captures the elites
+*  and then the thing takes on a life of its own.
+*  By the way, it also intersects
+*  with the trust and safety groups at the social media firms,
+*  right, who are responsible for figuring out
+*  who gets promoted and who gets banned right across this.
+*  And you'll notice one large social media company
+*  has recently changed hands
+*  and has implemented a different kind of
+*  set of trust and safety.
+*  And all of a sudden a different kind of boycott movement
+*  has all of a sudden started to work
+*  that wasn't working before that.
+*  And another kind of boycott movement
+*  is not working as well anymore.
+*  And so there's, for sure,
+*  there's an intermediation happening.
+*  Like, look, the stuff that's happening in the world today
+*  is being intermediated through social media
+*  because social media is the defining media of our time.
+*  But there are people who know how to do this
+*  and do this for a living.
+*  So no, I very much view this as a,
+*  I view very much the cancellation wave,
+*  like this whole thing.
+*  It's an elite phenomenon.
+*  And when it appears to be a grassroots thing,
+*  it's either grassroots among the elites,
+*  which is possible because there's a fairly large number
+*  of people who are signed up for that particular crusade.
+*  But there's also a lot of astroturfing
+*  that's taking place inside that.
+*  The question is, okay, at what point does the population
+*  at large get pulled into this?
+*  And maybe there are movements at certain points in time
+*  where they do get pulled in
+*  and then maybe later they get disillusioned.
+*  And so then there's some question there.
+*  And then there's another question of like,
+*  well, if the population at large
+*  is gonna decide what these movements are,
+*  are they gonna be the same movements that the elites want?
+*  And how are the elites gonna react
+*  when the population actually fully expresses itself?
+*  Right, and so there's, and like I said,
+*  there's a feedback loop between these
+*  where the more extreme the elites get,
+*  they tend to push the population to more extreme views
+*  on the other side and vice versa.
+*  So it ping-pongs back and forth.
+*  And so, yeah, this is our world.
+*  Yeah, this explains a lot.
+*  I wanna make sure that I-
+*  So my Schellenberger, Matt Taibbi,
+*  a bunch of these guys have done a lot of work.
+*  If you just look into what's called
+*  the misinformation industrial complex,
+*  you'll find a network of money and power
+*  that is really quite amazing.
+*  I've seen more and more Schellenberger showing up, right?
+*  And he's just looking, on this stuff,
+*  he and Taibbi, they're literally just like tracking money.
+*  It's just like, it's very clear how the money flows,
+*  including like a remarkable amount of money
+*  out of the government,
+*  which is of course, like in theory, very concerning.
+*  The government should not be funding programs
+*  that take away people's constitutional rights.
+*  And yet somehow that is what's been happening.
+*  Very interesting.
+*  I wanna make sure that I hear your ideas
+*  about why the decline in confidence in institutions
+*  and is not necessarily problematic.
+*  Is this going to be a total destruction
+*  burning down of the forest that will lead to new life?
+*  Is that your view?
+*  Yeah, well, so this is the thing.
+*  And look, there's a question if you're,
+*  there's a couple of questions in here,
+*  which is like, how bad is it really?
+*  Like, how bad are they?
+*  And I think they're pretty bad.
+*  A lot of them are pretty actually bad.
+*  And so that's one big question.
+*  And then, yeah, the other question is like, okay,
+*  if an institution has gone bad
+*  or a group of elites have gone bad,
+*  like, is this wonderful word reform, right?
+*  Can they be reformed?
+*  And everybody always wants to reform everything.
+*  And yet somehow like nothing ever quite ever gets reformed.
+*  And so people are trying to reform housing policy
+*  in the Bay Area for decades.
+*  We're not building fewer houses than ever before.
+*  So somehow reform movements seem to lead to more,
+*  just more bad stuff.
+*  But anyway, yeah, so if you have an existing institution,
+*  can it be reformed?
+*  Can it be fixed from the inside?
+*  Like what's happening in universities?
+*  Like there's a lot of professors at Stanford as an example
+*  who very much think that they can fix Stanford.
+*  I don't know what you think.
+*  It doesn't seem like it's going
+*  in productive directions right now.
+*  Well, I mean, there are many things about Stanford
+*  that function extremely well.
+*  I mean, it's a big institution.
+*  It's certainly got its issues like any other place.
+*  They're also my employer.
+*  Mark's giving me some interesting looks.
+*  He wants me to get a little more vocal here.
+*  No, no, no, you don't need to.
+*  Oh no, I mean, I think that.
+*  I didn't mean to put you on the spot.
+*  Yeah, I mean, one of the things about being a researcher
+*  at a big institution like Stanford is,
+*  well, first of all, it meets the criteria
+*  that you described before.
+*  You know, you look to the left, you look to the right,
+*  or anywhere above or below you,
+*  and you have excellence, right?
+*  I mean, I've got a Nobel Prize winner below me
+*  whose daddy also won a Nobel Prize,
+*  and his scientific offspring is likely to win.
+*  I mean, it inspires you to do bigger things
+*  than one ordinarily would, no matter what.
+*  So there's that, and that's great, and that persists.
+*  There's all the bureaucratic red tape
+*  about trying to get things done
+*  and how to implement decisions is very hard,
+*  and there are a lot of reasons for that.
+*  And then, of course, there are the things
+*  that many people are aware of.
+*  There are public accusations about people
+*  in positions of great leadership,
+*  and that's getting played out,
+*  and the whole thing becomes kind of overwhelming
+*  and a little bit opaque when you're just trying
+*  to run your lab or live your life.
+*  And so I think one of the reasons for this lack of reform
+*  that you're referring to is because there's no position
+*  of reformer, right?
+*  So deans are dealing with a lot of issues.
+*  Provosts are dealing with a lot of issues.
+*  Presidents are dealing with a lot of issues,
+*  and then some, in some cases.
+*  And so, you know, we don't have a dedicated role of reformer.
+*  Someone to go in and say,
+*  listen, there's just a lot of fat on this,
+*  and we need to trim it,
+*  or we need to create this or do that.
+*  There just isn't a system to do that.
+*  And that's, I think, in part because universities
+*  are built on old systems, and it's like the New York subway.
+*  It's amazing it still works as well as it does,
+*  and yet it's got a ton of problems also.
+*  Well, so the point, we can debate the university
+*  specifically, but the point is, look,
+*  if you do think institutions are going bad,
+*  and then you have to make it,
+*  number one, you have to figure out
+*  if you think institutions are going bad.
+*  The population largely does think that.
+*  And then at the very least,
+*  the people who run institutions
+*  ought to really think hard about what that means.
+*  But people still strive to go to these places.
+*  And I still hear from people who, like, for instance,
+*  did not go to college or are talking about
+*  how a university degree is useless.
+*  They'll tell you how proud they are
+*  that their son or daughter is going to Stanford,
+*  or is going to UCLA, or is going to Urbana-Champaign.
+*  I mean, it's almost like, to me,
+*  that's always the most shocking contradiction is like,
+*  yeah, these institutions don't matter,
+*  but then when people want to hold up a card
+*  that says why their kid is great,
+*  it's not about how many pushups they can do
+*  or that they started their own business most of the time.
+*  It's they're going to this university.
+*  And I think, well, what's going on here?
+*  So do you think the median voter in the United States
+*  can have their kid go to Stanford?
+*  No. No. No.
+*  And no median voter in the United States
+*  could have their kid admitted to Stanford,
+*  even with perfect SAT?
+*  No. No.
+*  In this day and age, the competition is so fierce
+*  that it requires more.
+*  Yeah. So like, so first of all, again, we're dealing here.
+*  Yes, we're dealing with a small number
+*  of very elite institutions.
+*  People may admire them or not.
+*  Most people have no connectivity to them whatsoever.
+*  In the statistics, in the polling,
+*  universities are not doing well.
+*  The population at law, yeah, they may have fantasies
+*  about their kid going to Stanford,
+*  but like the reality of it is they have a very, very,
+*  say, collapsing view of these institutions.
+*  So anyway, this actually goes straight
+*  to the question of alternatives then, right?
+*  Which is like, okay, if you believe
+*  that there's collapsing faith in the institutions,
+*  if you believe that it is merited, at least in some ways,
+*  if you believe that reform is effectively impossible,
+*  then you are faced, and we could debate each of those,
+*  but like the population at large
+*  seems to believe a lot of that.
+*  Then there's a question of like, okay,
+*  like can it be replaced?
+*  And if so, like, are you better off replacing these things
+*  basically while the old things still exist?
+*  Or do you actually need to basically clear the field
+*  to be able to have the new thing exist?
+*  The universities are a great case study of this
+*  because of how student loans work, right?
+*  And the way student loans work is to be able to be,
+*  to be an actual competitive university and compete,
+*  you need to have access to federal student lending.
+*  Cause if you don't, everybody has to pay out of pocket
+*  and it's completely out of reach for anybody
+*  other than a certain class of either extremely rich
+*  or foreign students.
+*  So you need access to federal student loan facility.
+*  To get access to federal student loan facility,
+*  you need to be an accredited university.
+*  Guess who runs the accreditation council?
+*  I don't know.
+*  The existing universities, right?
+*  So it's a self-laundering machine.
+*  Like they decide who the new universities are.
+*  Guess how many new universities get accredited
+*  right each year to be able to get that?
+*  Zero, right?
+*  And so as long as that system is in place
+*  and as long as they have the government wired
+*  the way that they do, and as long as they control
+*  who gets access to federal student loan funding,
+*  like of course there's not gonna be any competition.
+*  Like of course there can't be a new institution
+*  that's gonna be able to get to scale.
+*  Like it's not possible.
+*  And so if you actually wanted to create a new system
+*  that was better in the, you know,
+*  I would argue dozens or hundreds of ways
+*  that could obviously be better
+*  if you were starting today,
+*  it probably can't be done as long as existing institutions
+*  are actually in tact.
+*  And this is my counter against to Martin,
+*  which is like, yeah, we look,
+*  if we're gonna tear down the old,
+*  there may be a period of disruption
+*  before we get to the new,
+*  but we're never gonna get to the new
+*  if we don't tear down the old.
+*  When you say counter to Martin,
+*  you're talking about the author of Revolta the Punk?
+*  Yeah, Martin Gurey, yeah.
+*  What Martin Gurey says is like, look,
+*  he said basically, what Martin says is as follows.
+*  The elites deserve contempt,
+*  but the only thing worse than these elites
+*  that deserve contempt would be no elites at all, right?
+*  And because any basically says on the other side
+*  of the destruction of the elites
+*  and the institutions is nihilism.
+*  You're basically left with nothing.
+*  And then by the way, there is a nihilistic streak.
+*  I mean, there's a nihilistic streak
+*  in the culture and the politics today.
+*  There are people who basically would just say,
+*  yeah, just tear the whole system down, right?
+*  And they're without any particular plan for what follows.
+*  And so I think he makes a good point
+*  in that you wanna be careful
+*  that you actually have a plan on the other side
+*  that you think is actually achievable.
+*  But again, the counter argument to that is
+*  if you're not willing to actually tear down the old,
+*  you're not gonna get to the new.
+*  Now, what's interesting of course
+*  is this is what happens every day in business, right?
+*  So like the entire way,
+*  like how do you know that the capitalist system works?
+*  The way that you know is that the old companies,
+*  when they're no longer like the best at what they do,
+*  they get torn down and then they ultimately die
+*  and they get replaced by better companies.
+*  Yeah, I haven't seen a Sears in a while.
+*  Exactly, right?
+*  And we know what's so interesting is we know
+*  in capitalism and a market economy,
+*  we know that that's the sign of health, right?
+*  That's the sign of how the system is working properly, right?
+*  And in fact, we get actually judged by antitrust authorities
+*  in the government on that basis, right?
+*  It's like the best defense against antitrust charges is no,
+*  people are like coming to kill us
+*  and they're doing like a really good job of it.
+*  Like that's how we know we're doing our job.
+*  And in fact, in business, we are specifically,
+*  it is specifically illegal for companies
+*  in the same ministry to get together and plot
+*  and conspire and plan and have things
+*  like these accreditation bureaus.
+*  Like we would get, if I created the equivalent
+*  in my companies of the kind of accreditation bureau
+*  that the universities have,
+*  I'd get straight to federal prison.
+*  And a trust violation Sherman Act straight to prison.
+*  People have been sent to prison for that.
+*  So in the business world,
+*  we know that you want everything subject
+*  to market competition.
+*  We know that you want creative destruction.
+*  We know that you want replacement of the old
+*  with superior new.
+*  It's just once we get outside of business,
+*  we're like, oh, we don't want any of that.
+*  We want basically stagnation and log rolling, right?
+*  And basically institutional incestuous,
+*  like entanglements and conflicts of interest,
+*  as far as the eye can see.
+*  And then we're surprised by the results.
+*  So let's play it out as a bit of a thought experiment.
+*  So let's say that one small banding together
+*  of people who want to start a new university
+*  where free exchange of open ideas,
+*  where unless somebody has egregious behavior,
+*  violent behavior, truly sexually inappropriate behavior
+*  against somebody that committing a crime, right?
+*  They're allowed to be there.
+*  They're allowed to be a student or a faculty member
+*  or administrator.
+*  And let's just say this accreditation bureau
+*  allowed student loans for this one particular university,
+*  or let's say that there was an independent source
+*  of funding for that university,
+*  such that students could just apply there.
+*  They didn't need to be part of this elite accredited group,
+*  which is, it sounds very mafia like, frankly,
+*  not necessarily violent, but certainly coercive
+*  in the way that it walls people out.
+*  Let's say that then there were 20 or 30 of those
+*  or 40 of those.
+*  Do you think that over time that model
+*  would overtake the existing model?
+*  Is it interesting that those don't exist?
+*  Remember the Sherlock Holmes, the dog that didn't bark?
+*  It is interesting those don't exist.
+*  So there's two possibilities.
+*  One is like, nobody wants that, which I don't believe.
+*  And then the other is like, the system is wired in a way
+*  that we'll just simply not allow it.
+*  And then you did a hypothetical
+*  in which the system would allow it.
+*  My response to that is no, of course,
+*  the system won't allow that.
+*  Or the people that band together,
+*  have enough money or get enough resources to say,
+*  look, we can afford to give loans
+*  to 10,000 students per year.
+*  10,000 isn't a trivial number when thinking
+*  about the size of a university.
+*  And most of them hopefully will graduate in four years
+*  and there'll be a turnover.
+*  Do you think that the great future innovators
+*  would tend to orient toward that model
+*  more than they currently do toward the traditional model?
+*  I mean, what I'm trying to get back to here is,
+*  how do you think that the current model thwarts innovation,
+*  as well as maybe some ways that it still supports innovation?
+*  Certainly cancellation and the risk of cancellation
+*  from the way that we framed it earlier
+*  is going to discourage risk takers
+*  of the category of risk takers that take risk
+*  in every domain, that really like to fly close to the sun
+*  and sometimes into the sun.
+*  Or are doing research that is just not politically.
+*  Right, yeah, looking into issues that, you know.
+*  Right, that we can't even talk about on this podcast
+*  probably without causing a distraction
+*  of what we're actually trying to talk about.
+*  That gives up the whole game right there.
+*  Right, exactly.
+*  Yeah.
+*  So the, you know, I keep a file and it's a written file
+*  because I'm afraid to put it into electronic form
+*  of all the things that I'm afraid to talk about publicly
+*  because I come from a lineage of advisors
+*  where all three died young and I figure if nothing else,
+*  I'll die and then, you know, I'll make it into the world
+*  and, you know, when I'll say five, 10 years, 20 years
+*  and if not, you know, I know with certainty
+*  I'm gonna die at some point and then we'll see
+*  where all those issues stand.
+*  In any event.
+*  Is that list getting longer over time or shorter?
+*  Oh, it's definitely getting longer.
+*  Isn't that interesting?
+*  Yeah, it's getting much longer.
+*  I mean, there are just so many issues
+*  that I would love to explore on this podcast with experts
+*  and that I can't explore just because,
+*  even if I had a panel of them,
+*  because of the way that things get soundbited
+*  and segmented out and taken out of context,
+*  it's like the whole conversation is lost
+*  and so, unfortunately, there are an immense number
+*  of equally interesting conversations
+*  that I'm excited to have, but it is a little disturbing.
+*  Do you remember Lysenkoism?
+*  No.
+*  Oh, so Lysenkoism, so famous in the Soviet history,
+*  the Soviet Union, this is a famous thing.
+*  So there was a geneticist named Lysenko.
+*  That's why it sounds familiar,
+*  but I'm not calling to mind.
+*  He was the guy who did, he did communist genetics.
+*  The field of genetics,
+*  the Soviets did not approve the field of genetics
+*  because, of course, they believed in the creation
+*  of the new man and total equality
+*  and genetics did not support that.
+*  And so if you were doing traditional genetics,
+*  you were gonna get, at the very least, fired,
+*  if not killed.
+*  And so this guy Lysenko stood up and said,
+*  oh, I've got Marxist genetics, right?
+*  I've got a whole new field of genetics
+*  that basically is politically compliant.
+*  And then they actually implemented that
+*  in the agriculture system of the Soviet Union.
+*  And it's the origin of one of the big reasons
+*  that the Soviet Union actually fell,
+*  which was they ultimately couldn't feed themselves.
+*  So create a new notion of biology
+*  as it relates to genetics.
+*  Politically correct biology, right?
+*  And so they not only created it, they taught it,
+*  they mandated it, they required it,
+*  and then they implemented it in agriculture.
+*  Interesting. So yeah.
+*  I never understood.
+*  There was a bunch of things in history
+*  I never understood until the last decade
+*  and that's one of them.
+*  Well, I censor myself at the level
+*  of deleting certain things,
+*  but I don't contort what I do talk about.
+*  So I tend to like to play on lush open fields.
+*  Just makes my life a lot easier.
+*  This goes to the rot.
+*  This goes to the rot.
+*  And I'll come back to your question,
+*  but like this goes to the rot in the existing system,
+*  which is we've, by the way, I'm no different.
+*  I'm just like you.
+*  Like I'm not trying not to light myself on fire either,
+*  but like the rot in the existing system.
+*  And by system, I mean, the institutions and the elites.
+*  The rot is that the set of things that are no longer allowed.
+*  I mean, that list is like obviously expanding over time.
+*  And like, that's a real, like historically speaking,
+*  that doesn't end in good places.
+*  Is this group of a particular generation
+*  that we can look forward to the time
+*  when they eventually die off?
+*  It's sort of the boomers plus the millennials.
+*  So good.
+*  We've got a while.
+*  Good news, bad news.
+*  I mean, Gen X is weird, right?
+*  I'm Gen X.
+*  Gen X is weird because we kind of slipped in the middle.
+*  We were kind of the, like, I don't know how to describe it.
+*  We were the kind of non-political generation
+*  kind of sandwiched between the boomers and the millennials.
+*  Gen Z is a very, I think, open question right now.
+*  Which way they go.
+*  I could imagine them being actually like much more intense
+*  than the millennials on all these issues.
+*  I can also imagine them reacting to the millennials
+*  and being far more open-minded.
+*  We don't know which way it's gonna go yet.
+*  It's gonna go.
+*  It might be different groups of them.
+*  I mean, I'm Gen X also.
+*  I'm 47.
+*  You're 50, 50.
+*  Yeah, 50.
+*  Right, so more or less same.
+*  So grew up with some John Hughes films
+*  and so where the jocks and the hippies and the punks
+*  and the, we're all divided.
+*  They were all segmented.
+*  But then it all sort of mish-mashed together
+*  a few years later.
+*  And I think that had a lot to do with, like you said,
+*  the sort of apolitical aspect of our generation.
+*  We just knew, the Gen X just knew the boomers were nuts.
+*  Right?
+*  I mean, this is the canonical,
+*  one of the great sitcoms of the era,
+*  was Family Ties, right?
+*  With the character Michael P. Keaton.
+*  And he was just like, this guy is just like,
+*  yeah, my boomer hippie parents are crazy.
+*  Like, I'm just gonna go into business
+*  and actually do something productive.
+*  Like, there was something iconic
+*  about that character in our culture.
+*  And people like me were like,
+*  yeah, obviously, you go into business.
+*  Going into political activism.
+*  And then it's just like, man,
+*  that came whipping back around with the next generation.
+*  So just to touch real quick on the university thing.
+*  So look, there are people trying to do,
+*  and I'm actually gonna do a thing this afternoon
+*  with the University of Austin, which is one of these.
+*  And so there are people trying to do new universities.
+*  You know, like I was saying, it's certainly possible.
+*  I hope they succeed.
+*  I'm pulling for them.
+*  I think it'd be great.
+*  I think it'd be great if there were a lot more of them.
+*  Who founded this university?
+*  This is a whole group of people.
+*  I don't wanna freelance on that
+*  because I don't know originally who the idea was.
+*  University of Austin, not UT Austin.
+*  Yeah, so this is not UT Austin.
+*  It's called University of Austin,
+*  or they call it, I think it's UATX.
+*  What is it?
+*  UATX.
+*  And so, and it's a lot of very sharp people.
+*  I think they're gonna try to do something
+*  that's associated with it.
+*  And they're gonna try to, very much exactly
+*  like what you described there,
+*  they're gonna try to do a new one.
+*  I would just tell you like the wall of opposition
+*  that they're up against is profound, right?
+*  And part of it is economic,
+*  which is can they ever get access to federal student lending?
+*  And I hope that they can,
+*  but it seems nearly inconceivable
+*  the way the system's rigged today.
+*  And then the other is just like they're gonna,
+*  they already have come under, I mean,
+*  anybody who publicly associates with them
+*  who is in traditional academia
+*  immediately gets lit on fire, right?
+*  And there's like cancellation campaigns.
+*  So they're up against a wall of social ostracism.
+*  Wow.
+*  They're up against a wall of press attacks.
+*  Wow.
+*  They're up against a wall of people
+*  just like doing the thing, pouncing on it.
+*  Anytime anybody says anything,
+*  they're gonna try to burn the place down.
+*  This reminds me of like Jerry Springer episodes
+*  and Geraldo Rivera episodes where,
+*  it's like if a teen listened to Danzig
+*  or Marilyn Manson type music or Metallica,
+*  that they were considered a devil worship.
+*  Now we just laugh, right?
+*  We're like, that's crazy, right?
+*  People listen to music with all sorts of lyrics
+*  and ideas and looks and like, that's crazy.
+*  But there were people legitimately sent to prison,
+*  I think with the West Memphis Three, right?
+*  These kids out in West Memphis that looked different,
+*  acted different, were accused of murders
+*  that eventually was made clear they clearly didn't commit.
+*  But they were in prison
+*  because of the music they listened to.
+*  I mean, this sounds very similar to that.
+*  And I remember seeing Bumper Seekers
+*  Free the West Memphis Three
+*  and I thought this was some crazy thing.
+*  You look into it and this isn't,
+*  it's a little bit niche, but I mean, these are real lives.
+*  And there was a active witch hunt for people
+*  that looked different and acted different.
+*  And yet now we're sort of in this inverted world
+*  where on the one hand, we're all told
+*  that we can express ourselves however we want.
+*  But on the other hand,
+*  you can't get a bunch of people together to take classes
+*  where they learn biology and sociology and econ in Texas.
+*  Wild.
+*  Yes, well, so the simple explanation is
+*  this is Puritanism, right?
+*  So this is the original American Puritanism
+*  that just like works itself out through the system
+*  in different ways at different times.
+*  There's this phenomenon,
+*  there's a religious phenomenon in America
+*  called the Great Awakenings.
+*  There'll be these periods in American history
+*  where there's basically religiosity fades
+*  and then there'll be the snapback effect
+*  where you'll have this basically this frenzy
+*  basically of religion.
+*  In the old days, it would have been tent revivals
+*  and people speaking in tongues and all this stuff.
+*  And then in the modern world,
+*  it's of the form that we're living through right now.
+*  And so yeah, it's just basically these waves
+*  of sort of American religious.
+*  And remember like religion in our time,
+*  religious impulses in our time don't get expressed
+*  because we live in more advanced times, right?
+*  We live in scientifically informed times.
+*  And so religious impulses in our time
+*  don't show up as overtly religious, right?
+*  They show up in a secularized form, right?
+*  Which of course conveniently is therefore
+*  not subject to the First Amendment separation,
+*  church and state, right?
+*  As long as the church is secular, there's no problem, right?
+*  And so, but we're acting out these kind of religious scripts
+*  over and over again,
+*  and we're in the middle of another religious frenzy.
+*  There's a phrase that I hear a lot
+*  and I don't necessarily believe it,
+*  but I want your thoughts on it,
+*  which is the pendulum always swings back.
+*  Yeah, not quite.
+*  So that's how I feel too, because I'll take-
+*  Boy, that would be great.
+*  Take any number of things that we've talked about
+*  and, you know, gosh, it's so crazy,
+*  the way things have gone with institutions
+*  or it's so crazy the way things have gone with social media
+*  or it's so crazy, fill in the blank.
+*  And people will say, well, the pendulum always swings back.
+*  Like it's the stock market or something.
+*  After every crash, there'll be an eventual boom
+*  and vice versa.
+*  By the way, that's not true either, right?
+*  Right.
+*  Most stock markets, we have of course survivorship,
+*  it's all survivorship, everything is survivorship.
+*  It's all everything you just said
+*  is obviously survivorship bias, right?
+*  So if you look globally, most stock markets over time
+*  crash and burn and never recover.
+*  The American stock market doesn't always recover.
+*  Right, I was referring to the American stock market.
+*  Yeah, but globally.
+*  But the reason everybody refers to the American stock market
+*  is because it's the one that doesn't do that.
+*  The other 200 or whatever,
+*  crash and burn and never recover.
+*  Like let's go check in on the, you know,
+*  an Argentina stock market right now.
+*  Like I don't think it's coming back anytime soon.
+*  Yeah, my father is Argentine
+*  and immigrated to the US in the 1960s,
+*  so he would definitely agree with that.
+*  Yeah, like it doesn't come, you know,
+*  like when their stocks crash, they don't come back.
+*  So, and then, you know, like syncroism,
+*  like the Soviet Union never recovered from syncroism,
+*  it never came back.
+*  It led to the end of the country.
+*  You know, literally the things that took down
+*  the Soviet Union were oil and wheat,
+*  the wheat thing, you can trace the crisis
+*  back to syncroism.
+*  And so, yeah, no, look,
+*  pendulum swings back is true only in the cases
+*  where the pendulum swings back.
+*  Everybody just conveniently forgets
+*  all the other circumstances where that doesn't happen.
+*  One of the things people, you see this in business also,
+*  people have a really hard time confronting really bad news.
+*  I don't know if you've noticed that.
+*  And like every doctor who's listening right now
+*  is like, yeah, no shit.
+*  But like, there are situations,
+*  you see it in business, there are situations that,
+*  you see a Star Trek, remember Star Trek,
+*  the Kobayashi Maru simulator, right?
+*  So the big lesson to become a Star Trek captain
+*  is you had to go through the simulation
+*  called the Kobayashi Maru, and the point was,
+*  there's no way to, it's a no-win scenario, right?
+*  And then it turned out like Captain Kirk
+*  was the only person ever win the scenario,
+*  and the way that he did it was he went in ahead of time
+*  and hacked the simulator, right?
+*  It was the only way to actually get through.
+*  And then there was a debate whether to fire him
+*  or make him a captain, so they made him a captain.
+*  And like, you know, the problem is in real life,
+*  like you do get the Kobayashi Maru on a regular basis.
+*  Like there are actual no-win situations
+*  that you can't work your way out of,
+*  and as a leader, you can't ever cop to that, right?
+*  Because you have to like carry things forward
+*  and you have to look for every possible choice you can.
+*  But like every once in a while,
+*  you do run into a situation
+*  where it's really not recoverable.
+*  And at least I've found people just like cannot cope with that.
+*  And so what happens is they basically then,
+*  they basically just like exclude it from their memory
+*  than had ever happened.
+*  I'm glad you brought up simulators
+*  because I wanna make sure that we talk about
+*  the new and emerging landscape of AI,
+*  artificial intelligence.
+*  And I could try and smooth our conversation
+*  of a moment ago with this one
+*  by creating some clever segue, but I'm not going to.
+*  Except I'm going to ask,
+*  is there a possibility that AI is going to remedy
+*  some of what we're talking about?
+*  Let's make sure that we earmark that for discussion
+*  a little bit later.
+*  But first off, because some of the listeners of this podcast
+*  might not be as familiar with AI as perhaps they should be.
+*  We've all heard about artificial intelligence,
+*  people hear about machine learning, et cetera,
+*  but it'd be great if you could define for us what AI is.
+*  People almost immediately hear AI and think,
+*  okay, robot's taking over, I'm gonna wake up
+*  and I'm gonna be strapped to the bed
+*  and my organs are gonna be pulled out of me.
+*  Robots are gonna be in my bank account,
+*  they're gonna kill all my children and dystopia for most.
+*  Clearly, that's not the way it's gonna go.
+*  If you believe that machines can augment human intelligence
+*  and human intelligence is a good thing.
+*  So tell us what AI is and where you think
+*  it can take us, both good and bad.
+*  Yeah, so there was a big debate when the computer
+*  was first invented, which was in the 1930s, 1940s.
+*  People like Alan Turing and John von Neumann
+*  and these people.
+*  And the big debate at the time was,
+*  because they knew they wanted to build computers,
+*  they had the basic idea.
+*  And there had been calculating machines before that
+*  and there had been these looms that you basically program
+*  with punch cards and so there was a prehistory
+*  to computers that had to do with building
+*  sort of increasingly complex calculating machines.
+*  So they were kind of on a track,
+*  but they knew they were gonna be able to build
+*  what they call a general purpose computer
+*  that basically you could program
+*  in the way that you program computers today.
+*  But they had a big debate early on,
+*  which is should the fundamental architecture
+*  of the computer be based on either A,
+*  like calculating machines, like cash registers and looms
+*  and other things like that,
+*  or should it be based on a model of the human brain?
+*  And they actually had this idea of computers model
+*  on the human brain back then.
+*  And this was this concept of so-called neural networks.
+*  And it's actually fairly astonishing
+*  from a research standpoint.
+*  The original paper on neural networks
+*  actually was published in 1943.
+*  So they didn't have our level of neuroscience,
+*  but they actually knew about the neuron
+*  and they actually had a theory of neurons
+*  interconnecting in synapses and information processing
+*  in the brain even back then.
+*  And a lot of people at the time basically said,
+*  you know what, we should basically have the computer
+*  from the start being modeled after the human brain
+*  because if the computer could do everything
+*  that the human brain can do,
+*  that would be the best possible general purpose computer.
+*  And then you could have it do jobs
+*  and you could have it create art
+*  and you could have it do all kinds of things
+*  like humans can do.
+*  It turns out that didn't happen in our world.
+*  What happened instead was the industry
+*  went in the other direction.
+*  It went basically in the model of the calculating machine
+*  or the cash register.
+*  And I think practically speaking
+*  that kind of had to be the case
+*  because that was actually the technology
+*  that was practical at the time.
+*  But that's the path.
+*  And so what we all have experiences with
+*  up to and including the iPhone in our pocket
+*  is computers built on that,
+*  basically calculating machine model,
+*  not the human brain model.
+*  And so what that means is computers,
+*  as we have come to understand them,
+*  they're basically like mathematical savants at best.
+*  So they're really good at doing lots
+*  of mathematical calculations.
+*  They're really good at executing
+*  these extremely detailed computer programs.
+*  They're hyper literal.
+*  One of the things you learn early when you're a programmer
+*  is as the human programmer,
+*  you have to get every single instruction
+*  to get the computer correct
+*  because it will do exactly what you tell it to do.
+*  And bugs in computer programs are always a mistake
+*  on the part of the programmer.
+*  Interesting.
+*  You never blame the computer.
+*  You always blame the programmer
+*  because that's the nature of the thing
+*  that you're dealing with.
+*  One down score off and the whole thing.
+*  Yeah, yeah.
+*  And it's the programmer's fault.
+*  And if you talk to any programmer,
+*  they'll agree with this.
+*  They'll be like, yeah, if there's a problem,
+*  it's my fault.
+*  I did it.
+*  I can't blame the computer.
+*  The computer has no judgment.
+*  It has no ability to interpret, synthesize,
+*  develop an independent understanding of anything.
+*  It's literally just doing what I tell it to do step by step.
+*  So for 80 years, we've had this just,
+*  this very kind of hyper literal kind of model computers.
+*  These are called,
+*  technically these are what are called von Neumann machines
+*  based after the mathematician, John von Neumann.
+*  They run in that way.
+*  And they've been very successful and very important
+*  and our world has been shaped by them.
+*  But there was always this other idea out there,
+*  which is, okay, how about a completely different approach,
+*  which is based much more on how the human brain operates,
+*  or at least our kind of best understanding
+*  of how the human brain operates, right?
+*  Because those aren't the same thing.
+*  It basically says, okay,
+*  what if you could have a computer,
+*  instead of being hyper literal,
+*  what if you could have it actually be conceptual, right?
+*  And creative and able to synthesize information, right?
+*  And able to draw judgments and able to behave in ways
+*  that are not deterministic, but are rather creative, right?
+*  And the applications for this, of course, are endless.
+*  And so for example, the self-driving car,
+*  the only way that you can make a car,
+*  you cannot program a computer with rules
+*  to make it a self-driving car.
+*  You have to do what Tesla and Waymo
+*  and these other companies have done now.
+*  You have to use AI, right?
+*  You have to use this other architecture.
+*  And you have to basically teach them how to recognize
+*  objects and images at high speeds
+*  basically the same way the human brain does.
+*  And so those are so-called neural networks running inside.
+*  So essentially, let the machine operate based on priors.
+*  You know, we almost clipped a boulder
+*  going up this particular drive.
+*  And so therefore, this shape that previously
+*  the machine didn't recognize as a boulder
+*  it now introduces to its catalog of boulders.
+*  Is that sort of-
+*  Yeah, a good example.
+*  Let's even make even Starter for self-driving car.
+*  There's something in the road.
+*  Is it a small child or a plastic shopping bag
+*  being blown by the wind?
+*  Very important difference.
+*  If it's a shopping bag,
+*  you definitely wanna go straight through it
+*  because if you deviate off course,
+*  you might, you know, you're gonna make a fast,
+*  you know, it's the same challenge we have
+*  when we're driving.
+*  Like you don't wanna swerve to avoid a shopping bag
+*  because you might hit something
+*  that you didn't see on the side.
+*  If it's a small child, for sure you wanna swerve.
+*  Right?
+*  And so, but it's very, but like in that moment,
+*  and you know, small children come in different
+*  like shapes and descriptions
+*  and are wearing different kinds of clothes.
+*  And they might tumble onto the road
+*  the same way a bag would tumble.
+*  Yeah, they might look like they're tumbling.
+*  And by the way, they might not be,
+*  they might be wearing a Halloween mask, right?
+*  So the face, they might not have a recognizable human face.
+*  Right?
+*  And it might be a kid with, you know, one leg, right?
+*  You definitely wanna not hit those, right?
+*  Like, so you can't,
+*  this is what basically we figured out is,
+*  you can't apply the rules-based approach
+*  of a Neumann machine to basically real life
+*  and expect the computer to be in any way understanding
+*  or resilient to change it,
+*  to basically things happening in real life.
+*  And this is why there's always been such a stark divide
+*  between what the machine can do
+*  and what the human can do.
+*  And so basically what's happened is in the last decade,
+*  that second type of computer,
+*  the neural network-based computer,
+*  has started to actually work.
+*  It started to work actually first,
+*  interestingly in vision, recognizing objects and images,
+*  which is why the self-driving car is starting to work.
+*  And face recognition.
+*  Face recognition.
+*  I mean, when I was started off in visual neuroscience,
+*  which is really my original home in neuroscience,
+*  the idea that a computer or a camera
+*  could do face recognition better than a human
+*  was like a very low probability event
+*  based on the technology we had at the time,
+*  based on the understanding of the face recognition cells
+*  in the fusiform gyrus.
+*  Now you would be smartest
+*  to put all your money on the machine.
+*  You know, you wanna find faces in airports,
+*  even with masks on and, you know,
+*  at profile versus straight on.
+*  Machines can do it far better than most all people.
+*  I mean, there's the super recognizers,
+*  but even they can't match the best machines.
+*  Now, 10 years ago, what I just said was the exact reverse.
+*  Right, that's right.
+*  Yeah.
+*  All right, so faces, handwriting, right?
+*  And then voice, right?
+*  Being able to understand voice.
+*  Like if you use, just as a user,
+*  if you use Google Docs, it has a built-in voice transcription.
+*  It's sort of the best industry-leading
+*  kind of voice transcription.
+*  If you use voice transcription in Google Docs,
+*  it's breathtakingly good.
+*  You just speak into it and it just like types
+*  what you're saying.
+*  Well, that's good, because in my phone,
+*  every once in a while, I'll say,
+*  I need to go pick up a few things,
+*  and they'll say, I need to pick up a few thongs.
+*  And so Apple needs to get on board,
+*  whatever the voice recognition is that Google's using.
+*  Maybe it knows you better than you think.
+*  So.
+*  That was not the topic I was avoiding discussing, you know.
+*  No, so that's on the list, right?
+*  That's on your list.
+*  So, look, there's actually,
+*  there's a reason actually why Google is so good
+*  and Apple is not right now at that kind of thing.
+*  And it actually goes to actually the,
+*  it's actually an ideological thing of all things.
+*  Apple does not permit pooling of data for any purpose,
+*  including training AI, whereas Google does.
+*  And Apple's just like staked their brand on privacy,
+*  and among that is sort of a pledge
+*  that they don't like pool your data.
+*  And so all of Apple's AI is like AI that has to happen
+*  like locally on your phone,
+*  whereas Google's AI can happen in the cloud, right?
+*  It can happen across pool data.
+*  Now, by the way, some people think that that's bad
+*  because they think pooling data is bad.
+*  But that's an example of the shift
+*  that's happening in the industry right now,
+*  which is you have this separation between the people
+*  who are embracing the new way of training AIs
+*  and the people who basically, for whatever reason, are not.
+*  Excuse me.
+*  You say that some people think it's bad
+*  because of privacy issues,
+*  or they think it's bad because of the reduced functionality
+*  of that AI.
+*  Oh, no, so you're definitely gonna get,
+*  so there's three reasons AIs have started to work.
+*  One of them is just simply larger data sets,
+*  larger amounts of data.
+*  So specifically, the reason why objects and images are now,
+*  the reason machines are now better than humans
+*  at recognizing objects, images, or recognizing faces,
+*  is because modern facial recognition AIs
+*  are trained across all photos on the internet of people,
+*  billions and billions and billions of photos, right?
+*  An unlimited number of photos of people on the internet.
+*  Attempts to train facial recognition systems
+*  10 or 20 years ago, they'd be trained on thousands
+*  or tens of thousands of photos.
+*  So the input data is simply much more vast.
+*  Much larger.
+*  This is the reason, to get to the conclusion on this,
+*  this is the reason why ChatGPT works so well as ChatGPT.
+*  One of the reasons ChatGPT works so well
+*  is it's trained on the entire internet of text.
+*  And the entire internet of text was not something
+*  that was available for you to train an AI on
+*  until it came to actually exist itself,
+*  which is new in the last, you know, basically decade.
+*  So in the case of face recognition,
+*  I can see how having a much larger input data set
+*  would be beneficial if the goal is to recognize
+*  Mark Andreessen's face, because you are looking
+*  for signal to noise against everything else, right?
+*  But in the case of ChatGPT,
+*  when you're pooling all text on the internet
+*  and you ask ChatGPT to say, construct a paragraph
+*  about Mark Andreessen's prediction of the future
+*  of human beings over the next 10 years
+*  and the likely to be most successful industries.
+*  Give ChatGPT that.
+*  If it's pooling across all text,
+*  how does it know what is authentically Mark Andreessen's text?
+*  Because in the case of face recognition,
+*  you have a, you've got a standard to work from,
+*  a verified image versus everything else.
+*  In the case of text, you have to make sure
+*  that what you're starting with is verified text
+*  from your mouth, so, which makes sense
+*  if it's coming from video, but then if that video
+*  is deep faked, all of a sudden what's true,
+*  your valid Mark Andreessen is of question,
+*  and then everything ChatGPT is producing
+*  that is then of question.
+*  Right, so I would say there's a before and after thing here.
+*  There's like a before ChatGPT and after GPT question,
+*  because the existence of GPT itself changes the answer.
+*  So before ChatGPT, so the version you're using today
+*  is train on data up till September 2021,
+*  they're caught off with the training set,
+*  up till September 2021, almost all text on the internet
+*  was written by a human being.
+*  And then most of that was written
+*  by people under their own names.
+*  Some of it wasn't, but a lot of it was.
+*  And why you know this from me is because it was published
+*  in a magazine under my name or it's a podcast transcript
+*  and it's under my name.
+*  And generally speaking, if you just did a search
+*  on like what are things Mark Andreessen has written and said,
+*  90 plus percent of that would be correct.
+*  And somebody might have written a fake parody article
+*  or something like that, but not that many people
+*  were spending that much time writing fake articles
+*  about things that I said.
+*  Not many people can pretend to be you.
+*  Exactly, right, and so generally speaking,
+*  you can kind of get your arms around the idea
+*  that there's a corpus of material associated with me,
+*  or by the way, same thing with you,
+*  there's a corpus of YouTube transcripts
+*  and other academic papers and talks that you've given,
+*  and you can kind of get your hands around that.
+*  And that's how these systems are trained.
+*  They take all that data collectively,
+*  they put it in there, and that's why this works
+*  as well as it does.
+*  And that's why if you ask ChatGPT to speak or write
+*  like me or like you or like somebody else,
+*  it will actually generally do a really good job
+*  because it has all of our prior text in its training data.
+*  That said, from here on out, this gets harder.
+*  And of course, the reason this gets harder
+*  is because now we have AI that can create text.
+*  We have AI that can create text at industrial scale.
+*  Is it watermarked as AI-generated text?
+*  How hard would it be to do that?
+*  I think it's impossible.
+*  I think it's impossible.
+*  There are people who are trying to do that.
+*  This is a hot topic in the classroom.
+*  I was talking to a friend who's got like a 14-year-old kid
+*  in a class and there's like these recurring scandals.
+*  Like every kid in the class is using ChatGPT
+*  to like write their essays or to help them write their essays.
+*  And then the teacher is using one of,
+*  there's a tool that you can use that it purports
+*  to be able to tell you whether something was written
+*  by ChatGPT, but it's like only right like 60% of the time.
+*  And so there was this case where the student wrote an essay
+*  where their parents sat and watched them write the essay.
+*  And then they submitted it
+*  and this tool got the conclusion incorrect.
+*  And then the student feels outraged
+*  because he got unfairly cheated,
+*  but the teacher is like, well, you're all using the tool.
+*  Then it turns out there's another tool
+*  that basically you feed in text and it actually,
+*  it's sort of, they call it a summarizer,
+*  but what it really is is it's a cheating mechanism
+*  to basically just shuffle the words around enough
+*  so that it sheds whatever characteristics
+*  were associated with AI.
+*  So there's like an arms race going on
+*  in the educational settings right now
+*  around this exact question.
+*  I don't think it's possible to do,
+*  there are people working on the watermark.
+*  I don't think it's possible to do the watermarking.
+*  And I think it's just kind of obvious
+*  why it's not possible to do that,
+*  which is you can just read the output for yourself.
+*  It's really good.
+*  How are you actually gonna tell the difference
+*  between that and something that a real person wrote?
+*  And then by the way, you can also ask ChatGPT
+*  to write in different styles.
+*  So you can tell it like,
+*  write in the style of a 15 year old.
+*  You can tell it to write in the style
+*  of a non-native English speaker.
+*  Or if you're a non-native English speaker,
+*  you can tell it to write in the style of an English speaker,
+*  native English speaker, right?
+*  And so the tool itself will help you evade.
+*  So I don't think that,
+*  I think there's a lot of people
+*  who are gonna want to distinguish, right?
+*  Quote real versus fake.
+*  I think those days are over.
+*  Genie's out of the bottle.
+*  Genie's completely out of the bottle.
+*  And by the way, I actually think this is good.
+*  This doesn't map to my worldview
+*  of how we use this technology anyway,
+*  which we can come back to.
+*  So there's that.
+*  So there's that.
+*  And then there's the problem therefore
+*  of like the so-called deep fake problem.
+*  So then there's the problem of like deliberate,
+*  basically manipulation.
+*  And that's like one of your many enemies.
+*  What if you're increasingly on the list of enemies,
+*  like mine, who basically is like,
+*  wow, I know how I'm gonna get him, right?
+*  I'm gonna use it to create something
+*  that looks like a Huberman transcript
+*  and I'm gonna have him say all these bad things.
+*  Or a video.
+*  Or a video.
+*  I mean, Joe Rogan and I were deep faked in a video.
+*  I don't wanna flag people to it.
+*  So I won't talk about what it was about,
+*  but where it, for all the world,
+*  looked like a conversation that we were having
+*  and we never had that specific conversation.
+*  Yeah, that's right.
+*  So that's gonna happen for sure.
+*  And so what there's gonna need to be
+*  is there's gonna need to be basically registries
+*  where basically you, like in your case,
+*  you will submit your legitimate content into a registry
+*  under your unique cryptographic key, right?
+*  And then basically there will be a way to check
+*  against that registry to see
+*  whether that was the real thing.
+*  And I think this needs to be done for sure
+*  for public figures.
+*  It needs to be done for politicians.
+*  It needs to be done for music.
+*  What about taking what's already out there
+*  and being able to authenticate it or not?
+*  In the same way that many times per week I get asked,
+*  is this your account about some,
+*  a direct message that somebody got on Instagram
+*  and I always tell them, look,
+*  I only have the one account, this one verified account.
+*  Although now with the advent of pay to play verification
+*  makes it a little less potent as a security blanket
+*  for knowing if it's not this account,
+*  then it's not me.
+*  But in any case, these accounts pop up all the time
+*  pretending to be me.
+*  And I'm relatively low on the scale, not low,
+*  but relatively low on the scale to say like a Beyonce
+*  or something like that,
+*  who has hundreds of millions of followers.
+*  So is there a system in mind where people could go in
+*  and verify text, click yes or no, this is me,
+*  this is not me.
+*  And even there, there's the opportunity for people to fudge
+*  to eliminate things about themselves
+*  that they don't want out there by saying,
+*  no, that's not me, I didn't actually say that or create that.
+*  Yeah, no, that's right.
+*  And so, yeah, so technologically,
+*  it's actually pretty straightforward.
+*  So the way to implement this technologically
+*  is with public key cryptography,
+*  which is the basis for how cryptography information
+*  is secured in the world today.
+*  And so basically what you would do,
+*  the implementation form of this would be,
+*  you would pick whatever is your most trusted channel.
+*  Let's say it's your YouTube channel, as an example,
+*  where just everybody just knows that it's you
+*  on your YouTube channel,
+*  because you've been doing it for 10 years or whatever,
+*  and it's just obvious.
+*  And you would just publish like in the About Me page
+*  on YouTube, you would just publish
+*  your public cryptographic key that's unique to you.
+*  And then anytime anybody wants to check
+*  to see whether any piece of content is actually you,
+*  they go to a registry in the cloud somewhere,
+*  and they basically submit, they basically say,
+*  okay, is this him?
+*  And then they can basically,
+*  to see whether somebody with your public key,
+*  you had actually certified that this was something
+*  that you made.
+*  Now, who runs that registry is an interesting question.
+*  If that registry is run by the government,
+*  we will call that the Ministry of Truth.
+*  I think that's probably a bad idea.
+*  If that registry is run by a company,
+*  we would call that basically the equivalent
+*  of like a credit bureau or something like that.
+*  Maybe that's how it happens.
+*  The problem with that is that company now becomes
+*  hacking target number one, right,
+*  of every bad person on earth, right?
+*  Because you can, if anybody breaks into that company,
+*  they can fake all kinds of things.
+*  Yeah, they own the truth.
+*  Right, they own the truth, right.
+*  And by the way, insider threat,
+*  also their employees can monkey with it, right?
+*  So you have to really trust that company.
+*  The third way to do it is with a blockchain, right?
+*  And so this, with the crypto blockchain technology,
+*  you could have a distributed system,
+*  basically a distributed database in the cloud
+*  that is run through a blockchain,
+*  and then it implements this cryptography
+*  and the certification process.
+*  What about quantum internet?
+*  Is that another way to encrypt these things?
+*  I know most of our listeners
+*  are probably not familiar with quantum internet,
+*  but put simply, it's a way to secure communications
+*  on the internet.
+*  Let's just leave it at that.
+*  It's sophisticated, and we'll probably do a whole episode
+*  about this at some point,
+*  but maybe you have a succinct way
+*  of describing quantum internet,
+*  but that would be better.
+*  If so, please offer it up.
+*  But is quantum internet going to be one way
+*  to secure these kinds of data and resources?
+*  Maybe in the future, years in the future.
+*  We don't yet have working quantum computers in practice,
+*  so it's not currently something you could do,
+*  but maybe in a decade or two.
+*  Tell me, I'm gonna take a stab
+*  at defining quantum internet in one sentence.
+*  It's a way in which if anyone were to try and peer in
+*  on a conversation on the internet,
+*  it essentially would be futile
+*  because of the way that quantum internet
+*  changes the way that the communication is happening so fast
+*  and so many times in any one conversation.
+*  It's essentially changing the translation or the language
+*  so fast that there's just no way to keep up with it.
+*  Is that more or less accurate?
+*  Yeah, conceivably.
+*  Not yet, but yeah, someday.
+*  So going back to AI,
+*  most people who hear about AI are afraid of AI.
+*  Well, I think most of them who aren't informed.
+*  This goes back to our elites versus masses thing.
+*  Oh, interesting.
+*  Well, I heard you say that, you know,
+*  and this is from a really wonderful tweet thread
+*  that we will link in the show note captions
+*  that you put out not long ago
+*  and that I've read now several times
+*  and that everyone really should take the time to read.
+*  It probably takes about 20 minutes to read it carefully
+*  and to think about each piece and I highly recommend it.
+*  But you said, and I'm quoting here,
+*  let's address the fifth,
+*  the one thing I actually agree with,
+*  which is AI will make it easier
+*  for bad people to do bad things.
+*  So yeah.
+*  Yeah, well, so yes.
+*  So yeah, so first of all,
+*  there is a general freak out happening around AI.
+*  I think it's primarily, it's one of these, again,
+*  it's an elite driven freak out.
+*  I don't think the man in the street knows cares
+*  or feels one way or the other
+*  because it's just not a relevant concept
+*  and it's probably just sounds like science fiction.
+*  So I think there's an elite driven freak out
+*  that's happening right now.
+*  I think that elite driven freak out has many aspects to it
+*  that I think are incorrect,
+*  not surprising.
+*  I would think that given that I think the elites
+*  are incorrect about a lot of things,
+*  but I think they're very wrong about a number of things.
+*  They're saying about AI.
+*  But that said, look, it's a,
+*  this is a very powerful new technology, right?
+*  This is like a new general purpose,
+*  like thinking technology, right?
+*  So like, what if machines could think, right?
+*  And what if you could use machines that think
+*  and what if you could have them think for you?
+*  There's obviously a lot of good that could come from that,
+*  but also people, you know, like criminals could use them
+*  to plan better crimes.
+*  You know, terrorists could use them to plan better terror
+*  attacks and so forth.
+*  And so these are going to be tools that bad people can use
+*  to do bad things for sure.
+*  I can think of some ways that AI could be leveraged
+*  to do fantastic things.
+*  Like in the realm of medicine,
+*  an AI pathologist perhaps can scan 10,000 slides
+*  of histology and find the one micro tumor cellar aberration
+*  that would turn into a full blown tumor.
+*  Whereas the even mildly fatigued or well rested human
+*  pathologists as great as they come might miss that.
+*  And perhaps the best solution is for both of them to do it.
+*  And then for the human to verify what the AI has found
+*  and vice versa.
+*  Right, that's right.
+*  And that's just one example.
+*  I mean, I can come up with thousands of examples
+*  where this would be wonderful.
+*  I'll give you another one by the way of medicine.
+*  So you're talking about some analytic result,
+*  which is good and important.
+*  The other is like the machines are going to be much better
+*  in bedside manner.
+*  They're going to be much better at dealing with the patient.
+*  And we already know there's already been a study.
+*  There's already been a study on that.
+*  So there was already a study done on this
+*  where there was a study team that scraped thousands
+*  of medical questions off of an internet forum.
+*  And then they had real doctors answer the questions.
+*  And then they had busy GPT-4 answer the questions.
+*  And then they had another panel of doctors
+*  score the responses.
+*  Right, so there were no patients experimented on here.
+*  This was a test contained within the medical world.
+*  And then the panel of the judges,
+*  the panel of doctors or the judges scored the answers
+*  on both factual accuracy and on bedside manner on empathy.
+*  And the GPT-4 was equal or better
+*  on most of the factual questions analytically already.
+*  And it's not even a specifically trained medical AI.
+*  But it was overwhelmingly better on empathy.
+*  Amazing.
+*  Right, and so, and you know, I don't think, yeah, I don't,
+*  do you treat patients directly in your work?
+*  No, I don't. You don't, yeah, so.
+*  We run clinical trials.
+*  Right.
+*  But I don't do any direct clinical.
+*  So I, you know, I have no direct experience with this.
+*  But from the surgeons, I've from,
+*  like if you talk to surgeons,
+*  or you talk to people who train surgeons,
+*  what they'll tell you is like surgeons need
+*  to have an emotional remove from their patients
+*  in order to do a good job with the surgery.
+*  The side effect of that, and by the way, look,
+*  it's a hell of a job to have to go in
+*  and tell somebody that they're gonna die, right?
+*  Or that they have, so they're never gonna recover.
+*  They're never gonna walk again or whatever it is.
+*  And so there's sort of something inherent in that job
+*  where they need to keep an emotional reserve
+*  from the patient, right, to be able to do the job.
+*  And it's expected of them as professionals.
+*  The machine has no such limitation.
+*  Like the machine could be as sympathetic
+*  as you want it to be for as long as you want it to be.
+*  It can be infinitely sympathetic.
+*  It's happy to talk to you at four in the morning.
+*  It's happy to sympathize with you.
+*  And by the way, it's not just sympathizing you
+*  in the way that, oh, it's just lying, you know,
+*  it's just making up words to lie to you
+*  to make you feel good.
+*  It can also sympathize with you in terms of helping you
+*  through all the things that you can actually do
+*  to improve your situation, right?
+*  And so, you know, boy, like if you'd be, you know,
+*  can you keep a patient actually on track
+*  with a physical therapy program?
+*  Can you keep a patient on track with a nutritional program?
+*  Can you keep a patient off of drugs or alcohol, right?
+*  And if they have a machine medical companion
+*  that's with them all the time
+*  that they're talking to all the time,
+*  it's infinitely patient, infinitely wise, right?
+*  Infinitely loving, right?
+*  And it's just gonna be there all the time.
+*  And it's gonna be encouraging.
+*  And it's gonna be saying, you know,
+*  you did such a great job yesterday.
+*  I know you can do this again today.
+*  Cognitive behavioral therapy is an obvious fit here.
+*  These things are gonna be great.
+*  And that's already starting.
+*  But you can already use CHAT GPT as a CBT therapist
+*  if you want.
+*  It's actually quite good at it.
+*  And so there's a universe here that's,
+*  it goes to what you said.
+*  There's a universe here that's opening up,
+*  which is what I believe is it's partnership
+*  between man and machine, right?
+*  It's a symbiotic relationship,
+*  not an adversarial relationship.
+*  And so the doctor is going to pair with the AI
+*  to do all the things that you described.
+*  But the patient is also going to pair with the AI.
+*  And I think this partnership that's gonna emerge
+*  is gonna lead, among other things,
+*  to actually much better health outcomes.
+*  I mean, I've relied for so much of my life
+*  on excellent mentors from a very young age and still now,
+*  in order to make best decisions possible
+*  with the information I had.
+*  And rarely were they available at four in the morning,
+*  sometimes, but not on a frequent basis.
+*  And they fatigue like anybody else.
+*  And they have their own stuff like anybody else,
+*  baggage events in their life, et cetera.
+*  What you're describing is sort of AI coach
+*  or therapist of sorts that hopefully would learn
+*  to identify our best self
+*  and encourage us to be our best self.
+*  And when I say best self,
+*  I don't mean that in any kind of pop psychology way.
+*  I mean, I could imagine AI very easily knowing
+*  how well I slept the night before
+*  and what types of good or bad decisions
+*  I tend to make at two o'clock in the afternoon
+*  when I've only had five hours of sleep,
+*  or maybe just less REM sleep the night before.
+*  It might encourage me to take a little more time
+*  to think about something.
+*  It might give me a little tap on the wrist
+*  through a device that no one else would detect too.
+*  You know, refrain from something.
+*  Never gonna judge you.
+*  It's never gonna be resentful.
+*  It's never gonna be upset that you didn't listen to it.
+*  It's never gonna go on vacation.
+*  It's gonna be there for you.
+*  Like, I think this is the way people are going to live.
+*  It's gonna start with kids
+*  and then over time it's gonna be adults.
+*  The way people are gonna live is they're gonna have
+*  a exactly friend, therapist, companion, mentor,
+*  coach, teacher, assistant.
+*  Or by the way, maybe multiple of those.
+*  Maybe we're actually talking about six different personas
+*  interacting, which is a whole other possibility.
+*  But they're gonna have-
+*  A committee.
+*  A committee, yeah, yeah.
+*  A committee.
+*  Yeah, exactly, actually different personas.
+*  And maybe, by the way, when there are difficult decisions
+*  to be made in your life,
+*  maybe what you wanna hear is the argument
+*  among the different personas.
+*  And so you're just gonna grow up.
+*  You're just gonna have this in your life.
+*  And you're gonna always be able to talk to it
+*  and always be able to learn from it
+*  and always be able to help it.
+*  And it's gonna be a symbiotic relationship.
+*  I think it's gonna be a much better way to live.
+*  I think people are gonna get a lot out of it.
+*  What modalities will it include?
+*  So I can imagine my phone has this engine in it,
+*  this AI companion, and I'm listening in headphones
+*  as I walk into work and it's giving me some,
+*  not just encouragement, some warnings, some thoughts,
+*  things that I might ask Mark Andreessen today
+*  that I might not have thought of, and so on.
+*  I could also imagine it having a more human form.
+*  I could imagine it being tactile, having some haptics,
+*  so tapping to remind me so that it's not gonna enter
+*  our conversation in a way that it interferes
+*  or distracts you, but I would be aware.
+*  Oh, right.
+*  Things of that sort.
+*  How many different modalities are we going to allow
+*  these AI coaches to approach us with?
+*  And is anyone actually thinking
+*  about the hardware piece right now?
+*  Because I'm hearing a lot about the software piece.
+*  What does the hardware piece look like?
+*  This is where Silicon Valley's gonna kick in.
+*  So the entrepreneurial community
+*  is gonna try all of those, right?
+*  By the way, the big companies and startups
+*  are gonna try all those.
+*  And so obviously there's big companies that are working.
+*  The big companies have talked about a variety of these,
+*  including heads-up displays, AR, VR, kinds of things.
+*  There's lots of people doing voice.
+*  The voice thing is, voice is a real possibility.
+*  It may just be an earpiece.
+*  There's a new startup that just unveiled a new thing
+*  where they actually project.
+*  So you'll have a pendant you wear on a necklace
+*  and it actually projects, literally it will project images
+*  on your hand or on the table or on the wall in front of you.
+*  So maybe that's how it shows up.
+*  Yeah, there are people working on so-called haptic
+*  or touch-based kinds of things.
+*  There are people working on actually picking up
+*  nerve signals out of your arm to be able to,
+*  there's some science for being able to do basically
+*  self-vocalization.
+*  So maybe you could pick up that way.
+*  Building conduction.
+*  So yeah, these are all going to be tried.
+*  So that's one question is the physical form of it.
+*  And then the other question is the software version of it,
+*  which is like, okay, what's the level of abstraction
+*  that you wanna deal with these things in?
+*  Right now it's like a question-answer paradigm,
+*  so-called chat bot, ask a question, get an answer,
+*  ask a question, get an answer.
+*  Well, you want that to go for sure
+*  to more of a fluid conversation.
+*  You want it to build up more knowledge of who you are
+*  and you don't wanna have to explain yourself
+*  the second time and so forth.
+*  And then you wanna be able to tell it things like,
+*  well, remind me this, that, or be sure and tell me
+*  when acts.
+*  But then maybe over time, more and more,
+*  you want it actually deciding when it's gonna talk to you.
+*  Right?
+*  And when it thinks it has something to say,
+*  it says it and otherwise it stays silent.
+*  And normally, at least in my head,
+*  unless I make a concerted effort to do otherwise,
+*  I don't think in complete sentences.
+*  So presumably these AI, these machines
+*  could learn my style of fragmented internal dialogue
+*  and maybe I have an earpiece and I'm walking in
+*  and I start hearing something, but it's some,
+*  advice, et cetera, encouragement, discouragement.
+*  But at some point, those sounds that I hear
+*  in an earphone are very different than seeing something
+*  or hearing something in the room.
+*  We know this based on the neuroscience
+*  of musical perception and language perception.
+*  Hearing something in your head is very different.
+*  And I could imagine at some point
+*  that the AI will cross a precipice where,
+*  if it has inline wiring to actually control neural activity
+*  in specific brain areas, and I don't mean very precisely,
+*  even just stimulating a little more prefrontal
+*  cortical activity, for instance, through the earpiece.
+*  A little ultrasound wave now can stimulate
+*  prefrontal cortex in a non-invasive way.
+*  That's being used clinically and experimentally.
+*  That the AI could decide that I need to be
+*  a little bit more context aware, right?
+*  This is something that is very beneficial
+*  for those listening that are trying to figure out
+*  how to navigate through life.
+*  Know the context you're in and know the catalog
+*  of behaviors and words that are appropriate
+*  for that situation and not others.
+*  This would go along with agreeableness, perhaps,
+*  but strategic agreeableness, right?
+*  Context is important.
+*  There's nothing diabolical about that.
+*  Context is important.
+*  But I could imagine the AI recognizing,
+*  ah, we're entering a particular environment.
+*  I'm now actually gonna ramp up activity
+*  in prefrontal cortex a little bit in a certain way
+*  that allows you to be more situationally aware
+*  of yourself and others, which is great
+*  unless I can't necessarily short circuit that influence
+*  because at some point the AI is actually then controlling
+*  my brain activity and my decision making and my speech.
+*  I think that's what people fear is that once we cross
+*  that precipice that we are giving up control
+*  to the artificial versions of our human intelligence.
+*  And look, I think we have to decide.
+*  We collectively, and we as individuals,
+*  I think have to decide exactly how to do that.
+*  And this is the big thing that I believe about AI.
+*  It's just a much more, I would say, practical view
+*  of the world than a lot of the panic that you hear
+*  is just like, these are machines.
+*  They're able to do things that increasingly are like
+*  the things that people can do in some circumstances,
+*  but these are machines.
+*  We build the machines.
+*  We decide how to use the machines.
+*  When we want the machines turned on, they're turned on.
+*  When we want them turned off, they're turned off.
+*  And so, yeah, so I think that's absolutely the kind of thing
+*  that the individual person should always be in charge of.
+*  I mean, everyone was, and I have to imagine
+*  some people are still afraid of CRISPR, of gene editing.
+*  But gene editing stands to revolutionize our treatment
+*  of all sorts of diseases.
+*  Inserting and deleting particular genes in adulthood,
+*  not having to recombine in the womb a new organism
+*  is an immensely powerful tool.
+*  And yet the Chinese scientists who did CRISPR on humans,
+*  this has been done, actually did his postdoc at Stanford
+*  with Steve Quake, then went to China,
+*  did CRISPR on babies, mutated something,
+*  I believe it was one of the HIV receptors.
+*  I'm told it was with the intention
+*  of augmenting human memory.
+*  It had very little to do, in fact,
+*  with limiting susceptibility to HIV per se,
+*  to do with the way that that receptor is involved
+*  in human memory.
+*  The world demonized that person.
+*  We actually don't know what happened to them,
+*  whether or not they have a laboratory now
+*  or they're sitting in jail, it's unclear.
+*  But in China and elsewhere,
+*  people are doing CRISPR on humans.
+*  We know this.
+*  It's not legal in the US and other countries,
+*  but it's happening.
+*  Do you think it's a mistake for us
+*  to fear these technologies so much
+*  that we back away from them and end up 10, 20 years
+*  behind other countries that could use it
+*  for both benevolent or malevolent reasons?
+*  Yeah, so there's always, and you know,
+*  the details matter, so it's technology by technology.
+*  But I would say there's two things.
+*  You always have to think in these questions,
+*  I think, in terms of counterfactuals
+*  and opportunity cost, right?
+*  And so CRISPR is an interesting one.
+*  CRISPR, you manipulate the human genome.
+*  Nature may place the human genome
+*  like in all kinds of ways.
+*  Yeah, when you pick a spouse
+*  and you have a child with that spouse,
+*  you're doing genetic recombination.
+*  You are really, yes.
+*  You are quite possibly, if you're Genghis Khan,
+*  you're determining the future of humanity, right?
+*  By those, like, yeah, nature, I mean, look, mutations.
+*  So this is the old question of like basically,
+*  this is all state of nature, state of grace,
+*  like basically is nature good
+*  and then therefore artificial things are bad?
+*  A lot of people have like ethical views like that.
+*  I'm always at the view that like nature's a bitch
+*  and wants us dead.
+*  Like nature's out to get us, man.
+*  Like nature wants to kill us, right?
+*  Like nature wants to like involve all kinds
+*  of like horrible viruses.
+*  Nature wants to do plagues.
+*  Nature wants to like do, you know, weather, you know,
+*  like nature wants to do all kinds of stuff.
+*  I mean, look, nature religion was the original religion,
+*  right?
+*  Like that was the original thing people worshiped.
+*  And the reason was because nature was the thing
+*  that was out to get you, right?
+*  Before you had scientific and technological methods
+*  to be able to deal with it.
+*  So the idea of not doing these things to me is just saying,
+*  oh, we're just gonna turn over the future
+*  of everything to nature.
+*  And I don't think that that,
+*  there's no reason to believe that that leads
+*  in a particularly good direction or a bad, you know,
+*  that's not a value neutral decision.
+*  And then the related thing that comes from that is this,
+*  always this question around what's called
+*  the precautionary principle,
+*  which shows up in all these conversations
+*  on things like CRISPR, which basically is this,
+*  it's this principle that basically says
+*  the inventors of a new technology should be required
+*  to prove that it will not have negative effects
+*  before they roll it out.
+*  This of course is a very new idea.
+*  This is actually a new idea in the 1970s.
+*  It was actually invented by the German Greens in the 1970s.
+*  Before that, people didn't think in those terms.
+*  People just invented things and rolled them out.
+*  And we got all of modern civilization
+*  by people inventing things and rolling them out.
+*  The German Greens came up with the precautionary principle
+*  for one specific purpose.
+*  I'll bet you can guess what it is.
+*  It was to prevent.
+*  Famine?
+*  Nuclear power.
+*  It was to shut down attempts to do civilian nuclear power.
+*  And if you fast forward 50 years later,
+*  you're like, wow, that was a big mistake, right?
+*  So what they said at the time was you have to prove
+*  that nuclear reactors are not gonna melt down
+*  and cause all kinds of problems.
+*  And of course, as an engineer,
+*  can you prove that that will never happen?
+*  Like you can't, like you can't rule out
+*  like things that might happen in the future.
+*  And so that philosophy was used to stop nuclear power,
+*  by the way, not just in Europe, but also in the US
+*  and around much of the rest of the world.
+*  And if you're somebody who's concerned
+*  about carbon emissions, of course,
+*  this is the worst thing that happened in the last 50 years
+*  in terms of energy.
+*  We actually have the silver bullet answer
+*  to unlimited energy with zero carbon emissions,
+*  nuclear power.
+*  We choose not to do it.
+*  Not only do we choose not to do it,
+*  we're actually shutting down the plants that we have now,
+*  right, in California.
+*  We just shut down the big plant.
+*  Germany just shut down their plants.
+*  Germany's in the middle of an energy war with Russia, right,
+*  that we are informed is existential
+*  for the future of Europe.
+*  But unless the risk of nuclear power plant meltdown
+*  has increased, and I have to imagine it's gone the other way,
+*  what is the rationale behind shutting down these plants
+*  and not expanding them?
+*  Because nuclear is bad, right?
+*  Nuclear is icky, nuclear is nuclear.
+*  Nuclear has been tagged.
+*  It just sounds bad.
+*  Yeah. Nuclear.
+*  Yeah, yeah, yeah.
+*  Go nuclear.
+*  Well, so what happened?
+*  We didn't shut down postal offices,
+*  and you hear, go postal.
+*  So what happened was, so nuclear technology arrived
+*  on planet Earth as a weapon, right?
+*  So it arrived in the form of the,
+*  the first thing they did was in the middle of World War II.
+*  So the first thing they did was the atomic bomb
+*  they dropped on Japan.
+*  And then there were all the debates
+*  that followed around nuclear weapons and disarmament.
+*  And there's a whole conversation to be had, by the way,
+*  about that, because there's different views
+*  you could have on that.
+*  And then it was in the like 50s and 60s
+*  where they started to roll out civilian nuclear power.
+*  And then there were accidents.
+*  There was like, you know, Three Mile Island melted down,
+*  and then Chernobyl melted down in the Soviet Union,
+*  and then even recently, you know, Fukushima melted down.
+*  And so, you know, there have been meltdowns.
+*  And so I think it was a combination of, it's a weapon.
+*  It is sort of icky.
+*  This is what scientists sometimes say, the ick factor, right?
+*  It's sort of, you know, it's radioactive, it glows green.
+*  And by the way, it becomes like a mythical fictional thing.
+*  And so you have all these movies of like horrible,
+*  you know, super villains powered by nuclear energy
+*  and all this stuff.
+*  Well, the intro to The Simpsons, right,
+*  is the nuclear power plant and the three-eyed fish
+*  and the, you know, all the negative implications
+*  of this nuclear power plant run by,
+*  at least on The Simpsons, idiots.
+*  And that is the, you know, the dystopia
+*  where people are unaware of just how bad it is.
+*  And who owns the nuclear power plant, right?
+*  This is like evil, you know, this is like evil capitalist,
+*  right, like, so it's like connected to like,
+*  you know, capitalism, right?
+*  And then- So we're blaming Matt Groening
+*  for the demise of a particular-
+*  He certainly didn't help.
+*  No, he didn't help.
+*  Right?
+*  But it's literally this amazing thing
+*  where if you're just like thinking,
+*  if you're just thinking like rationally scientifically,
+*  you're like, okay, we want to get rid of carbon.
+*  This is the obvious way to do it.
+*  So, okay, fun fact, Richard Nixon did two things
+*  that really mattered on this.
+*  One is he defined in 1971 something called
+*  project independence, which was to create
+*  a thousand new state of the art nuclear plants,
+*  civilian nuclear plants in the US by 1980,
+*  and to get the US completely off of oil,
+*  and cut the entire US energy grid
+*  over to nuclear power electricity,
+*  cut over to electric cars, the whole thing,
+*  like detached from carbon.
+*  You'll notice that didn't happen.
+*  Why did that not happen?
+*  Because he also created the EPA
+*  and the Nuclear Regulatory Commission,
+*  which then prevented that from happening, right?
+*  And then Nuclear Regulatory Commission
+*  did not authorize a new nuclear plant
+*  in the US for 40 years.
+*  Why would he hamstring himself like that?
+*  You know, he got distracted by Watergate in Vietnam.
+*  I think Ellsberg just died recently, right?
+*  The guy who released the Pentagon Papers.
+*  Yeah, so it's complicated.
+*  But it's the, yeah, yeah, yeah, exactly.
+*  It's this thing, yeah, he didn't,
+*  he left office shortly thereafter.
+*  He didn't have time to fully figure this out.
+*  I don't know whether he would have figured it out or not.
+*  Look, Ford could have figured it out.
+*  Carter could have figured it out.
+*  Reagan could have figured it out.
+*  Any of these guys could have figured it out.
+*  It's like the most obvious,
+*  and knowing what we know today,
+*  it's the most obvious thing in the world.
+*  The Russia thing is the amazing thing.
+*  It's like Europe is literally funding
+*  Russia's invasion of Ukraine by paying them for oil, right?
+*  And they can't shut off the oil
+*  because they won't cut over to nuclear, right?
+*  And then of course what happens, okay,
+*  so then here's the other kicker of what happens, right?
+*  Which is they won't do nuclear,
+*  but they wanna do renewables, right?
+*  Sustainable energy.
+*  And so what they do is they do solar and wind.
+*  Solar and wind are not reliable
+*  because it sometimes gets dark out
+*  and sometimes the wind doesn't blow.
+*  And so then what happens is they fire up the coal plants,
+*  and so the actual consequence of the precautionary principle
+*  for the purpose it was invented
+*  is a massive spike in use of coal.
+*  That's taking us back over 100 years.
+*  Yes, correct.
+*  That is the consequence of the precautionary principle.
+*  That's the consequence of that mentality.
+*  And so it's a failure of a principle on its own merits
+*  for the thing it was designed for.
+*  And then there's a whole movement of people
+*  who want to apply it to every new thing.
+*  And this is the hot topic on AI right now in Washington,
+*  which is like, oh my God, these people have to prove
+*  that this can never get used for bad things.
+*  Sorry, I'm hung up on this nuclear thing
+*  and I wonder, can it just be renamed?
+*  I mean, seriously, I mean, there is something
+*  about the naming of things.
+*  We know this in biology, right?
+*  I mean, you know, Lamarckian evolution
+*  and things like that are bad.
+*  These are bad words in biology,
+*  but we had a guest on this podcast, Odid Rishavi,
+*  who's over in Israel, who's shown, you know,
+*  inherited traits.
+*  But if you talk about it as Lamarckian,
+*  then it has all sorts of negative implications,
+*  but his discoveries have important implications
+*  for everything from inherited trauma
+*  to treatment of disease.
+*  I mean, there's all sorts of positives that await us
+*  if we are able to reframe our thinking around something
+*  that yes, indeed could be used for evil,
+*  but that has enormous potential
+*  and that is in agreement with nature, right?
+*  This fundamental truth that, at least to my knowledge,
+*  no one is revising in any significant way anytime soon.
+*  So what if it were called something else?
+*  Instead of nuclear, it's called, you know, sustainable, right?
+*  I mean, it's amazing how marketing can shift our perspective
+*  of robots, for instance, or anyway,
+*  I'm sure you can come up with better examples than I can,
+*  but is there a good solid PR firm
+*  working from the nuclear side?
+*  Thunbergian.
+*  It's a great Thunbergian.
+*  So-
+*  Oh, Thunbergian.
+*  Thunbergian, like if she was in favor of it.
+*  Which by the way, she's not, she's dead set against it.
+*  She said that.
+*  100%, yeah.
+*  Based on Thunbergian principles.
+*  The prevailing ethic in environmentalism for 50 years
+*  is that nuclear is evil.
+*  Like they won't consider it.
+*  There are, by the way,
+*  certain environmentalists who disagree with this.
+*  And so Stuart Brand is the one that's been the most public
+*  and he has impeccable credentials in the space.
+*  And he wrote the-
+*  Polar's catalog?
+*  Polar's catalog guy, yeah.
+*  And he's written a whole bunch
+*  of really interesting books since.
+*  And he wrote a recent book that goes through in detail.
+*  He's like, yes, obviously the correct environmental thing
+*  to do is nuclear power.
+*  And we should be implementing project independence.
+*  We should be building 1,000.
+*  Specifically, he didn't say this,
+*  but this is what I would say.
+*  We should hire Charles Koch.
+*  We should hire Koch Industries.
+*  And they should build us 1,000 nuclear power plants.
+*  And then we should give them the presidential medal
+*  of freedom for saving the environment.
+*  And that would put us independent of our reliance on oil.
+*  Yeah, then we're done with oil.
+*  Like think about what happens.
+*  We're done with oil, zero emissions.
+*  We're done with the Middle East.
+*  We're done.
+*  We're done.
+*  We're not drilling on American land anymore.
+*  We're not drilling on foreign land.
+*  Like we have no military entanglements
+*  at places where we're drilling.
+*  We're not, you know, despoiling Alaska.
+*  We're not, nothing, no offshore rigs, no nothing.
+*  We're done.
+*  And you basically just, you build state-of-the-art plants
+*  engineered properly.
+*  You have them just completely contained
+*  when there's nuclear waste,
+*  you just entomb the waste, right, in concrete.
+*  So it just sits there forever.
+*  It's just very small footprint kind of thing.
+*  And you're just done.
+*  And so this is like the most,
+*  to me it's like scientifically, technologically,
+*  this is just like the most obvious thing in the world.
+*  It's a massive tell on the part of the people
+*  who claim to be pro-environment
+*  that they're not in favor of this.
+*  And if I were to say, tweet that I'm pro-nuclear power
+*  because it's the more sustainable form of power,
+*  if I hypothetically did that today,
+*  what would happen to me in this?
+*  You know, you'd be a crypto-fascist, you know.
+*  Interesting.
+*  Interesting.
+*  Dirty, evil capitalist, you know, a monster.
+*  How dare you?
+*  I'm unlikely to run that experiment.
+*  I was just curious.
+*  That was what we call a Gdankin experiment.
+*  You're a terrible, Andrew, you're a terrible human being.
+*  Wow.
+*  We were looking for evidence
+*  that you're a terrible human being,
+*  and now we know it, right?
+*  And so this is a great example of the,
+*  I gave Andrew a book on the way in here with this.
+*  My favorite new book.
+*  It's the title of it is When Reason Goes on Holiday.
+*  And this is a great example of it,
+*  is the people who simultaneously say
+*  they're environmentalists and say they're anti-nuclear power.
+*  Like the positions simply don't reconcile.
+*  But that doesn't bother them like at all.
+*  So be clear, I predict none of this will happen.
+*  Amazing.
+*  I need to learn more about long clear power.
+*  Long coal.
+*  Long coal.
+*  Long coal, investing coal.
+*  Because you think we're just gonna revert.
+*  It's the energy source of the future.
+*  Well, because it can't be solar and wind
+*  because they're not reliable.
+*  So you need something.
+*  If it's not nuclear,
+*  it's gonna be either like oil, natural gas or coal.
+*  And you're unwilling to say bet on nuclear
+*  because you don't think that the socio-political
+*  elitist trends that are driving against nuclear
+*  are likely to dissipate anytime soon.
+*  Not a chance.
+*  I can't imagine.
+*  It would be great if they did,
+*  but the powers that be are very locked in
+*  on this as a position.
+*  And look, they've been saying this for 50 years.
+*  And so they'd have to reverse themselves
+*  off of a bad position they've had for 50 years.
+*  And people really don't like to do that.
+*  One thing that's good about this and other podcasts
+*  is that young people listen
+*  and they eventually will take over.
+*  And by the way, I will say also,
+*  there are nuclear entrepreneurs.
+*  So there are actually, on the point of young kids,
+*  there are a bunch of young entrepreneurs
+*  who are basically not taking no for an answer.
+*  And they're trying to develop,
+*  in particular, there's people trying to develop
+*  new very small form factor nuclear power plants
+*  with a variety of possible use cases.
+*  So, look, maybe they show up with a better mousetrap
+*  and people take a second look, but we'll see.
+*  Or just rename it.
+*  So my understanding is that you think we should go all in
+*  on AI with the constraints that we discover we need
+*  in order to rein in safety and things of that sort,
+*  not unlike social media,
+*  not unlike the internet.
+*  Not unlike what we should have done with nuclear power.
+*  And in terms of the near infinite number of ways
+*  that AI can be envisioned to harm us,
+*  how do you think we should cope with that psychologically?
+*  You know, because I can imagine a lot of people
+*  listening to this conversation are thinking,
+*  okay, that all sounds great,
+*  but there are just too many what ifs that are terrible.
+*  Right, you know, what if the machines take over?
+*  What if, you know, all the silly example I gave earlier,
+*  but, you know, what if one day I could log into my,
+*  you know, hard earned bank account and it's all gone?
+*  You know, the AI version of myself like ran off
+*  with someone else and with all my money, right?
+*  Right, my AI coach abandoned me for somebody else
+*  after it learned all the stuff that I taught it.
+*  It took off with somebody else, stranded, you know?
+*  And it has my bank account numbers,
+*  like this kind of thing, right?
+*  You could really make this scenario horrible
+*  if you kept going.
+*  Well, we can throw in a benevolent example as well
+*  to counter it, but it's just kind of fun to think about
+*  where the human mind goes, right?
+*  So first I say we got to separate the real problems
+*  from the fake problems.
+*  And so there's a lot of the science fiction scenarios
+*  I think are just not real.
+*  And the ones that you just cited as an example,
+*  like it's not, that's not what's gonna happen.
+*  And I can explain why that's not what's gonna happen.
+*  So there's a set of fake ones.
+*  The fake ones are the ones that just aren't,
+*  I think, technologically grounded, that aren't rational.
+*  It's the AI is gonna like wake up and decide to kill us all.
+*  It's gonna like, yeah, it's gonna develop the kind of agency
+*  where it's gonna steal our money,
+*  you know, money and our spouse and everything else,
+*  our kids, like that's just, that's not how it works.
+*  And then there's also all these concerns,
+*  you know, destruction of society concerns.
+*  And this is, you know, misinformation, hate speech,
+*  deep fakes, like all that stuff,
+*  which I don't think is a real, is actually a real problem.
+*  And then there's a, people have a bunch of economic concerns
+*  around, you know, what's gonna take all the jobs, right?
+*  All those kinds of things, we could talk about that.
+*  I don't think those are, those are,
+*  I don't think that's actually the thing that happens.
+*  But then there are two actual real concerns
+*  that I actually do very much agree with.
+*  And one of them is what you said,
+*  which is bad people doing bad things.
+*  And there's a whole set of things to be done inside there.
+*  The big one is we should use AI to build defenses
+*  against all the bad things, right?
+*  And so, for example, there's a concern,
+*  AI is gonna make it easier for bad people
+*  to build pathogens, right?
+*  Design pathogens in labs, which, you know,
+*  bad people, bad scientists can do today,
+*  but this is gonna make it easier to do.
+*  Well, obviously we should have the equivalent
+*  of an operation warp speed operating, you know,
+*  in perpetuity anyway, right?
+*  But then we should use AI to build much better
+*  bio defenses, right?
+*  And we should be using AI today to design,
+*  like for example, full spectrum vaccines
+*  against every possible form of pathogen, right?
+*  And so, defensive mechanism, hacking,
+*  you can use AI to build better defense tools, right?
+*  And so you should have a whole new kind of security suite
+*  wrapped around you, wrapped around your data,
+*  wrapped around your money,
+*  where you're having AI repel attacks.
+*  Disinformation, hate speech, deep fakes, all that stuff.
+*  You should have an AI filter when you use the internet,
+*  where you shouldn't have to figure out
+*  whether it's really me or whether it's a made up thing.
+*  You should have an AI assistant that's doing that for you.
+*  Oh yeah, I mean, these little banners and cloaks
+*  that you see on social media,
+*  like this has been deemed misinformation.
+*  You know, if you're me, you always click, right?
+*  Because you're like, what's behind the scrim?
+*  And then, or this is a, I don't always look at the,
+*  this image is gruesome type thing.
+*  Sometimes I just pass on that.
+*  But if it's something that seems debatable,
+*  of course you look.
+*  Well, and you should have an AI assistant with you
+*  when you're on the internet.
+*  And you should be able to tell that AI assistant
+*  what you want, right?
+*  So yes, I want the full experience to show me everything.
+*  I want it from a particular point of view,
+*  and I don't want to hear from these other people
+*  who I don't like.
+*  By the way, it's gonna be my eight year old is using this.
+*  I don't want anything that's gonna cause a problem,
+*  and I want everything filtered.
+*  And AI based filters like that,
+*  that you program and control are gonna work much better
+*  and be much more honest and straightforward and clear
+*  and so forth than what we have today.
+*  So anyway, so basically what I want people to do
+*  is think every time you think of like a risk
+*  of how it can be used, just think of like,
+*  okay, we can use it to build a countermeasure.
+*  And the great thing about the countermeasures
+*  is they can not only offset AI risks,
+*  they can offset other risks, right?
+*  Because we already live in a world
+*  where pathogens are a problem, right?
+*  We ought to have better vaccines anyway, right?
+*  We already live in a world where there's cyber hacking,
+*  cyber terrorism, they already live in a world
+*  where there's bad content on the internet.
+*  And we have the ability now to build much better
+*  AI power tools to deal with all those things.
+*  I also love the idea of the AI physicians,
+*  you know, getting decent healthcare in this country
+*  is so difficult, even for people who have means or insurance.
+*  I mean, the number of phone calls and waits
+*  that you have to go through to get a referral
+*  to see a specialist, I mean, it's absurd.
+*  Like, I mean, the process is absurd.
+*  I mean, it makes one partially or frankly ill
+*  just to go through the process of having to do all that.
+*  I don't know how anyone does it.
+*  And granted, I don't have the highest degree of patience,
+*  but I'm pretty patient and it drives me insane
+*  to even just get a remedial care.
+*  But so I can think of a lot of benevolent uses of AI
+*  and I'm grateful that you're bringing this up
+*  and here and that you've tweeted about it in that thread.
+*  Again, we'll refer people to that
+*  and that you're thinking about this.
+*  I have to imagine that in your role as investor nowadays,
+*  that you're also thinking about AI quite often
+*  in terms of all these roles.
+*  So does that mean that there are a lot of young people
+*  who are really bullish on AI and are going for it?
+*  Okay, this is here to stay.
+*  Okay.
+*  Unlike CRISPR, which is sort of in this liminal place
+*  where biotech companies aren't sure
+*  if they should invest or not in CRISPR
+*  because it's unclear whether or not the governing bodies
+*  are going to allow gene editing.
+*  Just like it was unclear 15 years ago
+*  if they were gonna allow gene therapy,
+*  but now we know they do allow gene therapy
+*  and immunotherapy.
+*  So there is a fight.
+*  Now having said that, there is a fight.
+*  There's a fight happening in Washington right now
+*  over exactly what should be legal or not legal
+*  and there's quite a bit of risk, I think,
+*  attached to that fight right now
+*  because there are some people in there
+*  that are telling a very effective story
+*  to try to get people either outlaw AI
+*  or specifically limit it to a small number of big companies,
+*  which I think is potentially disastrous.
+*  By the way, the EU also is like super negative.
+*  The EU has turned super negative
+*  on basically all new technology,
+*  so they're moving to try to outlaw AI,
+*  which if they succeed.
+*  Outlaw AI?
+*  It's like flat out don't want it.
+*  But that's like saying you're gonna outlaw the internet.
+*  I don't see how you can stop this trend.
+*  Frankly, they're not a big fan of the internet either.
+*  So I think they regret.
+*  Especially the EU bureaucrats,
+*  the people who run the EU in Brussels
+*  have a very negative view on a lot of modernity.
+*  But what I'm hearing here,
+*  calls to mind things that I've heard people
+*  like David Goggins say, which is,
+*  there's so many lazy, undisciplined people out there
+*  that nowadays it's easier and easier to become exceptional.
+*  I've heard him say something to that extent.
+*  It almost sounds like there's so many countries
+*  that are just backing off of particular technologies
+*  because it just sounds bad from the PR perspective
+*  that it's creating great kind of low-hanging fruit
+*  opportunities for people to barge forward
+*  and countries to barge forward
+*  if they're willing to embrace this stuff.
+*  It is, but number one,
+*  you have to have a country that wants to do that.
+*  And those exist and there are countries like that.
+*  But and then the other is, look,
+*  they need to be able to withstand the attack
+*  from stronger countries that don't want them to do it.
+*  So like EU, like the EU has nominal control over
+*  whatever it is, 27 or whatever member countries.
+*  So even if you're like whatever,
+*  the Germans get all fired up about whatever,
+*  Brussels can still in a lot of cases,
+*  just flat out basically control them
+*  and tell them not to do it.
+*  And then the US, I mean, look,
+*  we have a lot of control over a lot of the world.
+*  But it sounds like we sit somewhere sort of in between.
+*  Right now people are developing
+*  AI technologies in US companies.
+*  So it is happening.
+*  Yeah, today it's happening.
+*  But like I said, there's a set of people
+*  who are very focused in Washington right now
+*  about trying to either ban it outright
+*  or trying to, as I said,
+*  limit it to a small number of big companies.
+*  And then look, China's got a whole,
+*  the other part of this is China's got a whole different
+*  kind of take on this, right, than we do.
+*  And so they're of course going to allow it for sure,
+*  but they're gonna allow it in the ways
+*  that their system wants it to happen, right?
+*  Which is much more for population control
+*  and to implement authoritarianism.
+*  And then of course they are going to spread their technology
+*  and their vision of how society should run
+*  across the world, right?
+*  So we're back in a Cold War dynamic
+*  like we were with the Soviet Union
+*  where there are two different systems
+*  that have fundamentally different views
+*  on issues, you know, concepts like freedom
+*  and individual choices, freedom of speech and so on.
+*  And you know, we know where the Chinese stand.
+*  We're still figuring out where we stand.
+*  And there are a lot of,
+*  so I'm having a lot of schizophrenic,
+*  I'm having specifically a lot of schizophrenic conversations
+*  with people in DC right now where
+*  if I talk to them in China, it doesn't come up.
+*  They just like hate tech.
+*  They hate American tech companies.
+*  They hate AI.
+*  They hate social media.
+*  They hate this.
+*  They hate that.
+*  They hate crypto.
+*  They hate everything.
+*  And they just want to like punish and like ban.
+*  And like, they're just like very, very negative.
+*  But then if we have a conversation half hour later
+*  and we talk about China,
+*  then the conversation totally different.
+*  Now we need a partnership between the US government
+*  and American tech companies to defeat China.
+*  It's like the exact opposite discussion, right?
+*  Is that fear or competitiveness?
+*  On China specifically?
+*  In terms of the US response in Washington,
+*  when you bring up these technologies like,
+*  I'll lump CRISPR in there,
+*  things like CRISPR, nuclear power, AI,
+*  it all sounds very cold, very dystopian to a lot of people.
+*  And yet there are all these benevolent uses
+*  as we've been talking about.
+*  And then you say you raise the issue of China
+*  and then it sounds like this big dark cloud emerging.
+*  And then all of a sudden,
+*  we need to galvanize and develop these technologies
+*  to counter their effort.
+*  So is it fear of them or is it competitiveness or both?
+*  Well, so without them in the picture,
+*  you just have this and basically,
+*  there's an old Bedouin saying is me against my brother,
+*  me and my brother against my cousin,
+*  me and my brother, my cousin against the world, right?
+*  So it's actually it's evolution in action.
+*  The way I think about it is if there's no external threat,
+*  then the conflict turns inward.
+*  And then at that point,
+*  there's a big fight between specifically tech
+*  and then I was just say generally politics.
+*  And in my interpretation, that fight is
+*  it's a fight for status.
+*  It's fundamentally a fight for status and for power,
+*  which is like if you're in politics,
+*  you like the status quo of how power
+*  and status work in our society.
+*  You don't want these new technologies
+*  to show up and change things
+*  because change is bad, right?
+*  Change threatens your position.
+*  It threatens the respect that people have for you
+*  and your control over things.
+*  So I think it's primarily a status fight,
+*  which we could talk about.
+*  But the China thing is just like a straight up geopolitical,
+*  us versus them.
+*  Like I said, it's like a Cold War scenario.
+*  And look, 20 years ago,
+*  the prevailing view in Washington was
+*  we need to be friends with China, right?
+*  And we're gonna be trading partners with China.
+*  And yes, they're a totalitarian dictatorship,
+*  but like if we trade with them over time,
+*  they'll become more democratic.
+*  In the last five to 10 years,
+*  it's become more and more clear that that's just not true.
+*  And now there's a lot of people
+*  in both political parties in DC
+*  who very much regret that
+*  and want to change too much more
+*  of a sort of a Cold War footing.
+*  Are you willing to comment on TikTok
+*  and technologies that emerged from China
+*  that are in widespread use within the US?
+*  Like how much you trust them or don't trust them?
+*  I can go on record myself by saying that early on
+*  when TikTok was released,
+*  we were told at Stanford faculty that we should not
+*  and could not have TikTok accounts nor WeChat accounts.
+*  So let's start with,
+*  there are a lot of really bright Chinese tech entrepreneurs
+*  and engineers who are trying to do good things.
+*  I'm totally positive about that.
+*  So I think that many of the people mean very well.
+*  But the Chinese have a specific system
+*  and the system is very clear.
+*  And unambiguous.
+*  And the system is everything in China
+*  is owned by the party.
+*  It's not even owned by the state,
+*  it's owned by the party,
+*  it's owned by the Chinese Communist Party.
+*  So the Chinese Communist Party owns everything
+*  and they control everything.
+*  By the way, it's actually illegal to this day.
+*  It's illegal for a foreign investor
+*  to buy equity in a Chinese company.
+*  There's all these like basically legal machinations
+*  that people do to try to do something
+*  that's like economic equivalent to that,
+*  but it's actually still illegal to do that.
+*  The Chinese have no intention,
+*  the Chinese Communist Party has no intention
+*  of letting foreigners own any of China.
+*  Like zero intention of that.
+*  And they regularly move to make sure
+*  that that doesn't happen.
+*  So they own everything, they control everything.
+*  So I-
+*  I'm sorry to interrupt you,
+*  but people in China can invest in American companies
+*  and show all the time.
+*  Well, they can subject to US government constraints.
+*  There is a US government system
+*  that attempts to mediate that called CFIUS
+*  and there are more and more limitations being put on that.
+*  But if you can get through that approval process,
+*  then legally you can do that.
+*  Whereas the same is not true with respect to China.
+*  And so, so they just have a system.
+*  And so if you're the CEO of a Chinese company,
+*  it's not optional.
+*  If you're the CEO of ByteDance or a CEO of Tencent,
+*  it's not option,
+*  your relationship with the Chinese Communist Party
+*  is not optional, it's required.
+*  And what's required is you are a unit of the party
+*  and you and your company do what the party says.
+*  And when the party says,
+*  we get full access to all user data in America,
+*  you say yes.
+*  When the party says you change the algorithm
+*  to optimize to a certain social result, you say yes.
+*  Right?
+*  It's whatever Xi Jinping and his party cadres decide
+*  and that's what gets implemented.
+*  If you're the CEO of a Chinese tech company,
+*  there is a political officer assigned to you
+*  who has an office down the hall.
+*  And at any given time, he can come down the hall,
+*  he can grab you out of your staff meeting or board meeting
+*  and he can take you down the hall
+*  and he can make you sit for hours
+*  and study Marxism and Xi Jinping thought
+*  and quiz you on it and test you on it.
+*  And you'd better pass the test.
+*  Right?
+*  So it's like a straight political control thing.
+*  And then by the way, if you get cross-files with them,
+*  like, you know.
+*  So when we see tech founders getting called up to Congress
+*  for what looks like interrogation,
+*  but it's probably pretty light interrogation
+*  compared to what happens in other countries.
+*  Yeah, it's state power.
+*  They just have this view of top-down state power
+*  and they view it's their system
+*  and they view that it's necessary
+*  for lots of historical and moral reasons
+*  that they've defined and that's how they run.
+*  And then they've got a view that says
+*  how they want to propagate that vision outside the country.
+*  And they have these programs like Belt and Road, right?
+*  That basically are intended to propagate
+*  kind of their vision worldwide.
+*  And so they are who they are.
+*  I will say that they don't lie about it, right?
+*  They're very straightforward.
+*  They give speeches, they write books,
+*  you can buy Xi Jinping speeches,
+*  he goes through the whole thing.
+*  They have their tech 2025 plan,
+*  you know, it's like 10 years ago,
+*  their whole AI agenda, it's all in there.
+*  And is there a goal that, you know, in 200 years,
+*  300 years that China is the superpower controlling everything?
+*  Yeah, or 20 years, 30 years or two years, three years, yeah.
+*  Or they got a shorter horizon.
+*  I mean, look, they're, yeah, they're,
+*  I mean, if you're, you know,
+*  and I don't know everybody's a little bit like this, I guess,
+*  but yeah, if you're, they want to win.
+*  Well, the CRISPR in humans example that I gave earlier
+*  was interesting to me because first of all,
+*  I'm a neuroscientist and they could have edited any genes,
+*  but they chose to edit the genes involved
+*  in the attempt to create super memory babies,
+*  which presumably would grow into super memory adults.
+*  And whether or not they succeeded in that isn't clear.
+*  Those babies are alive and presumably by now,
+*  walking, talking, as far as I know,
+*  whether or not they have super memories isn't clear.
+*  But China is clearly unafraid to augment biology in that way.
+*  And I believe that that's inevitable,
+*  that's going to happen elsewhere,
+*  probably first for the treatment of disease.
+*  But at some point, I'm assuming people are going to augment
+*  biology to make smarter kids.
+*  I mean, people, not always, but often will select mates
+*  based on the traits they would like their children
+*  to inherit.
+*  So this happens far more frequently
+*  than could be deemed bad.
+*  Either that or people are bad
+*  because people do this all the time,
+*  selecting mates that have physical and psychological
+*  and cognitive traits that you would like
+*  your offspring to have.
+*  CRISPR is a more targeted approach, of course.
+*  You know, the reason I'm kind of giving this example
+*  and examples like it is that I feel like so much of the way
+*  that governments and the public react to technologies
+*  is to just take that first glimpse
+*  and it just feels scary.
+*  You think about the old Apple ad of the 1984 ad.
+*  I mean, there was one very scary version
+*  of the personal computer and computers
+*  and robots taking over and everyone like automatons.
+*  And then there was the Apple version
+*  where it's all about creativity, love and peace.
+*  And it had the pseudo psychedelic California thing
+*  going for it.
+*  Again, great marketing seems to convert people's thinking
+*  about technology such that what was once viewed
+*  as very scary and dangerous and dystopian
+*  is like an oasis of opportunity.
+*  So why are people so afraid of new technologies?
+*  So this is the thing I've tried to understand
+*  for a long time because the history is so clear
+*  and the history basically is every new technology
+*  is greeted by what's called a moral panic.
+*  And so it's basically this like historical freak out
+*  of some kind that causes people to basically predict
+*  the end of the world.
+*  And you go back in time
+*  and actually this historical sort of effect,
+*  it happens even in things now where you just go back
+*  and it's ludicrous, right?
+*  And so you mentioned earlier the satanic panic of the 80s
+*  and the concern around like heavy metal music.
+*  Before that, there was like a freak out around comic books
+*  in the 50s, there was a freak out around jazz music
+*  in the 20s and 30s, it's devil music.
+*  There was a freak out, the arrival of bicycles
+*  caused a moral panic in the like 1860s, 1870s.
+*  Bicycles?
+*  Bicycles, yeah, so there was this thing at the time.
+*  So bicycles were the first,
+*  they were the first very easy to use
+*  personal transportation thing
+*  that basically let kids travel between towns,
+*  quickly without any overhead.
+*  You have to take care of your horse,
+*  just jump on a bike and go.
+*  And so there was a historical panic
+*  specifically around at the time young women
+*  who for the first time were able to venture
+*  outside the confines of the town
+*  to maybe go have a boyfriend in another town.
+*  And so the magazines at the time
+*  ran all these stories on this phenomenon,
+*  medical phenomenon called bicycle face.
+*  And the idea of bicycle face was the exertion
+*  caused by peddling a bicycle would cause your face,
+*  your face would grimace and then if you were on the bicycle
+*  for too long, your face would lock into place.
+*  And then, right?
+*  Sorry, I'm just saying.
+*  Right, and then you would be unattractive
+*  and therefore of course unable to then get married.
+*  Cars, there was a moral panic around red flag laws.
+*  There were all these laws that created the automobile,
+*  automobile freaked people out.
+*  So there are all these laws.
+*  If in the early days of the automobile,
+*  in a lot of places you had to,
+*  you would take a ride in automobile.
+*  And automobiles, they broke down all the time.
+*  So it would be only rich people had automobiles.
+*  It would be you and your mechanic in the car, right?
+*  From when it broke down.
+*  And then you had to hire another guy
+*  to walk 200 yards in front of the car with a red flag.
+*  And he had to wave the red flag.
+*  And so you could only drive as fast as he could walk
+*  because the red flag was to warn people
+*  that the car was coming.
+*  And then I think it was Pennsylvania,
+*  they had the most draconian version,
+*  which was they were very worried
+*  about the car scaring the horses.
+*  And so there was a law that said,
+*  if you saw a horse coming, you need to stop the car.
+*  You had to disassemble the car
+*  and you had to hide the pieces of the car
+*  behind the nearest hay bale,
+*  wait for the horse to go by.
+*  And then you could put your car back together.
+*  So anyways, this example is electric lighting.
+*  There was a panic around like,
+*  whether it was just gonna come like completely ruin,
+*  this is gonna completely ruin like the romance of the dark
+*  and it was gonna cause,
+*  a whole new kind of like terrible civilization
+*  where everything is always brightly lit.
+*  So there's just like all these examples.
+*  And so it's like, okay, what on earth is happening
+*  that this is always what happens?
+*  And so I finally found this book
+*  that I think has a good model for it.
+*  A book is called Men, Machines and Modern Times.
+*  And it's written by this MIT professor like 60 years ago.
+*  So it predates the internet,
+*  but it uses a lot of historical examples.
+*  And what he says basically is he says,
+*  there's actually a three stage response.
+*  There's a three stage societal response
+*  to new technologies.
+*  It's very predictable.
+*  And he says, stage one is basically just denial,
+*  just ignore, like we just like don't pay attention to this.
+*  Nobody takes it seriously.
+*  We just like, there's just a blackout on the whole topic.
+*  He says, that's stage one.
+*  Stage two is rational counter argument.
+*  So stage two is where you line up
+*  all the different reasons why this can't possibly work.
+*  It can't possibly ever get cheaper,
+*  this, that, not fast enough or whatever the thing is.
+*  And then he says, stage three,
+*  he says is when the name calling begins.
+*  So he says stage three is like, right, right.
+*  So when they failed to ignore it
+*  and they failed to argue society out of it,
+*  they moved to the name calling, right?
+*  And what's the name calling?
+*  The name calling is this is evil.
+*  This is moral panic.
+*  This is evil. This is terrible.
+*  This is awful.
+*  This is gonna destroy everything.
+*  Like, don't you understand like, you know, all this,
+*  you know, it's just like, this is horrifying.
+*  And you, you know, the person working on it
+*  are being reckless and evil and you know,
+*  all this stuff and you must be stopped.
+*  And he said, the reason for that is because basically,
+*  fundamentally what these things are,
+*  is they're a war over status.
+*  It's a war over status
+*  and therefore a war over power.
+*  And then of course, ultimately money,
+*  but the status, human status is the thing.
+*  And so, and cause what he says is,
+*  what is the societal impact of a new technology?
+*  The societal impact of a new technology
+*  is it reorders status in the society.
+*  So the people who are specialists in that technology
+*  become high status.
+*  And the people who are specialists
+*  in the previous way of doing things become low status.
+*  And generally people don't adapt, right?
+*  Generally, if you're the kind of person who is high status
+*  because you're an evolved adaptation
+*  to an existing technology,
+*  you're probably not the kind of person
+*  that's gonna enthusiastically try to replant yourself
+*  onto a new technology.
+*  And so this is like every politician
+*  who's just like in a complete state of panic
+*  about social media.
+*  Like why are they so freaked out about social media?
+*  Because they all know that the whole nature
+*  of modern politics has changed.
+*  The entire battery of techniques that you use
+*  to get elected before social media are now obsolete.
+*  Obviously, the best new politicians of the future
+*  are gonna be 100% creations of social media.
+*  And podcasts.
+*  And podcasts.
+*  And we're seeing this now
+*  as we head towards the next presidential election
+*  that podcasts clearly are going to be featured
+*  very heavily in that next election
+*  because long form content is a whole different landscape.
+*  So this is exactly, so this is the,
+*  this is so funny.
+*  So Rogan, you know Rogan's had like what?
+*  Like he's had like Bernie, he's had like Tulsi.
+*  He's had like a whole series of things.
+*  RFK most recently.
+*  And that's created a lot of controversy.
+*  But also my understanding is like,
+*  I'm sure he's invited everybody.
+*  I'm sure he'd love to have Biden on.
+*  I'm sure he'd love to have Trump on.
+*  I'm sure he'd love to have-
+*  You'd have to ask him.
+*  I mean, I think that, you know,
+*  every podcaster has their own ethos
+*  around who they invite on and why and how.
+*  So I certainly can't speak for him.
+*  But I have to imagine that any opportunity
+*  to have true long form discourse
+*  that would allow people to really understand
+*  people's positions on things,
+*  I have to imagine that he would be in favor
+*  of that sort of thing.
+*  Yeah, or somebody else would, right?
+*  You know, some other top podcaster, not only would, right?
+*  And so there's a, my point, exactly,
+*  I totally agree with you.
+*  But my point is, if you're a politician,
+*  if you're a, let's say a legacy politician, right?
+*  You have the option of embracing the new technology.
+*  You can do it anytime you want, right?
+*  But you don't.
+*  They're not.
+*  They won't.
+*  Like, they won't do it.
+*  And why won't they do it?
+*  Well, okay, first of all, they want to ignore it, right?
+*  They want to pretend that things aren't changing.
+*  You know, second is they want, like,
+*  to have rational counter arguments for, like,
+*  why the existing campaign system works the way that it does
+*  and this and that and the existing media networks
+*  and like, here's how you like do things
+*  and here's how you give speeches
+*  and here's the clothes you wear and the tie
+*  and the thing in the pocket square
+*  and like, you've got your whole system.
+*  It's how you succeeded was coming up through that system.
+*  So you've got all your arguments as to why
+*  and then we've now proceeded to the name calling phase,
+*  which is now it's evil, right?
+*  Now it's evil for somebody to show up on a stream,
+*  God forbid, for three hours and actually say what they think.
+*  Right?
+*  It's going to destroy society, right?
+*  So it's exactly right.
+*  It's like, it's a classic example of this pattern.
+*  And anyway, so Morrison says in the book,
+*  basically, this is the forever pattern.
+*  Like, this will never change.
+*  This is one of those things where you can learn about it
+*  and still nothing, the entire world could learn about this
+*  and still nothing changes
+*  because at the end of the day,
+*  it's not the tech that's the question.
+*  It's the reordering of status.
+*  I have a lot of thoughts about the podcast component.
+*  I'll just say this because I want to get back to
+*  the topic of innovation of technology.
+*  But on a long form podcast, there's no safe zone.
+*  You know, the person can get up and walk out,
+*  but if the person interviewing them
+*  and certainly Joe is the best of the very best,
+*  if not the most skilled podcaster in the entire universe
+*  at continuing to press people on specific topics
+*  when they're trying to bob and weave and wriggle out,
+*  he'll just keep either drilling
+*  or alter the question somewhat in a way that forces them
+*  to finally come up with an answer of some sort.
+*  And I think that probably puts certain people's
+*  cortisol levels through the roof
+*  such that they just would never go on there.
+*  Well, I think there's another deeper question also
+*  or another question along with that,
+*  which is how many people actually have something to say?
+*  Real substance.
+*  Right, like how many people can actually talk
+*  in a way that's actually interesting to anybody else
+*  for any length of time?
+*  Like how much substance is there really?
+*  And like a lot of historical politics was to be able
+*  to manufacture a facade where you honestly,
+*  as far as you can't tell like how deep the thoughts are.
+*  Like even if they have deep thoughts,
+*  like it's kept away from you,
+*  they would certainly never come to it.
+*  It's going to be an interesting next.
+*  What is it about, you know, 20 months or so?
+*  Yeah, yeah, yeah.
+*  Leading into the next election.
+*  The panic and the name calling I've already started.
+*  So yeah, it's going to be.
+*  Yeah, I was going to say this list of three things,
+*  denial, you know, the counter argument and name calling.
+*  It seems like with AI, it's already just jumped
+*  to numbers two and three.
+*  Yes, correct.
+*  We're already at two and three and it's kind of leaning three.
+*  Yes. Yeah.
+*  Yeah, that's correct.
+*  Well, so AI is unusual just because it had,
+*  so new technologies that take off,
+*  they almost always have a prehistory.
+*  They almost always have a 30 or 40 year history
+*  where people tried and failed to get them to work
+*  before they took off.
+*  AI has an 80 year prehistory, so it has a very long one.
+*  And then it just, it all of a sudden started to work
+*  dramatically well, like seemingly overnight.
+*  And so it went from basically,
+*  as far as most people were concerned,
+*  it went from, it doesn't work at all
+*  to it works incredibly well in one step.
+*  And that almost never happens.
+*  And so I actually think that's exactly what's happening.
+*  I think it's actually speed running this progression,
+*  just because if you use mid-journey or you use GPT
+*  or any of these things for five minutes,
+*  you're just like, wow.
+*  Like obviously this thing is going to be like,
+*  obviously in my life, this is going to be the best thing ever.
+*  Like, this is amazing.
+*  There's all these ways that I can use it.
+*  And then, and then therefore immediately you're like,
+*  oh my God, this is going to transform everything.
+*  Therefore step three.
+*  Right, straight to the name calling.
+*  In the face of all this, there are innovators out there.
+*  Maybe they are aware they are innovators.
+*  Maybe they are already starting companies
+*  or maybe they are just some young or older person
+*  who has these five traits in abundance or doesn't,
+*  but knows somebody who does and is partnering with them
+*  in some sort of idea.
+*  And you have an amazing track record
+*  at identifying these people, I think in part,
+*  because you have those same traits yourself.
+*  I've heard you say the following,
+*  the world is a very malleable place.
+*  If you know what you want and you go for it
+*  with maximum energy and drive and passion,
+*  the world will often reconfigure itself around you
+*  much more quickly and easily than you would think.
+*  That's a remarkable quote because it says
+*  at least two things to me.
+*  One is that you have a very clear understanding
+*  of the inner workings of these great innovators.
+*  We talked a little bit about that earlier,
+*  these five traits, et cetera.
+*  But that also you have an intense understanding
+*  of the world landscape.
+*  And the way that we've been talking about it
+*  for the last hour or so is that it is a really intense
+*  and kind of oppressive landscape.
+*  You've got countries and organizations and elites
+*  and journalists that are trying to, not necessarily trying,
+*  but are suppressing the innovation process.
+*  I mean, that's sort of the picture that I'm getting.
+*  So it's like we're trying to innovate inside of a vice
+*  that's getting progressively tighter.
+*  And yet this quote argues that it is the person
+*  the boy or girl, man or woman who says,
+*  well, you know what, that all might be true,
+*  but my view of the world is the way the world's gonna bend.
+*  Or I'm gonna create a dent in that vice that allows me
+*  to exist the way that I want.
+*  Or you know what, I'm actually gonna uncurl the vice
+*  the other direction.
+*  And so I'm at once picking up a sort of pessimistic
+*  glass half empty view of the world
+*  as well as a glass half full view.
+*  And so tell me about that.
+*  And if you would, could you tell us about that
+*  from the perspective of someone listening who is thinking,
+*  you know, I've got an idea and I know it's a really good one
+*  because I just know.
+*  I might not have the confidence of extrinsic reward yet,
+*  but I just know there's a seed of something.
+*  What does it take to foster that?
+*  And how do we foster real innovation in the landscape
+*  that we're talking about?
+*  Yeah, so part is I think you just,
+*  one of the ways to square it is I think you as the innovator
+*  need to be signed up to fight the fight.
+*  Right, so and again, this is where like
+*  the fictional portrayals of startups, I think,
+*  take people off course or even scientists or whatever,
+*  because when there's great success stories,
+*  they get kind of prettified after the fact
+*  and they get made to be like cute and fun.
+*  And it's like, yeah, no, like if you talk to anybody
+*  who actually did any of these things, like no,
+*  it was just like these things are always just like
+*  brutal exercises and just like sheer willpower
+*  and fighting, you know, fighting forces
+*  that are trying to get you.
+*  So part of it is you just, you have to be signed up
+*  to the fight and this kind of goes to the conscientiousness
+*  thing we're talking about.
+*  We also, my partner Ben uses the term courage a lot, right,
+*  which is some combination of like just stubbornness
+*  but coupled with like a willingness to take pain
+*  and not stop and, you know, have people think very bad things
+*  of you for a long time until it turns out, you know,
+*  you hopefully prove yourself, prove yourself correct.
+*  And so you have to be willing to do that.
+*  Like it's a contact sport.
+*  Like these aren't easy roads, right?
+*  It's a contact sport.
+*  So you have to be signed up for the fight.
+*  The advantage that you have as an innovator
+*  is that at the end of the day, the truth actually matters
+*  and all the arguments in the world,
+*  classic Victor Hugo quote is,
+*  there's nothing more powerful in the world
+*  than an idea whose time has come, right?
+*  Like if it's real, right?
+*  And this is so just pure substance.
+*  If the thing is real, if the idea is real,
+*  like if it's a legitimately good scientific discovery,
+*  you know, about how nature works,
+*  if it's a new invention, if it's a new work of art,
+*  and if it's real, you know, then you do at the end of the day,
+*  you have that on your side.
+*  And all of the people who are fighting you
+*  and arguing with you and telling you, no,
+*  they don't have that on their side, right?
+*  It's not like they're showing up with some other thing
+*  and they're like, my thing is better than your thing.
+*  Like that's not the main problem, right?
+*  The main problem is like, I have a thing, I'm convinced.
+*  Everybody else is telling me it's stupid, wrong.
+*  It should be illegal, whatever the thing is.
+*  But at the end of the day, I still have the thing, right?
+*  So at the end of the day, like, yeah,
+*  the truth really matters, the substance really matters,
+*  if it's real.
+*  It's really, I'll give you an example,
+*  it's really hard historically to find an example
+*  of a new technology that came into the world
+*  that was then pulled back.
+*  And you know, nuclear is maybe an example of that,
+*  but even still, there are still nuclear plants
+*  like running today, you know, that still exists.
+*  You know, I would say the same thing as scientific,
+*  like at least I've made this view, I don't know,
+*  I don't know of any scientific discovery that was made
+*  and then people like, I know there are areas of science
+*  that are not politically correct to talk about today,
+*  but every scientist knows the truth, right?
+*  Like the truth is still the truth.
+*  I mean, even the geneticists in the Soviet Union
+*  who were forced to buy in a Lysenkoism
+*  like knew the whole time that it was wrong.
+*  Like that I'm completely convinced of.
+*  Yeah, they couldn't delude themselves,
+*  especially because that basic training
+*  that one gets in any field establishes some core truths
+*  upon which even the crazy ideas have to rest.
+*  And if they don't, as you pointed out,
+*  things fall to pieces.
+*  I would say that even the technologies that did not pan out
+*  and in some cases were disastrous,
+*  but that were great ideas at the beginning
+*  are starting to pan out.
+*  So the example I'll give is that most people are aware
+*  of the Elizabeth Holmes Theranos debacle,
+*  to put it lightly, you know, analyzing what's in
+*  a single drop of blood as a way to analyze hormones
+*  and diseases and antibodies, et cetera.
+*  I mean, that's a great idea.
+*  It's a terrific idea as opposed to having a flambotomist
+*  come to your house or you have to go in
+*  and you get tapped with, you know,
+*  and then pulling vials and the whole thing.
+*  There's now a company born out of Stanford
+*  that is doing exactly what she sought to do,
+*  except that at least the courts ruled
+*  that she fudged the thing
+*  and that's why she's in jail right now.
+*  But the idea of getting a wide array of markers
+*  from a single drop of blood
+*  is an absolutely spectacular idea.
+*  The biggest challenge that company is going to confront
+*  is the idea that it's just the next Theranos.
+*  But if they've got the thing and they're not fudging it,
+*  as it apparently Theranos was,
+*  I think everything will work out, a la Victor Hugo.
+*  Yeah, exactly.
+*  Yeah.
+*  Yeah, because who wants to go back?
+*  Like if they get to the work, if it's real,
+*  it's going to be like, this is the thing,
+*  the opponents, they're not bringing their own ideas.
+*  They're not bringing their,
+*  oh, my idea is better than yours.
+*  Like that's not what's happening.
+*  They're bringing the silence or counter argument, right?
+*  Or a name calling.
+*  Well, this is why I think people who need to be loved
+*  probably stand a reduced chance of success.
+*  And maybe that's also why having people close to you
+*  that do love you and allowing that to be sufficient
+*  can be very beneficial.
+*  This gets back to the idea of partnership
+*  and family around innovators.
+*  Because if you feel filled up by those people local to you,
+*  in your home, then you don't need people on the internet
+*  saying nice things about you or your ideas
+*  because you're good and you can forge forward.
+*  Another question about innovation is the teams
+*  that you assemble around you.
+*  And you've talked before about
+*  this sort of small squadron model,
+*  sort of David and Goliath examples as well,
+*  where a small group of individuals can create a technology
+*  that frankly outdoes what a giant like Facebook
+*  might be doing or what any other large company
+*  might be doing.
+*  There are a lot of theories as to why that would happen,
+*  but I know you have some unique theories.
+*  Why do you think small groups
+*  can defeat large organizations?
+*  So the conventional explanation is I think correct.
+*  And it's just that large organizations
+*  have a lot of advantages,
+*  but they just have a very hard time
+*  actually executing anything because of all the overhead.
+*  So large organizations have
+*  combinatorial communication overhead.
+*  The number of people who have to be consulted,
+*  who have to agree on things gets to be staggering.
+*  The amount of time it takes to schedule the meeting
+*  gets to be staggering.
+*  You get these really big companies
+*  and they have some issue they're dealing with.
+*  And it takes like a month to schedule the pre-meeting
+*  to plan for the meeting,
+*  which is gonna happen two months later,
+*  which is then gonna result in a post-meeting,
+*  which will then result in a board presentation,
+*  which will then result in planning offsite.
+*  I thought academia was bad,
+*  but what you're describing is giving me hives.
+*  Kafka was a documentary.
+*  Yeah, like this is, yeah.
+*  So it's just like these are,
+*  I mean, look, you'd have these organizations,
+*  and 100,000 people are more like,
+*  you're more of a nation state than a company.
+*  And you've got all these competing internal,
+*  it's the Bedouin thing I was saying
+*  before you've got all these internal,
+*  like at most big companies,
+*  your internal enemies are way more dangerous to you
+*  than anybody on the outside.
+*  Can you elaborate on that?
+*  Oh yeah, yeah, yeah.
+*  At a big company, the big competition
+*  is for the next promotion, right?
+*  And the enemy for the next promotion
+*  is the next executive over in your company.
+*  Like that's your enemy.
+*  The competitor on the outside is like an abstraction.
+*  Like maybe they'll matter someday, whatever.
+*  I gotta beat that guy inside my own company, right?
+*  And so the internal warfare is at least as intense
+*  as the external warfare.
+*  And so yeah, so it's just, I mean,
+*  this is just all the iron law of all these big bureaucracies
+*  and how they function.
+*  So if a big bureaucracy ever does anything productive,
+*  I think it's like a miracle.
+*  Like it's like a miracle to the point
+*  where there should be like a celebration.
+*  There should be parties,
+*  there should be like ticker tape parades
+*  for like big large organizations that actually do things.
+*  Like that's great because it's so rare.
+*  It doesn't happen very often.
+*  So anyway, so that's the conventional explanation.
+*  Whereas look, small companies, small teams,
+*  there's a lot that they can't do
+*  because they're not operating at scale
+*  and they don't have global coverage
+*  and all these kind of,
+*  they don't have the resources and so forth.
+*  But at least they can move quickly, right?
+*  They can organize fast.
+*  They can have it, if there's an issue today,
+*  they can have a meeting today.
+*  They can solve the issue today, right?
+*  And everybody they need to solve the issue
+*  is in the room today.
+*  And so they can just move a lot faster.
+*  I think that's part of it,
+*  but I think there's another deeper thing underneath that
+*  that people really don't like to talk about
+*  that takes us back full circle to where we started,
+*  which is just the sheer number of people in the world
+*  who are capable of doing new things
+*  is just a very small set of people.
+*  And so you're not gonna have 100 of them in a company
+*  or a thousand or 10,000.
+*  You're gonna have three, eight or 10 maybe.
+*  And some of them are flying too close to the sun.
+*  Some of them are blowing themselves up, right?
+*  Some of them are.
+*  So IBM, I actually first learned this
+*  that my first actual job job was at IBM
+*  when IBM was still on top of the world
+*  right before it caved in in the early 90s.
+*  And so when I was there, it was 440,000 employees,
+*  which, and again, if you inflation adjust,
+*  like today for that same size of business,
+*  inflation adjusted, market size adjusted,
+*  it's equivalent today
+*  of like a two or three million person organization.
+*  It was like a, it was a nation state.
+*  There were 6,000 people in my division.
+*  We were next door to another building
+*  that had another 6,000 people in another division.
+*  So you just, you could work there for years
+*  and never meet anybody who didn't work for IBM.
+*  The first half of every meeting was just IBM
+*  or is introducing themselves to each other.
+*  Like it was just mind boggling in the level of complexity.
+*  But they were so powerful that they had,
+*  at four years before I got there in 1985,
+*  they were 80% of the market capitalization
+*  of the entire tech industry, right?
+*  So they were at a level of dominance
+*  that even Google or Apple today is not even close to
+*  at the time.
+*  So that's how powerful they were.
+*  And so they had a system
+*  and it worked really well for like 50 years.
+*  They had a system which was,
+*  most of the employees in the company were expected
+*  to basically follow rules.
+*  So they dressed the same, they acted the same.
+*  They did everything out of the playbook.
+*  They were trained very specifically.
+*  But they had this category of people they called wild ducks.
+*  And this was an idea that the founder Thomas Watson
+*  came up with, wild ducks.
+*  And the wild ducks were,
+*  they often had the formal title of an IBM fellow.
+*  And they were the people who could make new things.
+*  And there were eight of them.
+*  And they got to break all the rules.
+*  And they got to invent new products.
+*  They got to go off and work on something new.
+*  They didn't have to report back.
+*  They got to pull people off of other projects
+*  to work with them.
+*  They got budget when they needed it.
+*  They reported directly to the CEO.
+*  They got whatever they needed.
+*  He supported them in doing it.
+*  And they were glassbreakers.
+*  And they showed, the one in Austin at the time
+*  was this guy, Andy Heller.
+*  And he would show up in jeans and cowboy boots.
+*  And amongst an ocean of men in blue suits,
+*  white shirts, red ties.
+*  And put his cowboy boots up on the table.
+*  And it was fine for Andy Heller to do that.
+*  And it was not fine for you to do that.
+*  And so they very specifically identified,
+*  we have almost like an aristocratic class
+*  within our company that gets to play by different rules.
+*  Now, the expectation is they deliver.
+*  Their job is to invent the next breakthrough product.
+*  But we, IBM management, know that the 6,000 person division
+*  is not gonna invent the next product.
+*  We know it's gonna be a crazy Andy Heller
+*  in his cowboy boots.
+*  And so I was always very impressed.
+*  And again, ultimately IBM had its issues.
+*  But that model worked for 50 years.
+*  Worked incredibly well.
+*  And I think that's basically the model that works.
+*  And so, but it's a paradox, right?
+*  Which is how do you have a large
+*  bureaucratic regimented organization,
+*  whether it's academia or government or business
+*  or anything that has all these rule followers
+*  and all these people who are jealous of their status
+*  and don't want things to change,
+*  but then still have that spark of creativity?
+*  I would say mostly it's impossible.
+*  Mostly it just doesn't happen.
+*  Those people get driven out, right?
+*  And in tech what happens is those people get driven out
+*  because we will fund them.
+*  These are the people we fund, right?
+*  I was gonna say, I gather that you are in the business
+*  of finding and funding the wild ducks.
+*  The wild ducks, that's exactly right.
+*  And actually, this is actually, close the loop.
+*  This is actually, I think the simplest explanation
+*  for why IBM ultimately caved in
+*  and then HP sort of in the 80s also caved in.
+*  IBM and HP kind of were,
+*  there were these incredible monolithic,
+*  incredible companies for 40 or 50 years.
+*  And then they kind of both caved in in the 80s and 90s.
+*  And I actually think it was the emergence of venture capital.
+*  It was the emergence of a parallel funding system
+*  where the wild ducks or in HP's case,
+*  their superstar tentacle people could actually leave
+*  and start their own companies.
+*  And again, it goes back to the university discussion
+*  we're having is like, this is what doesn't exist
+*  at the university level.
+*  This certainly does not exist at the government level.
+*  And until recently in media, it didn't exist
+*  until there's this thing that we call podcasts.
+*  Exactly, right, exactly, right.
+*  Which clearly have picked up some momentum.
+*  And I would hope that these other wild duck models
+*  will move quickly.
+*  Yeah, but the one thing you know, right,
+*  and you know this, like the one thing you know
+*  is the people on the other side are gonna be mad as hell.
+*  Yeah, they're going to, well, I think they're past denial.
+*  The counter arguments continue.
+*  The name calling is prolific.
+*  The name calling is fully underway, yes.
+*  Well, Mark, we've covered a lot of topics,
+*  but as with every time I talk to you,
+*  I learn oh, so very much.
+*  So I'm so grateful for you taking the time out
+*  of your schedule to talk about all of these topics
+*  in depth with us.
+*  You know, I'd be remiss if I didn't say
+*  that it is clear to me now that you are hyper realistic
+*  about the landscape, but you are also intensely optimistic
+*  about the existence of wild ducks.
+*  And those around them that support them
+*  and that are necessary for the implementation
+*  of their ideas at some point.
+*  And that also you have a real rebel inside you.
+*  So that is oh, so welcome on this podcast.
+*  And it's oh, so needed in these times and every time.
+*  So on behalf of myself and the rest of us here
+*  at the podcast and especially the listeners,
+*  thank you so much.
+*  Thanks for having me.
+*  Thank you for joining me for today's discussion
+*  with Mark Andreessen.
+*  If you're learning from and or enjoying this podcast,
+*  please subscribe to our YouTube channel.
+*  That's a terrific zero cost way to support us.
+*  In addition, please subscribe to the podcast
+*  on both Spotify and Apple.
+*  And on both Spotify and Apple,
+*  you can leave us up to a five-star review.
+*  If you have questions for me or comments about the podcast
+*  or guests that you'd like me to consider hosting
+*  on the Huberman Lab podcast,
+*  please put those in the comment section on YouTube.
+*  I do read all the comments.
+*  Please also check out the sponsors mentioned
+*  at the beginning and throughout today's episode.
+*  That's the best way to support this podcast.
+*  Not on today's podcast,
+*  but on many previous episodes of the Huberman Lab podcast,
+*  we discuss supplements.
+*  While supplements aren't necessary for everybody,
+*  many people derive tremendous benefit from them
+*  for things like improving sleep, hormone support and focus.
+*  The Huberman Lab podcast
+*  has partnered with Momentous Supplements.
+*  If you'd like to access the supplements discussed
+*  on the Huberman Lab podcast,
+*  you can go to Live Momentous spelled O-U-S.
+*  So it's livemomentous.com slash Huberman.
+*  And you can also receive 20% off.
+*  Again, that's livemomentous spelled O-U-S.com slash Huberman.
+*  If you haven't already subscribed
+*  to our neural network newsletter,
+*  our neural network newsletter
+*  is a completely zero cost monthly newsletter
+*  that includes summaries of podcast episodes,
+*  as well as protocols.
+*  That is short PDFs describing, for instance,
+*  tools to improve sleep, tools to improve neuroplasticity.
+*  We talk about deliberate cold exposure, fitness,
+*  various aspects of mental health.
+*  Again, all completely zero cost.
+*  And to sign up, you simply go to hubermanlab.com,
+*  go over to the menu in the corner,
+*  scroll down to newsletter and provide your email.
+*  We do not share your email with anybody.
+*  If you're not already following me on social media,
+*  I am Huberman Lab on all platforms.
+*  So that's Instagram, Twitter, Threads, LinkedIn and Facebook.
+*  And at all of those places,
+*  I talk about science and science related tools,
+*  some of which overlaps with the content
+*  of the Huberman Lab podcast,
+*  but much of which is distinct from the content
+*  of the Huberman Lab podcast.
+*  Again, it's Huberman Lab on all social media platforms.
+*  Thank you once again for joining me
+*  for today's discussion with Mark Andreessen.
+*  And last but certainly not least,
+*  thank you for your interest in science.
