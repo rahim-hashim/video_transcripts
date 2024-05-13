@@ -1,9 +1,9 @@
 ---
-Date Generated: May 09, 2024
+Date Generated: May 12, 2024
 Transcription Model: whisper medium 20231117
 Length: 3007s
 Video Keywords: ['The Ringer', 'Ringer NBA', 'NBA Show', 'NBA Podcast', 'Basketball Podcast', 'Basketball Show', 'Ringer Podcast', 'Bill Simmons Show', 'The Bill Simmons Podcast', 'Spotify Podcast', 'NBA News', 'Basketball News', 'Bill Simmons Ethan Strauss', 'Ethan Sherwood Strauss NBA', 'Adam Silver NBA']
-Video Views: 32999
+Video Views: 55334
 Video Rating: None
 ---
 

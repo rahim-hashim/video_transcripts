@@ -1,9 +1,9 @@
 ---
-Date Generated: May 03, 2024
+Date Generated: May 12, 2024
 Transcription Model: whisper medium 20231117
 Length: 3865s
 Video Keywords: ['NBA Playoffs', 'NBA Reactions', 'Bill Simmons', 'Ryen Russillo', 'Clippers', 'Nuggets', 'Lakers', 'Celtics', 'Heat', 'Mavericks', 'Suns', 'Timberwolves', 'Pacers', 'Thunder', 'Pelicans', 'Bucks', 'Knicks 76ers Game 6', 'Joel Embiid', 'Jalen Brunson']
-Video Views: 35805
+Video Views: 51365
 Video Rating: None
 ---
 
@@ -1217,74 +1217,88 @@ Video Rating: None
 *  It's a great point because the first game they seemed really close even without Zion.
 *  It was a nice up and down battle.
 *  And by game three, okay.
-*  Whatever it took for them the team.
-*  You know, the picks were all about what your.
-*  I felt the one thing that, you know, yeah, kind of agua die mom was too, right?
-*  We didn't play a lot of agreeables.
-*  It was always a team that had the winning side at meetings and hands up, designed
-*  guys and that sort of thing.
-*  And that's the whole point of losing.
-*  I wasn't with the Empire and awakened so many at series and production and
-*  stuff literally door Dusty in the L lip.
-*  So that's, so.
-*  It's kind of similar to something we were talking about in group chat, which is the face of the lead conversation.
+*  I want to see them do it against a team with a really good player.
+*  The fact that they got to play New Orleans without Zion.
+*  I probably underestimated it because I thought New Orleans was a possible upset
+*  pick, but there's something too though about the, you know, you brought up like the
+*  best player in the league kind of conversation, whether it's guys like ant who believe
+*  that about themselves or Luca, who, you know, the teammates and he believes that
+*  about himself, it's kind of similar to something we were talking about on group
+*  chat with the, the, with the, with the, the, with the, with the, with the, with the,
+*  with the, with the, with the, with the, with the, with the, with the, with the,
+*  chat, which is the face of the lead conversation.
 *  Yeah.
 *  To me, if you have to ask, you're probably not it.
 *  And like Tatum is kind of in that group.
-*  Like you're just not it.
-*  And I think he's not impressive about guys like Luca, guys like Shay and is a great example.
-*  When it was kind of first emerging, you could sense a bit of tension between him and towns as to what the identity and what the pecking order of the team was going to be.
-*  I don't really sense any of that anymore.
+*  Like you're, you're just not it.
+*  And I think he's not impressive about guys like Luca guys like Shay.
+*  And just a great example.
+*  When it was kind of first emerging, you could sense a bit of tension between him
+*  and towns as to what the identity and what the pecking order of the team was going
+*  to be, I don't really sense any of that anymore.
 *  And that's because you don't really have to ask with hands.
-*  Like it's abundantly clear that he is that guy and Luca is that guy and Shay is that guy and Tatum is a great leader and the best player on a great team.
-*  But he's not that guy.
+*  Like it is, it's abundantly clear that he is that guy and Luca is that guy.
+*  And Shay is that guy.
+*  And Tatum is a great leader and the best player on a great team, but he's not that guy.
 *  Yeah.
-*  Well, they lucked out because this poor Zynga's injury happens during a year where the Eastern Conference is just completely decimated.
-*  You would have thought they were the LeBron Cavs mid 2010s team with all the injury luck they got.
-*  It's sitting there for Ant.
+*  Well, they lucked out because this poor Zynga's injury happens during a year where
+*  the Eastern conference is just completely decimated.
+*  You would have thought they were a LeBron calves been 2010 steam with all the injury.
+*  Look, they got, um, it's sitting there for ant.
 *  And as we head into the weekend, you beat Denver.
 *  That's the official rival.
 *  For sure.
-*  They probably make the finals if they beat Denver, puts them in the finals.
+*  They probably make the finals that they beat Denver puts them in the finals.
 *  There's face to the league potential.
-*  And then we're going to Team USA in Paris in July.
-*  And there's there's a scenario here where he just starts checking off boxes and all of a sudden is the biggest star in the league.
+*  And then we're going to team USA in Paris in July.
+*  And there's, there's a scenario here where he just starts checking off boxes and all
+*  of a sudden is the biggest star in the league.
 *  And I don't think anyone else in the playoffs can say that.
-*  I mean, SGA, if he runs the slate and wins the title, it's maybe a conversation, but he doesn't have the charisma that Ant has.
-*  I mean, nobody has the charisma that Ant has.
-*  It would be more of a collective thing like, oh my God, the Thunder are here even sooner than we thought.
-*  And of course, Shay would be a part of that.
-*  But I think it would be like the credit and the praise would be a little bit more diverse.
-*  Presti would be like they've won the title and he is twenty nine first.
-*  He'd be like the guy Monopoly who's just paying people to roll the dice for him.
-*  He's like, hey, if you make my pick, I'll give you a second rounder in twenty twenty nine.
-*  If you go get me a Diet Coke, he's just taunting everybody.
-*  So we both have we both have Denver.
+*  It, I mean, SGA, if he runs the slate and wins the title, it's a, maybe a conversation,
+*  but he doesn't have the charisma that he has.
+*  I mean, nobody has the charisma.
+*  It has, it would be more of a collective thing.
+*  Like, Oh my God, the thunder here even sooner than we thought.
+*  And of course, Shay would be a part of that, but I think it would be like the,
+*  the credit and the praise would be a little bit more diverse.
+*  Presti would be like, they've won the title and he is 29 first.
+*  He'd be like the guy in monopoly.
+*  He was just paying people to roll the dice for him.
+*  He's like, Hey, if you make my pick, I'll give you a second rounder in 2029.
+*  And if you go get me a diet Coke, he's just taunting everybody.
+*  Uh, so we both have, we both have Denver.
 *  Yes.
-*  Minus two or five on Fandor.
-*  I'm going to try to figure out some sort of.
-*  Serious boost.
+*  Minus two Oh five.
+*  I'm Fandora.
+*  I'm going to try to figure out some sort of a serious boost.
 *  It does feel like if I had gone to my head, I would do Denver.
-*  OK, see, but I want to see if Dallas closes out the Clippers in a certain way.
-*  It might make me rethink the OKC thing.
-*  I want to see Dallas come out and basically chop their heads off like nothing left.
+*  Okay.
+*  See, but I want to see if Dallas closes out the Clippers in a certain way.
+*  It might make me rethink the okay.
+*  See thing.
+*  I want to see Dallas come out and basically chop their heads off.
+*  Like nothing left.
 *  There's no chance you guys are coming back.
 *  We are ruining you guys.
-*  We're going to make Paul George want to get the fuck out here and go to the Easter conference and do one of those things.
-*  All right. Rob Mahoney.
-*  Thank you for staying up late with us live on YouTube.
-*  Dot com slash Bill Simmons.
-*  You can hear this podcast on the Bill Simmons podcast.
-*  You can listen to Rob on the Ringer on the show and also read you and the Ringer dot com.
-*  Any pieces coming?
-*  Yeah, I just had one this week about kind of the state of point guards in general.
-*  That was awesome. We did art for that, too.
+*  We're going to make Paul George want to get the fuck out of here and go to the
+*  Easter conference and do one of those things.
+*  All right.
+*  Rob Mahoney.
+*  Thank you for staying up late with us.
+*  Live on youtube.com slash bill Simmons.
+*  Uh, you can hear this podcast on the bill Simmons podcast.
+*  You can listen to Rob on the ringer MBA show and also you can read you
+*  and the ringer.com any pieces coming.
+*  Yeah.
+*  I just had one this week about kind of the state of point guards in general.
+*  That was awesome.
+*  We've got art for that too.
 *  That was a really fun read.
-*  Incredible work by the art team.
-*  And yeah, more features to come.
-*  We're in playoff mode right now.
+*  Incredible work by the art team and you got more features to come.
+*  We're in, we're in playoff mode right now.
 *  So there's some good stuff in the pipeline.
-*  Great. Good to see you.
+*  Great.
+*  Good to see you.
 *  Thanks for staying up.
 *  Thanks, Bill.
-*  Thanks.
+*  Yeah.

@@ -1,9 +1,9 @@
 ---
-Date Generated: May 09, 2024
+Date Generated: May 12, 2024
 Transcription Model: whisper medium 20231117
 Length: 786s
 Video Keywords: ['The Ringer', 'Ringer NFL', 'Ringer Football', 'NFL Podcast', 'NFL Show', 'Football Podcast', 'Football Show', 'Bill Simmons Football', 'The Bill Simmons Podcast', 'Football News', 'NFL News', 'Deion Sanders Colorado', 'University of Colorado Deion Sanders', 'Deion Sanders Coach', 'College Football', 'Deion Sanders NFL', 'Van Lathan Jr. Deion Sanders', 'Ryen Russillo Deion Sanders']
-Video Views: 44036
+Video Views: 52433
 Video Rating: None
 ---
 
