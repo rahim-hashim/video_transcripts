@@ -9,5 +9,6 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLYHjB_Comy8SKByVPadM3Xm0WJQV102Ya': 'Bill Simmons NFL',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNC-TM8dJ4EhlTPqD9H6PRD8': 'The Wall Street Journal',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNBaIXxT-J1hPynuPVyjbmxY': 'The Wall Street Journal',
-  'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman'
+  'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman',
+  'https://www.youtube.com/playlist?list=PLdMrbgYfVl-szepgVpArP0obwYgbKdfvx': 'The Ezra Klein Show'
 }
