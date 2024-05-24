@@ -242,6 +242,7 @@ if __name__ == '__main__':
 	parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
 	parser.add_argument('--max_load', help='If specified, the max number of videos to transcribe from a playlist',
 																		default=None, type=int)
+	parser.add_argument('--git', help='If specified, push the changes to git', action='store_true')
 
 	args = parser.parse_args()
 	
@@ -286,7 +287,9 @@ if __name__ == '__main__':
 	print(f'  Number of Videos Transcribed: {len(url_list)}')
 
 	# push to git
-	os.system('git add .')
-	os.system('git commit -m "Transcription Update"')
-	os.system('git push')
-	print('Pushed to Git')
+	if args.git:
+		print('Pushing to Git')
+		os.system('git add .')
+		os.system('git commit -m "Transcription Update"')
+		os.system('git push')
+		print('Pushed to Git')
