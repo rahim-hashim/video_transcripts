@@ -91,37 +91,38 @@ class Video:
 			if url == None:
 				# ask for the url
 				url = input('Enter the URL of the video: ')
+			youtube_obj = YouTube(url)
 			try:
-				youtube_obj = YouTube(url)
+				youtube_obj.check_availability()
 				streams = youtube_obj.streams.filter(only_audio=True)
-				stream = streams.first()
-				current_time_str = datetime.now().strftime('%Y%m%d_%H%M%S')
-				video_path = f'youtube_{current_time_str}.mp4'
-				# Set video attributes
-				self.title = stream.title
-				self.author = youtube_obj.author
-				self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
-				self.url = url
-				# rename the author to the specified author name
-				if playlist_url and playlist_url in podcast_playlist_names.keys():
-					print(f'  Renaming {self.author} to: {podcast_playlist_names[playlist_url]}')
-					self.author = podcast_playlist_names[playlist_url]
-				self.video_path = video_path
-				self.length = youtube_obj.length
-				self.rating = youtube_obj.rating
-				self.keywords = youtube_obj.keywords
-				self.description = youtube_obj.description
-				self.views = youtube_obj.views
-				self.transcript_exists = self.check_transcript()
-				if self.transcript_exists:
-					print(f'  Skipping video.')
-					return
-				print(f'Downloading video from: {url}')
-				stream.download(filename=video_path)
-				print(f'  Video downloaded to {video_path}')
-			except:
-				print(f'Invalid URL: {url}')
-				return None
+			except Exception as e:
+				print(f'  Error: {e}')
+				return
+			stream = streams.first()
+			current_time_str = datetime.now().strftime('%Y%m%d_%H%M%S')
+			video_path = f'youtube_{current_time_str}.mp4'
+			# Set video attributes
+			self.title = stream.title
+			self.author = youtube_obj.author
+			self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
+			self.url = url
+			# rename the author to the specified author name
+			if playlist_url and playlist_url in podcast_playlist_names.keys():
+				print(f'  Renaming {self.author} to: {podcast_playlist_names[playlist_url]}')
+				self.author = podcast_playlist_names[playlist_url]
+			self.video_path = video_path
+			self.length = youtube_obj.length
+			self.rating = youtube_obj.rating
+			self.keywords = youtube_obj.keywords
+			self.description = youtube_obj.description
+			self.views = youtube_obj.views
+			self.transcript_exists = self.check_transcript()
+			if self.transcript_exists:
+				print(f'  Skipping video.')
+				return
+			print(f'Downloading video from: {url}')
+			stream.download(filename=video_path)
+			print(f'  Video downloaded to {video_path}')
 		elif source=='local':
 			if local_path == None:
 				raise ValueError('Local Path must be provided for local videos')
@@ -283,3 +284,9 @@ if __name__ == '__main__':
 			video.delete_video()
 	print('Transcription Complete')
 	print(f'  Number of Videos Transcribed: {len(url_list)}')
+
+	# push to git
+	os.system('git add .')
+	os.system('git commit -m "Transcription Update"')
+	os.system('git push')
+	print('Pushed to Git')
