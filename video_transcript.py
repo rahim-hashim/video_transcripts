@@ -184,6 +184,10 @@ class Video:
 			f.write('Video Rating: None\n')
 		else:
 			f.write(f'Video Rating: {round(self.rating, 3)}\n')
+		if self.description == None:
+			f.write('Video Description: None\n')
+		else:
+			f.write(f'Video Description: {self.description}\n')
 		f.write('---\n\n')
 
 	def write_transcript(self):
