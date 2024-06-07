@@ -12,5 +12,6 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman',
   'https://www.youtube.com/playlist?list=PLdMrbgYfVl-szepgVpArP0obwYgbKdfvx': 'The Ezra Klein Show',
   'https://www.youtube.com/playlist?list=PLHZGTTZG6HcI2tr4tg8oak8_6Wz5on1jY': 'Chomsky\'s Philosophy - Best of Chomsky',
-  'https://www.youtube.com/playlist?list=PLM4u6XbiXf5p7irrx8GfeXslWyGB9DGjg': 'a16z Bio'
+  'https://www.youtube.com/playlist?list=PLM4u6XbiXf5p7irrx8GfeXslWyGB9DGjg': 'a16z Bio',
+  'https://www.youtube.com/playlist?list=PLrxfgDEc2NxY_fRExpDXr87tzRbPCaA5x': 'Mindscape Podcast'
 }
