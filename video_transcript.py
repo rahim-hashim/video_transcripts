@@ -127,16 +127,20 @@ class Video:
 			if local_path == None:
 				raise ValueError('Local Path must be provided for local videos')
 			self.video_path = local_path
-			self.title = video_path
+			self.title = local_path
 			self.url = None
 			self.author = 'Local File'
 			self.date = f"{datetime.now():%B %d, %Y}"
+			self.length = None
+			self.transcript_exists = self.check_transcript()
 
 		print(f'Video Title: {self.title}')
 		print(f'  Author: {self.author}')
 		print(f'  Date:   {self.date}')
-		print(f'  Length: {round(self.length/60, 2)}m')
-		print(f'  Views:  {self.views}')
+		if self.length:
+			print(f'  Length: {round(self.length/60, 2)}m')
+		if self.views:
+			print(f'  Views:  {self.views}')
 		return True
 
 	def check_transcript(self):
@@ -256,6 +260,17 @@ if __name__ == '__main__':
 	# Check if the transcript folder exists
 	make_transcript_folder()
 
+	# Local viideos
+	if args.local_path:
+		args.source = 'local'
+		video=Video()
+		local_path = args.local_path
+		video.get_video(source=args.source, local_path=local_path)
+		video.transcribe_video(video, model)
+		video.write_transcript()
+		sys.exit()
+
+	# Youtube videos
 	playlists = []
 	if args.refresh:
 		# get all the playlist links from youtube_links.py
