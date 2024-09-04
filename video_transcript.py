@@ -8,7 +8,7 @@ import argparse
 from tqdm import tqdm
 from datetime import datetime
 from collections import defaultdict
-from pytube import YouTube, Playlist
+from pytubefix import YouTube, Playlist
 # for slugify
 import unicodedata
 import re
@@ -253,6 +253,8 @@ if __name__ == '__main__':
 	parser.add_argument('--git', help='If specified, push the changes to git', action='store_true')
 
 	args = parser.parse_args()
+	if not args.url and not args.local_path:
+		args.url = input('Enter the URL of the video: ')
 	
 	# Load the model
 	model = load_model('medium')
@@ -277,7 +279,7 @@ if __name__ == '__main__':
 		playlists = list(podcast_playlist_names.keys())
 		print(f'Refreshing playlists from \'youtube_links.py\'.')
 		print(f'  Number of Playlists: {len(playlists)}')
-	elif 'playlist' in args.url.lower():
+	elif args.url and 'playlist' in args.url.lower():
 		# Youtube Playlist URL Example: 
 		#   https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4
 		#   https://www.youtube.com/watch?v=Bg1LQ_jWliU&list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k
@@ -290,7 +292,11 @@ if __name__ == '__main__':
 		url_list  = [args.url]
 
 	print(f'Number of Videos to Transcribe: {len(url_list)}')
-	for u_index, url in enumerate(tqdm(url_list)):    
+	for u_index, url in enumerate(tqdm(url_list)):
+		# Check if url_list is empty
+		if not url:
+			print('No videos to transcribe')
+			break    
 		# Create a video object
 		video = Video()
 		# Get the video
@@ -302,6 +308,9 @@ if __name__ == '__main__':
 			video.transcribe_video(video, model)
 			video.write_transcript()
 			video.delete_video()
+		elif args.url and status == None:
+			print(f'Other {len(url_list) - u_index} videos in the playlist have already been transcribed.')
+			break
 	print('Transcription Complete')
 	print(f'  Number of Videos Transcribed: {len(url_list)}')
 
