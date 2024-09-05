@@ -224,8 +224,8 @@ def extract_playlist_urls(args, playlists):
 		print(f'Transcribing Playlist: {playlist.title}')
 		print(f'  Number of Total Videos: {len(playlist_url_list)}')
 		if args.refresh and args.max_load == None:
-			print(f'     --refresh specified, only transcribing the most recent video in the playlist')
-			url_list.append(playlist_url_list[0])
+			print(f'     --refresh specified')
+			url_list.append(playlist_url_list)
 		elif args.max_load != None:
 			print(f'    --max_load specified {args.max_load} videos')
 			url_list.append(playlist_url_list[:args.max_load])
@@ -234,6 +234,8 @@ def extract_playlist_urls(args, playlists):
 		# map each video url to the playlist url
 		for url in playlist_url_list:
 			url_playlist_map[url] = playlist_url
+	# flatten the list
+	url_list = [item for sublist in url_list for item in sublist]
 	return url_list, url_playlist_map
 
 if __name__ == '__main__':
@@ -246,15 +248,13 @@ if __name__ == '__main__':
 	parser.add_argument('--refresh', help='If specified, retrieve all playlist links from \'youtube_links.py\' and generate \
 										 										 transcripts for only the most recent video in each playlist', 
 																	 action='store_true')
-	parser.add_argument('--url', help='The URL of the video (required if source is youtube and not refreshing playlists)')
+	parser.add_argument('--url', help='The URL of the video (required if source is youtube and not refreshing playlists)', default=None)
 	parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
 	parser.add_argument('--max_load', help='If specified, the max number of videos to transcribe from a playlist',
-																		default=None, type=int)
+																		default=5, type=int)
 	parser.add_argument('--git', help='If specified, push the changes to git', action='store_true')
 
 	args = parser.parse_args()
-	if not args.url and not args.local_path:
-		args.url = input('Enter the URL of the video: ')
 	
 	# Load the model
 	model = load_model('medium')
@@ -262,7 +262,7 @@ if __name__ == '__main__':
 	# Check if the transcript folder exists
 	make_transcript_folder()
 
-	# Local viideos
+	# Local videos
 	if args.local_path:
 		args.source = 'local'
 		video=Video()
