@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 877s
 Video Keywords: []
-Video Views: 173129
+Video Views: 173758
 Video Rating: None
 Video Description: This will disgust you more than you know.
 

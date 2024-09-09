@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 711s
 Video Keywords: []
-Video Views: 103654
+Video Views: 103673
 Video Rating: None
 Video Description: When Israel threatens to turn the West Bank into the new Gaza, believe them.
 

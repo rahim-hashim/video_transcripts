@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 566s
 Video Keywords: []
-Video Views: 142113
+Video Views: 142192
 Video Rating: None
 Video Description: The resignation of diplomat Mark Smith is explosive for so many reasons.
 

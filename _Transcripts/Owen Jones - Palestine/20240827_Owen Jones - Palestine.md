@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 649s
 Video Keywords: []
-Video Views: 81123
+Video Views: 81257
 Video Rating: None
 Video Description: I realise how desperate people are to stop Donald Trump - but that doesn't mean you should bend reality.
 

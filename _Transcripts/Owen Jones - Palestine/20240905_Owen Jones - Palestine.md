@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 508s
 Video Keywords: []
-Video Views: 24506
+Video Views: 24548
 Video Rating: None
 Video Description: Please: support Ahmed Mater and his family, living in unimaginable conditions in Gaza: https://www.gofundme.com/f/AssisttoRebuildmyhome
 

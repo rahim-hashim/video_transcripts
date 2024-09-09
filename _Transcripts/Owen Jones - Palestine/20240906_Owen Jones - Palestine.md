@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 505s
 Video Keywords: []
-Video Views: 159194
+Video Views: 159759
 Video Rating: None
 Video Description: This exposes the utter hypocrisy and moral bankruptcy of US complicity in Israeli crimes.
 

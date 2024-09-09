@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 723s
 Video Keywords: []
-Video Views: 41380
+Video Views: 41412
 Video Rating: None
 Video Description: Labour did this under pressure - but don't be fooled by it.
 

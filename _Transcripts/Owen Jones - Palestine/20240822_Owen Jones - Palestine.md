@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 599s
 Video Keywords: []
-Video Views: 38109
+Video Views: 38112
 Video Rating: None
 Video Description: Amidst genocide, Palestinians have been barred from speaking from the stage of the Democratic National Convention.
 
