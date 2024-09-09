@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 877s
 Video Keywords: []
-Video Views: 173008
+Video Views: 173129
 Video Rating: None
 Video Description: This will disgust you more than you know.
 
@@ -11,7 +11,7 @@ Please like, subscribe, comment, share - and help us take on media outlets compl
 ---
 
 # 'ERASE All Palestinians' - Popular Israeli Podcasters Claim Most Share Their Genocidal Fantasy
-**Owen Jones:** [September 04, 2024](https://www.youtube.com/watch?v=j_uOJAKbGpg)
+**Owen Jones - Palestine:** [September 04, 2024](https://www.youtube.com/watch?v=j_uOJAKbGpg)
 *  This is one of the most disturbing things that I've listened to for a very long time.
 *  It's disturbing because of the content, which is unashamed, loud and proud,
 *  genocidal, incitement and intense, and because of the casual, jokey, carefree manner in which the

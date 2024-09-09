@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 505s
 Video Keywords: []
-Video Views: 159087
+Video Views: 159194
 Video Rating: None
 Video Description: This exposes the utter hypocrisy and moral bankruptcy of US complicity in Israeli crimes.
 
@@ -11,7 +11,7 @@ Please like, subscribe, comment, share - and help us take on the pro-war media h
 ---
 
 # Israel SHOOTS DEAD US Activist Biden's Hypocrisy Exposed
-**Owen Jones:** [September 06, 2024](https://www.youtube.com/watch?v=HsZtMywFDPk)
+**Owen Jones - Palestine:** [September 06, 2024](https://www.youtube.com/watch?v=HsZtMywFDPk)
 *  Let me start by reading this statement from US President Joe Biden from February 7 months ago,
 *  when three American soldiers were killed by a drone attack blamed on Iran backed militia groups.
 *  He told the world, if you harm an American, we will respond.

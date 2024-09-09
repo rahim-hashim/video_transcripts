@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 508s
 Video Keywords: []
-Video Views: 24501
+Video Views: 24506
 Video Rating: None
 Video Description: Please: support Ahmed Mater and his family, living in unimaginable conditions in Gaza: https://www.gofundme.com/f/AssisttoRebuildmyhome
 
@@ -11,7 +11,7 @@ It's the dehumanisation of the Palestinians which makes this genocide possible. 
 ---
 
 # This Palestinian Is Fighting Genocide. We Can Help Him.
-**Owen Jones:** [September 05, 2024](https://www.youtube.com/watch?v=r7kkf4CzkrA)
+**Owen Jones - Palestine:** [September 05, 2024](https://www.youtube.com/watch?v=r7kkf4CzkrA)
 *  This is so important. Israel's genocide against the Palestinian people relies above all else
 *  on their dehumanisation, that we don't think of those who are being bombed and shot and starved
 *  and displaced and traumatised as fellow human beings like us, who love, feel pain, who have hopes,

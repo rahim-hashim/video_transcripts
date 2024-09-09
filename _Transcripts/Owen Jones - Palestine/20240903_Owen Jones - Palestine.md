@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 589s
 Video Keywords: []
-Video Views: 311479
+Video Views: 311558
 Video Rating: None
 Video Description: This is a bombshell warning.
 
@@ -11,7 +11,7 @@ Please like, subscribe, comment, share - and help us take on the pro-war media h
 ---
 
 # Israel Is COLLAPSING Israeli General
-**Owen Jones:** [September 03, 2024](https://www.youtube.com/watch?v=iBRlq7Hadno)
+**Owen Jones - Palestine:** [September 03, 2024](https://www.youtube.com/watch?v=iBRlq7Hadno)
 *  The headline says it all. It is not Hamas that is collapsing, but Israel. This is a headline in the
 *  Israeli newspaper Haaretz and the author is Yitzhak Brick, who is a former general in the
 *  IDF, the so-called Israel Defense Force, the Israeli military, who is slightly older himself

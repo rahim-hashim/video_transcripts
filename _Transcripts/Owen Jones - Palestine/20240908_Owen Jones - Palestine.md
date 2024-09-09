@@ -3,7 +3,7 @@ Date Generated: September 09, 2024
 Transcription Model: whisper medium 20231117
 Length: 42s
 Video Keywords: []
-Video Views: 7068
+Video Views: 7091
 Video Rating: None
 Video Description: The Israeli military killed many of his loved ones. Now he's the only breadwinner for several kids, including a baby.
 
@@ -11,7 +11,7 @@ Please donate so they can escape genocide - and afford the basic essentials of l
 ---
 
 # You can help save this Gaza family.
-**Owen Jones:** [September 08, 2024](https://www.youtube.com/watch?v=r7b88k3HYkc)
+**Owen Jones - Palestine:** [September 08, 2024](https://www.youtube.com/watch?v=r7b88k3HYkc)
 *  مرحبا يا سيدة أويل
 *  أنا محمود من بلستين في غزة الشرق
 *  وهذا هو مكاني
