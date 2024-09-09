@@ -251,7 +251,8 @@ if __name__ == '__main__':
 	parser.add_argument('--url', help='The URL of the video (required if source is youtube and not refreshing playlists)', default=None)
 	parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
 	parser.add_argument('--max_load', help='If specified, the max number of videos to transcribe from a playlist',
-																		default=5, type=int)
+																		default=1000, type=int)
+	parser.add_argument('--break_repeat', help='If specified, break transcription loop once a repeat has been detected', action='store_true')
 	parser.add_argument('--git', help='If specified, push the changes to git', action='store_true')
 
 	args = parser.parse_args()
@@ -308,7 +309,7 @@ if __name__ == '__main__':
 			video.transcribe_video(video, model)
 			video.write_transcript()
 			video.delete_video()
-		elif args.url and status == None:
+		elif args.url and status == None and args.break_repeat:
 			print(f'Other {len(url_list) - u_index} videos in the playlist have already been transcribed.')
 			break
 	print('Transcription Complete')
