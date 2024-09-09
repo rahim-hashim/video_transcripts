@@ -16,4 +16,5 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLrxfgDEc2NxY_fRExpDXr87tzRbPCaA5x': 'Mindscape Podcast',
   'https://www.youtube.com/playlist?list=PL6ZR-sD5vIlxemueCxB9HLe9I9_K9l5jQ': 'Empire Podcast',
   'https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W': 'Conversation with Tyler',
+  'https://www.youtube.com/playlist?list=PLTYmWuFco1_1mHkLh_fKG3OFUFYYel1kw': 'Owen Jones - Palestine'
 }
