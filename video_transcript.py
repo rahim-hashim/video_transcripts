@@ -216,7 +216,7 @@ class Video:
 		print(f'Video file deleted: {self.video_path}')
 
 def extract_playlist_urls(args, playlists):
-	url_list = []
+	url_dict = defaultdict(list)
 	url_playlist_map = defaultdict(str)
 	for playlist_url in playlists:
 		playlist = Playlist(playlist_url)
@@ -225,18 +225,19 @@ def extract_playlist_urls(args, playlists):
 		print(f'  Number of Total Videos: {len(playlist_url_list)}')
 		if args.refresh and args.max_load == None:
 			print(f'     --refresh specified')
-			url_list.append(playlist_url_list)
+			url_dict[playlist_url].append(playlist_url_list)
 		elif args.max_load != None:
 			print(f'    --max_load specified {args.max_load} videos')
-			url_list.append(playlist_url_list[:args.max_load])
+			url_dict[playlist_url].append(playlist_url_list[:args.max_load])
 		else:
-			url_list += playlist_url_list
+			url_dict[playlist_url].append(playlist_url_list)
 		# map each video url to the playlist url
 		for url in playlist_url_list:
 			url_playlist_map[url] = playlist_url
 	# flatten the list
-	url_list = [item for sublist in url_list for item in sublist]
-	return url_list, url_playlist_map
+	for key, url_list in url_dict.items():
+		url_dict[key] = [url for sublist in url_list for url in sublist]
+	return url_dict, url_playlist_map
 
 if __name__ == '__main__':
 	
@@ -287,33 +288,39 @@ if __name__ == '__main__':
 		playlists = [args.url]
 	
 	if playlists:
-		url_list, url_playlist_map = extract_playlist_urls(args, playlists)
+		url_dict, url_playlist_map = extract_playlist_urls(args, playlists)
 	else:
 		url_playlist_map = defaultdict(str)
-		url_list  = [args.url]
+		url_dict = defaultdict(list)
+		url_dict[args.url].append([args.url])
 
-	print(f'Number of Videos to Transcribe: {len(url_list)}')
-	for u_index, url in enumerate(tqdm(url_list)):
-		# Check if url_list is empty
-		if not url:
-			print('No videos to transcribe')
-			break    
-		# Create a video object
-		video = Video()
-		# Get the video
-		status = video.get_video(source=args.source, 
-													   playlist_url=url_playlist_map[url], 
-														 url=url)
-		# Transcribe the video
-		if not video.transcript_exists and status != None:
-			video.transcribe_video(video, model)
-			video.write_transcript()
-			video.delete_video()
-		elif args.url and status == None and args.break_repeat:
-			print(f'Other {len(url_list) - u_index} videos in the playlist have already been transcribed.')
-			break
+	print(f'Number of Channels: {len(url_dict)}')
+	transcribed_url_count = 0
+	for c_index, channel in enumerate(tqdm(url_dict.keys())):
+		print(f'Transcribing Channel: {channel}')
+		# Check if url_dict for channel is empty
+		if not url_dict[channel]:
+			print(f'No videos to transcribe for {channel}')
+			continue
+		# iterate through the urls
+		for u_index, url in enumerate(url_dict[channel]):
+			# Create a video object
+			video = Video()
+			# Get the video
+			status = video.get_video(source=args.source, 
+															 playlist_url=url_playlist_map[url], 
+															 url=url)
+			# Transcribe the video
+			if not video.transcript_exists and status != None:
+				video.transcribe_video(video, model)
+				video.write_transcript()
+				video.delete_video()
+				transcribed_url_count += 1
+			elif status == None and args.break_repeat:
+				print(f'Other {len(url_dict[channel]) - u_index} videos in the playlist have already been transcribed.')
+				break
 	print('Transcription Complete')
-	print(f'  Number of Videos Transcribed: {len(url_list)}')
+	print(f'  Number of Videos Transcribed: {transcribed_url_count}')
 
 	# push to git
 	if args.git:
