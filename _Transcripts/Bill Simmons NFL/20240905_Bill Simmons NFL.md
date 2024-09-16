@@ -15,8 +15,10 @@ Facebook: https://www.facebook.com/ringer
 Instagram: https://www.instagram.com/ringer
 ---
 
-# A ChiefsRavens Classic with Peter Schrager  The Bill Simmons Podcast
+# A Chiefs/Ravens Classic with Peter Schrager  The Bill Simmons Podcast
+
 **Bill Simmons NFL:** [September 05, 2024](https://www.youtube.com/watch?v=mqJJwjFdSOE)
+
 *  All right, we're taping this right after the Chiefs Ravens game.
 *  Normally Peter Schrager is on good morning football in the mornings with a good night's
 *  sleep or maybe no sleep and some coffee and a chance to react.
