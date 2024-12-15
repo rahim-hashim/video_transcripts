@@ -11,11 +11,18 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNBaIXxT-J1hPynuPVyjbmxY': 'The Wall Street Journal',
   'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman',
   'https://www.youtube.com/playlist?list=PLdMrbgYfVl-szepgVpArP0obwYgbKdfvx': 'The Ezra Klein Show',
-  'https://www.youtube.com/playlist?list=PLHZGTTZG6HcI2tr4tg8oak8_6Wz5on1jY': 'Chomsky\'s Philosophy - Best of Chomsky',
+  # 'https://www.youtube.com/playlist?list=PLHZGTTZG6HcI2tr4tg8oak8_6Wz5on1jY': 'Chomsky\'s Philosophy - Best of Chomsky',
   'https://www.youtube.com/playlist?list=PLM4u6XbiXf5p7irrx8GfeXslWyGB9DGjg': 'a16z Bio',
   'https://www.youtube.com/playlist?list=PLrxfgDEc2NxY_fRExpDXr87tzRbPCaA5x': 'Mindscape Podcast',
   'https://www.youtube.com/playlist?list=PL6ZR-sD5vIlxemueCxB9HLe9I9_K9l5jQ': 'Empire Podcast',
   'https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W': 'Conversation with Tyler',
   'https://www.youtube.com/playlist?list=PLTYmWuFco1_1mHkLh_fKG3OFUFYYel1kw': 'Owen Jones - Palestine',
-  'https://www.youtube.com/playlist?list=PLYoqcr7bAIs7kdyMhh-9m4kPLCG6dGAkX': 'The Master Plan'
+  'https://www.youtube.com/playlist?list=PLYoqcr7bAIs7kdyMhh-9m4kPLCG6dGAkX': 'The Master Plan',
+  'https://www.youtube.com/playlist?list=PLk1Sqn_f33KuWf3tW9BBe_4TP7x8l0m3T': 'Joe Rogan Experience',
+  'https://www.youtube.com/playlist?list=PLewmWXyJAGJGTh1O76Aqcazg8oEy9k3Ej': 'The Chris Hedges Report',
+
+}
+
+podcast_channel_names = {
+  'https://www.youtube.com/@RalphNaderRadioHour/videos': 'Ralph Nader Radio Hour',
 }

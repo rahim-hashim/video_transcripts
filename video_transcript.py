@@ -8,7 +8,7 @@ import argparse
 from tqdm import tqdm
 from datetime import datetime
 from collections import defaultdict
-from pytubefix import YouTube, Playlist
+from pytubefix import YouTube, Playlist, Channel
 # for slugify
 import unicodedata
 import re
