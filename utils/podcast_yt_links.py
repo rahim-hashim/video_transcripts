@@ -20,7 +20,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLYoqcr7bAIs7kdyMhh-9m4kPLCG6dGAkX': 'The Master Plan',
   'https://www.youtube.com/playlist?list=PLk1Sqn_f33KuWf3tW9BBe_4TP7x8l0m3T': 'Joe Rogan Experience',
   'https://www.youtube.com/playlist?list=PLewmWXyJAGJGTh1O76Aqcazg8oEy9k3Ej': 'The Chris Hedges Report',
-
+  'https://www.youtube.com/playlist?list=PLYa964dzJh1J545AyFlLepb2Prert15te': 'The Tucker Carlson Show'
 }
 
 podcast_channel_names = {
