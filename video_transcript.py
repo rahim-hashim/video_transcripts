@@ -73,6 +73,7 @@ class Video:
 		self.transcript_path = None
 		self.transcript_exists = False
 		self.transcript = None
+		self.timestamps = None
 
 	def get_video(self, source='youtube', playlist_url=None, url=None, local_path=None):
 		'''
@@ -171,6 +172,8 @@ class Video:
 		# print('  Segment Keys:', output['segments'][0].keys())
 		segments = [text['text'] for text in output['segments']]
 		video.transcript = segments
+		timestamps = [text['start'] for text in output['segments']]
+		print(timestamps)
 		# format value 100000 -> 100.000
 		num_words = "{:,}".format(len(segments))
 		print(f'  Segments Transcribed: {num_words}')
@@ -207,6 +210,7 @@ class Video:
 			if self.transcript == None:
 				raise ValueError('Transcript must be generated before writing')
 			for segment in self.transcript:
+				# get time stamp and link it to that time in the video
 				f.write(f'* {segment}\n')
 		f.close()
 
