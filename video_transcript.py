@@ -173,7 +173,7 @@ class Video:
 		segments = [text['text'] for text in output['segments']]
 		video.transcript = segments
 		timestamps = [text['start'] for text in output['segments']]
-		print(timestamps)
+		video.timestamps = timestamps
 		# format value 100000 -> 100.000
 		num_words = "{:,}".format(len(segments))
 		print(f'  Segments Transcribed: {num_words}')
@@ -209,9 +209,13 @@ class Video:
 			f.write(f'**{self.author}:** [{self.date}]({self.url})\n')
 			if self.transcript == None:
 				raise ValueError('Transcript must be generated before writing')
-			for segment in self.transcript:
+			for s_index, segment in enumerate(self.transcript):
 				# get time stamp and link it to that time in the video
-				f.write(f'* {segment}\n')
+				timestamp = self.timestamps[s_index]
+				# get link to the youtube video with the timestamp
+				timestamp_link = f'{self.url}&t={timestamp}s'
+				timestamp_str = time.strftime('%H:%M:%S', time.gmtime(timestamp))
+				f.write(f'* {segment} [[{timestamp_str}]({timestamp_link})]\n')
 		f.close()
 
 	def delete_video(self):
@@ -294,9 +298,9 @@ if __name__ == '__main__':
 	if playlists:
 		url_dict, url_playlist_map = extract_playlist_urls(args, playlists)
 	else:
-		url_playlist_map = defaultdict(str)
+		url_playlist_map = {}
 		url_dict = defaultdict(list)
-		url_dict[args.url].append([args.url])
+		url_dict[args.url].append(args.url)
 
 	print(f'Number of Channels: {len(url_dict)}')
 	transcribed_url_count = 0
@@ -311,9 +315,15 @@ if __name__ == '__main__':
 			# Create a video object
 			video = Video()
 			# Get the video
-			status = video.get_video(source=args.source, 
-															 playlist_url=url_playlist_map[url], 
-															 url=url)
+			if url in url_playlist_map.keys():
+				playlist_url = url_playlist_map[url]
+			else:
+				playlist_url = None
+			status = video.get_video(
+				source=args.source, 
+				playlist_url=playlist_url, 
+				url=url
+			)
 			# Transcribe the video
 			if not video.transcript_exists and status != None:
 				video.transcribe_video(video, model)
