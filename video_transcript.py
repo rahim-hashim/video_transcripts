@@ -38,8 +38,10 @@ def make_transcript_folder():
 def load_model(model_name='base'):
 	'''
 	Import the modules you will be using, and load the whisper model -- `base` is ok, but from the documentation:
-
-	There are five model sizes, four with English-only versions, offering speed and accuracy tradeoffs. 
+I
+	There are five model sizes, four with English-only versions, offering speed andtw
+	
+	 II accuracy tradeoffs. 
 	Below are the names of the available models and their approximate memory requirements and inference speed relative 
 	to the large model; actual speed may vary depending on many factors including the available hardware.
 
@@ -266,8 +268,9 @@ if __name__ == '__main__':
 
 	args = parser.parse_args()
 	
-	# Load the model
-	model = load_model('medium')
+	# Load the model 
+	model = load_model('medium')	# CPU 
+	# model = load_model('medium', device='cuda') # GPU
 
 	# Check if the transcript folder exists
 	make_transcript_folder()
