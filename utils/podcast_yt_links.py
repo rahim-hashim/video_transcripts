@@ -21,7 +21,8 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLk1Sqn_f33KuWf3tW9BBe_4TP7x8l0m3T': 'Joe Rogan Experience',
   'https://www.youtube.com/playlist?list=PLewmWXyJAGJGTh1O76Aqcazg8oEy9k3Ej': 'The Chris Hedges Report',
   'https://www.youtube.com/playlist?list=PLYa964dzJh1J545AyFlLepb2Prert15te': 'The Tucker Carlson Show',
-  'https://www.youtube.com/playlist?list=PL4THPMjF2nCKloPNv7HI-xKRdmH0o_iS1': 'Council on Foreign Relations - The World Next Week'
+  'https://www.youtube.com/playlist?list=PL4THPMjF2nCKloPNv7HI-xKRdmH0o_iS1': 'Council on Foreign Relations - The World Next Week',
+  'https://www.youtube.com/playlist?list=PLY155lJX6_wcTzyjW2sGB4sTT5ZkivwnN': 'Theo Von - This Past Weekend'
 }
 
 podcast_channel_names = {
