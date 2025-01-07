@@ -24,7 +24,11 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLewmWXyJAGJGTh1O76Aqcazg8oEy9k3Ej': 'The Chris Hedges Report',
   'https://www.youtube.com/playlist?list=PLYa964dzJh1J545AyFlLepb2Prert15te': 'The Tucker Carlson Show',
   'https://www.youtube.com/playlist?list=PL4THPMjF2nCKloPNv7HI-xKRdmH0o_iS1': 'Council on Foreign Relations - The World Next Week',
-  'https://www.youtube.com/playlist?list=PLY155lJX6_wcTzyjW2sGB4sTT5ZkivwnN': 'Theo Von - This Past Weekend'
+  'https://www.youtube.com/playlist?list=PLY155lJX6_wcTzyjW2sGB4sTT5ZkivwnN': 'Theo Von - This Past Weekend',
+  'https://www.youtube.com/playlist?list=PLn5MTSAqaf8peDZQ57QkJBzewJU1aUokl': 'All In Podcast',
+  'https://www.youtube.com/playlist?list=PLn5MTSAqaf8peDZQ57QkJBzewJU1aUokl': 'Dave Smith - Part of the Problem',
+  'https://www.youtube.com/playlist?list=PLTpcK80irdQgz9WLvn1yxFWLXbZw20aV7': 'The Young Turks - Hour 1',
+  'https://www.youtube.com/playlist?list=PLTpcK80irdQjwxSkQkLHTvGy2abINHRym': 'The Young Turks - Hour 2',
 }
 
 podcast_channel_names = {
