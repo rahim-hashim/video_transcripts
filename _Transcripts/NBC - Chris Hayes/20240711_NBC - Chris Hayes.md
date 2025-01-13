@@ -1,0 +1,158 @@
+---
+Date Generated: January 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 458s
+Video Keywords: ['Chris Hayes']
+Video Views: 92590
+Video Rating: None
+Video Description: Jen Psaki reacts to Biden’s performance at his first post-debate press conference: “I think it gave them more time, which for the campaign is a win. It doesn't mean it's a win for the process, because this purgatory and this in between is a real challenge.”
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #Biden #2024election
+---
+
+# Psaki Biden press conference bought the campaign ‘more time’
+**NBC - Chris Hayes:** [July 11, 2024](https://www.youtube.com/watch?v=QV-2rtVbdWU)
+*  We have the news from Jim Himes, which did seem to me, I guess if I'm reading the meta message of Himes coming out, Basil, it doesn't feel accidental, right? [[00:00:00](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=0.0s)]
+*  Like to do it right after that press conference, in which I don't think that that was like a disqualifying press conference in any way. [[00:00:13](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=13.0s)]
+*  I don't think anyone would think that, like, oh my God, that was a disaster. [[00:00:19](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=19.0s)]
+*  No one's walking away from that press conference feeling the way they might have after that debate to come out after that press conference and say, I still think he's been a heroic leader. [[00:00:22](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=22.0s)]
+*  Heroic leader. He's great. And he needs to step aside to me seems to indicate some coordinated effort. [[00:00:29](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=29.0s)]
+*  Yeah, it was pretty written. Yes. [[00:00:34](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=34.0s)]
+*  What? What? Yeah. NATO. [[00:00:37](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=37.0s)]
+*  Right. Right. Right. Right. I don't think he just drew it up in that that hour. [[00:00:38](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=38.0s)]
+*  What do you think? Right. No, I do think there might be some, you know, because there's been so much happening and there's a constant drip that people feel compelled to continue to sort of do something and say something because it's been happening over the last two weeks. [[00:00:41](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=41.0s)]
+*  But if you look at the Joe Biden of today, you know, he could sit in a rocking chair and have the same answers to those same questions and be like, you know what? [[00:00:56](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=56.0s)]
+*  This guy's actually fairly conversant on public policy. [[00:01:03](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=63.0s)]
+*  We're we're not quibbling about whether or not he's good on policy. [[00:01:06](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=66.0s)]
+*  So what are we quibbling about? We're concerned about the fact that after a debate that he called for, where the stakes are really high, where we wanted him to really go after Donald Trump, he didn't do it the way we wanted him to. [[00:01:10](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=70.0s)]
+*  And you know what? That's unfortunate. And that's understating that because we because because the issues with Joe Biden for many voters are built in. [[00:01:23](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=83.0s)]
+*  But we wanted to see him on that debate stage, really take it to a guy who Project 2025. [[00:01:32](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=92.0s)]
+*  He's pretty much embraced and he didn't do that. [[00:01:38](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=98.0s)]
+*  And you know what? I get that. [[00:01:41](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=101.0s)]
+*  But at the same time, we know that Joe Biden is very good on public policy. [[00:01:43](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=103.0s)]
+*  We know he's very good on the issues. [[00:01:48](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=108.0s)]
+*  And if we think about the politics of this, I get that there are a lot of candidates down ballot. [[00:01:50](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=110.0s)]
+*  You know, Chuck Schumer especially does not want to lose the Senate. [[00:01:55](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=115.0s)]
+*  Nobody wants to lose Senate. He clearly does not want to lose the Senate and is very concerned about that. [[00:01:58](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=118.0s)]
+*  You got Hakeem in New York, where getting the majority back for Democrats runs through New York largely. [[00:02:02](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=122.0s)]
+*  And I'm sure he's hearing from his members. [[00:02:09](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=129.0s)]
+*  I get all of that. [[00:02:11](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=131.0s)]
+*  But my point is you tell this Joe Biden that he's got to step down and he'll tell you I have three thousand eight hundred and ninety six delegates take him from me. [[00:02:13](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=133.0s)]
+*  Right. Right now. [[00:02:22](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=142.0s)]
+*  He's right. Right. Right. [[00:02:23](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=143.0s)]
+*  But my point is that, you know, we're here because there are a lot of people right after the debate that started wringing their hands and saying, I can't I don't know. [[00:02:24](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=144.0s)]
+*  This isn't the guy. [[00:02:36](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=156.0s)]
+*  This is the guy for me. [[00:02:37](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=157.0s)]
+*  But I don't I don't think that's why we're here. [[00:02:38](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=158.0s)]
+*  I just look I worked for Joe Biden. [[00:02:40](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=160.0s)]
+*  I love Joe Biden. [[00:02:41](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=161.0s)]
+*  And I just to say the problem with the debate is that it reaffirmed what a lot of people feared was that he was old. [[00:02:42](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=162.0s)]
+*  He is 81 years old. [[00:02:50](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=170.0s)]
+*  He is very conversant on policy. [[00:02:51](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=171.0s)]
+*  This is not a question of whether he is good on policy, whether he's been an effective president or whether he is a good man. [[00:02:53](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=173.0s)]
+*  He has all of those things or whether he has more expertise than Donald Trump or is better on who is promising to flip his religious is on the Ukraine War. [[00:02:58](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=178.0s)]
+*  It's about whether he can defeat Donald Trump. [[00:03:06](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=186.0s)]
+*  And the challenges with that press conference, which he was quite conversant on all these issues, it didn't give people a path, nor was it maybe designed to on how he could defeat Trump in November. [[00:03:09](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=189.0s)]
+*  Well, I think it gave them Sir, I'm almost there. [[00:03:19](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=199.0s)]
+*  I gave them more time, which for the campaign is a win. [[00:03:21](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=201.0s)]
+*  Right. [[00:03:25](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=205.0s)]
+*  They want it doesn't mean it's a win for the process because this purgatory and this in between is a real challenge. [[00:03:26](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=206.0s)]
+*  And the uncertainty is what's a challenge for the down ballot candidates. [[00:03:32](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=212.0s)]
+*  One of the things I know, I actually absolutely agree with you. [[00:03:35](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=215.0s)]
+*  This is a purgatory. [[00:03:38](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=218.0s)]
+*  This is a terrible, terrible moment. [[00:03:39](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=219.0s)]
+*  We cannot have another week of this because we're done. [[00:03:41](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=221.0s)]
+*  We're lost. [[00:03:43](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=223.0s)]
+*  We're done. [[00:03:44](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=224.0s)]
+*  It's an intermountain. [[00:03:45](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=225.0s)]
+*  We have another. [[00:03:46](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=226.0s)]
+*  I disagree. [[00:03:47](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=227.0s)]
+*  But no, I think it's intermountain if we have another week like this. [[00:03:48](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=228.0s)]
+*  Absolutely. [[00:03:50](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=230.0s)]
+*  And I want this to not be the case. [[00:03:51](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=231.0s)]
+*  But if we have another week, we're done. [[00:03:53](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=233.0s)]
+*  Period. [[00:03:55](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=235.0s)]
+*  So my feeling is and I absolutely agree with you that this this hand wringing this outward sort of conversation about whether or not he's fit for office has created the situation that we're in. [[00:03:56](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=236.0s)]
+*  But my issue is that's not what I said, though. [[00:04:07](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=247.0s)]
+*  No, no, no, I get it. [[00:04:09](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=249.0s)]
+*  No. [[00:04:10](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=250.0s)]
+*  OK. [[00:04:11](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=251.0s)]
+*  But I'm sorry. [[00:04:12](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=252.0s)]
+*  I'm hosting a show. [[00:04:13](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=253.0s)]
+*  So let me just say that the hand wringing has partly created it. [[00:04:14](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=254.0s)]
+*  But we just got to be clear here. [[00:04:19](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=259.0s)]
+*  The debate precipitated all of this. [[00:04:21](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=261.0s)]
+*  The debate that we would not be sitting here. [[00:04:23](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=263.0s)]
+*  We wouldn't be having this. [[00:04:26](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=266.0s)]
+*  The but for cause of the last few weeks is a debate that the Biden folks asked for because they thought it was an opportunity to claw back on Donald Trump and the performance of the debate. [[00:04:27](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=267.0s)]
+*  And the performance there was so unnerving that we're having this conversation. [[00:04:36](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=276.0s)]
+*  That's what I get there. [[00:04:39](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=279.0s)]
+*  That's what I'm saying. [[00:04:41](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=281.0s)]
+*  No, that's what I'm saying. [[00:04:42](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=282.0s)]
+*  He asked for this. [[00:04:43](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=283.0s)]
+*  He didn't perform the way a lot of folks wanted him to perform. [[00:04:44](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=284.0s)]
+*  Probably not the way he wanted to perform. [[00:04:46](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=286.0s)]
+*  And here we are. [[00:04:48](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=288.0s)]
+*  But my issue is this. [[00:04:50](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=290.0s)]
+*  If you're standing up, if you're a Democrat right now and you're standing up and you're saying that Joe Biden is not fit to run for office and there should therefore should not be in office in January. [[00:04:51](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=291.0s)]
+*  You're saying he's also not fit to be president right now. [[00:05:02](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=302.0s)]
+*  What the hell are you doing? [[00:05:04](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=304.0s)]
+*  You are going to. [[00:05:06](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=306.0s)]
+*  I don't think that's what it's. [[00:05:07](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=307.0s)]
+*  That is what you're saying because you're telling voters that he does not have the chops to be president for the next four years. [[00:05:08](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=308.0s)]
+*  I don't. [[00:05:15](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=315.0s)]
+*  Starting in January. [[00:05:16](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=316.0s)]
+*  And I have a huge problem with that. [[00:05:17](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=317.0s)]
+*  Okay. [[00:05:18](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=318.0s)]
+*  Hold that for a second because I want to hear what you think. [[00:05:19](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=319.0s)]
+*  I actually think a lot of the Democrats who have been out there and a lot of people who have been voicing concern are about whether he can defeat Donald Trump. [[00:05:21](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=321.0s)]
+*  They're looking at the states. [[00:05:28](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=328.0s)]
+*  They're looking at their districts. [[00:05:29](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=329.0s)]
+*  They're looking at concerns about the voters and whether he is up to the job. [[00:05:31](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=331.0s)]
+*  There's not. [[00:05:35](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=335.0s)]
+*  I have not heard a Democrat say he should, except for maybe one in Washington state, that he should step down or he is not up to the job. [[00:05:36](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=336.0s)]
+*  Now we're having this conversation because Donald Trump in part is not Mitt Romney, right? [[00:05:43](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=343.0s)]
+*  Donald Trump is an existential threat to our country and our democracy. [[00:05:48](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=348.0s)]
+*  So it's a question and a debate and a conversation that's important to have. [[00:05:51](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=351.0s)]
+*  Right. Oh, that's how I feel. [[00:05:55](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=355.0s)]
+*  And I think a lot of people who are bringing forward questions are being very, very thoughtful about it. [[00:05:56](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=356.0s)]
+*  It does need to be resolved. [[00:06:00](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=360.0s)]
+*  And I agree with you on that. [[00:06:01](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=361.0s)]
+*  The question is how to be resolved. [[00:06:02](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=362.0s)]
+*  You can't have this for. [[00:06:04](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=364.0s)]
+*  But let me just say one more thing about this. [[00:06:05](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=365.0s)]
+*  I actually think there is a logical separation. [[00:06:07](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=367.0s)]
+*  There are some people who say those are logically connected. [[00:06:09](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=369.0s)]
+*  If you don't think you can run for office, he can't be the president. [[00:06:11](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=371.0s)]
+*  What I think the way you logically separate them, if you were to say, write a speech saying why one, not the other, is that what you're asking the voters to is for him to be the president when he's 85. [[00:06:13](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=373.0s)]
+*  Right. [[00:06:23](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=383.0s)]
+*  Like that's the that is the that is the ask. [[00:06:24](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=384.0s)]
+*  When when people are asked, do you think the president's too old to serve a second term because elections, as we know, are about the future? [[00:06:27](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=387.0s)]
+*  What will the next four years by? [[00:06:33](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=393.0s)]
+*  You could say I am as you saw in this press conference. [[00:06:35](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=395.0s)]
+*  I just did this NATO thing. [[00:06:38](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=398.0s)]
+*  I know what I'm doing here. [[00:06:39](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=399.0s)]
+*  But when I have an honest assessment with my family and friends, I don't know that I could be the person I am now in four years. [[00:06:40](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=400.0s)]
+*  Like you can say that I'm not saying that's good. [[00:06:47](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=407.0s)]
+*  I'm just saying those are logically separate conceptual issues. [[00:06:49](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=409.0s)]
+*  To your point here, what I think we all agree on, and I think what everyone agrees on is the indeterminate purgatory cannot continue indefinitely. [[00:06:53](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=413.0s)]
+*  So some resolution, whether Joe Biden is definitively nominee, this is all knocked down or something else is going to have to happen and happen relatively soon. [[00:07:06](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=426.0s)]
+*  Jen Psaki and Basil Smigiel. [[00:07:13](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=433.0s)]
+*  Thank you both. [[00:07:15](https://www.youtube.com/watch?v=QV-2rtVbdWU&t=435.0s)]

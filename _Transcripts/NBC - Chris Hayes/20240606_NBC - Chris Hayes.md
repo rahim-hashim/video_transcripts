@@ -1,0 +1,157 @@
+---
+Date Generated: January 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 476s
+Video Keywords: ['Chris Hayes']
+Video Views: 372642
+Video Rating: None
+Video Description: New data released by a Supreme Court watchdog reveals Justice Clarence Thomas has collected more than $4 million worth of gifts throughout his career. NYU professor Melissa Murray joins to discuss.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #SupremeCourt #ClarenceThomas
+---
+
+# ‘Generational scandal’ Justice Thomas raked in $4M in gifts, new report reveals
+**NBC - Chris Hayes:** [June 06, 2024](https://www.youtube.com/watch?v=cEsZI6kpEQ0)
+*  We did not get a decision in the Donald Trump immunity case today. [[00:00:00](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=0.0s)]
+*  It has now been six weeks since the Supreme Court heard arguments on Trump's claim of absolute immunity from criminal prosecution for his attempt to steal a 2020 election. [[00:00:03](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=3.6s)]
+*  This means the court is delaying it and they know that that inevitably helps Trump. [[00:00:12](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=12.1s)]
+*  What makes us all the more preposterous is that two justices should have recused themselves from the immunity case already. [[00:00:17](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=17.6s)]
+*  One, Samuel Leto, who had two different coup flags flying outside his two homes. [[00:00:23](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=23.6s)]
+*  And Clarence Thomas, whose wife testified to the January 6th Committee about her efforts in support of the coup. [[00:00:28](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=28.5s)]
+*  And that is just the first level at which this court is so deeply compromised. [[00:00:35](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=35.7s)]
+*  New data out today from Fix the Court takes a look at the value of gifts to justices over the past 20 years, [[00:00:39](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=39.6s)]
+*  both disclosed and then undisclosed gifts that were subsequently reported out. [[00:00:45](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=45.8s)]
+*  To take you through just a handful that would give you a sense, [[00:00:50](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=50.1s)]
+*  Justice Elena Kagan's calculated to have received gifts valued at just under $1,200. [[00:00:52](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=52.5s)]
+*  That's over 20 years. [[00:00:57](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=57.3s)]
+*  Justice Ruth Bader Ginsburg over $59,000. [[00:00:58](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=58.8s)]
+*  Again, over 20 years, $3,000 a year. [[00:01:01](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=61.3s)]
+*  Now, Justice Samuel Leto taking quite a bit more, $170,000 over 20 years. [[00:01:03](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=63.8s)]
+*  But none of that is in the zip code of the ballpark of Justice Clarence Thomas, [[00:01:10](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=70.0s)]
+*  whose gifts totaled over $4 million. [[00:01:16](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=76.1s)]
+*  To give you a sense of how that looks in chart form, take a look. [[00:01:21](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=81.69999999999999s)]
+*  Can you see where Justice Thomas is on that bar chart, the big red bar on the left? [[00:01:25](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=85.6s)]
+*  That's Clarence Thomas compared to all the other justices who served during this time. [[00:01:30](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=90.69999999999999s)]
+*  Melissa Murray is a professor at the New York University School of Law, [[00:01:36](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=96.89999999999999s)]
+*  co-host of Strict Scrutiny, podcast along with Leigh Lippman and my wife, Kate Shaw. [[00:01:41](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=101.5s)]
+*  And she joins me now. [[00:01:45](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=105.3s)]
+*  I gotta say, at some level, we knew bits and pieces of this. [[00:01:47](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=107.0s)]
+*  There's been an amazing series of pro-public articles, some of which won the Pulitzer [[00:01:51](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=111.2s)]
+*  about all of the gifts that Thomas has gotten. [[00:01:54](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=114.89999999999999s)]
+*  But to see it put out like that, am I wrong? [[00:01:57](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=117.5s)]
+*  It's a generational scandal for the court. [[00:02:01](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=121.2s)]
+*  100%, I think you're exactly right. [[00:02:04](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=124.2s)]
+*  We have seen this sort of trickle out piecemeal, but having it splayed out in the aggregate [[00:02:05](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=125.8s)]
+*  really does make clear the expanse of the grift. [[00:02:10](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=130.4s)]
+*  I mean, I think that's the right term for it. [[00:02:16](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=136.20000000000002s)]
+*  It is a grift. [[00:02:18](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=138.20000000000002s)]
+*  If you think about Justice Thomas's salary over the course of his time on the court [[00:02:19](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=139.4s)]
+*  during this period that's been reported, it's roughly equal to the amount of the gifts [[00:02:24](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=144.3s)]
+*  that fix the court is identified here. [[00:02:28](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=148.9s)]
+*  I mean, that is actually quite staggering. [[00:02:31](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=151.6s)]
+*  He's managed to amass two distinct income streams. [[00:02:33](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=153.8s)]
+*  Yeah, we actually ran the math on this. [[00:02:37](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=157.8s)]
+*  So the cumulative gross pay over that period is about $4.6, $4.7 million. [[00:02:39](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=159.8s)]
+*  The total gifts is over $4 million. [[00:02:44](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=164.9s)]
+*  He's got two masters. [[00:02:49](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=169.0s)]
+*  The servant and two masters, he's working for the American people, and then he's got... [[00:02:50](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=170.8s)]
+*  Well, which American people? [[00:02:57](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=177.8s)]
+*  Let's talk about that because... [[00:02:59](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=179.8s)]
+*  Well, he's been getting paid by the taxpayers. [[00:03:00](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=180.8s)]
+*  For sure. [[00:03:02](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=182.8s)]
+*  But it has been said that look where your treasure is for there your heart will be also. [[00:03:03](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=183.8s)]
+*  And it's not surprising that some of the individuals who have been linked to some of these gifts [[00:03:09](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=189.2s)]
+*  like the Koch Brothers Network, which has had Justice Thomas speak at donor events, [[00:03:13](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=193.79999999999998s)]
+*  for example, happens to be deeply involved in a set of major challenges to the regulatory [[00:03:17](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=197.5s)]
+*  state. [[00:03:23](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=203.2s)]
+*  These are cases we're still waiting for the court to decide, but we already know at least [[00:03:24](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=204.2s)]
+*  where the Koch Brothers would like Justice Thomas to be. [[00:03:28](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=208.79999999999998s)]
+*  I guess now we're just waiting to find out if have they made enough payments on it? [[00:03:31](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=211.6s)]
+*  I don't know. [[00:03:35](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=215.6s)]
+*  That's kind of where all of this is going. [[00:03:37](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=217.0s)]
+*  Part of the argument that people will make in defense of Thomas is that, well, he was [[00:03:39](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=219.4s)]
+*  always a conservative anyway, and these are just his friends hooking him up. [[00:03:44](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=224.4s)]
+*  No, and it's not unconstitutional to have friends. [[00:03:48](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=228.4s)]
+*  So I want to be very clear about that. [[00:03:50](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=230.9s)]
+*  You have a right to have friends, even rich friends. [[00:03:53](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=233.6s)]
+*  But I think where the optics of this become more problematic is that we are seeing individuals [[00:03:56](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=236.0s)]
+*  essentially donate funds to the court to keep this conservative supermajority in play. [[00:04:04](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=244.0s)]
+*  So there's been a lot of reporting, some of it by the New York Times last year, about [[00:04:10](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=250.0s)]
+*  this Justice Thomas complaining about his small judicial salary, which is actually quite [[00:04:14](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=254.0s)]
+*  significant relative to what other Americans make, and how maybe he wouldn't stay on the [[00:04:19](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=259.8s)]
+*  court. [[00:04:24](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=264.0s)]
+*  And all of these very wealthy interests were like, no, no, no. [[00:04:25](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=265.0s)]
+*  Let's figure out how to keep you on the court and keep you happy. [[00:04:28](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=268.3s)]
+*  And suddenly you see the money start rolling in. [[00:04:31](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=271.3s)]
+*  This is a really key point. [[00:04:34](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=274.5s)]
+*  I want to also talk about just the delay on the immunity case here, because it's not surprising. [[00:04:36](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=276.3s)]
+*  I think they tipped their hand when they took so long. [[00:04:43](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=283.2s)]
+*  First, they wouldn't let Jack Smith jump to the Supreme Court, even though we all knew [[00:04:45](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=285.3s)]
+*  they were going to want to weigh in, even though they did it on COVID cases. [[00:04:49](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=289.6s)]
+*  They did it on student debt. [[00:04:52](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=292.6s)]
+*  Then they took it and they just sat on it for a while before they even announced arguments. [[00:04:54](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=294.3s)]
+*  Then they announced arguments on the very last day. [[00:04:57](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=297.7s)]
+*  Now it's been six weeks. [[00:05:00](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=300.5s)]
+*  Yeah. [[00:05:01](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=301.7s)]
+*  No, I mean, we knew this. [[00:05:02](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=302.7s)]
+*  I've said this a million times. [[00:05:03](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=303.7s)]
+*  By the time the Supreme Court weighs in on this, and I think this court must say at some [[00:05:05](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=305.0s)]
+*  point that there is no absolute immunity for a president from any criminal liability, but [[00:05:09](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=309.3s)]
+*  there may be some details about what's private, what's public, what's in the outer scope, [[00:05:13](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=313.3s)]
+*  the hour perimeter of the president's office. [[00:05:16](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=316.7s)]
+*  But whatever they do- [[00:05:18](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=318.7s)]
+*  A wholly invented doctrine, just to be clear. [[00:05:19](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=319.7s)]
+*  To be clear. [[00:05:21](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=321.7s)]
+*  But whatever they decide, it is purely academic at this point, because they have already in [[00:05:22](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=322.7s)]
+*  effect immunized this defendant, Donald Trump, from liability for these criminal charges. [[00:05:28](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=328.7s)]
+*  That's kind of all that matters right now. [[00:05:35](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=335.9s)]
+*  I want to also play you this clip from Alito's neighbor who was in the sort of verbal altercation [[00:05:38](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=338.09999999999997s)]
+*  with him and his wife, who gave an interview. [[00:05:43](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=343.7s)]
+*  She's making this point about when the flag went up, Alito says that it was about this [[00:05:48](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=348.5s)]
+*  verbal altercation, then he went to a Fox News reporter who just reported exactly what [[00:05:54](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=354.2s)]
+*  he said and didn't, as far as I can tell, do any additional reporting. [[00:05:58](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=358.42s)]
+*  Here's his neighbor talking about the verbal back and forth they had. [[00:06:02](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=362.34000000000003s)]
+*  I just want to emphasize that the interaction that happened on February 15th is the one [[00:06:07](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=367.26s)]
+*  that they're using as an excuse for why they flew the flag, and I really want to hammer [[00:06:12](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=372.82s)]
+*  home the fact that that happened on February 15th, and their flag went up two or three [[00:06:18](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=378.06s)]
+*  weeks before that. [[00:06:24](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=384.3s)]
+*  That date's confirmed by text messages and a police call. [[00:06:26](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=386.41999999999996s)]
+*  Again, this may just be misremembered, but we still don't know why they were flying the [[00:06:29](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=389.85999999999996s)]
+*  flag upside down on Joe Biden's inauguration day, right? [[00:06:35](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=395.06s)]
+*  We don't. [[00:06:39](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=399.21999999999997s)]
+*  My colleague at NYU, Ryan Goodman, has actually made a really good point about this. [[00:06:40](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=400.78s)]
+*  Just as Alito last week issued this letter to Senators Durbin and Whitehouse explaining [[00:06:43](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=403.94s)]
+*  that he was not going to recuse himself from these January 6th related cases, whether because [[00:06:47](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=407.97999999999996s)]
+*  of this flag went up, he has no obligation to recuse himself. [[00:06:52](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=412.47999999999996s)]
+*  If Ms. Baden is correct that the timeline is wrong, and it seems like the timeline is [[00:06:55](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=415.42s)]
+*  wrong, like there's a real discrepancy between her timeline and Justice Alito's, he's essentially [[00:07:00](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=420.14000000000004s)]
+*  lied to Congress. [[00:07:05](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=425.26s)]
+*  Ryan Goodman, my colleague, has suggested maybe that is something worth investigating [[00:07:08](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=428.26s)]
+*  as a criminal matter, but there's a lot going on here. [[00:07:12](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=432.66s)]
+*  We haven't had these cases. [[00:07:15](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=435.18s)]
+*  Are they waiting because of the proximity of this scandal to those cases? [[00:07:16](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=436.34000000000003s)]
+*  Who knows? [[00:07:19](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=439.82s)]
+*  If that's the case, then we've already answered our question as to why Justice Alito should [[00:07:20](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=440.82s)]
+*  recuse because we're already asking those questions. [[00:07:25](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=445.1s)]
+*  It's too complicated. [[00:07:28](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=448.46000000000004s)]
+*  It's not impartial. [[00:07:29](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=449.46000000000004s)]
+*  Melissa Murray, who is fond of flags as far as I know. [[00:07:30](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=450.46000000000004s)]
+*  Flagrantly. [[00:07:33](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=453.74s)]
+*  Flagrantly fond of flags. [[00:07:34](https://www.youtube.com/watch?v=cEsZI6kpEQ0&t=454.74s)]

@@ -1,0 +1,145 @@
+---
+Date Generated: January 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 704s
+Video Keywords: ['msnbc', 'MSNBC', 'Specials']
+Video Views: 42315
+Video Rating: None
+Video Description: Get the latest news and commentary from Chris Hayes weekdays at 8 p.m. ET on MSNBC.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#USmilitary #Iraq #Syria
+---
+
+# Watch All In With Chris Hayes Highlights Feb. 2
+**NBC - Chris Hayes:** [February 03, 2024](https://www.youtube.com/watch?v=n_61gUoSlPI)
+*  Congressman Jason Crowe is a Democrat of Colorado who sits in the Foreign Affairs Committee. [[00:00:00](https://www.youtube.com/watch?v=n_61gUoSlPI&t=0.0s)]
+*  He's a former Army Ranger who served three tours in Iraq and Afghanistan. [[00:00:03](https://www.youtube.com/watch?v=n_61gUoSlPI&t=3.44s)]
+*  And he joins me now. Congressman, your thoughts on the strikes that have been announced tonight? [[00:00:07](https://www.youtube.com/watch?v=n_61gUoSlPI&t=7.5200000000000005s)]
+*  Good evening. I agree with Senator Duckworth that this appears to be a good response that [[00:00:15](https://www.youtube.com/watch?v=n_61gUoSlPI&t=15.6s)]
+*  shows strength, shows capability, and retaliates for the killing of our soldiers, but also avoids [[00:00:21](https://www.youtube.com/watch?v=n_61gUoSlPI&t=21.84s)]
+*  de-escalation. So that's the near-term analysis, but the long-term analysis also, as Senator Duckworth [[00:00:28](https://www.youtube.com/watch?v=n_61gUoSlPI&t=28.16s)]
+*  aptly pointed out, must be. How does this serve our longer-term interests? What is the end game [[00:00:35](https://www.youtube.com/watch?v=n_61gUoSlPI&t=35.2s)]
+*  here? You know, most of my adult life, we've been fighting and have had conflict in the Middle East. [[00:00:41](https://www.youtube.com/watch?v=n_61gUoSlPI&t=41.6s)]
+*  So we very clearly need a different model. We've been walking around carrying a hammer for the [[00:00:47](https://www.youtube.com/watch?v=n_61gUoSlPI&t=47.120000000000005s)]
+*  last couple of decades. Every problem looks like a nail. So what does a different model look like [[00:00:52](https://www.youtube.com/watch?v=n_61gUoSlPI&t=52.0s)]
+*  that can actually de-escalate and change the entire scenario long-term for the Middle East? [[00:00:57](https://www.youtube.com/watch?v=n_61gUoSlPI&t=57.2s)]
+*  And that's the discussion that's really important for Congress to be engaged in. [[00:01:03](https://www.youtube.com/watch?v=n_61gUoSlPI&t=63.2s)]
+*  Let me ask you what that is. I mean, I was struck tonight. You said for most of your life, [[00:01:07](https://www.youtube.com/watch?v=n_61gUoSlPI&t=67.36s)]
+*  I think we're around the same age, Congressman. And I remember the Gulf War was when I was 11 in [[00:01:11](https://www.youtube.com/watch?v=n_61gUoSlPI&t=71.2s)]
+*  1990. I'm 44 now, so 33 years that some sort of U.S. military activity directed at Iraq has been [[00:01:16](https://www.youtube.com/watch?v=n_61gUoSlPI&t=76.88s)]
+*  happening three-quarters of my life. When you say changing that model, what do you mean by that? [[00:01:24](https://www.youtube.com/watch?v=n_61gUoSlPI&t=84.0s)]
+*  Well, you know, we, for a very long time, have over-reli-ed, this is my opinion, we have over-reli-ed [[00:01:32](https://www.youtube.com/watch?v=n_61gUoSlPI&t=92.88s)]
+*  on military force. And the problem with that, and don't get me wrong, there is absolutely a time and [[00:01:38](https://www.youtube.com/watch?v=n_61gUoSlPI&t=98.72s)]
+*  place to use military force. And I completely agree with the president in these retaliation [[00:01:44](https://www.youtube.com/watch?v=n_61gUoSlPI&t=104.16s)]
+*  strikes that are meant to reestablish deterrence. But we continue to do this over and over again. [[00:01:50](https://www.youtube.com/watch?v=n_61gUoSlPI&t=110.4s)]
+*  So let's look at how do we readjust the proportion of the various tools in our toolbox, humanitarian, [[00:01:58](https://www.youtube.com/watch?v=n_61gUoSlPI&t=118.96000000000001s)]
+*  diplomatic, economic, and military. How do we find a better proportion and how do we leverage [[00:02:05](https://www.youtube.com/watch?v=n_61gUoSlPI&t=125.60000000000001s)]
+*  all of those tools to better achieve an end that we frankly have not been able to achieve? So my [[00:02:12](https://www.youtube.com/watch?v=n_61gUoSlPI&t=132.72s)]
+*  argument is, my thesis here is, we have not brought the right proportion of those tools to bear, [[00:02:18](https://www.youtube.com/watch?v=n_61gUoSlPI&t=138.32s)]
+*  and that's why we continue to have to use military force over and over again here. [[00:02:23](https://www.youtube.com/watch?v=n_61gUoSlPI&t=143.35999999999999s)]
+*  Let me follow up and ask about diplomatic channels with Iran. Obviously, there's a [[00:02:29](https://www.youtube.com/watch?v=n_61gUoSlPI&t=149.04s)]
+*  number of interesting diplomatic channels that have developed recently. There's a Qatari channel [[00:02:32](https://www.youtube.com/watch?v=n_61gUoSlPI&t=152.56s)]
+*  through which U.S. negotiators, including the director of CIA, William Burns, has been involved [[00:02:38](https://www.youtube.com/watch?v=n_61gUoSlPI&t=158.48s)]
+*  in negotiations with the Israelis and Hamas representatives through the Qataris for some kind [[00:02:46](https://www.youtube.com/watch?v=n_61gUoSlPI&t=166.24s)]
+*  of exchange of cessation of hostilities for mass release of hostages in Gaza. There is no real Iran [[00:02:52](https://www.youtube.com/watch?v=n_61gUoSlPI&t=172.64000000000001s)]
+*  channel of diplomacy active right now. There was one that tried to revive that nuclear deal the [[00:03:03](https://www.youtube.com/watch?v=n_61gUoSlPI&t=183.76000000000002s)]
+*  Trump administration ripped up. There's some channel through the Qataris, but do you think [[00:03:11](https://www.youtube.com/watch?v=n_61gUoSlPI&t=191.2s)]
+*  that's something that's needed lacking? Well, I'm almost always a proponent of establishing [[00:03:15](https://www.youtube.com/watch?v=n_61gUoSlPI&t=195.76s)]
+*  some method of communication to avoid misunderstanding because when you have very [[00:03:23](https://www.youtube.com/watch?v=n_61gUoSlPI&t=203.44s)]
+*  large and capable militaries that have significant capabilities that are operating in close proximity [[00:03:28](https://www.youtube.com/watch?v=n_61gUoSlPI&t=208.23999999999998s)]
+*  to one another, a very easy way for this to go awry is for actions to be misunderstood, [[00:03:33](https://www.youtube.com/watch?v=n_61gUoSlPI&t=213.83999999999997s)]
+*  and that's why making sure that the retaliatory strikes that the administration took today were [[00:03:40](https://www.youtube.com/watch?v=n_61gUoSlPI&t=220.48000000000002s)]
+*  carefully calibrated, were strategic, and were surgical because the misunderstanding is exactly [[00:03:46](https://www.youtube.com/watch?v=n_61gUoSlPI&t=226.48000000000002s)]
+*  how this turns into a larger Middle East conflict with very large militaries fighting each other [[00:03:52](https://www.youtube.com/watch?v=n_61gUoSlPI&t=232.24s)]
+*  directly. When you have not a few soldiers being killed, which is a terrible tragedy in and of [[00:03:57](https://www.youtube.com/watch?v=n_61gUoSlPI&t=237.52s)]
+*  itself, you have very large numbers of soldiers meeting themselves on the battlefield, which is [[00:04:04](https://www.youtube.com/watch?v=n_61gUoSlPI&t=244.24s)]
+*  what we want to avoid at all costs here if we can. Let me ask you this, a slightly political [[00:04:09](https://www.youtube.com/watch?v=n_61gUoSlPI&t=249.2s)]
+*  question or a question about your constituents in your district. How top of mind is this for [[00:04:15](https://www.youtube.com/watch?v=n_61gUoSlPI&t=255.6s)]
+*  the folks that you represent in the third district in Colorado? Well, it's very top of mind. I have [[00:04:20](https://www.youtube.com/watch?v=n_61gUoSlPI&t=260.96s)]
+*  the honor of representing one of the most diverse congressional districts in the nation. 20% of my [[00:04:27](https://www.youtube.com/watch?v=n_61gUoSlPI&t=267.59999999999997s)]
+*  constituents were born outside of the United States. I have 130 languages spoken in my community. [[00:04:34](https://www.youtube.com/watch?v=n_61gUoSlPI&t=274.32s)]
+*  I have a large Jewish community. I have a large Arab community. I have a Palestinian diaspora. [[00:04:41](https://www.youtube.com/watch?v=n_61gUoSlPI&t=281.2s)]
+*  I've been engaging with these folks weekly over the last couple of months. I engage with them all [[00:04:46](https://www.youtube.com/watch?v=n_61gUoSlPI&t=286.71999999999997s)]
+*  the time the last couple of years, but I've been doing extra the last few months to make sure that [[00:04:53](https://www.youtube.com/watch?v=n_61gUoSlPI&t=293.12s)]
+*  I'm listening to them, I'm hearing their concerns, and we figure out how we can address this because [[00:04:58](https://www.youtube.com/watch?v=n_61gUoSlPI&t=298.32s)]
+*  it's their lived experience that informs my work. They have families and loved ones who are in [[00:05:03](https://www.youtube.com/watch?v=n_61gUoSlPI&t=303.52s)]
+*  harm's way, whether it be in Israel or in Gaza. I held a roundtable a couple of months ago with [[00:05:09](https://www.youtube.com/watch?v=n_61gUoSlPI&t=309.28s)]
+*  Palestinian members in my community, and one gentleman told me that he lost 50 members of [[00:05:16](https://www.youtube.com/watch?v=n_61gUoSlPI&t=316.4s)]
+*  his family in the last couple of months. 50 members. That's one family. It's truly heartbreaking. So, [[00:05:21](https://www.youtube.com/watch?v=n_61gUoSlPI&t=321.28s)]
+*  that informs my work to make sure that we are putting humanity first. We're putting the [[00:05:27](https://www.youtube.com/watch?v=n_61gUoSlPI&t=327.68s)]
+*  protection of civilians first. I'm a former Army Ranger. I served three combat tours in Iraq and [[00:05:31](https://www.youtube.com/watch?v=n_61gUoSlPI&t=331.68s)]
+*  Afghanistan. What I learned in that time is that the protection of civilians in conflict zones [[00:05:36](https://www.youtube.com/watch?v=n_61gUoSlPI&t=336.40000000000003s)]
+*  is a mission essential priority. It's not secondary. It's not a distraction. You can achieve [[00:05:43](https://www.youtube.com/watch?v=n_61gUoSlPI&t=343.36s)]
+*  no mission, and you can make nobody safer unless civilians are protected, and that is a priority. [[00:05:48](https://www.youtube.com/watch?v=n_61gUoSlPI&t=348.88s)]
+*  I've done a lot of work for the last couple of years to further that goal. [[00:05:55](https://www.youtube.com/watch?v=n_61gUoSlPI&t=355.6s)]
+*  Congressman Jason Krull of the 6th District, not the 3rd. I misspoke. 3rd is Boebert, [[00:06:00](https://www.youtube.com/watch?v=n_61gUoSlPI&t=360.32s)]
+*  6th District of Colorado. Thank you very much, Congressman. Appreciate it. [[00:06:04](https://www.youtube.com/watch?v=n_61gUoSlPI&t=364.56s)]
+*  We also have some breaking news tonight on the many legal cases facing Donald Trump. Judge [[00:06:10](https://www.youtube.com/watch?v=n_61gUoSlPI&t=370.24s)]
+*  Tonya Chutkin just formally canceled Trump's election interference trial that had been [[00:06:14](https://www.youtube.com/watch?v=n_61gUoSlPI&t=374.4s)]
+*  scheduled for March 4th, writing the quote, the court will set a new schedule if and when the [[00:06:19](https://www.youtube.com/watch?v=n_61gUoSlPI&t=379.84s)]
+*  mandate is returned. The mandate, of course, is the long-awaited decision by the appellate [[00:06:24](https://www.youtube.com/watch?v=n_61gUoSlPI&t=384.48s)]
+*  court on the ex-president's claim of absolute immunity from prosecution. Until that ruling, [[00:06:30](https://www.youtube.com/watch?v=n_61gUoSlPI&t=390.16s)]
+*  which we're still waiting for, we won't know when or if the D.C. trial, arguably the most important [[00:06:35](https://www.youtube.com/watch?v=n_61gUoSlPI&t=395.76s)]
+*  trial in recent American history, and certainly the four criminal cases against Trump, will happen. [[00:06:42](https://www.youtube.com/watch?v=n_61gUoSlPI&t=402.08000000000004s)]
+*  Just the kind of delay he wants. Joining me now, Harry Lippman, former Deputy Assistant Attorney [[00:06:48](https://www.youtube.com/watch?v=n_61gUoSlPI&t=408.32s)]
+*  General of the Department of Justice. Let's just start with this. I think this is just [[00:06:52](https://www.youtube.com/watch?v=n_61gUoSlPI&t=412.56s)]
+*  acknowledging what everyone knew to be true and is essentially just a kind of administrative move, [[00:06:56](https://www.youtube.com/watch?v=n_61gUoSlPI&t=416.96s)]
+*  though it highlights the fact that it's now been three or four weeks, I think, [[00:07:01](https://www.youtube.com/watch?v=n_61gUoSlPI&t=421.6s)]
+*  and we still don't have anything from the D.C. Circuit. [[00:07:06](https://www.youtube.com/watch?v=n_61gUoSlPI&t=426.48s)]
+*  Yeah, 24 days. And yes, it's administrative. The mandate is what one needs for jurisdiction. So in [[00:07:09](https://www.youtube.com/watch?v=n_61gUoSlPI&t=429.44s)]
+*  that sense, she says, it's not my case anymore. But that if and when sort of wafts off the page, [[00:07:15](https://www.youtube.com/watch?v=n_61gUoSlPI&t=435.36s)]
+*  you can almost hear a sigh of frustration with it. D.C. Circuit, is there an if here? Will I ever see [[00:07:23](https://www.youtube.com/watch?v=n_61gUoSlPI&t=443.44s)]
+*  it again? So yes, a kind of checking of a box, but a little bit almost frustrated and poignant. [[00:07:30](https://www.youtube.com/watch?v=n_61gUoSlPI&t=450.88s)]
+*  Yeah, I got that too. I mean, I don't know. Maybe I'm reading into it, but I thought the if and when [[00:07:39](https://www.youtube.com/watch?v=n_61gUoSlPI&t=459.28000000000003s)]
+*  was striking. Let's talk about. You didn't need the if. Yeah, that's right. She didn't have to [[00:07:43](https://www.youtube.com/watch?v=n_61gUoSlPI&t=463.28s)]
+*  have the if. So let's talk about two other cases here. So one is the there's another thing we're [[00:07:48](https://www.youtube.com/watch?v=n_61gUoSlPI&t=468.96s)]
+*  waiting for, which is the ruling by Judge Ingoran in New York State Court where there's a civil [[00:07:56](https://www.youtube.com/watch?v=n_61gUoSlPI&t=476.23999999999995s)]
+*  fraud trial. And we have a development there, which is that the former finance chief, Alan Weisselberg, [[00:08:02](https://www.youtube.com/watch?v=n_61gUoSlPI&t=482.71999999999997s)]
+*  is in negotiations to plead guilty to perjury for testimony during this civil fraud trial. [[00:08:09](https://www.youtube.com/watch?v=n_61gUoSlPI&t=489.2s)]
+*  As part of the agreement, he would have to admit he'd lied on the witness stand in the recent civil [[00:08:15](https://www.youtube.com/watch?v=n_61gUoSlPI&t=495.52s)]
+*  fraud trial. It would likely not require to turn on his former boss. The potential agreement could [[00:08:20](https://www.youtube.com/watch?v=n_61gUoSlPI&t=500.0s)]
+*  strengthen Bragg's hand before the former president's trial could deter other witnesses in Mr. Trump's [[00:08:24](https://www.youtube.com/watch?v=n_61gUoSlPI&t=504.8s)]
+*  circle from lying on the stand. What do you make of this? You know, he's become the human [[00:08:29](https://www.youtube.com/watch?v=n_61gUoSlPI&t=509.52s)]
+*  piñata for Donald Trump, like the ultimate whatever Trump touches dies, right? There's a [[00:08:35](https://www.youtube.com/watch?v=n_61gUoSlPI&t=515.6s)]
+*  poignancy to it. And and he's just he just sits there and takes it because he and he doesn't [[00:08:40](https://www.youtube.com/watch?v=n_61gUoSlPI&t=520.32s)]
+*  want to cooperate. It's a pretty interesting I think the perjury is going to concern his testimony [[00:08:45](https://www.youtube.com/watch?v=n_61gUoSlPI&t=525.36s)]
+*  that he didn't really care about the 10000 versus 30000 foot discrepancy in the apartment. But it's [[00:08:51](https://www.youtube.com/watch?v=n_61gUoSlPI&t=531.52s)]
+*  clear that he that he did. Now, that's that's not part of the of the case that was it's now being [[00:08:58](https://www.youtube.com/watch?v=n_61gUoSlPI&t=538.08s)]
+*  pursued. But prosecutors don't like perjury very much. And, you know, they came after him. But just [[00:09:05](https://www.youtube.com/watch?v=n_61gUoSlPI&t=545.6s)]
+*  what a completely, you know, defeated shell of a man, 76 years old and just standing there and and [[00:09:11](https://www.youtube.com/watch?v=n_61gUoSlPI&t=551.9200000000001s)]
+*  having to take it for his lifelong loyalty to to Fred Trump and Donald Trump. Yeah, he's you know, [[00:09:20](https://www.youtube.com/watch?v=n_61gUoSlPI&t=560.0s)]
+*  he's the ultimate kind of roadkill here. Yes, that's a great point. And also, I'm sorry, [[00:09:27](https://www.youtube.com/watch?v=n_61gUoSlPI&t=567.52s)]
+*  one more thing because of Angoren Angoren said the 31st and, you know, fifth that two weeks later, [[00:09:32](https://www.youtube.com/watch?v=n_61gUoSlPI&t=572.64s)]
+*  that's that's a long time. So I think one can surmise that both this fact and he doesn't know [[00:09:38](https://www.youtube.com/watch?v=n_61gUoSlPI&t=578.72s)]
+*  any more than we do. They don't tell him in the in the DA's office, but that that Weisselberg may [[00:09:44](https://www.youtube.com/watch?v=n_61gUoSlPI&t=584.4s)]
+*  plead guilty. And also the report we got from Judge Jones, which set out all these ongoing problems, [[00:09:50](https://www.youtube.com/watch?v=n_61gUoSlPI&t=590.8s)]
+*  those may well figure in Angoren's calculation of penalty need for for certain protections [[00:09:57](https://www.youtube.com/watch?v=n_61gUoSlPI&t=597.36s)]
+*  and the like. So I think that's the most likely explanation for why we're going two more weeks. [[00:10:04](https://www.youtube.com/watch?v=n_61gUoSlPI&t=604.72s)]
+*  OK, finally, here on the Georgia case, of course, allegations of impropriety leveraged in both the [[00:10:09](https://www.youtube.com/watch?v=n_61gUoSlPI&t=609.92s)]
+*  press and also in a court filing against District Attorney Funny Willis for what what the opposing [[00:10:16](https://www.youtube.com/watch?v=n_61gUoSlPI&t=616.16s)]
+*  counsel had contended was an improper relationship with Nathan Wade, who's an attorney who's been an [[00:10:22](https://www.youtube.com/watch?v=n_61gUoSlPI&t=622.72s)]
+*  outside attorney brought into the office. Her filing today, basically, top line is, [[00:10:28](https://www.youtube.com/watch?v=n_61gUoSlPI&t=628.0s)]
+*  yes, they had a relationship. No, it is an improper. It doesn't rise to any level of anything that [[00:10:33](https://www.youtube.com/watch?v=n_61gUoSlPI&t=633.76s)]
+*  should affect her involvement in the case. What do you think of her filing? It's 100 percent true [[00:10:40](https://www.youtube.com/watch?v=n_61gUoSlPI&t=640.48s)]
+*  under Georgia law. She needed to do it. You know, the law of these kinds of scandals is get it all [[00:10:46](https://www.youtube.com/watch?v=n_61gUoSlPI&t=646.3199999999999s)]
+*  out early. The thing is, by now, there's sort of blood in the water. You have one of these, [[00:10:51](https://www.youtube.com/watch?v=n_61gUoSlPI&t=651.84s)]
+*  you know, phony baloney special investigative commissions in Georgia. No, no, no other than [[00:10:56](https://www.youtube.com/watch?v=n_61gUoSlPI&t=656.88s)]
+*  Jim Jordan subpoenaed her today. McAfee is going to have a hearing on the 15th and oddly, even [[00:11:02](https://www.youtube.com/watch?v=n_61gUoSlPI&t=662.8000000000001s)]
+*  before this, he started an evidentiary hearing. So what sort of evidence is it going to take? [[00:11:09](https://www.youtube.com/watch?v=n_61gUoSlPI&t=669.52s)]
+*  That could be a bit of a circus and this could continue even though it should be the end of it. [[00:11:15](https://www.youtube.com/watch?v=n_61gUoSlPI&t=675.12s)]
+*  There's no conflict here. Okay. Harry Libman. Thank you very much. [[00:11:20](https://www.youtube.com/watch?v=n_61gUoSlPI&t=680.08s)]

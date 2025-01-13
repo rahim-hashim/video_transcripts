@@ -26,9 +26,18 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PL4THPMjF2nCKloPNv7HI-xKRdmH0o_iS1': 'Council on Foreign Relations - The World Next Week',
   'https://www.youtube.com/playlist?list=PLY155lJX6_wcTzyjW2sGB4sTT5ZkivwnN': 'Theo Von - This Past Weekend',
   'https://www.youtube.com/playlist?list=PLn5MTSAqaf8peDZQ57QkJBzewJU1aUokl': 'All In Podcast',
-  'https://www.youtube.com/playlist?list=PLn5MTSAqaf8peDZQ57QkJBzewJU1aUokl': 'Dave Smith - Part of the Problem',
+  'https://www.youtube.com/playlist?list=PL1wrt-nxRNK83o9_W8wJvN0y89NmcuLFO': 'Dave Smith - Part of the Problem',
   'https://www.youtube.com/playlist?list=PLTpcK80irdQgz9WLvn1yxFWLXbZw20aV7': 'The Young Turks - Hour 1',
   'https://www.youtube.com/playlist?list=PLTpcK80irdQjwxSkQkLHTvGy2abINHRym': 'The Young Turks - Hour 2',
+  'https://www.youtube.com/playlist?list=PLsnSWTCV9wc5nV9PVgeDQ_zFar8jN0nve': 'Dropsite News',
+  'https://www.youtube.com/playlist?list=PLS_48r7yuHnsRSghHtImrz-VEAl4hmUKE': 'Glenn Greenwald - System Update',
+  'https://www.youtube.com/playlist?list=PLnwt1fUa-EVhHEHY16Za6nORjkefQpR8_': 'AP News - Israel Palestine',
+  'https://www.youtube.com/playlist?list=PLDIVi-vBsOExDwCvqcjMvaaKPHw-e_3XA': 'NBC - Chris Hayes',
+  'https://www.youtube.com/playlist?list=PLDIVi-vBsOEyETRGoRP9y8zhyu6bHl6iK': 'NBC - Rachel Maddow',
+  'https://www.youtube.com/playlist?list=PLDIVi-vBsOEwfv0LML1BGBlPxZsnoa0xM': 'NBC - Ali Vitali',
+  'https://www.youtube.com/playlist?list=PLDIVi-vBsOEzOrc-KpytMYuN9zOXB2cd3': 'NBC - Middle East',
+  'https://www.youtube.com/playlist?list=PLjOdCQvzbrcGIE4axxNh-ITK2fOA4q3Nb': 'CNN - Amanpour - Middle East',
+  'https://www.youtube.com/playlist?list=PL6XRrncXkMaU55GiCvv416NR2qBD_xbmf': 'CNN - Israel Palestine'
 }
 
 podcast_channel_names = {

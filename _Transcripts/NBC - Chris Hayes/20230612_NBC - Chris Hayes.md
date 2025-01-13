@@ -1,0 +1,140 @@
+---
+Date Generated: January 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 515s
+Video Keywords: ['Chris Hayes']
+Video Views: 131958
+Video Rating: None
+Video Description: Congressman Jamie Raskin: “It’s a powerful and devastating document which, if it turns out to be true, leads irresistibly to conviction.”
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #trump #raskin
+---
+
+# Raskin Trump federal indictment is a ‘powerful and devastating document’
+**NBC - Chris Hayes:** [June 12, 2023](https://www.youtube.com/watch?v=t1Gjz_KUzDY)
+*  When Donald Trump appointed Bill Barr as attorney general of the United States in 2019, he wanted [[00:00:00](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=0.0s)]
+*  someone who would protect him. [[00:00:06](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=6.6000000000000005s)]
+*  And Bill Barr did not disappoint. [[00:00:08](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=8.32s)]
+*  Soft peddling the Mueller report to launching an investigation into the FBI, Barr did a [[00:00:10](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=10.72s)]
+*  whole lot for Trump. [[00:00:15](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=15.08s)]
+*  As David Rove, for the New Yorker, like no attorney general since the Watergate era, [[00:00:16](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=16.92s)]
+*  he has acted as the president's political sword and shield. [[00:00:20](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=20.92s)]
+*  So it was notable that Bill Barr went on TV this weekend and said this about the president's [[00:00:25](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=25.32s)]
+*  latest indictment. [[00:00:29](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=29.4s)]
+*  If even half of it is true, then he's toast. [[00:00:32](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=32.04s)]
+*  I mean, it's a very detailed indictment, and it's very, very damning. [[00:00:34](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=34.72s)]
+*  And this idea of presenting Trump as a victim here, a victim of a witch hunt, is ridiculous. [[00:00:41](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=41.0s)]
+*  Yes, he's been a victim in the past. [[00:00:47](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=47.16s)]
+*  Yes, his adversaries have obsessively pursued him with phony claims. [[00:00:49](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=49.44s)]
+*  And I've been at his side defending against him when he is a victim. [[00:00:55](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=55.4s)]
+*  But this is much different. [[00:01:00](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=60.120000000000005s)]
+*  He's not a victim here. [[00:01:01](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=61.24s)]
+*  If he had just turned over the documents, which I think every other person in the country [[00:01:02](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=62.56s)]
+*  would have done, they're the government's documents. [[00:01:05](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=65.84s)]
+*  They're official records. [[00:01:08](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=68.64s)]
+*  They're not his personal records. [[00:01:09](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=69.72s)]
+*  Battle plans for an attack on another country or defense department documents about our [[00:01:11](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=71.8s)]
+*  capabilities are in no universe Donald J. Trump's personal documents. [[00:01:17](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=77.58s)]
+*  They are the government's documents. [[00:01:23](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=83.6s)]
+*  I'm joined now by Congressman Jamie Raskin, Democrat of Maryland, served on the January [[00:01:25](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=85.83999999999999s)]
+*  6th Committee, was the lead impeachment manager in the second impeachment of Donald Trump. [[00:01:29](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=89.6s)]
+*  Congressman, it's good to have you on. [[00:01:33](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=93.96s)]
+*  I haven't gotten a chance to talk to you since all this happened, and I know that you're [[00:01:35](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=95.75999999999999s)]
+*  a constitutional law professor and know your way around the law and have thought a lot [[00:01:39](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=99.19999999999999s)]
+*  about Donald Trump's behavior, particularly in the run-up to January 6th and after. [[00:01:42](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=102.96s)]
+*  And I'm curious what you make of the indictment. [[00:01:47](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=107.19999999999999s)]
+*  Well, it's a powerful and devastating document, which, if it turns out to be true, leads irresistibly [[00:01:50](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=110.64s)]
+*  to conviction and manifestation of his guilt. [[00:02:01](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=121.32000000000001s)]
+*  I mean, it's a remarkable thing that he did. [[00:02:07](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=127.08000000000001s)]
+*  And it's a very finely tuned instrument, this indictment, because it points out that [[00:02:10](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=130.4s)]
+*  there are hundreds and hundreds of documents that were taken. [[00:02:17](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=137.12s)]
+*  But when he returned the first batch, they let him go on all of that stuff, even though [[00:02:22](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=142.12s)]
+*  it was a crime for him to be in unlawful possession of them originally. [[00:02:27](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=147.32s)]
+*  They're only going after him for his continuing refusal to turn over other documents and then [[00:02:31](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=151.92000000000002s)]
+*  his game of hide and go seek that he plays with the government and indeed with his own [[00:02:38](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=158.84s)]
+*  lawyers. [[00:02:43](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=163.56s)]
+*  So I think that they have found him on very clean and simple charges that seem irrefutable, [[00:02:45](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=165.22s)]
+*  at least now. [[00:02:55](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=175.3s)]
+*  But I'm curious, you know, under the presumption of innocence and due process, what he and [[00:02:56](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=176.3s)]
+*  his lawyers will have to say about it. [[00:03:00](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=180.94s)]
+*  We are in fairly uncharted constitutional territory here for this reason. [[00:03:03](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=183.18s)]
+*  One is that there was reporting by multiple folks sourced to people around Trump that [[00:03:06](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=186.98s)]
+*  one of the reasons he declared so early and he declared for election very early was so [[00:03:12](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=192.48s)]
+*  that he could point to any subsequent indictments as political. [[00:03:17](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=197.7s)]
+*  He unilaterally could transform them into political and say, well, you're you're indicting [[00:03:20](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=200.92s)]
+*  someone running for office if he decided to run for office early. [[00:03:26](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=206.22s)]
+*  But it is the case now that presidential candidate is indicted in two different jurisdictions. [[00:03:30](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=210.2s)]
+*  There may be further to go. [[00:03:36](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=216.57999999999998s)]
+*  And this question about like timing and what justice looks like and what it would mean [[00:03:39](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=219.78s)]
+*  for the office, the presidency. [[00:03:43](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=223.42s)]
+*  Like have you tried to get your head around any of that? [[00:03:45](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=225.39999999999998s)]
+*  Well, yeah. [[00:03:49](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=229.45999999999998s)]
+*  You know, Trump has got to accept the fact that constitutional agnosticism about your [[00:03:50](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=230.45999999999998s)]
+*  criminal status cuts in both directions. [[00:03:58](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=238.04s)]
+*  So he's very fond of saying even if he's convicted, he will run for office, even if he's in the [[00:04:00](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=240.68s)]
+*  middle of trial, he will run for office and he will be president if he wins and so on. [[00:04:05](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=245.94s)]
+*  And he's absolutely right that the only requirements for running for president are age and being [[00:04:10](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=250.72s)]
+*  a born citizen as opposed to a naturalized citizen of the country. [[00:04:18](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=258.06s)]
+*  But it's also true that it works in the other direction, too. [[00:04:21](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=261.56s)]
+*  You know, you you can't just by declaring yourself a candidate and running for office, [[00:04:24](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=264.8s)]
+*  make yourself immune to all criminal prosecution and thereby go out and rape and murder and [[00:04:30](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=270.04s)]
+*  pillage and say, well, you can't touch me because I'm running for the Republican or [[00:04:35](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=275.38s)]
+*  Democratic or Libertarian Party nomination in America. [[00:04:39](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=279.62s)]
+*  It doesn't work like that. [[00:04:43](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=283.46s)]
+*  So, you know, I think he's got to accept that that reality works in both directions. [[00:04:44](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=284.78s)]
+*  And just like he can't be stopped from running because he's been indicted by a grand jury [[00:04:53](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=293.54s)]
+*  of his peers from South Florida. [[00:05:01](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=301.16s)]
+*  Similarly, he can't be freed from ever being criminally prosecuted again because either [[00:05:03](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=303.6s)]
+*  he's a candidate or he's in office. [[00:05:09](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=309.68s)]
+*  So it seems to me that the folks that want to defend who have sort of devoted themselves to [[00:05:12](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=312.12s)]
+*  Trump's defense as the kind of primary responsibility in the House of Representatives, your [[00:05:16](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=316.88s)]
+*  colleagues on the Republican side, are going to have a lot to say about this. [[00:05:22](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=322.92s)]
+*  And this was Marjorie Taylor Greene today. [[00:05:26](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=326.68s)]
+*  She says, well, this is her announcing a rider to defund Jack Smith. [[00:05:29](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=329.36s)]
+*  Take a listen to that. [[00:05:34](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=334.12s)]
+*  Today, I'd like to announce that I'm writing an appropriations rider to defund Jack Smith's [[00:05:36](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=336.52000000000004s)]
+*  special counsel, his office and the investigation. [[00:05:42](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=342.68s)]
+*  Now, this strikes me as largely in her and performative. [[00:05:47](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=347.36s)]
+*  I don't think that's going to happen. [[00:05:50](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=350.04s)]
+*  But there are other folks, Jim Jordan, James Comer, who who might start mucking around [[00:05:51](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=351.40000000000003s)]
+*  with the Department of Justice on this. [[00:05:58](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=358.12s)]
+*  And what do you anticipate and how do you chart the strategy for Democrats in the House to [[00:05:59](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=359.6s)]
+*  deal with it? [[00:06:03](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=363.92s)]
+*  Well, that's an authoritarian playbook to attack the prosecutors or attack the judges to [[00:06:06](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=366.48s)]
+*  make your guy absolutely immune and impervious to the rule of law. [[00:06:12](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=372.96s)]
+*  It they're not going to be able to get that through the House, I don't think, much less the [[00:06:18](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=378.88s)]
+*  Senate. And it's too late in any event. [[00:06:24](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=384.24s)]
+*  But, you know, I think that it's worth us pausing to look at that strategy. [[00:06:26](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=386.56s)]
+*  I mean, these are people who declared Trump innocent before ever having seen the unsealed [[00:06:34](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=394.6s)]
+*  indictment, much less waited to see how the trial unfolds. [[00:06:41](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=401.52s)]
+*  I mean, they're declaring themselves not just defense counsel, but also judge and jury in [[00:06:45](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=405.48s)]
+*  the case. And they're declaring him innocent. [[00:06:51](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=411.16s)]
+*  It's as if Donald Trump must be innocent of charges for anything that he does. [[00:06:53](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=413.20000000000005s)]
+*  And he is, you know, as we know, absolutely incorrigible recidivist when it comes to [[00:07:00](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=420.64000000000004s)]
+*  offenses against the rule of law. [[00:07:07](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=427.76000000000005s)]
+*  On January 6, obviously, quite famously, there were criminal recommendations that were [[00:07:10](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=430.88s)]
+*  offered by your committee. Those have no force of law. [[00:07:14](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=434.96000000000004s)]
+*  They're essentially just, you know, you guys saying, look, we we investigate this. [[00:07:17](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=437.0s)]
+*  We think crimes are committed and we think we're committed by the by the president. [[00:07:22](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=442.6s)]
+*  I wonder if the outcome of this investigation makes you feel in either direction about [[00:07:26](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=446.28000000000003s)]
+*  whether we would see some further criminal ramifications for his role in the coup. [[00:07:31](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=451.44s)]
+*  Well, I think that there are a lot of people in the country breathing a sigh of relief that [[00:07:40](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=460.84000000000003s)]
+*  Donald Trump cannot completely escape the criminal justice consequences of his own [[00:07:47](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=467.12s)]
+*  actions. And, you know, as he gets away with one thing, you know, whether it's emoluments [[00:07:54](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=474.84s)]
+*  clause violations or the Ukraine shakedown, then it empowers him and inspires him to go [[00:08:00](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=480.88s)]
+*  on further and incite violent insurrection and steal government documents. [[00:08:06](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=486.76s)]
+*  So we do need to have some criminal consequences. [[00:08:11](https://www.youtube.com/watch?v=t1Gjz_KUzDY&t=491.52s)]

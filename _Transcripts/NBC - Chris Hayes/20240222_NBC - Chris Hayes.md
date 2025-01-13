@@ -1,0 +1,147 @@
+---
+Date Generated: January 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 411s
+Video Keywords: ['Chris Hayes', 'fox news', 'fox news sneaker black people', 'trump sneakers', '2024 election']
+Video Views: 690782
+Video Rating: None
+Video Description: Michael Steele reacts to a Fox News pundit saying Black people will vote for Trump because “they love sneakers.” “Why didn't I think of this when I ran the RNC?” jokes Steele. "It's a big miss. And they're ugly as hell."
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#FoxNews #Trump #sneakers
+---
+
+# Fox host says Black people will back Trump because ‘they love sneakers’
+**NBC - Chris Hayes:** [February 22, 2024](https://www.youtube.com/watch?v=yWSaEV059ks)
+*  If you want to know what Trump campaign staffers think about you, just watch Fox News like [[00:00:00](https://www.youtube.com/watch?v=yWSaEV059ks&t=0.0s)]
+*  this weekend when they gushed over Donald Trump's new ploy for money, a limited edition [[00:00:05](https://www.youtube.com/watch?v=yWSaEV059ks&t=5.5600000000000005s)]
+*  series of gaudy gold $400 Trump sneakers. [[00:00:10](https://www.youtube.com/watch?v=yWSaEV059ks&t=10.76s)]
+*  And like they always do on Fox, somebody said the quiet part out loud on what the big sneaker [[00:00:15](https://www.youtube.com/watch?v=yWSaEV059ks&t=15.52s)]
+*  strategy is really all about. [[00:00:20](https://www.youtube.com/watch?v=yWSaEV059ks&t=20.66s)]
+*  Even the sneaker thing. [[00:00:24](https://www.youtube.com/watch?v=yWSaEV059ks&t=24.46s)]
+*  I was on social media last night. [[00:00:25](https://www.youtube.com/watch?v=yWSaEV059ks&t=25.48s)]
+*  Very interesting as you see black support eroding from Joe Biden. [[00:00:27](https://www.youtube.com/watch?v=yWSaEV059ks&t=27.86s)]
+*  This is connecting with black America because they love sneakers or into sneakers. [[00:00:33](https://www.youtube.com/watch?v=yWSaEV059ks&t=33.3s)]
+*  They love that. [[00:00:37](https://www.youtube.com/watch?v=yWSaEV059ks&t=37.1s)]
+*  You know, this is a big deal, certainly in the inner city. [[00:00:38](https://www.youtube.com/watch?v=yWSaEV059ks&t=38.1s)]
+*  So when you have Trump roll out his sneaker line, they're like, wait a minute. [[00:00:41](https://www.youtube.com/watch?v=yWSaEV059ks&t=41.0s)]
+*  This is cool. [[00:00:44](https://www.youtube.com/watch?v=yWSaEV059ks&t=44.68s)]
+*  He's reaching them on a level that defies and is above politics. [[00:00:45](https://www.youtube.com/watch?v=yWSaEV059ks&t=45.68s)]
+*  The culture always trumps politics and Trump understands culture like no politician I've [[00:00:49](https://www.youtube.com/watch?v=yWSaEV059ks&t=49.78s)]
+*  ever seen. [[00:00:55](https://www.youtube.com/watch?v=yWSaEV059ks&t=55.06s)]
+*  Seriously, why didn't I think of this when I ran the RNC? [[00:00:56](https://www.youtube.com/watch?v=yWSaEV059ks&t=56.06s)]
+*  Let's see. [[00:01:03](https://www.youtube.com/watch?v=yWSaEV059ks&t=63.300000000000004s)]
+*  Black folks love sneakers and we can paint them gold. [[00:01:04](https://www.youtube.com/watch?v=yWSaEV059ks&t=64.76s)]
+*  This can't miss. [[00:01:09](https://www.youtube.com/watch?v=yWSaEV059ks&t=69.86s)]
+*  Trust me. [[00:01:12](https://www.youtube.com/watch?v=yWSaEV059ks&t=72.1s)]
+*  It's a big miss and they ugly as hell. [[00:01:13](https://www.youtube.com/watch?v=yWSaEV059ks&t=73.18s)]
+*  Angela Carzon watches a lot of Fox as the president and CEO of Media Matters for America. [[00:01:17](https://www.youtube.com/watch?v=yWSaEV059ks&t=77.26s)]
+*  And he joins me now. [[00:01:24](https://www.youtube.com/watch?v=yWSaEV059ks&t=84.02s)]
+*  Four hundred dollar kicks. [[00:01:25](https://www.youtube.com/watch?v=yWSaEV059ks&t=85.82s)]
+*  Gold. [[00:01:28](https://www.youtube.com/watch?v=yWSaEV059ks&t=88.25999999999999s)]
+*  Are they really the cynical over there at Fox? [[00:01:30](https://www.youtube.com/watch?v=yWSaEV059ks&t=90.3s)]
+*  Yeah. [[00:01:32](https://www.youtube.com/watch?v=yWSaEV059ks&t=92.3s)]
+*  And you know, this same guy about a year ago when Trump's mugshot came out said that black [[00:01:33](https://www.youtube.com/watch?v=yWSaEV059ks&t=93.3s)]
+*  people can quote relate to Donald Trump now and that it was actually going to increase [[00:01:37](https://www.youtube.com/watch?v=yWSaEV059ks&t=97.46s)]
+*  his black support because he had quote street cred. [[00:01:41](https://www.youtube.com/watch?v=yWSaEV059ks&t=101.62s)]
+*  This is the same guy. [[00:01:44](https://www.youtube.com/watch?v=yWSaEV059ks&t=104.02s)]
+*  So in some way, this is not just a one off. [[00:01:45](https://www.youtube.com/watch?v=yWSaEV059ks&t=105.58s)]
+*  This is part of a pattern from him and Fox News more broadly. [[00:01:48](https://www.youtube.com/watch?v=yWSaEV059ks&t=108.82s)]
+*  It just yeah, you know, the mugshot. [[00:01:52](https://www.youtube.com/watch?v=yWSaEV059ks&t=112.26s)]
+*  Yeah, I guess that works for us, too. [[00:01:54](https://www.youtube.com/watch?v=yWSaEV059ks&t=114.46000000000001s)]
+*  We're used to seeing Fox do these types of things. [[00:01:57](https://www.youtube.com/watch?v=yWSaEV059ks&t=117.7s)]
+*  We're used to seeing them demonize minorities and sort of play up the sort of racial angle [[00:02:00](https://www.youtube.com/watch?v=yWSaEV059ks&t=120.10000000000001s)]
+*  on these things. [[00:02:05](https://www.youtube.com/watch?v=yWSaEV059ks&t=125.5s)]
+*  It gets worse each time, though, seemingly. [[00:02:08](https://www.youtube.com/watch?v=yWSaEV059ks&t=128.68s)]
+*  Their audience really sucks this stuff in and just sort of takes it and goes, yeah, [[00:02:11](https://www.youtube.com/watch?v=yWSaEV059ks&t=131.14000000000001s)]
+*  that's this will work. [[00:02:16](https://www.youtube.com/watch?v=yWSaEV059ks&t=136.62s)]
+*  Black people now follow Donald Trump and because they'll get a pair of sneakers. [[00:02:17](https://www.youtube.com/watch?v=yWSaEV059ks&t=137.82s)]
+*  Yeah, it's weird because they tend to have it both ways. [[00:02:21](https://www.youtube.com/watch?v=yWSaEV059ks&t=141.82s)]
+*  Most of the time, they're demonizing black people. [[00:02:24](https://www.youtube.com/watch?v=yWSaEV059ks&t=144.22s)]
+*  Right. [[00:02:26](https://www.youtube.com/watch?v=yWSaEV059ks&t=146.1s)]
+*  So just a few weeks ago, they actually blamed the 737, the Boeing door that popped out. [[00:02:27](https://www.youtube.com/watch?v=yWSaEV059ks&t=147.1s)]
+*  They blamed that on Boeing allowing too many black people to work on airplanes. [[00:02:32](https://www.youtube.com/watch?v=yWSaEV059ks&t=152.45999999999998s)]
+*  That was not just one Fox News show. [[00:02:36](https://www.youtube.com/watch?v=yWSaEV059ks&t=156.38s)]
+*  That was an entire day of Fox News coverage. [[00:02:38](https://www.youtube.com/watch?v=yWSaEV059ks&t=158.16s)]
+*  That was an argument that they made and their audience completely consumed it. [[00:02:40](https://www.youtube.com/watch?v=yWSaEV059ks&t=160.82s)]
+*  And that's a reflection of what they say to them every day. [[00:02:43](https://www.youtube.com/watch?v=yWSaEV059ks&t=163.76s)]
+*  But then they have these one offs where they actually get excited about the idea and this [[00:02:46](https://www.youtube.com/watch?v=yWSaEV059ks&t=166.57999999999998s)]
+*  false narrative that somehow Trump is capturing all sorts of people across the country. [[00:02:50](https://www.youtube.com/watch?v=yWSaEV059ks&t=170.38s)]
+*  That it's not just limited to his MAGA support base. [[00:02:57](https://www.youtube.com/watch?v=yWSaEV059ks&t=177.01999999999998s)]
+*  So here's some racist narratives Fox passed along just off the top of my head. [[00:02:59](https://www.youtube.com/watch?v=yWSaEV059ks&t=179.62s)]
+*  Birth-a-rism, Obama phones, migrant caravans stealing jobs. [[00:03:04](https://www.youtube.com/watch?v=yWSaEV059ks&t=184.46s)]
+*  They just had to apologize for a live broadcast showing the guardian angels roughing up a [[00:03:09](https://www.youtube.com/watch?v=yWSaEV059ks&t=189.46s)]
+*  guy they said was a migrant who actually is from the Bronx. [[00:03:13](https://www.youtube.com/watch?v=yWSaEV059ks&t=193.54s)]
+*  What I miss. [[00:03:19](https://www.youtube.com/watch?v=yWSaEV059ks&t=199.01999999999998s)]
+*  Most recently, it's claims that they are trying to secretly replace the national anthem. [[00:03:20](https://www.youtube.com/watch?v=yWSaEV059ks&t=200.42000000000002s)]
+*  That that's a big part of it. [[00:03:26](https://www.youtube.com/watch?v=yWSaEV059ks&t=206.9s)]
+*  That they've been sort of... [[00:03:28](https://www.youtube.com/watch?v=yWSaEV059ks&t=208.06s)]
+*  Oh, it's because we sing at the national black anthem. [[00:03:29](https://www.youtube.com/watch?v=yWSaEV059ks&t=209.06s)]
+*  And it's part of a larger conspiracy to dilute white power. [[00:03:31](https://www.youtube.com/watch?v=yWSaEV059ks&t=211.42000000000002s)]
+*  Lift every voice and sing. [[00:03:34](https://www.youtube.com/watch?v=yWSaEV059ks&t=214.54000000000002s)]
+*  That's right. [[00:03:35](https://www.youtube.com/watch?v=yWSaEV059ks&t=215.54000000000002s)]
+*  It is a huge problem and they're really worried about this because they've heard it played [[00:03:36](https://www.youtube.com/watch?v=yWSaEV059ks&t=216.54000000000002s)]
+*  a lot more regularly and they think there's some conspiracy going on. [[00:03:39](https://www.youtube.com/watch?v=yWSaEV059ks&t=219.26000000000002s)]
+*  They tie them into the sort of the larger white genocide great replacement theory. [[00:03:42](https://www.youtube.com/watch?v=yWSaEV059ks&t=222.94s)]
+*  In sort of the Fox News world, they're actually the henchmen for the great powers. [[00:03:47](https://www.youtube.com/watch?v=yWSaEV059ks&t=227.38s)]
+*  Mostly Jewish people that are actually helping bring in all the immigrants. [[00:03:51](https://www.youtube.com/watch?v=yWSaEV059ks&t=231.74s)]
+*  They're helping perpetuate this through their sports and their culture. [[00:03:54](https://www.youtube.com/watch?v=yWSaEV059ks&t=234.42000000000002s)]
+*  So those are the two big ones more recently that you've missed at Fox. [[00:03:56](https://www.youtube.com/watch?v=yWSaEV059ks&t=236.94s)]
+*  Somehow it just amazes me that people actually believe that singing the national black anthem, [[00:04:00](https://www.youtube.com/watch?v=yWSaEV059ks&t=240.62s)]
+*  lift every voice and sing is threatening to white life here in America. [[00:04:08](https://www.youtube.com/watch?v=yWSaEV059ks&t=248.46s)]
+*  I want to move on a little bit further into the abyss with the MyPillow guy. [[00:04:14](https://www.youtube.com/watch?v=yWSaEV059ks&t=254.70000000000002s)]
+*  He, of election denying fame, Mike Lindell used ads that basically were all over the [[00:04:20](https://www.youtube.com/watch?v=yWSaEV059ks&t=260.94s)]
+*  network offering $5 million to anyone who could go out there and disprove his election [[00:04:29](https://www.youtube.com/watch?v=yWSaEV059ks&t=269.74s)]
+*  fraud claims. [[00:04:36](https://www.youtube.com/watch?v=yWSaEV059ks&t=276.34000000000003s)]
+*  Well, guess what? [[00:04:37](https://www.youtube.com/watch?v=yWSaEV059ks&t=277.34000000000003s)]
+*  He caught the car. [[00:04:38](https://www.youtube.com/watch?v=yWSaEV059ks&t=278.34000000000003s)]
+*  He did. [[00:04:39](https://www.youtube.com/watch?v=yWSaEV059ks&t=279.34000000000003s)]
+*  Someone actually disproved his claims. [[00:04:40](https://www.youtube.com/watch?v=yWSaEV059ks&t=280.34000000000003s)]
+*  Now he's doing the backstroke and trying to get a judge to get him off the hook. [[00:04:42](https://www.youtube.com/watch?v=yWSaEV059ks&t=282.78s)]
+*  What's wrong here? [[00:04:49](https://www.youtube.com/watch?v=yWSaEV059ks&t=289.18s)]
+*  What does that say that he thought he could actually get away with the big lie like that? [[00:04:51](https://www.youtube.com/watch?v=yWSaEV059ks&t=291.18s)]
+*  Part of it is that he got high on his own supply. [[00:04:56](https://www.youtube.com/watch?v=yWSaEV059ks&t=296.62s)]
+*  He believed to a degree that he could manifest this through enough resources. [[00:05:00](https://www.youtube.com/watch?v=yWSaEV059ks&t=300.53999999999996s)]
+*  Why wouldn't he believe that? [[00:05:05](https://www.youtube.com/watch?v=yWSaEV059ks&t=305.34s)]
+*  He was Fox's single largest advertiser for years and the result of that was just through [[00:05:06](https://www.youtube.com/watch?v=yWSaEV059ks&t=306.34s)]
+*  force of will, he was able to push all kinds of nonsensical conspiracies into Chicanery, [[00:05:10](https://www.youtube.com/watch?v=yWSaEV059ks&t=310.7s)]
+*  not just into Fox, but into the right wing echo chamber. [[00:05:15](https://www.youtube.com/watch?v=yWSaEV059ks&t=315.09999999999997s)]
+*  So he had had the track record of using his money and his resources to manifest false [[00:05:17](https://www.youtube.com/watch?v=yWSaEV059ks&t=317.18s)]
+*  narratives into reality and Trump was a conduit for that. [[00:05:21](https://www.youtube.com/watch?v=yWSaEV059ks&t=321.42s)]
+*  So in this instance, he gets out there and says, nobody can prove me wrong $5 million [[00:05:23](https://www.youtube.com/watch?v=yWSaEV059ks&t=323.94s)]
+*  and he just assumes that he can bluster and might make his right way through it. [[00:05:28](https://www.youtube.com/watch?v=yWSaEV059ks&t=328.09999999999997s)]
+*  Let's take a little listen of Mr. Lindell. [[00:05:32](https://www.youtube.com/watch?v=yWSaEV059ks&t=332.02s)]
+*  And the media is all down at that end just attacking me from around the world, but I'm [[00:05:36](https://www.youtube.com/watch?v=yWSaEV059ks&t=336.21999999999997s)]
+*  welcoming it. [[00:05:39](https://www.youtube.com/watch?v=yWSaEV059ks&t=339.62s)]
+*  I'm telling them, hey, we have to get rid of the electronic voting machines that go [[00:05:41](https://www.youtube.com/watch?v=yWSaEV059ks&t=341.54s)]
+*  to paper ballots and count it. [[00:05:44](https://www.youtube.com/watch?v=yWSaEV059ks&t=344.34000000000003s)]
+*  And I do want to say Steve, my pillow, my pillow, thanks all of you. [[00:05:46](https://www.youtube.com/watch?v=yWSaEV059ks&t=346.3s)]
+*  We put our bathrobes on sale, 100% USA, subpoena cotton. [[00:05:50](https://www.youtube.com/watch?v=yWSaEV059ks&t=350.46s)]
+*  The grift is always on. [[00:05:56](https://www.youtube.com/watch?v=yWSaEV059ks&t=356.78000000000003s)]
+*  It is. [[00:05:58](https://www.youtube.com/watch?v=yWSaEV059ks&t=358.06s)]
+*  It is. [[00:05:59](https://www.youtube.com/watch?v=yWSaEV059ks&t=359.06s)]
+*  No matter how bad it gets, I got a grift. [[00:06:00](https://www.youtube.com/watch?v=yWSaEV059ks&t=360.06s)]
+*  I mean, that seems to be the end game at the end of the day that, you know, I've got this [[00:06:02](https://www.youtube.com/watch?v=yWSaEV059ks&t=362.18s)]
+*  audience and I'm going to lie to them and they're going to give me cash. [[00:06:06](https://www.youtube.com/watch?v=yWSaEV059ks&t=366.22s)]
+*  Part of what's happening is that because of what we talked about earlier, they've become [[00:06:09](https://www.youtube.com/watch?v=yWSaEV059ks&t=369.82000000000005s)]
+*  increasingly less commercially viable because of their extremism. [[00:06:12](https://www.youtube.com/watch?v=yWSaEV059ks&t=372.86s)]
+*  They have to become a closed system, just like Alex Jones, right? [[00:06:15](https://www.youtube.com/watch?v=yWSaEV059ks&t=375.74s)]
+*  He tells people that there's all this estrogen in the water and you have to buy these eye [[00:06:18](https://www.youtube.com/watch?v=yWSaEV059ks&t=378.32000000000005s)]
+*  drops to put into your drinks that takes the estrogen out of it. [[00:06:21](https://www.youtube.com/watch?v=yWSaEV059ks&t=381.26000000000005s)]
+*  It's a closed system and the rest of the right-wing media is following suit. [[00:06:23](https://www.youtube.com/watch?v=yWSaEV059ks&t=383.90000000000003s)]
+*  Lindell is just one part of that puzzle. [[00:06:27](https://www.youtube.com/watch?v=yWSaEV059ks&t=387.42s)]
+*  Yeah, one part of it. [[00:06:29](https://www.youtube.com/watch?v=yWSaEV059ks&t=389.22s)]

@@ -1,0 +1,140 @@
+---
+Date Generated: January 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 529s
+Video Keywords: ['Chris Hayes']
+Video Views: 108985
+Video Rating: None
+Video Description: Tim Miller says Will Hurd, Tim Scott, Nikki Haley, and Mike Pence are among the "delusional" 2024 GOP candidates: "They’re hopeful that Donald Trump will have a heart attack or end up in prison—or there’s going to be some magic fairy that makes the Republican Party go back to what it was in 1999."
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #republicans #2024election
+---
+
+# ‘Narcissistic and delusional’ Republican Will Hurd jumps into growing 2024 race
+**NBC - Chris Hayes:** [June 22, 2023](https://www.youtube.com/watch?v=DsahZGHqQSY)
+*  Crime and homelessness growing in our cities and liberals do nothing. President Biden can't [[00:00:00](https://www.youtube.com/watch?v=DsahZGHqQSY&t=0.0s)]
+*  solve these problems or won't. And if we nominate a lawless, selfish, failed politician like [[00:00:07](https://www.youtube.com/watch?v=DsahZGHqQSY&t=7.22s)]
+*  Donald Trump, who lost the House, the Senate and the White House, we all know Joe Biden [[00:00:13](https://www.youtube.com/watch?v=DsahZGHqQSY&t=13.08s)]
+*  will win again. [[00:00:18](https://www.youtube.com/watch?v=DsahZGHqQSY&t=18.46s)]
+*  Former Republican Congressman Will Hurd of Texas announced his candidacy for presidency [[00:00:20](https://www.youtube.com/watch?v=DsahZGHqQSY&t=20.46s)]
+*  today, presenting himself as an alternative to the ex-president who Hurd says would lose. [[00:00:24](https://www.youtube.com/watch?v=DsahZGHqQSY&t=24.26s)]
+*  Hurd is just the latest Republican to announce after Miami Mayor Frances Suarez declared [[00:00:28](https://www.youtube.com/watch?v=DsahZGHqQSY&t=28.9s)]
+*  he was running in a video that showed him literally running last week. And with Florida [[00:00:34](https://www.youtube.com/watch?v=DsahZGHqQSY&t=34.839999999999996s)]
+*  Senator Rick Scott reportedly threatening to also join the fray, there's already a [[00:00:39](https://www.youtube.com/watch?v=DsahZGHqQSY&t=39.46s)]
+*  lot of people running. Twelve announced so far, which is one fewer than the number of [[00:00:43](https://www.youtube.com/watch?v=DsahZGHqQSY&t=43.98s)]
+*  Republicans who'd entered the race by this date in 2015, a number that eventually grew [[00:00:48](https://www.youtube.com/watch?v=DsahZGHqQSY&t=48.92s)]
+*  to 17. But this time with the ex-president holding a consistently strong lead in the [[00:00:53](https://www.youtube.com/watch?v=DsahZGHqQSY&t=53.0s)]
+*  polls, the question is why? Why is the field getting so big? Why are so many Republicans [[00:00:58](https://www.youtube.com/watch?v=DsahZGHqQSY&t=58.9s)]
+*  jumping into the race? Tim Miller served as communications director for the Jeb Bush 2016 [[00:01:04](https://www.youtube.com/watch?v=DsahZGHqQSY&t=64.0s)]
+*  presidential campaign as well as spokesman for the RNC. David Plouffe was a campaign [[00:01:09](https://www.youtube.com/watch?v=DsahZGHqQSY&t=69.6s)]
+*  manager for Barack Obama in 2008, served as senior advisor to President Obama and both [[00:01:13](https://www.youtube.com/watch?v=DsahZGHqQSY&t=73.24000000000001s)]
+*  join me now. So Tim, let me start with you. You were there the last time. So last time [[00:01:17](https://www.youtube.com/watch?v=DsahZGHqQSY&t=77.53999999999999s)]
+*  you had Obama's term limited out, right? So you're not going to have an incumbent [[00:01:22](https://www.youtube.com/watch?v=DsahZGHqQSY&t=82.56s)]
+*  president take on that always, I think, invites a lot of challengers. And there was no like [[00:01:27](https://www.youtube.com/watch?v=DsahZGHqQSY&t=87.08s)]
+*  massive formidable behemoth in the world of, you know, on the right there was Jeb Bush [[00:01:31](https://www.youtube.com/watch?v=DsahZGHqQSY&t=91.24000000000001s)]
+*  was sort of the early favorite. And there was a lot of reasons people thought that. [[00:01:38](https://www.youtube.com/watch?v=DsahZGHqQSY&t=98.16s)]
+*  But nothing like Trump. Like, why are so many people getting in this time around? [[00:01:42](https://www.youtube.com/watch?v=DsahZGHqQSY&t=102.04s)]
+*  Yeah, I mean, Jeb hadn't been in office for a decade when he started running. So he was [[00:01:46](https://www.youtube.com/watch?v=DsahZGHqQSY&t=106.28s)]
+*  not like that formidable. I was looking at a number of candidates. I liked Jeb the best. [[00:01:51](https://www.youtube.com/watch?v=DsahZGHqQSY&t=111.28s)]
+*  But, you know, I was assessing the field as wide open as an operative trying to decide [[00:01:54](https://www.youtube.com/watch?v=DsahZGHqQSY&t=114.76s)]
+*  who to work for. So that is very much not the case this time. So I think we have two [[00:01:58](https://www.youtube.com/watch?v=DsahZGHqQSY&t=118.44s)]
+*  things happening in this election. One is you have a group of people that fit in the [[00:02:03](https://www.youtube.com/watch?v=DsahZGHqQSY&t=123.12s)]
+*  grifter slash, you know, maybe if things work out, I can, you know, be in the Trump administration [[00:02:07](https://www.youtube.com/watch?v=DsahZGHqQSY&t=127.36s)]
+*  category. That's the Vivek Ramaswami's of the world. The mayor Suarez from Miami, I [[00:02:13](https://www.youtube.com/watch?v=DsahZGHqQSY&t=133.0s)]
+*  think fits that bill. And then I think you have a really large and kind of dangerous [[00:02:20](https://www.youtube.com/watch?v=DsahZGHqQSY&t=140.32s)]
+*  category of people that are delusional. And I think that is Mike Pence and Nikki Haley. [[00:02:25](https://www.youtube.com/watch?v=DsahZGHqQSY&t=145.84s)]
+*  Wait a second. A politician who's delusional about their own chances and their own appearance? [[00:02:31](https://www.youtube.com/watch?v=DsahZGHqQSY&t=151.4s)]
+*  Narcissistic and delusional. I know this is going to be hard to believe, Chris. Watch [[00:02:37](https://www.youtube.com/watch?v=DsahZGHqQSY&t=157.48s)]
+*  out. But, you know, this is Scott, Haley, Pence, heard, right? And I really think that, [[00:02:40](https://www.youtube.com/watch?v=DsahZGHqQSY&t=160.48s)]
+*  you know, my understanding is, you know, from talking to people around them, is that they [[00:02:47](https://www.youtube.com/watch?v=DsahZGHqQSY&t=167.56s)]
+*  are in a bubble of this small minority of Republicans who agree with them. Those are [[00:02:51](https://www.youtube.com/watch?v=DsahZGHqQSY&t=171.48s)]
+*  the people they socialize with. Those are the donors that they're dealing with. They [[00:02:57](https://www.youtube.com/watch?v=DsahZGHqQSY&t=177.48s)]
+*  think they deeply want and are wishing the Republican Party would go back to a candidate [[00:03:01](https://www.youtube.com/watch?v=DsahZGHqQSY&t=181.44s)]
+*  like them. And I think they're hopeful that either Donald Trump will have a heart attack [[00:03:05](https://www.youtube.com/watch?v=DsahZGHqQSY&t=185.83999999999997s)]
+*  or end up in prison and things might fall in their lap, or that there's going to be [[00:03:11](https://www.youtube.com/watch?v=DsahZGHqQSY&t=191.79999999999998s)]
+*  some magic fairy that makes the Republican Party go back to what it was in 1999. And [[00:03:16](https://www.youtube.com/watch?v=DsahZGHqQSY&t=196.88s)]
+*  that's just not going to happen. But I think that delusion is motivating a lot of these [[00:03:21](https://www.youtube.com/watch?v=DsahZGHqQSY&t=201.07999999999998s)]
+*  guys. Well, so it's the first one, right, that he has a heart attack or he ends up in [[00:03:24](https://www.youtube.com/watch?v=DsahZGHqQSY&t=204.96s)]
+*  prison that I think, David, you have to explain this contradiction, right, which is that he [[00:03:28](https://www.youtube.com/watch?v=DsahZGHqQSY&t=208.79999999999998s)]
+*  is obviously the front runner. He's polling like the front runner. No one will attack [[00:03:34](https://www.youtube.com/watch?v=DsahZGHqQSY&t=214.56s)]
+*  him, right? Almost no one. I mean, Christie being an exception, they're all very gentle. [[00:03:38](https://www.youtube.com/watch?v=DsahZGHqQSY&t=218.76s)]
+*  And yet when you look at people like voting with their feet, people seem to think they [[00:03:42](https://www.youtube.com/watch?v=DsahZGHqQSY&t=222.88s)]
+*  have a shot, right? So there's there's some way you got to explain why those two things [[00:03:46](https://www.youtube.com/watch?v=DsahZGHqQSY&t=226.56s)]
+*  are together. What's your explanation? Well, I agree with Tim. I mean, some are in it for [[00:03:50](https://www.youtube.com/watch?v=DsahZGHqQSY&t=230.44s)]
+*  their future. Some are in it because they're crazy. I mean, listen, the political graveyard [[00:03:57](https://www.youtube.com/watch?v=DsahZGHqQSY&t=237.44s)]
+*  is filled with people whose whose supporters and friends told them what they wanted to [[00:04:01](https://www.youtube.com/watch?v=DsahZGHqQSY&t=241.6s)]
+*  hear, not what they needed to hear until the voters ultimately were clear on that point. [[00:04:06](https://www.youtube.com/watch?v=DsahZGHqQSY&t=246.16s)]
+*  But I do think what you have, though, is, you know, Trump's not at 60 65, right? There are [[00:04:11](https://www.youtube.com/watch?v=DsahZGHqQSY&t=251.28s)]
+*  enough Republicans out there open to an alternative. And when you see some of the focus groups [[00:04:17](https://www.youtube.com/watch?v=DsahZGHqQSY&t=257.08s)]
+*  that have been reported on the qualitative discussion, I find even more interesting than [[00:04:21](https://www.youtube.com/watch?v=DsahZGHqQSY&t=261.28s)]
+*  the polling, which is clearly there's an opening. Now, what's fascinating about this is, [[00:04:25](https://www.youtube.com/watch?v=DsahZGHqQSY&t=265.48s)]
+*  listen, there's 20 lifetimes for you now in the Iowa caucuses. But once we get there, let's [[00:04:29](https://www.youtube.com/watch?v=DsahZGHqQSY&t=269.16s)]
+*  just remember, you know, one of the reasons Trump won back in 16 is, you know, Kasich [[00:04:34](https://www.youtube.com/watch?v=DsahZGHqQSY&t=274.72s)]
+*  stayed in Cruz, stood, stayed in Rubio, stayed in. And so, you know, listen, if if Klobuchar [[00:04:39](https://www.youtube.com/watch?v=DsahZGHqQSY&t=279.8s)]
+*  and Buttigieg had waited 48 hours to drop out, you know, Bernie Sanders would have been [[00:04:45](https://www.youtube.com/watch?v=DsahZGHqQSY&t=285.72s)]
+*  the nominee. So a lot of this, you know, will come down to after Iowa at maybe after New [[00:04:50](https://www.youtube.com/watch?v=DsahZGHqQSY&t=290.52000000000004s)]
+*  Hampshire. Right. You know, does this go down to one Trump alternative? But if a bunch of [[00:04:58](https://www.youtube.com/watch?v=DsahZGHqQSY&t=298.28000000000003s)]
+*  these knuckleheads stay in and split up that vote, that's where his 40 percent looks more [[00:05:03](https://www.youtube.com/watch?v=DsahZGHqQSY&t=303.36s)]
+*  formidable. But I think what the people who are serious about this, and I agree with him, [[00:05:08](https://www.youtube.com/watch?v=DsahZGHqQSY&t=308.40000000000003s)]
+*  it's not many, but the people who are serious about it, they're right about it. [[00:05:12](https://www.youtube.com/watch?v=DsahZGHqQSY&t=312.16s)]
+*  There's an opening here. Even if Trump doesn't emulate, self-immolate even more, there's [[00:05:16](https://www.youtube.com/watch?v=DsahZGHqQSY&t=316.04s)]
+*  clearly if you can piece this together, there's enough Republican primary voters out there [[00:05:21](https://www.youtube.com/watch?v=DsahZGHqQSY&t=321.72s)]
+*  open to someone else. Now, the fact that they're open to someone else and closing the sale, [[00:05:26](https://www.youtube.com/watch?v=DsahZGHqQSY&t=326.68s)]
+*  of course, are two very, very distinct things. [[00:05:31](https://www.youtube.com/watch?v=DsahZGHqQSY&t=331.0s)]
+*  Yeah. And we should say the Emerson polling between April and June shows a little bit of [[00:05:33](https://www.youtube.com/watch?v=DsahZGHqQSY&t=333.48s)]
+*  movement in the right direction. Right. If you're if you're someone who is a Republican, who [[00:05:37](https://www.youtube.com/watch?v=DsahZGHqQSY&t=337.2s)]
+*  doesn't want Trump to be the nominee, you know, goes from 69 to 59 to Santas picks up a few [[00:05:41](https://www.youtube.com/watch?v=DsahZGHqQSY&t=341.96s)]
+*  points. There's some other reasons that this is about whether a third party candidate would [[00:05:46](https://www.youtube.com/watch?v=DsahZGHqQSY&t=346.08s)]
+*  sort of spoil that. This is a sort of April to June comparison. [[00:05:53](https://www.youtube.com/watch?v=DsahZGHqQSY&t=353.4s)]
+*  But, you know, so there's there's reason to think there's an opening here. I completely agree. [[00:05:57](https://www.youtube.com/watch?v=DsahZGHqQSY&t=357.04s)]
+*  And I do think, Tim, like there is this strange waiting for the meteor feeling to the whole [[00:06:01](https://www.youtube.com/watch?v=DsahZGHqQSY&t=361.40000000000003s)]
+*  field, right, which is just like, look, people like him, you kind of alienate all the people [[00:06:06](https://www.youtube.com/watch?v=DsahZGHqQSY&t=366.48s)]
+*  who are trying to persuade if you criticize him, because then you're a lib. [[00:06:13](https://www.youtube.com/watch?v=DsahZGHqQSY&t=373.40000000000003s)]
+*  But like, I don't know, maybe like when we get to the fifth indictment or actually like [[00:06:16](https://www.youtube.com/watch?v=DsahZGHqQSY&t=376.6s)]
+*  sitting in a courtroom, you know, people this'll I mean, that really is what it feels like to [[00:06:22](https://www.youtube.com/watch?v=DsahZGHqQSY&t=382.6s)]
+*  me. Well, there's a there's a kind of waiting for media for eight years, like those of them [[00:06:27](https://www.youtube.com/watch?v=DsahZGHqQSY&t=387.2s)]
+*  that didn't jump like me, Chris. [[00:06:32](https://www.youtube.com/watch?v=DsahZGHqQSY&t=392.32s)]
+*  So it's kind of like eventually I'm going to be right, you know, eventually some everybody [[00:06:33](https://www.youtube.com/watch?v=DsahZGHqQSY&t=393.72s)]
+*  dies. Right. So I think, you know, they're they're pot committed, you know, so there's that [[00:06:36](https://www.youtube.com/watch?v=DsahZGHqQSY&t=396.88s)]
+*  element to it. Here's the thing, though, and I agree with David in general, that there's an [[00:06:42](https://www.youtube.com/watch?v=DsahZGHqQSY&t=402.56s)]
+*  opening for somebody. But the types of Republicans in these focus groups that we do with the [[00:06:46](https://www.youtube.com/watch?v=DsahZGHqQSY&t=406.0s)]
+*  bulwark that are open to someone else want someone like Trump. [[00:06:50](https://www.youtube.com/watch?v=DsahZGHqQSY&t=410.88s)]
+*  They like Trump. You know, so there isn't an opening for a lot of the people that have gotten [[00:06:53](https://www.youtube.com/watch?v=DsahZGHqQSY&t=413.8s)]
+*  in. I think that's the important thing to understand. [[00:06:58](https://www.youtube.com/watch?v=DsahZGHqQSY&t=418.56s)]
+*  Just the one poll I saw that was relevant in a head to head, the status is at thirty three. [[00:07:00](https://www.youtube.com/watch?v=DsahZGHqQSY&t=420.68s)]
+*  Tim Scott is at twenty three. [[00:07:05](https://www.youtube.com/watch?v=DsahZGHqQSY&t=425.4s)]
+*  And I think that gap tells you a lot. [[00:07:07](https://www.youtube.com/watch?v=DsahZGHqQSY&t=427.36s)]
+*  Right. If you're a Tim Scott, you've got a really long way to go. [[00:07:09](https://www.youtube.com/watch?v=DsahZGHqQSY&t=429.6s)]
+*  And I don't see the opening for people like that. [[00:07:13](https://www.youtube.com/watch?v=DsahZGHqQSY&t=433.08s)]
+*  Yeah. Quickly, David, on on on Trump, I mean, this is the last thing here is the Santas, right, who [[00:07:16](https://www.youtube.com/watch?v=DsahZGHqQSY&t=436.28s)]
+*  has modeled himself as like, you know, if you like Trump, how about me? [[00:07:21](https://www.youtube.com/watch?v=DsahZGHqQSY&t=441.96s)]
+*  But I'm younger and I can I can win. [[00:07:25](https://www.youtube.com/watch?v=DsahZGHqQSY&t=445.28s)]
+*  I also think it speaks to perceptions of his weakness that you're seeing all these people get in. [[00:07:27](https://www.youtube.com/watch?v=DsahZGHqQSY&t=447.35999999999996s)]
+*  Well, no question. I mean, and that is maybe it's not fatal. [[00:07:33](https://www.youtube.com/watch?v=DsahZGHqQSY&t=453.0s)]
+*  We'll see. But certainly it's a it's a critical error, which is that he has now created oxygen for a [[00:07:36](https://www.youtube.com/watch?v=DsahZGHqQSY&t=456.55999999999995s)]
+*  bunch of people because I still think on paper he is by far the most likely person that Trump's going [[00:07:42](https://www.youtube.com/watch?v=DsahZGHqQSY&t=462.96s)]
+*  to get the throne to do it. [[00:07:48](https://www.youtube.com/watch?v=DsahZGHqQSY&t=468.91999999999996s)]
+*  But he's been been close to God awful to date. [[00:07:51](https://www.youtube.com/watch?v=DsahZGHqQSY&t=471.76s)]
+*  But it's not even July 4th. [[00:07:56](https://www.youtube.com/watch?v=DsahZGHqQSY&t=476.2s)]
+*  OK, I mean, there is so much time left. [[00:07:59](https://www.youtube.com/watch?v=DsahZGHqQSY&t=479.76s)]
+*  We've got to put him together. [[00:08:02](https://www.youtube.com/watch?v=DsahZGHqQSY&t=482.28s)]
+*  He does seem to be putting together something decent. [[00:08:04](https://www.youtube.com/watch?v=DsahZGHqQSY&t=484.35999999999996s)]
+*  Can I will see. So I think you're right. [[00:08:06](https://www.youtube.com/watch?v=DsahZGHqQSY&t=486.96s)]
+*  I mean, and all these candidates getting in to Santas has to look in the mirror and say the reason this field is [[00:08:09](https://www.youtube.com/watch?v=DsahZGHqQSY&t=489.76s)]
+*  getting more crowded, the reason we're going to have debates now over two nights is because I have been [[00:08:15](https://www.youtube.com/watch?v=DsahZGHqQSY&t=495.16s)]
+*  all just just saying that sentence gave me a little flash of PTSD. [[00:08:22](https://www.youtube.com/watch?v=DsahZGHqQSY&t=502.2s)]
+*  Tim Miller and David Plot, thank you very much. [[00:08:26](https://www.youtube.com/watch?v=DsahZGHqQSY&t=506.24s)]

@@ -1,0 +1,147 @@
+---
+Date Generated: January 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 523s
+Video Keywords: ['Chris Hayes', 'nikki haley 2024', 'donald trump 2024']
+Video Views: 74244
+Video Rating: None
+Video Description: “It is to the benefit of American democracy for there to be a strong faction of the Republican Party committed to defeating Donald Trump,” says Chris Hayes on why it’s a good sign that Nikki Haley is scoring big endorsements. 
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#NikkiHaley #DonaldTrump #2024election
+---
+
+# 'Best shot' Big money donors bet on Nikki Haley to take down Trump
+**NBC - Chris Hayes:** [November 29, 2023](https://www.youtube.com/watch?v=xPRQycDkftg)
+*  Good evening from New York. I'm Chris Hayes. We're under 50 days from the Iowa [[00:00:00](https://www.youtube.com/watch?v=xPRQycDkftg&t=0.0s)]
+*  caucus where Republican primary voters will have their first shot to choose a [[00:00:03](https://www.youtube.com/watch?v=xPRQycDkftg&t=3.44s)]
+*  presidential nominee. And the last time that most of the country went to the [[00:00:07](https://www.youtube.com/watch?v=xPRQycDkftg&t=7.24s)]
+*  pool polls with big sort of national election, the 2022 midterm elections a [[00:00:11](https://www.youtube.com/watch?v=xPRQycDkftg&t=11.0s)]
+*  little over a year ago. And as you might remember, Republicans delivered a [[00:00:15](https://www.youtube.com/watch?v=xPRQycDkftg&t=15.44s)]
+*  pretty shocking underperformance in those elections, and it was an [[00:00:18](https://www.youtube.com/watch?v=xPRQycDkftg&t=18.98s)]
+*  underperformance that was particularly pronounced among the Trump aligned [[00:00:23](https://www.youtube.com/watch?v=xPRQycDkftg&t=23.0s)]
+*  We saw this early in that election night, and it just kept going. The Curry [[00:00:27](https://www.youtube.com/watch?v=xPRQycDkftg&t=27.16s)]
+*  Lake in Arizona and the Herschel Walkers in Georgia and the TV Dr. [[00:00:30](https://www.youtube.com/watch?v=xPRQycDkftg&t=30.72s)]
+*  Mehmet Aziz in Pennsylvania. In short, MAGA lost big in 2022. And as a [[00:00:34](https://www.youtube.com/watch?v=xPRQycDkftg&t=34.72s)]
+*  result, at the time, there was a real feeling that people understood that [[00:00:41](https://www.youtube.com/watch?v=xPRQycDkftg&t=41.12s)]
+*  Donald Trump's political potency had waned, that he was an albatross, and [[00:00:44](https://www.youtube.com/watch?v=xPRQycDkftg&t=44.84s)]
+*  ergo would be a good idea to get someone new as a Republican standard [[00:00:48](https://www.youtube.com/watch?v=xPRQycDkftg&t=48.480000000000004s)]
+*  bearer in this election contest. And we might be in for a competitive Republican [[00:00:52](https://www.youtube.com/watch?v=xPRQycDkftg&t=52.56s)]
+*  presidential primary in 2023 into 24. And that is why you saw so many [[00:00:57](https://www.youtube.com/watch?v=xPRQycDkftg&t=57.32s)]
+*  candidates decide to run against Donald Trump earlier this year. Of course, now [[00:01:02](https://www.youtube.com/watch?v=xPRQycDkftg&t=62.32s)]
+*  with the benefit of finding tonight, things have not really turned out that [[00:01:07](https://www.youtube.com/watch?v=xPRQycDkftg&t=67.72s)]
+*  way. The base still loves Trump, wants him to be the party's nominee. Florida [[00:01:10](https://www.youtube.com/watch?v=xPRQycDkftg&t=70.80000000000001s)]
+*  Governor Ron DeSantis, who was, of course, widely seen as the most viable [[00:01:15](https://www.youtube.com/watch?v=xPRQycDkftg&t=75.88s)]
+*  alternative to Trump, has delivered one of the worst campaign performances of [[00:01:18](https://www.youtube.com/watch?v=xPRQycDkftg&t=78.96000000000001s)]
+*  all time, truly one of the most stunning cash burning operations in recent [[00:01:23](https://www.youtube.com/watch?v=xPRQycDkftg&t=83.84s)]
+*  American politics. At the start of this year, DeSantis was at least feasibly [[00:01:28](https://www.youtube.com/watch?v=xPRQycDkftg&t=88.24000000000001s)]
+*  competitive with Trump in the polls. Look at that. That's a real race. By the [[00:01:33](https://www.youtube.com/watch?v=xPRQycDkftg&t=93.32000000000001s)]
+*  time he announced in late May, much later than many observers thought he [[00:01:37](https://www.youtube.com/watch?v=xPRQycDkftg&t=97.04s)]
+*  should, Trump had opened up about a 30 point lead in the polling averages. And [[00:01:40](https://www.youtube.com/watch?v=xPRQycDkftg&t=100.72s)]
+*  then in that time, the DeSantis campaign, the affiliated PACs, has spent [[00:01:45](https://www.youtube.com/watch?v=xPRQycDkftg&t=105.6s)]
+*  nearly $50 million on advertising, only to see his numbers sink even lower to [[00:01:49](https://www.youtube.com/watch?v=xPRQycDkftg&t=109.24s)]
+*  near single digits while Trump's lead widened to about 45 points. You're going [[00:01:54](https://www.youtube.com/watch?v=xPRQycDkftg&t=114.16s)]
+*  in the wrong direction, Ron. I think it's fair to say that this is not where [[00:01:58](https://www.youtube.com/watch?v=xPRQycDkftg&t=118.88s)]
+*  Florida Governor Ron DeSantis wanted to end up. I think it has dawned on the [[00:02:04](https://www.youtube.com/watch?v=xPRQycDkftg&t=124.75999999999999s)]
+*  non-Trump loving parts of the Republican Party. And there are those elements. [[00:02:09](https://www.youtube.com/watch?v=xPRQycDkftg&t=129.24s)]
+*  We're going to talk about that in a sec. That there is one last chance, 50 days [[00:02:13](https://www.youtube.com/watch?v=xPRQycDkftg&t=133.72s)]
+*  out from Iowa, one last chance for competitive primary, barring some huge [[00:02:18](https://www.youtube.com/watch?v=xPRQycDkftg&t=138.48000000000002s)]
+*  unforeseen circumstances. Given the table as it is set right now, one last [[00:02:21](https://www.youtube.com/watch?v=xPRQycDkftg&t=141.84s)]
+*  chance to have it out over the future of what the party, the Republican Party, [[00:02:26](https://www.youtube.com/watch?v=xPRQycDkftg&t=146.88s)]
+*  and whether it is going to fully align itself behind the man who wants to end [[00:02:30](https://www.youtube.com/watch?v=xPRQycDkftg&t=150.8s)]
+*  American democracy, or whether the Republican Party is going to continue to [[00:02:34](https://www.youtube.com/watch?v=xPRQycDkftg&t=154.68s)]
+*  be a party that's woven into the fabric of the Constitutional Republic. That's [[00:02:38](https://www.youtube.com/watch?v=xPRQycDkftg&t=158.12s)]
+*  the choice for the party. And the way to make that happen would be a one on one [[00:02:42](https://www.youtube.com/watch?v=xPRQycDkftg&t=162.64s)]
+*  contest between Trump's and former South Carolina Governor and UN Ambassador [[00:02:47](https://www.youtube.com/watch?v=xPRQycDkftg&t=167.48s)]
+*  Nikki Haley. Anything other than complete consolidation of the non-Trump [[00:02:51](https://www.youtube.com/watch?v=xPRQycDkftg&t=171.55999999999997s)]
+*  forces in the race are only going to help Trump by splitting the vote. I [[00:02:55](https://www.youtube.com/watch?v=xPRQycDkftg&t=175.6s)]
+*  suspect that is at least partly why we've seen former Vice President Mike [[00:02:59](https://www.youtube.com/watch?v=xPRQycDkftg&t=179.48s)]
+*  Pence and South Carolina Senator Tim Scott suspend their campaigns fairly [[00:03:03](https://www.youtube.com/watch?v=xPRQycDkftg&t=183.27999999999997s)]
+*  abruptly, actually. Maybe other Republicans in the race not named Nikki [[00:03:07](https://www.youtube.com/watch?v=xPRQycDkftg&t=187.27999999999997s)]
+*  Haley will take their lead. Now, it's clearly not a majority view of primary [[00:03:11](https://www.youtube.com/watch?v=xPRQycDkftg&t=191.48s)]
+*  voting Republicans. But there is definitely a contingent of the Republican [[00:03:17](https://www.youtube.com/watch?v=xPRQycDkftg&t=197.56s)]
+*  Party that would like to, if they could, they'd like to move on from Trump. And [[00:03:23](https://www.youtube.com/watch?v=xPRQycDkftg&t=203.16s)]
+*  these folks are just not particularly well represented anymore. I mean, the [[00:03:29](https://www.youtube.com/watch?v=xPRQycDkftg&t=209.44s)]
+*  conservative media is basically fully in the tank for MAGA. Most of the so-called [[00:03:32](https://www.youtube.com/watch?v=xPRQycDkftg&t=212.67999999999998s)]
+*  never Trump Republicans have essentially become parts of the Democratic Party [[00:03:37](https://www.youtube.com/watch?v=xPRQycDkftg&t=217.04s)]
+*  coalition, especially in the Biden era. So there really is like no one out there [[00:03:40](https://www.youtube.com/watch?v=xPRQycDkftg&t=220.76s)]
+*  in the world who speaks for this group of people. But they really do exist. I [[00:03:44](https://www.youtube.com/watch?v=xPRQycDkftg&t=224.88s)]
+*  mean, there really are literally millions of them. They show up in polling. I mean, [[00:03:48](https://www.youtube.com/watch?v=xPRQycDkftg&t=228.76s)]
+*  around 20% of the Republican Party disapproves of Donald Trump. And for [[00:03:53](https://www.youtube.com/watch?v=xPRQycDkftg&t=233.2s)]
+*  these people who don't like the Democrats, they're not Democrats, they're [[00:03:59](https://www.youtube.com/watch?v=xPRQycDkftg&t=239.68s)]
+*  conservatives, but who also don't like Trump, Nikki Haley appears to be their [[00:04:03](https://www.youtube.com/watch?v=xPRQycDkftg&t=243.12s)]
+*  best shot. In fact, we've seen a succession of headlines in just the last few days [[00:04:07](https://www.youtube.com/watch?v=xPRQycDkftg&t=247.32s)]
+*  that demonstrate that dawning realization. Haley's affiliated super PAC [[00:04:11](https://www.youtube.com/watch?v=xPRQycDkftg&t=251.56s)]
+*  spent almost $9 million on advertising this month. That's a lot. It's nearly as [[00:04:15](https://www.youtube.com/watch?v=xPRQycDkftg&t=255.56s)]
+*  much as both Trump and DeSantis's PACs combined. You've got Jamie Dimon, the [[00:04:19](https://www.youtube.com/watch?v=xPRQycDkftg&t=259.48s)]
+*  billionaire CEO of JP Morgan Chase, who's been talking up Haley to anyone who [[00:04:24](https://www.youtube.com/watch?v=xPRQycDkftg&t=264.6s)]
+*  will listen, including during an event earlier today. [[00:04:28](https://www.youtube.com/watch?v=xPRQycDkftg&t=268.4s)]
+*  I did come out and make a nice statement about Nikki Haley. [[00:04:32](https://www.youtube.com/watch?v=xPRQycDkftg&t=272.44s)]
+*  You did. You've been talking to Nikki Haley. [[00:04:35](https://www.youtube.com/watch?v=xPRQycDkftg&t=275.12s)]
+*  Yes, I have. You're a very liberal Democrat. I urge you, you know, help Nikki [[00:04:36](https://www.youtube.com/watch?v=xPRQycDkftg&t=276.88s)]
+*  Haley, too. You know, get a choice on the Republican side that might be better [[00:04:41](https://www.youtube.com/watch?v=xPRQycDkftg&t=281.24s)]
+*  than Trump. [[00:04:45](https://www.youtube.com/watch?v=xPRQycDkftg&t=285.12s)]
+*  Also this week, it was reported that Americans for Prosperity, the infamous [[00:04:46](https://www.youtube.com/watch?v=xPRQycDkftg&t=286.44s)]
+*  political arm of the Koch network, would be backing Haley as well, which is a huge [[00:04:50](https://www.youtube.com/watch?v=xPRQycDkftg&t=290.12s)]
+*  development, providing her access to a near endless stream of dark money. Now, [[00:04:54](https://www.youtube.com/watch?v=xPRQycDkftg&t=294.48s)]
+*  the Koch political network run by Charles Koch, one of the richest men on [[00:04:58](https://www.youtube.com/watch?v=xPRQycDkftg&t=298.56s)]
+*  Earth, has had obviously a relentlessly and profoundly malignant influence on [[00:05:01](https://www.youtube.com/watch?v=xPRQycDkftg&t=301.52s)]
+*  American life. In many ways, its unlimited supply of near untraceable money [[00:05:06](https://www.youtube.com/watch?v=xPRQycDkftg&t=306.84s)]
+*  backing political movements like the Tea Party and then candidates paved the way [[00:05:11](https://www.youtube.com/watch?v=xPRQycDkftg&t=311.15999999999997s)]
+*  for Donald Trump brought us to the moment that we're in. And also just to be [[00:05:14](https://www.youtube.com/watch?v=xPRQycDkftg&t=314.71999999999997s)]
+*  absolutely clear, I really don't like at all Nikki Haley's politics. I think it [[00:05:18](https://www.youtube.com/watch?v=xPRQycDkftg&t=318.71999999999997s)]
+*  would be a bad thing for the country if she were elected president. She would [[00:05:22](https://www.youtube.com/watch?v=xPRQycDkftg&t=322.67999999999995s)]
+*  pursue an agenda that negatively impacts the material conditions for working [[00:05:25](https://www.youtube.com/watch?v=xPRQycDkftg&t=325.47999999999996s)]
+*  Americans nearly every way from the climate to tax cuts to abortion rights. [[00:05:28](https://www.youtube.com/watch?v=xPRQycDkftg&t=328.96s)]
+*  But and also, I don't think Nikki Haley would prove to be an existential threat [[00:05:33](https://www.youtube.com/watch?v=xPRQycDkftg&t=333.4s)]
+*  to the very framework of our representative democracy like Donald Trump [[00:05:39](https://www.youtube.com/watch?v=xPRQycDkftg&t=339.4s)]
+*  clearly would be and is. Listen to her at the first primary debate dressing down [[00:05:42](https://www.youtube.com/watch?v=xPRQycDkftg&t=342.79999999999995s)]
+*  candidate Vivek Ramaswamy over Ukraine. [[00:05:48](https://www.youtube.com/watch?v=xPRQycDkftg&t=348.35999999999996s)]
+*  Ukraine is a front line of defense. Putin has said if Russia once Russia takes [[00:05:51](https://www.youtube.com/watch?v=xPRQycDkftg&t=351.84s)]
+*  Ukraine, Poland and the Baltics are next. That's a world war. We're trying to [[00:05:58](https://www.youtube.com/watch?v=xPRQycDkftg&t=358.2s)]
+*  prevent war. Look at what Putin did today. He killed per goes in. When I was [[00:06:02](https://www.youtube.com/watch?v=xPRQycDkftg&t=362.28s)]
+*  at the U.N., the Russian ambassador suddenly died. This guy is a murderer and [[00:06:07](https://www.youtube.com/watch?v=xPRQycDkftg&t=367.08s)]
+*  you are choosing a murderer over over a pro American country. [[00:06:12](https://www.youtube.com/watch?v=xPRQycDkftg&t=372.52s)]
+*  Now, that doesn't sound absolutely crazy. It's sort of, I don't know, like [[00:06:18](https://www.youtube.com/watch?v=xPRQycDkftg&t=378.12s)]
+*  normal American foreign policy view with some that even Democrats have, right? [[00:06:23](https://www.youtube.com/watch?v=xPRQycDkftg&t=383.2s)]
+*  And politics, at least in my view, particularly these days, is often about [[00:06:26](https://www.youtube.com/watch?v=xPRQycDkftg&t=386.72s)]
+*  the lesser of two easels. It's about harm reduction. Sometimes even it's about [[00:06:32](https://www.youtube.com/watch?v=xPRQycDkftg&t=392.24s)]
+*  choosing the bad over the cataclysmic. And from that perspective, it's just [[00:06:37](https://www.youtube.com/watch?v=xPRQycDkftg&t=397.24s)]
+*  undoubtedly a good thing. The Coat Network is making this realization about [[00:06:41](https://www.youtube.com/watch?v=xPRQycDkftg&t=401.64000000000004s)]
+*  Haley as the last viable option and this investment. It's a positive thing that [[00:06:45](https://www.youtube.com/watch?v=xPRQycDkftg&t=405.6s)]
+*  Wall Street executives are telling people they should back Haley for the good of [[00:06:49](https://www.youtube.com/watch?v=xPRQycDkftg&t=409.8s)]
+*  the country. It is to the benefit of American democracy for there to be a [[00:06:52](https://www.youtube.com/watch?v=xPRQycDkftg&t=412.72s)]
+*  strong faction of the Republican Party, one of the two major ones we have, [[00:06:56](https://www.youtube.com/watch?v=xPRQycDkftg&t=416.52s)]
+*  committed to defeating Donald Trump. And to be clear, they have a strong case to [[00:07:00](https://www.youtube.com/watch?v=xPRQycDkftg&t=420.71999999999997s)]
+*  make. I mean, it's been fairly well shown now that Haley would be a strong general [[00:07:04](https://www.youtube.com/watch?v=xPRQycDkftg&t=424.44s)]
+*  election candidate. The polling reliably shows us. In fact, in lots of polls, [[00:07:09](https://www.youtube.com/watch?v=xPRQycDkftg&t=429.84s)]
+*  she's the one candidate polling above Trump and head to heads. She's got [[00:07:13](https://www.youtube.com/watch?v=xPRQycDkftg&t=433.68s)]
+*  executive experience. She's got foreign policy experience. More cynically, the [[00:07:16](https://www.youtube.com/watch?v=xPRQycDkftg&t=436.76s)]
+*  polls show she's a formidable nominee. Recent poll from Marquette Law School [[00:07:20](https://www.youtube.com/watch?v=xPRQycDkftg&t=440.56s)]
+*  shows Haley beating Joe Biden by double digits, far ahead of Trump and Ron [[00:07:25](https://www.youtube.com/watch?v=xPRQycDkftg&t=445.32s)]
+*  DeSantis. And of course, there's also the element of poetic justice at play for [[00:07:28](https://www.youtube.com/watch?v=xPRQycDkftg&t=448.88s)]
+*  the Republicans. I mean, here's the reality. Nominating anyone other than [[00:07:33](https://www.youtube.com/watch?v=xPRQycDkftg&t=453.88s)]
+*  Donald Trump would almost certainly rip the party asunder. It might even break it [[00:07:37](https://www.youtube.com/watch?v=xPRQycDkftg&t=457.52s)]
+*  in its current name and form. I mean, Trump would then set himself to the goal [[00:07:41](https://www.youtube.com/watch?v=xPRQycDkftg&t=461.48s)]
+*  of the total destruction of the Republican Party, just like he did against [[00:07:47](https://www.youtube.com/watch?v=xPRQycDkftg&t=467.0s)]
+*  America as a whole, should they nominate anyone other than him. The fact that [[00:07:50](https://www.youtube.com/watch?v=xPRQycDkftg&t=470.03999999999996s)]
+*  the matter is that's probably what the Republican Party deserves. I mean, again, [[00:07:55](https://www.youtube.com/watch?v=xPRQycDkftg&t=475.04s)]
+*  if I'm writing the script here, I mean, do we destroy by the monster they created [[00:08:01](https://www.youtube.com/watch?v=xPRQycDkftg&t=481.04s)]
+*  enabled for the better part of a decade? Nikki Haley included, as you know, from [[00:08:04](https://www.youtube.com/watch?v=xPRQycDkftg&t=484.6s)]
+*  the open. And they all know that threat hangs over them. So anyone who takes up [[00:08:08](https://www.youtube.com/watch?v=xPRQycDkftg&t=488.36s)]
+*  the effort to defeat Trump, really, to really go after him, to try to beat him [[00:08:14](https://www.youtube.com/watch?v=xPRQycDkftg&t=494.64000000000004s)]
+*  in this Republican primary anyway, deserve support. [[00:08:18](https://www.youtube.com/watch?v=xPRQycDkftg&t=498.76s)]

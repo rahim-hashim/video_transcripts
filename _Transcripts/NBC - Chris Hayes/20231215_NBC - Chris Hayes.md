@@ -1,0 +1,146 @@
+---
+Date Generated: January 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 605s
+Video Keywords: ['Chris Hayes', 'scotus abortion', 'scotus abortion ruling', 'scotus leak', 'supreme court abortion news', 'abortion rights', 'abortion law', 'jodi kantor']
+Video Views: 1233936
+Video Rating: None
+Video Description: New York Times investigative reporter Jodi Kantor joins Chris Hayes to discuss her behind-the-scenes look into the dismantling of Roe, including new details on a last-ditch, bipartisan attempt to save abortion rights.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#SCOTUS #abortion #abortionrights
+---
+
+# Bombshell new report on the Supreme Court’s abortion leak
+**NBC - Chris Hayes:** [December 15, 2023](https://www.youtube.com/watch?v=EWsmuePZ7Rw)
+*  The political landscape rumbling loudly tonight after the explosive leak of a [[00:00:00](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=0.0s)]
+*  draft Supreme Court opinion overturning Roe versus Wade. Chief Justice John [[00:00:05](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=5.24s)]
+*  Roberts today confirming the draft was genuine but calling the leak a breach of [[00:00:10](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=10.24s)]
+*  trust and ordering an investigation into who did it. The decision, a sharply [[00:00:14](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=14.76s)]
+*  worded takedown of Roe v. Wade, has abortion opponents celebrating tonight [[00:00:19](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=19.64s)]
+*  while leaving abortion rights supporters angry and worried. The leak of the [[00:00:24](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=24.2s)]
+*  decision overturning the right to an abortion in this country and the [[00:00:29](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=29.64s)]
+*  behind-the-scenes fight that led up to it is the subject of this fantastic new [[00:00:31](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=31.880000000000003s)]
+*  investigative piece in the New York Times. Reporters Jodie Cantor and Adam [[00:00:36](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=36.0s)]
+*  Liptaak explain how quote in overturning Roe the court set aside more [[00:00:39](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=39.72s)]
+*  than precedent it tested the boundaries of how cases are decided and joining me [[00:00:43](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=43.480000000000004s)]
+*  now is Jodie Cantor the Pulitzer Prize-winning investigative reporter who [[00:00:48](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=48.28s)]
+*  helped break this story for the New York Times. Jodie it's a great piece and [[00:00:51](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=51.8s)]
+*  there's a bunch of stuff in here I want to get to. I want to start with [[00:00:55](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=55.120000000000005s)]
+*  bringing people back to the timeline which I had sort of forgotten a little [[00:00:59](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=59.08s)]
+*  bit until I read your piece today which is basically that this the Mississippi [[00:01:03](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=63.16s)]
+*  wants to to Mississippi passes this law banning abortion to 15 weeks they know [[00:01:08](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=68.4s)]
+*  it's frontally unconstitutional under the court's current jurisprudence but [[00:01:13](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=73.44s)]
+*  they want to test it anyway and they want to send it up to the court and they [[00:01:17](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=77.56s)]
+*  petition the court and then Justice Ruth Bader Ginsburg dies. Amy Coney Barrett [[00:01:20](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=80.38s)]
+*  replaces her. Tell us about the dynamics in what we think of as a conference in [[00:01:28](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=88.04s)]
+*  that court about whether to take up the case knowing how adjacent it is to [[00:01:33](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=93.64s)]
+*  Justice Ginsburg's death. So one of the things that Adam Liptaak and I found was [[00:01:39](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=99.28s)]
+*  that this was a real point of sensitivity for the court. You know it's [[00:01:45](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=105.72s)]
+*  interesting on the one hand in our system of lifetime appointments the [[00:01:50](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=110.8s)]
+*  passing of justices helps refresh the law it's part of what moves the law [[00:01:55](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=115.16s)]
+*  around moves to the law along but if the law changes too quickly after a justice [[00:01:59](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=119.75999999999999s)]
+*  dies it can look like like this is like actually Amy Coney Barrett wrote years [[00:02:05](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=125.72s)]
+*  ago in a law review article it can look like this is about politics and power [[00:02:11](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=131.6s)]
+*  instead of law and reason so so there's this debate in early 2021 about whether [[00:02:16](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=136.0s)]
+*  to take up the case not how to decide it but whether to take it up at all and it [[00:02:23](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=143.08s)]
+*  becomes a debate about timing it's very clear that this new conservative [[00:02:28](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=148.24s)]
+*  supermajority has the votes to hear the case they have the minimum of four in [[00:02:33](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=153.96s)]
+*  fact initially they have five but there's disagreement about when to do it [[00:02:39](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=159.04s)]
+*  justices Alito Gorsuch and Thomas were very eager they actually wanted to hear [[00:02:44](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=164.36s)]
+*  the case that term the term before it was actually held whereas justice [[00:02:50](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=170.24s)]
+*  Kavanaugh and Justice Barrett were a little reluctant justice Kavanaugh [[00:02:55](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=175.96s)]
+*  suggested a plan to relist it in other words to to withhold from the public the [[00:03:01](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=181.28s)]
+*  court's decision to take the case and actually Justice Barrett made a really [[00:03:07](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=187.8s)]
+*  strong stand she said to the others if you try to take this case this term I [[00:03:12](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=192.12s)]
+*  will change my vote from a grant a yes to a deny a no and then one of the [[00:03:18](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=198.64000000000001s)]
+*  biggest surprises of the reporting is that that is what she actually ended up [[00:03:24](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=204.92000000000002s)]
+*  doing she opposed hearing this case and it's key here to just set the context [[00:03:29](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=209.64s)]
+*  here when you quote that law review article right the perception from the [[00:03:35](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=215.64s)]
+*  outside is the the the anti-ro justices are sitting around waiting for their [[00:03:39](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=219.44s)]
+*  colleague to die and then be replaced with a new person so even before her [[00:03:44](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=224.96s)]
+*  body is in the ground they can get to planning their long desired goal of [[00:03:50](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=230.56s)]
+*  overturning row and I'm feeling I'm reading into things here that you didn't [[00:03:56](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=236.0s)]
+*  report I'm saying this is what it looks like to me is that just as Barrett is [[00:04:01](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=241.04000000000002s)]
+*  like that's gonna look bad for me personally like if we do this right away [[00:04:04](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=244.4s)]
+*  she is objecting to it but the most fascinating thing is that what Kavanaugh [[00:04:08](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=248.48000000000002s)]
+*  suggests what they what they do is they decide to take the case and functionally [[00:04:12](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=252.88s)]
+*  deceive the public about doing so so they he named some reasons he says we're [[00:04:16](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=256.64s)]
+*  gonna watch the lower court cases on abortion you know we're gonna see what [[00:04:23](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=263.92s)]
+*  happens etc etc but it does have the effect of distancing creating the [[00:04:28](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=268.76s)]
+*  appearance of distance from Justice Ginsburg's death and I agree with you [[00:04:36](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=276.08s)]
+*  that Justice Barrett is in a fascinating position because remember [[00:04:40](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=280.48s)]
+*  that President Trump said that he was going to appoint justices who would [[00:04:44](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=284.44s)]
+*  automatically overturn row she gets appointed she is a favorite of abortion [[00:04:48](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=288.44s)]
+*  opponents she has you know she has seven children you know that is the way she's [[00:04:54](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=294.8s)]
+*  read in the public mind so I think actually the fact that she voted against [[00:05:01](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=301.52000000000004s)]
+*  taking the case gives us a lot to think about in terms of the court and also [[00:05:06](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=306.24s)]
+*  about her you know what what is the meaning of her switching her vote [[00:05:11](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=311.44s)]
+*  ultimately you only need four votes they take the case and we all know that she [[00:05:19](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=319.72s)]
+*  ends up joining the majority which was their their gambit all along that [[00:05:23](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=323.08s)]
+*  majority that she would in fact join it but just a I want to just because this [[00:05:26](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=326.8s)]
+*  is a technical thing but it's important to me because in some ways it's my I [[00:05:30](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=330.24s)]
+*  think the top line of this reporting is that they basically decide they're gonna [[00:05:33](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=333.48s)]
+*  take it in February but they the way they communicate to the public isn't in [[00:05:37](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=337.48s)]
+*  February we're gonna take this case instead they they relist it meaning we [[00:05:42](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=342.0s)]
+*  haven't decided yet we haven't decided yet and they keep doing that over and [[00:05:46](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=346.64s)]
+*  over again they know they're taking it but they are saying well we don't know [[00:05:50](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=350.0s)]
+*  even though they know they took it three months after Ginsburg died from [[00:05:54](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=354.44s)]
+*  three months after there so the public doesn't know that but they know that [[00:05:59](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=359.52s)]
+*  right I hear what you're saying but I'm gonna give you another interpretation of [[00:06:03](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=363.15999999999997s)]
+*  the facts this is also this is also introducing a delay that opens a window [[00:06:11](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=371.2s)]
+*  for persuasion because what happens next is that you know there's this sort of [[00:06:17](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=377.35999999999996s)]
+*  funny period when they have the votes but this is not publicly announced and [[00:06:23](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=383.52s)]
+*  Chief Justice Roberts and Justice Breyer a conservative and a liberal both very [[00:06:28](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=388.48s)]
+*  drawn to consensus neither of them interested in pursuing gobs have this [[00:06:33](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=393.64s)]
+*  window for persuasion and they try to convince the two newest justices not to [[00:06:38](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=398.2s)]
+*  take the case whether that affected Justice Barrett's decision we can't [[00:06:44](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=404.0s)]
+*  totally say for sure but we know that she ends up changing her vote so so so [[00:06:48](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=408.76s)]
+*  the appearance point you make is a strong one but you also have to ask what [[00:06:55](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=415.52000000000004s)]
+*  is happening strategically during during during this point because we know that [[00:07:00](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=420.04s)]
+*  Justice Alito gets a little nervous and says to Justice Kavanaugh is your vote [[00:07:05](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=425.40000000000003s)]
+*  firm and on that strategy so when we get to the actually they take the case they [[00:07:11](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=431.28000000000003s)]
+*  hear the arguments they're they're they're drawing up the the opinion right [[00:07:15](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=435.64s)]
+*  that they have the five votes for overturning row frontally Mississippi [[00:07:19](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=439.36s)]
+*  has changed once the case gets taken they say we're actually not asking you [[00:07:25](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=445.28000000000003s)]
+*  to rule on this law we want you to go all out at row they go all out a row in [[00:07:29](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=449.40000000000003s)]
+*  oral arguments it's like do it do the whole thing they've got five votes there [[00:07:33](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=453.24s)]
+*  is an effort you report on by Breyer basically in Roberts to try to pull a [[00:07:37](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=457.44s)]
+*  justice away from that to find some consensus consensus position that [[00:07:43](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=463.40000000000003s)]
+*  upholds Mississippi law which would radically pair back rights but not end [[00:07:48](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=468.68s)]
+*  row what does the leak do to those efforts so that's another thing we're [[00:07:53](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=473.0s)]
+*  able to establish in this reporting I cannot tell you who leaked that document [[00:08:01](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=481.40000000000003s)]
+*  I can't tell you for sure what the motive is but Adam and I can tell you [[00:08:06](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=486.0s)]
+*  the effect yes which is that the leak cemented these votes part of the reason [[00:08:10](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=490.92s)]
+*  that the votes are secret is that justices do sometimes change their mind [[00:08:17](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=497.40000000000003s)]
+*  they want that freedom they need that freedom history shows us that it's [[00:08:22](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=502.32s)]
+*  happened plenty of times with a lot of consequence and so the leak interferes [[00:08:26](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=506.28000000000003s)]
+*  with that it's hard to say what would have happened anyway there isn't [[00:08:31](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=511.92s)]
+*  overwhelming evidence that you know a comp you know three justice compromise [[00:08:36](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=516.88s)]
+*  that would have saved the right to abortion you know is on the cusp of [[00:08:43](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=523.0s)]
+*  becoming reality we cannot say that but we know that the deliberative process [[00:08:46](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=526.8s)]
+*  was at play that there were efforts at persuasion the chief justice only needed [[00:08:52](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=532.04s)]
+*  one vote to make his 15 week position work and also chief justice sorry [[00:08:56](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=536.68s)]
+*  justice Breyer was so interested in this that he considered joining this 15 week [[00:09:02](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=542.64s)]
+*  position which would have been a symbolic move and then the leak comes [[00:09:08](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=548.72s)]
+*  those efforts become hopeless and so part of what we need to remember about [[00:09:13](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=553.52s)]
+*  this decision is that it really does look like somebody did something really [[00:09:17](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=557.92s)]
+*  inappropriate and and and intended to interfere with the process in some way [[00:09:23](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=563.68s)]
+*  that that reporting about the effect which also was new I mean we just didn't [[00:09:28](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=568.4s)]
+*  know we sort of know what happened but the effect is pretty profound and pretty [[00:09:32](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=572.64s)]
+*  interesting the whole piece is fantastic thank you Jodie Cantor for doing it [[00:09:36](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=576.24s)]
+*  thank you for coming on tonight thank you thanks for having me Chris [[00:09:40](https://www.youtube.com/watch?v=EWsmuePZ7Rw&t=580.84s)]

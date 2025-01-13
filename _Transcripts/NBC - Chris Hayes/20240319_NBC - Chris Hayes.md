@@ -1,0 +1,148 @@
+---
+Date Generated: January 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 462s
+Video Keywords: ['Chris Hayes']
+Video Views: 791248
+Video Rating: None
+Video Description: “Clearly we have a presumptive nominee for president who is desperate—I mean absolutely desperate—for immediate cash infusions for both his personal and political finances,” says Chris Hayes. 
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #DonaldTrump #bond
+---
+
+# 'Drowning' New details on Trump's ‘absolutely desperate' finances
+**NBC - Chris Hayes:** [March 19, 2024](https://www.youtube.com/watch?v=WGqwU_OF7rg)
+*  Donald Trump cannot pay his bills. [[00:00:00](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=0.0s)]
+*  He is currently drowning in debt, including half a billion dollars in legal judgments [[00:00:02](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=2.84s)]
+*  against him. [[00:00:07](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=7.2s)]
+*  And while the ex-president owns assets, lots of them, real property that he could sell [[00:00:08](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=8.2s)]
+*  in a rushed forced liquidation, he doesn't have the actual cash that he needs on hand. [[00:00:11](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=11.96s)]
+*  Just yesterday, we learned that Trump was unable to secure a bond for the $454 million [[00:00:19](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=19.080000000000002s)]
+*  penalty he owes from his New York civil fraud case. [[00:00:24](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=24.96s)]
+*  That is after, quote, approaching about 30 companies that provide appeal bonds. [[00:00:29](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=29.22s)]
+*  In the last year alone, Trump spent more than $55 million in donor money on legal fees. [[00:00:33](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=33.94s)]
+*  Now, Donald Trump's personal finances have always been shaky. [[00:00:39](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=39.86s)]
+*  He received hundreds of millions of dollars from his father's real estate empire, but [[00:00:43](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=43.9s)]
+*  his businesses managed to lose over a billion dollars in one decade. [[00:00:47](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=47.34s)]
+*  His one real actual business success was playing a successful business person on The Apprentice, [[00:00:51](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=51.379999999999995s)]
+*  which actually did earn him over $400 million, including licensing and endorsement deals. [[00:00:57](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=57.5s)]
+*  When Donald Trump came down that golden escalator Trump Tower, he began the other most successful [[00:01:02](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=62.94s)]
+*  money-making enterprise of his life, which was raking in donations from small-dollar [[00:01:08](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=68.74s)]
+*  donors. [[00:01:13](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=73.53999999999999s)]
+*  And now, just like his personal finances, that part is breaking down. [[00:01:14](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=74.78s)]
+*  CNBC reports that Trump's reelection campaign has begun to see warning signs that the small-dollar [[00:01:20](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=80.34s)]
+*  donors who fueled his last run from the White House have slowed their support. [[00:01:26](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=86.18s)]
+*  Back in the 2020 cycle, the $378 million he raised from small-dollar contributions represented [[00:01:30](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=90.5s)]
+*  almost half of the total cash that Trump's campaign pulled in. [[00:01:37](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=97.02000000000001s)]
+*  In 2023, Trump's reelection campaign raised 62.5 percent less money from small-dollar [[00:01:40](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=100.22s)]
+*  donors than it did in 2019 in the run-up to that election. [[00:01:46](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=106.9s)]
+*  In January, the campaign reported raising around $3 million from small-dollar donors. [[00:01:51](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=111.64s)]
+*  $3 million. [[00:01:57](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=117.04s)]
+*  Now compare that to President Biden's campaign raising nearly $2 million in just one day. [[00:01:58](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=118.4s)]
+*  Donald Trump has been hitting up the same group of people for money over and over and [[00:02:04](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=124.4s)]
+*  over and over again, a lot of it to pay his legal bills, like the $55 million he spent [[00:02:07](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=127.56s)]
+*  last year. [[00:02:11](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=131.32s)]
+*  And what's happening is they're kind of running out of cash. [[00:02:12](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=132.32s)]
+*  There's only so much that you can hammer a fundraising list until it stops giving you [[00:02:16](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=136.48s)]
+*  back the money. [[00:02:21](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=141.48s)]
+*  This is a big deal because Trump's appeal with small-dollar donors has been crucial [[00:02:23](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=143.11999999999998s)]
+*  to his political success. [[00:02:27](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=147.2s)]
+*  It provided him with a direct line to what seemed like endless money. [[00:02:28](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=148.67999999999998s)]
+*  It insulated him from other parts of the Republican Party infrastructure, which couldn't hurt [[00:02:32](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=152.48s)]
+*  him by withholding big donors or fundraisers. [[00:02:36](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=156.76s)]
+*  It served as a source of power that he wielded over others who were desperate to get their [[00:02:39](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=159.92s)]
+*  hands on that Trump donor list so they could pump those same people for money as well. [[00:02:44](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=164.12s)]
+*  It was even part of his appeal, especially back in 2016, when he claimed to be self-funding [[00:02:49](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=169.2s)]
+*  his campaign. [[00:02:53](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=173.28s)]
+*  Of course, that wasn't true. [[00:02:54](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=174.28s)]
+*  And the small-dollar donations that sustained him dry up, Trump and his allies are making [[00:02:56](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=176.6s)]
+*  increasingly desperate appeals. [[00:03:01](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=181.32s)]
+*  If you could chip in, if you've done well, if you remember those great four years that [[00:03:04](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=184.48s)]
+*  we had where you made a lot, we need your help. [[00:03:11](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=191.44s)]
+*  You need to help this man, Donald J. Trump. [[00:03:15](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=195.28s)]
+*  They're trying to drain him dry. [[00:03:18](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=198.52s)]
+*  He spent more money on lawyers than most people spend on campaigns. [[00:03:20](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=200.24s)]
+*  Give the president some money to fight this bullsh**. [[00:03:24](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=204.04s)]
+*  This is going to destroy America. [[00:03:27](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=207.44s)]
+*  I'm sorry I'm so upset, but please help President Trump. [[00:03:29](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=209.36s)]
+*  If you could afford five or ten bucks. [[00:03:33](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=213.06s)]
+*  I am very humbly asking if you could chip in five, ten, or even $25. [[00:03:35](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=215.24s)]
+*  If you've ever voted for my father, I'm asking you to chip in five, ten, or even $25 to his [[00:03:41](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=221.08s)]
+*  campaign today. [[00:03:45](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=225.96s)]
+*  Crooked Joe Biden has an army of liberal billionaires bankrolling his campaign. [[00:03:47](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=227.4s)]
+*  But if everyone watching this video chips into my dad's campaign, he'll be able to drown [[00:03:51](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=231.88000000000002s)]
+*  them out once and for all. [[00:03:56](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=236.12s)]
+*  With your donation today, we will win back the White House. [[00:03:57](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=237.56s)]
+*  We will make America great again, greater than ever before, I promise you that. [[00:04:00](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=240.72000000000003s)]
+*  Okay, so that's just a little sample. [[00:04:05](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=245.32000000000002s)]
+*  We could have done that for hours, okay? [[00:04:09](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=249.24s)]
+*  And that's the videos. [[00:04:11](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=251.56s)]
+*  Then there are all the texts and emails. [[00:04:13](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=253.4s)]
+*  You would not believe the sheer volume. [[00:04:15](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=255.82000000000002s)]
+*  The Trump campaign sends an average of ten fundraising emails per day, and they're even [[00:04:17](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=257.6s)]
+*  more dramatic than anything on camera. [[00:04:23](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=263.32s)]
+*  This one sent today includes a quote, solid promise that Trump quote, will never surrender [[00:04:25](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=265.90000000000003s)]
+*  in his quest for presidential immunity. [[00:04:29](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=269.82s)]
+*  Ask his followers to make the same song pledge to me and the rest of the country so we can [[00:04:32](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=272.0s)]
+*  save America together. [[00:04:35](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=275.64s)]
+*  Of course, with a link to donating. [[00:04:37](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=277.68s)]
+*  Yesterday, this message from Donald Trump claimed that his enemies are lying about his [[00:04:39](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=279.52s)]
+*  comments about a bloodbath and he loses the election. [[00:04:43](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=283.28000000000003s)]
+*  Quote, before the day is over, I'm asking every single one of my supporters to chip [[00:04:45](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=285.8s)]
+*  in and say, I stand with President Trump. [[00:04:49](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=289.74s)]
+*  There is even a special Valentine's Day fundraising appeal written as a love letter to Trump's [[00:04:52](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=292.84000000000003s)]
+*  wife Melania that included a link to send your love and some cash for the campaign. [[00:04:56](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=296.96000000000004s)]
+*  And again, you are probably familiar with the genre. [[00:05:03](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=303.2s)]
+*  It crosses party lines, it crosses ideologies like smaller dollar fundraising like this. [[00:05:06](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=306.08s)]
+*  It's everywhere. [[00:05:11](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=311.03999999999996s)]
+*  But the problem they have is that they've been doing this so hard, so aggressively for [[00:05:12](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=312.03999999999996s)]
+*  so long, like they're just, it's the wells run dry. [[00:05:16](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=316.2s)]
+*  Okay? [[00:05:20](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=320.08s)]
+*  That's what they're beginning to realize. [[00:05:21](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=321.26s)]
+*  And clearly we have a presumptive nominee for president who is desperate, I mean absolutely [[00:05:23](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=323.41999999999996s)]
+*  desperate for immediate cash infusions for two purposes. [[00:05:29](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=329.15999999999997s)]
+*  Both his personal finances and his political finances. [[00:05:33](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=333.36s)]
+*  And he's in the market, man. [[00:05:39](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=339.28000000000003s)]
+*  Like, he's got his hand out, okay? [[00:05:41](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=341.48s)]
+*  He could take that money from just about anyone and promise them just about anything if he [[00:05:44](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=344.2s)]
+*  gets back in the White House. [[00:05:48](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=348.40000000000003s)]
+*  Think of that. [[00:05:49](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=349.52000000000004s)]
+*  Earlier this month, Trump met with the richest man in the world, Elon Musk, who certainly [[00:05:51](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=351.52000000000004s)]
+*  has policy preferences he would like to see from the U.S. government. [[00:05:55](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=355.2s)]
+*  Musk claimed after the meeting he's not donating to either candidate for president, although [[00:05:58](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=358.56s)]
+*  Elon Musk says lots of things that turn out not to be true. [[00:06:02](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=362.46s)]
+*  Trump also met with conservative hedge fund manager Jeff Yass, who has a $33 billion stake [[00:06:05](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=365.94s)]
+*  in TikTok and has reportedly threatened to cut off funding to Republicans who support [[00:06:11](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=371.18s)]
+*  the TikTok divestment bill. [[00:06:15](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=375.02s)]
+*  Guess what? [[00:06:16](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=376.9s)]
+*  Days later, Trump came out and flipped his position on banning the social media platform. [[00:06:17](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=377.9s)]
+*  Of course, there are also many foreign entities who would love to have power and influence [[00:06:23](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=383.74s)]
+*  over the man who may be the next president of the United States. [[00:06:27](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=387.41999999999996s)]
+*  And Trump may make that even easier for them by bringing in his 2016 campaign manager Paul [[00:06:31](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=391.18s)]
+*  Manafort, remember him? [[00:06:36](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=396.14s)]
+*  Back into the fold. [[00:06:37](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=397.88s)]
+*  This is a guy who was convicted of tax and bank fraud in relation to his lobbying for [[00:06:39](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=399.62s)]
+*  pro-Russian Ukrainian politicians. [[00:06:44](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=404.7s)]
+*  Prosecutors alleged Manafort shared polling data with, quote, a Russian who the U.S. government [[00:06:48](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=408.1s)]
+*  said had ties to Russian intelligence. [[00:06:51](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=411.9s)]
+*  Without his small dollar donors, Donald Trump is financially desperate. [[00:06:55](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=415.46000000000004s)]
+*  It brings danger in every direction. [[00:07:00](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=420.06s)]
+*  This guy just needing money, cash infusions from wherever he can get it for whatever they [[00:07:02](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=422.1s)]
+*  need. [[00:07:07](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=427.98s)]
+*  It's danger that's political and legal, national security danger. [[00:07:08](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=428.98s)]
+*  The last thing you want is a president who's an owned man his first day in office. [[00:07:14](https://www.youtube.com/watch?v=WGqwU_OF7rg&t=434.38s)]

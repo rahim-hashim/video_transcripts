@@ -1,0 +1,146 @@
+---
+Date Generated: January 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 483s
+Video Keywords: ['Chris Hayes', 'paul pelosi']
+Video Views: 278445
+Video Rating: None
+Video Description: In the trial over the Paul Pelosi hammer attack, the defendant took the witness stand and testified about his right-wing beliefs and the conspiracy theories that drove his actions. “He became radicalized towards this right-wing violence through the MAGA cult of Donald Trump,” says Chris Hayes. 
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #paulpelosi #maga
+---
+
+# 'Radicalized' Paul Pelosi attacker takes stand, testifies on right-wing conspiracies
+**NBC - Chris Hayes:** [November 15, 2023](https://www.youtube.com/watch?v=Hu_92JJ8uTA)
+*  In a very busy day for President Joe Biden, who just got out of that summit and a press [[00:00:00](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=0.0s)]
+*  conference today, he's also today found time to explicitly condemn the fascist language [[00:00:04](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=4.18s)]
+*  of Donald Trump, comparing it to phrases from Nazi Germany. [[00:00:09](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=9.4s)]
+*  Donald Trump made those comments at a campaign rally over the weekend, referring to his political [[00:00:14](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=14.08s)]
+*  opponents as, quote, vermin. [[00:00:18](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=18.0s)]
+*  I think it's important to note that Donald Trump isn't just echoing fascist language, [[00:00:20](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=20.56s)]
+*  which has been kind of the theme of the coverage. [[00:00:24](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=24.8s)]
+*  He is specifically choosing his words in an effort to dehumanize his enemies and target [[00:00:26](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=26.4s)]
+*  them for violence. [[00:00:32](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=32.36s)]
+*  Vermin are animals who cause problems and disease and need to be trapped and killed. [[00:00:34](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=34.839999999999996s)]
+*  That is what you are implying when you call other human beings, your political foes, your [[00:00:41](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=41.62s)]
+*  fellow citizens, your fellow Americans, vermin. [[00:00:45](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=45.92s)]
+*  That is fascist language. [[00:00:48](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=48.599999999999994s)]
+*  Using that language is fascist. [[00:00:50](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=50.8s)]
+*  Sadly, none of this is theoretical or abstract. [[00:00:53](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=53.92s)]
+*  Political violence has been a through line in the Trump era, starting from his earliest [[00:00:57](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=57.92s)]
+*  rallies when the ex-president explicitly endorsed and encouraged violence against protesters. [[00:01:01](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=61.68s)]
+*  At the conclusion of his presidency, he incited a violent mob to sack the Capitol. [[00:01:08](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=68.16s)]
+*  Recently, he has been fixated on a particularly ghastly example of political violence, the [[00:01:14](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=74.12s)]
+*  attack on former speaker Nancy Pelosi's husband, Paul, last October. [[00:01:18](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=78.96s)]
+*  Over a year later, the perpetrator of that attack is now on trial, and his testimony [[00:01:25](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=85.88s)]
+*  has not received anywhere near the enough attention. [[00:01:30](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=90.91999999999999s)]
+*  And it deserves that attention because the story of this attack is a story of precisely [[00:01:34](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=94.11999999999999s)]
+*  how right-wing political violence comes about in this country in this moment, in the age [[00:01:39](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=99.67999999999999s)]
+*  of Donald Trump and the MAGA movement. [[00:01:44](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=104.36s)]
+*  Remember, it was just over a week before the midterm elections last fall when we learned [[00:01:47](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=107.72s)]
+*  of a violent invasion at the home of then-Speaker of the House, Nancy Pelosi. [[00:01:52](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=112.47999999999999s)]
+*  82-year-old Paul Pelosi underwent surgery today after being struck with a hammer, suffering [[00:01:57](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=117.83999999999999s)]
+*  a skull fracture in the early morning attack. [[00:02:03](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=123.56s)]
+*  His alleged assailant, a 42-year-old man charged tonight with attempted homicide, the intruder [[00:02:06](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=126.91999999999999s)]
+*  allegedly demanding to see the speaker. [[00:02:12](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=132.8s)]
+*  Senator Pelosi, second in the presidential line of succession, as we noted, was not home [[00:02:15](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=135.8s)]
+*  at the time of the attack. [[00:02:20](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=140.72s)]
+*  And though police say a motive has not been determined, the circumstances of the assault [[00:02:22](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=142.60000000000002s)]
+*  are only deepening the chill felt by many in Congress in what authorities say is a more [[00:02:27](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=147.32000000000002s)]
+*  threatening political climate. [[00:02:32](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=152.54000000000002s)]
+*  It was an incredibly upsetting situation. [[00:02:35](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=155.28s)]
+*  It did appear from the very beginning the attack was likely political in nature. [[00:02:37](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=157.32000000000002s)]
+*  And that became increasingly clear as more details started to emerge. [[00:02:41](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=161.48000000000002s)]
+*  The assailant himself, 42-year-old David De Pape, told police that he broke into the home [[00:02:44](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=164.48s)]
+*  with items including zip ties, tape, rope, and a hammer intending to hold Speaker Pelosi [[00:02:51](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=171.84s)]
+*  hostage. [[00:02:57](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=177.72s)]
+*  He wanted to interrogate her. [[00:02:59](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=179.04s)]
+*  And if she lied, he said he was going to break her kneecaps. [[00:03:00](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=180.79999999999998s)]
+*  We learned about the assailant's ideology and online presence where he, quote, had been [[00:03:05](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=185.95999999999998s)]
+*  drifting further into the world of far-right conspiracies, anti-Semitism, and hate, as [[00:03:09](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=189.72s)]
+*  the Los Angeles Times put it. [[00:03:14](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=194.28s)]
+*  Quote, his screeds included posts about QAnon, an unfounded theory that former President [[00:03:16](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=196.16s)]
+*  Trump is at war with the cabal of Satan-worshipping elites who run a child sex ring and control [[00:03:21](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=201.36s)]
+*  the world. [[00:03:25](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=205.96s)]
+*  And then instead of accepting those facts, we saw this concerted effort from the right [[00:03:27](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=207.8s)]
+*  wing to obfuscate exactly what happened. [[00:03:33](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=213.24s)]
+*  And almost immediately, they tried to muddy the waters, to confuse people, to hide what [[00:03:37](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=217.48s)]
+*  we then knew, what was staring us in the face, that this was an example of political violence [[00:03:41](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=221.11999999999998s)]
+*  inspired by the same fetid ideology that Donald Trump was using to his benefit. [[00:03:46](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=226.6s)]
+*  These people did everything they could to pretend this guy isn't exactly what he so [[00:03:55](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=235.95999999999998s)]
+*  clearly was. [[00:03:59](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=239.28s)]
+*  So they made up all sorts of disgusting stories. [[00:04:01](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=241.2s)]
+*  They just, remember this? [[00:04:03](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=243.76s)]
+*  They just made up the lie that the brutal attack on this man was some sort of lover's [[00:04:05](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=245.08s)]
+*  quarrel, just fabricated out of thin air, just a fabrication to cover for a violent [[00:04:11](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=251.52s)]
+*  right-wing assault, a guy who had been clearly been influenced by violent right-wing rhetoric. [[00:04:17](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=257.24s)]
+*  And this was not fringe. [[00:04:22](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=262.2s)]
+*  I want to be clear. [[00:04:23](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=263.2s)]
+*  Republican members of Congress, Trump Jr., even Elon Musk, elevated that lie. [[00:04:25](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=265.0s)]
+*  They made it a central part of the discourse. [[00:04:30](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=270.46000000000004s)]
+*  We saw all kinds of obfuscation about the assailants' politics. [[00:04:33](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=273.62s)]
+*  Republican Senator Ted Cruz of Texas signed onto this claim that it is absurd to try to [[00:04:39](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=279.26s)]
+*  paint a hippie nudist from Berkeley as some kind of militant right-winger. [[00:04:42](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=282.78000000000003s)]
+*  Now, I should note here, thankfully, Paul Pelosi recovered after ongoing surgery to [[00:04:46](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=286.06s)]
+*  repair a skull fracture. [[00:04:53](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=293.18s)]
+*  It could have been so much worse. [[00:04:55](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=295.6s)]
+*  And we should keep in mind that it was the second act of serious right-wing political [[00:04:58](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=298.58s)]
+*  violence in the run-up to an election in the Trump era. [[00:05:01](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=301.64s)]
+*  The last midterms, 2018, a man who became known as the MAGA bomber mailed 16 packages [[00:05:04](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=304.88s)]
+*  containing actual pipe bombs to Democratic politicians and other critics of Donald Trump. [[00:05:09](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=309.84s)]
+*  He tried to blow them up. [[00:05:14](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=314.36s)]
+*  But this utterly horrifying story, which serves as a greatest warning to us all, became a [[00:05:17](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=317.47999999999996s)]
+*  punchline on the right among conservatives. [[00:05:22](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=322.08s)]
+*  Now, I don't actually think they are joking about Paul Pelosi's violent attack because [[00:05:24](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=324.88s)]
+*  they think it's funny. [[00:05:29](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=329.92s)]
+*  They are joking about it because that joking signals to their audience that what happened [[00:05:31](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=331.76s)]
+*  is fine. [[00:05:37](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=337.06s)]
+*  Nancy Pelosi, well, she's got protection when she's in the D.C. [[00:05:40](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=340.06s)]
+*  Apparently her house doesn't have a lot of protection. [[00:05:43](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=343.0s)]
+*  She's losing the gavel but finding the hammer. [[00:05:45](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=345.88s)]
+*  Too soon? [[00:05:48](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=348.20000000000005s)]
+*  Is that too soon? [[00:05:49](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=349.20000000000005s)]
+*  We had no terror during my administration. [[00:05:50](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=350.20000000000005s)]
+*  The only terror we had was Nancy Pelosi. [[00:05:51](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=351.20000000000005s)]
+*  It was a crazy little thing. [[00:05:52](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=352.20000000000005s)]
+*  She is a lunatic. [[00:05:53](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=353.2s)]
+*  She is a crazed lunatic. [[00:05:54](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=354.2s)]
+*  What the hell was going on with her husband? [[00:05:55](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=355.2s)]
+*  Let's not answer. [[00:05:56](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=356.2s)]
+*  Let's not answer. [[00:05:57](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=357.2s)]
+*  I'll withdraw that statement. [[00:05:58](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=358.2s)]
+*  By the way, she's got to walk around her house. [[00:05:59](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=359.2s)]
+*  Obviously in that case it didn't work very well. [[00:06:00](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=360.2s)]
+*  That is what Donald Trump said this past weekend a few days ago. [[00:06:22](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=382.2s)]
+*  It's part of the Stump speech. [[00:06:26](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=386.2s)]
+*  He's still talking and joking about the 82-year-old husband of the Speaker of the House being [[00:06:27](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=387.2s)]
+*  violently assaulted with a hammer to his head causing a skull fracture. [[00:06:35](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=395.2s)]
+*  He's joking about that to the audience who all laugh with him about how funny it is that [[00:06:39](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=399.2s)]
+*  this man was violently assaulted. [[00:06:44](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=404.2s)]
+*  And he's doing this while David De Pape is on trial in federal court in California. [[00:06:46](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=406.2s)]
+*  Yesterday, he stood up to testify on her oath and describe what was clear from the beginning [[00:06:51](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=411.2s)]
+*  or should have been clear to Donald Trump and all of his allies. [[00:06:55](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=415.2s)]
+*  He said he went to the Pelosi's home as part of a bigger plot to end what he viewed as [[00:06:59](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=419.2s)]
+*  government corruption. [[00:07:04](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=424.2s)]
+*  And he tearfully recounted about his political leanings went from leftist to, yes, right-wing. [[00:07:05](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=425.2s)]
+*  After reading a comment on a YouTube video about former President Donald Trump, he became [[00:07:11](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=431.2s)]
+*  radicalized towards this right-wing violence through the MAGA cult of Donald Trump. [[00:07:18](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=438.2s)]
+*  These are the real stakes, the debate about Trump's rhetoric and his fascist behavior. [[00:07:23](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=443.2s)]
+*  It leads his people to believe that political violence is okay, that it's desirable, that [[00:07:27](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=447.2s)]
+*  their political enemies are subhuman, and if you bash their head with a hammer, it's funny. [[00:07:31](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=451.2s)]
+*  This movement has gotten people hurt and more people are going to get hurt until the movement is stopped. [[00:07:36](https://www.youtube.com/watch?v=Hu_92JJ8uTA&t=456.2s)]
