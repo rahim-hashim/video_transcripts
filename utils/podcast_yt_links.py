@@ -37,6 +37,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEwfv0LML1BGBlPxZsnoa0xM': 'NBC - Ali Vitali',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEzOrc-KpytMYuN9zOXB2cd3': 'NBC - Middle East',
   'https://www.youtube.com/playlist?list=PLjOdCQvzbrcGIE4axxNh-ITK2fOA4q3Nb': 'CNN - Amanpour - Middle East',
+  'https://www.youtube.com/playlist?list=PLjOdCQvzbrcHHZ_jG9Uld25V0g3NorM-y': 'CNN - Amanpour - International Politics',
   'https://www.youtube.com/playlist?list=PL6XRrncXkMaU55GiCvv416NR2qBD_xbmf': 'CNN - Israel Palestine'
 }
 
