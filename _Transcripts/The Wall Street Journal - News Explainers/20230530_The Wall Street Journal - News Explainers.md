@@ -1,0 +1,121 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 399s
+Video Keywords: ['apple', 'samsung', 'manufacturing shift', 'china manufacturing collapse', 'samsung smartphone manufacturing', 'vietnam', 'apple factory in india', 'apple factories', 'south korea', 'apple supply chain', 'supply chain managment', 'labor costs', 'operating costs', 'smartphone manufacturing', 'market share', 'semiconductor', 'memory chip', 'apple move out of china', 'covid', 'southeast asia', 'india', 'vietnam apple watch', 'vietnam manufacturing', 'vietnam iphone', 'samsung india factory', 'mobile phone factory', 'new dehli', 'wonews']
+Video Views: 1206509
+Video Rating: None
+Video Description: China has long been the manufacturing hub for tech giants like Apple and Samsung. But now, a range of geopolitical factors are pushing technology companies to spend billions to relocate their operations to places like India, Vietnam and Latin America.
+
+WSJ takes an inside look at the strategies behind Apple and Samsung’s manufacturing moves from China amid shifting global supply chains.
+
+0:00 Tech companies diversifying operations
+0:38 Why Apple and Samsung are moving
+3:08 Vietnam and India strategies
+5:36 Supply-chain shifts
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Apple #Samsung #WSJ
+---
+
+# Inside Apple’s and Samsung’s Supply Chain Shift Away From China  WSJ
+**The Wall Street Journal - News Explainers:** [May 30, 2023](https://www.youtube.com/watch?v=NIH6kvYJwK4)
+*  In 2008, Samsung's smartphone manufacturing facilities were scattered throughout mainland [[00:00:00](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=0.0s)]
+*  China. [[00:00:06](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=6.92s)]
+*  Just 15 years later, those factories have disappeared, and nearly all of them have relocated [[00:00:08](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=8.16s)]
+*  to Southeast Asia. [[00:00:13](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=13.540000000000001s)]
+*  It may have given Samsung a competitive advantage to go to Vietnam first. [[00:00:15](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=15.040000000000001s)]
+*  But Apple was on its heels. [[00:00:19](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=19.76s)]
+*  Over the last few years, the tech giant started making similar moves to diversify its operations. [[00:00:21](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=21.82s)]
+*  Here's a closer look at how Samsung and Apple's manufacturing moves from China are [[00:00:27](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=27.52s)]
+*  reshaping their businesses, and what the strategies reveal about the rapidly shifting global supply [[00:00:32](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=32.56s)]
+*  chain. [[00:00:37](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=37.92s)]
+*  In 2008, Samsung set up a plant in the Bac Ninh region of Vietnam to reduce its dependence [[00:00:38](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=38.92s)]
+*  on China. [[00:00:45](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=45.72s)]
+*  Tech industry analysts say it was a forward-thinking move for the South Korean company. [[00:00:46](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=46.72s)]
+*  They benefit in a lot of ways. [[00:00:51](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=51.480000000000004s)]
+*  They benefit from cheaper labor in some of these countries that they're moving to. [[00:00:52](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=52.480000000000004s)]
+*  They benefit from being insulated from some of the geopolitical tensions that come with [[00:00:56](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=56.48s)]
+*  operating in China and continuing to expand in China. [[00:01:01](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=61.31999999999999s)]
+*  They also benefit from being insulated from the kinds of supply chain shocks that we saw [[00:01:04](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=64.03999999999999s)]
+*  during the COVID lockdowns in China and the supply chain disruptions that resulted from [[00:01:07](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=67.92s)]
+*  that. [[00:01:13](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=73.4s)]
+*  Over the next decade, rising labor and operating costs in China made it difficult for Samsung [[00:01:14](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=74.4s)]
+*  to produce its phones cheaply. [[00:01:19](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=79.56s)]
+*  That, coupled with intensifying competition from domestic smartphone rivals, let Samsung's [[00:01:21](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=81.44s)]
+*  market share in China to plummet. [[00:01:26](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=86.75999999999999s)]
+*  Meanwhile, the company was slowly moving its smartphone operations out of the country. [[00:01:28](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=88.96s)]
+*  Since 2013, the number of Samsung employees in China has fallen by 70%. [[00:01:33](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=93.92s)]
+*  Samsung still kept significant manufacturing centers in China, including for its expansive [[00:01:40](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=100.12s)]
+*  memory chip business. [[00:01:45](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=105.6s)]
+*  Samsung Semiconductor. [[00:01:47](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=107.32s)]
+*  Moving its smartphone operations meant the company was shielded from many of the Trump-era [[00:01:49](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=109.92s)]
+*  tariffs on Chinese-made goods. [[00:01:55](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=115.16s)]
+*  Those tariffs, coupled with the geopolitical tensions developing between the Western world [[00:01:57](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=117.64s)]
+*  and China, led a lot of companies to reconsider where they're manufacturing things. [[00:02:01](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=121.6s)]
+*  By 2019, it had shut its last phone factory in the world's biggest smartphone market. [[00:02:06](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=126.64s)]
+*  One year later, the pandemic hit, propelling tech companies like Apple to make similar [[00:02:13](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=133.34s)]
+*  moves away from China. [[00:02:17](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=137.94s)]
+*  China had a very strict COVID policy that led to a lot of disruption for many of these [[00:02:19](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=139.72s)]
+*  companies and seriously pushed them to consider manufacturing elsewhere where that kind of [[00:02:25](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=145.76s)]
+*  disruption would be less of a thorn in their sides. [[00:02:31](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=151.83999999999997s)]
+*  Apple's plans gained even more momentum in late 2022, after violent protests rocked the [[00:02:35](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=155.44s)]
+*  company's largest iPhone manufacturing plant in Zhengzhou, China. [[00:02:41](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=161.92s)]
+*  Demonstrations erupted when the workers, who had been under strict COVID lockdown for [[00:02:45](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=165.72s)]
+*  weeks, learned bonus payments would be delayed. [[00:02:52](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=172.24s)]
+*  At the time, Apple said it was working with the facility to ensure employee concerns were [[00:02:55](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=175.4s)]
+*  addressed. [[00:03:00](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=180.36s)]
+*  According to analysts and people in the company's supply chain, Apple no longer feels comfortable [[00:03:01](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=181.36s)]
+*  having so much of its business tied up in one place. [[00:03:06](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=186.32s)]
+*  While different events first propelled Samsung and Apple out of China, their new supply chain [[00:03:09](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=189.72s)]
+*  strategies focus on the same places, India and Vietnam. [[00:03:14](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=194.4s)]
+*  These countries, some of them have offered tax breaks to companies to locate their manufacturing. [[00:03:18](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=198.48000000000002s)]
+*  There have been in some cases grants and other incentives that are hard for these companies [[00:03:24](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=204.32s)]
+*  to pass up. [[00:03:29](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=209.5s)]
+*  Samsung pays about 10% corporate income tax in Vietnam versus China's standard 25% rate. [[00:03:30](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=210.5s)]
+*  It now produces half of its smartphones there. [[00:03:37](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=217.20000000000002s)]
+*  Apple also has operations in Vietnam. [[00:03:39](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=219.6s)]
+*  The company started producing its watches in the country and moved some iPad manufacturing [[00:03:42](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=222.52s)]
+*  there too. [[00:03:47](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=227.20000000000002s)]
+*  In Apple's most recent list of its top 200 suppliers, 25 were in Vietnam. [[00:03:49](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=229.20000000000002s)]
+*  That's 25% higher than four years ago. [[00:03:55](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=235.68s)]
+*  Then there's India. [[00:03:59](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=239.76000000000002s)]
+*  Around 20 to 30% of all of Samsung's smartphones are now manufactured there, according to Morgan [[00:04:01](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=241.24s)]
+*  Stanley, and it's still expanding. [[00:04:06](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=246.92000000000002s)]
+*  In 2022, it opened the world's largest mobile phone factory near New Delhi. [[00:04:09](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=249.6s)]
+*  These moves helped the company to become a dominant force in India's rapidly growing [[00:04:14](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=254.98s)]
+*  smartphone market, the second largest in the world behind China. [[00:04:19](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=259.24s)]
+*  Awesome Galaxy A14 5G. [[00:04:22](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=262.96s)]
+*  Now it just rupees 44 per day. [[00:04:25](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=265.24s)]
+*  In 2022, Samsung accounted for around 20% of the country's total market share, while [[00:04:27](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=267.15999999999997s)]
+*  Apple held less than 4%. [[00:04:33](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=273.26s)]
+*  Apple is working to change that. [[00:04:35](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=275.88s)]
+*  In a recent earnings call, CEO Tim Cook said, India is an incredibly exciting market. [[00:04:37](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=277.52s)]
+*  It's a major focus for us. [[00:04:44](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=284.52s)]
+*  So this year, Apple has said it plans to manufacture a portion of its iPhone 14 models in India [[00:04:46](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=286.32s)]
+*  for the first time, which is a significant move. [[00:04:54](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=294.28s)]
+*  The company is essentially saying that we want to diversify. [[00:04:57](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=297.2s)]
+*  Tuck analysts say manufacturing iPhones in India and then selling them to the surrounding [[00:05:01](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=301.71999999999997s)]
+*  Southeast Asian market ensures a smooth and more resilient supply chain. [[00:05:06](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=306.2s)]
+*  Apple's longer term goal is to ship 40 to 45% of iPhones from India, according to supply [[00:05:11](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=311.44s)]
+*  chain analysts. [[00:05:17](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=317.71999999999997s)]
+*  In 2022, that number was in the single digits for the company. [[00:05:19](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=319.2s)]
+*  More recently, the company started moving manufacturing even closer to home. [[00:05:23](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=323.65999999999997s)]
+*  A multi-billion dollar deal with US chip maker Broadcom will allow Apple to source critical [[00:05:27](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=327.91999999999996s)]
+*  chip components from manufacturing hubs around the US. [[00:05:33](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=333.08s)]
+*  But even as Apple and Samsung spend billions to move away from China, the manufacturers [[00:05:37](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=337.59999999999997s)]
+*  may still depend on suppliers there. [[00:05:42](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=342.28s)]
+*  During the height of the 2020 COVID-19 outbreak in China, Samsung found itself scrambling [[00:05:44](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=344.84s)]
+*  to secure suddenly scarce Chinese components. [[00:05:50](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=350.12s)]
+*  There's also a political challenge because these companies, many of them still need to [[00:05:52](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=352.71999999999997s)]
+*  manufacture in China to some extent, and they need to be delicate about how they handle [[00:05:56](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=356.88s)]
+*  diversifying their supply chains. [[00:06:01](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=361.24s)]
+*  Even though a supply chain shift won't happen overnight, Samsung and Apple's manufacturing [[00:06:03](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=363.08000000000004s)]
+*  strategies reveal a larger de-risking trend that's transforming global markets. [[00:06:07](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=367.8s)]
+*  It's kind of like diversifying a portfolio, if you will. [[00:06:12](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=372.8s)]
+*  Increasingly, as the US and China, that relationship becomes more contentious. [[00:06:15](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=375.6s)]
+*  A lot of Western companies see China as more risky, and so they're thinking about doing [[00:06:19](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=379.68s)]
+*  less in China. [[00:06:24](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=384.68s)]
+*  They're thinking about de-risking from the perspective of the politics of the situation. [[00:06:25](https://www.youtube.com/watch?v=NIH6kvYJwK4&t=385.68s)]

@@ -1,0 +1,110 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 410s
+Video Keywords: ['web 3.0', 'web 3', 'web 3.0 explained', 'what is web 3.0', 'web 3.0 crypto', 'web 3.0 blockchain', 'web 3.0 metaverse', 'web 3.0 examples', 'web 3.0 tutorial', 'web 3.0 projects', 'web 3.0 crypto coins', 'web 3.0 development', 'web 1.0 vs web 2.0 vs web 3.0', 'web 3.0 applications', 'web 3.0 simplified', 'how does web 3.0 work', 'metaverse', 'ethereum web3', 'bitcoin', 'crypto', 'what is web3', 'what is web 3.0 crypto', 'web 3.0 definition', 'web 3.0 vs web 2.0', 'ethereum web 3.0', 'web 3.0 explainer', 'wsj', 'wsj news', 'techy']
+Video Views: 481065
+Video Rating: None
+Video Description: Some see Web 3.0 as the next generation of the internet, a decentralized version of the web based on the blockchain. Here are the key principles behind it, and why skeptics are unconvinced it could scale globally. Illustration: Amber Bragdon
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#Web3 #Internet #WSJ
+---
+
+# Why Some See Web 3.0 as the Future of the Internet  WSJ
+**The Wall Street Journal - News Explainers:** [February 15, 2022](https://www.youtube.com/watch?v=OEJGQD1OuKA)
+*  Web3 is the newest buzzword taking over the tech and venture capital world. [[00:00:00](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=0.0s)]
+*  And if you found yourself wondering what it means, you're not alone. [[00:00:05](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=5.32s)]
+*  Web3 is seen as the third generation of the internet, [[00:00:09](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=9.040000000000001s)]
+*  a decentralized online ecosystem based on the blockchain. [[00:00:12](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=12.84s)]
+*  Web3 represents kind of a new philosophy [[00:00:17](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=17.080000000000002s)]
+*  about how to realize these technologies in a more distributed and democratic way. [[00:00:19](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=19.56s)]
+*  Venture capitalists have invested billions into this vision, [[00:00:23](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=23.52s)]
+*  but some tech experts are unconvinced that Web3 could scale globally. [[00:00:27](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=27.240000000000002s)]
+*  Skeptics like Tesla CEO Elon Musk have called it a marketing buzzword. [[00:00:31](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=31.6s)]
+*  A lot of the skepticism about Web3.0 comes from the fact that its early expressions are fairly primitive. [[00:00:36](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=36.480000000000004s)]
+*  As experts debate whether or not this new version of the web can become a reality, [[00:00:44](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=44.72s)]
+*  here are some of the underlying principles behind the vision for Web3.0. [[00:00:50](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=50.64s)]
+*  To better understand Web3.0 and what sets it apart from the web we use today, [[00:00:56](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=56.48s)]
+*  you have to go back to the early days of the internet, what experts now refer to as Web1.0. [[00:01:01](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=61.68s)]
+*  Most of the participants were content consumers [[00:01:08](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=68.08s)]
+*  who were limited to navigating through individual static webpages. [[00:01:10](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=70.88s)]
+*  Web1.0 for those who remember was just raw HTML and lots of very simple webpages. [[00:01:14](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=74.8s)]
+*  And it wasn't really controlled by anybody. [[00:01:22](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=82.68s)]
+*  This was a more decentralized version of the web, [[00:01:24](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=84.6s)]
+*  meaning anyone who knew how to code could build on it from their own computers. [[00:01:27](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=87.72s)]
+*  But at this time only a small number of users had the technical skills to create and publish content. [[00:01:32](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=92.03999999999999s)]
+*  Then came Web2.0, which is the stage of the internet we're living through now. [[00:01:38](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=98.52s)]
+*  Web technologies like JavaScript and HTML5 made the internet more interactive, [[00:01:43](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=103.96s)]
+*  allowing startups to build platforms like Facebook, Google, Amazon, and many others. [[00:01:49](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=109.56s)]
+*  For the first time, anyone could publish content online, even if they couldn't code. [[00:01:54](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=114.91999999999999s)]
+*  Web2.0 is this modern centralized version of the web. [[00:01:59](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=119.72s)]
+*  We're all sharing things on social media which are owned by only two or three companies, [[00:02:04](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=124.11999999999999s)]
+*  and we're all using Google search. [[00:02:09](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=129.16s)]
+*  These companies own and manage the data collected from their users. [[00:02:11](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=131.48s)]
+*  And they frequently track and save this data and use it for targeted ads. [[00:02:15](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=135.0s)]
+*  What's at the core of their business model is data. [[00:02:20](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=140.92s)]
+*  Olga Mack is a blockchain lecturer at UC Berkeley [[00:02:24](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=144.28s)]
+*  and is optimistic about Web3's potential to reshape the internet. [[00:02:27](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=147.48s)]
+*  The data economy where the user generated content, whether it's a conversation or a video, [[00:02:32](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=152.12s)]
+*  that is exchanged for services. [[00:02:39](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=159.48s)]
+*  And so there is a perception that this monopoly of data could be abused. [[00:02:41](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=161.4s)]
+*  Here's where the vision for Web3.0 comes in. [[00:02:47](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=167.72s)]
+*  The term Web3.0 was first coined by one of the creators of the Ethereum blockchain, [[00:02:50](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=170.52s)]
+*  Gavin Wood. [[00:02:55](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=175.88000000000002s)]
+*  In a 2014 blog post, Wood envisioned Web3.0 as an open and decentralized version of the internet. [[00:02:56](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=176.92000000000002s)]
+*  Theoretically, users would be able to exchange money and information on the web [[00:03:04](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=184.20000000000002s)]
+*  without the need for a middleman like a bank or a tech company. [[00:03:09](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=189.4s)]
+*  In this vision for a Web3.0 world, people would have more control over their data [[00:03:13](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=193.16000000000003s)]
+*  and be able to sell it if they choose. [[00:03:17](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=197.96s)]
+*  It would all be operated on a decentralized distributed ledger technology. [[00:03:20](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=200.52s)]
+*  The most common version of this is known as the blockchain. [[00:03:25](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=205.0s)]
+*  While still considered relatively new and unproven, [[00:03:28](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=208.36s)]
+*  it could offer more transparency and autonomy for users. [[00:03:31](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=211.32000000000002s)]
+*  The computers that are actually doing that computing for you or storing that data, [[00:03:35](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=215.64000000000001s)]
+*  anyone could own those computers. [[00:03:41](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=221.24s)]
+*  Anyone can become a part of that blockchain. [[00:03:42](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=222.68s)]
+*  And so it's not Facebook and Google's computers doing that. [[00:03:45](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=225.16000000000003s)]
+*  With a single personalized account, users would theoretically be able to move seamlessly [[00:03:48](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=228.84s)]
+*  from social media to email to shopping, [[00:03:54](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=234.28s)]
+*  creating a public record on the blockchain of all that activity. [[00:03:57](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=237.0s)]
+*  But how exactly would Web3.0 remain operational [[00:04:01](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=241.64000000000001s)]
+*  if it's not controlled by a central corporation or entity? [[00:04:04](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=244.92000000000002s)]
+*  Theoretically, people would be given virtual tokens or cryptocurrencies [[00:04:09](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=249.0s)]
+*  to incentivize them to participate in the operation of Web3.0. [[00:04:14](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=254.36s)]
+*  A central element of this system is so-called DeFi or decentralized finance. [[00:04:18](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=258.84s)]
+*  And the idea is that if you can issue a token for everything in the universe, [[00:04:24](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=264.59999999999997s)]
+*  if you can financialize every possible interaction of computers and software and humans, [[00:04:29](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=269.32s)]
+*  then you can create this vast ecosystem of cryptocurrencies, [[00:04:35](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=275.0s)]
+*  which can be traded, which can be valued relative to one another. [[00:04:38](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=278.67999999999995s)]
+*  Still, it's unclear how this decentralized token system would be regulated, [[00:04:42](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=282.52s)]
+*  how it could operate on a large scale, [[00:04:47](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=287.56s)]
+*  or even how well it would distribute control of the internet. [[00:04:49](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=289.64s)]
+*  Critics of the idea, like Twitter co-founder Jack Dorsey, [[00:04:53](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=293.72s)]
+*  called Web3 a centralized entity with a different label. [[00:04:57](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=297.08s)]
+*  Developers who really dug into this think that the underlying blockchain structures of Web3.0 are [[00:05:01](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=301.48s)]
+*  very insecure, not decentralized as promised. [[00:05:08](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=308.92s)]
+*  They're actually as centralized as the previous technologies. [[00:05:12](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=312.28s)]
+*  Some see Web3.0 as a critical building block in creating the metaverse, [[00:05:16](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=316.6s)]
+*  an immersive online world where people can use avatars to socialize, shop, work, and play. [[00:05:21](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=321.64000000000004s)]
+*  But others say Web3 and the metaverse are two very different concepts. [[00:05:28](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=328.20000000000005s)]
+*  Because the metaverse is being hyped a lot right now and Web3 is, [[00:05:33](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=333.0s)]
+*  there are some companies at the intersection of the two, [[00:05:36](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=336.52000000000004s)]
+*  like let's create a metaverse that somehow is connected to the blockchain. [[00:05:38](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=338.92s)]
+*  Right now, Web3 is still very much an abstract concept with little real-world foundation. [[00:05:43](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=343.32s)]
+*  Skeptics like engineer and blogger Stephen Deal argue that Web3.0 [[00:05:50](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=350.59999999999997s)]
+*  doesn't have the computing power, bandwidth, or storage to work on any practical level. [[00:05:55](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=355.0s)]
+*  For skeptics of Web3, their argument is that tokens and cryptocurrencies in general are just a [[00:06:01](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=361.15999999999997s)]
+*  giant bubble and as soon as it pops, in their view, all of this nonsense about how that's [[00:06:08](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=368.04s)]
+*  going to build the next internet will go away. While it remains to be seen whether or not Web3.0 [[00:06:13](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=373.8s)]
+*  will become a reality, the philosophy behind it is driving billions in investments in the venture [[00:06:20](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=380.12s)]
+*  capital world, funding a vast ecosystem of decentralized internet services. [[00:06:25](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=385.48s)]
+*  So there's so much real-world money going into building Web3.0 startups that even if, [[00:06:31](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=391.08000000000004s)]
+*  as a concept, it proves unworkable, we're going to be hearing about it for a long time yet to come. [[00:06:37](https://www.youtube.com/watch?v=OEJGQD1OuKA&t=397.8s)]

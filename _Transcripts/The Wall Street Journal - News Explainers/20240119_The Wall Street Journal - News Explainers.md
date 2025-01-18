@@ -1,0 +1,126 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 408s
+Video Keywords: ['boeing', 'boeing news', 'alaska airlines', 'alaska airlines window blow', 'midair emergency', 'boeing stock', 'boeing 737 max', 'boeing 737 max 9', 'door plug', 'door plug falls off plane', 'door plug alaska airlines', 'boeing aircrafts', 'alaska airlines accident', 'emergency exit', 'NTSB investigation', 'ntsb', 'faa', 'manufacturing', 'spirit aerosystems', 'max 9 aircraft', 'aviation', 'aviation news', 'faa grounding', 'united airlines', 'lion air', 'india', 'korea', 'mike whitaker', 'Airbus', 'alaska airlines flight door', 'wonews']
+Video Views: 330836
+Video Rating: None
+Video Description: Following a midair emergency where a door plug fell from a Boeing 737 Max 9, the FAA has grounded some of the fleet. United Airlines and Alaska Airlines are reporting “loose bolts” in some of their aircrafts. 
+
+WSJ explores what the Alaska Airlines accident means for Boeing, how it could affect the duopoly with Airbus, and whether the company can afford another setback.
+
+Chapters:
+0:00 Boeing’s struggles
+0:50 Immediate fallout
+3:31 Long-term fallout
+5:27 What’s next?
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Boeing #Travel #WSJ
+---
+
+# What Does the Alaska Airlines Door Plug Incident Mean for Boeing?  WSJ
+**The Wall Street Journal - News Explainers:** [January 19, 2024](https://www.youtube.com/watch?v=n4agr3psAxs)
+*  A hole in a plane, government investigations, aircraft being grounded, $12 billion wiped [[00:00:00](https://www.youtube.com/watch?v=n4agr3psAxs&t=0.0s)]
+*  from the stock price and airlines re-examining their aircraft to find yet more manufacturing [[00:00:05](https://www.youtube.com/watch?v=n4agr3psAxs&t=5.76s)]
+*  faults. [[00:00:10](https://www.youtube.com/watch?v=n4agr3psAxs&t=10.4s)]
+*  This wasn't exactly the start to 2024 that Boeing wanted. [[00:00:11](https://www.youtube.com/watch?v=n4agr3psAxs&t=11.78s)]
+*  See, after spending years enduring the fallout from the Max Crisis, where two Boeing planes [[00:00:14](https://www.youtube.com/watch?v=n4agr3psAxs&t=14.64s)]
+*  crashed due to a flight control design flaw, killing hundreds of people, the company was [[00:00:18](https://www.youtube.com/watch?v=n4agr3psAxs&t=18.8s)]
+*  finally showing signs of a full recovery. [[00:00:23](https://www.youtube.com/watch?v=n4agr3psAxs&t=23.28s)]
+*  They had normalised production levels, they were getting some more respect on Wall Street. [[00:00:25](https://www.youtube.com/watch?v=n4agr3psAxs&t=25.96s)]
+*  But then a door plug from an Alaska Airlines Boeing aircraft, which had only been delivered [[00:00:31](https://www.youtube.com/watch?v=n4agr3psAxs&t=31.28s)]
+*  months before, fell off in mid-air, triggering yet another crisis for the company. [[00:00:35](https://www.youtube.com/watch?v=n4agr3psAxs&t=35.24s)]
+*  What does Boeing look like in the next few years if it has to deal with another crisis? [[00:00:40](https://www.youtube.com/watch?v=n4agr3psAxs&t=40.68s)]
+*  So can Boeing afford another setback? [[00:00:45](https://www.youtube.com/watch?v=n4agr3psAxs&t=45.28s)]
+*  While nobody was killed or seriously injured in the Alaska Airlines accident, [[00:00:50](https://www.youtube.com/watch?v=n4agr3psAxs&t=50.760000000000005s)]
+*  we could have ended up with something so much more tragic and really fortunate that that [[00:00:54](https://www.youtube.com/watch?v=n4agr3psAxs&t=54.76s)]
+*  did not occur here. [[00:01:00](https://www.youtube.com/watch?v=n4agr3psAxs&t=60.48s)]
+*  The door plug, which is a panel used to plug up the space where an emergency exit would [[00:01:02](https://www.youtube.com/watch?v=n4agr3psAxs&t=62.04s)]
+*  be, fell off early in the flight. [[00:01:05](https://www.youtube.com/watch?v=n4agr3psAxs&t=65.88s)]
+*  It was shortly after takeoff, passengers were still in their seatbelt, the plane was ascending [[00:01:08](https://www.youtube.com/watch?v=n4agr3psAxs&t=68.48s)]
+*  and there was no one seated right next to the door plug that blew off. [[00:01:13](https://www.youtube.com/watch?v=n4agr3psAxs&t=73.88s)]
+*  If somebody had been in that seat, it's likely they probably would have died. [[00:01:18](https://www.youtube.com/watch?v=n4agr3psAxs&t=78.36s)]
+*  That's at least what we're told by the NTSB and that's really what's triggered this massive [[00:01:22](https://www.youtube.com/watch?v=n4agr3psAxs&t=82.56s)]
+*  panic and investigation into what actually happened. [[00:01:28](https://www.youtube.com/watch?v=n4agr3psAxs&t=88.0s)]
+*  One major question in the accident investigators probe is whether this was a one-off accident [[00:01:31](https://www.youtube.com/watch?v=n4agr3psAxs&t=91.16s)]
+*  with a singular door plug or a manufacturing issue that could affect many of Boeing's aircraft. [[00:01:35](https://www.youtube.com/watch?v=n4agr3psAxs&t=95.48s)]
+*  The door plugs are manufactured by a company called Spirit Aerosystems, which actually [[00:01:40](https://www.youtube.com/watch?v=n4agr3psAxs&t=100.84s)]
+*  used to be part of Boeing until the division was spun off in 2005. [[00:01:44](https://www.youtube.com/watch?v=n4agr3psAxs&t=104.9s)]
+*  Spirit has said it's working with Boeing to determine what went wrong, but a crucial [[00:01:49](https://www.youtube.com/watch?v=n4agr3psAxs&t=109.12s)]
+*  piece of evidence, the bolts that are supposed to hold the door plug in place, remain missing. [[00:01:52](https://www.youtube.com/watch?v=n4agr3psAxs&t=112.52000000000001s)]
+*  And we have not yet determined if they existed there. [[00:01:57](https://www.youtube.com/watch?v=n4agr3psAxs&t=117.60000000000001s)]
+*  Figuring out what happened with the bolts is a key piece of this. [[00:02:00](https://www.youtube.com/watch?v=n4agr3psAxs&t=120.80000000000001s)]
+*  The accident led to the FAA grounding around 170 Max 9 aircraft and ordering the inspection [[00:02:04](https://www.youtube.com/watch?v=n4agr3psAxs&t=124.24000000000001s)]
+*  of the planes. [[00:02:09](https://www.youtube.com/watch?v=n4agr3psAxs&t=129.76s)]
+*  But it wasn't long before the reputational damage to Boeing and the FAA began to spread [[00:02:10](https://www.youtube.com/watch?v=n4agr3psAxs&t=130.76s)]
+*  further than the Max 9's door plugs. [[00:02:15](https://www.youtube.com/watch?v=n4agr3psAxs&t=135.56s)]
+*  See, when it comes to recommendations, inspections and safety checks for Boeing and other American-made [[00:02:17](https://www.youtube.com/watch?v=n4agr3psAxs&t=137.76s)]
+*  aircraft, airlines and regulators across the globe typically follow the lead of the FAA. [[00:02:22](https://www.youtube.com/watch?v=n4agr3psAxs&t=142.88s)]
+*  However, around the same time that both United Airlines and Alaska Airlines announced they'd [[00:02:27](https://www.youtube.com/watch?v=n4agr3psAxs&t=147.6s)]
+*  found loose bolts on their aircraft… [[00:02:32](https://www.youtube.com/watch?v=n4agr3psAxs&t=152.28s)]
+*  What we saw was airlines saying, you know what, we're going to check our aircraft, [[00:02:34](https://www.youtube.com/watch?v=n4agr3psAxs&t=154.72s)]
+*  our Boeing Max aircraft, even though they're not the models that the FAA has stipulated [[00:02:40](https://www.youtube.com/watch?v=n4agr3psAxs&t=160.07999999999998s)]
+*  need to be checked. [[00:02:45](https://www.youtube.com/watch?v=n4agr3psAxs&t=165.35999999999999s)]
+*  Despite having no Max 9 aircraft, South Korea, China and India all ordered their airlines [[00:02:46](https://www.youtube.com/watch?v=n4agr3psAxs&t=166.76s)]
+*  to examine their fleet of Max 8 aircraft. [[00:02:52](https://www.youtube.com/watch?v=n4agr3psAxs&t=172.88s)]
+*  Though they found nothing. [[00:02:55](https://www.youtube.com/watch?v=n4agr3psAxs&t=175.95999999999998s)]
+*  And Indonesia ordered Lion Air to inspect the doors on its Max 9 aircraft. [[00:02:57](https://www.youtube.com/watch?v=n4agr3psAxs&t=177.44s)]
+*  It's certainly a sign that Boeing doesn't have full, full confidence of safety regulators [[00:03:01](https://www.youtube.com/watch?v=n4agr3psAxs&t=181.95999999999998s)]
+*  or its airline customers. [[00:03:08](https://www.youtube.com/watch?v=n4agr3psAxs&t=188.84s)]
+*  That really speaks to this idea that there may be a loss of faith, not just in Boeing, [[00:03:10](https://www.youtube.com/watch?v=n4agr3psAxs&t=190.72s)]
+*  but also in Boeing's oversight by the FAA. [[00:03:18](https://www.youtube.com/watch?v=n4agr3psAxs&t=198.12s)]
+*  The FAA's administrator, Mike Whitaker, said the agency showed its global leadership [[00:03:21](https://www.youtube.com/watch?v=n4agr3psAxs&t=201.64s)]
+*  on safety by immediately grounding the Max 9 and said regulators would make sure the [[00:03:25](https://www.youtube.com/watch?v=n4agr3psAxs&t=205.64s)]
+*  planes were safe before they fly again. [[00:03:30](https://www.youtube.com/watch?v=n4agr3psAxs&t=210.2s)]
+*  That potential loss of faith could impact the range of planes that Boeing is able to [[00:03:32](https://www.youtube.com/watch?v=n4agr3psAxs&t=212.76s)]
+*  offer in years to come. [[00:03:37](https://www.youtube.com/watch?v=n4agr3psAxs&t=217.04s)]
+*  And to understand why, you need to go back to the Max crashes of 2018 and 2019. [[00:03:38](https://www.youtube.com/watch?v=n4agr3psAxs&t=218.76s)]
+*  An Indonesia passenger plane crashing into the sea minutes after takeoff. [[00:03:43](https://www.youtube.com/watch?v=n4agr3psAxs&t=223.32s)]
+*  Rescuers have located debris but they do not expect to find any survivors. [[00:03:49](https://www.youtube.com/watch?v=n4agr3psAxs&t=229.0s)]
+*  The new Boeing 737 crashing just minutes after takeoff in Ethiopia. [[00:03:53](https://www.youtube.com/watch?v=n4agr3psAxs&t=233.88s)]
+*  157 people from more than 30 countries were killed. [[00:03:58](https://www.youtube.com/watch?v=n4agr3psAxs&t=238.51999999999998s)]
+*  The crashes of two Boeing 737 Max 8 aircraft led to the grounding of hundreds of jets for [[00:04:01](https://www.youtube.com/watch?v=n4agr3psAxs&t=241.79999999999998s)]
+*  nearly two years. [[00:04:07](https://www.youtube.com/watch?v=n4agr3psAxs&t=247.07999999999998s)]
+*  The FAA began increasing its oversight of Boeing's manufacturing and the company had [[00:04:08](https://www.youtube.com/watch?v=n4agr3psAxs&t=248.72s)]
+*  to pay billions to compensate airlines due to the Max grounding and problems that emerged [[00:04:13](https://www.youtube.com/watch?v=n4agr3psAxs&t=253.12s)]
+*  with other aircraft. [[00:04:18](https://www.youtube.com/watch?v=n4agr3psAxs&t=258.04s)]
+*  It slowed everything down. [[00:04:19](https://www.youtube.com/watch?v=n4agr3psAxs&t=259.44s)]
+*  It took up resources, it took up time and so Boeing arguably wasn't able to focus on [[00:04:21](https://www.youtube.com/watch?v=n4agr3psAxs&t=261.68s)]
+*  developing the next new aircraft in a way they could have been. [[00:04:28](https://www.youtube.com/watch?v=n4agr3psAxs&t=268.6s)]
+*  Fast forward to 2023 and Boeing now has a far narrower selection of planes than European [[00:04:32](https://www.youtube.com/watch?v=n4agr3psAxs&t=272.12s)]
+*  rival Airbus, whose offering ranges from the 100 seat A220 all the way up to the massive [[00:04:37](https://www.youtube.com/watch?v=n4agr3psAxs&t=277.24s)]
+*  A350-1000. [[00:04:42](https://www.youtube.com/watch?v=n4agr3psAxs&t=282.88s)]
+*  Airbus also has the A321neo, which can fly a greater number of passengers farther than [[00:04:43](https://www.youtube.com/watch?v=n4agr3psAxs&t=283.88s)]
+*  Boeing's 737 Max 10, a plane which still isn't certified because of delays related [[00:04:50](https://www.youtube.com/watch?v=n4agr3psAxs&t=290.08s)]
+*  to the Max crisis. [[00:04:55](https://www.youtube.com/watch?v=n4agr3psAxs&t=295.40000000000003s)]
+*  And that's partly why Airbus, who overtook Boeing as the world's largest plane maker [[00:04:56](https://www.youtube.com/watch?v=n4agr3psAxs&t=296.68s)]
+*  in 2019, was able to post record orders in 2023, far outstripping Boeing's orders. [[00:05:00](https://www.youtube.com/watch?v=n4agr3psAxs&t=300.52s)]
+*  And there's a question here. [[00:05:07](https://www.youtube.com/watch?v=n4agr3psAxs&t=307.04s)]
+*  Does this difference between the orders speak to maybe the fact that Boeing's management [[00:05:08](https://www.youtube.com/watch?v=n4agr3psAxs&t=308.20000000000005s)]
+*  are distracted? [[00:05:12](https://www.youtube.com/watch?v=n4agr3psAxs&t=312.96000000000004s)]
+*  You know, they're focused on other things. [[00:05:13](https://www.youtube.com/watch?v=n4agr3psAxs&t=313.96000000000004s)]
+*  Where Airbus is able to go out there and just focus on winning orders and working with customers [[00:05:15](https://www.youtube.com/watch?v=n4agr3psAxs&t=315.8s)]
+*  and being able to deliver a more nuanced product line-up that can really take away some of [[00:05:20](https://www.youtube.com/watch?v=n4agr3psAxs&t=320.72s)]
+*  the market share that Boeing has. [[00:05:25](https://www.youtube.com/watch?v=n4agr3psAxs&t=325.64000000000004s)]
+*  So even though the plane landed safely, could the Alaska Airlines incident disrupt the duopoly [[00:05:27](https://www.youtube.com/watch?v=n4agr3psAxs&t=327.24s)]
+*  between Boeing and Airbus in the long run? [[00:05:32](https://www.youtube.com/watch?v=n4agr3psAxs&t=332.48s)]
+*  Well, both Airbus and Boeing have huge manufacturing backlogs, so Airbus is unlikely to gain much [[00:05:35](https://www.youtube.com/watch?v=n4agr3psAxs&t=335.04s)]
+*  of an advantage in the short term. [[00:05:40](https://www.youtube.com/watch?v=n4agr3psAxs&t=340.56s)]
+*  They're pretty much sold out for the next, you know, eight, nine years. [[00:05:42](https://www.youtube.com/watch?v=n4agr3psAxs&t=342.4s)]
+*  If you want to buy a big chunk of new orders from Airbus, you're really looking at the [[00:05:46](https://www.youtube.com/watch?v=n4agr3psAxs&t=346.4s)]
+*  early 2030s before Airbus can even start delivering them. [[00:05:50](https://www.youtube.com/watch?v=n4agr3psAxs&t=350.72s)]
+*  And handling the Max crisis may have made Boeing better at dealing with its current woes. [[00:05:53](https://www.youtube.com/watch?v=n4agr3psAxs&t=353.96s)]
+*  We're seeing the company already start to do things differently. [[00:05:59](https://www.youtube.com/watch?v=n4agr3psAxs&t=359.08s)]
+*  They've said that they will open their factories up to airlines if the airlines want to send [[00:06:02](https://www.youtube.com/watch?v=n4agr3psAxs&t=362.68s)]
+*  crews in to inspect the process. [[00:06:08](https://www.youtube.com/watch?v=n4agr3psAxs&t=368.84000000000003s)]
+*  But how Boeing goes about restoring faith in its products and its manufacturing over [[00:06:10](https://www.youtube.com/watch?v=n4agr3psAxs&t=370.68s)]
+*  the next few months could dramatically reshape the company in the years to come. [[00:06:14](https://www.youtube.com/watch?v=n4agr3psAxs&t=374.88s)]
+*  If they're able to come back very strongly, confident in the fixes, show that they have, [[00:06:20](https://www.youtube.com/watch?v=n4agr3psAxs&t=380.04s)]
+*  you know, not only addressed the underlying issues, but managed to win back the confidence [[00:06:26](https://www.youtube.com/watch?v=n4agr3psAxs&t=386.12s)]
+*  of the global industry. [[00:06:31](https://www.youtube.com/watch?v=n4agr3psAxs&t=391.48s)]
+*  Maybe this is just a blip. [[00:06:33](https://www.youtube.com/watch?v=n4agr3psAxs&t=393.20000000000005s)]
+*  But if there's a lack of faith in the company and its products, we could see Boeing's orders [[00:06:34](https://www.youtube.com/watch?v=n4agr3psAxs&t=394.20000000000005s)]
+*  and its position in the market start to slip further in the long run. [[00:06:39](https://www.youtube.com/watch?v=n4agr3psAxs&t=399.88s)]

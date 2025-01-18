@@ -1,0 +1,113 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 372s
+Video Keywords: ['jobs report', 'jobs report explained', 'how to read jobs report', 'jobs report 2022', 'biden jobs report', 'Labor Department', 'us jobs', 'us labor', 'us labor department', 'american jobs', 'labor report', 'economy', 'us labor market', 'labor market', 'job market', 'jobs market', 'jobs market explained', 'labor market explained', 'employment', 'inflation', 'nonfarm payrolls', 'job growth', 'pandemic jobs', 'covid jobs', 'covid employment', 'employment rate', 'labor force', 'unemployment rate', 'wsj', 'wall street journal']
+Video Views: 80258
+Video Rating: None
+Video Description: The monthly jobs report reveals key indicators about the labor market and the overall state of the economy, but it doesn’t show the entire picture. WSJ explains how to read the report, what it shows and what it doesn’t. Photo illustration: Liz Ornitz
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#Jobs #JobsReport #WSJ
+---
+
+# How to Read the Jobs Report  WSJ
+**The Wall Street Journal - News Explainers:** [February 04, 2022](https://www.youtube.com/watch?v=5ztO1SdIkaU)
+*  There's been a lot of press coverage about people quitting their jobs. [[00:00:00](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=0.0s)]
+*  Well, today's report tells you why. [[00:00:03](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=3.36s)]
+*  Here, President Biden is referring to the Labor Department's monthly jobs report, [[00:00:06](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=6.12s)]
+*  a key gauge of American employment and inflation. [[00:00:11](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=11.08s)]
+*  The report can move trillions of dollars in market trades [[00:00:14](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=14.56s)]
+*  and influence policy decisions like interest rates at the Federal Reserve. [[00:00:17](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=17.84s)]
+*  But the report still has its limits. [[00:00:22](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=22.240000000000002s)]
+*  There are some things that the jobs report doesn't include, [[00:00:24](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=24.64s)]
+*  and because of that, we're not getting a complete picture of the U.S. jobs market. [[00:00:27](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=27.56s)]
+*  Here's what you need to know to read the monthly jobs report, [[00:00:32](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=32.199999999999996s)]
+*  including what it tells you and what it doesn't. [[00:00:35](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=35.44s)]
+*  The report, which is normally released on the first Friday of the month, [[00:00:41](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=41.48s)]
+*  gives a look at the current state of the economy. [[00:00:45](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=45.2s)]
+*  And while economists read it in depth, [[00:00:47](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=47.92s)]
+*  there are four key areas that they tend to focus on. [[00:00:50](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=50.12s)]
+*  Non-farm payrolls, often simply referred to as jobs, [[00:00:53](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=53.32s)]
+*  shows the number of positions added or lost each month that aren't in agriculture. [[00:00:56](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=56.8s)]
+*  This chart shows non-farm payrolls over the past decade. [[00:01:02](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=62.239999999999995s)]
+*  You can see job numbers had been steadily rising until the pandemic hit when they plummeted. [[00:01:05](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=65.72s)]
+*  And although jobs had started to recover, by late 2021, job growth had slowed. [[00:01:11](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=71.52s)]
+*  Weak job growth can be a reflection of two different things. [[00:01:16](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=76.84s)]
+*  One is that businesses are struggling to find workers, [[00:01:21](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=81.36s)]
+*  which is largely what we saw in 2021. [[00:01:25](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=85.92s)]
+*  Sarah Cheney-Cambon reports on the American labor market for The Wall Street Journal. [[00:01:28](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=88.56s)]
+*  The other is that demand for their goods and services is weak, [[00:01:33](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=93.03999999999999s)]
+*  and therefore they're waiting off workers or not hiring. [[00:01:37](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=97.56s)]
+*  This fluctuating jobs number is directly tied to the unemployment rate, [[00:01:41](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=101.28s)]
+*  which measures how many workers in the labor force are unemployed and currently looking for work. [[00:01:45](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=105.24s)]
+*  The goal is full employment, [[00:01:50](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=110.03999999999999s)]
+*  which some economists say is around a 4% to 5% unemployment rate. [[00:01:51](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=111.84s)]
+*  Full employment is basically when anyone who wants a job can get a job. [[00:01:56](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=116.6s)]
+*  When the unemployment rate is really low, it's generally a good thing. [[00:02:02](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=122.56s)]
+*  It means that businesses are not waiting off workers, [[00:02:07](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=127.12s)]
+*  and wages are probably growing pretty strongly as a result of low joblessness. [[00:02:10](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=130.8s)]
+*  But if unemployment drops too low, it can signal challenges. [[00:02:16](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=136.07999999999998s)]
+*  The downside of low unemployment can be that companies are really struggling to find workers, [[00:02:20](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=140.07999999999998s)]
+*  and that can lead to them raising wages and therefore prices, [[00:02:27](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=147.84s)]
+*  and you could get very big inflationary pressures. [[00:02:32](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=152.56s)]
+*  When the unemployment rate goes down, [[00:02:36](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=156.44s)]
+*  economists look into how much of that is due to workers getting jobs, [[00:02:38](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=158.39999999999998s)]
+*  and how much is due to shrinking labor force participation, [[00:02:42](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=162.32s)]
+*  which is measured by the labor force participation rate, [[00:02:45](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=165.76s)]
+*  or how much of the overall population is either currently working or looking for a job. [[00:02:48](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=168.92s)]
+*  You can see labor force participation has steadily declined over the past two decades, [[00:02:54](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=174.35999999999999s)]
+*  with the largest drop happening at the beginning of the pandemic. [[00:02:59](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=179.56s)]
+*  And when the rate drops too low, it can put pressure on employers. [[00:03:02](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=182.67999999999998s)]
+*  Generally, when the labor force participation rate is low, as it's been throughout the pandemic, [[00:03:06](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=186.32s)]
+*  you might see stronger wage growth, [[00:03:13](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=193.16s)]
+*  and that's because businesses just can't find the workers to fill their jobs. [[00:03:15](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=195.32s)]
+*  They're oftentimes facing what we call labor shortages, and as a result, they ramp up pay. [[00:03:20](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=200.4s)]
+*  Increasing or decreasing pay is measured by wage growth. [[00:03:26](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=206.88s)]
+*  Look at this chart. [[00:03:31](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=211.12s)]
+*  You'll notice that wages picked up in 2021 due to labor shortages, [[00:03:32](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=212.36s)]
+*  and economists expect that wages will continue to rise. [[00:03:36](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=216.52s)]
+*  Metrics like wage growth give economists a sense of how the economy is doing, [[00:03:40](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=220.4s)]
+*  but the data only shows part of the picture. [[00:03:45](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=225.0s)]
+*  That's because the report is mainly just hard data, [[00:03:47](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=227.44s)]
+*  which means it can tell us whether job numbers and wages are going up or down, [[00:03:50](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=230.48000000000002s)]
+*  but it doesn't explain why. [[00:03:54](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=234.28s)]
+*  It doesn't give us details on how good a given job is. [[00:03:56](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=236.24s)]
+*  It doesn't tell us how safe a manufacturing job is, [[00:03:59](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=239.84s)]
+*  or how well an employer is treating their employees. [[00:04:03](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=243.36s)]
+*  And there's also the timing of the report. [[00:04:07](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=247.48000000000002s)]
+*  It's based on two core surveys from the Labor Department. [[00:04:09](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=249.72s)]
+*  One of household populations and another of employment data [[00:04:13](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=253.24s)]
+*  that take place around the 12th of every month. [[00:04:16](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=256.40000000000003s)]
+*  And as a result, the jobs report primarily reflects the labor market over these first two weeks, [[00:04:19](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=259.12s)]
+*  which means there's a delay in the data. [[00:04:24](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=264.76s)]
+*  The employment survey collects data from around 145,000 employers, [[00:04:27](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=267.28000000000003s)]
+*  some of whom may respond to the survey late or not at all. [[00:04:32](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=272.12s)]
+*  Before the pandemic hit, businesses were open, [[00:04:35](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=275.72s)]
+*  and so they were able to provide responses to the Labor Department survey. [[00:04:39](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=279.12s)]
+*  After the pandemic hit, a lot of businesses shut down, [[00:04:44](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=284.56s)]
+*  either because consumers stopped going to ex-restaurants or ex-business, [[00:04:48](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=288.24s)]
+*  or because of government-mandated restrictions. [[00:04:54](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=294.12s)]
+*  If businesses don't respond, the Labor Department has to guess their payroll size, [[00:04:57](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=297.36s)]
+*  which can get tricky. [[00:05:01](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=301.68s)]
+*  And this is what we saw happening during the pandemic. [[00:05:02](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=302.96s)]
+*  The Labor Department had a smaller sample size of businesses to work with for its payroll survey. [[00:05:05](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=305.64000000000004s)]
+*  And as a result, the margin of error when they were making calculations was higher. [[00:05:11](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=311.64000000000004s)]
+*  This margin of error is important, in part, because of just how big the labor market is. [[00:05:16](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=316.6s)]
+*  In December 2021, it stood at almost 150 million jobs. [[00:05:22](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=322.56s)]
+*  If the number of jobs added or lost are tens of thousands higher or lower than what the report shows, [[00:05:27](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=327.40000000000003s)]
+*  it could make policymakers' jobs harder. [[00:05:32](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=332.88s)]
+*  The Federal Reserve is really closely watching those job growth and payroll growth numbers. [[00:05:35](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=335.16s)]
+*  And if there's a big margin of error, they might have a slight misunderstanding of what's going on. [[00:05:41](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=341.20000000000005s)]
+*  Still, the Fed looks at multiple data reports about the economy. [[00:05:46](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=346.48s)]
+*  And over time, estimates from the jobs report that are too high or low tend to even out, [[00:05:50](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=350.48s)]
+*  so the implications are shorter term. [[00:05:55](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=355.64000000000004s)]
+*  But despite the pitfalls, the jobs report is still one of the most influential indicators we have [[00:05:57](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=357.68s)]
+*  for the American workforce and economy. [[00:06:03](https://www.youtube.com/watch?v=5ztO1SdIkaU&t=363.6s)]

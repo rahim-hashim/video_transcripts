@@ -1,0 +1,110 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 371s
+Video Keywords: ['AIRLINES', 'COVID', 'AMERICAN AIRLINES', 'DELTA', 'PANDEMIC', 'AIRPORT', 'AVIATION', 'Air Transport', 'Transportation', 'Logistics', 'United States', 'aviation', 'american airlines', 'southwest airlines', 'united airlines', 'coronavirus', 'airline', 'airlines covid 19', 'airlines coronavirus', 'airplane', 'wsj airplanes', 'wsj aviation', 'wsj', 'can airlines survive?', 'airplanes', 'airports', 'airline industry', 'the wall street journal', 'coronavirus us', 'delta airlines', 'boeing', 'travel', 'air travel', 'boeing 737', 'boeing 737 max', 'boeing 747']
+Video Views: 176359
+Video Rating: None
+Video Description: After an unprecedented drop in air travel due to the coronavirus, passenger airlines are being forced to make long-term, make-or-break decisions at a time of great uncertainty and minimal cash flow. So how are they planning to survive? WSJ finds out. Composite: George Downs/The Wall Street Journal
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Aviation #Explainer
+---
+
+# How Airlines Can Survive the Pandemic  WSJ
+**The Wall Street Journal - News Explainers:** [August 03, 2020](https://www.youtube.com/watch?v=u4kVq9abmDE)
+*  The Boeing 747. It's the jumbo jet that made long-distance travel more affordable, [[00:00:00](https://www.youtube.com/watch?v=u4kVq9abmDE&t=0.0s)]
+*  and was the crown jewel of BOAC's fleet, a company you may now know as British Airways. [[00:00:05](https://www.youtube.com/watch?v=u4kVq9abmDE&t=5.5200000000000005s)]
+*  By the end of the year, BOAC will have extended its jumbo services around the world on most of its key routes. [[00:00:11](https://www.youtube.com/watch?v=u4kVq9abmDE&t=11.52s)]
+*  But in 2020, after five decades, BA has decided to bring forward its plans to retire the 747, [[00:00:18](https://www.youtube.com/watch?v=u4kVq9abmDE&t=18.0s)]
+*  as have other airlines like Qantas and Virgin Atlantic. [[00:00:25](https://www.youtube.com/watch?v=u4kVq9abmDE&t=25.36s)]
+*  It's a visible sign of how airlines are having to quickly transform themselves to survive the coronavirus pandemic. [[00:00:28](https://www.youtube.com/watch?v=u4kVq9abmDE&t=28.96s)]
+*  The industry has been decimated. [[00:00:35](https://www.youtube.com/watch?v=u4kVq9abmDE&t=35.6s)]
+*  Passenger volumes dropped an unprecedented 95% in April, and the industry is set to lose $84 billion this year alone. [[00:00:38](https://www.youtube.com/watch?v=u4kVq9abmDE&t=38.64s)]
+*  A number of airlines around the world have already gone bust. [[00:00:47](https://www.youtube.com/watch?v=u4kVq9abmDE&t=47.760000000000005s)]
+*  It's a little bit like the game of Survivor. We don't know how long the downturn is going to last. [[00:00:51](https://www.youtube.com/watch?v=u4kVq9abmDE&t=51.2s)]
+*  So to stay in business, airlines have to move quickly, and face make-or-break choices at a time of zero visibility. [[00:00:56](https://www.youtube.com/watch?v=u4kVq9abmDE&t=56.56s)]
+*  A first critical choice is whether or not to keep flying, and where to send those planes when demand is so low. [[00:01:05](https://www.youtube.com/watch?v=u4kVq9abmDE&t=65.36s)]
+*  Flying too many planes means losing money. [[00:01:12](https://www.youtube.com/watch?v=u4kVq9abmDE&t=72.80000000000001s)]
+*  But flying too few means missing out on passenger demand and potentially losing market share. [[00:01:15](https://www.youtube.com/watch?v=u4kVq9abmDE&t=75.68s)]
+*  Getting that balance right is absolutely crucial. [[00:01:21](https://www.youtube.com/watch?v=u4kVq9abmDE&t=81.36s)]
+*  How can I stay in that market? [[00:01:24](https://www.youtube.com/watch?v=u4kVq9abmDE&t=84.96000000000001s)]
+*  How can I continue to be active, but not fly unnecessary journeys with empty aircraft? [[00:01:26](https://www.youtube.com/watch?v=u4kVq9abmDE&t=86.96000000000001s)]
+*  For many airlines, that's the great dilemma. [[00:01:32](https://www.youtube.com/watch?v=u4kVq9abmDE&t=92.72s)]
+*  Airlines in the U.S. are going about it in very different ways. [[00:01:35](https://www.youtube.com/watch?v=u4kVq9abmDE&t=95.12s)]
+*  American has said, we're going to take as many people as we can, pack them into the airplane, [[00:01:38](https://www.youtube.com/watch?v=u4kVq9abmDE&t=98.64s)]
+*  reduce our cash losses each day. [[00:01:45](https://www.youtube.com/watch?v=u4kVq9abmDE&t=105.44s)]
+*  There are some people who need to travel. [[00:01:49](https://www.youtube.com/watch?v=u4kVq9abmDE&t=109.12s)]
+*  There are some people who want to travel. [[00:01:50](https://www.youtube.com/watch?v=u4kVq9abmDE&t=110.88s)]
+*  So let's get them. [[00:01:53](https://www.youtube.com/watch?v=u4kVq9abmDE&t=113.19999999999999s)]
+*  Let's get them all. [[00:01:54](https://www.youtube.com/watch?v=u4kVq9abmDE&t=114.16s)]
+*  But Delta has said it's going to halve the number of planes it's bringing back, [[00:01:55](https://www.youtube.com/watch?v=u4kVq9abmDE&t=115.6s)]
+*  leaving its capacity around a quarter of what it was last year. [[00:01:59](https://www.youtube.com/watch?v=u4kVq9abmDE&t=119.92s)]
+*  Taking flights out of your schedule does help you save cash. [[00:02:03](https://www.youtube.com/watch?v=u4kVq9abmDE&t=123.44s)]
+*  It certainly reduces your daily operating costs. [[00:02:07](https://www.youtube.com/watch?v=u4kVq9abmDE&t=127.28s)]
+*  And, you know, it's quite simple. [[00:02:11](https://www.youtube.com/watch?v=u4kVq9abmDE&t=131.2s)]
+*  If you only have enough passengers for one or two flights a day, [[00:02:12](https://www.youtube.com/watch?v=u4kVq9abmDE&t=132.88s)]
+*  you only want to be flying one or two flights a day. [[00:02:15](https://www.youtube.com/watch?v=u4kVq9abmDE&t=135.92s)]
+*  Striking the right balance is particularly difficult. [[00:02:17](https://www.youtube.com/watch?v=u4kVq9abmDE&t=137.92s)]
+*  And airlines can't even rely on their usual forecast data, [[00:02:21](https://www.youtube.com/watch?v=u4kVq9abmDE&t=141.04s)]
+*  as few customers are planning travel ahead of time. [[00:02:24](https://www.youtube.com/watch?v=u4kVq9abmDE&t=144.48s)]
+*  They've lost all of their historic data around booking demand, [[00:02:27](https://www.youtube.com/watch?v=u4kVq9abmDE&t=147.76s)]
+*  when people book, for what routes, how far in advance, how much they're prepared to pay. [[00:02:33](https://www.youtube.com/watch?v=u4kVq9abmDE&t=153.2s)]
+*  That makes another crucial decision particularly pressing, [[00:02:39](https://www.youtube.com/watch?v=u4kVq9abmDE&t=159.51999999999998s)]
+*  whether or not to keep their staff. [[00:02:42](https://www.youtube.com/watch?v=u4kVq9abmDE&t=162.95999999999998s)]
+*  If you're talking about 50% of the world's fleet being grounded at this moment in time, [[00:02:45](https://www.youtube.com/watch?v=u4kVq9abmDE&t=165.12s)]
+*  and 50% of the world's capacity not flying at this moment in time, [[00:02:48](https://www.youtube.com/watch?v=u4kVq9abmDE&t=168.96s)]
+*  you don't need to be a rocket scientist. [[00:02:54](https://www.youtube.com/watch?v=u4kVq9abmDE&t=174.24s)]
+*  I mean, that probably means 50% of people employed in the aviation industry [[00:02:55](https://www.youtube.com/watch?v=u4kVq9abmDE&t=175.92000000000002s)]
+*  are not going to be required, certainly through the winter of this year. [[00:03:00](https://www.youtube.com/watch?v=u4kVq9abmDE&t=180.32s)]
+*  While carriers like Cathay Pacific and Hong Kong have asked their employees to take unpaid leave, [[00:03:03](https://www.youtube.com/watch?v=u4kVq9abmDE&t=183.92000000000002s)]
+*  others like Emirates have laid off staff. [[00:03:08](https://www.youtube.com/watch?v=u4kVq9abmDE&t=188.96s)]
+*  In the US, airlines that accepted government money under the CARES Act [[00:03:12](https://www.youtube.com/watch?v=u4kVq9abmDE&t=192.16s)]
+*  promised not to lay off or furlough workers until the end of September, [[00:03:15](https://www.youtube.com/watch?v=u4kVq9abmDE&t=195.84s)]
+*  but have looked for other options. [[00:03:19](https://www.youtube.com/watch?v=u4kVq9abmDE&t=199.6s)]
+*  You know, what they're asking for from employees and labor is usually their number one or number two cost. [[00:03:21](https://www.youtube.com/watch?v=u4kVq9abmDE&t=201.92000000000002s)]
+*  They're asking for forgiveness, voluntary leaves, [[00:03:29](https://www.youtube.com/watch?v=u4kVq9abmDE&t=209.12s)]
+*  working fewer hours than what's guaranteed in their contracts, [[00:03:32](https://www.youtube.com/watch?v=u4kVq9abmDE&t=212.72s)]
+*  different relief forms like that. [[00:03:36](https://www.youtube.com/watch?v=u4kVq9abmDE&t=216.96s)]
+*  American has warned 25,000 of its staff that their jobs are at risk once funding expires, [[00:03:39](https://www.youtube.com/watch?v=u4kVq9abmDE&t=219.76000000000002s)]
+*  and United said it's exploring shedding 36,000 employees, nearly half of its US workforce. [[00:03:45](https://www.youtube.com/watch?v=u4kVq9abmDE&t=225.60000000000002s)]
+*  But furloughing specialized workers can have long-term consequences. [[00:03:52](https://www.youtube.com/watch?v=u4kVq9abmDE&t=232.48000000000002s)]
+*  You don't want to furlough a pilot for just a couple months [[00:03:56](https://www.youtube.com/watch?v=u4kVq9abmDE&t=236.88000000000002s)]
+*  and then have to bring them back for a couple months of training. [[00:04:00](https://www.youtube.com/watch?v=u4kVq9abmDE&t=240.64000000000001s)]
+*  You don't want to create training cycles where you just jam up your facilities [[00:04:05](https://www.youtube.com/watch?v=u4kVq9abmDE&t=245.04000000000002s)]
+*  and you can't get the people trained that you need to get trained. [[00:04:09](https://www.youtube.com/watch?v=u4kVq9abmDE&t=249.76000000000002s)]
+*  There are only so many hours in the flight simulators. [[00:04:13](https://www.youtube.com/watch?v=u4kVq9abmDE&t=253.44s)]
+*  Back to those 747s. [[00:04:19](https://www.youtube.com/watch?v=u4kVq9abmDE&t=259.36s)]
+*  The jumbo's cruising speed of 625 miles an hour makes relatively short work of the Atlantic flight. [[00:04:20](https://www.youtube.com/watch?v=u4kVq9abmDE&t=260.96000000000004s)]
+*  Huge planes like these, which can sometimes carry more than 500 passengers, [[00:04:26](https://www.youtube.com/watch?v=u4kVq9abmDE&t=266.88s)]
+*  have become difficult to fill as few people are flying around the world, [[00:04:31](https://www.youtube.com/watch?v=u4kVq9abmDE&t=271.84s)]
+*  and Boeing has said it will stop producing the 747 altogether in 2022. [[00:04:35](https://www.youtube.com/watch?v=u4kVq9abmDE&t=275.68s)]
+*  The 747 is an expensive plane to fly. [[00:04:41](https://www.youtube.com/watch?v=u4kVq9abmDE&t=281.59999999999997s)]
+*  Four engines are always more expensive than two engines. [[00:04:44](https://www.youtube.com/watch?v=u4kVq9abmDE&t=284.56s)]
+*  And the reality is the bigger, older planes are the ones that don't make sense anymore. [[00:04:48](https://www.youtube.com/watch?v=u4kVq9abmDE&t=288.32s)]
+*  But it's not just a matter of cost. [[00:04:54](https://www.youtube.com/watch?v=u4kVq9abmDE&t=294.15999999999997s)]
+*  The retirement of so many 747s is a huge burden. [[00:04:56](https://www.youtube.com/watch?v=u4kVq9abmDE&t=296.64s)]
+*  The retirement of so many 747s reveals a much deeper change. [[00:05:00](https://www.youtube.com/watch?v=u4kVq9abmDE&t=300.56s)]
+*  The aircraft was designed and has been used most recently [[00:05:05](https://www.youtube.com/watch?v=u4kVq9abmDE&t=305.36s)]
+*  with quite large proportions of first and business class seats. [[00:05:09](https://www.youtube.com/watch?v=u4kVq9abmDE&t=309.36s)]
+*  Now, the one thing that is not coming back, [[00:05:13](https://www.youtube.com/watch?v=u4kVq9abmDE&t=313.2s)]
+*  and is certainly not coming back quickly, is corporate demand. [[00:05:15](https://www.youtube.com/watch?v=u4kVq9abmDE&t=315.6s)]
+*  Delta CEO Ed Bastion told Analyst he didn't expect corporate flying [[00:05:18](https://www.youtube.com/watch?v=u4kVq9abmDE&t=318.32s)]
+*  to ever recover to its pre-pandemic level. [[00:05:22](https://www.youtube.com/watch?v=u4kVq9abmDE&t=322.96s)]
+*  You can often cover the cost of a flight just filling the business class seats [[00:05:26](https://www.youtube.com/watch?v=u4kVq9abmDE&t=326.32s)]
+*  and the health and coach is profit. [[00:05:30](https://www.youtube.com/watch?v=u4kVq9abmDE&t=330.48s)]
+*  But if that's not the case, if business travel doesn't come back, then what do you do? [[00:05:33](https://www.youtube.com/watch?v=u4kVq9abmDE&t=333.12s)]
+*  In just a few months, what had been a steadily growing sector for decades [[00:05:39](https://www.youtube.com/watch?v=u4kVq9abmDE&t=339.6s)]
+*  has become a huge loss making business for airlines. [[00:05:44](https://www.youtube.com/watch?v=u4kVq9abmDE&t=344.16s)]
+*  And the choices they make now will likely change the way we fly for years to come. [[00:05:47](https://www.youtube.com/watch?v=u4kVq9abmDE&t=347.76s)]
+*  Do they have the confidence that they're going to call it correctly? [[00:05:52](https://www.youtube.com/watch?v=u4kVq9abmDE&t=352.96000000000004s)]
+*  Do we know what's going to happen in the future? [[00:05:56](https://www.youtube.com/watch?v=u4kVq9abmDE&t=356.08000000000004s)]
+*  It would be a brave call for any airline to make such a dramatic [[00:05:58](https://www.youtube.com/watch?v=u4kVq9abmDE&t=358.79999999999995s)]
+*  change of position in the market so quickly. [[00:06:03](https://www.youtube.com/watch?v=u4kVq9abmDE&t=363.84s)]

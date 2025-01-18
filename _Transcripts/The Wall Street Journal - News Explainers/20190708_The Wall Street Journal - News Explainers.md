@@ -1,0 +1,83 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 249s
+Video Keywords: ['GENERAL MOTORS', 'FORD EUROPE', 'GENERAL MOTORS EUROPE', 'CHEVROLET SUBURBAN', 'CHEVROLET SILVERADO', 'EUROPEAN EMISSIONS', 'Vehicle Sales', 'ford', 'GM', 'chrysler', 'ford and gm europe', 'american cars', 'us cars in europe', 'chevy', 'chevrolet', 'chevy suburban', 'ford f150', 'ford europe', 'chevy silverado', 'american cars in europe', 'international trade', 'wsj', 'the wall street journal', 'wsj explainer', 'wsj explains', 'general motors', '2019 chevrolet silverado', '2019 chevy silverado', 'ford f-150', 'ford international', 'gm']
+Video Views: 55946
+Video Rating: None
+Video Description: Decades after expanding to Europe, Ford and General Motors have both scaled back in the region, in part to gravitate back to their sweet spot: trucks and SUVs. WSJ explains why the two U.S. auto giants struggled to turn a profit in the European market. 
+
+Photo composite: Heather Seidel/The Wall Street Journal
+
+#WSJ #Ford #GM
+---
+
+# Why Ford and GM Scaled Back in Europe  WSJ
+**The Wall Street Journal - News Explainers:** [July 08, 2019](https://www.youtube.com/watch?v=TN92O1zLhbo)
+*  Take a look at this map. [[00:00:00](https://www.youtube.com/watch?v=TN92O1zLhbo&t=0.0s)]
+*  It shows 23 plans that Ford has in Europe from the UK to Russia. [[00:00:04](https://www.youtube.com/watch?v=TN92O1zLhbo&t=4.36s)]
+*  But recently, Ford laid out plans to cut six of these European factories. [[00:00:09](https://www.youtube.com/watch?v=TN92O1zLhbo&t=9.44s)]
+*  So six of them, they're going to sell one, they're closing several, they're going to [[00:00:14](https://www.youtube.com/watch?v=TN92O1zLhbo&t=14.08s)]
+*  lay off about 20 percent of their workforce there, which is about 12,000 people. [[00:00:17](https://www.youtube.com/watch?v=TN92O1zLhbo&t=17.080000000000002s)]
+*  But Ford is not the only U.S. automaker that's scaling back in Europe. [[00:00:23](https://www.youtube.com/watch?v=TN92O1zLhbo&t=23.2s)]
+*  Two years ago, General Motors pulled out of the market almost entirely, selling their [[00:00:27](https://www.youtube.com/watch?v=TN92O1zLhbo&t=27.44s)]
+*  European brands to French carmaker Peugeot. [[00:00:32](https://www.youtube.com/watch?v=TN92O1zLhbo&t=32.22s)]
+*  Both companies expanded to Europe decades ago as a wider strategy to scale globally. [[00:00:35](https://www.youtube.com/watch?v=TN92O1zLhbo&t=35.68s)]
+*  But they both had trouble making money in the region. [[00:00:41](https://www.youtube.com/watch?v=TN92O1zLhbo&t=41.120000000000005s)]
+*  Let's take a look at these two charts. [[00:00:44](https://www.youtube.com/watch?v=TN92O1zLhbo&t=44.72s)]
+*  This one shows Ford's operating costs in Europe over the past six years. [[00:00:46](https://www.youtube.com/watch?v=TN92O1zLhbo&t=46.92s)]
+*  The gray is profits overall, and the red is profits in Europe. [[00:00:51](https://www.youtube.com/watch?v=TN92O1zLhbo&t=51.040000000000006s)]
+*  Now let's go to GM. [[00:00:56](https://www.youtube.com/watch?v=TN92O1zLhbo&t=56.28s)]
+*  This chart shows GM's losses in Europe over the 20 years before they pulled out of the region. [[00:00:58](https://www.youtube.com/watch?v=TN92O1zLhbo&t=58.24s)]
+*  So why has it been so hard for these two automakers to turn a profit in the European market? [[00:01:04](https://www.youtube.com/watch?v=TN92O1zLhbo&t=64.0s)]
+*  So the first reason is that Europe's always been a really tough market. [[00:01:11](https://www.youtube.com/watch?v=TN92O1zLhbo&t=71.48s)]
+*  Ford and GM have always been sort of middle of the pack there. [[00:01:15](https://www.youtube.com/watch?v=TN92O1zLhbo&t=75.56s)]
+*  I mean, the real powerhouses are Volkswagen, Renault, Peugeot. [[00:01:18](https://www.youtube.com/watch?v=TN92O1zLhbo&t=78.32s)]
+*  And when you're sort of a middling player in Europe, when you already have small profit [[00:01:22](https://www.youtube.com/watch?v=TN92O1zLhbo&t=82.5s)]
+*  margins, it just makes life a lot harder for the U.S. brands. [[00:01:26](https://www.youtube.com/watch?v=TN92O1zLhbo&t=86.54s)]
+*  GM is making a decision to only compete in markets where they're the number one or number [[00:01:29](https://www.youtube.com/watch?v=TN92O1zLhbo&t=89.9s)]
+*  two operator. [[00:01:34](https://www.youtube.com/watch?v=TN92O1zLhbo&t=94.42s)]
+*  And so they felt like they've lost money there for 20 years and they didn't want to continue [[00:01:35](https://www.youtube.com/watch?v=TN92O1zLhbo&t=95.9s)]
+*  to do that. [[00:01:40](https://www.youtube.com/watch?v=TN92O1zLhbo&t=100.18s)]
+*  And while GM has largely pulled away from Europe, Ford is looking to scale back and [[00:01:41](https://www.youtube.com/watch?v=TN92O1zLhbo&t=101.18s)]
+*  shift focus. [[00:01:45](https://www.youtube.com/watch?v=TN92O1zLhbo&t=105.02s)]
+*  What's behind this is a change in business strategy. [[00:01:46](https://www.youtube.com/watch?v=TN92O1zLhbo&t=106.62s)]
+*  They're selling fewer sort of passenger cars to individual buyers and they're focusing [[00:01:48](https://www.youtube.com/watch?v=TN92O1zLhbo&t=108.86s)]
+*  more on the commercial market where they're strong, which is cargo vans and trucks to [[00:01:52](https://www.youtube.com/watch?v=TN92O1zLhbo&t=112.76s)]
+*  business buyers and governments. [[00:01:57](https://www.youtube.com/watch?v=TN92O1zLhbo&t=117.62s)]
+*  Bigger vehicles generally equate to bigger margins. [[00:02:00](https://www.youtube.com/watch?v=TN92O1zLhbo&t=120.22s)]
+*  There's less competition. [[00:02:03](https://www.youtube.com/watch?v=TN92O1zLhbo&t=123.5s)]
+*  They're the number one commercial van automaker there. [[00:02:04](https://www.youtube.com/watch?v=TN92O1zLhbo&t=124.5s)]
+*  So they already are more profitable in that space. [[00:02:08](https://www.youtube.com/watch?v=TN92O1zLhbo&t=128.6s)]
+*  And they feel like if they focus on growing that, they could boost margins even more. [[00:02:12](https://www.youtube.com/watch?v=TN92O1zLhbo&t=132.12s)]
+*  The second reason U.S. automakers are scaling back has to do with Europe's tight environmental [[00:02:17](https://www.youtube.com/watch?v=TN92O1zLhbo&t=137.48s)]
+*  rules. [[00:02:22](https://www.youtube.com/watch?v=TN92O1zLhbo&t=142.04s)]
+*  Another big factor that GM talked about a lot when it pulled out was emission standards. [[00:02:23](https://www.youtube.com/watch?v=TN92O1zLhbo&t=143.04s)]
+*  Europe has some of the most stringent in the world and they're only going to get tougher [[00:02:27](https://www.youtube.com/watch?v=TN92O1zLhbo&t=147.16s)]
+*  and that's going to cost a lot of money for the car companies to comply because they're [[00:02:31](https://www.youtube.com/watch?v=TN92O1zLhbo&t=151.33999999999997s)]
+*  going to have to invest in hybrids and battery electric cars. [[00:02:35](https://www.youtube.com/watch?v=TN92O1zLhbo&t=155.23999999999998s)]
+*  It's mostly battery technology, battery cells. [[00:02:39](https://www.youtube.com/watch?v=TN92O1zLhbo&t=159.88s)]
+*  The costs have come down some, but most experts think we're still six, eight, ten years out [[00:02:43](https://www.youtube.com/watch?v=TN92O1zLhbo&t=163.04s)]
+*  from electric car being sort of unparity cost wise with a gas powered car. [[00:02:49](https://www.youtube.com/watch?v=TN92O1zLhbo&t=169.22s)]
+*  The last major reason is that Ford and GM are gravitating back to their sweet spot SUVs [[00:02:55](https://www.youtube.com/watch?v=TN92O1zLhbo&t=175.44s)]
+*  and trucks. [[00:03:00](https://www.youtube.com/watch?v=TN92O1zLhbo&t=180.72s)]
+*  I mean, these U.S. car companies are really good at making big SUVs and big pickup trucks. [[00:03:01](https://www.youtube.com/watch?v=TN92O1zLhbo&t=181.72s)]
+*  I mean, Ford's the best selling truck in the U.S. is Ford's F-150. [[00:03:06](https://www.youtube.com/watch?v=TN92O1zLhbo&t=186.6s)]
+*  It has been for years and years. [[00:03:10](https://www.youtube.com/watch?v=TN92O1zLhbo&t=190.68s)]
+*  GM sells the Chevy Silverado and the Chevy Suburban. [[00:03:12](https://www.youtube.com/watch?v=TN92O1zLhbo&t=192.8s)]
+*  These are huge vehicles that aren't sold in Europe. [[00:03:16](https://www.youtube.com/watch?v=TN92O1zLhbo&t=196.72s)]
+*  The gas prices are too expensive. [[00:03:20](https://www.youtube.com/watch?v=TN92O1zLhbo&t=200.28s)]
+*  The streets are narrower. [[00:03:23](https://www.youtube.com/watch?v=TN92O1zLhbo&t=203.12s)]
+*  People don't have as many big garages like we do in the U.S. [[00:03:25](https://www.youtube.com/watch?v=TN92O1zLhbo&t=205.22s)]
+*  And so, I mean, that's what Detroit has focused on. [[00:03:28](https://www.youtube.com/watch?v=TN92O1zLhbo&t=208.20000000000002s)]
+*  That's where they make virtually all their money. [[00:03:30](https://www.youtube.com/watch?v=TN92O1zLhbo&t=210.68s)]
+*  And that's why they've never really been all that great at making small cars. [[00:03:32](https://www.youtube.com/watch?v=TN92O1zLhbo&t=212.96s)]
+*  And the European brands have a big advantage over the U.S. brands there. [[00:03:36](https://www.youtube.com/watch?v=TN92O1zLhbo&t=216.68s)]
+*  So they're playing to their strength. [[00:03:40](https://www.youtube.com/watch?v=TN92O1zLhbo&t=220.56s)]
+*  Companies like GM and Ford, for decades they tried to build scale not only in Europe and [[00:03:42](https://www.youtube.com/watch?v=TN92O1zLhbo&t=222.4s)]
+*  all around the world because it's a really capital intensive business and you need scale. [[00:03:47](https://www.youtube.com/watch?v=TN92O1zLhbo&t=227.28s)]
+*  And now what you're seeing is they've got other needs to spend that capital elsewhere, [[00:03:51](https://www.youtube.com/watch?v=TN92O1zLhbo&t=231.72s)]
+*  electric vehicles, autonomous vehicles. [[00:03:55](https://www.youtube.com/watch?v=TN92O1zLhbo&t=235.64000000000001s)]
+*  So they realize it can't be all things to all people in all markets and they've got [[00:03:57](https://www.youtube.com/watch?v=TN92O1zLhbo&t=237.4s)]
+*  to pick their battles. [[00:04:01](https://www.youtube.com/watch?v=TN92O1zLhbo&t=241.12s)]
+*  They've got to choose where they're going to spend their money. [[00:04:02](https://www.youtube.com/watch?v=TN92O1zLhbo&t=242.12s)]

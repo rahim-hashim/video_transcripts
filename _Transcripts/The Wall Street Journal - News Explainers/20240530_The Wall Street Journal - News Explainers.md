@@ -1,0 +1,123 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 357s
+Video Keywords: ['donald trump', 'trump news', 'hush money case', 'trump hush money', 'us news', 'us politics', 'trump guilty', 'trump found guilty', 'former president', 'hush money trial', 'conviction', 'acquittal', 'trump update', 'mistrial', 'stormy daniels', 'michael cohen', 'donald trump news', 'porn star stormy daniels', 'felony charges', 'manhattan jury', '2024 election', 'falsifying business records', 'national enquirer', 'david pecker', 'cohen news', 'testimony', 'cohen testify', 'star witness', 'trump convicted', 'trump mistrial', 'usnews']
+Video Views: 180710
+Video Rating: None
+Video Description: Former president Donald Trump was found guilty of covering up a hush-money payment to porn star Stormy Daniels after a five-week trial. 
+
+WSJ’s Corinne Ramey explains how prosecutors successfully laid out their case.
+
+Chapters:
+0:00 Donald Trump found guilty
+0:27 Trial recap
+4:43 Verdict and sentencing
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Trump #Guilty #WSJ
+---
+
+# Trump Found Guilty Key Trial Moments That Led to Hush-Money Conviction  WSJ
+**The Wall Street Journal - News Explainers:** [May 30, 2024](https://www.youtube.com/watch?v=8H01qQ1IODE)
+*  Donald Trump was found guilty of felony charges for his role in covering up a hush money payment [[00:00:00](https://www.youtube.com/watch?v=8H01qQ1IODE&t=0.0s)]
+*  to porn star Stormy Daniels. [[00:00:06](https://www.youtube.com/watch?v=8H01qQ1IODE&t=6.2s)]
+*  Mother Teresa could not beat these charges. [[00:00:07](https://www.youtube.com/watch?v=8H01qQ1IODE&t=7.96s)]
+*  These charges are rigged. [[00:00:10](https://www.youtube.com/watch?v=8H01qQ1IODE&t=10.96s)]
+*  The whole thing is rigged. [[00:00:12](https://www.youtube.com/watch?v=8H01qQ1IODE&t=12.96s)]
+*  WSJ's courts reporter Corinne Raimi watched it all unfold inside the courtroom. [[00:00:14](https://www.youtube.com/watch?v=8H01qQ1IODE&t=14.48s)]
+*  She walks us through key moments from the trial and explains what the verdict means [[00:00:19](https://www.youtube.com/watch?v=8H01qQ1IODE&t=19.64s)]
+*  for Trump. [[00:00:23](https://www.youtube.com/watch?v=8H01qQ1IODE&t=23.52s)]
+*  The center of the charges against Trump were dozens of documents, including 11 checks, [[00:00:27](https://www.youtube.com/watch?v=8H01qQ1IODE&t=27.88s)]
+*  11 invoices, and 12 entries in Trump's general ledger. [[00:00:32](https://www.youtube.com/watch?v=8H01qQ1IODE&t=32.56s)]
+*  This was ultimately not a trial about an affair. [[00:00:35](https://www.youtube.com/watch?v=8H01qQ1IODE&t=35.8s)]
+*  It was a trial about business documents and a cover-up, right? [[00:00:38](https://www.youtube.com/watch?v=8H01qQ1IODE&t=38.56s)]
+*  Absolutely. [[00:00:41](https://www.youtube.com/watch?v=8H01qQ1IODE&t=41.44s)]
+*  Trump was charged with 34 counts of falsifying business records. [[00:00:42](https://www.youtube.com/watch?v=8H01qQ1IODE&t=42.44s)]
+*  Falsifying business records in New York is a misdemeanor. [[00:00:47](https://www.youtube.com/watch?v=8H01qQ1IODE&t=47.2s)]
+*  But here it's a felony because prosecutors had to show that Trump was seeking to commit [[00:00:49](https://www.youtube.com/watch?v=8H01qQ1IODE&t=49.6s)]
+*  or conceal a second crime. [[00:00:55](https://www.youtube.com/watch?v=8H01qQ1IODE&t=55.72s)]
+*  Prosecutors argued that the reason Trump falsified business records was to cover up a conspiracy [[00:00:58](https://www.youtube.com/watch?v=8H01qQ1IODE&t=58.519999999999996s)]
+*  to illegally promote his election to the presidency. [[00:01:02](https://www.youtube.com/watch?v=8H01qQ1IODE&t=62.76s)]
+*  A conspiracy, they said, that involved Trump, his fixer Michael Cohen, and the publisher [[00:01:06](https://www.youtube.com/watch?v=8H01qQ1IODE&t=66.24s)]
+*  of the National Enquirer, David Pecker, who worked together to catch and kill stories [[00:01:10](https://www.youtube.com/watch?v=8H01qQ1IODE&t=70.84s)]
+*  damaging to Trump's campaign, like the story about an alleged affair with porn star Stormy [[00:01:15](https://www.youtube.com/watch?v=8H01qQ1IODE&t=75.28s)]
+*  who Cohen paid $130,000 to silence in the final days of the 2016 campaign. [[00:01:20](https://www.youtube.com/watch?v=8H01qQ1IODE&t=80.82s)]
+*  Trump has denied the affair. [[00:01:26](https://www.youtube.com/watch?v=8H01qQ1IODE&t=86.97999999999999s)]
+*  The prosecution kicked things off by calling Pecker to the stand to outline the conspiracy. [[00:01:30](https://www.youtube.com/watch?v=8H01qQ1IODE&t=90.53999999999999s)]
+*  They establish not only is there a conspiracy, but there's a specific moment when this supposedly [[00:01:35](https://www.youtube.com/watch?v=8H01qQ1IODE&t=95.22s)]
+*  begins. [[00:01:41](https://www.youtube.com/watch?v=8H01qQ1IODE&t=101.17999999999999s)]
+*  So they have this meeting. [[00:01:42](https://www.youtube.com/watch?v=8H01qQ1IODE&t=102.17999999999999s)]
+*  Then here we have Pecker talking about how he is Trump's eyes and ears. [[00:01:43](https://www.youtube.com/watch?v=8H01qQ1IODE&t=103.17999999999999s)]
+*  And here we have sort of him defining the catch and kill scheme. [[00:01:48](https://www.youtube.com/watch?v=8H01qQ1IODE&t=108.62s)]
+*  He says, I'd notify Michael Cohen, and then he would be able to have them kill in another [[00:01:51](https://www.youtube.com/watch?v=8H01qQ1IODE&t=111.98s)]
+*  magazine or have them not be published or somebody would have to purchase them. [[00:01:55](https://www.youtube.com/watch?v=8H01qQ1IODE&t=115.98s)]
+*  Pecker also testified that he helped buy and kill two stories that could be damaging to [[00:02:00](https://www.youtube.com/watch?v=8H01qQ1IODE&t=120.30000000000001s)]
+*  Trump in order to help Trump's campaign. [[00:02:04](https://www.youtube.com/watch?v=8H01qQ1IODE&t=124.34s)]
+*  After establishing the conspiracy, prosecutors called Hope Hicks, Trump's former communications [[00:02:07](https://www.youtube.com/watch?v=8H01qQ1IODE&t=127.66000000000001s)]
+*  director, and they took jurors back to the weeks before the 2016 election. [[00:02:12](https://www.youtube.com/watch?v=8H01qQ1IODE&t=132.06s)]
+*  Hope Hicks was important because she talked about how the campaign was in crisis mode [[00:02:16](https://www.youtube.com/watch?v=8H01qQ1IODE&t=136.62s)]
+*  in responding to the Access Hollywood tape. [[00:02:21](https://www.youtube.com/watch?v=8H01qQ1IODE&t=141.9s)]
+*  I don't even wait. [[00:02:24](https://www.youtube.com/watch?v=8H01qQ1IODE&t=144.02s)]
+*  And when you're a star, they let you do it. [[00:02:25](https://www.youtube.com/watch?v=8H01qQ1IODE&t=145.02s)]
+*  You can do anything. [[00:02:27](https://www.youtube.com/watch?v=8H01qQ1IODE&t=147.26000000000002s)]
+*  Whatever you want. [[00:02:28](https://www.youtube.com/watch?v=8H01qQ1IODE&t=148.26000000000002s)]
+*  Grab them by the pussy. [[00:02:29](https://www.youtube.com/watch?v=8H01qQ1IODE&t=149.26000000000002s)]
+*  She explained to the jury why the hush money payment was really responding to this crisis [[00:02:30](https://www.youtube.com/watch?v=8H01qQ1IODE&t=150.26000000000002s)]
+*  within the campaign and was not made for purposes of Melania or Trump's family. [[00:02:35](https://www.youtube.com/watch?v=8H01qQ1IODE&t=155.78s)]
+*  Then the prosecution called porn star Stormy Daniels. [[00:02:42](https://www.youtube.com/watch?v=8H01qQ1IODE&t=162.62s)]
+*  Were you expecting Stormy Daniels to take the stand? [[00:02:46](https://www.youtube.com/watch?v=8H01qQ1IODE&t=166.18s)]
+*  This was a real unknown going into the trial. [[00:02:48](https://www.youtube.com/watch?v=8H01qQ1IODE&t=168.58s)]
+*  We didn't know if Stormy would take the stand. [[00:02:50](https://www.youtube.com/watch?v=8H01qQ1IODE&t=170.58s)]
+*  In some ways, she's tangential to the case. [[00:02:52](https://www.youtube.com/watch?v=8H01qQ1IODE&t=172.38s)]
+*  Her testimony absolutely mattered. [[00:02:55](https://www.youtube.com/watch?v=8H01qQ1IODE&t=175.54000000000002s)]
+*  What didn't matter was whether that 2006 alleged sexual encounter happened. [[00:02:57](https://www.youtube.com/watch?v=8H01qQ1IODE&t=177.5s)]
+*  It doesn't matter if Trump and Stormy had sex. [[00:03:03](https://www.youtube.com/watch?v=8H01qQ1IODE&t=183.66s)]
+*  What matters is that Stormy was trying to sell her story. [[00:03:06](https://www.youtube.com/watch?v=8H01qQ1IODE&t=186.38s)]
+*  And I think when she was on the stand, the jurors saw what that story looked like. [[00:03:09](https://www.youtube.com/watch?v=8H01qQ1IODE&t=189.98000000000002s)]
+*  Throughout the trial, the jury also heard about Trump as a businessman from former staffers [[00:03:14](https://www.youtube.com/watch?v=8H01qQ1IODE&t=194.66s)]
+*  and also from books he wrote. [[00:03:19](https://www.youtube.com/watch?v=8H01qQ1IODE&t=199.1s)]
+*  He writes, as I said before, I always sign my checks so I know where my money's going. [[00:03:21](https://www.youtube.com/watch?v=8H01qQ1IODE&t=201.34s)]
+*  That helped establish a pattern to show that Trump was a micromanager of his business dealings. [[00:03:27](https://www.youtube.com/watch?v=8H01qQ1IODE&t=207.3s)]
+*  Finally, the prosecution called its star witness. [[00:03:32](https://www.youtube.com/watch?v=8H01qQ1IODE&t=212.74s)]
+*  Michael Cohen is an extremely flawed witness. [[00:03:37](https://www.youtube.com/watch?v=8H01qQ1IODE&t=217.26s)]
+*  How did the prosecution set him up so that he was ultimately believable to the jury? [[00:03:40](https://www.youtube.com/watch?v=8H01qQ1IODE&t=220.42s)]
+*  Well before Michael Cohen even walked in that room, I think those jurors felt like they [[00:03:45](https://www.youtube.com/watch?v=8H01qQ1IODE&t=225.66s)]
+*  already had met Michael Cohen. [[00:03:49](https://www.youtube.com/watch?v=8H01qQ1IODE&t=229.33999999999997s)]
+*  And they had established, before he even got on the stand, why all of what Cohen said made [[00:03:51](https://www.youtube.com/watch?v=8H01qQ1IODE&t=231.29999999999998s)]
+*  sense, corroborated much of it with other witnesses, that the jurors essentially didn't [[00:03:56](https://www.youtube.com/watch?v=8H01qQ1IODE&t=236.7s)]
+*  need to take any kind of leap of faith to believe Cohen or in the instances when nobody [[00:04:02](https://www.youtube.com/watch?v=8H01qQ1IODE&t=242.7s)]
+*  else could speak to what Cohen could speak to, they were set up to believe him. [[00:04:08](https://www.youtube.com/watch?v=8H01qQ1IODE&t=248.98s)]
+*  So let's look at what some of Cohen actually said in court. [[00:04:13](https://www.youtube.com/watch?v=8H01qQ1IODE&t=253.22s)]
+*  First, he said Trump directed the hush money payment to begin with, right? [[00:04:15](https://www.youtube.com/watch?v=8H01qQ1IODE&t=255.78s)]
+*  He did. [[00:04:20](https://www.youtube.com/watch?v=8H01qQ1IODE&t=260.18s)]
+*  And he said Trump said to him, just do it. [[00:04:21](https://www.youtube.com/watch?v=8H01qQ1IODE&t=261.18s)]
+*  And then there's testimony about Cohen trying to get his money back. [[00:04:24](https://www.youtube.com/watch?v=8H01qQ1IODE&t=264.02s)]
+*  Yes. [[00:04:27](https://www.youtube.com/watch?v=8H01qQ1IODE&t=267.46s)]
+*  And Trump's sitting right there and the prosecutor says, what did Trump do or something to that [[00:04:28](https://www.youtube.com/watch?v=8H01qQ1IODE&t=268.46s)]
+*  effect? [[00:04:34](https://www.youtube.com/watch?v=8H01qQ1IODE&t=274.09999999999997s)]
+*  And Cohen says, he approved it. [[00:04:35](https://www.youtube.com/watch?v=8H01qQ1IODE&t=275.09999999999997s)]
+*  And that's really important because it goes to the heart of Trump having a role in the [[00:04:36](https://www.youtube.com/watch?v=8H01qQ1IODE&t=276.18s)]
+*  creation of those false documents. [[00:04:41](https://www.youtube.com/watch?v=8H01qQ1IODE&t=281.5s)]
+*  Ultimately, the jury found that Trump falsified business documents to pay Cohen back for his [[00:04:43](https://www.youtube.com/watch?v=8H01qQ1IODE&t=283.5s)]
+*  $130,000 payment to Stormy Daniels, disguising the reimbursement payments as money for a [[00:04:48](https://www.youtube.com/watch?v=8H01qQ1IODE&t=288.58000000000004s)]
+*  legal retainer. [[00:04:54](https://www.youtube.com/watch?v=8H01qQ1IODE&t=294.22s)]
+*  Why didn't Trump testify? [[00:04:55](https://www.youtube.com/watch?v=8H01qQ1IODE&t=295.58000000000004s)]
+*  Defense attorneys typically advise their clients not to testify. [[00:04:57](https://www.youtube.com/watch?v=8H01qQ1IODE&t=297.58000000000004s)]
+*  It's really, really risky. [[00:05:00](https://www.youtube.com/watch?v=8H01qQ1IODE&t=300.8s)]
+*  It's a little bit of a Hail Mary move. [[00:05:01](https://www.youtube.com/watch?v=8H01qQ1IODE&t=301.8s)]
+*  And if Trump had gotten on that stand, prosecutors could have asked him about all kinds of things. [[00:05:04](https://www.youtube.com/watch?v=8H01qQ1IODE&t=304.46s)]
+*  The verdict made Trump the first former U.S. president ever convicted of a crime. [[00:05:10](https://www.youtube.com/watch?v=8H01qQ1IODE&t=310.46s)]
+*  Next, Trump will be sentenced by Justice Juan Marchand. [[00:05:15](https://www.youtube.com/watch?v=8H01qQ1IODE&t=315.02s)]
+*  What are the possibilities when it comes to sentencing? [[00:05:18](https://www.youtube.com/watch?v=8H01qQ1IODE&t=318.53999999999996s)]
+*  It's got a full menu of possibilities. [[00:05:21](https://www.youtube.com/watch?v=8H01qQ1IODE&t=321.02s)]
+*  Probation, he could give him a jail sentence. [[00:05:23](https://www.youtube.com/watch?v=8H01qQ1IODE&t=323.34s)]
+*  He could give him essentially no sentence at all as long as he doesn't commit another [[00:05:25](https://www.youtube.com/watch?v=8H01qQ1IODE&t=325.94s)]
+*  crime. [[00:05:31](https://www.youtube.com/watch?v=8H01qQ1IODE&t=331.46s)]
+*  Trump, who faces three other criminal indictments in separate cases, has denied wrongdoing [[00:05:32](https://www.youtube.com/watch?v=8H01qQ1IODE&t=332.46s)]
+*  and has painted the trial as a politically motivated sham. [[00:05:36](https://www.youtube.com/watch?v=8H01qQ1IODE&t=336.82s)]
+*  Trump has plenty of legal issues to grapple with as he campaigns. [[00:05:40](https://www.youtube.com/watch?v=8H01qQ1IODE&t=340.29999999999995s)]
+*  How all of this plays out is really up in the air if he becomes president because it's [[00:05:44](https://www.youtube.com/watch?v=8H01qQ1IODE&t=344.02s)]
+*  unprecedented. [[00:05:49](https://www.youtube.com/watch?v=8H01qQ1IODE&t=349.09999999999997s)]

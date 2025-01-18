@@ -1,0 +1,97 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 412s
+Video Keywords: ['amd', 'intel', 'amd vs intel', 'amd ryzen', 'ryzen', 'amd ryzen explained', 'intel vs amd', 'amd news', 'intel news', 'intel inside', 'the rise of amd', 'amd explained', 'amd vs intel explained', 'intel explained', 'amd gpu', 'gpu', 'intel gpu', 'amd chips', 'intel chips', 'chips', 'computer chip', 'processor', 'semiconductor', 'computer chip market', 'computer science', 'gaming', 'gaming chip', 'computers', 'desktop', 'video games', 'how amd beat intel', 'amd company', 'amd business strategy', 'business strategy', 'amd business model', 'techy']
+Video Views: 737641
+Video Rating: None
+Video Description: Intel has ruled the market for central processing units since the 1980s. But rival AMD overtook Intel in market value last year, thanks in part to an expensive bet on chip design.
+
+WSJ’s Asa Fitch explains the companies’ battle for the brains of your computer.
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#AMD #Intel #WSJ
+---
+
+# It Took 53 Years for AMD to Beat Intel. Here's Why.  WSJ
+**The Wall Street Journal - News Explainers:** [January 30, 2023](https://www.youtube.com/watch?v=dhv1Ss1aSMU)
+*  Computer chips probably make you think of this. [[00:00:00](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=0.0s)]
+*  Since it was founded in 1968, Intel has dominated the chip market. [[00:00:08](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=8.0s)]
+*  This symbol outside means you have the standard inside. [[00:00:12](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=12.48s)]
+*  It was the world's largest chip maker by revenue for 25 years. [[00:00:16](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=16.56s)]
+*  And it's still America's largest chip company by sales. [[00:00:20](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=20.84s)]
+*  Intel. [[00:00:24](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=24.12s)]
+*  But then came AMD. [[00:00:25](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=25.28s)]
+*  In 2022, the longtime rival took Intel's top spot in market value, reaching a market cap of over $200 billion. [[00:00:27](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=27.48s)]
+*  It was the first time that ever happened. [[00:00:35](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=35.6s)]
+*  In part, this recent achievement can be traced back to one risky and expensive decision AMD made that changed the game not just for the company, but for computing. [[00:00:37](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=37.68s)]
+*  So how did AMD finally catch up to Intel? [[00:00:48](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=48.24s)]
+*  July 1968, Silicon Valley. [[00:00:52](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=52.36s)]
+*  A small group of engineers founded Intel, a startup dedicated to chips, which are essentially the brains of a computer. [[00:00:55](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=55.64s)]
+*  Intel prioritized development from the start and didn't report any sales in the first six months. [[00:01:02](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=62.96s)]
+*  Meanwhile, 20 minutes down the road and 10 months later, a former co-worker of those engineers founded AMD or Advanced Micro Devices. [[00:01:08](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=68.76s)]
+*  AMD was making chips that Intel had already made, focusing more on keeping up than getting ahead. [[00:01:18](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=78.48s)]
+*  Then in 1970, Intel came out with this, the first semiconductor memory chip. [[00:01:25](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=85.04s)]
+*  A year later, it was the best selling semiconductor device in the world. [[00:01:30](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=90.52000000000001s)]
+*  AMD's hardware didn't sell the same way. [[00:01:34](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=94.68s)]
+*  AMD really came up as kind of an Intel copycat company that was making alternatives to Intel chips, maybe a little bit cheaper and things like that. [[00:01:37](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=97.4s)]
+*  So they kind of came in second in a lot of ways to Intel, especially when it came to CPUs and the rise of CPUs. [[00:01:44](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=104.64s)]
+*  CPUs are central processing units, basically chips that solve problems. [[00:01:51](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=111.96000000000001s)]
+*  Here's how they work. First, the base, a flat piece of silicon. [[00:01:57](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=117.12s)]
+*  Silicon is a semiconductor, which means it's conductive, but can be made more conductive by adding other materials like phosphorus or boron. [[00:02:01](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=121.2s)]
+*  On that silicon piece, there's a pathway of transistors, which turn currents on and off. [[00:02:10](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=130.44s)]
+*  These strings of electronic blips read as one or zero and come together as binary information. [[00:02:16](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=136.20000000000002s)]
+*  That information goes through this, a core. [[00:02:22](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=142.88s)]
+*  In simplified terms, the core takes in a problem and shoots out an answer. [[00:02:26](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=146.12s)]
+*  Those answers help determine how to respond to requests like opening a web page or sending an email. [[00:02:30](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=150.56s)]
+*  If the chip is the main brain, the core is like a tiny second brain. [[00:02:37](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=157.0s)]
+*  By 1971, Intel released the first programmable microprocessor, another success. [[00:02:41](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=161.96s)]
+*  The company churned out new chip after new chip, creating industry standard after industry standard. [[00:02:48](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=168.16s)]
+*  Back in those times, it was able to put together this combination of marketing itself well and creating some of the world's best technology to become the powerhouse that it became back then. [[00:02:54](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=174.6s)]
+*  By 1997, Intel chips served as the brains of 84 percent of the world's computers. [[00:03:05](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=185.2s)]
+*  It had 10 times AMD sales and six times its manufacturing capacity. [[00:03:11](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=191.16s)]
+*  Now anyone can have all the brain power they want. [[00:03:15](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=195.76s)]
+*  Just look for a PC with an Intel processor inside. [[00:03:18](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=198.2s)]
+*  Going into the new millennium, AMD's market value lagged behind Intel's. [[00:03:20](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=200.96s)]
+*  Fast forward to late 2014, when the company tasked new CEO Lisa Su with turning things around. [[00:03:26](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=206.16s)]
+*  Before Su's tenure, the company had fought off rumors it would be sold and laid off workers. [[00:03:32](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=212.84s)]
+*  So behind the scenes, Su began working on a new innovation. [[00:03:38](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=218.60000000000002s)]
+*  I hope you guys have your money ready. [[00:03:42](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=222.60000000000002s)]
+*  We've made plenty of processors. [[00:03:44](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=224.36s)]
+*  AMD released a new design for their high performance chips that beat many of Intel's benchmarks. [[00:03:46](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=226.4s)]
+*  First, the transistors were organized in a new way on the chips called Zen architecture. [[00:03:52](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=232.16000000000003s)]
+*  At the same time, AMD rethought how chips themselves were made. [[00:03:58](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=238.36s)]
+*  Intel had been focusing on making a single CPU answer questions really, really fast. [[00:04:02](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=242.48000000000002s)]
+*  AMD decided that for some of its chips, it moved to chiplets. [[00:04:08](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=248.16000000000003s)]
+*  Instead of having one big silicon chip, there were multiple small chips in the same package, [[00:04:12](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=252.52s)]
+*  connected together and acting like one CPU. [[00:04:17](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=257.40000000000003s)]
+*  That strategy conferred some key advantages in terms of power consumption, in terms of cost, but still performed very well against Intel's products. [[00:04:21](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=261.0s)]
+*  This chip redesign was the pivotal factor that gave AMD an edge. [[00:04:29](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=269.52000000000004s)]
+*  And that really helped AMD return to more of a leadership position in the market when these products launched in 2017. [[00:04:34](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=274.12s)]
+*  Experts said that comparable AMD CPUs were less expensive and faster than Intel's. [[00:04:41](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=281.0s)]
+*  Our competition is priced at $1,000. [[00:04:46](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=286.72s)]
+*  AMD rising $499. [[00:04:50](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=290.2s)]
+*  By mid 2018, its market cap had shot up to over $30 billion. [[00:04:53](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=293.08000000000004s)]
+*  Almost exactly five years after the release of Ryzen in 2022, AMD passed Intel in market cap for the first time. [[00:04:57](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=297.04s)]
+*  But it didn't hold that spot for long. [[00:05:05](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=305.56s)]
+*  Still, it reflects the investor sentiment about the future of the two companies. [[00:05:07](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=307.84000000000003s)]
+*  Clearly, investors see a lot of positive things in the future for AMD, given its share gains against Intel. [[00:05:12](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=312.52000000000004s)]
+*  Then the sales of PCs, which drive CPU usage, slumped. [[00:05:19](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=319.40000000000003s)]
+*  Shipments in the second quarter of 2022 dropped in the steepest decline in nine years. [[00:05:24](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=324.32s)]
+*  In July, Intel posted its biggest revenue drop in more than a decade. [[00:05:30](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=330.2s)]
+*  A month later, AMD surpassed Intel again in market value. [[00:05:34](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=334.36s)]
+*  Intel is trying to aggressively correct its technology path and become the undisputed leader again in chip manufacturing. [[00:05:38](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=338.36s)]
+*  While AMD was also hit by market forces, its revenue increased by 14 percent. [[00:05:46](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=346.72s)]
+*  AMD is a little bit more flexible, in a sense, than Intel because it's smaller. [[00:05:52](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=352.16s)]
+*  And AMD does not have any manufacturing facilities like Intel does. [[00:05:56](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=356.76s)]
+*  That kind of gives AMD some flexibility to adapt to this environment, perhaps without the kinds of cuts that Intel is making. [[00:06:00](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=360.36s)]
+*  But AMD may face even more challenges after the U.S. [[00:06:08](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=368.48s)]
+*  government imposed export restrictions on some chips and manufacturing equipment. [[00:06:11](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=371.96000000000004s)]
+*  CEO Lisa Su said, [[00:06:16](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=376.48s)]
+*  It is minimal impact on our revenue in the near term. [[00:06:18](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=378.32s)]
+*  Intel is building new factories, called fabs, to help keep as much of production as possible in the U.S. [[00:06:22](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=382.52s)]
+*  Where the oil reserves are, define geopolitics for the last five decades. [[00:06:29](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=389.68s)]
+*  Where the fabs are for the next five decades is more important. [[00:06:34](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=394.12s)]
+*  Whether AMD will continue to hold its own against Intel will depend on how well its innovations have laid the groundwork for the way forward. [[00:06:37](https://www.youtube.com/watch?v=dhv1Ss1aSMU&t=397.4s)]

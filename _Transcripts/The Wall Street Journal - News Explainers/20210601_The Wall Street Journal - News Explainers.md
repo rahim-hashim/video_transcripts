@@ -1,0 +1,111 @@
+---
+Date Generated: January 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 399s
+Video Keywords: ['highways', 'infrastructure', 'infrastructure bill', 'logistics', 'highway', 'us highways', 'roads', 'travel', 'baltimore', 'wsj explainer', 'wsj explainers', 'explained', 'wsj explained', 'the wall street journal', 'biden', 'joe biden', 'joe biden highways', 'joe biden infrastructure', 'united states', 'us news', 'breaking news', 'news', 'world news', 'infrastructure news', 'high way', 'highway teardown', 'highway tear down']
+Video Views: 357199
+Video Rating: None
+Video Description: President Biden’s infrastructure plan calls for non-traditional projects like the removal of some highways. What Democrats want for cities like Baltimore says a lot about the President’s goals in the next wave of development. Photo: Carlos Waters/WSJ
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Infrastructure #Highways
+---
+
+# Why Biden’s Infrastructure Plan Calls for Highway Teardowns  WSJ
+**The Wall Street Journal - News Explainers:** [June 01, 2021](https://www.youtube.com/watch?v=vNs-XlCrwiA)
+*  Democrats, led by President Biden, say now is the time to build back better. [[00:00:00](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=0.0s)]
+*  The American Jobs Plan will modernize 20,000 miles of highways, roads and main streets [[00:00:06](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=6.2s)]
+*  that are in difficult, difficult shape right now. [[00:00:12](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=12.56s)]
+*  But leaders don't just want to build and update roads. [[00:00:16](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=16.76s)]
+*  In some cases, they want highways torn down. [[00:00:19](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=19.88s)]
+*  Democrats would like to provide funding to tear down highways that had a damaging effect [[00:00:23](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=23.44s)]
+*  on urban minority communities. [[00:00:27](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=27.16s)]
+*  Federal funds created the damage done here and federal funds should be used to help remedy it. [[00:00:29](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=29.88s)]
+*  Activists in cities like Tampa, Austin, Texas, New Orleans, Detroit and Tulsa, Oklahoma, [[00:00:37](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=37.04s)]
+*  are calling for the removal of highways that they say segregate communities and harm minorities. [[00:00:42](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=42.76s)]
+*  Leaders say there are many more examples, like this road in West Baltimore. [[00:00:49](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=49.0s)]
+*  This is the Franklin Mulberry Expressway. [[00:00:54](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=54.239999999999995s)]
+*  Baltimore locals call it the Highway to Nowhere, and some policymakers want to tear it down. [[00:00:56](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=56.8s)]
+*  The road cuts through 1.4 miles of the city, providing a speedy route for cars traveling east to west. [[00:01:02](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=62.8s)]
+*  Like other parts of the country's interstate system, the road was built to provide fast [[00:01:10](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=70.36s)]
+*  access for traffic from ports and downtown offices to the suburbs. [[00:01:14](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=74.32s)]
+*  But locals like Baltimore City Councilman John Bullock say it's a scar running through [[00:01:19](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=79.03999999999999s)]
+*  the city's west side. [[00:01:23](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=83.28s)]
+*  The reality is that you did have intact businesses, churches, families, community networks that [[00:01:25](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=85.4s)]
+*  were literally torn asunder with this highway going through. [[00:01:32](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=92.32000000000001s)]
+*  And yes, there are examples of cities across the country, and Baltimore is no different [[00:01:36](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=96.0s)]
+*  that during urban renewal you saw the disproportionate effects in neighborhoods that had African [[00:01:40](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=100.16000000000001s)]
+*  American populations. [[00:01:45](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=105.28s)]
+*  Planning for this road dates back to the 1950s, when President Eisenhower called for cities [[00:01:47](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=107.72s)]
+*  to build better connections to the interstate system. [[00:01:52](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=112.32s)]
+*  His goal was to give the military, traders, and commuters quick routes through the nation. [[00:01:55](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=115.67999999999999s)]
+*  In Baltimore, the first round of demolition displaced hundreds of families. [[00:02:01](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=121.24s)]
+*  That sparked a wave of opposition from locals, like then-City Councilwoman Barbara Mikulski, [[00:02:05](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=125.8s)]
+*  who would go on to represent Maryland in Congress as a Democrat. [[00:02:10](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=130.88s)]
+*  The government, under eminent domain, took their housing, cleared that land without any [[00:02:14](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=134.56s)]
+*  relocation benefits, without a fair market value, and so on. [[00:02:18](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=138.88s)]
+*  Senator Chris Van Hollen is Mikulski's successor. [[00:02:25](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=145.16s)]
+*  What you see here is a part of the highway that was built decades ago, but was never [[00:02:28](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=148.24s)]
+*  completed because Senator Mikulski and other activists rallied to stop it, and they were [[00:02:36](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=156.35999999999999s)]
+*  successful at stopping the highway, but not before this one-and-a-half-mile segment had [[00:02:42](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=162.36s)]
+*  been built, displacing over 900 people from their homes, splitting an African American [[00:02:48](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=168.96s)]
+*  community that had been stable and vibrant. [[00:02:55](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=175.88000000000002s)]
+*  And so here you see this scar. [[00:02:59](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=179.92000000000002s)]
+*  Since then, researchers have found that highways create challenging conditions within cities. [[00:03:02](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=182.48000000000002s)]
+*  Data collected in Baltimore suggests that air quality is poorest in the sections of [[00:03:08](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=188.04s)]
+*  the city that are near interstate connections. [[00:03:12](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=192.48s)]
+*  The Environmental Protection Agency says that poor air quality can worsen health conditions, [[00:03:15](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=195.84s)]
+*  like asthma. [[00:03:20](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=200.64s)]
+*  The interstate also contributed to out-migration, not only in Baltimore, but in cities across [[00:03:22](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=202.68s)]
+*  the country, like Detroit. [[00:03:27](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=207.32s)]
+*  Economists say that the highway building in majority-black Detroit contributed to the [[00:03:30](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=210.56s)]
+*  city's economic decline. [[00:03:34](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=214.56s)]
+*  Tax costs for these roads continue to weigh on the city, which filed for bankruptcy in [[00:03:37](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=217.12s)]
+*  2013. [[00:03:41](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=221.88s)]
+*  This form of structural inequity is what leaders in Washington say they are trying to address. [[00:03:44](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=224.16s)]
+*  Too often investments have failed to meet the needs of marginalized communities left behind. [[00:03:49](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=229.44s)]
+*  Developers today say that tearing down parts of the interstate system could correct a wave [[00:03:55](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=235.68s)]
+*  of past failures. [[00:03:59](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=239.6s)]
+*  One 2018 review of West Baltimore calls for the demolition of two bridges at the eastern [[00:04:01](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=241.92000000000002s)]
+*  stub of the highway, opening more land for development. [[00:04:07](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=247.0s)]
+*  The plan says the new space could be used for athletic fields, parks, and a new retail [[00:04:12](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=252.2s)]
+*  center. [[00:04:17](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=257.28000000000003s)]
+*  The panel also called for the rehabilitation of vacant lots and nearby row homes, and wider [[00:04:18](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=258.66s)]
+*  sidewalks for pedestrians. [[00:04:23](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=263.86s)]
+*  If Congress passes an infrastructure bill, the federal funding could help turn some of [[00:04:27](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=267.34000000000003s)]
+*  these ideas into reality. [[00:04:31](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=271.2s)]
+*  West Baltimore community organizer, Eshiya Parker, says she would welcome changes in [[00:04:34](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=274.47999999999996s)]
+*  her part of the city, but she wants to make sure the community has a seat at the table. [[00:04:38](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=278.64s)]
+*  We definitely don't want our federal partners putting up large condos that people aren't [[00:04:43](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=283.08s)]
+*  able, well, that current residents aren't able to occupy. [[00:04:48](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=288.03999999999996s)]
+*  And then we also want to make sure that economic development is done. [[00:04:53](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=293.71999999999997s)]
+*  So produce stores or other type of small businesses for people who are already in a [[00:04:57](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=297.28s)]
+*  neighborhood that can utilize. [[00:05:02](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=302.23999999999995s)]
+*  Other residents said that they would like for the government to focus on rehabilitating [[00:05:05](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=305.15999999999997s)]
+*  homes in the area before focusing on the roads. [[00:05:09](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=309.35999999999996s)]
+*  The national movement to tear down highways is picking up steam as leaders in Congress [[00:05:14](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=314.08s)]
+*  from both sides of the aisle signal that they're open to the idea. [[00:05:18](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=318.28s)]
+*  The movement got a boost from President Biden when he called for $20 billion to redress [[00:05:23](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=323.04s)]
+*  inequities created by past investments in transportation. [[00:05:27](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=327.88s)]
+*  That's just one part of the bigger American jobs plan, which the White House says would [[00:05:32](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=332.24s)]
+*  cost $1.7 trillion. [[00:05:36](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=336.36s)]
+*  Senate Republicans now say that they are open to a nearly $1 trillion infrastructure plan. [[00:05:39](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=339.68s)]
+*  In short, both parties want to invest more in infrastructure, but they're far apart [[00:05:45](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=345.76s)]
+*  on the details of how it should be done. [[00:05:50](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=350.71999999999997s)]
+*  Republican senators say they're open to using federal funds to remove highways, but [[00:05:53](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=353.59999999999997s)]
+*  they want to leave the decision to state lawmakers. [[00:05:58](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=358.0s)]
+*  There are multiple examples of poor planning decisions that have led to adverse consequences [[00:06:01](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=361.08s)]
+*  for specific communities. [[00:06:05](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=365.84s)]
+*  None of us deny that. [[00:06:07](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=367.4s)]
+*  And I think we all agree they should be rectified. [[00:06:08](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=368.91999999999996s)]
+*  I believe it should be done at the local and state level where decision makers are closest [[00:06:11](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=371.88s)]
+*  to the people and able to make a balanced decision. [[00:06:15](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=375.59999999999997s)]
+*  The call to fund highway removal breaks from years of American transportation philosophy. [[00:06:19](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=379.12s)]
+*  If a bill materializes, highway teardowns could unfold in cities across the country. [[00:06:24](https://www.youtube.com/watch?v=vNs-XlCrwiA&t=384.32s)]
