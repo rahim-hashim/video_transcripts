@@ -94,7 +94,7 @@ class Video:
 			if url == None:
 				# ask for the url
 				url = input('Enter the URL of the video: ')
-			youtube_obj = YouTube(url)
+			youtube_obj = YouTube(url, 'WEB')
 			try:
 				youtube_obj.check_availability()
 				streams = youtube_obj.streams.filter(only_audio=True)
