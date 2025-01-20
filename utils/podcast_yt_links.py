@@ -12,6 +12,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4': 'New York Times Podcasts',
   'https://www.youtube.com/playlist?list=PLdMrbgYfVl-s5c4ug8qDCNmdmSKPvr-Pi': 'New York Times - The Interview',
   'https://www.youtube.com/playlist?list=PLdMrbgYfVl-via0c6GiFIzvBEujhy4o2i': 'New York Times - The Headlines',
+  'https://www.youtube.com/playlist?list=PLo1TdazaYsoqD7pP8cfnydlOTSknnJpAp': 'New Yorker Radio Hour',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNC-TM8dJ4EhlTPqD9H6PRD8': 'The Wall Street Journal - World News',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNBaIXxT-J1hPynuPVyjbmxY': 'The Wall Street Journal - Israel Hamas',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BND6dwgzxPwouOdQ09A393wP': 'The Wall Street Journal - News Explainers',
