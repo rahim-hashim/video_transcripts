@@ -16,6 +16,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNC-TM8dJ4EhlTPqD9H6PRD8': 'The Wall Street Journal - World News',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNBaIXxT-J1hPynuPVyjbmxY': 'The Wall Street Journal - Israel Hamas',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BND6dwgzxPwouOdQ09A393wP': 'The Wall Street Journal - News Explainers',
+  'https://www.youtube.com/playlist?list=PL8QBkS_wk32VzvsrJrmvqlhT_TqPRTllw': 'Washington Post - Israel Palestine',
   'https://www.youtube.com/playlist?list=PLneypbodq-jYq9a6Y8BjobC6KJOIBLCZB': 'Democracy Now Headlines',
   'https://www.youtube.com/playlist?list=PLneypbodq-jb6iEDCsi5QFKv-ACMdZ86s': 'Democracy Now',
   # 'https://www.youtube.com/playlist?list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k': 'Cognitive Revolution',

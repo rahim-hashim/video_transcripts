@@ -16,6 +16,8 @@ def print_all_authors():
 	print('All Podcasts:')
 	for dir in os.listdir(transcript_dir_path):
 		if os.path.isdir(os.path.join(transcript_dir_path, dir)):
+			# find the file with the most recent date in the file name, sort by date and get the first one
+			recent_file = sorted(os.listdir(os.path.join(transcript_dir_path, dir)), reverse=True)[0].split('_')[0]
 			print(f'  {dir:>50}: {len(os.listdir(os.path.join(transcript_dir_path, dir))):<4} transcripts')
 
 def find_transcripts(author_names, transcript_dir_path = '_Transcripts'):
