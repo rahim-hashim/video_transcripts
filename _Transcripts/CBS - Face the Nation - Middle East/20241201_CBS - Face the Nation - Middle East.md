@@ -1,0 +1,125 @@
+---
+Date Generated: January 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 472s
+Video Keywords: ['Hamas', 'Israel', 'Gaza Strip', 'Face The Nation', 'World']
+Video Views: 4312
+Video Rating: None
+Video Description: One day after Hamas released a propaganda video featuring Israeli-American hostage Edan Alexander, National Security Adviser Jake Sullivan tells "Face the Nation with Margaret Brennan" that the Biden administration has been in touch with Alexanders' family. "I do think that Hamas is feeling the pressure" to release the hostages, Sullivan said.
+
+"Face the Nation" is America's premier Sunday morning public affairs program. The broadcast is one of the longest-running news programs in the history of television, having debuted Nov. 7, 1954, on CBS. Every Sunday, "Face the Nation" moderator and CBS News senior foreign affairs correspondent Margaret Brennan welcomes leaders, newsmakers, and experts to a lively round table discussion of current events and the latest news.
+
+Subscribe to the "Face the Nation" YouTube channel: https://youtube.com/facethenation/​
+Watch full episodes of "Face the Nation": https://www.cbsnews.com/face-the-nation/full-episodes/
+Follow "Face the Nation" on Instagram: https://instagram.com/facethenation/
+Like "Face the Nation" on Facebook: https://facebook.com/FaceTheNation
+Follow "Face the Nation" on Twitter: https://twitter.com/FaceTheNation
+Subscribe to our newsletter: https://cbsnews.com/newsletter/
+Download the CBS News app: https://cbsnews.com/mobile/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# Jake Sullivan says White House has been in touch with hostage's family after video released
+**CBS - Face the Nation - Middle East:** [December 01, 2024](https://www.youtube.com/watch?v=KlHTWQOAFN0)
+*  We are joined now by President Biden's National Security Advisor Jake Sullivan. [[00:00:00](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=0.0s)]
+*  He is in Newcastle, New Hampshire this morning. [[00:00:04](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=4.48s)]
+*  Jake, good morning. [[00:00:06](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=6.640000000000001s)]
+*  It's good to see you. [[00:00:07](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=7.640000000000001s)]
+*  The Hamas video release of Edan Alexander. [[00:00:09](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=9.120000000000001s)]
+*  I know the administration regards it as a cruel, propagandistic maneuver, but do you [[00:00:11](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=11.92s)]
+*  detect anything tactical at all in the timing of the release of this video, Jake? [[00:00:17](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=17.54s)]
+*  Well, Major, first, thanks for having me. [[00:00:23](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=23.68s)]
+*  As far as this video, it is a cruel reminder of the barbarity and the brutality of Hamas, [[00:00:26](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=26.96s)]
+*  holding so many innocent people hostage, including Americans, including Edan. [[00:00:33](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=33.88s)]
+*  We were in touch with Edan's family yesterday. [[00:00:39](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=39.760000000000005s)]
+*  I'll be talking to the families of all of the American hostages, including Edan's family, [[00:00:41](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=41.88s)]
+*  this week. [[00:00:46](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=46.8s)]
+*  I do think that Hamas is feeling the pressure. [[00:00:47](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=47.88s)]
+*  They're feeling the pressure because one of their main partners in crime here, Hezbollah, [[00:00:50](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=50.480000000000004s)]
+*  has now cut a ceasefire deal, and they thought that Hezbollah would be with them till the [[00:00:54](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=54.6s)]
+*  end. [[00:00:59](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=59.08s)]
+*  They're feeling the pressure, of course, because their top leader, Sinwar, has been killed. [[00:01:00](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=60.08s)]
+*  So they may be looking anew at the possibility of getting a ceasefire and hostage deal, and [[00:01:03](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=63.92s)]
+*  we are working actively with all of the key players in the region, including Israel and [[00:01:08](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=68.84s)]
+*  Turkey and Qatar and Egypt, to try to bring that about. [[00:01:13](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=73.48s)]
+*  The fate of the hostages, of course, on the administration's mind, on the minds of all [[00:01:17](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=77.4s)]
+*  Americans and all in the region, but also, Jake, I'm sure you saw over the last couple [[00:01:21](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=81.7s)]
+*  of days the video from Gaza of Palestinians surging to try to get a loaf of bread, in [[00:01:25](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=85.7s)]
+*  some cases crushing one another unintentionally. [[00:01:33](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=93.06s)]
+*  All suggestions are that the humanitarian situation there is, if it already isn't past [[00:01:37](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=97.3s)]
+*  crisis stage, near famine crisis stage, how much does that intensify the need to get this [[00:01:43](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=103.94s)]
+*  thing across, as you just said, the finish line? [[00:01:51](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=111.06s)]
+*  The humanitarian situation in Gaza is a crisis. You have too many people who are suffering [[00:01:54](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=114.38s)]
+*  from shortages of food, water, medicine, access to sanitation, innocent people who deserve [[00:02:00](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=120.6s)]
+*  a measure of peace and deserve access to all of those lifesaving supplies in abundance. [[00:02:08](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=128.2s)]
+*  The United States has been working week in, week out, month in, month out to open crossings, [[00:02:13](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=133.92s)]
+*  to move trucks, to ensure that humanitarian aid gets in, and at critical moments we have [[00:02:19](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=139.28s)]
+*  been able to intervene in ways that have staved off the worst case scenarios of famine. [[00:02:24](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=144.51999999999998s)]
+*  But it's constantly stalking Gaza, and so more needs to be done to get aid in. Now, [[00:02:30](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=150.35999999999999s)]
+*  part of the problem, as we've seen just in the last 24 hours, is not actually moving [[00:02:36](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=156.04s)]
+*  aid from outside Gaza into Gaza, but moving it around Gaza once it's inside. The UN, in [[00:02:40](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=160.35999999999999s)]
+*  fact, said it was suspending movement from certain areas of Gaza because of concerns [[00:02:46](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=166.92s)]
+*  about looting. These are all things that would be helped if there were a ceasefire in place. [[00:02:51](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=171.76s)]
+*  Jake, is the probability of a ceasefire enhanced or undercut when someone such as South Carolina [[00:02:57](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=177.44s)]
+*  Senator Lindsey Graham says President-elect Trump wants a ceasefire before inauguration [[00:03:04](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=184.92s)]
+*  deal? Does that help you or hurt you? [[00:03:09](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=189.32s)]
+*  Look, I think the key actor right now holding the decision on the ceasefire is Hamas. And [[00:03:11](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=191.84s)]
+*  the key thing motivating Hamas is not American politics or the American presidential transition. [[00:03:18](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=198.44s)]
+*  It's their determination about whether or not it makes sense for them at this point [[00:03:24](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=204.96s)]
+*  after Hezbollah has abandoned them, after their leader has been killed, after their [[00:03:30](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=210.44000000000003s)]
+*  military formations have been degraded to finally say yes to a ceasefire and hostage [[00:03:34](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=214.24s)]
+*  deal. That's going to be the telling thing more than anything that's said back here. [[00:03:38](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=218.84s)]
+*  But I will say this. There has been very good coordination between our team and the incoming [[00:03:42](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=222.74s)]
+*  team on all of the aspects of the crisis in the Middle East. We felt it was important [[00:03:47](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=227.38000000000002s)]
+*  that we be in touch with them to keep them up to speed on what's happening because this [[00:03:52](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=232.56s)]
+*  handoff has got to be smooth. And they in turn have reciprocated by being open and transparent [[00:03:56](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=236.79999999999998s)]
+*  and working with us. This is how it should be in a transition. This is what we're going [[00:04:02](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=242.23999999999998s)]
+*  to keep driving for for every day that we have left in office. [[00:04:06](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=246.0s)]
+*  Jake, I want to have a conversation with you about leverage as regards the Israeli government. [[00:04:08](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=248.95999999999998s)]
+*  I want to play for you something that Maryland Democratic Senator Chris Van Hollen said on [[00:04:13](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=253.44s)]
+*  this program a week ago. Let's listen. [[00:04:17](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=257.32s)]
+*  We've seen this pattern where President Biden makes demands of Prime Minister Netanyahu [[00:04:20](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=260.0s)]
+*  only to be ignored or slapped down entirely. And then President Biden sends more bombs [[00:04:25](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=265.26s)]
+*  and more money. That is not an effective use of leverage. [[00:04:30](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=270.82s)]
+*  Your response? [[00:04:35](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=275.62s)]
+*  First of all, I respect Senator Van Hollen. He knows these issues as well as any person [[00:04:38](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=278.1s)]
+*  in Washington, and he is passionate about them. But of course, we have a different perspective. [[00:04:44](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=284.18s)]
+*  We have at various points over the course of this conflict made asks of the Israelis [[00:04:49](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=289.24s)]
+*  consistent with our values and our interests. Have we gotten everything we've asked for? [[00:04:53](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=293.32000000000005s)]
+*  No. Have we seen a change in Israeli behavior with respect to the movement of humanitarian [[00:04:57](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=297.56s)]
+*  assistance, with respect to how they conducted certain military operations, including in [[00:05:02](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=302.52000000000004s)]
+*  places like Ra'afa? Yes, we have. [[00:05:07](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=307.72s)]
+*  And so we do believe that we've had a constructive engagement with the Israeli government and [[00:05:10](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=310.48s)]
+*  also been able to make a difference on the ground with respect to the flow of humanitarian [[00:05:15](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=315.12s)]
+*  aid. In addition, we worked closely with the Israeli government to bring about a ceasefire [[00:05:20](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=320.72s)]
+*  in Lebanon, a ceasefire, people said, wasn't possible until a new administration took office. [[00:05:26](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=326.36s)]
+*  Jake, I want to turn your attention to Ukraine, where the Ukrainian president, Vladimir Zelensky, [[00:05:32](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=332.88000000000005s)]
+*  appeared to indicate in a recent interview that he could possibly be open to a peace [[00:05:39](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=339.40000000000003s)]
+*  settlement in which Russia retains the territory it has. Ukraine, meaning Kiev, keeps all the [[00:05:44](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=344.64s)]
+*  rest if that is swiftly brought under the umbrella of NATO. Is that the outline or the [[00:05:51](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=351.8s)]
+*  contours of something you believe or the administration believes could be workable? [[00:05:56](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=356.56s)]
+*  Well, Major, I'm sorry to disappoint you. I can't negotiate in public on your program, [[00:06:00](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=360.47999999999996s)]
+*  and I certainly can't negotiate on behalf of President Zelensky, who really should speak [[00:06:06](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=366.4s)]
+*  for himself when it comes to the destiny of his country. The future of Ukraine should be determined [[00:06:10](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=370.96s)]
+*  at the negotiating table by decisions of the Ukrainians, not imposed from the outside by the [[00:06:16](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=376.32s)]
+*  United States or anybody else. I will say, though, that we have been engaging with Ukrainians over [[00:06:22](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=382.23999999999995s)]
+*  the course of this year on how you marry the support we provided them for use on the battlefield [[00:06:26](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=386.71999999999997s)]
+*  with a diplomatic strategy for the negotiating table. [[00:06:33](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=393.59999999999997s)]
+*  And some recent decisions from the administration have been criticized by Republicans as setting [[00:06:36](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=396.91999999999996s)]
+*  the situation on fire, meaning attack them and anti-personnel mines. Those advocates [[00:06:40](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=400.8s)]
+*  for Ukraine say those decisions are way too late to change the battle space in any strategically [[00:06:46](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=406.24s)]
+*  important way. What do you come down? [[00:06:51](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=411.36s)]
+*  Anti-personnel land mines, which are non-persistent mines that shut off after two weeks so they [[00:06:53](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=413.48s)]
+*  don't represent a long-term threat to civilians. These could be helpful against the particular [[00:06:58](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=418.40000000000003s)]
+*  type of tactics that the Russian infantry is using right now in eastern Ukraine. So [[00:07:04](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=424.08000000000004s)]
+*  he's sending them. The A-TACOM's permission into Russian territory, that was a decision [[00:07:09](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=429.36s)]
+*  he took after Russia escalated by introducing North Korean troops into this war, a foreign [[00:07:15](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=435.36s)]
+*  army into this war. So that was a responsible, coordinated step that we took with other allies [[00:07:21](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=441.2s)]
+*  to respond to that provocation, to that escalation by Russia. [[00:07:28](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=448.56s)]
+*  The president has been clear all along, we are going to give Ukraine the tools it needs. [[00:07:32](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=452.48s)]
+*  We are also going to do what we can to put them in the best possible position on the battlefield, [[00:07:36](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=456.8s)]
+*  so they'll be in the best possible position at the negotiating table, [[00:07:41](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=461.20000000000005s)]
+*  and then that this war will ultimately end in diplomacy. [[00:07:44](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=464.64000000000004s)]
+*  National Security Advisor Jake Sullivan, thanks so much for your time. [[00:07:48](https://www.youtube.com/watch?v=KlHTWQOAFN0&t=468.56s)]

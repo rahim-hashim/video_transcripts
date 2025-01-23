@@ -1,0 +1,126 @@
+---
+Date Generated: January 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 411s
+Video Keywords: ['Politics', 'Israel', 'Benjamin Neta\u200bnyahu', 'Biden Administration', 'Ukraine', 'Russia', 'Terrorism', 'New York Stock Exchange', 'CBS News Weekender Clips', 'U.S.', 'World', 'CBS News']
+Video Views: 19794
+Video Rating: None
+Video Description: Allies of Israel are rejecting the International Criminal Court's decision to issue arrest warrants for Prime Minister Benjamin Netanyahu and Israel's former defense minister Yoav Gallant. CBS News foreign correspondent Debora Patta reports from Tel Aviv. Then, CBS News national security contributor Sam Vinograd joins with analysis.
+
+CBS News Streaming Network is the premier 24/7 anchored streaming news service from CBS News and Stations, available free to everyone with access to the Internet. The CBS News Streaming Network is your destination for breaking news, live events and original reporting locally, nationally and around the globe. Launched in November 2014 as CBSN, the CBS News Streaming Network is available live in 91 countries and on 30 digital platforms and apps, as well as on CBSNews.com and Paramount+.
+
+Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews
+Watch CBS News: https://cbsnews.com/live/
+Download the CBS News app: https://cbsnews.com/mobile/
+Follow CBS News on Instagram: https://instagram.com/cbsnews/
+Like CBS News on Facebook: https://facebook.com/cbsnews
+Follow CBS News on Twitter: https://twitter.com/cbsnews
+Subscribe to our newsletters: https://cbsnews.com/newsletters/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# Israel and some allies decry International Criminal Court for arrest warrants
+**CBS - Face the Nation - Middle East:** [November 22, 2024](https://www.youtube.com/watch?v=l_z9NxzPvZc)
+*  Allies of Israel are rejecting the International Criminal Court's decision to issue arrest [[00:00:00](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=0.0s)]
+*  warrants from Prime Minister Benjamin Netanyahu and Israel's former defense minister Yoav [[00:00:05](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=5.6000000000000005s)]
+*  Galant. [[00:00:10](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=10.0s)]
+*  Prosecutors with the ICC accused the Israeli officials of using starvation as a weapon [[00:00:11](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=11.0s)]
+*  amid the war in Gaza. [[00:00:15](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=15.52s)]
+*  The court also accused a Hamas commander of crimes against humanity, although Israel claims [[00:00:17](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=17.36s)]
+*  they killed him in an airstrike over the summer. [[00:00:21](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=21.88s)]
+*  CBS News foreign correspondent Debra Pata has more from Tel Aviv. [[00:00:24](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=24.16s)]
+*  Debra. [[00:00:27](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=27.92s)]
+*  More than a dozen European countries have said they will comply with the war crimes [[00:00:29](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=29.32s)]
+*  arrest warrants issued by the International Criminal Court against Benjamin Netanyahu [[00:00:33](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=33.400000000000006s)]
+*  and his former defense minister Yoav Galant. [[00:00:38](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=38.760000000000005s)]
+*  The Hague's allegations of grave crimes against humanity are unprecedented in Israel and have [[00:00:42](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=42.52s)]
+*  triggered a furious response here, with Netanyahu calling them anti-Semitic. [[00:00:48](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=48.64s)]
+*  While the trial cannot be held in absentia, the 124 ICC member states are required to [[00:00:54](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=54.48s)]
+*  arrest Netanyahu if he enters their territory. [[00:01:01](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=61.16s)]
+*  The Israeli leader will still be welcome in the US, which is not a member of the ICC, [[00:01:05](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=65.03999999999999s)]
+*  but less so in European capitals, where even some of Israel's allies have indicated they [[00:01:11](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=71.08s)]
+*  will uphold international law. [[00:01:17](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=77.16s)]
+*  Hungary, however, has broken ranks with the European Union and invited Netanyahu for a visit. [[00:01:19](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=79.88000000000001s)]
+*  Israel legal expert Ayal Gross says that while it might be uncomfortable for Israelis to [[00:01:26](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=86.32000000000001s)]
+*  see their leaders accused of war crimes, they need to look long and hard at how the war [[00:01:32](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=92.28s)]
+*  in Gaza has been prosecuted. [[00:01:37](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=97.96000000000001s)]
+*  In Gaza, many Palestinians have welcomed the arrest warrants, saying a successful prosecution [[00:01:41](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=101.04s)]
+*  would go some way toward bringing justice for the more than 44,000 people killed and [[00:01:47](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=107.88s)]
+*  the many more still facing starvation in over a year of war. [[00:01:54](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=114.36s)]
+*  Back to you. [[00:01:59](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=119.47999999999999s)]
+*  All right, Deborah Pata, thank you. [[00:02:00](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=120.47999999999999s)]
+*  CBS News national security contributor Sam Vinograd joins us now for our weekly national [[00:02:02](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=122.75999999999999s)]
+*  security wrap-up. [[00:02:06](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=126.88s)]
+*  So Sam, what reactions have we seen from global leaders to these arrest warrants? [[00:02:07](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=127.88s)]
+*  Well, we've seen a range of international reactions. [[00:02:13](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=133.11999999999998s)]
+*  As Deborah just outlined, both signatories to the court and non-signatories have made [[00:02:15](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=135.76s)]
+*  statements. [[00:02:20](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=140.04s)]
+*  The United States is not a signatory to the court, but President Biden did issue a statement [[00:02:21](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=141.04s)]
+*  calling the arrest warrants for Bibi Netanyahu and Youav Galant, quote, outrageous, and decrying [[00:02:26](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=146.79999999999998s)]
+*  any false equivalency between actions undertaken by the Israeli government and by Hamas. [[00:02:33](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=153.11999999999998s)]
+*  At the same time, across Europe, we're seeing mixed reactions. [[00:02:39](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=159.92s)]
+*  Slovenia, for example, has said that they would arrest Galant and Netanyahu if they [[00:02:43](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=163.16s)]
+*  traveled in Slovenia. [[00:02:47](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=167.96s)]
+*  But we've seen more mixed messages out of countries like Italy, France, the UK, and [[00:02:50](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=170.0s)]
+*  Germany. [[00:02:55](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=175.92s)]
+*  I will note that Italy is hosting a high-level meeting of G7 foreign ministers next week, [[00:02:56](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=176.92s)]
+*  and these ICC arrest warrants are expected to take a priority topic there on the agenda. [[00:03:02](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=182.35999999999999s)]
+*  Finally, as Deborah mentioned, Hungary has been an outlier, and while a signatory to [[00:03:09](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=189.28s)]
+*  the court has invited Netanyahu to visit Hungary, which is really just a slap in the face of [[00:03:14](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=194.24s)]
+*  the court and the warrants issued against Netanyahu and Galant. [[00:03:20](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=200.16000000000003s)]
+*  Well, let's turn to the war in Ukraine. [[00:03:23](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=203.44s)]
+*  The U.S. eased its weapons restrictions, which Russia says adds fuel to the fire. [[00:03:25](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=205.88000000000002s)]
+*  But as I mentioned, Russia is also upping the stakes. [[00:03:30](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=210.0s)]
+*  So how is this all playing out in the battlefield? [[00:03:33](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=213.56s)]
+*  Well, tensions certainly ratcheted up by not just Ukraine and Russia, but also by the United [[00:03:36](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=216.6s)]
+*  States and UK. [[00:03:41](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=221.04s)]
+*  The United States lifted restrictions on Ukraine using long-range missiles to strike inside [[00:03:42](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=222.56s)]
+*  of Russia, and Ukraine used this new authority early this week, launching strikes with these [[00:03:48](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=228.24s)]
+*  longer-range weapons. [[00:03:53](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=233.52s)]
+*  This was followed about a day later by strikes by Ukraine using UK long-range weapons into [[00:03:55](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=235.16s)]
+*  Russia as well. [[00:04:01](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=241.48000000000002s)]
+*  Now, the U.S. decision to issue this authorization reportedly hinged on the presence of North [[00:04:03](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=243.52s)]
+*  Korean troops on the battlefield for Russia. [[00:04:08](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=248.36s)]
+*  Russia unsurprisingly was quite displeased and responded not just with vitriol. [[00:04:11](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=251.64000000000001s)]
+*  Russia lowered the threshold for the use of nuclear weapons in conflict and then really [[00:04:16](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=256.84000000000003s)]
+*  tested a new kind of intermediate-range missile and fired it into the eastern Ukrainian city [[00:04:21](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=261.36s)]
+*  of Dnieper. [[00:04:28](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=268.08s)]
+*  Now, this new missile is nuclear capable. [[00:04:29](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=269.08s)]
+*  It could carry a nuclear payload. [[00:04:33](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=273.2s)]
+*  However, there are indications that the Russian government reached out to the U.S. to say [[00:04:34](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=274.2s)]
+*  that this particular weapon was not nuclear armed. [[00:04:38](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=278.16s)]
+*  It is very difficult to defend against, however, and while Russia likely doesn't have many [[00:04:41](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=281.21999999999997s)]
+*  of these new hypersonic intermediate-range missiles, they could present a real challenge [[00:04:46](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=286.08s)]
+*  for Ukraine on the battlefield if Russia uses them further. [[00:04:51](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=291.56s)]
+*  Yeah, these stakes have just gotten exponentially higher. [[00:04:54](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=294.6s)]
+*  Let's talk though, Sam, about something that's happening here in the U.S. [[00:04:59](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=299.4s)]
+*  Federal prosecutors charged a Florida man with a bomb threat on the New York Stock Exchange. [[00:05:02](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=302.71999999999997s)]
+*  What do you know? [[00:05:06](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=306.84s)]
+*  Well, the Department of Justice unsealed charges this week against a Florida man who was reportedly [[00:05:07](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=307.84s)]
+*  planning to bomb the New York Stock Exchange the week before Thanksgiving this week. [[00:05:14](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=314.0s)]
+*  This individual had been on federal law enforcement's radar since February based upon a tip that [[00:05:19](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=319.42s)]
+*  he was storing bombing schematics in a public storage unit in Florida. [[00:05:25](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=325.56s)]
+*  Investigators did find sketches and other forms of bomb-making material in the storage [[00:05:31](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=331.12s)]
+*  unit. [[00:05:35](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=335.16s)]
+*  His search history online included searching for information on how to build explosive [[00:05:36](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=336.16s)]
+*  devices and he even tried to task undercover FBI agents with finding explosive material, [[00:05:40](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=340.52000000000004s)]
+*  surveillance and other matters. [[00:05:46](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=346.88s)]
+*  He told undercover agents that he, quote, felt like Bin Laden. [[00:05:48](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=348.96000000000004s)]
+*  And I will note that this individual really fits the profile of what security officials [[00:05:52](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=352.48s)]
+*  have been warning about for years, a lone offender inspired by anti-government ideology [[00:05:56](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=356.88s)]
+*  who seeks to implement a high-profile attack. [[00:06:02](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=362.56s)]
+*  This individual reportedly tried to join far-right anti-government organizations like the Boogaloo [[00:06:05](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=365.68s)]
+*  Boys and the Proud Boys in the past and seems to have been inspired by a range of anti-government [[00:06:11](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=371.44s)]
+*  sentiment. [[00:06:17](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=377.08000000000004s)]
+*  Well, one last question for you, Sam. [[00:06:18](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=378.47999999999996s)]
+*  Police in London carried out a controlled explosion of a suspicious package near the [[00:06:20](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=380.68s)]
+*  U.S. embassy. [[00:06:24](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=384.52s)]
+*  How unusual is this? [[00:06:25](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=385.64s)]
+*  This is not a wholly unusual occurrence. [[00:06:28](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=388.03999999999996s)]
+*  Embassy security personnel as well as local law enforcement are well trained in identifying [[00:06:31](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=391.03999999999996s)]
+*  potential explosive devices and taking quick action to defuse them. [[00:06:36](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=396.12s)]
+*  We are in a heightened threat environment, Lana, and at this time we have no indication [[00:06:40](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=400.12s)]
+*  that there was a real threat in the immediate vicinity of the embassy. [[00:06:43](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=403.92s)]
+*  All right, Sam Vinograd, thank you. [[00:06:47](https://www.youtube.com/watch?v=l_z9NxzPvZc&t=407.64000000000004s)]

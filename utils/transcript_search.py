@@ -18,7 +18,9 @@ def print_all_authors():
 		if os.path.isdir(os.path.join(transcript_dir_path, dir)):
 			# find the file with the most recent date in the file name, sort by date and get the first one
 			recent_file = sorted(os.listdir(os.path.join(transcript_dir_path, dir)), reverse=True)[0].split('_')[0]
-			print(f'  {dir:>50}: {len(os.listdir(os.path.join(transcript_dir_path, dir))):<4} transcripts')
+			# convert YYYYMMDD to YYYY-MM-DD format
+			recent_date = datetime.datetime.strptime(recent_file, '%Y%m%d').strftime('%Y-%m-%d')
+			print(f'  {dir:>50}: {len(os.listdir(os.path.join(transcript_dir_path, dir))):<4} ({recent_date})')
 
 def find_transcripts(author_names, transcript_dir_path = '_Transcripts'):
 	print_all_authors()
