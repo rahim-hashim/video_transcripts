@@ -1,0 +1,127 @@
+---
+Date Generated: January 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 341s
+Video Keywords: ['Politics', 'Justin Trudeau', 'Canada', 'Donald Trump', 'Tariffs', 'Economy', 'Money', 'Finance', 'America Decides Segments', 'U.S.', 'World', 'CBS News']
+Video Views: 18599
+Video Rating: None
+Video Description: President-elect Donald Trump's proposed tariffs on Canada haven't even gone into effect and they've already plunged Prime Minister Justin Trudeau's government into turmoil. On Monday, Trudeau's finance minister and deputy prime minister resigned, sharing a sharply critical assessment of her old boss in a public letter. Mercedes Stephenson, Ottawa bureau chief for Canada's Global News, joins "America Decides" to discuss Trudeau's future.
+
+CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.
+
+Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews
+Watch CBS News 24/7: https://cbsnews.com/live/
+Download the CBS News app: https://cbsnews.com/mobile/
+Follow CBS News on Instagram: https://instagram.com/cbsnews/
+Like CBS News on Facebook: https://facebook.com/cbsnews
+Follow CBS News on X: https://twitter.com/cbsnews
+Subscribe to our newsletters: https://cbsnews.com/newsletters/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# Could Trump's tariffs push Canada's Trudeau out of office?
+**CBS - Face the Nation - World News:** [December 18, 2024](https://www.youtube.com/watch?v=lpYFJmOTUrk)
+*  Welcome back to America Decides. [[00:00:00](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=0.0s)]
+*  President-elect Donald Trump's proposed tariffs on Canada haven't even gone into effect. [[00:00:02](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=2.0s)]
+*  They may never, but he's threatening them. [[00:00:05](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=5.84s)]
+*  And it's already plunged Prime Minister Justin Trudeau's government into turmoil. [[00:00:07](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=7.68s)]
+*  On Monday, Trudeau's one-time ally, the finance minister and Deputy Prime Minister Christa [[00:00:11](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=11.74s)]
+*  Freeland, who used to be a reporter here in Washington, resigned in the most un-Canadian [[00:00:15](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=15.72s)]
+*  way by sharing a sharply critical assessment of her old boss in a publicly posted resignation [[00:00:20](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=20.48s)]
+*  letter. [[00:00:25](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=25.88s)]
+*  It all comes after Trudeau flew down to Mar-a-Lago to talk trade, and Trump trolled the Prime [[00:00:26](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=26.88s)]
+*  Minister by calling Canada the 51st state. [[00:00:34](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=34.12s)]
+*  We're subsidizing Canada, we're subsidizing Mexico, and that can't go on. [[00:00:38](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=38.56s)]
+*  Then I get along with the people of Mexico and Canada very well, but we can't let that [[00:00:42](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=42.32s)]
+*  happen. [[00:00:46](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=46.44s)]
+*  Mercedes Stevenson is the Ottawa bureau chief for Canada's Global News and the host of the [[00:00:48](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=48.44s)]
+*  West Bloc political show. [[00:00:52](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=52.32s)]
+*  Mercedes, thank you so much for being here. [[00:00:54](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=54.239999999999995s)]
+*  Now, the prime minister, as I understand it, canceled an interview he had scheduled with [[00:00:56](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=56.04s)]
+*  you this afternoon in addition to canceling a lot of other media appearances here for [[00:00:59](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=59.36s)]
+*  the end of the year. [[00:01:04](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=64.12s)]
+*  What does that potentially signal about his standing right now? [[00:01:05](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=65.4s)]
+*  That's right, Ed. [[00:01:09](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=69.16s)]
+*  We got a call at about 5.32 p.m. Eastern last night telling us that the interview that was [[00:01:11](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=71.64s)]
+*  scheduled for today at 1 p.m. was no longer happening. [[00:01:17](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=77.4s)]
+*  And I said, well, is this just us or everyone? [[00:01:21](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=81.2s)]
+*  And I was told he's canceling all of his year end interviews. [[00:01:23](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=83.76s)]
+*  This is a prime minister who does these interviews every year at Christmas to the point where [[00:01:26](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=86.48s)]
+*  networks plan Christmas Day specials around it. [[00:01:31](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=91.0s)]
+*  So this is really quite remarkable. [[00:01:33](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=93.96s)]
+*  And it tells us not necessarily whether he's staying or going, but that he's in enough [[00:01:35](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=95.8s)]
+*  trouble that they want to stop anything that is ammunition where he could say the wrong [[00:01:40](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=100.03999999999999s)]
+*  thing or do the wrong thing and will add fuel to the fire. [[00:01:45](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=105.03999999999999s)]
+*  And so they have taken the highly unusual step of canceling all of his year end interviews [[00:01:48](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=108.44s)]
+*  to try to stop that. [[00:01:52](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=112.96s)]
+*  Yeah, never a good sign when the public official starts doing that. [[00:01:53](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=113.96s)]
+*  Now, how significant was Finance Minister Freeland's resignation and that resignation [[00:01:56](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=116.72s)]
+*  letter for that matter? [[00:02:02](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=122.0s)]
+*  I mean, absolutely huge. [[00:02:05](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=125.0s)]
+*  I've been on Parliament Hill for 14 years. [[00:02:06](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=126.47999999999999s)]
+*  I've never seen a resignation that had an effect like this, Ed. [[00:02:08](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=128.48s)]
+*  It was done in the most deliberate and damaging way possible to the prime minister, saying [[00:02:12](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=132.76s)]
+*  this was about spending and responsibility, about essentially expensive political gimmicks, [[00:02:19](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=139.24s)]
+*  and that she was going to stay on, which signals potentially her intent to run for the leadership [[00:02:25](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=145.32000000000002s)]
+*  there. [[00:02:29](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=149.52s)]
+*  This was not only Canada's finance minister, but she was the deputy prime minister. [[00:02:30](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=150.52s)]
+*  So the prime minister's number two. [[00:02:34](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=154.60000000000002s)]
+*  To have this kind of a public falling out is extraordinary. [[00:02:36](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=156.56s)]
+*  But I mean, what do you expect? [[00:02:40](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=160.04000000000002s)]
+*  We found out that on a call on Friday, a video call that happened between the prime minister [[00:02:41](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=161.76000000000002s)]
+*  and the finance minister, he flat out told her not only was she being shuffled out of [[00:02:45](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=165.96s)]
+*  the finance portfolio, but that she was being replaced by Mark Carney, the former governor [[00:02:49](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=169.72s)]
+*  of the Bank of Canada and the Bank of England. [[00:02:54](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=174.04000000000002s)]
+*  That never materialized. [[00:02:56](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=176.56s)]
+*  Carney is now out. [[00:02:57](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=177.96s)]
+*  He is not taking that job. [[00:02:59](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=179.76000000000002s)]
+*  But that is what precipitated Freeland's decision to resign. [[00:03:01](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=181.48000000000002s)]
+*  Can I ask you sort of a chicken and egg question? [[00:03:05](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=185.12s)]
+*  Is it President-elect Trump and his potential tariff threats that's causing this? [[00:03:08](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=188.5s)]
+*  Or is that merely stoking a fire that was already lit, in essence? [[00:03:15](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=195.6s)]
+*  It's sort of ancillary to it because this was actually an opportunity for Justin Trudeau [[00:03:21](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=201.16s)]
+*  to get a bump in the polls because a lot of Canadians perceive Donald Trump as being difficult [[00:03:26](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=206.28s)]
+*  to predict. [[00:03:30](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=210.8s)]
+*  And therefore, when things go wrong, it gets sort of assigned to the, oh, well, it's Donald [[00:03:31](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=211.8s)]
+*  Trump category rather than why isn't our prime minister handling it correctly. [[00:03:36](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=216.12s)]
+*  So a lot of liberals were anticipating that Trudeau could benefit from this. [[00:03:40](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=220.44s)]
+*  And that has not been the case. [[00:03:44](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=224.60000000000002s)]
+*  Instead, Donald Trump has belittled Justin Trudeau at a time when he is highly unpopular [[00:03:46](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=226.08s)]
+*  with Canadians. [[00:03:51](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=231.04000000000002s)]
+*  And this has been the case for about a year for Justin Trudeau. [[00:03:52](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=232.04000000000002s)]
+*  I think sometimes people outside Canada don't realize his popularity here has been slipping [[00:03:54](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=234.4s)]
+*  and stuck in very low numbers. [[00:03:58](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=238.92000000000002s)]
+*  He's made a lot of unpopular policy decisions. [[00:04:00](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=240.84s)]
+*  And that's why there's sort of, this is the question on, is this the nail in his coffin? [[00:04:03](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=243.44s)]
+*  But it won't be the Donald Trump factor. [[00:04:08](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=248.24s)]
+*  It will be, in fact, the domestic political factor. [[00:04:10](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=250.16000000000003s)]
+*  In our remaining minute, you're in a parliamentary system up there. [[00:04:13](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=253.51999999999998s)]
+*  So eventually you do have to hold an election. [[00:04:16](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=256.28s)]
+*  What is the latest point at which he can call one? [[00:04:18](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=258.88s)]
+*  And do we anticipate he being the liberal leader and therefore potential prime minister [[00:04:21](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=261.96s)]
+*  if it's held? [[00:04:26](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=266.96s)]
+*  Great question. [[00:04:30](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=270.71999999999997s)]
+*  So December 2025 would legally be the latest he could wait to go into an election, although [[00:04:31](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=271.71999999999997s)]
+*  it's actually legislated to be in the fall of 2025. [[00:04:36](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=276.08s)]
+*  But we're currently in a minority government situation. [[00:04:39](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=279.92s)]
+*  And what that means in Canada is that the government could fall at any time. [[00:04:42](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=282.76s)]
+*  That could be either through Justin Trudeau making a decision to say, I'm calling an election [[00:04:46](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=286.36s)]
+*  and going to see our governor general. [[00:04:50](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=290.24s)]
+*  It could be him losing the support of both opposition parties, the Bloc Québécois, [[00:04:52](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=292.15999999999997s)]
+*  the separatist party and the NDP, who are holding him up right now, or even just a number [[00:04:56](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=296.84s)]
+*  of members of parliament in those parties, no longer voting with him on confidence votes. [[00:05:01](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=301.71999999999997s)]
+*  That could happen as early as February of next year. [[00:05:06](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=306.36s)]
+*  Or it could go all the way through. [[00:05:09](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=309.71999999999997s)]
+*  So there's a lot of permutations and combinations. [[00:05:11](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=311.32s)]
+*  The big question is, does he stay on? [[00:05:13](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=313.88s)]
+*  It is widely seen as he will be defeated no matter what in the next election and that [[00:05:15](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=315.84s)]
+*  any liberal leader would be. [[00:05:19](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=319.76s)]
+*  But at this point, there's a lot of calculation by members of parliament and cabinet ministers [[00:05:21](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=321.84s)]
+*  about whether him staying on damages their chance of keeping their own seat. [[00:05:25](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=325.88s)]
+*  And that's where you're seeing some of that pushback. [[00:05:30](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=330.2s)]
+*  Oh, it's downright delicious. [[00:05:31](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=331.67999999999995s)]
+*  We'll keep an eye on it. [[00:05:34](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=334.15999999999997s)]
+*  Mercedes Stevenson, thank you so much for breaking it down for us there from Ottawa. [[00:05:35](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=335.15999999999997s)]
+*  We appreciate it. [[00:05:39](https://www.youtube.com/watch?v=lpYFJmOTUrk&t=339.44s)]

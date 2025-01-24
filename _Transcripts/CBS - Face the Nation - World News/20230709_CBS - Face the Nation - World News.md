@@ -1,0 +1,135 @@
+---
+Date Generated: January 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 409s
+Video Keywords: ['Face the Nation', 'CBS News', 'video', 'Margaret Brennan', 'U.S.', 'politics', 'Oksana Markarova', 'Ukraine', 'cluster munitions', 'war']
+Video Views: 5184
+Video Rating: None
+Video Description: Days after the U.S. said it would be sending controversial cluster munitions to Ukraine to aid in their fight against Russia, Ukrainian ambassador to the U.S. Oksana Markarova tells "Face the Nation" that Ukraine will be as "responsible" with these weapons as they are with all other U.S. and European supplied weapons.
+
+#news #ukraine #worldnews 
+
+"Face the Nation" is America's premier Sunday morning public affairs program. The broadcast is one of the longest-running news programs in the history of television, having debuted November 7, 1954, on CBS. Every Sunday, "Face the Nation" moderator and CBS News senior foreign affairs correspondent Margaret Brennan welcomes leaders, newsmakers, and experts to a lively round table discussion of current events and the latest news.
+
+Subscribe to the "Face the Nation" YouTube channel: https://bit.ly/1SUQc68​
+Watch full episodes of "Face the Nation": https://cbsn.ws/20pbkSF​
+Follow "Face the Nation" on Instagram: https://bit.ly/23Xuhk4​
+Like "Face the Nation" on Facebook: https://on.fb.me/23Xmz9E​
+Follow "Face the Nation" on Twitter: https://bit.ly/1o3QDQo​
+Subscribe to our newsletter: https://cbsn.ws/1RqHw7T​
+Download the CBS News app: https://cbsn.ws/1Xb1WC8​
+Try Paramount+ free: https://bit.ly/2OiW1kZ
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# Ambassador Oksana Markarova says Ukraine will be "responsible" in using U.S.-supplied weapons
+**CBS - Face the Nation - World News:** [July 09, 2023](https://www.youtube.com/watch?v=nO0isSWC3Cs)
+*  We turn now to the Ukrainian ambassador to the U.S., Oksana Markarova. [[00:00:00](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=0.0s)]
+*  Great to have you back with us. [[00:00:03](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=3.44s)]
+*  Good morning. [[00:00:04](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=4.92s)]
+*  Your president and our president said that Ukraine's running out of ammunition. [[00:00:06](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=6.48s)]
+*  So how quickly will this latest U.S. package arrive and how quickly will it make a difference? [[00:00:10](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=10.64s)]
+*  Well, first of all, let me say how grateful we are to President Biden and to everyone [[00:00:17](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=17.2s)]
+*  for making this decision to provide us with this munition. [[00:00:21](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=21.92s)]
+*  I know everyone is discussing how difficult it was and sometimes even call it controversial. [[00:00:24](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=24.6s)]
+*  But there is nothing controversial about it. [[00:00:29](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=29.52s)]
+*  We are fighting on our territory, brutal enemy. [[00:00:31](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=31.68s)]
+*  There is nothing worse than tortures, rapes and everything that Russians do on the territories [[00:00:34](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=34.64s)]
+*  they occupy. [[00:00:40](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=40.96s)]
+*  And we need to liberate as quick as possible. [[00:00:41](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=41.52s)]
+*  So we're really grateful that in times when we do need increased numbers of munitions [[00:00:43](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=43.64s)]
+*  to support our counteroffensive, that U.S. made the decision. [[00:00:48](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=48.96s)]
+*  And we really hope we will see it very quickly on the battlefield. [[00:00:52](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=52.760000000000005s)]
+*  So these cluster munitions drop bomblets and sometimes those bomblets don't explode right [[00:00:56](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=56.08s)]
+*  away and years later they can be a danger. [[00:01:03](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=63.16s)]
+*  I've met victims who've been blinded and maimed in places where the U.S. dropped these [[00:01:05](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=65.44s)]
+*  decades ago. [[00:01:09](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=69.36s)]
+*  So when the White House says that Ukraine has made assurances on how it will use these, [[00:01:10](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=70.76s)]
+*  how do you do this and assure that civilians won't be hurt? [[00:01:16](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=76.56s)]
+*  Well, first of all, let's remind where we started with. [[00:01:20](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=80.52s)]
+*  Ukraine is the most mined country now already. [[00:01:23](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=83.04s)]
+*  Russians mined everywhere. [[00:01:26](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=86.92s)]
+*  The unexploded ordinance is everywhere. [[00:01:29](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=89.04s)]
+*  So we're doing a lot of demining. [[00:01:31](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=91.2s)]
+*  And U.S., by the way, is helping us a lot in demining already now. [[00:01:32](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=92.88s)]
+*  With regard to these munitions that we will be getting from the U.S., first, they are [[00:01:37](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=97.56s)]
+*  of a much higher quality. [[00:01:41](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=101.68s)]
+*  So to start with. [[00:01:43](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=103.28s)]
+*  And second, as responsible as we are with all other American supplied or European supplied [[00:01:45](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=105.08s)]
+*  munitions, we are controlling it. [[00:01:51](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=111.52s)]
+*  We have a very responsible ways. [[00:01:53](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=113.68s)]
+*  We use the NATO type of lock fast system to record every unit that we have, where it is. [[00:01:56](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=116.64s)]
+*  We will use the same type of approach to this. [[00:02:03](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=123.12s)]
+*  We will know where we use it, how we used it. [[00:02:05](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=125.52s)]
+*  And of course, you know, every time we liberate our territories, these deminers are the first [[00:02:08](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=128.52s)]
+*  people that go there, try to make sure that the area is safe. [[00:02:13](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=133.6s)]
+*  So we will do exactly the same. [[00:02:18](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=138.14s)]
+*  And I imagine Russia uses these on civilian areas. [[00:02:20](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=140.35999999999999s)]
+*  I have to imagine Ukraine has pledged not to do that and only to use them on soldiers. [[00:02:25](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=145.4s)]
+*  Oh, my God, they use this and force for and everything else specifically on civilian areas [[00:02:30](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=150.28s)]
+*  and destroying civilian areas. [[00:02:36](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=156.79999999999998s)]
+*  We definitely we will not do we will not use it in civilian populated areas. [[00:02:38](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=158.44s)]
+*  That's a war crime aspect that that Russia has been criticized for on this. [[00:02:43](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=163.92s)]
+*  You heard President Biden say Ukraine's not ready for NATO membership. [[00:02:48](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=168.32s)]
+*  What did you think? [[00:02:52](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=172.48s)]
+*  We are getting ready for NATO membership. [[00:02:54](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=174.92s)]
+*  We know and we're doing very difficult reforms, even as we fight for it. [[00:02:58](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=178.32s)]
+*  What we are definitely ready for is for invitation. [[00:03:02](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=182.48s)]
+*  And I think, you know, with regard to the NATO membership, if you look at any any aspect [[00:03:05](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=185.51999999999998s)]
+*  of it, Ukraine is very ready in a number of aspects. [[00:03:13](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=193.23999999999998s)]
+*  And if there is something that is left there, we can sure do it later on. [[00:03:17](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=197.32s)]
+*  But we are discussing now about the invitation. [[00:03:21](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=201.72s)]
+*  You know, you know that in 2008, the open door policy towards Ukraine have been adopted. [[00:03:24](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=204.84s)]
+*  We want not only the door to be open, we want to be invited to come in. [[00:03:31](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=211.24s)]
+*  Well, the White House seemed to close the door on that part of the invitation, at least, [[00:03:35](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=215.52s)]
+*  but eventually allow for Ukraine to join NATO. [[00:03:39](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=219.52s)]
+*  That was that seemed to be the signal White House was sending on Friday. [[00:03:42](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=222.32s)]
+*  The discussions are still ongoing and the discussion and of course, it's the discussion [[00:03:46](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=226.04s)]
+*  that requires 31 countries to agree. [[00:03:50](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=230.16s)]
+*  And again, as you know, with like with the European Union membership, there is a path [[00:03:53](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=233.16s)]
+*  towards the European Union. [[00:04:00](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=240.96s)]
+*  We are candidate country and we are working towards our full membership. [[00:04:02](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=242.52s)]
+*  Similar approach we take with NATO. [[00:04:06](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=246.44s)]
+*  We want to be in NATO. [[00:04:09](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=249.36s)]
+*  The majority of Ukrainians support Ukraine in NATO. [[00:04:10](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=250.64s)]
+*  This is in our constitution. [[00:04:13](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=253.96s)]
+*  And we have done the majority of reforms already to be NATO eligible. [[00:04:15](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=255.64000000000001s)]
+*  We are ready to continue on that path. [[00:04:20](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=260.2s)]
+*  And we would like to see that our friends in NATO are together with us on this path. [[00:04:21](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=261.92s)]
+*  This week, the largest nuclear plant in Europe once again was very much in focus on the [[00:04:27](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=267.68s)]
+*  front line of this conflict. [[00:04:33](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=273.6s)]
+*  Your president says Ukraine has intelligence showing that Russia will try to blow it up, [[00:04:35](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=275.88s)]
+*  that it has mined the area. [[00:04:41](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=281.24s)]
+*  The UN watchdog says they've only been able to search parts of the area. [[00:04:43](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=283.12s)]
+*  So far, it looks OK. [[00:04:47](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=287.48s)]
+*  But there are two key reactors they want access to. [[00:04:49](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=289.32s)]
+*  What is the level of risk right now? [[00:04:52](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=292.68s)]
+*  The level of risk there is consistently high since March 4th, 2022, since Russians [[00:04:55](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=295.48s)]
+*  illegally occupied Ukrainian nuclear station. [[00:05:02](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=302.56s)]
+*  So we just have to be very clear from the start every time we discuss the Parisian [[00:05:05](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=305.84s)]
+*  nuclear plant, the largest nuclear plant in Europe. [[00:05:09](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=309.44s)]
+*  That the only source of risk there is Russia. [[00:05:12](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=312.64000000000004s)]
+*  You add to that Russia's absolutely irresponsible withdrawal or suspension of the [[00:05:16](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=316.92s)]
+*  New START Treaty, their decision to deploy the tactical nuclear weapons in Belarus. [[00:05:22](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=322.52000000000004s)]
+*  And it's clear that we are dealing with a nuclear terrorist. [[00:05:28](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=328.32000000000005s)]
+*  Now, look at Chernobyl station, which they also grabbed since they invaded us in February [[00:05:31](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=331.12s)]
+*  22. As soon as Russians are out of there, there is no risk. [[00:05:35](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=335.56s)]
+*  Similar here. We all have to work together to get them out. [[00:05:40](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=340.08000000000004s)]
+*  Because again, let me remind you about the Khohavka Dam destruction, which Russians [[00:05:43](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=343.92s)]
+*  did, knowing how devastating it will be. [[00:05:48](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=348.48s)]
+*  So the intent and there is no red lines for them there. [[00:05:51](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=351.52000000000004s)]
+*  We just have to stay focused and get them out from the station. [[00:05:55](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=355.6s)]
+*  As soon as it's in Ukrainian hands fully again, there will be no risks. [[00:05:59](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=359.56s)]
+*  Does Ukraine support what the UN is calling for, which is, you know, sort of a safe [[00:06:04](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=364.68s)]
+*  zone around it so that Ukraine isn't shelling in the area and neither is Russia? [[00:06:08](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=368.96s)]
+*  Look, all Ukraine should be demilitarized from Russian military. [[00:06:13](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=373.28s)]
+*  So we have to get them out from everywhere in Ukraine, not to allow them [[00:06:17](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=377.23999999999995s)]
+*  create some safe zones for them inside Ukraine. [[00:06:22](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=382.44s)]
+*  We are very responsible, as you have seen during all this period, towards the [[00:06:25](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=385.67999999999995s)]
+*  nuclear, the Parisian nuclear station. [[00:06:29](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=389.91999999999996s)]
+*  But the only answer to that problem is no Russians there. [[00:06:31](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=391.96s)]
+*  It's Ukrainian territory, it's Ukrainian station, and there should not be [[00:06:37](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=397.76s)]
+*  occupiers, brutal occupiers there. [[00:06:41](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=401.8s)]
+*  We will be watching what happens this week at NATO. [[00:06:44](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=404.56s)]
+*  And so good to have you back with us, Ambassador. [[00:06:46](https://www.youtube.com/watch?v=nO0isSWC3Cs&t=406.96s)]
