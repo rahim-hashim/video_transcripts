@@ -1,0 +1,146 @@
+---
+Date Generated: January 28, 2025
+Transcription Model: whisper medium 20231117
+Length: 519s
+Video Keywords: ['Rachel Maddow']
+Video Views: 67925
+Video Rating: None
+Video Description: Rachel Maddow looks at Donald Trump's preference to use military transport planes for deportations instead of commercial passenger planes at a cost many magnitudes greater. Rep. Joe Neguse, a member of the House Judiciary Committee joins to discuss.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup 
+
+#Trump #military #deportation
+---
+
+# Trump spares no expense wasting taxpayer money on deportation plane photo-op stunt
+**NBC - Rachel Maddow:** [January 27, 2025](https://www.youtube.com/watch?v=ghoQ0CJVsqc)
+*  So this is a U.S. military aircraft. [[00:00:00](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=0.0s)]
+*  It's a C-17. [[00:00:02](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=2.24s)]
+*  These are meant to fly not only U.S. troops around the world, but also tons of cargo. [[00:00:04](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=4.72s)]
+*  You can see, if you look inside, just how huge cavernous they are. [[00:00:09](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=9.56s)]
+*  These carry around 85 tons and can still get off the ground. [[00:00:14](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=14.64s)]
+*  Wow. [[00:00:20](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=20.400000000000002s)]
+*  Right now, though, the Trump administration is using these same military planes for this, [[00:00:21](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=21.400000000000002s)]
+*  for deportations. [[00:00:27](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=27.52s)]
+*  The Trump administration used this C-17 last week to deport 80 people from Texas to Guatemala. [[00:00:29](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=29.2s)]
+*  Unless each of those people weighs more than one ton, it is functionally inexplicable why [[00:00:36](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=36.92s)]
+*  they needed to be boarded onto a C-17 to make that flight. [[00:00:44](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=44.04s)]
+*  Maybe they're very dense. [[00:00:49](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=49.56s)]
+*  I don't know. [[00:00:50](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=50.56s)]
+*  Deportations, of course, take place under every presidential administration. [[00:00:52](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=52.28s)]
+*  Typically, the government hires a plane for the day to do deportations. [[00:00:55](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=55.6s)]
+*  They charter a traditional civilian-style aircraft. [[00:01:00](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=60.44s)]
+*  It costs around $8,000 an hour. [[00:01:03](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=63.120000000000005s)]
+*  So take, for example, that flight last week from Texas to Guatemala, about a 12-hour roundtrip [[00:01:06](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=66.44s)]
+*  flight. [[00:01:11](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=71.84s)]
+*  If you did it the old way, on a normal non-military plane, that would have cost taxpayers a little [[00:01:12](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=72.84s)]
+*  over $100,000. [[00:01:17](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=77.48s)]
+*  But that, of course, is not how the Trump administration is doing it, because look how [[00:01:18](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=78.48s)]
+*  look to use these big military planes instead. [[00:01:23](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=83.56s)]
+*  The plane in this picture, this C-17, it is lovely, and it can do a lot of amazing things, [[00:01:27](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=87.84s)]
+*  but it is also wildly expensive compared with normal aircraft. [[00:01:32](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=92.52000000000001s)]
+*  Instead of costing roughly $100,000 for that flight, this flight under the Trump administration [[00:01:36](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=96.32000000000001s)]
+*  cost taxpayers more than a quarter million dollars. [[00:01:41](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=101.68s)]
+*  Just that one flight. [[00:01:46](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=106.08s)]
+*  And it's not just the C-17. [[00:01:47](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=107.24000000000001s)]
+*  That's actually the cheaper plane they're using. [[00:01:49](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=109.88s)]
+*  The White House says they're also going to use a second kind of military plane to [[00:01:52](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=112.32s)]
+*  carry out deportation, one that's even more expensive. [[00:01:55](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=115.55999999999999s)]
+*  A 12-hour roundtrip flight on one of these babies, on a C-130E, that costs taxpayers [[00:02:01](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=121.52s)]
+*  as much as $850,000. [[00:02:07](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=127.55999999999999s)]
+*  And this is not a one-off thing that they just did for, like, week one to show off how [[00:02:13](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=133.35999999999999s)]
+*  tough they are and look at our great photo op. [[00:02:17](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=137.56s)]
+*  The Trump administration says they plan to use military planes to deport immigrants every [[00:02:19](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=139.72s)]
+*  single day of the Trump administration. [[00:02:26](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=146.36s)]
+*  So 365 days a year, times four years, times roughly, let's say, $800,000 wasted every [[00:02:29](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=149.96s)]
+*  single one of those days. [[00:02:39](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=159.32s)]
+*  If you created a bonfire of all that money, it would outshine the sun. [[00:02:43](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=163.12s)]
+*  But that's money that they are lighting on fire for no reason, other than they think [[00:02:48](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=168.26s)]
+*  it looks cool, looks tough. [[00:02:52](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=172.89999999999998s)]
+*  What kind of respect is this show for the military, by the way? [[00:02:55](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=175.34s)]
+*  The new administration has been trying to make a big splashy deal of all the mass arrests [[00:03:00](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=180.54s)]
+*  it's been carrying out, very proudly thumping their chest and saying they got 1,200 immigrants [[00:03:04](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=184.34s)]
+*  arrested in just one day yesterday. [[00:03:10](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=190.7s)]
+*  Right? [[00:03:12](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=192.89999999999998s)]
+*  They're showing off the fact that they're making good on their promise to prioritize [[00:03:13](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=193.89999999999998s)]
+*  the deportation of immigrants who have committed serious and violent crimes. [[00:03:17](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=197.94s)]
+*  Except the administration is having to admit today that actually about half of those people [[00:03:22](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=202.34s)]
+*  they arrested yesterday are not violent criminals at all. [[00:03:27](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=207.06s)]
+*  Half of them are people who have not committed any criminal offense at all, or if they're [[00:03:31](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=211.94s)]
+*  accused of anything, it's a nonviolent offense. [[00:03:36](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=216.86s)]
+*  But they nevertheless are about to be put on an $800,000 flight out of the country. [[00:03:40](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=220.98s)]
+*  Because doesn't that photo op look awesome? [[00:03:46](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=226.9s)]
+*  Joining us now is Congressman Joe Noguist, Democrat of Colorado, member of the House [[00:03:50](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=230.46s)]
+*  Democratic leadership team. [[00:03:53](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=233.42000000000002s)]
+*  Sir, it's nice to see you. [[00:03:54](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=234.86s)]
+*  Thanks for being here. [[00:03:56](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=236.1s)]
+*  Thank you, Rachel. [[00:03:57](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=237.1s)]
+*  Good evening. [[00:03:58](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=238.1s)]
+*  Good to be with you. [[00:03:59](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=239.1s)]
+*  Congress has the power of the purse. [[00:04:00](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=240.64000000000001s)]
+*  That includes approving the budget for the military. [[00:04:01](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=241.7s)]
+*  What is your feeling about this pledge that they're going to use military planes every [[00:04:04](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=244.18s)]
+*  day for deportations? [[00:04:09](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=249.66s)]
+*  Well, first, I would just say, Rachel, I think you've articulated well the core strategy [[00:04:11](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=251.14000000000001s)]
+*  apparently of the Trump administration over the last week, which is to flood the zone [[00:04:16](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=256.46s)]
+*  with destructive and chaotic decisions accompanied by bluster and photo ops, whether it's in [[00:04:20](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=260.58s)]
+*  reference to the planes or the inauguration rally in which the president signed a number [[00:04:27](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=267.41999999999996s)]
+*  of destructive executive orders to obfuscate away from the real damage that's caused by [[00:04:32](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=272.5s)]
+*  the decisions that he and his administration are making. [[00:04:37](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=277.38s)]
+*  And that, of course, extends in the immigration context to his unconstitutional attempt to [[00:04:40](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=280.06s)]
+*  effectively rewrite the 14th Amendment to the pardons that you've covered extensively [[00:04:44](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=284.86s)]
+*  that he issued to violent felons who assaulted police officers on January 6th. [[00:04:49](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=289.46s)]
+*  And all of these decisions writ large, of course, are striking a lot of fear in communities [[00:04:54](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=294.65999999999997s)]
+*  across the country, including in communities that I represent here in Colorado. [[00:05:00](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=300.46s)]
+*  So, of course, it is beyond the irony of ironies that the waste of taxpayer dollars that [[00:05:04](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=304.94s)]
+*  you described would only be revealed by virtue of your reporting since there is no inspector [[00:05:11](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=311.14000000000004s)]
+*  general as a result of his midnight purge of the inspector generals just a few days ago. [[00:05:16](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=316.42s)]
+*  So it's important for us to continue to stay alert and to raise these issues to a broader [[00:05:22](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=322.70000000000005s)]
+*  section of the American public. [[00:05:29](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=329.06s)]
+*  As I mentioned, you're in Democratic leadership in Congress, and I think you're getting at it a [[00:05:32](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=332.02000000000004s)]
+*  little bit here in that in what you just said. [[00:05:37](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=337.38s)]
+*  But can you share a little bit about how Democrats, especially Democrats in leadership [[00:05:39](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=339.94s)]
+*  right now, are thinking in terms of strategy and potential action around immigration and the [[00:05:45](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=345.82s)]
+*  new administration? I mean, obviously, they've got some highlight things they are trying to do. [[00:05:50](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=350.62s)]
+*  They are trying to bring us back, if not to the 1960s, particularly potentially to the 1860s [[00:05:54](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=354.74s)]
+*  in terms of what they're doing on on civil rights and discrimination. [[00:06:01](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=361.54s)]
+*  We're seeing what they're doing in terms of trying to use law enforcement to terrorize and punish [[00:06:05](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=365.66s)]
+*  people who either criticize or in some ways are defined as in opposition to the president and his [[00:06:12](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=372.14000000000004s)]
+*  administration. They're taking away all forms of accountability and oversight, as you mentioned with [[00:06:20](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=380.62s)]
+*  the attorneys general, with the inspectors general, excuse me. [[00:06:26](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=386.62s)]
+*  But what they're doing to immigrants is something they say they're going to do every day. [[00:06:29](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=389.98s)]
+*  And they're already getting rid of the idea that it's just going to be criminals, violent [[00:06:33](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=393.26s)]
+*  criminals. They're already admitting that they're arresting people who don't have any serious [[00:06:38](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=398.38s)]
+*  criminal charges against them. What's Democratic strategy for trying to take that on? [[00:06:43](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=403.26s)]
+*  A couple of things I'd say, Rachel. First, I certainly agree with you. I think the fears [[00:06:49](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=409.34s)]
+*  will only metastasize given the current course that this administration is on. I think most [[00:06:52](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=412.3s)]
+*  Americans agree that our immigration system is broken and that it merits working together in a [[00:06:56](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=416.78s)]
+*  bipartisan way to protect dreamers, to address immigration in a comprehensive, holistic way. [[00:07:01](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=421.74s)]
+*  That is certainly not this approach that the administration is taking. And I know, [[00:07:07](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=427.1s)]
+*  I suspect, a lot of your viewers, certainly a lot of American citizens, feel helpless and powerless [[00:07:12](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=432.14000000000004s)]
+*  in this moment given the events of the last seven days. I would encourage folks to resist that [[00:07:17](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=437.82000000000005s)]
+*  temptation. We are not powerless. We each have agency. Every member of Congress, every senator, [[00:07:22](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=442.14000000000004s)]
+*  every citizen has a voice, and now is the time to use it. I would remind your viewers, [[00:07:27](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=447.58s)]
+*  eight years ago, as you covered extensively, Rachel, during President Trump's first term, [[00:07:32](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=452.94s)]
+*  he made a cornerstone priority of his administration, the repeal of the Affordable [[00:07:37](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=457.41999999999996s)]
+*  Care Act. And as you know, that ultimately did not come to fruition, notwithstanding Republican [[00:07:41](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=461.58s)]
+*  majorities in the House and the Senate. And that's because the American public stood up and spoke [[00:07:46](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=466.29999999999995s)]
+*  loudly in opposition to the disastrous plans that he had articulated. I believe that the same will [[00:07:51](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=471.58s)]
+*  be required in this moment. As you know, the Republicans have a dwindling majority that is [[00:07:57](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=477.34s)]
+*  shrinking by the day in the House, and we will certainly stand principled, consistent with our [[00:08:02](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=482.78s)]
+*  values against any efforts that the Trump administration is pursuing that I believe [[00:08:08](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=488.61999999999995s)]
+*  would undermine the rule of law or, as I said, strike palpable fear in the hearts of so many [[00:08:12](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=492.78s)]
+*  of our constituents. [[00:08:17](https://www.youtube.com/watch?v=ghoQ0CJVsqc&t=497.73999999999995s)]
