@@ -1,0 +1,142 @@
+---
+Date Generated: January 29, 2025
+Transcription Model: whisper medium 20231117
+Length: 461s
+Video Keywords: ['politics', 'us politics', 'politics today', 'civil liberties', 'civil rights and civil liberties', 'independent media', 'independent journalism', 'journalism', 'journalist', 'investigative journalism', 'free speech', 'freedom of speech', 'free speech rights', 'internet free speech']
+Video Views: 9565
+Video Rating: None
+Video Description: This is a clip from our show SYSTEM UPDATE, now airing every weeknight at 7pm ET on Rumble. You can watch the full episode for FREE here: https://rumble.com/v413v4t-system-update-show-198.html
+
+Now available as a podcast! Find full episodes here: https://linktr.ee/systemupdate_
+
+Join us LIVE on Rumble, weeknights at 7pm ET: https://rumble.com/c/GGreenwald
+
+Become part of our Locals community: https://greenwald.locals.com/
+
+Follow Glenn:
+Twitter: https://twitter.com/ggreenwald
+Instagram: https://www.instagram.com/glenn.11.greenwald/
+
+Follow System Update: 
+Twitter: https://twitter.com/SystemUpdate_
+Instagram: https://www.instagram.com/systemupdate__/
+TikTok: https://www.tiktok.com/@systemupdate__
+Facebook: https://www.facebook.com/systemupdate.tv/
+LinkedIn: https://www.linkedin.com/company/systemupdate/
+---
+
+# 🇧🇷 Extreme New Censorship Escalation in Brazil [LEGENDADO]
+**Glenn Greenwald - System Update:** [December 17, 2023](https://www.youtube.com/watch?v=pMH--gOSGP4)
+*  All right. [[00:00:00](https://www.youtube.com/watch?v=pMH--gOSGP4&t=0.0s)]
+*  For our last story, we want to take you to Brazil in part because as I said, major censorship [[00:00:07](https://www.youtube.com/watch?v=pMH--gOSGP4&t=7.2s)]
+*  in the anywhere in the democratic world is a big story, but what happens in other countries [[00:00:12](https://www.youtube.com/watch?v=pMH--gOSGP4&t=12.84s)]
+*  in the democratic world is always a harbinger of what is to come in the United States. [[00:00:17](https://www.youtube.com/watch?v=pMH--gOSGP4&t=17.6s)]
+*  From the beginning, we have been reporting on the case of a podcaster named Monarchy [[00:00:22](https://www.youtube.com/watch?v=pMH--gOSGP4&t=22.400000000000002s)]
+*  who was the most popular podcaster in Brazil up until about two years ago. [[00:00:27](https://www.youtube.com/watch?v=pMH--gOSGP4&t=27.48s)]
+*  He was the Joe Rogan of Brazil. [[00:00:31](https://www.youtube.com/watch?v=pMH--gOSGP4&t=31.16s)]
+*  He had modeled his show after Joe Rogan. [[00:00:33](https://www.youtube.com/watch?v=pMH--gOSGP4&t=33.16s)]
+*  He would have three to four hour shows. [[00:00:35](https://www.youtube.com/watch?v=pMH--gOSGP4&t=35.519999999999996s)]
+*  Every major figure in Brazil wanted to go on. [[00:00:40](https://www.youtube.com/watch?v=pMH--gOSGP4&t=40.28s)]
+*  We're desperate to go on because of how large his audiences just like Joe Rogan. [[00:00:44](https://www.youtube.com/watch?v=pMH--gOSGP4&t=44.8s)]
+*  I went on once myself. [[00:00:48](https://www.youtube.com/watch?v=pMH--gOSGP4&t=48.0s)]
+*  I went on with my husband a second time. [[00:00:49](https://www.youtube.com/watch?v=pMH--gOSGP4&t=49.0s)]
+*  It was a gigantic podcast. [[00:00:51](https://www.youtube.com/watch?v=pMH--gOSGP4&t=51.84s)]
+*  And then one night Monarchy was debating free speech and a member of the Brazilian Congress [[00:00:54](https://www.youtube.com/watch?v=pMH--gOSGP4&t=54.98s)]
+*  asked him when he was saying he opposes the right of the state to ban political parties [[00:01:00](https://www.youtube.com/watch?v=pMH--gOSGP4&t=60.66s)]
+*  or to criminalize particular views. [[00:01:05](https://www.youtube.com/watch?v=pMH--gOSGP4&t=65.7s)]
+*  She asked him, even the Nazi party, you don't think the state should have the right to ban [[00:01:07](https://www.youtube.com/watch?v=pMH--gOSGP4&t=67.42s)]
+*  the Nazi party? [[00:01:11](https://www.youtube.com/watch?v=pMH--gOSGP4&t=71.74s)]
+*  And he said, no, I don't. [[00:01:12](https://www.youtube.com/watch?v=pMH--gOSGP4&t=72.74s)]
+*  It's like in the United States. [[00:01:13](https://www.youtube.com/watch?v=pMH--gOSGP4&t=73.74s)]
+*  I don't think the state should have the right to ban any party, including Nazis. [[00:01:14](https://www.youtube.com/watch?v=pMH--gOSGP4&t=74.74s)]
+*  Overnight the Brazilian media lied about him and said he had admitted that he supports [[00:01:19](https://www.youtube.com/watch?v=pMH--gOSGP4&t=79.86s)]
+*  Nazism. [[00:01:24](https://www.youtube.com/watch?v=pMH--gOSGP4&t=84.8s)]
+*  They turned him into a Nazi, not someone who supports free speech for Nazis, but a Nazi. [[00:01:25](https://www.youtube.com/watch?v=pMH--gOSGP4&t=85.8s)]
+*  Within two days, YouTube banned his show. [[00:01:31](https://www.youtube.com/watch?v=pMH--gOSGP4&t=91.6s)]
+*  He got fired from his podcast, demonetized, and he ended up getting hired by Rumble or [[00:01:35](https://www.youtube.com/watch?v=pMH--gOSGP4&t=95.24s)]
+*  Rumble paid to bring his show to Rumble because Rumble is a free speech platform that supports [[00:01:43](https://www.youtube.com/watch?v=pMH--gOSGP4&t=103.12s)]
+*  people who are censored. [[00:01:47](https://www.youtube.com/watch?v=pMH--gOSGP4&t=107.03999999999999s)]
+*  And yet that wasn't enough. [[00:01:49](https://www.youtube.com/watch?v=pMH--gOSGP4&t=109.47999999999999s)]
+*  The Brazilian Supreme Court, using immense censorship powers, began ordering Rumble and [[00:01:51](https://www.youtube.com/watch?v=pMH--gOSGP4&t=111.64s)]
+*  every other social media platform, including Twitter and Facebook and Instagram, to ban [[00:01:58](https://www.youtube.com/watch?v=pMH--gOSGP4&t=118.28s)]
+*  him from using social media. [[00:02:02](https://www.youtube.com/watch?v=pMH--gOSGP4&t=122.58s)]
+*  They completely depersoned him and silenced him. [[00:02:03](https://www.youtube.com/watch?v=pMH--gOSGP4&t=123.96000000000001s)]
+*  And then because he criticized the Supreme Court, they launched a criminal investigation [[00:02:08](https://www.youtube.com/watch?v=pMH--gOSGP4&t=128.4s)]
+*  against him for criticizing the Supreme Court for questioning the results of the 2022 election. [[00:02:14](https://www.youtube.com/watch?v=pMH--gOSGP4&t=134.48s)]
+*  They criminally prosecuted him for his views. [[00:02:22](https://www.youtube.com/watch?v=pMH--gOSGP4&t=142.32s)]
+*  Here is a report that we did on this when we got a hold of a secret order by a judge [[00:02:26](https://www.youtube.com/watch?v=pMH--gOSGP4&t=146.23999999999998s)]
+*  of the Supreme Court who has become notorious for censoring political speech. [[00:02:29](https://www.youtube.com/watch?v=pMH--gOSGP4&t=149.83999999999997s)]
+*  And if you want to hear the story, we actually interviewed Monarchy there. [[00:02:34](https://www.youtube.com/watch?v=pMH--gOSGP4&t=154.6s)]
+*  We went over the court order that was issued to Twitter, Facebook, Rumble, and many other [[00:02:37](https://www.youtube.com/watch?v=pMH--gOSGP4&t=157.0s)]
+*  platforms banning Monarch before he was even convicted of a crime or charged with a crime. [[00:02:41](https://www.youtube.com/watch?v=pMH--gOSGP4&t=161.23999999999998s)]
+*  And then they launched a criminal investigation against him. [[00:02:47](https://www.youtube.com/watch?v=pMH--gOSGP4&t=167.88s)]
+*  He has since fled Brazil. [[00:02:50](https://www.youtube.com/watch?v=pMH--gOSGP4&t=170.88s)]
+*  He's a fugitive from his own country. [[00:02:53](https://www.youtube.com/watch?v=pMH--gOSGP4&t=173.08s)]
+*  He took refuge in the United States. [[00:02:55](https://www.youtube.com/watch?v=pMH--gOSGP4&t=175.96s)]
+*  His only crime is he expressed views that the Brazilian government, the Brazilian court, [[00:02:59](https://www.youtube.com/watch?v=pMH--gOSGP4&t=179.36s)]
+*  has decided is criminal to be expressed. [[00:03:04](https://www.youtube.com/watch?v=pMH--gOSGP4&t=184.64000000000001s)]
+*  Imagine living in a country that repressive, that is so hostile to free speech. [[00:03:07](https://www.youtube.com/watch?v=pMH--gOSGP4&t=187.68s)]
+*  Now, amazing is all that has been. [[00:03:17](https://www.youtube.com/watch?v=pMH--gOSGP4&t=197.56s)]
+*  And I've been reporting on it because it's shocking. [[00:03:21](https://www.youtube.com/watch?v=pMH--gOSGP4&t=201.20000000000002s)]
+*  I know Monarch because I've been on his show. [[00:03:22](https://www.youtube.com/watch?v=pMH--gOSGP4&t=202.8s)]
+*  I also have become friends with him because of how much support I have for what he's gone [[00:03:25](https://www.youtube.com/watch?v=pMH--gOSGP4&t=205.56s)]
+*  through. [[00:03:31](https://www.youtube.com/watch?v=pMH--gOSGP4&t=211.56s)]
+*  His life has been ruined. [[00:03:32](https://www.youtube.com/watch?v=pMH--gOSGP4&t=212.56s)]
+*  All for saying that he doesn't think the state should be able to ban political parties. [[00:03:34](https://www.youtube.com/watch?v=pMH--gOSGP4&t=214.08s)]
+*  What happened today is a bridge even further than I thought they would go. [[00:03:41](https://www.youtube.com/watch?v=pMH--gOSGP4&t=221.4s)]
+*  The justice minister of the current government, President Lula da Silva, is named Flavio Dino. [[00:03:47](https://www.youtube.com/watch?v=pMH--gOSGP4&t=227.20000000000002s)]
+*  He's technically a member of the Communist Party, but he's not really a communist. [[00:03:54](https://www.youtube.com/watch?v=pMH--gOSGP4&t=234.0s)]
+*  The Communist Party in Brazil is just a very kind of pragmatic. [[00:03:57](https://www.youtube.com/watch?v=pMH--gOSGP4&t=237.64000000000001s)]
+*  He had been in the Communist Party. [[00:04:01](https://www.youtube.com/watch?v=pMH--gOSGP4&t=241.88s)]
+*  He's since moved to a different party, but he's a long time member of the Communist Party, [[00:04:03](https://www.youtube.com/watch?v=pMH--gOSGP4&t=243.24s)]
+*  but it's not really the Communist Party. [[00:04:07](https://www.youtube.com/watch?v=pMH--gOSGP4&t=247.24s)]
+*  You have to take my word for that. [[00:04:08](https://www.youtube.com/watch?v=pMH--gOSGP4&t=248.88s)]
+*  But he's definitely a left-wing figure, and he's the justice minister. [[00:04:11](https://www.youtube.com/watch?v=pMH--gOSGP4&t=251.52s)]
+*  And Monarch has been heavily criticizing him because it's the justice ministry that has [[00:04:16](https://www.youtube.com/watch?v=pMH--gOSGP4&t=256.84000000000003s)]
+*  been prosecuting him. [[00:04:20](https://www.youtube.com/watch?v=pMH--gOSGP4&t=260.40000000000003s)]
+*  And Flavio Dino went to the criminal courts to initiate this criminal case against Monarch. [[00:04:23](https://www.youtube.com/watch?v=pMH--gOSGP4&t=263.44s)]
+*  The Supreme Court approved it, and now there's a criminal proceeding against Monarch. [[00:04:29](https://www.youtube.com/watch?v=pMH--gOSGP4&t=269.40000000000003s)]
+*  Lula has now nominated, there's an opening on the Supreme Court, Lula has nominated this [[00:04:35](https://www.youtube.com/watch?v=pMH--gOSGP4&t=275.40000000000003s)]
+*  justice minister, Flavio Dino, for an opening on the Supreme Court. [[00:04:39](https://www.youtube.com/watch?v=pMH--gOSGP4&t=279.46s)]
+*  Just like in the United States, there's now a hearing in the Senate to see if he'll be [[00:04:43](https://www.youtube.com/watch?v=pMH--gOSGP4&t=283.26s)]
+*  confirmed. [[00:04:46](https://www.youtube.com/watch?v=pMH--gOSGP4&t=286.85999999999996s)]
+*  Obviously, people are debating Flavio Dino and his, whether it's appropriate to put him [[00:04:47](https://www.youtube.com/watch?v=pMH--gOSGP4&t=287.85999999999996s)]
+*  on the Supreme Court. [[00:04:54](https://www.youtube.com/watch?v=pMH--gOSGP4&t=294.46s)]
+*  And Monarch, who is now in the United States where he does his show, because he can't be [[00:04:55](https://www.youtube.com/watch?v=pMH--gOSGP4&t=295.46s)]
+*  in Brazil because he knows they're trying to imprison him for expressing his views, [[00:04:59](https://www.youtube.com/watch?v=pMH--gOSGP4&t=299.53999999999996s)]
+*  as part of this criminal case, Flavio Dino, the justice minister, nominated for the Supreme [[00:05:04](https://www.youtube.com/watch?v=pMH--gOSGP4&t=304.85999999999996s)]
+*  Court, went to the criminal court and asked for an order barring Monarch from being able [[00:05:08](https://www.youtube.com/watch?v=pMH--gOSGP4&t=308.46000000000004s)]
+*  to talk about Flavio Dino at all, even being able to mention his name, even though he's [[00:05:15](https://www.youtube.com/watch?v=pMH--gOSGP4&t=315.1s)]
+*  the justice minister of the country, even though he's nominated for the Supreme Court. [[00:05:19](https://www.youtube.com/watch?v=pMH--gOSGP4&t=319.90000000000003s)]
+*  And the court today granted that request. [[00:05:25](https://www.youtube.com/watch?v=pMH--gOSGP4&t=325.1s)]
+*  Here from O Globo, one of the largest newspapers in Brazil, we translated the headline, it's [[00:05:28](https://www.youtube.com/watch?v=pMH--gOSGP4&t=328.42s)]
+*  of course in Portuguese. [[00:05:33](https://www.youtube.com/watch?v=pMH--gOSGP4&t=333.82s)]
+*  Defendant in a criminal action, Monarch receives pretrial restraints upon the request of Flavio [[00:05:34](https://www.youtube.com/watch?v=pMH--gOSGP4&t=334.82s)]
+*  Dino, that's the justice minister. [[00:05:41](https://www.youtube.com/watch?v=pMH--gOSGP4&t=341.14s)]
+*  The YouTuber is prohibited from commenting on the new justice, on the justice minister [[00:05:43](https://www.youtube.com/watch?v=pMH--gOSGP4&t=343.7s)]
+*  after he launched new attacks on him in a live stream. [[00:05:49](https://www.youtube.com/watch?v=pMH--gOSGP4&t=349.66s)]
+*  He made fun of his weight, he's obese, the justice minister, he made fun of him for that. [[00:05:52](https://www.youtube.com/watch?v=pMH--gOSGP4&t=352.78000000000003s)]
+*  In a democratic state, a court preventing you, ordering a citizen, banning you from [[00:05:59](https://www.youtube.com/watch?v=pMH--gOSGP4&t=359.5s)]
+*  commenting on, even mentioning the name of a high official. [[00:06:05](https://www.youtube.com/watch?v=pMH--gOSGP4&t=365.46s)]
+*  That is how quickly censorship unravels, how quickly it expands. [[00:06:10](https://www.youtube.com/watch?v=pMH--gOSGP4&t=370.7s)]
+*  I know I spend a lot of time on censorship efforts in the United States and other western [[00:06:15](https://www.youtube.com/watch?v=pMH--gOSGP4&t=375.58s)]
+*  countries, this is why, this is where it leads to. [[00:06:20](https://www.youtube.com/watch?v=pMH--gOSGP4&t=380.9s)]
+*  And it's one of the reasons why I've been so indignant that all these people who pretended [[00:06:23](https://www.youtube.com/watch?v=pMH--gOSGP4&t=383.74s)]
+*  to be allies of those of us who believe in free speech until October 7th have turned [[00:06:29](https://www.youtube.com/watch?v=pMH--gOSGP4&t=389.16s)]
+*  on a dime now that there's an issue they really care about, now that there are views they [[00:06:33](https://www.youtube.com/watch?v=pMH--gOSGP4&t=393.96000000000004s)]
+*  really offended by, that they want suppressed, namely criticism of Israel. [[00:06:38](https://www.youtube.com/watch?v=pMH--gOSGP4&t=398.12s)]
+*  That's why it's so dangerous. [[00:06:42](https://www.youtube.com/watch?v=pMH--gOSGP4&t=402.48s)]
+*  And Brazil shows you where this can go, where this will go, where this is going in other [[00:06:45](https://www.youtube.com/watch?v=pMH--gOSGP4&t=405.76000000000005s)]
+*  European countries as well. [[00:06:51](https://www.youtube.com/watch?v=pMH--gOSGP4&t=411.92s)]
+*  It's to this kind of extreme that you inch and inch and inch and then finally get there [[00:06:55](https://www.youtube.com/watch?v=pMH--gOSGP4&t=415.7s)]
+*  in what would seem unthinkable, a very short time ago, it becomes totally normalized. [[00:06:59](https://www.youtube.com/watch?v=pMH--gOSGP4&t=419.65999999999997s)]
+*  That's why it's so important that we remain vigilant against it, even when it comes to [[00:07:05](https://www.youtube.com/watch?v=pMH--gOSGP4&t=425.56s)]
+*  efforts to shield Israel from being criticized. [[00:07:11](https://www.youtube.com/watch?v=pMH--gOSGP4&t=431.52s)]
+*  Thanks for watching this clip from System Update, our live show that airs every Monday [[00:07:17](https://www.youtube.com/watch?v=pMH--gOSGP4&t=437.8s)]
+*  through Friday at 7pm Eastern, exclusively on Rumble. [[00:07:21](https://www.youtube.com/watch?v=pMH--gOSGP4&t=441.44s)]
+*  You can catch the full nightly shows live or view the backlog of episodes for free on [[00:07:24](https://www.youtube.com/watch?v=pMH--gOSGP4&t=444.86s)]
+*  our Rumble page. [[00:07:29](https://www.youtube.com/watch?v=pMH--gOSGP4&t=449.46000000000004s)]
+*  You can also find full episodes the morning after they air across all major podcasting [[00:07:30](https://www.youtube.com/watch?v=pMH--gOSGP4&t=450.92s)]
+*  platforms including Spotify and Apple. [[00:07:35](https://www.youtube.com/watch?v=pMH--gOSGP4&t=455.2s)]
+*  All the information you need is linked below. [[00:07:37](https://www.youtube.com/watch?v=pMH--gOSGP4&t=457.72s)]
+*  We hope to see you there. [[00:07:39](https://www.youtube.com/watch?v=pMH--gOSGP4&t=459.54s)]

@@ -1,0 +1,430 @@
+---
+Date Generated: January 29, 2025
+Transcription Model: whisper medium 20231117
+Length: 607s
+Video Keywords: ['250128__TA04IncomeTax', 'News', 'Politics', 'TYT', 'The Young Turks', 'Cenk Uygur', 'Progressive', 'TYT Network', 'Ana Kasparian', 'political establishment', 'John Iadarola', 'Breaking News', 'Donald Trump', 'Trump', '2022 election', '2024 election', '2024', 'Rebel HQ', 'Kamala Harris', 'Kamala Harris Donald Trump', 'Joe Biden', 'Election', 'trump federal income tax', 'federal income tax trump', 'federal income tax withholding']
+Video Views: 36525
+Video Rating: None
+Video Description: Trump calls for the abolishment of federal income taxes. Ana Kasparian and Cenk Uygur discuss on The Young Turks. Do you agree with TYT's take? Tell us what you think in the comments below. SUBSCRIBE today: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+
+Help support our mission and get perks https://www.youtube.com/TheYoungTurks/join
+
+Your Support is Crucial to the Show: https://go.tyt.com/jointoday
+
+Read more HERE:  https://www.reuters.com/world/us/trump-push-use-tariffs-pay-tax-cuts-faces-opposition-congress-2025-01-22/
+
+"U.S. President Donald Trump is pushing a plan to explicitly use revenue from higher tariffs on imported goods to help pay for extending trillions of dollars in tax cuts, an unprecedented shift likely to face opposition from many of his fellow Republicans in Congress.
+
+The U.S. collects less than $100 billion annually in trade penalties imposed on imported goods as a tool to protect and grow domestic industries. That money is rarely a topic in Washington's routine budget battles because it makes up so little of the federal government's revenue."*
+
+*** 
+
+Watch TYT LIVE on weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live
+
+The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. 
+
+Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: ▶ https://www.youtube.com/TheYoungTurks/join
+
+The Young Turks are fearless in talking about the issues that matter. We are a rare show that combines all of the news that people care about in one place. We cover politics, entertainment, sports, and pop culture; all through a progressive lens.
+
+What does it mean to be a “Young Turk?”
+
+According to the American Heritage Dictionary;
+1. Young progressive or insurgent member of an institution, movement, or political party. 
+2. Young person who rebels against authority or societal expectations.
+
+"Sharp-witted, persuasive, and inspiring, calling out toxic Republicans, politely-ineffectual Democrats, and mealy-mouthed media mavens in equal measure, JUSTICE IS COMING will give heart to Democrats and progressives who seek to change our politics and society for the better.
+
+The media can’t stop talking about the gridlock in Washington, as if a handful of stubborn Republicans are the only thing standing between us and a fully-functional democracy. The reality is that our government has been taken over by big business and their allies in both political parties. The getaway driver in this heist was corporate media. The good news is that the American people are very progressive. And soon progressives will take over Washington as well! And when they do, the great majority of Americans will love it.
+
+In JUSTICE IS COMING: How Progressives Are Going to Take Over the Country and America Is Going to Love It (On sale: September 19, 2023), The Young Turks founder Cenk Uygur presents two ideas that counter everything we hear from pundits and politicians on a daily basis: one, progressives are correct on all issues, and two, America is actually a very progressive country. Millions of us know that we are a part of something larger, a movement that is already transforming Washington.
+
+JUSTICE IS COMING, a compulsively readable manifesto, seeks to apply the momentum progressives have already built to a concrete progressive agenda that activists, voters, and citizens can all rally around. JUSTICE IS COMING looks beyond Trump to the larger historical forces that have given us this unique political moment, and explains why we should fight, how we should fight, and how we will win."
+
+https://www.kirkusreviews.com/book-reviews/cenk-uygur/justice-is-coming/
+
+SUBSCRIBE on YOUTUBE: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+FACEBOOK: ☞ http://www.facebook.com/TheYoungTurks
+TWITTER: ☞ http://www.twitter.com/TheYoungTurks
+INSTAGRAM: ☞ http://www.instagram.com/TheYoungTurks
+TWITCH: ☞ http://www.twitch.com/tyt
+
+👕 Merch: http://shoptyt.com
+
+❤ Donate: http://www.tyt.com/go
+
+🔗 Website: https://www.tyt.com
+
+📱App: http://www.tyt.com/app
+
+📬 Newsletters: https://www.tyt.com/newsletters/
+
+
+If you want to watch more videos from TYT, consider subscribing to other channels in our network:
+
+The Watchlist https://www.youtube.com/watchlisttyt
+
+Indisputable with Dr. Rashad Richey https://www.youtube.com/indisputabletyt
+
+The Damage Report ▶ https://www.youtube.com/thedamagereport
+
+TYT Sports ▶ https://www.youtube.com/tytsports
+
+The Conversation ▶ https://www.youtube.com/tytconversation
+
+Rebel HQ ▶ https://www.youtube.com/rebelhq
+
+TYT Investigates ▶ https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA
+
+
+#TYT #TheYoungTurks #BreakingNews
+
+250128__TA04IncomeTax
+---
+
+# Trump's Insane NEW Plan To Rob YOU To Pay The RICH
+**The Young Turks - Hour 1:** [January 28, 2025](https://www.youtube.com/watch?v=t7YmYhAQ0zE)
+*  It's time for the United States to [[00:00:00](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=0.0s)]
+*  return to the system that made us [[00:00:01](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=1.8s)]
+*  richer and more powerful than ever [[00:00:03](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=3.44s)]
+*  before. [[00:00:05](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=5.24s)]
+*  Instead of taxing our citizens to [[00:00:05](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=5.74s)]
+*  enrich foreign nations, [[00:00:07](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=7.54s)]
+*  we should be tariffing and [[00:00:09](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=9.06s)]
+*  taxing foreign nations to enrich [[00:00:10](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=10.58s)]
+*  our citizens. [[00:00:12](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=12.5s)]
+*  Does that make sense, right? [[00:00:13](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=13.48s)]
+*  Does that make sense, Cenk? [[00:00:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=15.0s)]
+*  What are your thoughts? [[00:00:18](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=18.72s)]
+*  Yeah, no, it doesn't. [[00:00:19](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=19.52s)]
+*  So while I give Trump credit, [[00:00:20](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=20.96s)]
+*  as usual, because it's a fair show [[00:00:22](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=22.56s)]
+*  in America, the external revenue [[00:00:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=24.22s)]
+*  service was catchy. [[00:00:25](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=25.86s)]
+*  He did that in a couple of speeches [[00:00:27](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=27.080000000000002s)]
+*  including at the inauguration. [[00:00:29](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=29.0s)]
+*  Well, we were going to get the money [[00:00:31](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=31.16s)]
+*  from China and other countries, [[00:00:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=32.52s)]
+*  but we're not. [[00:00:33](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=33.84s)]
+*  So what they do is they impose [[00:00:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=34.44s)]
+*  tariffs actually on companies that [[00:00:36](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=36.08s)]
+*  import in, and those companies that [[00:00:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=37.96s)]
+*  usually pass on most of it to us. [[00:00:40](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=40.0s)]
+*  So we pay it anyway to the [[00:00:42](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=42.480000000000004s)]
+*  consumers. [[00:00:44](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=44.0s)]
+*  And so what it winds up becoming is [[00:00:45](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=45.2s)]
+*  a really regressive tax. [[00:00:47](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=47.040000000000006s)]
+*  So once you get rid of the income [[00:00:48](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=48.88s)]
+*  tax, which he's now threatening, [[00:00:50](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=50.28s)]
+*  we'll get to that in a sec. [[00:00:51](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=51.88s)]
+*  What happens is then the rich pay [[00:00:53](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=53.16s)]
+*  a lot less, but the average person [[00:00:55](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=55.120000000000005s)]
+*  who's a consumer pays a lot more in [[00:00:57](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=57.12s)]
+*  tariffs slash taxes. [[00:00:59](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=59.48s)]
+*  And so it's redistribution of [[00:01:01](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=61.0s)]
+*  income to the top. [[00:01:03](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=63.12s)]
+*  And there's one other giant [[00:01:04](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=64.52s)]
+*  problem with it, but [[00:01:05](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=65.92s)]
+*  I'll get to that in a sec. [[00:01:07](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=67.2s)]
+*  So, as you heard in that very brief [[00:01:08](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=68.75999999999999s)]
+*  clip, it appears that Donald Trump [[00:01:11](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=71.32s)]
+*  wants to do away with income taxes [[00:01:14](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=74.0s)]
+*  and replace it with tariffs. [[00:01:16](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=76.8s)]
+*  Now, do I think he's actually going [[00:01:19](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=79.52s)]
+*  to pursue getting rid of federal [[00:01:21](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=81.68s)]
+*  income taxes? [[00:01:23](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=83.52s)]
+*  No, I don't think he's going to do [[00:01:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=84.32s)]
+*  that. [[00:01:26](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=86.16s)]
+*  I actually think this story is [[00:01:27](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=87.36000000000001s)]
+*  hiding what is likely to happen [[00:01:29](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=89.32000000000001s)]
+*  because Donald Trump is very much [[00:01:31](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=91.4s)]
+*  interested in extending his tax cut [[00:01:33](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=93.60000000000001s)]
+*  bill from 2017. [[00:01:36](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=96.08000000000001s)]
+*  And in order to do that, [[00:01:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=97.36000000000001s)]
+*  he's going to make an argument, [[00:01:38](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=98.84s)]
+*  the Republicans in Congress are [[00:01:40](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=100.72000000000001s)]
+*  going to make an argument that [[00:01:42](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=102.64000000000001s)]
+*  doing this tax cut is totally fine. [[00:01:44](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=104.48s)]
+*  It's not going to add to the [[00:01:47](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=107.08000000000001s)]
+*  deficit because we have a pay for [[00:01:48](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=108.68s)]
+*  and the pay for is going to be [[00:01:50](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=110.80000000000001s)]
+*  tariffs. [[00:01:52](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=112.56s)]
+*  So let's go through this on [[00:01:53](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=113.16000000000001s)]
+*  a more granular level. [[00:01:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=114.80000000000001s)]
+*  So when it comes to revenue for [[00:01:56](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=116.56s)]
+*  the federal government, [[00:01:58](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=118.60000000000001s)]
+*  they currently generate some [[00:02:00](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=120.4s)]
+*  revenue from tariffs. [[00:02:02](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=122.36s)]
+*  That is true, but [[00:02:03](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=123.64s)]
+*  we're not talking about a lot of [[00:02:04](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=124.56s)]
+*  cash, we're talking about less than [[00:02:06](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=126.16s)]
+*  $100 billion annually. [[00:02:08](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=128.04s)]
+*  Tariffs have accounted for [[00:02:09](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=129.84s)]
+*  just 2% of annual revenues in [[00:02:11](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=131.68s)]
+*  recent years. [[00:02:13](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=133.88s)]
+*  In fact, take a look at this chart [[00:02:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=135.72s)]
+*  put together by Reuters, which [[00:02:17](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=137.4s)]
+*  gives you a sense of where the [[00:02:18](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=138.96s)]
+*  federal government gets the [[00:02:20](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=140.36s)]
+*  majority of its revenue from. [[00:02:21](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=141.68s)]
+*  So as you can see, [[00:02:23](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=143.32s)]
+*  the blue and the green represent [[00:02:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=144.52s)]
+*  individual income taxes and [[00:02:27](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=147.48000000000002s)]
+*  payroll taxes. [[00:02:29](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=149.28s)]
+*  So the bulk of revenue that [[00:02:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=150.68s)]
+*  the federal government generates [[00:02:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=152.24s)]
+*  comes from those two sources. [[00:02:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=154.20000000000002s)]
+*  Corporate income taxes much smaller, [[00:02:35](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=155.96s)]
+*  but even corporate income taxes [[00:02:38](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=158.28s)]
+*  bring in more revenue to [[00:02:40](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=160.20000000000002s)]
+*  the federal government compared to [[00:02:41](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=161.56s)]
+*  tariff payments, which is [[00:02:43](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=163.72s)]
+*  represented by that little red [[00:02:45](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=165.36s)]
+*  sliver that you see on the graph. [[00:02:47](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=167.20000000000002s)]
+*  Okay, so by and large, [[00:02:49](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=169.8s)]
+*  the majority of revenue from [[00:02:51](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=171.20000000000002s)]
+*  the federal government comes from [[00:02:52](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=172.84s)]
+*  both individual income taxes and [[00:02:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=174.68s)]
+*  payroll taxes. [[00:02:56](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=176.56s)]
+*  Okay, now, obviously tariffs would [[00:02:57](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=177.64000000000001s)]
+*  have to increase pretty [[00:03:00](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=180.12s)]
+*  substantially in order to cover [[00:03:01](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=181.6s)]
+*  the lost revenue from ending income [[00:03:03](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=183.6s)]
+*  taxes. [[00:03:06](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=186.08s)]
+*  Now the Nonpartisan Tax Foundation [[00:03:07](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=187.16s)]
+*  estimated Trump's most extreme [[00:03:09](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=189.52s)]
+*  tariff proposals, a 20% universal [[00:03:11](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=191.72s)]
+*  tariff plus a 60% tariff on China's [[00:03:14](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=194.16s)]
+*  exports to the US would raise about [[00:03:16](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=196.64000000000001s)]
+*  $3.8 trillion over the 10 year [[00:03:19](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=199.20000000000002s)]
+*  budget window to the federal government [[00:03:21](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=201.44s)]
+*  falling short of the $4.3 trillion [[00:03:25](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=205.2s)]
+*  needed to fully offset the cost of [[00:03:28](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=208.12s)]
+*  making the expiring tax cuts [[00:03:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=210.8s)]
+*  permanent. [[00:03:33](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=213.12s)]
+*  Yeah, so that's my second beef with [[00:03:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=214.56s)]
+*  the tariffs. [[00:03:36](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=216.4s)]
+*  Because look, some degree of [[00:03:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=217.44s)]
+*  tariffs could make sense. [[00:03:38](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=218.72s)]
+*  Definitely, yeah. [[00:03:40](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=220.04s)]
+*  It's not to say that you shouldn't [[00:03:40](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=220.92s)]
+*  have any tariffs on any goods. [[00:03:42](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=222.6s)]
+*  And I think there's a great [[00:03:44](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=224.32s)]
+*  argument to be made that if a [[00:03:45](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=225.76s)]
+*  different country, for example, [[00:03:47](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=227.28s)]
+*  China puts a tariff on us on [[00:03:49](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=229.32s)]
+*  a certain product, that we do [[00:03:50](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=230.92s)]
+*  compromise. [[00:03:52](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=232.8s)]
+*  We just mirror what they do so [[00:03:53](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=233.48000000000002s)]
+*  that we get the parity. [[00:03:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=234.92000000000002s)]
+*  And I don't want other countries [[00:03:56](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=236.36s)]
+*  taking advantage of this. [[00:03:57](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=237.56s)]
+*  Now having said that, all this [[00:03:58](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=238.36s)]
+*  tariff talk is exactly what Ana [[00:04:00](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=240.24s)]
+*  said, it's to mask the $4.3 [[00:04:02](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=242.08s)]
+*  trillion they're about to give away [[00:04:04](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=244.0s)]
+*  to largely the rich. [[00:04:06](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=246.32000000000002s)]
+*  And Trump also wants to lower [[00:04:07](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=247.60000000000002s)]
+*  the corporate taxes from 21%, [[00:04:09](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=249.68s)]
+*  which is already maniacally low, [[00:04:12](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=252.20000000000002s)]
+*  to 15%. [[00:04:14](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=254.88000000000002s)]
+*  So more giveaways to corporations. [[00:04:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=255.68s)]
+*  So what he's going to do is he's [[00:04:18](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=258.92s)]
+*  going to tell his base, that's okay, [[00:04:20](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=260.76s)]
+*  the tariffs are going to make up [[00:04:22](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=262.76s)]
+*  for it. [[00:04:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=264.03999999999996s)]
+*  That's exactly right. [[00:04:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=264.64s)]
+*  That's exactly right, yeah. [[00:04:25](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=265.24s)]
+*  And that's not going to come close [[00:04:26](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=266.0s)]
+*  even if he did all the tariffs and [[00:04:28](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=268.08s)]
+*  they didn't drive up inflation and [[00:04:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=270.32s)]
+*  they didn't get us into a trade [[00:04:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=272.56s)]
+*  war and they didn't create havoc. [[00:04:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=274.64s)]
+*  It still raised about 10% of the [[00:04:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=277.08s)]
+*  money you need to cover those tax [[00:04:39](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=279.76s)]
+*  cuts. [[00:04:42](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=282.48s)]
+*  Yes. [[00:04:43](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=283.24s)]
+*  So it's a trick guys. [[00:04:43](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=283.92s)]
+*  It's a trick to try to pass and [[00:04:46](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=286.15999999999997s)]
+*  you know what Trump did last time. [[00:04:47](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=287.96s)]
+*  He added $8.4 trillion to the [[00:04:49](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=289.92s)]
+*  deficit and he's going to do it [[00:04:52](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=292.44s)]
+*  again. [[00:04:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=294.32s)]
+*  And he's going to pretend that [[00:04:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=294.84s)]
+*  the tariffs will save the day 12 [[00:04:56](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=296.24s)]
+*  years from now, nonsense. [[00:04:57](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=297.8s)]
+*  They're not going to save [[00:04:59](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=299.15999999999997s)]
+*  the day at all. [[00:05:00](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=300.32s)]
+*  And we're going to be so [[00:05:01](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=301.0s)]
+*  massively bankrupt after we [[00:05:02](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=302.15999999999997s)]
+*  redistributed all the money to [[00:05:03](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=303.68s)]
+*  the top. [[00:05:05](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=305.36s)]
+*  Yeah, and look, it is true that [[00:05:06](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=306.96s)]
+*  the tariffs that Donald Trump [[00:05:09](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=309.28s)]
+*  implemented against China in his [[00:05:11](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=311.56s)]
+*  first term did not lead to [[00:05:13](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=313.88s)]
+*  inflation. [[00:05:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=315.56s)]
+*  In fact, even the Biden [[00:05:16](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=316.52s)]
+*  administration had a debate about [[00:05:17](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=317.56s)]
+*  it when they were in charge and [[00:05:19](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=319.08s)]
+*  they realized, wow, [[00:05:20](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=320.52s)]
+*  this actually did not lead to [[00:05:22](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=322.15999999999997s)]
+*  inflation. [[00:05:23](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=323.64s)]
+*  And they not only kept Trump's [[00:05:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=324.36s)]
+*  China tariffs, [[00:05:26](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=326.24s)]
+*  they expanded upon them. [[00:05:27](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=327.28s)]
+*  So I wanted to just kind of make [[00:05:29](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=329.24s)]
+*  that point. [[00:05:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=330.28s)]
+*  There are some instances where [[00:05:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=330.8s)]
+*  targeted tariffs might make sense. [[00:05:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=332.15999999999997s)]
+*  However, if you're going to do [[00:05:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=334.08s)]
+*  tariffs across the board, and [[00:05:35](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=335.71999999999997s)]
+*  you're going to do away with [[00:05:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=337.4s)]
+*  the federal income tax, [[00:05:38](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=338.84s)]
+*  I think that is going to lead to [[00:05:40](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=340.2s)]
+*  hyperinflation. [[00:05:41](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=341.88s)]
+*  Not only because the consumers [[00:05:43](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=343.32s)]
+*  will be forced to absorb the cost [[00:05:45](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=345.15999999999997s)]
+*  of those tariffs, but there's also [[00:05:47](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=347.03999999999996s)]
+*  the issue of money supply, right? [[00:05:49](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=349.24s)]
+*  If you're not being taxed for [[00:05:51](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=351.72s)]
+*  federal income, well, then you [[00:05:53](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=353.44000000000005s)]
+*  might have a little more disposable [[00:05:55](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=355.24s)]
+*  income, more money supply means [[00:05:57](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=357.24s)]
+*  more inflation, does it not? [[00:05:59](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=359.12s)]
+*  Yeah, so look, [[00:06:01](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=361.12s)]
+*  those are great points. [[00:06:02](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=362.0s)]
+*  But on top of that, look, [[00:06:03](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=363.28000000000003s)]
+*  Trump does this all the time. [[00:06:04](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=364.56s)]
+*  He proposes something so [[00:06:06](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=366.16s)]
+*  extreme like getting rid of the [[00:06:07](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=367.68s)]
+*  income tax entirely, so that it [[00:06:09](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=369.68s)]
+*  appears to be a compromise when [[00:06:11](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=371.72s)]
+*  they give away 4 trillion to [[00:06:13](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=373.52000000000004s)]
+*  the rich. [[00:06:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=375.16s)]
+*  So he's- [[00:06:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=375.92s)]
+*  They're going to do that anyway. [[00:06:16](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=376.6s)]
+*  It's absolutely impossible to get [[00:06:17](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=377.92s)]
+*  rid of the income tax. [[00:06:19](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=379.52000000000004s)]
+*  If we got rid of the income tax, [[00:06:21](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=381.24s)]
+*  we'd have no money, [[00:06:22](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=382.76s)]
+*  including for beloved defense in [[00:06:23](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=383.68s)]
+*  Israel. [[00:06:25](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=385.32s)]
+*  So there's no way it's going to [[00:06:25](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=385.92s)]
+*  happen, okay? [[00:06:27](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=387.56s)]
+*  So just on pork barrel projects [[00:06:28](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=388.84s)]
+*  alone, they'd never allow it. [[00:06:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=390.59999999999997s)]
+*  These guys are all owned by [[00:06:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=392.4s)]
+*  the donors. [[00:06:33](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=393.64s)]
+*  So the income tax being taken, [[00:06:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=394.2s)]
+*  it's just an outlandish, [[00:06:36](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=396.2s)]
+*  ridiculous idea. [[00:06:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=397.8s)]
+*  No one should give it one ounce of [[00:06:39](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=399.44s)]
+*  credibility. [[00:06:41](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=401.36s)]
+*  And no, I'm not interested in that [[00:06:42](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=402.56s)]
+*  compromise where you get all of [[00:06:44](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=404.28s)]
+*  your tax cuts for the rich and [[00:06:45](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=405.96s)]
+*  all of your tax cuts for [[00:06:47](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=407.52s)]
+*  corporations. [[00:06:48](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=408.76s)]
+*  Now, it doesn't matter what you [[00:06:50](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=410.32s)]
+*  want because they're going to get [[00:06:51](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=411.8s)]
+*  that, okay? [[00:06:53](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=413.28s)]
+*  They're going to get that. [[00:06:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=414.0s)]
+*  This is what the compromise is. [[00:06:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=414.71999999999997s)]
+*  So Reuters reports that the House [[00:06:56](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=416.71999999999997s)]
+*  Ways and Means Committee included [[00:06:58](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=418.56s)]
+*  a 10% across the board tariff in [[00:07:00](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=420.71999999999997s)]
+*  its menu of options to pay for [[00:07:02](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=422.71999999999997s)]
+*  extending the tax cuts. [[00:07:04](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=424.56s)]
+*  It estimated such a tariff regime [[00:07:06](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=426.56s)]
+*  would fetch $1.9 trillion over 10 [[00:07:08](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=428.52s)]
+*  years, according to the memo. [[00:07:10](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=430.71999999999997s)]
+*  Extending the tax cuts Trump passed [[00:07:12](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=432.88s)]
+*  during his first term and [[00:07:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=435.08s)]
+*  which expired this year would cost [[00:07:16](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=436.48s)]
+*  $4 trillion, to your point, [[00:07:18](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=438.36s)]
+*  Cenk, over 10 years, [[00:07:20](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=440.06s)]
+*  according to estimates from [[00:07:21](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=441.46s)]
+*  analysts. [[00:07:23](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=443.02s)]
+*  And so- Yeah, I just got to say [[00:07:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=444.66s)]
+*  that 1.9 trillion is outlandish. [[00:07:26](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=446.1s)]
+*  I don't think it's going to come [[00:07:28](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=448.06s)]
+*  anywhere near that. [[00:07:29](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=449.5s)]
+*  But even if they got everything [[00:07:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=450.42s)]
+*  they wanted and their dream [[00:07:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=452.14s)]
+*  scenarios happened, [[00:07:33](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=453.62s)]
+*  they still missed by 2 trillion. [[00:07:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=454.86s)]
+*  Yeah, exactly. [[00:07:36](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=456.78s)]
+*  Look, the final thing I'll say [[00:07:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=457.98s)]
+*  about this is, there were some [[00:07:39](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=459.46s)]
+*  ideas that Trump had on the [[00:07:41](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=461.1s)]
+*  campaign trail that I would like [[00:07:42](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=462.62s)]
+*  him to actually pursue, okay? [[00:07:44](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=464.5s)]
+*  So for instance, this was a small [[00:07:46](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=466.58s)]
+*  thing, but [[00:07:48](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=468.74s)]
+*  I actually think it's a big deal. [[00:07:49](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=469.54s)]
+*  He had proposed making the interest [[00:07:52](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=472.18s)]
+*  on car loans tax deductible. [[00:07:54](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=474.58000000000004s)]
+*  And if you think that sounds [[00:07:56](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=476.90000000000003s)]
+*  outlandish, it isn't. [[00:07:58](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=478.3s)]
+*  In fact, that was something that [[00:07:59](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=479.54s)]
+*  consumers were able to do when [[00:08:01](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=481.70000000000005s)]
+*  filing their taxes up until 1986. [[00:08:03](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=483.54s)]
+*  I don't know why they got rid of [[00:08:05](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=485.82000000000005s)]
+*  that tax break. [[00:08:07](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=487.62s)]
+*  But if you're looking for [[00:08:08](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=488.62s)]
+*  tax cuts, I get it, you're going to [[00:08:10](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=490.18s)]
+*  look out for your rich buddies. [[00:08:12](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=492.26000000000005s)]
+*  But how about some targeted tax [[00:08:13](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=493.98s)]
+*  cuts that actually help ordinary [[00:08:15](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=495.5s)]
+*  American citizens? [[00:08:17](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=497.1s)]
+*  Yeah, look, we can go on and [[00:08:18](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=498.82000000000005s)]
+*  on an earned income tax credit. [[00:08:20](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=500.62s)]
+*  There's many different ways that [[00:08:22](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=502.38000000000005s)]
+*  you could attack the issue of [[00:08:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=504.70000000000005s)]
+*  taxes. [[00:08:26](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=506.78000000000003s)]
+*  And by the way, do it in a way [[00:08:27](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=507.90000000000003s)]
+*  that's popular and get more of your [[00:08:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=510.06s)]
+*  proposals through because you've [[00:08:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=512.78s)]
+*  become more popular, but [[00:08:35](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=515.26s)]
+*  they're not going to go in [[00:08:36](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=516.62s)]
+*  that direction. [[00:08:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=517.58s)]
+*  They're going to go in [[00:08:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=517.94s)]
+*  the extreme direction. [[00:08:38](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=518.74s)]
+*  because the number one point of [[00:08:39](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=519.5s)]
+*  the oligarchy that was sitting [[00:08:41](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=521.26s)]
+*  behind Donald Trump is [[00:08:43](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=523.02s)]
+*  a kleptocracy. [[00:08:44](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=524.4200000000001s)]
+*  I mean, these words, [[00:08:45](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=525.58s)]
+*  they're not great words. [[00:08:46](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=526.98s)]
+*  I don't like to use them often. [[00:08:48](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=528.38s)]
+*  Basically, they're going to rob us, [[00:08:49](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=529.3s)]
+*  okay? [[00:08:51](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=531.14s)]
+*  And the donors of the Democrats [[00:08:51](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=531.58s)]
+*  also robbed us. [[00:08:53](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=533.78s)]
+*  But then when MAGA thinks that [[00:08:55](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=535.9399999999999s)]
+*  the donors of Trump won't rob us, [[00:08:57](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=537.82s)]
+*  I find that to be hilarious. [[00:09:00](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=540.06s)]
+*  Why do you think they gave them [[00:09:02](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=542.58s)]
+*  all that money for [[00:09:04](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=544.26s)]
+*  the general welfare? [[00:09:05](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=545.3s)]
+*  because they love MAGA so much. [[00:09:07](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=547.14s)]
+*  Come on guys, don't be naive. [[00:09:10](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=550.06s)]
+*  So all those billionaires that [[00:09:12](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=552.58s)]
+*  were on the stands during Trump's [[00:09:14](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=554.82s)]
+*  inauguration, they're all going, [[00:09:17](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=557.3399999999999s)]
+*  Trump's guts, Trump's guts. [[00:09:20](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=560.06s)]
+*  They're going to save billions and [[00:09:23](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=563.26s)]
+*  they're going to dump it on [[00:09:24](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=564.5799999999999s)]
+*  your lap. [[00:09:25](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=565.4599999999999s)]
+*  And I don't want any Republican [[00:09:26](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=566.18s)]
+*  talking about balanced budgets from [[00:09:27](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=567.9s)]
+*  here on out. [[00:09:29](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=569.54s)]
+*  They don't want to balance budgets [[00:09:30](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=570.42s)]
+*  at all. [[00:09:31](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=571.8599999999999s)]
+*  They never have in my entire [[00:09:32](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=572.38s)]
+*  lifetime. [[00:09:33](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=573.8199999999999s)]
+*  Trump's going to destroy the budget [[00:09:34](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=574.6999999999999s)]
+*  with this again. [[00:09:36](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=576.38s)]
+*  Their only priority is tax cuts for [[00:09:37](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=577.26s)]
+*  the rich. [[00:09:39](https://www.youtube.com/watch?v=t7YmYhAQ0zE&t=579.4599999999999s)]

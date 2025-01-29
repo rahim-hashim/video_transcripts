@@ -1,0 +1,155 @@
+---
+Date Generated: January 28, 2025
+Transcription Model: whisper medium 20231117
+Length: 535s
+Video Keywords: ['politics', 'us politics', 'politics today', 'civil liberties', 'civil rights and civil liberties', 'independent media', 'independent journalism', 'journalism', 'journalist', 'investigative journalism', 'free speech', 'freedom of speech', 'free speech rights', 'internet free speech']
+Video Views: 47700
+Video Rating: None
+Video Description: This is a clip from our show SYSTEM UPDATE, now airing every weeknight at 7pm ET on Rumble. You can watch the full episode for FREE here: https://rumble.com/v5rrr4k-system-update-show-370.html?e9s=src_v1_epp
+
+Now available as a podcast! Find full episodes here: https://linktr.ee/systemupdate_
+
+Join us LIVE on Rumble, weeknights at 7pm ET: https://rumble.com/c/GGreenwald
+
+Become part of our Locals community: https://greenwald.locals.com/
+
+Follow Dave Smith's work: https://comicdavesmith.com/
+
+Follow Glenn:
+Twitter: https://twitter.com/ggreenwald
+Instagram: https://www.instagram.com/glenn.11.greenwald/
+
+Follow System Update: 
+Twitter: https://twitter.com/SystemUpdate_
+Instagram: https://www.instagram.com/systemupdate__/
+TikTok: https://www.tiktok.com/@systemupdate__
+Facebook: https://www.facebook.com/systemupdate.tv/
+LinkedIn: https://www.linkedin.com/company/systemupdate/
+---
+
+# Dave Smith: Trump Choosing Outsiders For The Next Admin
+**Glenn Greenwald - System Update:** [November 22, 2024](https://www.youtube.com/watch?v=bKygzaganZw)
+*  You said earlier that Trump is selecting all these basically terrible neocons, that Trump [[00:00:00](https://www.youtube.com/watch?v=bKygzaganZw&t=0.0s)]
+*  doesn't even pretend to want to kind of do things like get humanitarian aid into Gaza. [[00:00:12](https://www.youtube.com/watch?v=bKygzaganZw&t=12.040000000000001s)]
+*  And that's all true. [[00:00:17](https://www.youtube.com/watch?v=bKygzaganZw&t=17.6s)]
+*  At the same time, there clearly is two different types of Trump nominees. [[00:00:19](https://www.youtube.com/watch?v=bKygzaganZw&t=19.1s)]
+*  One is the type that the establishment, Democrats, the media, not just are comfortable with the [[00:00:23](https://www.youtube.com/watch?v=bKygzaganZw&t=23.400000000000002s)]
+*  people love. [[00:00:28](https://www.youtube.com/watch?v=bKygzaganZw&t=28.92s)]
+*  Marco Rubio as Secretary of State, Elise Stefanik as the US Ambassador to the UN, basically [[00:00:29](https://www.youtube.com/watch?v=bKygzaganZw&t=29.92s)]
+*  a clone of Nikki Haley and Liz Cheney. [[00:00:33](https://www.youtube.com/watch?v=bKygzaganZw&t=33.28s)]
+*  Kristi Noem at Homeland Security, no one cares about that, no one's talking about that, everyone's [[00:00:36](https://www.youtube.com/watch?v=bKygzaganZw&t=36.64s)]
+*  fine with that. [[00:00:40](https://www.youtube.com/watch?v=bKygzaganZw&t=40.08s)]
+*  So you have that group of people who are like the kinds of people who typically get chosen [[00:00:41](https://www.youtube.com/watch?v=bKygzaganZw&t=41.08s)]
+*  for these positions who you would expect to see in a normal Republican administration [[00:00:44](https://www.youtube.com/watch?v=bKygzaganZw&t=44.52s)]
+*  that just, you know, Ron DeSantis or Mitt Romney or whomever. [[00:00:48](https://www.youtube.com/watch?v=bKygzaganZw&t=48.0s)]
+*  Then you have these very out of the beaten path kinds of choices and these are the ones [[00:00:53](https://www.youtube.com/watch?v=bKygzaganZw&t=53.5s)]
+*  that are causing the most upset among establishment factions like Tulsi Gabbard as DNI, Pete Hegseth [[00:00:59](https://www.youtube.com/watch?v=bKygzaganZw&t=59.940000000000005s)]
+*  as Pentagon Secretary, obviously Matt Gaetz, RFK Jr. [[00:01:06](https://www.youtube.com/watch?v=bKygzaganZw&t=66.02000000000001s)]
+*  Now the one thing they all have in common, every last one of them, it's like the entry [[00:01:11](https://www.youtube.com/watch?v=bKygzaganZw&t=71.38s)]
+*  price for admission, which I would agree with you on, is they're all fanatically pro-Israel. [[00:01:15](https://www.youtube.com/watch?v=bKygzaganZw&t=75.1s)]
+*  All of them, every last one of them. [[00:01:18](https://www.youtube.com/watch?v=bKygzaganZw&t=78.62s)]
+*  No dissent of any kind. [[00:01:20](https://www.youtube.com/watch?v=bKygzaganZw&t=80.06s)]
+*  But it does seem like, and this is I guess my argument that I would make against this [[00:01:23](https://www.youtube.com/watch?v=bKygzaganZw&t=83.77999999999999s)]
+*  certainty that Trump will just be this kind of hawk and warmonger and neocon, is that [[00:01:27](https://www.youtube.com/watch?v=bKygzaganZw&t=87.69999999999999s)]
+*  although I think it's very possible for a lot of different reasons, Trump just has an [[00:01:33](https://www.youtube.com/watch?v=bKygzaganZw&t=93.97999999999999s)]
+*  inherent unpredictability that creates potential at least for things to break. [[00:01:38](https://www.youtube.com/watch?v=bKygzaganZw&t=98.52s)]
+*  Like Seymour Hersh wrote and Jeremy Scahill cited this, that Trump is like a circuit breaker, [[00:01:44](https://www.youtube.com/watch?v=bKygzaganZw&t=104.17999999999999s)]
+*  he just kind of gets in there and like all the circuits just go haywire and kind of [[00:01:49](https://www.youtube.com/watch?v=bKygzaganZw&t=109.7s)]
+*  everything, the train goes off the tracks. [[00:01:53](https://www.youtube.com/watch?v=bKygzaganZw&t=113.66s)]
+*  Whereas with Kamala there'd be zero unpredictability, you would know exactly who would occupy these [[00:01:56](https://www.youtube.com/watch?v=bKygzaganZw&t=116.34s)]
+*  positions, they would continue everything as is, it would be the ultimate perpetuation [[00:01:59](https://www.youtube.com/watch?v=bKygzaganZw&t=119.98s)]
+*  of the status quo, perpetuation of the status quo. [[00:02:04](https://www.youtube.com/watch?v=bKygzaganZw&t=124.42s)]
+*  Does that give you any hope at all? [[00:02:07](https://www.youtube.com/watch?v=bKygzaganZw&t=127.9s)]
+*  I'm not saying it's guaranteed, I could absolutely see Trump getting the US into wars given the [[00:02:09](https://www.youtube.com/watch?v=bKygzaganZw&t=129.58s)]
+*  people who he's going to be listening to and who are surrounding him, but the thing that [[00:02:13](https://www.youtube.com/watch?v=bKygzaganZw&t=133.34s)]
+*  I hold out hope for is that aspect, that attribute of Trump and on top of which I think he prides [[00:02:17](https://www.youtube.com/watch?v=bKygzaganZw&t=137.1s)]
+*  himself in getting deals done, like resolving disputes by getting deals done that he would [[00:02:21](https://www.youtube.com/watch?v=bKygzaganZw&t=141.86s)]
+*  get the credit for. [[00:02:26](https://www.youtube.com/watch?v=bKygzaganZw&t=146.82s)]
+*  What do you think about all that? [[00:02:27](https://www.youtube.com/watch?v=bKygzaganZw&t=147.82s)]
+*  Where the foreign policy is like going to go? [[00:02:28](https://www.youtube.com/watch?v=bKygzaganZw&t=148.82s)]
+*  Yeah I couldn't agree with you more, you know at least with Trump there is some air of like [[00:02:32](https://www.youtube.com/watch?v=bKygzaganZw&t=152.02s)]
+*  autonomy to him, like there's something like, you know, Donald Trump don't get me wrong, [[00:02:38](https://www.youtube.com/watch?v=bKygzaganZw&t=158.78s)]
+*  I'm not trying to paint a rosier picture than there is Donald Trump, it's never struck [[00:02:44](https://www.youtube.com/watch?v=bKygzaganZw&t=164.46s)]
+*  me as a deep thinker, I'm not saying he's read a lot of books and really has a deep [[00:02:50](https://www.youtube.com/watch?v=bKygzaganZw&t=170.18s)]
+*  understanding of any particular policy, but he is kind of just a boss, that's who he's [[00:02:54](https://www.youtube.com/watch?v=bKygzaganZw&t=174.22s)]
+*  been his whole life. [[00:03:00](https://www.youtube.com/watch?v=bKygzaganZw&t=180.98000000000002s)]
+*  He kind of has the attitude unlike Kamala Harris where she kind of just knows she has [[00:03:02](https://www.youtube.com/watch?v=bKygzaganZw&t=182.36s)]
+*  to play this game so she gets her next position and you know, he has some actual ideas and [[00:03:06](https://www.youtube.com/watch?v=bKygzaganZw&t=186.3s)]
+*  so you never know and he's also just like you said unpredictable so you never know exactly [[00:03:12](https://www.youtube.com/watch?v=bKygzaganZw&t=192.14s)]
+*  what he might do, you never know who of the people around him are going to be gone in [[00:03:15](https://www.youtube.com/watch?v=bKygzaganZw&t=195.82s)]
+*  three months and then he's going to be telling you how stupid and little they were and then [[00:03:18](https://www.youtube.com/watch?v=bKygzaganZw&t=198.98s)]
+*  bring someone completely different and there's just a lot of question marks there and of [[00:03:22](https://www.youtube.com/watch?v=bKygzaganZw&t=202.78s)]
+*  course you know, you're absolutely right that they are all, there is no air on Israel, every [[00:03:27](https://www.youtube.com/watch?v=bKygzaganZw&t=207.18s)]
+*  single one of them is bad on that topic, but there are really important areas where like [[00:03:34](https://www.youtube.com/watch?v=bKygzaganZw&t=214.38s)]
+*  someone like Tulsi Gabbard is a lot different than the standard Washington politician and [[00:03:43](https://www.youtube.com/watch?v=bKygzaganZw&t=223.5s)]
+*  I mean she really was heroic on Syria, she's been great on Ukraine, she's been great on [[00:03:49](https://www.youtube.com/watch?v=bKygzaganZw&t=229.98000000000002s)]
+*  the nature of the war in Iraq and our endless support of Saudi Arabia, there's a lot of [[00:03:57](https://www.youtube.com/watch?v=bKygzaganZw&t=237.18s)]
+*  areas and particularly one thing I really, you know I was listening to you and Tucker's [[00:04:02](https://www.youtube.com/watch?v=bKygzaganZw&t=242.14000000000001s)]
+*  podcast and it was great by the way, but I just, the one part where you guys were talking [[00:04:06](https://www.youtube.com/watch?v=bKygzaganZw&t=246.38s)]
+*  about like you know the threat of nuclear war as we talked about today too, I mean Tulsi [[00:04:12](https://www.youtube.com/watch?v=bKygzaganZw&t=252.86s)]
+*  really should get a lot of credit, I remember in 2020 when she was on the debate stage whenever [[00:04:16](https://www.youtube.com/watch?v=bKygzaganZw&t=256.9s)]
+*  she'd be asked what her most important issue is, she'd always say nuclear war and this [[00:04:22](https://www.youtube.com/watch?v=bKygzaganZw&t=262.48s)]
+*  was before Vladimir Putin had invaded Ukraine, but it was after we had framed him for overthrowing [[00:04:27](https://www.youtube.com/watch?v=bKygzaganZw&t=267.58s)]
+*  our democracy and all that and she just kept, and I was like rooting for her because she's [[00:04:33](https://www.youtube.com/watch?v=bKygzaganZw&t=273.78s)]
+*  the anti-war candidate and I wanted her to do well, but I remember thinking like oh you're [[00:04:37](https://www.youtube.com/watch?v=bKygzaganZw&t=277.38s)]
+*  going to come off a little goofy if you say it like that, like that kind of sounds like [[00:04:41](https://www.youtube.com/watch?v=bKygzaganZw&t=281.18s)]
+*  come on nuclear war is not going to happen, but you know just like to your point where [[00:04:44](https://www.youtube.com/watch?v=bKygzaganZw&t=284.38s)]
+*  this used to be a real fear of Americans and now it's kind of not and she was up there [[00:04:48](https://www.youtube.com/watch?v=bKygzaganZw&t=288.46s)]
+*  saying no this is something we really need to be concerned about and not that we've gone [[00:04:52](https://www.youtube.com/watch?v=bKygzaganZw&t=292.32s)]
+*  to nuclear war since then, but that concern certainly aged very well and just someone [[00:04:56](https://www.youtube.com/watch?v=bKygzaganZw&t=296.7s)]
+*  with that mentality in there, you know it's like oh it might be interesting, it might [[00:05:01](https://www.youtube.com/watch?v=bKygzaganZw&t=301.26s)]
+*  be interesting, I kind of trust that like if Tulsi is the head of the intelligence you [[00:05:05](https://www.youtube.com/watch?v=bKygzaganZw&t=305.58s)]
+*  know community and she finds out that the government's doing some wildly corrupt thing, [[00:05:09](https://www.youtube.com/watch?v=bKygzaganZw&t=309.94s)]
+*  she might have a problem with that and you just weren't going to get anyone like that [[00:05:14](https://www.youtube.com/watch?v=bKygzaganZw&t=314.46s)]
+*  under Kamala Harris and even Pete Hegseth and you know I know he's not good on Israel [[00:05:18](https://www.youtube.com/watch?v=bKygzaganZw&t=318.7s)]
+*  but he's said some great things about Ukraine and given the threat of nuclear war it's pretty [[00:05:25](https://www.youtube.com/watch?v=bKygzaganZw&t=325.34s)]
+*  important to be good on that, I don't mean to like sell out the Palestinian people, but [[00:05:29](https://www.youtube.com/watch?v=bKygzaganZw&t=329.26s)]
+*  all of these things are important and you know obviously Bobby Kennedy, while a lot [[00:05:33](https://www.youtube.com/watch?v=bKygzaganZw&t=333.78s)]
+*  of people may have you know be triggered by him, he's a real outsider to the corruption [[00:05:38](https://www.youtube.com/watch?v=bKygzaganZw&t=338.94s)]
+*  of the big pharmaceutical companies and kind of the healthcare system in this country in [[00:05:43](https://www.youtube.com/watch?v=bKygzaganZw&t=343.9s)]
+*  general and I think Matt Gaetz who's out now too, but he's at least putting some outsiders [[00:05:48](https://www.youtube.com/watch?v=bKygzaganZw&t=348.24s)]
+*  in there and again that's just unfortunately maybe the state of modern American politics [[00:05:54](https://www.youtube.com/watch?v=bKygzaganZw&t=354.1s)]
+*  but that's better than we were going to get with anyone else I think, including any other [[00:06:00](https://www.youtube.com/watch?v=bKygzaganZw&t=360.02s)]
+*  Republican if they had one or any other Democrat besides Kamala Harris, the only person who [[00:06:04](https://www.youtube.com/watch?v=bKygzaganZw&t=364.1s)]
+*  plausibly could have won and would maybe give us some picks like that is Donald Trump right now. [[00:06:08](https://www.youtube.com/watch?v=bKygzaganZw&t=368.62s)]
+*  Yeah, that's the thing that gives me hope too and even with Israel I'm not saying you [[00:06:14](https://www.youtube.com/watch?v=bKygzaganZw&t=374.1s)]
+*  know he's very indebted to Miriam Adelson who gave him a hundred million dollars, I [[00:06:19](https://www.youtube.com/watch?v=bKygzaganZw&t=379.82s)]
+*  think they really was a big effort, they wanted to get Ron DeSantis as the GOP nominee, that [[00:06:25](https://www.youtube.com/watch?v=bKygzaganZw&t=385.46s)]
+*  was their favorite one, but once he was clear Trump was going to win they did everything [[00:06:29](https://www.youtube.com/watch?v=bKygzaganZw&t=389.94s)]
+*  possible to make sure that he was going to be put in this corner where he would be a [[00:06:34](https://www.youtube.com/watch?v=bKygzaganZw&t=394.3s)]
+*  fanatical devotee of Israel, he even said things like I'm going to make Israel great [[00:06:37](https://www.youtube.com/watch?v=bKygzaganZw&t=397.74s)]
+*  again if I win we're going to make Israel great again, we're going to make the United [[00:06:41](https://www.youtube.com/watch?v=bKygzaganZw&t=401.94s)]
+*  States great again, but still he's expressed some kind of personal frustration with Net [[00:06:44](https://www.youtube.com/watch?v=bKygzaganZw&t=404.62s)]
+*  Net and Yahoo before he wants this war over and I think like to your point about you know [[00:06:49](https://www.youtube.com/watch?v=bKygzaganZw&t=409.26000000000005s)]
+*  I have to say like when one of the things that surprised me when I started doing the [[00:06:54](https://www.youtube.com/watch?v=bKygzaganZw&t=414.26000000000005s)]
+*  Stoner reporting is a lot of the people who were emailing me to say how supportive they [[00:06:58](https://www.youtube.com/watch?v=bKygzaganZw&t=418.18s)]
+*  were of this reporting were people in the military, people in the intelligence agencies, [[00:07:01](https://www.youtube.com/watch?v=bKygzaganZw&t=421.62s)]
+*  people who had been to war because they know better than anybody the realities of these [[00:07:06](https://www.youtube.com/watch?v=bKygzaganZw&t=426.26000000000005s)]
+*  kinds of conflicts, how corrupting our foreign policy is, how you know just poorly arranged [[00:07:10](https://www.youtube.com/watch?v=bKygzaganZw&t=430.5s)]
+*  it is, how many lies are being told and I think the fact that Tulsi Gabbard actually [[00:07:15](https://www.youtube.com/watch?v=bKygzaganZw&t=435.68s)]
+*  went and fought in these wars makes her more sensitive to these risks and I've noticed [[00:07:19](https://www.youtube.com/watch?v=bKygzaganZw&t=439.84000000000003s)]
+*  as well that Trump whenever he talks about nuclear weapons you can see this kind of like [[00:07:24](https://www.youtube.com/watch?v=bKygzaganZw&t=444.56s)]
+*  fear that he had obviously instilled in him from whatever briefings he got where he talks [[00:07:28](https://www.youtube.com/watch?v=bKygzaganZw&t=448.40000000000003s)]
+*  about people don't understand how dangerous these weapons are, it makes you know Nagasaki [[00:07:33](https://www.youtube.com/watch?v=bKygzaganZw&t=453.28000000000003s)]
+*  and Hiroshima seem like child's play you know he talks in that way like he's very petrified [[00:07:37](https://www.youtube.com/watch?v=bKygzaganZw&t=457.96000000000004s)]
+*  of it and so that's the thing that gives me a little hope. [[00:07:43](https://www.youtube.com/watch?v=bKygzaganZw&t=463.08s)]
+*  Alright before I let you go just one last thing I don't know if you had time yet to [[00:07:48](https://www.youtube.com/watch?v=bKygzaganZw&t=468.68s)]
+*  see anything about Pam Bondi she just got announced as Matt Gaetz replaced me so if [[00:07:51](https://www.youtube.com/watch?v=bKygzaganZw&t=471.91999999999996s)]
+*  you don't have any views on her okay well I don't have money either none that I want [[00:07:56](https://www.youtube.com/watch?v=bKygzaganZw&t=476.47999999999996s)]
+*  to share so well I wonder if you did so we'll save that for another time. [[00:08:00](https://www.youtube.com/watch?v=bKygzaganZw&t=480.2s)]
+*  Yeah it just happened like 10 seconds ago so I wanted to show that I had the same ignorance [[00:08:03](https://www.youtube.com/watch?v=bKygzaganZw&t=483.47999999999996s)]
+*  as you did. [[00:08:08](https://www.youtube.com/watch?v=bKygzaganZw&t=488.47999999999996s)]
+*  David it was really great to see you I totally enjoyed this conversation as much as I thought [[00:08:09](https://www.youtube.com/watch?v=bKygzaganZw&t=489.68s)]
+*  it would I'm sure our audience did as well we'd love to have you back on I'm going to [[00:08:13](https://www.youtube.com/watch?v=bKygzaganZw&t=493.38s)]
+*  invite myself back on your show shortly as well so thanks so much for coming out I really [[00:08:16](https://www.youtube.com/watch?v=bKygzaganZw&t=496.68s)]
+*  appreciate it great to see you. [[00:08:20](https://www.youtube.com/watch?v=bKygzaganZw&t=500.36s)]
+*  Alright Glenn you are a legend you are welcome anytime on my show thank you so much for having [[00:08:21](https://www.youtube.com/watch?v=bKygzaganZw&t=501.88s)]
+*  me. [[00:08:26](https://www.youtube.com/watch?v=bKygzaganZw&t=506.56s)]
+*  Alright Dave have a great evening. [[00:08:27](https://www.youtube.com/watch?v=bKygzaganZw&t=507.56s)]
+*  Thanks for watching this clip from System Update our live show that airs every Monday [[00:08:28](https://www.youtube.com/watch?v=bKygzaganZw&t=508.56s)]
+*  through Friday at 7pm Eastern exclusively on Rumble. [[00:08:35](https://www.youtube.com/watch?v=bKygzaganZw&t=515.12s)]
+*  You can catch the full nightly shows live or view the backlog of episodes for free on [[00:08:38](https://www.youtube.com/watch?v=bKygzaganZw&t=518.5600000000001s)]
+*  our Rumble page. [[00:08:43](https://www.youtube.com/watch?v=bKygzaganZw&t=523.16s)]
+*  You can also find full episodes the morning after they air across all major podcasting [[00:08:44](https://www.youtube.com/watch?v=bKygzaganZw&t=524.64s)]
+*  platforms including Spotify and Apple. [[00:08:48](https://www.youtube.com/watch?v=bKygzaganZw&t=528.92s)]
+*  All the information you need is linked below we hope to see you there. [[00:08:51](https://www.youtube.com/watch?v=bKygzaganZw&t=531.44s)]
