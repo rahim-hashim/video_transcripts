@@ -50,4 +50,5 @@ podcast_playlist_names = {
 
 podcast_channel_names = {
   'https://www.youtube.com/@RalphNaderRadioHour/videos': 'Ralph Nader Radio Hour',
+  'https://www.youtube.com/@breakingpoints/playlists':   'Breaking Points',
 }
