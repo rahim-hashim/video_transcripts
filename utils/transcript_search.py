@@ -9,11 +9,35 @@ import seaborn as sns
 from utils import fuzzy_lookup
 import matplotlib.pyplot as plt
 from collections import defaultdict
-# Add dimag path to the system path
+
+def rename_folder_and_files(
+		old_name, 
+		new_name,
+		transcript_folder='_Transcripts', 
+	):
+	# Rename the folder
+	old_folder_name = os.path.join(transcript_folder, old_name)
+	new_folder_name = os.path.join(transcript_folder, new_name)
+	if os.path.exists(old_folder_name):
+		os.rename(old_folder_name, new_folder_name)
+	
+		# Rename all files within the folder
+		for filename in os.listdir(new_folder_name):
+			old_file_path = os.path.join(new_folder_name, filename)
+			if os.path.isfile(old_file_path):
+				new_file_path = os.path.join(
+					new_folder_name, 
+					filename.replace(old_name, new_name)
+				)
+				os.rename(old_file_path, new_file_path)
+				print(f'Renamed: {old_file_path} to {new_file_path}')
+	else:
+		print(f'Folder {old_folder_name} does not exist.')
 
 def print_all_authors():
 	transcript_dir_path = '_Transcripts'
 	print('All Podcasts:')
+	all_authors = []
 	for dir in os.listdir(transcript_dir_path):
 		if os.path.isdir(os.path.join(transcript_dir_path, dir)):
 			# find the file with the most recent date in the file name, sort by date and get the first one
@@ -21,6 +45,8 @@ def print_all_authors():
 			# convert YYYYMMDD to YYYY-MM-DD format
 			recent_date = datetime.datetime.strptime(recent_file, '%Y%m%d').strftime('%Y-%m-%d')
 			print(f'  {dir:>50}: {len(os.listdir(os.path.join(transcript_dir_path, dir))):<4} ({recent_date})')
+			all_authors.append(dir)
+	return all_authors
 
 def find_transcripts(author_names, transcript_dir_path = '_Transcripts'):
 	print_all_authors()
@@ -82,10 +108,11 @@ def extract_yaml_front_matter(f, transcript_dict):
 		meta_dict[key.lower().replace(' ', '_')] = meta_dict.pop(key)
 	return meta_dict
 
-def read_transcript(author_name, transcript_name, transcript_dict):
-		# deal with UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 304: character maps to <undefined> errors
-	with open(transcript_name, 'r', encoding='utf-8') as f:
-		print(f'  Reading: {transcript_name}')
+def read_transcript(author_name, transcript_path, transcript_dict, verbose=False):
+	# deal with UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 304: character maps to <undefined> errors
+	with open(transcript_path, 'r', encoding='utf-8') as f:
+		if verbose:
+			print(f'  Reading: {transcript_path}')
 		meta_flag = False
 		meta_dict = defaultdict(str)
 		for line in f:
@@ -124,6 +151,8 @@ def read_transcript(author_name, transcript_name, transcript_dict):
 		if len(meta_dict) > 0:
 			for key, value in meta_dict.items():
 				transcript_dict[title][key] = value
+		# add the path to the dict
+		transcript_dict[title]['path'] = transcript_path
 		return transcript_dict
 
 def dict_to_pandas(transcript_dict):
@@ -171,7 +200,7 @@ def rename_files(author_name = 'Democracy Now Headlines'):
 			os.rename(os.path.join(transcript_dir_path, author_name, file), 
 						 		os.path.join(transcript_dir_path, author_name, new_file))
 
-def main(author_names = ['New York Times'], reload=True, save_df=False):
+def main(author_names = ['New York Times'], reload=True, save_df=False, verbose=False):
 	# author_name = sys.argv[1]
 	for author_name in author_names:
 		print(f'Searching for {author_name} transcripts...')
@@ -187,9 +216,9 @@ def main(author_names = ['New York Times'], reload=True, save_df=False):
 		transcript_paths_dict = find_transcripts(author_names)
 		transcripts_dict = defaultdict(lambda: defaultdict(list))
 		for author_name, transcripts in transcript_paths_dict.items():
-			for transcript in transcripts:
-				if '.md' in transcript:
-					transcripts_dict = read_transcript(author_name, transcript, transcripts_dict)
+			for transcript_path in transcripts:
+				if '.md' in transcript_path:
+					transcripts_dict = read_transcript(author_name, transcript_path, transcripts_dict, verbose)
 		transcript_df = dict_to_pandas(transcripts_dict)
 	if save_df:
 		pickle_transcript_df(transcript_df, author_name)
