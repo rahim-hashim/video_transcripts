@@ -151,11 +151,12 @@ class Video:
 		author_name_slug = slugify(self.author)
 		author_folder = os.path.join('_Transcripts', author_name_slug)
 		self.author_folder = author_name_slug
+		video_len = self.length
 		if not os.path.exists(author_folder):
 			print('Creating directory:', author_folder)
 			os.mkdir(author_folder)
 		short_date = datetime.strptime(self.date, '%B %d, %Y').strftime('%Y%m%d')
-		transcript_path = os.path.join(author_folder, f'{short_date}_{author_name_slug}.md')
+		transcript_path = os.path.join(author_folder, f'{short_date}_{author_name_slug}_{video_len}.md')
 		self.transcript_path = transcript_path
 		# check if file already exists
 		if os.path.exists(transcript_path):
