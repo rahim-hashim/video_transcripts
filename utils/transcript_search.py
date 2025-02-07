@@ -48,17 +48,17 @@ def print_all_authors():
 			all_authors.append(dir)
 	return all_authors
 
-def find_transcripts(author_names, transcript_dir_path = '_Transcripts'):
-	print_all_authors()
+def find_transcripts(author_names, transcript_dir_path='_Transcripts'):
 	transcript_paths_dict = defaultdict(list)
 	if author_names == 'all' or author_names == ['all']:
 		author_names = [dir for dir in os.listdir(transcript_dir_path) if os.path.isdir(os.path.join(transcript_dir_path, dir))]
 		print(f'Finding all transcripts for {author_names}.')
+	print(f'Transcript directory: {transcript_dir_path}')
 	for dir in os.listdir(transcript_dir_path):
 		# check if dir and if author_name is in dir
 		for author_name in author_names:
 			if os.path.isdir(os.path.join(transcript_dir_path, dir)) and author_name in dir:
-				print(f'Found {author_name} in {transcript_dir_path}/{dir}.')
+				print(f'Loading {author_name}.')
 				for file in sorted(os.listdir(os.path.join(transcript_dir_path, dir)), reverse=True):
 					transcript_paths_dict[author_name].append(os.path.join(transcript_dir_path, dir, file))
 				print(f' Found {len(transcript_paths_dict[author_name])} transcripts.')
@@ -171,16 +171,16 @@ def dict_to_pandas(transcript_dict):
 	# transcript_df['Video Views'] = transcript_df['Video Views'].str.replace(',', '').astype(int)
 	return transcript_df
 
-def pickle_transcript_df(transcript_df, author_name):
-	print(f'Pickling {author_name} transcript_df.')
-	dataframe_dir_path = '_Dataframes'
-	if not os.path.exists(dataframe_dir_path):
+def pickle_transcript_df(transcript_df, save_name, dataframe_dir_path = '_Dataframes'):
+	# get directory of path 
+	if not os.path.exists(os.dataframe_dir_path):
 		os.makedirs(dataframe_dir_path)
-	transcript_df_name = f'{author_name}_transcript_df.pickle'
-	df_path = os.path.join(dataframe_dir_path, transcript_df_name)
+	df_path = os.path.join(dataframe_dir_path, save_name)
+	if '.pkl' not in df_path:
+		df_path += '.pkl'
 	with open(df_path, 'wb') as f:
 		pickle.dump(transcript_df, f)
-		print(f' Pickled {transcript_df_name} in {dataframe_dir_path}/.')
+		print(f'Pickled {df_path}.')
 
 def dataframe_exists(author_name):
 	dataframe_dir_path = '_Dataframes'
@@ -200,7 +200,7 @@ def rename_files(author_name = 'Democracy Now Headlines'):
 			os.rename(os.path.join(transcript_dir_path, author_name, file), 
 						 		os.path.join(transcript_dir_path, author_name, new_file))
 
-def main(author_names = ['New York Times'], reload=True, save_df=False, verbose=False):
+def main(author_names = ['New York Times'], reload=True, save_df=False, save_name='transcript_df.pkl', verbose=False):
 	# author_name = sys.argv[1]
 	for author_name in author_names:
 		print(f'Searching for {author_name} transcripts...')
@@ -221,5 +221,5 @@ def main(author_names = ['New York Times'], reload=True, save_df=False, verbose=
 					transcripts_dict = read_transcript(author_name, transcript_path, transcripts_dict, verbose)
 		transcript_df = dict_to_pandas(transcripts_dict)
 	if save_df:
-		pickle_transcript_df(transcript_df, author_name)
+		pickle_transcript_df(transcript_df, save_name)
 	return transcript_df
