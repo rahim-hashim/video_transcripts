@@ -124,7 +124,12 @@ class Video:
 				print(f'  Skipping video.')
 				return
 			print(f'Downloading video from: {url}')
-			stream.download(filename=video_path)
+			try:
+				stream.download(filename=video_path)
+			except Exception as e:
+				print(f'  Error: {e}')
+				self.delete_video()
+				return
 			print(f'  Video downloaded to {video_path}')
 		elif source=='local':
 			if local_path == None:
@@ -151,7 +156,7 @@ class Video:
 		author_name_slug = slugify(self.author)
 		author_folder = os.path.join('_Transcripts', author_name_slug)
 		self.author_folder = author_name_slug
-		video_len = self.length
+		video_len = str(self.length)+'s'
 		if not os.path.exists(author_folder):
 			print('Creating directory:', author_folder)
 			os.mkdir(author_folder)
@@ -254,17 +259,34 @@ if __name__ == '__main__':
 	
 	# Parse the command line arguments
 	parser = argparse.ArgumentParser(description='Video Transcription')
-	parser.add_argument('--source', choices=['youtube', 'local'], 
-																	default='youtube', 
-																	help='The source of the video')
-	parser.add_argument('--refresh', help='If specified, retrieve all playlist links from \'youtube_links.py\' and generate \
-										 										 transcripts for only the most recent video in each playlist', 
-																	 action='store_true')
-	parser.add_argument('--url', help='The URL of the video (required if source is youtube and not refreshing playlists)', default=None)
-	parser.add_argument('--local_path', help='The local path of the video (required if source is local)')
-	parser.add_argument('--max_load', help='If specified, the max number of videos to transcribe from a playlist',
-																		default=1000, type=int)
-	parser.add_argument('--no_break_repeat', help='If specified, does not break transcription loop once a repeat has been detected', action='store_true')
+	parser.add_argument(
+		'--source', 
+		choices=['youtube', 'local'], 
+		default='youtube', 
+		help='The source of the video'
+	)
+	parser.add_argument(
+		'--refresh', 
+		help='If specified, retrieve all playlist links from \'youtube_links.py\' and generate \
+						transcripts for only the most recent video in each playlist', 
+		action='store_true'
+		)
+	parser.add_argument(
+		'--url', 
+		help='The URL of the video (required if source is youtube and not refreshing playlists)', 
+		default=None
+	)
+	parser.add_argument(
+		'--local_path', 
+		help='The local path of the video (required if source is local)'
+	)
+	parser.add_argument(
+		'--max_load',
+		help='If specified, the max number of videos to transcribe from a playlist',
+		default=1000, 
+		type=int
+	)
+	parser.add_argument('--search_all', help='If specified, does not break transcription loop once a repeat has been detected', action='store_true')
 	parser.add_argument('--git', help='If specified, push the changes to git', action='store_true')
 
 	args = parser.parse_args()
@@ -334,7 +356,7 @@ if __name__ == '__main__':
 				video.write_transcript()
 				video.delete_video()
 				transcribed_url_count += 1
-			elif status == None and not args.no_break_repeat:
+			elif status == None and not args.search_all:
 				print(f'Other {len(url_dict[channel]) - u_index} videos in the playlist have already been transcribed.')
 				break
 	print('Transcription Complete')

@@ -1,6 +1,6 @@
 podcast_playlist_names = {
   # 'https://www.youtube.com/playlist?list=PLnwt1fUa-EVhHEHY16Za6nORjkefQpR8_': 'AP News - Israel Palestine',
-  'https://www.youtube.com/playlist?list=PLDIVi-vBsOExDwCvqcjMvaaKPHw-e_3XA': 'NBC - Chris Hayes',
+  # 'https://www.youtube.com/playlist?list=PLDIVi-vBsOExDwCvqcjMvaaKPHw-e_3XA': 'NBC - Chris Hayes',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEyETRGoRP9y8zhyu6bHl6iK': 'NBC - Rachel Maddow',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEwfv0LML1BGBlPxZsnoa0xM': 'NBC - Ali Vitali',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEzOrc-KpytMYuN9zOXB2cd3': 'NBC - Middle East',
@@ -27,7 +27,6 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLYHjB_Comy8RhgQ_JNUbVNEQ6gc4iolhN': 'Bill Simmons NBA',
   'https://www.youtube.com/playlist?list=PLYHjB_Comy8SKByVPadM3Xm0WJQV102Ya': 'Bill Simmons NFL',
   'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman',
-
   # 'https://www.youtube.com/playlist?list=PLHZGTTZG6HcI2tr4tg8oak8_6Wz5on1jY': 'Chomsky\'s Philosophy - Best of Chomsky',
   'https://www.youtube.com/playlist?list=PLM4u6XbiXf5p7irrx8GfeXslWyGB9DGjg': 'a16z Bio',
   'https://www.youtube.com/playlist?list=PLrxfgDEc2NxY_fRExpDXr87tzRbPCaA5x': 'Mindscape Podcast',

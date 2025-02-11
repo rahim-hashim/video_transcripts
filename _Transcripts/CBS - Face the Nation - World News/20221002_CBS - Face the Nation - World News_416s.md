@@ -1,0 +1,138 @@
+---
+Date Generated: February 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 416s
+Video Keywords: ['Face the Nation', 'CBS News', 'video', 'Margaret Brennan', 'U.S.', 'politics', 'Russia', 'Ukraine', 'war', 'H.R. McMaster']
+Video Views: 393181
+Video Rating: None
+Video Description: Retired Lt. Gen. H.R. McMaster, former national security adviser in the Trump White House and a CBS News contributor, said on "Face the Nation" that the Ukrainians had a "tremendous victory" after retaking the strategic city of Lyman.
+
+#news #ukraine #russia 
+
+"Face the Nation" is America's premier Sunday morning public affairs program. The broadcast is one of the longest-running news programs in the history of television, having debuted November 7, 1954, on CBS. Every Sunday, "Face the Nation" moderator and CBS News senior foreign affairs correspondent Margaret Brennan welcomes leaders, newsmakers, and experts to a lively round table discussion of current events and the latest news.
+
+Subscribe to the "Face the Nation" YouTube channel: https://bit.ly/1SUQc68​
+Watch full episodes of "Face the Nation": https://cbsn.ws/20pbkSF​
+Follow "Face the Nation" on Instagram: https://bit.ly/23Xuhk4​
+Like "Face the Nation" on Facebook: https://on.fb.me/23Xmz9E​
+Follow "Face the Nation" on Twitter: https://bit.ly/1o3QDQo​
+Subscribe to our newsletter: https://cbsn.ws/1RqHw7T​
+Download the CBS News app: https://cbsn.ws/1Xb1WC8​
+Try Paramount+ free: https://bit.ly/2OiW1kZ
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# McMaster says Russian army in Ukraine is facing a "moral collapse"
+**CBS - Face the Nation - World News:** [October 02, 2022](https://www.youtube.com/watch?v=uqcYvuPFGw0)
+*  the Trump administration national security advisor in 2017, retired lieutenant general [[00:00:00](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=0.0s)]
+*  H.R. McMaster, who joins us. [[00:00:06](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=6.78s)]
+*  H.R., thank you for updating us on what's happening on the ground in Ukraine with the [[00:00:09](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=9.26s)]
+*  Russian invasion. [[00:00:15](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=15.72s)]
+*  I want to get your reaction to what Defense Secretary Austin called a significant development [[00:00:16](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=16.88s)]
+*  on the battlefield in the past 48 hours. [[00:00:23](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=23.28s)]
+*  What do you see happening? [[00:00:27](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=27.28s)]
+*  What do you forecast as Vladimir Putin's next move? [[00:00:28](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=28.76s)]
+*  Hey, good morning, Margaret. [[00:00:33](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=33.52s)]
+*  It's great to be with you. [[00:00:34](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=34.28s)]
+*  Well, this is a tremendous victory for for the Ukrainians, and it's a victory that I [[00:00:35](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=35.480000000000004s)]
+*  think that they could turn into a cascading series of defeats of Russian forces. [[00:00:40](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=40.24s)]
+*  This is the the encirclement of Lyman and the and the Russian forces pulling back. [[00:00:45](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=45.68000000000001s)]
+*  But also in the last two days, the Ukrainians also simultaneously defeated a Russian a Russian [[00:00:51](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=51.040000000000006s)]
+*  counterattack and also made progress further in the south near the strategically important [[00:00:57](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=57.44s)]
+*  city of Kursan. [[00:01:02](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=62.48s)]
+*  And I think, Margaret, what we might be here is really at the precipice of of really the [[00:01:04](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=64.17999999999999s)]
+*  collapse of the Russian army in Ukraine, a moral collapse. [[00:01:09](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=69.08s)]
+*  And I think they must really be at a breaking point if you look at just the numbers of casualties, [[00:01:14](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=74.1s)]
+*  the vast area that they're trying to defend. [[00:01:20](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=80.2s)]
+*  And now, of course, Russia is trying to mobilize conscripts and send them to the front untrained. [[00:01:23](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=83.44s)]
+*  And I think it's very important to to also understand that these forces that are in full [[00:01:30](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=90.72s)]
+*  retreat now out of Lyman were really the first round of mobilization. [[00:01:35](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=95.32s)]
+*  Remember when Putin was trying to recruit more and more people with paying about three [[00:01:40](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=100.32s)]
+*  times the average wages to get so-called volunteers to go forward. [[00:01:44](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=104.75999999999999s)]
+*  Those forces were hastily trained, thrown into that front. [[00:01:49](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=109.8s)]
+*  And these are the forces that are collapsing just right right now. [[00:01:52](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=112.8s)]
+*  Well, and as that happens on the battlefield, rhetorically, you hear President Putin raise [[00:01:56](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=116.08s)]
+*  the volume again, dangling that nuclear threat on Friday. [[00:02:03](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=123.16s)]
+*  And there was another Russian leader who talked about using low yield nuclear weapons. [[00:02:07](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=127.72s)]
+*  It's not clear what NATO or the U.S. response would be if Russia used a nuclear tactical [[00:02:12](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=132.88s)]
+*  weapon on the battlefield in Ukraine. [[00:02:19](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=139.0s)]
+*  What do you think it should be? [[00:02:21](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=141.64s)]
+*  Well, I think the message to him is if you use a nuclear weapon, it's a suicide weapon. [[00:02:22](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=142.64s)]
+*  And the response from NATO and the United States doesn't have to be nuclear. [[00:02:28](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=148.8s)]
+*  First of all, I would say, Margaret, he's under extreme pressure. [[00:02:33](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=153.08s)]
+*  I mean, you you have the failures on the battlefield, which we talked about, but also the mobilization [[00:02:35](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=155.68s)]
+*  is failing. [[00:02:40](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=160.8s)]
+*  I mean, what he's done is he's mobilized almost 300,000 people to leave the country. [[00:02:41](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=161.8s)]
+*  These are these are men who were fleeing to neighboring countries to to escape this this [[00:02:46](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=166.6s)]
+*  conscription. [[00:02:51](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=171.08s)]
+*  And you have the Russian people now saying, OK, I thought this was a special military [[00:02:52](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=172.36s)]
+*  operation that Putin said, hey, just leave this to me. [[00:02:56](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=176.32s)]
+*  Don't worry about it. [[00:02:59](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=179.08s)]
+*  Now he's going to them to bail him out with this with this mobilization. [[00:03:00](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=180.08s)]
+*  And what you're seeing among the hyper nationalist group of bloggers and and even on state media [[00:03:04](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=184.2s)]
+*  is a blaming of the military. [[00:03:10](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=190.9s)]
+*  And what the military is going back to Putin is saying, hey, it's not our fault. [[00:03:12](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=192.4s)]
+*  So it's the cycle that he's responding to with the only quiver he has left, which is [[00:03:16](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=196.28s)]
+*  to to to to to threaten the use of a nuclear weapon. [[00:03:21](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=201.44s)]
+*  I'll tell you, Margaret, I don't think a nuclear weapon is usable there. [[00:03:26](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=206.12s)]
+*  So I think that we ought to take it seriously. [[00:03:29](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=209.44s)]
+*  We have to. [[00:03:31](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=211.36s)]
+*  But we ought to not allow this to cow us in terms of the support for the Ukrainians. [[00:03:32](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=212.36s)]
+*  Right. [[00:03:37](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=217.56s)]
+*  Well, the other weapon he has is energy, of course, and tracking this potential sabotage [[00:03:38](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=218.56s)]
+*  on the gas pipeline. [[00:03:44](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=224.58s)]
+*  I want to also ask you about when you were in office back in 2017, which is the first [[00:03:46](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=226.46s)]
+*  time that the U.S. gave us offensive weapons to Ukraine. [[00:03:51](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=231.18s)]
+*  I remember when you were put in that position of having to explain a conversation then President [[00:03:57](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=237.22s)]
+*  Trump had with Russian officials in the Oval Office where he mentioned classified information [[00:04:03](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=243.42000000000002s)]
+*  and you you called it wholly appropriate at the time. [[00:04:09](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=249.9s)]
+*  Given what's going on now, this investigation into the classified material at Mar-a-Lago, [[00:04:13](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=253.85999999999999s)]
+*  were you ever uncomfortable with the former president's handling of classified information? [[00:04:18](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=258.74s)]
+*  Well, remember, I left in February, March of 2018. [[00:04:23](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=263.86s)]
+*  But while I was there, I did not see any problems in handling of classified information. [[00:04:29](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=269.34s)]
+*  And what you're talking about really is a session in which the president did not disclose [[00:04:34](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=274.62s)]
+*  classified information, but somebody leaked it and then it was published in a newspaper. [[00:04:38](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=278.74s)]
+*  The classified information. [[00:04:44](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=284.22s)]
+*  I think what is important is to go back to that period and that provision of javelins, [[00:04:45](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=285.46000000000004s)]
+*  of the defensive capabilities to the Ukrainians was really important. [[00:04:51](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=291.58000000000004s)]
+*  And the argument I made to President Trump at the time was, hey, these people who tell [[00:04:54](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=294.18s)]
+*  you that it's provocative to provide Ukraine with defensive capabilities, actually what [[00:04:58](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=298.3s)]
+*  provokes Putin is weakness. [[00:05:03](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=303.14s)]
+*  And he was persuaded by that argument. [[00:05:05](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=305.86s)]
+*  And I think that argument is still relevant today. [[00:05:07](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=307.70000000000005s)]
+*  I mean, as Putin is encountering these difficulties, I think it's now time to remove some of the [[00:05:10](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=310.58000000000004s)]
+*  restrictions that we've put on ourselves in terms of the support to give the Ukrainians. [[00:05:15](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=315.86s)]
+*  And I'm talking about really long range surveillance capabilities tied to long range precision [[00:05:19](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=319.58000000000004s)]
+*  strike. [[00:05:24](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=324.42s)]
+*  And that's really what they need, I think, to maintain the momentum militarily at this [[00:05:25](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=325.42s)]
+*  stage. [[00:05:29](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=329.38s)]
+*  I have a follow up question on that. [[00:05:30](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=330.38s)]
+*  But just to button up the question I asked you, that was a no. [[00:05:31](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=331.38s)]
+*  You were never uncomfortable with the handling of classified information. [[00:05:33](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=333.74s)]
+*  OK. [[00:05:38](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=338.62s)]
+*  Margaret, there were systems in place. [[00:05:39](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=339.7s)]
+*  I don't know what happened to those systems. [[00:05:41](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=341.02s)]
+*  But I was never uncomfortable with it while I was there. [[00:05:44](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=344.06s)]
+*  But that was a long time ago now. [[00:05:46](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=346.18s)]
+*  OK. [[00:05:48](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=348.54s)]
+*  I know when you're in office, you never like answering counterfactuals. [[00:05:49](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=349.54s)]
+*  But you're not in office. [[00:05:53](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=353.46s)]
+*  So was Vladimir Putin so committed to this invasion that he would have gone through with [[00:05:55](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=355.46s)]
+*  it no matter what? [[00:06:00](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=360.42s)]
+*  I don't think so. [[00:06:05](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=365.22s)]
+*  Think about all the support that we've given now to the Ukrainians. [[00:06:06](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=366.5s)]
+*  What if we had done that a few years ago? [[00:06:09](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=369.36s)]
+*  I think Putin may have come to the conclusion, well, Ukraine cannot be subsumed at an acceptable [[00:06:11](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=371.8s)]
+*  cost. [[00:06:17](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=377.88s)]
+*  And of course, he was wrong in all the assumptions that led to the invasion. [[00:06:18](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=378.88s)]
+*  And he's been proven wrong by courageous Ukrainians who are defending their sovereignty. [[00:06:21](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=381.88s)]
+*  But I think deterrence by denial for us was a failure. [[00:06:26](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=386.84000000000003s)]
+*  I mean, in many of the actions that we took in the months before the invasion almost, [[00:06:29](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=389.64s)]
+*  I think, inadvertently greenlighted it. [[00:06:35](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=395.12s)]
+*  Pulling our forces out of the Black Sea, listing all the things we weren't going to do. [[00:06:36](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=396.8s)]
+*  And I think the Biden administration has recovered from that very well. [[00:06:41](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=401.12s)]
+*  But I think now is the time, Margaret, to lift restrictions on the support that we're [[00:06:45](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=405.0s)]
+*  giving Ukrainians so they can finish this fight on their terms. [[00:06:49](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=409.0s)]
+*  All right. [[00:06:52](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=412.44s)]
+*  H.R. McMaster, thank you very much. [[00:06:53](https://www.youtube.com/watch?v=uqcYvuPFGw0&t=413.44s)]

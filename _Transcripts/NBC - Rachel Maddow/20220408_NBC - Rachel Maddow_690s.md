@@ -1,0 +1,126 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 690s
+Video Keywords: ['Rachel Maddow']
+Video Views: 71370
+Video Rating: None
+Video Description: Mariah K. Watson, president of the Harvard Black Law Students Association, talks about the significance of Ketanji Brown Jackson's confirmation to the Supreme Court and what it means to Black women in the United States.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: http://http://MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#MSNBC #KetanjiBrownJackson #SupremeCourt
+---
+
+# Judge Jackson Blazes Important Trail In Ascent To Supreme Court
+**NBC - Rachel Maddow:** [April 08, 2022](https://www.youtube.com/watch?v=YMz9IVdT2PI)
+*  On this vote, the yeas are 53, the nays are 47, and this nomination is confirmed. [[00:00:00](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=0.0s)]
+*  You hear that? They're still going. [[00:00:15](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=15.0s)]
+*  That went on for almost a minute before they were gaveled to order. [[00:00:18](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=18.0s)]
+*  There was a sound from the floor in the gallery of the Senate after it voted 53 to 47 to confirm Judge Katanji Brown Jackson to the Supreme Court. [[00:00:23](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=23.0s)]
+*  The country's first black woman vice president announced the confirmation of the first black woman to become a Supreme Court justice. [[00:00:31](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=31.0s)]
+*  The applause that followed was the sound of history made and progress sustained. [[00:00:39](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=39.0s)]
+*  Nearly all of the 47 Republican senators who voted against Judge Jackson after working overtime to try to prevent her confirmation left the room as that sound grew louder. [[00:00:45](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=45.0s)]
+*  Senator Mitt Romney stayed on his feet, applauding the moment. [[00:00:56](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=56.0s)]
+*  The senator was one of three Republicans who broke ranks with the party's rigid stance against Judge Jackson. [[00:01:01](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=61.0s)]
+*  He voted yes based on the judge's merits, so he joined in the joy that filled the Senate chamber this afternoon. [[00:01:06](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=66.0s)]
+*  Just ahead of the vote, Senator Warnock, the first black senator from the state of Georgia, explained that joy this way. [[00:01:13](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=73.0s)]
+*  Mr. President, I rise today to express my joy in voting to confirm Judge Katanji Brown Jackson to the United States Supreme Court. [[00:01:20](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=80.0s)]
+*  What a great day it is for the United States of America, for our system of government, and the grand march toward the fulfillment of the sacred covenant we have with one another as an American people, [[00:01:34](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=94.0s)]
+*  We pluribus unum out of many, one. [[00:01:50](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=110.0s)]
+*  Katanji Brown Jackson's improbable journey to the nation's highest court is a reflection of our own journey through fits and starts toward the nation's highest ideals. [[00:01:57](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=117.0s)]
+*  She embodies the arc of our history. [[00:02:17](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=137.0s)]
+*  Like my brother Senator Booker, I know what it has taken for Judge Jackson to get to this moment, and nobody's going to steal my joy. [[00:02:21](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=141.0s)]
+*  Yes, I'm a senator. [[00:02:32](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=152.0s)]
+*  I'm a pastor. [[00:02:35](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=155.0s)]
+*  But beyond all of that, I'm the father of a young black girl. [[00:02:38](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=158.0s)]
+*  I know how much it means for Judge Jackson to have navigated the double jeopardy of racism and sexism to now stand in the glory of this moment, in all of her excellence. [[00:02:45](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=165.0s)]
+*  And Judge Jackson did stand in the glory of that moment with the president who nominated her to fill Justice Breyer's seat. [[00:03:04](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=184.0s)]
+*  The two watched together as the votes came in, they felt the arc of history bend. [[00:03:11](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=191.0s)]
+*  We will get to hear from Judge Jackson tomorrow when she delivers remarks alongside President Biden and Vice President Harris. [[00:03:16](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=196.0s)]
+*  This is what the vice president had to say about the vote today after she gaveled it in. [[00:03:23](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=203.0s)]
+*  I'm overjoyed, deeply moved. [[00:03:29](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=209.0s)]
+*  There is still so much yet to accomplish and that we can accomplish, including a day like today that is so historic and so important for so many reasons. [[00:03:33](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=213.0s)]
+*  And I do believe is a very important statement about who we are as a nation, that we have just made a decision to put this extraordinary jurist on the highest court of our land. [[00:03:43](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=223.0s)]
+*  It's a good statement about who we are. [[00:03:56](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=236.0s)]
+*  It's a good statement about who we are. [[00:04:01](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=241.0s)]
+*  It's also a reminder of who we have been and how we are still striving and sometimes succeeding to become more perfect. [[00:04:03](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=243.0s)]
+*  After 233 years of Supreme Court rulings, there have been 115 justices. [[00:04:10](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=250.0s)]
+*  108 were white men, five were women, two were black men. [[00:04:16](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=256.0s)]
+*  And 31 years since the last black justice was confirmed, we will finally have a black woman justice, someone who is exceptionally qualified, highly respected, and will make the Supreme Court look just a bit more like the country it serves. [[00:04:20](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=260.0s)]
+*  This is who we are today. [[00:04:37](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=277.0s)]
+*  And that evolution matters. [[00:04:40](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=280.0s)]
+*  It matters to the country and specifically to the black women who will now stand on Judge Jackson's shoulders as they become jurists, working to help make this union yet more perfect. [[00:04:42](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=282.0s)]
+*  The New York Times spoke to women who are members of the Harvard Black Law Students Association, where Judge Jackson is an alumna. [[00:04:55](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=295.0s)]
+*  It's a small group, fewer than 140 Harvard Law students are black, 84 are black women. [[00:05:02](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=302.0s)]
+*  That's out of about 1700 total students enrolled in the law program. [[00:05:08](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=308.0s)]
+*  One of those 84 students, Mariah K. Watson, told the Times, quote, I'm grateful for the hard steps and all of the chipping away that Judge Jackson is doing right now so that the path is cleared, or at least a little clearer for those who seek to come after her. [[00:05:12](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=312.0s)]
+*  Joining us now is Mariah K. Watson, a third year law student at Harvard Law School and president of the Harvard Black Law Students Association. [[00:05:30](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=330.0s)]
+*  Ms. Watson, thank you for being with us tonight. [[00:05:37](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=337.0s)]
+*  I just have to ask you first, what was it like to see this today? [[00:05:40](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=340.0s)]
+*  This was historic. [[00:05:45](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=345.0s)]
+*  I, we were together as a group of law students, our external vice president, the Women's Law Students Association of Harvard came together to bring us a classroom to stream it. [[00:05:47](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=347.0s)]
+*  And so you can imagine the uproar in the room as students were elated, to say the very least, that a promise had been fulfilled and one of our very own has been nominated to the highest court in the land. [[00:05:58](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=358.0s)]
+*  You told the New York Times that Judge Jackson has made the path a little clearer for those who seek to come after her. [[00:06:13](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=373.0s)]
+*  I want to ask you about the path she had to walk, which included graduating from Harvard Law School, followed by years of experience on the bench, 24 hours of testimony very recently that questioned her record and her character. [[00:06:20](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=380.0s)]
+*  This was her path to becoming an associate justice on the Supreme Court. [[00:06:32](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=392.0s)]
+*  Tell me how you have digested this over the last several weeks. [[00:06:37](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=397.0s)]
+*  It's been, it's been complicated across the law school. [[00:06:41](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=401.0s)]
+*  I think if you look at the other quotes, we know that she was amazing, not only the things that you mentioned, but she was on the law review. [[00:06:46](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=406.0s)]
+*  She served not only on the federal circuit at the court of appeals level, but also as a district court judge for many years. [[00:06:54](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=414.0s)]
+*  She knows the law backwards and forwards, and she has been excellent in every single thing that she has attempted to do. [[00:07:01](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=421.0s)]
+*  And so part of the digesting is saying, well, you almost have to be without flaw. [[00:07:09](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=429.0s)]
+*  And she is amazing. And we don't take away from that. [[00:07:14](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=434.0s)]
+*  But the way in which she had to be perfect, not only in her professional life, but also in her personal life, the deep in-depth questions that they ask, nothing was off limits. [[00:07:17](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=437.0s)]
+*  And so we now know this is what comes before us. [[00:07:27](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=447.0s)]
+*  If you want to ascend to this level and you are a black woman, then that means you're going to fight twice as hard to get there. [[00:07:30](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=450.0s)]
+*  I want to talk about something that she said to Senator Alex Padilla of California, that as a Harvard student, she once asked herself, do I belong here? [[00:07:39](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=459.0s)]
+*  Can I make it in this environment? [[00:07:50](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=470.0s)]
+*  It's a lot of language we're hearing now about who belongs in spaces, and that includes the Supreme Court or where you are at Harvard Law School, places where there are relatively few black women. [[00:07:52](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=472.0s)]
+*  Who needs to see that people who look like Judge Jackson belong in those spaces? [[00:08:02](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=482.0s)]
+*  The woman who might follow her path or is it the 47 senators who voted against her? [[00:08:07](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=487.0s)]
+*  Who needs the proof that she's had to provide? [[00:08:13](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=493.0s)]
+*  I think it's both. [[00:08:16](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=496.0s)]
+*  I think it's the women who are trying to follow in her footsteps as we look across the classroom or even walking on the halls and seeing the portraits of professors that don't look like us. [[00:08:18](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=498.0s)]
+*  And we're reading opinions by people who did not live our lives and don't reflect who we are. [[00:08:28](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=508.0s)]
+*  And you're wondering, am I meant to be here? [[00:08:33](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=513.0s)]
+*  Is this the right place for me? [[00:08:36](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=516.0s)]
+*  And where does success lead? [[00:08:38](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=518.0s)]
+*  So I think part of it is, is knowing that as black women, as black people, and as just women in general on campus, that we can ascend to these levels. [[00:08:40](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=520.0s)]
+*  And now we have a role model. [[00:08:49](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=529.0s)]
+*  But I think it's equally important for the 47 senators who voted no and the people who maybe share similar ideologies for why they voted no. [[00:08:51](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=531.0s)]
+*  To see that black women can be brilliant, can be fair, and can function at the highest levels and do it really, really well. [[00:08:59](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=539.0s)]
+*  And I think that's something that needs to be seen. [[00:09:10](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=550.0s)]
+*  I think there are a lot of assumptions that we don't always talk about around what it means to succeed and be brilliant when you are a part of a marginalized community. [[00:09:12](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=552.0s)]
+*  And I think showing her credentials and her amazingness that she's going to bring to the court is going to help to hopefully chip away at some of those assumptions. [[00:09:21](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=561.0s)]
+*  You've done something that many of us have not done. [[00:09:29](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=569.0s)]
+*  You've met Judge Jackson in person. [[00:09:33](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=573.0s)]
+*  Can you share a little bit about that experience and in particular her willingness to make herself available to aspiring young lawyers? [[00:09:35](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=575.0s)]
+*  Absolutely. [[00:09:42](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=582.0s)]
+*  Absolutely. [[00:09:44](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=584.0s)]
+*  Judge Jackson, now Justice Jackson, or soon to be, regularly visited Harvard Law School. [[00:09:45](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=585.0s)]
+*  And I had the good fortune of meeting her in the fall of 2019. [[00:09:51](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=591.0s)]
+*  She came to speak to the Black Law Students Association in a lunch. [[00:09:56](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=596.0s)]
+*  And she talked to us about diversity in the judiciary. [[00:10:00](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=600.0s)]
+*  And she answered every single question that we as bright-eyed bushy-tailed one else had about what it meant to be here and how she persevered in her classroom when she didn't feel represented or she felt like she couldn't speak on things that she really cared about. [[00:10:04](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=604.0s)]
+*  Or how did she make herself known on campus? [[00:10:19](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=619.0s)]
+*  And she talked about the importance of legal writing. [[00:10:23](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=623.0s)]
+*  She talked about the importance of understanding the law and having an intimate command of the doctrine. [[00:10:25](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=625.0s)]
+*  And she talked about how to show up even when you don't feel like you can. [[00:10:31](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=631.0s)]
+*  And she talked about how she did it. [[00:10:36](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=636.0s)]
+*  And it's just an amazing opportunity. [[00:10:38](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=638.0s)]
+*  She also talked to us about moot court competitions and the ways that we could show our beautiful, brilliant Black community and spaces not just in our organization. [[00:10:40](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=640.0s)]
+*  What an experience to have met her and to have heard her speak. [[00:10:52](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=652.0s)]
+*  Mariah, thank you for joining us. [[00:10:56](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=656.0s)]
+*  Mariah K. Watson is a third-year law student at Harvard Law School and the president of the Harvard Black Law Students Association. [[00:10:57](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=657.0s)]
+*  We're grateful for your time and for sharing your experiences with us tonight. [[00:11:03](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=663.0s)]
+*  Thank you. [[00:11:27](https://www.youtube.com/watch?v=YMz9IVdT2PI&t=687.0s)]

@@ -1,0 +1,60 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 218s
+Video Keywords: ['Vladimir Putin', 'Xi JInping', 'China', 'Russia', 'Will Ripley', 'Erin Burnett']
+Video Views: 128952
+Video Rating: None
+Video Description: CNN's Will Ripley reports on Russian President Vladimir Putin's visit with Chinese leader Xi Jinping in Beijing. #CNN #News
+---
+
+# Putin and Xi refuse to condemn Hamas attack on Israel
+**CNN - Israel Palestine:** [October 18, 2023](https://www.youtube.com/watch?v=Bvxi-BxPNFk)
+*  Half a world away from all of the fighting and protests in the Middle East, Russian President [[00:00:00](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=0.0s)]
+*  Vladimir Putin and the Chinese President Xi Jinping met today in Beijing, both refusing [[00:00:14](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=14.34s)]
+*  to condemn Hamas. [[00:00:20](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=20.400000000000002s)]
+*  Clearly taking a side in this war, Will Ripley is out front. [[00:00:22](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=22.240000000000002s)]
+*  Chinese President Vladimir Putin, an accused war criminal in the West, a guest of honor [[00:00:28](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=28.0s)]
+*  in Beijing. [[00:00:34](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=34.4s)]
+*  Chinese President Xi Jinping feasting with a fellow strongman, triumphantly toasting [[00:00:35](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=35.8s)]
+*  their vision of a new world order. [[00:00:40](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=40.64s)]
+*  A world prioritizing Palestinians over Western-backed Israel, pitting the Putin-Xi world against [[00:00:43](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=43.38s)]
+*  the US-led free world. [[00:00:49](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=49.44s)]
+*  Russia and China refusing to strongly condemn the Hamas attack. [[00:00:53](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=53.120000000000005s)]
+*  Putin placing blame on the US for the conflict, not Hamas gunmen, who also took Russian lives. [[00:00:57](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=57.72s)]
+*  Both Beijing and Moscow criticizing Israel's actions, condemning Tuesday's deadly hospital [[00:01:06](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=66.0s)]
+*  blast, the Palestinians say hundreds died. [[00:01:11](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=71.64s)]
+*  Russia calling it an act of dehumanization, urging Israel to prove its innocence. [[00:01:16](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=76.52s)]
+*  China says Israel played a part in provoking Palestinian rage. [[00:01:22](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=82.16s)]
+*  Decades of diplomacy without a two-state solution. [[00:01:26](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=86.16s)]
+*  Israel has the right to establish a state. [[00:01:29](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=89.96s)]
+*  Palestine has the right to establish a state as well. [[00:01:32](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=92.64s)]
+*  China's heavily censored social media overflowing with pro-Palestinian posts, and plenty of [[00:01:35](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=95.92s)]
+*  anger aimed at Israel and the US. [[00:01:42](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=102.12s)]
+*  One user writes, the only way to get peace in the Middle East is for the Jews to move [[00:01:44](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=104.75999999999999s)]
+*  to America and build a nation there. [[00:01:48](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=108.75999999999999s)]
+*  Xi welcomed Palestinian President Mahmoud Abbas in June, part of Beijing's bid for [[00:01:52](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=112.64s)]
+*  a bigger role in Mideast diplomacy and its desire to reshape the US-led world order. [[00:01:57](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=117.52s)]
+*  Building on the historic deal it brokered this year, restoring ties between Iran and [[00:02:03](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=123.96000000000001s)]
+*  Saudi Arabia. [[00:02:08](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=128.44s)]
+*  China says it's sending a special envoy to the Middle East to help with a political settlement. [[00:02:10](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=130.0s)]
+*  China and Russia now calling for a ceasefire in Gaza, positioning themselves as possible [[00:02:15](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=135.44s)]
+*  peacemakers, both ignoring the irony of Putin's own brutal war, spilling blood on the battlefields [[00:02:20](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=140.32s)]
+*  of Ukraine. [[00:02:27](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=147.12s)]
+*  Far from the front lines, the leaders and representatives of some 140 nations are expected [[00:02:28](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=148.56s)]
+*  here in the Chinese capital, leaders of key Western allies noticeably absent. [[00:02:33](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=153.32s)]
+*  A perfectly timed distraction from Putin's problems at home. [[00:02:38](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=158.44s)]
+*  Parading himself before flocks of friendly state media outlets, Putin's heaping praise [[00:02:42](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=162.64s)]
+*  on China's powerful leader and Russia's loyal patron Xi Jinping. [[00:02:47](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=167.84s)]
+*  He makes long-term plans for the future. [[00:02:54](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=174.56s)]
+*  It's what differentiates the true world leaders from what we call temps. [[00:02:57](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=177.16000000000003s)]
+*  Temps only show off on the world stage for about five minutes before becoming lost to [[00:03:01](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=181.68s)]
+*  world history. [[00:03:06](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=186.28s)]
+*  Putin and Xi, possibly leaders for life, predicting a global power shift, the decline of democracy, [[00:03:07](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=187.96s)]
+*  the rise of strongman rule. [[00:03:15](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=195.52s)]
+*  You could hear in Vladimir Putin's interview the disdain he has for democratically elected [[00:03:20](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=200.4s)]
+*  leaders and President Biden has said that this battle, Aaron, between democracy and [[00:03:24](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=204.4s)]
+*  autocracy will be the defining battle of this century. [[00:03:28](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=208.0s)]
+*  All right. [[00:03:32](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=212.12s)]
+*  Well, thank you very much. [[00:03:34](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=214.28s)]
+*  And thanks so much to all of you for joining us. [[00:03:36](https://www.youtube.com/watch?v=Bvxi-BxPNFk&t=216.0s)]

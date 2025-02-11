@@ -1,0 +1,67 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 235s
+Video Keywords: ['#Israeli', '#forces', '#IDF', '#Hamas', '#Ground', '#Gaza']
+Video Views: 297908
+Video Rating: None
+Video Description: CNN's Jeremy Diamond covers the mobilization of 300,000 reserve troops in response to a potential ground operation in Gaza.
+#CNN #News
+---
+
+# Israeli forces prepare for potential ground operation
+**CNN - Israel Palestine:** [October 10, 2023](https://www.youtube.com/watch?v=E4gzxOO-yQQ)
+*  Yeah, well, listen, today we set out to do a story about all of these hundreds of thousands [[00:00:00](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=0.0s)]
+*  of military reservists and this massive military buildup that Israel is preparing for. [[00:00:06](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=6.96s)]
+*  But as we set out to do this story along the Gaza border in Israeli communities here, one [[00:00:12](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=12.120000000000001s)]
+*  thing became clear is that this is still a very volatile, very unstable situation. [[00:00:17](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=17.26s)]
+*  Even before the next phase of Israel's military campaign, whatever it may be reveals itself, [[00:00:22](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=22.72s)]
+*  whether it was rockets flying overhead as we were in the city of Sderot or a firefight [[00:00:28](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=28.44s)]
+*  that we caught near the Israeli town of Mifal Sim, this is still, Wolf, a very unstable, [[00:00:34](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=34.480000000000004s)]
+*  uncertain situation. [[00:00:41](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=41.0s)]
+*  Three days after hundreds of Hamas militants infiltrated Israel, Israeli forces are still [[00:00:45](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=45.08s)]
+*  fighting to eliminate the threat. [[00:00:50](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=50.96s)]
+*  We are here right outside of the Israeli town of Mifal Sim, where we have been hearing [[00:00:53](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=53.56s)]
+*  repeated exchanges of gunfire over the last 10 minutes or so. [[00:00:58](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=58.04s)]
+*  These exchanges, we haven't seen who exactly they are between, but we do know that Israeli [[00:01:02](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=62.92s)]
+*  forces have been continuing to try and clear some of these Israeli towns around the Gaza [[00:01:08](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=68.48s)]
+*  Strip from those Hamas militants. [[00:01:14](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=74.28s)]
+*  The IDF later confirming they killed two Hamas terrorists in the battle. [[00:01:17](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=77.48s)]
+*  Minutes after it ended, Israeli defense forces rushing a casualty into an ambulance. [[00:01:22](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=82.16s)]
+*  Please turn around. [[00:01:27](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=87.96s)]
+*  Turn around. [[00:01:29](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=89.96s)]
+*  But the soundtrack to life in most Israeli communities around the Gaza Strip today wasn't [[00:01:30](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=90.96s)]
+*  gunfire but rockets. [[00:01:36](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=96.6s)]
+*  In Sderot, the booms punctuate the stillness of the day. [[00:01:38](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=98.92s)]
+*  We've just come into a shelter here where we can take cover from these Iron Dome interceptions [[00:01:44](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=104.64s)]
+*  and of course they're intercepting active rockets coming in from Gaza. [[00:01:49](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=109.96000000000001s)]
+*  The booms are very loud, they are directly overhead. [[00:01:54](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=114.32000000000001s)]
+*  Twenty minutes later, another barrage of rockets headed for the city of Ashkelon. [[00:01:57](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=117.92s)]
+*  Alright, we're in the city of Sderot. [[00:02:02](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=122.2s)]
+*  We can now see that barrage that Hamas promised at 5 p.m. appearing to head over in the direction [[00:02:04](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=124.68s)]
+*  of Ashkelon. [[00:02:12](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=132.0s)]
+*  Now that is exactly where Hamas officials said about an hour ago that they would fire [[00:02:13](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=133.0s)]
+*  rockets in that direction. [[00:02:18](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=138.96s)]
+*  But there is also another sound in towns like Sderot. [[00:02:21](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=141.28s)]
+*  Israeli troops and reservists mobilizing to the Gaza front. [[00:02:27](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=147.48000000000002s)]
+*  Part of a massive call up of more than 300,000 reserve troops. [[00:02:32](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=152.48000000000002s)]
+*  Preparations for a potential ground invasion of Gaza. [[00:02:36](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=156.8s)]
+*  For some, this moment feels different. [[00:02:40](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=160.56s)]
+*  Then we came in with a concept of full control. [[00:02:43](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=163.48000000000002s)]
+*  This one started with much more obviously confusion and the playing field is different, [[00:02:47](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=167.16s)]
+*  that's certainly. [[00:02:54](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=174.48000000000002s)]
+*  But I think in the last two days the momentum has shifted. [[00:02:58](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=178.08s)]
+*  An entire country is springing into action with those out of uniform bringing food and [[00:03:01](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=181.8s)]
+*  supplies to troops. [[00:03:07](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=187.0s)]
+*  After days of tragedy, also a sense of resilience. [[00:03:10](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=190.04000000000002s)]
+*  I'm not afraid at all, she said. [[00:03:14](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=194.11999999999998s)]
+*  When it will be my time, it will be my time. [[00:03:16](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=196.23999999999998s)]
+*  And well late Tuesday evening the Israel Defense Forces also now confirming that the first [[00:03:21](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=201.88s)]
+*  shipments of advanced US weaponry provided by the United States in the wake of Hamas's [[00:03:26](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=206.67999999999998s)]
+*  attack this past weekend has now arrived in Israel. [[00:03:32](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=212.67999999999998s)]
+*  It arrived at the Nevatim Air Base in southern Israel. [[00:03:36](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=216.44s)]
+*  The IDF in its statement did not say what kind of weaponry was being provided, simply [[00:03:40](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=220.6s)]
+*  that it is quote, designed to facilitate significant military operations and increase preparedness [[00:03:44](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=224.92000000000002s)]
+*  for other scenarios. [[00:03:51](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=231.24s)]
+*  Wolf. [[00:03:52](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=232.24s)]
+*  Alright Jeremy, thank you for that report. [[00:03:53](https://www.youtube.com/watch?v=E4gzxOO-yQQ&t=233.24s)]

@@ -1,0 +1,141 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 517s
+Video Keywords: ['Chris Hayes']
+Video Views: 278834
+Video Rating: None
+Video Description: The key “whistleblower” in the GOP Biden probe has been charged with acting as an illegal agent of the Chinese government. But Kevin McCarthy thinks that only makes the case against the Biden’s “stronger.”
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #republicans #mccarthy
+---
+
+# McCarthy claims indictment of GOP 'informant' only makes Biden case 'stronger'
+**NBC - Chris Hayes:** [July 13, 2023](https://www.youtube.com/watch?v=MNXYFLnJW0Q)
+*  Earlier this week, we brought you the story of House Oversight Committee Chairman James [[00:00:00](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=0.0s)]
+*  Comer's missing informant in his ongoing effort to bring down the so-called Biden crime [[00:00:05](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=5.6000000000000005s)]
+*  family. [[00:00:10](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=10.76s)]
+*  This is the man who, according to Comer, has key evidence about President Joe Biden and [[00:00:11](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=11.76s)]
+*  his family taking bribes from China. [[00:00:16](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=16.12s)]
+*  His name is Gal Luft. [[00:00:18](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=18.68s)]
+*  He is a dual U.S.-Israeli citizen who heads a think tank in the Washington, D.C. area. [[00:00:19](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=19.84s)]
+*  As we just learned, Luft has been indicted by the U.S. [[00:00:25](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=25.46s)]
+*  government and is actually on the lam right now. [[00:00:28](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=28.82s)]
+*  In February, he was arrested in the Republic of Cyprus, but he fled while on bail. [[00:00:32](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=32.58s)]
+*  Luft faces eight counts for arms trafficking, violating Iranian sanctions, and, according [[00:00:37](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=37.86s)]
+*  to prosecutors, being an agent of the Chinese government. [[00:00:42](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=42.74s)]
+*  Now, Democratic members of Congress are calling for an investigation into whether James Comer's [[00:00:46](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=46.3s)]
+*  Oversight Committee has been manipulated by a foreign power. [[00:00:51](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=51.38s)]
+*  One of those Democratic members is Congressman Dan Goldman of New York, and he joins me now. [[00:00:55](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=55.580000000000005s)]
+*  Congressman, I guess I start, what do you make of all this? [[00:01:00](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=60.620000000000005s)]
+*  It's like a bad spy novel where you have an actual spy who's on the run, facing federal [[00:01:05](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=65.9s)]
+*  charges of very serious nature, including being a spy for China, who then decides, oh, [[00:01:13](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=73.02000000000001s)]
+*  maybe I can defend myself against these charges by laundering information through an official [[00:01:20](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=80.53999999999999s)]
+*  committee of Congress. [[00:01:26](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=86.89999999999999s)]
+*  And then, of course, you have the desperate Republicans on the House Oversight Committee [[00:01:28](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=88.69999999999999s)]
+*  who will do anything to get any information that might be able to damage President Biden, [[00:01:32](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=92.78s)]
+*  and they welcome this unverified, uncorroborated information from a fugitive charged criminal. [[00:01:39](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=99.33999999999999s)]
+*  It's truly remarkable that this is the star witness that the House Republicans are trying [[00:01:48](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=108.26s)]
+*  to rely on in their effort to attack and undermine President Biden. [[00:01:53](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=113.42s)]
+*  And one other thing, Chris, which you didn't mention, he is charged with making false statements [[00:01:59](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=119.26s)]
+*  to the FBI. [[00:02:04](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=124.38000000000001s)]
+*  So he's not remotely credible based on the indictment alone, and he made those false [[00:02:05](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=125.98s)]
+*  in the same meeting that he discussed Hunter Biden with the FBI, which is the information [[00:02:12](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=132.82s)]
+*  that Chairman Comer wants to get. [[00:02:19](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=139.66s)]
+*  I didn't realize that. [[00:02:23](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=143.18s)]
+*  Yeah. [[00:02:25](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=145.02s)]
+*  All right. [[00:02:26](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=146.02s)]
+*  Well, here's let me play you Kevin McCarthy. [[00:02:27](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=147.02s)]
+*  Kevin McCarthy's reaction to this. [[00:02:29](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=149.22s)]
+*  And I want to get your reaction to what Kevin McCarthy said. [[00:02:30](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=150.94s)]
+*  Take a listen. [[00:02:32](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=152.9s)]
+*  No, it wouldn't undermine the case because you extrapolate that even further. [[00:02:35](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=155.06s)]
+*  The Justice Department went after him. [[00:02:41](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=161.82000000000002s)]
+*  Well, Hunter Biden received more money from the same foreign CEFC company that this informant [[00:02:44](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=164.46s)]
+*  did, much more. [[00:02:51](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=171.86s)]
+*  So it only make the case stronger that the government really didn't look into Hunter [[00:02:53](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=173.74s)]
+*  Biden. [[00:02:58](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=178.66000000000003s)]
+*  So the indictment of the key informant makes the case against Hunter Biden stronger. [[00:03:01](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=181.14000000000001s)]
+*  What do you think? [[00:03:05](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=185.26000000000002s)]
+*  I still cannot understand the rationale behind that argument is the idea that because the [[00:03:06](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=186.94s)]
+*  same company paid these two people that therefore Hunter Biden is an arms dealer and lied to [[00:03:13](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=193.54s)]
+*  the FBI and is an unregistered agent of China. [[00:03:20](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=200.86s)]
+*  It makes absolutely no sense. [[00:03:24](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=204.58s)]
+*  But it really does show, Chris, the desperation that House Republicans are feeling right now, [[00:03:25](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=205.98s)]
+*  because one after another after another of their investigations are crumbling under the [[00:03:32](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=212.58s)]
+*  own weight of their unfounded and baseless allegations that they do not have evidence [[00:03:37](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=217.54000000000002s)]
+*  for. [[00:03:43](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=223.66000000000003s)]
+*  And that is ultimately what they're running into. [[00:03:44](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=224.66000000000003s)]
+*  What reminds me, it's like if you put word out on the street that you will take dirt [[00:03:47](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=227.66000000000003s)]
+*  on Biden from all comers, it's like fly paper for all sorts of characters. [[00:03:52](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=232.86s)]
+*  And it reminds me what happened in the impeachment over Ukraine, which you were involved in as [[00:03:57](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=237.10000000000002s)]
+*  a staff counsel. [[00:04:02](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=242.5s)]
+*  There's all kinds of very shady characters coming forward to give Giuliani and others [[00:04:04](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=244.42000000000002s)]
+*  these lines that are what they want to hear. [[00:04:09](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=249.66000000000003s)]
+*  And then if you scratch the surface a little, it's like these are not people that are trustworthy. [[00:04:12](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=252.62s)]
+*  No, not at all. [[00:04:17](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=257.54s)]
+*  And this one in particular recognized that his criminal defense could be bolstered by [[00:04:18](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=258.54s)]
+*  using the House Oversight Committee. [[00:04:24](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=264.22s)]
+*  He even stated to the New York Post that his whistleblowing to the Oversight Committee [[00:04:26](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=266.38s)]
+*  is why the Department of Justice is going after him. [[00:04:34](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=274.58s)]
+*  He was indicted months ago before they even knew who he was. [[00:04:37](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=277.41999999999996s)]
+*  So these whistleblowers recognize that they have a good defense mechanism in the House [[00:04:41](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=281.46s)]
+*  Republicans who will take any and all information without any corroboration, without any verification [[00:04:49](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=289.09999999999997s)]
+*  and then just extrapolate beyond all reason. [[00:04:56](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=296.90000000000003s)]
+*  One of the things that you're calling for, this is the letter that you endorsed. [[00:05:01](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=301.34000000000003s)]
+*  There's a select committee on the CCP now, the Chinese Communist Party, which I have [[00:05:04](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=304.78000000000003s)]
+*  mixed feelings about just as a side note. [[00:05:10](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=310.1s)]
+*  But their letter to that committee, letter from Jared Moskowitz, enabling a Chinese backed [[00:05:11](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=311.90000000000003s)]
+*  Iranian arms supplier and making him a centerpiece of the oversight investigations calls into [[00:05:17](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=317.98s)]
+*  question whether the CCP has tainted the Oversight Committee and its work. [[00:05:22](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=322.66s)]
+*  You want that committee to look into the Oversight Committee's use of this guy? [[00:05:25](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=325.94s)]
+*  Well, certainly Chairman Comer is not going to do any deep dive to figure out whether [[00:05:30](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=330.38s)]
+*  this guy is compromised and is peddling information on behalf of China that might undermine our [[00:05:35](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=335.1s)]
+*  national security. [[00:05:42](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=342.22s)]
+*  And if we are going to have a select committee on the CCP, as you say, with some misgivings, [[00:05:43](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=343.7s)]
+*  then they ought to make sure that the Chinese government is not infiltrating this body itself [[00:05:50](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=350.06s)]
+*  and potentially trying to launder information through an official committee of Congress [[00:05:56](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=356.7s)]
+*  to undermine our national security. [[00:06:02](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=362.98s)]
+*  We don't even know the extent of this involvement, China's involvement with this individual. [[00:06:05](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=365.34s)]
+*  We just know that he's been charged as an unregistered agent advancing the interests [[00:06:10](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=370.34s)]
+*  of the Chinese government. [[00:06:16](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=376.54s)]
+*  And that is incredibly dangerous to have as a witness before an official committee. [[00:06:17](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=377.98s)]
+*  Final question for you about the vote today in the House. [[00:06:24](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=384.54s)]
+*  There's a vote today. There's a Pentagon policy post the overturning of Roe v. [[00:06:26](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=386.78s)]
+*  Wade that pays for paid leave for service members that need to leave where they are [[00:06:32](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=392.1s)]
+*  if they're in a state that where they don't have access to abortion to go secure an [[00:06:36](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=396.98s)]
+*  abortion and return. [[00:06:41](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=401.18s)]
+*  That policy has been the reason that Tommy Tuberville is holding up all high level [[00:06:42](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=402.86s)]
+*  nominations to the Pentagon. [[00:06:47](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=407.5s)]
+*  And today, the House voted to overturn that Pentagon policy. [[00:06:48](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=408.86s)]
+*  And I. What do you think? [[00:06:53](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=413.5s)]
+*  Are you surprised they keep at this given the political blowback they have already [[00:06:57](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=417.5s)]
+*  faced and given this is essentially a symbolic vote? [[00:07:03](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=423.98s)]
+*  It's not going to go anywhere in the Senate. [[00:07:07](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=427.46000000000004s)]
+*  Yeah, it's truly remarkable that they continue their attack on the individual [[00:07:09](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=429.3s)]
+*  freedoms of Americans, both with this amendment effectively banning any abortion [[00:07:13](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=433.18s)]
+*  for military service members who have to seek an abortion from a different state, [[00:07:20](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=440.22s)]
+*  as well as undermining and attacking the LGBTQ community by banning any support for [[00:07:25](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=445.9s)]
+*  for gender affirming care to allow people to live a life that they want to live. [[00:07:35](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=455.5s)]
+*  This is the Republican Party attacking our individual freedoms across the board. [[00:07:40](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=460.78s)]
+*  But I am a little surprised. [[00:07:46](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=466.3s)]
+*  And I'll tell you, I come from New York, where there are, as you know, because you [[00:07:47](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=467.58s)]
+*  live there, a number of very close purple district house seats. [[00:07:50](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=470.94s)]
+*  New York is robustly in support of reproductive rights and the right to abortion. [[00:07:56](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=476.3s)]
+*  And all of the Republican members voted to restrict abortion access for members in the [[00:08:02](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=482.21999999999997s)]
+*  military. And you can bet that we will be bringing that up from now until November 2024. [[00:08:09](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=489.9s)]
+*  Thank you. [[00:08:32](https://www.youtube.com/watch?v=MNXYFLnJW0Q&t=512.14s)]

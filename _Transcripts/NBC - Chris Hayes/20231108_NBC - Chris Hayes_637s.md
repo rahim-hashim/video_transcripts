@@ -1,0 +1,148 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 637s
+Video Keywords: ['msnbc', 'MSNBC', 'Specials']
+Video Views: 57396
+Video Rating: None
+Video Description: Get the latest news and commentary from Chris Hayes weekdays at 8 p.m. ET on MSNBC.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#MSNBC #Trump #ElectionDay
+---
+
+# Watch All In With Chris Hayes Highlights: Nov. 7
+**NBC - Chris Hayes:** [November 08, 2023](https://www.youtube.com/watch?v=GAYs1xuGDEw)
+*  All right, we just got some big news out of Kentucky. Steve Kornacki is still at the big [[00:00:00](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=0.0s)]
+*  board. Steve, what's the latest? Yeah, our decision desk has now made it official and they are [[00:00:04](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=4.5600000000000005s)]
+*  comfortable declaring that Andy Beshear, the Democratic incumbent governor of Kentucky, [[00:00:08](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=8.8s)]
+*  has been re-elected, that he will defeat his Republican challenger, the state, the sitting [[00:00:13](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=13.92s)]
+*  attorney general, Daniel Cameron. We've been, no surprise if you've been watching all night, [[00:00:18](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=18.72s)]
+*  we've been seeing county after county come in in Kentucky with Beshear running ahead of how he [[00:00:24](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=24.24s)]
+*  ran in 2019, not by leaps and bounds, but by several points, just county after county. [[00:00:30](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=30.88s)]
+*  The pattern very clear at this point, this is a state he won by less than 1.4 years ago. He had a [[00:00:36](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=36.4s)]
+*  very high approval rating, very high personal favorability rating. The Cameron campaign and [[00:00:42](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=42.0s)]
+*  Republicans had been hoping to attach Beshear to Joe Biden, to the National Democratic Party, [[00:00:47](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=47.12s)]
+*  both of which remain very unpopular in Kentucky, but it looks like that personal popularity and [[00:00:52](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=52.56s)]
+*  that high job approval rating for Beshear have won out. He is going to get a second term. [[00:00:57](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=57.36s)]
+*  He's the second Beshear to get a second term as governor of Kentucky. His father was a two-term [[00:01:02](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=62.88s)]
+*  governor as well not that long ago. Just again, we can show you we got a big batch of votes from [[00:01:08](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=68.80000000000001s)]
+*  Louisville, Jefferson County, core Democratic county. We said this would be a big trench of [[00:01:15](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=75.12s)]
+*  Beshear votes. A few of those came in just a little while ago. You look around the Lexington [[00:01:19](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=79.76s)]
+*  area and I think you really see it though. The improvement for Beshear over last time around, [[00:01:23](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=83.84s)]
+*  he's running six points better in Fayette County, second biggest county in the state [[00:01:28](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=88.24000000000001s)]
+*  than he did four years ago. You look up in Scott County, he's running at 55 percent basically now. [[00:01:32](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=92.16000000000001s)]
+*  He was under 54 years ago there. Take a look at the state capital, Franklin County, where [[00:01:38](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=98.32000000000001s)]
+*  Frankfurt is. He got 61 percent of the vote here four years ago. He's at 68 and a half with almost [[00:01:43](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=103.44s)]
+*  95 percent in. So that has been the pattern. These big Democratic vote producing counties, [[00:01:48](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=108.88s)]
+*  he's getting more votes out of in Republican counties. He's still losing them, but he's not [[00:01:54](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=114.08s)]
+*  losing them by as much. It all adds up to what's going to be a victory for Andy Beshear in his [[00:01:58](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=118.56s)]
+*  second term in the governor's mansion. You know, one of the things in the lead up to the race, [[00:02:02](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=122.88s)]
+*  there wasn't a ton of polling, but to the extent we had polling, we looked at approval ratings. [[00:02:06](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=126.64s)]
+*  This was my understanding and folks in Kentucky politics, the expectation at least was that heading [[00:02:11](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=131.36s)]
+*  into night Beshear was the favorite, that he'd run a pretty good campaign, that he was a fairly [[00:02:18](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=138.0s)]
+*  popular incumbent. Is that generally your sense? I would say yeah, until a week ago, roughly, [[00:02:22](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=142.16s)]
+*  or a little bit less. There was a poll that came out at the end of last week that had the race tied. [[00:02:28](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=148.88s)]
+*  Yep. And there was a second poll that came out yesterday that had it at two points. [[00:02:34](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=154.32s)]
+*  There was a thought that it was possible. Cameron changed tactics late in this campaign. He'd been [[00:02:39](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=159.12s)]
+*  running a very sort of aggressive anti-Beshear campaign. He's had some name calling involved. [[00:02:44](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=164.32s)]
+*  Toward the end of the campaign, the Cameron folks shifted tactics and he put an ad up on the air [[00:02:51](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=171.68s)]
+*  where he talks to the camera and he says, you know, Andy Beshear is not a bad guy. And then he says, [[00:02:56](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=176.96s)]
+*  but we just have some disagreements. It was a very different tone. And so there was a question [[00:03:01](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=181.84s)]
+*  when you saw that polling in the final days, if that shift in tone coupled with the antipathy of [[00:03:06](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=186.56s)]
+*  Kentucky voters towards Biden, towards the national democratic party, if that would add up to a late [[00:03:11](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=191.36s)]
+*  kick here for Cameron, it would close the gap. It may end up closing the gap to a degree that he [[00:03:16](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=196.64000000000001s)]
+*  doesn't lose this thing by what it looked a month ago, like he was going to lose it by, but it [[00:03:22](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=202.4s)]
+*  certainly wasn't enough to get him over the top. Yeah. It's also interesting. They really did. I [[00:03:26](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=206.8s)]
+*  mean, I saw some of the ads, I saw the campaign spots. There really was a focus on Joe Biden. [[00:03:30](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=210.08s)]
+*  There really was like Andy Beshear is Joe Biden's buddy, Andy Beshear and Joe Biden. That was a [[00:03:34](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=214.32s)]
+*  central thrust, which does not appear to have been effective, at least not to get them over the [[00:03:39](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=219.28s)]
+*  hump for victory. Steve Kornacki, thank you very much. All right. Tomorrow Ivanka Trump, [[00:03:43](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=223.76s)]
+*  former senior White House official, which is sort of still funny to say, an eldest daughter of [[00:03:49](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=229.84s)]
+*  Donald Trump is expected to testify in the New York attorney general's $250 million lawsuit against [[00:03:55](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=235.28s)]
+*  her daddy and the Trump organization. She's going to have a tough act to follow after her father's [[00:04:01](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=241.36s)]
+*  preposterous performance on the stand yesterday, including one incident that led the judge to tell [[00:04:06](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=246.64000000000001s)]
+*  Trump's lawyer, quote, I would beseech you to control him if you can. If you can't, I will. [[00:04:11](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=251.20000000000002s)]
+*  I will excuse him and draw every negative inference that I can. Do you understand that? [[00:04:15](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=255.92000000000002s)]
+*  And there are also more substantive moments when Trump admitted he had signed a document making [[00:04:20](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=260.16s)]
+*  representations about his financial situation, quote, in order to induce lender to accept this [[00:04:24](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=264.56s)]
+*  guarantee and to enter into the credit agreement. MSNBC legal analyst Katie Fang points out that [[00:04:29](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=269.68s)]
+*  this, quote, a critical admission by Trump that he admits that the intent in making these financial [[00:04:35](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=275.12s)]
+*  representations was to convince lenders to loan money. But ultimately, I think we've reached a [[00:04:40](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=280.16s)]
+*  phase of this trial where it can best be compared to the infamous Chicago seven trial in 1969, [[00:04:46](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=286.24s)]
+*  where the anti-war protesters on trial decided to turn the whole thing into a circus and, [[00:04:50](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=290.8s)]
+*  you know, put the system on trial. Basically, the term that Donald Trump's attorneys have made here, [[00:04:55](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=295.2s)]
+*  even at the risk of enraging the judge who will be the lone one deciding Trump's culpability in this [[00:05:00](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=300.64s)]
+*  case. More importantly, every judge who has a Trump trial coming up should be watching this because [[00:05:05](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=305.92s)]
+*  it looks like a dress rehearsal to polarize opinion about the legitimacy of the previous [[00:05:11](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=311.36s)]
+*  proceedings themselves rather than try to win the case within the confines of the court. [[00:05:16](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=316.8s)]
+*  MSNBC legal analyst Lisa Rubin was in the courtroom for yesterday's performance, [[00:05:21](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=321.76s)]
+*  and she joins me now. Does that scam to you that there is a tactical decision? There's different [[00:05:25](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=325.52000000000004s)]
+*  ways to look at this. One is, oh, you can't restrain Trump and he doesn't have any self-control. [[00:05:31](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=331.36s)]
+*  I don't quite buy that. The other is, basically, this is the tactic now is like trying to sort of [[00:05:35](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=335.36s)]
+*  bait the judge into saying something that they could use for appeal and trying to sort of convert [[00:05:41](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=341.92s)]
+*  this into kind of a polarized prism of like, this judge is out to get me and that's really [[00:05:46](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=346.88s)]
+*  what they're up to. I think it can be both. I think there are moments where Trump showed he [[00:05:53](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=353.44s)]
+*  can be disciplined, and partially he showed that when he started to echo things that I know his [[00:05:59](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=359.12s)]
+*  lawyers have told him, right? When he talked about what you can expect during the rest of this trial, [[00:06:05](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=365.28s)]
+*  which witnesses are going to come, which important thinkers will be there, which expert witnesses, [[00:06:10](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=370.24s)]
+*  or he tried to pull out of his pocket somewhat preposterously the language of the disclaimer [[00:06:15](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=375.2s)]
+*  statement that appeared on each of his statements of financial condition. He's clearly fluent in [[00:06:21](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=381.03999999999996s)]
+*  some of what's going on in this case, and yet I'm not sure that his explosions at the judge, [[00:06:26](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=386.15999999999997s)]
+*  at Kevin Wallace, who's a lawyer with the AG's office, or even at Tish James herself, [[00:06:32](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=392.0s)]
+*  were as calculated as people think. That's interesting. Yeah, so they read more organic to [[00:06:36](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=396.08s)]
+*  you. They felt more organic because the tone was so different. You know, Chris, you and I have [[00:06:41](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=401.04s)]
+*  talked about before that as a watcher in the courtroom, when Trump goes out to the hallway [[00:06:45](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=405.84000000000003s)]
+*  and he gives us impromptu press conferences, for security reasons, those of us who are in the [[00:06:50](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=410.16s)]
+*  courtroom can't follow him out. We can't watch that. When I saw video of those press conferences [[00:06:54](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=414.40000000000003s)]
+*  yesterday, I saw a Trump who was remarkably more cool and collected in his tone, even if the content [[00:06:59](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=419.92s)]
+*  of what he was saying was vitriolic, than he was when he lost his cool towards Judge Ingoron, [[00:07:06](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=426.08s)]
+*  towards Tish James, towards Kevin Wallace, when he was saying, these proceedings are a disgrace, [[00:07:11](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=431.59999999999997s)]
+*  you're a disgrace, you called me a fraud and you didn't even know me. All of that felt very [[00:07:16](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=436.0s)]
+*  personal and very impulsive. Okay, so that's interesting. That feels like a person not making [[00:07:21](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=441.03999999999996s)]
+*  a tactical. This is not, you know, Abbie Hoffman and Jerry Rubin. I mean, this is someone who [[00:07:26](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=446.47999999999996s)]
+*  has, is actually struggling to control himself. I mean, there clearly is a kind of pathos here, [[00:07:31](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=451.84s)]
+*  which is that he's obsessed with being people thinking he has less money than he does, basically. [[00:07:37](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=457.44s)]
+*  Like, yeah. And that, I mean, I guess the Occam's razor way of viewing his approach to this is just [[00:07:42](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=462.4s)]
+*  that like, it really stresses him out for people to think that he's poorer. Oh, absolutely. In fact, [[00:07:48](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=468.24s)]
+*  at one point they were talking about whether his brand value was incorporated in his financial [[00:07:53](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=473.59999999999997s)]
+*  statements. He insisted that GAP allows you to do that. Spoiler alert for our viewers, it does not. [[00:07:58](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=478.08s)]
+*  But at one point he said, my brand value got me elected president of the United States. So he is [[00:08:04](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=484.0s)]
+*  well aware that the value of the Trump brand is part of his lore. It's not only part of his lore [[00:08:09](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=489.35999999999996s)]
+*  as like control over an empire, but as a political dynasty as well. Do you think, what do you think [[00:08:14](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=494.88s)]
+*  about how his performance was as a witness, independent of the histrionics in terms of what [[00:08:21](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=501.12s)]
+*  it meant for what inferences on the facts that the fact finder in the case of Goren can draw? [[00:08:26](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=506.8s)]
+*  Oh my God, it was disastrous. It was disaster. Absolutely. That's interesting. You know, one of [[00:08:32](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=512.5600000000001s)]
+*  the things that I keep trying to emphasize to folks is this isn't just the remedial phase of the trial. [[00:08:36](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=516.72s)]
+*  This is about six more counts that the attorney general didn't ask for summary judgment or [[00:08:42](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=522.08s)]
+*  judgment before trial on, all of which necessitate proof of intent. Right. On that, the attorney [[00:08:46](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=526.64s)]
+*  general got lots of helpful admissions. He admitted he reviewed and approved financial [[00:08:53](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=533.2s)]
+*  statements and occasionally suggested changes. He agreed he was responsible for their fair [[00:08:57](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=537.76s)]
+*  presentation. He agreed he talked to Jeff McConney and Allen Weisselberg, the two top financial [[00:09:02](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=542.96s)]
+*  officials at the Trump organization about those. And he agreed at one point that he intended to [[00:09:07](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=547.6s)]
+*  forever forfeit the right to use Mar-a-Lago as anything but a private club. That actually is part [[00:09:14](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=554.0s)]
+*  of a legally binding covenant document. Yes. And then in the next breath, he insisted, and I have [[00:09:20](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=560.4s)]
+*  the right to change that at any point in time. So it's like the rules do not apply that same Trump [[00:09:25](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=565.92s)]
+*  ethos definitely translated into this proceeding, but he nonetheless made a number of really damaging [[00:09:30](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=570.88s)]
+*  admissions. If you could see beyond the temper tantrums. Do you think the judge does? I think [[00:09:36](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=576.9599999999999s)]
+*  the judge absolutely does. And I think the judge is much more facile with and familiar with the [[00:09:42](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=582.16s)]
+*  documents than Trump himself is. And so, you know, Trump's insistence, you won't let me read from [[00:09:47](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=587.6s)]
+*  this document. You're not letting me complete the record. That phrase, the disclaimer statement is [[00:09:52](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=592.48s)]
+*  in every single one of the financial statements. That's part of the record already at the case. [[00:09:57](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=597.84s)]
+*  God, exhausting. I'm exhausted on your and the judge's behalf listening to you recounting this. [[00:10:02](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=602.96s)]
+*  Better you than me. I have no idea what to say to that. Better you than me. I'm glad you're [[00:10:11](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=611.36s)]
+*  there for us. I appreciate it. Thank you. [[00:10:15](https://www.youtube.com/watch?v=GAYs1xuGDEw&t=615.2s)]

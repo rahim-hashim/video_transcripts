@@ -1,0 +1,156 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 414s
+Video Keywords: ['Al Sharpton']
+Video Views: 102775
+Video Rating: None
+Video Description: As the Iranian retaliation in Israel has begun, NBC News’ Courtney Kube reports that the expectation with the military operation by Iran will likely include dozens of land cruise and ballistic missiles. The IDF has confirmed more than 100 unmanned aerial vehicles were launched toward Israel.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#Iran #Israel #MiddleEast
+---
+
+# Iran attack expected to include ballistic missiles targeting Israeli government sites
+**NBC - Middle East:** [April 13, 2024](https://www.youtube.com/watch?v=B0EWzI0Xvcw)
+*  I want to bring in Courtney Qubey now to talk more about this. [[00:00:00](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=0.0s)]
+*  But I also want to play some tape that we're getting in of the president making his way [[00:00:04](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=4.48s)]
+*  towards the Oval Office Corp, because we know the president obviously cut his weekend short [[00:00:08](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=8.92s)]
+*  in Rehoboth Beach, Delaware, to come back to the White House to meet with his national [[00:00:13](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=13.84s)]
+*  security team in light of the events that are developing in the Middle East, images [[00:00:18](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=18.56s)]
+*  there of the president making his way towards the Oval Office for that sit-down. [[00:00:22](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=22.14s)]
+*  Of course, the more information we get out of the White House, we will bring it to you. [[00:00:26](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=26.560000000000002s)]
+*  Courtney, bring us up to date. [[00:00:29](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=29.92s)]
+*  What are you learning from your sources? [[00:00:31](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=31.16s)]
+*  So, I mean, in a word that, you know, in a couple words, this is begun. [[00:00:33](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=33.2s)]
+*  This is the Iranian retaliation that we've been expecting and waiting for for more than [[00:00:38](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=38.28s)]
+*  10 days now, Yaz. [[00:00:42](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=42.2s)]
+*  And it's really ratcheted up over the last 24 hours or so, the expectation that it would [[00:00:43](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=43.86s)]
+*  occur this weekend. [[00:00:47](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=47.24s)]
+*  And it's really beginning the way that U.S. officials have been telling us they were expecting. [[00:00:49](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=49.08s)]
+*  And that is in a number of drones, a potential drone swarm making its way towards targets [[00:00:53](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=53.160000000000004s)]
+*  in Israel. The expectation is this attack or this military operation by Iran will also [[00:00:59](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=59.48s)]
+*  likely include dozens of land attack cruise missiles and ballistic missiles. [[00:01:06](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=66.36s)]
+*  But we have not seen that yet. [[00:01:11](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=71.72s)]
+*  But keep in mind, Yaz, when you're talking about a drone flying from somewhere in Iran [[00:01:13](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=73.52s)]
+*  towards somewhere in Israel, that's going to take longer than a ballistic missile would. [[00:01:17](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=77.64s)]
+*  So just given the tyranny of distance here, it would make sense that the drones would [[00:01:22](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=82.32s)]
+*  launch off first and they will take some time to make their way all the way to Israel. [[00:01:26](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=86.72s)]
+*  Now, as far as targets go, they are the targets that we've been talking about now for the [[00:01:30](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=90.52s)]
+*  past several days seem to be where U.S. [[00:01:34](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=94.48s)]
+*  officials still believe this is going. [[00:01:36](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=96.48s)]
+*  So that is Israeli government sites, so potentially military or intelligence sites as opposed [[00:01:38](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=98.0s)]
+*  to sites that would target Israeli citizens or civilians or even religious sites inside [[00:01:45](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=105.12s)]
+*  of Israel. [[00:01:51](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=111.32s)]
+*  We are also told that Iran is still expected to be carrying out, while it is a major military [[00:01:52](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=112.88000000000001s)]
+*  operation, they are expected to be targeting things that they would consider to be somewhat [[00:01:59](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=119.68s)]
+*  proportional to the strike in Damascus. [[00:02:05](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=125.64s)]
+*  Now, you'll recall that the building that the Israeli military struck on April 1st in [[00:02:08](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=128.6s)]
+*  Damascus was on a consular site. [[00:02:14](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=134.36s)]
+*  It's really in dispute exactly what the building was being used for. [[00:02:17](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=137.96s)]
+*  But there is no doubt that it was on a consular compound. [[00:02:21](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=141.36s)]
+*  And so thereby was in some ways had some sort of a diplomatic overall feeling or even, [[00:02:25](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=145.36s)]
+*  frankly, protection from what we would normally see. [[00:02:33](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=153.52s)]
+*  That's where the proportionality of this comes in. [[00:02:36](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=156.20000000000002s)]
+*  According to U.S. [[00:02:38](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=158.76000000000002s)]
+*  officials, they believe that that is why Iran is likely to target Israeli government sites [[00:02:39](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=159.4s)]
+*  here. Now, critically, according to U.S. [[00:02:44](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=164.56s)]
+*  officials, they still do not expect these strikes to go after U.S. [[00:02:46](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=166.35999999999999s)]
+*  sites in the region. [[00:02:51](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=171.92s)]
+*  But keep in mind, the U.S. [[00:02:53](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=173.72s)]
+*  has a lot in that area and there's always the possibility for some drone or missile to go [[00:02:55](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=175.79999999999998s)]
+*  awry, to go off course and for there to be some sort of, frankly, a mistake here that could [[00:03:01](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=181.88s)]
+*  potentially lead to some catastrophic outcomes. [[00:03:07](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=187.51999999999998s)]
+*  Now, the U.S. [[00:03:10](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=190.48s)]
+*  military already has a massive presence in the region in the last several days. [[00:03:11](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=191.04s)]
+*  The Pentagon has repositioned some of those things, specifically a number of U.S. [[00:03:16](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=196.64s)]
+*  ships, including the USS Carney. [[00:03:21](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=201.0s)]
+*  That may sound familiar to you. [[00:03:22](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=202.88s)]
+*  We've been talking about the Carney for months now because it's been down in the Red Sea and [[00:03:24](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=204.32s)]
+*  throughout that region defending against attacks by the Houthis. [[00:03:28](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=208.28s)]
+*  That's projectiles like drones and missiles similar to what we may be seeing here tonight [[00:03:31](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=211.96s)]
+*  launched out of Iran. [[00:03:36](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=216.72s)]
+*  The Carney has been shooting those down for a number of months while they were, frankly, on their [[00:03:38](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=218.04s)]
+*  way back home. [[00:03:43](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=223.07999999999998s)]
+*  They were up in the Med heading back towards the U.S. [[00:03:43](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=223.76s)]
+*  Now they're being held there. [[00:03:46](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=226.95999999999998s)]
+*  They're going to stay in the region to potentially help protect Israel against some of these. [[00:03:48](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=228.72s)]
+*  In addition to the Carney, though, there are other U.S. [[00:03:52](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=232.35999999999999s)]
+*  assets that, again, have been repositioned in the area. [[00:03:55](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=235.16s)]
+*  The U.S. [[00:03:57](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=237.79999999999998s)]
+*  military says they are ready to help defend against this. [[00:03:58](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=238.16s)]
+*  But at this point, it's really just a waiting game. [[00:04:01](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=241.6s)]
+*  Officials are still saying they expect this to unfold over a matter of hours. [[00:04:03](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=243.32s)]
+*  Yes. [[00:04:07](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=247.16s)]
+*  Courtney, are the U.S. [[00:04:09](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=249.4s)]
+*  officials that you've been speaking to seeing the drone attack, the initial drone attack as [[00:04:10](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=250.92s)]
+*  more kind of a warning shot for Israel to get prepared for what else is coming behind it? [[00:04:15](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=255.56s)]
+*  So no one's describing it that way. [[00:04:22](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=262.08s)]
+*  But I think that it just by nature of the fact that it takes so long for those drones to get [[00:04:24](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=264.56s)]
+*  from wherever they're launching, presumably in Iran, all the way to presumably somewhere in [[00:04:29](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=269.56s)]
+*  Israel, just the fact that it's going to take hours for them to get there gives Israel that heads [[00:04:34](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=274.84000000000003s)]
+*  up. You remember, there has been a tremendous amount of diplomatic backchanneling ever since [[00:04:39](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=279.36s)]
+*  that strike in Damascus. [[00:04:45](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=285.08s)]
+*  Officials, countries all in that region, all throughout Europe and all the way to the U.S. [[00:04:47](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=287.76s)]
+*  have been urging both sides to try to deescalate. [[00:04:53](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=293.08000000000004s)]
+*  But the reality is here, Iran has been signaling that they were going to carry out some sort of [[00:04:56](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=296.8s)]
+*  retaliatory action. [[00:05:01](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=301.84s)]
+*  And a lot of officials believe that they have to. [[00:05:03](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=303.44s)]
+*  They have to do something here to fight back against what was a significant strike in Damascus. [[00:05:05](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=305.79999999999995s)]
+*  You know, we don't forget it wasn't just the fact that that strike hit on a consular compound that [[00:05:12](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=312.23999999999995s)]
+*  belonged to Iran in Damascus. [[00:05:17](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=317.96s)]
+*  It also took out a very senior Iranian Revolutionary Guard, Quds Force General and a number of other [[00:05:21](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=321.03999999999996s)]
+*  senior Iranian officials. [[00:05:26](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=326.88s)]
+*  It was a serious strike and it doesn't, the officials who we've spoken to believe that there's [[00:05:28](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=328.36s)]
+*  almost no way that Iran can't respond. [[00:05:34](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=334.15999999999997s)]
+*  It's just a matter of exactly how serious the response here is. [[00:05:37](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=337.59999999999997s)]
+*  Yes. [[00:05:41](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=341.04s)]
+*  How are they characterizing the seizing Courtney of the ship this morning, the MSC Ares? [[00:05:42](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=342.68s)]
+*  Is that at all connected to what's happening now? [[00:05:48](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=348.03999999999996s)]
+*  Are they seeing any connection there? [[00:05:50](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=350.08s)]
+*  At this point, that is not expected to be. [[00:05:51](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=351.68s)]
+*  No one believes that this is part of this overall operation. [[00:05:56](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=356.36s)]
+*  You remember, this isn't the first time we've seen this sort of Iranian activity in the in the region, [[00:05:59](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=359.28000000000003s)]
+*  even in recent months. [[00:06:04](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=364.04s)]
+*  So it may just be a very strange coincidence. [[00:06:05](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=365.64s)]
+*  But so far, as of now, officials in the U.S. [[00:06:08](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=368.96000000000004s)]
+*  government are saying they don't see this as part of this overall operation. [[00:06:11](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=371.88s)]
+*  Hey, everyone, MSNBC has a new and improved app. [[00:06:22](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=382.68s)]
+*  You'll get real time alerts and analysis, live blogs, in-depth essays, video highlights and the best [[00:06:25](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=385.56s)]
+*  2024 election coverage. [[00:06:32](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=392.08s)]
+*  Download the new MSNBC app. [[00:06:33](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=393.84000000000003s)]
+*  Here's how to do it. [[00:06:36](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=396.08s)]
+*  You tap on the app store on your phone. [[00:06:36](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=396.88s)]
+*  You hit search on the bottom right corner. [[00:06:39](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=399.24s)]
+*  You type in MSNBC. [[00:06:41](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=401.12s)]
+*  You click on the MSNBC app. [[00:06:42](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=402.88s)]
+*  You click on get or the cloud icon and enjoy it. [[00:06:45](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=405.12s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:06:51](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=411.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:06:54](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=414.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:06:56](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=416.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:06:58](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=418.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:00](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=420.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:02](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=422.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:04](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=424.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:06](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=426.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:08](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=428.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:10](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=430.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:12](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=432.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:14](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=434.68s)]
+*  You can also download the latest version of MSNBC's latest app. [[00:07:16](https://www.youtube.com/watch?v=B0EWzI0Xvcw&t=436.68s)]

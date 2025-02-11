@@ -1,0 +1,137 @@
+---
+Date Generated: February 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 553s
+Video Keywords: ['Face the Nation', 'CBS News', 'video', 'Margaret Brennan', 'U.S.', 'politics', 'Mike Turner', 'Wagner Group', 'Vladimir Putin', 'Yevgeny Prigozhin', 'rebellion', 'mutiny', 'Ukraine', 'war']
+Video Views: 74356
+Video Rating: None
+Video Description: Rep. Mike Turner, the chair of the House Intelligence Committee, tells "Face the Nation" that the rebellion by the Wagner group "really does hurt" Russian President Vladimir Putin "not only just politically and in his leadership of Russia and his presidency, but in his efforts to continue the war in Ukraine."
+
+#news #putin #wagner 
+
+"Face the Nation" is America's premier Sunday morning public affairs program. The broadcast is one of the longest-running news programs in the history of television, having debuted November 7, 1954, on CBS. Every Sunday, "Face the Nation" moderator and CBS News senior foreign affairs correspondent Margaret Brennan welcomes leaders, newsmakers, and experts to a lively round table discussion of current events and the latest news.
+
+Subscribe to the "Face the Nation" YouTube channel: https://bit.ly/1SUQc68​
+Watch full episodes of "Face the Nation": https://cbsn.ws/20pbkSF​
+Follow "Face the Nation" on Instagram: https://bit.ly/23Xuhk4​
+Like "Face the Nation" on Facebook: https://on.fb.me/23Xmz9E​
+Follow "Face the Nation" on Twitter: https://bit.ly/1o3QDQo​
+Subscribe to our newsletter: https://cbsn.ws/1RqHw7T​
+Download the CBS News app: https://cbsn.ws/1Xb1WC8​
+Try Paramount+ free: https://bit.ly/2OiW1kZ
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# Wagner rebellion "really does hurt Putin," House Intelligence chair Rep. Mike Turner says
+**CBS - Face the Nation - World News:** [June 25, 2023](https://www.youtube.com/watch?v=C4boxrn63p8)
+*  We turn now to the chairman of the House Intelligence Committee, Republican Congressman Mike Turner of Ohio. [[00:00:00](https://www.youtube.com/watch?v=C4boxrn63p8&t=0.0s)]
+*  He joins us from Dayton. [[00:00:04](https://www.youtube.com/watch?v=C4boxrn63p8&t=4.8s)]
+*  Good morning to you. [[00:00:06](https://www.youtube.com/watch?v=C4boxrn63p8&t=6.76s)]
+*  Good morning, Margaret. [[00:00:08](https://www.youtube.com/watch?v=C4boxrn63p8&t=8.76s)]
+*  I understand top congressional leaders, yourself included, have been briefed multiple times in recent days by the administration in regard to the risk posed by the Wagner Group. [[00:00:09](https://www.youtube.com/watch?v=C4boxrn63p8&t=9.76s)]
+*  Last year, U.S. intelligence had extraordinary detail. [[00:00:19](https://www.youtube.com/watch?v=C4boxrn63p8&t=19.98s)]
+*  Those are the words, the head of U.S. intelligence, about Putin's plans to invade Ukraine. [[00:00:24](https://www.youtube.com/watch?v=C4boxrn63p8&t=24.36s)]
+*  I wonder how you would describe the intelligence the U.S. had about this march on Moscow. [[00:00:29](https://www.youtube.com/watch?v=C4boxrn63p8&t=29.0s)]
+*  Sure. [[00:00:34](https://www.youtube.com/watch?v=C4boxrn63p8&t=34.2s)]
+*  Well, the intelligence committee was very much aware that the conflict between Pergrosin and Putin was inevitable. [[00:00:36](https://www.youtube.com/watch?v=C4boxrn63p8&t=36.2s)]
+*  And even from public sources, which you've seen, Pergrosin for months has put out videos critical of the Russian government, critical of Putin. [[00:00:42](https://www.youtube.com/watch?v=C4boxrn63p8&t=42.84s)]
+*  Putin has allowed this. [[00:00:50](https://www.youtube.com/watch?v=C4boxrn63p8&t=50.519999999999996s)]
+*  As the secretary said, those videos themselves even included criticizing Putin's very premise of the war, that it was not started by NATO, that there were not Nazis in Ukraine. [[00:00:52](https://www.youtube.com/watch?v=C4boxrn63p8&t=52.04s)]
+*  And then entering into Moscow, entering into Russia itself and taking their convoy to Moscow, that really shows to the basic issue of whether or not Putin controls his military. [[00:01:03](https://www.youtube.com/watch?v=C4boxrn63p8&t=63.08s)]
+*  For any government to have stability, they have to control their military. [[00:01:14](https://www.youtube.com/watch?v=C4boxrn63p8&t=74.52s)]
+*  Obviously, Pergrosin, in order to make it that distance, has to have accomplices. [[00:01:17](https://www.youtube.com/watch?v=C4boxrn63p8&t=77.88s)]
+*  Where was the Air Force? Where was the Russian Air Force in preventing this? [[00:01:21](https://www.youtube.com/watch?v=C4boxrn63p8&t=81.56s)]
+*  That's going to be an issue that Putin is going to have to deal with both internationally and domestically. [[00:01:25](https://www.youtube.com/watch?v=C4boxrn63p8&t=85.24000000000001s)]
+*  His government as an authoritarian government depends on its assertion of power, force, in order to be able to contain, to continue to wield power. [[00:01:29](https://www.youtube.com/watch?v=C4boxrn63p8&t=89.88000000000001s)]
+*  And that certainly is going to be an issue. [[00:01:40](https://www.youtube.com/watch?v=C4boxrn63p8&t=100.2s)]
+*  Was Vladimir Putin himself aware of the potential of this uprising? [[00:01:41](https://www.youtube.com/watch?v=C4boxrn63p8&t=101.88000000000001s)]
+*  Well, I can't go into what our intelligence was, but I can tell you this. [[00:01:48](https://www.youtube.com/watch?v=C4boxrn63p8&t=108.6s)]
+*  These videos that he was allowing Pergrosin to put out were publicly, they were distributed around the world. [[00:01:51](https://www.youtube.com/watch?v=C4boxrn63p8&t=111.55999999999999s)]
+*  Putin certainly was aware of them because he was allowing them. [[00:01:58](https://www.youtube.com/watch?v=C4boxrn63p8&t=118.11999999999999s)]
+*  The content of them where they not only criticized Putin and the Russian government and called for the removal of the Ministry of Defense. [[00:02:00](https://www.youtube.com/watch?v=C4boxrn63p8&t=120.36s)]
+*  Ultimately, as you know, this weekend, Pergrosin's statement was removal of the president himself. [[00:02:08](https://www.youtube.com/watch?v=C4boxrn63p8&t=128.76s)]
+*  So Vladimir Putin certainly had lots of public notice that Pergrosin was a critic and was threatening the government and now ultimately took this military action into Russia itself. [[00:02:12](https://www.youtube.com/watch?v=C4boxrn63p8&t=132.92000000000002s)]
+*  But that raises the question of whether this was a strategic move by Pergrosin or just sort of a gamble and an opportunity he seized. [[00:02:24](https://www.youtube.com/watch?v=C4boxrn63p8&t=144.92000000000002s)]
+*  Do we have any insight? [[00:02:32](https://www.youtube.com/watch?v=C4boxrn63p8&t=152.92000000000002s)]
+*  Well, you know, he's a military guy. [[00:02:35](https://www.youtube.com/watch?v=C4boxrn63p8&t=155.64000000000001s)]
+*  Remember, this is like a 12-hour trip from Ukraine to Moscow. [[00:02:37](https://www.youtube.com/watch?v=C4boxrn63p8&t=157.0s)]
+*  He got within two hours of Moscow. [[00:02:40](https://www.youtube.com/watch?v=C4boxrn63p8&t=160.2s)]
+*  Now, being a military guy, he understands the logistics and really the assistance that he's going to need to do that. [[00:02:42](https://www.youtube.com/watch?v=C4boxrn63p8&t=162.2s)]
+*  This is not a weekend trip he's taking, taking his convoy and his military convoy up to Moscow. [[00:02:47](https://www.youtube.com/watch?v=C4boxrn63p8&t=167.56s)]
+*  There's a number of accomplices, including, as we saw, some of the Russian people on the border with Ukraine who clearly support the Wagner Group. [[00:02:53](https://www.youtube.com/watch?v=C4boxrn63p8&t=173.48s)]
+*  In contrast to their support for the Russian government, this is something that would have had to have been planned for a significant amount of time to be executed in the manner in which it was. [[00:02:59](https://www.youtube.com/watch?v=C4boxrn63p8&t=179.88s)]
+*  There was a report last month that Pergrosin had offered in January to help Ukraine attack the Russian military by sharing information on troop positions that he had. [[00:03:09](https://www.youtube.com/watch?v=C4boxrn63p8&t=189.4s)]
+*  Is this in any way helpful, what has just occurred, to ending the war in Ukraine? [[00:03:21](https://www.youtube.com/watch?v=C4boxrn63p8&t=201.0s)]
+*  Like, where is Pergrosin's interest? [[00:03:28](https://www.youtube.com/watch?v=C4boxrn63p8&t=208.28s)]
+*  Right. So this really does hurt Putin. [[00:03:31](https://www.youtube.com/watch?v=C4boxrn63p8&t=211.96s)]
+*  Not only just politically and in his leadership in Russia and his presidency, but in his efforts to continue the war in Ukraine. [[00:03:34](https://www.youtube.com/watch?v=C4boxrn63p8&t=214.76000000000002s)]
+*  I think, obviously, in the beginning, there's going to be an initial increase of activity from Russia against Ukraine. [[00:03:43](https://www.youtube.com/watch?v=C4boxrn63p8&t=223.72000000000003s)]
+*  But because Putin himself went on national TV to respond to Pergrosin, and Pergrosin said that your government has lied to you, this is not a war that NATO started, there are no Nazis in Ukraine. [[00:03:50](https://www.youtube.com/watch?v=C4boxrn63p8&t=230.28s)]
+*  Taking down the very premise makes it much more difficult for Putin to continue to turn to the Russian people and say we should continue to send people to die in this war that, for which Pergrosin himself has said to the Russian people, the premise is a lie. [[00:04:02](https://www.youtube.com/watch?v=C4boxrn63p8&t=242.67999999999998s)]
+*  There was a lot that Secretary Blinken said he could not answer during our interview. [[00:04:16](https://www.youtube.com/watch?v=C4boxrn63p8&t=256.68s)]
+*  Is that because U.S. intelligence does not know or because it's classified? [[00:04:21](https://www.youtube.com/watch?v=C4boxrn63p8&t=261.24s)]
+*  Well, you know, I can't answer that either. [[00:04:26](https://www.youtube.com/watch?v=C4boxrn63p8&t=266.44s)]
+*  But you can assume, certainly, that we have been very focused on Russia and Ukraine. [[00:04:27](https://www.youtube.com/watch?v=C4boxrn63p8&t=267.88s)]
+*  And this is an area where Ukraine's successes has been a result in part because of the successes of the intelligence community. [[00:04:33](https://www.youtube.com/watch?v=C4boxrn63p8&t=273.0s)]
+*  So we've been very, very focused on this. [[00:04:39](https://www.youtube.com/watch?v=C4boxrn63p8&t=279.72s)]
+*  I think that as we go forward, this is going to be even more critical as we face the threats both for Ukraine and for the United States, is what's going to happen to Putin and Russia next. [[00:04:42](https://www.youtube.com/watch?v=C4boxrn63p8&t=282.20000000000005s)]
+*  Sharon, please stay with us. [[00:04:53](https://www.youtube.com/watch?v=C4boxrn63p8&t=293.64s)]
+*  We have to take a break. [[00:04:55](https://www.youtube.com/watch?v=C4boxrn63p8&t=295.56s)]
+*  We'll be right back in one minute with more of our conversation. [[00:04:57](https://www.youtube.com/watch?v=C4boxrn63p8&t=297.4s)]
+*  And we're back with House Intelligence Committee Chair Mike Turner. [[00:05:02](https://www.youtube.com/watch?v=C4boxrn63p8&t=302.44s)]
+*  I want to talk a bit about China here as well, sir, but let me just button up. [[00:05:06](https://www.youtube.com/watch?v=C4boxrn63p8&t=306.76s)]
+*  How would you define the relationship between China and Vladimir Putin right now? [[00:05:13](https://www.youtube.com/watch?v=C4boxrn63p8&t=313.8s)]
+*  Right. So President Xi has got to be very concerned right now, because, as you know, he went to Moscow, stood next to Putin and said, you know, we're together. [[00:05:19](https://www.youtube.com/watch?v=C4boxrn63p8&t=319.40000000000003s)]
+*  He and Vladimir Putin are bringing about change that hasn't happened for 100 years. [[00:05:26](https://www.youtube.com/watch?v=C4boxrn63p8&t=326.04s)]
+*  And of course, that is the march of authoritarianism against democracy that we won in World War Two that they're now rising up against. [[00:05:29](https://www.youtube.com/watch?v=C4boxrn63p8&t=329.96000000000004s)]
+*  But now he's standing next to a guy who can't even control his own military. [[00:05:36](https://www.youtube.com/watch?v=C4boxrn63p8&t=336.2s)]
+*  Remember, Putin in his national address said that these individuals are going to have inevitable punishment. [[00:05:41](https://www.youtube.com/watch?v=C4boxrn63p8&t=341.0s)]
+*  And then in the end, Prigozhin gets a vacation in Belarus and his troops are now going to sign contracts. [[00:05:47](https://www.youtube.com/watch?v=C4boxrn63p8&t=347.56s)]
+*  It sounds more like paperwork than a KGB agent doing inevitable punishment. [[00:05:55](https://www.youtube.com/watch?v=C4boxrn63p8&t=355.24s)]
+*  Xi, in seeing that with Putin, has got to understand that Putin's stature in the world has diminished. [[00:06:00](https://www.youtube.com/watch?v=C4boxrn63p8&t=360.20000000000005s)]
+*  That diminishes President Xi. [[00:06:06](https://www.youtube.com/watch?v=C4boxrn63p8&t=366.12s)]
+*  And certainly, as Putin looks weakened, certainly not being able to control his military and being a strong nuclear power, [[00:06:08](https://www.youtube.com/watch?v=C4boxrn63p8&t=368.12s)]
+*  President Xi has to be worried about the stability of Russia itself. [[00:06:14](https://www.youtube.com/watch?v=C4boxrn63p8&t=374.2s)]
+*  We'll be watching that. [[00:06:17](https://www.youtube.com/watch?v=C4boxrn63p8&t=377.8s)]
+*  Last Friday, this past Friday, sorry, I'm back from Beijing and my time frame's all screwed up here. [[00:06:19](https://www.youtube.com/watch?v=C4boxrn63p8&t=379.88s)]
+*  But the director of national intelligence released this declassified summary of the findings in regard to links between the Wuhan Institute of Virology and the origin of the COVID pandemic. [[00:06:26](https://www.youtube.com/watch?v=C4boxrn63p8&t=386.12s)]
+*  It says several researchers at that institute were ill in 2019 with symptoms consistent with, but not diagnostic of COVID. [[00:06:38](https://www.youtube.com/watch?v=C4boxrn63p8&t=398.68s)]
+*  Why is it so inconclusive still? [[00:06:49](https://www.youtube.com/watch?v=C4boxrn63p8&t=409.48s)]
+*  Well, and this is the problem really with what the director of national intelligence has done, Director Haynes. [[00:06:53](https://www.youtube.com/watch?v=C4boxrn63p8&t=413.24s)]
+*  We passed a law saying declassify the information that you have about the COVID and Wuhan labs activities. [[00:06:57](https://www.youtube.com/watch?v=C4boxrn63p8&t=417.48s)]
+*  What they did is they basically went and did a paper on what they believe about the intelligence they've looked at. [[00:07:06](https://www.youtube.com/watch?v=C4boxrn63p8&t=426.84s)]
+*  Give an example of this. [[00:07:13](https://www.youtube.com/watch?v=C4boxrn63p8&t=433.71999999999997s)]
+*  We've asked to open the curtain and release the intelligence, and they went behind the curtain, read the stuff and came out and said, well, this is what we think about it. [[00:07:15](https://www.youtube.com/watch?v=C4boxrn63p8&t=435.08s)]
+*  This is not sufficient. [[00:07:21](https://www.youtube.com/watch?v=C4boxrn63p8&t=441.96s)]
+*  And certainly, this is going to be set up between a battle between Congress and director of national intelligence to make certain that the law that was passed unanimously, [[00:07:23](https://www.youtube.com/watch?v=C4boxrn63p8&t=443.0s)]
+*  both the Senate and the House and assigned by the president is complied with, but also the American public get the answers they deserve. [[00:07:31](https://www.youtube.com/watch?v=C4boxrn63p8&t=451.24s)]
+*  So there was a classified annex to this, though, that was not released. [[00:07:37](https://www.youtube.com/watch?v=C4boxrn63p8&t=457.40000000000003s)]
+*  I would assume that you have read that. [[00:07:41](https://www.youtube.com/watch?v=C4boxrn63p8&t=461.08000000000004s)]
+*  Is that? [[00:07:43](https://www.youtube.com/watch?v=C4boxrn63p8&t=463.72s)]
+*  No, actually, we just got this late Friday, so I haven't had access to it in a classified setting. [[00:07:44](https://www.youtube.com/watch?v=C4boxrn63p8&t=464.04s)]
+*  But even releasing a classified annex goes against what the law says. [[00:07:48](https://www.youtube.com/watch?v=C4boxrn63p8&t=468.68s)]
+*  The law says declassify, not give us more classified information. [[00:07:52](https://www.youtube.com/watch?v=C4boxrn63p8&t=472.44000000000005s)]
+*  I mean, my committee has already seen a significant amount of this intelligence. [[00:07:56](https://www.youtube.com/watch?v=C4boxrn63p8&t=476.04s)]
+*  Giving my committee more intelligence doesn't give it to the American public. [[00:07:59](https://www.youtube.com/watch?v=C4boxrn63p8&t=479.72s)]
+*  And that's what the declassification law was about. [[00:08:03](https://www.youtube.com/watch?v=C4boxrn63p8&t=483.40000000000003s)]
+*  The report says that it details two agencies say it was a lab accident. [[00:08:06](https://www.youtube.com/watch?v=C4boxrn63p8&t=486.76000000000005s)]
+*  CIA can't determine. [[00:08:11](https://www.youtube.com/watch?v=C4boxrn63p8&t=491.24s)]
+*  National Intelligence Council and four other agencies say most likely caused by natural exposure. [[00:08:12](https://www.youtube.com/watch?v=C4boxrn63p8&t=492.84000000000003s)]
+*  Do you believe that there actually is a definitive conclusion that the government's not releasing? [[00:08:19](https://www.youtube.com/watch?v=C4boxrn63p8&t=499.40000000000003s)]
+*  Well, so I have seen, for example, the classified annex to the report [[00:08:24](https://www.youtube.com/watch?v=C4boxrn63p8&t=504.04s)]
+*  that President Biden requested the intelligence community gave. [[00:08:29](https://www.youtube.com/watch?v=C4boxrn63p8&t=509.64000000000004s)]
+*  What you just read were more conclusions by the intelligence community [[00:08:32](https://www.youtube.com/watch?v=C4boxrn63p8&t=512.9200000000001s)]
+*  in the report that was given to the president, the 90 day or so report. [[00:08:36](https://www.youtube.com/watch?v=C4boxrn63p8&t=516.44s)]
+*  They have they have information in that report that contradicts, [[00:08:40](https://www.youtube.com/watch?v=C4boxrn63p8&t=520.6800000000001s)]
+*  I believe, the impressions that are given in these statements by the intelligence committee. [[00:08:44](https://www.youtube.com/watch?v=C4boxrn63p8&t=524.9200000000001s)]
+*  We want the intelligence released, not their opinion about the intelligence. [[00:08:49](https://www.youtube.com/watch?v=C4boxrn63p8&t=529.64s)]
+*  If we wanted their opinion, we would have asked for it. [[00:08:53](https://www.youtube.com/watch?v=C4boxrn63p8&t=533.56s)]
+*  We passed a law saying declassified. [[00:08:55](https://www.youtube.com/watch?v=C4boxrn63p8&t=535.8s)]
+*  It's the law of the land. [[00:08:57](https://www.youtube.com/watch?v=C4boxrn63p8&t=537.8s)]
+*  Release this so the American public can see it. [[00:08:58](https://www.youtube.com/watch?v=C4boxrn63p8&t=538.92s)]
+*  Experts out there in the community, besides the intelligence community, [[00:09:01](https://www.youtube.com/watch?v=C4boxrn63p8&t=541.2399999999999s)]
+*  need to take a look at this and help us understand [[00:09:04](https://www.youtube.com/watch?v=C4boxrn63p8&t=544.04s)]
+*  what really happened that resulted in millions of people dying. [[00:09:06](https://www.youtube.com/watch?v=C4boxrn63p8&t=546.76s)]
+*  Congressman, thank you for your time today. [[00:09:09](https://www.youtube.com/watch?v=C4boxrn63p8&t=549.9599999999999s)]
+*  We'll be right back. [[00:09:11](https://www.youtube.com/watch?v=C4boxrn63p8&t=551.3199999999999s)]

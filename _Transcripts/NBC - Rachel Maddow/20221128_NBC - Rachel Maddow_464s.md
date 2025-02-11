@@ -1,0 +1,150 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 464s
+Video Keywords: ['Rachel Maddow']
+Video Views: 147465
+Video Rating: None
+Video Description: Rachel Maddow shares some of the fringe perspectives of the racist, Christian fascist who Donald Trump hosted for dinner at Mar-a-Lago, and considers the implications of Trump elevating racist perspectives while still the most influential figure in the Republican Party and the most likely Republican nominee in 2024 despite his 2020 defeat. 
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Republicans have won control of the House by a slim margin. With Democrats gaining control of the Senate, President Biden will now need to work with a divided congress. See all the Midterms results here: https://on.msnbc.com/3KlULq8
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #republicans #trump
+---
+
+# Republican Leader Trump's Dinner With Racist Forces Reckoning For Normal Americans
+**NBC - Rachel Maddow:** [November 28, 2022](https://www.youtube.com/watch?v=Osc_tAy_Z_I)
+*  We've got the leading presidential contender for the Republican nomination in 2024. [[00:00:00](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=0.0s)]
+*  This holiday weekend, having a nice Thanksgiving dinner with Kanye West, the rapper who just [[00:00:05](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=5.6000000000000005s)]
+*  lost all of his corporate sponsorship deals when he started saying he was going to go [[00:00:11](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=11.0s)]
+*  DEATH CON 3 on the Jews. [[00:00:15](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=15.0s)]
+*  The leading Republican presidential candidate, their last president, Donald Trump, just hosted [[00:00:19](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=19.56s)]
+*  Mr. West this weekend. [[00:00:23](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=23.240000000000002s)]
+*  And also this man for what was apparently a very nice Thanksgiving dinner at the former [[00:00:25](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=25.8s)]
+*  president's home. [[00:00:30](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=30.64s)]
+*  When you look at these things like abortion, it's popular. [[00:00:31](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=31.64s)]
+*  People like abortion, hate it, but it's true. [[00:00:37](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=37.02s)]
+*  And you can thank the Jewish media for that. [[00:00:40](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=40.3s)]
+*  Abortion is popular, sodomy is popular, being gay is popular, being a feminist is popular, [[00:00:43](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=43.0s)]
+*  sex out of wedlock is popular, contraceptives are popular. [[00:00:49](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=49.8s)]
+*  It's all popular. [[00:00:52](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=52.08s)]
+*  That's all. [[00:00:53](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=53.08s)]
+*  That's not to say it's good. [[00:00:54](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=54.08s)]
+*  That's not to say I like that. [[00:00:55](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=55.16s)]
+*  Popular means the people support it, which they do. [[00:00:56](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=56.64s)]
+*  And it sucks and it is what it is, but that's why we need a dictatorship. [[00:01:01](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=61.64s)]
+*  That's unironically why we need to get rid of all that. [[00:01:05](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=65.28s)]
+*  We need to take control of the media or take control of the government and force the people [[00:01:07](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=67.84s)]
+*  to believe what we believe. [[00:01:11](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=71.52s)]
+*  That's why we need a dictatorship. [[00:01:14](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=74.03999999999999s)]
+*  Force people to believe what we believe. [[00:01:17](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=77.68s)]
+*  We need a dictatorship, unironically. [[00:01:19](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=79.03999999999999s)]
+*  So that clip is from People for the American Way. [[00:01:21](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=81.72s)]
+*  They have a project called Right Wing Watch, where they monitor and document what's going [[00:01:24](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=84.02s)]
+*  on on the ultra right, on the far right fringe. [[00:01:28](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=88.11999999999999s)]
+*  And that's a great public service all of the time. [[00:01:32](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=92.06s)]
+*  I'll tell you, it becomes a fire alarm system for the whole country when someone from that [[00:01:33](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=93.94s)]
+*  fringe, someone from that far out on the political spectrum, ends up having a Thanksgiving dinner [[00:01:38](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=98.44s)]
+*  with the Republican Party's leading candidate for president. [[00:01:44](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=104.38s)]
+*  Here's the pathway. [[00:01:49](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=109.02s)]
+*  We have one more election where white people can make the decision. [[00:01:50](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=110.46s)]
+*  The white people got to make the right decision and then Trump's got to get in there and never leave. [[00:01:54](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=114.38000000000001s)]
+*  That, to me at this point, is a pathway. [[00:01:57](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=117.38000000000001s)]
+*  It's time to shut up, elect Trump one more time, and then stop having elections. [[00:01:59](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=119.7s)]
+*  We have got to talk about the fundamentals of our worldview and what it would look like [[00:02:06](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=126.5s)]
+*  to build a society based on our distinct worldview. [[00:02:12](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=132.8s)]
+*  It looks like a society where women don't have the right to vote. [[00:02:16](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=136.46s)]
+*  It looks like a society where boys and girls get married as teenagers and start having [[00:02:19](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=139.52s)]
+*  kids and they don't use birth control and they don't use contraceptives and they have [[00:02:25](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=145.4s)]
+*  big families and a high birth rate. [[00:02:30](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=150.48000000000002s)]
+*  And it looks like women wearing veils at church and it looks like women not being in the workforce. [[00:02:33](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=153.04000000000002s)]
+*  Banning gay marriage is back on the menu. [[00:02:40](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=160.12s)]
+*  Banning sodomy is back on the menu. [[00:02:43](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=163.04000000000002s)]
+*  Banning contraceptives is back on the menu. [[00:02:46](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=166.32s)]
+*  And basically we're having something like Taliban rule in America in a good way. [[00:02:50](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=170.32s)]
+*  We're having something like a Catholic Taliban rule in America. [[00:02:56](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=176.88s)]
+*  Who cares? [[00:03:01](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=181.56s)]
+*  You know, enough with the Jim Crow stuff. [[00:03:02](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=182.56s)]
+*  Who cares? [[00:03:04](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=184.07999999999998s)]
+*  Oh, they had to drink out of a different water fountain. [[00:03:05](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=185.07999999999998s)]
+*  Big f***ing deal. [[00:03:08](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=188.27999999999997s)]
+*  Oh no, they had to go to a different school. [[00:03:09](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=189.27999999999997s)]
+*  Their water fountain in that famous picture was worse. [[00:03:12](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=192.8s)]
+*  Who cares? [[00:03:16](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=196.20000000000002s)]
+*  Grow up, drink out of the f***ing water fountain. [[00:03:17](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=197.20000000000002s)]
+*  It's water. [[00:03:18](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=198.72s)]
+*  It's the same. [[00:03:19](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=199.72s)]
+*  You know? [[00:03:20](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=200.72s)]
+*  And, you know, even if it was bad. [[00:03:21](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=201.72s)]
+*  Who cares? [[00:03:23](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=203.76000000000002s)]
+*  Who cares? [[00:03:24](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=204.76000000000002s)]
+*  It's better. [[00:03:25](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=205.76000000000002s)]
+*  It's better in general. [[00:03:26](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=206.76000000000002s)]
+*  We all agree. [[00:03:27](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=207.76000000000002s)]
+*  It's better. [[00:03:28](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=208.76000000000002s)]
+*  It's better. [[00:03:29](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=209.76000000000002s)]
+*  Jim Crow segregation, it was better. [[00:03:30](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=210.76000000000002s)]
+*  Almost all of that was posted by People for the American Way, their project Right Wing [[00:03:33](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=213.08s)]
+*  Watch, which monitors stuff like this on the far right, which is usually only of interest [[00:03:36](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=216.8s)]
+*  to people who study the far right, but it suddenly becomes totally relevant to everyone [[00:03:41](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=221.64s)]
+*  else in the country when a guy like that suddenly ends up invited to the home of the Republican [[00:03:46](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=226.11999999999998s)]
+*  Party's leading presidential candidate to have a private Thanksgiving dinner with him. [[00:03:52](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=232.85999999999999s)]
+*  That guy and former President Donald Trump, I should tell you, he is also a Holocaust [[00:04:00](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=240.07999999999998s)]
+*  denier. [[00:04:04](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=244.27999999999997s)]
+*  I'm not going to show you those clips of him denying the Holocaust, but they're there. [[00:04:05](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=245.27999999999997s)]
+*  He not only explicitly calls for the imposition of a dictatorship in this country, he's explicitly [[00:04:10](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=250.08s)]
+*  praised Hitler. [[00:04:14](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=254.64000000000001s)]
+*  He says Jewish people should not be allowed to participate in the U.S. government. [[00:04:15](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=255.96s)]
+*  And now he's having a nice private dinner with the man most likely to be the next Republican [[00:04:20](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=260.2s)]
+*  nominee for president of the United States. [[00:04:23](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=263.84000000000003s)]
+*  So yeah, back to work on this split screen. [[00:04:28](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=268.84000000000003s)]
+*  You know, in politics, we've got sort of normal or normal-ish questions right now about [[00:04:33](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=273.16s)]
+*  what are the Democrats going to get done in the lame duck period and are they working [[00:04:41](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=281.12s)]
+*  enough of the days in the lame duck period? [[00:04:44](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=284.56s)]
+*  Are they acting with enough urgency given that they're about to lose control of half [[00:04:46](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=286.88000000000005s)]
+*  of Congress? [[00:04:50](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=290.16s)]
+*  Will there be a government funding bill in time to avert another dumb government shutdown? [[00:04:51](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=291.32000000000005s)]
+*  Will the House Republican leader get enough votes to become speaker on the first ballot? [[00:04:55](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=295.52000000000004s)]
+*  We've got all these sort of normal politics headlines here on Earth One, but it's all [[00:04:59](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=299.72s)]
+*  simultaneous and adjacent to the death con three on the Jews guy and the Holocaust denier [[00:05:07](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=307.04s)]
+*  eating turkey and stuffing with the leader of the Republican Party at his home. [[00:05:16](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=316.68s)]
+*  And I feel like since this came to light over the holiday weekend, most of the talk in political [[00:05:23](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=323.36s)]
+*  circles has been about whether or not this is bad for Trump, whether or not this is going [[00:05:28](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=328.48s)]
+*  to reflect poorly on him as the leader of the Republican Party, whether this is something [[00:05:32](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=332.52000000000004s)]
+*  that might hurt him in some way, whether this might be a mistake for him or whether this [[00:05:37](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=337.28000000000003s)]
+*  will slide off him too. [[00:05:40](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=340.82s)]
+*  OK. [[00:05:43](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=343.40000000000003s)]
+*  The reason groups like People for the American Way monitor guys like this and keep track [[00:05:46](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=346.12s)]
+*  of what they are saying and doing is not just because a guy like this might have an incidental [[00:05:52](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=352.3s)]
+*  effect someday on some real politician who interacts with them. [[00:05:57](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=357.68s)]
+*  The reason that it is worth keeping track of Holocaust denying racist agitators who [[00:06:02](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=362.44s)]
+*  advocate race war and, I kid you not, burning women alive in America, the reason you monitor [[00:06:08](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=368.32s)]
+*  guys like that is not just because of their potential future impact someday on other people [[00:06:17](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=377.4s)]
+*  who have power. [[00:06:21](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=381.96000000000004s)]
+*  It's because of their power and because of the damage that they want to do. [[00:06:23](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=383.15999999999997s)]
+*  And guys like that, neo-Nazi agitators getting a big proverbial hug, getting a private audience [[00:06:28](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=388.79999999999995s)]
+*  with the Republican Party's likely next presidential nominee. [[00:06:34](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=394.15999999999997s)]
+*  Yes, sure, that reflects on that political candidate and on his party. [[00:06:37](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=397.24s)]
+*  But more importantly, it's great for the Nazis, right? [[00:06:41](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=401.17999999999995s)]
+*  It's a supercharging thing for them, for their perceived legitimacy, their reach, their ability [[00:06:45](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=405.15999999999997s)]
+*  to get their message out to people, to operate, to recruit and to do what they want to do, [[00:06:51](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=411.40000000000003s)]
+*  which in this guy's case is turning the United States of America into a whites-only, [[00:06:55](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=415.64s)]
+*  no-Jews-allowed fascist homeland under a dictator who he would please like to be Donald Trump. [[00:07:00](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=420.12s)]
+*  It is hard to have regular, everyday, normal politics alongside this kind of politics too, [[00:07:08](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=428.96000000000004s)]
+*  but that's where we are. [[00:07:15](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=435.6s)]
+*  And the violent ultra-right will benefit greatly from this moment, whether or not any right-wing [[00:07:17](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=437.12s)]
+*  politicians do as well. [[00:07:22](https://www.youtube.com/watch?v=Osc_tAy_Z_I&t=442.2s)]

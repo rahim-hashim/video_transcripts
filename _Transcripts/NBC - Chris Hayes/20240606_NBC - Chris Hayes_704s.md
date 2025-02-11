@@ -1,0 +1,155 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 704s
+Video Keywords: ['Chris Hayes']
+Video Views: 231783
+Video Rating: None
+Video Description: Steve Bannon, former advisor to Donald Trump, was ordered to report to prison for four months starting on July 1 for his conviction on federal contempt of Congress charges. Glenn Kirschner and McKay Coppins join to discuss.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#SteveBannon #prison #Trump
+---
+
+# 'Long time coming': Steve Bannon ordered to surrender to prison July 1
+**NBC - Chris Hayes:** [June 06, 2024](https://www.youtube.com/watch?v=LxtUOwdHkvs)
+*  Good evening from New York. I'm Chris Hayes. Steve Bannon is going to prison. [[00:00:00](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=0.0s)]
+*  It's been a long time coming. Today, the former adviser to Donald Trump, who wears two button-down [[00:00:04](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=4.16s)]
+*  shirts on top of each other for no discernible reason, was ordered to report to prison for [[00:00:10](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=10.52s)]
+*  four months starting on July 1st for his conviction on federal contempt of Congress charges nearly [[00:00:15](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=15.200000000000001s)]
+*  two years ago. Bannon, you might remember, was subpoenaed by the January 6th select committee [[00:00:20](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=20.82s)]
+*  back in 2021. And like fellow Trump adviser Peter Navarro and several members of Congress, [[00:00:25](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=25.56s)]
+*  including Jim Jordan and Scott Barry, he just flatly refused to comply. Didn't evoke his [[00:00:32](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=32.04s)]
+*  Fifth Amendment, just said, no, go take a hike. Now, Navarro was also convicted of contempt [[00:00:36](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=36.68s)]
+*  and is currently in a federal prison in Miami after appealing his case all the way up to [[00:00:43](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=43.04s)]
+*  the Supreme Court, which refused to bail him out. Bannon, too, played out a lengthy appeals [[00:00:47](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=47.56s)]
+*  process, which he ultimately lost. Though we should note this is hardly Mr. Bannon's first [[00:00:52](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=52.68s)]
+*  brush with the law. You might remember back in 2020, Steve Bannon was arrested on the [[00:00:57](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=57.64s)]
+*  yacht of a Chinese billionaire. And in fact, if he were not bailed out by a last minute [[00:01:03](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=63.72s)]
+*  pardon from Donald Trump on the final day of Trump's presidency, Bannon may already [[00:01:08](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=68.48s)]
+*  have been imprisoned following the federal indictment from Trump's own Department of [[00:01:12](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=72.86s)]
+*  Justice, an indictment which says he grifted millions of dollars from hundreds of thousands [[00:01:16](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=76.44s)]
+*  of Trump supporters through phony claims that he would privately fund construction [[00:01:22](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=82.2s)]
+*  of the border wall. They didn't really do it. Two of his co-defendants in that case [[00:01:27](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=87.08s)]
+*  pleaded guilty to those charges. A third was convicted of trial. They are currently serving [[00:01:31](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=91.96000000000001s)]
+*  between three and five years in federal prison as part of the same plot that Bannon was accused [[00:01:37](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=97.4s)]
+*  of being part of. Bannon, however, was spared that fate by his former boss after January [[00:01:42](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=102.82000000000001s)]
+*  6th when Bannon proved himself to be a vital ally during the attempted coup, including, [[00:01:49](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=109.84s)]
+*  as the January 6th committee revealed, frequent contact with Trump in the hours before the [[00:01:56](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=116.04s)]
+*  insurrection. While certain close associates of President Trump privately expressed concerns [[00:02:01](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=121.14s)]
+*  about what would occur on January 6th, other members of the president's inner circle spoke [[00:02:06](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=126.96000000000001s)]
+*  with great anticipation about the events to come. The committee has learned from the White [[00:02:11](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=131.76s)]
+*  House phone logs that the president spoke to Steve Bannon, his close advisor, at least [[00:02:17](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=137.12s)]
+*  twice on January 5th. The first conversation they had lasted for 11 minutes. From those [[00:02:22](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=142.32s)]
+*  same phone logs, we know that the president and Mr. Bannon spoke again on the phone that [[00:02:28](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=148.20000000000002s)]
+*  evening, this time for six minutes. We also know that Bannon was an advisor to the group [[00:02:32](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=152.64000000000001s)]
+*  of Trump allies who met at their so-called command center at the Willard Hotel in Washington, [[00:02:37](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=157.20000000000002s)]
+*  D.C., ahead of January 6th to plot ways to steal the 2020 election. In fact, according [[00:02:42](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=162.36s)]
+*  to journalists Bob Woodward and Robert Costa, Bannon was at the Willard when Trump called [[00:02:47](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=167.84s)]
+*  him on the night of January 5th. And to be clear, Bannon wasn't trying to hide his involvement [[00:02:52](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=172.72000000000003s)]
+*  in the scheme. In the days and weeks before January 6th, he dedicated hours of his daily [[00:02:59](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=179.3s)]
+*  podcast to the big lie of a stolen election, often dropping less than subtle hints that [[00:03:05](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=185.24s)]
+*  something explosive was in the works. [[00:03:10](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=190.36s)]
+*  People are getting revved up. People are getting fired up. People are getting madder as they [[00:03:13](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=193.8s)]
+*  should. Mike Pence's, his moment of destiny awaits him, and it's coming on the 6th of [[00:03:17](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=197.96s)]
+*  January. It's to have clarity that January 6th was going to be the day, or one of these [[00:03:24](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=204.96s)]
+*  big days, and you had to converge everything down to January 6th. Starting tomorrow, it's [[00:03:30](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=210.04000000000002s)]
+*  going to be wild. It's like two days. So it's incredible. You're going to be part of history. [[00:03:34](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=214.24s)]
+*  We want as many people to get here as possible. His first term is ending with action, and [[00:03:38](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=218.96s)]
+*  his second term is going to start with a bang. All hell is going to break loose tomorrow. [[00:03:42](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=222.72s)]
+*  Just understand this. All hell is going to break loose tomorrow. [[00:03:48](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=228.68s)]
+*  Now almost two years after being convicted, Steve Bannon is going to prison. But that's [[00:03:52](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=232.2s)]
+*  not all, because Bannon is also facing a state criminal indictment here in New York, once [[00:03:57](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=237.16s)]
+*  again for that same scheme to rip off diehard Trump supporters and steal their money from [[00:04:02](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=242.08s)]
+*  them. Just like everyone else in Trump world, Bannon likes to whine about vengeance is coming [[00:04:07](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=247.8s)]
+*  for the people who put him away. The real explanation is much simpler. Donald Trump's [[00:04:14](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=254.16000000000003s)]
+*  criminal, convicted on 34 felony counts, who surrounds himself with a bunch of other criminals, [[00:04:20](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=260.72s)]
+*  like Steve Bannon and Peter Navarro and his longtime political operative Roger Stone, [[00:04:25](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=265.88s)]
+*  who Trump sprung from jail ahead of the 2020 election, and Paul Manafort, Trump's former [[00:04:30](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=270.32s)]
+*  campaign manager sentenced to seven and a half years in prison on a fraud conviction, [[00:04:34](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=274.52s)]
+*  who was also freed by his former boss, and Rick Gates, Trump's deputy campaign manager, [[00:04:38](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=278.28s)]
+*  who got prison time on charges of conspiracy and lying to the FBI, and George Papadopoulos, [[00:04:42](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=282.52s)]
+*  the former Trump campaign ad, who did a brief stint in prison for lying to investigators about [[00:04:46](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=286.96s)]
+*  his contacts with Russia. He also got a Trump pardon. And of course, Michael Cohen, who got [[00:04:50](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=290.84s)]
+*  sentenced to three years in prison for the work he did for Donald Trump, partly for his role in [[00:04:56](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=296.24s)]
+*  the Stormy Daniels hush money scheme, among other charges, and Allen Weisselberg, the former Trump [[00:05:00](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=300.32s)]
+*  organization CFO, who is currently, as I speak to you right now, in a cell in Rikers Island, [[00:05:05](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=305.0s)]
+*  awaiting a $2 million payment from Trump to keep his mouth shut. So Steve Bannon joins a real [[00:05:09](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=309.32s)]
+*  rogues gallery of Trump associates going to prison. And he could talk all he wants about [[00:05:19](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=319.15999999999997s)]
+*  revenge. But his number one concern should be finding a guest host for his podcast for four [[00:05:23](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=323.92s)]
+*  months. Joining me now is Glenn Kirchner, former federal prosecutor who is inside the courtroom [[00:05:29](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=329.96s)]
+*  with Steve Bannon today, the Kate Coppin staff writer for the Atlantic, who's covered Steve [[00:05:36](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=336.28s)]
+*  Bannon extensively, even once getting kicked out of his 2020 rooftop election party, which is a [[00:05:39](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=339.59999999999997s)]
+*  great sentence to utter. He also has a piece, author of the new piece of the dangers of a second [[00:05:44](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=344.59999999999997s)]
+*  Trump term. Glenn, let me, let me start with you because you were in the court today. I guess it [[00:05:50](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=350.52s)]
+*  was an open question about whether the judge would actually say, times up, time to go to prison, [[00:05:55](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=355.36s)]
+*  how to play out. You know, Chris, not only was it an open question, I think most of us were on the [[00:06:00](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=360.16s)]
+*  edges of our seats because you really could not read where Judge Carl Nichols was going. John [[00:06:07](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=367.44s)]
+*  Crabb was the prosecutor. Former colleague of mine from the U.S. Attorney's Office made a very [[00:06:14](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=374.44s)]
+*  compelling argument as to why now that the appellate court definitively shot down the one legal [[00:06:19](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=379.44s)]
+*  issue that Judge Nichols said was kind of an open question in his mind, which is what prompted him [[00:06:27](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=387.48s)]
+*  to allow Steve Bannon to remain on release pending appeal. David Shone got up and made what I thought [[00:06:34](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=394.28s)]
+*  were some valid points. And as he was questioning the prosecutor and the defense attorney, you really [[00:06:41](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=401.24s)]
+*  could not read where Judge Nichols was going to land. And I think it wasn't until the very end of [[00:06:48](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=408.32s)]
+*  his announced findings that it became clear that he said now that the appellate court has basically [[00:06:54](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=414.15999999999997s)]
+*  definitively resolved the one question of law that Judge Nichols thought might be available to win [[00:07:00](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=420.76s)]
+*  Steve Bannon some relief on appeal. Then he just kind of brought the hammer down. He said, you will [[00:07:08](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=428.56s)]
+*  report to the Federal Bureau of Prisons no later than July 1st to begin serving your sentence. [[00:07:14](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=434.24s)]
+*  And then something happened that rarely happens in federal court. I saw David Shone sort of sprint [[00:07:20](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=440.0s)]
+*  up to the lectern. And I can tell you from being in that courthouse for years, usually you wait for [[00:07:26](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=446.88s)]
+*  an invitation from the judge before you approach the lectern. And he was loud and he was angry. [[00:07:32](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=452.92s)]
+*  And the judge really had to put him in his place. But I don't know if that was performance for [[00:07:39](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=459.52s)]
+*  Bannon or perhaps somebody above Bannon. But it was pretty clear at that point that the judge had [[00:07:45](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=465.12s)]
+*  made up his mind and would not revisit his ruling. Yeah, I mean, they all, as far as I can tell, [[00:07:50](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=470.79999999999995s)]
+*  everyone in that world likes to throw temper tantrums and throw their toys on the floor when [[00:07:56](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=476.35999999999996s)]
+*  they get upset about something that doesn't go their way. I mean, the thing about Bannon, [[00:08:00](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=480.79999999999995s)]
+*  McKay, there's two aspects. One is, part of it is he's got this professional wrestling heel [[00:08:05](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=485.8s)]
+*  shtick he does. Like, I'm Steve Bannon and I'm so tough and scary and you should all be cowering. [[00:08:11](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=491.96000000000004s)]
+*  And it's like, all right, settle down there, Magneto. We're going to be fine. But there's also [[00:08:17](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=497.76s)]
+*  the fact that in some ways, there's a level at which the cover-up kind of worked. We never got [[00:08:22](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=502.96000000000004s)]
+*  the testimony from him. There was a reason he wanted to keep shut about it. Now he's going to [[00:08:30](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=510.44s)]
+*  go to four months in prison. Yeah, Steve Bannon is such a weird character in my life because I feel [[00:08:34](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=514.72s)]
+*  like, like many political reporters, he's just been this person that I've had to deal with for [[00:08:44](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=524.32s)]
+*  like a decade at this point, right? He was, you know, a subject of mine. He's been a source of mine. [[00:08:50](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=530.9200000000001s)]
+*  He ran one of the most kind of poisonous right-wing media outlets in America for a while. Then he [[00:08:56](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=536.28s)]
+*  helped get Trump elected. He's in the White House. And throughout all of this, you know, I will say, [[00:09:02](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=542.7600000000001s)]
+*  just as an aside to your point, I often kind of struggled with how to depict him because he clearly [[00:09:08](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=548.72s)]
+*  was one of these people who enjoyed so much being depicted as like a super villain character that I [[00:09:14](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=554.6400000000001s)]
+*  sometimes wondered if I was like doing his bidding by contributing to that characterization. But what [[00:09:21](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=561.2s)]
+*  I will say is that like Steve Bannon eventually, you know, like throughout all of this time, [[00:09:28](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=568.48s)]
+*  just acted with complete impunity. And I remember when he was pardoned on the last day of Trump's [[00:09:34](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=574.04s)]
+*  presidency, feeling like and talking to other reporters about this and just feeling like this [[00:09:39](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=579.16s)]
+*  guy is never going to be held accountable. Like he has escaped accountability. But what's been [[00:09:44](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=584.48s)]
+*  interesting in the last several years is watching all these people in Trump's orbit, you know, [[00:09:48](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=588.9200000000001s)]
+*  one by one actually face accountability, including Donald Trump himself. That's kind of culminated [[00:09:54](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=594.12s)]
+*  with his conviction. And so it is kind of a surreal moment for, I think, journalists like me and just [[00:09:59](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=599.88s)]
+*  people who have been following Trump and his allies for so long, seeing them finally kind of [[00:10:05](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=605.96s)]
+*  get their comeuppance. It's kind of almost it's hard to fathom. Yeah. And, you know, in this case, [[00:10:12](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=612.16s)]
+*  Glenn, you know, the sentence is the duration of a semester abroad. So it's not an insanely long [[00:10:19](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=619.72s)]
+*  sentence, but he is not out of the woods. I mean, the New York case against him, as we said before, [[00:10:25](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=625.08s)]
+*  the other folks who are part of this scheme in federal court, two pleaded, one convicted, [[00:10:30](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=630.2800000000001s)]
+*  doing three to five years that he's staring down like very, very serious criminal liability this [[00:10:34](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=634.0400000000001s)]
+*  fall and maybe commuting to that trial from some federal penitentiary. Yeah, Chris. And as you said, [[00:10:39](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=639.96s)]
+*  your lead in, you know, but for a presidential pardon previously for largely the same charges, [[00:10:48](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=648.12s)]
+*  although in federal court, he's now going to be tried in state court in New York. He could already [[00:10:54](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=654.12s)]
+*  be in prison. And can I just build on something the case said, which is that, you know, it feels [[00:10:58](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=658.84s)]
+*  like we are forever thirsting for accountability and it so rarely comes. But if we now look at the [[00:11:03](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=663.0s)]
+*  fact that Navarro is serving a prison term, Steve Bannon has been ordered to report to prison on [[00:11:08](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=668.52s)]
+*  July 1st and Donald Trump will be sentenced for 34 felony convictions on July 11th. You know, [[00:11:14](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=674.04s)]
+*  dare I say accountability might be trending at this point. [[00:11:19](https://www.youtube.com/watch?v=LxtUOwdHkvs&t=679.7199999999999s)]

@@ -1,0 +1,146 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 501s
+Video Keywords: ['Andrea Mitchell Reports']
+Video Views: 10092
+Video Rating: None
+Video Description: After the fall of the Assad regime, NBC News’ Richard Engel spoke to a missing American found in Syria. The whereabouts of U.S. Journalist Austin Tice are still unknown but President Biden says he is alive. Former Deputy Assistant Secretary of Defense Evelyn Farkas joins Andrea Mitchell Reports to discuss the latest updates in the Middle East.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup 
+
+#Syria #AustinTice #MiddleEast
+---
+
+# ‘Hope’ new Syrian government are motivated to bring Austin Tice home to U.S.: Farkas
+**NBC - Middle East:** [December 12, 2024](https://www.youtube.com/watch?v=Mx7YL8nLxqo)
+*  An American man missing for months has been found alive today in Syria. [[00:00:00](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=0.0s)]
+*  He says he was detained by authorities and released from prison by the rebels after the [[00:00:05](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=5.64s)]
+*  collapse of the Assad regime. [[00:00:09](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=9.88s)]
+*  Travis Timmerman said that he was on a religious pilgrimage on the road to Damascus when he [[00:00:12](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=12.040000000000001s)]
+*  was arrested crossing into Syria from Lebanon. [[00:00:17](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=17.080000000000002s)]
+*  The Missouri man says he was treated fairly well and was not tortured. [[00:00:20](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=20.44s)]
+*  NBC's chief foreign correspondent Richard Engel spoke to Timmerman shortly after he [[00:00:23](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=23.96s)]
+*  was found in Damascus. [[00:00:28](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=28.0s)]
+*  It's just remarkable. [[00:00:58](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=58.0s)]
+*  Joining me now is Evelyn Farkas, former deputy assistant secretary of defense for Russia [[00:01:08](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=68.8s)]
+*  and Ukraine and the executive director of the McCain Institute. [[00:01:12](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=72.64s)]
+*  Evelyn, thanks for being here. [[00:01:16](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=76.08s)]
+*  The announcement that Timmerman was released initially raised hopes around four o'clock [[00:01:17](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=77.96000000000001s)]
+*  this morning. [[00:01:21](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=81.6s)]
+*  A lot of us were getting very excited that this could be the American journalist Austin [[00:01:22](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=82.6s)]
+*  Tice. [[00:01:26](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=86.08s)]
+*  But then when people saw the video, they realized it was not Austin Tice. [[00:01:27](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=87.08s)]
+*  It was another man, but an American. [[00:01:31](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=91.75999999999999s)]
+*  President Biden has said that Tice is alive. [[00:01:35](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=95.03999999999999s)]
+*  He's been there, you know, for all these years since 2012, but that the U.S. is not sure [[00:01:37](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=97.16s)]
+*  where he is. [[00:01:43](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=103.4s)]
+*  Here is what Secretary Blinken, who's just arrived in Turkey, had to say before leaving [[00:01:44](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=104.4s)]
+*  Jordan earlier today. [[00:01:49](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=109.16s)]
+*  No update on Austin Tice except to say that every single day we are working to find him [[00:01:52](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=112.44s)]
+*  and to bring him home, making sure that the word is out to everyone, that this is a priority [[00:01:59](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=119.08s)]
+*  for the United States. [[00:02:03](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=123.6s)]
+*  Tice's mother, Deborah, said last week that she's been assured by very good sources that [[00:02:04](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=124.6s)]
+*  he is alive and has been treated well. [[00:02:09](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=129.52s)]
+*  So their confidence, and I talked to the siblings the other day, the brother and the sister, [[00:02:11](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=131.8s)]
+*  they really are very encouraged by this. [[00:02:16](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=136.36s)]
+*  What do you think is happening behind the scenes trying to find him? [[00:02:20](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=140.68s)]
+*  Yeah, I mean, Andrea, we know from the phenomenal media coverage, including Richard Engel there [[00:02:23](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=143.72s)]
+*  on the ground, that people are the Syrian people. [[00:02:31](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=151.08s)]
+*  And then, of course, some media with them are just going basically from jail to jail. [[00:02:35](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=155.28s)]
+*  They're looking for hidden prisons. [[00:02:40](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=160.84s)]
+*  Obviously, Austin Tice was somebody that the Syrians wanted to hold on to and did not want [[00:02:43](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=163.16s)]
+*  Americans to free him. [[00:02:49](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=169.28s)]
+*  So I would imagine that he wouldn't be easy to find. [[00:02:50](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=170.64000000000001s)]
+*  But I would hope that this new government, this new organization that's now in control [[00:02:53](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=173.88s)]
+*  of the Syrian government, the so-called HTS, their initials, that they would be motivated [[00:02:59](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=179.56s)]
+*  as a gesture of goodwill to really put out every effort to find Austin Tice and to bring [[00:03:05](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=185.12s)]
+*  him home. [[00:03:10](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=190.56s)]
+*  He has been there way too long. [[00:03:11](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=191.92000000000002s)]
+*  He was there, of course, chronicling the brutal civil war in Syria that Assad unleashed on [[00:03:13](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=193.42000000000002s)]
+*  his people. [[00:03:18](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=198.85999999999999s)]
+*  And he's been one of the longest held Americans now in captivity that's currently still in [[00:03:20](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=200.38s)]
+*  captivity. [[00:03:25](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=205.01999999999998s)]
+*  And the Biden administration says it's exploring whether or not to remove the foreign terrorist [[00:03:26](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=206.01999999999998s)]
+*  designation from HTS. [[00:03:32](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=212.2s)]
+*  This group, Mohammed Al Jalani, the leader, has been saying very moderate things, but [[00:03:34](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=214.01999999999998s)]
+*  he does have roots in al-Qaeda, ISIS. [[00:03:39](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=219.18s)]
+*  There are radical groups in that coalition. [[00:03:41](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=221.95999999999998s)]
+*  It's a very diverse coalition indeed. [[00:03:45](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=225.57999999999998s)]
+*  They are leading the most powerful of the rebel groups, of course. [[00:03:48](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=228.66s)]
+*  What do you think about this? [[00:03:51](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=231.94s)]
+*  There's a $10 million reward on his head. [[00:03:53](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=233.54s)]
+*  The UN and the U.S. have him on their terror list, but it's very difficult legally for [[00:03:56](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=236.18s)]
+*  the U.S. to provide any kind of humanitarian aid as Syria tries to stabilize if they're [[00:04:01](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=241.38s)]
+*  led by a terror leader. [[00:04:09](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=249.5s)]
+*  Yeah. [[00:04:11](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=251.5s)]
+*  I mean, Andrea, this has to do obviously with the history of this organization. [[00:04:12](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=252.5s)]
+*  They were a terrorist organization allied with al-Qaeda. [[00:04:16](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=256.9s)]
+*  But a while ago, I don't remember how many years ago now, the organization severed ties [[00:04:21](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=261.02s)]
+*  and said that we no longer espouse the values, the agenda, the terrorist agenda of al-Qaeda. [[00:04:26](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=266.7s)]
+*  When they came, when they first took control in Syria, in the Idlib area, they essentially [[00:04:34](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=274.38s)]
+*  went and reassured the Christians who were living there. [[00:04:39](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=279.78s)]
+*  And frankly, they've reassured Christians now throughout Syria that they will not be [[00:04:43](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=283.5s)]
+*  persecuted. [[00:04:47](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=287.58s)]
+*  One of the things you look at when you're looking at a new government that's creating [[00:04:48](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=288.58s)]
+*  a government and government information is how do they treat minorities? [[00:04:52](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=292.94s)]
+*  They have said the right things. [[00:04:56](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=296.8s)]
+*  They have not conducted to our knowledge, I guess, any recent terrorist activities. [[00:04:58](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=298.94s)]
+*  So I would kind of side with our former ambassador, Robert Ford, I believe he was the last ambassador [[00:05:03](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=303.5s)]
+*  in Syria, who said, you know, we probably should take a hard look and seriously consider [[00:05:09](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=309.42s)]
+*  removing the designation because these folks are in control. [[00:05:15](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=315.26s)]
+*  And so far, they are demonstrating, again, inclusive inclusivity and that they really [[00:05:18](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=318.64000000000004s)]
+*  might be able to rule Syria in a way that is, of course, mindful of human rights and [[00:05:24](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=324.28000000000003s)]
+*  will uphold the sovereignty of the entire nation. [[00:05:33](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=333.22s)]
+*  And Jake Sullivan is in Israel today. [[00:05:35](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=335.9s)]
+*  Listen to what he just said in Tel Aviv, because there is talk about a possible hostage deal, [[00:05:37](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=337.7s)]
+*  even with only 39 days left before January 20th. [[00:05:43](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=343.06s)]
+*  We've been close before and haven't gotten there, so I can't make any promises or predictions [[00:05:49](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=349.26s)]
+*  to you. [[00:05:53](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=353.14s)]
+*  But I wouldn't be here today if I thought this thing was just waiting until after January [[00:05:54](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=354.14s)]
+*  20th. [[00:05:57](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=357.38s)]
+*  I am here today because I believe every day matters and we're going to use every day we [[00:05:58](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=358.38s)]
+*  have to try to close the deal as soon as we possibly can. [[00:06:02](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=362.26s)]
+*  I mean, there's a talk that Hamas might finally be willing to consider a ceasefire and hostage [[00:06:06](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=366.21999999999997s)]
+*  deal. [[00:06:10](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=370.61999999999995s)]
+*  They've been disappointed so many times. [[00:06:11](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=371.61999999999995s)]
+*  This is Lincoln's 13th visit to the region, and Jake as well has been going repeatedly. [[00:06:13](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=373.38s)]
+*  Well, I think Hamas, Andrea, realizes that time is not on their side. [[00:06:19](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=379.14s)]
+*  Their allies, the Hezbollah fighters, were dealt a massive blow by Israel because they [[00:06:25](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=385.17999999999995s)]
+*  joined in the fight with Hamas against Israel. [[00:06:30](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=390.64s)]
+*  As a result of that, Iran also was weakened substantially militarily because of Israeli [[00:06:34](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=394.3s)]
+*  strikes against Iranian weapons depots. [[00:06:40](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=400.42s)]
+*  So Iran was not available to help out Assad in Syria. [[00:06:43](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=403.62s)]
+*  And so Hamas sees the writing on the wall. [[00:06:47](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=407.08000000000004s)]
+*  Iran is not going to help us out. [[00:06:48](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=408.98s)]
+*  Russia is not going to help us out. [[00:06:50](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=410.26s)]
+*  We need to make a deal because the future will get only worse for us. [[00:06:51](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=411.86s)]
+*  If we can make a deal, get back. [[00:06:55](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=415.86s)]
+*  They intend to get back several hundred, I believe, hostages that the Israelis are holding, [[00:06:57](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=417.92s)]
+*  in exchange for the hostages that they're holding, which are up to 100, maybe a little [[00:07:04](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=424.34000000000003s)]
+*  bit fewer because some of them may have perished. [[00:07:13](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=433.42s)]
+*  But the Hamas folks realize time is not on their side, so I'm not surprised to see a [[00:07:16](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=436.46000000000004s)]
+*  deal in the making. [[00:07:20](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=440.90000000000003s)]
+*  And I will also add that, of course, President Biden wants this to happen on his watch. [[00:07:21](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=441.90000000000003s)]
+*  Interestingly, President-elect Trump has also said, you know, I want this taken care of. [[00:07:26](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=446.94000000000005s)]
+*  So I think all the variables are aligning in the right direction here, fingers crossed. [[00:07:31](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=451.3s)]
+*  And we really are out of time, but I know that someone who was a global leader in 2023 [[00:07:39](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=459.38s)]
+*  for the McCain Institute, Jesus Armas, was arrested. [[00:07:44](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=464.82s)]
+*  I know you're a waiting word. [[00:07:48](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=468.62s)]
+*  And if there's any breakthrough on that, please let us know. [[00:07:50](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=470.65999999999997s)]
+*  Everyone, of course, is very concerned. [[00:07:54](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=474.46s)]
+*  Thank you, Andrea, very much. [[00:07:57](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=477.7s)]
+*  Evelyn Farkas, thank you so much. [[00:07:59](https://www.youtube.com/watch?v=Mx7YL8nLxqo&t=479.22s)]

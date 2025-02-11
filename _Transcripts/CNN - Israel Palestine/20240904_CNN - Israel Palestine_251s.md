@@ -1,0 +1,86 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 251s
+Video Keywords: []
+Video Views: 947792
+Video Rating: None
+Video Description: Responding to a question from CNN's Jeremy Diamond about civilian deaths in Gaza, Israeli Prime Minister Benjamin Netanyahu defends the IDF's conduct in Gaza and says he won't change his "humanitarian policies, vaccination policies and combat policies to minimize civilian casualties."   
+
+Want to stay up to date on the day’s top stories? Sign up for CNN’s 5 Things newsletter, and we’ll give you the 5 biggest stories you need to know, videos people are watching, and more! Sign up here: https://www.cnn.com/newsletters/5-things?source=nl-acq_social_youtubedesc&utm_source=nl-acq_social_youtubedesc
+
+
+ #CNN #News
+---
+
+# CNN asks Netanyahu, ‘how much is too much?’ Hear his response
+**CNN - Israel Palestine:** [September 04, 2024](https://www.youtube.com/watch?v=t-CfrPcQYCY)
+*  More than 40,000 Palestinians have now been killed in Gaza, a majority of whom are civilians. [[00:00:00](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=0.0s)]
+*  And these numbers are from the Palestinian Ministry of Health, but they are backed up [[00:00:05](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=5.32s)]
+*  by the United States, by international organizations. [[00:00:08](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=8.52s)]
+*  Humanitarian conditions in Gaza have degraded so much that diseases like polio and hepatitis [[00:00:11](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=11.84s)]
+*  A are now spreading. [[00:00:16](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=16.72s)]
+*  We have seen countless children be orphaned. [[00:00:18](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=18.42s)]
+*  We have seen countless mothers lose their children. [[00:00:21](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=21.240000000000002s)]
+*  How much is too much, sir? [[00:00:23](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=23.88s)]
+*  At what point is it time to end this war? [[00:00:25](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=25.64s)]
+*  Well, we will end the war when we achieve our war goals of making sure that Hamas can't [[00:00:28](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=28.36s)]
+*  repeat such atrocities. [[00:00:32](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=32.56s)]
+*  But we are fighting this war, a just war with just means, in fact with means that no other [[00:00:34](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=34.56s)]
+*  army has ever fought. [[00:00:39](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=39.56s)]
+*  No other army has taken the precautions that Israel has taken, sometimes at great risk, [[00:00:42](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=42.86s)]
+*  to make sure that we minimize the number of casualties. [[00:00:49](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=49.96s)]
+*  You talked about polio. [[00:00:52](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=52.72s)]
+*  We enable now massive vaccination of polio. [[00:00:55](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=55.36s)]
+*  We want 90% of the people of Gaza vaccinated. [[00:01:00](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=60.0s)]
+*  I think 200,000 I think were vaccinated today. [[00:01:05](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=65.84s)]
+*  We put in a million tons of food, a million tons of aid, 700,000 tons of food. [[00:01:11](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=71.68s)]
+*  That's unheard of. [[00:01:16](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=76.76s)]
+*  We've taken, because we think that every civilian death is a tragedy. [[00:01:17](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=77.76s)]
+*  For Hamas, every civilian death is a strategy. [[00:01:23](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=83.03999999999999s)]
+*  For us, it's a tragedy. [[00:01:25](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=85.16s)]
+*  There are 1.4 million people in Gaza. [[00:01:27](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=87.2s)]
+*  They moved from the north to the south. [[00:01:29](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=89.08s)]
+*  You're going to have thousands, 20,000 killed. [[00:01:32](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=92.2s)]
+*  You're going to have a catastrophe, a humanitarian catastrophe. [[00:01:37](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=97.88s)]
+*  They have no place to go, no food to eat. [[00:01:40](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=100.75999999999999s)]
+*  Now report honestly, because here's what happened. [[00:01:46](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=106.6s)]
+*  They all left. [[00:01:51](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=111.72s)]
+*  They went to the humanitarian zone, which is two miles away, less, on the beach. [[00:01:53](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=113.48s)]
+*  They have tents. [[00:01:58](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=118.92s)]
+*  We supplied tents for 150,000 people. [[00:02:00](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=120.5s)]
+*  The aid agencies supplied the rest, and some of them carried their own tents. [[00:02:03](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=123.04s)]
+*  They have a place. [[00:02:05](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=125.80000000000001s)]
+*  We supplied water lines, sewage lines, food. [[00:02:06](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=126.96000000000001s)]
+*  There's more to be done. [[00:02:10](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=130.92000000000002s)]
+*  Medical. [[00:02:13](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=133.76s)]
+*  So now we know how many people were killed, how many terrorists, because we counted them. [[00:02:15](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=135.76s)]
+*  We just passed 2,000. [[00:02:21](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=141.4s)]
+*  Terrorists, body counts of terrorists. [[00:02:23](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=143.4s)]
+*  The people left. [[00:02:27](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=147.28s)]
+*  How many civilians died? [[00:02:29](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=149.16000000000003s)]
+*  I asked the commander, the commander of the division that did the Rafah operation and [[00:02:30](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=150.24s)]
+*  the Philadelphia Corridor. [[00:02:37](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=157.8s)]
+*  He said, Prime Minister, there are hardly any civilian deaths because everybody left. [[00:02:40](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=160.36s)]
+*  They heeded our warnings. [[00:02:48](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=168.0s)]
+*  But he said there were probably two dozen, and most of them occurred when one of our [[00:02:50](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=170.18s)]
+*  bombs hit a Hamas ammunition depot that was planted inside a residential area. [[00:03:00](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=180.34s)]
+*  40 people died, about 20 were terrorists, about 20 were civilians. [[00:03:06](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=186.3s)]
+*  He said that's most of the deaths. [[00:03:09](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=189.82s)]
+*  That's the lowest ratio of non-combatants to combatants in the history of urban warfare. [[00:03:13](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=193.38s)]
+*  That's it. [[00:03:22](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=202.62s)]
+*  Now report honestly, because you accused us of something that is outrageous, and in fact [[00:03:24](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=204.18s)]
+*  the accusations against us are outrageously false. [[00:03:29](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=209.35999999999999s)]
+*  Humanitarian aid? [[00:03:34](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=214.01999999999998s)]
+*  A million trucks of aid? [[00:03:35](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=215.01999999999998s)]
+*  A million tons of aid? [[00:03:36](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=216.78s)]
+*  700,000 tons of food? [[00:03:38](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=218.94s)]
+*  A deliberate starvation policy? [[00:03:42](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=222.34s)]
+*  You can say anything. [[00:03:44](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=224.38000000000002s)]
+*  It doesn't make it true. [[00:03:45](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=225.38000000000002s)]
+*  You repeat a lie over and over and over again. [[00:03:47](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=227.3s)]
+*  It assumes the cache of self-evident truth, but it's false. [[00:03:49](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=229.78s)]
+*  Israel is doing and the Israeli army is doing something that no other army has done in history [[00:03:53](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=233.82000000000002s)]
+*  and will continue to do that. [[00:04:00](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=240.74s)]
+*  I'm not going to change my policies. [[00:04:01](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=241.82000000000002s)]
+*  Humanitarian policies, vaccination policies, combat policies to minimize civilian casualties. [[00:04:04](https://www.youtube.com/watch?v=t-CfrPcQYCY&t=244.14000000000001s)]

@@ -1,0 +1,157 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 469s
+Video Keywords: ['Chris Hayes']
+Video Views: 80729
+Video Rating: None
+Video Description: A lot has changed for voters in the last two weeks. David Hogg and Mallory McMorrow join Chris Hayes to discuss the better “vibes” of the Harris campaign. “For the first time in many Gen Z voters’ lives, they’re not just voting against somebody like Donald Trump – they’re voting for someone,” says Hogg.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#KamalaHarris #DonaldTrump #2024election
+---
+
+# ‘The vibes have changed’: Harris candidacy injects enthusiasm back into the campaign
+**NBC - Chris Hayes:** [August 09, 2024](https://www.youtube.com/watch?v=xY4TVklzhUg)
+*  A lot's changed in the last two weeks, and I want to play you sound from a focused group [[00:00:00](https://www.youtube.com/watch?v=xY4TVklzhUg&t=0.0s)]
+*  of swing voters in Wisconsin run by an organization called Engageus. [[00:00:03](https://www.youtube.com/watch?v=xY4TVklzhUg&t=3.6s)]
+*  It's a group of 12 people. [[00:00:07](https://www.youtube.com/watch?v=xY4TVklzhUg&t=7.76s)]
+*  They all voted for both Trump and Biden in the past. [[00:00:08](https://www.youtube.com/watch?v=xY4TVklzhUg&t=8.9s)]
+*  So you got nine independents, two Democrats and a Republican. [[00:00:11](https://www.youtube.com/watch?v=xY4TVklzhUg&t=11.36s)]
+*  And they were asked what they feel when they see the new Democratic nominee Kamala Harris [[00:00:14](https://www.youtube.com/watch?v=xY4TVklzhUg&t=14.16s)]
+*  on TV. [[00:00:18](https://www.youtube.com/watch?v=xY4TVklzhUg&t=18.8s)]
+*  I'm happy. [[00:00:19](https://www.youtube.com/watch?v=xY4TVklzhUg&t=19.8s)]
+*  I'm enthused. [[00:00:20](https://www.youtube.com/watch?v=xY4TVklzhUg&t=20.8s)]
+*  I'm curious. [[00:00:21](https://www.youtube.com/watch?v=xY4TVklzhUg&t=21.8s)]
+*  I want to know more about her. [[00:00:22](https://www.youtube.com/watch?v=xY4TVklzhUg&t=22.8s)]
+*  I'm mostly proud. [[00:00:26](https://www.youtube.com/watch?v=xY4TVklzhUg&t=26.52s)]
+*  Confused. [[00:00:28](https://www.youtube.com/watch?v=xY4TVklzhUg&t=28.72s)]
+*  Nauseated. [[00:00:29](https://www.youtube.com/watch?v=xY4TVklzhUg&t=29.72s)]
+*  Relieved. [[00:00:30](https://www.youtube.com/watch?v=xY4TVklzhUg&t=30.72s)]
+*  Relief. [[00:00:31](https://www.youtube.com/watch?v=xY4TVklzhUg&t=31.72s)]
+*  Indifferent. [[00:00:32](https://www.youtube.com/watch?v=xY4TVklzhUg&t=32.72s)]
+*  Cautiously optimistic. [[00:00:33](https://www.youtube.com/watch?v=xY4TVklzhUg&t=33.72s)]
+*  I 100% agree. [[00:00:34](https://www.youtube.com/watch?v=xY4TVklzhUg&t=34.72s)]
+*  Cautiously optimistic. [[00:00:35](https://www.youtube.com/watch?v=xY4TVklzhUg&t=35.72s)]
+*  Relief. [[00:00:36](https://www.youtube.com/watch?v=xY4TVklzhUg&t=36.72s)]
+*  I've liked what she said since, I mean, I've seen her speak a couple of times on the news [[00:00:37](https://www.youtube.com/watch?v=xY4TVklzhUg&t=37.72s)]
+*  and on YouTube, and I'm liking it more and more what she's saying. [[00:00:47](https://www.youtube.com/watch?v=xY4TVklzhUg&t=47.72s)]
+*  The vibes appear to be changing. [[00:00:52](https://www.youtube.com/watch?v=xY4TVklzhUg&t=52.72s)]
+*  I think the one is nauseated, probably not going to come over. [[00:00:55](https://www.youtube.com/watch?v=xY4TVklzhUg&t=55.2s)]
+*  Mallory McMorrow is a Democratic state senator in Michigan. [[00:01:09](https://www.youtube.com/watch?v=xY4TVklzhUg&t=69.0s)]
+*  David Hogg is the president of Leaders We Deserve, an organization dedicated to electing young [[00:01:12](https://www.youtube.com/watch?v=xY4TVklzhUg&t=72.48s)]
+*  progressive candidates, and they joined me now. [[00:01:16](https://www.youtube.com/watch?v=xY4TVklzhUg&t=76.64s)]
+*  David, I want to start with you because one of the things that we covered a lot in the [[00:01:18](https://www.youtube.com/watch?v=xY4TVklzhUg&t=78.64s)]
+*  first part of this campaign when the nominee was Joe Biden, or was likely going to be, [[00:01:22](https://www.youtube.com/watch?v=xY4TVklzhUg&t=82.32s)]
+*  was that there was a divergence between what you might call the sort of material conditions [[00:01:26](https://www.youtube.com/watch?v=xY4TVklzhUg&t=86.8s)]
+*  of the country, which by a lot of metrics and formulas you might use to predict these [[00:01:30](https://www.youtube.com/watch?v=xY4TVklzhUg&t=90.96s)]
+*  things seem to show a country that was doing pretty well in many respects, and the polling [[00:01:34](https://www.youtube.com/watch?v=xY4TVklzhUg&t=94.88s)]
+*  and the vibes. [[00:01:39](https://www.youtube.com/watch?v=xY4TVklzhUg&t=99.72s)]
+*  And I feel like we've gotten a real-time test of how much was about vibes, and the vibes [[00:01:41](https://www.youtube.com/watch?v=xY4TVklzhUg&t=101.0s)]
+*  have changed a lot. [[00:01:46](https://www.youtube.com/watch?v=xY4TVklzhUg&t=106.83999999999999s)]
+*  What do you think? [[00:01:47](https://www.youtube.com/watch?v=xY4TVklzhUg&t=107.83999999999999s)]
+*  Look, I think they absolutely have changed for the better. [[00:01:49](https://www.youtube.com/watch?v=xY4TVklzhUg&t=109.84s)]
+*  I think that young people are fired up. [[00:01:52](https://www.youtube.com/watch?v=xY4TVklzhUg&t=112.32000000000001s)]
+*  I think for the first time in many Gen Z voters' lives, they're not just voting against somebody [[00:01:54](https://www.youtube.com/watch?v=xY4TVklzhUg&t=114.4s)]
+*  like Donald Trump, they're voting for someone, whether that's somebody like Vice President [[00:01:58](https://www.youtube.com/watch?v=xY4TVklzhUg&t=118.4s)]
+*  Kamala Harris and Governor Tim Walz, or whether that's somebody like Katrina Shanklin, who [[00:02:03](https://www.youtube.com/watch?v=xY4TVklzhUg&t=123.16s)]
+*  I'm currently talking to you right now from a motel in rural Wisconsin, where I'm working [[00:02:07](https://www.youtube.com/watch?v=xY4TVklzhUg&t=127.52000000000001s)]
+*  on a congressional with a young candidate right now, working to turn out young people [[00:02:12](https://www.youtube.com/watch?v=xY4TVklzhUg&t=132.2s)]
+*  around the country by giving them other young people to vote for down the ballot. [[00:02:16](https://www.youtube.com/watch?v=xY4TVklzhUg&t=136.72s)]
+*  We need to make sure people understand this is not just about the presidential election. [[00:02:20](https://www.youtube.com/watch?v=xY4TVklzhUg&t=140.32s)]
+*  This is also about making sure that abortion isn't banned in your state. [[00:02:24](https://www.youtube.com/watch?v=xY4TVklzhUg&t=144.68s)]
+*  This is about making sure that you have stronger gun laws that are passed by your state, because [[00:02:27](https://www.youtube.com/watch?v=xY4TVklzhUg&t=147.28s)]
+*  we know so much is going to get blocked by the filibuster in Congress. [[00:02:31](https://www.youtube.com/watch?v=xY4TVklzhUg&t=151.08s)]
+*  But there is a lot of action that's possible at the state level. [[00:02:33](https://www.youtube.com/watch?v=xY4TVklzhUg&t=153.92000000000002s)]
+*  And that's what we're doing at Leaders We Deserve. [[00:02:36](https://www.youtube.com/watch?v=xY4TVklzhUg&t=156.72s)]
+*  And for anybody that wants to learn more about that, they can go to leaderswedeserve.com [[00:02:38](https://www.youtube.com/watch?v=xY4TVklzhUg&t=158.24s)]
+*  to hear more about our candidates and what we're doing. [[00:02:43](https://www.youtube.com/watch?v=xY4TVklzhUg&t=163.16s)]
+*  Senator McMorrow, from your perspective in Michigan, what have you seen? [[00:02:45](https://www.youtube.com/watch?v=xY4TVklzhUg&t=165.88s)]
+*  It is night and day from a few weeks ago to now. [[00:02:51](https://www.youtube.com/watch?v=xY4TVklzhUg&t=171.36s)]
+*  And first of all, I just want to start by maybe giving Donald Trump a little bit of credit. [[00:02:54](https://www.youtube.com/watch?v=xY4TVklzhUg&t=174.44s)]
+*  I watched his press conference yesterday. [[00:02:58](https://www.youtube.com/watch?v=xY4TVklzhUg&t=178.76s)]
+*  Maybe he confused Montana with Michigan because they are states that both start with the [[00:03:01](https://www.youtube.com/watch?v=xY4TVklzhUg&t=181.32s)]
+*  letter M. But this is the swing state. [[00:03:06](https://www.youtube.com/watch?v=xY4TVklzhUg&t=186.16s)]
+*  And I can tell you on the ground, the energy is so infectious. [[00:03:08](https://www.youtube.com/watch?v=xY4TVklzhUg&t=188.2s)]
+*  We saw 15000 people plus out in Detroit this week. [[00:03:11](https://www.youtube.com/watch?v=xY4TVklzhUg&t=191.48000000000002s)]
+*  There was a Whitney Houston singalong. [[00:03:15](https://www.youtube.com/watch?v=xY4TVklzhUg&t=195.52s)]
+*  I mean, people were just thrilled for hours on end. [[00:03:17](https://www.youtube.com/watch?v=xY4TVklzhUg&t=197.36s)]
+*  We've seen record signups. [[00:03:21](https://www.youtube.com/watch?v=xY4TVklzhUg&t=201.32000000000002s)]
+*  We've seen people making homemade merchandise. [[00:03:23](https://www.youtube.com/watch?v=xY4TVklzhUg&t=203.24s)]
+*  It is like nothing that I've seen since, you know, 2008. [[00:03:25](https://www.youtube.com/watch?v=xY4TVklzhUg&t=205.64000000000001s)]
+*  People are excited and optimistic and they want to be a part of choosing joy. [[00:03:29](https://www.youtube.com/watch?v=xY4TVklzhUg&t=209.92000000000002s)]
+*  I don't think you can underestimate how powerful it is to move past grievance and anger [[00:03:35](https://www.youtube.com/watch?v=xY4TVklzhUg&t=215.52s)]
+*  and hate and finally be proud of this country again and what we can accomplish when we work [[00:03:41](https://www.youtube.com/watch?v=xY4TVklzhUg&t=221.28s)]
+*  together. And that is the vision that Kamala Harris and Tim Walz are presenting us. [[00:03:46](https://www.youtube.com/watch?v=xY4TVklzhUg&t=226.92000000000002s)]
+*  Yeah. And to the extent that we have, you know, empirical means of measuring this right, [[00:03:51](https://www.youtube.com/watch?v=xY4TVklzhUg&t=231.08s)]
+*  small dollar donors, attendance at rallies, volunteer signups, like they're all I don't [[00:03:55](https://www.youtube.com/watch?v=xY4TVklzhUg&t=235.84s)]
+*  we wouldn't be doing this segment if none of if this was just some feeling like you're [[00:04:01](https://www.youtube.com/watch?v=xY4TVklzhUg&t=241.28s)]
+*  watching 15 to 20000 people at an arena in Glendale, Arizona right now. [[00:04:05](https://www.youtube.com/watch?v=xY4TVklzhUg&t=245.12s)]
+*  You know, shaking their signs and and going crazy. [[00:04:11](https://www.youtube.com/watch?v=xY4TVklzhUg&t=251.4s)]
+*  I also do think there's something there's politics can be cruel in some ways or ironic, [[00:04:14](https://www.youtube.com/watch?v=xY4TVklzhUg&t=254.56s)]
+*  David. And this stuck out to me that Joe Biden, again, to sort of come back to the man's [[00:04:21](https://www.youtube.com/watch?v=xY4TVklzhUg&t=261.24s)]
+*  record as president, particularly in domestic policy versus his polling, since he dropped [[00:04:26](https://www.youtube.com/watch?v=xY4TVklzhUg&t=266.6s)]
+*  out, his approval rating has gone up five points. [[00:04:31](https://www.youtube.com/watch?v=xY4TVklzhUg&t=271.88s)]
+*  So like nothing has changed in the way he's presidenting and nothing has changed really [[00:04:34](https://www.youtube.com/watch?v=xY4TVklzhUg&t=274.84000000000003s)]
+*  objectively and like the material conditions, the country mortgage rates come down a little [[00:04:40](https://www.youtube.com/watch?v=xY4TVklzhUg&t=280.24s)]
+*  bit. But to me, that single number just speaks to the fact that like there was an issue [[00:04:43](https://www.youtube.com/watch?v=xY4TVklzhUg&t=283.8s)]
+*  with him, his candidacy specifically that that even his own political standing has [[00:04:50](https://www.youtube.com/watch?v=xY4TVklzhUg&t=290.08s)]
+*  increased subsequently. [[00:04:56](https://www.youtube.com/watch?v=xY4TVklzhUg&t=296.2s)]
+*  Yeah, it has. And I think it shows that, you know, people are very approving of a statesman. [[00:04:58](https://www.youtube.com/watch?v=xY4TVklzhUg&t=298.64s)]
+*  And that's what Joe Biden has been a public servant his entire life. [[00:05:03](https://www.youtube.com/watch?v=xY4TVklzhUg&t=303.84000000000003s)]
+*  You know, it's important to note, too, he's part of the inspiration for why I created [[00:05:06](https://www.youtube.com/watch?v=xY4TVklzhUg&t=306.6s)]
+*  leaders we deserve with Maxwell Frost's campaign manager, Kevin Lada, because I know this is [[00:05:10](https://www.youtube.com/watch?v=xY4TVklzhUg&t=310.28000000000003s)]
+*  hard for some viewers to believe. But President Biden was twenty nine when he was first [[00:05:14](https://www.youtube.com/watch?v=xY4TVklzhUg&t=314.72s)]
+*  elected. And, you know, if we look at some of the most successful presidents we've ever [[00:05:18](https://www.youtube.com/watch?v=xY4TVklzhUg&t=318.56s)]
+*  had, whether that's FDR or whether that's LBJ, they were both twenty eight years old when [[00:05:22](https://www.youtube.com/watch?v=xY4TVklzhUg&t=322.68s)]
+*  they were first elected to Congress and their state legislature. [[00:05:28](https://www.youtube.com/watch?v=xY4TVklzhUg&t=328.4s)]
+*  And it makes sense, right? If you start when you're young, you get a ton of experience. [[00:05:31](https://www.youtube.com/watch?v=xY4TVklzhUg&t=331.52s)]
+*  And I think what voters are doing in those approval polls is they're seeing Joe Biden [[00:05:34](https://www.youtube.com/watch?v=xY4TVklzhUg&t=334.48s)]
+*  for who he is, which is a good man that ultimately we knew was going to make the right [[00:05:38](https://www.youtube.com/watch?v=xY4TVklzhUg&t=338.56s)]
+*  decision because he's always going to put the country before himself. [[00:05:42](https://www.youtube.com/watch?v=xY4TVklzhUg&t=342.44s)]
+*  And that's exactly what he did. And that's why voters are so fired up now to see, you [[00:05:45](https://www.youtube.com/watch?v=xY4TVklzhUg&t=345.6s)]
+*  know, Vice President Harris out there getting the full attention of the media for the first [[00:05:49](https://www.youtube.com/watch?v=xY4TVklzhUg&t=349.56s)]
+*  time in, you know, three years because vice presidents are often left out of it. [[00:05:53](https://www.youtube.com/watch?v=xY4TVklzhUg&t=353.48s)]
+*  And now we're also seeing, you know, Governor Walz out there that many people had only [[00:05:57](https://www.youtube.com/watch?v=xY4TVklzhUg&t=357.24s)]
+*  heard of in the political scene, but now are super fired up about. [[00:06:02](https://www.youtube.com/watch?v=xY4TVklzhUg&t=362.16s)]
+*  And young people are more ecstatic, frankly, than I have ever seen them before, because [[00:06:05](https://www.youtube.com/watch?v=xY4TVklzhUg&t=365.28000000000003s)]
+*  this time they're not just voting against Donald Trump. [[00:06:08](https://www.youtube.com/watch?v=xY4TVklzhUg&t=368.92s)]
+*  They're truly voting for somebody voting for someone that they believe in. [[00:06:11](https://www.youtube.com/watch?v=xY4TVklzhUg&t=371.44s)]
+*  And that is so, so powerful. [[00:06:15](https://www.youtube.com/watch?v=xY4TVklzhUg&t=375.72s)]
+*  And I know people they just want, like was said earlier, they want joy. [[00:06:17](https://www.youtube.com/watch?v=xY4TVklzhUg&t=377.44000000000005s)]
+*  We're so tired of the dark moment our country has been in. [[00:06:21](https://www.youtube.com/watch?v=xY4TVklzhUg&t=381.8s)]
+*  And these young people are part of that. So if anybody wants to help, they can go to [[00:06:24](https://www.youtube.com/watch?v=xY4TVklzhUg&t=384.40000000000003s)]
+*  leaderswedeserve.com. [[00:06:26](https://www.youtube.com/watch?v=xY4TVklzhUg&t=386.96000000000004s)]
+*  Senator, how linked are the fates of folks in, say, the Michigan state legislature like [[00:06:28](https://www.youtube.com/watch?v=xY4TVklzhUg&t=388.68s)]
+*  yourself, both the House and the Senate, which Democrats have majorities in after being [[00:06:33](https://www.youtube.com/watch?v=xY4TVklzhUg&t=393.88s)]
+*  shut out of that for a long time? [[00:06:37](https://www.youtube.com/watch?v=xY4TVklzhUg&t=397.68s)]
+*  There's a backstory there to the prospects at the top of the ticket to the sort of [[00:06:38](https://www.youtube.com/watch?v=xY4TVklzhUg&t=398.96s)]
+*  marquee statewide races. [[00:06:43](https://www.youtube.com/watch?v=xY4TVklzhUg&t=403.68s)]
+*  You know, I think we've always said all politics is local. [[00:06:46](https://www.youtube.com/watch?v=xY4TVklzhUg&t=406.88s)]
+*  But if we've learned anything over the past few cycles, it's that all politics is also [[00:06:49](https://www.youtube.com/watch?v=xY4TVklzhUg&t=409.76s)]
+*  national. Yes. [[00:06:53](https://www.youtube.com/watch?v=xY4TVklzhUg&t=413.48s)]
+*  And as hard as our candidates work, we can't break out of what is happening on the [[00:06:54](https://www.youtube.com/watch?v=xY4TVklzhUg&t=414.56s)]
+*  national level. So the amount of energy, the amount of donations, first time donations. [[00:06:59](https://www.youtube.com/watch?v=xY4TVklzhUg&t=419.79999999999995s)]
+*  I got a text from my kindergarten teacher who had never donated to a candidate in her [[00:07:04](https://www.youtube.com/watch?v=xY4TVklzhUg&t=424.24s)]
+*  life. If we can channel that energy and bring it down to all of our state House [[00:07:08](https://www.youtube.com/watch?v=xY4TVklzhUg&t=428.2s)]
+*  candidates who are up to hold our Democratic majority, we all win and we maintain a [[00:07:13](https://www.youtube.com/watch?v=xY4TVklzhUg&t=433.03999999999996s)]
+*  strong foundation that ensures that Kamala Harris not only becomes president, but [[00:07:18](https://www.youtube.com/watch?v=xY4TVklzhUg&t=438.71999999999997s)]
+*  succeeds once she's in office. [[00:07:22](https://www.youtube.com/watch?v=xY4TVklzhUg&t=442.68s)]
+*  David Hogg and Mallory McMorrow, thank you both. [[00:07:24](https://www.youtube.com/watch?v=xY4TVklzhUg&t=444.96s)]
+*  Really appreciate it. [[00:07:27](https://www.youtube.com/watch?v=xY4TVklzhUg&t=447.16s)]

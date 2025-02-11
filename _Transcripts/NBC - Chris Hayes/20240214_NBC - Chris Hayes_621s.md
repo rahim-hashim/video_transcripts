@@ -1,0 +1,148 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 621s
+Video Keywords: ['msnbc', 'MSNBC', 'Specials']
+Video Views: 57332
+Video Rating: None
+Video Description: Get the latest news and commentary from Chris Hayes weekdays at 8 p.m. ET on MSNBC.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#NATO #Trump #Russia
+---
+
+# Watch All In With Chris Hayes Highlights: Feb. 13
+**NBC - Chris Hayes:** [February 14, 2024](https://www.youtube.com/watch?v=i0TXKLGUy4o)
+*  Donald Trump is very likely the Republican nominee for president, but he's more than just a candidate for office [[00:00:00](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=0.0s)]
+*  He was actually the president before [[00:00:05](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=5.04s)]
+*  People seem to have weirdly blocked it out. Maybe because the whole thing was so traumatizing, but I assure you he was there [[00:00:07](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=7.82s)]
+*  He has an actual record in that record. He did everything in office as president to undermine NATO [[00:00:13](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=13.92s)]
+*  Falsely painting it as a kind of protection racket in which the members were not paying him enough tribute [[00:00:20](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=20.46s)]
+*  Trump even tried to get the US to leave the alliance it founded altogether according to multiple counts from people inside his administration [[00:00:25](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=25.36s)]
+*  He also did everything he could to encourage Russian aggression against NATO [[00:00:33](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=33.72s)]
+*  He famously sided with Russian President Vladimir Putin over his own intelligence agencies in public about Russian sabotage of the 2016 election [[00:00:37](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=37.44s)]
+*  In that context what he said this weekend was fully in line with his thinking though unhinged even by his standards [[00:00:46](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=46.6s)]
+*  And one of the presidents of a big country stood up said well, sir [[00:00:53](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=53.68s)]
+*  If we don't pay and we're attacked by Russia, will you protect us? I said you didn't pay you're delinquent [[00:00:57](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=57.96s)]
+*  He said yes, let's say that happened. No, I would not protect you [[00:01:05](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=65.88s)]
+*  In fact, I would encourage them to do whatever the hell they want. You got a pain. You got to pay your bills [[00:01:10](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=70.12s)]
+*  Now first of all, it almost certainly didn't happen whenever he gives you like a yes, sir story [[00:01:16](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=76.24s)]
+*  But that aside I was a little surprised to see several major news outlets failed to cite an obviously relevant piece of context [[00:01:21](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=81.08s)]
+*  which is that [[00:01:28](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=88.08s)]
+*  Vladimir Putin is desperate to reach a negotiated [[00:01:29](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=89.12s)]
+*  Settlement to steal a big chunk of Ukraine and is counting on the Republican Party in the US to essentially aid him by cutting off [[00:01:31](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=91.72s)]
+*  Aid to the beleaguered army of Ukraine, which is quite literally running out of ammunition [[00:01:38](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=98.72s)]
+*  You know who did point out that context? [[00:01:43](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=103.36s)]
+*  President Biden in brief remarks today that called for funding Ukraine and blasted Trump's comments [[00:01:45](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=105.48s)]
+*  Can you imagine a former president United States saying that the whole world heard it [[00:01:52](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=112.44s)]
+*  The worst thing is he means it [[00:01:59](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=119.72s)]
+*  No other president our history has ever bowed down to a Russian dictator [[00:02:02](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=122.24s)]
+*  Let me say this as clearly as I can I never will [[00:02:06](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=126.8s)]
+*  For God's sake it's dumb it's shameful. It's dangerous. It's un-american [[00:02:11](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=131.32s)]
+*  And of course Putin made an enormous investment in Trump personally one that has been paying enormous dividends [[00:02:16](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=136.39999999999998s)]
+*  He personally authorized a Russian operation to support a quote mentally unstable Donald Trump in the 2016 presidential election as the Guardian put it [[00:02:21](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=141.72s)]
+*  And now Trump effectively runs the Republican Party and is for all the world acting like a man who wants to continue [[00:02:29](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=149.67999999999998s)]
+*  pleasing his patron Putin [[00:02:36](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=156.48s)]
+*  He is going to do what he can to not only destroy the NATO Alliance but to make Ukrainian resistance to Russian aggression impossible and [[00:02:38](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=158.48s)]
+*  Trump's comments are reverberating around the world sending Europeans into equal parts rage and panic [[00:02:45](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=165.67999999999998s)]
+*  Here at home the Republican Party base is under Donald Trump's thumb [[00:02:51](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=171.48s)]
+*  The Senate just overwhelmingly passed a bill to send military aid to Ukraine Israel and Taiwan [[00:02:55](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=175.0s)]
+*  Republican House Speaker Mike Johnson says his Trumpy majority is probably not even going to take the bill up for a vote in Congress [[00:03:01](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=181.23999999999998s)]
+*  Just think about the incentives Putin had in 2016 the lengths that he went to to help get Trump elected criminal sabotage of an American election [[00:03:09](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=189.23999999999998s)]
+*  We've talked at length about how desperate Trump is to get back in the White House in hopes of eluding jail time and not you know [[00:03:17](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=197.32s)]
+*  possibly dying in prison [[00:03:23](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=203.64s)]
+*  Think about the stakes for Putin now as his war drags on and he desperately wants to end it with a Russian victory [[00:03:25](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=205.79999999999998s)]
+*  And he has this one figure in his pocket singing his tune to half of America's two-party system [[00:03:31](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=211.12s)]
+*  Which is to say Donald Trump and Vladimir Putin need each other with a coincidence of interests [[00:03:38](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=218.51999999999998s)]
+*  They hope will be stronger than NATO stronger even than American democracy [[00:03:43](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=223.56s)]
+*  Donald Trump has sort of been decomposing in front of our eyes for so long. It's hard to track the trajectory [[00:03:53](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=233.35999999999999s)]
+*  I mean he is after all the guy who talked about shining UV light inside people's orifices or alternately injecting bleach [[00:03:58](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=238.76s)]
+*  In order to cure them of Kovac he said that in public from the White House podium [[00:04:06](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=246.24s)]
+*  I rewatched that clip today and it drove home to me how all the [[00:04:10](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=250.82000000000002s)]
+*  Stupidity insanity hostility of Donald Trump's term has been kind of sanded down to just goofy and a lot of people's remembrances [[00:04:14](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=254.64000000000001s)]
+*  Today in a column titled Trump is losing it New York Times opinion columnist [[00:04:22](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=262.2s)]
+*  Jamal Bowie compared Trump's feebleness to the breathless coverage of President Biden's age quote [[00:04:26](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=266.62s)]
+*  Biden may be unable to do the job at some point in the future [[00:04:31](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=271.0s)]
+*  Trump it seems to me already is one of those is a lot more concerning than the other [[00:04:33](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=273.88s)]
+*  And Jamal Bowie in New York Times opinion columnist joins me now Jamal [[00:04:38](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=278.08000000000004s)]
+*  I like I like your column and one of the things this is a hobby horse of mine [[00:04:42](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=282.32s)]
+*  So I'll just write it for a moment, which is I do think that because people don't see him speak at length [[00:04:45](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=285.14000000000004s)]
+*  Temporaneously much anymore. They've lost sight of how just how completely incoherent he sounds when he does [[00:04:52](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=292.44s)]
+*  No, I think that's right [[00:04:59](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=299.52s)]
+*  I think Trump's great one of the great political advantages is that when he's out of public view people just sort of like forget about him [[00:05:00](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=300.52s)]
+*  Yeah, and everything they don't like about him is sort of not not in their face [[00:05:07](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=307.71999999999997s)]
+*  But if you just if you just like watch recent his recent appearances at rallies at public events and such [[00:05:11](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=311.76s)]
+*  He's incoherent and I believe it's something to call him. He speaks in gibberish and it's very striking to watch [[00:05:18](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=318.91999999999996s)]
+*  Yeah, say more about that because I also he is he's always been sort of one for tangents [[00:05:25](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=325.88s)]
+*  But it is it is notably harder to make your way through the logic of what he is saying [[00:05:33](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=333.0s)]
+*  And then it was even a few years ago. I find I [[00:05:39](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=339.36s)]
+*  Agree, there's one clip [[00:05:43](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=343.48s)]
+*  I watched of him attempting to explain a missile defense system and he goes from sort of like a relatively [[00:05:45](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=345.28s)]
+*  Cogin sort of like, you know [[00:05:51](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=351.94s)]
+*  We build these things for other countries into what took me a sec to really figure out what he was saying like a description [[00:05:53](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=353.1s)]
+*  Of how it works but in sort of the kind of elliptical [[00:05:59](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=359.3s)]
+*  Nonsensical Trump fashion it was it was very strange to watch and I imagine have I've been to my fair share of Trump rallies [[00:06:04](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=364.42s)]
+*  I imagine that in the moment, especially if you're there as a supporter [[00:06:10](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=370.74s)]
+*  It kind of flies over you [[00:06:14](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=374.18s)]
+*  But I have to imagine that someone who just doesn't really think much about Trump and you just plop them right there [[00:06:16](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=376.34s)]
+*  And you said try to make sense of this [[00:06:22](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=382.09999999999997s)]
+*  It would be hard and certainly if the current president brister is speaking in that manner, it would be a legitimate scandal [[00:06:24](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=384.41999999999996s)]
+*  There's also the fact that again, there's always a certain amount of incoherence baked in that it can be it's hard to gauge over time [[00:06:33](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=393.21999999999997s)]
+*  I mean [[00:06:40](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=400.58s)]
+*  Part of this because I mean look when you look at Donald Trump from the 1990s [[00:06:41](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=401.7s)]
+*  It's clear right that he's aged considerably and that same is true of Joe Biden when you look at Joe Biden as a senator [[00:06:45](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=405.14s)]
+*  You know when he's 40 or 45 like he's much younger man and he speaks very differently [[00:06:50](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=410.02s)]
+*  considerably but but [[00:06:55](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=415.36s)]
+*  the trump saying nonsense and incoherent things has been such a [[00:06:57](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=417.22s)]
+*  Again, it's like so many things about him that seems baked in and thus unremarkable and then thus not a news story [[00:07:02](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=422.18s)]
+*  Yeah, I I don't know [[00:07:09](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=429.3s)]
+*  That's a real dynamic that is that dynamic and I find it troubling because as you mentioned earlier he was president [[00:07:12](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=432.02000000000004s)]
+*  Yes, and and it seems it seems so strange to me that he is discussed [[00:07:18](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=438.66s)]
+*  So much coverage of him talks like essentially speculation, but no he was he was president of the united states for four years [[00:07:22](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=442.98s)]
+*  I remembered I saw it [[00:07:29](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=449.86s)]
+*  and [[00:07:32](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=452.26s)]
+*  uh [[00:07:33](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=453.22s)]
+*  His nato riff over the weekend [[00:07:34](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=454.74s)]
+*  That would have been that would be troubling even for just a candidate [[00:07:37](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=457.54s)]
+*  But he he was president and he should know and and treating it as if it's like oh, that's just trump [[00:07:41](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=461.06s)]
+*  You know doing his thing [[00:07:46](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=466.58s)]
+*  It's my view is no that's not just trying to doing his thing. That's the former president of the united states [[00:07:48](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=468.02s)]
+*  Um demonstrating not even that he has like a different a difference of opinion with regards to nato [[00:07:53](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=473.6s)]
+*  But they doesn't understand what the thing is [[00:07:58](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=478.98s)]
+*  Yes, I mean I think at at many basic levels [[00:08:02](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=482.02s)]
+*  He does not understand the most big things of health insurance [[00:08:04](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=484.98s)]
+*  What medicare is the difference between medicare and medicaid like basic things that you would expect a president [[00:08:08](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=488.26s)]
+*  But we also saw I mean to me the big thing that we've blocked out [[00:08:13](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=493.86s)]
+*  Is covid because we saw how that lack of knowledge curiosity [[00:08:17](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=497.78s)]
+*  that incoherence all came together in the response in the ludicrous things from the the saying from the um, uh, [[00:08:22](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=502.42s)]
+*  You know the white house the inability to actually like process and make decisions about new information [[00:08:30](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=510.02000000000004s)]
+*  To a tangible like effect in terms of how bad the response was and again [[00:08:36](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=516.34s)]
+*  That was where it all happened and it all happened before us, but I do think people have blocked it out [[00:08:40](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=520.98s)]
+*  Trump has gotten some kind of covid mulligan that oh, that's just yes who could have predicted the pandemic, but here's the thing [[00:08:46](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=526.74s)]
+*  The job of presidency of the presidency is being prepared for crises [[00:08:54](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=534.42s)]
+*  That's that's all it is right. We've judged presidents historically over how they handle crises [[00:08:59](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=539.3s)]
+*  As you know, i'm someone who's very interested in 19th century history [[00:09:05](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=545.22s)]
+*  The reason we think of james bucannon as a failed president because he was met with the crisis [[00:09:08](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=548.26s)]
+*  Mounting secession talk and he failed to handle it or deal with it in a way that helped the country survive [[00:09:13](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=553.6s)]
+*  Donald trump faced a crisis and that's the job and he failed to handle it and so it's strange [[00:09:20](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=560.5799999999999s)]
+*  That so many americans and I think a lot of coverage has given him a mulligan as if it doesn't count [[00:09:28](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=568.82s)]
+*  No, this is precisely the thing that counts the most [[00:09:34](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=574.9s)]
+*  I could not agree more about this is a recurring theme [[00:09:38](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=578.58s)]
+*  We actually talked about on my podcast why is this happening this week with eric klinenberg? [[00:09:41](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=581.22s)]
+*  Who's got a new book out about that year about 2020 and we're revisiting it [[00:09:45](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=585.14s)]
+*  Which again people have blocked out for totally understandable reasons of emotional health [[00:09:49](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=589.46s)]
+*  But but but speaking to that mulligan, I think it's really important to reexamine jim l bowie. Thank you very much [[00:09:53](https://www.youtube.com/watch?v=i0TXKLGUy4o&t=593.86s)]

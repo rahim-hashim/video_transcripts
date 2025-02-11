@@ -1,0 +1,141 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 662s
+Video Keywords: ['Chris Hayes']
+Video Views: 126185
+Video Rating: None
+Video Description: “We thought there was certainly a strong body of evidence the department should consider – but having been a federal prosecutor myself, they are going to look for what is the most provable, strongest case,” says Congressman Adam Schiff. “And he’s been very conservative in the charging of Mar-a-Lago. I think he’ll be conservative in the charging around January 6th if indeed he brings charges against the former president.”
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #trump #january6
+---
+
+# Special counsel eyes second Trump indictment
+**NBC - Chris Hayes:** [July 19, 2023](https://www.youtube.com/watch?v=Q-gmoTjpQ5I)
+*  You can reasonably disagree with how our government executes the responsibilities we have given it. [[00:00:00](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=0.0s)]
+*  But that is very different from saying we're no longer going to allow our political opponents [[00:00:06](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=6.16s)]
+*  to participate in the process. That is the Trump model. We're going to participate in elections the [[00:00:10](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=10.4s)]
+*  way we always have until the way we've always done things stops working for me and then we're [[00:00:16](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=16.72s)]
+*  going to change the rules to stay in power. It's the exact same playbook that autocrats have been [[00:00:21](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=21.12s)]
+*  using to try and end free and fair elections throughout human history. Very few issues in life [[00:00:26](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=26.88s)]
+*  are actually black or white binary but this one actually is. Either you are a supporter of free [[00:00:31](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=31.919999999999998s)]
+*  and fair elections and representative democracy and you think that Donald Trump's attempts to [[00:00:38](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=38.4s)]
+*  end those things was a grave dangerous crime that cannot go unpunished or you simply do not really [[00:00:42](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=42.72s)]
+*  believe in democracy after all. Which is why we need to call out the elected Republicans who are [[00:00:49](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=49.120000000000005s)]
+*  tying themselves into knots to defend Trump's indefensible conduct. It's absolutely anti-democratic [[00:00:54](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=54.64s)]
+*  and there's absolutely no reason to do it. You simply don't have to support Donald Trump on this [[00:01:01](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=61.92s)]
+*  one. It's the wrong thing to do. When you say what Trump did wasn't really that bad or call the whole [[00:01:06](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=66.8s)]
+*  process a witch hunt you're tacitly supporting the attempted theft of democracy. Every person living [[00:01:12](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=72.0s)]
+*  in this country is protected from tyranny only by our shared belief and support of our democratic [[00:01:18](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=78.32s)]
+*  institutions. Your ability to have a say in the way your government is run only exists when the [[00:01:24](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=84.8s)]
+*  political system actually functions the way it is supposed to. Donald Trump tried to undo that. [[00:01:30](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=90.96s)]
+*  So the threat is existential at this point. It does not matter if you care more about abortion [[00:01:37](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=97.67999999999999s)]
+*  or inflation or crime or the climate. You lose your say in how we collectively tackle any of [[00:01:43](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=103.44s)]
+*  those issues when you lose your say in the democratic process. And by defending Donald Trump in this [[00:01:50](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=110.56s)]
+*  particular circumstance that is what a whole bunch of people are signaling that they're on board with. [[00:01:56](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=116.72s)]
+*  That's why this has to be sorted out now in a court of law because if we lose this fight there [[00:02:03](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=123.03999999999999s)]
+*  may never be another chance to try again. I know that sounds hyperbolic but it's true. [[00:02:08](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=128.72s)]
+*  American democracy itself is actually at stake in a way it reminds me of the now iconic closing [[00:02:14](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=134.24s)]
+*  argument that Congressman Adam Schiff made during the first impeachment of Donald Trump. [[00:02:20](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=140.64s)]
+*  If right doesn't matter we're lost. If the truth doesn't matter we're lost. [[00:02:26](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=146.72s)]
+*  If the truth doesn't matter we're lost. [[00:02:34](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=154.72s)]
+*  Framers couldn't protect us from ourselves if right and truth don't matter. Here right is supposed to matter. [[00:02:37](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=157.44s)]
+*  It's what's made us the greatest nation on earth. [[00:02:46](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=166.48s)]
+*  No constitution can protect us. Right doesn't matter anymore. And you know [[00:02:51](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=171.04s)]
+*  you can't trust this president do what's right for this country. [[00:02:58](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=178.56s)]
+*  You can trust he will do what's right for Donald Trump. Congressman Adam Schiff is a [[00:03:04](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=184.88s)]
+*  Democrat of California. He was the lead impeachment manager during Donald Trump's first impeachment as [[00:03:12](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=192.16s)]
+*  you just heard. He sat on the January 6th committee. He currently is a candidate for the United States [[00:03:16](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=196.72s)]
+*  Senate and he joins me now. Congressman good to see you this evening. Thank you for being with us. I want [[00:03:21](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=201.2s)]
+*  to go back to that speech that you made. Here right matters is also the title of of Alexander [[00:03:25](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=205.36s)]
+*  Vindman's book. Vindman of course kicked off the whole impeachment by reporting the phone call to [[00:03:31](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=211.68s)]
+*  Volodymyr Zelensky the extortionate phone call. And he used the term in his testimony because he was [[00:03:36](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=216.24s)]
+*  trying to reassure his father who had come from from Ukraine and earlier from Russia that that's [[00:03:42](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=222.48000000000002s)]
+*  okay dad don't worry about me because I'm here in America where right counts for something. Right [[00:03:48](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=228.08s)]
+*  matters. His whole point was in America they make a distinction between right and wrong. He was [[00:03:53](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=233.20000000000002s)]
+*  saying that that's what our democracy is but what Donald Trump is saying is that's not really true. [[00:03:58](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=238.8s)]
+*  You're absolutely right. I use that because it's such a powerful idea. It's really core to who we [[00:04:06](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=246.32000000000002s)]
+*  are as a country. And you know sadly and you're so right to point this out what has allowed Donald [[00:04:11](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=251.76000000000002s)]
+*  Trump to put our democracy on such fragile ground to tear down and tear out so many of our institutions [[00:04:18](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=258.72s)]
+*  is the willing enablers in the U.S. Congress. The people like Kevin McCarthy who were saying this is [[00:04:25](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=265.76s)]
+*  all about Donald Trump's position in the polls. There's nothing to do with justice. [[00:04:32](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=272.47999999999996s)]
+*  Every time you hear one of the Republican leaders say things like that which they know to be false [[00:04:36](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=276.88s)]
+*  they're basically saying right doesn't matter in this country. What's lawful doesn't matter [[00:04:42](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=282.64s)]
+*  in this country. The only thing that matters is obtaining power and keeping power. You know I think [[00:04:46](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=286.55999999999995s)]
+*  we are where we are because people haven't given meaning to their oath of office. They haven't [[00:04:53](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=293.44s)]
+*  informed that oath with ideas of right and wrong. They're unwilling to accept the basic truth or [[00:04:58](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=298.40000000000003s)]
+*  even that there is something called fact for the Republican leadership. It's just about power. [[00:05:03](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=303.44s)]
+*  You sat on the January 6th committee as well which recommended that Donald Trump and others [[00:05:09](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=309.36s)]
+*  be charged with conspiracy to defraud the United States. That is now what we believe to be in that [[00:05:13](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=313.12s)]
+*  target letter. The idea that that charge may exist. What do you make of that and why is that [[00:05:19](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=319.6s)]
+*  important? What is this conspiracy to defraud the United States about? Well it's about conspiring [[00:05:24](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=324.24s)]
+*  with others to deprive them of their vote to perpetrate a fraud on the country that the person [[00:05:32](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=332.08000000000004s)]
+*  who actually lost the election somehow should be declared the winner. And I was you know very [[00:05:37](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=337.36s)]
+*  interested to see also reporting that they are going after the the video tape in state that the [[00:05:42](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=342.56s)]
+*  state farm arena in Georgia. That will be relevant to prosecutors looking into that phone call of [[00:05:49](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=349.04s)]
+*  Donald Trump where he's badgering the top elections officials to find 11,780 votes that don't exist. [[00:05:55](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=355.04s)]
+*  If the president is involved in trying to defraud voters in Georgia and as George is a swing state, [[00:06:02](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=362.16s)]
+*  defraud voters all over the United States of America, that's obviously a very serious crime. [[00:06:09](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=369.68s)]
+*  And I'm glad that the special counsel is you know moving on these issues. It took them a long time [[00:06:15](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=375.68s)]
+*  at the Justice Department to get started on anybody but those who broke into the Capitol that day. [[00:06:22](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=382.0s)]
+*  But it does seem like the investigation is coming to its conclusion and I have to hope that the [[00:06:27](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=387.36s)]
+*  former president and others will be held responsible. Now one of the things that your committee recommended [[00:06:33](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=393.28000000000003s)]
+*  were charges of aiding and insurrection. Our reporting at the moment does not indicate that [[00:06:38](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=398.48s)]
+*  that's being included. Tell me what your thoughts are on that being left out of these these potential [[00:06:44](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=404.08s)]
+*  charges. Well I think certainly the former president's involvement in inciting that attack [[00:06:49](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=409.59999999999997s)]
+*  on the Capitol, a powerful evidence such as on January 6th when he's told that there's a problem [[00:06:57](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=417.2s)]
+*  with the metal detectors but it's not the usual problem. The problem on January 6th wasn't that [[00:07:02](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=422.96s)]
+*  there were long lines at the metal detectors, it was that there were practically no lines because [[00:07:07](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=427.59999999999997s)]
+*  people wouldn't go through them because they didn't want their weapons taken away. And what [[00:07:12](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=432.88s)]
+*  is Donald Trump's response? Then take down the effing mags. They're not here to hurt him. And [[00:07:17](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=437.52s)]
+*  you know this is powerful evidence of his involvement in the incitement, his knowledge [[00:07:24](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=444.56s)]
+*  that these people are armed in dangers, and the failure to do anything during the attack. [[00:07:30](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=450.0s)]
+*  You know the statute also prevents giving aid and comfort to people who commit instruction. [[00:07:36](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=456.0s)]
+*  So we thought there were there was certainly a strong body of evidence the department should [[00:07:40](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=460.64s)]
+*  consider. But you know having been a federal prosecutor myself, they're going to look for [[00:07:44](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=464.8s)]
+*  what is the most provable strongest case. And he's been very conservative in the charging in [[00:07:50](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=470.4s)]
+*  Mar-a-Lago. I think he'll be conservative in the charging around January 6th if indeed he brings [[00:07:56](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=476.32s)]
+*  charges against the former president. So the the conspiracy part of defrauding the United States [[00:08:01](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=481.91999999999996s)]
+*  government, that's important because that's the that's what the government's role was. [[00:08:06](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=486.64s)]
+*  There's another charge in there, the deprivation of rights under the color of law. It's not [[00:08:11](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=491.12s)]
+*  something that'll be familiar to a lot of people, but this has to do with the idea of actually [[00:08:15](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=495.91999999999996s)]
+*  undermining the vote. Well I think that's right and it could be very much the flip side of the [[00:08:20](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=500.15999999999997s)]
+*  conspiracy to defraud. That is if you deprive a person of their vote, and you could deprive a [[00:08:26](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=506.88s)]
+*  person of their vote by saying their vote shouldn't be counted. The president was obviously [[00:08:34](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=514.08s)]
+*  trying to stop the counting after election day because he knew the absentee ballots would run [[00:08:37](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=517.9200000000001s)]
+*  against him. But also trying to get you know state elections officials to count votes that didn't [[00:08:42](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=522.32s)]
+*  exist also has the effect of undermining the the real votes of the American people. And so it does [[00:08:48](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=528.5600000000001s)]
+*  injure two voters. That could be the the prosecution's theory, or it could be you know the [[00:08:55](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=535.6800000000001s)]
+*  president's actions in threatening the lives of elections officials, depriving them of their right [[00:09:02](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=542.24s)]
+*  to do their jobs as poll workers, as elections officials you know unmolested and without the [[00:09:08](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=548.64s)]
+*  the fear of death. So there are a number of ways I think that the the facts could support such a [[00:09:14](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=554.72s)]
+*  charge, but we will have to wait and see indeed whether there are charges and if this particular [[00:09:21](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=561.36s)]
+*  statute is used. Yeah and again we don't know. We this is some reporting we've got, but we don't [[00:09:26](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=566.96s)]
+*  know until we see that target letter. What's your sense of whether or not these charges as [[00:09:31](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=571.36s)]
+*  they are being discussed right now, these potential charges reflect the gravity of what Donald Trump [[00:09:35](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=575.04s)]
+*  did? You made the point that Jack Smith might be conservative about this because he needs a case [[00:09:39](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=579.76s)]
+*  to actually prove and hopefully one that doesn't drag into 2025. Does it reflect for the for the [[00:09:43](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=583.84s)]
+*  viewer for the American public the gravity of what Donald Trump did? Well I certainly hope that [[00:09:50](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=590.32s)]
+*  whatever charges are brought does reflect the gravity, but I also completely agree with you [[00:09:57](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=597.28s)]
+*  Ali that this is this is the most serious set of potential charges. Mar-a-Lago is very serious. It [[00:10:02](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=602.56s)]
+*  threatened the nation's security. The charges in New York are also serious. Committing multiple [[00:10:09](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=609.6s)]
+*  acts of business fraud is no laughing matter, but here you're talking about charges going to the [[00:10:16](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=616.16s)]
+*  heart of our democracy. Charges involving the first effort to essentially prevent the peaceful [[00:10:22](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=622.08s)]
+*  transfer power in our history. So any charges regarding January 6th I think by definition are [[00:10:28](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=628.1600000000001s)]
+*  going to be the most serious charges against Donald Trump. All right, well good to see you. [[00:10:34](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=634.4000000000001s)]
+*  Thanks again for being with us tonight. The congressman Adam Schiff of California. [[00:10:38](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=638.88s)]
+*  Thank you. [[00:10:52](https://www.youtube.com/watch?v=Q-gmoTjpQ5I&t=652.08s)]

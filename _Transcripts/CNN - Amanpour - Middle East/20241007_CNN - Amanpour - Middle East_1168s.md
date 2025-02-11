@@ -1,0 +1,182 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 1168s
+Video Keywords: ['interview', 'CNN', 'PBS', 'Christiane Amanpour', 'world news', 'news anchor', 'news show', 'news', 'public affairs', 'late-night TV', 'journalist', 'Chief International Correspondent', 'Gaza', 'Israel', 'Hamas']
+Video Views: 29160
+Video Rating: None
+Video Description: The day after the October 7th attack, Israel launched its counteroffensive on Hamas in Gaza. The Israeli government claims it has killed thousands of militants and severely degraded the terror group's command structure. But after a year of war, airstrikes, tank fire, artillery and guns, more than 40,000 Gazans also are dead — including thousands of women and noncombatants and at least 16,000 children, according to the authorities there. Also among the dead are more than 100 journalists — the world's only eyes and ears since the banning of the foreign press. Youmna ElSayed, an Al Jazeera correspondent, joined this program last year from Gaza to describe the reality of working there. Since that interview, Youmna has fled Gaza with her family. Ten months on, she joins the show to discuss how hard it was to leave, and the stories she could not bring herself to tell at the time.
+
+Originally aired on October 7, 2024
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Major support for Amanpour and Company is provided by Jim Attwood and Leslie Williams, Candace King Weir, the Sylvia A. and Simon B. Poyta Programming Endowment to Fight Antisemitism, the Leila and Mickey Straus Family Charitable Trust, Mark J. Blechner, the Filomen M. D’Agostino Foundation, Seton J. Melvin, the Peter G. Peterson and Joan Ganz Cooney Fund, Charles Rosenblum, Koo and Patricia Yuen, Barbara Hope Zuckerberg, and Jeffrey Katz and Beth Rogers.
+
+Subscribe to the Amanpour and Company. channel here: https://bit.ly/2EMIkTJ
+
+Subscribe to our daily newsletter to find out who's on each night: http://www.pbs.org/wnet/amanpour-and-company/newsletter/
+
+For more from Amanpour and Company, including full episodes, click here:  https://to.pbs.org/2NBFpjf
+
+Like Amanpour and Company on Facebook: https://bit.ly/2HNx3EF
+
+Follow Amanpour and Company on Twitter: https://bit.ly/2HLpjTI
+
+Follow Amanpour and Company on Instagram: https://bit.ly/3SaTUhk
+
+Watch Amanpour and Company weekdays on PBS (check local listings).
+
+Amanpour and Company features wide-ranging, in-depth conversations with global thought leaders and cultural influencers on the issues and trends impacting the world each day, from politics, business and technology to arts, science and sports. Christiane Amanpour leads the conversation on global and domestic news from London with contributions by prominent journalists Walter Isaacson, Michel Martin, Alicia Menendez and Hari Sreenivasan from the Tisch WNET Studios at Lincoln Center in New York City.
+
+#amanpourpbs
+---
+
+# Palestinian Journalist on Gaza: “There Are Situations Your Heart Can’t Take” | Amanpour and Company
+**CNN - Amanpour - Middle East:** [October 07, 2024](https://www.youtube.com/watch?v=V88P8VG97tw)
+*  The day after October 7th, Israel launched its counteroffensive on Hamas in Gaza. [[00:00:00](https://www.youtube.com/watch?v=V88P8VG97tw&t=0.0s)]
+*  The government says it has killed thousands of militants and severely disrupted and degraded the terror group's command structure. [[00:00:05](https://www.youtube.com/watch?v=V88P8VG97tw&t=5.6000000000000005s)]
+*  But in a year of war with airstrikes, tank fire, artillery and guns, they have killed more than 40,000 Gazans, [[00:00:12](https://www.youtube.com/watch?v=V88P8VG97tw&t=12.8s)]
+*  with thousands of women and at least 16,000 children among the dead, according to authorities there. [[00:00:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=20.400000000000002s)]
+*  More than 100 journalists have been killed, the world's only eyes and ears since the foreign press is banned. [[00:00:26](https://www.youtube.com/watch?v=V88P8VG97tw&t=26.4s)]
+*  Yumna El-Sayed, an Al Jazeera correspondent, also came on this program last year from Gaza to tell us the reality of trying to work there. [[00:00:33](https://www.youtube.com/watch?v=V88P8VG97tw&t=33.199999999999996s)]
+*  I consider that my story is not important. The important thing that I do is to report about others because this is my duty, this is my turn in life. [[00:00:44](https://www.youtube.com/watch?v=V88P8VG97tw&t=44.4s)]
+*  But at the same time, people don't really know that I'm living all the same struggles, the same challenges, the same pain, the same worry, the same fear. [[00:00:55](https://www.youtube.com/watch?v=V88P8VG97tw&t=55.2s)]
+*  Now since that interview with Michelle, Yumna has fled Gaza with her family. [[00:01:10](https://www.youtube.com/watch?v=V88P8VG97tw&t=70.0s)]
+*  Ten months on, she joins Hari Srinivasan now to discuss how hard it was to leave and the stories she didn't then have the strength to tell. [[00:01:14](https://www.youtube.com/watch?v=V88P8VG97tw&t=74.80000000000001s)]
+*  Christiane, thanks. Yumna El-Sayed, thanks so much for joining us again. Last time you were on the program, it was about ten months ago. [[00:01:24](https://www.youtube.com/watch?v=V88P8VG97tw&t=84.39999999999999s)]
+*  You were in Gaza, you were basically in a live truck and that's where we were able to catch up with you. [[00:01:30](https://www.youtube.com/watch?v=V88P8VG97tw&t=90.39999999999999s)]
+*  Now you have left the area, you're living in Egypt. Why did you leave and what is life like now? [[00:01:36](https://www.youtube.com/watch?v=V88P8VG97tw&t=96.39999999999999s)]
+*  Thank you for having me on your show, Hari. It was one of the most difficult decisions I've made to leave Gaza. [[00:01:43](https://www.youtube.com/watch?v=V88P8VG97tw&t=103.6s)]
+*  And I think that when I took this decision, it was the only choice that I had in order to save the lives of my children. [[00:01:53](https://www.youtube.com/watch?v=V88P8VG97tw&t=113.2s)]
+*  I was forced to leave because I was left with no other choice to protect their lives. [[00:02:01](https://www.youtube.com/watch?v=V88P8VG97tw&t=121.60000000000001s)]
+*  I was threatened more than once. I was displaced over six times and life was getting incredibly more and more challenging every single day. [[00:02:08](https://www.youtube.com/watch?v=V88P8VG97tw&t=128.8s)]
+*  It's not about the field, it's not about my work as a journalist only, but it was my most concern. [[00:02:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=140.8s)]
+*  My greatest fears were always that my children at home are not safe and I could lose them in any airstrike. [[00:02:27](https://www.youtube.com/watch?v=V88P8VG97tw&t=147.20000000000002s)]
+*  Life after coming out of Gaza hasn't been easy at all. [[00:02:35](https://www.youtube.com/watch?v=V88P8VG97tw&t=155.20000000000002s)]
+*  I have been struggling with the survival guilt that was eating me since I left at the end of December. [[00:02:41](https://www.youtube.com/watch?v=V88P8VG97tw&t=161.20000000000002s)]
+*  And it has impacted me a lot physically and emotionally, mentally. [[00:02:49](https://www.youtube.com/watch?v=V88P8VG97tw&t=169.36s)]
+*  And I found that the only way that I can actually overcome that survival guilt that was completely taking control of me and my life was that I go around the world and speak about Gaza. [[00:02:58](https://www.youtube.com/watch?v=V88P8VG97tw&t=178.0s)]
+*  Because I felt that the world wasn't listening enough to what we had to say and show them from inside Gaza. [[00:03:17](https://www.youtube.com/watch?v=V88P8VG97tw&t=197.20000000000002s)]
+*  And I thought that this is how I can still contribute to Gaza without feeling that I have abandoned it and left. [[00:03:24](https://www.youtube.com/watch?v=V88P8VG97tw&t=204.56s)]
+*  Why do you think that there is still this gap in the number of people who hear about or understand what's happening in Gaza? [[00:03:33](https://www.youtube.com/watch?v=V88P8VG97tw&t=213.36s)]
+*  Because of the underreporting by Western and international journalists towards what's happening in Gaza. [[00:03:42](https://www.youtube.com/watch?v=V88P8VG97tw&t=222.0s)]
+*  I believe that very honestly. [[00:03:52](https://www.youtube.com/watch?v=V88P8VG97tw&t=232.32000000000002s)]
+*  And this reality might seem very harsh on some people or they might be really upset with me saying that, but it's the truth. [[00:03:55](https://www.youtube.com/watch?v=V88P8VG97tw&t=235.12s)]
+*  Because for a nation on the other side of the world to start searching about what is happening in Gaza, that's not going to happen if they did not hear about it day and night from their own journalists on the ground. [[00:04:04](https://www.youtube.com/watch?v=V88P8VG97tw&t=244.72s)]
+*  If they did not report about such a brutal war that we have been going through for an entire year now. [[00:04:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=260.96000000000004s)]
+*  Reporting it with its brutality, with how vicious it is, with all the crimes that are being committed against the Palestinians in Gaza. [[00:04:30](https://www.youtube.com/watch?v=V88P8VG97tw&t=270.72s)]
+*  People are hearing about it now because they've started following other Palestinian journalists from Gaza. [[00:04:42](https://www.youtube.com/watch?v=V88P8VG97tw&t=282.0s)]
+*  And watching social media platforms where the residents themselves are documenting these war crimes that they are subjected to. [[00:04:48](https://www.youtube.com/watch?v=V88P8VG97tw&t=288.88s)]
+*  But it has taken them a very long time. [[00:04:57](https://www.youtube.com/watch?v=V88P8VG97tw&t=297.03999999999996s)]
+*  You have in your reporting talked quite a bit about just what it's like not just being a reporter, but also being a mom. [[00:05:00](https://www.youtube.com/watch?v=V88P8VG97tw&t=300.64s)]
+*  And one of the stories, if you don't mind asking, is there's a child with a blue backpack outside a hospital after the attack in Khan Yunis. [[00:05:08](https://www.youtube.com/watch?v=V88P8VG97tw&t=308.32s)]
+*  Can you tell our audience about that? [[00:05:18](https://www.youtube.com/watch?v=V88P8VG97tw&t=318.08s)]
+*  Yes, and unfortunately, this is one of the stories that I wasn't brave enough to document. [[00:05:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=320.32000000000005s)]
+*  Because I wasn't able to be a journalist at that time. [[00:05:27](https://www.youtube.com/watch?v=V88P8VG97tw&t=327.44s)]
+*  Because the atrociousness of the scene that I saw as a human being and as a mother was unbearable. [[00:05:31](https://www.youtube.com/watch?v=V88P8VG97tw&t=331.04s)]
+*  I was at Nasser Hospital Medical Complex in Khan Yunis. [[00:05:43](https://www.youtube.com/watch?v=V88P8VG97tw&t=343.76s)]
+*  And a strike on a residential or a number of residential homes happened. [[00:05:48](https://www.youtube.com/watch?v=V88P8VG97tw&t=348.56s)]
+*  We ran to the entrance of the hospital, everyone, all the journalists, as we watched the ambulances rush into the entrance. [[00:05:56](https://www.youtube.com/watch?v=V88P8VG97tw&t=356.24s)]
+*  And doctors and paramedics come out quickly to take the casualties inside. [[00:06:07](https://www.youtube.com/watch?v=V88P8VG97tw&t=367.44s)]
+*  And in one of those ambulances, a boy, not more than 12 years old, 11 to 12 years old, [[00:06:13](https://www.youtube.com/watch?v=V88P8VG97tw&t=373.52000000000004s)]
+*  steps out of that ambulance carrying a blue backpack on his chest here. [[00:06:24](https://www.youtube.com/watch?v=V88P8VG97tw&t=384.8s)]
+*  He seems like he's been pulled out of the rubble with all the bruises and dust on his face and hair. [[00:06:33](https://www.youtube.com/watch?v=V88P8VG97tw&t=393.04s)]
+*  But that blue backpack on his chest was very strange to me. [[00:06:39](https://www.youtube.com/watch?v=V88P8VG97tw&t=399.2s)]
+*  And he comes to me, steps down from that ambulance very quietly. [[00:06:47](https://www.youtube.com/watch?v=V88P8VG97tw&t=407.76s)]
+*  And he asks me, do you know what's in my backpack? [[00:06:55](https://www.youtube.com/watch?v=V88P8VG97tw&t=415.12s)]
+*  And before I can answer, I see blood under the backpack, just like that stains of blood. [[00:07:01](https://www.youtube.com/watch?v=V88P8VG97tw&t=421.52s)]
+*  And I just know, I know inside what I'm expecting to see. [[00:07:16](https://www.youtube.com/watch?v=V88P8VG97tw&t=436.24s)]
+*  I know what he's trying to tell me. [[00:07:24](https://www.youtube.com/watch?v=V88P8VG97tw&t=444.4s)]
+*  I know what he's carrying, but maybe I didn't expect it to be that bad that he would tell me [[00:07:26](https://www.youtube.com/watch?v=V88P8VG97tw&t=446.32s)]
+*  that it's his little brother, Ahmad, and he's five years old. [[00:07:36](https://www.youtube.com/watch?v=V88P8VG97tw&t=456.71999999999997s)]
+*  And I didn't have the courage to film that, to document that, [[00:07:45](https://www.youtube.com/watch?v=V88P8VG97tw&t=465.52s)]
+*  because I felt that this is a situation that regardless of being a reporter, [[00:07:50](https://www.youtube.com/watch?v=V88P8VG97tw&t=470.96000000000004s)]
+*  regardless of being a war reporter, of seeing injuries and kill people and seeing people stuck [[00:07:59](https://www.youtube.com/watch?v=V88P8VG97tw&t=479.92s)]
+*  under the rubble while they try to bring them out, there are situations that you can't, [[00:08:05](https://www.youtube.com/watch?v=V88P8VG97tw&t=485.68s)]
+*  your heart can't take as a human being. And this was one of the situations. [[00:08:12](https://www.youtube.com/watch?v=V88P8VG97tw&t=492.96000000000004s)]
+*  And I felt for quite some time guilty that I was not brave enough to document it, not [[00:08:18](https://www.youtube.com/watch?v=V88P8VG97tw&t=498.48s)]
+*  for the fact of documenting it, because I wanted to be the strongest story or anything. [[00:08:29](https://www.youtube.com/watch?v=V88P8VG97tw&t=509.6s)]
+*  And I let him down, because I did not react quickly and document it. [[00:08:39](https://www.youtube.com/watch?v=V88P8VG97tw&t=519.12s)]
+*  And that's, I blamed myself for days. [[00:08:48](https://www.youtube.com/watch?v=V88P8VG97tw&t=528.16s)]
+*  And this has been 10 months ago and I can't get over it and I will never get over it. [[00:08:54](https://www.youtube.com/watch?v=V88P8VG97tw&t=534.16s)]
+*  The day I saw on the TV screen a father carrying two plastic bags with his boy and girl [[00:09:05](https://www.youtube.com/watch?v=V88P8VG97tw&t=545.1999999999999s)]
+*  in both his hands and screaming and saying, these are my children. Look at my children. [[00:09:14](https://www.youtube.com/watch?v=V88P8VG97tw&t=554.88s)]
+*  And they are pieces. I thought to myself, there was a more courageous journalist than me [[00:09:23](https://www.youtube.com/watch?v=V88P8VG97tw&t=563.28s)]
+*  that was able to capture that. And now this must end this genocide. [[00:09:34](https://www.youtube.com/watch?v=V88P8VG97tw&t=574.08s)]
+*  Nobody can bear that. No leader, no politician, no one in the world can bear this scene [[00:09:42](https://www.youtube.com/watch?v=V88P8VG97tw&t=582.1600000000001s)]
+*  of children cut into pieces, blown up into pieces like that. But nothing changed. Nothing happened. [[00:09:53](https://www.youtube.com/watch?v=V88P8VG97tw&t=593.44s)]
+*  It did not stop. That day when nothing happened, when I saw that on TV, I stopped blaming myself [[00:10:03](https://www.youtube.com/watch?v=V88P8VG97tw&t=603.0400000000001s)]
+*  for not being courageous enough to document it. I actually thanked myself that I still had [[00:10:10](https://www.youtube.com/watch?v=V88P8VG97tw&t=610.0s)]
+*  some humanity in me, that I wasn't able to document such a vicious crime. [[00:10:19](https://www.youtube.com/watch?v=V88P8VG97tw&t=619.12s)]
+*  Last month, the offices in the West Bank were raided by Israeli forces. And the Israeli reasoning [[00:10:28](https://www.youtube.com/watch?v=V88P8VG97tw&t=628.56s)]
+*  was that the newsroom was quote, being used to incite terror, to support terrorist activities, [[00:10:36](https://www.youtube.com/watch?v=V88P8VG97tw&t=636.96s)]
+*  and that the channels broadcast in danger, security, and public order. [[00:10:43](https://www.youtube.com/watch?v=V88P8VG97tw&t=643.44s)]
+*  What's your response to that and the colleagues that you had working there? [[00:10:48](https://www.youtube.com/watch?v=V88P8VG97tw&t=648.72s)]
+*  First of all, Israel has always for years, it's not just now, it's not new. It has for years accused [[00:10:53](https://www.youtube.com/watch?v=V88P8VG97tw&t=653.76s)]
+*  Al Jazeera with these accusations. It has for years accused Al Jazeera to be a propaganda for Hamas [[00:11:00](https://www.youtube.com/watch?v=V88P8VG97tw&t=660.1600000000001s)]
+*  and all these other terms and definitions that it has used towards Al Jazeera. [[00:11:05](https://www.youtube.com/watch?v=V88P8VG97tw&t=665.84s)]
+*  But in real life, it has never presented one solid evidence for any of these accusations. [[00:11:11](https://www.youtube.com/watch?v=V88P8VG97tw&t=671.2800000000001s)]
+*  In 2021, the Israeli army leveled Al Jazeera bureau, saying also other allegations that the [[00:11:18](https://www.youtube.com/watch?v=V88P8VG97tw&t=678.24s)]
+*  building was used for Hamas activities and so on without one solid proof or evidence presented. [[00:11:28](https://www.youtube.com/watch?v=V88P8VG97tw&t=688.56s)]
+*  We are used to these allegations and accusations by the Israeli army. [[00:11:36](https://www.youtube.com/watch?v=V88P8VG97tw&t=696.56s)]
+*  The only problem with the Israeli army really is that Al Jazeera is completely, is presenting [[00:11:41](https://www.youtube.com/watch?v=V88P8VG97tw&t=701.52s)]
+*  the full spectrum of the story. When Al Jazeera is reporting about what is happening in the [[00:11:49](https://www.youtube.com/watch?v=V88P8VG97tw&t=709.76s)]
+*  Israeli side, when its reporters are reporting about families of Israeli captives in Israel, [[00:11:56](https://www.youtube.com/watch?v=V88P8VG97tw&t=716.08s)]
+*  or about the Palestinian attacks in Israeli towns, or the actual amount of these attacks, [[00:12:06](https://www.youtube.com/watch?v=V88P8VG97tw&t=726.0s)]
+*  or how it's impacting the Israeli civilians, then there is no problem with Al Jazeera and what it's [[00:12:12](https://www.youtube.com/watch?v=V88P8VG97tw&t=732.1600000000001s)]
+*  doing. It's doing a good job, but when it's showing the same facts and reality that are happening to [[00:12:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=740.48s)]
+*  the Palestinian population, whether in the Gaza Strip or in the West Bank, the confiscation of [[00:12:26](https://www.youtube.com/watch?v=V88P8VG97tw&t=746.32s)]
+*  lands, the terror of the Israeli settlers, the ongoing violations and aggressions against the [[00:12:32](https://www.youtube.com/watch?v=V88P8VG97tw&t=752.72s)]
+*  Palestinian residents, then it's inciting terror. The IDF repeatedly says that they do not deliberately [[00:12:41](https://www.youtube.com/watch?v=V88P8VG97tw&t=761.0400000000001s)]
+*  target journalists. It also told agencies shortly after the war started that it could not guarantee [[00:12:49](https://www.youtube.com/watch?v=V88P8VG97tw&t=769.76s)]
+*  the safety of journalists. At the same time, we've got the Committee to Protect Journalists say [[00:12:56](https://www.youtube.com/watch?v=V88P8VG97tw&t=776.96s)]
+*  at least 127 journalists have been killed and media workers have been killed over the past year, [[00:13:02](https://www.youtube.com/watch?v=V88P8VG97tw&t=782.24s)]
+*  including some colleagues of yours like Samir Abu-Dakka and Al Jazeera, video journalists. [[00:13:08](https://www.youtube.com/watch?v=V88P8VG97tw&t=788.3199999999999s)]
+*  First of all, when the Israeli army says that it's not deliberately targeting journalists, [[00:13:14](https://www.youtube.com/watch?v=V88P8VG97tw&t=794.64s)]
+*  we hear this all the time. While in every single escalation, military escalation or war, [[00:13:21](https://www.youtube.com/watch?v=V88P8VG97tw&t=801.12s)]
+*  the first thing that is targeted are the media offices, the journalism media offices [[00:13:27](https://www.youtube.com/watch?v=V88P8VG97tw&t=807.36s)]
+*  in the Gaza Strip. So I don't know how this is not a deliberate targeting to the media bodies in [[00:13:34](https://www.youtube.com/watch?v=V88P8VG97tw&t=814.08s)]
+*  Gaza. Second of all, there are dozens of Palestinian journalists that were killed in direct attack [[00:13:42](https://www.youtube.com/watch?v=V88P8VG97tw&t=822.08s)]
+*  while they are labeled with their press gear. And not just in this, I'm not just talking about this [[00:13:51](https://www.youtube.com/watch?v=V88P8VG97tw&t=831.2s)]
+*  war, I'm talking about numerous other wars and escalations. And it was not just about [[00:13:57](https://www.youtube.com/watch?v=V88P8VG97tw&t=837.6800000000001s)]
+*  targeting an entire area and its collateral damage. Samir Abu-Dakka, our cameraman, Al Jazeera [[00:14:03](https://www.youtube.com/watch?v=V88P8VG97tw&t=843.84s)]
+*  Arabic cameraman, he was hit, he was hit in an Israeli airstrike while they were covering an [[00:14:14](https://www.youtube.com/watch?v=V88P8VG97tw&t=854.8s)]
+*  Israeli raid on a school. And he was left to bleed for six hours while we are requesting an [[00:14:23](https://www.youtube.com/watch?v=V88P8VG97tw&t=863.36s)]
+*  ambulance to enter and get him to save his life. And the Israeli army continued to say no. And they [[00:14:33](https://www.youtube.com/watch?v=V88P8VG97tw&t=873.52s)]
+*  know that he's inside there, he is injured and he is bleeding. They let him bleed to death. And you [[00:14:42](https://www.youtube.com/watch?v=V88P8VG97tw&t=882.88s)]
+*  told me that is not a deliberate targeting. We're having this conversation. It's being broadcast [[00:14:50](https://www.youtube.com/watch?v=V88P8VG97tw&t=890.48s)]
+*  a year after the October 7th attacks when Hamas launched the attack to kill 1200 people in Israel [[00:14:55](https://www.youtube.com/watch?v=V88P8VG97tw&t=895.9200000000001s)]
+*  and sparked this current war. And I wonder what you now thinking about what you've lived through [[00:15:03](https://www.youtube.com/watch?v=V88P8VG97tw&t=903.76s)]
+*  for this past year, what do you reflect upon during this anniversary? Well, our life before [[00:15:10](https://www.youtube.com/watch?v=V88P8VG97tw&t=910.88s)]
+*  the 7th of October as Palestinians living in Gaza wasn't a normal life anyway. It wasn't easy. It [[00:15:19](https://www.youtube.com/watch?v=V88P8VG97tw&t=919.52s)]
+*  wasn't simple. We were deprived of the basic legitimate rights of any human being in the world. [[00:15:27](https://www.youtube.com/watch?v=V88P8VG97tw&t=927.1999999999999s)]
+*  We had no opportunities to travel, to plan a simple vacation like any family in the world, [[00:15:36](https://www.youtube.com/watch?v=V88P8VG97tw&t=936.64s)]
+*  even if we had the financial means. If someone got sick, we weren't sure if we could be able [[00:15:44](https://www.youtube.com/watch?v=V88P8VG97tw&t=944.32s)]
+*  to take this person to treatment, life-saving treatment somewhere else or he would die in Gaza. [[00:15:53](https://www.youtube.com/watch?v=V88P8VG97tw&t=953.44s)]
+*  The October 7th attack happened because of all this pressure that the Palestinians have been living [[00:16:01](https://www.youtube.com/watch?v=V88P8VG97tw&t=961.36s)]
+*  within. You have placed the responsibility on Western nations enabling this to continue. [[00:16:11](https://www.youtube.com/watch?v=V88P8VG97tw&t=971.92s)]
+*  And there's a recent quote from President Biden who said that Israel has the right to defend itself [[00:16:21](https://www.youtube.com/watch?v=V88P8VG97tw&t=981.4399999999999s)]
+*  against Hamas and Israeli leaders want the hostages being held now for more than a year, [[00:16:27](https://www.youtube.com/watch?v=V88P8VG97tw&t=987.76s)]
+*  returned. What do you say to that? First of all, I place the responsibility and accountability [[00:16:34](https://www.youtube.com/watch?v=V88P8VG97tw&t=994.32s)]
+*  on Western governments and not nations, not the people, but the governments and lawmakers. [[00:16:42](https://www.youtube.com/watch?v=V88P8VG97tw&t=1002.0s)]
+*  Second of all, well, I think this just shows again the complete double standards because what about [[00:16:47](https://www.youtube.com/watch?v=V88P8VG97tw&t=1007.6800000000001s)]
+*  all the Palestinian hostages that have been taken in Israel? Israel is the only place in the world [[00:16:57](https://www.youtube.com/watch?v=V88P8VG97tw&t=1017.36s)]
+*  that has military courts for children. Where was President Biden when that was happening? [[00:17:05](https://www.youtube.com/watch?v=V88P8VG97tw&t=1025.76s)]
+*  What did he say about the Palestinian prisoners? Right now you are living in Egypt and are you [[00:17:12](https://www.youtube.com/watch?v=V88P8VG97tw&t=1032.88s)]
+*  able to work there? What is life there like for you now? I left Gaza, evacuated to Egypt like all [[00:17:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=1040.08s)]
+*  other Palestinians. I am a Palestinian Egyptian already, so it is likely more easier for me [[00:17:28](https://www.youtube.com/watch?v=V88P8VG97tw&t=1048.8799999999999s)]
+*  to live in Egypt than to live in Egypt. I am not a Palestinian as someone with an Egyptian passport, [[00:17:41](https://www.youtube.com/watch?v=V88P8VG97tw&t=1061.12s)]
+*  but the reality of Palestinians in Egypt is completely difficult because they are living [[00:17:46](https://www.youtube.com/watch?v=V88P8VG97tw&t=1066.3999999999999s)]
+*  in exile. Because the Palestinians in Egypt, how they got to Egypt, they had to pay to save their [[00:17:56](https://www.youtube.com/watch?v=V88P8VG97tw&t=1076.8799999999999s)]
+*  lives to evacuate to Egypt. Now they live on their own expenses. They are not allowed to work. [[00:18:05](https://www.youtube.com/watch?v=V88P8VG97tw&t=1085.92s)]
+*  Their children are not allowed to go to school and they are not allowed to travel [[00:18:13](https://www.youtube.com/watch?v=V88P8VG97tw&t=1093.44s)]
+*  because they have no residency in Egypt. So all our children in Gaza lost an entire educational [[00:18:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=1100.8000000000002s)]
+*  year last year because of the war. This year they have no opportunities to go to school [[00:18:29](https://www.youtube.com/watch?v=V88P8VG97tw&t=1109.36s)]
+*  because in Egypt they cannot go to school because they have no residency. Even the people who have [[00:18:37](https://www.youtube.com/watch?v=V88P8VG97tw&t=1117.04s)]
+*  spent whatever they came out with, whatever was left with them from their financial resources, [[00:18:43](https://www.youtube.com/watch?v=V88P8VG97tw&t=1123.76s)]
+*  now have spent them and have no other options. They do not know what to do, [[00:18:51](https://www.youtube.com/watch?v=V88P8VG97tw&t=1131.6000000000001s)]
+*  but they completely continue to live in this unknown situation. [[00:19:00](https://www.youtube.com/watch?v=V88P8VG97tw&t=1140.96s)]
+*  Al Jazeera correspondent and journalist, Iyumna Al-Sayed, thanks so much for joining us. [[00:19:07](https://www.youtube.com/watch?v=V88P8VG97tw&t=1147.44s)]
+*  Thank you, Herry. [[00:19:12](https://www.youtube.com/watch?v=V88P8VG97tw&t=1152.4s)]
+*  you [[00:19:20](https://www.youtube.com/watch?v=V88P8VG97tw&t=1160.88s)]

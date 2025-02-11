@@ -1,0 +1,138 @@
+---
+Date Generated: February 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 410s
+Video Keywords: ['Palestine', 'War', 'Israel', 'Gaza Strip', 'Middle East', 'Face The Nation', 'World']
+Video Views: 8220
+Video Rating: None
+Video Description: Hundreds of Americans have been able to leave Gaza in recent days after "intensive negotiations,"Jon Finer, a top national security adviser to President Biden, tells "Face the Nation." "We believe that there are still a number of Americans inside Gaza," Finer added.
+
+#news #israel #gaza 
+
+"Face the Nation" is America's premier Sunday morning public affairs program. The broadcast is one of the longest-running news programs in the history of television, having debuted Nov. 7, 1954, on CBS. Every Sunday, "Face the Nation" moderator and CBS News senior foreign affairs correspondent Margaret Brennan welcomes leaders, newsmakers, and experts to a lively round table discussion of current events and the latest news.
+
+Subscribe to the "Face the Nation" YouTube channel: https://youtube.com/facethenation/​
+Watch full episodes of "Face the Nation": https://www.cbsnews.com/face-the-nation/full-episodes/
+Follow "Face the Nation" on Instagram: https://instagram.com/facethenation/
+Like "Face the Nation" on Facebook: https://facebook.com/FaceTheNation
+Follow "Face the Nation" on Twitter: https://twitter.com/FaceTheNation
+Subscribe to our newsletter: https://cbsnews.com/newsletter/
+Download the CBS News app: https://cbsnews.com/mobile/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# More than 300 Americans have left Gaza in recent days, White House official says
+**CBS - Face the Nation - World News:** [November 05, 2023](https://www.youtube.com/watch?v=hVFR0mcw4L8)
+*  We go now to White House Principal Deputy National Security Advisor John Finer. [[00:00:00](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=0.0s)]
+*  Good morning to you. [[00:00:04](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=4.8s)]
+*  Good morning, Margaret. [[00:00:05](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=5.8s)]
+*  So the U.S. has been trying to get roughly 400 U.S. citizens out of Gaza. [[00:00:08](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=8.120000000000001s)]
+*  I understand some have made it out. [[00:00:12](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=12.32s)]
+*  Are all of the Americans out? [[00:00:14](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=14.72s)]
+*  And were there any casualties? [[00:00:16](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=16.54s)]
+*  Margaret, we believe that there are still a number of Americans inside Gaza, but that [[00:00:18](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=18.6s)]
+*  over the last several days, through pretty intensive negotiations with all sides relevant [[00:00:23](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=23.48s)]
+*  to this conflict, we have been able to get out more than 300 Americans, lawful permanent [[00:00:29](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=29.64s)]
+*  residents and their family members. [[00:00:35](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=35.08s)]
+*  This is obviously a major priority and one that we are going to continue to work at until [[00:00:37](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=37.24s)]
+*  every American who wants to leave is able to do so. [[00:00:40](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=40.72s)]
+*  And where do we stand with the negotiations to get hostages freed by Hamas? [[00:00:43](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=43.84s)]
+*  Those negotiations are going on quietly behind the scenes. [[00:00:48](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=48.379999999999995s)]
+*  They have taken longer than any of us would like, but we continue to believe that there [[00:00:51](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=51.480000000000004s)]
+*  is the possibility of getting a significant number of these hostages released. [[00:00:56](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=56.080000000000005s)]
+*  And you've heard both President Biden and the Prime Minister of Israel say that there [[00:00:59](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=59.68000000000001s)]
+*  could be a pause in the fighting to enable that the way there was when two American hostages [[00:01:03](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=63.68000000000001s)]
+*  were released very early in the conflict. [[00:01:08](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=68.2s)]
+*  And we're going to continue to work on that as well. [[00:01:10](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=70.12s)]
+*  Has the Israeli government agreed to pause for a hostage release? [[00:01:12](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=72.32000000000001s)]
+*  You heard the Prime Minister of Israel say yesterday that the context in which they would [[00:01:15](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=75.52000000000001s)]
+*  consider a pause would be related to a hostage agreement. [[00:01:19](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=79.36s)]
+*  We don't obviously have yet a hostage agreement, but again, we are working very hard to get [[00:01:22](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=82.48s)]
+*  one. [[00:01:27](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=87.12s)]
+*  And if that were to take place, just being able to move hostages around the battlefield [[00:01:28](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=88.12s)]
+*  in a way that is safe, get them to a gate leading outside of Gaza would take time. [[00:01:31](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=91.36s)]
+*  And we would want to only be able to do that safely. [[00:01:36](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=96.58s)]
+*  So we believe a pause would be appropriate in that context. [[00:01:38](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=98.4s)]
+*  Understood. [[00:01:41](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=101.36s)]
+*  Secretary Blinken has said that what Hamas is doing with using human shields is monstrous. [[00:01:42](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=102.36s)]
+*  But he also said that he shared with the Israeli government steps they could and should take [[00:01:48](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=108.22s)]
+*  to minimize harm to civilians. [[00:01:54](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=114.82s)]
+*  That is the closest I've heard a U.S. official come to saying the administration isn't 100% [[00:01:57](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=117.06s)]
+*  comfortable with what the Israeli military is doing. [[00:02:03](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=123.78s)]
+*  Margaret, I think we've said versions of what you heard from Secretary Blinken a number [[00:02:06](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=126.78s)]
+*  of times, including from the president. [[00:02:11](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=131.6s)]
+*  We've been quite clear that the way that Hamas conducts this fight, launching an appalling [[00:02:14](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=134.86s)]
+*  attack on Israel and then retreating into the Gaza Strip and essentially concealing [[00:02:20](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=140.3s)]
+*  themselves among a densely populated civilian population, is unconscionable. [[00:02:24](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=144.52s)]
+*  At the same time, while that raises the burden on the Israeli military to conduct this fight [[00:02:30](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=150.60000000000002s)]
+*  and go after Hamas, it does not diminish their obligation to do so in a way that distinguishes [[00:02:36](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=156.06s)]
+*  between civilians and fighters. [[00:02:41](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=161.14000000000001s)]
+*  And we have had many direct conversations with the government of Israel on that topic [[00:02:42](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=162.62s)]
+*  and will continue to do that. [[00:02:46](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=166.66s)]
+*  Right. [[00:02:48](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=168.06s)]
+*  But could and should suggest they are not currently. [[00:02:49](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=169.06s)]
+*  The U.S. provides more than $3 billion a year in military aid to Israel. [[00:02:52](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=172.94s)]
+*  Does the U.S. need to set conditions on how that U.S. paid-for weaponry is used? [[00:02:58](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=178.3s)]
+*  We build law of armed conflict assurances any time we transfer security assistance to [[00:03:05](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=185.34s)]
+*  country, including Israel. [[00:03:11](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=191.02s)]
+*  And when we see circumstances, events that concern us, we raise those very directly with [[00:03:12](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=192.54000000000002s)]
+*  the government of Israel. [[00:03:18](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=198.42000000000002s)]
+*  And again, we will continue to do that as this conflict transpires. [[00:03:19](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=199.42000000000002s)]
+*  But, John, you know that your fellow Democrats, I mean, Senator Chris Murphy said he urges [[00:03:22](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=202.34s)]
+*  Israel to reconsider its approach and shift to a more deliberate and proportionate counterterrorism [[00:03:28](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=208.06s)]
+*  campaign. [[00:03:33](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=213.38000000000002s)]
+*  Arab leaders, Arab foreign ministers said yesterday, how can we justify that killing [[00:03:35](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=215.38000000000002s)]
+*  9,000 people is self-defense? [[00:03:40](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=220.5s)]
+*  How close are we to this stopping? [[00:03:43](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=223.5s)]
+*  So what I would say is Israel continues to face an enormous threat from Hamas. [[00:03:46](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=226.62s)]
+*  Obviously, we've seen that threat manifest itself. [[00:03:50](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=230.9s)]
+*  And not only does that threat continue to exist, but you continue to see Hamas say that [[00:03:53](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=233.62s)]
+*  if given the opportunity, they would conduct a version of what they did on October 7th [[00:03:58](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=238.06s)]
+*  again. [[00:04:02](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=242.34s)]
+*  So the threat has not been eliminated. [[00:04:03](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=243.34s)]
+*  As you say, the devastating toll that this has taken on civilians is one that deeply [[00:04:05](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=245.7s)]
+*  concerns us, one that we raise in a very direct way, both publicly, as Secretary Blinken has [[00:04:10](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=250.73999999999998s)]
+*  done, as others have done, and privately and directly with the government of Israel. [[00:04:15](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=255.38s)]
+*  There are certain responsibilities that any army has in the context of waging military [[00:04:19](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=259.86s)]
+*  operation like this. [[00:04:23](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=263.65999999999997s)]
+*  And they're widely known. [[00:04:25](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=265.65999999999997s)]
+*  They're related to international humanitarian law, and we expect them to be followed. [[00:04:27](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=267.21999999999997s)]
+*  John, Secretary Blinken was in Ramallah in the West Bank, as you know, today, meeting [[00:04:31](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=271.58s)]
+*  with Mahmoud Abbas. [[00:04:35](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=275.46s)]
+*  And he was reportedly talking about a future for the Palestinian Authority and some kind [[00:04:37](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=277.62s)]
+*  of role in Gaza. [[00:04:42](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=282.62s)]
+*  How close are we to the end of the war if we're talking about a future government here? [[00:04:45](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=285.02s)]
+*  And is the Palestinian Authority really up to the task? [[00:04:50](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=290.14s)]
+*  So I don't want to speculate about how close we are or are not to the end of the war. [[00:04:53](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=293.29999999999995s)]
+*  What I will say, and President Biden has been very clear about this, is that whenever this [[00:04:57](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=297.70000000000005s)]
+*  conflict is over, we cannot go back to the way things were before October 7th, either [[00:05:01](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=301.34000000000003s)]
+*  in Gaza or in the West Bank. [[00:05:06](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=306.62s)]
+*  We've obviously been very concerned during this conflict, but also well before it, about [[00:05:08](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=308.98s)]
+*  the rise in violent incidents in the West Bank. [[00:05:13](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=313.14000000000004s)]
+*  President Biden has spoken to the role of extremist settlers in that context. [[00:05:15](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=315.90000000000003s)]
+*  That behavior has continued. [[00:05:20](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=320.42s)]
+*  We've expressed that concern directly to the government of Israel. [[00:05:22](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=322.66s)]
+*  We give a lot of credit, frankly, to the Palestinian Authority for the work that it has done to [[00:05:25](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=325.22s)]
+*  prevent the West Bank from spiraling into greater instability, even in the context of [[00:05:29](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=329.02s)]
+*  what's happening in Gaza. [[00:05:34](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=334.1s)]
+*  And in the aftermath of this, the president has said we need to get back to the urgent [[00:05:35](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=335.42s)]
+*  work of working towards a two-state solution that includes both Gaza and the West Bank. [[00:05:39](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=339.34000000000003s)]
+*  I just want to make sure I'm understanding you there. [[00:05:44](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=344.74s)]
+*  There are some ultra-nationalists within the Israeli government who have been very clear [[00:05:46](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=346.9s)]
+*  of their positions, one of them saying he was going to cut some funding to the Palestinian [[00:05:52](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=352.18s)]
+*  Authority because he didn't think their reaction was strong enough to October the 7th. [[00:05:58](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=358.06s)]
+*  Another one was also handing out weapons to settlers in recent days. [[00:06:02](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=362.98s)]
+*  Have you convinced the Netanyahu government to stop that? [[00:06:09](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=369.98s)]
+*  You've heard the president speak to, again, serious concerns about the behavior of extremist [[00:06:14](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=374.62s)]
+*  settlers, violence that has been perpetrated by them in the West Bank that could lead things [[00:06:19](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=379.34000000000003s)]
+*  to spiral out of control. [[00:06:23](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=383.78000000000003s)]
+*  So we obviously don't accept that. [[00:06:25](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=385.66s)]
+*  We raise those concerns very directly and have done so. [[00:06:27](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=387.06s)]
+*  We believe now is not the time to reduce support to the Palestinian Authority, given that they [[00:06:30](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=390.90000000000003s)]
+*  are working in many cases alongside Israeli security forces to try to keep a lid on things [[00:06:34](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=394.74s)]
+*  in the West Bank, and we believe that they should both continue to do so and be supported [[00:06:40](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=400.5s)]
+*  in that endeavor. [[00:06:44](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=404.78000000000003s)]
+*  John Feiner, thank you for your time today. [[00:06:46](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=406.62s)]
+*  Thanks again, Margaret. [[00:06:48](https://www.youtube.com/watch?v=hVFR0mcw4L8&t=408.54s)]

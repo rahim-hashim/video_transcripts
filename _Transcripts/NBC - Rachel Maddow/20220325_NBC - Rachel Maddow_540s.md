@@ -1,0 +1,121 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 540s
+Video Keywords: ['Rachel Maddow', 'ukraine', 'russia', 'kyiv', 'putin', 'msnbc', 'us news', 'news']
+Video Views: 53346
+Video Rating: None
+Video Description: Alexander Prokhorenko, Kyiv resident and restaurant owner, talks about how his life has changed in the month since Russia invaded Ukraine, and his work helping Kyiv's most vulnerable citizens obtain food and medicine as Russian bombardments increase in frequency and proximity.
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#MSNBC #Russia #Ukraine
+---
+
+# Food And Medicine Shortages Add To War's Burden In Kyiv
+**NBC - Rachel Maddow:** [March 25, 2022](https://www.youtube.com/watch?v=BWQVSYVdQ44)
+*  One month ago today, it was the second day of the war in Ukraine and on that day [[00:00:00](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=0.0s)]
+*  Rachel talked to a restaurant owner in the capital city of Kiev named Alexander Prokorenko [[00:00:05](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=5.28s)]
+*  Like most of his compatriots. He was new to war [[00:00:11](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=11.0s)]
+*  He told Rachel that he and some of his neighbors were just learning how to survive [[00:00:13](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=13.64s)]
+*  They found some pool chairs and pillows and transformed an underground parking garage into a bunker while taking turns guarding the doors with these weapons [[00:00:17](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=17.64s)]
+*  Now much has changed since then Alexander is no longer sleeping in the underground garage [[00:00:26](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=26.740000000000002s)]
+*  Most of his neighbors are gone and he doesn't have the guns anymore. He donated them to men on the front lines [[00:00:31](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=31.580000000000002s)]
+*  Alexander didn't leave Kiev because he couldn't leave his parents behind but that has changed too. They left the city a week ago [[00:00:38](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=38.38s)]
+*  He stayed he told us today. I'm not allowed to leave the country and I don't want to be anywhere else [[00:00:45](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=45.34s)]
+*  At peace with his decision to stay in Kiev until the end Alexander decided to be of service [[00:00:51](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=51.66s)]
+*  He started by driving people to train stations so they could escape [[00:00:56](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=56.46s)]
+*  He then worked with other restaurant owners to prepare meals for Ukrainian soldiers [[00:01:00](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=60.1s)]
+*  And then one day suddenly he received a text message from a friend that put him on a new path [[00:01:04](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=64.53999999999999s)]
+*  His friend told Alexander his relatives needed food and medicine [[00:01:10](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=70.86s)]
+*  so Alexander found the supplies and delivered them and this initiated a chain of help and [[00:01:14](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=74.86s)]
+*  Supported by his friends in the restaurant industry and ten volunteers [[00:01:20](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=80.98s)]
+*  Alexander now spends most of his day delivering food to those in need about 50 to 75 bags daily containing eggs [[00:01:24](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=84.7s)]
+*  Butter bread chicken milk, whatever they can find [[00:01:32](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=92.5s)]
+*  He's also picking up medicine for elderly people [[00:01:35](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=95.7s)]
+*  During one of the deliveries he met a Ukrainian grandmother who'd been unable to leave Kiev [[00:01:38](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=98.78s)]
+*  She was so overwhelmed by Alexander's visit that she broke down in tears [[00:01:43](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=103.58000000000001s)]
+*  She said she never expected to live her last days like this [[00:01:49](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=109.42s)]
+*  As Alexander drives from district to district delivering food he's become a witness to war [[00:02:11](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=131.82s)]
+*  He took this video that you're watching on his phone earlier this week that pile of debris is [[00:02:17](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=137.29999999999998s)]
+*  The retroville shopping center in Kiev used to be a vibrant place that was filled with restaurants and shops. They had a fancy McDonald's [[00:02:22](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=142.26s)]
+*  It's all gone all of it. It was hit by a Russian missile on Monday [[00:02:29](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=149.5s)]
+*  According to the key independent at least eight people died in that strike [[00:02:34](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=154.38s)]
+*  The mall was only five miles from Alexander's apartment. So he's very aware that war is moving closer to his own home [[00:02:38](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=158.18s)]
+*  He said that the anticipation feels like a game of roulette [[00:02:44](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=164.29999999999998s)]
+*  Russian roulette and that any day could be his day, but he is ready to fight [[00:02:47](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=167.82s)]
+*  Joining us again is key resident and restaurant owner Alexander Prokhorenko [[00:02:53](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=173.5s)]
+*  Alexander we're very grateful for you joining us tonight. So much has changed in this month so much [[00:02:58](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=178.78s)]
+*  Tell us about what your life is like now compared to a month ago [[00:03:04](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=184.7s)]
+*  Good evening. Well, it's [[00:03:10](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=190.06s)]
+*  The life has changed to anticipation of war getting closer and closer [[00:03:12](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=192.82s)]
+*  to [[00:03:20](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=200.77999999999997s)]
+*  To where where you are, I mean it was it was already in our life [[00:03:21](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=201.89999999999998s)]
+*  But now we can hear the bombing more often. We hear the siren every I would say [[00:03:26](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=206.06s)]
+*  Not every day but in every moment, but every hour [[00:03:34](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=214.57999999999998s)]
+*  So the life has changed totally and [[00:03:39](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=219.06s)]
+*  As I heard before now we're helping out not just [[00:03:43](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=223.45999999999998s)]
+*  People who need food, but people who need medicine and there are a lot of people [[00:03:47](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=227.62s)]
+*  With with [[00:03:56](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=236.22s)]
+*  medicine for thyroid [[00:03:57](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=237.66s)]
+*  That is really in need and [[00:04:00](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=240.42s)]
+*  You cannot find it anywhere in Kiev anywhere in Ukraine [[00:04:03](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=243.86s)]
+*  So my friends from abroad buy out this medicine and send it to me [[00:04:07](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=247.70000000000002s)]
+*  And volunteers also buying this medicine all around [[00:04:13](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=253.38s)]
+*  Kiev region and few of my friends even from different parts of Ukraine also buying out this medicine and sending to me and we are giving away for free [[00:04:17](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=257.98s)]
+*  Because people are really in need of it. So basically life had changed totally from [[00:04:27](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=267.34000000000003s)]
+*  from normal to [[00:04:34](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=274.1s)]
+*  To a nightmare for seeing these people seeing their eyes seeing what they are really going through [[00:04:36](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=276.34000000000003s)]
+*  It's it's a terrible shock for for for for for us and for I would say for any citizen [[00:04:42](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=282.82s)]
+*  Tell me about when you say seeing them and seeing their eyes [[00:04:50](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=290.06s)]
+*  I'm seeing them on the other side when they leave the country when they get off these trains in [[00:04:53](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=293.17999999999995s)]
+*  Whether it was Hungary or or here in Poland and and it's it's women and children [[00:04:57](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=297.58s)]
+*  Generally without men a fighting age because people like you can't leave. What do the eyes look like on your side? [[00:05:02](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=302.7s)]
+*  I think it's it's a terrible shock for us and for I would say for any citizen of the world [[00:05:09](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=309.62s)]
+*  Well, I would say pretty much the same [[00:05:20](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=320.09999999999997s)]
+*  They are scared there they you know, there's two groups of people when you deliver to them food and medicine one one group is [[00:05:23](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=323.85999999999996s)]
+*  Is when you're calling them saying, okay [[00:05:33](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=333.02s)]
+*  I'll go downstairs or I'll meet you in front of my building and the rest is saying [[00:05:35](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=335.7s)]
+*  Please come to this floor or that floor and you you're going up and and you see that they can't move they can't move [[00:05:41](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=341.85999999999996s)]
+*  They you know, while while the the bombing while the siren goes they can't even move to the to the basement [[00:05:48](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=348.66s)]
+*  They don't have that time. They cannot move as as though this grand [[00:05:56](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=356.42s)]
+*  grand [[00:06:01](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=361.62s)]
+*  Mow grand woman was was she barely could move and and though like more than 50% of people [[00:06:03](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=363.62s)]
+*  They just cannot go anywhere. So they're scared. They they don't have [[00:06:11](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=371.06s)]
+*  They don't have much time to [[00:06:16](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=376.85999999999996s)]
+*  To go downstairs. So that's that's that's shocking [[00:06:18](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=378.85999999999996s)]
+*  Because this is nothing. This is something abnormal that you see during these days and those [[00:06:22](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=382.9s)]
+*  grand people [[00:06:31](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=391.82s)]
+*  Needs to have [[00:06:35](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=395.21999999999997s)]
+*  Respect from from from from from I don't know from from the rest of from from all the world from [[00:06:39](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=399.34s)]
+*  They need to be living calm and in in happy life, but not like now this is this is happening right now and this is [[00:06:45](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=405.41999999999996s)]
+*  This shouldn't happen to to to this to this people it's [[00:06:56](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=416.06s)]
+*  and this makes me and the rest of the people who don't want to leave makes them stay because if not us then who would [[00:07:01](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=421.41999999999996s)]
+*  Who would help them if we will leave somewhere and hide then who will be in charge of them and [[00:07:09](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=429.5s)]
+*  this is something that [[00:07:17](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=437.02s)]
+*  That everybody should know that [[00:07:20](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=440.62s)]
+*  You know the war it's been whole months since the Russia attacked [[00:07:23](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=443.34000000000003s)]
+*  Ukraine and Russians bomb by hitting residential building in Kiev and [[00:07:30](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=450.82s)]
+*  The large shopping mall was was was you know surrounding this building that was destroyed [[00:07:36](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=456.3s)]
+*  completely [[00:07:43](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=463.34000000000003s)]
+*  to the ground and [[00:07:45](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=465.34000000000003s)]
+*  You know as the Russian famous opposition journalist Oksana Bolina. She was [[00:07:47](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=467.90000000000003s)]
+*  killed by a Russian military drone and [[00:07:53](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=473.02s)]
+*  while giving a report [[00:07:57](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=477.1s)]
+*  To to the media [[00:08:01](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=481.34000000000003s)]
+*  Media [[00:08:03](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=483.65999999999997s)]
+*  so [[00:08:05](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=485.17999999999995s)]
+*  basically, you know and [[00:08:06](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=486.85999999999996s)]
+*  The overall feeling is quite tense, but we we work every day. We continue helping our people and [[00:08:09](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=489.94s)]
+*  people in need and we continue distributing food and and and medicine and [[00:08:17](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=497.34s)]
+*  We barely could get any sleep. Yeah [[00:08:22](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=502.62s)]
+*  Alexander thank you for this. I hope things have changed differently the next time we speak [[00:08:28](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=508.05999999999995s)]
+*  Alexander Prokhorenko, we appreciate what you're doing. The world does see you and you do have our respect [[00:08:33](https://www.youtube.com/watch?v=BWQVSYVdQ44&t=513.34s)]

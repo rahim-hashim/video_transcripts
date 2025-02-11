@@ -1,0 +1,146 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 316s
+Video Keywords: ['Rachel Maddow']
+Video Views: 93027
+Video Rating: None
+Video Description: As Republicans struggle to get themselves organized to take control of the House, Rachel Maddow reviews the impressive list of accomplishments by the Democratic-led Congress over the past two years.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#Congress #Republicans #Maddow
+---
+
+# 'Profoundly productive' Democratic Congress closes with admirable record
+**NBC - Rachel Maddow:** [January 03, 2023](https://www.youtube.com/watch?v=JSyRuPUJXP4)
+*  This one key bridge connecting Cincinnati, Ohio, [[00:00:00](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=0.0s)]
+*  on the northern side of the Ohio River, [[00:00:04](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=4.44s)]
+*  and the northern nub of Kentucky [[00:00:06](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=6.48s)]
+*  on the southern side of the river, [[00:00:08](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=8.8s)]
+*  that one important bridge has been functionally obsolete [[00:00:10](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=10.120000000000001s)]
+*  for more than two decades. [[00:00:14](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=14.040000000000001s)]
+*  It has supposedly been a national priority [[00:00:15](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=15.48s)]
+*  to fix this thing for more than two decades. [[00:00:17](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=17.400000000000002s)]
+*  Never gets done. [[00:00:20](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=20.28s)]
+*  Except now, apparently it's getting done. [[00:00:22](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=22.76s)]
+*  They're cutting the checks. [[00:00:26](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=26.0s)]
+*  The day after tomorrow, [[00:00:27](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=27.28s)]
+*  there is going to be a political miracle. [[00:00:28](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=28.56s)]
+*  The day after tomorrow, [[00:00:31](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=31.64s)]
+*  President Biden will be at that bridge, [[00:00:32](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=32.480000000000004s)]
+*  Wednesday this week, with two governors, [[00:00:35](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=35.24s)]
+*  Democratic Governor Andy Beshear of Kentucky [[00:00:38](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=38.08s)]
+*  and Republican Governor Mike DeWine of Ohio. [[00:00:40](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=40.16s)]
+*  And he will be there with two senators, [[00:00:43](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=43.0s)]
+*  Republican Senate Leader Mitch McConnell from Kentucky [[00:00:44](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=44.879999999999995s)]
+*  and Democratic Senator Sherrod Brown from Ohio. [[00:00:47](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=47.879999999999995s)]
+*  Republicans and Democrats together, [[00:00:51](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=51.0s)]
+*  cats and dogs living in harmony, [[00:00:53](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=53.24s)]
+*  formally announcing the fact [[00:00:55](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=55.4s)]
+*  that the bipartisan infrastructure bill [[00:00:57](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=57.2s)]
+*  that President Biden got passed this past year [[00:00:59](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=59.6s)]
+*  is finally gonna be the thing [[00:01:02](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=62.88s)]
+*  that fixes that freaking bridge. [[00:01:04](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=64.36s)]
+*  $1.6 billion to fix this thing. [[00:01:06](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=66.36s)]
+*  They're gonna build a second bridge [[00:01:10](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=70.03999999999999s)]
+*  alongside the Brent Spence bridge, [[00:01:11](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=71.75999999999999s)]
+*  and they're gonna repair the original Brent Spence. [[00:01:13](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=73.96000000000001s)]
+*  Groundbreaking is set for later this year. [[00:01:16](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=76.88s)]
+*  They're announcing it this week. [[00:01:18](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=78.68s)]
+*  Finally, decades after everyone agreed [[00:01:20](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=80.36s)]
+*  it needed to be done, [[00:01:23](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=83.96s)]
+*  and it was dangerous to not do it, [[00:01:25](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=85.44s)]
+*  and it was super expensive not to do it, [[00:01:27](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=87.67999999999999s)]
+*  finally, finally, finally, they are going to do it. [[00:01:30](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=90.36s)]
+*  Cincinnati's Mayor, Aftab Purval, [[00:01:35](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=95.36s)]
+*  just put out a statement about it, saying, quote, [[00:01:37](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=97.11999999999999s)]
+*  they got it done when for years others could not. [[00:01:39](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=99.39999999999999s)]
+*  They got it done. [[00:01:45](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=105.24s)]
+*  It's a miracle. [[00:01:47](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=107.67999999999999s)]
+*  In America, this passes for a miracle. [[00:01:48](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=108.8s)]
+*  Or maybe it shouldn't anymore. [[00:01:51](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=111.63999999999999s)]
+*  For all the catawalling about Congress [[00:01:54](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=114.64s)]
+*  not getting anything done and about Congress being broken [[00:01:56](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=116.52s)]
+*  and Washington being broken, blah, blah, blah, [[00:01:59](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=119.16s)]
+*  this last Congress kind of did get a lot done. [[00:02:01](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=121.92s)]
+*  It got that bipartisan infrastructure bill done, right? [[00:02:04](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=124.92s)]
+*  A trillion dollar infrastructure bill. [[00:02:08](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=128.56s)]
+*  $27 billion alone just for fixing bridges, [[00:02:10](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=130.76s)]
+*  like the hugely expensive, totally necessary, [[00:02:14](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=134.56s)]
+*  Brent Spence bridge that everybody's been saying [[00:02:17](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=137.84s)]
+*  they desperately needed to do for decades. [[00:02:20](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=140.4s)]
+*  They're doing it. [[00:02:22](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=142.72s)]
+*  And it wasn't just that, [[00:02:24](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=144.52s)]
+*  they got the Chips and Science Act, right? [[00:02:25](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=145.36s)]
+*  The CHIPS Act, so the US can start making microchips again [[00:02:27](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=147.6s)]
+*  instead of being totally dependent on China for that. [[00:02:30](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=150.20000000000002s)]
+*  Also, burn pits coverage for Iraq and Afghanistan veterans, [[00:02:32](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=152.64000000000001s)]
+*  they finally got that done. [[00:02:36](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=156.04000000000002s)]
+*  That's also taken decades. [[00:02:37](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=157.36s)]
+*  They reauthorized the Violence Against Women Act, [[00:02:39](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=159.04000000000002s)]
+*  that shouldn't be hard, but in recent years it has been. [[00:02:41](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=161.32s)]
+*  They passed the first gun safety reforms [[00:02:43](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=163.76000000000002s)]
+*  in nearly 30 years. [[00:02:46](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=166.0s)]
+*  They did the freaking post office reform bill, [[00:02:48](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=168.24s)]
+*  which they also needed to do for decades [[00:02:50](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=170.88s)]
+*  and should not have been hard, but they finally did it. [[00:02:53](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=173.04s)]
+*  They also passed a federal law to protect marriage rights, [[00:02:55](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=175.56s)]
+*  which shouldn't be necessary, but it is, and they did it. [[00:02:58](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=178.24s)]
+*  And all those things in that list I just gave you, [[00:03:02](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=182.44s)]
+*  those are all things they did on a bipartisan basis. [[00:03:04](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=184.28s)]
+*  And yes, there were some things [[00:03:08](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=188.48s)]
+*  that the Republicans wouldn't do [[00:03:10](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=190.24s)]
+*  and Democrats had to do them alone, [[00:03:11](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=191.35999999999999s)]
+*  but they did them too, [[00:03:14](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=194.04s)]
+*  like confirming the nation's first black woman [[00:03:15](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=195.48s)]
+*  to the United States Supreme Court, [[00:03:18](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=198.35999999999999s)]
+*  Justice Katanji Brown Jackson, they got that done. [[00:03:19](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=199.76s)]
+*  Also the American Rescue Plan, right? [[00:03:22](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=202.76s)]
+*  $400 billion worth of COVID aid, right? [[00:03:25](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=205.32s)]
+*  $20 billion to fund the national vaccine effort. [[00:03:28](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=208.95999999999998s)]
+*  A national vaccine effort that is now credited [[00:03:33](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=213.44s)]
+*  with keeping alive 3 million Americans [[00:03:35](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=215.51999999999998s)]
+*  who would otherwise be dead because of COVID. [[00:03:38](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=218.72s)]
+*  Democrats also got passed the Inflation Reduction Act, [[00:03:42](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=222.64s)]
+*  which is not only the best climate change legislation [[00:03:45](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=225.56s)]
+*  ever passed in the United States by a mile, [[00:03:48](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=228.48s)]
+*  it's the reason that as of yesterday, [[00:03:50](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=230.92s)]
+*  your costs for insulin are capped at $35 a month [[00:03:52](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=232.76s)]
+*  if you're on Medicare, and your prescription drug costs [[00:03:56](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=236.23999999999998s)]
+*  overall for the entire year are capped at $2,000. [[00:03:58](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=238.6s)]
+*  Mostly in bipartisan effort, [[00:04:03](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=243.72s)]
+*  but some of it just with the Democrats acting alone, [[00:04:05](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=245.72s)]
+*  this one Congress over these past two years [[00:04:08](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=248.28s)]
+*  got all that stuff done. [[00:04:10](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=250.51999999999998s)]
+*  Even with the Senate just being a 50-50 split, [[00:04:12](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=252.56s)]
+*  they were able to get all that stuff done, [[00:04:16](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=256.12s)]
+*  and they're finally gonna fix [[00:04:17](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=257.6s)]
+*  that fricking fracking bridge, [[00:04:18](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=258.92s)]
+*  which nobody's been able to do for decades, [[00:04:20](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=260.4s)]
+*  even as presidents have repeatedly singled it out by name [[00:04:24](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=264.2s)]
+*  and said they would get it done. [[00:04:27](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=267.88s)]
+*  They've done kind of a lot in these last couple of years. [[00:04:31](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=271.2s)]
+*  Who says Washington's broken? [[00:04:34](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=274.0s)]
+*  This past Congress got a lot done. [[00:04:36](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=276.52s)]
+*  A lot of stuff that people said couldn't get done, [[00:04:39](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=279.24s)]
+*  they got it done. [[00:04:41](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=281.48s)]
+*  And at noon tomorrow, [[00:04:43](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=283.08s)]
+*  by the power vested in the United States Constitution, [[00:04:45](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=285.28s)]
+*  this Congress, this profoundly productive Congress [[00:04:48](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=288.12s)]
+*  will poof into the history books. [[00:04:52](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=292.2s)]
+*  ["The New York Times"] [[00:04:55](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=295.79999999999995s)]
+*  ["The New York Times"] [[00:05:14](https://www.youtube.com/watch?v=JSyRuPUJXP4&t=314.4s)]

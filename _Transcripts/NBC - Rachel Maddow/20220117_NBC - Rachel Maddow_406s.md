@@ -1,0 +1,123 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 406s
+Video Keywords: ['Rachel Maddow', 'voting rights', 'joyce beatty', 'chair of the congressional black caucus', 'black caucus', 'voting', 'msnbc', 'us news', 'news']
+Video Views: 134464
+Video Rating: None
+Video Description: Rep. Joyce Beatty, chair of the Congressional Black Caucus, talks with Rachel Maddow about the electoral consequences that will come to members of Congress who get in the way of passing voting rights legislation.
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#MSNBC #BlackCaucus #VotingRights
+---
+
+# Congressional Black Caucus Chair Offers Political Warning To Voting Rights Opponents
+**NBC - Rachel Maddow:** [January 17, 2022](https://www.youtube.com/watch?v=nRMrlq5076g)
+*  What do you say to your constituents and voting rights advocates who are growing concerned [[00:00:00](https://www.youtube.com/watch?v=nRMrlq5076g&t=0.0s)]
+*  if either bill isn't passed as we approach the 2022 midterm elections? [[00:00:04](https://www.youtube.com/watch?v=nRMrlq5076g&t=4.84s)]
+*  I feel sorry for those on the other side who didn't support this. [[00:00:11](https://www.youtube.com/watch?v=nRMrlq5076g&t=11.64s)]
+*  You know, we're very clear. [[00:00:18](https://www.youtube.com/watch?v=nRMrlq5076g&t=18.6s)]
+*  Our constituents understand where we are. [[00:00:20](https://www.youtube.com/watch?v=nRMrlq5076g&t=20.28s)]
+*  Our constituents understand at all levels. [[00:00:24](https://www.youtube.com/watch?v=nRMrlq5076g&t=24.78s)]
+*  They understand victory. [[00:00:28](https://www.youtube.com/watch?v=nRMrlq5076g&t=28.62s)]
+*  I saw a black president elected because they voted and they stood in line for five to seven [[00:00:29](https://www.youtube.com/watch?v=nRMrlq5076g&t=29.8s)]
+*  hours to vote. [[00:00:36](https://www.youtube.com/watch?v=nRMrlq5076g&t=36.96s)]
+*  You have heard the president himself say, thank you, Majority Whip Clyburn. [[00:00:39](https://www.youtube.com/watch?v=nRMrlq5076g&t=39.36s)]
+*  Thank you, South Carolina. [[00:00:45](https://www.youtube.com/watch?v=nRMrlq5076g&t=45.72s)]
+*  Thank you, black people, for voting overwhelmingly to elect him. [[00:00:47](https://www.youtube.com/watch?v=nRMrlq5076g&t=47.84s)]
+*  That then got us our first female black Asian American vice president. [[00:00:54](https://www.youtube.com/watch?v=nRMrlq5076g&t=54.120000000000005s)]
+*  Our people know that. [[00:00:59](https://www.youtube.com/watch?v=nRMrlq5076g&t=59.4s)]
+*  Our people understand that. [[00:01:01](https://www.youtube.com/watch?v=nRMrlq5076g&t=61.24s)]
+*  Who should be afraid are those who won't stand up for voting rights. [[00:01:03](https://www.youtube.com/watch?v=nRMrlq5076g&t=63.44s)]
+*  So we're sending a clarion call and you can print this. [[00:01:08](https://www.youtube.com/watch?v=nRMrlq5076g&t=68.0s)]
+*  Shame on you for not doing it. [[00:01:11](https://www.youtube.com/watch?v=nRMrlq5076g&t=71.32s)]
+*  Black folks will vote no matter what. [[00:01:13](https://www.youtube.com/watch?v=nRMrlq5076g&t=73.68s)]
+*  So it's not what's going to happen to us. [[00:01:17](https://www.youtube.com/watch?v=nRMrlq5076g&t=77.16s)]
+*  It's what's going to happen to them. [[00:01:19](https://www.youtube.com/watch?v=nRMrlq5076g&t=79.36s)]
+*  It's not what's going to happen to us. [[00:01:23](https://www.youtube.com/watch?v=nRMrlq5076g&t=83.4s)]
+*  It is what's going to happen to them. [[00:01:24](https://www.youtube.com/watch?v=nRMrlq5076g&t=84.84s)]
+*  You can print that. [[00:01:26](https://www.youtube.com/watch?v=nRMrlq5076g&t=86.6s)]
+*  Congresswoman Joyce Beatty is chair of the Congressional Black Caucus. [[00:01:29](https://www.youtube.com/watch?v=nRMrlq5076g&t=89.4s)]
+*  That was her speaking last week about the fight to pass voting rights in Congress and [[00:01:32](https://www.youtube.com/watch?v=nRMrlq5076g&t=92.16s)]
+*  those who are on the wrong side of that vote, the wrong side of that history in her estimation. [[00:01:36](https://www.youtube.com/watch?v=nRMrlq5076g&t=96.4s)]
+*  And she joins us live now. [[00:01:42](https://www.youtube.com/watch?v=nRMrlq5076g&t=102.48s)]
+*  Congresswoman Joyce Beatty, chair of the Congressional Black Caucus. [[00:01:43](https://www.youtube.com/watch?v=nRMrlq5076g&t=103.48s)]
+*  Madam Chair, it's a real pleasure to have you here tonight of all nights. [[00:01:46](https://www.youtube.com/watch?v=nRMrlq5076g&t=106.96000000000001s)]
+*  Thank you so much for making time. [[00:01:50](https://www.youtube.com/watch?v=nRMrlq5076g&t=110.16s)]
+*  Thank you so much for asking me to be on your show. [[00:01:51](https://www.youtube.com/watch?v=nRMrlq5076g&t=111.8s)]
+*  Today is a special day with the nation watching. [[00:01:55](https://www.youtube.com/watch?v=nRMrlq5076g&t=115.88s)]
+*  The nation is watching and a lot of the nation, I think, is holding their breath about what's [[00:02:00](https://www.youtube.com/watch?v=nRMrlq5076g&t=120.56s)]
+*  going to happen tomorrow. [[00:02:04](https://www.youtube.com/watch?v=nRMrlq5076g&t=124.8s)]
+*  We played some words from Martin Luther King III from the March Today held under that banner, [[00:02:07](https://www.youtube.com/watch?v=nRMrlq5076g&t=127.03999999999999s)]
+*  deliver for voting rights, deliver being the operative phrase there. [[00:02:14](https://www.youtube.com/watch?v=nRMrlq5076g&t=134.8s)]
+*  Do you think that the United States will deliver? [[00:02:18](https://www.youtube.com/watch?v=nRMrlq5076g&t=138.24s)]
+*  Are you optimistic about what's going to happen tomorrow? [[00:02:20](https://www.youtube.com/watch?v=nRMrlq5076g&t=140.96s)]
+*  I don't know exactly what will happen tomorrow. [[00:02:24](https://www.youtube.com/watch?v=nRMrlq5076g&t=144.48s)]
+*  I know the nation is pained and frustrated because of what we've been going through. [[00:02:27](https://www.youtube.com/watch?v=nRMrlq5076g&t=147.16s)]
+*  You know, we're looking at individuals who are not supporting reauthorizing the Voting [[00:02:33](https://www.youtube.com/watch?v=nRMrlq5076g&t=153.68s)]
+*  Rights Act and four Republican presidents in a bipartisan fashion reauthorized it. [[00:02:39](https://www.youtube.com/watch?v=nRMrlq5076g&t=159.16s)]
+*  Five presidents in our time have reauthorized it. [[00:02:46](https://www.youtube.com/watch?v=nRMrlq5076g&t=166.96s)]
+*  So tomorrow it will be on the United States Senate to do their job. [[00:02:50](https://www.youtube.com/watch?v=nRMrlq5076g&t=170.68s)]
+*  The House, we voted on voting rights more than three times. [[00:02:55](https://www.youtube.com/watch?v=nRMrlq5076g&t=175.52s)]
+*  This is not new for us. [[00:03:00](https://www.youtube.com/watch?v=nRMrlq5076g&t=180.8s)]
+*  But tomorrow you will see us standing and watching as history will be made. [[00:03:02](https://www.youtube.com/watch?v=nRMrlq5076g&t=182.2s)]
+*  And let me just say this, for all those who don't support the Freedom to Vote John R. [[00:03:08](https://www.youtube.com/watch?v=nRMrlq5076g&t=188.68s)]
+*  Lewis Act, they're obstructionists. [[00:03:14](https://www.youtube.com/watch?v=nRMrlq5076g&t=194.88s)]
+*  And it will be on their hands because our communities and all of those who know what [[00:03:18](https://www.youtube.com/watch?v=nRMrlq5076g&t=198.56s)]
+*  we have to lose, especially black and brown people have so much to lose that they will [[00:03:25](https://www.youtube.com/watch?v=nRMrlq5076g&t=205.12s)]
+*  react. [[00:03:31](https://www.youtube.com/watch?v=nRMrlq5076g&t=211.8s)]
+*  But you won't keep us from voting. [[00:03:33](https://www.youtube.com/watch?v=nRMrlq5076g&t=213.04s)]
+*  And the senators should be scared about that because we know we don't cheat when it comes [[00:03:36](https://www.youtube.com/watch?v=nRMrlq5076g&t=216.2s)]
+*  to elections. [[00:03:42](https://www.youtube.com/watch?v=nRMrlq5076g&t=222.08s)]
+*  We get out. [[00:03:43](https://www.youtube.com/watch?v=nRMrlq5076g&t=223.38s)]
+*  We stand in line. [[00:03:44](https://www.youtube.com/watch?v=nRMrlq5076g&t=224.38s)]
+*  And no matter how they try to suppress the vote, Democrats and black and brown Americans [[00:03:46](https://www.youtube.com/watch?v=nRMrlq5076g&t=226.60000000000002s)]
+*  will vote. [[00:03:52](https://www.youtube.com/watch?v=nRMrlq5076g&t=232.56s)]
+*  You've talked about the Congressional Black Caucus as being the conscience of the Congress [[00:03:55](https://www.youtube.com/watch?v=nRMrlq5076g&t=235.56s)]
+*  on issues like this and so many others. [[00:04:00](https://www.youtube.com/watch?v=nRMrlq5076g&t=240.28s)]
+*  I wonder if you can give us a little window into the strategic thinking right now. [[00:04:02](https://www.youtube.com/watch?v=nRMrlq5076g&t=242.28s)]
+*  I mean, the way that you have turned that question on its head, the way you just did [[00:04:07](https://www.youtube.com/watch?v=nRMrlq5076g&t=247.16000000000003s)]
+*  right now and the way we played that sound from you earlier speaking last week, talking [[00:04:09](https://www.youtube.com/watch?v=nRMrlq5076g&t=249.88000000000002s)]
+*  about how people who are opposing this are on the wrong side and they are the ones who [[00:04:13](https://www.youtube.com/watch?v=nRMrlq5076g&t=253.84s)]
+*  need to worry about their futures in terms of how the politics of this will play out. [[00:04:17](https://www.youtube.com/watch?v=nRMrlq5076g&t=257.48s)]
+*  I know that you are thinking about this in terms of three steps down the road, five steps [[00:04:21](https://www.youtube.com/watch?v=nRMrlq5076g&t=261.88s)]
+*  down the road, ten steps down the road. [[00:04:25](https://www.youtube.com/watch?v=nRMrlq5076g&t=265.48s)]
+*  If things do fail tomorrow in the Senate, if Senator Manchin and Senator Sinema decide [[00:04:28](https://www.youtube.com/watch?v=nRMrlq5076g&t=268.08000000000004s)]
+*  that they want to be they want they want to go down in history this way for this reason, [[00:04:32](https://www.youtube.com/watch?v=nRMrlq5076g&t=272.64s)]
+*  is there a way under over or around that wall? [[00:04:39](https://www.youtube.com/watch?v=nRMrlq5076g&t=279.2s)]
+*  Is there another way to approach it? [[00:04:43](https://www.youtube.com/watch?v=nRMrlq5076g&t=283.4s)]
+*  Well, you're absolutely right. [[00:04:46](https://www.youtube.com/watch?v=nRMrlq5076g&t=286.4s)]
+*  We have been strategizing and certainly, as you said, the Congressional Black Caucus has [[00:04:47](https://www.youtube.com/watch?v=nRMrlq5076g&t=287.6s)]
+*  been a leader in this. [[00:04:52](https://www.youtube.com/watch?v=nRMrlq5076g&t=292.08s)]
+*  Six months ago, I got arrested. [[00:04:53](https://www.youtube.com/watch?v=nRMrlq5076g&t=293.96s)]
+*  Other members have been out there marching, protesting, writing legislation, trying to [[00:04:56](https://www.youtube.com/watch?v=nRMrlq5076g&t=296.4s)]
+*  work with those on the other side of the aisle and our two senators over there who are having [[00:05:02](https://www.youtube.com/watch?v=nRMrlq5076g&t=302.56s)]
+*  some initial problems that they are having, therefore the voting rights. [[00:05:09](https://www.youtube.com/watch?v=nRMrlq5076g&t=309.08s)]
+*  It is the big elephant in the room, the filibuster. [[00:05:15](https://www.youtube.com/watch?v=nRMrlq5076g&t=315.2s)]
+*  But it reminds me of when Martin Luther King Jr. [[00:05:18](https://www.youtube.com/watch?v=nRMrlq5076g&t=318.92s)]
+*  and Fannie Lou Hamer and so many others were going across that Edmund Pettus Bridge. [[00:05:22](https://www.youtube.com/watch?v=nRMrlq5076g&t=322.12s)]
+*  You know, they didn't cross it the first or the second time. [[00:05:27](https://www.youtube.com/watch?v=nRMrlq5076g&t=327.88s)]
+*  They turned around and came back and strategized. [[00:05:31](https://www.youtube.com/watch?v=nRMrlq5076g&t=331.56s)]
+*  But then there was Bloody Sunday and they got it done. [[00:05:34](https://www.youtube.com/watch?v=nRMrlq5076g&t=334.64s)]
+*  I am saying to you, we won't give up. [[00:05:37](https://www.youtube.com/watch?v=nRMrlq5076g&t=337.96000000000004s)]
+*  We will go back and we will go back and we will get it right because the Voting Rights [[00:05:41](https://www.youtube.com/watch?v=nRMrlq5076g&t=341.28000000000003s)]
+*  Act must be reauthorized. [[00:05:46](https://www.youtube.com/watch?v=nRMrlq5076g&t=346.72s)]
+*  So we'll go back and we'll recraft and we'll re-strategize. [[00:05:49](https://www.youtube.com/watch?v=nRMrlq5076g&t=349.36s)]
+*  But we won't stop talking about it. [[00:05:53](https://www.youtube.com/watch?v=nRMrlq5076g&t=353.84000000000003s)]
+*  We won't stop fighting for it. [[00:05:55](https://www.youtube.com/watch?v=nRMrlq5076g&t=355.72s)]
+*  We won't give up. [[00:05:57](https://www.youtube.com/watch?v=nRMrlq5076g&t=357.72s)]
+*  And so I am hopeful that we will get there. [[00:05:59](https://www.youtube.com/watch?v=nRMrlq5076g&t=359.28000000000003s)]
+*  I am hopeful that we will have enough of the senators to do what's right. [[00:06:02](https://www.youtube.com/watch?v=nRMrlq5076g&t=362.92s)]
+*  You know, someone said today if we had state rights in Washington, D.C., [[00:06:08](https://www.youtube.com/watch?v=nRMrlq5076g&t=368.28000000000003s)]
+*  we wouldn't have this problem because we would have two senators who would be voting with us. [[00:06:12](https://www.youtube.com/watch?v=nRMrlq5076g&t=372.84000000000003s)]
+*  Well, we don't have that, but we will see what happens tomorrow. [[00:06:17](https://www.youtube.com/watch?v=nRMrlq5076g&t=377.92s)]
+*  But there will be another tomorrow and another tomorrow. [[00:06:21](https://www.youtube.com/watch?v=nRMrlq5076g&t=381.92s)]

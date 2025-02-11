@@ -1,0 +1,226 @@
+---
+Date Generated: February 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 664s
+Video Keywords: []
+Video Views: 4710
+Video Rating: None
+Video Description: Plus, Jimmy Carter turns 100.  
+
+
+ 
+
+
+Tune in every weekday morning. To get our full audio journalism and storytelling experience, download (https://apps.apple.com/us/app/nyt-audio/id1549293936)  the New York Times Audio app — available to Times news subscribers on iOS — and sign up (https://www.nytimes.com/newsletters/audio)  for our weekly newsletter.
+
+
+Tell us what you think at: theheadlines@nytimes.com. 
+
+
+On Today’s Episode:
+
+
+On Today’s Episode:
+
+
+Israel Launches Invasion Into Southern Lebanon (https://www.nytimes.com/live/2024/10/01/world/israel-lebanon-hezbollah) , by Victoria Kim and Natan Odenheimer
+
+
+Rescuers Push Through Helene Debris to Find People and Restore Power (https://www.nytimes.com/2024/10/01/us/helene-storm-north-carolina-aftermath.html) , by Jacey Fortin
+
+
+What to Watch For in Tuesday’s Vance-Walz Debate (https://www.nytimes.com/2024/10/01/us/politics/vance-walz-debate-what-to-watch.html) , by Shane Goldmacher, Katie Glueck and Michael C. Bender
+
+
+Jimmy Carter Approaches the Century Mark, Eclipsing His Presidential Peers (https://www.nytimes.com/2024/09/30/us/politics/jimmy-carter-100th-birthday.html) , by Rick Rojas and Peter Baker
+
+
+Port Workers Strike on East and Gulf Coasts (https://www.nytimes.com/2024/10/01/business/economy/port-strike.html) , by Peter Eavis
+
+
+Pete Rose, Baseball Star Who Earned Glory and Shame, Dies at 83 (https://www.nytimes.com/2024/09/30/sports/baseball/pete-rose-dead.html) , by Bruce Weber
+---
+
+# Israel Starts Lebanon Ground Invasion, and Hundreds Missing After Helene
+**New York Times - The Headlines:** [October 01, 2024](https://www.youtube.com/watch?v=blpRyT9gNuM)
+*  From the New York Times, it's the headlines. [[00:00:00](https://www.youtube.com/watch?v=blpRyT9gNuM&t=0.0s)]
+*  I'm Tracy Mumford. [[00:00:04](https://www.youtube.com/watch?v=blpRyT9gNuM&t=4.76s)]
+*  Today's Tuesday, October 1st. [[00:00:05](https://www.youtube.com/watch?v=blpRyT9gNuM&t=5.76s)]
+*  Here's what we're covering. [[00:00:08](https://www.youtube.com/watch?v=blpRyT9gNuM&t=8.36s)]
+*  At 2 a.m. local time in Israel, the government announced that Israeli forces had crossed [[00:00:14](https://www.youtube.com/watch?v=blpRyT9gNuM&t=14.0s)]
+*  the border into Lebanon, the beginning of a ground invasion. [[00:00:18](https://www.youtube.com/watch?v=blpRyT9gNuM&t=18.82s)]
+*  A Times reporter near the border saw Israeli troops equipped with night vision goggles [[00:00:23](https://www.youtube.com/watch?v=blpRyT9gNuM&t=23.240000000000002s)]
+*  traveling in Humvees, along with dozens of tanks and bulldozers. [[00:00:27](https://www.youtube.com/watch?v=blpRyT9gNuM&t=27.88s)]
+*  As of this morning, Israeli fighter helicopters have been carrying out strikes and clouds [[00:00:33](https://www.youtube.com/watch?v=blpRyT9gNuM&t=33.04s)]
+*  of smoke are rising over villages in southern Lebanon. [[00:00:37](https://www.youtube.com/watch?v=blpRyT9gNuM&t=37.44s)]
+*  Israel says it's focused on Hezbollah targets in the border region. [[00:00:41](https://www.youtube.com/watch?v=blpRyT9gNuM&t=41.48s)]
+*  The Iran-backed militant group has been firing rockets from there at Israel for the last [[00:00:45](https://www.youtube.com/watch?v=blpRyT9gNuM&t=45.08s)]
+*  year in solidarity with Hamas in Gaza. [[00:00:49](https://www.youtube.com/watch?v=blpRyT9gNuM&t=49.519999999999996s)]
+*  Israel is saying this is a limited operation, and we understand from officials that we've [[00:00:53](https://www.youtube.com/watch?v=blpRyT9gNuM&t=53.08s)]
+*  been talking to that it mostly at the moment involves commando units advancing into the [[00:00:58](https://www.youtube.com/watch?v=blpRyT9gNuM&t=58.16s)]
+*  border area, not advancing towards major cities, let alone towards Beirut. [[00:01:05](https://www.youtube.com/watch?v=blpRyT9gNuM&t=65.38s)]
+*  Patrick Kingsley is the Jerusalem bureau chief for the Times. [[00:01:11](https://www.youtube.com/watch?v=blpRyT9gNuM&t=71.52s)]
+*  He says the invasion comes after weeks of intense Israeli airstrikes that have killed [[00:01:14](https://www.youtube.com/watch?v=blpRyT9gNuM&t=74.66s)]
+*  top Hezbollah commanders and hundreds of civilians in Lebanon. [[00:01:19](https://www.youtube.com/watch?v=blpRyT9gNuM&t=79.32s)]
+*  It remains to be seen whether this invasion will indeed remain limited. [[00:01:23](https://www.youtube.com/watch?v=blpRyT9gNuM&t=83.64s)]
+*  There is always mission creep in these kinds of invasions. [[00:01:28](https://www.youtube.com/watch?v=blpRyT9gNuM&t=88.67999999999999s)]
+*  We've seen Israel say one thing at the start of ground operations in Gaza before seeing [[00:01:32](https://www.youtube.com/watch?v=blpRyT9gNuM&t=92.75999999999999s)]
+*  those operations morph into something bigger than it was previously stated. [[00:01:38](https://www.youtube.com/watch?v=blpRyT9gNuM&t=98.56s)]
+*  The current goal, according to the Israeli government, is to make the border area safe [[00:01:44](https://www.youtube.com/watch?v=blpRyT9gNuM&t=104.32000000000001s)]
+*  enough for roughly 65,000 displaced Israelis who have been forced to leave their homes [[00:01:50](https://www.youtube.com/watch?v=blpRyT9gNuM&t=110.1s)]
+*  over the last year due to Hezbollah rocket fire. [[00:01:57](https://www.youtube.com/watch?v=blpRyT9gNuM&t=117.08s)]
+*  But quite what counts as safe enough is unclear, and it could be that that concept evolves [[00:02:01](https://www.youtube.com/watch?v=blpRyT9gNuM&t=121.6s)]
+*  over time. [[00:02:08](https://www.youtube.com/watch?v=blpRyT9gNuM&t=128.2s)]
+*  And in the meantime, there are hundreds of thousands of Lebanese civilians on the other [[00:02:09](https://www.youtube.com/watch?v=blpRyT9gNuM&t=129.2s)]
+*  side of the border who are now displaced from their homes. [[00:02:13](https://www.youtube.com/watch?v=blpRyT9gNuM&t=133.64s)]
+*  And it's unclear when they will be able to return themselves. [[00:02:18](https://www.youtube.com/watch?v=blpRyT9gNuM&t=138.68s)]
+*  American officials tell the Times they've been assured by Israel that it does not intend [[00:02:24](https://www.youtube.com/watch?v=blpRyT9gNuM&t=144.72s)]
+*  to occupy southern Lebanon in the long term. [[00:02:28](https://www.youtube.com/watch?v=blpRyT9gNuM&t=148.76s)]
+*  The Pentagon said that it's sending several thousand additional U.S. forces to the Middle [[00:02:31](https://www.youtube.com/watch?v=blpRyT9gNuM&t=151.95999999999998s)]
+*  East to help defend Israel, adding to the 40,000 U.S. troops already stationed in the [[00:02:36](https://www.youtube.com/watch?v=blpRyT9gNuM&t=156.16s)]
+*  region. [[00:02:41](https://www.youtube.com/watch?v=blpRyT9gNuM&t=161.72s)]
+*  I want to express condolences to all the families, to all the families whose loved ones have [[00:02:43](https://www.youtube.com/watch?v=blpRyT9gNuM&t=163.6s)]
+*  died or are missing. [[00:02:52](https://www.youtube.com/watch?v=blpRyT9gNuM&t=172.84s)]
+*  Matter of fact, it's almost equally as bad missing not knowing whether or not your brother, [[00:02:54](https://www.youtube.com/watch?v=blpRyT9gNuM&t=174.51999999999998s)]
+*  sister, husband, wife, son, daughter are alive. [[00:02:59](https://www.youtube.com/watch?v=blpRyT9gNuM&t=179.92s)]
+*  In the mountains of North Carolina and Tennessee, officials say hundreds of people are still [[00:03:04](https://www.youtube.com/watch?v=blpRyT9gNuM&t=184.44s)]
+*  missing as rescue teams try and reach remote areas that were devastated by Hurricane Helene. [[00:03:09](https://www.youtube.com/watch?v=blpRyT9gNuM&t=189.48000000000002s)]
+*  President Biden said as many as 600 people are unaccounted for, with cell service down, [[00:03:16](https://www.youtube.com/watch?v=blpRyT9gNuM&t=196.16s)]
+*  roads destroyed and no way to check on them. [[00:03:20](https://www.youtube.com/watch?v=blpRyT9gNuM&t=200.96s)]
+*  One North Carolina resident said he and his neighbors had used saws and pry bars to free [[00:03:24](https://www.youtube.com/watch?v=blpRyT9gNuM&t=204.20000000000002s)]
+*  people who were trapped after the storm toppled trees and sent water raging through narrow [[00:03:29](https://www.youtube.com/watch?v=blpRyT9gNuM&t=209.08s)]
+*  valleys. [[00:03:34](https://www.youtube.com/watch?v=blpRyT9gNuM&t=214.28s)]
+*  In Nashville, the city's infrastructure is so badly damaged that officials are bringing [[00:03:35](https://www.youtube.com/watch?v=blpRyT9gNuM&t=215.92s)]
+*  in drinking water on trucks, and more than one and a half million people across six states [[00:03:40](https://www.youtube.com/watch?v=blpRyT9gNuM&t=220.51999999999998s)]
+*  still don't have power. [[00:03:45](https://www.youtube.com/watch?v=blpRyT9gNuM&t=225.95999999999998s)]
+*  Biden, who said he'll travel to see the storm damage tomorrow, warned that the recovery [[00:03:47](https://www.youtube.com/watch?v=blpRyT9gNuM&t=227.92s)]
+*  will take a quote, hell of a long time. [[00:03:52](https://www.youtube.com/watch?v=blpRyT9gNuM&t=232.95999999999998s)]
+*  In New York City tonight, JD Vance and Tim Walz will face off in the one and only vice [[00:04:02](https://www.youtube.com/watch?v=blpRyT9gNuM&t=242.56s)]
+*  presidential debate of the 2024 campaign. [[00:04:07](https://www.youtube.com/watch?v=blpRyT9gNuM&t=247.44s)]
+*  Unlike the recent presidential debate, the VP candidates will have their mics on the [[00:04:11](https://www.youtube.com/watch?v=blpRyT9gNuM&t=251.12s)]
+*  whole time, opening the door for off-the-cuff exchanges or aggressive cross-talk. [[00:04:15](https://www.youtube.com/watch?v=blpRyT9gNuM&t=255.56s)]
+*  Times reporter, Kellen Browning, says he'll be watching for how the dynamic between Walz [[00:04:21](https://www.youtube.com/watch?v=blpRyT9gNuM&t=261.8s)]
+*  and Vance will play out in front of voters. [[00:04:25](https://www.youtube.com/watch?v=blpRyT9gNuM&t=265.92s)]
+*  As for this going on the campaign trail, Tim Walz has simply not had to respond to tough [[00:04:29](https://www.youtube.com/watch?v=blpRyT9gNuM&t=269.6s)]
+*  scrutiny the same way JD Vance has. [[00:04:34](https://www.youtube.com/watch?v=blpRyT9gNuM&t=274.32s)]
+*  Vance has taken questions from reporters at campaign rallies in front of attendees, and [[00:04:36](https://www.youtube.com/watch?v=blpRyT9gNuM&t=276.76s)]
+*  he's spent much more time on television news shows and doing tough combative interviews. [[00:04:41](https://www.youtube.com/watch?v=blpRyT9gNuM&t=281.72s)]
+*  Tim Walz, by contrast, has simply not been taking questions from reporters. [[00:04:46](https://www.youtube.com/watch?v=blpRyT9gNuM&t=286.96s)]
+*  He's done a few small television interviews, but it'll be interesting to see on a bigger [[00:04:50](https://www.youtube.com/watch?v=blpRyT9gNuM&t=290.96s)]
+*  stage if he is able to stand up to the scrutiny that we anticipate will come from JD Vance. [[00:04:55](https://www.youtube.com/watch?v=blpRyT9gNuM&t=295.16s)]
+*  One thing I'll be watching for from Tim Walz tonight is how he handles questions relating [[00:05:00](https://www.youtube.com/watch?v=blpRyT9gNuM&t=300.84000000000003s)]
+*  to immigration and the southern border. [[00:05:05](https://www.youtube.com/watch?v=blpRyT9gNuM&t=305.24s)]
+*  Tim Walz has not spoken extensively about border policy on the campaign trail to this [[00:05:07](https://www.youtube.com/watch?v=blpRyT9gNuM&t=307.64s)]
+*  point, and so we expect JD Vance to talk quite a bit about the southern border and the Biden [[00:05:12](https://www.youtube.com/watch?v=blpRyT9gNuM&t=312.56s)]
+*  Harris administration's approach to the migrant crisis. [[00:05:18](https://www.youtube.com/watch?v=blpRyT9gNuM&t=318.72s)]
+*  And my colleagues and I spent several hours watching old debate footage from Tim Walz, [[00:05:21](https://www.youtube.com/watch?v=blpRyT9gNuM&t=321.91999999999996s)]
+*  and he speaks about the border in humanitarian terms, essentially emphasizing the humanity [[00:05:27](https://www.youtube.com/watch?v=blpRyT9gNuM&t=327.03999999999996s)]
+*  of the problem and how immigrants are not bringing crime, but actually they're helping [[00:05:32](https://www.youtube.com/watch?v=blpRyT9gNuM&t=332.56s)]
+*  the economy. [[00:05:36](https://www.youtube.com/watch?v=blpRyT9gNuM&t=336.03999999999996s)]
+*  So the question will be, will he continue with that humanitarian tone, or will he make [[00:05:37](https://www.youtube.com/watch?v=blpRyT9gNuM&t=337.03999999999996s)]
+*  efforts to be more strict toward the border and match some of Kamala Harris's more recent [[00:05:41](https://www.youtube.com/watch?v=blpRyT9gNuM&t=341.59999999999997s)]
+*  language on the subject? [[00:05:45](https://www.youtube.com/watch?v=blpRyT9gNuM&t=345.84s)]
+*  The debate begins at 9 p.m. Eastern. [[00:05:48](https://www.youtube.com/watch?v=blpRyT9gNuM&t=348.96s)]
+*  You can watch live with moment-by-moment analysis from Times reporters on the New York Times [[00:05:51](https://www.youtube.com/watch?v=blpRyT9gNuM&t=351.44s)]
+*  app or at nytimes.com. [[00:05:56](https://www.youtube.com/watch?v=blpRyT9gNuM&t=356.12s)]
+*  While the race for the White House continues, today marks a major milestone for one former [[00:06:03](https://www.youtube.com/watch?v=blpRyT9gNuM&t=363.6s)]
+*  president. [[00:06:08](https://www.youtube.com/watch?v=blpRyT9gNuM&t=368.56s)]
+*  It's Jimmy Carter's 100th birthday. [[00:06:09](https://www.youtube.com/watch?v=blpRyT9gNuM&t=369.56s)]
+*  Carter entered hospice care last year, and at the time, his family and friends thought [[00:06:12](https://www.youtube.com/watch?v=blpRyT9gNuM&t=372.92s)]
+*  he had only days left to live. [[00:06:17](https://www.youtube.com/watch?v=blpRyT9gNuM&t=377.36s)]
+*  Now, he's the first president in American history to reach triple digits. [[00:06:19](https://www.youtube.com/watch?v=blpRyT9gNuM&t=379.92s)]
+*  People close to Carter say he's frail and mostly stays in his modest ranch home in Plains, [[00:06:25](https://www.youtube.com/watch?v=blpRyT9gNuM&t=385.08000000000004s)]
+*  Georgia. [[00:06:29](https://www.youtube.com/watch?v=blpRyT9gNuM&t=389.88s)]
+*  But in the last few months, he's become more engaged. [[00:06:30](https://www.youtube.com/watch?v=blpRyT9gNuM&t=390.88s)]
+*  He follows the Atlanta Braves, listens to Bob Dylan and the Allman brothers, and checks [[00:06:34](https://www.youtube.com/watch?v=blpRyT9gNuM&t=394.12s)]
+*  on the work of the philanthropic center that he and his wife Rosalynn founded. [[00:06:39](https://www.youtube.com/watch?v=blpRyT9gNuM&t=399.24s)]
+*  Carter has said in the past that he doesn't particularly care about this big birthday. [[00:06:43](https://www.youtube.com/watch?v=blpRyT9gNuM&t=403.76s)]
+*  Instead, he's looking ahead to election day, when he's planning to cast his vote for Kamala [[00:06:48](https://www.youtube.com/watch?v=blpRyT9gNuM&t=408.28s)]
+*  Harris. [[00:06:53](https://www.youtube.com/watch?v=blpRyT9gNuM&t=413.2s)]
+*  In 1977, I went on strike with the old guys for three months for 80 cents. [[00:06:54](https://www.youtube.com/watch?v=blpRyT9gNuM&t=414.2s)]
+*  And it wasn't nice. [[00:07:06](https://www.youtube.com/watch?v=blpRyT9gNuM&t=426.36s)]
+*  Fast forward. [[00:07:08](https://www.youtube.com/watch?v=blpRyT9gNuM&t=428.44s)]
+*  Now they're making billions and billions of dollars. [[00:07:09](https://www.youtube.com/watch?v=blpRyT9gNuM&t=429.44s)]
+*  Almost 50,000 Longshoremen have walked off the job after 11th hour contract negotiations [[00:07:13](https://www.youtube.com/watch?v=blpRyT9gNuM&t=433.28s)]
+*  fell apart last night. [[00:07:19](https://www.youtube.com/watch?v=blpRyT9gNuM&t=439.36s)]
+*  Longshoremen are the workers who move containers off of ships, sort them and put them on trucks [[00:07:21](https://www.youtube.com/watch?v=blpRyT9gNuM&t=441.52000000000004s)]
+*  and trains to crisscross the US. [[00:07:26](https://www.youtube.com/watch?v=blpRyT9gNuM&t=446.16s)]
+*  Ports cannot operate without them. [[00:07:29](https://www.youtube.com/watch?v=blpRyT9gNuM&t=449.0s)]
+*  The strike is going to cut off most trade coming into East Coast and Gulf Coast ports, [[00:07:31](https://www.youtube.com/watch?v=blpRyT9gNuM&t=451.48s)]
+*  where more than half of container shipments come into the US. [[00:07:36](https://www.youtube.com/watch?v=blpRyT9gNuM&t=456.76s)]
+*  The sticking points in the failed negotiations have been wages, benefits, and job security. [[00:07:40](https://www.youtube.com/watch?v=blpRyT9gNuM&t=460.40000000000003s)]
+*  Longshoremen is one of the few blue collar jobs that can pay more than $100,000 a year, [[00:07:47](https://www.youtube.com/watch?v=blpRyT9gNuM&t=467.08s)]
+*  and the unions worried that new technology will mean that companies cut jobs. [[00:07:51](https://www.youtube.com/watch?v=blpRyT9gNuM&t=471.91999999999996s)]
+*  One of the things that's upsetting the Longshoremen is the greater use of automated technology [[00:07:56](https://www.youtube.com/watch?v=blpRyT9gNuM&t=476.64s)]
+*  in the ports. [[00:08:01](https://www.youtube.com/watch?v=blpRyT9gNuM&t=481.71999999999997s)]
+*  I was at a port in Virginia where there is quite a lot of automated machinery, and you [[00:08:03](https://www.youtube.com/watch?v=blpRyT9gNuM&t=483.24s)]
+*  could see the cranes working without humans. [[00:08:08](https://www.youtube.com/watch?v=blpRyT9gNuM&t=488.47999999999996s)]
+*  That is what they're against. [[00:08:11](https://www.youtube.com/watch?v=blpRyT9gNuM&t=491.4s)]
+*  Peter Eves has been covering the negotiations. [[00:08:13](https://www.youtube.com/watch?v=blpRyT9gNuM&t=493.03999999999996s)]
+*  He says the port operators argue that they need to modernize the ports and that busier [[00:08:15](https://www.youtube.com/watch?v=blpRyT9gNuM&t=495.56s)]
+*  ports will mean more jobs, not less. [[00:08:20](https://www.youtube.com/watch?v=blpRyT9gNuM&t=500.48s)]
+*  But the two sides are at an impasse. [[00:08:23](https://www.youtube.com/watch?v=blpRyT9gNuM&t=503.92s)]
+*  This strike at the East and Gulf Coast ports could send a chill through the economy. [[00:08:26](https://www.youtube.com/watch?v=blpRyT9gNuM&t=506.36s)]
+*  Shutting down the ports could cost the US economy up to $5 billion a day according to [[00:08:32](https://www.youtube.com/watch?v=blpRyT9gNuM&t=512.52s)]
+*  some estimates. [[00:08:38](https://www.youtube.com/watch?v=blpRyT9gNuM&t=518.48s)]
+*  And then the longer the strike is, the more the delays will cause shortages, and that [[00:08:40](https://www.youtube.com/watch?v=blpRyT9gNuM&t=520.44s)]
+*  could push up prices and increase freight costs. [[00:08:45](https://www.youtube.com/watch?v=blpRyT9gNuM&t=525.96s)]
+*  And some of those freight costs could be passed on to consumers just as they're getting over [[00:08:49](https://www.youtube.com/watch?v=blpRyT9gNuM&t=529.58s)]
+*  high inflation over the last few years. [[00:08:54](https://www.youtube.com/watch?v=blpRyT9gNuM&t=534.2s)]
+*  And finally... [[00:09:05](https://www.youtube.com/watch?v=blpRyT9gNuM&t=545.12s)]
+*  There it is! [[00:09:06](https://www.youtube.com/watch?v=blpRyT9gNuM&t=546.12s)]
+*  Rose has a good stop! [[00:09:07](https://www.youtube.com/watch?v=blpRyT9gNuM&t=547.12s)]
+*  That's number 4,192! [[00:09:09](https://www.youtube.com/watch?v=blpRyT9gNuM&t=549.12s)]
+*  Pete Rose, one of baseball's greatest and most controversial players, has died at age 83. [[00:09:14](https://www.youtube.com/watch?v=blpRyT9gNuM&t=554.12s)]
+*  Rose, who was literally born on Major League Baseball's opening day in 1941, had more hits [[00:09:21](https://www.youtube.com/watch?v=blpRyT9gNuM&t=561.12s)]
+*  than any other player in the history of the sport. [[00:09:27](https://www.youtube.com/watch?v=blpRyT9gNuM&t=567.64s)]
+*  He spent most of his career with his hometown team, the Cincinnati Reds. [[00:09:31](https://www.youtube.com/watch?v=blpRyT9gNuM&t=571.76s)]
+*  And over the course of his career, he played in 17 All-Star games in five different positions. [[00:09:35](https://www.youtube.com/watch?v=blpRyT9gNuM&t=575.2800000000001s)]
+*  He went on to manage the Reds, but he fell from grace in a spectacularly public way when [[00:09:42](https://www.youtube.com/watch?v=blpRyT9gNuM&t=582.5200000000001s)]
+*  he was banned from baseball for life in 1989 because of his gambling habit. [[00:09:47](https://www.youtube.com/watch?v=blpRyT9gNuM&t=587.34s)]
+*  Rose vehemently denied that he'd ever bet on baseball, despite a pile of evidence, until [[00:09:52](https://www.youtube.com/watch?v=blpRyT9gNuM&t=592.84s)]
+*  the early 2000s when he admitted to it. [[00:09:57](https://www.youtube.com/watch?v=blpRyT9gNuM&t=597.72s)]
+*  We're now saying for the first time publicly, yes, I bet on baseball. [[00:10:00](https://www.youtube.com/watch?v=blpRyT9gNuM&t=600.92s)]
+*  I bet on baseball in 1987 and 1988. [[00:10:07](https://www.youtube.com/watch?v=blpRyT9gNuM&t=607.28s)]
+*  Did you bet on your own team? [[00:10:11](https://www.youtube.com/watch?v=blpRyT9gNuM&t=611.52s)]
+*  Yes. [[00:10:13](https://www.youtube.com/watch?v=blpRyT9gNuM&t=613.52s)]
+*  As part of the fallout from his gambling, Rose was made ineligible for the Baseball [[00:10:14](https://www.youtube.com/watch?v=blpRyT9gNuM&t=614.52s)]
+*  Hall of Fame, where he otherwise surely would have been inducted. [[00:10:19](https://www.youtube.com/watch?v=blpRyT9gNuM&t=619.04s)]
+*  In an interview just a few months ago, Rose said he was still hoping they would let him in. [[00:10:23](https://www.youtube.com/watch?v=blpRyT9gNuM&t=623.3s)]
+*  I always believe in baseball and I believe somewhere in the future, baseball will give [[00:10:28](https://www.youtube.com/watch?v=blpRyT9gNuM&t=628.32s)]
+*  me a second chance. [[00:10:33](https://www.youtube.com/watch?v=blpRyT9gNuM&t=633.8000000000001s)]
+*  That's all I can go on. [[00:10:35](https://www.youtube.com/watch?v=blpRyT9gNuM&t=635.8000000000001s)]
+*  Those are the headlines. [[00:10:41](https://www.youtube.com/watch?v=blpRyT9gNuM&t=641.32s)]
+*  Today on The Daily, more on-the-ground details from the damage of Hurricane Helene. [[00:10:43](https://www.youtube.com/watch?v=blpRyT9gNuM&t=643.32s)]
+*  That's next in the New York Times audio app, or you can listen wherever you get your podcasts. [[00:10:49](https://www.youtube.com/watch?v=blpRyT9gNuM&t=649.24s)]
+*  I'm Tracy Mumford. [[00:10:54](https://www.youtube.com/watch?v=blpRyT9gNuM&t=654.32s)]
+*  We'll be back tomorrow. [[00:10:55](https://www.youtube.com/watch?v=blpRyT9gNuM&t=655.32s)]
+*  Thanks for watching. [[00:10:58](https://www.youtube.com/watch?v=blpRyT9gNuM&t=658.32s)]
+*  See you next time. [[00:10:59](https://www.youtube.com/watch?v=blpRyT9gNuM&t=659.32s)]
+*  Bye. [[00:11:00](https://www.youtube.com/watch?v=blpRyT9gNuM&t=660.32s)]
+*  Bye. [[00:11:01](https://www.youtube.com/watch?v=blpRyT9gNuM&t=661.32s)]
+*  Bye. [[00:11:02](https://www.youtube.com/watch?v=blpRyT9gNuM&t=662.32s)]
+*  Bye. [[00:11:03](https://www.youtube.com/watch?v=blpRyT9gNuM&t=663.32s)]
+*  Bye. [[00:11:04](https://www.youtube.com/watch?v=blpRyT9gNuM&t=664.32s)]
+*  Bye. [[00:11:05](https://www.youtube.com/watch?v=blpRyT9gNuM&t=665.32s)]
+*  Bye. [[00:11:06](https://www.youtube.com/watch?v=blpRyT9gNuM&t=666.32s)]
+*  Bye. [[00:11:07](https://www.youtube.com/watch?v=blpRyT9gNuM&t=667.32s)]
+*  Bye. [[00:11:08](https://www.youtube.com/watch?v=blpRyT9gNuM&t=668.32s)]
+*  Bye. [[00:11:09](https://www.youtube.com/watch?v=blpRyT9gNuM&t=669.32s)]
+*  Bye. [[00:11:10](https://www.youtube.com/watch?v=blpRyT9gNuM&t=670.32s)]
+*  Bye. [[00:11:11](https://www.youtube.com/watch?v=blpRyT9gNuM&t=671.32s)]
+*  Bye. [[00:11:12](https://www.youtube.com/watch?v=blpRyT9gNuM&t=672.32s)]
+*  Bye. [[00:11:13](https://www.youtube.com/watch?v=blpRyT9gNuM&t=673.32s)]
+*  Bye. [[00:11:14](https://www.youtube.com/watch?v=blpRyT9gNuM&t=674.32s)]
+*  Bye. [[00:11:15](https://www.youtube.com/watch?v=blpRyT9gNuM&t=675.32s)]
+*  Bye. [[00:11:16](https://www.youtube.com/watch?v=blpRyT9gNuM&t=676.32s)]
+*  Bye. [[00:11:17](https://www.youtube.com/watch?v=blpRyT9gNuM&t=677.32s)]
+*  Bye. [[00:11:18](https://www.youtube.com/watch?v=blpRyT9gNuM&t=678.32s)]
+*  Bye. [[00:11:19](https://www.youtube.com/watch?v=blpRyT9gNuM&t=679.32s)]
+*  Bye. [[00:11:20](https://www.youtube.com/watch?v=blpRyT9gNuM&t=680.32s)]
+*  Bye. [[00:11:21](https://www.youtube.com/watch?v=blpRyT9gNuM&t=681.32s)]
+*  Bye. [[00:11:22](https://www.youtube.com/watch?v=blpRyT9gNuM&t=682.32s)]
+*  Bye. [[00:11:23](https://www.youtube.com/watch?v=blpRyT9gNuM&t=683.32s)]
+*  Bye. [[00:11:24](https://www.youtube.com/watch?v=blpRyT9gNuM&t=684.32s)]
+*  Bye. [[00:11:25](https://www.youtube.com/watch?v=blpRyT9gNuM&t=685.32s)]
+*  Bye. [[00:11:26](https://www.youtube.com/watch?v=blpRyT9gNuM&t=686.32s)]

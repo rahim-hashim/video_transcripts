@@ -1,0 +1,123 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 250s
+Video Keywords: ['Rachel Maddow', 'trump', '2020 election', 'january 6', 'msnbc', 'us news', 'news']
+Video Views: 68919
+Video Rating: None
+Video Description: Barbara McQuade, former U.S. attorney, talks about new developments in what is known about Donald Trump and his inner circle on January 6, 2021 and the days preceding. 
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#MSNBC #Trump #January6
+---
+
+# Trump Record Keeping Grew Thin Ahead Of January 6: CNN
+**NBC - Rachel Maddow:** [April 01, 2022](https://www.youtube.com/watch?v=Rolmkx3o7gY)
+*  But no shortage of news this week concerning January 6. [[00:00:00](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=0.0s)]
+*  Last night on this broadcast, we discussed new reporting [[00:00:03](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=3.36s)]
+*  that the Justice Department has substantially [[00:00:06](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=6.640000000000001s)]
+*  widened its investigation to look [[00:00:09](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=9.08s)]
+*  beyond those who physically breached the Capitol that day [[00:00:11](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=11.200000000000001s)]
+*  to the broader effort to overturn the 2020 election. [[00:00:14](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=14.8s)]
+*  We know the committee's been looking into that, [[00:00:17](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=17.48s)]
+*  but now the Justice Department is. [[00:00:19](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=19.44s)]
+*  Well, tonight we've got some breaking news [[00:00:21](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=21.04s)]
+*  about the investigation into January 6 [[00:00:22](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=22.7s)]
+*  and the former president. [[00:00:25](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=25.16s)]
+*  CNN is reporting that the White House [[00:00:26](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=26.72s)]
+*  diarist, who's in charge of compiling presidential records, [[00:00:28](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=28.8s)]
+*  recently testified before the January 6 committee [[00:00:32](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=32.24s)]
+*  and said that the Trump White House started [[00:00:35](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=35.92s)]
+*  sharing less information about his activities in the days [[00:00:38](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=38.24s)]
+*  directly preceding the riot. [[00:00:42](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=42.24s)]
+*  Now, this is according to two sources [[00:00:44](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=44.8s)]
+*  with knowledge of the probe. [[00:00:46](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=46.760000000000005s)]
+*  I should note, NBC has not yet confirmed this reporting. [[00:00:48](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=48.22s)]
+*  And if you're wondering, what is a White House diarist, [[00:00:51](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=51.64s)]
+*  you're probably not alone. [[00:00:55](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=55.24s)]
+*  Every presidential administration [[00:00:56](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=56.8s)]
+*  has an official called a diarist whose job [[00:00:58](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=58.44s)]
+*  is to keep a running list of the president's meetings, phone [[00:01:01](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=61.16s)]
+*  calls, and activities for posterity. [[00:01:04](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=64.0s)]
+*  The diarist works with top White House staff [[00:01:06](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=66.64s)]
+*  to create this record, which is compiled monthly. [[00:01:08](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=68.96s)]
+*  Now, CNN also reports that other witnesses have [[00:01:12](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=72.39999999999999s)]
+*  told the committee that there was significantly [[00:01:14](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=74.88s)]
+*  less information being shared with those involved [[00:01:17](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=77.24s)]
+*  in White House record keeping during the same time period, [[00:01:20](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=80.75999999999999s)]
+*  with one source telling CNN that, quote, [[00:01:24](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=84.4s)]
+*  White House record keepers appeared [[00:01:26](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=86.28s)]
+*  to be iced out in the days leading up to January 6, [[00:01:28](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=88.44000000000001s)]
+*  end quote. [[00:01:31](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=91.92s)]
+*  Joining us now is the former United States [[00:01:32](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=92.84s)]
+*  attorney for the Eastern District of Michigan, Barbara [[00:01:34](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=94.64s)]
+*  McQuaid. [[00:01:37](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=97.0s)]
+*  Barbara, thanks for being here. [[00:01:37](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=97.84s)]
+*  We have a lot to talk about here, [[00:01:39](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=99.0s)]
+*  but I want to just focus on this diarist for a second. [[00:01:40](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=100.46000000000001s)]
+*  These things are not just for posterity. [[00:01:44](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=104.4s)]
+*  There are requirements, particularly [[00:01:46](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=106.84s)]
+*  with the National Archives, about the type of record [[00:01:48](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=108.68s)]
+*  keeping that the White House is supposed to keep, [[00:01:50](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=110.72s)]
+*  which is why we're all worried about those several hours [[00:01:52](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=112.8s)]
+*  of phone calls that are missing. [[00:01:55](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=115.32s)]
+*  This is abnormal, to say the least. [[00:01:57](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=117.24s)]
+*  It's abnormal and also violates the Presidential Records Act, [[00:02:00](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=120.52s)]
+*  Ali. [[00:02:03](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=123.64s)]
+*  There is law passed after Watergate [[00:02:04](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=124.39999999999999s)]
+*  for the very purpose of memorializing [[00:02:06](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=126.72s)]
+*  what the president does, where he goes, who he talks to, [[00:02:09](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=129.07999999999998s)]
+*  who comes to visit him at the White House. [[00:02:12](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=132.4s)]
+*  That is all a law. [[00:02:14](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=134.4s)]
+*  And so to fail to comply with that law is a violation. [[00:02:15](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=135.51999999999998s)]
+*  Now, here's the rub. [[00:02:18](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=138.57999999999998s)]
+*  There's no violation. [[00:02:19](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=139.64s)]
+*  There's no enforcement mechanism in the Presidential Records Act. [[00:02:20](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=140.72s)]
+*  I still think that doesn't mean that there [[00:02:24](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=144.56s)]
+*  is no consequence here. [[00:02:26](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=146.48000000000002s)]
+*  It could be if this was an effort to conceal crimes. [[00:02:28](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=148.24s)]
+*  There could be an obstruction of justice here. [[00:02:31](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=151.64000000000001s)]
+*  Or at the very least, this is the kind of evidence [[00:02:33](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=153.64000000000001s)]
+*  that prosecutors refer to as consciousness of guilt. [[00:02:35](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=155.76000000000002s)]
+*  That is, I'm hiding my tracks because I [[00:02:38](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=158.88s)]
+*  knew I'm doing something wrong, and I [[00:02:40](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=160.84s)]
+*  want to make sure that it is not known to others later. [[00:02:42](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=162.60000000000002s)]
+*  And of course, one of the things you and I have discussed [[00:02:47](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=167.08s)]
+*  over the years is that there's a sort of a triangulation [[00:02:49](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=169.2s)]
+*  that prosecutors do, right? [[00:02:51](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=171.67999999999998s)]
+*  They get a piece of information here [[00:02:52](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=172.92s)]
+*  and a piece of information there. [[00:02:54](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=174.35999999999999s)]
+*  So this one becomes important, that something had changed, [[00:02:56](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=176.23999999999998s)]
+*  whether or not they were abiding by the law [[00:02:59](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=179.79999999999998s)]
+*  and the requirements of the Presidential Records Act, [[00:03:02](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=182.2s)]
+*  something in the days before January 6, [[00:03:04](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=184.83999999999997s)]
+*  according to this reporting of this diarist who [[00:03:07](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=187.64s)]
+*  has testified, changed. [[00:03:10](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=190.0s)]
+*  You are a quick study, Ali. [[00:03:12](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=192.95999999999998s)]
+*  Absolutely right. [[00:03:14](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=194.28s)]
+*  And so if you can show a pattern that for the first three [[00:03:15](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=195.16s)]
+*  years and many days of his administration, [[00:03:19](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=199.23999999999998s)]
+*  the diarist was on the job, he was [[00:03:21](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=201.35999999999999s)]
+*  getting consistent information, he had access. [[00:03:22](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=202.83999999999997s)]
+*  And suddenly in the days leading up [[00:03:25](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=205.51999999999998s)]
+*  to this insurrection at the White House, [[00:03:27](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=207.16s)]
+*  he gets squeezed out and frozen out. [[00:03:28](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=208.92s)]
+*  Is there something they didn't want him to see? [[00:03:30](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=210.56s)]
+*  And so we don't know the answer to that. [[00:03:32](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=212.6s)]
+*  The other possibility is dysfunction [[00:03:34](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=214.32s)]
+*  had taken over the White House as people [[00:03:36](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=216.23999999999998s)]
+*  were jumping ship in the waning days of an administration. [[00:03:37](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=217.88s)]
+*  But I think at least it raises some questions. [[00:03:40](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=220.83999999999997s)]
+*  Why was it that the diarist was not [[00:03:42](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=222.95999999999998s)]
+*  being given the same access that he [[00:03:44](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=224.51999999999998s)]
+*  had had for all those years before in the Trump [[00:03:46](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=226.0s)]
+*  administration? [[00:03:48](https://www.youtube.com/watch?v=Rolmkx3o7gY&t=228.36s)]

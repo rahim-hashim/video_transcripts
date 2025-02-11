@@ -1,0 +1,121 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 324s
+Video Keywords: ['Rachel Maddow', 'russia', 'ukraine', 'putin', 'ukrainians', 'russian army', 'msnbc', 'us news', 'news']
+Video Views: 708628
+Video Rating: None
+Video Description: Rob Lee, an expert on Russian defense policy, talks about new reports that Russia has lost a significant portion of its fighting force in Ukraine. 
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#MSNBC #Russia #Ukraine
+---
+
+# Experts Working To Assess Extent Of Degradation Of Russian Forces
+**NBC - Rachel Maddow:** [March 22, 2022](https://www.youtube.com/watch?v=cSYmEIfEceQ)
+*  Joining me now is Rob Lee, a former Marine Corps infantry officer and an expert on Russian [[00:00:00](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=0.0s)]
+*  defense policy. [[00:00:05](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=5.28s)]
+*  He's currently a senior fellow at the Foreign Policy Research Institute. [[00:00:06](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=6.28s)]
+*  Mr. Lee, thank you for joining us. [[00:00:10](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=10.120000000000001s)]
+*  It's good to see you this evening. [[00:00:11](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=11.64s)]
+*  I want to ask you about a senior Pentagon official telling reporters today that the [[00:00:13](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=13.32s)]
+*  Russian military has lost more than 10 percent of its combat power that was sent into Ukraine. [[00:00:17](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=17.400000000000002s)]
+*  There's no indication that reinforcements are being brought in from Russia, though we [[00:00:22](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=22.96s)]
+*  do know that they've been trying to recruit people into the military. [[00:00:26](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=26.84s)]
+*  Talk to me about this idea of losing 10 percent of your fighting force. [[00:00:31](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=31.240000000000002s)]
+*  In military terms, that's actually a turning point. [[00:00:34](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=34.120000000000005s)]
+*  Yeah, it's significant because, you know, Russian Kuhi has not achieved its goals yet. [[00:00:37](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=37.32s)]
+*  It wants to seize cities. [[00:00:44](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=44.0s)]
+*  It wants to circle Kiev, probably with deaths in some of the areas. [[00:00:45](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=45.400000000000006s)]
+*  It wants to further degrade the Ukrainian military. [[00:00:48](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=48.68000000000001s)]
+*  Every step away, Russia is facing significant attrition. [[00:00:53](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=53.480000000000004s)]
+*  And the more attrition they face, the more limitations they have on what kind of offensive [[00:00:56](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=56.56s)]
+*  operations can they do and can they actually take big cities like Kiev, which would require [[00:01:00](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=60.28s)]
+*  additional casualties. [[00:01:04](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=64.4s)]
+*  And so, you know, the figures we're seeing are and this is being backed up by just open [[00:01:05](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=65.4s)]
+*  source information on a number of destroyed or captured vehicles. [[00:01:10](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=70.44s)]
+*  All that's indicating that Russian military is going to really struggle to conduct further [[00:01:14](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=74.0s)]
+*  offensive operations for weeks and weeks at a time. [[00:01:17](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=77.84s)]
+*  And really, they're facing kind of a number of limitations at this point. [[00:01:21](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=81.2s)]
+*  There is a the Kremlin doesn't report on how many Russian troops have died. [[00:01:26](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=86.12s)]
+*  They do give out numbers, but they tend to be very low. [[00:01:30](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=90.32000000000001s)]
+*  We get much higher numbers from the Ukrainian government. [[00:01:32](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=92.76s)]
+*  We had a fairly sort of middle of the road estimate by U.S. intelligence. [[00:01:34](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=94.96000000000001s)]
+*  But yesterday, a pro Kremlin news outlet briefly reported that nearly 10,000 Russian soldiers [[00:01:40](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=100.0s)]
+*  had been killed. [[00:01:46](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=106.32000000000001s)]
+*  And then suddenly that reference was quickly removed from the website. [[00:01:47](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=107.44s)]
+*  What do we make of that? [[00:01:51](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=111.14s)]
+*  These numbers sound really remarkable for a major long standing army like the Russian [[00:01:52](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=112.32s)]
+*  Army. [[00:01:58](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=118.8s)]
+*  Yeah, it's hard to tell. [[00:01:59](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=119.8s)]
+*  It could be just a hack or it could be an intelligence operation from the Ukrainians [[00:02:03](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=123.0s)]
+*  who obviously know what they're doing in terms of intelligence or could have been just a [[00:02:06](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=126.44s)]
+*  mistake. [[00:02:10](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=130.56s)]
+*  And it was, you know, actual factual permission was published that wasn't supposed to be published. [[00:02:11](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=131.56s)]
+*  Hard to tell. [[00:02:15](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=135.35999999999999s)]
+*  But, you know, we know the Russian military is taking heavy casualties. [[00:02:16](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=136.35999999999999s)]
+*  vehicles from destroyed convoys that are clearly sustaining really heavy casualties. [[00:02:19](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=139.6s)]
+*  It's significant because it's not like anything Russia's faced in the last few wars they've [[00:02:24](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=144.72s)]
+*  fought. [[00:02:29](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=149.51999999999998s)]
+*  Right. [[00:02:30](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=150.51999999999998s)]
+*  And Georgia, you know, they had a few hundred casualties or a hundred deaths in 2014, 2015 [[00:02:31](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=151.51999999999998s)]
+*  Ukraine. [[00:02:36](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=156.12s)]
+*  It was only the hundreds in Syria was a low hundreds. [[00:02:37](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=157.12s)]
+*  So what they faced after a week in Ukraine this time was greater than the last three [[00:02:39](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=159.79999999999998s)]
+*  wars combined. [[00:02:44](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=164.24s)]
+*  And then, you know, that was weeks ago. [[00:02:45](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=165.67999999999998s)]
+*  And now the figures are obviously much greater. [[00:02:48](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=168.11999999999998s)]
+*  So even if that figure, you know, I don't know the veracity of it, but it's probably [[00:02:49](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=169.88s)]
+*  somewhere in the ballpark of what the actual casualty figures are. [[00:02:54](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=174.88s)]
+*  And we talk about that. [[00:02:59](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=179.0s)]
+*  But it's a substantial share of the Russian invasion force. [[00:03:00](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=180.0s)]
+*  And so again, that kind of attrition, it really affects what Russia most can do at this point [[00:03:02](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=182.76s)]
+*  because it limits their kind of the goals they can achieve. [[00:03:06](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=186.32s)]
+*  Let me ask you about air support and Air Force. [[00:03:09](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=189.48s)]
+*  The Ukrainians do have an Air Force. [[00:03:14](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=194.04s)]
+*  They do have trained pilots. [[00:03:16](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=196.16s)]
+*  The New York Times has some interesting reporting about the Ukrainian Air Force and how it's [[00:03:17](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=197.16s)]
+*  operating in quote what the Times says near total secrecy. [[00:03:21](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=201.20000000000002s)]
+*  One of the pilots they spoke to said, quote, in every fight with Russian jets, there's [[00:03:25](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=205.36s)]
+*  no equality. [[00:03:29](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=209.0s)]
+*  They always have five times more planes. [[00:03:30](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=210.0s)]
+*  And despite being outnumbered, Ukrainian pilots have been successful at preventing wider bombings. [[00:03:32](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=212.52s)]
+*  They've intercepted some missiles. [[00:03:37](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=217.92000000000002s)]
+*  Talk to me about this. [[00:03:39](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=219.58s)]
+*  They are vastly outnumbered by Russian jets. [[00:03:40](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=220.58s)]
+*  How is it? [[00:03:43](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=223.08s)]
+*  What's the outlook for the Air Force in Ukraine? [[00:03:44](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=224.6s)]
+*  So that's one thing. [[00:03:48](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=228.8s)]
+*  It's not fully known. [[00:03:50](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=230.36s)]
+*  It's kind of hard to tell from these open sources exactly what they're doing, and partially [[00:03:51](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=231.36s)]
+*  because I think they want it that way. [[00:03:54](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=234.64000000000001s)]
+*  But clearly they're still operating and clearly they're making life difficult for Russia. [[00:03:56](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=236.20000000000002s)]
+*  Then you know, in terms of an invasion for Russia, they want to have air supremacy where [[00:03:59](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=239.4s)]
+*  they can have, you know, fighter aircraft, bomber aircraft operating over Ukrainian forces [[00:04:03](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=243.92000000000002s)]
+*  at all times, being able to bomb them, the reconnaissance, all those kind of things. [[00:04:08](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=248.28s)]
+*  And they clearly can't do that effectively right now. [[00:04:12](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=252.12s)]
+*  I think part of that is because Ukraine's air defenses are still intact. [[00:04:14](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=254.0s)]
+*  And part of that is because the Ukrainian Air Force is still operating and still contesting [[00:04:17](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=257.44s)]
+*  the environment. [[00:04:21](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=261.56s)]
+*  So all of that makes it more difficult for the Russian Air Force. [[00:04:22](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=262.56s)]
+*  And a really key part of this is that interdiction missions, the really key mission that the [[00:04:24](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=264.44s)]
+*  Russian Air Force would like to take part in, that would include preventing Ukrainians [[00:04:29](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=269.56s)]
+*  from reinforcing locations, from resupplying cities, all those kind of things. [[00:04:34](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=274.03999999999996s)]
+*  And it's clear they're not really able to do that very effectively. [[00:04:37](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=277.68s)]
+*  Again, this is probably likely part of this is because the Ukrainian Air Force is still [[00:04:40](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=280.68s)]
+*  operating and still making the environment contested and making life difficult for the [[00:04:44](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=284.44s)]
+*  Russian Air Force, which is still, you know, part of the reason why Ukraine is resisting [[00:04:48](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=288.36s)]
+*  still today and why they're still having success. [[00:04:52](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=292.0s)]
+*  Rob, thank you for your analysis. [[00:04:57](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=297.16s)]
+*  We appreciate it. [[00:04:58](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=298.6s)]
+*  Rob Lee is a former Marine Corps infantry officer. [[00:04:59](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=299.6s)]
+*  We appreciate your time tonight. [[00:05:02](https://www.youtube.com/watch?v=cSYmEIfEceQ&t=302.84000000000003s)]

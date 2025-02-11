@@ -1,0 +1,121 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 396s
+Video Keywords: ['Rachel Maddow', 'kabul explosions', 'joe biden', 'isis-k bombings', 'kabul airport explosion', 'afghan war', 'kabul airport', 'kabul attack', 'taliban', 'afghanistan', 'kabul', 'msnbc', 'us news', 'news']
+Video Views: 53958
+Video Rating: None
+Video Description: Rachel Maddow points out the repeated warnings and alerts from the Biden administration that terrorists ISIS-K would likely target the evacuation operation at the airport in Kabul, making completion of that operation all the more urgent. Rep. Jason Crow discusses the challenges of turning intelligence into practical strategy in the midst of an operation like the Afghanistan evacuation. 
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Meet the Press Daily, The Beat with Ari Melber, Deadline: White House with Nicolle Wallace, The ReidOut, All In, Last Word, 11th Hour, and more.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: http://http://MSNBC.com/NewslettersYo...
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#MSNBC #Afghanistan #Kabul
+---
+
+# ISIS Attack Recognized Early As Inherent Risk Of Afghanistan Evacuation Mission
+**NBC - Middle East:** [August 26, 2021](https://www.youtube.com/watch?v=F3WqW9kmoQ0)
+*  Because when the group ISIS claimed responsibility, ISIS-K or ISIS-Khorasan, the Afghanistan affiliate [[00:00:00](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=0.0s)]
+*  of the Islamic State or ISIS, that too was something that we have had repeated explicit [[00:00:05](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=5.68s)]
+*  and increasingly urgent warnings about from U.S. officials. [[00:00:11](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=11.52s)]
+*  Warnings about that exact threat from that exact group that claimed responsibility for [[00:00:15](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=15.32s)]
+*  what happened today, those warnings started more than a week ago, and they came from U.S. [[00:00:19](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=19.78s)]
+*  officials up to and including the Secretary of State and even the President himself. [[00:00:26](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=26.0s)]
+*  We're also keeping a close watch on any potential terrorist threat at or around the airport, [[00:00:31](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=31.12s)]
+*  including from the ISIS affiliates in Afghanistan who were released from prison when the prisons [[00:00:38](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=38.519999999999996s)]
+*  were emptied. [[00:00:44](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=44.16s)]
+*  And because they are, by the way, it makes everybody understand that the ISIS in Afghanistan [[00:00:46](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=46.04s)]
+*  are the, have been the sworn enemy of the Taliban. [[00:00:52](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=52.72s)]
+*  There is complexity and there is turbulence on the ground in Kabul. [[00:00:55](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=55.8s)]
+*  And it's very risky and dangerous because there's a genuine threat from ISIS-K. [[00:01:00](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=60.8s)]
+*  That is the reality of what we are up against, and I'm not going to sugarcoat that reality. [[00:01:05](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=65.39999999999999s)]
+*  How real is this ISIS threat? [[00:01:10](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=70.28s)]
+*  The threat is real. [[00:01:13](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=73.56s)]
+*  It is acute. [[00:01:14](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=74.64s)]
+*  It is persistent. [[00:01:15](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=75.88s)]
+*  ISIS-K is a sworn enemy of the Taliban, and they have a history of fighting one another. [[00:01:16](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=76.88s)]
+*  But every day we have troops on the ground. [[00:01:24](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=84.32s)]
+*  These troops, innocent civilians at the airport, face the risk of attack from ISIS-K from a [[00:01:27](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=87.52s)]
+*  distance, even though we're moving back the perimeter significantly. [[00:01:33](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=93.16s)]
+*  We are sustaining the highest level of vigilance for an attack against the airport by ISIS-K [[00:01:37](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=97.52s)]
+*  or another terrorist group. [[00:01:43](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=103.6s)]
+*  They're real and significant challenges that we also have to take into consideration. [[00:01:45](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=105.56s)]
+*  The longer we stay, starting with the acute and growing risk of an attack by a terrorist [[00:01:50](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=110.56s)]
+*  group known as ISIS-K, an ISIS affiliate in Afghanistan, which is a sworn enemy of [[00:01:55](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=115.80000000000001s)]
+*  the Taliban as well. [[00:02:01](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=121.80000000000001s)]
+*  Every day we're on the ground, there's another day we know that ISIS-K is seeking to target [[00:02:04](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=124.12s)]
+*  the airport and attack both U.S. and allied forces and innocent civilians. [[00:02:08](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=128.56s)]
+*  It's hard to overstate the complexity and the danger of this effort. [[00:02:14](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=134.32s)]
+*  We're operating in a hostile environment in a city and country now controlled by the [[00:02:19](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=139.28s)]
+*  Taliban with the very real possibility of an ISIS-K attack. [[00:02:23](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=143.24s)]
+*  We're taking every precaution, but this is very high risk. [[00:02:29](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=149.96s)]
+*  For a week now, up to and including—yesterday with those remarks from Secretary of State [[00:02:35](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=155.28s)]
+*  Antony Blinken, up to and including overnight last night that urgent directive from the [[00:02:39](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=159.56s)]
+*  U.S. Embassy in Kabul that all Americans should leave the Abbey Gate immediately because of [[00:02:44](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=164.36s)]
+*  a specific threat there. [[00:02:48](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=168.18s)]
+*  They have been on this as an increasingly explicit threat of something they believed [[00:02:49](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=169.9s)]
+*  could and would happen. [[00:02:55](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=175.26000000000002s)]
+*  They said they believed it would happen at the airport, it would target U.S. forces, [[00:02:58](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=178.18s)]
+*  it would target innocent civilians at the airport, it would come from ISIS-K. [[00:03:01](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=181.5s)]
+*  The president was explicit that with each passing day that we kept going with these [[00:03:05](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=185.22s)]
+*  evacuation mission at the airport, an attack like the one we saw today was more likely. [[00:03:08](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=188.82s)]
+*  Would you rather they'd been blindsided? [[00:03:16](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=196.10000000000002s)]
+*  No, of course not. [[00:03:17](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=197.5s)]
+*  They were sounding the alarm that this was the biggest threat to U.S. forces there, and [[00:03:19](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=199.34s)]
+*  it was getting to be a more dangerous threat every day. [[00:03:25](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=205.14000000000001s)]
+*  They've obviously been doing everything they could to try to prevent this, but they [[00:03:27](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=207.9s)]
+*  knew it was a possibility. [[00:03:30](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=210.34s)]
+*  The urgency about getting the airlift evacuation mission done and over with has been driven [[00:03:32](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=212.86s)]
+*  in part, but explicitly by what they clearly and repeatedly reiterated was the risk of [[00:03:38](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=218.46s)]
+*  exactly this kind of attack by exactly this attacker. [[00:03:45](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=225.26s)]
+*  We expect, we didn't, we thought this would happen sooner or later. [[00:03:50](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=230.62s)]
+*  It's tragic that it happened today. [[00:03:54](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=234.45999999999998s)]
+*  It's tragic there was this much loss of life. [[00:03:55](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=235.73999999999998s)]
+*  We are prepared to continue the mission. [[00:03:57](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=237.7s)]
+*  Joining us now is Congressman Jason Crowe. [[00:03:59](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=239.66s)]
+*  As an Army Ranger in the 82nd Airborne, he served in both the Iraq War and the Afghanistan [[00:04:01](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=241.17999999999998s)]
+*  Wars. [[00:04:04](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=244.7s)]
+*  I'm struck tonight by the explicitness of the recent warnings we've had from U.S. officials [[00:04:05](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=245.7s)]
+*  about an attack of exactly this kind. [[00:04:12](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=252.06s)]
+*  I'm struck by the president saying the threat of exactly this kind of attack, which they [[00:04:15](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=255.10000000000002s)]
+*  knew was a real possibility, has been a big part of why he's committed to limit this [[00:04:19](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=259.58s)]
+*  operation and get out as soon as possible. [[00:04:24](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=264.02s)]
+*  I'm also struck by his simultaneous and now repeated commitment that we won't leave anyone [[00:04:26](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=266.62s)]
+*  behind. [[00:04:31](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=271.18s)]
+*  I mean, all of those things are coming together into what feels like a very difficult decision [[00:04:32](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=272.18s)]
+*  tree about what to do hour by hour and day by day. [[00:04:37](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=277.3s)]
+*  What do you hope to happen here, balancing those risks and the commitments that we've [[00:04:41](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=281.02s)]
+*  made? [[00:04:45](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=285.7s)]
+*  There's no doubt this is hard. [[00:04:46](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=286.7s)]
+*  It's easy to sit here in the comfort of a living room into Monday morning quarterback [[00:04:49](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=289.21999999999997s)]
+*  this. [[00:04:54](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=294.26s)]
+*  But I think back to my time as Private Crowe, I think back to my time as a Ranger, as a [[00:04:55](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=295.26s)]
+*  paratrooper, when I was on the ground and it's hot, it's dusty, there's yelling and [[00:04:58](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=298.62s)]
+*  screaming, there's gunshots, there's bomb blasts. [[00:05:03](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=303.97999999999996s)]
+*  We're largely sitting here with 18, 19, 20 year old privates and Lance corporals carrying [[00:05:07](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=307.22s)]
+*  rifles trying to figure this out under very, very difficult circumstances. [[00:05:12](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=312.66s)]
+*  So there is sometimes a huge gap between the intelligence we gather and the information [[00:05:17](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=317.66s)]
+*  we know and how we can put that into practice on the ground. [[00:05:22](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=322.34000000000003s)]
+*  And then that's no reflection on our men and women because they are doing an incredible [[00:05:26](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=326.06s)]
+*  job. [[00:05:29](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=329.58000000000004s)]
+*  We are asking them to do almost impossible things sometimes, but it's hard and it's imperfect [[00:05:30](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=330.58000000000004s)]
+*  and it's dirty. [[00:05:37](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=337.26s)]
+*  And that's why it's important that as we sit here on the hill in Washington, D.C., and [[00:05:38](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=338.26s)]
+*  we have conversations about these policies, we have to understand that downstream, down [[00:05:43](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=343.65999999999997s)]
+*  range, there's an 18 or 19 year old that has to carry it out. [[00:05:48](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=348.26s)]
+*  So what I hope is that we actually have the tough conversation and we learn from it in [[00:05:52](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=352.09999999999997s)]
+*  the long term. [[00:05:56](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=356.78s)]
+*  In the near term, we need to protect our troops. [[00:05:57](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=357.78s)]
+*  We need to expand the perimeter that's necessary to protect them. [[00:05:59](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=359.65999999999997s)]
+*  At the same time, we do have an obligation to get U.S. citizens out and as many of our [[00:06:03](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=363.58s)]
+*  Afghan partners out as we can. [[00:06:07](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=367.58s)]
+*  That is the mission. [[00:06:09](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=369.9s)]
+*  And I don't believe that should have a calendar deadline. [[00:06:10](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=370.9s)]
+*  I think we should pull out when we accomplish that mission. [[00:06:13](https://www.youtube.com/watch?v=F3WqW9kmoQ0&t=373.58s)]

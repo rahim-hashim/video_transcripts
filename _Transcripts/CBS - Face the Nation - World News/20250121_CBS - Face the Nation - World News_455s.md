@@ -1,0 +1,125 @@
+---
+Date Generated: February 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 455s
+Video Keywords: ['Politics', 'Donald Trump', 'World Economic Forum', 'Davos', 'Gaza Strip', 'Palestinians', 'Israel', 'Hamas', 'Russia', 'Ukraine', 'America Decides Segments', 'U.S.', 'World', 'CBS News']
+Video Views: 9039
+Video Rating: None
+Video Description: Leaders from around the globe are currently gathering in Davos, Switzerland, for the World Economic Forum's annual multi-day meeting as newly-inaugurated President Trump is beginning his second term. Ravi Agrawal, editor-in-chief of Foreign Policy magazine, joins "America Decides" from Davos to discuss how Trump is looming large over world leaders' talks.
+
+CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.
+
+Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews
+Watch CBS News 24/7: https://cbsnews.com/live/
+Download the CBS News app: https://cbsnews.com/mobile/
+Follow CBS News on Instagram: https://instagram.com/cbsnews/
+Like CBS News on Facebook: https://facebook.com/cbsnews
+Follow CBS News on X: https://twitter.com/cbsnews
+Subscribe to our newsletters: https://cbsnews.com/newsletters/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# How Trump's inauguration is playing into the World Economic Forum
+**CBS - Face the Nation - World News:** [January 21, 2025](https://www.youtube.com/watch?v=VapvlAfAp8I)
+*  Welcome back to America Decides. [[00:00:00](https://www.youtube.com/watch?v=VapvlAfAp8I&t=0.0s)]
+*  Government leaders and business leaders from around the globe [[00:00:02](https://www.youtube.com/watch?v=VapvlAfAp8I&t=2.0s)]
+*  are currently gathering in Davos, Switzerland, [[00:00:05](https://www.youtube.com/watch?v=VapvlAfAp8I&t=5.0s)]
+*  for the World Economic Forum's annual multi-day meeting. [[00:00:07](https://www.youtube.com/watch?v=VapvlAfAp8I&t=7.0s)]
+*  What world leaders are sure to discuss this week, [[00:00:11](https://www.youtube.com/watch?v=VapvlAfAp8I&t=11.0s)]
+*  newly inaugurated President Trump beginning his second term. [[00:00:14](https://www.youtube.com/watch?v=VapvlAfAp8I&t=14.0s)]
+*  Ravi Agrawal is in Davos covering the World Economic Forum meeting. [[00:00:18](https://www.youtube.com/watch?v=VapvlAfAp8I&t=18.0s)]
+*  He's doing so because he's an editor-in-chief of Foreign Policy magazine. [[00:00:22](https://www.youtube.com/watch?v=VapvlAfAp8I&t=22.0s)]
+*  Ravi, good to see you. Always a pleasure. [[00:00:26](https://www.youtube.com/watch?v=VapvlAfAp8I&t=26.0s)]
+*  Any talk so far about Trump 2.0 beginning yesterday going into his second day? [[00:00:28](https://www.youtube.com/watch?v=VapvlAfAp8I&t=28.0s)]
+*  Any talk. I mean, it's all the talk. [[00:00:35](https://www.youtube.com/watch?v=VapvlAfAp8I&t=35.0s)]
+*  I think it's rare that Davos is overshadowed by something else [[00:00:37](https://www.youtube.com/watch?v=VapvlAfAp8I&t=37.0s)]
+*  other than what's going on here. [[00:00:42](https://www.youtube.com/watch?v=VapvlAfAp8I&t=42.0s)]
+*  And this is certainly one year where a lot of the attention is actually on Washington, D.C. [[00:00:44](https://www.youtube.com/watch?v=VapvlAfAp8I&t=44.0s)]
+*  As Trump was speaking, as he was taking the oath of office yesterday, [[00:00:49](https://www.youtube.com/watch?v=VapvlAfAp8I&t=49.0s)]
+*  a lot of people, I was around CEOs, leaders, were anxiously checking in, [[00:00:54](https://www.youtube.com/watch?v=VapvlAfAp8I&t=54.0s)]
+*  looking at clips, trying to get a sense of what he might focus on. [[00:01:00](https://www.youtube.com/watch?v=VapvlAfAp8I&t=60.0s)]
+*  Obviously here in Davos, in Switzerland, there are a lot of European leaders in attendance. [[00:01:05](https://www.youtube.com/watch?v=VapvlAfAp8I&t=65.0s)]
+*  They're very worried about tariffs. [[00:01:11](https://www.youtube.com/watch?v=VapvlAfAp8I&t=71.0s)]
+*  There are leaders from other parts of the world who have other concerns about Trump's global agenda. [[00:01:13](https://www.youtube.com/watch?v=VapvlAfAp8I&t=73.0s)]
+*  Volodymyr Zelensky, the president of Ukraine, is here as well, [[00:01:20](https://www.youtube.com/watch?v=VapvlAfAp8I&t=80.0s)]
+*  also closely watching how Trump might change America's Ukraine policy. [[00:01:24](https://www.youtube.com/watch?v=VapvlAfAp8I&t=84.0s)]
+*  But really, in many ways, people are watching with bated breath [[00:01:30](https://www.youtube.com/watch?v=VapvlAfAp8I&t=90.0s)]
+*  to see if Trump's bite is going to be as bad in some senses as his bark on a lot of issues they care about. [[00:01:34](https://www.youtube.com/watch?v=VapvlAfAp8I&t=94.0s)]
+*  And, Ravi, to what degree is the conversation touching on things [[00:01:43](https://www.youtube.com/watch?v=VapvlAfAp8I&t=103.0s)]
+*  like what President Trump has said about Greenland or about the Panama Canal [[00:01:48](https://www.youtube.com/watch?v=VapvlAfAp8I&t=108.0s)]
+*  or something that seems fanciful here but may not be read as fanciful in Davos, [[00:01:53](https://www.youtube.com/watch?v=VapvlAfAp8I&t=113.0s)]
+*  renaming the Gulf of Mexico the Gulf of America? [[00:02:00](https://www.youtube.com/watch?v=VapvlAfAp8I&t=120.0s)]
+*  So I think a lot of people now, the types of people who come here, [[00:02:04](https://www.youtube.com/watch?v=VapvlAfAp8I&t=124.0s)]
+*  they've learned to take Trump seriously. [[00:02:11](https://www.youtube.com/watch?v=VapvlAfAp8I&t=131.0s)]
+*  And they want to be ready. [[00:02:14](https://www.youtube.com/watch?v=VapvlAfAp8I&t=134.0s)]
+*  So they have come out with strong statements, for example, on his comments about Greenland. [[00:02:17](https://www.youtube.com/watch?v=VapvlAfAp8I&t=137.0s)]
+*  Similarly, the Canadians have come out with very strong statements. [[00:02:23](https://www.youtube.com/watch?v=VapvlAfAp8I&t=143.0s)]
+*  Christopher Rieland, the former finance minister, [[00:02:27](https://www.youtube.com/watch?v=VapvlAfAp8I&t=147.0s)]
+*  wrote a great piece in the Washington Post about why Canada should oppose it [[00:02:30](https://www.youtube.com/watch?v=VapvlAfAp8I&t=150.0s)]
+*  and how Canada could make other friends if it needed to. [[00:02:36](https://www.youtube.com/watch?v=VapvlAfAp8I&t=156.0s)]
+*  So there's a lot of deterrence in that people know that Trump often trial balloons ideas. [[00:02:39](https://www.youtube.com/watch?v=VapvlAfAp8I&t=159.0s)]
+*  Sometimes his statements are negotiating tactics. [[00:02:47](https://www.youtube.com/watch?v=VapvlAfAp8I&t=167.0s)]
+*  I will say, though, that one thing that has changed from now, between now and, say, 2017, [[00:02:52](https://www.youtube.com/watch?v=VapvlAfAp8I&t=172.0s)]
+*  is that a lot of leaders around the world have cottoned on to what works with Trump, [[00:02:59](https://www.youtube.com/watch?v=VapvlAfAp8I&t=179.0s)]
+*  whether it's flattery, whether it is a sense that if he is transactional, [[00:03:06](https://www.youtube.com/watch?v=VapvlAfAp8I&t=186.0s)]
+*  then they, too, can be transactional in response to try to appeal to his quid pro quo nature [[00:03:11](https://www.youtube.com/watch?v=VapvlAfAp8I&t=191.0s)]
+*  or his smell for a deal. [[00:03:18](https://www.youtube.com/watch?v=VapvlAfAp8I&t=198.0s)]
+*  They've understood that. [[00:03:20](https://www.youtube.com/watch?v=VapvlAfAp8I&t=200.0s)]
+*  They've understood also that if you want to get in with Trump world, [[00:03:21](https://www.youtube.com/watch?v=VapvlAfAp8I&t=201.0s)]
+*  you could try to appeal to family members. [[00:03:25](https://www.youtube.com/watch?v=VapvlAfAp8I&t=205.0s)]
+*  They see Trump world as being run like a family business, [[00:03:28](https://www.youtube.com/watch?v=VapvlAfAp8I&t=208.0s)]
+*  which is not uncommon in many parts of the world. [[00:03:32](https://www.youtube.com/watch?v=VapvlAfAp8I&t=212.0s)]
+*  So people are cottoning on to how to deal with Trump. [[00:03:35](https://www.youtube.com/watch?v=VapvlAfAp8I&t=215.0s)]
+*  And, of course, he's mercurial, so he may know that and react in kind. [[00:03:39](https://www.youtube.com/watch?v=VapvlAfAp8I&t=219.0s)]
+*  Robbie, the politics of our current time, not just in America, but in Europe [[00:03:44](https://www.youtube.com/watch?v=VapvlAfAp8I&t=224.0s)]
+*  and other parts of the world, disdain, if not disregard, [[00:03:49](https://www.youtube.com/watch?v=VapvlAfAp8I&t=229.0s)]
+*  the international institutions built after the end of World War II [[00:03:53](https://www.youtube.com/watch?v=VapvlAfAp8I&t=233.0s)]
+*  and all the way through the Cold War. [[00:03:57](https://www.youtube.com/watch?v=VapvlAfAp8I&t=237.0s)]
+*  And there have been editorial cartoons and op-eds written about basically Russia, China, [[00:03:59](https://www.youtube.com/watch?v=VapvlAfAp8I&t=239.0s)]
+*  and the United States carving up the world to their own selfish self-interest. [[00:04:03](https://www.youtube.com/watch?v=VapvlAfAp8I&t=243.0s)]
+*  Is that a topic there? [[00:04:09](https://www.youtube.com/watch?v=VapvlAfAp8I&t=249.0s)]
+*  It is, and I'll tell you why. [[00:04:12](https://www.youtube.com/watch?v=VapvlAfAp8I&t=252.0s)]
+*  For the last three, four decades, there was a term called Davos Man, [[00:04:14](https://www.youtube.com/watch?v=VapvlAfAp8I&t=254.0s)]
+*  which became very popular, and that term was coined by Samuel Huntington, [[00:04:20](https://www.youtube.com/watch?v=VapvlAfAp8I&t=260.0s)]
+*  who founded the magazine I now work for, Foreign Policy. [[00:04:24](https://www.youtube.com/watch?v=VapvlAfAp8I&t=264.0s)]
+*  And Davos Man was meant to depict a sort of a caricature of a global elitist [[00:04:28](https://www.youtube.com/watch?v=VapvlAfAp8I&t=268.0s)]
+*  who comes here to Davos, is in a very global fashion, [[00:04:36](https://www.youtube.com/watch?v=VapvlAfAp8I&t=276.0s)]
+*  thinks that boundaries don't matter, that national loyalty doesn't matter. [[00:04:41](https://www.youtube.com/watch?v=VapvlAfAp8I&t=281.0s)]
+*  And that was very much the typical Davos attendee who believed in more globalization, [[00:04:46](https://www.youtube.com/watch?v=VapvlAfAp8I&t=286.0s)]
+*  more free trade, more coming together, that that would solve all problems. [[00:04:51](https://www.youtube.com/watch?v=VapvlAfAp8I&t=291.0s)]
+*  And it's very clear now that a strain of leaders around the world feel that that failed. [[00:04:56](https://www.youtube.com/watch?v=VapvlAfAp8I&t=296.0s)]
+*  It didn't work out. More globalization didn't fix every single problem. [[00:05:02](https://www.youtube.com/watch?v=VapvlAfAp8I&t=302.0s)]
+*  And the answer then is protectionism, nationalism, populism, [[00:05:06](https://www.youtube.com/watch?v=VapvlAfAp8I&t=306.0s)]
+*  the forces that Trump is now known for, but so are many other leaders around the world. [[00:05:10](https://www.youtube.com/watch?v=VapvlAfAp8I&t=310.0s)]
+*  In Europe, Viktor Orban in Hungary, for example, Millet in Argentina, many others. [[00:05:15](https://www.youtube.com/watch?v=VapvlAfAp8I&t=315.0s)]
+*  And that kind of spells, to a degree, the end of the original Davos Man, [[00:05:21](https://www.youtube.com/watch?v=VapvlAfAp8I&t=321.0s)]
+*  which a lot of people here are concerned about. [[00:05:27](https://www.youtube.com/watch?v=VapvlAfAp8I&t=327.0s)]
+*  However, Major, if you look at how closely CEOs have seemed to align themselves to Trump, [[00:05:30](https://www.youtube.com/watch?v=VapvlAfAp8I&t=330.0s)]
+*  not only in the last couple of months, but also just yesterday at the inauguration, [[00:05:38](https://www.youtube.com/watch?v=VapvlAfAp8I&t=338.0s)]
+*  then there is a clear sense that maybe business leaders are out to do business [[00:05:42](https://www.youtube.com/watch?v=VapvlAfAp8I&t=342.0s)]
+*  and they will do what it takes to get good deals for themselves. [[00:05:47](https://www.youtube.com/watch?v=VapvlAfAp8I&t=347.0s)]
+*  Whether it means a knee-jerk reaction to anything from DEI to borders or free trade, [[00:05:51](https://www.youtube.com/watch?v=VapvlAfAp8I&t=351.0s)]
+*  they will go with the flow. That's where we are now. [[00:05:59](https://www.youtube.com/watch?v=VapvlAfAp8I&t=359.0s)]
+*  Would you say, based on conversations there in Davos, Ravi, that there is an anticipation [[00:06:02](https://www.youtube.com/watch?v=VapvlAfAp8I&t=362.0s)]
+*  12 months from now, the next time Davos convenes, [[00:06:08](https://www.youtube.com/watch?v=VapvlAfAp8I&t=368.0s)]
+*  there will be something approximating a full-blown global trade war, [[00:06:11](https://www.youtube.com/watch?v=VapvlAfAp8I&t=371.0s)]
+*  fought largely through tariffs? [[00:06:15](https://www.youtube.com/watch?v=VapvlAfAp8I&t=375.0s)]
+*  Possibly. I think it is a major risk factor that a lot of CEOs cite. [[00:06:18](https://www.youtube.com/watch?v=VapvlAfAp8I&t=378.0s)]
+*  They are very worried about their supply chains. [[00:06:25](https://www.youtube.com/watch?v=VapvlAfAp8I&t=385.0s)]
+*  Remember, a lot of the CEOs here run big global firms, [[00:06:28](https://www.youtube.com/watch?v=VapvlAfAp8I&t=388.0s)]
+*  so their supply chains are mired in every country. [[00:06:32](https://www.youtube.com/watch?v=VapvlAfAp8I&t=392.0s)]
+*  They get components and components of components from a dizzying array of places, [[00:06:36](https://www.youtube.com/watch?v=VapvlAfAp8I&t=396.0s)]
+*  and they worry a lot about tariffs and the impact that could have on their bottom lines. [[00:06:41](https://www.youtube.com/watch?v=VapvlAfAp8I&t=401.0s)]
+*  That said, CEOs are aware as well that Trump is remarkably sensitive to the markets. [[00:06:46](https://www.youtube.com/watch?v=VapvlAfAp8I&t=406.0s)]
+*  He wants to see the stock markets do well. [[00:06:55](https://www.youtube.com/watch?v=VapvlAfAp8I&t=415.0s)]
+*  He wants to be liked and admired by the business community. [[00:06:57](https://www.youtube.com/watch?v=VapvlAfAp8I&t=417.0s)]
+*  Inasmuch as CEOs here at Davos are very aware that Trump has a dramatic impact on them, [[00:07:01](https://www.youtube.com/watch?v=VapvlAfAp8I&t=421.0s)]
+*  they also realize that they have a lever that they could exercise over him. [[00:07:07](https://www.youtube.com/watch?v=VapvlAfAp8I&t=427.0s)]
+*  They can lobby, and the markets matter to this White House. [[00:07:14](https://www.youtube.com/watch?v=VapvlAfAp8I&t=434.0s)]
+*  It will be very interesting to see the tussle between business and government, [[00:07:18](https://www.youtube.com/watch?v=VapvlAfAp8I&t=438.0s)]
+*  between money and power, who ends up winning out. [[00:07:23](https://www.youtube.com/watch?v=VapvlAfAp8I&t=443.0s)]
+*  Ravi Agrawal, editor-in-chief, Foreign Policy Magazine. [[00:07:27](https://www.youtube.com/watch?v=VapvlAfAp8I&t=447.0s)]
+*  Always a pleasure to hear. Thank you so much. [[00:07:30](https://www.youtube.com/watch?v=VapvlAfAp8I&t=450.0s)]
+*  Pleasure. [[00:07:32](https://www.youtube.com/watch?v=VapvlAfAp8I&t=452.0s)]

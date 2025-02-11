@@ -1,0 +1,137 @@
+---
+Date Generated: February 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 616s
+Video Keywords: ['Palestine', 'War', 'Hamas', 'Israel', 'Gaza Strip', 'Face The Nation', 'World']
+Video Views: 36202
+Video Rating: None
+Video Description: National security adviser Jake Sullivan tells "Face the Nation" that the U.S. has pressed Israel to distinguish between Hamas and Palestinian civilians amid growing pressure to protect civilians in Gaza as Israel expands its raids. "We have conversations like friends do on the hard questions that I talked about before — on issues associated with humanitarian aid, on distinguishing between terrorists and innocent civilians, on how Israel's thinking through its military operation," Sullivan said.
+
+#news #israel #gaza 
+
+"Face the Nation" is America's premier Sunday morning public affairs program. The broadcast is one of the longest-running news programs in the history of television, having debuted Nov. 7, 1954, on CBS. Every Sunday, "Face the Nation" moderator and CBS News senior foreign affairs correspondent Margaret Brennan welcomes leaders, newsmakers, and experts to a lively round table discussion of current events and the latest news.
+
+Subscribe to the "Face the Nation" YouTube channel: https://youtube.com/facethenation/​
+Watch full episodes of "Face the Nation": https://www.cbsnews.com/face-the-nation/full-episodes/
+Follow "Face the Nation" on Instagram: https://instagram.com/facethenation/
+Like "Face the Nation" on Facebook: https://facebook.com/FaceTheNation
+Follow "Face the Nation" on Twitter: https://twitter.com/FaceTheNation
+Subscribe to our newsletter: https://cbsnews.com/newsletter/
+Download the CBS News app: https://cbsnews.com/mobile/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# U.S. and Israel have had "conversations like friends do on the hard questions," Jake Sullivan says
+**CBS - Face the Nation - Middle East:** [October 29, 2023](https://www.youtube.com/watch?v=-HiN6l94ju8)
+*  We go now to White House National Security Advisor Jake Sullivan. Jake, good morning to you. [[00:00:00](https://www.youtube.com/watch?v=-HiN6l94ju8&t=0.0s)]
+*  Good morning, Margaret. [[00:00:05](https://www.youtube.com/watch?v=-HiN6l94ju8&t=5.92s)]
+*  Does the U.S. know if the roughly 500 to 600 Americans in Gaza have survived the past 23 [[00:00:07](https://www.youtube.com/watch?v=-HiN6l94ju8&t=7.44s)]
+*  days of bombing and have the hostages? We are in regular contact with most of the Americans who [[00:00:12](https://www.youtube.com/watch?v=-HiN6l94ju8&t=12.8s)]
+*  are in Gaza. We can't say every single one, but all of the ones who reach out to us we follow up [[00:00:19](https://www.youtube.com/watch?v=-HiN6l94ju8&t=19.84s)]
+*  with on a regular basis, even sometimes a daily basis. And so we know that many of them are still [[00:00:24](https://www.youtube.com/watch?v=-HiN6l94ju8&t=24.32s)]
+*  there, still waiting to get out, and we are working actively to try to make that happen. [[00:00:28](https://www.youtube.com/watch?v=-HiN6l94ju8&t=28.88s)]
+*  The challenge right now, Margaret, is that the Egyptians are prepared to let Americans and other [[00:00:33](https://www.youtube.com/watch?v=-HiN6l94ju8&t=33.2s)]
+*  foreign nationals out of Gaza. The Israelis have no issue with that, but Hamas is preventing their [[00:00:37](https://www.youtube.com/watch?v=-HiN6l94ju8&t=37.6s)]
+*  departure and making a series of demands. We're trying to work through that to create a circumstance [[00:00:42](https://www.youtube.com/watch?v=-HiN6l94ju8&t=42.8s)]
+*  where all of the Americans who are in Gaza are able to get out. Let me ask you about Israel and [[00:00:47](https://www.youtube.com/watch?v=-HiN6l94ju8&t=47.92s)]
+*  how it has explained its mission to the U.S. government. Saturday, their military said it [[00:00:53](https://www.youtube.com/watch?v=-HiN6l94ju8&t=53.68s)]
+*  killed a Hamas leader who had overseen the drone strikes and the paragliders who carried out that [[00:00:59](https://www.youtube.com/watch?v=-HiN6l94ju8&t=59.28s)]
+*  horrific attack on October 7th. They'd already announced that they'd killed the commander of [[00:01:04](https://www.youtube.com/watch?v=-HiN6l94ju8&t=64.24s)]
+*  forces responsible for the massacre at Kibbutz Nareem and another key Hamas commander. Have they [[00:01:08](https://www.youtube.com/watch?v=-HiN6l94ju8&t=68.48s)]
+*  told you yet at which point they will declare this mission a success? Well, they have declared, [[00:01:14](https://www.youtube.com/watch?v=-HiN6l94ju8&t=74.8s)]
+*  they have told us in broad terms that making sure that Hamas can never again threaten Israel [[00:01:21](https://www.youtube.com/watch?v=-HiN6l94ju8&t=81.04s)]
+*  in the way it threatened Israel before is their core strategic objective in this conflict. [[00:01:27](https://www.youtube.com/watch?v=-HiN6l94ju8&t=87.12s)]
+*  But in terms of what the specific milestones are, that is something that ultimately is up to Israel. [[00:01:32](https://www.youtube.com/watch?v=-HiN6l94ju8&t=92.16000000000001s)]
+*  This is their military operation. They will make that decision, and we will continue to ask the [[00:01:38](https://www.youtube.com/watch?v=-HiN6l94ju8&t=98.08000000000001s)]
+*  hard questions of them, Margaret, that we would ask of ourselves in a military operation like this. [[00:01:42](https://www.youtube.com/watch?v=-HiN6l94ju8&t=102.72s)]
+*  What exactly are the objectives? How are the means matched to the objectives? And how will [[00:01:47](https://www.youtube.com/watch?v=-HiN6l94ju8&t=107.44s)]
+*  this evolve over time? That's a conversation we've been having. It's a conversation we will [[00:01:51](https://www.youtube.com/watch?v=-HiN6l94ju8&t=111.75999999999999s)]
+*  continue to have in the days ahead. So it sounds like that end game has not been specifically [[00:01:55](https://www.youtube.com/watch?v=-HiN6l94ju8&t=115.92s)]
+*  laid out. Do you expect at this point a full-scale Israeli invasion and occupation of Gaza, [[00:02:01](https://www.youtube.com/watch?v=-HiN6l94ju8&t=121.2s)]
+*  or is that off the table? Well, I'll let the Israeli defense forces speak to what their [[00:02:08](https://www.youtube.com/watch?v=-HiN6l94ju8&t=128.0s)]
+*  operational planning is, and I'm not going to characterize it on television today. [[00:02:13](https://www.youtube.com/watch?v=-HiN6l94ju8&t=133.68s)]
+*  What I will say is that the United States has been very focused on a core challenge here, [[00:02:18](https://www.youtube.com/watch?v=-HiN6l94ju8&t=138.64000000000001s)]
+*  which is that Hamas is using civilians as human shields. They're hiding behind civilians. They're [[00:02:23](https://www.youtube.com/watch?v=-HiN6l94ju8&t=143.92000000000002s)]
+*  hiding among civilians. They're putting rockets and other terrorist infrastructure in civilian [[00:02:30](https://www.youtube.com/watch?v=-HiN6l94ju8&t=150.0s)]
+*  areas. That creates an added burden for the Israeli defense forces, but it does not lessen [[00:02:35](https://www.youtube.com/watch?v=-HiN6l94ju8&t=155.44s)]
+*  their responsibility to distinguish between terrorists and innocent civilians and to protect [[00:02:40](https://www.youtube.com/watch?v=-HiN6l94ju8&t=160.88s)]
+*  the lives of innocent civilians as they conduct this military operation. That's true of striking [[00:02:46](https://www.youtube.com/watch?v=-HiN6l94ju8&t=166.64s)]
+*  from the air. It is true of going in on the ground. And this is something that we talk about with the [[00:02:51](https://www.youtube.com/watch?v=-HiN6l94ju8&t=171.28s)]
+*  Israelis on a daily basis. I understand, but I also understand now that there has been a tremendous [[00:02:55](https://www.youtube.com/watch?v=-HiN6l94ju8&t=175.6s)]
+*  amount of death in Gaza. I know President Biden said the other day he has no confidence in the [[00:03:01](https://www.youtube.com/watch?v=-HiN6l94ju8&t=181.51999999999998s)]
+*  numbers presented by Palestinian authorities in Gaza, but I wonder at which point does the U.S. [[00:03:08](https://www.youtube.com/watch?v=-HiN6l94ju8&t=188.24s)]
+*  say there needs to be some cessation of violence? Well, first, President Biden was making a [[00:03:14](https://www.youtube.com/watch?v=-HiN6l94ju8&t=194.56s)]
+*  straightforward point, which is that the particular institution, the Gaza Health Ministry, [[00:03:21](https://www.youtube.com/watch?v=-HiN6l94ju8&t=201.76000000000002s)]
+*  which is run by Hamas, we can't take what Hamas says at face value, but we have also been clear [[00:03:27](https://www.youtube.com/watch?v=-HiN6l94ju8&t=207.28s)]
+*  repeatedly that we have seen thousands of Palestinian civilians killed in this conflict, [[00:03:33](https://www.youtube.com/watch?v=-HiN6l94ju8&t=213.6s)]
+*  that that is a tragedy. Each and every one of those individual deaths is a tragedy and that the [[00:03:39](https://www.youtube.com/watch?v=-HiN6l94ju8&t=219.92s)]
+*  life of every civilian, Palestinian, Israeli, anyone is sacred and has to be protected. [[00:03:46](https://www.youtube.com/watch?v=-HiN6l94ju8&t=226.64s)]
+*  And it is important for Israel to distinguish between going after terrorist targets, to take [[00:03:53](https://www.youtube.com/watch?v=-HiN6l94ju8&t=233.68s)]
+*  out terrorists who continue to threaten Israel, and going after civilians. That is an obligation [[00:04:00](https://www.youtube.com/watch?v=-HiN6l94ju8&t=240.24s)]
+*  and a responsibility for Israel and it's something that we will continue to press them on. We also [[00:04:05](https://www.youtube.com/watch?v=-HiN6l94ju8&t=245.28s)]
+*  believe that there should be humanitarian pauses to get hostages out, potentially to get aid in, [[00:04:10](https://www.youtube.com/watch?v=-HiN6l94ju8&t=250.24s)]
+*  and we will continue to work toward that end. I know, Jake, I've heard this and frankly some [[00:04:16](https://www.youtube.com/watch?v=-HiN6l94ju8&t=256.16s)]
+*  of the language is a little contradictory or it sounds that way because Secretary Blinken said [[00:04:21](https://www.youtube.com/watch?v=-HiN6l94ju8&t=261.52s)]
+*  even a temporary pause in bombing would benefit Hamas. He said that on this program last week. [[00:04:27](https://www.youtube.com/watch?v=-HiN6l94ju8&t=267.04s)]
+*  Then a few days later he went to the UN and said a humanitarian pause must be considered. Then the US [[00:04:31](https://www.youtube.com/watch?v=-HiN6l94ju8&t=271.92s)]
+*  at the UN voted against a humanitarian truce. So what exactly is the Biden administration calling [[00:04:39](https://www.youtube.com/watch?v=-HiN6l94ju8&t=279.20000000000005s)]
+*  for here? Because everyone from the Pope to the World Health Organization to the UN is saying [[00:04:46](https://www.youtube.com/watch?v=-HiN6l94ju8&t=286.24s)]
+*  just stop the violence for a period of time at least. Well, what a lot of people are calling [[00:04:51](https://www.youtube.com/watch?v=-HiN6l94ju8&t=291.2s)]
+*  for is just a stop to Israeli military action against terrorists, period. Just stop. No more. [[00:04:57](https://www.youtube.com/watch?v=-HiN6l94ju8&t=297.76s)]
+*  Israel cannot go after terrorists who conducted this largest massacre of Jews since the Holocaust [[00:05:04](https://www.youtube.com/watch?v=-HiN6l94ju8&t=304.48s)]
+*  and who continue to fire rockets and continue to attack Israel. We have taken the position that [[00:05:11](https://www.youtube.com/watch?v=-HiN6l94ju8&t=311.68s)]
+*  Israel has a right to defend itself against terrorist attacks. That is different from what [[00:05:16](https://www.youtube.com/watch?v=-HiN6l94ju8&t=316.72s)]
+*  Secretary Blinken spoke about, which was a humanitarian pause. A pause in the fighting, [[00:05:21](https://www.youtube.com/watch?v=-HiN6l94ju8&t=321.92s)]
+*  for example, so that there's a period of time where there can be safe passage of hostages. [[00:05:27](https://www.youtube.com/watch?v=-HiN6l94ju8&t=327.52000000000004s)]
+*  So just hours. President Biden and his whole team are working extremely hard to get those hostages [[00:05:32](https://www.youtube.com/watch?v=-HiN6l94ju8&t=332.16s)]
+*  out. We will continue to do that. I won't put a time frame on it, but I will say that given the [[00:05:38](https://www.youtube.com/watch?v=-HiN6l94ju8&t=338.0s)]
+*  number of hostages, it would be more than just hours if we were able to secure their release, [[00:05:43](https://www.youtube.com/watch?v=-HiN6l94ju8&t=343.6s)]
+*  and we are actively working to secure their release. And similarly, when Secretary Blinken [[00:05:48](https://www.youtube.com/watch?v=-HiN6l94ju8&t=348.88s)]
+*  said that any pause in fighting benefits Hamas, that's a reality. There are a lot of complicated [[00:05:53](https://www.youtube.com/watch?v=-HiN6l94ju8&t=353.92s)]
+*  realities in this. A humanitarian pause would be a good thing to get hostages out, but you can bet [[00:05:58](https://www.youtube.com/watch?v=-HiN6l94ju8&t=358.64000000000004s)]
+*  that Hamas will try to use that time to their advantage as well. These are the things that [[00:06:04](https://www.youtube.com/watch?v=-HiN6l94ju8&t=364.72s)]
+*  Israel is trying to grapple with. So to that point, Benny Gantz, who is part of the Netanyahu [[00:06:09](https://www.youtube.com/watch?v=-HiN6l94ju8&t=369.28s)]
+*  War Cabinet, said, we will listen to our friends, but we will act in accordance with what is right [[00:06:14](https://www.youtube.com/watch?v=-HiN6l94ju8&t=374.08s)]
+*  for us. Is there any daylight, Jake, between the U.S. and the Netanyahu government right now? [[00:06:19](https://www.youtube.com/watch?v=-HiN6l94ju8&t=379.44s)]
+*  We have conversations like friends do on the hard questions that I talked about before, [[00:06:28](https://www.youtube.com/watch?v=-HiN6l94ju8&t=388.32s)]
+*  on issues associated with humanitarian aid, on distinguishing between terrorists and innocent [[00:06:34](https://www.youtube.com/watch?v=-HiN6l94ju8&t=394.8s)]
+*  civilians, on how Israel is thinking through its military operation. Those conversations happen [[00:06:39](https://www.youtube.com/watch?v=-HiN6l94ju8&t=399.92s)]
+*  multiple times a day. They happen between the president and the prime minister. They happen [[00:06:47](https://www.youtube.com/watch?v=-HiN6l94ju8&t=407.44000000000005s)]
+*  by the secretary of state, secretary of defense, myself, other senior members of our administration. [[00:06:51](https://www.youtube.com/watch?v=-HiN6l94ju8&t=411.20000000000005s)]
+*  We talk candidly. We talk directly. We share our views in an unvarnished way, and we will continue [[00:06:56](https://www.youtube.com/watch?v=-HiN6l94ju8&t=416.8s)]
+*  to do that. But sitting here in public, I will just say that the United States is going to make [[00:07:03](https://www.youtube.com/watch?v=-HiN6l94ju8&t=423.44s)]
+*  its principles and propositions absolutely clear, including the sanctity of innocent human life, [[00:07:08](https://www.youtube.com/watch?v=-HiN6l94ju8&t=428.8s)]
+*  and then we will continue to provide our advice to Israel in private. [[00:07:14](https://www.youtube.com/watch?v=-HiN6l94ju8&t=434.64s)]
+*  I understand this is another country's decisions here, but the U.S. gives more than $3 billion [[00:07:18](https://www.youtube.com/watch?v=-HiN6l94ju8&t=438.72s)]
+*  a year in aid to Israel. Some of those weapons being used in Gaza are purchased or help to be [[00:07:23](https://www.youtube.com/watch?v=-HiN6l94ju8&t=443.92s)]
+*  purchased with U.S. taxpayer funds. So whether it's intended or not, to some of the world, [[00:07:30](https://www.youtube.com/watch?v=-HiN6l94ju8&t=450.8s)]
+*  it looks like the U.S. is endorsing all of what Israel is doing here. Are you at all asking the [[00:07:38](https://www.youtube.com/watch?v=-HiN6l94ju8&t=458.08s)]
+*  military to be more limited in its tactics or more strategic? The United States of America, [[00:07:45](https://www.youtube.com/watch?v=-HiN6l94ju8&t=465.84000000000003s)]
+*  when we transfer weapons to another country, whether it's Israel or anyone else, [[00:07:54](https://www.youtube.com/watch?v=-HiN6l94ju8&t=474.08000000000004s)]
+*  requests, requires an assurance that those weapons will be used in accordance with the [[00:07:59](https://www.youtube.com/watch?v=-HiN6l94ju8&t=479.28s)]
+*  law of armed conflict, and we seek accountability to ensure that that is the case. We will continue [[00:08:04](https://www.youtube.com/watch?v=-HiN6l94ju8&t=484.32s)]
+*  to do that. We will also work round the clock to try to make sure that lifesaving humanitarian [[00:08:09](https://www.youtube.com/watch?v=-HiN6l94ju8&t=489.12s)]
+*  assistance gets to people in need. But fundamentally, what President Biden says, how he has described [[00:08:15](https://www.youtube.com/watch?v=-HiN6l94ju8&t=495.28s)]
+*  things from the point of view of civilian protection, access to lifesaving goods and [[00:08:22](https://www.youtube.com/watch?v=-HiN6l94ju8&t=502.0s)]
+*  medicine for civilians, this is where the United States stands. And we do not stand for the killing [[00:08:28](https://www.youtube.com/watch?v=-HiN6l94ju8&t=508.08s)]
+*  of innocent people, whether it be Palestinian, Israeli, or otherwise. And we weep and grieve [[00:08:33](https://www.youtube.com/watch?v=-HiN6l94ju8&t=513.92s)]
+*  for every lost life, and we'll continue to do so. Is that going to be your message to Saudi Arabia's [[00:08:41](https://www.youtube.com/watch?v=-HiN6l94ju8&t=521.04s)]
+*  defense minister when you meet tomorrow? I know you know a number of Arab partners are [[00:08:46](https://www.youtube.com/watch?v=-HiN6l94ju8&t=526.4s)]
+*  concerned about the level of violence in Gaza right now. We've been talking to our Arab partners, [[00:08:52](https://www.youtube.com/watch?v=-HiN6l94ju8&t=532.08s)]
+*  including to Saudi Arabia, about the unfolding crisis in Gaza. We listen to them carefully. [[00:08:58](https://www.youtube.com/watch?v=-HiN6l94ju8&t=538.32s)]
+*  We share our perspective. And yes, we will have the opportunity to dive deep, not just on what is [[00:09:05](https://www.youtube.com/watch?v=-HiN6l94ju8&t=545.6s)]
+*  happening today, but on what tomorrow could bring. Because what President Biden said in the Rose [[00:09:10](https://www.youtube.com/watch?v=-HiN6l94ju8&t=550.72s)]
+*  Garden this past week was that we can't go back to October 6th. That means Hamas can no longer [[00:09:15](https://www.youtube.com/watch?v=-HiN6l94ju8&t=555.68s)]
+*  terrorize Israel, but it also means that there needs to be a political horizon for the Palestinian [[00:09:20](https://www.youtube.com/watch?v=-HiN6l94ju8&t=560.72s)]
+*  people, two states for two peoples, the right of Palestinians to live in safety, dignity, [[00:09:25](https://www.youtube.com/watch?v=-HiN6l94ju8&t=565.9200000000001s)]
+*  and equality. And we're going to work towards that. And Arab states, including Saudi Arabia, [[00:09:31](https://www.youtube.com/watch?v=-HiN6l94ju8&t=571.0400000000001s)]
+*  have a role and a responsibility in that as well. Before I let you go, do you now believe Iran [[00:09:35](https://www.youtube.com/watch?v=-HiN6l94ju8&t=575.12s)]
+*  is deterred? Well, what I believe is that the United States will follow through on what we say [[00:09:40](https://www.youtube.com/watch?v=-HiN6l94ju8&t=580.24s)]
+*  we're going to do. We said that if our troops were attacked, we would respond. We responded. [[00:09:45](https://www.youtube.com/watch?v=-HiN6l94ju8&t=585.44s)]
+*  If they're attacked again, we will respond again. And we are vigilant because we are seeing [[00:09:49](https://www.youtube.com/watch?v=-HiN6l94ju8&t=589.68s)]
+*  elevated threats against our forces throughout the region and an elevated risk of this conflict [[00:09:55](https://www.youtube.com/watch?v=-HiN6l94ju8&t=595.52s)]
+*  spreading to other parts of the region. We are doing everything in our power to deter and prevent [[00:10:01](https://www.youtube.com/watch?v=-HiN6l94ju8&t=601.04s)]
+*  that. But I'm not going to predict what the future brings other than to say that if we are attacked, [[00:10:05](https://www.youtube.com/watch?v=-HiN6l94ju8&t=605.92s)]
+*  we will respond. Jake Sullivan, thank you for your time. [[00:10:11](https://www.youtube.com/watch?v=-HiN6l94ju8&t=611.76s)]

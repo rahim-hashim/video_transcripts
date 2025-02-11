@@ -1,0 +1,148 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 454s
+Video Keywords: ['Chris Hayes']
+Video Views: 567959
+Video Rating: None
+Video Description: Rachel Maddow, Lawrence O’Donnell and Chris Hayes break down the federal appeals court decision rejecting Trump’s claim of immunity from prosecution. “It was helpful, I think, for us as a country…that they did outright mock the claims that you have to be impeached and convicted in the Senate before he could be put on trial for committing murder or committing any of these other crimes,” says Maddow. 
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #Trump #immunity
+---
+
+# Maddow: Trump claim ‘outrighted mocked’ by court in immunity rejection
+**NBC - Chris Hayes:** [February 06, 2024](https://www.youtube.com/watch?v=thZTdfgFago)
+*  I'm joined now by Rachel Maddow, host of the Rachel Maddow Show, and Lawrence O'Donnell, [[00:00:00](https://www.youtube.com/watch?v=thZTdfgFago&t=0.0s)]
+*  host of The Last Word. [[00:00:05](https://www.youtube.com/watch?v=thZTdfgFago&t=5.32s)]
+*  All right, let me get first sort of top-line reactions from you, Rachel, to the court's [[00:00:06](https://www.youtube.com/watch?v=thZTdfgFago&t=6.6000000000000005s)]
+*  decision today. [[00:00:10](https://www.youtube.com/watch?v=thZTdfgFago&t=10.8s)]
+*  Well, first of all, just kudos on Fakakta nonsense at the end of the A-block. [[00:00:11](https://www.youtube.com/watch?v=thZTdfgFago&t=11.8s)]
+*  It was just, I aspire to end up there at the end of a monologue, an explanatory one like [[00:00:17](https://www.youtube.com/watch?v=thZTdfgFago&t=17.32s)]
+*  this. [[00:00:23](https://www.youtube.com/watch?v=thZTdfgFago&t=23.400000000000002s)]
+*  I think, Chris, that the thing that was interesting to me about this ruling was that from the [[00:00:24](https://www.youtube.com/watch?v=thZTdfgFago&t=24.599999999999998s)]
+*  very beginning—you're right that there is complicated jurisdictional stuff, there's [[00:00:30](https://www.youtube.com/watch?v=thZTdfgFago&t=30.56s)]
+*  stuff that lawyers will get that other people won't get in here. [[00:00:34](https://www.youtube.com/watch?v=thZTdfgFago&t=34.879999999999995s)]
+*  But from the very beginning, it was very blunt on stuff that there's been an effort to [[00:00:37](https://www.youtube.com/watch?v=thZTdfgFago&t=37.519999999999996s)]
+*  be fuzzy about by people in the political arena. [[00:00:42](https://www.youtube.com/watch?v=thZTdfgFago&t=42.239999999999995s)]
+*  It says at the very outset of the ruling, there was not a peaceful transition of power. [[00:00:44](https://www.youtube.com/watch?v=thZTdfgFago&t=44.68s)]
+*  The reason the Congress was attacked, that resulted from Trump's rally, from which [[00:00:49](https://www.youtube.com/watch?v=thZTdfgFago&t=49.6s)]
+*  thousands of people then marched to the Capitol and attacked Congress. [[00:00:56](https://www.youtube.com/watch?v=thZTdfgFago&t=56.2s)]
+*  It's very blunt about those things. [[00:00:59](https://www.youtube.com/watch?v=thZTdfgFago&t=59.64s)]
+*  It calls it an unprecedented assault on our system of government. [[00:01:01](https://www.youtube.com/watch?v=thZTdfgFago&t=61.08s)]
+*  Just very blunt about these things that there have been efforts to obfuscate, and I thought [[00:01:05](https://www.youtube.com/watch?v=thZTdfgFago&t=65.16s)]
+*  that was helpful. [[00:01:09](https://www.youtube.com/watch?v=thZTdfgFago&t=69.52000000000001s)]
+*  But I also just thought it was helpful, I think, for us as a country in talking about [[00:01:10](https://www.youtube.com/watch?v=thZTdfgFago&t=70.52000000000001s)]
+*  this, that they did outright mock the claims that you have to be impeached and convicted [[00:01:16](https://www.youtube.com/watch?v=thZTdfgFago&t=76.36s)]
+*  in the Senate before you could be put on trial for committing murder or committing any of [[00:01:22](https://www.youtube.com/watch?v=thZTdfgFago&t=82.75999999999999s)]
+*  these other crimes. [[00:01:27](https://www.youtube.com/watch?v=thZTdfgFago&t=87.44s)]
+*  And I think that it's good that they basically rebutted what I think of as the common sense [[00:01:29](https://www.youtube.com/watch?v=thZTdfgFago&t=89.83999999999999s)]
+*  claim here, which is that other presidents like Richard Nixon, like even Bill Clinton, [[00:01:34](https://www.youtube.com/watch?v=thZTdfgFago&t=94.72s)]
+*  like other presidents in their real lives have shown—even Trump in his presidency [[00:01:39](https://www.youtube.com/watch?v=thZTdfgFago&t=99.63999999999999s)]
+*  has shown and has articulated that they knew they could be put on trial after they were [[00:01:44](https://www.youtube.com/watch?v=thZTdfgFago&t=104.7s)]
+*  out of office. [[00:01:49](https://www.youtube.com/watch?v=thZTdfgFago&t=109.42s)]
+*  They've all known it. [[00:01:50](https://www.youtube.com/watch?v=thZTdfgFago&t=110.42s)]
+*  It's a common sense thing that many presidents have conceded, including Trump himself while [[00:01:51](https://www.youtube.com/watch?v=thZTdfgFago&t=111.42s)]
+*  he was being impeached. [[00:01:56](https://www.youtube.com/watch?v=thZTdfgFago&t=116.02s)]
+*  And those things, I think, they just operate in the public sphere as well as they operate [[00:01:57](https://www.youtube.com/watch?v=thZTdfgFago&t=117.82s)]
+*  in the law. [[00:02:02](https://www.youtube.com/watch?v=thZTdfgFago&t=122.97999999999999s)]
+*  And we really need that. [[00:02:03](https://www.youtube.com/watch?v=thZTdfgFago&t=123.97999999999999s)]
+*  We need that from the judiciary right now so people really understand what's going on [[00:02:04](https://www.youtube.com/watch?v=thZTdfgFago&t=124.97999999999999s)]
+*  here. [[00:02:07](https://www.youtube.com/watch?v=thZTdfgFago&t=127.94s)]
+*  Yeah, there's two places in particular they make those citations. [[00:02:08](https://www.youtube.com/watch?v=thZTdfgFago&t=128.94s)]
+*  So the Nixon-Ford example, which I think is the most famous to all of us, like it was [[00:02:10](https://www.youtube.com/watch?v=thZTdfgFago&t=130.94s)]
+*  the biggest story in the country at the time that Ford was prospectively pardoning Richard [[00:02:15](https://www.youtube.com/watch?v=thZTdfgFago&t=135.3s)]
+*  Nixon. [[00:02:19](https://www.youtube.com/watch?v=thZTdfgFago&t=139.22s)]
+*  And literally everyone in the country understood that the reason he was doing that and the [[00:02:20](https://www.youtube.com/watch?v=thZTdfgFago&t=140.22s)]
+*  reason Nixon was accepting it is because he was probably going to be indicted and face [[00:02:23](https://www.youtube.com/watch?v=thZTdfgFago&t=143.02s)]
+*  criminal prosecution. [[00:02:26](https://www.youtube.com/watch?v=thZTdfgFago&t=146.14s)]
+*  But there's also Bill Clinton cutting a deal on his way out the door of the White House [[00:02:27](https://www.youtube.com/watch?v=thZTdfgFago&t=147.34s)]
+*  to basically have his law license suspended in exchange basically for not being prosecuted, [[00:02:31](https://www.youtube.com/watch?v=thZTdfgFago&t=151.06s)]
+*  another point at which clearly he thought it was possible. [[00:02:37](https://www.youtube.com/watch?v=thZTdfgFago&t=157.7s)]
+*  And then, Rachel, your point, they also cite Trump's own lawyers at his impeachment trial, [[00:02:41](https://www.youtube.com/watch?v=thZTdfgFago&t=161.54s)]
+*  which I thought was interesting, whether that was going to make him the opinion saying, [[00:02:45](https://www.youtube.com/watch?v=thZTdfgFago&t=165.98s)]
+*  this doesn't say you can't go indict the guy. [[00:02:50](https://www.youtube.com/watch?v=thZTdfgFago&t=170.45999999999998s)]
+*  I mean, literally his other lawyers, different lawyers, say that. [[00:02:52](https://www.youtube.com/watch?v=thZTdfgFago&t=172.78s)]
+*  So yeah, all three of those examples, which I think are sort of common sense historical [[00:02:56](https://www.youtube.com/watch?v=thZTdfgFago&t=176.1s)]
+*  examples rather than arcane legal ones, are in the opinion very persuasive. [[00:02:59](https://www.youtube.com/watch?v=thZTdfgFago&t=179.98s)]
+*  Lawrence, what do you think? [[00:03:03](https://www.youtube.com/watch?v=thZTdfgFago&t=183.66s)]
+*  So we're talking about President Bill Clinton, Yale Law School graduate, President Richard [[00:03:04](https://www.youtube.com/watch?v=thZTdfgFago&t=184.66s)]
+*  Nixon, Duke Law School graduate. [[00:03:09](https://www.youtube.com/watch?v=thZTdfgFago&t=189.94s)]
+*  They firmly believe that the president can absolutely be charged with crimes, certainly [[00:03:12](https://www.youtube.com/watch?v=thZTdfgFago&t=192.7s)]
+*  after leaving office. [[00:03:20](https://www.youtube.com/watch?v=thZTdfgFago&t=200.1s)]
+*  And so this is one of those opinions that says to America, it says to every high school [[00:03:21](https://www.youtube.com/watch?v=thZTdfgFago&t=201.82s)]
+*  history student in America, you're not crazy. [[00:03:27](https://www.youtube.com/watch?v=thZTdfgFago&t=207.98s)]
+*  It's what you thought. [[00:03:31](https://www.youtube.com/watch?v=thZTdfgFago&t=211.48s)]
+*  It's what we've always thought for the entire history of the republic. [[00:03:32](https://www.youtube.com/watch?v=thZTdfgFago&t=212.78s)]
+*  This is the way it is. [[00:03:36](https://www.youtube.com/watch?v=thZTdfgFago&t=216.82s)]
+*  And if we think back to the beginning of this case, there wasn't a single legal pundit, [[00:03:38](https://www.youtube.com/watch?v=thZTdfgFago&t=218.24s)]
+*  there wasn't anybody in the right wing anywhere saying, oh, well, you know, you can't indict [[00:03:42](https://www.youtube.com/watch?v=thZTdfgFago&t=222.9s)]
+*  him. [[00:03:48](https://www.youtube.com/watch?v=thZTdfgFago&t=228.94s)]
+*  He's completely immune. [[00:03:49](https://www.youtube.com/watch?v=thZTdfgFago&t=229.94s)]
+*  This notion had never even been advanced by anyone until Trump's lawyers decided to advance [[00:03:51](https://www.youtube.com/watch?v=thZTdfgFago&t=231.74s)]
+*  it in this case. [[00:03:57](https://www.youtube.com/watch?v=thZTdfgFago&t=237.46s)]
+*  And so, I mean, it kind of took everyone by surprise in how outrageous it was. [[00:03:59](https://www.youtube.com/watch?v=thZTdfgFago&t=239.06s)]
+*  And what you have here now is the proof that there is a very big difference between what [[00:04:04](https://www.youtube.com/watch?v=thZTdfgFago&t=244.76s)]
+*  we call a novel case, which is this interesting issue that has never floated up all the way [[00:04:09](https://www.youtube.com/watch?v=thZTdfgFago&t=249.42000000000002s)]
+*  to the Supreme Court. [[00:04:14](https://www.youtube.com/watch?v=thZTdfgFago&t=254.82s)]
+*  Which is Thursday, I think it's fair to say. [[00:04:15](https://www.youtube.com/watch?v=thZTdfgFago&t=255.82s)]
+*  And a crazy case, which has absolutely no conceivable basis. [[00:04:17](https://www.youtube.com/watch?v=thZTdfgFago&t=257.58s)]
+*  Yeah. [[00:04:21](https://www.youtube.com/watch?v=thZTdfgFago&t=261.98s)]
+*  And there's, I mean, in some ways, I almost felt like it was, it's sort of a strange thing [[00:04:22](https://www.youtube.com/watch?v=thZTdfgFago&t=262.98s)]
+*  to read the opinion because it's incredibly persuasive, Rachel, and very thorough and [[00:04:27](https://www.youtube.com/watch?v=thZTdfgFago&t=267.3s)]
+*  goes through a bunch of stuff. [[00:04:31](https://www.youtube.com/watch?v=thZTdfgFago&t=271.38s)]
+*  But at some level, it was like, the essential point was so ludicrous that it almost made [[00:04:32](https://www.youtube.com/watch?v=thZTdfgFago&t=272.58s)]
+*  me mad that we, like, this is the way the system works. [[00:04:38](https://www.youtube.com/watch?v=thZTdfgFago&t=278.74s)]
+*  And it's, you know, it's important that the system work its way through. [[00:04:42](https://www.youtube.com/watch?v=thZTdfgFago&t=282.56s)]
+*  But there was almost some sense, it was like, right, of course, you know, as they went through [[00:04:45](https://www.youtube.com/watch?v=thZTdfgFago&t=285.46000000000004s)]
+*  every example, as they cited chapter and verse, as they, you know, limbed the lines of executive [[00:04:49](https://www.youtube.com/watch?v=thZTdfgFago&t=289.54s)]
+*  authority jurisprudence from Marbury to Youngstown and on and on and on. [[00:04:56](https://www.youtube.com/watch?v=thZTdfgFago&t=296.62s)]
+*  It was like, yes, yes, yes, yes, yes, this is precisely what it looks like, to Lawrence's [[00:05:01](https://www.youtube.com/watch?v=thZTdfgFago&t=301.1s)]
+*  point. [[00:05:06](https://www.youtube.com/watch?v=thZTdfgFago&t=306.3s)]
+*  Yes. [[00:05:07](https://www.youtube.com/watch?v=thZTdfgFago&t=307.3s)]
+*  And it's what we've all known was true all along. [[00:05:08](https://www.youtube.com/watch?v=thZTdfgFago&t=308.3s)]
+*  And you're trying to say that this is, you know, that we shouldn't believe our lying [[00:05:11](https://www.youtube.com/watch?v=thZTdfgFago&t=311.86s)]
+*  eyes and the presidency has always been something different. [[00:05:15](https://www.youtube.com/watch?v=thZTdfgFago&t=315.74s)]
+*  Here's all the ways in which that's not true. [[00:05:18](https://www.youtube.com/watch?v=thZTdfgFago&t=318.42s)]
+*  That's absolutely right. [[00:05:20](https://www.youtube.com/watch?v=thZTdfgFago&t=320.3s)]
+*  The other piece of this that I was just pleased to read is that there is an element of the [[00:05:22](https://www.youtube.com/watch?v=thZTdfgFago&t=322.7s)]
+*  defense that Trump has mounted, both in public relations, both as a public relations matter, [[00:05:30](https://www.youtube.com/watch?v=thZTdfgFago&t=330.82s)]
+*  but also as a legal matter to some extent. [[00:05:37](https://www.youtube.com/watch?v=thZTdfgFago&t=337.06s)]
+*  And I think of it as the mirrored sunglasses problem. [[00:05:41](https://www.youtube.com/watch?v=thZTdfgFago&t=341.09999999999997s)]
+*  Like, do we really want to be a country in which some lieutenant colonel in mirrored [[00:05:45](https://www.youtube.com/watch?v=thZTdfgFago&t=345.18s)]
+*  sunglasses has every incentive to hold on to power for his entire natural life? [[00:05:49](https://www.youtube.com/watch?v=thZTdfgFago&t=349.86s)]
+*  Because the expectation is that once you're no longer holding the reins of power, you're [[00:05:55](https://www.youtube.com/watch?v=thZTdfgFago&t=355.5s)]
+*  going to be prosecuted by your political enemies and by your political successors. [[00:05:59](https://www.youtube.com/watch?v=thZTdfgFago&t=359.66s)]
+*  I mean, it sucks to be a country where former presidents get prosecuted because that's a [[00:06:02](https://www.youtube.com/watch?v=thZTdfgFago&t=362.90000000000003s)]
+*  lousy thing about countries in which that's a regular dynamic, in which those prosecutions [[00:06:09](https://www.youtube.com/watch?v=thZTdfgFago&t=369.1s)]
+*  are politically motivated and they're junk prosecutions, but they're used for political [[00:06:14](https://www.youtube.com/watch?v=thZTdfgFago&t=374.86s)]
+*  purposes. [[00:06:19](https://www.youtube.com/watch?v=thZTdfgFago&t=379.66s)]
+*  Trump has made that case both in the courtroom and outside the courtroom. [[00:06:20](https://www.youtube.com/watch?v=thZTdfgFago&t=380.66s)]
+*  I've always felt like it's his strongest point. [[00:06:24](https://www.youtube.com/watch?v=thZTdfgFago&t=384.38s)]
+*  Obviously, the solution to that as a country is don't elect freaking criminals to be presidents. [[00:06:26](https://www.youtube.com/watch?v=thZTdfgFago&t=386.78000000000003s)]
+*  But you also got the judges today in the D.C. [[00:06:32](https://www.youtube.com/watch?v=thZTdfgFago&t=392.78000000000003s)]
+*  Circuit arguing against it and saying, listen, we have ways in our system of dealing with [[00:06:35](https://www.youtube.com/watch?v=thZTdfgFago&t=395.3s)]
+*  meritless and harassing prosecution. [[00:06:42](https://www.youtube.com/watch?v=thZTdfgFago&t=402.06s)]
+*  We have systems within our judiciary that prevent that. [[00:06:44](https://www.youtube.com/watch?v=thZTdfgFago&t=404.82s)]
+*  And so the idea that once you're prosecuted for crimes, you're going to then prosecute [[00:06:49](https://www.youtube.com/watch?v=thZTdfgFago&t=409.72s)]
+*  and everybody's going to prosecute people for nothing from here on out. [[00:06:54](https://www.youtube.com/watch?v=thZTdfgFago&t=414.8s)]
+*  No, the judiciary is here to make sure that doesn't happen. [[00:06:58](https://www.youtube.com/watch?v=thZTdfgFago&t=418.14s)]
+*  And we know that it won't. [[00:07:01](https://www.youtube.com/watch?v=thZTdfgFago&t=421.32s)]
+*  And seeing that asserted by this panel of judges to me actually made me feel better [[00:07:03](https://www.youtube.com/watch?v=thZTdfgFago&t=423.02s)]
+*  about that problem for the first time since this whole merry-go-round started spinning [[00:07:08](https://www.youtube.com/watch?v=thZTdfgFago&t=428.18s)]
+*  around. [[00:07:12](https://www.youtube.com/watch?v=thZTdfgFago&t=432.46s)]
+*  Yeah. [[00:07:13](https://www.youtube.com/watch?v=thZTdfgFago&t=433.46s)]

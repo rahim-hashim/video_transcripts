@@ -1,0 +1,158 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 537s
+Video Keywords: ['msnbc', 'MSNBC', 'Specials']
+Video Views: 110544
+Video Rating: None
+Video Description: Rachel Maddow explains the two facets of what prosecutors in Donald Trump's New York criminal trial showed in the early questioning of witness David Pecker, former publisher of the National Enquirer, who described "checkbook journalism" and the persuasive power of magazine covers, which, in the case of the National Enquirer, are seen by every American that goes to a supermarket.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#Trump #hushmoney #witness
+---
+
+# Prosecutors use National Enquirer witness to show Trump's in-plain-sight election influence scheme
+**NBC - Rachel Maddow:** [April 22, 2024](https://www.youtube.com/watch?v=-sYJhLRaTvE)
+*  Okay, question from the prosecutor. [[00:00:00](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=0.0s)]
+*  So, as CEO and president and chairman, did you have the final say over publishing decisions, [[00:00:03](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=3.0s)]
+*  including which stories would get published and which stories would not get published? [[00:00:09](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=9.6s)]
+*  Answer, from David Pecker, former CEO of American Media. [[00:00:13](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=13.76s)]
+*  Yes, I had the final say. [[00:00:17](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=17.52s)]
+*  On the celebrity side of the magazine industry, at least on the tabloid side, we used checkbook [[00:00:20](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=20.46s)]
+*  journalism and we pay for stories. [[00:00:25](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=25.8s)]
+*  So I gave a number to the editors that they could not spend more than $10,000 to investigate [[00:00:28](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=28.52s)]
+*  or produce or publish a story. [[00:00:33](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=33.72s)]
+*  So anything over $10,000 that they would spend on a story, that would have to be vetted and [[00:00:35](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=35.76s)]
+*  brought up to me if they were going to spend more for approval. [[00:00:40](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=40.4s)]
+*  Question, prosecutor. [[00:00:44](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=44.0s)]
+*  In addition to having to approve expenditures, did you also have final kind of editorial [[00:00:45](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=45.879999999999995s)]
+*  say? [[00:00:51](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=51.32s)]
+*  In other words, the ability to determine that a particular story was not going to be run [[00:00:52](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=52.32s)]
+*  or a particular story was going to be run? [[00:00:55](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=55.5s)]
+*  Answer, David Pecker. [[00:00:57](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=57.8s)]
+*  Being in the publishing industry for 40 years, I realized early in my career that the only [[00:00:58](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=58.8s)]
+*  thing that was important is the cover of a magazine. [[00:01:04](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=64.24s)]
+*  So when the editors produce a story or prepare the cover, we would have a meeting and they [[00:01:08](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=68.32s)]
+*  would present to me what the story would be, what the concept was, what the cost was going [[00:01:11](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=71.28s)]
+*  to be. [[00:01:14](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=74.28s)]
+*  Question, prosecutor. [[00:01:15](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=75.28s)]
+*  And if the story involved, I guess for lack of a better way to say it, a big story or [[00:01:16](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=76.28s)]
+*  a famous person, did you have the final say on whether or not to publish that story? [[00:01:20](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=80.68s)]
+*  Answer, David Pecker. [[00:01:25](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=85.47999999999999s)]
+*  Yes, I did. [[00:01:26](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=86.96000000000001s)]
+*  The first witness in the criminal trial of former President Donald Trump today was David [[00:01:29](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=89.36s)]
+*  Pecker, the former CEO of American Media Inc., AMI, which is the company that used to own [[00:01:34](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=94.36s)]
+*  the National Enquirer. [[00:01:39](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=99.84s)]
+*  Now two salient points here about that testimony from David Pecker. [[00:01:41](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=101.56s)]
+*  He's only on the stand for like half an hour today, but we get all of this very salient [[00:01:45](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=105.44s)]
+*  stuff for the prosecution's case. [[00:01:49](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=109.16s)]
+*  First of all, there's what he said about what counts as a normal amount of money for the [[00:01:52](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=112.30000000000001s)]
+*  kind of checkbook journalism that he says his company does. [[00:01:57](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=117.42s)]
+*  Anything over $10,000, that would be unusual. [[00:02:01](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=121.58000000000001s)]
+*  That would be sort of out of bounds. [[00:02:05](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=125.14s)]
+*  That would have to get personal approval from him as the chairman, president, and CEO of [[00:02:06](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=126.46000000000001s)]
+*  not just one of these publications, but the entire company with dozens of publications. [[00:02:12](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=132.02s)]
+*  Ten grand was the ceiling. [[00:02:17](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=137.18s)]
+*  Beyond that, it had to go personally through him. [[00:02:18](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=138.3s)]
+*  But in this case, prosecutors say they will present evidence that AMI was doing something [[00:02:22](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=142.34s)]
+*  in a whole other league when it came to what they were doing for Trump. [[00:02:27](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=147.38000000000002s)]
+*  For example, before even investigating a Trump property doorman's claim about Trump supposedly [[00:02:30](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=150.74s)]
+*  fathering a secret child with a housekeeper, they paid that man $30,000. [[00:02:36](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=156.74s)]
+*  They paid the man making the claim $30,000 to make him be quiet about it before they [[00:02:43](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=163.3s)]
+*  even investigated whether it might be true. [[00:02:48](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=168.70000000000002s)]
+*  Triple, what is their normal limit for having to go to the CEO? [[00:02:51](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=171.78s)]
+*  Also the claim about the affair with Trump from former Playboy playmate Karen McDougal. [[00:02:58](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=178.10000000000002s)]
+*  They paid her $150,000, which was 15 times their limit for going to the CEO and appears [[00:03:03](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=183.54000000000002s)]
+*  to have been way beyond what they were paying anybody else for anything. [[00:03:12](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=192.38s)]
+*  Prosecutor Matthew Colangelo, quote, after consulting with Cohen, Pecker directed his [[00:03:17](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=197.22s)]
+*  editor in chief at the National Enquirer to negotiate an agreement to pay $30,000 to the [[00:03:21](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=201.74s)]
+*  doorman to buy exclusive rights to that story. [[00:03:27](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=207.06s)]
+*  The evidence will show that Pecker was not acting as a publisher. [[00:03:30](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=210.54s)]
+*  He was acting as a co-conspirator. [[00:03:33](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=213.62s)]
+*  The evidence will show that this was a highly unusual deal, even for tabloid journalism. [[00:03:36](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=216.26s)]
+*  It was a lot more money than they would usually pay to a source. [[00:03:41](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=221.58s)]
+*  They bought the doorman story without even fully investigating it. [[00:03:45](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=225.46s)]
+*  It was the first time David Pecker had ever paid anyone for information about Donald Trump. [[00:03:48](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=228.82000000000002s)]
+*  But Pecker directed that the deal take place because of the agreement he had reached and [[00:03:54](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=234.10000000000002s)]
+*  because he had promised Trump at the Trump Tower meeting in August 2015 that he would [[00:03:58](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=238.14000000000001s)]
+*  use his media empire to help the defendant's campaign. [[00:04:01](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=241.9s)]
+*  And they knew that public disclosure of the doorman's information would hurt that campaign. [[00:04:05](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=245.98000000000002s)]
+*  So, what prosecutors laid out today and what the witness helped them prove today is that [[00:04:11](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=251.42s)]
+*  the practices described here in this alleged criminal conspiracy were not at all normal, [[00:04:17](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=257.98s)]
+*  not even for tabloid checkbook journalism that pays for stories. [[00:04:23](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=263.34s)]
+*  And even for American media specifically and the National Enquirer specifically, this is [[00:04:27](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=267.92s)]
+*  not their bag. [[00:04:32](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=272.65999999999997s)]
+*  This is not part of what they do as a magazine. [[00:04:34](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=274.22s)]
+*  This is part of what they do as an alleged criminal conspiracy with Donald Trump to illegally [[00:04:38](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=278.28s)]
+*  influence the election. [[00:04:42](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=282.84s)]
+*  So that's one. [[00:04:45](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=285.64s)]
+*  The second and final part about this David Pecker testimony that is perhaps salient to [[00:04:47](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=287.02s)]
+*  the overall case here is the part where he says that the quote, only thing that's important [[00:04:51](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=291.76s)]
+*  is the cover of a magazine. [[00:04:58](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=298.11999999999995s)]
+*  Stepping back from just the legal fight here, if this was a criminal conspiracy to influence [[00:05:03](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=303.2s)]
+*  the election, how much influence are we talking about here? [[00:05:08](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=308.06s)]
+*  In terms of how much influence this alleged criminal conspiracy could have had on the [[00:05:12](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=312.52s)]
+*  election, well, how influential is the National Enquirer? [[00:05:16](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=316.5s)]
+*  Right? [[00:05:20](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=320.06s)]
+*  I mean, the National Enquirer only reportedly has about 150,000, 200,000 copies sold nationwide [[00:05:21](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=321.06s)]
+*  in a week these days. [[00:05:27](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=327.46s)]
+*  But the covers, the covers are the only thing that matters. [[00:05:30](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=330.14s)]
+*  They have their covers in the face of everyone who shops in a mainstream grocery store anywhere [[00:05:34](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=334.02s)]
+*  in America in all 50 states. [[00:05:39](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=339.96s)]
+*  The cover of the National Enquirer, per David Pecker, the only thing that matters, the covers [[00:05:42](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=342.76s)]
+*  of that magazine from the time of this alleged criminal conspiracy with Trump, the covers [[00:05:47](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=347.65999999999997s)]
+*  that were in your face in every supermarket in the country week after week and for months [[00:05:53](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=353.32s)]
+*  on end looked like this. [[00:05:58](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=358.26s)]
+*  Trump, why I am the only choice for president. [[00:06:01](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=361.65999999999997s)]
+*  The Donald Trump nobody knows, the babes and bucks, the real reason he hates Obama and [[00:06:06](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=366.41999999999996s)]
+*  the Clintons. [[00:06:13](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=373.38s)]
+*  This one has a special place in my heart. [[00:06:15](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=375.02s)]
+*  Putin picks Trump for president. [[00:06:17](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=377.29999999999995s)]
+*  Or this one, how Trump will win. [[00:06:20](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=380.58s)]
+*  Or following, how Trump will win the debate. [[00:06:23](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=383.18s)]
+*  Also, Hillary's nephew is in the Klan. [[00:06:25](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=385.78s)]
+*  Trump takes charge. [[00:06:30](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=390.5s)]
+*  Also, Bill Clinton is dying. [[00:06:32](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=392.1s)]
+*  And Hillary is dying. [[00:06:35](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=395.54s)]
+*  And also Hillary is corrupt. [[00:06:38](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=398.38s)]
+*  In case that one's not clear enough, it just says corrupt, it's one big word. [[00:06:40](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=400.62s)]
+*  Also, Hillary will never be president. [[00:06:44](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=404.5s)]
+*  And this was their election eve bombshell edition. [[00:06:47](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=407.34s)]
+*  Just make sure you hit all the bases here. [[00:06:51](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=411.5s)]
+*  Hillary corrupt racist criminal. [[00:06:53](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=413.46s)]
+*  Before 2016, the National Enquirer never before endorsed a presidential candidate. [[00:06:57](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=417.42s)]
+*  Right, but this is what they did in 2016. [[00:07:03](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=423.58000000000004s)]
+*  When they did those covers, they were doing something very different with Donald Trump [[00:07:06](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=426.78000000000003s)]
+*  than they had ever done with any politician before. [[00:07:11](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=431.18s)]
+*  Something that was in the face of every person who ever walked up to the little conveyor [[00:07:14](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=434.70000000000005s)]
+*  belt thing at a supermarket checkout line anywhere in America, anytime during the duration [[00:07:19](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=439.74s)]
+*  of the alleged conspiracy, which was the duration of the 2016 campaign. [[00:07:25](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=445.26000000000005s)]
+*  Whether or not you ever picked up that magazine, let alone opened it past the cover, this propaganda, [[00:07:29](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=449.5s)]
+*  which was the product of this allegedly illegal campaign scheme, was in the face of likely, [[00:07:36](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=456.06s)]
+*  if not tens of millions of Americans, perhaps more than 100 million Americans. [[00:07:44](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=464.02000000000004s)]
+*  How many of us go to a grocery store? [[00:07:48](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=468.98s)]
+*  This was a strange, out of character, first time ever arrangement they made with this [[00:07:52](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=472.22s)]
+*  one candidate with Trump that prosecutors today in their opening statement said was [[00:07:56](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=476.90000000000003s)]
+*  a criminal scheme to corrupt the 2016 presidential election. [[00:08:00](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=480.98s)]
+*  A criminal scheme that was hatched in a Trump Tower meeting just a few weeks after he announced [[00:08:04](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=484.74s)]
+*  his candidacy for president. [[00:08:09](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=489.5s)]
+*  A criminal scheme which ultimately landed him in criminal court today as the first ever [[00:08:12](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=492.90000000000003s)]
+*  U.S. president to be a defendant in a criminal trial when the cover up of that alleged criminal [[00:08:17](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=497.02000000000004s)]
+*  conspiracy, which charged as a string of 34 felonies in New York state. [[00:08:21](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=501.14s)]
+*  and enjoy it. [[00:08:51](https://www.youtube.com/watch?v=-sYJhLRaTvE&t=531.14s)]

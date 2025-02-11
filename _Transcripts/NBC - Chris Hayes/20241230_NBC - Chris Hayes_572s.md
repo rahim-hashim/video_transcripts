@@ -1,0 +1,147 @@
+---
+Date Generated: February 06, 2025
+Transcription Model: whisper medium 20231117
+Length: 572s
+Video Keywords: ['Chris Hayes']
+Video Views: 2760945
+Video Rating: None
+Video Description: “Those two factions of the Republican Party with their profoundly different views are at each other's throats about what to do with their newfound power,” says Chris Hayes on the MAGA ‘civil war’ over skilled immigration fueled by Elon Musk and Vivek Ramaswamy. 
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup 
+
+#MAGA #ElonMusk #immigration
+---
+
+# Elon Musk ‘melts down’ after underestimating wrath of MAGA trolls
+**NBC - Chris Hayes:** [December 30, 2024](https://www.youtube.com/watch?v=M3hw9jSpkNI)
+*  Good evening from New York. I'm Chris Hayes. We still have three weeks until Donald Trump is sworn into a second term [[00:00:00](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=0.0s)]
+*  There's no denying that with some [[00:00:06](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=6.140000000000001s)]
+*  General genuine political candidness Trump has cobbled together an unwieldy and in many respects somewhat unlikely [[00:00:08](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=8.18s)]
+*  Political coalition and that coalition delivered him the first outright popular vote victory for Republicans since George W [[00:00:14](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=14.4s)]
+*  Bush in 2004. It's only the second time it has happened since the end of the Cold War [[00:00:21](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=21.38s)]
+*  Now Trump has to actually govern and that is typically when all the internal contradictions in any political coalition rise to the surface [[00:00:26](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=26.26s)]
+*  We're not even to inauguration yet and that factional fighting [[00:00:33](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=33.54s)]
+*  I would argue is bigger more glaring than almost any other I've ever witnessed in American politics [[00:00:36](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=36.800000000000004s)]
+*  You're seeing that right now in the battle over immigration which has been exploding among the MAGA, right? [[00:00:42](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=42.980000000000004s)]
+*  Basically, Elon Musk and Vivek Ramaswamy the tech overlords who appear to be running Trump's second term agenda [[00:00:48](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=48.260000000000005s)]
+*  Rely on highly skilled immigrants to power their enterprises [[00:00:55](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=55.1s)]
+*  Those immigrants come to this country to work with an h1b visa [[00:00:58](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=58.9s)]
+*  Which provides terms that are extremely favorable to their employers and also an amazing opportunity for the folks coming to work here [[00:01:02](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=62.339999999999996s)]
+*  Folks basically have to stay at their job in order to stay in the country if they leave their position [[00:01:09](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=69.02s)]
+*  They have two months to find a new job or risk getting deported [[00:01:13](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=73.46s)]
+*  So you can see why someone like Elon Musk likes them so much [[00:01:17](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=77.02s)]
+*  For example, this is not abstract when Musk bought Twitter and a huge percentage of the staff headed for the exits [[00:01:21](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=81.04s)]
+*  Vice News reported on how Twitter employees on visas [[00:01:27](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=87.72s)]
+*  Can't just quit [[00:01:30](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=90.60000000000001s)]
+*  The other side of the debate over the h1b visa is the one that folks like Stephen Miller and Stephen Bannon have been pushing for years [[00:01:32](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=92.68s)]
+*  that we should restrict limit perhaps and all immigration the US legal and [[00:01:40](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=100.76s)]
+*  Illegal right stuff at the border around asylum, but also h1b visas [[00:01:46](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=106.72s)]
+*  I mean just listen to the two of them on Bannon's old radio show back in March of 2016 [[00:01:51](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=111.08s)]
+*  This before Trump was even the Republican nominee take a listen [[00:01:56](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=116.32s)]
+*  And they see these oligarchs down there with 54 private jets and they're not down there for their health [[00:01:59](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=119.39999999999999s)]
+*  They're called together by Karl Rove and it's a stop Trump movement [[00:02:05](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=125.56s)]
+*  It's a stop Trump movement because they want unlimited HB 1 visas isn't the beating heart of this problem right now the real beating heart [[00:02:08](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=128.92s)]
+*  Of what we got to get sorted here is not illegal immigration as horrific as that is and it's horrific [[00:02:15](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=135.4s)]
+*  It don't we have a problem. We've looked the other way on this legal immigration [[00:02:20](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=140.96s)]
+*  That's kind of overwhelmed the country the history of America is that an immigration on period is followed by an immigration off period [[00:02:24](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=144.54s)]
+*  To see be very clear there right h1b visas legal immigration and immigration off period like they have a pretty clear vision [[00:02:33](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=153.35999999999999s)]
+*  Miller's gonna be the one writing that border bill [[00:02:39](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=159.84s)]
+*  So those two factions the Republican Party with pretty profoundly different views are at each other's throats about what to do with their newfound power [[00:02:42](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=162.76s)]
+*  Should they use the legal immigration system to continue supplying Silicon Valley and other industries with highly skilled workers? [[00:02:51](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=171.56s)]
+*  Or should they apply some new? [[00:02:57](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=177.96s)]
+*  Racist immigrant exclusion act like the Chinese Exclusion Act to deport all those workers and let their American let Americans take their jobs [[00:03:00](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=180.36s)]
+*  Defense of the former argument that is continuing h1b visas Elon Musk spent his Christmas week [[00:03:07](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=187.52s)]
+*  Absolutely melting down the social media platform. He owns [[00:03:13](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=193.44s)]
+*  He has since deleted many of those posts including one that replied approvingly to a post calling [[00:03:16](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=196.44s)]
+*  American burn workers in general a slur [[00:03:22](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=202.4s)]
+*  The R word for being too stupid to be able to do the jobs that workers on h1b visas were doing [[00:03:25](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=205.52s)]
+*  One emblematic post is still up where must tells opponents of h1b visas to f themselves [[00:03:32](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=212.44s)]
+*  Before pledging to go to war on this issue the likes of which you cannot possibly comprehend [[00:03:37](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=217.52s)]
+*  Although he seems to underestimate how much the Maga diehards hate immigration [[00:03:42](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=222.6s)]
+*  His online base of right-wing Twitter trolls quickly turned on him spurned on by the likes of Bannon as well as Laura Loomer the fringe [[00:03:47](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=227.0s)]
+*  For our right activists who spent much of the fall cozying up to Trump before his campaign stepped in and pushed her aside [[00:03:53](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=233.62s)]
+*  It's not a civil war because they're not tough enough. They're just not I don't think that [[00:03:59](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=239.16s)]
+*  It's acceptable for George Soros Elon Musk or Peter teal [[00:04:03](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=243.72s)]
+*  It doesn't matter what side of the political aisle a billionaire is on [[00:04:08](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=248.2s)]
+*  I don't think that it's acceptable for billionaires to have this much power and this much access [[00:04:12](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=252.04s)]
+*  on the policy dispute here, and there is a real one [[00:04:17](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=257.4s)]
+*  Trump actually took must side on it coming out in support of h1b visas in comments the New York Post quote [[00:04:21](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=261.32s)]
+*  I have many h1b visas on my properties. I've been a believer in h1b. I've used it many times. It's a great program now [[00:04:27](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=267.4s)]
+*  I have to say I think Trump might be confused here. I [[00:04:32](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=272.67999999999995s)]
+*  Don't think his properties are hiring a ton of say like software engineers off h1b as the New York Times reports [[00:04:36](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=276.76s)]
+*  Trump has been a frequent and longtime user of the similarly named but starkly different [[00:04:42](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=282.2s)]
+*  H2B visa program which is for unskilled workers like gardeners and housekeepers [[00:04:46](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=286.76s)]
+*  Of course, you can drive yourself crazy and aren't trying to track Trump's plans [[00:04:53](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=293.0s)]
+*  Anything at any given moment in 2016. Of course he called for guess what the h1b to be banned [[00:04:55](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=295.88s)]
+*  Nobody knows the system better than me. I know the h1b. I know the h2b [[00:05:03](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=303.32s)]
+*  Nobody knows it better than me [[00:05:08](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=308.04s)]
+*  I know the h1b very well and it's something that I frankly use and I shouldn't be allowed to use [[00:05:09](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=309.64s)]
+*  We shouldn't have it very very bad for workers [[00:05:15](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=315.08s)]
+*  Regardless, it was nice of Trump to back his co-president Elon Musk this time [[00:05:18](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=318.68s)]
+*  Not that it helped much as Musk seems to have backed down. He now calls our legal immigration system broken [[00:05:22](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=322.12s)]
+*  And in one sense [[00:05:25](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=325.8s)]
+*  You know, there's a bunch of weirdos online fighting with each other [[00:05:27](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=327.8s)]
+*  You know, it's a day ending a why [[00:05:31](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=331.32s)]
+*  But these people I mean the guy who's about to be president the world's richest man. They're about to be in power [[00:05:33](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=333.32s)]
+*  They're gonna be making decisions if this fight was any indication [[00:05:39](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=339.32s)]
+*  This fractured coalition is not going to make governing [[00:05:42](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=342.36s)]
+*  That easy for them when they get in power [[00:05:45](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=345.96000000000004s)]
+*  McKay Coppins is a staff writer for the Atlantic and author of Romney a reckoning charlie dents is a former republican congressman of Pennsylvania [[00:05:47](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=347.96000000000004s)]
+*  And they joined me now McKay [[00:05:51](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=351.96000000000004s)]
+*  I thought of you because about a month ago you and I had a conversation on my podcast why is this happening? [[00:05:53](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=353.96000000000004s)]
+*  The main theme of which was [[00:05:57](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=357.96000000000004s)]
+*  Yes, this coalition was successful politically. Yes, they were successful [[00:05:59](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=359.96000000000004s)]
+*  But they were not successful [[00:06:03](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=363.16s)]
+*  They were not successful [[00:06:05](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=365.16s)]
+*  They were not successful [[00:06:07](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=367.16s)]
+*  They were not successful [[00:06:09](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=369.16s)]
+*  The main theme of which was [[00:06:11](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=371.16s)]
+*  Yes, this coalition was successful politically [[00:06:13](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=373.16s)]
+*  Yes, they they won and they will control the house and the senate and the presidency [[00:06:15](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=375.16s)]
+*  But there are deep internal real genuine [[00:06:19](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=379.16s)]
+*  Factions and fights and tensions ideologically and and it was interesting that immigration was the first one [[00:06:23](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=383.16s)]
+*  We've sort of seen kind of blow up [[00:06:29](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=389.16s)]
+*  It's especially interesting because immigration has been kind of like the defining issue of the trump era in a lot of ways, right? [[00:06:33](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=393.16s)]
+*  In a lot of ways what's happening now is only the latest flare-up in a pretty old fight in the republican coalition [[00:06:39](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=399.16s)]
+*  You can take any presidential election of the 21st century and find this divide between [[00:06:45](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=405.16s)]
+*  Chamber of commerce republicans and the wall street editorial board on one one side wall street journal editorial board [[00:06:51](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=411.16s)]
+*  And on the other side kind of conservative talk radio fox news and the right wing base on the other [[00:06:57](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=417.16s)]
+*  And every republican presidential candidate in the last 25 years has tried to straddle this line [[00:07:03](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=423.16s)]
+*  You remember mitt romney in 2012. He talked about self deportation [[00:07:09](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=429.16s)]
+*  That was kind of his red meat to the base [[00:07:13](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=433.16s)]
+*  He also talked about stapling a green card on every college diploma of an immigrant who came to the u.s. [[00:07:15](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=435.16s)]
+*  Right. And so what's interesting is that trump, you know made immigration [[00:07:21](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=441.16s)]
+*  One of his key wedges in 2016 in the republican primaries [[00:07:27](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=447.16s)]
+*  He was seen as this extremely populist figure. Um, but I don't think we should be that surprised [[00:07:31](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=451.16s)]
+*  That he has now found himself siding with what is essentially the chamber of commerce position on immigration [[00:07:37](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=457.16s)]
+*  Big shocker. Yeah. Well, here's the thing [[00:07:43](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=463.16s)]
+*  I talked to a republican elected official just a couple weeks ago who said, you know [[00:07:47](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=467.16s)]
+*  And the thing about trump that people always fail to understand is that the most consistent metric [[00:07:51](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=471.16s)]
+*  He uses to judge people is their their their network, right? It's how much money they have [[00:07:57](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=477.16s)]
+*  And so we should not be shocked that elon musk has been allowed in the hen house [[00:08:03](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=483.16s)]
+*  It's not because he is, you know, searing political charisma. It's because he's incredibly wealthy [[00:08:07](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=487.16s)]
+*  There is a reason that trump often defers to his golf buddies and high dollar donors and allies in silicon valley and wall street [[00:08:12](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=492.16s)]
+*  He cares what those people think of him [[00:08:19](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=499.16s)]
+*  So I think that that helps that should help inform how this kind of battle is going to play out [[00:08:22](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=502.16s)]
+*  And it's also why why bannon is is sort of so, you know angry about this and somewhat performative [[00:08:28](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=508.16s)]
+*  But and charlie look you I mean, I've I've covered this issue for 20 years [[00:08:34](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=514.1600000000001s)]
+*  You're a veteran of these exact fights where there really is this tension that mckay highlighted [[00:08:38](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=518.1600000000001s)]
+*  What I think is interesting to me this new factor, which is musk [[00:08:43](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=523.1600000000001s)]
+*  Brings this totally different set of ideological like commitments and also material commitments into this universe that weren't there even six months ago [[00:08:47](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=527.16s)]
+*  Like now it's like everything has to be about well, there's the trump position [[00:08:57](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=537.16s)]
+*  There's the base and then there's what is elon musk think and I've never seen anything like it where there's just this new [[00:09:01](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=541.16s)]
+*  It's like a new planet came in and now everything has to orbit around that as well [[00:09:07](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=547.16s)]
+*  You [[00:09:17](https://www.youtube.com/watch?v=M3hw9jSpkNI&t=557.16s)]

@@ -1,0 +1,163 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 507s
+Video Keywords: ['Rachel Maddow']
+Video Views: 117986
+Video Rating: None
+Video Description: John Kirby, National Security Council coordinator for strategic communications, talks with Rachel Maddow about the type of military assistance the U.S. is considering giving to Ukraine in light of a new level of violence from Russia in attacks on civilian targets. 
+Watch highlights from The Last Word with Lawrence O’Donnell.
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Follow the MSNBC Midterms Elections guide to the important races across the United States as Americans prepare to cast their votes. 
+Countdown to the Midterms: https://on.msnbc.com/3KlULq8
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #russia #ukraine
+---
+
+# Russian Escalation In Ukraine Raises Question Of Corresponding Increase In U.S. Support
+**NBC - Rachel Maddow:** [October 10, 2022](https://www.youtube.com/watch?v=uoo-3V2jeiU)
+*  Today, Russia launched the largest airstrikes since the start of the war, saying they were [[00:00:00](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=0.0s)]
+*  retaliating for the attack this weekend on their newly built bridge to Crimea. [[00:00:05](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=5.4s)]
+*  Crimea, of course, another part of Ukraine that Russia took over several years ago. [[00:00:10](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=10.6s)]
+*  The attacks by Russia today were not carried out by Russian troops making ground advances. [[00:00:15](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=15.5s)]
+*  The Ukrainian military has been pushing Russian forces back and retaking the parts of Ukraine [[00:00:20](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=20.82s)]
+*  that Russia had invaded with ground troops. [[00:00:25](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=25.84s)]
+*  Now, what happened today all over Ukraine, including in the capital city, including in [[00:00:28](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=28.0s)]
+*  western Ukraine, far from the front lines, what happened today were these long-range [[00:00:32](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=32.92s)]
+*  Russian airstrikes on population centers, on cities, including the capital city, on [[00:00:37](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=37.32s)]
+*  civilian infrastructure. [[00:00:43](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=43.76s)]
+*  And that poses a big question for us, for the United States. [[00:00:47](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=47.04s)]
+*  As of now, one of the items on Ukraine's wish list that we have not given them are long-range [[00:00:51](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=51.6s)]
+*  missile systems so they could answer Russian long-range airstrikes in kind. [[00:00:57](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=57.199999999999996s)]
+*  Joining us now is John Kirby, retired Rear Admiral in the United States Navy, former [[00:01:04](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=64.92s)]
+*  Pentagon Press Secretary, now the spokesman for President Biden's National Security Council. [[00:01:08](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=68.44s)]
+*  Admiral Kirby, it's a real pleasure to have you with us tonight. [[00:01:12](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=72.12s)]
+*  Thank you for making the time. [[00:01:14](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=74.36s)]
+*  Yes, ma'am. [[00:01:15](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=75.36s)]
+*  Good to be with you. [[00:01:16](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=76.36s)]
+*  Thank you. [[00:01:17](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=77.36s)]
+*  Let me just ask, first of all, if I got any of that the wrong way around or if there's [[00:01:18](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=78.36s)]
+*  anything important that I'm leaving out, just in summing that up briefly there. [[00:01:22](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=82.84s)]
+*  No, no, I thought that was a terrific way to introduce our conversation tonight, Rachel. [[00:01:27](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=87.88s)]
+*  The conversation today with President Zelensky was useful, certainly helpful for President [[00:01:33](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=93.52s)]
+*  Biden. [[00:01:39](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=99.32s)]
+*  And it was really important for President Biden to convey to President Zelensky that [[00:01:40](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=100.32s)]
+*  we are going to continue our support, as the president has said, for as long as it takes. [[00:01:44](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=104.44s)]
+*  And that includes, as we, as you sort of did in your introduction, it includes continued [[00:01:48](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=108.72s)]
+*  air defense support. [[00:01:53](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=113.12s)]
+*  We have provided 1,400 stingers. [[00:01:54](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=114.36s)]
+*  These are short-range shoulder-fired air defense missiles. [[00:01:56](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=116.96000000000001s)]
+*  We have helped get through other countries some longer-range air defense systems like [[00:02:00](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=120.52000000000001s)]
+*  the S-300, which is something that the Ukrainians are comfortable using, gotten that into the [[00:02:05](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=125.68s)]
+*  country. [[00:02:10](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=130.6s)]
+*  And just recently, we've agreed to procure eight what we call NASAMs, which is a National [[00:02:11](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=131.6s)]
+*  Advanced Surface-to-Air Missile System, which will also greatly improve their ability for [[00:02:17](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=137.78s)]
+*  air defense purposes. [[00:02:23](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=143.04s)]
+*  So we're going to stay committed to this. [[00:02:24](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=144.04s)]
+*  We're going to talk to them every day, just like we did today, and make sure that we're [[00:02:26](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=146.28s)]
+*  meeting their needs as best we can. [[00:02:29](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=149.44s)]
+*  And what about offensive weapons? [[00:02:31](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=151.92s)]
+*  I mean, being able to disrupt, intercept, shoot down Russian incoming is one thing. [[00:02:33](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=153.64s)]
+*  But we know the Ukrainians want advanced rocket systems, advanced missile systems, and things [[00:02:39](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=159.83999999999997s)]
+*  with perhaps a longer range than we've been willing to give them before. [[00:02:45](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=165.76s)]
+*  I know that you're not going to break news here in terms of what the United States is [[00:02:49](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=169.16s)]
+*  willing to give Ukraine that we haven't previously given them. [[00:02:52](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=172.2s)]
+*  But what can you explain to us about the thought process and the kind of parameters in which [[00:02:55](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=175.44s)]
+*  the U.S. government feels like it has to be able to operate to both help but not go too [[00:02:59](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=179.76s)]
+*  far to potentially provoke a Russia-NATO conflict? [[00:03:04](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=184.16s)]
+*  Yeah, I mean, these are iterative conversations, honestly, that we're having with them almost [[00:03:07](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=187.4s)]
+*  every day. [[00:03:14](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=194.2s)]
+*  And you know, if you remember way back in February, now almost eight months ago when [[00:03:15](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=195.2s)]
+*  this war started, the real demand signal was for Javelin anti-tank missiles because it [[00:03:18](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=198.2s)]
+*  was those big convoys moving on Kiev, and they needed to get those armored vehicles [[00:03:22](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=202.96s)]
+*  stopped. [[00:03:27](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=207.51999999999998s)]
+*  Then it was about stingers, right, in more short-range air defense. [[00:03:29](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=209.32s)]
+*  As Putin decided in the spring that he was going to focus on the Donbass, which is a [[00:03:33](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=213.8s)]
+*  lot like Kansas, it's open farmland, small villages and towns, we knew and the Ukrainians [[00:03:37](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=217.51999999999998s)]
+*  knew that they were going to need artillery, what we call long-range fires, the ability [[00:03:43](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=223.07999999999998s)]
+*  to hit targets far away on the ground, from the ground. [[00:03:47](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=227.16s)]
+*  And so we provided dozens and dozens of howitzers, artillery pieces, as well as literally tens [[00:03:50](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=230.32s)]
+*  of thousands of pieces of ammunition for them, as well as these highmars that I know you've [[00:03:56](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=236.16s)]
+*  been talking about, the advanced rocket systems that are highly mobile, highmars, that's what [[00:04:00](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=240.24s)]
+*  that means. [[00:04:06](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=246.56s)]
+*  They've got, you know, almost 20 of those on the ground. [[00:04:07](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=247.56s)]
+*  So we're going to keep evolving the needs as the war changes. [[00:04:10](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=250.84s)]
+*  And you are starting to see, as President Zelensky said today, clearly a stronger need [[00:04:14](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=254.84s)]
+*  right now for air defense. [[00:04:20](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=260.36s)]
+*  And so we're going to have that conversation with them. [[00:04:21](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=261.76s)]
+*  We're going to keep we're going to keep changing the capabilities that we provide to make sure [[00:04:23](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=263.48s)]
+*  we're meeting their needs. [[00:04:27](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=267.52000000000004s)]
+*  Look, they are in the fight of their lives, literally. [[00:04:29](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=269.08000000000004s)]
+*  And some of that video footage that you showed, I think, demonstrates the degree to which [[00:04:32](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=272.2s)]
+*  Mr. Putin was going after civilian infrastructure and civilian targets with no regard for innocent [[00:04:36](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=276.32s)]
+*  civilian life. [[00:04:42](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=282.74s)]
+*  We know that the fight is serious there. [[00:04:43](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=283.74s)]
+*  And we're going to keep making sure that, again, the capabilities we give them are helping [[00:04:46](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=286.66s)]
+*  them in that fight, helping them defend their territory. [[00:04:50](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=290.14s)]
+*  There's been a bunch of reporting recently. [[00:04:53](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=293.3s)]
+*  I feel like our capacity as Kremlin ologists have sort of waxed and waned over the course [[00:04:55](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=295.5s)]
+*  of my lifetime in terms of how much we understand about what's really happening in St. Peter's [[00:05:00](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=300.66s)]
+*  Square over there. [[00:05:04](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=304.90000000000003s)]
+*  But I feel like there's been a lot of reporting recently that war hawks, real hardliners within [[00:05:05](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=305.90000000000003s)]
+*  the Russian power structure, have been exerting a lot of pressure on Putin to escalate attacks [[00:05:13](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=313.26s)]
+*  on Ukraine. [[00:05:18](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=318.90000000000003s)]
+*  That may be some of what he is responding to. [[00:05:19](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=319.90000000000003s)]
+*  You saw an interesting reflection of that, I thought, today, when the Ukrainians said [[00:05:21](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=321.62s)]
+*  that we don't believe today's missile strikes by Russia were in response to the bridge attack [[00:05:27](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=327.04s)]
+*  this weekend. [[00:05:32](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=332.54s)]
+*  We think that these were planned even before the bridge was hit, which would imply that [[00:05:33](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=333.54s)]
+*  Putin was responding to other kinds of pressures rather than just retaliating for that one [[00:05:37](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=337.82s)]
+*  attack. [[00:05:43](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=343.54s)]
+*  How much do you credit those reports? [[00:05:44](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=344.54s)]
+*  How important is it for us to understand what's motivating Putin in any one day? [[00:05:45](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=345.74s)]
+*  It's always important to understand the decision-making process over there because of the toll it's [[00:05:53](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=353.38s)]
+*  literally taking on the people of Ukraine. [[00:05:58](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=358.02000000000004s)]
+*  And I wish I could tell you, Rachel, that we have perfect visibility into how Mr. Putin [[00:06:00](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=360.54s)]
+*  thinks or what his next move is going to be. [[00:06:04](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=364.38s)]
+*  We just don't. [[00:06:06](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=366.78000000000003s)]
+*  What we can do is judge by his actions in the past and see, you know, kind of how things [[00:06:08](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=368.3s)]
+*  are unfolding on the battlefield, which again informs the capabilities that we provide the [[00:06:13](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=373.22s)]
+*  Ukrainians. [[00:06:16](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=376.62s)]
+*  I think there's a case to be made here that these attacks today were probably planned [[00:06:17](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=377.62s)]
+*  quite a while ago. [[00:06:23](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=383.66s)]
+*  I mean, you think about the size and scale and scope of these attacks, more than 80 missiles [[00:06:24](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=384.98s)]
+*  and or drones used in today's attacks. [[00:06:29](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=389.54s)]
+*  The Russians can't throw something like that together in just a couple of days. [[00:06:32](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=392.82000000000005s)]
+*  So I think there's some credibility to the idea that this itself wasn't just a retaliation [[00:06:36](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=396.18s)]
+*  to the explosion on the Crimea bridge. [[00:06:42](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=402.42s)]
+*  Now, maybe they accelerated it a little bit because I don't know. [[00:06:43](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=403.78000000000003s)]
+*  But this is very much what we've seen today is very much in keeping with the attacks on [[00:06:47](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=407.62s)]
+*  civilian infrastructure that we have been seeing over the last month, the six weeks. [[00:06:51](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=411.78000000000003s)]
+*  So we see it very much as a continuation of the brutality and again, the wanton disregard [[00:06:55](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=415.88s)]
+*  by Mr. Putin for innocent civilian life inside Ukraine. [[00:07:00](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=420.86s)]
+*  It's very much in keeping with that with that track. [[00:07:04](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=424.0s)]
+*  Now, where it goes from here again, we don't know. [[00:07:06](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=426.46000000000004s)]
+*  Everybody wants to see this war escalate beyond the level of death and destruction that it's [[00:07:09](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=429.06s)]
+*  already visited on the Ukrainian people. [[00:07:13](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=433.29999999999995s)]
+*  We have been and I think you and I have talked about this in the past. [[00:07:16](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=436.06s)]
+*  I mean, from the very beginning, we've been mindful of escalation management here as we've [[00:07:18](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=438.74s)]
+*  gone through the provision of supplies and security assistance to Ukraine, making sure [[00:07:23](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=443.41999999999996s)]
+*  that we are thinking through escalation management issues as we do that, because again, having [[00:07:28](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=448.7s)]
+*  this war escalate beyond where it is, having it see the use of weapons of mass destruction [[00:07:34](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=454.38s)]
+*  would not only be horrible for the Ukrainian people, but would have effects well beyond [[00:07:42](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=462.06s)]
+*  just Ukraine on the European continent and quite frankly, around the world. [[00:07:47](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=467.34s)]
+*  John Kirby, retired real admiral in the United States Navy, now spokesperson for President [[00:07:52](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=472.46s)]
+*  Biden's National Security Council. [[00:07:56](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=476.46s)]
+*  Sir, it's always an honor to have some time with you whenever you can afford it to us. [[00:07:57](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=477.82s)]
+*  Thanks very much for being here. [[00:08:02](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=482.14s)]
+*  Thanks, Rachel. [[00:08:05](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=485.02s)]
+*  Always good to be with you. [[00:08:05](https://www.youtube.com/watch?v=uoo-3V2jeiU&t=485.65999999999997s)]

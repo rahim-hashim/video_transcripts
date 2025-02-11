@@ -10,6 +10,30 @@ from utils import fuzzy_lookup
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
+news_author = [
+  # mainstream
+  'ABC',
+	'CBS',
+  'CNN',
+  'NBC',
+	'Ezra Klein', 
+  'New York Times',
+  'New Yorker',
+  'NPR',
+  'Wall Street Journal',
+  # independent
+  'All In',
+  'Chris Hedges',
+	'Democracy Now',
+	'Democracy Now Headlines',
+  'Owen Jones',
+	'Theo Von'
+	'Lex Fridman',
+	'Joe Rogan', 
+	'Tucker Carlson',
+  'Young Turks'
+]
+
 def rename_folder_and_files(
 		old_name, 
 		new_name,
@@ -200,7 +224,27 @@ def rename_files(author_name = 'Democracy Now Headlines'):
 			os.rename(os.path.join(transcript_dir_path, author_name, file), 
 						 		os.path.join(transcript_dir_path, author_name, new_file))
 
-def main(author_names = ['New York Times'], reload=True, save_df=False, save_name='transcript_df.pkl', verbose=False):
+def add_path_var(transcript_df, var='length'):
+	if var not in transcript_df.columns:
+		print(f'var does not exist')
+		return
+	paths, length = transcript_df['path'].values, transcript_df[var].values
+	# rename each file to include the length the end (remmove the .md and add it back)
+	print(f'Adding {var} to file names...')
+	for path, length in zip(paths, length):
+		# get the file name
+		path_old, ext = os.path.splitext(path)
+		new_name = path_old+f'_{length}'
+		os.rename(path, new_name+ext)
+		print(f' {path} -> {new_name+ext}')
+
+def load_transcripts(
+		author_names = ['New York Times'], 
+		reload=True, 
+		save_df=False, 
+		save_name='transcript_df.pkl', 
+		verbose=False
+	):
 	# author_name = sys.argv[1]
 	for author_name in author_names:
 		print(f'Searching for {author_name} transcripts...')
@@ -223,3 +267,4 @@ def main(author_names = ['New York Times'], reload=True, save_df=False, save_nam
 	if save_df:
 		pickle_transcript_df(transcript_df, save_name)
 	return transcript_df
+

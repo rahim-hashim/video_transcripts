@@ -1,0 +1,80 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 415s
+Video Keywords: []
+Video Views: 189208
+Video Rating: None
+Video Description: Retired US Air Force Col. Cedric Leighton weighs in on the potential threats after Hamas political leader Ismail Haniyeh was killed in Iran. #CNN #news
+
+Want to stay up to date on the day’s top stories? Sign up for CNN’s 5 Things newsletter, and we’ll give you the 5 biggest stories you need to know, videos people are watching, and more!
+
+Sign up here: https://www.cnn.com/newsletters/5-things?source=nl-acq_social_youtubedesc&utm_source=nl-acq_social_youtubedesc
+---
+
+# Retired colonel says killing of Hamas political leader in Iran could result in ‘major escalation’
+**CNN - Israel Palestine:** [July 30, 2024](https://www.youtube.com/watch?v=BRONWoEBwLg)
+*  Breaking news here on CNN, a major development in the Middle East. Hamas says the political [[00:00:00](https://www.youtube.com/watch?v=BRONWoEBwLg&t=0.0s)]
+*  leader of the organization, the U.S. calls a terror group, has been killed in Tehran. [[00:00:05](https://www.youtube.com/watch?v=BRONWoEBwLg&t=5.8s)]
+*  So far the Israeli military is not saying that, it's only saying that they do not respond [[00:00:11](https://www.youtube.com/watch?v=BRONWoEBwLg&t=11.44s)]
+*  to reports in the foreign media. The White House says it is aware of the reports and [[00:00:15](https://www.youtube.com/watch?v=BRONWoEBwLg&t=15.700000000000001s)]
+*  is monitoring the situation. This comes as Israel and Hamas were locked in tense negotiations [[00:00:20](https://www.youtube.com/watch?v=BRONWoEBwLg&t=20.46s)]
+*  to free dozens of hostages still held in Gaza by Hamas. Let's get right to Ben Wiedemann [[00:00:26](https://www.youtube.com/watch?v=BRONWoEBwLg&t=26.64s)]
+*  who is in Beirut. The IDF just had a retaliatory strike. Where you are, what are you hearing, [[00:00:32](https://www.youtube.com/watch?v=BRONWoEBwLg&t=32.32s)]
+*  Ben? Well, this news is just spreading around and it's fairly early in the morning here [[00:00:39](https://www.youtube.com/watch?v=BRONWoEBwLg&t=39.56s)]
+*  in Beirut. So haven't seen specific reaction yet, but this certainly isn't going to help [[00:00:46](https://www.youtube.com/watch?v=BRONWoEBwLg&t=46.8s)]
+*  calm things in the region. I'm sure that many people are probably going to come to [[00:00:54](https://www.youtube.com/watch?v=BRONWoEBwLg&t=54.04s)]
+*  the conclusion that Israel has decided that there's no hope in negotiations to release [[00:01:00](https://www.youtube.com/watch?v=BRONWoEBwLg&t=60.160000000000004s)]
+*  the hostages in Gaza. And so it's going after the negotiator. Ismail Haniyeh, who was the [[00:01:08](https://www.youtube.com/watch?v=BRONWoEBwLg&t=68.04s)]
+*  political leader of Hamas, not the military leader of Hamas, was heavily engaged in these [[00:01:16](https://www.youtube.com/watch?v=BRONWoEBwLg&t=76.32000000000001s)]
+*  negotiations, obviously not directly with the American or the Israelis, but through [[00:01:23](https://www.youtube.com/watch?v=BRONWoEBwLg&t=83.8s)]
+*  the Qataris and the Egyptians and others. He was the man passing, he was sort of stating [[00:01:28](https://www.youtube.com/watch?v=BRONWoEBwLg&t=88.80000000000001s)]
+*  Hamas's position. So it seems that Israel has simply given up on those negotiations [[00:01:36](https://www.youtube.com/watch?v=BRONWoEBwLg&t=96.32000000000001s)]
+*  and is going ahead and eliminating the leaders of Hamas when the opportunity arises. And [[00:01:43](https://www.youtube.com/watch?v=BRONWoEBwLg&t=103.44s)]
+*  I think as other people who you've been speaking to this morning or this evening where you [[00:01:50](https://www.youtube.com/watch?v=BRONWoEBwLg&t=110.44s)]
+*  are have made it clear that this really underscores that Israel has the ability and the intelligence [[00:01:56](https://www.youtube.com/watch?v=BRONWoEBwLg&t=116.4s)]
+*  to target its enemies wherever they might be. For instance, yesterday evening at just [[00:02:07](https://www.youtube.com/watch?v=BRONWoEBwLg&t=127.48s)]
+*  before 8 p.m. local time here in Beirut, the Israelis had the intelligence to locate and [[00:02:16](https://www.youtube.com/watch?v=BRONWoEBwLg&t=136.4s)]
+*  kill Fuad Shukr, who is one of the senior military commanders of Hezbollah, despite [[00:02:24](https://www.youtube.com/watch?v=BRONWoEBwLg&t=144.04000000000002s)]
+*  the fact that Hezbollah tries to maintain fairly tight security and for the Israelis [[00:02:31](https://www.youtube.com/watch?v=BRONWoEBwLg&t=151.79999999999998s)]
+*  to be able to strike the political head of Hamas in the Iranian capital. And of course [[00:02:38](https://www.youtube.com/watch?v=BRONWoEBwLg&t=158.07999999999998s)]
+*  we heard Barak Rabid saying earlier that it was as a result of a missile fired through [[00:02:45](https://www.youtube.com/watch?v=BRONWoEBwLg&t=165.72s)]
+*  a window. Obviously we're going to have to get that confirmed, but that would indicate [[00:02:51](https://www.youtube.com/watch?v=BRONWoEBwLg&t=171.51999999999998s)]
+*  a level of intelligence that perhaps we haven't seen yet before. And as I said, it just sends [[00:02:55](https://www.youtube.com/watch?v=BRONWoEBwLg&t=175.92s)]
+*  a message that Israel has given up on the negotiations for a ceasefire in Gaza for the [[00:03:04](https://www.youtube.com/watch?v=BRONWoEBwLg&t=184.72s)]
+*  peaceful release of the hostages who are still alive in Gaza and is simply going forward [[00:03:12](https://www.youtube.com/watch?v=BRONWoEBwLg&t=192.23999999999998s)]
+*  with the assassinating of the people it was indirectly negotiating with. [[00:03:19](https://www.youtube.com/watch?v=BRONWoEBwLg&t=199.8s)]
+*  I want to bring on CNN military analyst Colonel Cedric Layton on this. Colonel, this is very [[00:03:27](https://www.youtube.com/watch?v=BRONWoEBwLg&t=207.20000000000002s)]
+*  significant news this evening. This region has been under major stress obviously since [[00:03:32](https://www.youtube.com/watch?v=BRONWoEBwLg&t=212.20000000000002s)]
+*  at least October 7th. What will this do to the political and military dynamic given some [[00:03:37](https://www.youtube.com/watch?v=BRONWoEBwLg&t=217.4s)]
+*  of the statements that this might be a showing of a giving up on peaceful negotiations? [[00:03:44](https://www.youtube.com/watch?v=BRONWoEBwLg&t=224.16s)]
+*  Yeah, Laura, that could very well be the case, at least in the near term, because when you [[00:03:51](https://www.youtube.com/watch?v=BRONWoEBwLg&t=231.16s)]
+*  go ahead and as Ben was talking about just now eliminating the lead negotiator for Hamas [[00:03:56](https://www.youtube.com/watch?v=BRONWoEBwLg&t=236.8s)]
+*  in these negotiations that they've been conducting in Qatar and in Egypt as well as in Rome, [[00:04:03](https://www.youtube.com/watch?v=BRONWoEBwLg&t=243.92s)]
+*  that really puts a stop to any of those diplomatic efforts. And I agree with Ben that this could [[00:04:11](https://www.youtube.com/watch?v=BRONWoEBwLg&t=251.6s)]
+*  potentially be a really a way to stop every single aspect of these negotiations in the [[00:04:18](https://www.youtube.com/watch?v=BRONWoEBwLg&t=258.0s)]
+*  at least in the short term. Because what that does is it puts Hamas in a specific box right [[00:04:26](https://www.youtube.com/watch?v=BRONWoEBwLg&t=266.88s)]
+*  here and now that they're more or less leaderless on the political side at least, it also puts [[00:04:32](https://www.youtube.com/watch?v=BRONWoEBwLg&t=272.76s)]
+*  a lot of pressure on the military wing of Hamas. So what we could see is some kind of [[00:04:39](https://www.youtube.com/watch?v=BRONWoEBwLg&t=279.04s)]
+*  effort to consolidate power within Hamas. That is going to of course be a very difficult [[00:04:45](https://www.youtube.com/watch?v=BRONWoEBwLg&t=285.16s)]
+*  thing for them to do because they're really forced now under a lot of stress to deal with [[00:04:53](https://www.youtube.com/watch?v=BRONWoEBwLg&t=293.08000000000004s)]
+*  the Israelis both in a military and a political way with decimated leadership. And in terms [[00:05:00](https://www.youtube.com/watch?v=BRONWoEBwLg&t=300.36s)]
+*  of the future, Laura, what we could see here is the potential for greater attacks on Israel, [[00:05:05](https://www.youtube.com/watch?v=BRONWoEBwLg&t=305.52s)]
+*  some of them coming from Iran, from the Iranian Revolutionary Guard Corps, because now Iranian [[00:05:13](https://www.youtube.com/watch?v=BRONWoEBwLg&t=313.59999999999997s)]
+*  sovereignty has been violated with the killing of Hania in Tehran. So this could really result [[00:05:18](https://www.youtube.com/watch?v=BRONWoEBwLg&t=318.03999999999996s)]
+*  in a major escalation of this conflict, not only between Hamas and Israel, but also between [[00:05:26](https://www.youtube.com/watch?v=BRONWoEBwLg&t=326.12s)]
+*  Iran and Israel. [[00:05:33](https://www.youtube.com/watch?v=BRONWoEBwLg&t=333.92s)]
+*  Indeed, this happened in Iran in the capital city while he was attending the inauguration [[00:05:35](https://www.youtube.com/watch?v=BRONWoEBwLg&t=335.6s)]
+*  of the new president in Iran. What kind of retaliation, if any, do you expect from Iran [[00:05:41](https://www.youtube.com/watch?v=BRONWoEBwLg&t=341.0s)]
+*  given, as some are describing this, a slap in the face knowing that people like Hania [[00:05:48](https://www.youtube.com/watch?v=BRONWoEBwLg&t=348.36s)]
+*  had oftentimes been out and about in public and had a certain level of comfort in safe [[00:05:54](https://www.youtube.com/watch?v=BRONWoEBwLg&t=354.44s)]
+*  travels in places like Iran? [[00:05:59](https://www.youtube.com/watch?v=BRONWoEBwLg&t=359.2s)]
+*  Yeah, that's going to be, I think, a major effort by the Iranians that will need, they [[00:06:02](https://www.youtube.com/watch?v=BRONWoEBwLg&t=362.44s)]
+*  will need to show, to show a force. And what that means is it could be a missile attack [[00:06:09](https://www.youtube.com/watch?v=BRONWoEBwLg&t=369.44s)]
+*  like we saw a few months ago against Israel. That could very well try to, they could very [[00:06:15](https://www.youtube.com/watch?v=BRONWoEBwLg&t=375.79999999999995s)]
+*  well try to tax the air defense systems that the Israelis have. On the one hand, on the [[00:06:22](https://www.youtube.com/watch?v=BRONWoEBwLg&t=382.91999999999996s)]
+*  other hand, what they could do is they could also mount some kind of terrorist attacks [[00:06:28](https://www.youtube.com/watch?v=BRONWoEBwLg&t=388.36s)]
+*  against Israeli installations not only around the region, around the Middle East, but potentially [[00:06:33](https://www.youtube.com/watch?v=BRONWoEBwLg&t=393.44s)]
+*  globally. So those are the kinds of things that could happen. And the third dimension [[00:06:39](https://www.youtube.com/watch?v=BRONWoEBwLg&t=399.0s)]
+*  that they could use from Iran would be cyber attacks against Israel and any country that [[00:06:43](https://www.youtube.com/watch?v=BRONWoEBwLg&t=403.32s)]
+*  they feel is associated with Israel. And that, of course, would mean the United States. [[00:06:49](https://www.youtube.com/watch?v=BRONWoEBwLg&t=409.96000000000004s)]

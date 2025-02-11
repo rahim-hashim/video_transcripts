@@ -1,0 +1,148 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 507s
+Video Keywords: ['Andrea Mitchell Reports']
+Video Views: 2941
+Video Rating: None
+Video Description: A ceasefire between Israel and Hezbollah is expected today, according to NBC News. Council on Foreign Relations President Emeritus Richard Haass joins Andrea Mitchell to provide more insight on the Middle East.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup 
+
+#Netanyahu #Hezbollah #Israel
+---
+
+# 'Biggest question' is whether Netanyahu will replicate ceasefire deal with Hamas: Haass
+**NBC - Middle East:** [November 26, 2024](https://www.youtube.com/watch?v=93Sw6B9AEdA)
+*  So, first of all, one of the big issues here was that Hezbollah, backed by Iran, of course, [[00:00:00](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=0.0s)]
+*  was insisting that there be a ceasefire in Gaza, which is the much harder deal to negotiate [[00:00:08](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=8.0s)]
+*  with Hamas, and a release of the hostages before they would even consider a deal. [[00:00:14](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=14.52s)]
+*  But I'm told by U.S. officials that there was a breakthrough there, that when they decided, [[00:00:18](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=18.64s)]
+*  when the U.S. decided to separate the two—and so they're basically acknowledging, to me, [[00:00:23](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=23.64s)]
+*  that they're not likely to have a ceasefire in Gaza before President Biden leaves office, [[00:00:30](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=30.0s)]
+*  which is, of course, a huge disappointment. [[00:00:35](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=35.56s)]
+*  But at least in Lebanon, these people, these Israelis have been displaced since October [[00:00:37](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=37.88s)]
+*  8th of last year, and a million Lebanese have been displaced from their homes. [[00:00:42](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=42.64s)]
+*  Well, a couple of reactions, Andrea. [[00:00:47](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=47.480000000000004s)]
+*  It's been a long time you and I have been having these conversations about the Middle [[00:00:49](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=49.84s)]
+*  East. [[00:00:53](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=53.64s)]
+*  This is a rare day of some good news, so let's just acknowledge that. [[00:00:54](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=54.64s)]
+*  It's too soon to say—it's impossible to say whether it will be a permanent ceasefire. [[00:00:59](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=59.480000000000004s)]
+*  The idea, though, that it could be a long-term one, again, would mark real progress. [[00:01:04](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=64.88000000000001s)]
+*  And as you correctly point out, critical here was Hezbollah dropping the linkage. [[00:01:10](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=70.44s)]
+*  They had required that there also be a ceasefire in Gaza. [[00:01:15](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=75.84s)]
+*  I think they were so badly hurt by what the Israeli intelligence services did and then [[00:01:18](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=78.80000000000001s)]
+*  the Israeli military did, they were really back on their heels. [[00:01:23](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=83.72s)]
+*  So this, again, this is, I think, a reflection of that. [[00:01:28](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=88.28s)]
+*  And we'll see what happens, you know, whether it's implemented, and then Hezbollah, I expect, [[00:01:34](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=94.64s)]
+*  will try to reconstitute itself in some ways. [[00:01:38](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=98.56s)]
+*  So this doesn't solve the problem, but that's asking too much. [[00:01:41](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=101.16s)]
+*  It's, again, important progress. [[00:01:44](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=104.80000000000001s)]
+*  But again, as you point out, Gaza is far more difficult. [[00:01:46](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=106.88s)]
+*  And one of the reasons is this is not ideological in the North. [[00:01:50](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=110.72s)]
+*  The territory, this area between the Latani River and the border between Lebanon and Israel, [[00:01:54](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=114.24000000000001s)]
+*  this is not contested, if you will, holy land. [[00:01:59](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=119.28s)]
+*  This is nothing ideological here. [[00:02:03](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=123.04s)]
+*  But when it comes to the Palestinians, whether it's in Gaza or the West Bank, that puts you [[00:02:05](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=125.36s)]
+*  in the middle of Israeli politics, in the middle of what glues this government together. [[00:02:10](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=130.16s)]
+*  So the idea that this will be a building block or a stepping stone, you'd have to be a real [[00:02:17](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=137.72s)]
+*  optimist for saying that. [[00:02:22](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=142.88s)]
+*  As you say, President Biden won't get a ceasefire in Gaza. [[00:02:24](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=144.64s)]
+*  The real question, I think, is whether Donald Trump could. [[00:02:28](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=148.2s)]
+*  And I think the answer is he could. [[00:02:31](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=151.4s)]
+*  But he would have to be willing to put some pressure on this Israeli government. [[00:02:33](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=153.48s)]
+*  And we'll see whether he is willing to do that. [[00:02:38](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=158.07999999999998s)]
+*  And as you rightly point out, we've had so many ups and downs and some great moments, [[00:02:40](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=160.96s)]
+*  peace signings. [[00:02:46](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=166.6s)]
+*  But this is, at least in the current climate and the current context, is the best news [[00:02:47](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=167.8s)]
+*  we've had since October 7th, a year ago, aside from that one week in Thanksgiving exactly [[00:02:53](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=173.76s)]
+*  a year ago when we did get some hostages out and there was that one week ceasefire. [[00:03:00](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=180.2s)]
+*  The hostage families whom I've spoken to, many in Israel are upset because Gaza is not [[00:03:05](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=185.92s)]
+*  part of this. [[00:03:10](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=190.64s)]
+*  But there's also the feeling by some American hostages I've spoken with that this might [[00:03:12](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=192.07999999999998s)]
+*  increase the pressure on Hamas and give more leverage to Israel and the US negotiators [[00:03:16](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=196.72s)]
+*  and the Arab negotiators to try to get something done. [[00:03:23](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=203.88s)]
+*  And the hope would be to get it done. [[00:03:26](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=206.68s)]
+*  I think you're right. [[00:03:30](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=210.04000000000002s)]
+*  I'm sorry. [[00:03:31](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=211.04000000000002s)]
+*  Yeah, I think you're right. [[00:03:32](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=212.04000000000002s)]
+*  It shows Hamas that they're more isolated than they realize. [[00:03:33](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=213.04000000000002s)]
+*  It also shows that Iran is willing to distance itself from one of its proxies. [[00:03:35](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=215.92000000000002s)]
+*  I actually think the critical question now is more this Israeli government, whether this [[00:03:41](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=221.36s)]
+*  coalition would allow Bibi Netanyahu to go ahead with the ceasefire and if they weren't, [[00:03:45](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=225.84s)]
+*  whether he would be prepared to go to the polls to try to form a new government, his [[00:03:54](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=234.04000000000002s)]
+*  political reputation, his political standing, as you know, has bounced back significantly [[00:03:59](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=239.24s)]
+*  over the last few months, in part because of Lebanon. [[00:04:04](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=244.04000000000002s)]
+*  The military gains there. [[00:04:06](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=246.60000000000002s)]
+*  And this ceasefire agreement, if it holds, will also really help Bibi Netanyahu's political [[00:04:08](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=248.28s)]
+*  standing. [[00:04:14](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=254.44s)]
+*  So it's possible that this would give him some of the political, what, maneuvering room [[00:04:16](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=256.08s)]
+*  that he hasn't had to take on the far right in Israel. [[00:04:21](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=261.04s)]
+*  So this could be a very interesting moment. [[00:04:26](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=266.6s)]
+*  And Donald Trump may inherit, again, words like opportunity in the Middle East are rarely [[00:04:28](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=268.48s)]
+*  mentioned in the same breath. [[00:04:33](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=273.84s)]
+*  But Donald Trump could find himself with some opportunity here diplomatically. [[00:04:35](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=275.76s)]
+*  Well, a couple of points, because this really was a US negotiated deal. [[00:04:39](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=279.15999999999997s)]
+*  We're giving some credit to France, but it was shuttle diplomacy by US diplomats that [[00:04:43](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=283.52000000000004s)]
+*  really made this happen. [[00:04:48](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=288.84000000000003s)]
+*  And there were a lot of hangups in the last couple of days over Israel's insistence that [[00:04:50](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=290.32s)]
+*  they could go back in if his bill violates it. [[00:04:53](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=293.76s)]
+*  Secretary Blinken has been with the G7 in Italy, and he just went on camera. [[00:04:56](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=296.76s)]
+*  He's having a news conference. [[00:05:01](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=301.56s)]
+*  Not to announce this, wanted to defer, of course, to President Biden to put something [[00:05:03](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=303.18s)]
+*  out later today. [[00:05:08](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=308.32s)]
+*  But we now expect that Netanyahu himself in the next hour is going to say something. [[00:05:10](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=310.28000000000003s)]
+*  But here's Secretary Blinken. [[00:05:14](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=314.36s)]
+*  We're in the final stages of securing a ceasefire agreement for Lebanon. [[00:05:16](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=316.12s)]
+*  We're not there yet, but I believe we are in the final stages. [[00:05:21](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=321.84000000000003s)]
+*  This has been an intensive diplomatic effort by the United States, partners like France, [[00:05:28](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=328.28000000000003s)]
+*  working with Israel, working with Lebanon over many months. [[00:05:35](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=335.8s)]
+*  And as you so rightly point out, Richard, smartly point out, of course, that this does [[00:05:40](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=340.23999999999995s)]
+*  give Netanyahu some running room, because going into Lebanon and getting these families, [[00:05:46](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=346.56s)]
+*  more than 60,000 families, have been out of their homes since October 7th, getting them [[00:05:53](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=353.0s)]
+*  back is almost universally supported in Israel, unlike aspects of Gaza and the hostage negotiations. [[00:05:57](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=357.76s)]
+*  There is so much support for this gallant, told reporters here in Washington months ago, [[00:06:05](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=365.32s)]
+*  in July, you know, we're done in Gaza. [[00:06:11](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=371.71999999999997s)]
+*  We really should be finished in Gaza. [[00:06:13](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=373.88s)]
+*  We've accomplished our goals. [[00:06:15](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=375.76s)]
+*  What we now have to do is get Hezbollah and get this done in the north. [[00:06:17](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=377.47999999999996s)]
+*  And so, of course, he later was fired for being so blunt about Gaza, but, and among [[00:06:22](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=382.21999999999997s)]
+*  other things, the rivalry is there. [[00:06:28](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=388.03999999999996s)]
+*  This does give Netanyahu some more freedom, right? [[00:06:30](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=390.52s)]
+*  Oh, absolutely. [[00:06:34](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=394.03999999999996s)]
+*  And what's so interesting, it not only gives him more running room, it gives him some political [[00:06:35](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=395.03999999999996s)]
+*  momentum if he chooses to use it, Bisa v Hamas and Gaza. [[00:06:38](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=398.76s)]
+*  But what's so interesting here, Andrew, is that Bibi Netanyahu, essentially, to use Joe [[00:06:43](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=403.4s)]
+*  Biden's phrase, took a win. [[00:06:47](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=407.4s)]
+*  He could have continued the war against Hezbollah, rejected the ceasefire, and he could have [[00:06:49](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=409.56s)]
+*  said, I want to continue prosecuting the war until Hezbollah is, quote unquote, destroyed. [[00:06:54](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=414.96s)]
+*  I would argue that's an impossibility. [[00:07:00](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=420.24s)]
+*  But, but he chose essentially to settle for what? [[00:07:02](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=422.36s)]
+*  Three quarters of a loaf or fifths of a loaf to accept that Hezbollah can continue to exist [[00:07:06](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=426.28s)]
+*  so long as it's north of the Latani River. [[00:07:11](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=431.24s)]
+*  This is really, this is really interesting. [[00:07:14](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=434.28s)]
+*  And again, the question is, will this be a precedent for a willingness on his part to [[00:07:16](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=436.64s)]
+*  make a compromise vis-a-vis Gaza? [[00:07:21](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=441.48s)]
+*  But some residue of Hamas will continue to exist. [[00:07:23](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=443.76s)]
+*  The question is, will the Israelis be willing not just to accept the ceasefire, but start [[00:07:27](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=447.88s)]
+*  some type of a political process with the Palestinians that would allow an Arab stabilization [[00:07:32](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=452.91999999999996s)]
+*  force to enter Gaza to provide security and stability, governance, and to allow rebuilding [[00:07:39](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=459.52s)]
+*  to start? [[00:07:45](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=465.4s)]
+*  So to me, the biggest question is whether this compromise in the north to get a ceasefire, [[00:07:46](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=466.4s)]
+*  whether Bibi Netanyahu just might be willing to replicate it. [[00:07:52](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=472.64s)]
+*  And he could then be a diplomatic partner of Donald Trump. [[00:07:58](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=478.0s)]
+*  Who would have thought that there's again some really interesting opportunity and possibility [[00:08:00](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=480.76s)]
+*  for the first time in a long time. [[00:08:05](https://www.youtube.com/watch?v=93Sw6B9AEdA&t=485.56s)]

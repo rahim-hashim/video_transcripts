@@ -1,0 +1,89 @@
+---
+Date Generated: February 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 385s
+Video Keywords: ['donald trump', 'gaza', 'middle east', 'palestine', 'west bank', 'gaza strip', 'congress', 'hamas', 'Palestine', 'Hamas', 'Donald Trump', 'Gaza', 'Gaza Strip', 'Middle East', 'West Bank', 'CBS News 24-7 Clips', 'U.S.', 'Politics', 'CBS News']
+Video Views: 24118
+Video Rating: None
+Video Description: Lawmakers on Capitol Hill are reacting to President Trump's suggestion Tuesday night that the U.S. take control of the Gaza Strip. CBS News congressional correspondent Nikole Killion has more.
+
+CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.
+
+Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews
+Watch CBS News 24/7: https://cbsnews.com/live/
+Download the CBS News app: https://cbsnews.com/mobile/
+Follow CBS News on Instagram: https://instagram.com/cbsnews/
+Like CBS News on Facebook: https://facebook.com/cbsnews
+Follow CBS News on X: https://twitter.com/cbsnews
+Subscribe to our newsletters: https://cbsnews.com/newsletters/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# Trump's plan for U.S. to take over Gaza draws reactions from lawmakers
+**CBS - Face the Nation - Middle East:** [February 05, 2025](https://www.youtube.com/watch?v=tc833HG3LDQ)
+*  Reaction to President Trump's suggestion that the U.S. quote, take over Gaza rolling in this morning, [[00:00:00](https://www.youtube.com/watch?v=tc833HG3LDQ&t=0.0s)]
+*  including from lawmakers on Capitol Hill. [[00:00:05](https://www.youtube.com/watch?v=tc833HG3LDQ&t=5.76s)]
+*  Democratic Representative Rashida Tlaib taking to X to say this. [[00:00:08](https://www.youtube.com/watch?v=tc833HG3LDQ&t=8.48s)]
+*  The president is quote, openly calling for ethnic cleansing while sitting next to a genocidal war criminal. [[00:00:12](https://www.youtube.com/watch?v=tc833HG3LDQ&t=12.040000000000001s)]
+*  Her tweet right there. [[00:00:19](https://www.youtube.com/watch?v=tc833HG3LDQ&t=19.04s)]
+*  Meanwhile, House Speaker Mike Johnson says they will stand with the president. Take a listen. [[00:00:20](https://www.youtube.com/watch?v=tc833HG3LDQ&t=20.080000000000002s)]
+*  We await further details on what exactly that looks like. [[00:00:24](https://www.youtube.com/watch?v=tc833HG3LDQ&t=24.52s)]
+*  I think this is a bold, decisive move and I think you have to do something to eradicate the threat to Israel. [[00:00:29](https://www.youtube.com/watch?v=tc833HG3LDQ&t=29.119999999999997s)]
+*  Here's the problem. If you leave Gaza in its current form, there's always a risk of another October 7. [[00:00:37](https://www.youtube.com/watch?v=tc833HG3LDQ&t=37.12s)]
+*  There's always a risk of proxies of Iran, all these terrorist organizations whose stated, [[00:00:44](https://www.youtube.com/watch?v=tc833HG3LDQ&t=44.519999999999996s)]
+*  openly stated goal is to eliminate Israel as a state. [[00:00:49](https://www.youtube.com/watch?v=tc833HG3LDQ&t=49.0s)]
+*  So it just makes sense to make the neighborhood there safer. [[00:00:52](https://www.youtube.com/watch?v=tc833HG3LDQ&t=52.32s)]
+*  I think that's logical. I think it follows common sense. [[00:00:56](https://www.youtube.com/watch?v=tc833HG3LDQ&t=56.12s)]
+*  I think people understand the necessity of it and we're going to stand with Israel as they work towards this goal [[00:00:58](https://www.youtube.com/watch?v=tc833HG3LDQ&t=58.52s)]
+*  and we'll stand with the president on his initiative. [[00:01:03](https://www.youtube.com/watch?v=tc833HG3LDQ&t=63.720000000000006s)]
+*  Well, that question was asked by our very own CBS News congressional correspondent, Nicole Killian. [[00:01:07](https://www.youtube.com/watch?v=tc833HG3LDQ&t=67.16s)]
+*  She joins us now, Nicole. Great to see you. [[00:01:10](https://www.youtube.com/watch?v=tc833HG3LDQ&t=70.80000000000001s)]
+*  What other reactions are you hearing on the Hill to this? [[00:01:13](https://www.youtube.com/watch?v=tc833HG3LDQ&t=73.04s)]
+*  Yeah, well, I just want to take a moment to talk a little bit more about Speaker Mike Johnson's comments [[00:01:17](https://www.youtube.com/watch?v=tc833HG3LDQ&t=77.64s)]
+*  and to clarify that the question that I put to him was yes or no. [[00:01:22](https://www.youtube.com/watch?v=tc833HG3LDQ&t=82.36s)]
+*  Does he agree with President Trump's statement that the U.S. should seize control of Gaza? [[00:01:26](https://www.youtube.com/watch?v=tc833HG3LDQ&t=86.6s)]
+*  And what you heard him there say is that he believes it's a bold and decisive move, [[00:01:34](https://www.youtube.com/watch?v=tc833HG3LDQ&t=94.68s)]
+*  but he also said that he believes that they should get more details or they're awaiting more details. [[00:01:39](https://www.youtube.com/watch?v=tc833HG3LDQ&t=99.88s)]
+*  And also important to note that we are expecting Prime Minister Netanyahu here at the Capitol tomorrow. [[00:01:47](https://www.youtube.com/watch?v=tc833HG3LDQ&t=107.08s)]
+*  And so I also asked him if this is a position or a statement that he is going to reaffirm to the prime minister. [[00:01:53](https://www.youtube.com/watch?v=tc833HG3LDQ&t=113.4s)]
+*  So what you heard him there say, more or less, is that, look, you know, we certainly understand the need to address the situation there, [[00:01:58](https://www.youtube.com/watch?v=tc833HG3LDQ&t=118.64s)]
+*  particularly in the midst of this ceasefire. [[00:02:07](https://www.youtube.com/watch?v=tc833HG3LDQ&t=127.2s)]
+*  You know, his concern is obviously leaving things the way that they are could potentially lead to another October 7th. [[00:02:10](https://www.youtube.com/watch?v=tc833HG3LDQ&t=130.88s)]
+*  And so he, as you heard him there say, he believes that this is just, you know, common sense that you would do want to do something to address the situation on the ground there. [[00:02:17](https://www.youtube.com/watch?v=tc833HG3LDQ&t=137.52s)]
+*  But at the same time, he did kind of put a little distance between himself and the president in the sense of saying that we do need more details here. [[00:02:28](https://www.youtube.com/watch?v=tc833HG3LDQ&t=148.24s)]
+*  And he also told reporters earlier that while he does think it's a good development, he also sees it as a surprise development. [[00:02:36](https://www.youtube.com/watch?v=tc833HG3LDQ&t=156.48s)]
+*  And that really is more broadly kind of the sentiment that we have gotten from a number of lawmakers here on Capitol Hill who were a little, [[00:02:44](https://www.youtube.com/watch?v=tc833HG3LDQ&t=164.95999999999998s)]
+*  you know, flat footed or caught flat footed in response to the president. [[00:02:53](https://www.youtube.com/watch?v=tc833HG3LDQ&t=173.56s)]
+*  You know, many other congressional Republicans have also taken a similar posture in saying, well, you know, [[00:02:58](https://www.youtube.com/watch?v=tc833HG3LDQ&t=178.39999999999998s)]
+*  Yes, we believe that the president certainly wants to maintain peace in the region, but we also believe that we should wait for more details. [[00:03:03](https://www.youtube.com/watch?v=tc833HG3LDQ&t=183.88s)]
+*  Democrats, on the other hand, have kind of taken some of them, I should say, have taken more of the stance that you heard there from Congresswoman Tlaib in that ex post, [[00:03:11](https://www.youtube.com/watch?v=tc833HG3LDQ&t=191.6s)]
+*  you know, saying that they are concerned that this is just yet another example in their view of a potential genocide, [[00:03:21](https://www.youtube.com/watch?v=tc833HG3LDQ&t=201.0s)]
+*  ethnic cleansing, trying to wipe or displace a group of people from the map. [[00:03:29](https://www.youtube.com/watch?v=tc833HG3LDQ&t=209.6s)]
+*  It is just something they simply don't agree with. [[00:03:34](https://www.youtube.com/watch?v=tc833HG3LDQ&t=214.51999999999998s)]
+*  And while all of this is going on, Nicole, there's a really important deadline looming there on Capitol Hill, which is six weeks to go until federal government funding lapses. [[00:03:37](https://www.youtube.com/watch?v=tc833HG3LDQ&t=217.6s)]
+*  So what are lawmakers doing right now to avert that deadline? [[00:03:46](https://www.youtube.com/watch?v=tc833HG3LDQ&t=226.88s)]
+*  Well, obviously, we're just a little more about a month out from that government funding deadline. [[00:03:52](https://www.youtube.com/watch?v=tc833HG3LDQ&t=232.35999999999999s)]
+*  I mean, behind the scenes, there have been discussions, both bicameral and bipartisan discussions around the path forward in terms of funding the government. [[00:03:58](https://www.youtube.com/watch?v=tc833HG3LDQ&t=238.08s)]
+*  But I would note certainly that Democrats are kind of operating with a little bit of trepidation here from the standpoint of they are willing to work across the aisle with respect to making sure the government remains funded. [[00:04:06](https://www.youtube.com/watch?v=tc833HG3LDQ&t=246.32000000000002s)]
+*  But on the same note, they are very concerned about some of the things that they are seeing from the Trump administration with respect to how they are dealing with the federal workforce in terms of the confusion. [[00:04:18](https://www.youtube.com/watch?v=tc833HG3LDQ&t=258.04s)]
+*  For instance, we saw last week over federal funding, you know, some of these efforts to try to shutter federal agencies. [[00:04:30](https://www.youtube.com/watch?v=tc833HG3LDQ&t=270.24s)]
+*  This is of grave concern to a number of Democrats. [[00:04:37](https://www.youtube.com/watch?v=tc833HG3LDQ&t=277.84000000000003s)]
+*  So they are a little hesitant or feel like they should kind of draw some lines in the sand here in terms of going forward, making sure that if the government is funded, that, you know, it continues at the levels that it should that these agencies continue to be funded as they should rather than being shut down. [[00:04:40](https://www.youtube.com/watch?v=tc833HG3LDQ&t=280.8s)]
+*  All right, let's switch gears to the confirmation watch. [[00:05:01](https://www.youtube.com/watch?v=tc833HG3LDQ&t=301.12s)]
+*  They're going on as well. [[00:05:03](https://www.youtube.com/watch?v=tc833HG3LDQ&t=303.32s)]
+*  Nicole, Pam Bondi sailed through yesterday receiving this praise from President Trump. [[00:05:04](https://www.youtube.com/watch?v=tc833HG3LDQ&t=304.72s)]
+*  Who should we expect to see confirmed next? [[00:05:10](https://www.youtube.com/watch?v=tc833HG3LDQ&t=310.16s)]
+*  Well, certainly one nomination that is coming down the pike is that of the president's pick for the Office of Management and Budget, a Russell vote. [[00:05:15](https://www.youtube.com/watch?v=tc833HG3LDQ&t=315.72s)]
+*  This is someone once again, the Democrats remain concerned about so much so that they have indicated, according to leadership sources that we have talked to, that they may hold the floor in protest of his nomination to try to [[00:05:24](https://www.youtube.com/watch?v=tc833HG3LDQ&t=324.76000000000005s)]
+*  slow it down and prevent it from moving forward. [[00:05:40](https://www.youtube.com/watch?v=tc833HG3LDQ&t=340.24s)]
+*  Of course, Russell vote. [[00:05:43](https://www.youtube.com/watch?v=tc833HG3LDQ&t=343.6s)]
+*  Some have claimed that he is the architect of that project. [[00:05:45](https://www.youtube.com/watch?v=tc833HG3LDQ&t=345.28000000000003s)]
+*  Twenty twenty five, even though President Trump has put some distance between himself, that is something we heard a lot about on the campaign. [[00:05:49](https://www.youtube.com/watch?v=tc833HG3LDQ&t=349.12s)]
+*  Like I said, you know, the president tried to distance himself from that blueprint, from a conservative think tank. [[00:05:56](https://www.youtube.com/watch?v=tc833HG3LDQ&t=356.84000000000003s)]
+*  But nonetheless, again, kind of given all of the people that we are seeing with a number of federal agencies, federal workers, you know, [[00:06:02](https://www.youtube.com/watch?v=tc833HG3LDQ&t=362.24s)]
+*  they believe that this is somebody who may carry that out even further. [[00:06:09](https://www.youtube.com/watch?v=tc833HG3LDQ&t=369.76s)]
+*  And so that's why Senate Democrats plan to protest his nomination later today. [[00:06:14](https://www.youtube.com/watch?v=tc833HG3LDQ&t=374.12s)]
+*  CBS News congressional correspondent Nicole Killian lost to go through. [[00:06:19](https://www.youtube.com/watch?v=tc833HG3LDQ&t=379.36s)]
+*  Thank you so much for helping to make sense of it all. [[00:06:22](https://www.youtube.com/watch?v=tc833HG3LDQ&t=382.4s)]

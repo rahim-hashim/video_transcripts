@@ -1,0 +1,145 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 603s
+Video Keywords: ['Chris Hayes']
+Video Views: 45782
+Video Rating: None
+Video Description: Chris Hayes: “I find the lesson of George W. Bush and Social Security reform illuminating here. Then as now, we have a Republican president-elect winning a thin majority of votes. And then as now they want to act as if they have a sweeping mandate to remake a federal institution that millions of Americans rely on.”
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup 
+
+#GOP #Trump #MAGA
+---
+
+# Why Trump’s win isn’t a ‘mandate’ for the unpopular MAGA agenda
+**NBC - Chris Hayes:** [November 12, 2024](https://www.youtube.com/watch?v=GkOEHS7c0Bc)
+*  Good evening from New York. I'm Chris Hayes and I want to start tonight by looking at something that happened the last time a [[00:00:00](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=0.0s)]
+*  Republican candidate for president won the popular vote who was 20 years ago [[00:00:06](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=6.4s)]
+*  It is noon on the East Coast and 9 a.m. Out West and NBC News now projects George W [[00:00:30](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=30.0s)]
+*  Bush wins the 2004 presidential election and so now George W Bush by a margin of more than 3 million votes will serve four more years [[00:00:38](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=38.72s)]
+*  as president of the United States [[00:00:47](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=47.519999999999996s)]
+*  It was widely seen as a decisive victory by the pundits a race that Bush won by just under a 3 million votes out of [[00:00:50](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=50.08s)]
+*  111 million cast taking the popular vote by as you see just over 2% [[00:00:57](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=57.12s)]
+*  Now that's pretty close like it's pretty close to 50-50 a point that one new senator-elect from Illinois made on election night [[00:01:02](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=62.24s)]
+*  before the race was even called I [[00:01:10](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=70.64s)]
+*  Think that you know what's important as we move forward at? [[00:01:13](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=73.28s)]
+*  Regardless of what happens at the presidential level and I'd give the same advice to John Kerry or President Bush [[00:01:16](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=76.88s)]
+*  I think it's really important at this stage to recognize that this is a [[00:01:23](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=83.44s)]
+*  5149 country or a 50-50 country and that whoever's in power has to show a certain humility [[00:01:27](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=87.25999999999999s)]
+*  And a recognition that they've only convinced half the people [[00:01:35](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=95.2s)]
+*  For us to move together. We need a much higher percentage of folks moving in the same direction [[00:01:39](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=99.12s)]
+*  A 50-50 country humility so said senator-elect Barack Obama on election night on Fox News in fact [[00:01:43](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=103.75999999999999s)]
+*  Now the race wasn't even called until the morning after the election as you saw there because of a close vote in the [[00:01:50](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=110.16s)]
+*  Central swing state of Ohio if it had gone the other way Bush would have actually lost that election despite winning the popular vote [[00:01:56](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=116.56s)]
+*  It was even crazier because democrats had a massive voter turnout operation that had hit its numbers in Ohio and elsewhere [[00:02:03](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=123.84s)]
+*  The democrats thought they were going to mobilize their vote and get this huge new vote out and swap [[00:02:12](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=132.48s)]
+*  The republicans but in the end it was the republicans that mobilized a huge vote [[00:02:17](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=137.04s)]
+*  And it really was a it was it was a vote that a kind of vote that I haven't seen in Ohio before in terms of [[00:02:21](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=141.52s)]
+*  The numbers of republicans and the margins they were producing in especially some of the rural counties [[00:02:26](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=146.8s)]
+*  Sound familiar. So how did bush win and how did he run up such big numbers in those rural areas? [[00:02:32](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=152.16s)]
+*  Remember, this was only three years after 9 11 [[00:02:37](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=157.76s)]
+*  Americans were still kind of rallying around the flag and the wartime leader bush and claim the mantle of wartime president [[00:02:40](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=160.32s)]
+*  Launched the war in iraq declared famously mission accomplished in that indelible image [[00:02:47](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=167.28s)]
+*  Even as it was already when voters went to the polls becoming clear the invasion of iraq [[00:02:52](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=172.48s)]
+*  Was becoming a disaster [[00:02:58](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=178.0s)]
+*  Now immediately after that loss democrats began you'll never guess what? [[00:03:00](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=180.0s)]
+*  soul-searching [[00:03:04](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=184.88s)]
+*  finger pointing [[00:03:06](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=186.48s)]
+*  anxiously wondering [[00:03:08](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=188.0s)]
+*  How had they grown out of touch with middle america? [[00:03:09](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=189.84s)]
+*  Lots of folks poured over a just released book by the great writer and social critic thomas frank [[00:03:13](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=193.20000000000002s)]
+*  Which became a huge bestseller called what's the matter with kansas and in it? [[00:03:17](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=197.68s)]
+*  He detailed how republicans and conservatives used these sort of culture war fights and wild accusations against liberals [[00:03:21](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=201.52s)]
+*  As a bait and switch to win over working class and rural voters and get them to vote against their economic interests [[00:03:28](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=208.0s)]
+*  this great movement to the right [[00:03:34](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=214.88s)]
+*  That we've had over the last 36 odd years is so familiar [[00:03:37](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=217.83999999999997s)]
+*  I think that probably everybody in this room has a conversion story that they can tell how their dad had been a union steel worker say [[00:03:42](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=222.32s)]
+*  A stalwart democrat, but how one day all their brothers and sisters started voting republican [[00:03:50](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=230.72s)]
+*  Or how their cousin gave up on methodism and started going to the pentacostal church out on the edge of town [[00:03:55](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=235.92s)]
+*  Or how they themselves just got so sick and tired of being scolded for eating meat [[00:04:02](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=242.16s)]
+*  Or for wearing clothes emblazoned with chief alina weck that one day fox news started to seem fair and balanced to them after all [[00:04:06](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=246.95999999999998s)]
+*  Some real echoes here, right 20 years later [[00:04:14](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=254.95999999999998s)]
+*  And again against this backdrop republicans were triumphant and they painted democrats as these [[00:04:17](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=257.52s)]
+*  Terrorism appeasers as weak need is out of touch bleeding heart liberals clustered in urban enclaves and campus anti-war protests [[00:04:22](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=262.86s)]
+*  And they interpreted bush's reelection as a broad mandate for all of their craziest policy ideas [[00:04:30](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=270.8s)]
+*  In his first press conference after the election [[00:04:36](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=276.96000000000004s)]
+*  President himself said as much [[00:04:39](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=279.84000000000003s)]
+*  When you win there is a [[00:04:42](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=282.48s)]
+*  A feeling that the people have spoken and embraced [[00:04:44](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=284.72s)]
+*  Your point of view and that's what I intend to tell the congress you asked do I feel free? [[00:04:48](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=288.40000000000003s)]
+*  Let me put it to you this way. I earned capital in the campaign political capital and now I intend to spend it [[00:04:52](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=292.08000000000004s)]
+*  The second term agenda meant an expansion of the global war on terror overseas and at home [[00:04:58](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=298.48s)]
+*  It was a bonanza of privatization [[00:05:03](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=303.28s)]
+*  Of government functions the centerpiece of this agenda the first big way he was going to spend that capital [[00:05:05](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=305.68s)]
+*  Was a policy championed by the conservative heritage foundation might sound familiar [[00:05:12](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=312.0s)]
+*  It was a plan to privatize [[00:05:17](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=317.68s)]
+*  Basically all or at least part of sources security to make that federally guaranteed benefit, right that rock solid benefit [[00:05:19](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=319.84s)]
+*  You pay your whole life you get the money back more like a workplace retirement account [[00:05:27](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=327.03999999999996s)]
+*  More like a gamble in the market [[00:05:31](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=331.28000000000003s)]
+*  Now this had been a long-standing republican dream [[00:05:33](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=333.76000000000005s)]
+*  Bush claimed the social security program was in crisis and would be insolvent in just over a decade [[00:05:37](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=337.52000000000004s)]
+*  Voters were not interested in hearing that in fact the harder that bush and republicans pushed the less popular social security reform became in polls [[00:05:42](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=342.56s)]
+*  And so democrats on capital hell did something rare [[00:05:51](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=351.52000000000004s)]
+*  They dug their heels in and they fought republicans tooth and nail [[00:05:55](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=355.12s)]
+*  In fact one aid to then house minority leader nancy pelosi recalls that nervous colleagues would ask her when the party's [[00:05:59](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=359.28000000000003s)]
+*  Alternative social security reform plan would be released and pelosi responded never does never work for you [[00:06:06](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=366.62s)]
+*  So bush has just been re-elected republican house and a republican senate government trifecta and even with that [[00:06:14](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=374.08s)]
+*  And even with the political capital he gained in his re-election even with all the takes afterwards about how america just hates the libs and [[00:06:20](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=380.0s)]
+*  Republicans and conservatives are ascendant [[00:06:27](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=387.68s)]
+*  George w push could never even get his plan for privatizing social security to a vote on capital hill didn't even get a vote [[00:06:30](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=390.56s)]
+*  Because it was so radioactive [[00:06:38](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=398.8s)]
+*  It was an unpopular idea that no one had asked for and no one had really voted for right [[00:06:40](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=400.96s)]
+*  That 51 percent of the country's vote was george w bush. They weren't like please privatize our social security [[00:06:46](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=406.72s)]
+*  I mean outside of the heritage foundation, of course [[00:06:53](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=413.04s)]
+*  And that fight even contributed to democrats taking back the house in the senate in 2006 [[00:06:56](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=416.0s)]
+*  And I think you can see where i'm going here. The reason i'm talking about all this tonight [[00:07:00](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=420.24s)]
+*  Is that there's something brewing similar? [[00:07:04](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=424.64000000000004s)]
+*  Here with donald trump something similar that recalls what happened [[00:07:07](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=427.68s)]
+*  the president-elect [[00:07:12](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=432.24s)]
+*  Laid out something in a video yesterday regarding his plans [[00:07:13](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=433.76s)]
+*  Which are embodying project 2025 on how he will essentially overhaul the education system [[00:07:17](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=437.36s)]
+*  And that plan of course is to abolish the department of education [[00:07:23](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=443.92s)]
+*  it is a goal very much like privatizing social security that has been a [[00:07:28](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=448.0s)]
+*  Fever dream of republicans for decades. This is not new [[00:07:32](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=452.8s)]
+*  It of course requires congressional approval. In fact, the heritage foundation has a plan for liquidating the department and assigning its functions to other departments. It's all [[00:07:36](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=456.24s)]
+*  Drawn out in that project 2025 blueprint [[00:07:44](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=464.48s)]
+*  And it is not popular. Okay [[00:07:48](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=468.56s)]
+*  Just one bit of polling data umass amherst poll late last month found six and ten respondents oppose [[00:07:51](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=471.2s)]
+*  Elimiting the department of education firing civil servants replacing the political appointees loyal to the president [[00:07:57](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=477.12s)]
+*  Now all of this looks like it's going to be happening. I mean [[00:08:03](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=483.84000000000003s)]
+*  We're starting to see the signs of it despite the fact the department of education [[00:08:07](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=487.44s)]
+*  Overseas all the 1.6 trillion dollars in federal student loans americans have borrowed [[00:08:10](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=490.32s)]
+*  It enforces civil rights and education. It collects vital statistics on enrollments [[00:08:15](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=495.28s)]
+*  staffing crime that schools nationwide rely on and [[00:08:19](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=499.36s)]
+*  it administers billions in federal grants to support america's poorest students as well as [[00:08:23](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=503.04s)]
+*  And here's something I think you're going to hear a lot about [[00:08:28](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=508.56s)]
+*  students with special needs [[00:08:31](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=511.52s)]
+*  Now if you have a student in your family that relies on special education or has a iep an individualized education program [[00:08:34](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=514.0s)]
+*  That's thanks to the department of education [[00:08:41](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=521.92s)]
+*  They are the funding source [[00:08:44](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=524.64s)]
+*  Hear me now for every iep in the country [[00:08:46](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=526.32s)]
+*  Every single one comes through that department [[00:08:51](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=531.6800000000001s)]
+*  And I would like to know how many millions of voters are in families that rely on those ieps [[00:08:54](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=534.72s)]
+*  The reason republicans have dreamed of abolishing the department of education [[00:09:04](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=544.08s)]
+*  But never actually done it is because it will disrupt the lives of millions of families and kids [[00:09:06](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=546.96s)]
+*  In ways they will remember forever [[00:09:14](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=554.0799999999999s)]
+*  So I find the lesson of george w bush and social security reform illuminating here then as now [[00:09:18](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=558.3199999999999s)]
+*  We have a republican president-elect winning a thin majority of votes and then as now they want to act is that they have a sweeping mandate [[00:09:23](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=563.28s)]
+*  To remake a federal institution that millions americans rely on like all of a sudden a majority [[00:09:29](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=569.8399999999999s)]
+*  Decided the heritage foundation was the way to go [[00:09:35](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=575.04s)]
+*  There's going to be a fight on that and that is a fight that democrats. I think would love to have [[00:09:38](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=578.4s)]
+*  You [[00:09:43](https://www.youtube.com/watch?v=GkOEHS7c0Bc&t=583.68s)]

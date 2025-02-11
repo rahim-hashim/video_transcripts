@@ -1,0 +1,158 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 560s
+Video Keywords: ['Chris Hayes']
+Video Views: 173076
+Video Rating: None
+Video Description: Donald Trump is struggling to focus his campaign as Vice President Kamala Harris closes the gap in the polls. This afternoon, he re-hired his disgraced 2016 campaign manager, Corey Lewandowski. And in newly released secret video from the Centre for Climate Reporting, one of the key authors of Project 2025 revealed Trump’s involvement in the plan. “Clearly, they feel the need to misdirect voters about what they would do when they’re back in the White House to have any shot at winning this election – but they just keep getting caught,” says Chris Hayes.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #Trump #Project2025
+---
+
+# Secret video links Trump to Project 2025
+**NBC - Chris Hayes:** [August 15, 2024](https://www.youtube.com/watch?v=amclMfup364)
+*  The polls continue to roll in showing the race for president has truly been [[00:00:00](https://www.youtube.com/watch?v=amclMfup364&t=0.0s)]
+*  remade with Kamala Harris at the top of the Democratic ticket. [[00:00:03](https://www.youtube.com/watch?v=amclMfup364&t=3.8000000000000003s)]
+*  New survey of registered voters today, the economist and YouGov put out [[00:00:07](https://www.youtube.com/watch?v=amclMfup364&t=7.28s)]
+*  fines. Once again, Vice President Harris up nationally two points over Donald [[00:00:10](https://www.youtube.com/watch?v=amclMfup364&t=10.88s)]
+*  Trump, 46 to 44%. [[00:00:14](https://www.youtube.com/watch?v=amclMfup364&t=14.76s)]
+*  That is, of course, within the margin of error, as much of the polling the [[00:00:16](https://www.youtube.com/watch?v=amclMfup364&t=16.64s)]
+*  entire cycle has been, but it's reflective of the broad data that we've been [[00:00:19](https://www.youtube.com/watch?v=amclMfup364&t=19.6s)]
+*  seeing over the last three to four weeks, indicating this is now a tight, [[00:00:23](https://www.youtube.com/watch?v=amclMfup364&t=23.96s)]
+*  highly competitive contest with a narrow edge to the Democratic nominee. [[00:00:27](https://www.youtube.com/watch?v=amclMfup364&t=27.52s)]
+*  And of course, that has sent Donald Trump into a spiral. [[00:00:31](https://www.youtube.com/watch?v=amclMfup364&t=31.92s)]
+*  He is flailing and lashing out, holding yet another rambling hour plus long [[00:00:36](https://www.youtube.com/watch?v=amclMfup364&t=36.0s)]
+*  press conference this afternoon, this time from his Bedminster, New Jersey [[00:00:40](https://www.youtube.com/watch?v=amclMfup364&t=40.56s)]
+*  summer home. Last one was for the Florida home. [[00:00:44](https://www.youtube.com/watch?v=amclMfup364&t=44.36s)]
+*  All of it has the former president's allies worried behind closed doors, [[00:00:47](https://www.youtube.com/watch?v=amclMfup364&t=47.6s)]
+*  lawmakers, donors and informal outside advisors are pressuring Trump to refocus, [[00:00:51](https://www.youtube.com/watch?v=amclMfup364&t=51.44s)]
+*  quote, sorry, to stick to the issues and drop the race or personality driven [[00:00:56](https://www.youtube.com/watch?v=amclMfup364&t=56.56s)]
+*  attacks. I have to say it is a very funny bit. [[00:01:03](https://www.youtube.com/watch?v=amclMfup364&t=63.36s)]
+*  We know it's never going to happen. [[00:01:07](https://www.youtube.com/watch?v=amclMfup364&t=67.28s)]
+*  The Trump team is actually doing something in a desperate attempt to turn [[00:01:08](https://www.youtube.com/watch?v=amclMfup364&t=68.92s)]
+*  the ship around. They're getting the old 2016 band back together. [[00:01:12](https://www.youtube.com/watch?v=amclMfup364&t=72.04s)]
+*  Remember this guy, Donald Trump's first campaign manager, Corey Lewandowski, [[00:01:16](https://www.youtube.com/watch?v=amclMfup364&t=76.32000000000001s)]
+*  has been charged with battery against a reporter. [[00:01:21](https://www.youtube.com/watch?v=amclMfup364&t=81.44s)]
+*  It began as a he said, she said when reporter Michelle Fields claimed [[00:01:24](https://www.youtube.com/watch?v=amclMfup364&t=84.28s)]
+*  Lewandowski manhandled her at a campaign event, he denied it and said she was [[00:01:28](https://www.youtube.com/watch?v=amclMfup364&t=88.24000000000001s)]
+*  delusional. But then there is the tale of the tape and police say what they saw on [[00:01:33](https://www.youtube.com/watch?v=amclMfup364&t=93.12s)]
+*  that tape was real. Trump's hard charging deputies had a series of run ins on the [[00:01:37](https://www.youtube.com/watch?v=amclMfup364&t=97.2s)]
+*  trail with protesters recently grabbing one man by the collar and the press [[00:01:41](https://www.youtube.com/watch?v=amclMfup364&t=101.24000000000001s)]
+*  threatening to confiscate a media member's credentials if they left the [[00:01:45](https://www.youtube.com/watch?v=amclMfup364&t=105.80000000000001s)]
+*  assigned press area. [[00:01:48](https://www.youtube.com/watch?v=amclMfup364&t=108.88000000000001s)]
+*  Multiple female media members tell NBC News they've received uninvited verbal [[00:01:51](https://www.youtube.com/watch?v=amclMfup364&t=111.16s)]
+*  overtures from Lewandowski, describing them as suggestive and belittling [[00:01:55](https://www.youtube.com/watch?v=amclMfup364&t=115.39999999999999s)]
+*  singer Joy Villa has filed a sexual assault complaint against former Trump [[00:01:59](https://www.youtube.com/watch?v=amclMfup364&t=119.72s)]
+*  campaign manager Corey Lewandowski. Villa has accused Lewandowski of hitting [[00:02:03](https://www.youtube.com/watch?v=amclMfup364&t=123.28s)]
+*  her twice on the buttocks at a Trump International Hotel party this past [[00:02:07](https://www.youtube.com/watch?v=amclMfup364&t=127.6s)]
+*  November. Corey Lewandowski, I should note, is former campaign manager who was [[00:02:12](https://www.youtube.com/watch?v=amclMfup364&t=132.07999999999998s)]
+*  obviously was highly criticized for his comments when he said, Whomp, Whomp, when [[00:02:17](https://www.youtube.com/watch?v=amclMfup364&t=137.56s)]
+*  it was referenced on TV as part of an interview that a 10 year old girl with [[00:02:21](https://www.youtube.com/watch?v=amclMfup364&t=141.92s)]
+*  Down syndrome was separated from his mother. Corey Lewandowski, longtime [[00:02:25](https://www.youtube.com/watch?v=amclMfup364&t=145.52s)]
+*  advisor to the twice impeached ex president, credibly accused of sexual [[00:02:29](https://www.youtube.com/watch?v=amclMfup364&t=149.36s)]
+*  misconduct by at least 19 women has been fired from running his super PAC. It [[00:02:33](https://www.youtube.com/watch?v=amclMfup364&t=153.62s)]
+*  follows accusations by a major Trump donor of unwanted sexual advances and [[00:02:39](https://www.youtube.com/watch?v=amclMfup364&t=159.04s)]
+*  inappropriate touching. [[00:02:44](https://www.youtube.com/watch?v=amclMfup364&t=164.36s)]
+*  I had forgotten half the stuff on that list, but that's right. 2016 Trump [[00:02:47](https://www.youtube.com/watch?v=amclMfup364&t=167.2s)]
+*  campaign manager and all around mensch, Corey Lewandowski is being brought back [[00:02:53](https://www.youtube.com/watch?v=amclMfup364&t=173.36s)]
+*  into the fold. This afternoon, Trump announced that he'll be coming on board [[00:02:59](https://www.youtube.com/watch?v=amclMfup364&t=179.64s)]
+*  as a senior advisor, claiming many people want to join the campaign for [[00:03:03](https://www.youtube.com/watch?v=amclMfup364&t=183.4s)]
+*  the final push. Lewandowski is one of five new staffers forming the shake up [[00:03:06](https://www.youtube.com/watch?v=amclMfup364&t=186.96s)]
+*  all previously from Trump World. As the Washington Post reports, Trump has been [[00:03:11](https://www.youtube.com/watch?v=amclMfup364&t=191.36s)]
+*  annoyed for weeks the direction of his campaign. It's hard to see this move as [[00:03:15](https://www.youtube.com/watch?v=amclMfup364&t=195.08s)]
+*  anything but a demotion, pretty humiliating one actually for co campaign [[00:03:18](https://www.youtube.com/watch?v=amclMfup364&t=198.84s)]
+*  managers, Chris LaSavita and Susie Wiles, who will now be subject to the [[00:03:23](https://www.youtube.com/watch?v=amclMfup364&t=203.20000000000002s)]
+*  strategic genius of Corey Lewandowski when he's not doing God knows what else [[00:03:27](https://www.youtube.com/watch?v=amclMfup364&t=207.92000000000002s)]
+*  known in 2016 for not trying to restrain Trump and his impulses. Let Trump beat [[00:03:32](https://www.youtube.com/watch?v=amclMfup364&t=212.92000000000002s)]
+*  Trump was the motto Lewandowski wrote on day one of the campaign headquarters [[00:03:38](https://www.youtube.com/watch?v=amclMfup364&t=218.4s)]
+*  whiteboard. It's understandable Donald Trump wants to recapture the 2016 [[00:03:42](https://www.youtube.com/watch?v=amclMfup364&t=222.76s)]
+*  feeling. It was literally his one and only win ever, even though he actually [[00:03:47](https://www.youtube.com/watch?v=amclMfup364&t=227.44s)]
+*  lost a popular contest by nearly 3 million votes and took the White House [[00:03:54](https://www.youtube.com/watch?v=amclMfup364&t=234.56s)]
+*  because the electoral college. The trick that Trump and his campaign pulled off [[00:03:57](https://www.youtube.com/watch?v=amclMfup364&t=237.76s)]
+*  back then was presenting the candidate as essentially an empty vessel. Yes, I [[00:04:01](https://www.youtube.com/watch?v=amclMfup364&t=241.88s)]
+*  mean, he made gestures towards some policies, particularly on immigration and [[00:04:07](https://www.youtube.com/watch?v=amclMfup364&t=247.0s)]
+*  trade. And of course, he was also aided by his own crimes. The 34 felony counts [[00:04:10](https://www.youtube.com/watch?v=amclMfup364&t=250.64s)]
+*  of falsifying business records in an effort to illegally influence the [[00:04:15](https://www.youtube.com/watch?v=amclMfup364&t=255.27999999999997s)]
+*  election, not to mention the illegal interference by the Russian government, [[00:04:18](https://www.youtube.com/watch?v=amclMfup364&t=258.0s)]
+*  which sabotages opponent. But the 2016 playbook didn't work in 2020. And I [[00:04:23](https://www.youtube.com/watch?v=amclMfup364&t=263.0s)]
+*  don't think it's gonna work this time because he has been president. People [[00:04:27](https://www.youtube.com/watch?v=amclMfup364&t=267.88s)]
+*  forget this, but I swear to God, it's true. Four whole years. He's got a [[00:04:32](https://www.youtube.com/watch?v=amclMfup364&t=272.44s)]
+*  record. He left office with tens of thousands of people dying every week of [[00:04:36](https://www.youtube.com/watch?v=amclMfup364&t=276.76s)]
+*  the virus. He told them to inject bleach to cure the economy in once in a [[00:04:41](https://www.youtube.com/watch?v=amclMfup364&t=281.88s)]
+*  lifetime tatters a single signature piece of legislation, trillions of [[00:04:47](https://www.youtube.com/watch?v=amclMfup364&t=287.2s)]
+*  dollars in tax cuts for corporations and rich people. And in addition to that [[00:04:51](https://www.youtube.com/watch?v=amclMfup364&t=291.2s)]
+*  dismal record, we have this expansive 900 page document laying out exactly [[00:04:54](https://www.youtube.com/watch?v=amclMfup364&t=294.76s)]
+*  what Trump and his cronies are going to do if they get back into power. You've [[00:05:00](https://www.youtube.com/watch?v=amclMfup364&t=300.03999999999996s)]
+*  probably heard it. It's called Project 2025 and its proposals are deeply [[00:05:04](https://www.youtube.com/watch?v=amclMfup364&t=304.40000000000003s)]
+*  unpopular with voters. Don't take my word for it. They've pulled it. One [[00:05:08](https://www.youtube.com/watch?v=amclMfup364&t=308.44s)]
+*  recent poll found that large majorities of Americans oppose the key pillars of [[00:05:11](https://www.youtube.com/watch?v=amclMfup364&t=311.6s)]
+*  the project. That includes 68% who oppose replacing career government [[00:05:15](https://www.youtube.com/watch?v=amclMfup364&t=315.28000000000003s)]
+*  officials with political appointees. 72% oppose restricting women's right to [[00:05:19](https://www.youtube.com/watch?v=amclMfup364&t=319.6s)]
+*  contraception. 64% oppose eliminating the Department of Education. Trump [[00:05:24](https://www.youtube.com/watch?v=amclMfup364&t=324.24s)]
+*  world is rightly freaking out about Project 2025 and attempting to distance [[00:05:29](https://www.youtube.com/watch?v=amclMfup364&t=329.88s)]
+*  themselves from it, which is a tough order when you've been photographed [[00:05:34](https://www.youtube.com/watch?v=amclMfup364&t=334.44s)]
+*  flying on a private plane with the architect of the whole movement. Trump [[00:05:39](https://www.youtube.com/watch?v=amclMfup364&t=339.08s)]
+*  campaign manager Chris LaCivita, although I guess he isn't anymore. I [[00:05:43](https://www.youtube.com/watch?v=amclMfup364&t=343.0s)]
+*  don't know. He tried in this memorable moment from the Republican National [[00:05:47](https://www.youtube.com/watch?v=amclMfup364&t=347.12s)]
+*  Convention. [[00:05:51](https://www.youtube.com/watch?v=amclMfup364&t=351.0s)]
+*  Let me ask you about Project 2025. Never heard of it. Yeah. They heard [[00:05:53](https://www.youtube.com/watch?v=amclMfup364&t=353.56s)]
+*  your campaign. The next Trump campaign. They're jamming you. No, they're a [[00:05:59](https://www.youtube.com/watch?v=amclMfup364&t=359.36s)]
+*  pain in the ass. [[00:06:02](https://www.youtube.com/watch?v=amclMfup364&t=362.36s)]
+*  The more they insist they have nothing to do with it, the more evidence we seem [[00:06:04](https://www.youtube.com/watch?v=amclMfup364&t=364.68s)]
+*  to get of just how closely aligned they are because well, they are. Today, a [[00:06:07](https://www.youtube.com/watch?v=amclMfup364&t=367.2s)]
+*  British nonprofit called the Center for Climate Reporting published a video of [[00:06:11](https://www.youtube.com/watch?v=amclMfup364&t=371.32s)]
+*  a secretly recorded interview they conducted with one of the sort of key [[00:06:15](https://www.youtube.com/watch?v=amclMfup364&t=375.36s)]
+*  authors of Project 2025. We've covered this guy before. The man's name is [[00:06:18](https://www.youtube.com/watch?v=amclMfup364&t=378.84000000000003s)]
+*  Russell Vogt. He served as Donald Trump's director of office and management [[00:06:22](https://www.youtube.com/watch?v=amclMfup364&t=382.68s)]
+*  budget, which is a really key job in the White House. He now leads the Center for [[00:06:27](https://www.youtube.com/watch?v=amclMfup364&t=387.12s)]
+*  Renewing America, part of a network of conservative agnostic groups staffed by [[00:06:31](https://www.youtube.com/watch?v=amclMfup364&t=391.15999999999997s)]
+*  former and potentially future Trump administration officials. Vogt is also [[00:06:35](https://www.youtube.com/watch?v=amclMfup364&t=395.24s)]
+*  the policy director for Trump and the Republican National Committee's 2024 [[00:06:39](https://www.youtube.com/watch?v=amclMfup364&t=399.91999999999996s)]
+*  platform committee. Washington Post reports that Vogt wrote the chapter on [[00:06:44](https://www.youtube.com/watch?v=amclMfup364&t=404.0s)]
+*  the executive office of the president in Project 2025's 920 page blueprint, and [[00:06:48](https://www.youtube.com/watch?v=amclMfup364&t=408.32s)]
+*  he is developing its playbook for the first 180 days. He is also poised to [[00:06:53](https://www.youtube.com/watch?v=amclMfup364&t=413.76000000000005s)]
+*  steer this agenda from an influential perch in the White House, potentially as [[00:06:58](https://www.youtube.com/watch?v=amclMfup364&t=418.48s)]
+*  Trump's chief of staff, according to some people involved in discussions about a [[00:07:02](https://www.youtube.com/watch?v=amclMfup364&t=422.6s)]
+*  second term. So not a kind of arm's length guy and not just some rando off [[00:07:06](https://www.youtube.com/watch?v=amclMfup364&t=426.24s)]
+*  the street, right? Now, take a listen to what Vogt told the two men he thought [[00:07:10](https://www.youtube.com/watch?v=amclMfup364&t=430.36s)]
+*  were relatives of a conservative donor about Donald Trump's involvement with [[00:07:14](https://www.youtube.com/watch?v=amclMfup364&t=434.88000000000005s)]
+*  Project 2025 and his plans. [[00:07:18](https://www.youtube.com/watch?v=amclMfup364&t=438.6s)]
+*  He's been at our organization. He's raised money for our organization. He's [[00:07:21](https://www.youtube.com/watch?v=amclMfup364&t=441.36s)]
+*  blessed it from the, you know, walking into our last day in office and told him [[00:07:24](https://www.youtube.com/watch?v=amclMfup364&t=444.88s)]
+*  what I was going to do. So he's very supportive of what we do. Vogt also [[00:07:29](https://www.youtube.com/watch?v=amclMfup364&t=449.04s)]
+*  roundly dismissed concerns about Trump trying to separate himself from the [[00:07:34](https://www.youtube.com/watch?v=amclMfup364&t=454.68s)]
+*  project. I expect to hear 10 more times from the rally the president, you know, [[00:07:38](https://www.youtube.com/watch?v=amclMfup364&t=458.64s)]
+*  distancing himself from the left's boogieing the end of Project 2025. [[00:07:44](https://www.youtube.com/watch?v=amclMfup364&t=464.28000000000003s)]
+*  And you're not worried about that? [[00:07:48](https://www.youtube.com/watch?v=amclMfup364&t=468.68s)]
+*  No, not worried about it. [[00:07:52](https://www.youtube.com/watch?v=amclMfup364&t=472.28000000000003s)]
+*  Why would he be? Vogt explained that he has the former president's trust and his [[00:07:54](https://www.youtube.com/watch?v=amclMfup364&t=474.24s)]
+*  ear. [[00:07:58](https://www.youtube.com/watch?v=amclMfup364&t=478.84000000000003s)]
+*  If a battle plan is out there that will do what he wants, there are people like [[00:08:00](https://www.youtube.com/watch?v=amclMfup364&t=480.52s)]
+*  me that have his trust that will be able to get it to him in whatever position [[00:08:05](https://www.youtube.com/watch?v=amclMfup364&t=485.26s)]
+*  we're at. [[00:08:10](https://www.youtube.com/watch?v=amclMfup364&t=490.44s)]
+*  Now we should say we reached out to vote the organization he leads and the Trump [[00:08:12](https://www.youtube.com/watch?v=amclMfup364&t=492.24s)]
+*  campaign for comment. We haven't heard back, but a spokesperson for Vogt's [[00:08:15](https://www.youtube.com/watch?v=amclMfup364&t=495.36s)]
+*  nonprofit did tell CNN in a statement, quote, [[00:08:18](https://www.youtube.com/watch?v=amclMfup364&t=498.8s)]
+*  A senior advisor of the Trump campaign said in part, [[00:08:37](https://www.youtube.com/watch?v=amclMfup364&t=517.28s)]
+*  represent policies the second term. [[00:08:46](https://www.youtube.com/watch?v=amclMfup364&t=526.0s)]
+*  Clearly they feel the need to, well, misdirect voters about what they would do [[00:08:48](https://www.youtube.com/watch?v=amclMfup364&t=528.96s)]
+*  when they're back in the White House to have any shot of winning this election. [[00:08:54](https://www.youtube.com/watch?v=amclMfup364&t=534.48s)]
+*  But they just keep getting caught. [[00:08:58](https://www.youtube.com/watch?v=amclMfup364&t=538.32s)]

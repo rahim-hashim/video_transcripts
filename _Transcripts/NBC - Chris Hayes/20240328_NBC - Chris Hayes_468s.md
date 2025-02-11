@@ -1,0 +1,157 @@
+---
+Date Generated: February 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 468s
+Video Keywords: ['Chris Hayes']
+Video Views: 79129
+Video Rating: None
+Video Description: Secretary of Transportation Pete Buttigieg on some Republicans opposing federal funding for the rebuilding of the Baltimore’s Key Bridge: “This really needs to be a bipartisan priority, and anybody who views it as otherwise, I’m hoping they will reconsider because it could be your district that is the next one to be struck by tragedy.”
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #PeteButtigieg #Baltimore
+---
+
+# Buttigieg: ‘There’s nothing partisan about a road or a bridge’
+**NBC - Chris Hayes:** [March 28, 2024](https://www.youtube.com/watch?v=4aR5ZMZ4JbY)
+*  I'm directing my team to move heaven and earth to reopen the port and rebuild the bridge [[00:00:00](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=0.0s)]
+*  as soon as humanly possible. [[00:00:04](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=4.74s)]
+*  We're going to work with our partners in Congress to make sure the state gets the support it [[00:00:06](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=6.32s)]
+*  needs. [[00:00:10](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=10.72s)]
+*  It's my intention that the federal government will pay for the entire cost of reconstructing [[00:00:11](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=11.72s)]
+*  that bridge, and I expect the Congress to support my effort. [[00:00:15](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=15.56s)]
+*  Within hours of the Francis Scott Key Bridge collapsing after the cargo ship crash, President [[00:00:21](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=21.2s)]
+*  Joe Biden pledged the federal government would take the lead on rebuilding it. [[00:00:25](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=25.36s)]
+*  The bridge is crucial not just for the state of Maryland or the port of Baltimore, but [[00:00:29](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=29.56s)]
+*  for the entire economy of the eastern seaboard. [[00:00:32](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=32.879999999999995s)]
+*  The bridge collapse was a disaster, and one core role of the federal government is to [[00:00:36](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=36.48s)]
+*  backstop after disasters. [[00:00:40](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=40.72s)]
+*  At least one Republican is already balking at the idea of using federal funds to rebuild [[00:00:42](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=42.92s)]
+*  this important piece of infrastructure. [[00:00:48](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=48.32s)]
+*  Is Congress going to need to pony up more money, or is there enough money in the infrastructure [[00:00:51](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=51.54s)]
+*  package? [[00:00:55](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=55.72s)]
+*  Great to be with you, Maria. [[00:00:57](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=57.36s)]
+*  Yeah, it was kind of outrageous immediately for Biden to express in this tragedy the idea [[00:00:59](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=59.24s)]
+*  that he's going to use federal funds to pay for the entirety. [[00:01:06](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=66.08s)]
+*  It's become standard for a certain type of Republican, unfortunately, like podcaster [[00:01:09](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=69.52s)]
+*  Ted Cruz, voting against emergency relief after Superstorm Sandy, only to come hat in [[00:01:13](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=73.64s)]
+*  hand to claim federal money for Texas after Hurricane Harvey even ran an ad about how [[00:01:19](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=79.56s)]
+*  much money he got. [[00:01:24](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=84.24s)]
+*  And again, for the power grid disaster. [[00:01:25](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=85.82s)]
+*  And in 2020, during the height of the COVID emergency, Donald Trump boasted about not [[00:01:28](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=88.86s)]
+*  providing the support to governors who didn't support him. [[00:01:33](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=93.13999999999999s)]
+*  Now with this enormous disaster in Baltimore, we once again seeing the MAGA vision of governance [[00:01:36](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=96.41999999999999s)]
+*  in action, which is you only get government services if you support Donald Trump, and [[00:01:40](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=100.91999999999999s)]
+*  screw you if you don't. [[00:01:44](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=104.82s)]
+*  Joining me now is Secretary of Transportation Pete Buttigieg. [[00:01:45](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=105.82s)]
+*  Mr. Secretary, it's great to have you on the program. [[00:01:49](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=109.74s)]
+*  First, just I wanted to get a kind of brief from you on where things stand in the aftermath [[00:01:52](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=112.42s)]
+*  of this disaster in terms of knowing what caused it and what the first next few steps [[00:01:58](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=118.14s)]
+*  look like. [[00:02:03](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=123.86s)]
+*  Thanks. [[00:02:04](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=124.86s)]
+*  Well, the NTSB is leading the investigation in partnership with the Coast Guard and a [[00:02:05](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=125.86s)]
+*  number of agencies that are involved. [[00:02:12](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=132.14s)]
+*  They're going through the black box looking at everything that could be relevant to understanding [[00:02:14](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=134.1s)]
+*  the causes. [[00:02:18](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=138.26s)]
+*  They work independently from us by design, but we're doing everything we can to help [[00:02:20](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=140.1s)]
+*  in their effort. [[00:02:22](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=142.62s)]
+*  In the meantime, our focus really is, as a department, is making sure we prepare for [[00:02:23](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=143.78s)]
+*  what's next. [[00:02:28](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=148.54s)]
+*  That means getting that bridge rebuilt and dealing with all of the traffic disruptions [[00:02:29](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=149.54s)]
+*  until it is, getting the port reopened, and dealing with all of the supply chain disruptions [[00:02:33](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=153.54s)]
+*  until that happens. [[00:02:38](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=158.64s)]
+*  Right now, there are three heavy lift vessels on their way to the site that should begin [[00:02:40](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=160.66s)]
+*  arriving tomorrow, and the last of them should be in place a couple of days after that. [[00:02:46](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=166.4s)]
+*  To begin with that process of getting the wreckage cleared, you've got to understand [[00:02:51](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=171.56s)]
+*  that that passage that is blocked by the ship and the bridge there, that is the only channel [[00:02:56](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=176.24s)]
+*  in to most of the port of Baltimore, which is, of course, a very important port for the [[00:03:02](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=182.24s)]
+*  East Coast. [[00:03:06](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=186.64000000000001s)]
+*  So that's why we've got to make sure that we get that cleared in a safe and responsible [[00:03:07](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=187.64000000000001s)]
+*  way so that the port can get back up and running. [[00:03:13](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=193.04000000000002s)]
+*  And then there's the longer-term effort of making sure the bridge can get back up. [[00:03:15](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=195.79999999999998s)]
+*  Just hours ago, we released the first $60 million of federal funding to help with that [[00:03:19](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=199.12s)]
+*  through our emergency relief program. [[00:03:24](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=204.04s)]
+*  There's, I'm sure, going to be much more where that came from. [[00:03:26](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=206.4s)]
+*  Everything it takes, as the president said, to help everyone in Baltimore get back to [[00:03:29](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=209.24s)]
+*  normal. [[00:03:32](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=212.76s)]
+*  So clearing that ship, which is still in that channel, that's the channel that creates passage [[00:03:33](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=213.76s)]
+*  in and out of the port to get the port active again. [[00:03:38](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=218.24s)]
+*  That's sort of priority number one right now. [[00:03:42](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=222.0s)]
+*  The $60 million in quick-release emergency relief funds that got announced, I guess there's [[00:03:45](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=225.16s)]
+*  a sort of pot of money for the immediate aftermath of disasters. [[00:03:50](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=230.96s)]
+*  And then in terms of the actual transportation logistics here, I mean, it strikes me as an [[00:03:55](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=235.2s)]
+*  enormous problem, right, to not have that bridge in terms of hazardous materials, in [[00:04:00](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=240.76s)]
+*  terms of flow from the port as well. [[00:04:05](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=245.12s)]
+*  Do you have a game plan for how to deal with that? [[00:04:07](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=247.72s)]
+*  Yeah, we've been working side by side with the Maryland DOT under the leadership of Governor [[00:04:11](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=251.0s)]
+*  Westmore as they have been putting together their plans to do the design and the procurement [[00:04:17](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=257.4s)]
+*  for the new bridge and everything it takes to get that port back up and running. [[00:04:22](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=262.4s)]
+*  As you noted, this is an important thoroughfare. [[00:04:26](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=266.72s)]
+*  About 30,000 vehicles a day counted on that bridge. [[00:04:28](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=268.44s)]
+*  There are alternatives, 95 and 895, but those are both tunnels, which are not suitable for [[00:04:31](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=271.46s)]
+*  hazardous material transportation, at least most of the time, part of what makes this [[00:04:37](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=277.68s)]
+*  complicated in the meantime. [[00:04:42](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=282.44s)]
+*  But these are some of the things that the funds can help with, and certainly in terms [[00:04:43](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=283.84s)]
+*  of clearing that channel. [[00:04:47](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=287.64s)]
+*  These funds can go to demolition, debris removal, they can go to supporting some of the costs [[00:04:49](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=289.2s)]
+*  associated with detours, as well as the early spending on that design and procurement of [[00:04:55](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=295.0s)]
+*  a new bridge. [[00:04:59](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=299.92s)]
+*  And believe it or not, even though the original bridge took five years to construct, they [[00:05:00](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=300.92s)]
+*  have already had meetings and sessions beginning yesterday to launch the procurement and design [[00:05:06](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=306.68s)]
+*  process to get it back up. [[00:05:11](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=311.2s)]
+*  Okay, so that was my next question. [[00:05:12](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=312.72s)]
+*  I mean, just looking at that bridge, that looks like an expensive, difficult to build [[00:05:14](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=314.12s)]
+*  bridge. [[00:05:18](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=318.6s)]
+*  I know nothing about bridges, but just my amateur eye, it's a long expanse. [[00:05:19](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=319.6s)]
+*  It also has to be built so that ships can pass in and out underneath it. [[00:05:24](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=324.12s)]
+*  This is a non-trivial undertaking. [[00:05:28](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=328.64s)]
+*  What's the timeline and the cost like? [[00:05:33](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=333.04s)]
+*  And are you worried at all from the words we heard from the Republican congressman today [[00:05:35](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=335.20000000000005s)]
+*  that this House Republican majority is not going to be interested in providing the funding? [[00:05:41](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=341.04s)]
+*  This really needs to be a bipartisan priority, and anybody who views it as otherwise, I'm [[00:05:49](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=349.0s)]
+*  hoping they will reconsider because it could be your district that is the next one to be [[00:05:54](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=354.20000000000005s)]
+*  struck by tragedy, and we always do better when America comes together. [[00:05:58](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=358.72s)]
+*  Let me give you one example of a situation that happened in the past. [[00:06:02](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=362.8s)]
+*  In 2007, many were killed and injured when I-35 bridge collapsed in Minnesota. [[00:06:06](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=366.56s)]
+*  That was not because of a ship strike or a truck strike. [[00:06:14](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=374.16s)]
+*  In that case, it wasn't going over the bay the way the bridge in Baltimore is, but what [[00:06:17](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=377.88s)]
+*  it had in common was a sudden and catastrophic collapse. [[00:06:23](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=383.68s)]
+*  In the end, about $260 million of federal funds were brought together, and that is something [[00:06:27](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=387.20000000000005s)]
+*  that really passed very quickly and rather easily in that congress. [[00:06:33](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=393.48s)]
+*  I would like to believe we can get that done now, too. [[00:06:37](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=397.44s)]
+*  To be clear, things like the $60 million we put forward today, we've already got that [[00:06:41](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=401.72s)]
+*  funding because it was authorized in President Biden's bipartisan infrastructure plan that [[00:06:45](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=405.44000000000005s)]
+*  passed back in 2021. [[00:06:50](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=410.14000000000004s)]
+*  But it's certainly the case that more funding might be needed. [[00:06:51](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=411.8s)]
+*  Again, this really shouldn't be partisan in the least. [[00:06:54](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=414.76s)]
+*  Just like the original bipartisan infrastructure law was bipartisan, we didn't have all Republicans [[00:06:59](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=419.0s)]
+*  with us, of course, but a number of Republicans crossed the aisle to work with President Biden, [[00:07:04](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=424.64s)]
+*  work with Democrats, and get that done because there's nothing partisan about a road or a bridge. [[00:07:08](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=428.84s)]
+*  Secretary Pete Buttigieg, thank you so much for your time tonight. [[00:07:13](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=433.32s)]
+*  Appreciate it, sir. [[00:07:16](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=436.15999999999997s)]
+*  Hey, everyone. [[00:07:17](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=437.15999999999997s)]
+*  MSNBC has a new and improved app. [[00:07:18](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=438.15999999999997s)]
+*  You'll get real-time alerts and analysis, live blogs, in-depth essays, video highlights, [[00:07:19](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=439.72s)]
+*  and the best 2024 election coverage. [[00:07:25](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=445.48s)]
+*  Download the new MSNBC app. [[00:07:28](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=448.40000000000003s)]
+*  Here's how to do it. [[00:07:30](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=450.28000000000003s)]
+*  You tap on the app store on your phone. [[00:07:31](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=451.28000000000003s)]
+*  You hit search on the bottom right corner. [[00:07:33](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=453.44000000000005s)]
+*  You type in MSNBC. [[00:07:35](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=455.24s)]
+*  You click on the MSNBC app. [[00:07:37](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=457.06s)]
+*  You click on Get or the Cloud icon and enjoy it. [[00:07:39](https://www.youtube.com/watch?v=4aR5ZMZ4JbY&t=459.32000000000005s)]

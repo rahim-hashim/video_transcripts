@@ -1,0 +1,127 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 385s
+Video Keywords: ['Way Too Early', 'Morning Joe', 'News', 'MSNBC', 'NBC News', 'nbc', 'news', 'news coverage', 'breaking news', 'us news', 'world news', 'politics', 'current events', 'top stories', 'pop culture', 'business', 'health', 'political news', 'msnbc live', 'Jonathan Lemire', 'Jen Psaki interview', 'Jen Psaki white house', 'Jen Psaki msnbc', 'Jen Psaki', 'Joe Biden', 'President Biden', 'Biden', 'state of the union', 'state of the union 2022', 'Joe Biden state of the union']
+Video Views: 50521
+Video Rating: None
+Video Description: White House Press Secretary Jen Psaki discusses the unfolding crisis in Ukraine as well as President Biden's first State of the Union address.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+Biden Stressed Importance Of Democracies Over Autocracies: White House
+---
+
+# Biden Stressed Importance Of Democracies Over Autocracies: White House
+**NBC - Ali Vitali:** [March 02, 2022](https://www.youtube.com/watch?v=Jsys1HR_fbw)
+*  Our forces are not going to Europe to fight Ukraine, but to defend our NATO allies in [[00:00:00](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=0.0s)]
+*  the event that Putin decides to keep moving west. [[00:00:05](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=5.6000000000000005s)]
+*  For that purpose, we have mobilized American ground forces, air squadrons, ship deployments [[00:00:09](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=9.6s)]
+*  to protect NATO countries including Poland, Romania, Latvia, Lithuania and Estonia. [[00:00:14](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=14.96s)]
+*  And as I've made crystal clear, the United States and our allies will defend every inch [[00:00:20](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=20.400000000000002s)]
+*  of our relationship territory that is NATO territory with a full force of our collective [[00:00:26](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=26.74s)]
+*  power, every single inch. [[00:00:30](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=30.74s)]
+*  That was President Biden last night vying to stand with America's NATO allies. [[00:00:32](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=32.739999999999995s)]
+*  Joining us now, White House Press Secretary Jen Psaki. [[00:00:39](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=39.739999999999995s)]
+*  Jen, not much sleep to be had last night. [[00:00:42](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=42.94s)]
+*  We appreciate you being here. [[00:00:44](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=44.64s)]
+*  My pleasure. [[00:00:46](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=46.26s)]
+*  Lots of adrenaline and coffee, Jonathan. [[00:00:47](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=47.26s)]
+*  You know how it goes. [[00:00:50](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=50.26s)]
+*  That's how I run every day. [[00:00:51](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=51.379999999999995s)]
+*  Let's start with where the president made the centerpiece of the speech, the war in [[00:00:53](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=53.980000000000004s)]
+*  Eastern Europe. [[00:00:57](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=57.480000000000004s)]
+*  Give us just an update as to where things stand, particularly this Russian convoy that [[00:00:59](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=59.06s)]
+*  is very slowly moving its way towards Kiev. [[00:01:04](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=64.14s)]
+*  What do we think happens with that and what more can America do to help? [[00:01:07](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=67.7s)]
+*  Well, Jonathan, I think what we've seen over the last couple of days is just incredible [[00:01:11](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=71.46000000000001s)]
+*  bravery and courage from Ukrainian leadership, from the Ukrainian people in fighting back [[00:01:16](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=76.98s)]
+*  against the Russian military and the ambitions of President Putin. [[00:01:22](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=82.34s)]
+*  But President Putin's ambitions have not changed. [[00:01:25](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=85.74s)]
+*  So he is continuing and the Russian military is continuing to move towards Kiev. [[00:01:28](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=88.28s)]
+*  They have every intention and every ambition of taking Kiev and continuing to take control [[00:01:32](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=92.22s)]
+*  over Ukraine. [[00:01:36](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=96.89999999999999s)]
+*  That is why over the last couple of days, you've seen the president not only amp up [[00:01:38](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=98.3s)]
+*  humanitarian assistance, but also increased security assistance. [[00:01:42](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=102.53999999999999s)]
+*  He approved a major package over the weekend and we're expediting delivery of that. [[00:01:46](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=106.53999999999999s)]
+*  So it is absolutely true, as that clip just showed, that NATO is united, that President [[00:01:50](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=110.82s)]
+*  Putin underestimated NATO being united, the West being united, even the United States [[00:01:55](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=115.61999999999999s)]
+*  being united. [[00:02:00](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=120.61999999999999s)]
+*  But we have to be clear-eyed about what President Putin's ambitions are and what he's continuing [[00:02:01](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=121.69999999999999s)]
+*  to walk toward here or walk toward with his military, I should say. [[00:02:05](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=125.58s)]
+*  Yeah, certainly the you got the White House and allies across the West have unleashed [[00:02:09](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=129.22s)]
+*  a pummeling array of sanctions against Russia. [[00:02:14](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=134.54s)]
+*  But you still have a card to play in sort of energy and gas. [[00:02:17](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=137.98s)]
+*  Will there be moves there to sanction that key industry in Russia as well? [[00:02:21](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=141.57999999999998s)]
+*  Well, we're very open. [[00:02:25](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=145.57999999999998s)]
+*  I think you've seen, Jonathan, I know you cover this and follow this very, very closely. [[00:02:28](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=148.74s)]
+*  Almost every single day, there's new sanctions and new steps that we're taking and announcing [[00:02:33](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=153.26s)]
+*  with our Western partners or countries in Europe. [[00:02:38](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=158.42s)]
+*  And we're doing that in lockstep and in a unified way, which is very important to the [[00:02:41](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=161.62s)]
+*  president. [[00:02:46](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=166.26s)]
+*  But we also factor in or what he looks at, and I think this is important for people to [[00:02:47](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=167.85999999999999s)]
+*  know, is how we can maximize the impact and the squeeze on President Putin and the financial [[00:02:50](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=170.66s)]
+*  sector. [[00:02:56](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=176.7s)]
+*  We're already seeing that, you know, the ruble, their currency is plummeting. [[00:02:57](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=177.7s)]
+*  We're seeing the stock market plummet there. [[00:03:01](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=181.62s)]
+*  Inflation is skyrocketing. [[00:03:04](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=184.34s)]
+*  But we want to minimize the impact on the global marketplace. [[00:03:05](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=185.34s)]
+*  And that includes the global oil marketplace and the impact of energy prices for the American [[00:03:09](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=189.29999999999998s)]
+*  people. [[00:03:14](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=194.5s)]
+*  So that's one of the factors that we really look at. [[00:03:15](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=195.74s)]
+*  We're considering it. [[00:03:18](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=198.46s)]
+*  It's very much on the table. [[00:03:19](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=199.46s)]
+*  But we need to weigh what all of the impacts will be. [[00:03:21](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=201.46s)]
+*  We're not trying to hurt ourselves. [[00:03:23](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=203.54s)]
+*  We're trying to hurt President Putin and the Russian economy. [[00:03:24](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=204.82s)]
+*  Pivoting to the president's domestic agenda, the State of the Union, as you well know, [[00:03:28](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=208.62s)]
+*  is his largest stage. [[00:03:33](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=213.54s)]
+*  He'll likely have this year. [[00:03:34](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=214.78s)]
+*  It's his bully pulpit to press forth what he wants to get done. [[00:03:36](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=216.1s)]
+*  But he made not one mention last night of the January 6th insurrection. [[00:03:40](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=220.14s)]
+*  Why is that? [[00:03:44](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=224.06s)]
+*  Well, I think first that for anybody who watched the president's speech just over a month ago, [[00:03:46](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=226.06s)]
+*  or maybe six weeks ago, you heard how passionately he felt about that day, that horrible day [[00:03:52](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=232.62s)]
+*  in history. [[00:03:58](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=238.82s)]
+*  And what he has done since then is continue to talk about and stand up for democracy. [[00:03:59](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=239.98s)]
+*  What you heard the president talk about last night is the importance of democracies prevailing [[00:04:04](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=244.74s)]
+*  over autocracies, of standing up and believing that that is what makes us strongest, being [[00:04:09](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=249.18s)]
+*  united in this country and being united abroad. [[00:04:14](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=254.3s)]
+*  That is very much what the theme of his January 6th speech was just six weeks ago and how [[00:04:16](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=256.90000000000003s)]
+*  he thinks we all should be thinking about this period in our own history. [[00:04:22](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=262.1s)]
+*  So look, a speech like the State of the Union, it's hugely important. [[00:04:25](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=265.90000000000003s)]
+*  It doesn't touch on, it doesn't have the time to touch on everything that is a priority. [[00:04:29](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=269.78000000000003s)]
+*  And there's no question that continuing to take steps to support the efforts to hold [[00:04:34](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=274.64s)]
+*  those perpetrators accountable is a priority for him. [[00:04:39](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=279.5s)]
+*  And continuing to stand up as a leader of the United States for what that day really [[00:04:42](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=282.5s)]
+*  showcased, the need to stand up for democracies, will be something the American people keep [[00:04:47](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=287.21999999999997s)]
+*  hearing from him. [[00:04:52](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=292.02s)]
+*  Jen, one of the headlines that emerged from the speech last night was a pair of Republican [[00:04:53](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=293.02s)]
+*  House members who chose to heckle President Biden as he was speaking about his late son [[00:04:57](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=297.5s)]
+*  Bo. [[00:05:02](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=302.62s)]
+*  Do you have any response to what they said? [[00:05:03](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=303.62s)]
+*  Not really, Jonathan. [[00:05:04](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=304.62s)]
+*  I have to tell you that during that heckling, which I was watching that on TV with a group [[00:05:08](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=308.02s)]
+*  of my team members and colleagues, and we were all excited and cheering, and that was [[00:05:13](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=313.06s)]
+*  the moment in the speech where the president was talking about his unity agenda and talking [[00:05:17](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=317.85999999999996s)]
+*  about priorities that we should all be able to agree on. [[00:05:22](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=322.7s)]
+*  Look, one American dies every five minutes of an opioid overdose. [[00:05:26](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=326.09999999999997s)]
+*  There's no question we should do more to help our nation's veterans, people who have been [[00:05:30](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=330.74s)]
+*  hurt by the impacts of burn pits. [[00:05:34](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=334.09999999999997s)]
+*  Of course, we need to do more to work together to cure cancer. [[00:05:37](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=337.44s)]
+*  And they were heckling around that time and that moment. [[00:05:41](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=341.16s)]
+*  I think that says a lot more about them than it does about how important these priorities [[00:05:43](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=343.92s)]
+*  are and how much the vast majority of people who were sitting there watching in that chamber [[00:05:48](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=348.06s)]
+*  last night could work together to solve exactly those problems and others too, probably. [[00:05:53](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=353.62s)]
+*  White House Press Secretary Jen Psaki, we really appreciate you being here. [[00:05:59](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=359.4s)]
+*  Please come back again soon. [[00:06:02](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=362.44s)]
+*  My pleasure, Jonathan. [[00:06:03](https://www.youtube.com/watch?v=Jsys1HR_fbw&t=363.44s)]

@@ -1,0 +1,121 @@
+---
+Date Generated: February 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 386s
+Video Keywords: ['MSNBC', 'MSNBC latest', 'Politics', 'News']
+Video Views: 94870
+Video Rating: None
+Video Description: Richard Engel, NBC News chief foreign correspondent, talks with Rachel Maddow about the significance of the U.S. killing of top Al Qaeda terrorist Ayman al-Zawahri and the circumstances of his death.
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+About: MSNBC is the premier destination for in-depth analysis of daily headlines, insightful political commentary and informed perspectives. Reaching more than 95 million households worldwide, MSNBC offers a full schedule of live news coverage, political opinions and award-winning documentary programming -- 24 hours a day, 7 days a week.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #taliban #afghanistan
+---
+
+# What The Killing Of Al-Zawahri Says About U.S. Capability And Taliban Confidence
+**NBC - Rachel Maddow:** [August 01, 2022](https://www.youtube.com/watch?v=w9ebekb3z0o)
+*  Joining us now from London is Richard Engel, NBC News chief foreign correspondent, who [[00:00:00](https://www.youtube.com/watch?v=w9ebekb3z0o&t=0.0s)]
+*  has covered al-Qaeda and Aiman al-Zawahiri for decades, a man who knows more than your [[00:00:04](https://www.youtube.com/watch?v=w9ebekb3z0o&t=4.5600000000000005s)]
+*  average bear about the Egyptian Islamic radicalism in Cairo that shaped Zawahiri. [[00:00:09](https://www.youtube.com/watch?v=w9ebekb3z0o&t=9.66s)]
+*  Richard, my friend, thank you for interrupting your vacation tonight. [[00:00:14](https://www.youtube.com/watch?v=w9ebekb3z0o&t=14.98s)]
+*  Thank you for being up at O' Dark 30 for us once again on this historic night. [[00:00:18](https://www.youtube.com/watch?v=w9ebekb3z0o&t=18.62s)]
+*  It is a historic night and of course I think it's a very important night. [[00:00:25](https://www.youtube.com/watch?v=w9ebekb3z0o&t=25.5s)]
+*  And yes, I've been covering Aiman al-Zawahiri since the mid 1990s. [[00:00:29](https://www.youtube.com/watch?v=w9ebekb3z0o&t=29.54s)]
+*  I was a reporter in Egypt when terrorist attacks were becoming an increasing problem in the [[00:00:33](https://www.youtube.com/watch?v=w9ebekb3z0o&t=33.7s)]
+*  country. [[00:00:40](https://www.youtube.com/watch?v=w9ebekb3z0o&t=40.58s)]
+*  You mentioned the Luxor attack when a group of Islamists went on a rampage and just started [[00:00:41](https://www.youtube.com/watch?v=w9ebekb3z0o&t=41.58s)]
+*  massacring tourists in front of the pharaonic monuments there. [[00:00:47](https://www.youtube.com/watch?v=w9ebekb3z0o&t=47.28s)]
+*  And then he decided to keep going and he joined up with Osama bin Laden, founded al-Qaeda, [[00:00:52](https://www.youtube.com/watch?v=w9ebekb3z0o&t=52.48s)]
+*  first as this international front against Jews and crusaders. [[00:01:00](https://www.youtube.com/watch?v=w9ebekb3z0o&t=60.419999999999995s)]
+*  And now we have come to where we are today. [[00:01:05](https://www.youtube.com/watch?v=w9ebekb3z0o&t=65.6s)]
+*  And I think there are really two ways of looking at it. [[00:01:09](https://www.youtube.com/watch?v=w9ebekb3z0o&t=69.82s)]
+*  What you just heard from Admiral Kirby was a kind of a positive spin on it. [[00:01:11](https://www.youtube.com/watch?v=w9ebekb3z0o&t=71.75999999999999s)]
+*  It shows that the United States is still capable, that if the Taliban goes back on its deal, [[00:01:16](https://www.youtube.com/watch?v=w9ebekb3z0o&t=76.52s)]
+*  and clearly it was going back on its deal, or at least elements of the Taliban were going [[00:01:22](https://www.youtube.com/watch?v=w9ebekb3z0o&t=82.12s)]
+*  back on the deal and welcomed in al-Qaeda, that they wouldn't be able to get away with [[00:01:25](https://www.youtube.com/watch?v=w9ebekb3z0o&t=85.54s)]
+*  it because America has eyes on and has the ability to carry out lethal strikes from the [[00:01:30](https://www.youtube.com/watch?v=w9ebekb3z0o&t=90.26s)]
+*  sky. [[00:01:35](https://www.youtube.com/watch?v=w9ebekb3z0o&t=95.38000000000001s)]
+*  So you could say the policy is working because if there's al-Qaeda infiltration or presence, [[00:01:36](https://www.youtube.com/watch?v=w9ebekb3z0o&t=96.38000000000001s)]
+*  the US can take care of it. [[00:01:41](https://www.youtube.com/watch?v=w9ebekb3z0o&t=101.32000000000001s)]
+*  But there's another way of looking at it. [[00:01:43](https://www.youtube.com/watch?v=w9ebekb3z0o&t=103.48s)]
+*  It shows how confident and how arrogant one might say the Taliban have become, that even [[00:01:45](https://www.youtube.com/watch?v=w9ebekb3z0o&t=105.18s)]
+*  after swearing that they would never host al-Qaeda leaders again, that they would never [[00:01:50](https://www.youtube.com/watch?v=w9ebekb3z0o&t=110.94s)]
+*  go back and repeat the past, that they don't just have an al-Qaeda leader, they have the [[00:01:55](https://www.youtube.com/watch?v=w9ebekb3z0o&t=115.86s)]
+*  al-Qaeda leader. [[00:02:02](https://www.youtube.com/watch?v=w9ebekb3z0o&t=122.86s)]
+*  He's hosted right in the center of Kabul. [[00:02:04](https://www.youtube.com/watch?v=w9ebekb3z0o&t=124.28s)]
+*  He's there for months. [[00:02:07](https://www.youtube.com/watch?v=w9ebekb3z0o&t=127.44s)]
+*  And it shows that they believe they can do whatever they want. [[00:02:09](https://www.youtube.com/watch?v=w9ebekb3z0o&t=129.88s)]
+*  I was in Afghanistan after US troops withdrew from the country, after the Taliban drove [[00:02:14](https://www.youtube.com/watch?v=w9ebekb3z0o&t=134.96s)]
+*  them out, and I met Taliban leaders and they believed that what happened was a miracle, [[00:02:20](https://www.youtube.com/watch?v=w9ebekb3z0o&t=140.60000000000002s)]
+*  that they were given this victory because of a gift from God, that they were untouchable. [[00:02:26](https://www.youtube.com/watch?v=w9ebekb3z0o&t=146.4s)]
+*  You could look in their eyes. [[00:02:33](https://www.youtube.com/watch?v=w9ebekb3z0o&t=153.48000000000002s)]
+*  If you ever noticed, a lot of American reporters were going around with the Taliban. [[00:02:34](https://www.youtube.com/watch?v=w9ebekb3z0o&t=154.92000000000002s)]
+*  There was no hostility. [[00:02:38](https://www.youtube.com/watch?v=w9ebekb3z0o&t=158.56s)]
+*  They were not just proud of what they had done and wanted to show it off. [[00:02:40](https://www.youtube.com/watch?v=w9ebekb3z0o&t=160.08s)]
+*  They believed that this was a miracle and that it was their duty to show the world God's [[00:02:44](https://www.youtube.com/watch?v=w9ebekb3z0o&t=164.38s)]
+*  actions on earth. [[00:02:51](https://www.youtube.com/watch?v=w9ebekb3z0o&t=171.42s)]
+*  So when you have that kind of mentality, you're not really intimidated by what the US is threatening [[00:02:53](https://www.youtube.com/watch?v=w9ebekb3z0o&t=173.34s)]
+*  to do. [[00:03:00](https://www.youtube.com/watch?v=w9ebekb3z0o&t=180.42s)]
+*  You say, well, we've gone through hard times in the past and look where our faith brought [[00:03:01](https://www.youtube.com/watch?v=w9ebekb3z0o&t=181.42s)]
+*  us. [[00:03:06](https://www.youtube.com/watch?v=w9ebekb3z0o&t=186.22s)]
+*  They had bin Laden, they had Ayman al-Zawahiri in the country near the presidential palace [[00:03:07](https://www.youtube.com/watch?v=w9ebekb3z0o&t=187.85999999999999s)]
+*  for months. [[00:03:13](https://www.youtube.com/watch?v=w9ebekb3z0o&t=193.1s)]
+*  The fact that the US got him shows that the US still has very good intelligence there, [[00:03:14](https://www.youtube.com/watch?v=w9ebekb3z0o&t=194.1s)]
+*  still was able to get informants who were able to establish a pattern of life inside [[00:03:18](https://www.youtube.com/watch?v=w9ebekb3z0o&t=198.66s)]
+*  the building. [[00:03:22](https://www.youtube.com/watch?v=w9ebekb3z0o&t=202.85999999999999s)]
+*  But over time, will those informants continue to be as good and will they be able to find [[00:03:24](https://www.youtube.com/watch?v=w9ebekb3z0o&t=204.5s)]
+*  other targets who aren't necessarily as famous as Ayman al-Zawahiri, who the United States [[00:03:30](https://www.youtube.com/watch?v=w9ebekb3z0o&t=210.29999999999998s)]
+*  has been tracking for decades? [[00:03:36](https://www.youtube.com/watch?v=w9ebekb3z0o&t=216.98s)]
+*  As you lay that out, this is obviously a very rude interruption to any reverie that the [[00:03:39](https://www.youtube.com/watch?v=w9ebekb3z0o&t=219.1s)]
+*  Taliban might have been under in terms of them believing that they were being, you know, [[00:03:44](https://www.youtube.com/watch?v=w9ebekb3z0o&t=224.08s)]
+*  that they were divinely inspired and that they were being divinely protected for their [[00:03:48](https://www.youtube.com/watch?v=w9ebekb3z0o&t=228.56s)]
+*  actions. [[00:03:53](https://www.youtube.com/watch?v=w9ebekb3z0o&t=233.04000000000002s)]
+*  This is going to interrupt that in some ways. [[00:03:54](https://www.youtube.com/watch?v=w9ebekb3z0o&t=234.04000000000002s)]
+*  And I asked Admiral Kirby a moment ago if they're anticipating retaliation from the [[00:03:55](https://www.youtube.com/watch?v=w9ebekb3z0o&t=235.8s)]
+*  Taliban and if so, is the Taliban capable of inflicting pain on the United States in [[00:04:01](https://www.youtube.com/watch?v=w9ebekb3z0o&t=241.24s)]
+*  a way that will actually hurt? [[00:04:05](https://www.youtube.com/watch?v=w9ebekb3z0o&t=245.84s)]
+*  He didn't answer. [[00:04:07](https://www.youtube.com/watch?v=w9ebekb3z0o&t=247.28s)]
+*  He basically said, we'll watch for that. [[00:04:08](https://www.youtube.com/watch?v=w9ebekb3z0o&t=248.28s)]
+*  But what do you think their reaction will be to this strike? [[00:04:10](https://www.youtube.com/watch?v=w9ebekb3z0o&t=250.56s)]
+*  I know that it's happened. [[00:04:13](https://www.youtube.com/watch?v=w9ebekb3z0o&t=253.92s)]
+*  And again, I think probably surprised them given how willing they were to hide him relatively [[00:04:15](https://www.youtube.com/watch?v=w9ebekb3z0o&t=255.23999999999998s)]
+*  in a relatively easy to find place. [[00:04:21](https://www.youtube.com/watch?v=w9ebekb3z0o&t=261.88s)]
+*  So first of all, there are big divisions in the Taliban, which is one thing that the Taliban [[00:04:26](https://www.youtube.com/watch?v=w9ebekb3z0o&t=266.12s)]
+*  weren't expecting. [[00:04:30](https://www.youtube.com/watch?v=w9ebekb3z0o&t=270.08s)]
+*  You heard Admiral Kirby talk about the Haqqani network. [[00:04:31](https://www.youtube.com/watch?v=w9ebekb3z0o&t=271.84s)]
+*  That is a big group of the Taliban that is particularly close to Al-Qaeda and not all [[00:04:34](https://www.youtube.com/watch?v=w9ebekb3z0o&t=274.8s)]
+*  of the other factions in the Taliban support them. [[00:04:41](https://www.youtube.com/watch?v=w9ebekb3z0o&t=281.71999999999997s)]
+*  But they are still a very, very powerful faction, perhaps the most powerful in terms of security. [[00:04:45](https://www.youtube.com/watch?v=w9ebekb3z0o&t=285.2s)]
+*  So a very large segment of the Taliban will be shamed that this happened. [[00:04:51](https://www.youtube.com/watch?v=w9ebekb3z0o&t=291.94s)]
+*  They hosted this important figure with whom they have a relationship going back many, [[00:04:56](https://www.youtube.com/watch?v=w9ebekb3z0o&t=296.85999999999996s)]
+*  many years, and he was killed in their territory. [[00:05:03](https://www.youtube.com/watch?v=w9ebekb3z0o&t=303.0s)]
+*  The Taliban released a statement after a drone strike this weekend. [[00:05:06](https://www.youtube.com/watch?v=w9ebekb3z0o&t=306.76000000000005s)]
+*  It seems to be the same drone strike. [[00:05:12](https://www.youtube.com/watch?v=w9ebekb3z0o&t=312.6s)]
+*  They didn't say who the target was at the time, and they called it a violation of their [[00:05:14](https://www.youtube.com/watch?v=w9ebekb3z0o&t=314.76000000000005s)]
+*  sovereignty against international norms. [[00:05:20](https://www.youtube.com/watch?v=w9ebekb3z0o&t=320.04s)]
+*  And they said that it could close the doors for future cooperation and opportunities. [[00:05:23](https://www.youtube.com/watch?v=w9ebekb3z0o&t=323.48s)]
+*  So in a way, the response was a rejection, but fairly measured when you look at other [[00:05:29](https://www.youtube.com/watch?v=w9ebekb3z0o&t=329.28000000000003s)]
+*  statements from the Taliban. [[00:05:36](https://www.youtube.com/watch?v=w9ebekb3z0o&t=336.2s)]
+*  So they were angry. [[00:05:37](https://www.youtube.com/watch?v=w9ebekb3z0o&t=337.92s)]
+*  They're saying it's going to close the door for other cooperation, and it's a problem, [[00:05:39](https://www.youtube.com/watch?v=w9ebekb3z0o&t=339.44s)]
+*  but they weren't threatening to burn down the White House or carry out an attack like [[00:05:43](https://www.youtube.com/watch?v=w9ebekb3z0o&t=343.52s)]
+*  this. [[00:05:48](https://www.youtube.com/watch?v=w9ebekb3z0o&t=348.32s)]
+*  But there will certainly be elements within the Taliban and within Al-Qaeda who will want [[00:05:49](https://www.youtube.com/watch?v=w9ebekb3z0o&t=349.32s)]
+*  to seek revenge. [[00:05:55](https://www.youtube.com/watch?v=w9ebekb3z0o&t=355.44s)]
+*  That said, he was not a particularly charismatic leader. [[00:05:57](https://www.youtube.com/watch?v=w9ebekb3z0o&t=357.56s)]
+*  He never really filled the shoes of Osama bin Laden. [[00:06:00](https://www.youtube.com/watch?v=w9ebekb3z0o&t=360.86s)]
+*  Osama bin Laden was the face. [[00:06:04](https://www.youtube.com/watch?v=w9ebekb3z0o&t=364.88s)]
+*  He was the brand name of Al-Qaeda. [[00:06:06](https://www.youtube.com/watch?v=w9ebekb3z0o&t=366.8s)]
+*  Aiman al-Zawahiri was the legacy player. [[00:06:09](https://www.youtube.com/watch?v=w9ebekb3z0o&t=369.28000000000003s)]
+*  He was the intellectual. [[00:06:11](https://www.youtube.com/watch?v=w9ebekb3z0o&t=371.68s)]
+*  He was the scholar, if you will, establishing the bedrock of the ideology. [[00:06:13](https://www.youtube.com/watch?v=w9ebekb3z0o&t=373.56s)]
+*  But he never commanded a lot of personal loyalty within the group. [[00:06:18](https://www.youtube.com/watch?v=w9ebekb3z0o&t=378.76s)]
+*  The next leader might be able to be more effective in that way. [[00:06:21](https://www.youtube.com/watch?v=w9ebekb3z0o&t=381.92s)]

@@ -1,0 +1,83 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 290s
+Video Keywords: []
+Video Views: 370369
+Video Rating: None
+Video Description: Retired Colonel Cedric Leighton breaks down what to watch for following Israel and Hezbollah’s exchange of heavy fire. #CNN #news 
+
+Want to stay up to date on the day’s top stories? 
+
+Sign up for CNN’s 5 Things newsletter, and we’ll give you the 5 biggest stories you need to know, videos people are watching, and more! Sign up here: https://www.cnn.com/newsletters/5-things?source=nl-acq_social_youtubedesc&utm_source=nl-acq_social_youtubedesc
+---
+
+# Ret. US colonel on what could happen next between Israel and Hezbollah
+**CNN - Israel Palestine:** [August 25, 2024](https://www.youtube.com/watch?v=0swtHmeEV3I)
+*  Tonight, the Pentagon is ordering two American carrier strike groups to remain in the region [[00:00:00](https://www.youtube.com/watch?v=0swtHmeEV3I&t=0.0s)]
+*  after a major flare-up of strikes between Israel and Hezbollah. [[00:00:05](https://www.youtube.com/watch?v=0swtHmeEV3I&t=5.96s)]
+*  Here to help me break it all down is retired U.S. Air Force Colonel Cedric Leighton. [[00:00:10](https://www.youtube.com/watch?v=0swtHmeEV3I&t=10.08s)]
+*  Cedric, let's start with this order for the Pentagon to have these carrier strike groups [[00:00:14](https://www.youtube.com/watch?v=0swtHmeEV3I&t=14.32s)]
+*  remain in place. [[00:00:18](https://www.youtube.com/watch?v=0swtHmeEV3I&t=18.44s)]
+*  What is the significance of this? [[00:00:20](https://www.youtube.com/watch?v=0swtHmeEV3I&t=20.0s)]
+*  It's huge, actually, Paula, because when you look at this part of the Middle East and you [[00:00:21](https://www.youtube.com/watch?v=0swtHmeEV3I&t=21.580000000000002s)]
+*  see Israel here and Lebanon here, the Eastern Mediterranean is a perfect jumping-off point [[00:00:27](https://www.youtube.com/watch?v=0swtHmeEV3I&t=27.36s)]
+*  for the U.S. to exercise some degree of influence. [[00:00:31](https://www.youtube.com/watch?v=0swtHmeEV3I&t=31.96s)]
+*  But more importantly, it also, these carrier strike groups also allow the U.S. to collect [[00:00:35](https://www.youtube.com/watch?v=0swtHmeEV3I&t=35.480000000000004s)]
+*  intelligence in this area. [[00:00:40](https://www.youtube.com/watch?v=0swtHmeEV3I&t=40.08s)]
+*  They can provide tactical intelligence to the Israelis so that the Israelis can better [[00:00:41](https://www.youtube.com/watch?v=0swtHmeEV3I&t=41.84s)]
+*  defend themselves through the Iron Dome system and other systems that they have to protect [[00:00:46](https://www.youtube.com/watch?v=0swtHmeEV3I&t=46.4s)]
+*  themselves from a missile attack or any other kind of rocket attack. [[00:00:50](https://www.youtube.com/watch?v=0swtHmeEV3I&t=50.760000000000005s)]
+*  Now, we saw attacks coming from both Israel and Hezbollah. [[00:00:54](https://www.youtube.com/watch?v=0swtHmeEV3I&t=54.96s)]
+*  Talk about the significance about this exchange. [[00:00:58](https://www.youtube.com/watch?v=0swtHmeEV3I&t=58.84s)]
+*  So when you have, this is very interesting because you had Israel, of course, doing preemptive [[00:01:01](https://www.youtube.com/watch?v=0swtHmeEV3I&t=61.720000000000006s)]
+*  actions in Lebanon. [[00:01:07](https://www.youtube.com/watch?v=0swtHmeEV3I&t=67.48s)]
+*  So they would be attacking areas in the south right along here. [[00:01:09](https://www.youtube.com/watch?v=0swtHmeEV3I&t=69.60000000000001s)]
+*  This is where Hezbollah is concentrated. [[00:01:12](https://www.youtube.com/watch?v=0swtHmeEV3I&t=72.88s)]
+*  So what the Israelis did was they made a preemptive strike against all of these areas. [[00:01:14](https://www.youtube.com/watch?v=0swtHmeEV3I&t=74.98s)]
+*  They employed over 100 aircraft and these aircraft would go in and attack these areas. [[00:01:19](https://www.youtube.com/watch?v=0swtHmeEV3I&t=79.68s)]
+*  One of the types of aircraft that they used was this F-35. [[00:01:25](https://www.youtube.com/watch?v=0swtHmeEV3I&t=85.68s)]
+*  They used this along with several other aircraft, including F-16s, aerial refuelers, to actually [[00:01:29](https://www.youtube.com/watch?v=0swtHmeEV3I&t=89.4s)]
+*  conduct operations in this area. [[00:01:35](https://www.youtube.com/watch?v=0swtHmeEV3I&t=95.2s)]
+*  Now what was important here was they struck these areas first, but what Hezbollah was [[00:01:38](https://www.youtube.com/watch?v=0swtHmeEV3I&t=98.12s)]
+*  Once the Israelis attacked, Hezbollah attacked targets or tried to attack targets in Israel. [[00:01:44](https://www.youtube.com/watch?v=0swtHmeEV3I&t=104.64s)]
+*  Now they weren't able to actually strike many of the targets in Israel and what they were [[00:01:50](https://www.youtube.com/watch?v=0swtHmeEV3I&t=110.67999999999999s)]
+*  able to do, what the Israelis were able to do, was they were able to intercept almost [[00:01:55](https://www.youtube.com/watch?v=0swtHmeEV3I&t=115.08s)]
+*  all of the missiles that were coming in that were going to strike certain military targets [[00:01:59](https://www.youtube.com/watch?v=0swtHmeEV3I&t=119.16s)]
+*  or certain civilian areas. [[00:02:03](https://www.youtube.com/watch?v=0swtHmeEV3I&t=123.96s)]
+*  And that was a key element in what the Israelis were able to do in this particular case. [[00:02:05](https://www.youtube.com/watch?v=0swtHmeEV3I&t=125.56s)]
+*  Another key question here, what is the possibility of a possible response from Iran? [[00:02:11](https://www.youtube.com/watch?v=0swtHmeEV3I&t=131.2s)]
+*  Well, that is something that is actually quite possible because Hezbollah, this is Lebanon [[00:02:16](https://www.youtube.com/watch?v=0swtHmeEV3I&t=136.39999999999998s)]
+*  right here, is of course concentrated right here, but they are a proxy for Iran. [[00:02:23](https://www.youtube.com/watch?v=0swtHmeEV3I&t=143.88s)]
+*  Iran has this vast land area right here, but we'll remember back in April, they used over [[00:02:29](https://www.youtube.com/watch?v=0swtHmeEV3I&t=149.88s)]
+*  300 missiles and rockets and drones to attack Israel, basically about a thousand miles from [[00:02:35](https://www.youtube.com/watch?v=0swtHmeEV3I&t=155.88s)]
+*  the Iranian border to Israel. [[00:02:42](https://www.youtube.com/watch?v=0swtHmeEV3I&t=162.76s)]
+*  And they were able to do this, but all of this was intercepted through the Iron Dome [[00:02:44](https://www.youtube.com/watch?v=0swtHmeEV3I&t=164.88s)]
+*  system that the Israelis had. [[00:02:49](https://www.youtube.com/watch?v=0swtHmeEV3I&t=169.24s)]
+*  And the Iron Dome system is designed to detect incoming missiles, rockets, drones, and really [[00:02:51](https://www.youtube.com/watch?v=0swtHmeEV3I&t=171.88s)]
+*  find out where they are, kind of have algorithms that predict exactly where these rockets might [[00:03:00](https://www.youtube.com/watch?v=0swtHmeEV3I&t=180.28s)]
+*  strike, they assess whether or not that's going to happen, and when they intercept this [[00:03:05](https://www.youtube.com/watch?v=0swtHmeEV3I&t=185.84s)]
+*  using the Tamir missile, for example, they will hit the missile right where, at this [[00:03:09](https://www.youtube.com/watch?v=0swtHmeEV3I&t=189.6s)]
+*  point, but they won't hit it directly. [[00:03:16](https://www.youtube.com/watch?v=0swtHmeEV3I&t=196.6s)]
+*  What they'll do is this missile will blow up in the proximity of the incoming projectile [[00:03:18](https://www.youtube.com/watch?v=0swtHmeEV3I&t=198.18s)]
+*  and it will actually take things out. [[00:03:23](https://www.youtube.com/watch?v=0swtHmeEV3I&t=203.08s)]
+*  So when the Iranians did this strike back in April, they lobbed a lot of stuff at Israel, [[00:03:25](https://www.youtube.com/watch?v=0swtHmeEV3I&t=205.24s)]
+*  but because of the Iron Dome and U.S. intelligence and radar activity and allied activity, they [[00:03:32](https://www.youtube.com/watch?v=0swtHmeEV3I&t=212.76000000000002s)]
+*  were able to keep all of the Iranian efforts, really they held them at bay and made the [[00:03:38](https://www.youtube.com/watch?v=0swtHmeEV3I&t=218.76000000000002s)]
+*  Iranian strike ineffective at that point. [[00:03:45](https://www.youtube.com/watch?v=0swtHmeEV3I&t=225.24s)]
+*  What are you watching for over the next 48 hours? [[00:03:47](https://www.youtube.com/watch?v=0swtHmeEV3I&t=227.92000000000002s)]
+*  So over the next 48 hours, one of the key things to look for is what happens next with [[00:03:51](https://www.youtube.com/watch?v=0swtHmeEV3I&t=231.16000000000003s)]
+*  Hezbollah. [[00:03:55](https://www.youtube.com/watch?v=0swtHmeEV3I&t=235.56s)]
+*  They're going to be operating still in this area. [[00:03:56](https://www.youtube.com/watch?v=0swtHmeEV3I&t=236.36s)]
+*  Are they going to use some of the missiles that they have in the northern area of Lebanon, [[00:03:58](https://www.youtube.com/watch?v=0swtHmeEV3I&t=238.68s)]
+*  right in this area right here? [[00:04:04](https://www.youtube.com/watch?v=0swtHmeEV3I&t=244.52s)]
+*  This area is an area where they store some of their intermediate range missiles. [[00:04:06](https://www.youtube.com/watch?v=0swtHmeEV3I&t=246.8s)]
+*  They could launch some of those just from a tactical military perspective, but the other [[00:04:11](https://www.youtube.com/watch?v=0swtHmeEV3I&t=251.98000000000002s)]
+*  thing is what is happening in the peace talks, which are happening here in Cairo? [[00:04:17](https://www.youtube.com/watch?v=0swtHmeEV3I&t=257.04s)]
+*  Are they going to, the ones that are affecting, these are the peace talks affecting Gaza, [[00:04:21](https://www.youtube.com/watch?v=0swtHmeEV3I&t=261.64s)]
+*  are they going to have an impact on what Hezbollah does? [[00:04:25](https://www.youtube.com/watch?v=0swtHmeEV3I&t=265.56s)]
+*  But broadening this out to the region, what is Iran going to do? [[00:04:29](https://www.youtube.com/watch?v=0swtHmeEV3I&t=269.44s)]
+*  If Hezbollah is satisfied, Iran might be satisfied at least in the short term, and if the peace [[00:04:33](https://www.youtube.com/watch?v=0swtHmeEV3I&t=273.68s)]
+*  talks actually bear fruit, Iran might hold their fire for a while and might not be acting [[00:04:39](https://www.youtube.com/watch?v=0swtHmeEV3I&t=279.18s)]
+*  in an offensive fashion, but that remains to be seen whether or not they actually do [[00:04:45](https://www.youtube.com/watch?v=0swtHmeEV3I&t=285.28s)]
+*  that. [[00:04:49](https://www.youtube.com/watch?v=0swtHmeEV3I&t=289.28s)]

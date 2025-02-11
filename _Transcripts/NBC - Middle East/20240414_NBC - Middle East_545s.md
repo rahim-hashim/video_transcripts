@@ -1,0 +1,156 @@
+---
+Date Generated: February 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 545s
+Video Keywords: ['Alicia Menendez', 'Symone Sanders-Townsend', 'Michael Steele']
+Video Views: 83359
+Video Rating: None
+Video Description: Israel says it has foiled a massive Iranian attack, shooting down hundreds of missiles and drones with the help of the U.S. military. The ranking member of the House Foreign Affairs Committee, Rep. Gregory Meeks joins The Weekend to discuss the congressional response to the attack.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#israel #iran #worldnews
+---
+
+# Top House Foreign Affairs Committee member reveals the only bill that can support Israel
+**NBC - Middle East:** [April 14, 2024](https://www.youtube.com/watch?v=vtygS9fkp1Q)
+*  After last night's attack, House Majority Leader Steve Scalise said Congress will shift [[00:00:00](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=0.0s)]
+*  its schedule this week to take up legislation to support Israel and, quote, hold Iran accountable. [[00:00:05](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=5.8s)]
+*  Joining us now, Democratic Congressman Gregory Meeks of New York. [[00:00:12](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=12.4s)]
+*  He's the ranking member of the House Foreign Affairs Committee. [[00:00:16](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=16.12s)]
+*  Welcome, Congressman. [[00:00:18](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=18.96s)]
+*  Congressman, before we get into what is likely to happen in Congress this week, we just had [[00:00:19](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=19.96s)]
+*  our colleague Andrea Mitchell on, and she reported about a conversation between President [[00:00:24](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=24.3s)]
+*  Biden and Prime Minister Netanyahu, where the president of the United States urged the [[00:00:29](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=29.04s)]
+*  prime minister of Israel to exercise restraint to not retaliate against Iran. [[00:00:33](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=33.24s)]
+*  If Netanyahu does not heed that warning from President Biden, where does that then leave [[00:00:39](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=39.44s)]
+*  the United States? [[00:00:45](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=45.2s)]
+*  Well, I think that the president was very clear, and I'm thankful that Joe Biden is [[00:00:46](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=46.2s)]
+*  the president of the United States right now and not Donald Trump, because he's the adult [[00:00:49](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=49.4s)]
+*  in the room. [[00:00:53](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=53.879999999999995s)]
+*  The president was clear. [[00:00:55](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=55.04s)]
+*  We are ironclad, locked in with Israel for their self-defense. [[00:00:56](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=56.519999999999996s)]
+*  But we do not want an offensive. [[00:01:02](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=62.44s)]
+*  We don't need to escalate this. [[00:01:04](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=64.6s)]
+*  We need to make sure that we have containment and then de-escalation. [[00:01:06](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=66.48s)]
+*  And then there's got to be a movement forward as far as conversation and diplomacy is taking [[00:01:11](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=71.03999999999999s)]
+*  place so that, you know, Iran, I think, out of this, should have learned that the United [[00:01:15](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=75.8s)]
+*  States stands with Israel. [[00:01:22](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=82.84s)]
+*  Ironclad. [[00:01:25](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=85.8s)]
+*  Israel is going to have the right to exist. [[00:01:26](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=86.8s)]
+*  Ironclad. [[00:01:29](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=89.64s)]
+*  There was a but, though, in your statement. [[00:01:30](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=90.84s)]
+*  So what happens if Netanyahu doesn't listen to Biden on this question of retaliation? [[00:01:33](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=93.2s)]
+*  Biden said ironclad in your defense, in your defense. [[00:01:37](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=97.48s)]
+*  So no offensive movements in that regard. [[00:01:43](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=103.60000000000001s)]
+*  So what should take place here is that there is a recognition from Iran, Israel has the [[00:01:46](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=106.2s)]
+*  right to exist, and a recognition, what Joe Biden has been saying all the time is, to [[00:01:53](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=113.16s)]
+*  developing and having a two-state solution with the Palestinians. [[00:01:59](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=119.0s)]
+*  Now, that sets us up for a different Middle East. [[00:02:04](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=124.60000000000001s)]
+*  We already have individuals who had been like Iran previously, quite frankly. [[00:02:09](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=129.44s)]
+*  When you look at Egypt, Jordan, now, you know, we're talking to Saudi Arabia about normalization [[00:02:16](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=136.16s)]
+*  with Israel, Israel's right to exist. [[00:02:22](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=142.78s)]
+*  So we have a moment in history right now to change what has been taking place in the Middle [[00:02:26](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=146.07999999999998s)]
+*  East for the last 75 years. [[00:02:32](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=152.84s)]
+*  For the last 75 years, it has been the Gulf countries just trying to wipe Israel off the [[00:02:34](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=154.95999999999998s)]
+*  map. [[00:02:40](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=160.6s)]
+*  And so the Israelis have to defend itself. [[00:02:41](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=161.6s)]
+*  And that's why we stood and will continue to stand, that they have the right to defend [[00:02:43](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=163.27999999999997s)]
+*  themselves. [[00:02:47](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=167.35999999999999s)]
+*  We've also got to acknowledge the right to have a two-state solution. [[00:02:48](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=168.35999999999999s)]
+*  That's the way to peace and diplomacy. [[00:02:53](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=173.73999999999998s)]
+*  And that's what Joe Biden has been talking about from the very beginning. [[00:02:56](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=176.44s)]
+*  He's been talking about two-state solution. [[00:02:59](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=179.84s)]
+*  And we're ironclad with Israel's right to defend itself. [[00:03:03](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=183.76s)]
+*  Anybody who attacks it, we will be there with Israel to prevent it from happening. [[00:03:09](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=189.2s)]
+*  And that's what happened yesterday. [[00:03:14](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=194.24s)]
+*  You know, Congressman Meeks, Simone Sanders here, Townsend. [[00:03:16](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=196.68s)]
+*  You know, the president said yesterday, President Biden, in a White House statement that tomorrow, [[00:03:22](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=202.12s)]
+*  which is now today, he issued this statement late yesterday, that, [[00:03:27](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=207.48s)]
+*  I think Democrats, Republicans alike, can all agree that Iran is no friend of the United [[00:03:31](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=211.0s)]
+*  States and is a real threat to not just the region, but to us. [[00:03:59](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=239.76s)]
+*  That is what is happening diplomatically from other world leaders. [[00:04:04](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=244.88s)]
+*  Italy has already sent out the call to convene that meeting. [[00:04:09](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=249.48s)]
+*  Congress is allegedly, you all are going to take up some type of legislation this week. [[00:04:12](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=252.67999999999998s)]
+*  Congressman Scalise has said that the legislative calendar is now changing and that in his statement [[00:04:18](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=258.56s)]
+*  yesterday that they would start with Israel. [[00:04:23](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=263.92s)]
+*  Do you have any indication that the package that will be taken up will be a package that [[00:04:25](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=265.96000000000004s)]
+*  the Senate passed that includes aid to Israel and Ukraine? [[00:04:31](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=271.16s)]
+*  Is this just aid to Israel? [[00:04:34](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=274.28000000000003s)]
+*  And if so, what kind of message does that send to our Ukrainian partners? [[00:04:37](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=277.6s)]
+*  The only package that we should be taking up, the only package that I will support, [[00:04:43](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=283.04s)]
+*  is the package that was passed in a bipartisan way in the Senate. [[00:04:50](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=290.40000000000003s)]
+*  That a package, the package that includes giving Ukraine what it needs to defend itself, [[00:04:56](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=296.6s)]
+*  giving Israel what it needs to defend itself, giving the Taiwanese what it needs to defend [[00:05:02](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=302.8s)]
+*  itself, and having humanitarian aid for the individuals in Gaza and around the world. [[00:05:08](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=308.0s)]
+*  That's the only thing that can pass. [[00:05:15](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=315.64s)]
+*  And that's needed right now. [[00:05:17](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=317.32s)]
+*  And the only way that you can get something on the president's desk so that all of those [[00:05:19](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=319.68s)]
+*  items, the Israelis, the Ukrainians, the Taiwanese, and humanitarian aid, the only way that you [[00:05:24](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=324.47999999999996s)]
+*  can do that immediately is pass one bill, the one that was passed in the Senate. [[00:05:32](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=332.79999999999995s)]
+*  That could be on the president's desk. [[00:05:38](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=338.56s)]
+*  We pass it tomorrow night when we get back in. [[00:05:40](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=340.52s)]
+*  It could be on the president's desk first thing Tuesday morning. [[00:05:43](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=343.56s)]
+*  And that is what's needed. [[00:05:46](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=346.96s)]
+*  Nothing else. [[00:05:48](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=348.88s)]
+*  What, Congressman, efforts have been made or put in place to get the Foreign Affairs Committee [[00:05:50](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=350.88s)]
+*  members briefed up on what's happened so far, what the administration is thinking in terms [[00:05:58](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=358.76s)]
+*  of moving forward? [[00:06:06](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=366.24s)]
+*  We've got the forward-facing position of the administration in terms of what we've already [[00:06:07](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=367.4s)]
+*  discussed, you know, no acceleration but deceleration of tensions and attacks here. [[00:06:12](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=372.28000000000003s)]
+*  But what are you expecting in that briefing? [[00:06:20](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=380.44s)]
+*  What types of questions do you have still so that you can have a better understanding [[00:06:23](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=383.72s)]
+*  and clarification on what the U.S. next steps should be? [[00:06:29](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=389.6s)]
+*  And that, again, ties into Simone's question about the types of aid packages that should [[00:06:33](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=393.28000000000003s)]
+*  be going, could be, or should be going forward afterwards. [[00:06:38](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=398.04s)]
+*  So I will say that the administration has been, you know, first in a classified manner, [[00:06:41](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=401.56s)]
+*  keeping me informed on the imminent danger of the attack by Iran, so that they had messaging [[00:06:47](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=407.28s)]
+*  and we were prepared for it, and that they would be moving certain equipment, et cetera, [[00:06:57](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=417.59999999999997s)]
+*  there to make sure that we knocked it down and we defended Israel. [[00:07:03](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=423.64s)]
+*  And we've gone back and forth. [[00:07:08](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=428.12s)]
+*  I've been communicating with my colleague, the chair of the committee, Michael McCaul. [[00:07:10](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=430.08s)]
+*  We've been talking on the phone back and forth, trying to make sure, you know, my purpose [[00:07:15](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=435.96000000000004s)]
+*  is that we are staying on the same page to talk about passing this bipartisan bill that [[00:07:20](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=440.2s)]
+*  came out the Senate. [[00:07:27](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=447.8s)]
+*  And so we've been talking in that regard, and we'll continue. [[00:07:29](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=449.24s)]
+*  I hope to have another conversation with him. [[00:07:31](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=451.84000000000003s)]
+*  I've been talking to my colleagues on the Democratic side of the committee. [[00:07:34](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=454.44s)]
+*  We've gathered and we've had some meetings and conversations among ourselves, and we've [[00:07:40](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=460.12s)]
+*  been trying to make sure that we update one another. [[00:07:43](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=463.02s)]
+*  I've been sending out any messages that I'm getting out that's not classified to my colleague [[00:07:47](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=467.06s)]
+*  so that when we get back to Washington tomorrow, we'll have an opportunity. [[00:07:52](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=472.5s)]
+*  I've requested a meeting, in fact. [[00:07:56](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=476.86s)]
+*  I requested and asked for the opportunity at its earliest convenience to have a classified [[00:07:58](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=478.46000000000004s)]
+*  meeting with the White House to talk about what has taken place, what they're looking [[00:08:06](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=486.46s)]
+*  at and where we're going from here. [[00:08:10](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=490.82s)]
+*  I think that's important to do. [[00:08:13](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=493.3s)]
+*  And I think that as a result, again, all from all that I have received thus far, I will [[00:08:14](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=494.98s)]
+*  say again, thank God that the president of the United States is Joseph Biden. [[00:08:22](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=502.94s)]
+*  All right, Congressman Gregory Meeks, thank you very much, sir. [[00:08:28](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=508.18s)]
+*  We appreciate you coming in. [[00:08:32](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=512.58s)]
+*  Hey, everyone. [[00:08:33](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=513.8199999999999s)]
+*  MSNBC has a new and improved app. [[00:08:34](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=514.82s)]
+*  You'll get real-time alerts and analysis, live blogs, in-depth essays, video highlights [[00:08:36](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=516.82s)]
+*  and the best 2024 election coverage. [[00:08:42](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=522.3000000000001s)]
+*  Download the new MSNBC app. [[00:08:45](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=525.0200000000001s)]
+*  Here's how to do it. [[00:08:47](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=527.34s)]
+*  You tap on the app store on your phone. [[00:08:48](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=528.34s)]
+*  You hit search on the bottom right corner. [[00:08:50](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=530.5400000000001s)]
+*  You type in MSNBC. [[00:08:52](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=532.34s)]
+*  You click on the MSNBC app. [[00:08:54](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=534.1400000000001s)]
+*  You click on Get or the cloud icon and enjoy it. [[00:08:56](https://www.youtube.com/watch?v=vtygS9fkp1Q&t=536.4200000000001s)]
