@@ -1,0 +1,60 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 267s
+Video Keywords: ['CRYSTAL TAI', 'DONALD TRUMP', 'TARIFF CHEATS', 'MADE IN VIETNAM', 'ECONOMIC POLICIES', 'TRADE AGREEMENT', 'TPP', 'TRADE WITH CHINA', 'SANCTIONS', 'TARIFFS', 'MANUFACTURING', 'BIG TECH', 'SHIPPING', 'Trade Barriers', 'Restrictions', 'Trade', 'External Payments', 'Physical Trade', 'Domestic Politics', 'Domestic', 'Foreign Markets', 'International Sanctions', 'Production', 'Services Relocation', 'United States', 'North America', 'Vietnam', 'China', 'Taiwan', 'Asia']
+Video Views: 274958
+Video Rating: None
+Video Description: Some Chinese manufacturers are dodging U.S. tariffs by rerouting goods to Vietnam and other countries. Here’s a look at why transshipment is on the rise, and how U.S. customs officials are struggling to stamp out the practice. Video and Photo composite: Crystal Tai
+---
+
+# When 'Made in Vietnam' Products Are Actually From China
+**The Wall Street Journal - World News:** [August 01, 2019](https://www.youtube.com/watch?v=fCAut_Gr-3E)
+*  You may have noticed that suddenly in the US there are a lot more things that are made in Vietnam. [[00:00:00](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=0.0s)]
+*  Vietnamese exports of electronics that fill our homes have increased by more than 70%. [[00:00:07](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=7.0s)]
+*  Well, in fact, many of those goods are not really from Vietnam. They're actually made in China. [[00:00:12](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=12.0s)]
+*  If you look closely at trade data, you find that Vietnam is also importing much more from China. [[00:00:18](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=18.0s)]
+*  Trade experts offer one explanation. [[00:00:24](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=24.0s)]
+*  Companies are moving goods like cell phones and laptops first to Vietnam, [[00:00:26](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=26.0s)]
+*  then swap the country of origin label before shipping those same goods to the US. [[00:00:31](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=31.0s)]
+*  It's a widespread technique called transshipment. [[00:00:36](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=36.0s)]
+*  So it doesn't look good when it all comes out of China, so they send it through other countries. [[00:00:39](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=39.0s)]
+*  The whole point? To get past hefty tariffs, like the Trump administration's 25% levy on $250 billion worth of Chinese goods. [[00:00:43](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=43.0s)]
+*  With the ongoing US-China trade dispute, higher US tariffs hit Chinese exports. [[00:00:52](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=52.0s)]
+*  Vietnamese customs officials say they see transshipment with products like electronics, steel and furniture. [[00:00:57](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=57.0s)]
+*  And it's not just Vietnam that plays the middleman. [[00:01:03](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=63.0s)]
+*  Shippers say Thailand, Malaysia and other countries around the world are also pit stops. [[00:01:06](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=66.0s)]
+*  Both governments responded to various media requests over the past year saying they were monitoring the situation. [[00:01:11](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=71.0s)]
+*  Chinese authorities did not respond to our request for comment. [[00:01:16](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=76.0s)]
+*  Authorities in the US said they are stepping up efforts to curb the malpractice. [[00:01:20](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=80.0s)]
+*  And so did Vietnam. [[00:01:24](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=84.0s)]
+*  There are just people who are in a jam looking for an easy way to solve their problems. [[00:01:26](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=86.0s)]
+*  Steve Dickinson is a trade lawyer who works with foreign companies manufacturing in China. [[00:01:33](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=93.0s)]
+*  He says he always advises his clients that transshipment is illegal, but he explained to us how some companies go about it. [[00:01:37](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=97.0s)]
+*  Some companies will unload at port and minimally alter the product before attaching a new origin label. [[00:01:44](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=104.0s)]
+*  For instance, US commerce officials said that Vietnamese factories have been minimally processing Chinese steel. [[00:01:49](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=109.0s)]
+*  For example, by rolling it, wrapping it in a protective zinc layer, then changing the label. [[00:01:55](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=115.0s)]
+*  Though Dickinson says he knows of companies that don't even bother changing labels. [[00:02:02](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=122.0s)]
+*  They just get a certificate or some other customs document where the product itself remains no change. [[00:02:06](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=126.0s)]
+*  And they just try to work with falsified shipping documents. [[00:02:17](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=137.0s)]
+*  It seems like such a simple hack, but US customs agents are having a hard time catching tariff cheaters. [[00:02:21](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=141.0s)]
+*  What makes it particularly difficult is that in a country like Vietnam, there are already a lot of real made in Vietnam exports. [[00:02:27](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=147.0s)]
+*  Like sneakers, microwaves and refrigerators. [[00:02:33](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=153.0s)]
+*  It was relatively easy to hide transship products in the mass of completely legitimate products coming out of Vietnam. [[00:02:36](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=156.0s)]
+*  US Customs and Border Protection already scan shipping containers that dock at US ports. [[00:02:47](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=167.0s)]
+*  But lawyers like Dickinson say monitoring 11 million containers for transship products is a daunting task. [[00:02:52](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=172.0s)]
+*  So another tactic to fight transshipment? US Customs are encouraging people to become snitches. [[00:02:59](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=179.0s)]
+*  Anyone who reports transshipment to authorities can be awarded a 15 to 30 percent cut from the total value of the goods that were seized. [[00:03:05](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=185.0s)]
+*  Buyers in the US who knowingly import transship products will also be on the hook. [[00:03:12](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=192.0s)]
+*  If caught, they will face hefty fines and even prison time. [[00:03:16](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=196.0s)]
+*  For companies, the US-China trade dispute is creating a lot of uncertainty. [[00:03:20](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=200.0s)]
+*  And some are considering moving part of their production out of China. [[00:03:24](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=204.0s)]
+*  In some cases, companies are playing by the rules by only assembling the final part of a product in Vietnam or other countries. [[00:03:27](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=207.0s)]
+*  In some cases, companies walk a fine line between what's legal and what is not. [[00:03:34](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=214.0s)]
+*  To claim that a product has been made in one country, a certain percentage of it has to be manufactured there. [[00:03:38](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=218.0s)]
+*  That percentage varies for each product, but many companies will only assemble the final part of their devices in Vietnam. [[00:03:43](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=223.0s)]
+*  You can be bringing in components from 15 different countries and then you assemble it in one country and say it's a product of that country when actually nothing in the electronic product was actually made in that country. [[00:03:50](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=230.0s)]
+*  Since electronics are made of so many tiny components, it's really hard for authorities to determine exactly what percentage was made in what country. [[00:04:03](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=243.0s)]
+*  It's a challenge to move an entire supply chain. It's costly and time consuming. [[00:04:11](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=251.0s)]
+*  And many businesses that are struggling to survive seem to think transshipment might be the answer. [[00:04:16](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=256.0s)]
+*  But of course, it's all at the peril of being caught. [[00:04:21](https://www.youtube.com/watch?v=fCAut_Gr-3E&t=261.0s)]

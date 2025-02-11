@@ -1,0 +1,108 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 608s
+Video Keywords: ['Kim Jong Un', 'Donald Trump', 'Xi Jinping', 'Moon Jae-in', 'Dennis Rodman', 'John Lyons', 'Andrew Dowell', 'Jonathan Cheng', 'THAE YONG-HO', 'Otto Warmbier', 'Kim Jong Il', 'UNITED NATIONS', 'UN SANCTIONS', 'ICBM', 'BALLISTIC MISSILE TEST', 'PUNGG-YE RI', 'NUCLEAR PROGRAM', 'DENUCLEARIZATION', 'NORTH KOREA NUCLEAR', 'NORTH KOREA WEAPONS', 'KIM', 'KIM JONG NAM', 'DICTATORSHIP', 'TRUMP', 'THAE YONG HO', 'MOON JAE IN', 'NUCLEAR CRISIS', 'KOREAN PENINSULA', 'Politics', 'International Relations', 'Nuclear Weapons Programs', 'Armed Forces']
+Video Views: 589654
+Video Rating: None
+Video Description: Behind the modernized façade of Pyongyang, North Korean dictator Kim Jong Un rules one of the world’s most repressive states. And he has proven to be far more brutal and strategic than anticipated. Photo Illustration: David Chan 
+Don’t miss a WSJ video, subscribe here: http://bit.ly/14Q81Xy
+
+More from the Wall Street Journal: 
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+---
+
+# Kim Jong Un: The Rise of a Dictator
+**The Wall Street Journal - World News:** [June 08, 2018](https://www.youtube.com/watch?v=kfpqKnaYy6k)
+*  Kim Jong-un is a ruthless dictator and a skilled strategist. [[00:00:00](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=0.0s)]
+*  When he replaced his father, experts predicted he would be toppled within a year. [[00:00:05](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=5.5s)]
+*  But the young heir showed he was ready to do anything to establish his authority. [[00:00:09](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=9.76s)]
+*  He's allegedly ordered the killings of his own uncle and half-brother, nurtured one of [[00:00:13](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=13.84s)]
+*  the world's most repressive states, and threatened to nuke Washington, D.C. [[00:00:18](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=18.8s)]
+*  Yet, like a statesman, he now has the ear of China, South Korea, and even the U.S. [[00:00:24](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=24.96s)]
+*  Just how did he make it to this point against all expectations? [[00:00:30](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=30.32s)]
+*  So Kim Jong-un comes on the scene, December 2011. [[00:00:42](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=42.8s)]
+*  It's the wake of his father. [[00:00:46](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=46.08s)]
+*  There's a filmed image of him or photographs of him crying, sobbing, red-faced. [[00:00:50](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=50.559999999999995s)]
+*  So conventional wisdom when he came in was that in order to keep the regime going, [[00:00:58](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=58.4s)]
+*  you need a brutal dictatorial leader with ice in his veins. [[00:01:04](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=64.32s)]
+*  The initial analysis was that this was not the guy, but it turned out that he was. [[00:01:10](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=70.64s)]
+*  He showed an unexpected, chilling aptitude for murder. [[00:01:16](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=76.08s)]
+*  Perhaps more so even than his brutal father, [[00:01:22](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=82.08s)]
+*  Kim Jong-un has shown a willingness to kill members of his own family. [[00:01:26](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=86.88000000000001s)]
+*  In these images that have gone viral, Kim Jong-un's half-brother is the victim of a [[00:01:33](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=93.60000000000001s)]
+*  lethal VX nerve agent attack in the middle of a Malaysian airport. [[00:01:37](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=97.36000000000001s)]
+*  Kim Jong-un likely masterminded the murder of his half-brother, who had criticized him from afar. [[00:01:40](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=100.56s)]
+*  In 2013, Kim had already ordered the execution of his uncle, Jong-sung Tak, [[00:01:45](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=105.84s)]
+*  for anti-state activities and for enriching himself, North Korean state media said at the time. [[00:01:49](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=109.92s)]
+*  A former North Korean diplomat posted in London, Tae Young-ho, defected in 2016. [[00:02:10](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=130.56s)]
+*  When he testified in Congress, he talked extensively about Kim Jong-un's [[00:02:15](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=135.6s)]
+*  purges and other human rights abuses. [[00:02:18](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=138.72s)]
+*  Until now, the North Korean system has prevailed through an effective and credible reign of terror. [[00:02:21](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=141.12s)]
+*  Kim Jong-un is a young man who is hoping to stay in power for decades. [[00:02:28](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=148.88s)]
+*  Took over a country and it was a backwards country. [[00:02:45](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=165.68s)]
+*  Impoverished, a million or so people died in 1990s famine. [[00:02:48](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=168.16s)]
+*  He's got to do something about the economy. [[00:02:53](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=173.04s)]
+*  Part of it also is trying to at least give the appearance of some kind of modernity. [[00:02:59](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=179.84s)]
+*  So when we went there a few months ago, we saw this surprisingly peaceful looking city. [[00:03:15](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=195.12s)]
+*  You go to Pyongyang, you see people with cell phones that they didn't have years earlier. [[00:03:22](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=202.64s)]
+*  There are a lot more cars now. [[00:03:29](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=209.76s)]
+*  The buildings look newer and he's built a lot of kind of tourist attractions. [[00:03:31](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=211.92s)]
+*  There's a dolphin park there. [[00:03:38](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=218.72s)]
+*  Of course everywhere you go in Pyongyang people praise Kim Jong-un. [[00:03:42](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=222.0s)]
+*  I'm really nervous when I see someone I know up close. [[00:03:58](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=238.88s)]
+*  I don't go abroad very often so I don't know much about other countries' leaders. [[00:04:07](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=247.51999999999998s)]
+*  But I think there's no leader in the world who can love and show love to the people by burning everything [[00:04:15](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=255.12s)]
+*  like a candle in the fire like the highest-ranking politician in Pyongyang. [[00:04:23](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=263.44s)]
+*  You just never know are they saying what they know they're supposed to be saying [[00:04:29](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=269.68s)]
+*  or are they saying something that they truly believe. [[00:04:34](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=274.08s)]
+*  Behind everything you see there's this young man who has grown into a 21st century tyrant. [[00:04:39](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=279.68s)]
+*  When North Korea had few ties with the outside world, Kim Jong-un sent a rare invitation to a foreign guest. [[00:04:59](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=299.2s)]
+*  Former NBA star Dennis Rodman is one of a handful of foreigners who spoke to Kim Jong-un [[00:05:06](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=306.88s)]
+*  during his first five years in power. And that was well a bit weird. [[00:05:11](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=311.12s)]
+*  The young Kim's North Korea was isolated. For years he never made a trip overseas, not that we know of. [[00:05:17](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=317.68s)]
+*  Under Kim at least 10 Americans have been detained for various charges [[00:05:24](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=324.15999999999997s)]
+*  from illegal entry to espionage, including Otto Warmbier, a young student who died from [[00:05:27](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=327.76s)]
+*  severe brain damage shortly after being released by North Korea. [[00:05:32](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=332.4s)]
+*  A lot of bad things happened but at least we got him home to be with his parents. [[00:05:35](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=335.91999999999996s)]
+*  His parents have accused North Korea of torturing him, which Pyongyang officials denied. [[00:05:41](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=341.2s)]
+*  There is no excuse for any civilized nation to have kept his [[00:05:45](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=345.03999999999996s)]
+*  conditions secret and denied him top-notch medical care for so long. [[00:05:49](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=349.35999999999996s)]
+*  And of course that wasn't the only provocation. [[00:06:01](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=361.44s)]
+*  Kim Jong-un test-launched dozens of ballistic missiles and conducted four nuclear tests, [[00:06:06](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=366.55999999999995s)]
+*  many more than his predecessors. But analysts noticed that unlike his father and grandfather, [[00:06:10](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=370.71999999999997s)]
+*  he recognized that some had simply failed. [[00:06:16](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=376.24s)]
+*  He's a learner. From the beginning he would acknowledge mistakes and shortcomings and failure [[00:06:18](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=378.48s)]
+*  and then work to correct them or tell the people around him you need to correct those. [[00:06:27](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=387.12s)]
+*  And so he's turned North Korea into more of a learning organization. [[00:06:32](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=392.08s)]
+*  That's a strength we need to recognize. [[00:06:38](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=398.32s)]
+*  And then, late last year, North Korea announced it had achieved nuclear weapons capable of reaching the US mainland. [[00:06:40](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=400.0s)]
+*  Whether or not that's totally true is still unclear, [[00:06:49](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=409.92s)]
+*  but that was enough for Kim Jong-un to claim North Korea is a nuclear power. [[00:06:52](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=412.56s)]
+*  While the UN was imposing tough sanctions on Pyongyang, [[00:07:03](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=423.36s)]
+*  North Korean propaganda celebrated Kim as a bold leader who stands up to international pressure. [[00:07:05](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=425.92s)]
+*  While we were in North Korea, our handlers made every effort to show that the country would not be [[00:07:11](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=431.28000000000003s)]
+*  hurt by sanctions. One of the ways was to present various economists and officials to explain that [[00:07:16](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=436.72s)]
+*  the country had weathered sanctions in the past and this time would be no different. [[00:07:25](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=445.12s)]
+*  These claims are impossible to verify. [[00:07:35](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=455.92s)]
+*  But the reality is economic sanctions are hitting North Korea very hard. [[00:08:01](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=481.28000000000003s)]
+*  Something like 90 percent of their trade, 30 percent of their oil, all investment have been [[00:08:09](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=489.84000000000003s)]
+*  shut off by rounds of UN sanctions. And that gives Kim Jong-un less than a year [[00:08:13](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=493.68s)]
+*  before most economists believe his economy will enter a real downturn. [[00:08:20](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=500.32s)]
+*  Everything changed in 2018. Kim Jong-un started playing nice. [[00:08:30](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=510.8s)]
+*  Instead of launching rockets, he sent his sister, cheerleaders, and athletes to the Pyongyang Winter Olympics. [[00:08:44](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=524.5600000000001s)]
+*  And then there were more handshakes, smiles, and historic summits in China and South Korea. [[00:08:51](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=531.84s)]
+*  And even meetings with its American arch enemy. There have been promises of denuclearization [[00:08:57](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=537.9200000000001s)]
+*  and staged destruction of a North Korean nuclear facility, [[00:09:15](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=555.9200000000001s)]
+*  which is an echo of what Kim's father did in the past. [[00:09:21](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=561.12s)]
+*  So skeptics say Kim, like his father, just wants the money but won't give up his nukes. [[00:09:23](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=563.36s)]
+*  He turned out to be far more calculating, far more skillful, far more shrewd, far more brutal [[00:09:28](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=568.4s)]
+*  than anyone ever imagined. And that will make resolving the current crisis far more difficult [[00:09:36](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=576.48s)]
+*  than we expect. I don't think I have to prepare very much. It's about attitude. [[00:09:42](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=582.88s)]
+*  While experts and pundits around the world keep trying to predict his next move, [[00:09:47](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=587.52s)]
+*  expect more drama from the North Korean dictator. [[00:09:51](https://www.youtube.com/watch?v=kfpqKnaYy6k&t=591.1999999999999s)]

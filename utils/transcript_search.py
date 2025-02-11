@@ -1,11 +1,11 @@
 import os
 import re
 import sys
-import tqdm
 import pickle
 import datetime
 import pandas as pd
 import seaborn as sns
+from tqdm import tqdm
 from utils import fuzzy_lookup
 import matplotlib.pyplot as plt
 from collections import defaultdict
@@ -81,10 +81,11 @@ def find_transcripts(author_names, transcript_dir_path='_Transcripts'):
 	for dir in os.listdir(transcript_dir_path):
 		# check if dir and if author_name is in dir
 		for author_name in author_names:
-			if os.path.isdir(os.path.join(transcript_dir_path, dir)) and author_name in dir:
-				print(f'Loading {author_name}.')
-				for file in sorted(os.listdir(os.path.join(transcript_dir_path, dir)), reverse=True):
-					transcript_paths_dict[author_name].append(os.path.join(transcript_dir_path, dir, file))
+			author_path_dir = os.path.join(transcript_dir_path, dir)
+			if os.path.isdir(author_path_dir) and author_name in dir:
+				print(f'Loading {author_path_dir}.')
+				for file in sorted(os.listdir(author_path_dir), reverse=True):
+					transcript_paths_dict[author_name].append(os.path.join(author_path_dir, file))
 				print(f' Found {len(transcript_paths_dict[author_name])} transcripts.')
 	if len(transcript_paths_dict[author_name]) == 0:
 		print(f'No transcripts found for {author_name}.')
@@ -197,7 +198,7 @@ def dict_to_pandas(transcript_dict):
 
 def pickle_transcript_df(transcript_df, save_name, dataframe_dir_path = '_Dataframes'):
 	# get directory of path 
-	if not os.path.exists(os.dataframe_dir_path):
+	if not os.path.exists(dataframe_dir_path):
 		os.makedirs(dataframe_dir_path)
 	df_path = os.path.join(dataframe_dir_path, save_name)
 	if '.pkl' not in df_path:
@@ -238,6 +239,42 @@ def add_path_var(transcript_df, var='length'):
 		os.rename(path, new_name+ext)
 		print(f' {path} -> {new_name+ext}')
 
+def check_for_fuzzy_columns(transcript_df, target_word_list):
+	filtered_target_word_list = []
+	exclusion_list = []
+	for word in target_word_list:
+		if f'max_fuzzy_{word}' in transcript_df.columns:
+			exclusion_list.append(word)
+			# remove the word from the target_word_list
+		else:
+			filtered_target_word_list.append(word)
+	print(f'Excluding the following words already in the dataset: ')
+	print(f'  {exclusion_list}')
+	return filtered_target_word_list
+
+def fuzzy_search(transcript_df, target_word_list, fuzzy_threshold=0.85):
+	print('Performing fuzzy search for the following words:')
+	print(f'  {target_word_list}')
+	# check to see if the target words are already in the transcript_df
+	target_word_list_filtered = check_for_fuzzy_columns(transcript_df, target_word_list)
+	max_fuzzy_list = defaultdict(list)
+	max_fuzzy_word_list = defaultdict(list)
+
+	for idx, transcript in enumerate(transcript_df['transcript']):
+		podcast_channel = transcript_df.iloc[idx]['podcast']
+		pod_title = transcript_df.iloc[idx]['title']	
+		pod_date = transcript_df.iloc[idx]['year'] + '-' + transcript_df.iloc[idx]['month'] + '-' + transcript_df.iloc[idx]['day']
+		print(f'{podcast_channel} - {pod_date}: {pod_title}')
+		for t_index, target_word in enumerate(target_word_list_filtered):
+			max_fuzzy, max_fuzzy_word = fuzzy_lookup.fuzzy_matching(target_word, transcript, fuzzy_threshold)
+			max_fuzzy_list[target_word].append(max_fuzzy)
+			max_fuzzy_word_list[target_word].append(max_fuzzy_word)
+	# add the max_fuzzy and max_fuzzy_word to the transcript_df
+	for key in max_fuzzy_list.keys():
+		transcript_df[f'max_fuzzy_{key}'] = max_fuzzy_list[key]
+		transcript_df[f'max_fuzzy_word_{key}'] = max_fuzzy_word_list[key]
+	return transcript_df
+
 def load_transcripts(
 		author_names = ['New York Times'], 
 		reload=True, 
@@ -256,14 +293,15 @@ def load_transcripts(
 			with open(dataframe_dir_path, 'rb') as f:
 				transcript_df = pickle.load(f)
 				print(f'  Number of transcripts: {len(transcript_df)}.')
-		# if the dataframe does not exist, create it by reading the transcripts
-		transcript_paths_dict = find_transcripts(author_names)
-		transcripts_dict = defaultdict(lambda: defaultdict(list))
-		for author_name, transcripts in transcript_paths_dict.items():
-			for transcript_path in transcripts:
-				if '.md' in transcript_path:
-					transcripts_dict = read_transcript(author_name, transcript_path, transcripts_dict, verbose)
-		transcript_df = dict_to_pandas(transcripts_dict)
+				return transcript_df
+	# if the dataframe does not exist, create it by reading the transcripts
+	transcript_paths_dict = find_transcripts(author_names)
+	transcripts_dict = defaultdict(lambda: defaultdict(list))
+	for author_name, transcripts in tqdm(transcript_paths_dict.items(), desc=f'Loading transcripts: {author_name}'):
+		for transcript_path in transcripts:
+			if '.md' in transcript_path:
+				transcripts_dict = read_transcript(author_name, transcript_path, transcripts_dict, verbose)
+	transcript_df = dict_to_pandas(transcripts_dict)
 	if save_df:
 		pickle_transcript_df(transcript_df, save_name)
 	return transcript_df

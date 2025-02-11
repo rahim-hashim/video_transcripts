@@ -1,0 +1,62 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 331s
+Video Keywords: []
+Video Views: 98164
+Video Rating: None
+Video Description: Representatives of Saudi Arabia, Turkey and the U.S. have been at odds about what happened to missing Saudi journalist Jamal Khashoggi, until Saudi Arabia confirmed that he was killed in its consulate in Istanbul. Here’s how each country’s narrative unfolded.
+---
+
+# How Saudi Journalist Jamal Khashoggi Went From Missing to ‘Killed’
+**The Wall Street Journal - World News:** [October 20, 2018](https://www.youtube.com/watch?v=nSUjCDCo1zM)
+*  What happened to Saudi journalist Jamal Khashoggi? [[00:00:00](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=0.0s)]
+*  Turkey and Saudi Arabia had been at odds over the disappearance of the 59-year-old Saudi journalist and government critic. [[00:00:05](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=5.6000000000000005s)]
+*  But 18 days after Mr Khashoggi went missing, the Saudi Kingdom finally admitted that he had been killed in its Istanbul consulate, [[00:00:13](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=13.8s)]
+*  something Turkey had been claiming days after he went missing on October 2nd. [[00:00:23](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=23.0s)]
+*  The Saudi government initially denied any responsibility, [[00:00:28](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=28.92s)]
+*  but on October 20 it said he died after discussions led to a brawl and a physical altercation in the consulate. [[00:00:33](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=33.120000000000005s)]
+*  Following a steady drip-drip of leaks, reports and information from Turkey, [[00:00:41](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=41.32s)]
+*  the mystery surrounding Mr Khashoggi's whereabouts brought intense scrutiny upon the Saudi monarchy. [[00:00:46](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=46.64s)]
+*  For the Trump administration, strengthening ties with the Kingdom has been a top foreign policy priority, [[00:00:54](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=54.24s)]
+*  and it found itself under pressure to limit diplomatic fallout. [[00:01:00](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=60.64s)]
+*  They're an important ally, but I want to find out what happened, where is the fault? [[00:01:05](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=65.76s)]
+*  Here is what each country said, leading up to the Saudi admission. [[00:01:11](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=71.24000000000001s)]
+*  By October 6th, four days after Mr Khashoggi's disappearance, Turkey stunned the world. [[00:01:16](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=76.96000000000001s)]
+*  Turkish investigators say they found evidence that Mr Khashoggi was killed inside the diplomatic compound, [[00:01:23](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=83.56s)]
+*  and his body possibly dismembered. [[00:01:29](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=89.88s)]
+*  That was a claim that Saudi Arabia denied. [[00:01:31](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=91.88s)]
+*  The Saudi government said Mr Khashoggi entered the consulate and left it shortly after that. [[00:01:34](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=94.88s)]
+*  Mr Trump warned the Kingdom, saying it would face reprisals if proof emerged of their involvement. [[00:01:39](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=99.96000000000001s)]
+*  It's a very sad situation, it's a very bad situation, and we want to get to the bottom of it. [[00:01:46](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=106.36s)]
+*  Well, I have to find out who did it, but people saw him go in, but they didn't see him come out, as they understand it. [[00:01:51](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=111.92s)]
+*  And we're going to take a very serious look at it, it's a terrible thing. [[00:01:59](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=119.04s)]
+*  Turkish officials say that this surveillance footage, released by Turkish media, [[00:02:04](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=124.28s)]
+*  proves that a Saudi SWAT team used private jets to travel to and from Turkey the day Khashoggi was murdered. [[00:02:09](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=129.92000000000002s)]
+*  Because Prince Mohammed is the country's day-to-day ruler, many assume he would have known about the operation targeting Mr Khashoggi. [[00:02:19](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=139.12s)]
+*  Turkey suspects an operation of this nature could only have been approved at the highest level in Saudi Arabia. [[00:02:26](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=146.12s)]
+*  But Turkey's president, Recep Tayyip Erdogan, tops short of accusing the Kingdom. [[00:02:33](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=153.44s)]
+*  We must reach a conclusion as soon as possible, and the consulate officials can't save themselves by saying he left here. [[00:02:38](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=158.72s)]
+*  On October 11, sources told the Wall Street Journal that evidence of the killing included an audio recording. [[00:02:47](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=167.24s)]
+*  Saudi Arabia said Turkish officials hadn't shared the recordings with them. [[00:02:55](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=175.24s)]
+*  The country's leaders didn't expect the disappearance of Mr Khashoggi to escalate into their biggest diplomatic crisis since 9-11. [[00:02:59](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=179.72s)]
+*  They have felt stunned and betrayed by the reactions of their Western allies. [[00:03:07](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=187.64s)]
+*  And after Trump threatened severe punishment if an investigation determines that Saudi Arabia is behind the disappearance, Riyadh vowed to retaliate. [[00:03:12](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=192.24s)]
+*  The Kingdom affirms its total rejection of any threats and attempts to undermine it, [[00:03:24](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=204.04000000000002s)]
+*  whether through economic sanctions, political pressure or repeating false accusations. [[00:03:28](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=208.56s)]
+*  Publicly, the Saudi government continued to deny any knowledge of Mr Khashoggi's whereabouts. [[00:03:34](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=214.56s)]
+*  But by October 15, Saudi officials began considering whether to say that rogue operatives had killed Mr Khashoggi during an interrogation gone wrong, according to people familiar with the matter. [[00:03:41](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=221.56s)]
+*  That's a sentiment that President Trump echoed. [[00:03:53](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=233.56s)]
+*  It sounded to me like maybe these could have been rogue killers. Who knows? [[00:03:57](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=237.56s)]
+*  At this point, all three countries were conducting investigations. [[00:04:03](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=243.56s)]
+*  Trump had dispatched Secretary of State Mike Pompeo to Riyadh and Ankara in search of answers. [[00:04:07](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=247.56s)]
+*  Saudi Arabia dispatched a team of investigators to the consulate. [[00:04:14](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=254.56s)]
+*  And Turkish investigators were allowed access to the Saudi diplomatic buildings, which they searched for more than 20 hours. [[00:04:18](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=258.56s)]
+*  Turkey, however, continued to release yet more information. [[00:04:26](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=266.56s)]
+*  They added that Saudi operatives beat and drugged Mr Khashoggi, and that he was killed in the presence of the Kingdom's top diplomat in Istanbul. [[00:04:32](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=272.56s)]
+*  For the first time, President Erdogan says he suspects foul play by the Saudis. [[00:04:42](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=282.56s)]
+*  He says the Turkish investigation has been hampered by the fact that some rooms inside the consulate had been freshly repainted. [[00:04:47](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=287.56s)]
+*  After weeks of uncertainty, Saudi Arabia admitted Khashoggi died in the consulate and that the perpetrators had tried to cover it up. [[00:04:56](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=296.56s)]
+*  The US continues to mediate. [[00:05:06](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=306.56s)]
+*  Saudi Arabia has been a great ally, but what happened is unacceptable. [[00:05:09](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=309.56s)]
+*  But questions remain since Saudi Arabia's account is still at odds with what the Turkish authorities said happened in the consulate. [[00:05:13](https://www.youtube.com/watch?v=nSUjCDCo1zM&t=313.56s)]

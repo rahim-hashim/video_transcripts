@@ -1,0 +1,123 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 444s
+Video Keywords: ['CHINA', 'LOCKDOWN', 'QUARANTINE', 'STAY AT HOME', 'SHELTER AT HOME', 'STAY IN PLACE', 'TEXAS', 'CALIFORNIA', 'NEW YORK', 'ROME', 'ITALY', 'HONG KONG', 'CORONAVIRUS', 'WSJ', 'Outbreaks', 'Epidemics', 'Health Care Policy', 'Health', 'Law Enforcement', 'Information Technology Policy', 'Europe', 'New York State', 'United States', 'Wall Street Journal', 'coronavirus outbreak', 'pandemic', 'precaution', 'covid-19', 'novel coronavirus', 'coronavirus update', 'coronavirus lockdown', 'social distancing', 'coronavirus new york', 'isolation', 'Hong Kong']
+Video Views: 76009
+Video Rating: None
+Video Description: Countries are experimenting with both high- and low-tech ways to enforce lockdowns or self-quarantines. WSJ reporters in Rome, New York and Hong Kong compare their isolation experiences to show how some governments are willing to impose stricter measures to stop the virus. 
+
+Photo illustration: Crystal Tai
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Quarantine #Coronavirus
+---
+
+# How Quarantines Are Enforced Around the World | WSJ
+**The Wall Street Journal - World News:** [April 14, 2020](https://www.youtube.com/watch?v=h9va5LGPH1w)
+*  If I step outside of this apartment, I'm looking at six months in jail. [[00:00:00](https://www.youtube.com/watch?v=h9va5LGPH1w&t=0.0s)]
+*  Governments have been implementing lockdowns. [[00:00:03](https://www.youtube.com/watch?v=h9va5LGPH1w&t=3.68s)]
+*  It's ghostly. There's nobody out. [[00:00:06](https://www.youtube.com/watch?v=h9va5LGPH1w&t=6.28s)]
+*  And asking citizens to self-isolate to fight the coronavirus pandemic. [[00:00:10](https://www.youtube.com/watch?v=h9va5LGPH1w&t=10.28s)]
+*  I'm really trying to stay indoors as much as possible. [[00:00:15](https://www.youtube.com/watch?v=h9va5LGPH1w&t=15.4s)]
+*  They've enforced these measures using drones and police to hunt out rogue pedestrians, [[00:00:18](https://www.youtube.com/watch?v=h9va5LGPH1w&t=18.6s)]
+*  throwing turmeric water to attack people violating quarantines, [[00:00:23](https://www.youtube.com/watch?v=h9va5LGPH1w&t=23.2s)]
+*  and in some countries even putting offenders in jail. [[00:00:27](https://www.youtube.com/watch?v=h9va5LGPH1w&t=27.12s)]
+*  There is police everywhere, so the chances of getting stopped are very high. [[00:00:31](https://www.youtube.com/watch?v=h9va5LGPH1w&t=31.040000000000003s)]
+*  We asked our reporters to document what life on lockdown looks like in three cities. [[00:00:37](https://www.youtube.com/watch?v=h9va5LGPH1w&t=37.24s)]
+*  I'm kind of surprised to see as many people out. [[00:00:43](https://www.youtube.com/watch?v=h9va5LGPH1w&t=43.32s)]
+*  It's so strange to see how people's behaviour has changed. [[00:00:46](https://www.youtube.com/watch?v=h9va5LGPH1w&t=46.2s)]
+*  And found that some countries are more willing to enforce stricter measures than others [[00:00:51](https://www.youtube.com/watch?v=h9va5LGPH1w&t=51.56s)]
+*  in order to stop the virus. [[00:00:55](https://www.youtube.com/watch?v=h9va5LGPH1w&t=55.8s)]
+*  Italy has been one of the harder-hit countries. [[00:01:01](https://www.youtube.com/watch?v=h9va5LGPH1w&t=61.4s)]
+*  In March, the government imposed a nationwide lockdown for everyone, [[00:01:03](https://www.youtube.com/watch?v=h9va5LGPH1w&t=63.959999999999994s)]
+*  including our reporter Margarita Stancati in Rome. [[00:01:08](https://www.youtube.com/watch?v=h9va5LGPH1w&t=68.03999999999999s)]
+*  This is the Pantheon in Rome. [[00:01:11](https://www.youtube.com/watch?v=h9va5LGPH1w&t=71.96s)]
+*  There's no one here now. There's no one here. [[00:01:13](https://www.youtube.com/watch?v=h9va5LGPH1w&t=73.6s)]
+*  I'm relieved to see that people seem to be keeping to themselves. [[00:01:16](https://www.youtube.com/watch?v=h9va5LGPH1w&t=76.24s)]
+*  Normally here there would be a dozen or so people admiring the view, [[00:01:21](https://www.youtube.com/watch?v=h9va5LGPH1w&t=81.08s)]
+*  but today there's nobody. It is just me. [[00:01:26](https://www.youtube.com/watch?v=h9va5LGPH1w&t=86.67999999999999s)]
+*  The government allows very few exceptions for people to step outside. [[00:01:30](https://www.youtube.com/watch?v=h9va5LGPH1w&t=90.32s)]
+*  Basically, no one is really allowed out of their house unless they can prove they really have to. [[00:01:34](https://www.youtube.com/watch?v=h9va5LGPH1w&t=94.92s)]
+*  What does that mean? [[00:01:42](https://www.youtube.com/watch?v=h9va5LGPH1w&t=102.28s)]
+*  People can go out to go buy groceries, to go buy drugs, [[00:01:43](https://www.youtube.com/watch?v=h9va5LGPH1w&t=103.32s)]
+*  or if they have a job considered still essential, if they really can't work from home. [[00:01:47](https://www.youtube.com/watch?v=h9va5LGPH1w&t=107.39999999999999s)]
+*  Hong Kong, on the other hand, has adopted a radically different strategy. [[00:01:54](https://www.youtube.com/watch?v=h9va5LGPH1w&t=114.67999999999999s)]
+*  It has decided to quarantine a very narrow group of people who could potentially infect others. [[00:01:58](https://www.youtube.com/watch?v=h9va5LGPH1w&t=118.6s)]
+*  Here's where I'm spending two weeks of my time. [[00:02:04](https://www.youtube.com/watch?v=h9va5LGPH1w&t=124.6s)]
+*  It's a 500 square foot apartment in Hong Kong. [[00:02:07](https://www.youtube.com/watch?v=h9va5LGPH1w&t=127.4s)]
+*  The Hong Kong government required our reporter Dan Strumpf to self-isolate for 14 days after he traveled abroad. [[00:02:12](https://www.youtube.com/watch?v=h9va5LGPH1w&t=132.28s)]
+*  The city is quarantining anybody that's coming into Hong Kong regardless of where they're coming from. [[00:02:19](https://www.youtube.com/watch?v=h9va5LGPH1w&t=139.07999999999998s)]
+*  The city is also closing itself off to any visitors who are not residents of Hong Kong. [[00:02:24](https://www.youtube.com/watch?v=h9va5LGPH1w&t=144.35999999999999s)]
+*  There's also other city-wide measures like gatherings of more than four people are forbidden, [[00:02:29](https://www.youtube.com/watch?v=h9va5LGPH1w&t=149.32s)]
+*  movie theaters and gyms are closed, but that aside Hong Kongers are relatively free. [[00:02:33](https://www.youtube.com/watch?v=h9va5LGPH1w&t=153.56s)]
+*  They can go out and shop. They can still go to restaurants that are still open. [[00:02:38](https://www.youtube.com/watch?v=h9va5LGPH1w&t=158.04s)]
+*  Meanwhile, the U.S. hasn't imposed a nationwide lockdown. [[00:02:43](https://www.youtube.com/watch?v=h9va5LGPH1w&t=163.0s)]
+*  Instead, many states have issued shelter-in-place orders. [[00:02:46](https://www.youtube.com/watch?v=h9va5LGPH1w&t=166.51999999999998s)]
+*  This is the first time I've left the building in about almost a week. [[00:02:50](https://www.youtube.com/watch?v=h9va5LGPH1w&t=170.76s)]
+*  In New York, the epicenter in the U.S., one of our editors, [[00:02:57](https://www.youtube.com/watch?v=h9va5LGPH1w&t=177.32s)]
+*  Daniela Hernandez, has been living in a system that may sound drastic. [[00:03:00](https://www.youtube.com/watch?v=h9va5LGPH1w&t=180.84s)]
+*  This is not life as usual. [[00:03:05](https://www.youtube.com/watch?v=h9va5LGPH1w&t=185.07999999999998s)]
+*  We've taken every action that government can take, remain indoors to the greatest extent. [[00:03:07](https://www.youtube.com/watch?v=h9va5LGPH1w&t=187.24s)]
+*  But towards the end of March, that didn't appear to be the case on the ground. [[00:03:15](https://www.youtube.com/watch?v=h9va5LGPH1w&t=195.64000000000001s)]
+*  Wow. So there's a lot of people here in Central Park. [[00:03:20](https://www.youtube.com/watch?v=h9va5LGPH1w&t=200.60000000000002s)]
+*  Same problem has arisen in California where people have been going on hikes. [[00:03:25](https://www.youtube.com/watch?v=h9va5LGPH1w&t=205.0s)]
+*  Many people don't hesitate for a second to head outside, [[00:03:30](https://www.youtube.com/watch?v=h9va5LGPH1w&t=210.44s)]
+*  even if it means standing in line next to others. [[00:03:33](https://www.youtube.com/watch?v=h9va5LGPH1w&t=213.88s)]
+*  So this is the line to get into the local Whole Foods. [[00:03:37](https://www.youtube.com/watch?v=h9va5LGPH1w&t=217.64000000000001s)]
+*  It's wrapping way around the block. [[00:03:42](https://www.youtube.com/watch?v=h9va5LGPH1w&t=222.36s)]
+*  Just how crowded the streets are comes down to how difficult the government makes it for people to [[00:03:48](https://www.youtube.com/watch?v=h9va5LGPH1w&t=228.12s)]
+*  leave their homes. [[00:03:52](https://www.youtube.com/watch?v=h9va5LGPH1w&t=232.92000000000002s)]
+*  I can't even go out to get groceries and I'm totally reliant on my friends to make deliveries [[00:03:54](https://www.youtube.com/watch?v=h9va5LGPH1w&t=234.76000000000002s)]
+*  to my apartment. [[00:03:59](https://www.youtube.com/watch?v=h9va5LGPH1w&t=239.16000000000003s)]
+*  Hong Kong decided to tightly control people in quarantine using high-tech surveillance equipment. [[00:04:00](https://www.youtube.com/watch?v=h9va5LGPH1w&t=240.12s)]
+*  So the government's keeping back of anybody in quarantine by slapping a wristband on them. [[00:04:05](https://www.youtube.com/watch?v=h9va5LGPH1w&t=245.72s)]
+*  There's a serial number on the wristband that's assigned to me as well as a QR code. [[00:04:09](https://www.youtube.com/watch?v=h9va5LGPH1w&t=249.96s)]
+*  The second element to the quarantine is an app on my phone. [[00:04:14](https://www.youtube.com/watch?v=h9va5LGPH1w&t=254.20000000000002s)]
+*  The app actually pairs up with the bracelet that allows Hong Kong authorities to keep track [[00:04:17](https://www.youtube.com/watch?v=h9va5LGPH1w&t=257.88s)]
+*  of exactly where I am. [[00:04:22](https://www.youtube.com/watch?v=h9va5LGPH1w&t=262.92s)]
+*  If I do leave my home, the app on my phone makes a loud noise, [[00:04:24](https://www.youtube.com/watch?v=h9va5LGPH1w&t=264.76s)]
+*  then the authorities are alerted within an hour. [[00:04:28](https://www.youtube.com/watch?v=h9va5LGPH1w&t=268.52000000000004s)]
+*  So Hong Kong was hit very hard by the SARS epidemic back in 2002 and 2003. [[00:04:32](https://www.youtube.com/watch?v=h9va5LGPH1w&t=272.2s)]
+*  And as a result of the lessons from that particular time, the city's been very bold [[00:04:37](https://www.youtube.com/watch?v=h9va5LGPH1w&t=277.4s)]
+*  in taking aggressive measures to contain the virus this time. [[00:04:43](https://www.youtube.com/watch?v=h9va5LGPH1w&t=283.4s)]
+*  And the population has been listening to the government. [[00:04:47](https://www.youtube.com/watch?v=h9va5LGPH1w&t=287.24s)]
+*  In Rome as well as in Paris and other European cities, there are no high-tech devices like in [[00:04:51](https://www.youtube.com/watch?v=h9va5LGPH1w&t=291.96s)]
+*  Hong Kong. [[00:04:56](https://www.youtube.com/watch?v=h9va5LGPH1w&t=296.92s)]
+*  It's actually the opposite. [[00:04:57](https://www.youtube.com/watch?v=h9va5LGPH1w&t=297.96s)]
+*  The government has gone fully analog. [[00:04:59](https://www.youtube.com/watch?v=h9va5LGPH1w&t=299.56s)]
+*  And fill in this form that you see here. [[00:05:02](https://www.youtube.com/watch?v=h9va5LGPH1w&t=302.12s)]
+*  It's a self-declaration form. [[00:05:06](https://www.youtube.com/watch?v=h9va5LGPH1w&t=306.28000000000003s)]
+*  You have to acknowledge that you know what the rules are of the lockdown [[00:05:08](https://www.youtube.com/watch?v=h9va5LGPH1w&t=308.2s)]
+*  and you have to state that you're not sick. [[00:05:13](https://www.youtube.com/watch?v=h9va5LGPH1w&t=313.08s)]
+*  Everyone who leaves their house is required to fill one of these in and carry it with them [[00:05:15](https://www.youtube.com/watch?v=h9va5LGPH1w&t=315.16s)]
+*  and hand it over to police if they ask for it. [[00:05:20](https://www.youtube.com/watch?v=h9va5LGPH1w&t=320.52s)]
+*  The thinking behind the forms is twofold. [[00:05:24](https://www.youtube.com/watch?v=h9va5LGPH1w&t=324.36s)]
+*  On one hand, it's really sending a message that this is serious. [[00:05:26](https://www.youtube.com/watch?v=h9va5LGPH1w&t=326.84s)]
+*  You can't just go out with any excuse. [[00:05:30](https://www.youtube.com/watch?v=h9va5LGPH1w&t=330.67999999999995s)]
+*  You have to think about why you're going out and you have to be able to prove it. [[00:05:34](https://www.youtube.com/watch?v=h9va5LGPH1w&t=334.28s)]
+*  In New York, the government put faith in people's self-discipline, [[00:05:39](https://www.youtube.com/watch?v=h9va5LGPH1w&t=339.08s)]
+*  but soon realized it needed to become stricter as the number of cases and deaths rose. [[00:05:42](https://www.youtube.com/watch?v=h9va5LGPH1w&t=342.59999999999997s)]
+*  In New York, the governor recently announced that he was going to increase the fine for [[00:05:48](https://www.youtube.com/watch?v=h9va5LGPH1w&t=348.12s)]
+*  not social distancing from $500 to $1,000 because people weren't really adhering to it. [[00:05:51](https://www.youtube.com/watch?v=h9va5LGPH1w&t=351.72s)]
+*  But New York's consequences are not as severe compared to other regions. [[00:05:58](https://www.youtube.com/watch?v=h9va5LGPH1w&t=358.36s)]
+*  If you are found leaving the house, although you're supposed to be under quarantine [[00:06:02](https://www.youtube.com/watch?v=h9va5LGPH1w&t=362.68s)]
+*  because of your health condition, then you actually could face a jail time. [[00:06:07](https://www.youtube.com/watch?v=h9va5LGPH1w&t=367.72s)]
+*  In Hong Kong, the penalty ranges up to six months in prison [[00:06:13](https://www.youtube.com/watch?v=h9va5LGPH1w&t=373.24s)]
+*  and a $25,000 Hong Kong dollar fine, which amounts to about $3,500 U.S. or so. [[00:06:17](https://www.youtube.com/watch?v=h9va5LGPH1w&t=377.4s)]
+*  The most draconian lockdown was in China's Hubei province, where the pandemic first emerged. [[00:06:25](https://www.youtube.com/watch?v=h9va5LGPH1w&t=385.24s)]
+*  The WHO says intense policing and surveillance networks helped contain the spread of the virus, [[00:06:31](https://www.youtube.com/watch?v=h9va5LGPH1w&t=391.24s)]
+*  but those measures were extreme and most unlikely to work in much of the world. [[00:06:36](https://www.youtube.com/watch?v=h9va5LGPH1w&t=396.6s)]
+*  For these kinds of draconian measures to be imposed on a Western democracy is absolutely shocking. [[00:06:40](https://www.youtube.com/watch?v=h9va5LGPH1w&t=400.68s)]
+*  People could not believe what was happening. [[00:06:50](https://www.youtube.com/watch?v=h9va5LGPH1w&t=410.68s)]
+*  But as the pandemic is progressing, more European countries and U.S. states are replicating some of [[00:06:56](https://www.youtube.com/watch?v=h9va5LGPH1w&t=416.28000000000003s)]
+*  the strict measures seen in Italy and even China. Although it seems unthinkable when all this [[00:07:01](https://www.youtube.com/watch?v=h9va5LGPH1w&t=421.8s)]
+*  started, by and large people have understood why these restrictions are necessary, because [[00:07:08](https://www.youtube.com/watch?v=h9va5LGPH1w&t=428.2s)]
+*  the infections were just simply out of control. But who knows how long they're going to put up with it. [[00:07:14](https://www.youtube.com/watch?v=h9va5LGPH1w&t=434.44s)]
