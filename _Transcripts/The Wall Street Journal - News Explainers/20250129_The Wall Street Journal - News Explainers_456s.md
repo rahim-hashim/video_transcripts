@@ -1,0 +1,131 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 456s
+Video Keywords: ['tulsi gabbard', 'tulsi gabbard confirmation hearing', 'bashar al assad', 'syria', 'president trump', 'trump news', 'trump cabinet picks', 'tulsi gabbard syria visit', 'tulsi gabbard news', 'tulsi gabbard syria', 'gabbard', 'tulsi gabbard assad meeting', 'tulsi gabbard assad syria', 'syria news', 'assad out', 'assad regime', 'tulsi gabbard nomination', 'fbi', 'cia', 'congressional filings', 'U.S. intelligence', 'aleppo', 'damascus', 'House Committee on Ethics', 'First Lady Asma al-Assad', 'foreign policy', 'Walid al-Moallem', 'usnews']
+Video Views: 117885
+Video Rating: None
+Video Description: Ahead of her U.S. Senate confirmation hearing for director of national intelligence, Tulsi Gabbard is facing renewed scrutiny over an unannounced trip to Syria where she met with the now-deposed dictator Bashar al-Assad twice. Gabbard is President Donald Trump’s pick to oversee 18 intelligence agencies—including the FBI and CIA—with a $100 billion spy budget.
+
+WSJ explores what the documents—and the meeting they reveal—say about Gabbard’s approach to U.S. intelligence and foreign threats. 
+
+Chapters:
+0:00 Trump’s pick to be director of national intelligence 
+0:51 Gabbard’s Syria trip
+3:04 Gabbard’s reaction to visit
+4:19 Gabbard’s views on Syria and legislation
+6:40 DNI role
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Gabbard #Trump #WSJ
+---
+
+# Trump’s Intelligence Pick Tulsi Gabbard Secretly Met Assad: What We Know | WSJ
+**The Wall Street Journal - News Explainers:** [January 29, 2025](https://www.youtube.com/watch?v=bmk9b7HXBzY)
+*  Thank you very much, Mr. President. [[00:00:00](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=0.0s)]
+*  President Donald Trump's pick to oversee 18 intelligence agencies, [[00:00:02](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=2.0s)]
+*  including the FBI and CIA, is facing renewed scrutiny [[00:00:05](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=5.64s)]
+*  over an unannounced trip to Syria in 2017. [[00:00:09](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=9.52s)]
+*  The Wall Street Journal reviewed congressional filings and travel itineraries [[00:00:13](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=13.16s)]
+*  that detailed two meetings Tulsi Gabbard had with then-President Bashar al-Assad. [[00:00:17](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=17.0s)]
+*  The previously undisclosed visit with the dictator raised alarms when it came to light. [[00:00:21](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=21.76s)]
+*  Talk to me, how do you explain your meeting with Assad to skeptical senators? [[00:00:26](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=26.16s)]
+*  Critics say the meetings reflect a pattern of her questioning U.S. intelligence [[00:00:29](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=29.72s)]
+*  and embracing Washington's adversaries, [[00:00:33](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=33.84s)]
+*  while supporters argue that her positions represent an anti-war, non-interventionist perspective. [[00:00:36](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=36.519999999999996s)]
+*  Here's what the documents and the meetings they reveal [[00:00:42](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=42.72s)]
+*  indicate about the nominee's approach to U.S. intelligence and foreign threats. [[00:00:45](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=45.480000000000004s)]
+*  Gabbard's trip came on the heels of Assad and his Russian backers retaking the city of Aleppo. [[00:00:51](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=51.92s)]
+*  It had been the last major rebel stronghold in the country's nearly six-year civil war. [[00:00:57](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=57.04s)]
+*  The loss was a strategic blow to the numerous factions in the conflict, [[00:01:02](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=62.6s)]
+*  which included a mix of foreign back groups, secular-leaning rebels, and U.S.-designated terrorists. [[00:01:06](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=66.44s)]
+*  By the time Gabbard left for Syria in 2017, [[00:01:13](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=73.24s)]
+*  more than 135,000 civilians had been killed in the uprising, [[00:01:16](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=76.6s)]
+*  according to the Syrian Observatory for Human Rights, [[00:01:20](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=80.64s)]
+*  and the consequences of Assad's crackdown had caught the world's attention. [[00:01:23](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=83.48s)]
+*  Congressional disclosure forms submitted by Gabbard's office after her return from Syria [[00:01:29](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=89.12s)]
+*  included two itineraries. [[00:01:33](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=93.48s)]
+*  A proposed itinerary, which was approved by the House Committee on Ethics before she left, [[00:01:35](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=95.36s)]
+*  has no mention of Assad. [[00:01:39](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=99.68s)]
+*  The final itinerary says it reflects more meetings than the proposed itinerary. [[00:01:41](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=101.52000000000001s)]
+*  This final itinerary shows that a meeting with Assad came 45 minutes [[00:01:46](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=106.4s)]
+*  after Gabbard arrived in Damascus from Beirut and lasted about an hour and a half. [[00:01:51](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=111.24s)]
+*  The document says Gabbard then had a one-hour meeting with First Lady Asma al-Assad, [[00:01:56](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=116.56s)]
+*  a London-born Syrian banker who had been under international sanctions since 2012 [[00:02:01](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=121.24s)]
+*  because of her ties to the regime. [[00:02:05](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=125.88s)]
+*  The next day, video shot by Gabbard's spouse shows the congresswoman touring Aleppo, [[00:02:08](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=128.24s)]
+*  where she met with humanitarian workers and religious leaders. [[00:02:13](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=133.12s)]
+*  Gabbard later said that they called for peace and an end to foreign support of terrorists [[00:02:16](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=136.76s)]
+*  who were trying to rid Syria of its secular, pluralistic, free society. [[00:02:21](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=141.35999999999999s)]
+*  We are not having rebels. [[00:02:25](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=145.56s)]
+*  We have terrorists. [[00:02:27](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=147.51999999999998s)]
+*  The day after that, documents show Gabbard met with Walid al-Muallim, [[00:02:29](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=149.84s)]
+*  the country's foreign minister who had previously accused the U.S. and its allies [[00:02:33](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=153.28s)]
+*  of supporting terrorist groups seeking to destabilize the Assad regime. [[00:02:37](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=157.35999999999999s)]
+*  Immediately after, Gabbard met again with the Syrian president. [[00:02:41](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=161.76s)]
+*  On the final day in Syria, the itinerary shows a one-and-a-half-hour meeting [[00:02:45](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=165.95999999999998s)]
+*  with Syrian political opposition leaders, [[00:02:50](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=170.0s)]
+*  some of whom Gabbard said led protests against the Assad regime [[00:02:52](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=172.48s)]
+*  at the beginning of the conflict in 2011. [[00:02:55](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=175.56s)]
+*  A Trump administration spokesperson did not respond to a request for comment. [[00:02:59](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=179.23999999999998s)]
+*  During an interview days after the trip, the congresswoman discussed her reason for the visit, [[00:03:04](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=184.44s)]
+*  which she'd previously described as a fact-finding trip organized by peace advocates. [[00:03:08](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=188.76s)]
+*  I wanted to see if there was, in some small way, [[00:03:13](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=193.72s)]
+*  a way that I could express the love and the aloha and the care that the American people have [[00:03:17](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=197.92000000000002s)]
+*  for the people of Syria and to see firsthand what was happening there, [[00:03:23](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=203.08s)]
+*  to see that situation there. [[00:03:27](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=207.6s)]
+*  The final itinerary showing her meeting with Assad less than an hour after her arrival in Damascus states, [[00:03:29](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=209.88s)]
+*  as similar to the original submission approved by the House Committee on Ethics on January 12, 2017, [[00:03:36](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=216.4s)]
+*  this trip to the Middle East consisted of travel within Lebanon and Syria. [[00:03:42](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=222.35999999999999s)]
+*  The final itinerary reflects changes due to the rapidly shifting environment in Syria and Lebanon [[00:03:46](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=226.23999999999998s)]
+*  and due to our desire to meet as many individuals and groups within Syria and Lebanon. [[00:03:51](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=231.28s)]
+*  Initially, I hadn't planned on meeting him. [[00:03:56](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=236.72s)]
+*  When the opportunity arose to meet with him, I did so because I felt it's important [[00:03:59](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=239.16s)]
+*  that if we profess to truly care about the Syrian people, about their suffering, [[00:04:04](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=244.79999999999998s)]
+*  then we've got to be able to meet with anyone that we need to [[00:04:09](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=249.52s)]
+*  if there is a possibility that we could achieve peace. [[00:04:13](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=253.8s)]
+*  And that's exactly what we talked about. [[00:04:17](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=257.08s)]
+*  Gabbard says her foreign policy views have been shaped by her experience [[00:04:20](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=260.04s)]
+*  as an Army Reserve Lieutenant Colonel who served in Iraq. [[00:04:23](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=263.40000000000003s)]
+*  In 2013, she questioned U.S. policy on Syria when President Obama sought congressional authorization [[00:04:26](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=266.96000000000004s)]
+*  for a military strike in the country. [[00:04:32](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=272.6s)]
+*  The administration said it knew, based on U.S. intelligence, [[00:04:34](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=274.68s)]
+*  that the Assad regime had planned a chemical weapons attack that killed more than 1,400 people, [[00:04:37](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=277.6s)]
+*  including more than 400 children. [[00:04:42](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=282.92s)]
+*  Young girls and boys gassed to death by their own government. [[00:04:45](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=285.48s)]
+*  This attack is an assault on human dignity. [[00:04:50](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=290.88s)]
+*  It also presents a serious danger to our national security. [[00:04:55](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=295.16s)]
+*  The attack came despite Obama's 2012 warning that movement or use of chemical weapons [[00:04:59](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=299.32000000000005s)]
+*  would constitute a, quote, red line. [[00:05:04](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=304.48s)]
+*  In the years that followed, Gabbard introduced bills aimed at preventing U.S. support [[00:05:07](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=307.16s)]
+*  from reaching Syrian opposition groups. [[00:05:11](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=311.20000000000005s)]
+*  By helping groups fighting to overthrow Assad, we're essentially helping ISIS and al-Qaeda [[00:05:13](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=313.8s)]
+*  achieve their objective of taking over all of Syria. [[00:05:18](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=318.24s)]
+*  Less than three months after her trip to Syria, Gabbard said she was, quote, [[00:05:22](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=322.52000000000004s)]
+*  skeptical when the Trump administration found that Assad launched a chemical attack on civilians. [[00:05:26](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=326.52000000000004s)]
+*  Including women, small children, and even beautiful little babies. [[00:05:32](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=332.32s)]
+*  Their deaths was an affront to humanity. [[00:05:40](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=340.76s)]
+*  President Trump ordered a military strike against a Syrian air base in what the Pentagon [[00:05:46](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=346.64s)]
+*  called a proportional response to the attack. [[00:05:51](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=351.03999999999996s)]
+*  These heinous actions by the Assad regime cannot be tolerated. [[00:05:54](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=354.44s)]
+*  Gabbard criticized the strikes as reckless and short-sighted. [[00:06:01](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=361.44s)]
+*  A month before meeting Assad, she proposed the Stop Arming Terrorists Act, a bill she [[00:06:06](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=366.35999999999996s)]
+*  said would achieve this objective by, [[00:06:11](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=371.23999999999995s)]
+*  making it illegal for any U.S. federal government funds to be used to provide assistance to [[00:06:13](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=373.52s)]
+*  terrorists or to any nation that has given or continues to give assistance to terrorists, [[00:06:18](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=378.0s)]
+*  and requiring the Director of National Intelligence to determine the individual and groups that [[00:06:24](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=384.0s)]
+*  should be considered terrorists. [[00:06:28](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=388.56s)]
+*  Our limited resources should go toward rebuilding our communities here at home, not fueling [[00:06:30](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=390.88s)]
+*  more counterproductive regime change wars abroad. [[00:06:36](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=396.44s)]
+*  If confirmed by the Senate, Gabbard's powers as Director of National Intelligence would [[00:06:40](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=400.48s)]
+*  include exercising authority over the $100 billion annual U.S. spy budget, and briefing [[00:06:44](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=404.72s)]
+*  Trump on the most sensitive U.S. secrets in the president's daily brief. [[00:06:50](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=410.44s)]
+*  Trump's work now includes deciding what U.S. involvement in Syria will look like going [[00:06:55](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=415.04s)]
+*  forward. [[00:07:00](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=420.0s)]
+*  As Assad's regime was collapsing, he declared, this is not our fight. [[00:07:01](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=421.24s)]
+*  It's one of the many reasons why I appreciate President Trump's leadership and his election [[00:07:05](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=425.24s)]
+*  where he is fully committed, as he has said over and over, to bringing about an end to [[00:07:10](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=430.28s)]
+*  wars, demonstrating peace through strength, and putting the national security interests [[00:07:14](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=434.84s)]
+*  and the safety, security, and freedom of the American people first and foremost. [[00:07:20](https://www.youtube.com/watch?v=bmk9b7HXBzY&t=440.79999999999995s)]

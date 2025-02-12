@@ -1,0 +1,72 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 327s
+Video Keywords: ['kfar aza', 'israel', 'wsj', 'wsj interview', 'kibbutz', 'kibbutz survivor', 'israel news', 'hamas news', 'hamas attack', 'safe room', 'explosions', 'hamas', 'gaza strip', 'gaza', 'palestine', 'palestine and israel', 'israel gaza', 'israel war', 'survivor tells story', 'israeli conflict', 'dafna rousso', 'uri rousso', 'hiding with daughters', 'rural living', 'husband fought hamas', 'hamas attacks', 'Hamas militants', 'arabic', 'hamas shooting', 'daughters', 'mechanic', 'family life', 'protect community', 'small town living', 'fortified room', 'wonews']
+Video Views: 730485
+Video Rating: None
+Video Description: After Hamas fighters attacked Israel’s Kfar Aza kibbutz, Uri Rousso died trying to protect his community. His wife Dafna and their three daughters hid in a safe room for 18 hours, not knowing if he was alive. She shares their story with WSJ. 
+
+#Israel #Hamas #WSJ
+---
+
+# Kibbutz Survivor Recounts Hiding With Daughters as Husband Fought Hamas | WSJ
+**The Wall Street Journal - Israel Hamas:** [October 22, 2023](https://www.youtube.com/watch?v=gIReYFMUs1s)
+*  I was born and raised in Kfar Aza. [[00:00:00](https://www.youtube.com/watch?v=gIReYFMUs1s&t=0.0s)]
+*  It's a beautiful place. [[00:00:12](https://www.youtube.com/watch?v=gIReYFMUs1s&t=12.64s)]
+*  There's grass, it's open, and good people. [[00:00:13](https://www.youtube.com/watch?v=gIReYFMUs1s&t=13.64s)]
+*  Uri and I got married in 2007. [[00:00:18](https://www.youtube.com/watch?v=gIReYFMUs1s&t=18.72s)]
+*  We have three daughters, Maya, Alona, and Liela, 13, 11, and 9. [[00:00:23](https://www.youtube.com/watch?v=gIReYFMUs1s&t=23.48s)]
+*  Uri is a mechanical engineer. [[00:00:29](https://www.youtube.com/watch?v=gIReYFMUs1s&t=29.44s)]
+*  We're good people. [[00:00:33](https://www.youtube.com/watch?v=gIReYFMUs1s&t=33.0s)]
+*  We wanted peace. [[00:00:34](https://www.youtube.com/watch?v=gIReYFMUs1s&t=34.0s)]
+*  We did everything for that. [[00:00:35](https://www.youtube.com/watch?v=gIReYFMUs1s&t=35.0s)]
+*  We were always waiting for something to happen. [[00:00:48](https://www.youtube.com/watch?v=gIReYFMUs1s&t=48.0s)]
+*  It's like something you feel in the air. [[00:00:50](https://www.youtube.com/watch?v=gIReYFMUs1s&t=50.120000000000005s)]
+*  We had a routine already because we knew how to cope with this escalation. [[00:00:53](https://www.youtube.com/watch?v=gIReYFMUs1s&t=53.2s)]
+*  It's okay. [[00:00:57](https://www.youtube.com/watch?v=gIReYFMUs1s&t=57.44s)]
+*  What we met on this terrible, horrific Saturday was a horror movie. [[00:00:58](https://www.youtube.com/watch?v=gIReYFMUs1s&t=58.44s)]
+*  It was something new. [[00:01:06](https://www.youtube.com/watch?v=gIReYFMUs1s&t=66.56s)]
+*  At around half past six in the morning, we started hearing shooting. [[00:01:08](https://www.youtube.com/watch?v=gIReYFMUs1s&t=68.96s)]
+*  We say, okay, it's an escalation. [[00:01:15](https://www.youtube.com/watch?v=gIReYFMUs1s&t=75.32s)]
+*  Something's going on. [[00:01:17](https://www.youtube.com/watch?v=gIReYFMUs1s&t=77.68s)]
+*  Fine, we'll go to the fortified rooms. [[00:01:18](https://www.youtube.com/watch?v=gIReYFMUs1s&t=78.68s)]
+*  And Uri and our dog would sit there for just, I don't know, maybe it was one second. [[00:01:21](https://www.youtube.com/watch?v=gIReYFMUs1s&t=81.32s)]
+*  And I sit with the girls and, okay, we know what to do. [[00:01:28](https://www.youtube.com/watch?v=gIReYFMUs1s&t=88.0s)]
+*  We started hearing shooting. [[00:01:32](https://www.youtube.com/watch?v=gIReYFMUs1s&t=92.8s)]
+*  We heard Arabic. [[00:01:35](https://www.youtube.com/watch?v=gIReYFMUs1s&t=95.68s)]
+*  So I realized something different is happening. [[00:01:38](https://www.youtube.com/watch?v=gIReYFMUs1s&t=98.4s)]
+*  And I know Uri realized the same. [[00:01:41](https://www.youtube.com/watch?v=gIReYFMUs1s&t=101.2s)]
+*  He started getting messages saying, this is not a drill, it's real. [[00:01:44](https://www.youtube.com/watch?v=gIReYFMUs1s&t=104.28s)]
+*  He went to our bedroom, changed his shirt, took his personal weapon and left. [[00:01:53](https://www.youtube.com/watch?v=gIReYFMUs1s&t=113.6s)]
+*  I'm not sure he put any shoes. [[00:01:58](https://www.youtube.com/watch?v=gIReYFMUs1s&t=118.0s)]
+*  We hear the door close. [[00:02:02](https://www.youtube.com/watch?v=gIReYFMUs1s&t=122.16s)]
+*  And the girls ask me, did dad go? [[00:02:06](https://www.youtube.com/watch?v=gIReYFMUs1s&t=126.03999999999999s)]
+*  And I say, no, dad's not going without saying goodbye. [[00:02:08](https://www.youtube.com/watch?v=gIReYFMUs1s&t=128.88s)]
+*  And I write him a message straight away, why did you go without saying goodbye? [[00:02:12](https://www.youtube.com/watch?v=gIReYFMUs1s&t=132.32s)]
+*  But he left. [[00:02:16](https://www.youtube.com/watch?v=gIReYFMUs1s&t=136.2s)]
+*  He rode on his bike straight to the weaponry to take another weapon. [[00:02:18](https://www.youtube.com/watch?v=gIReYFMUs1s&t=138.12s)]
+*  And I stayed with the girls, with the girls in the fortified room. [[00:02:24](https://www.youtube.com/watch?v=gIReYFMUs1s&t=144.28s)]
+*  Till that point, I thought maybe the army was around me taking care of us, maybe, I [[00:02:28](https://www.youtube.com/watch?v=gIReYFMUs1s&t=148.4s)]
+*  don't know. [[00:02:34](https://www.youtube.com/watch?v=gIReYFMUs1s&t=154.4s)]
+*  But I realized they weren't. [[00:02:35](https://www.youtube.com/watch?v=gIReYFMUs1s&t=155.4s)]
+*  So I think I realized something was very wrong because it wasn't answering my messages at [[00:02:37](https://www.youtube.com/watch?v=gIReYFMUs1s&t=157.8s)]
+*  all. [[00:02:44](https://www.youtube.com/watch?v=gIReYFMUs1s&t=164.20000000000002s)]
+*  All we hear is shooting, red code alerts, bombs going off. [[00:02:46](https://www.youtube.com/watch?v=gIReYFMUs1s&t=166.2s)]
+*  Like this is the soundtrack when we're in this room. [[00:02:51](https://www.youtube.com/watch?v=gIReYFMUs1s&t=171.95999999999998s)]
+*  I didn't realize, I still didn't understand that they were killing all of us. [[00:02:56](https://www.youtube.com/watch?v=gIReYFMUs1s&t=176.44s)]
+*  Everybody, they were contacting me to tell me what's going on, where is Uri, what do [[00:03:09](https://www.youtube.com/watch?v=gIReYFMUs1s&t=189.16s)]
+*  you need? [[00:03:15](https://www.youtube.com/watch?v=gIReYFMUs1s&t=195.0s)]
+*  And the only thing I need is to find Uri, please find Uri. [[00:03:16](https://www.youtube.com/watch?v=gIReYFMUs1s&t=196.0s)]
+*  I think around midnight, the army came. [[00:03:31](https://www.youtube.com/watch?v=gIReYFMUs1s&t=211.84s)]
+*  They evacuated us, we walked, ran, walked with the army. [[00:03:35](https://www.youtube.com/watch?v=gIReYFMUs1s&t=215.44s)]
+*  It was night, so I can't say I saw a lot of bodies, but I saw some on the way to the [[00:03:42](https://www.youtube.com/watch?v=gIReYFMUs1s&t=222.51999999999998s)]
+*  gas stations and I made sure the girls don't look. [[00:03:46](https://www.youtube.com/watch?v=gIReYFMUs1s&t=226.95999999999998s)]
+*  I think a part of me knew. [[00:03:55](https://www.youtube.com/watch?v=gIReYFMUs1s&t=235.67999999999998s)]
+*  I realized. [[00:03:57](https://www.youtube.com/watch?v=gIReYFMUs1s&t=237.95999999999998s)]
+*  I realized he would call me, he would contact me. [[00:04:01](https://www.youtube.com/watch?v=gIReYFMUs1s&t=241.76s)]
+*  We buried him next to where his parents live. [[00:04:12](https://www.youtube.com/watch?v=gIReYFMUs1s&t=252.48s)]
+*  For me, I know Uri was a hero because I know I married a hero. [[00:04:43](https://www.youtube.com/watch?v=gIReYFMUs1s&t=283.48s)]
+*  What we had on this Saturday is unacceptable. [[00:04:52](https://www.youtube.com/watch?v=gIReYFMUs1s&t=292.48s)]
+*  Too many people died waiting to be rescued. [[00:05:06](https://www.youtube.com/watch?v=gIReYFMUs1s&t=306.48s)]
+*  We're all going to have to live with that. [[00:05:10](https://www.youtube.com/watch?v=gIReYFMUs1s&t=310.48s)]

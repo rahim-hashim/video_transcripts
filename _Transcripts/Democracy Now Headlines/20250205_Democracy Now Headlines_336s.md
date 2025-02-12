@@ -1,0 +1,90 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 336s
+Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
+Video Views: 17931
+Video Rating: None
+Video Description: Support our work: https://democracynow.org/donate/sm-desc-yt
+
+As President Trump continues to sign new executive orders attacking transgender people and their rights, we hear voices of protest from New York, where hundreds of people rallied Monday outside NYU Langone Hospital in Manhattan to demand it continue providing gender-affirming care for trans patients, after news that some patients had been dropped by the hospital. This comes after the Trump administration signed an order withholding federal research and education grants from hospitals that offer gender-affirming care to transgender people under 19.
+
+Democracy Now! is an independent global news hour that airs on over 1,500 TV and radio stations Monday through Friday. Watch our livestream at democracynow.org Mondays to Fridays 8-9 a.m. ET.
+
+Subscribe to our Daily Email Digest: https://democracynow.org/subscribe
+---
+
+# "Catastrophic": Trans Youth Lose Access to Care as Hospitals Capitulate to Trump Attacks
+**Democracy Now Headlines:** [February 05, 2025](https://www.youtube.com/watch?v=qXA4sVyPn98)
+*  This is Democracy Now!, democracynow.org, The War and Peace Report. [[00:00:00](https://www.youtube.com/watch?v=qXA4sVyPn98&t=0.0s)]
+*  I'm Amy Goodman, with Juan González. [[00:00:04](https://www.youtube.com/watch?v=qXA4sVyPn98&t=4.32s)]
+*  Since taking office, President Trump signed a slew of executive orders attacking transgender [[00:00:06](https://www.youtube.com/watch?v=qXA4sVyPn98&t=6.5200000000000005s)]
+*  people and their rights. [[00:00:11](https://www.youtube.com/watch?v=qXA4sVyPn98&t=11.84s)]
+*  Today, we look at a key order that's being challenged by doctors, lawyers and trans activists [[00:00:13](https://www.youtube.com/watch?v=qXA4sVyPn98&t=13.16s)]
+*  and their allies. [[00:00:18](https://www.youtube.com/watch?v=qXA4sVyPn98&t=18.44s)]
+*  Last week, Trump signed an executive order to withhold federal research and education [[00:00:20](https://www.youtube.com/watch?v=qXA4sVyPn98&t=20.080000000000002s)]
+*  hospitals that offer gender-affirming care to transgender youth. [[00:00:25](https://www.youtube.com/watch?v=qXA4sVyPn98&t=25.12s)]
+*  Major hospitals across the United States then announced they'll stop providing such treatments. [[00:00:30](https://www.youtube.com/watch?v=qXA4sVyPn98&t=30.8s)]
+*  Others, such as the New York City Hospital Network, NYU Langone, tried to quietly cancel [[00:00:36](https://www.youtube.com/watch?v=qXA4sVyPn98&t=36.32s)]
+*  appointments. [[00:00:42](https://www.youtube.com/watch?v=qXA4sVyPn98&t=42.24s)]
+*  But on Monday, as the White House released a statement claiming the order was, quote, [[00:00:43](https://www.youtube.com/watch?v=qXA4sVyPn98&t=43.84s)]
+*  already having its intended effect, New York Attorney General Letitia James responded by [[00:00:47](https://www.youtube.com/watch?v=qXA4sVyPn98&t=47.32s)]
+*  warning hospitals they will be in violation of New York State anti-discrimination laws [[00:00:52](https://www.youtube.com/watch?v=qXA4sVyPn98&t=52.3s)]
+*  if they stop offering this care. [[00:00:58](https://www.youtube.com/watch?v=qXA4sVyPn98&t=58.339999999999996s)]
+*  This comes as the American Civil Liberties Union, Lambda Legal and others filed a lawsuit [[00:01:01](https://www.youtube.com/watch?v=qXA4sVyPn98&t=61.099999999999994s)]
+*  Tuesday on behalf of transgender youth who say the order is depriving them of medical [[00:01:05](https://www.youtube.com/watch?v=qXA4sVyPn98&t=65.12s)]
+*  care, quote, solely on the basis of their sex and transgender status, unquote. [[00:01:09](https://www.youtube.com/watch?v=qXA4sVyPn98&t=69.02s)]
+*  In a minute, we'll speak with the ACLU attorney Chase Strangio and with the doctor who says [[00:01:14](https://www.youtube.com/watch?v=qXA4sVyPn98&t=74.86s)]
+*  Hill was willing to go to jail to continue to provide transgender health care. [[00:01:18](https://www.youtube.com/watch?v=qXA4sVyPn98&t=78.96s)]
+*  But first, on Monday, here in New York, trans youth and their families were joined by elected [[00:01:24](https://www.youtube.com/watch?v=qXA4sVyPn98&t=84.39999999999999s)]
+*  officials, medical professionals, NYU workers and trans activists at a rally to demand the [[00:01:29](https://www.youtube.com/watch?v=qXA4sVyPn98&t=89.32s)]
+*  NYU Langone Hospital Network ensure gender-affirming care for trans patients. [[00:01:35](https://www.youtube.com/watch?v=qXA4sVyPn98&t=95.11999999999999s)]
+*  These are some of their voices. [[00:01:41](https://www.youtube.com/watch?v=qXA4sVyPn98&t=101.11999999999999s)]
+*  I'm Lorelei Kreen. [[00:01:42](https://www.youtube.com/watch?v=qXA4sVyPn98&t=102.44s)]
+*  I'm a trans kid. [[00:01:43](https://www.youtube.com/watch?v=qXA4sVyPn98&t=103.44s)]
+*  And it's amazing to be surrounded by people who are fighting for my rights. [[00:01:45](https://www.youtube.com/watch?v=qXA4sVyPn98&t=105.44s)]
+*  Even if it's a... [[00:01:49](https://www.youtube.com/watch?v=qXA4sVyPn98&t=109.44s)]
+*  I have been stripped of my rights again with NYU Langone denying access to life-saving [[00:01:56](https://www.youtube.com/watch?v=qXA4sVyPn98&t=116.44s)]
+*  gender-affirming care to trans kids like me. [[00:02:00](https://www.youtube.com/watch?v=qXA4sVyPn98&t=120.44s)]
+*  I came here straight from school and when I walked into first period, which was algebra, [[00:02:06](https://www.youtube.com/watch?v=qXA4sVyPn98&t=126.44s)]
+*  everyone asked why I had a megaphone with me, which I'm not even using because I'm using [[00:02:10](https://www.youtube.com/watch?v=qXA4sVyPn98&t=130.44s)]
+*  a mic now. [[00:02:14](https://www.youtube.com/watch?v=qXA4sVyPn98&t=134.44s)]
+*  I told them that I was coming to the protest because NYU Langone had stopped providing [[00:02:17](https://www.youtube.com/watch?v=qXA4sVyPn98&t=137.44s)]
+*  gender-affirming care to minors. [[00:02:22](https://www.youtube.com/watch?v=qXA4sVyPn98&t=142.44s)]
+*  My friend hadn't heard the news yet and she started freaking out, telling me that she [[00:02:24](https://www.youtube.com/watch?v=qXA4sVyPn98&t=144.44s)]
+*  had an appointment there, scheduled for a month from now, and asking me if that would [[00:02:27](https://www.youtube.com/watch?v=qXA4sVyPn98&t=147.44s)]
+*  still happen. [[00:02:32](https://www.youtube.com/watch?v=qXA4sVyPn98&t=152.44s)]
+*  I told them that I don't know. [[00:02:33](https://www.youtube.com/watch?v=qXA4sVyPn98&t=153.44s)]
+*  But we're here today demanding that it will. [[00:02:34](https://www.youtube.com/watch?v=qXA4sVyPn98&t=154.44s)]
+*  I'm Cynthia Nixon. [[00:02:41](https://www.youtube.com/watch?v=qXA4sVyPn98&t=161.44s)]
+*  And I'm here as a lifelong New Yorker. [[00:02:45](https://www.youtube.com/watch?v=qXA4sVyPn98&t=165.44s)]
+*  And I'm here as a person who loves my city and my state. [[00:02:49](https://www.youtube.com/watch?v=qXA4sVyPn98&t=169.44s)]
+*  And I am here as actually a resident of Kips Bay. [[00:02:54](https://www.youtube.com/watch?v=qXA4sVyPn98&t=174.44s)]
+*  I live just a few blocks over there. [[00:02:57](https://www.youtube.com/watch?v=qXA4sVyPn98&t=177.44s)]
+*  And NYU is my hospital. [[00:03:00](https://www.youtube.com/watch?v=qXA4sVyPn98&t=180.44s)]
+*  Most importantly, I am here today as the mother of a proud trans man. [[00:03:04](https://www.youtube.com/watch?v=qXA4sVyPn98&t=184.44s)]
+*  I am here today as the aunt of a proud trans man. [[00:03:16](https://www.youtube.com/watch?v=qXA4sVyPn98&t=196.44s)]
+*  My best friend's kid is trans. [[00:03:23](https://www.youtube.com/watch?v=qXA4sVyPn98&t=203.44s)]
+*  And my kid's best friend is trans. [[00:03:26](https://www.youtube.com/watch?v=qXA4sVyPn98&t=206.44s)]
+*  My wife and I, our lives are filled with the most amazing, beautiful, brave trans people, [[00:03:31](https://www.youtube.com/watch?v=qXA4sVyPn98&t=211.44s)]
+*  young and old, but especially young. [[00:03:40](https://www.youtube.com/watch?v=qXA4sVyPn98&t=220.44s)]
+*  My trans kid had his top surgery at NYU a number of years ago. [[00:03:48](https://www.youtube.com/watch?v=qXA4sVyPn98&t=228.44s)]
+*  His doctors were fantastic. [[00:03:56](https://www.youtube.com/watch?v=qXA4sVyPn98&t=236.44s)]
+*  His surgeon was the best we could have imagined. [[00:04:01](https://www.youtube.com/watch?v=qXA4sVyPn98&t=241.44s)]
+*  And the idea that the city is filled with young people who thought they had a place [[00:04:05](https://www.youtube.com/watch?v=qXA4sVyPn98&t=245.44s)]
+*  to go where they could receive the highest care, and that place has now been shut to [[00:04:14](https://www.youtube.com/watch?v=qXA4sVyPn98&t=254.44s)]
+*  them, sickens me. [[00:04:19](https://www.youtube.com/watch?v=qXA4sVyPn98&t=259.44s)]
+*  Sickens me to my core. [[00:04:20](https://www.youtube.com/watch?v=qXA4sVyPn98&t=260.44s)]
+*  My name is Freya. [[00:04:24](https://www.youtube.com/watch?v=qXA4sVyPn98&t=264.44s)]
+*  I am 16 years old. [[00:04:27](https://www.youtube.com/watch?v=qXA4sVyPn98&t=267.44s)]
+*  I have been on estrogen since I was 14, and I know that I'm very privileged to be able [[00:04:33](https://www.youtube.com/watch?v=qXA4sVyPn98&t=273.44s)]
+*  to say that. [[00:04:39](https://www.youtube.com/watch?v=qXA4sVyPn98&t=279.44s)]
+*  But in the same breath, I can say that I am scared for myself, for my own health care, [[00:04:40](https://www.youtube.com/watch?v=qXA4sVyPn98&t=280.44s)]
+*  and for all of the other people like me. [[00:04:46](https://www.youtube.com/watch?v=qXA4sVyPn98&t=286.44s)]
+*  And I have one message to my kinfolk, because that's what we are. [[00:04:50](https://www.youtube.com/watch?v=qXA4sVyPn98&t=290.44s)]
+*  All the people who are here and are like me and are showing up, willing to fight for our [[00:04:55](https://www.youtube.com/watch?v=qXA4sVyPn98&t=295.44s)]
+*  own rights or the rights of the people that we love and care about, don't let them win. [[00:05:01](https://www.youtube.com/watch?v=qXA4sVyPn98&t=301.44s)]
+*  Some of the voices at the rally Monday calling on the NYU Langone Hospital Network to continue [[00:05:08](https://www.youtube.com/watch?v=qXA4sVyPn98&t=308.44s)]
+*  to restore gender-affirming care to transgender youth after canceling appointments for transgender [[00:05:14](https://www.youtube.com/watch?v=qXA4sVyPn98&t=314.44s)]
+*  children following Trump's executive order. [[00:05:19](https://www.youtube.com/watch?v=qXA4sVyPn98&t=319.44s)]
+*  Thanks to NYC-DSA for the video. [[00:05:22](https://www.youtube.com/watch?v=qXA4sVyPn98&t=322.44s)]

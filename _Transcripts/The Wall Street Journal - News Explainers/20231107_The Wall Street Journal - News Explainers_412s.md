@@ -1,0 +1,127 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 412s
+Video Keywords: ['fifth circuit court of appeals', '5th circuit', '5th circuit court', 'fifth circuit', '5th circuit court of appeals', 'scotus', 'supreme court', 'supreme court system', 'the fifth circuit', 'u.s. court of appeals', 'conservative court', 'judicial system', 'legal cases', 'legal controversies', 'affordable care act', 'abortion pill', 'cfpb', 'lower courts', 'court system', 'appeals court', 'bipartisanship', 'politics', 'political news', 'conservative judges', 'senate', 'senator news', 'attorney general', 'abortion pill case', 'usnews']
+Video Views: 170204
+Video Rating: None
+Video Description: The Supreme Court has some really controversial cases on its docket —including whether domestic abusers should have access to guns and whether the abortion pill should be legal. They all came from one lower court: the Fifth Circuit. 
+
+WSJ explains how the U.S. Court of Appeals for the Fifth Circuit became the go-to place for controversial cases in the U.S.
+
+Chapters:
+0:00 U.S. Court of Appeals for the 5th Circuit
+1:07 The judges on the 5th Circuit
+3:18 Controversial cases
+5:53 The U.S. legal system
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+ #SupremeCourt #SCOTUS #WSJ
+---
+
+# The Court That’s Sometimes Too Extreme for the Supreme Court | WSJ
+**The Wall Street Journal - News Explainers:** [November 07, 2023](https://www.youtube.com/watch?v=FbKG9XiMQng)
+*  The Supreme Court has a lot of controversial cases on its docket. [[00:00:00](https://www.youtube.com/watch?v=FbKG9XiMQng&t=0.0s)]
+*  Whether domestic abusers should have access to guns, whether the Consumer Financial Protection [[00:00:04](https://www.youtube.com/watch?v=FbKG9XiMQng&t=4.08s)]
+*  Bureau is constitutional, and if the abortion bill should be legal. [[00:00:08](https://www.youtube.com/watch?v=FbKG9XiMQng&t=8.4s)]
+*  All of these cases come from one lower court. [[00:00:12](https://www.youtube.com/watch?v=FbKG9XiMQng&t=12.68s)]
+*  The same one that also sent the court big cases about the Affordable Care Act and abortion. [[00:00:15](https://www.youtube.com/watch?v=FbKG9XiMQng&t=15.860000000000001s)]
+*  It's the U.S. Court of Appeals for the Fifth Circuit, arguably the most conservative appeals [[00:00:21](https://www.youtube.com/watch?v=FbKG9XiMQng&t=21.44s)]
+*  court in the country. [[00:00:26](https://www.youtube.com/watch?v=FbKG9XiMQng&t=26.04s)]
+*  And strangely, even though they're bringing a conservative Supreme Court conservative [[00:00:27](https://www.youtube.com/watch?v=FbKG9XiMQng&t=27.7s)]
+*  cases, their most pressing rulings are being overturned. [[00:00:32](https://www.youtube.com/watch?v=FbKG9XiMQng&t=32.14s)]
+*  A lot. [[00:00:35](https://www.youtube.com/watch?v=FbKG9XiMQng&t=35.46s)]
+*  You have case after case where the Fifth Circuit had done something that was too far to the [[00:00:36](https://www.youtube.com/watch?v=FbKG9XiMQng&t=36.46s)]
+*  right or too procedurally extreme, even for this Supreme Court. [[00:00:42](https://www.youtube.com/watch?v=FbKG9XiMQng&t=42.96s)]
+*  That's Stephen Vladek, a professor and legal scholar. [[00:00:48](https://www.youtube.com/watch?v=FbKG9XiMQng&t=48.3s)]
+*  The federal appeals courts are perhaps the most powerful institution that we spend the [[00:00:51](https://www.youtube.com/watch?v=FbKG9XiMQng&t=51.06s)]
+*  least time talking about in our public discourse. [[00:00:55](https://www.youtube.com/watch?v=FbKG9XiMQng&t=55.3s)]
+*  And he'll help us explain how the Fifth Circuit became the go-to place for controversial [[00:00:58](https://www.youtube.com/watch?v=FbKG9XiMQng&t=58.22s)]
+*  cases and why so many are making it to the Supreme Court. [[00:01:02](https://www.youtube.com/watch?v=FbKG9XiMQng&t=62.419999999999995s)]
+*  There are 12 appeals courts representing different parts of the country, and their judges, just [[00:01:07](https://www.youtube.com/watch?v=FbKG9XiMQng&t=67.82s)]
+*  like Supreme Court justices, are nominated by the president and confirmed by the Senate. [[00:01:12](https://www.youtube.com/watch?v=FbKG9XiMQng&t=72.34s)]
+*  That used to involve getting 60 votes and the approval of the senators from the state [[00:01:17](https://www.youtube.com/watch?v=FbKG9XiMQng&t=77.34s)]
+*  they'd be representing. [[00:01:21](https://www.youtube.com/watch?v=FbKG9XiMQng&t=81.5s)]
+*  So there was some bipartisanship needed. [[00:01:22](https://www.youtube.com/watch?v=FbKG9XiMQng&t=82.75999999999999s)]
+*  You had really this long period of time where most, not all, but most of the federal judges [[00:01:25](https://www.youtube.com/watch?v=FbKG9XiMQng&t=85.22s)]
+*  being confirmed by the Senate were, you know, maybe a little right of center, a little left [[00:01:31](https://www.youtube.com/watch?v=FbKG9XiMQng&t=91.62s)]
+*  of center, but pretty centrist. [[00:01:36](https://www.youtube.com/watch?v=FbKG9XiMQng&t=96.53999999999999s)]
+*  Today, not so much. [[00:01:38](https://www.youtube.com/watch?v=FbKG9XiMQng&t=98.98s)]
+*  For example, President Trump was able to appoint several judges to the Fifth Circuit who are [[00:01:41](https://www.youtube.com/watch?v=FbKG9XiMQng&t=101.14s)]
+*  different. [[00:01:45](https://www.youtube.com/watch?v=FbKG9XiMQng&t=105.14s)]
+*  The judges are, I think, on anyone's placement pretty far to the right. [[00:01:46](https://www.youtube.com/watch?v=FbKG9XiMQng&t=106.3s)]
+*  The Senate changed the rules, first in 2013, then more broadly in 2017, for judicial nominees [[00:01:51](https://www.youtube.com/watch?v=FbKG9XiMQng&t=111.86s)]
+*  to only need 50 votes for confirmation and removed the home state approval rule. [[00:01:57](https://www.youtube.com/watch?v=FbKG9XiMQng&t=117.42s)]
+*  So Trump's nominees no longer needed bipartisan support. [[00:02:02](https://www.youtube.com/watch?v=FbKG9XiMQng&t=122.26s)]
+*  You're seeing the sort of the norm for judicial confirmation be, you know, who is the most [[00:02:05](https://www.youtube.com/watch?v=FbKG9XiMQng&t=125.94s)]
+*  ideologically extreme person I can get through the Senate today. [[00:02:11](https://www.youtube.com/watch?v=FbKG9XiMQng&t=131.74s)]
+*  For obvious reasons, that changes the calculus for what kind of person you're looking for. [[00:02:17](https://www.youtube.com/watch?v=FbKG9XiMQng&t=137.86s)]
+*  So Trump nominated judges and justices who had extensive and controversial records. [[00:02:23](https://www.youtube.com/watch?v=FbKG9XiMQng&t=143.22000000000003s)]
+*  Unlike previous appeals court judges who typically had backgrounds in private practice or as [[00:02:29](https://www.youtube.com/watch?v=FbKG9XiMQng&t=149.06s)]
+*  judges in other courts, most of Trump's judges, at least in the Fifth Circuit, also had political [[00:02:33](https://www.youtube.com/watch?v=FbKG9XiMQng&t=153.66000000000003s)]
+*  backgrounds, either working for campaigns, the White House, or directly for the governor [[00:02:38](https://www.youtube.com/watch?v=FbKG9XiMQng&t=158.70000000000002s)]
+*  and attorney general they now hear cases from. [[00:02:43](https://www.youtube.com/watch?v=FbKG9XiMQng&t=163.5s)]
+*  I actually think that many of the judges that we're seeing nominated during the Trump administration [[00:02:46](https://www.youtube.com/watch?v=FbKG9XiMQng&t=166.82s)]
+*  and confirmed during the Trump administration, and indeed many of the judges we're seeing [[00:02:52](https://www.youtube.com/watch?v=FbKG9XiMQng&t=172.14s)]
+*  nominated during the Biden administration and confirmed today, would never have been [[00:02:55](https://www.youtube.com/watch?v=FbKG9XiMQng&t=175.78s)]
+*  nominated during prior presidencies of the same party. [[00:02:59](https://www.youtube.com/watch?v=FbKG9XiMQng&t=179.26s)]
+*  And you know, I think folks will have different views about whether that's a good thing or [[00:03:02](https://www.youtube.com/watch?v=FbKG9XiMQng&t=182.85999999999999s)]
+*  a bad thing. [[00:03:05](https://www.youtube.com/watch?v=FbKG9XiMQng&t=185.62s)]
+*  What I think we can't deny is it's a thing. [[00:03:07](https://www.youtube.com/watch?v=FbKG9XiMQng&t=187.12s)]
+*  And it's having a pretty profound effect on the nature of the federal judiciary. [[00:03:09](https://www.youtube.com/watch?v=FbKG9XiMQng&t=189.98s)]
+*  But the judges alone can explain the controversial cases. [[00:03:14](https://www.youtube.com/watch?v=FbKG9XiMQng&t=194.94s)]
+*  They don't make them up. [[00:03:17](https://www.youtube.com/watch?v=FbKG9XiMQng&t=197.7s)]
+*  Part of it is litigants steering cases to these judges. [[00:03:19](https://www.youtube.com/watch?v=FbKG9XiMQng&t=199.5s)]
+*  The modus operandi is to file in Texas, where you can find a sympathetic district judge [[00:03:23](https://www.youtube.com/watch?v=FbKG9XiMQng&t=203.94s)]
+*  and where you know that any appeal is going to the Fifth Circuit. [[00:03:29](https://www.youtube.com/watch?v=FbKG9XiMQng&t=209.7s)]
+*  The case against the abortion pill was filed in Amarillo, Texas. [[00:03:32](https://www.youtube.com/watch?v=FbKG9XiMQng&t=212.74s)]
+*  Because the district judge there, the court that hears the cases before the appeals court [[00:03:36](https://www.youtube.com/watch?v=FbKG9XiMQng&t=216.82s)]
+*  does, is very conservative. [[00:03:40](https://www.youtube.com/watch?v=FbKG9XiMQng&t=220.22s)]
+*  Dobbs was brought in Mississippi. [[00:03:42](https://www.youtube.com/watch?v=FbKG9XiMQng&t=222.58s)]
+*  And the Fifth Circuit judges can even make the system work in their interest. [[00:03:45](https://www.youtube.com/watch?v=FbKG9XiMQng&t=225.46s)]
+*  When a case comes to the Court of Appeals, it's assigned to a panel of three random [[00:03:49](https://www.youtube.com/watch?v=FbKG9XiMQng&t=229.72000000000003s)]
+*  judges. [[00:03:53](https://www.youtube.com/watch?v=FbKG9XiMQng&t=233.46s)]
+*  At the Fifth Circuit, the odds are pretty good that a case will be heard by a majority [[00:03:54](https://www.youtube.com/watch?v=FbKG9XiMQng&t=234.46s)]
+*  of conservative judges. [[00:03:57](https://www.youtube.com/watch?v=FbKG9XiMQng&t=237.66000000000003s)]
+*  But sometimes a case gets a majority of liberal judges. [[00:03:59](https://www.youtube.com/watch?v=FbKG9XiMQng&t=239.36s)]
+*  Like with a case involving whether felons should have the right to vote in Mississippi. [[00:04:02](https://www.youtube.com/watch?v=FbKG9XiMQng&t=242.5s)]
+*  The panel ruled they should. [[00:04:06](https://www.youtube.com/watch?v=FbKG9XiMQng&t=246.38000000000002s)]
+*  But the full court can decide to rehear cases by the entire court, what's called en banc, [[00:04:08](https://www.youtube.com/watch?v=FbKG9XiMQng&t=248.02s)]
+*  which it plans to do for that felon's one in January. [[00:04:13](https://www.youtube.com/watch?v=FbKG9XiMQng&t=253.58s)]
+*  Folks tend to use the term judicial activism as a shorthand for decisions they disagree [[00:04:17](https://www.youtube.com/watch?v=FbKG9XiMQng&t=257.02s)]
+*  with. [[00:04:21](https://www.youtube.com/watch?v=FbKG9XiMQng&t=261.38s)]
+*  And I think that in that respect, the term is unhelpful. [[00:04:22](https://www.youtube.com/watch?v=FbKG9XiMQng&t=262.38s)]
+*  There is, however, I think something that is especially aggressive about the way the [[00:04:25](https://www.youtube.com/watch?v=FbKG9XiMQng&t=265.02s)]
+*  Fifth Circuit's behaving, not just in the substance of the decisions that the court's [[00:04:30](https://www.youtube.com/watch?v=FbKG9XiMQng&t=270.74s)]
+*  But also just in its procedural behavior. [[00:04:37](https://www.youtube.com/watch?v=FbKG9XiMQng&t=277.34s)]
+*  So one great example of this was the challenges to the Biden administration's vaccination [[00:04:39](https://www.youtube.com/watch?v=FbKG9XiMQng&t=279.85999999999996s)]
+*  or testing mandate for large employers. [[00:04:45](https://www.youtube.com/watch?v=FbKG9XiMQng&t=285.29999999999995s)]
+*  Immediately, dozens of nearly identical lawsuits challenging the rule were filed in different [[00:04:48](https://www.youtube.com/watch?v=FbKG9XiMQng&t=288.21999999999997s)]
+*  states. [[00:04:52](https://www.youtube.com/watch?v=FbKG9XiMQng&t=292.34s)]
+*  So many that every circuit court in the country would have heard the same case. [[00:04:53](https://www.youtube.com/watch?v=FbKG9XiMQng&t=293.34s)]
+*  It triggered a literal lottery. [[00:04:57](https://www.youtube.com/watch?v=FbKG9XiMQng&t=297.14s)]
+*  Each court with a pending case would have a ball put into a wooden drum and whoever [[00:04:59](https://www.youtube.com/watch?v=FbKG9XiMQng&t=299.17999999999995s)]
+*  had theirs picked out would hear the case. [[00:05:02](https://www.youtube.com/watch?v=FbKG9XiMQng&t=302.62s)]
+*  But before that lottery happened, the Fifth Circuit cut ahead and ruled on the case anyway, [[00:05:04](https://www.youtube.com/watch?v=FbKG9XiMQng&t=304.82s)]
+*  blocking the Biden administration's mandate. [[00:05:09](https://www.youtube.com/watch?v=FbKG9XiMQng&t=309.7s)]
+*  After the lottery, the winning court reversed it and allowed the policy to go into effect. [[00:05:12](https://www.youtube.com/watch?v=FbKG9XiMQng&t=312.38s)]
+*  It's not just that you have judges all the way to one side of the ideological spectrum [[00:05:16](https://www.youtube.com/watch?v=FbKG9XiMQng&t=316.65999999999997s)]
+*  who are being aggressive in adopting and pushing for new interpretations of what had been pretty [[00:05:22](https://www.youtube.com/watch?v=FbKG9XiMQng&t=322.42s)]
+*  settled legal concepts. [[00:05:30](https://www.youtube.com/watch?v=FbKG9XiMQng&t=330.64s)]
+*  It's that they're taking procedural shortcuts. [[00:05:31](https://www.youtube.com/watch?v=FbKG9XiMQng&t=331.88s)]
+*  And I think that's part of why we're seeing increasingly a disconnect between the conservative [[00:05:35](https://www.youtube.com/watch?v=FbKG9XiMQng&t=335.16s)]
+*  judges on the Fifth Circuit and the conservative justices on the Supreme Court, some of whom [[00:05:40](https://www.youtube.com/watch?v=FbKG9XiMQng&t=340.88s)]
+*  I think are much more particular about those procedural formalities. [[00:05:45](https://www.youtube.com/watch?v=FbKG9XiMQng&t=345.88s)]
+*  President Trump was able to appoint a large number of polarizing judges. [[00:05:51](https://www.youtube.com/watch?v=FbKG9XiMQng&t=351.36s)]
+*  President Biden has done some of the same thanks to that 50 vote rule. [[00:05:55](https://www.youtube.com/watch?v=FbKG9XiMQng&t=355.28s)]
+*  But not as polarizing as the Democratic Senate has mostly taken the home state approval [[00:05:58](https://www.youtube.com/watch?v=FbKG9XiMQng&t=358.68s)]
+*  rule back up. [[00:06:03](https://www.youtube.com/watch?v=FbKG9XiMQng&t=363.40000000000003s)]
+*  I think the real problem at the end of the day is you might be happy with individual [[00:06:04](https://www.youtube.com/watch?v=FbKG9XiMQng&t=364.6s)]
+*  results in individual cases, but our legal system is not set up for a world in which [[00:06:09](https://www.youtube.com/watch?v=FbKG9XiMQng&t=369.96s)]
+*  you can have this kind of radical polls with no middle. [[00:06:16](https://www.youtube.com/watch?v=FbKG9XiMQng&t=376.04s)]
+*  What that really is a recipe for is chaos and not a set of coherent, uniform legal principles [[00:06:21](https://www.youtube.com/watch?v=FbKG9XiMQng&t=381.1s)]
+*  that actually might allow us to function as one nation as opposed to 50 different states. [[00:06:29](https://www.youtube.com/watch?v=FbKG9XiMQng&t=389.12s)]
+*  With the Fifth Circuit filled with conservative judges, it will continue to attract the most [[00:06:34](https://www.youtube.com/watch?v=FbKG9XiMQng&t=394.47999999999996s)]
+*  conservative cases, some of which will inevitably end up at the Supreme Court. [[00:06:38](https://www.youtube.com/watch?v=FbKG9XiMQng&t=398.84s)]

@@ -1,0 +1,110 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 378s
+Video Keywords: ['decentralized finance', 'ethereum', 'defi', 'what is decentralized finance', 'decentralized finance defi', 'decentralized finance explained', 'what is defi', 'cryptocurrency', 'decentralized finance crypto', 'decentralized finance for dummies', 'crypto', 'blockchain', 'defi explained', 'decentralized finance ethereum', 'decentralized finance 101', 'defi crypto', 'decentralised finance', 'ethereum defi', 'what is defi crypto', 'cryptocurrency news', 'crypto news', 'crypto news today', 'btc', 'wall street journal', 'wsj news', 'wsj']
+Video Views: 156371
+Video Rating: None
+Video Description: Many are calling decentralized finance, or DeFi, the “Wild West of finance.” This fast-growing industry aims to provide automated banking services for cryptocurrencies to everyone, with no middle men. But DeFi is still in its early stages, which means there are risks. WSJ explains. Photo illustration: Tammy Lian/WSJ
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#DeFi #DecentralizedFinance #WSJ
+---
+
+# DeFi: Crypto’s ‘Wild West’ of Finance | WSJ
+**The Wall Street Journal - News Explainers:** [November 16, 2021](https://www.youtube.com/watch?v=7wrAdUrh344)
+*  A rapidly growing financial trend is attempting to turn traditional banking on its head. [[00:00:00](https://www.youtube.com/watch?v=7wrAdUrh344&t=0.0s)]
+*  It's called Decentralized Finance, or DeFi, and it promises to bring digital banking for [[00:00:05](https://www.youtube.com/watch?v=7wrAdUrh344&t=5.92s)]
+*  cryptocurrencies to the masses, but with no middlemen and almost no barriers to entry. [[00:00:10](https://www.youtube.com/watch?v=7wrAdUrh344&t=10.76s)]
+*  So in the last 18 months, this idea has really mushroomed within the crypto market. [[00:00:16](https://www.youtube.com/watch?v=7wrAdUrh344&t=16.52s)]
+*  Estimates vary, but a conservative one says the total value locked in DeFi reached $114 [[00:00:21](https://www.youtube.com/watch?v=7wrAdUrh344&t=21.48s)]
+*  billion in November this year. [[00:00:27](https://www.youtube.com/watch?v=7wrAdUrh344&t=27.2s)]
+*  And while that's just a fraction compared with traditional banking, DeFi is growing [[00:00:29](https://www.youtube.com/watch?v=7wrAdUrh344&t=29.4s)]
+*  quickly. [[00:00:33](https://www.youtube.com/watch?v=7wrAdUrh344&t=33.519999999999996s)]
+*  It has increased more than 1200 percent since June 2020. [[00:00:34](https://www.youtube.com/watch?v=7wrAdUrh344&t=34.519999999999996s)]
+*  Here's why some are calling DeFi the Wild West of finance, where investors are entering [[00:00:38](https://www.youtube.com/watch?v=7wrAdUrh344&t=38.44s)]
+*  uncharted territory to take on big risks for the chance of even bigger rewards. [[00:00:43](https://www.youtube.com/watch?v=7wrAdUrh344&t=43.36s)]
+*  When we talk about DeFi, we're not talking about a specific financial product or service. [[00:00:51](https://www.youtube.com/watch?v=7wrAdUrh344&t=51.72s)]
+*  DeFi is just the next iteration of this grand experiment in cryptocurrencies, which is basically [[00:00:56](https://www.youtube.com/watch?v=7wrAdUrh344&t=56.92s)]
+*  just to recreate the financial system in a digital online format. [[00:01:03](https://www.youtube.com/watch?v=7wrAdUrh344&t=63.28s)]
+*  Paul Vina has been reporting on the equities market for almost 25 years and has been covering [[00:01:09](https://www.youtube.com/watch?v=7wrAdUrh344&t=69.04s)]
+*  cryptocurrencies since 2013. [[00:01:13](https://www.youtube.com/watch?v=7wrAdUrh344&t=73.68s)]
+*  Anything you could do at a bank or at a brokerage is handled rather than through an individual [[00:01:16](https://www.youtube.com/watch?v=7wrAdUrh344&t=76.4s)]
+*  and a corporation, it's handled through a computer program. [[00:01:21](https://www.youtube.com/watch?v=7wrAdUrh344&t=81.64s)]
+*  You can think of the emergence of DeFi like this, a dusty town in the wild American West, [[00:01:25](https://www.youtube.com/watch?v=7wrAdUrh344&t=85.32s)]
+*  where there's no sheriff, no bank and no cash. [[00:01:31](https://www.youtube.com/watch?v=7wrAdUrh344&t=91.39999999999999s)]
+*  Here at the local trading post, people can trade and lend goods and do pretty much anything [[00:01:35](https://www.youtube.com/watch?v=7wrAdUrh344&t=95.6s)]
+*  else normally done at a bank. [[00:01:40](https://www.youtube.com/watch?v=7wrAdUrh344&t=100.39999999999999s)]
+*  It isn't owned by a single person or entity. [[00:01:42](https://www.youtube.com/watch?v=7wrAdUrh344&t=102.63999999999999s)]
+*  And unlike traditional finance, trades that happen here are verified out in the open where [[00:01:45](https://www.youtube.com/watch?v=7wrAdUrh344&t=105.52s)]
+*  everyone can see. [[00:01:50](https://www.youtube.com/watch?v=7wrAdUrh344&t=110.11999999999999s)]
+*  For example, one type of transaction that takes place at the trading post is lending. [[00:01:51](https://www.youtube.com/watch?v=7wrAdUrh344&t=111.72s)]
+*  To ensure the trade, the borrower gives collateral for the loan. [[00:01:56](https://www.youtube.com/watch?v=7wrAdUrh344&t=116.64s)]
+*  The lender then earns interest off this deal in the same way a bank would. [[00:02:00](https://www.youtube.com/watch?v=7wrAdUrh344&t=120.32s)]
+*  Transactions like this are all recorded on a public ledger that everyone can see. [[00:02:05](https://www.youtube.com/watch?v=7wrAdUrh344&t=125.44s)]
+*  In the world of DeFi, this ledger is called a blockchain, which is a network of computers [[00:02:09](https://www.youtube.com/watch?v=7wrAdUrh344&t=129.96s)]
+*  built to store and record transactions. [[00:02:14](https://www.youtube.com/watch?v=7wrAdUrh344&t=134.6s)]
+*  Every computer on that network has an identical copy of that ledger so that all of the data [[00:02:17](https://www.youtube.com/watch?v=7wrAdUrh344&t=137.64s)]
+*  is open, all of it is public. [[00:02:23](https://www.youtube.com/watch?v=7wrAdUrh344&t=143.07999999999998s)]
+*  This is different from a traditional stock trade, which works like this. [[00:02:25](https://www.youtube.com/watch?v=7wrAdUrh344&t=145.27999999999997s)]
+*  I have a broker, the other party has a broker, the company has an institution that keeps [[00:02:29](https://www.youtube.com/watch?v=7wrAdUrh344&t=149.27999999999997s)]
+*  track of the stock itself. [[00:02:33](https://www.youtube.com/watch?v=7wrAdUrh344&t=153.76s)]
+*  All these different middlemen, all these different intermediaries have their own ledgers, have [[00:02:35](https://www.youtube.com/watch?v=7wrAdUrh344&t=155.79999999999998s)]
+*  their own internal databases where they're recording the transactions. [[00:02:39](https://www.youtube.com/watch?v=7wrAdUrh344&t=159.51999999999998s)]
+*  A blockchain takes care of all of that and does it in an open way that anybody can track [[00:02:43](https://www.youtube.com/watch?v=7wrAdUrh344&t=163.0s)]
+*  the progress of that trade. [[00:02:48](https://www.youtube.com/watch?v=7wrAdUrh344&t=168.68s)]
+*  Most DeFi services run on Ethereum's technology, which also hosts the cryptocurrency Ether. [[00:02:51](https://www.youtube.com/watch?v=7wrAdUrh344&t=171.44s)]
+*  It's one of the most commonly traded cryptos in DeFi, along with stablecoins, digital assets [[00:02:57](https://www.youtube.com/watch?v=7wrAdUrh344&t=177.56s)]
+*  which are pegged to currencies like the dollar. [[00:03:03](https://www.youtube.com/watch?v=7wrAdUrh344&t=183.08s)]
+*  The DeFi services run on the blockchain, similar to how apps run on your phone. [[00:03:05](https://www.youtube.com/watch?v=7wrAdUrh344&t=185.68s)]
+*  But the mechanism that allows them to work is called a smart contract. [[00:03:10](https://www.youtube.com/watch?v=7wrAdUrh344&t=190.6s)]
+*  Smart contracts is an idea I've been around for years. [[00:03:15](https://www.youtube.com/watch?v=7wrAdUrh344&t=195.08s)]
+*  It's another app that is focused on a bank-like service. [[00:03:18](https://www.youtube.com/watch?v=7wrAdUrh344&t=198.28s)]
+*  So all it's really doing is taking all the parameters of a trade and sticking them into [[00:03:21](https://www.youtube.com/watch?v=7wrAdUrh344&t=201.6s)]
+*  fields and automating it and then monitoring it. [[00:03:27](https://www.youtube.com/watch?v=7wrAdUrh344&t=207.0s)]
+*  Smart contracts are designed to give DeFi transactions more transparency and security. [[00:03:30](https://www.youtube.com/watch?v=7wrAdUrh344&t=210.56s)]
+*  And because all the parameters are being inputted into a program, ostensibly it's [[00:03:35](https://www.youtube.com/watch?v=7wrAdUrh344&t=215.52s)]
+*  more secure because there shouldn't be any real debate or contradiction about the terms [[00:03:40](https://www.youtube.com/watch?v=7wrAdUrh344&t=220.76000000000002s)]
+*  of the service. [[00:03:45](https://www.youtube.com/watch?v=7wrAdUrh344&t=225.64000000000001s)]
+*  Despite this layer of security, decentralized finance carries a lot of risk. [[00:03:47](https://www.youtube.com/watch?v=7wrAdUrh344&t=227.20000000000002s)]
+*  In many cases, the people facilitating DeFi transactions are anonymous. [[00:03:52](https://www.youtube.com/watch?v=7wrAdUrh344&t=232.12s)]
+*  This has caused fraud to become rampant. [[00:03:56](https://www.youtube.com/watch?v=7wrAdUrh344&t=236.48000000000002s)]
+*  A poorly created smart contract could have loopholes that allow scammers to steal or [[00:03:59](https://www.youtube.com/watch?v=7wrAdUrh344&t=239.12s)]
+*  other design flaws that affect the value of assets. [[00:04:03](https://www.youtube.com/watch?v=7wrAdUrh344&t=243.72s)]
+*  Another risk is security. [[00:04:07](https://www.youtube.com/watch?v=7wrAdUrh344&t=247.08s)]
+*  And because most DeFi services aren't insured, if a platform fails or is hacked, millions [[00:04:09](https://www.youtube.com/watch?v=7wrAdUrh344&t=249.12s)]
+*  of dollars can be on the line. [[00:04:14](https://www.youtube.com/watch?v=7wrAdUrh344&t=254.20000000000002s)]
+*  The problem is that you may not know who wrote the program. [[00:04:15](https://www.youtube.com/watch?v=7wrAdUrh344&t=255.88s)]
+*  You may not know how secure the program itself is. [[00:04:21](https://www.youtube.com/watch?v=7wrAdUrh344&t=261.36s)]
+*  That's a significant, significant risk that you really can't overlook. [[00:04:25](https://www.youtube.com/watch?v=7wrAdUrh344&t=265.92s)]
+*  These DeFi protocols, virtually once a week, there is a problem with one of them. [[00:04:31](https://www.youtube.com/watch?v=7wrAdUrh344&t=271.76s)]
+*  So far this year, investors have lost about one and a half billion dollars to DeFi attacks, [[00:04:39](https://www.youtube.com/watch?v=7wrAdUrh344&t=279.03999999999996s)]
+*  hacks and cons. [[00:04:43](https://www.youtube.com/watch?v=7wrAdUrh344&t=283.88s)]
+*  And in this wild west of finance, regulation is still virtually nonexistent, though that [[00:04:45](https://www.youtube.com/watch?v=7wrAdUrh344&t=285.44s)]
+*  could change. [[00:04:50](https://www.youtube.com/watch?v=7wrAdUrh344&t=290.8s)]
+*  Here's the chairman of the Securities and Exchange Commission speaking with The Wall [[00:04:52](https://www.youtube.com/watch?v=7wrAdUrh344&t=292.15999999999997s)]
+*  Street Journal about DeFi. [[00:04:55](https://www.youtube.com/watch?v=7wrAdUrh344&t=295.59999999999997s)]
+*  This field is going to have an ability to move forward. [[00:04:57](https://www.youtube.com/watch?v=7wrAdUrh344&t=297.64s)]
+*  It's going to be inside some public policy framework and inside some sort of regulatory [[00:05:02](https://www.youtube.com/watch?v=7wrAdUrh344&t=302.47999999999996s)]
+*  perimeter. [[00:05:08](https://www.youtube.com/watch?v=7wrAdUrh344&t=308.96s)]
+*  Look, folks have already been hurt in this field. [[00:05:11](https://www.youtube.com/watch?v=7wrAdUrh344&t=311.96s)]
+*  While decentralized finance is risky, many think the potential benefits are worth it. [[00:05:15](https://www.youtube.com/watch?v=7wrAdUrh344&t=315.2s)]
+*  Benefits are an ability to make money. [[00:05:20](https://www.youtube.com/watch?v=7wrAdUrh344&t=320.32s)]
+*  You are either lending out your cryptocurrencies and you're getting interest paid back on [[00:05:22](https://www.youtube.com/watch?v=7wrAdUrh344&t=322.76s)]
+*  that. And that interest can be anywhere from five to 20 percent, even more. [[00:05:27](https://www.youtube.com/watch?v=7wrAdUrh344&t=327.12s)]
+*  You can be a passive investor and earn money on an asset that you are probably storing [[00:05:31](https://www.youtube.com/watch?v=7wrAdUrh344&t=331.8s)]
+*  in a wallet that was doing nothing. [[00:05:35](https://www.youtube.com/watch?v=7wrAdUrh344&t=335.8s)]
+*  The other benefit is you can borrow against your holdings. [[00:05:37](https://www.youtube.com/watch?v=7wrAdUrh344&t=337.52s)]
+*  A lot of these services are being used as a way for people to get a bigger pool of cryptocurrency [[00:05:41](https://www.youtube.com/watch?v=7wrAdUrh344&t=341.68s)]
+*  to go throw bets out into the derivatives market. [[00:05:46](https://www.youtube.com/watch?v=7wrAdUrh344&t=346.91999999999996s)]
+*  So it's a way for you to turbocharge your cryptocurrency gambling habit, essentially. [[00:05:49](https://www.youtube.com/watch?v=7wrAdUrh344&t=349.52s)]
+*  If DeFi continues growing, it's likely that regulations will be imposed to smooth out [[00:05:56](https://www.youtube.com/watch?v=7wrAdUrh344&t=356.76000000000005s)]
+*  its rough edges and reduce risk for investors, which makes sense. [[00:06:01](https://www.youtube.com/watch?v=7wrAdUrh344&t=361.20000000000005s)]
+*  Even in the wildest of Wild West towns, a sheriff eventually showed up to lay down the law. [[00:06:06](https://www.youtube.com/watch?v=7wrAdUrh344&t=366.0s)]

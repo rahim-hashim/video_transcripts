@@ -1,0 +1,106 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 305s
+Video Keywords: ['nissan', 'renault', 'nissan renault', 'nissan renault alliance', 'nissan renault business', 'nissan renault story', 'nissan renault merger', 'nissan renault news', 'nissan renault alliance future', 'Luca de Meo', 'Makoto Uchida', 'makoto uchida nissan', 'car companies', 'automakers', 'renault nissan mitsubishi alliance', 'renault nissan', 'nissan renault ceo', 'renault ev', 'ev', 'wsj', 'nissan electric car', 'nissan ev', 'nissan renault shakeup', 'nissan renault shakeup explained', 'ceo renault', 'carlos ghosn', 'bnss']
+Video Views: 133271
+Video Rating: None
+Video Description: Renault CEO Luca de Meo and Nissan CEO Makoto Uchida spoke to The Wall Street Journal about the reorganization of their alliance in a deal that gives both companies more autonomy. The alliance was plagued by rivalry and suspicion, rising when Carlos Ghosn was ousted as the companies' leader.
+
+WSJ’s Nick Kostov explains the factors behind the decision and what it means for auto makers and investors. 
+
+Photo Composite: Adele Morgan
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Nissan #Renault #WSJ
+---
+
+# The Nissan-Renault Shakeup, Explained in Five Minutes | WSJ
+**The Wall Street Journal - News Explainers:** [February 13, 2023](https://www.youtube.com/watch?v=eFZgQIYOB5M)
+*  Renault and Nissan have announced a long plan overhaul of their more than 20 year old alliance. [[00:00:00](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=0.0s)]
+*  We are now ready to move our partnership obviously to a new era. [[00:00:06](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=6.28s)]
+*  The partnership withstood the ousting of a leader, a global pandemic and growing pains. [[00:00:12](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=12.08s)]
+*  The CEOs of both companies spoke to the Wall Street Journal about their restructured alliance [[00:00:18](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=18.400000000000002s)]
+*  and what it means for investors and the global industry. [[00:00:22](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=22.84s)]
+*  This is how we can transform under these difficult circumstances that we are facing today. [[00:00:26](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=26.28s)]
+*  So we're trying to create a company that is much more agile, more oriented to innovation [[00:00:31](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=31.96s)]
+*  because technology is evolutionary. [[00:00:37](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=37.08s)]
+*  But first, how did we get here? [[00:00:39](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=39.8s)]
+*  The partnership dates to 1999 when Renault took a more than one third stake in Nissan, [[00:00:44](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=44.28s)]
+*  which was struggling. [[00:00:48](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=48.88s)]
+*  They were in this kind of marriage where they had to get the agreement of the other if they [[00:00:49](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=49.88s)]
+*  wanted to cooperate. [[00:00:54](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=54.400000000000006s)]
+*  At the height of the alliance, they were joined by Mitsubishi Motors and had a combined sales [[00:00:56](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=56.28s)]
+*  of more than 10 million vehicles a year. [[00:01:00](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=60.28s)]
+*  But beneath the surface, Nissan saw the partnership as uneven with Renault holding a controlling [[00:01:03](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=63.6s)]
+*  stake in the Japanese carmaker. [[00:01:08](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=68.04s)]
+*  On the other hand, Renault felt it wasn't getting enough for its large stake. [[00:01:10](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=70.2s)]
+*  There was also a clash of corporate cultures. [[00:01:13](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=73.68s)]
+*  For years, industry veteran Carlos Ghosn headed both companies and was able to smooth out [[00:01:16](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=76.74000000000001s)]
+*  differences with his forceful personality. [[00:01:20](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=80.88s)]
+*  But when Ghosn was arrested in Japan over financial charges in 2018, tensions between [[00:01:24](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=84.68s)]
+*  Renault and Nissan spilled out into the open. [[00:01:29](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=89.12s)]
+*  He denies the charges and eventually fled the country. [[00:01:32](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=92.28s)]
+*  When you took Carlos Ghosn out of the equation, there was no real good way for these companies [[00:01:35](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=95.2s)]
+*  to cooperate. [[00:01:39](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=99.66000000000001s)]
+*  And you realize that actually what Ghosn had been doing for so many years was refereeing [[00:01:41](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=101.0s)]
+*  some kind of cat fight. [[00:01:44](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=104.24000000000001s)]
+*  Then came further challenges. [[00:01:46](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=106.28s)]
+*  of it, supply chains, and we have a geopolitical situation. [[00:01:48](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=108.32s)]
+*  Make the material cost and the hike and the cost is going to the skyrocket situation. [[00:01:53](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=113.24s)]
+*  Renault had to sell its majority stakes in Russia's biggest automaker after the Ukraine [[00:01:59](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=119.39999999999999s)]
+*  war broke out. [[00:02:03](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=123.16s)]
+*  It capped off more than two years of losses. [[00:02:04](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=124.58s)]
+*  Two years and a half ago, we were really in bad shape. [[00:02:07](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=127.22s)]
+*  We lost like eight billion euros in a semester. [[00:02:10](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=130.95999999999998s)]
+*  So that was like... [[00:02:13](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=133.84s)]
+*  Well, so we are. [[00:02:14](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=134.84s)]
+*  We lost 600 billion. [[00:02:15](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=135.84s)]
+*  And that's red. [[00:02:16](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=136.84s)]
+*  Amid the crisis, Renault's CEO thought there was also an opportunity for the French carmaker [[00:02:19](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=139.12s)]
+*  to reinvent itself. [[00:02:23](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=143.36s)]
+*  And all the things we're doing are first to make sure that Renault, you know, on the next [[00:02:25](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=145.36s)]
+*  Grand Prix will be better positioned because it will be different rules, different technical [[00:02:31](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=151.16s)]
+*  setup, et cetera. [[00:02:36](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=156.12s)]
+*  But it's never done against the Alliance or against Nissan. [[00:02:37](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=157.68s)]
+*  In fact, they can take advantage of our experience, I think, also and vice versa. [[00:02:40](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=160.8s)]
+*  It became clear to both sides they'd be better off operating more independently of each other. [[00:02:46](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=166.04000000000002s)]
+*  We had many things in the past, right? [[00:02:50](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=170.34s)]
+*  But we are not doing this like for the sake of the rebalancing or, you know, Nissan victory, [[00:02:52](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=172.44s)]
+*  Renault victory on the historical items. [[00:03:00](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=180.12s)]
+*  I think we have to sometimes go back to the original spirit, which was a very, very pragmatic [[00:03:02](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=182.92000000000002s)]
+*  collaboration. [[00:03:09](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=189.56s)]
+*  That's what we've tried to do. [[00:03:10](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=190.56s)]
+*  Under the new agreement, Renault will reduce its stake in Nissan from 43 percent to 15 [[00:03:12](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=192.68s)]
+*  percent. [[00:03:17](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=197.44s)]
+*  Nissan will also invest in Renault's electric vehicle and software business. [[00:03:18](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=198.44s)]
+*  They can keep cooperating on certain things if they want and if both parties see the benefit [[00:03:21](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=201.92000000000002s)]
+*  or they can go and seek other partners if they think they can get a better deal. [[00:03:26](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=206.56s)]
+*  My focus is, of course, is creating the uniqueness of Renault that needs to be different from [[00:03:29](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=209.94s)]
+*  Nissan. [[00:03:34](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=214.4s)]
+*  They have to have a different strategy from us. [[00:03:35](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=215.52s)]
+*  It's good. [[00:03:37](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=217.8s)]
+*  We cannot really do the business in extension from the past way for the future because the [[00:03:38](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=218.8s)]
+*  circumstances are totally different. [[00:03:45](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=225.16000000000003s)]
+*  This is why we made this announcement to go into the next era and what kind of governance [[00:03:47](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=227.12s)]
+*  that we should have in the partnership or structure. [[00:03:53](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=233.20000000000002s)]
+*  The deal comes as both companies look to new types of partnerships in batteries, EV technology [[00:03:57](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=237.0s)]
+*  and software. [[00:04:01](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=241.84s)]
+*  The chipmaker Qualcomm has already said it would take a stake in Renault's new EV business, [[00:04:04](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=244.76s)]
+*  Ampere. [[00:04:09](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=249.44s)]
+*  Ampere is a very reasonable investment with a very strong return on the capital allocation [[00:04:10](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=250.44s)]
+*  for Nissan or for any investor with very good products that people are willing to pay for. [[00:04:16](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=256.68s)]
+*  This is a chance that many other newcomers coming from the outside don't have. [[00:04:24](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=264.56s)]
+*  Renault and Nissan have said their alliance will continue and announced joint projects [[00:04:30](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=270.64s)]
+*  in markets such as Argentina, Mexico and India. [[00:04:34](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=274.16s)]
+*  We are setting up the new stage for the alliance, how to collaborate, how to work and if there's [[00:04:37](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=277.32000000000005s)]
+*  opportunity, why not? [[00:04:41](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=281.16s)]
+*  But several issues remain open. [[00:04:43](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=283.16s)]
+*  Nissan did not say how much it would invest in Renault's EV company. [[00:04:45](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=285.44s)]
+*  Also under negotiation is the intellectual property that goes into that Renault venture, [[00:04:48](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=288.98s)]
+*  which is owned by Nissan. [[00:04:52](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=292.92s)]
+*  This is also why it's difficult for investors because there are still some negotiations [[00:04:54](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=294.56s)]
+*  to take place. [[00:04:58](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=298.18s)]
+*  This isn't like the complete end of the story. [[00:04:59](https://www.youtube.com/watch?v=eFZgQIYOB5M&t=299.18s)]

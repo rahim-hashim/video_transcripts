@@ -1,0 +1,130 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 379s
+Video Keywords: ['baby boomers', 'retirement', 'retirement data', 'recession 2024', 'recession fears', 'economy', 'social security', 'economic news', 'wsj', 'u.s. population', 'taxable workers', 'fiscal policy', 'social security payments', 'congress', 'government programs', 'economic growth', 'retirees', 'payroll tax revenue', 'birth rate', 'policy change', 'social security trust fund', 'treasury bonds', 'IOUs', 'retirement income', 'census bureau', 'utilities', 'rent', 'employer provided pension', 'IRAs', '401k', '401(k)', 'payroll tax', 'raise taxes', 'bnecon']
+Video Views: 832066
+Video Rating: None
+Video Description: Over four million Americans will reach traditional retirement age this year, more than any other time in history. By 2030, baby boomers will all be 65 or older, shrinking the workforce share of the population. What does this mean for Social Security, which is funded by taxing current workers?
+
+WSJ breaks down how this demographic shift threatens the future of Social Security if nothing is done before 2034.
+
+Chapters:
+0:00 Baby boomers retiring
+0:27 How the workforce is changing
+1:10 How this impacts Social Security
+2:26 How this affects the people
+4:30 What reform would look like
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Retirement #Economy #WSJ
+---
+
+# How 2024’s Record Retirement Numbers Could Spark a Recession | WSJ
+**The Wall Street Journal - News Explainers:** [February 13, 2024](https://www.youtube.com/watch?v=iQwUlMan7y8)
+*  You're looking at a chart of the U.S. population, and these are the baby boomers. [[00:00:00](https://www.youtube.com/watch?v=iQwUlMan7y8&t=0.0s)]
+*  This year, a record number of them will reach traditional retirement age. [[00:00:04](https://www.youtube.com/watch?v=iQwUlMan7y8&t=4.62s)]
+*  By 2030, they'll all be 65 or older. [[00:00:08](https://www.youtube.com/watch?v=iQwUlMan7y8&t=8.02s)]
+*  This is creating a fiscal problem because fewer taxable workers means less money for [[00:00:11](https://www.youtube.com/watch?v=iQwUlMan7y8&t=11.14s)]
+*  Social Security. [[00:00:15](https://www.youtube.com/watch?v=iQwUlMan7y8&t=15.24s)]
+*  If Congress does nothing, we're going to hit a major crisis. [[00:00:16](https://www.youtube.com/watch?v=iQwUlMan7y8&t=16.240000000000002s)]
+*  Here's how this demographic shift threatens the future of one of the country's most [[00:00:19](https://www.youtube.com/watch?v=iQwUlMan7y8&t=19.48s)]
+*  important government programs, and what can be done to fix it. [[00:00:23](https://www.youtube.com/watch?v=iQwUlMan7y8&t=23.1s)]
+*  Baby boomers, or those born between 1946 and 1964, have been propping up the U.S. economy [[00:00:28](https://www.youtube.com/watch?v=iQwUlMan7y8&t=28.08s)]
+*  for decades. [[00:00:33](https://www.youtube.com/watch?v=iQwUlMan7y8&t=33.519999999999996s)]
+*  Their mere numbers contributed for a long time to rapid economic growth, and because [[00:00:34](https://www.youtube.com/watch?v=iQwUlMan7y8&t=34.519999999999996s)]
+*  every worker contributed to Social Security, that made Social Security look very healthy. [[00:00:39](https://www.youtube.com/watch?v=iQwUlMan7y8&t=39.2s)]
+*  But as boomers started exiting the workforce in 2008, the number of retirees grew rapidly. [[00:00:43](https://www.youtube.com/watch?v=iQwUlMan7y8&t=43.4s)]
+*  Not only do you have more retirees collecting benefits for more years, you have fewer young [[00:00:49](https://www.youtube.com/watch?v=iQwUlMan7y8&t=49.06s)]
+*  people entering the workforce because birth rates were lower for their parents' generation. [[00:00:53](https://www.youtube.com/watch?v=iQwUlMan7y8&t=53.84s)]
+*  And that creates a squeeze on both directions. [[00:00:59](https://www.youtube.com/watch?v=iQwUlMan7y8&t=59.400000000000006s)]
+*  Higher expenses for models of retirees living longer, lower payroll tax revenue from fewer [[00:01:01](https://www.youtube.com/watch?v=iQwUlMan7y8&t=61.24s)]
+*  people entering the labor force because of those declining birth rates. [[00:01:06](https://www.youtube.com/watch?v=iQwUlMan7y8&t=66.32000000000001s)]
+*  This puts a lot of pressure on Social Security. [[00:01:10](https://www.youtube.com/watch?v=iQwUlMan7y8&t=70.4s)]
+*  And without policy change, projections show the trust funds will be depleted in 2034. [[00:01:12](https://www.youtube.com/watch?v=iQwUlMan7y8&t=72.86s)]
+*  There's a misconception out there that when the Social Security trust fund is exhausted, [[00:01:17](https://www.youtube.com/watch?v=iQwUlMan7y8&t=77.86s)]
+*  the system is somehow bankrupt and there's no money. [[00:01:21](https://www.youtube.com/watch?v=iQwUlMan7y8&t=81.28s)]
+*  Social Security is an integral part of the federal government. [[00:01:24](https://www.youtube.com/watch?v=iQwUlMan7y8&t=84.04s)]
+*  And as long as the federal government is not bankrupt, Social Security is not bankrupt. [[00:01:26](https://www.youtube.com/watch?v=iQwUlMan7y8&t=86.88s)]
+*  What's really happening is the program is running out of Treasury bonds, which are basically [[00:01:31](https://www.youtube.com/watch?v=iQwUlMan7y8&t=91.32000000000001s)]
+*  IOUs from the government. [[00:01:35](https://www.youtube.com/watch?v=iQwUlMan7y8&t=95.32000000000001s)]
+*  For many years, Social Security was taking in more money than it needed to pay out in [[00:01:37](https://www.youtube.com/watch?v=iQwUlMan7y8&t=97.12s)]
+*  benefits. [[00:01:41](https://www.youtube.com/watch?v=iQwUlMan7y8&t=101.36s)]
+*  So it lent money to the government to use for other programs, and it got IOUs in return. [[00:01:42](https://www.youtube.com/watch?v=iQwUlMan7y8&t=102.36s)]
+*  Around 10 years ago, though, that situation flipped around. [[00:01:47](https://www.youtube.com/watch?v=iQwUlMan7y8&t=107.08s)]
+*  For the last decade, we've been paying out more in benefits than we've been collecting [[00:01:50](https://www.youtube.com/watch?v=iQwUlMan7y8&t=110.38s)]
+*  in Social Security revenue. [[00:01:54](https://www.youtube.com/watch?v=iQwUlMan7y8&t=114.74s)]
+*  But because the program had so many IOUs stashed away from previous years, it's been able [[00:01:56](https://www.youtube.com/watch?v=iQwUlMan7y8&t=116.72s)]
+*  to keep paying benefits in full by cashing in on those IOUs. [[00:02:01](https://www.youtube.com/watch?v=iQwUlMan7y8&t=121.24s)]
+*  Right now, there's roughly $3 trillion in IOUs. [[00:02:05](https://www.youtube.com/watch?v=iQwUlMan7y8&t=125.06s)]
+*  But each year, that $3 trillion stash gets a little bit smaller. [[00:02:08](https://www.youtube.com/watch?v=iQwUlMan7y8&t=128.54s)]
+*  By the year 2034, all of the IOUs will have been cashed in. [[00:02:12](https://www.youtube.com/watch?v=iQwUlMan7y8&t=132.18s)]
+*  That means retirees would see, overnight, about a 25% benefit cut. [[00:02:16](https://www.youtube.com/watch?v=iQwUlMan7y8&t=136.02s)]
+*  This number will likely increase as the number of workers per retiree continues to fall. [[00:02:21](https://www.youtube.com/watch?v=iQwUlMan7y8&t=141.46s)]
+*  Simply because we're not about to go bankrupt doesn't mean there's no problem. [[00:02:26](https://www.youtube.com/watch?v=iQwUlMan7y8&t=146.94s)]
+*  There very much is a problem. [[00:02:31](https://www.youtube.com/watch?v=iQwUlMan7y8&t=151.54000000000002s)]
+*  Studies show that the majority of Americans rely on these monthly benefits checks for [[00:02:33](https://www.youtube.com/watch?v=iQwUlMan7y8&t=153.58s)]
+*  retirement income. [[00:02:37](https://www.youtube.com/watch?v=iQwUlMan7y8&t=157.44s)]
+*  According to Census Bureau data, about 50% of people between 55 and 66 years old have [[00:02:38](https://www.youtube.com/watch?v=iQwUlMan7y8&t=158.82000000000002s)]
+*  no retirement savings. [[00:02:44](https://www.youtube.com/watch?v=iQwUlMan7y8&t=164.20000000000002s)]
+*  Can you imagine right now if you had to take a 25% reduction in your take-home pay, you [[00:02:45](https://www.youtube.com/watch?v=iQwUlMan7y8&t=165.85999999999999s)]
+*  still have to pay rent, you've got to buy groceries, you've got to pay utilities? [[00:02:49](https://www.youtube.com/watch?v=iQwUlMan7y8&t=169.7s)]
+*  It's especially important for those who don't have college degrees, people on the [[00:02:52](https://www.youtube.com/watch?v=iQwUlMan7y8&t=172.85999999999999s)]
+*  lower end of the income spectrum. [[00:02:55](https://www.youtube.com/watch?v=iQwUlMan7y8&t=175.45999999999998s)]
+*  Fickner says when retirees have less retirement income, they also generally spend less money. [[00:02:57](https://www.youtube.com/watch?v=iQwUlMan7y8&t=177.22s)]
+*  That means less economic activity, that means less employment because employers have to [[00:03:02](https://www.youtube.com/watch?v=iQwUlMan7y8&t=182.73999999999998s)]
+*  lay off people because no longer is that money coming in. [[00:03:06](https://www.youtube.com/watch?v=iQwUlMan7y8&t=186.73999999999998s)]
+*  It's a ripple effect that could be basically a senior-induced recession. [[00:03:08](https://www.youtube.com/watch?v=iQwUlMan7y8&t=188.98s)]
+*  But Social Security is only meant to replace a percentage of a worker's pre-retirement [[00:03:14](https://www.youtube.com/watch?v=iQwUlMan7y8&t=194.02s)]
+*  income based on lifetime earnings. [[00:03:18](https://www.youtube.com/watch?v=iQwUlMan7y8&t=198.26000000000002s)]
+*  So as much as 78% for very low earners to about 42% for medium earners and 28% for maximum earners. [[00:03:20](https://www.youtube.com/watch?v=iQwUlMan7y8&t=200.58s)]
+*  This is three-legged stool we talk about all the time. [[00:03:27](https://www.youtube.com/watch?v=iQwUlMan7y8&t=207.78s)]
+*  It's supposed to be Social Security is one leg, your employer provided pension is the [[00:03:29](https://www.youtube.com/watch?v=iQwUlMan7y8&t=209.78s)]
+*  second leg and your personal savings is the third. [[00:03:32](https://www.youtube.com/watch?v=iQwUlMan7y8&t=212.98000000000002s)]
+*  Well, Social Security has financial challenges. [[00:03:35](https://www.youtube.com/watch?v=iQwUlMan7y8&t=215.06s)]
+*  We don't have pensions really anymore. [[00:03:36](https://www.youtube.com/watch?v=iQwUlMan7y8&t=216.9s)]
+*  About 10% of the population has pensions. [[00:03:38](https://www.youtube.com/watch?v=iQwUlMan7y8&t=218.46s)]
+*  And then it's hard to save on your own when you've got to pay off student loans and housing [[00:03:40](https://www.youtube.com/watch?v=iQwUlMan7y8&t=220.46s)]
+*  costs are so high. [[00:03:43](https://www.youtube.com/watch?v=iQwUlMan7y8&t=223.46s)]
+*  About half of Americans do have retirement accounts like 401ks and IRAs. [[00:03:44](https://www.youtube.com/watch?v=iQwUlMan7y8&t=224.58s)]
+*  But those are all subject to market risk. [[00:03:49](https://www.youtube.com/watch?v=iQwUlMan7y8&t=229.06s)]
+*  I hear a lot, well those are 65 year olds. [[00:03:51](https://www.youtube.com/watch?v=iQwUlMan7y8&t=231.38s)]
+*  Why do I have to worry about the boomers today? [[00:03:53](https://www.youtube.com/watch?v=iQwUlMan7y8&t=233.46s)]
+*  Well, this impacts every generation that's coming up behind. [[00:03:55](https://www.youtube.com/watch?v=iQwUlMan7y8&t=235.46s)]
+*  They might not be asked to pay a slightly higher payroll tax. [[00:03:58](https://www.youtube.com/watch?v=iQwUlMan7y8&t=238.42000000000002s)]
+*  More importantly, they might be asked to work a little bit longer. [[00:04:01](https://www.youtube.com/watch?v=iQwUlMan7y8&t=241.22s)]
+*  And like most things in the economy, Social Security's funding shortfall isn't an isolated issue. [[00:04:03](https://www.youtube.com/watch?v=iQwUlMan7y8&t=243.94s)]
+*  It's one of the reasons the federal budget deficit is as large as it is. [[00:04:09](https://www.youtube.com/watch?v=iQwUlMan7y8&t=249.22s)]
+*  It means that we have to borrow money, which means issuing bonds. [[00:04:12](https://www.youtube.com/watch?v=iQwUlMan7y8&t=252.5s)]
+*  That tends to put pressure on interest rates, which means it's harder to afford a house. [[00:04:16](https://www.youtube.com/watch?v=iQwUlMan7y8&t=256.9s)]
+*  It means that Congress might have to cut spending on other programs like the military [[00:04:21](https://www.youtube.com/watch?v=iQwUlMan7y8&t=261.38s)]
+*  or the environment in order to make sure there's enough money for Social Security. [[00:04:26](https://www.youtube.com/watch?v=iQwUlMan7y8&t=266.02s)]
+*  So what needs to happen to put Social Security on more sound footing? [[00:04:30](https://www.youtube.com/watch?v=iQwUlMan7y8&t=270.09999999999997s)]
+*  Congress needs to pass a law. [[00:04:33](https://www.youtube.com/watch?v=iQwUlMan7y8&t=273.7s)]
+*  Congress has stood still and not enhanced Social Security [[00:04:35](https://www.youtube.com/watch?v=iQwUlMan7y8&t=275.3s)]
+*  since Richard Nixon. [[00:04:40](https://www.youtube.com/watch?v=iQwUlMan7y8&t=280.82s)]
+*  When and what kind of law? That we still don't know. [[00:04:42](https://www.youtube.com/watch?v=iQwUlMan7y8&t=282.5s)]
+*  There's been a number of proposed solutions over the years. [[00:04:45](https://www.youtube.com/watch?v=iQwUlMan7y8&t=285.3s)]
+*  This legislation demands that the wealthiest people in this country [[00:04:48](https://www.youtube.com/watch?v=iQwUlMan7y8&t=288.09999999999997s)]
+*  start paying their fair share of taxes. [[00:04:53](https://www.youtube.com/watch?v=iQwUlMan7y8&t=293.94s)]
+*  But policymakers generally disagree on whether to raise taxes or cut benefits. [[00:04:56](https://www.youtube.com/watch?v=iQwUlMan7y8&t=296.82s)]
+*  You'll have two approaches to how to solve this problem and you're not going to do it. [[00:05:01](https://www.youtube.com/watch?v=iQwUlMan7y8&t=301.7s)]
+*  There's probably no single matching bullet which will put Social Security on a long-term [[00:05:06](https://www.youtube.com/watch?v=iQwUlMan7y8&t=306.18s)]
+*  footing. Instead, Congress is probably going to have to look at a variety of [[00:05:10](https://www.youtube.com/watch?v=iQwUlMan7y8&t=310.5s)]
+*  steps which will collectively fix the problem. [[00:05:14](https://www.youtube.com/watch?v=iQwUlMan7y8&t=314.66s)]
+*  But economists don't expect action to be taken anytime soon. [[00:05:17](https://www.youtube.com/watch?v=iQwUlMan7y8&t=317.86s)]
+*  Everybody, including on Capitol Hill, knows that Social Security has a problem. [[00:05:21](https://www.youtube.com/watch?v=iQwUlMan7y8&t=321.38s)]
+*  Nobody, especially those on Capitol Hill, are prepared to do anything about it. [[00:05:25](https://www.youtube.com/watch?v=iQwUlMan7y8&t=325.54s)]
+*  As we all apparently agree, Social Security and Medicare is off the books now, right? [[00:05:29](https://www.youtube.com/watch?v=iQwUlMan7y8&t=329.7s)]
+*  They're not to be starved. [[00:05:35](https://www.youtube.com/watch?v=iQwUlMan7y8&t=335.38s)]
+*  We all would wish that politicians would show the political courage necessary to tackle [[00:05:38](https://www.youtube.com/watch?v=iQwUlMan7y8&t=338.02s)]
+*  this now and not wait until the 11th hour. [[00:05:42](https://www.youtube.com/watch?v=iQwUlMan7y8&t=342.18s)]
+*  Benefits and changes to retirement programs take a while to phase in. [[00:05:45](https://www.youtube.com/watch?v=iQwUlMan7y8&t=345.06s)]
+*  One of the last major reforms we had for Social Security were the 1983 reforms. [[00:05:48](https://www.youtube.com/watch?v=iQwUlMan7y8&t=348.66s)]
+*  Those amendments raised the retirement age to 67, but it took nearly 40 years to phase them in. [[00:05:53](https://www.youtube.com/watch?v=iQwUlMan7y8&t=353.14s)]
+*  There is a 10-year window, but we don't have 10 years to act. [[00:05:59](https://www.youtube.com/watch?v=iQwUlMan7y8&t=359.14s)]
+*  There has to be some kind of a legislative solution that comes along between now and then. [[00:06:02](https://www.youtube.com/watch?v=iQwUlMan7y8&t=362.02s)]
+*  By law, the program can't borrow anywhere else. [[00:06:06](https://www.youtube.com/watch?v=iQwUlMan7y8&t=366.9s)]
+*  The program is too important, too popular, for it to basically be allowed to run out of money. [[00:06:10](https://www.youtube.com/watch?v=iQwUlMan7y8&t=370.41999999999996s)]

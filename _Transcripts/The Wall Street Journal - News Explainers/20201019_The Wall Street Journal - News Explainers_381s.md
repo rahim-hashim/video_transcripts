@@ -1,0 +1,112 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 381s
+Video Keywords: ['economy', 'stock market', 'stock market news', 'stock market explained', 'stocks', 'stock prices', 'economcy explained', 'economy recovery', 'v shaped recovery', 'wsj', 'the wall street journal', 'wall street', 'unemployment', 'news', 'finance news', 'business news', 'business', 'finance', 'economy news', 'stock market economy', 'stocks economy', 'wsj economy', 'wsj explainer', 'wsj explains', 'wsj explain', 'explain', 'explains', 'explainer', 'stock', 'market', 'markets', 'news business']
+Video Views: 459445
+Video Rating: None
+Video Description: Stocks are booming while companies shed millions of workers from payrolls. WSJ explains why the stock market seems disconnected from economic reality in the U.S. Photo Illustration by Carlos Waters/WSJ
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Economy #Explainer
+---
+
+# The Stock Market Is Ignoring the Economy. Here's Why | WSJ
+**The Wall Street Journal - News Explainers:** [October 19, 2020](https://www.youtube.com/watch?v=vFJj4E1G2Qc)
+*  The stock market is back up after falling off a cliff earlier this year. [[00:00:00](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=0.0s)]
+*  You know, we've had these furious rallies. [[00:00:04](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=4.68s)]
+*  Investors continue to put their money into our stock market. [[00:00:06](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=6.6000000000000005s)]
+*  You're seeing new record highs on the S&P and NASDAQ. [[00:00:10](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=10.200000000000001s)]
+*  Major indexes haven't just recovered from the coronavirus shock. [[00:00:13](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=13.32s)]
+*  They're on a historic winning streak. [[00:00:16](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=16.76s)]
+*  But while stocks climbed, millions lost their jobs and fell out of the labor force. [[00:00:19](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=19.12s)]
+*  Companies say more layoffs could come this fall. [[00:00:23](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=23.96s)]
+*  This means that the wealthiest Americans are netting huge returns, [[00:00:27](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=27.16s)]
+*  while the poorest are losing opportunities to make money. [[00:00:30](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=30.6s)]
+*  I think the question on everyone's mind has been, [[00:00:33](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=33.4s)]
+*  how is the economy so bad while the stock market is soaring higher and higher? [[00:00:37](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=37.120000000000005s)]
+*  To get a sense for the disconnect, you can look at the labor market. [[00:00:44](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=44.760000000000005s)]
+*  We still have 11 million people out of the 22 million who were laid off [[00:00:48](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=48.16s)]
+*  in the payroll numbers in March and April. [[00:00:54](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=54.120000000000005s)]
+*  Still 11 million out there. [[00:00:56](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=56.68s)]
+*  And that's really good progress. [[00:00:58](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=58.28s)]
+*  We've put fully half of those back to work, but that's a long way to go. [[00:00:59](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=59.88s)]
+*  Our economy had come to a standstill during the pandemic. [[00:01:04](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=64.48s)]
+*  Americans are getting laid off. [[00:01:08](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=68.96000000000001s)]
+*  They're making less money. [[00:01:10](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=70.36s)]
+*  They're spending less money. [[00:01:11](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=71.4s)]
+*  And all of that hurts our economy. [[00:01:12](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=72.56s)]
+*  About half of the workers in the leisure and hospitality industry [[00:01:14](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=74.84s)]
+*  lost their jobs this summer. [[00:01:17](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=77.96000000000001s)]
+*  Casinos, airports and music venues sat virtually empty. [[00:01:19](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=79.92s)]
+*  That's weighing on consumer spending. [[00:01:23](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=83.6s)]
+*  It plummeted in March and still hasn't reached pre-pandemic levels. [[00:01:25](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=85.64s)]
+*  Experts say that this is unlikely to change until the virus is contained. [[00:01:30](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=90.19999999999999s)]
+*  That means businesses are making fewer sales and hiring fewer people. [[00:01:34](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=94.36s)]
+*  There were 10.7 million fewer U.S. jobs in September versus February. [[00:01:38](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=98.32s)]
+*  That will make it more difficult for the unemployed to find work. [[00:01:43](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=103.75999999999999s)]
+*  Despite a crumbling economy, the stock market has soared. [[00:01:47](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=107.75999999999999s)]
+*  And there are a few forces driving that rally. [[00:01:51](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=111.6s)]
+*  Most notable were the policies coming out of America's central bank. [[00:01:54](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=114.6s)]
+*  We acted forcefully to get our markets working again. [[00:01:58](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=118.83999999999999s)]
+*  And as a result, market conditions have generally improved. [[00:02:01](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=121.6s)]
+*  In March, the Fed made emergency loans available to banks, local governments [[00:02:05](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=125.32s)]
+*  and other players in the global economy. [[00:02:09](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=129.44s)]
+*  That kept investors optimistic about the future. [[00:02:11](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=131.95999999999998s)]
+*  And that can drive up the markets. [[00:02:14](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=134.56s)]
+*  Investors said the Fed stepped in like they'd never had before. [[00:02:16](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=136.68s)]
+*  Their response was quicker and more muscular than ever before. [[00:02:20](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=140.44s)]
+*  And that was a key driver for the stock market this spring. [[00:02:24](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=144.72s)]
+*  The bank started by slashing interest rates to near zero, which made it cheaper to borrow money. [[00:02:28](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=148.72s)]
+*  Then the bank started to buy debt. [[00:02:34](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=154.72s)]
+*  By September, the Fed controlled $7 trillion worth of assets, up from $4 trillion at the beginning of the pandemic. [[00:02:36](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=156.96s)]
+*  Overcoming months, we will continue to increase our holdings of Treasury securities [[00:02:44](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=164.08s)]
+*  and agency mortgage-backed securities, at least at the current pace. [[00:02:48](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=168.52s)]
+*  These asset purchases are intended to sustain smooth market functioning and help foster accommodative financial conditions. [[00:02:52](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=172.44s)]
+*  The bank's purchasing has sent yields on traditionally safe government debt to near all-time lows. [[00:02:59](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=179.92000000000002s)]
+*  That's driving investors toward stocks. [[00:03:05](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=185.4s)]
+*  Treasuries all of a sudden don't look as attractive because the yield on them is so low. [[00:03:07](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=187.36s)]
+*  So if you want returns, you might as well go to stocks. [[00:03:13](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=193.0s)]
+*  And that's kind of the calculus that a lot of investors have been doing. [[00:03:16](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=196.56s)]
+*  And it's actually, people call it the Quora Quotina effect. [[00:03:19](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=199.76s)]
+*  There is no alternative to stocks because yields are just so low. [[00:03:22](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=202.56s)]
+*  Where else are you going to go for returns? [[00:03:26](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=206.24s)]
+*  This and other actions from the Fed propped up the markets. [[00:03:28](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=208.44s)]
+*  And the money that flowed from these policies went into one section of the market in particular, technology. [[00:03:31](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=211.72s)]
+*  Tech stocks lifted entire market indexes this year. [[00:03:38](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=218.4s)]
+*  You can see that by comparing the tech-heavy NASDAQ and S&P indices to the performance of the Dow Jones industrial average. [[00:03:42](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=222.07999999999998s)]
+*  It's easy to think like, wow, stocks are doing so well. [[00:03:49](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=229.51999999999998s)]
+*  But what we've seen this year is that it's really a handful of stocks that are doing really well. [[00:03:52](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=232.44s)]
+*  And those are mainly technology companies. [[00:03:57](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=237.64s)]
+*  Apple, Microsoft, Amazon, Facebook, Alphabet. [[00:03:59](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=239.92s)]
+*  These big names offer products that were crucial to live life and conduct business in the pandemic. [[00:04:03](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=243.48s)]
+*  And their leaders took note on earnings calls this summer. [[00:04:08](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=248.95999999999998s)]
+*  This was a strong quarter for us, especially compared to what we expected at the start. [[00:04:11](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=251.84s)]
+*  We began to see a significant increase in customer demand beginning in early March. [[00:04:16](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=256.44s)]
+*  In an uncertain environment, Apple saw a quarter of historic results. [[00:04:20](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=260.72s)]
+*  Investors expect solid earnings from these companies, which will boost demand for their stock. [[00:04:25](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=265.6s)]
+*  You really can't overstate how well these tech companies have done this year. [[00:04:30](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=270.52s)]
+*  And what a big role that plays in driving the S&P 500 up higher. [[00:04:34](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=274.32s)]
+*  Apple loan recently was worth more than all of the stocks in the FTSE 100 index or all of the companies in the Russell 2000 index of small stocks. [[00:04:39](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=279.2s)]
+*  Tech stocks are doing so well that their gains are outweighing losses in financial companies and energy stocks, which haven't been able to rally. [[00:04:50](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=290.08s)]
+*  Smaller businesses are hurting, too. [[00:04:57](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=297.12s)]
+*  Bill Ackman of Pershing Square Holdings said that if there were a stock market index of private small businesses, it would likely be down 50 percent or more. [[00:04:59](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=299.44s)]
+*  While investors lock in expectations for earnings and tech, a flood of action from individual investors is also changing the markets. [[00:05:09](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=309.28s)]
+*  You're seeing newbie investors who had never traded before. [[00:05:16](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=316.32s)]
+*  They were stuck at home during the pandemic and they opened up brokerage accounts because it's never been easier to trade. [[00:05:19](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=319.03999999999996s)]
+*  It's never been easier to open an account. [[00:05:24](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=324.59999999999997s)]
+*  Digital brokers like Robinhood offer commission free trading, which has drawn more investors into the market. [[00:05:26](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=326.4s)]
+*  During the first six months of the year, individual investors made up about 20 percent of market activity. [[00:05:32](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=332.08s)]
+*  That's about a five percentage point jump from last year. [[00:05:37](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=337.36s)]
+*  Analysts said smaller investors drove up stocks like Nikola and Eastman Kodak, but they don't impact bigger names like Apple and Tesla. [[00:05:40](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=340.64s)]
+*  Brokers are making markets more accessible, but that's not helping the bottom half of American workers. [[00:05:49](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=349.52s)]
+*  Workers from lower income households were more likely to lose their jobs in the pandemic, and many in this group have historically been shut out of the stock market. [[00:05:55](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=355.24s)]
+*  Most stocks are held by the top 10 percent of Americans by wealth, according to data from the Federal Reserve. [[00:06:03](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=363.88s)]
+*  Charts like this sum up why a booming stock market seems disconnected from the economic reality for many Americans. [[00:06:09](https://www.youtube.com/watch?v=vFJj4E1G2Qc&t=369.96s)]

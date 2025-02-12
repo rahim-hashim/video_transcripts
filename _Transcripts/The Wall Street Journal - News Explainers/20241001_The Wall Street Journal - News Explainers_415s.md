@@ -1,0 +1,127 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 415s
+Video Keywords: ['pronatalism', 'pronatalist', 'elon musk', 'elon musk children', 'musk kids', 'musk pronatalism', 'malcolm collins', 'simone collins', 'fertility rate', 'birth rate', 'economic news', 'birth rate economy', 'sam altman', 'artificial eggs', 'embryo transfer', 'collins foundation', 'jaan tallinn', 'pronatalist movement', 'pronatalist collins', 'malcolm and simone', 'based camp', 'demographics', 'replacement rate', 'global economy', 'fertility collapse', 'populations', 'silicon valley', 'homogenization', 'genomics', 'bioethics', 'wonews']
+Video Views: 510159
+Video Rating: None
+Video Description: With global fertility rates in freefall, some Silicon Valley execs like Elon Musk are aiming to halt the decline – by having as many babies as possible. The pronatalism movement, mostly populated by religious conservatives and immigration opponents, is built on the belief that lower fertility rates will lead to economic and political catastrophe.
+
+WSJ explains the movement advocating for higher birth rates and why some critics think it may not have the desired outcome.
+
+Chapters:
+0:00 Pronatalism
+1:19 The argument
+2:35 Leaders of the movement
+4:55 Causes and solutions
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Economy #ElonMusk #WSJ
+---
+
+# Why Musk and Other Tech Execs Want as Many Babies as Possible | WSJ
+**The Wall Street Journal - News Explainers:** [October 01, 2024](https://www.youtube.com/watch?v=dx3NjGSrpQ8)
+*  Four kids under five years old, and Malcolm and Simone Collins say they're just getting [[00:00:00](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=0.0s)]
+*  started. [[00:00:08](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=8.06s)]
+*  They run a foundation to support pronatalism, a movement mostly populated by religious conservatives [[00:00:09](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=9.06s)]
+*  and immigration opponents concerned that falling fertility rates could lead to economic and [[00:00:15](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=15.6s)]
+*  political catastrophe. [[00:00:20](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=20.34s)]
+*  You're going to have a chain reaction of collapses. [[00:00:21](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=21.5s)]
+*  The movement's ideas have also garnered support from a few tech titans, including Elon Musk, [[00:00:24](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=24.88s)]
+*  father of 12, who has said civilization will crumble if people don't have more kids. [[00:00:31](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=31.0s)]
+*  Having a kid is a vote for the future. [[00:00:36](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=36.44s)]
+*  Other technological optimists like OpenAI's Sam Altman are focusing on improving fertility [[00:00:38](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=38.8s)]
+*  tech like creating artificial eggs and sequencing embryos' genes, providing families more [[00:00:44](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=44.0s)]
+*  options. [[00:00:49](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=49.92s)]
+*  Of course I'm going to have a big family. [[00:00:50](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=50.92s)]
+*  That's what I'm going to spend my time doing. [[00:00:52](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=52.92s)]
+*  I'll just raise great kids. [[00:00:54](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=54.519999999999996s)]
+*  Skype co-founder Jan Tallin donated just under half a million dollars through a donor-advised [[00:00:56](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=56.04s)]
+*  fund to the Collins' foundation. [[00:01:01](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=61.68s)]
+*  Sometimes I've been asking people two questions, like A, can you program? [[00:01:03](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=63.96s)]
+*  And B, do you have children? [[00:01:07](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=67.52s)]
+*  We spoke to the Collins' about the tie between Silicon Valley and the pronatalist movement [[00:01:08](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=68.96s)]
+*  and to an economist and ethicist about what they're missing. [[00:01:14](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=74.12s)]
+*  Alright guys, going in. [[00:01:17](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=77.88s)]
+*  Demographics are going to determine our future in the next 100 years in such a fundamental [[00:01:20](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=80.48s)]
+*  way that it's hard to think about anything else. [[00:01:24](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=84.96000000000001s)]
+*  Each of these lines shows a projection of the number of children a woman from these [[00:01:28](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=88.2s)]
+*  demographics will have in her lifetime. [[00:01:32](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=92.64s)]
+*  Right now the average is between two and three, but in 50 years that's on track to be fewer [[00:01:35](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=95.92s)]
+*  than two, below the replacement rate. [[00:01:41](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=101.12s)]
+*  The Collins say that could spiral into a more precipitous decline, what they call fertility [[00:01:44](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=104.04s)]
+*  collapse. [[00:01:49](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=109.56s)]
+*  Fertility collapse means we may enter a state in which the global economy is shrinking every [[00:01:51](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=111.28s)]
+*  year on average. [[00:01:54](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=114.88s)]
+*  We simply didn't build the global economy with this potentiality ever in mind. [[00:01:55](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=115.96000000000001s)]
+*  When this happens, the entire economic and geopolitical system that our world runs on [[00:02:01](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=121.2s)]
+*  will begin to fall apart. [[00:02:08](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=128.0s)]
+*  Economists and demographers also see a threat. [[00:02:10](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=130.72s)]
+*  They say that if populations decline, so will economic output. [[00:02:13](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=133.32s)]
+*  Lower output is bad because you cannot pay back your public debt, you cannot service [[00:02:17](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=137.35999999999999s)]
+*  your social security. [[00:02:21](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=141.88s)]
+*  In general, governments have much fewer resources. [[00:02:22](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=142.88s)]
+*  Countries like Japan, with a fertility rate of 1.3, are already considering proposals [[00:02:26](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=146.83999999999997s)]
+*  to shrink social security plans. [[00:02:32](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=152.95999999999998s)]
+*  Simone Collins, who is running for state representative in Pennsylvania as a Republican, in part sees [[00:02:36](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=156.56s)]
+*  falling fertility rates as a cultural problem. [[00:02:42](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=162.27999999999997s)]
+*  One of the primary dampeners on fertility, especially in developed nations, is a homogenization [[00:02:45](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=165.2s)]
+*  of culture, often through the public school system, sometimes through other means as well. [[00:02:51](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=171.48s)]
+*  Universities are a common culprit as well. [[00:02:56](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=176.67999999999998s)]
+*  That causes people to enter a very low fertility urban monoculture, essentially, that kind [[00:03:00](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=180.44s)]
+*  of is the death knell of fertility. [[00:03:08](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=188.39999999999998s)]
+*  Villaverde thinks there are other forces at play. [[00:03:10](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=190.92s)]
+*  Education has become very expensive all across the world, not only in the U.S., both in terms [[00:03:13](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=193.84s)]
+*  of money, but also in terms of time. [[00:03:18](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=198.36s)]
+*  So you need to be on top of your kid during the four years of high school and be sure [[00:03:20](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=200.76s)]
+*  that your kid does the homework and be sure that the kid goes to all the right activities [[00:03:24](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=204.8s)]
+*  in the afternoon. [[00:03:30](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=210.84s)]
+*  And that means that unless you have a lot of income, it's very difficult to have one [[00:03:31](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=211.84s)]
+*  or more than two kids. [[00:03:35](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=215.96s)]
+*  The Collins' don't just think people should try to have more kids. [[00:03:38](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=218.28s)]
+*  They think people should be able to use technology to select for certain characteristics. [[00:03:41](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=221.8s)]
+*  The family has used startup genomic prediction, which Sam Altman has invested in, to test [[00:03:47](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=227.16000000000003s)]
+*  their embryos for things like IQ. [[00:03:52](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=232.68s)]
+*  One of our embryos is in the 99.8th percentile or something completely insane for intelligence. [[00:03:56](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=236.32000000000002s)]
+*  We call him the champion. [[00:04:03](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=243.38000000000002s)]
+*  If you have parents selecting for the most of certain traits that they value, athleticism [[00:04:04](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=244.76000000000002s)]
+*  or intelligence or prosociality, you're going to see groups completely change in a short [[00:04:10](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=250.2s)]
+*  number of generations. [[00:04:18](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=258.12s)]
+*  But bioethicists say there's a risk the technology could be used for discrimination. [[00:04:19](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=259.64s)]
+*  This type of technique raises all sorts of ethical issues. [[00:04:25](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=265.15999999999997s)]
+*  So we know from the past that people have used this to discriminate, segregate and [[00:04:28](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=268.64s)]
+*  even exterminate certain populations. [[00:04:35](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=275.28s)]
+*  This is the well-known negative eugenics movement. [[00:04:37](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=277.48s)]
+*  We have to be very careful when we sort of engage in this, you know, use this technology [[00:04:40](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=280.12s)]
+*  to make sure that we don't discriminate against big segments of the population. [[00:04:46](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=286.68s)]
+*  Economists and demographers suggest other solutions. [[00:04:52](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=292.92s)]
+*  I'm a very, very strong advocate of incredibly generous parental leave financed by the federal [[00:04:55](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=295.76s)]
+*  government. [[00:05:02](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=302.72s)]
+*  The federal government should pay 12 months parental leave both for the father and for [[00:05:03](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=303.72s)]
+*  the mother. [[00:05:10](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=310.12s)]
+*  The Collins's don't believe the federal government should pay generous parental leave. [[00:05:11](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=311.12s)]
+*  They think workplaces should make it easier for women to work from home. [[00:05:15](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=315.96000000000004s)]
+*  And they say to move the needle on fertility, big cultural shifts will have to happen. [[00:05:20](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=320.32000000000005s)]
+*  I think it's going to be very hard to motivate above replacement fertility rates if you don't [[00:05:25](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=325.16s)]
+*  assign some degree of cultural status to the sacrifices that goes with motherhood. [[00:05:30](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=330.88s)]
+*  Cultural changes can take time, but the Collins's say that having Musk and other Silicon Valley [[00:05:37](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=337.28s)]
+*  executives behind the cause helps get the word out. [[00:05:42](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=342.24s)]
+*  I think one of the reasons why Silicon Valley is also into prenatalism is because it is [[00:05:45](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=345.74s)]
+*  one of the few areas and groups of people where people have the luxury of thinking in [[00:05:50](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=350.58s)]
+*  terms of the long term. [[00:05:57](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=357.58s)]
+*  When you look at venture capital, they're looking 10, 20, 50 years out often. [[00:05:59](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=359.08s)]
+*  And that's where you're going to start seeing the ramifications of demographic collapse. [[00:06:03](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=363.59999999999997s)]
+*  Bioethicists say that's not necessarily a good thing. [[00:06:08](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=368.47999999999996s)]
+*  But they're thinking so far ahead into the future that they're not thinking about the [[00:06:11](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=371.91999999999996s)]
+*  present. [[00:06:15](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=375.64s)]
+*  They're not thinking about who's going to take care of these kids, whether they're going [[00:06:16](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=376.64s)]
+*  to have proper education, whether they're going to have health care, and so on and so [[00:06:19](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=379.56s)]
+*  forth. [[00:06:24](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=384.4s)]
+*  And demographers say that sharply increased growth may not be a good thing either. [[00:06:25](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=385.62s)]
+*  I'm not saying, no, let's go back to the times where we have eight kids. [[00:06:30](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=390.34000000000003s)]
+*  I'm just saying let's go back to the times where people had two kids. [[00:06:33](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=393.1s)]
+*  OK, so what I basically want to do is to stabilize the population or at least, you know, if we [[00:06:36](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=396.34000000000003s)]
+*  are going to have a decline, have a gentle decline over time, not a precipice. [[00:06:41](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=401.82s)]
+*  We don't want to fall through a cliff. [[00:06:46](https://www.youtube.com/watch?v=dx3NjGSrpQ8&t=406.48s)]

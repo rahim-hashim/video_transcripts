@@ -1,0 +1,110 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 530s
+Video Keywords: ['gme', 'gamestop', 'gme explained', 'what is gme', 'gamestop stock', 'gme stock', 'gme stock market', 'stock market', 'robinhood', 'robinhood gme', 'robinhood options', 'gme options', 'amc', 'amc stock', 'amc stock market', 'robinhood amc', 'wall street', 'hedge funds', 'reddit', 'wallstreetbets', 'wall street bets', 'short squeeze', 'gamestop short squeeze', 'gme short squeeze', 'gme stock analysis', 'gamestop stock analysis', 'stock market news', 'gme stock short squeeze', 'amc short squeeze', 'wsj', 'the wall street journal', 'wsj gme']
+Video Views: 55704
+Video Rating: None
+Video Description: In just five days, GameStop’s shares soared up to 500%. WSJ analyzed how Reddit posts, YouTube videos and tweets by personalities including Elon Musk spread online and fueled a trading craze that turned Wall Street upside down. Photo illustration: George Downs/WSJ
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #GameStop #GME
+---
+
+# GameStop Trading Craze: The Week Underdog Stocks Took On Wall Street | WSJ
+**The Wall Street Journal - News Explainers:** [February 03, 2021](https://www.youtube.com/watch?v=AkgC5UibkGM)
+*  Shares of GameStop, a struggling video game retailer, were worth just under $3 earlier in the pandemic. [[00:00:00](https://www.youtube.com/watch?v=AkgC5UibkGM&t=0.0s)]
+*  But within weeks in 2021, they went from $17 to a peak of $468. [[00:00:07](https://www.youtube.com/watch?v=AkgC5UibkGM&t=7.0s)]
+*  And most of those gains happened in just one week, one of the wildest moments in Wall Street history. [[00:00:14](https://www.youtube.com/watch?v=AkgC5UibkGM&t=14.0s)]
+*  GameStop shot up as much as 500%. Even as many Wall Street professionals had bet it would fall to near zero. [[00:00:20](https://www.youtube.com/watch?v=AkgC5UibkGM&t=20.0s)]
+*  Because pretty much their business is in terminal decline. [[00:00:28](https://www.youtube.com/watch?v=AkgC5UibkGM&t=28.0s)]
+*  That whole drama really accelerated within the span of a week, which just shows you how quickly these events can play out when so many people are talking about it online. [[00:00:31](https://www.youtube.com/watch?v=AkgC5UibkGM&t=31.0s)]
+*  What makes this rally unique is that it was driven by individual investors using apps like Robinhood and watching YouTube videos, tweets from celebrities like Elon Musk, and the now famous Wall Street Bets Reddit page. [[00:00:41](https://www.youtube.com/watch?v=AkgC5UibkGM&t=41.0s)]
+*  Wall Street Bets on Reddit, GameStop. [[00:00:54](https://www.youtube.com/watch?v=AkgC5UibkGM&t=54.0s)]
+*  What is going on in the Reddit community now that is insane. [[00:00:56](https://www.youtube.com/watch?v=AkgC5UibkGM&t=56.0s)]
+*  You're seeing a huge number of people on these commission free trading apps able to make trades just from their mobile phone really quickly. [[00:00:59](https://www.youtube.com/watch?v=AkgC5UibkGM&t=59.0s)]
+*  And a huge number of people discussing these trades on social media. [[00:01:07](https://www.youtube.com/watch?v=AkgC5UibkGM&t=67.0s)]
+*  Together, I think those two forces combined to produce what we've been seeing the last week, which is basically this social media driven trading frenzy. [[00:01:11](https://www.youtube.com/watch?v=AkgC5UibkGM&t=71.0s)]
+*  We looked at how the GameStop trading craze spread online and turned Wall Street upside down during one wild week in January. [[00:01:20](https://www.youtube.com/watch?v=AkgC5UibkGM&t=80.0s)]
+*  GameStop's frantic trading week started on the website Reddit. [[00:01:27](https://www.youtube.com/watch?v=AkgC5UibkGM&t=87.0s)]
+*  People have gathered on a popular page or subreddit called Wall Street Bets since 2012. [[00:01:31](https://www.youtube.com/watch?v=AkgC5UibkGM&t=91.0s)]
+*  But on January 25th, the subreddit's most popular post was this. [[00:01:37](https://www.youtube.com/watch?v=AkgC5UibkGM&t=97.0s)]
+*  GME YOLO update. [[00:01:41](https://www.youtube.com/watch?v=AkgC5UibkGM&t=101.0s)]
+*  GME is GameStop's stock ticker symbol and YOLO means you only live once. [[00:01:43](https://www.youtube.com/watch?v=AkgC5UibkGM&t=103.0s)]
+*  The post had a screenshot of an investment summary from a Massachusetts resident named Keith Gill, or as he's known on Reddit, DFV. [[00:01:48](https://www.youtube.com/watch?v=AkgC5UibkGM&t=108.0s)]
+*  Short for something we can't say in this video. [[00:01:56](https://www.youtube.com/watch?v=AkgC5UibkGM&t=116.0s)]
+*  He also goes by roaring kitty on YouTube. [[00:01:59](https://www.youtube.com/watch?v=AkgC5UibkGM&t=119.0s)]
+*  This was a true YOLO for me when I was building this position last year. [[00:02:02](https://www.youtube.com/watch?v=AkgC5UibkGM&t=122.0s)]
+*  We had nowhere close to a million dollars. [[00:02:08](https://www.youtube.com/watch?v=AkgC5UibkGM&t=128.0s)]
+*  Cheers, everybody. [[00:02:12](https://www.youtube.com/watch?v=AkgC5UibkGM&t=132.0s)]
+*  The screenshot from a 34-year-old who, until recently, worked in marketing showed that he had more than $13 million in GameStop stocks, options, and cash. [[00:02:15](https://www.youtube.com/watch?v=AkgC5UibkGM&t=135.0s)]
+*  The replies to the post were largely praising Gill, some saying they're jumping in to buy GameStop shares as well, with a lot of rocket emojis. [[00:02:25](https://www.youtube.com/watch?v=AkgC5UibkGM&t=145.0s)]
+*  Keep all hands and feet inside the rocket as they launch GameStop stock to the moon. [[00:02:34](https://www.youtube.com/watch?v=AkgC5UibkGM&t=154.0s)]
+*  Much of the GameStop trading wasn't just buying and selling shares, but also a lot of complex transactions such as options contracts, which allow investors to bet on how the price of a stock will rise or fall. [[00:02:39](https://www.youtube.com/watch?v=AkgC5UibkGM&t=159.0s)]
+*  There was so much activity that GameStop trading was halted multiple times that day. [[00:02:51](https://www.youtube.com/watch?v=AkgC5UibkGM&t=171.0s)]
+*  The company's stock actually closed lower at $76, but stood out as the most heavily traded stock in the S&P 500. [[00:02:56](https://www.youtube.com/watch?v=AkgC5UibkGM&t=176.0s)]
+*  On January 26, GameStop got a huge boost. [[00:03:04](https://www.youtube.com/watch?v=AkgC5UibkGM&t=184.0s)]
+*  Tesla CEO Elon Musk chimed in, tweeting GameStonk, with a link to the WallStreetBets subreddit. [[00:03:07](https://www.youtube.com/watch?v=AkgC5UibkGM&t=187.0s)]
+*  Stonk is a term widely used by online investors to talk about stock trading. [[00:03:13](https://www.youtube.com/watch?v=AkgC5UibkGM&t=193.0s)]
+*  The tweet was liked over 251,000 times and got more than 38,000 retweets. [[00:03:18](https://www.youtube.com/watch?v=AkgC5UibkGM&t=198.0s)]
+*  Elon Musk's tweet was kind of another one of those unbelievable moments in this whole saga, because you suddenly saw everyone talking about this, like celebrities, business owners, and so on. [[00:03:23](https://www.youtube.com/watch?v=AkgC5UibkGM&t=203.0s)]
+*  Business owners, executives, people you thought would never be following this forum and following this GameStop drama. [[00:03:36](https://www.youtube.com/watch?v=AkgC5UibkGM&t=216.0s)]
+*  Another popular tweet came from Chamath Palihapitiya, a venture capitalist and former Facebook executive. [[00:03:44](https://www.youtube.com/watch?v=AkgC5UibkGM&t=224.0s)]
+*  He said he bought calls on GameStop, meaning he was betting the share price would continue to rise. [[00:03:51](https://www.youtube.com/watch?v=AkgC5UibkGM&t=231.0s)]
+*  By the time markets closed on Tuesday, GameStop's share price was up to $147. [[00:03:56](https://www.youtube.com/watch?v=AkgC5UibkGM&t=236.0s)]
+*  And on January 27th... [[00:04:02](https://www.youtube.com/watch?v=AkgC5UibkGM&t=242.0s)]
+*  I think that what you're seeing is essentially a pushback against the establishment in a really important way. [[00:04:04](https://www.youtube.com/watch?v=AkgC5UibkGM&t=244.0s)]
+*  GME went mainstream, making headlines around the world. [[00:04:13](https://www.youtube.com/watch?v=AkgC5UibkGM&t=253.0s)]
+*  Social media average Joes versus big money players. [[00:04:16](https://www.youtube.com/watch?v=AkgC5UibkGM&t=256.0s)]
+*  Video game retailer GameStop is set to continue their head spinning ascent today. [[00:04:20](https://www.youtube.com/watch?v=AkgC5UibkGM&t=260.0s)]
+*  It's WallStreet's David versus Goliath. [[00:04:24](https://www.youtube.com/watch?v=AkgC5UibkGM&t=264.0s)]
+*  That whole frenzy kind of caught the attention of a lot of people. [[00:04:26](https://www.youtube.com/watch?v=AkgC5UibkGM&t=266.0s)]
+*  I mean, I talked to some people on Twitter and on Reddit who had never traded before, but they just saw what was happening with GameStop and they sort of couldn't resist. [[00:04:30](https://www.youtube.com/watch?v=AkgC5UibkGM&t=270.0s)]
+*  It was kind of like a FOMO moment. [[00:04:39](https://www.youtube.com/watch?v=AkgC5UibkGM&t=279.0s)]
+*  The WallStreetBets Reddit page temporarily went private, with moderators citing technical difficulties on an unprecedented scale as a result of the newfound interest in WSB. [[00:04:41](https://www.youtube.com/watch?v=AkgC5UibkGM&t=281.0s)]
+*  The stock closed at $347. [[00:04:52](https://www.youtube.com/watch?v=AkgC5UibkGM&t=292.0s)]
+*  But then... [[00:04:55](https://www.youtube.com/watch?v=AkgC5UibkGM&t=295.0s)]
+*  Robinhood just absolutely screwed over all the retail investors today. [[00:04:57](https://www.youtube.com/watch?v=AkgC5UibkGM&t=297.0s)]
+*  This is madness. [[00:05:01](https://www.youtube.com/watch?v=AkgC5UibkGM&t=301.0s)]
+*  This is absolute madness. [[00:05:02](https://www.youtube.com/watch?v=AkgC5UibkGM&t=302.0s)]
+*  On January 28th, the popular trading platform Robinhood restricted trading of hot stocks, including GameStop, giving users only two options. [[00:05:04](https://www.youtube.com/watch?v=AkgC5UibkGM&t=304.0s)]
+*  Hold or sell, but not buy. [[00:05:13](https://www.youtube.com/watch?v=AkgC5UibkGM&t=313.0s)]
+*  GameStop shares plummeted. [[00:05:16](https://www.youtube.com/watch?v=AkgC5UibkGM&t=316.0s)]
+*  Robinhood said it restricted some trading on its platform because it needed more money to pay its clearinghouse, [[00:05:18](https://www.youtube.com/watch?v=AkgC5UibkGM&t=318.0s)]
+*  which processes trades on the backend due to increased activity. [[00:05:23](https://www.youtube.com/watch?v=AkgC5UibkGM&t=323.0s)]
+*  Other brokerage firms like Webull Financial and E-Trade had also restricted trading of GameStop, citing challenges in providing their normal services. [[00:05:28](https://www.youtube.com/watch?v=AkgC5UibkGM&t=328.0s)]
+*  But Robinhood got a lot of backlash as its brand is built around the idea of making investment more accessible. [[00:05:36](https://www.youtube.com/watch?v=AkgC5UibkGM&t=336.0s)]
+*  That was, I think, a real flashpoint. [[00:05:43](https://www.youtube.com/watch?v=AkgC5UibkGM&t=343.0s)]
+*  I think it really added to the sense of anger and the sort of victim mentality that was growing because a lot of these individuals who had just seen these stocks doing really well [[00:05:46](https://www.youtube.com/watch?v=AkgC5UibkGM&t=346.0s)]
+*  tried to get in on the action and then saw overnight that they were unable to do so. [[00:05:59](https://www.youtube.com/watch?v=AkgC5UibkGM&t=359.0s)]
+*  Politicians across the aisle, including Alexandria Ocasio-Cortez and Ted Cruz, tweeted their support for a hearing on Robinhood's decision to restrict trading. [[00:06:04](https://www.youtube.com/watch?v=AkgC5UibkGM&t=364.0s)]
+*  At market's close, GameStop's share price settled around $193 after peaking at roughly $468. [[00:06:14](https://www.youtube.com/watch?v=AkgC5UibkGM&t=374.0s)]
+*  At the end of the week, GameStop's stock was worth $328. [[00:06:22](https://www.youtube.com/watch?v=AkgC5UibkGM&t=382.0s)]
+*  That's up 1600% in 2021. [[00:06:27](https://www.youtube.com/watch?v=AkgC5UibkGM&t=387.0s)]
+*  It's been crazy out there. [[00:06:30](https://www.youtube.com/watch?v=AkgC5UibkGM&t=390.0s)]
+*  What started off as a unique market strategy has evolved into class warfare and a full on market rebellion. [[00:06:32](https://www.youtube.com/watch?v=AkgC5UibkGM&t=392.0s)]
+*  GME trading eventually resumed on Robinhood, though it was still limited, and GameStop shares rose again. [[00:06:38](https://www.youtube.com/watch?v=AkgC5UibkGM&t=398.0s)]
+*  Wall Street Bets was full of memes, investment screenshots, and members celebrating the fact that they made a real impact on Wall Street. [[00:06:45](https://www.youtube.com/watch?v=AkgC5UibkGM&t=405.0s)]
+*  In an exclusive interview with The Wall Street Journal, Keith Gill said he didn't expect this story to get so big. [[00:06:52](https://www.youtube.com/watch?v=AkgC5UibkGM&t=412.0s)]
+*  There was a real acknowledgement of how surreal this moment was that Wall Street Bets had become the center of this drama and had actually become this serious thing that people were talking about. [[00:06:58](https://www.youtube.com/watch?v=AkgC5UibkGM&t=418.0s)]
+*  Because a lot of the users would say that it sort of, it started out as a joke. [[00:07:10](https://www.youtube.com/watch?v=AkgC5UibkGM&t=430.0s)]
+*  In just one week, Wall Street Bets membership had grown from 2.1 million to 6.4 million, and Google searches for GameStop had nearly doubled. [[00:07:16](https://www.youtube.com/watch?v=AkgC5UibkGM&t=436.0s)]
+*  What a crazy thing to be looking at here. This is GameStop's chart, looking at the daily, just absolute insanity. [[00:07:25](https://www.youtube.com/watch?v=AkgC5UibkGM&t=445.0s)]
+*  The dramatic trading frenzy has also brought scrutiny from the White House, Congress, and the SEC, with planned hearings and calls for an investigation and tighter regulation. [[00:07:31](https://www.youtube.com/watch?v=AkgC5UibkGM&t=451.0s)]
+*  And Robinhood faced a number of class actions from users over its trading restrictions. [[00:07:41](https://www.youtube.com/watch?v=AkgC5UibkGM&t=461.0s)]
+*  GameStop is still mostly a traditional brick and mortar company, selling video games and consoles in malls. [[00:07:47](https://www.youtube.com/watch?v=AkgC5UibkGM&t=467.0s)]
+*  And by February 2nd, its stock value had dropped to $90. [[00:07:53](https://www.youtube.com/watch?v=AkgC5UibkGM&t=473.0s)]
+*  While some Redditors made millions trading GameStop, other retail investors who bought when the price was high are likely nursing big losses. [[00:07:58](https://www.youtube.com/watch?v=AkgC5UibkGM&t=478.0s)]
+*  But GameStop has changed the debate about the democratization of the stock market and the power of individual investors online. [[00:08:06](https://www.youtube.com/watch?v=AkgC5UibkGM&t=486.0s)]
+*  With Wall Street Bets' newfound following, the Reddit crowd has already targeted other stocks and assets and demonstrated that it can have an impact on markets. [[00:08:15](https://www.youtube.com/watch?v=AkgC5UibkGM&t=495.0s)]
+*  I think for me, the biggest takeaway is that you cannot ignore the individual. [[00:08:23](https://www.youtube.com/watch?v=AkgC5UibkGM&t=503.0s)]
+*  It's something to behold, and it teaches us that this moment can sort of replicate itself in many other ways. [[00:08:28](https://www.youtube.com/watch?v=AkgC5UibkGM&t=508.0s)]
+*  Like, it doesn't have to just be a GameStop. We've already seen it's moved on to silver prices. [[00:08:35](https://www.youtube.com/watch?v=AkgC5UibkGM&t=515.0s)]
+*  It's moved on to other things that you wouldn't have necessarily thought about. [[00:08:41](https://www.youtube.com/watch?v=AkgC5UibkGM&t=521.0s)]

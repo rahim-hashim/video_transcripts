@@ -1,0 +1,135 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 431s
+Video Keywords: ['taliban', 'afghanistan', 'war in afghanistan', 'joe biden', 'kabul', 'taliban peace deal', 'taliban peace talks', 'united states', 'afghanistan news', 'afghanistan latest news', 'us taliban peace deal', 'biden foreign policy', 'us and taliban', 'united staves taliban', 'united states news', 'us army', 'united states army', 'us troops', 'taliban timeline', 'wsj explains', 'wsj explainer', 'wsj explainers', 'wsj explained', 'the wall street journal']
+Video Views: 575334
+Video Rating: None
+Video Description: As U.S. troops leave Afghanistan, the Taliban gains ground
+
+As America puts an end to its war in Afghanistan after 20 years, a WSJ analysis of data shows how the Taliban has gradually taken back control of much of the country and expanded its military presence after being toppled in 2001. Photo Illustration: George Downs
+
+WSJ Explains
+News moves fast, and there's not always time to untangle the complex forces driving the day's biggest stories. WSJ Explains breaks down big market moves, business and economic trends, and scientific developments to help you stay ahead of the curve.
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Afghanistan #WSJExplains
+---
+
+# How Taliban Expanded in Afghanistan During America's Longest War | WSJ
+**The Wall Street Journal - News Explainers:** [August 02, 2021](https://www.youtube.com/watch?v=_1DJHcju-oA)
+*  May 1, 2003, the U.S. declares victory in Afghanistan. [[00:00:00](https://www.youtube.com/watch?v=_1DJHcju-oA&t=0.0s)]
+*  The bulk of this country today is permissive, it's secure. [[00:00:08](https://www.youtube.com/watch?v=_1DJHcju-oA&t=8.76s)]
+*  The Taliban had been toppled only months after 9-11, and there were some 13,000 NATO troops [[00:00:13](https://www.youtube.com/watch?v=_1DJHcju-oA&t=13.120000000000001s)]
+*  in the country. [[00:00:18](https://www.youtube.com/watch?v=_1DJHcju-oA&t=18.28s)]
+*  Fast forward nearly 20 years. [[00:00:19](https://www.youtube.com/watch?v=_1DJHcju-oA&t=19.88s)]
+*  American soldiers have left, the Taliban have come back, and the United Nations says civilian [[00:00:21](https://www.youtube.com/watch?v=_1DJHcju-oA&t=21.8s)]
+*  deaths of women and children in Afghanistan have hit record levels. [[00:00:26](https://www.youtube.com/watch?v=_1DJHcju-oA&t=26.6s)]
+*  While it's difficult to map exactly how much territory the group actually controls, limited [[00:00:30](https://www.youtube.com/watch?v=_1DJHcju-oA&t=30.840000000000003s)]
+*  data suggests it's more than half of the country, with the insurgents claiming authority [[00:00:35](https://www.youtube.com/watch?v=_1DJHcju-oA&t=35.52s)]
+*  over major border crossings and infrastructure. [[00:00:39](https://www.youtube.com/watch?v=_1DJHcju-oA&t=39.94s)]
+*  Many people both inside and outside the country have been surprised by the speed and the scale [[00:00:42](https://www.youtube.com/watch?v=_1DJHcju-oA&t=42.6s)]
+*  of the Taliban's advances and by how fragile the Afghan government's authority is looking. [[00:00:47](https://www.youtube.com/watch?v=_1DJHcju-oA&t=47.96s)]
+*  It's time to end America's longest war. [[00:00:52](https://www.youtube.com/watch?v=_1DJHcju-oA&t=52.92s)]
+*  It's time for American troops to come home. [[00:00:55](https://www.youtube.com/watch?v=_1DJHcju-oA&t=55.76s)]
+*  Before Biden ordered America's troops to leave, the U.S. have been trying to exit for a while. [[00:00:58](https://www.youtube.com/watch?v=_1DJHcju-oA&t=58.32s)]
+*  And by the end of next year, our war in Afghanistan will be over. [[00:01:03](https://www.youtube.com/watch?v=_1DJHcju-oA&t=63.12s)]
+*  The Taliban victories meant that U.S. soldiers remained in the country much longer than intended. [[00:01:08](https://www.youtube.com/watch?v=_1DJHcju-oA&t=68.24s)]
+*  And now the foreign troops have gone and the Taliban is steadily taking over large parts [[00:01:13](https://www.youtube.com/watch?v=_1DJHcju-oA&t=73.08s)]
+*  of the country. [[00:01:17](https://www.youtube.com/watch?v=_1DJHcju-oA&t=77.12s)]
+*  Here's how the insurgent group has expanded to become stronger than it's been in 20 years, [[00:01:18](https://www.youtube.com/watch?v=_1DJHcju-oA&t=78.12s)]
+*  keeping the conditions for potential chaos as U.S. troops leave behind a country on the [[00:01:22](https://www.youtube.com/watch?v=_1DJHcju-oA&t=82.92s)]
+*  brink of civil war. [[00:01:26](https://www.youtube.com/watch?v=_1DJHcju-oA&t=86.64s)]
+*  At the beginning of the war, America's campaign in Afghanistan reached some milestones in [[00:01:29](https://www.youtube.com/watch?v=_1DJHcju-oA&t=89.72s)]
+*  just a few months. [[00:01:33](https://www.youtube.com/watch?v=_1DJHcju-oA&t=93.6s)]
+*  When the U.S.-led coalition invaded Afghanistan, the Taliban had controlled the country for [[00:01:34](https://www.youtube.com/watch?v=_1DJHcju-oA&t=94.6s)]
+*  five years after taking power following an extremely violent civil war. [[00:01:38](https://www.youtube.com/watch?v=_1DJHcju-oA&t=98.88s)]
+*  They had imposed strict Islamic rule on Afghanistan. [[00:01:44](https://www.youtube.com/watch?v=_1DJHcju-oA&t=104.4s)]
+*  All that changed after 9-11, when President Bush set out to punish the group for harboring [[00:01:47](https://www.youtube.com/watch?v=_1DJHcju-oA&t=107.0s)]
+*  al-Qaeda terrorists. [[00:01:51](https://www.youtube.com/watch?v=_1DJHcju-oA&t=111.64s)]
+*  The United States military has begun strikes against al-Qaeda terrorist training camps [[00:01:53](https://www.youtube.com/watch?v=_1DJHcju-oA&t=113.0s)]
+*  and military installations of the Taliban regime in Afghanistan. [[00:01:58](https://www.youtube.com/watch?v=_1DJHcju-oA&t=118.8s)]
+*  Bush deployed some 2,500 U.S. [[00:02:02](https://www.youtube.com/watch?v=_1DJHcju-oA&t=122.84s)]
+*  troops into the country, causing the Taliban to abandon Kabul and soon thereafter Kandahar, [[00:02:05](https://www.youtube.com/watch?v=_1DJHcju-oA&t=125.24000000000001s)]
+*  their main stronghold. [[00:02:10](https://www.youtube.com/watch?v=_1DJHcju-oA&t=130.6s)]
+*  The Taliban were a broken force at that time. [[00:02:11](https://www.youtube.com/watch?v=_1DJHcju-oA&t=131.88s)]
+*  They gave up barely without a fight and melded back into society and retreated into [[00:02:14](https://www.youtube.com/watch?v=_1DJHcju-oA&t=134.6s)]
+*  villages. [[00:02:19](https://www.youtube.com/watch?v=_1DJHcju-oA&t=139.84s)]
+*  Some Taliban commanders actually offered to surrender in return for amnesty, but the U.S. [[00:02:20](https://www.youtube.com/watch?v=_1DJHcju-oA&t=140.88s)]
+*  declined that offer and wanted to keep fighting them. [[00:02:25](https://www.youtube.com/watch?v=_1DJHcju-oA&t=145.8s)]
+*  They wanted to stamp out every last terrorist from Afghanistan. [[00:02:29](https://www.youtube.com/watch?v=_1DJHcju-oA&t=149.52s)]
+*  Instead, the Taliban regrouped in Pakistan, where they received shelter and support with [[00:02:32](https://www.youtube.com/watch?v=_1DJHcju-oA&t=152.88s)]
+*  the aim of returning later. [[00:02:37](https://www.youtube.com/watch?v=_1DJHcju-oA&t=157.52s)]
+*  The Taliban began their resurgence, and by the middle of the decade, they had launched [[00:02:40](https://www.youtube.com/watch?v=_1DJHcju-oA&t=160.44s)]
+*  hundreds of suicide attacks and thousands of bombings, killing hundreds of U.S. soldiers. [[00:02:44](https://www.youtube.com/watch?v=_1DJHcju-oA&t=164.6s)]
+*  So to counter their renewed presence, Obama began deploying more forces in the region. [[00:02:51](https://www.youtube.com/watch?v=_1DJHcju-oA&t=171.68s)]
+*  The United States has conducted an operation that killed Osama bin Laden, the leader of [[00:02:56](https://www.youtube.com/watch?v=_1DJHcju-oA&t=176.52s)]
+*  al-Qaeda. [[00:03:01](https://www.youtube.com/watch?v=_1DJHcju-oA&t=181.56s)]
+*  May 1, 2011, Osama bin Laden, the man held responsible for the 9-11 attacks, was killed. [[00:03:02](https://www.youtube.com/watch?v=_1DJHcju-oA&t=182.56s)]
+*  And around that period, the number of U.S. troops in Afghanistan hit a peak of around [[00:03:08](https://www.youtube.com/watch?v=_1DJHcju-oA&t=188.56s)]
+*  100,000. [[00:03:12](https://www.youtube.com/watch?v=_1DJHcju-oA&t=192.92000000000002s)]
+*  The policymakers and experts began to question the effectiveness of that large military presence. [[00:03:13](https://www.youtube.com/watch?v=_1DJHcju-oA&t=193.92s)]
+*  What became clear was that the U.S. counterinsurgency strategy did not eradicate the Taliban. [[00:03:21](https://www.youtube.com/watch?v=_1DJHcju-oA&t=201.88s)]
+*  In fact, some of the more controversial tactics that the U.S. used in Afghanistan, such as [[00:03:27](https://www.youtube.com/watch?v=_1DJHcju-oA&t=207.32s)]
+*  night raids and arbitrary detentions and airstrikes that sometimes kill civilians, created discontent [[00:03:31](https://www.youtube.com/watch?v=_1DJHcju-oA&t=211.27999999999997s)]
+*  in local communities and actually helped the Taliban recruit more fighters. [[00:03:37](https://www.youtube.com/watch?v=_1DJHcju-oA&t=217.27999999999997s)]
+*  The Taliban's recruitment drive enabled them to increase in numbers and gain control of [[00:03:42](https://www.youtube.com/watch?v=_1DJHcju-oA&t=222.24s)]
+*  yet more territory, launching near-daily attacks against the U.S. and Afghan forces. [[00:03:46](https://www.youtube.com/watch?v=_1DJHcju-oA&t=226.24s)]
+*  So with bin Laden dead and facing mounting pressure from Democratic lawmakers in Congress, [[00:03:51](https://www.youtube.com/watch?v=_1DJHcju-oA&t=231.74s)]
+*  Obama announced his plan to withdraw some 33,000 troops from the region and transfer [[00:03:56](https://www.youtube.com/watch?v=_1DJHcju-oA&t=236.32000000000002s)]
+*  power to the Afghan military. [[00:04:00](https://www.youtube.com/watch?v=_1DJHcju-oA&t=240.72s)]
+*  Our mission will change from combat to support. [[00:04:02](https://www.youtube.com/watch?v=_1DJHcju-oA&t=242.76000000000002s)]
+*  By 2014, this process of transition will be complete and the Afghan people will be [[00:04:06](https://www.youtube.com/watch?v=_1DJHcju-oA&t=246.56s)]
+*  responsible for their own security. [[00:04:12](https://www.youtube.com/watch?v=_1DJHcju-oA&t=252.56s)]
+*  That plan didn't work as intended. [[00:04:14](https://www.youtube.com/watch?v=_1DJHcju-oA&t=254.9s)]
+*  The Afghan security forces were plagued by problems that continued to haunt them, such [[00:04:16](https://www.youtube.com/watch?v=_1DJHcju-oA&t=256.66s)]
+*  as corruption, which made them an ineffective fighting force against the Taliban, who continued [[00:04:20](https://www.youtube.com/watch?v=_1DJHcju-oA&t=260.76s)]
+*  to fight allegedly armed and funded by Pakistan. [[00:04:25](https://www.youtube.com/watch?v=_1DJHcju-oA&t=265.6s)]
+*  The Afghan government has acknowledged problems with effectiveness and corruption among its [[00:04:29](https://www.youtube.com/watch?v=_1DJHcju-oA&t=269.16s)]
+*  security forces, but told the Journal that corruption is decreasing. [[00:04:32](https://www.youtube.com/watch?v=_1DJHcju-oA&t=272.96s)]
+*  And Pakistan's government has denied backing the Taliban, but says it has some limited [[00:04:37](https://www.youtube.com/watch?v=_1DJHcju-oA&t=277.28s)]
+*  influence over the group. [[00:04:41](https://www.youtube.com/watch?v=_1DJHcju-oA&t=281.35999999999996s)]
+*  This map shows just how much territory the Taliban had taken over in 2017. [[00:04:43](https://www.youtube.com/watch?v=_1DJHcju-oA&t=283.68s)]
+*  The Taliban's gradual advances across the country really began alarming people in the [[00:04:48](https://www.youtube.com/watch?v=_1DJHcju-oA&t=288.32s)]
+*  capital. [[00:04:52](https://www.youtube.com/watch?v=_1DJHcju-oA&t=292.32s)]
+*  After NATO announced the end of its combat mission, the Taliban scored symbolic victories [[00:04:53](https://www.youtube.com/watch?v=_1DJHcju-oA&t=293.32s)]
+*  such as capturing the city of Kunduz. [[00:04:58](https://www.youtube.com/watch?v=_1DJHcju-oA&t=298.44s)]
+*  While mapping the Taliban's exact presence has been tricky in such a fluid situation, [[00:05:02](https://www.youtube.com/watch?v=_1DJHcju-oA&t=302.64s)]
+*  some analysts have drawn maps based on news reports and social media that outline the [[00:05:07](https://www.youtube.com/watch?v=_1DJHcju-oA&t=307.15999999999997s)]
+*  group's territorial control from 2017. [[00:05:11](https://www.youtube.com/watch?v=_1DJHcju-oA&t=311.36s)]
+*  At the time, the Afghan military was already struggling to hold the Taliban back, and Trump [[00:05:14](https://www.youtube.com/watch?v=_1DJHcju-oA&t=314.4s)]
+*  announced he was sending more troops. [[00:05:19](https://www.youtube.com/watch?v=_1DJHcju-oA&t=319.03999999999996s)]
+*  The security threats we face in Afghanistan and the broader region are immense. [[00:05:21](https://www.youtube.com/watch?v=_1DJHcju-oA&t=321.0s)]
+*  President Trump's announcement fueled the will to fight among some fighters. [[00:05:27](https://www.youtube.com/watch?v=_1DJHcju-oA&t=327.34s)]
+*  I remember speaking to young Taliban fighters who said that they'd actually considered [[00:05:30](https://www.youtube.com/watch?v=_1DJHcju-oA&t=330.52s)]
+*  giving up the war once the American troops left. [[00:05:34](https://www.youtube.com/watch?v=_1DJHcju-oA&t=334.64s)]
+*  But once President Trump said he was going to send more troops, they said there was no [[00:05:37](https://www.youtube.com/watch?v=_1DJHcju-oA&t=337.59999999999997s)]
+*  way they were going to give up the fight. [[00:05:41](https://www.youtube.com/watch?v=_1DJHcju-oA&t=341.0s)]
+*  Around four years later, on July 4th, 2021, U.S. troops finally left Bagram, their main [[00:05:43](https://www.youtube.com/watch?v=_1DJHcju-oA&t=343.12s)]
+*  base of operations in the country. [[00:05:48](https://www.youtube.com/watch?v=_1DJHcju-oA&t=348.32s)]
+*  Meanwhile, the Taliban's expansion accelerated. [[00:05:50](https://www.youtube.com/watch?v=_1DJHcju-oA&t=350.35999999999996s)]
+*  We cannot continue the cycle of extending or expanding our military presence in Afghanistan. [[00:05:53](https://www.youtube.com/watch?v=_1DJHcju-oA&t=353.44s)]
+*  As foreign troops pulled out, insurgents took many districts without having to fight. [[00:05:59](https://www.youtube.com/watch?v=_1DJHcju-oA&t=359.9s)]
+*  The group has been trying to show a friendlier face, posting propaganda videos purporting [[00:06:04](https://www.youtube.com/watch?v=_1DJHcju-oA&t=364.14s)]
+*  to show Taliban fighters shaking hands with Afghan soldiers, or guarding borders without [[00:06:08](https://www.youtube.com/watch?v=_1DJHcju-oA&t=368.41999999999996s)]
+*  disrupting trade. [[00:06:13](https://www.youtube.com/watch?v=_1DJHcju-oA&t=373.06s)]
+*  The Afghan government didn't respond to a request for comment on these images. [[00:06:19](https://www.youtube.com/watch?v=_1DJHcju-oA&t=379.26s)]
+*  Analysts say it's part of a campaign to legitimize the insurgency amid negotiations with the [[00:06:23](https://www.youtube.com/watch?v=_1DJHcju-oA&t=383.41999999999996s)]
+*  Afghan government. [[00:06:27](https://www.youtube.com/watch?v=_1DJHcju-oA&t=387.82s)]
+*  While the Biden administration says America's military campaign has accomplished its objectives, [[00:06:30](https://www.youtube.com/watch?v=_1DJHcju-oA&t=390.54s)]
+*  U.S. airstrikes against the Taliban are expected to continue, and America plans to keep monitoring [[00:06:35](https://www.youtube.com/watch?v=_1DJHcju-oA&t=395.18s)]
+*  terrorist threats. [[00:06:40](https://www.youtube.com/watch?v=_1DJHcju-oA&t=400.74s)]
+*  People in Afghanistan question what the Taliban's plans are and whether they can coexist with [[00:06:42](https://www.youtube.com/watch?v=_1DJHcju-oA&t=402.78s)]
+*  the Afghan government. [[00:06:47](https://www.youtube.com/watch?v=_1DJHcju-oA&t=407.18s)]
+*  The Taliban's gains raised two main risks for Afghanistan. [[00:06:48](https://www.youtube.com/watch?v=_1DJHcju-oA&t=408.42s)]
+*  One that the country might split possibly along sectarian lines, which could throw the [[00:06:52](https://www.youtube.com/watch?v=_1DJHcju-oA&t=412.46s)]
+*  country into another bloody civil war. [[00:06:56](https://www.youtube.com/watch?v=_1DJHcju-oA&t=416.54s)]
+*  Or that a fundamentalist Islamist group takes power in Afghanistan again, which would undermine [[00:06:58](https://www.youtube.com/watch?v=_1DJHcju-oA&t=418.54s)]
+*  the whole purpose of the war, which was to eradicate terrorism risks from the country. [[00:07:03](https://www.youtube.com/watch?v=_1DJHcju-oA&t=423.06s)]

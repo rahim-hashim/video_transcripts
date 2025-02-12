@@ -1,0 +1,131 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 526s
+Video Keywords: ['china news', 'taiwan', 'china', 'south china sea', 'hainan island', 'china navy', 'china navy fleet', 'naval fleet', 'beijing', "china's hawaii", 'yulin', 'longpo naval base', 'geostrategy', 'geopolitics', 'china taiwan conflict', 'hainan', 'submarines', 'china submarine', 'nuclear submarine', 'weapons loading facility', 'tugboat', 'seaborne nuclear deterrent', 'pla', 'jl 3', 'china jl3 missile', 'ballistic missiles', 'pacific ocean', 'infrastructure', 'expansion', 'dry dock', 'aircraft carrier', 'Fujian', 'wharf', 'military base', 'taiwan news', 'wonews']
+Video Views: 899176
+Video Rating: None
+Video Description: China is expanding its naval bases on the tropical island of Hainan in the South China Sea. Two of Beijing’s most important naval facilities, Yulia and Longpo, have undergone dramatic expansion to accommodate a growing fleet of vessels and to provide a home for China’s new sea-borne nuclear deterrent. 
+
+WSJ spoke to defense analysts who say the upgrades point to Beijing’s preparations for a possible conflict over Taiwan.
+
+Chapters:
+0:00 Island of Hainan 
+0:42 Geostrategic advantages of Hainan
+1:07 Submarines and mountain bunker
+3:31 Infrastructure expansion
+6:15 Expansion in Cambodia
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#China #Military #WSJ
+---
+
+# This Chinese Island Holds the Secrets to Beijing’s Massive Naval Expansion | WSJ
+**The Wall Street Journal - News Explainers:** [May 29, 2024](https://www.youtube.com/watch?v=JC0MWxmLvjo)
+*  The tropical island of Hainan is known as China's Hawaii. [[00:00:00](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=0.0s)]
+*  But behind its pristine beaches hides a secret. [[00:00:06](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=6.04s)]
+*  On this hill above a luxury hotel is a surface-to-air missile site [[00:00:11](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=11.120000000000001s)]
+*  guarding two of China's most important naval facilities, [[00:00:15](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=15.08s)]
+*  Yulin and Longpo. [[00:00:18](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=18.48s)]
+*  In recent years, Beijing has begun dramatically expanding the two bases [[00:00:20](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=20.46s)]
+*  to accommodate a growing fleet of vessels [[00:00:24](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=24.6s)]
+*  and to provide a home for China's new sea-borne nuclear deterrent. [[00:00:27](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=27.0s)]
+*  What's happening on Hainan Island reveals how China plans to challenge [[00:00:32](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=32.28s)]
+*  US naval supremacy and how it's preparing for a possible war over Taiwan. [[00:00:35](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=35.88s)]
+*  Alexander Neal is a former defence analyst for the British government. [[00:00:42](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=42.36s)]
+*  Hainan is a very important location strategically. [[00:00:46](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=46.2s)]
+*  It also offers geographical projection for the People's Liberation Army [[00:00:49](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=49.68s)]
+*  into the South China Sea region. [[00:00:55](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=55.48s)]
+*  Submarines can follow down this channel into the really deep parts [[00:00:57](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=57.48s)]
+*  of the South China Sea, which allow for difficulty in detection. [[00:01:02](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=62.08s)]
+*  Satellite images show significant work to expand the facilities in Hainan. [[00:01:08](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=68.03999999999999s)]
+*  Additional piers have been built, allowing up to 12 submarines to dock at the base. [[00:01:13](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=73.16s)]
+*  The ability to replenish, resupply and rearm these submarines [[00:01:18](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=78.64s)]
+*  is really a significant development in a very short period of time. [[00:01:23](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=83.48s)]
+*  The number of nuclear submarines that China wields is beginning to look along [[00:01:28](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=88.24s)]
+*  the sort of capabilities that the United States, France and the UK has. [[00:01:34](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=94.08s)]
+*  The base is also equipped with a large facility to service China's nuclear submarines. [[00:01:39](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=99.68s)]
+*  An entrance into the mountain, up to 60 feet high, can be seen here, [[00:01:45](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=105.0s)]
+*  leading to what is thought to be a weapons-loading facility. [[00:01:49](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=109.96s)]
+*  We can actually see an overhead view of a nuclear submarine [[00:01:54](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=114.32s)]
+*  that's being coaxed into the tunnel. [[00:01:58](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=118.72s)]
+*  So we have two tugboats here positioning the submarine. [[00:02:02](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=122.16s)]
+*  It's a very interesting feature of the Longpo naval base [[00:02:06](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=126.8s)]
+*  and very significant attempt at protecting China's seaborne nuclear deterrent. [[00:02:10](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=130.24s)]
+*  A wider look at the area shows there's a system [[00:02:16](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=136.4s)]
+*  thought to transport weapons across the base to arm the submarines. [[00:02:19](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=139.2s)]
+*  The tunnel facility entrance here and the underground submarine base inside this mountain. [[00:02:23](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=143.32s)]
+*  And then you have a tunnel entrance here. [[00:02:31](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=151.48s)]
+*  And it's thought that at some point along this railroad, [[00:02:34](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=154.79999999999998s)]
+*  warheads and missiles will be loaded onto some kind of railcar. [[00:02:38](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=158.16s)]
+*  And it's concealed, obviously, because the PLA doesn't want adversary to know [[00:02:43](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=163.0s)]
+*  when and how they are arming their nuclear submarines. [[00:02:47](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=167.6s)]
+*  The Pentagon now believes that at least one nuclear-armed submarine [[00:02:54](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=174.51999999999998s)]
+*  is on constant patrol in the South China Sea. [[00:02:57](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=177.95999999999998s)]
+*  And they could be armed with China's latest submarine-launched ballistic missile, the JL-3. [[00:03:01](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=181.72s)]
+*  The submarines could penetrate the first island chain [[00:03:08](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=188.44s)]
+*  and launch from the blue waters of the Pacific Ocean [[00:03:12](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=192.16s)]
+*  and hit the eastern seaboard of the United States. [[00:03:16](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=196.32s)]
+*  China says it keeps its nuclear capabilities at the minimum level required by national security [[00:03:20](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=200.52s)]
+*  and has pledged not to use nuclear weapons first. [[00:03:26](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=206.56s)]
+*  China has made significant infrastructure upgrades to the bases in Hainan [[00:03:31](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=211.68s)]
+*  to accommodate different types of vessels. [[00:03:35](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=215.96s)]
+*  Satellite imagery shows an extensive facility to repair ships, [[00:03:38](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=218.48s)]
+*  known as a dry dock, being built in recent years. [[00:03:42](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=222.4s)]
+*  We see the scale of the dry dock. [[00:03:45](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=225.84s)]
+*  We see a number of vessels in the smaller dry dock. [[00:03:48](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=228.0s)]
+*  And then the infrastructure around the dry dock itself beginning to come into shape. [[00:03:50](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=230.76s)]
+*  The dry dock is about 1,500 feet long. [[00:03:56](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=236.28s)]
+*  That's enough room to accommodate any of China's three aircraft carriers, [[00:03:59](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=239.68s)]
+*  including its latest, the Fujian, which is over 1,000 feet. [[00:04:03](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=243.96s)]
+*  This dry dock is part of a wider infrastructure expansion of the base. [[00:04:09](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=249.08s)]
+*  The upgrades allow China to arm, repair and dock dozens of warships quickly. [[00:04:14](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=254.79999999999998s)]
+*  You have the wharf along here. [[00:04:20](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=260.2s)]
+*  This is a new wharf being built. [[00:04:22](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=262.15999999999997s)]
+*  We have the expanded military base here and a highway connecting them all along this coastline. [[00:04:24](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=264.08s)]
+*  And in addition, this very large weapon storage facility [[00:04:30](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=270.36s)]
+*  connected up under the mountain with this naval base here, [[00:04:34](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=274.48s)]
+*  as well as with the dry dock here. [[00:04:39](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=279.0s)]
+*  The infrastructure upgrades seen in Hainan are designed to support China's expanding naval fleet. [[00:04:42](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=282.16s)]
+*  China has now overtaken the US as the world's largest navy, with more than 370 vessels. [[00:04:51](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=291.16s)]
+*  This is projected to grow to 435 by 2030. [[00:04:57](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=297.96000000000004s)]
+*  The US has about 296 vessels, and the navy plans to increase this number to over 300 by the early 2030s. [[00:05:02](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=302.64000000000004s)]
+*  China is also using the base in Hainan as a testing ground for new technology. [[00:05:11](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=311.08s)]
+*  China, come! [[00:05:17](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=317.76s)]
+*  In 2019, Beijing, for the first time, openly unveiled the HSU-001 underwater drone. [[00:05:20](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=320.64s)]
+*  Analysts have spotted unidentified underwater drones at the Yulin base. [[00:05:29](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=329.76s)]
+*  We see a couple of unmanned underwater vehicles on the quayside here, [[00:05:34](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=334.84s)]
+*  being partially concealed by retractable covers. [[00:05:41](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=341.0s)]
+*  But it's interesting that this kind of weaponry is being developed at Yulin naval base, [[00:05:45](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=345.28s)]
+*  and is indicative of the PLA Navy's requirement to substantially increase its unmanned underwater capabilities. [[00:05:50](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=350.47999999999996s)]
+*  The development of these UUVs is all part of Xi Jinping's drive [[00:06:00](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=360.52s)]
+*  to ensure that he has a modern fighting force capability at parity with that of the United States within a decade or so. [[00:06:05](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=365.20000000000005s)]
+*  China is not only expanding its naval bases at home, [[00:06:15](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=375.88000000000005s)]
+*  for the first time it's establishing a new naval outpost in Southeast Asia. [[00:06:19](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=379.12s)]
+*  In 2019, China signed a secret agreement allowing its armed forces to use part of the Rheem naval base in Cambodia. [[00:06:23](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=383.84000000000003s)]
+*  And Rheem naval base is strategically important for the PLA in the sense that [[00:06:31](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=391.76000000000005s)]
+*  it has the ability to mount patrols in the Gulf of Thailand in this area, [[00:06:37](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=397.44000000000005s)]
+*  but also to patrol the southern portion of the South China Sea is yet another sign of China's ambitions [[00:06:43](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=403.6s)]
+*  to saturate the South China Sea with a naval presence. [[00:06:50](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=410.84000000000003s)]
+*  Since the deal was signed, there have been significant upgrades, [[00:06:56](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=416.12s)]
+*  including a new pier that is long enough to accommodate a Chinese aircraft carrier. [[00:06:59](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=419.44s)]
+*  The base in general is starting to look like Chinese naval bases in Hainan. [[00:07:04](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=424.52s)]
+*  China denied allegations that it's taking control of the base, [[00:07:10](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=430.03999999999996s)]
+*  but new satellite imagery shows two Chinese vessels docked at the pier. [[00:07:13](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=433.52s)]
+*  The ships can be seen in photos posted by Cambodia's defence minister in December. [[00:07:17](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=437.91999999999996s)]
+*  The vessels remain docked at the base for months. [[00:07:23](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=443.52s)]
+*  Beijing says their deployment is not permanent [[00:07:26](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=446.48s)]
+*  and that it is helping to upgrade the base at Cambodia's request. [[00:07:29](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=449.16s)]
+*  These corvettes will be able to patrol out into the southern reaches of the South China Sea. [[00:07:33](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=453.96s)]
+*  So it's soaking up US Navy time and effort in monitoring the activities of the PLA Navy at the Rheem naval base. [[00:07:40](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=460.92s)]
+*  The US State Department said it has serious concerns about China's plans for the Rheem naval base. [[00:07:50](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=470.4s)]
+*  Defence analysts say although conflict over Taiwan is not considered imminent, [[00:07:55](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=475.92s)]
+*  China's new outpost in Cambodia and its expansion in Hainan form part of its preparations for war. [[00:08:00](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=480.6s)]
+*  The United States asks if China has expressed peaceful goals for development across the region, [[00:08:07](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=487.96000000000004s)]
+*  what is all this huge expenditure aimed at? [[00:08:14](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=494.96000000000004s)]
+*  The answer that many people fear may come to fruition is an invasion of Taiwan [[00:08:17](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=497.96000000000004s)]
+*  or some kind of escalation in the Taiwan Strait that could result in an unmanaged conflict. [[00:08:25](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=505.16s)]
+*  In a statement, China's Ministry of Foreign Affairs said Taiwan is part of China's territory [[00:08:32](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=512.28s)]
+*  and that it opposes the island's independence. [[00:08:37](https://www.youtube.com/watch?v=JC0MWxmLvjo&t=517.72s)]

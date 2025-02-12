@@ -1,0 +1,110 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 372s
+Video Keywords: ['ELON MUSK', 'SMALL LAUNCH', 'ROCKET', 'ROCKETS', 'SPACE', 'SPACE EXPLORATION', 'ORBIT', 'OUTER SPACE', 'LOW EARTH ORBIT', 'SMALL SATELLITE', 'SATELLITES', 'ORBITAL', 'SPACEFLIGHT', 'SPACE SHUTTLE PROGRAM', 'FALCON 1', 'CONSTELLATIONS', 'FALCON HEAVY', 'PAYLOADS', 'PAYLOAD', 'RESEARCH', 'CUBESAT', 'SMALLSAT', 'CUBE', 'PENTAGON', 'CONSOLIDATION', 'SPACEX', 'NASA', 'ROCKET LAB', 'ONEWEB', 'Parts', 'wsj', 'the wall street journal', 'rocket launch', 'space travel', 'spacecraft', 'space shuttle', 'spacex launch', 'aerospace', 'launch', 'rocket science', 'spacex news', 'science', 'astronauts']
+Video Views: 166644
+Video Rating: None
+Video Description: On May 27, SpaceX and NASA were scheduled to launch the first orbital human spaceflight from U.S. soil since the Space Shuttle Program ended in 2011. The mission was delayed due to weather and is rescheduled for May 30. But as SpaceX dominates the headlines, a large number of small launch startups are poised to fail. Photo: NASA/Tony Gray, Tim Terry & Kevin O’Connell
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #SpaceX #Startups
+---
+
+# With SpaceX Poised for Takeoff, Small Rocket Startups Fall Behind | WSJ
+**The Wall Street Journal - News Explainers:** [May 26, 2020](https://www.youtube.com/watch?v=Ea_tkBFvaTc)
+*  On May 27th, SpaceX and NASA are scheduled to launch the first orbital human spaceflight [[00:00:00](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=0.0s)]
+*  from U.S. soil since the space shuttle program ended in 2011. [[00:00:07](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=7.0s)]
+*  Lift off, the final lift off of Atlantis on the shoulders of the space shuttle. [[00:00:10](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=10.84s)]
+*  America will continue the dream. [[00:00:16](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=16.84s)]
+*  And we view it as an opportunity but also a responsibility for the American people, [[00:00:19](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=19.64s)]
+*  for the SpaceX team, for all of NASA. [[00:00:24](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=24.64s)]
+*  But while SpaceX dominates the headlines, small launch startups face an increasingly [[00:00:28](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=28.02s)]
+*  tough trajectory, operating along slim margins with small cash flows. [[00:00:32](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=32.76s)]
+*  And with funds drying up during the coronavirus pandemic, many small launchers could falter. [[00:00:38](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=38.82s)]
+*  Analysts say as many as 90 percent of the 100-plus companies in the industry are likely [[00:00:45](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=45.379999999999995s)]
+*  to fail. [[00:00:50](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=50.18s)]
+*  If this happens, thousands of jobs could be lost and plans for new technologies and research [[00:00:52](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=52.1s)]
+*  could be delayed. [[00:00:56](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=56.940000000000005s)]
+*  To understand how we got here, you have to go back to 2009, when SpaceX's Falcon 1 [[00:00:59](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=59.46s)]
+*  took off, becoming the first major private space company to successfully launch a commercial [[00:01:10](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=70.46000000000001s)]
+*  satellite into orbit. [[00:01:15](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=75.38s)]
+*  Investors took notice and funneled more than $20 billion into hundreds of small space companies [[00:01:18](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=78.18s)]
+*  over the next decade. [[00:01:23](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=83.22s)]
+*  During the same period, demand for small satellites grew. [[00:01:26](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=86.52s)]
+*  Companies like OneWeb and SpaceX's Starlink made plans to launch constellations of thousands [[00:01:30](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=90.56s)]
+*  of tiny satellites that would expand global internet access. [[00:01:35](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=95.84s)]
+*  Other small satellites were developed to collect navigation data and detect forest fires from [[00:01:41](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=101.8s)]
+*  space. [[00:01:46](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=106.6s)]
+*  Some could eventually provide advanced missile defense for the military. [[00:01:47](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=107.8s)]
+*  So we put some weather satellites up, you know, a couple of years ago. [[00:01:51](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=111.64s)]
+*  They provide weather to New Zealand. [[00:01:54](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=114.38s)]
+*  A few minutes later, they provide weather to Australia, then, you know, the UK and then [[00:01:55](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=115.7s)]
+*  America. [[00:02:00](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=120.38s)]
+*  And every 90 minutes, they're going around the planet providing data that influences [[00:02:01](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=121.38s)]
+*  tens of millions of people's everyday lives and decisions. [[00:02:06](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=126.3s)]
+*  Large rocket launchers like SpaceX's Falcon Heavy weren't designed for small, relatively [[00:02:10](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=130.98s)]
+*  inexpensive payloads. [[00:02:16](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=136.5s)]
+*  For years, the only option for small satellites to get into space was to piggyback on larger [[00:02:18](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=138.7s)]
+*  payload flights, where they got dropped off en route in orbit. [[00:02:23](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=143.98s)]
+*  For many small satellite startups and programs, this isn't ideal. [[00:02:28](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=148.76s)]
+*  They're reliant on the bigger payloads, which have their own orbit paths. [[00:02:32](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=152.92s)]
+*  And the small satellite missions have little control over delays and scheduling. [[00:02:36](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=156.67999999999998s)]
+*  For some, this could mean waiting on the shelf for over a year, which costs money. [[00:02:41](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=161.28s)]
+*  If they can't afford to wait, that could mean some research programs and new technologies [[00:02:46](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=166.39999999999998s)]
+*  never make it into orbit. [[00:02:50](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=170.83999999999997s)]
+*  This is where small launch vehicles come in. [[00:02:53](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=173.24s)]
+*  Companies like Rocket Lab and Virgin Orbit have developed lighter payload rockets that [[00:02:56](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=176.14000000000001s)]
+*  can carry small satellites directly into orbit. [[00:03:00](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=180.18s)]
+*  Small launch vehicle enables a customer to deliver those satellites to exactly where [[00:03:03](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=183.62s)]
+*  they want to go and exactly on the timeframe that they need. [[00:03:07](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=187.88s)]
+*  Experts say these launchers have the potential to revolutionize the industry. [[00:03:11](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=191.86s)]
+*  But as the pandemic continues, much of the financing these companies need to survive [[00:03:16](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=196.70000000000002s)]
+*  is drying up. [[00:03:21](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=201.32000000000002s)]
+*  Some of this funding comes from government contracts. [[00:03:23](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=203.0s)]
+*  In April, the Pentagon said there'd be fewer defense contracts for at least three months. [[00:03:26](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=206.36s)]
+*  Domestically, we are seeing the greatest impacts in the aviation supply chain, shipbuilding [[00:03:31](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=211.68s)]
+*  and small space launch. [[00:03:37](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=217.88s)]
+*  Other funding comes from venture capital. [[00:03:40](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=220.2s)]
+*  To date, the vast majority of the capital raised by these small launch providers has [[00:03:42](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=222.84s)]
+*  been from financial investors with smaller pools of money coming from grants or early [[00:03:47](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=227.5s)]
+*  stage investors. [[00:03:53](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=233.66s)]
+*  And the key challenge for many of these companies in a very crowded market is to continue to [[00:03:55](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=235.66s)]
+*  draw additional and larger upsized rounds of capital in order to hit their development [[00:04:01](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=241.46s)]
+*  milestones. [[00:04:07](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=247.06s)]
+*  This type of funding has all but stopped, and it isn't expected to flow back into the [[00:04:09](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=249.06s)]
+*  small launch industry for at least the next year. [[00:04:13](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=253.5s)]
+*  Experts say there are just too many of these companies for all of them to succeed in a [[00:04:17](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=257.14000000000004s)]
+*  tighter market. [[00:04:20](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=260.82000000000005s)]
+*  It's so blatantly obvious that it's unsustainable to have so many small launch companies for [[00:04:21](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=261.82000000000005s)]
+*  such a small market. [[00:04:26](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=266.70000000000005s)]
+*  The pandemic has really pushed the dominoes over a bit faster and the hardest point in [[00:04:27](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=267.74s)]
+*  time is yet to occur. [[00:04:33](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=273.06s)]
+*  Many small rocket startups also won't have access to some of the stimulus funds. [[00:04:35](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=275.32000000000005s)]
+*  Most companies with more than 500 employees are ineligible for small business administration [[00:04:40](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=280.20000000000005s)]
+*  loans during the pandemic. [[00:04:45](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=285.06s)]
+*  This includes some small space startups that are funded by larger venture capital firms. [[00:04:47](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=287.14s)]
+*  Some industry executives and trade groups are asking for a change of rules, saying the [[00:04:52](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=292.58s)]
+*  lack of access is hurting business and could lead to layoffs. [[00:04:57](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=297.14s)]
+*  Although many of the companies in the space industry have a favorable exposure to government [[00:05:01](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=301.74s)]
+*  spending, which tends to be pretty secure, it's also true that they're dependent on [[00:05:06](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=306.29999999999995s)]
+*  raising new capital and the inability to capture a PPP loan could be the difference [[00:05:11](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=311.3s)]
+*  between life and death. [[00:05:17](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=317.34000000000003s)]
+*  Experts say lack of funding could lead to consolidation of the sector, which could cost [[00:05:18](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=318.90000000000003s)]
+*  jobs, delay research and innovation and favor more robust established companies. [[00:05:23](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=323.14s)]
+*  SpaceX is expected to continue to dominate the industry as it increases its own small [[00:05:28](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=328.7s)]
+*  satellite rideshare program and drives down launch prices. [[00:05:33](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=333.62s)]
+*  Meanwhile, the smaller players are expected to suffer. [[00:05:37](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=337.7s)]
+*  There will be a massive number of failures of companies that never make it across the [[00:05:41](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=341.46000000000004s)]
+*  finish line. And that's simply due to the fact that there's not sufficient demand in [[00:05:46](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=346.02000000000004s)]
+*  terms of the number of launches required. [[00:05:51](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=351.42s)]
+*  There's not sufficient capital to fund this many companies. [[00:05:53](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=353.78000000000003s)]
+*  And quite honestly, there's not enough differentiation between the technology or the [[00:05:57](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=357.18s)]
+*  cost that these companies can deliver. [[00:06:01](https://www.youtube.com/watch?v=Ea_tkBFvaTc&t=361.58000000000004s)]

@@ -1,0 +1,93 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 288s
+Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
+Video Views: 7550
+Video Rating: None
+Video Description: Support our work: https://democracynow.org/donate/sm-desc-yt
+
+We discuss the cases of two of Egypt's most prominent political activists, Hossam Bahgat and Alaa Abd El-Fattah, who have both been persecuted by the Egyptian government for exposing its human rights abuses. Bahgat is facing a new round of harassment from Egyptian security forces, while El-Fattah remains in prison past his expected release. El-Fattah's mother, the Cairo University professor Laila Soueif, has been on hunger strike for nearly four months in the U.K., where both she and her son have dual citizenship, demanding that the British government pressure Egypt for El-Fattah's freedom. "Her collapse is imminent. She's probably going to be hospitalized soon," says journalist Sharif Abdel Kouddous, who recently spoke to Soueif's family.
+
+Democracy Now! is an independent global news hour that airs on over 1,500 TV and radio stations Monday through Friday. Watch our livestream at democracynow.org Mondays to Fridays 8-9 a.m. ET.
+
+Subscribe to our Daily Email Digest: https://democracynow.org/subscribe
+---
+
+# Pressure Grows to Free Egyptian Activist Alaa Abd El-Fattah & Stop Harassment of Hossam Bahgat
+**Democracy Now Headlines:** [January 27, 2025](https://www.youtube.com/watch?v=gja9IeivYS0)
+*  I wanted to go back to Egypt. [[00:00:00](https://www.youtube.com/watch?v=gja9IeivYS0&t=0.0s)]
+*  While they're saying no to Egyptians being displaced into—while they're saying no [[00:00:01](https://www.youtube.com/watch?v=gja9IeivYS0&t=1.36s)]
+*  to Palestinians being displaced into Egypt, the Egyptian government has renewed its judicial [[00:00:06](https://www.youtube.com/watch?v=gja9IeivYS0&t=6.6000000000000005s)]
+*  harassment of Hossam Bacha, according to Human Rights Watch and other groups. [[00:00:14](https://www.youtube.com/watch?v=gja9IeivYS0&t=14.72s)]
+*  Hossam Bacha, one of Egypt's leading human rights advocates, executive director of the [[00:00:20](https://www.youtube.com/watch?v=gja9IeivYS0&t=20.36s)]
+*  Egyptian Initiative for Personal Rights, also worked as an investigative journalist for [[00:00:24](https://www.youtube.com/watch?v=gja9IeivYS0&t=24.52s)]
+*  the independent media outlet Mademasser. [[00:00:29](https://www.youtube.com/watch?v=gja9IeivYS0&t=29.28s)]
+*  Earlier this month, the Supreme State Security Prosecution charged Bacha with, quote, involvement [[00:00:32](https://www.youtube.com/watch?v=gja9IeivYS0&t=32.24s)]
+*  within financing a terrorist group and spreading false news. [[00:00:38](https://www.youtube.com/watch?v=gja9IeivYS0&t=38.04s)]
+*  He was then released on bail. [[00:00:41](https://www.youtube.com/watch?v=gja9IeivYS0&t=41.0s)]
+*  The charges following the release of a report by Bacha's group about dire detention conditions [[00:00:42](https://www.youtube.com/watch?v=gja9IeivYS0&t=42.94s)]
+*  in a prison in Egypt. [[00:00:48](https://www.youtube.com/watch?v=gja9IeivYS0&t=48.88s)]
+*  Now, we've interviewed Hossam Bacha many times on Democracy Now! [[00:00:51](https://www.youtube.com/watch?v=gja9IeivYS0&t=51.400000000000006s)]
+*  We saw him and Sharm el-Sheikh at the U.N. climate summit. [[00:00:56](https://www.youtube.com/watch?v=gja9IeivYS0&t=56.36s)]
+*  You were there, too, Sharif. [[00:00:59](https://www.youtube.com/watch?v=gja9IeivYS0&t=59.52s)]
+*  He was a person everyone rallied around, even as they talked about the freeing of Allah [[00:01:01](https://www.youtube.com/watch?v=gja9IeivYS0&t=61.4s)]
+*  Abdel Fattah. [[00:01:07](https://www.youtube.com/watch?v=gja9IeivYS0&t=67.6s)]
+*  Let's talk first about Hossam, then finally about Allah. [[00:01:08](https://www.youtube.com/watch?v=gja9IeivYS0&t=68.6s)]
+*  Well, Hossam Bacha is one of Egypt's leading human rights advocates and was banned from [[00:01:11](https://www.youtube.com/watch?v=gja9IeivYS0&t=71.76s)]
+*  travel for eight years. [[00:01:16](https://www.youtube.com/watch?v=gja9IeivYS0&t=76.72s)]
+*  We had him on Democracy Now! [[00:01:18](https://www.youtube.com/watch?v=gja9IeivYS0&t=78.6s)]
+*  Just last year, he was allowed to travel for the first time in eight years as a result [[00:01:20](https://www.youtube.com/watch?v=gja9IeivYS0&t=80.46000000000001s)]
+*  of a longstanding case targeting NGOs in Egypt. [[00:01:24](https://www.youtube.com/watch?v=gja9IeivYS0&t=84.84s)]
+*  He had asset freezes as well on his bank accounts. [[00:01:29](https://www.youtube.com/watch?v=gja9IeivYS0&t=89.28s)]
+*  We just saw a few days ago that he was dragged into state security prosecution, interrogated [[00:01:34](https://www.youtube.com/watch?v=gja9IeivYS0&t=94.24s)]
+*  for six hours, mostly focused on a report that his group, the Egyptian Initiative for [[00:01:39](https://www.youtube.com/watch?v=gja9IeivYS0&t=99.96s)]
+*  Personal Rights, put out about the conditions in prisons, a particular prison, where prisoners [[00:01:44](https://www.youtube.com/watch?v=gja9IeivYS0&t=104.16s)]
+*  have started a hunger strike on January 4th to protest things like lack of exercise, [[00:01:50](https://www.youtube.com/watch?v=gja9IeivYS0&t=110.8s)]
+*  they're kept in their cells for 23 hours a day, reductions in the amount of food they're [[00:01:55](https://www.youtube.com/watch?v=gja9IeivYS0&t=115.47999999999999s)]
+*  getting and how long visitations are. [[00:01:59](https://www.youtube.com/watch?v=gja9IeivYS0&t=119.96s)]
+*  And so because the EIPR put out this report, Hossam was then hauled in and accused on charges [[00:02:03](https://www.youtube.com/watch?v=gja9IeivYS0&t=123.6s)]
+*  of terrorism and broadcasting false news. [[00:02:09](https://www.youtube.com/watch?v=gja9IeivYS0&t=129.8s)]
+*  And Hossam has also been very outspoken in the case of Allah Abdel Fattah, who is Egypt's [[00:02:12](https://www.youtube.com/watch?v=gja9IeivYS0&t=132.84s)]
+*  most prominent political prisoner. [[00:02:16](https://www.youtube.com/watch?v=gja9IeivYS0&t=136.6s)]
+*  He's been in prison near constantly since 2013. [[00:02:18](https://www.youtube.com/watch?v=gja9IeivYS0&t=138.76s)]
+*  His last imprisonment was a five-year sentence where he was sentenced for sharing a Facebook [[00:02:22](https://www.youtube.com/watch?v=gja9IeivYS0&t=142.96s)]
+*  post about torture in prison. [[00:02:28](https://www.youtube.com/watch?v=gja9IeivYS0&t=148.28s)]
+*  That sentence should have ended on September 29th, and the Egyptian government did not [[00:02:30](https://www.youtube.com/watch?v=gja9IeivYS0&t=150.28s)]
+*  recognize two years of pretrial detention as part of his sentence, which is in violation [[00:02:34](https://www.youtube.com/watch?v=gja9IeivYS0&t=154.88s)]
+*  of Egypt's own penal code. [[00:02:38](https://www.youtube.com/watch?v=gja9IeivYS0&t=158.72s)]
+*  And so his mother, Laila Suif, started a hunger strike to protest. [[00:02:40](https://www.youtube.com/watch?v=gja9IeivYS0&t=160.56s)]
+*  Each day he's kept past that sentence. [[00:02:44](https://www.youtube.com/watch?v=gja9IeivYS0&t=164.62s)]
+*  She's now on day 120 of her hunger strike. [[00:02:47](https://www.youtube.com/watch?v=gja9IeivYS0&t=167.6s)]
+*  I spoke with the family. [[00:02:50](https://www.youtube.com/watch?v=gja9IeivYS0&t=170.0s)]
+*  It's almost impossible to fathom. [[00:02:51](https://www.youtube.com/watch?v=gja9IeivYS0&t=171.0s)]
+*  Yes, and she has British citizenship, so does Alaa. [[00:02:52](https://www.youtube.com/watch?v=gja9IeivYS0&t=172.8s)]
+*  And so they've been pressuring the British government to try and advocate for Alaa's [[00:02:57](https://www.youtube.com/watch?v=gja9IeivYS0&t=177.44s)]
+*  release. [[00:03:01](https://www.youtube.com/watch?v=gja9IeivYS0&t=181.64000000000001s)]
+*  She's been going outside of the Foreign Office every day in London. [[00:03:02](https://www.youtube.com/watch?v=gja9IeivYS0&t=182.64000000000001s)]
+*  Spoke with the family the other day. [[00:03:07](https://www.youtube.com/watch?v=gja9IeivYS0&t=187.0s)]
+*  Her collapse is imminent. [[00:03:08](https://www.youtube.com/watch?v=gja9IeivYS0&t=188.8s)]
+*  She's probably going to be hospitalized soon. [[00:03:10](https://www.youtube.com/watch?v=gja9IeivYS0&t=190.36s)]
+*  She's refusing to eat until her son is released. [[00:03:12](https://www.youtube.com/watch?v=gja9IeivYS0&t=192.32s)]
+*  The British government, sadly, David Lammy, the Foreign Secretary, visited Egypt and repeated [[00:03:15](https://www.youtube.com/watch?v=gja9IeivYS0&t=195.95999999999998s)]
+*  the same kind of statements that we've seen over and over again, said they called for [[00:03:20](https://www.youtube.com/watch?v=gja9IeivYS0&t=200.11999999999998s)]
+*  Alaa's release, but no pressure whatsoever brought to bear on what is essentially an [[00:03:23](https://www.youtube.com/watch?v=gja9IeivYS0&t=203.83999999999997s)]
+*  important trading partner. [[00:03:28](https://www.youtube.com/watch?v=gja9IeivYS0&t=208.6s)]
+*  He could have demanded to meet with one of his subjects. [[00:03:30](https://www.youtube.com/watch?v=gja9IeivYS0&t=210.67999999999998s)]
+*  He has not had a concert access to British officials, to the British embassy, for over [[00:03:33](https://www.youtube.com/watch?v=gja9IeivYS0&t=213.6s)]
+*  three years now. [[00:03:38](https://www.youtube.com/watch?v=gja9IeivYS0&t=218.67999999999998s)]
+*  And he could have, you know—they have a huge economic trade deal with Egypt, the UK, [[00:03:40](https://www.youtube.com/watch?v=gja9IeivYS0&t=220.88s)]
+*  very strong diplomatic ties, and yet they just allow Egypt to refuse to release Alaa. [[00:03:46](https://www.youtube.com/watch?v=gja9IeivYS0&t=226.79999999999998s)]
+*  And they say, we've tried to call for it, but nothing is happening. [[00:03:52](https://www.youtube.com/watch?v=gja9IeivYS0&t=232.16s)]
+*  And meanwhile, his mother now is at very real risk of being hospitalized, and hopefully [[00:03:55](https://www.youtube.com/watch?v=gja9IeivYS0&t=235.84s)]
+*  nothing worse than that. [[00:04:02](https://www.youtube.com/watch?v=gja9IeivYS0&t=242.24s)]
+*  I don't know. [[00:04:03](https://www.youtube.com/watch?v=gja9IeivYS0&t=243.24s)]
+*  Well, Sharif, I want to thank you for being with us. [[00:04:04](https://www.youtube.com/watch?v=gja9IeivYS0&t=244.24s)]
+*  You can go to democracynow.org to see our interview just a few days ago with Peter Gresty, [[00:04:06](https://www.youtube.com/watch?v=gja9IeivYS0&t=246.54s)]
+*  who was imprisoned with Alaa. [[00:04:12](https://www.youtube.com/watch?v=gja9IeivYS0&t=252.14s)]
+*  Can see our interviews with Laila Swaife, the mathematics professor, University of Cairo, [[00:04:14](https://www.youtube.com/watch?v=gja9IeivYS0&t=254.78s)]
+*  who is on hunger fast right now for her son. [[00:04:20](https://www.youtube.com/watch?v=gja9IeivYS0&t=260.3s)]
+*  And the interviews we did with and Sharif did with Alaa over the years. [[00:04:23](https://www.youtube.com/watch?v=gja9IeivYS0&t=263.46s)]
+*  Sharif Abdel-Kadus is an award-winning journalist and editor at DropSite News. [[00:04:27](https://www.youtube.com/watch?v=gja9IeivYS0&t=267.98s)]
+*  He was a correspondent on the Faultlands documentary. [[00:04:32](https://www.youtube.com/watch?v=gja9IeivYS0&t=272.14s)]
+*  The night won't end on Al Jazeera English. [[00:04:34](https://www.youtube.com/watch?v=gja9IeivYS0&t=274.38s)]

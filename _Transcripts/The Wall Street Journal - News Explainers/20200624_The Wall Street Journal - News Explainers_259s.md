@@ -1,0 +1,111 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 259s
+Video Keywords: ['CRUSING', 'CRUISE LINES', 'PRINCESS CRUISES', 'DIAMOND PRINCESS', 'CORONAVIRUS OUTBREAK', 'COVID-19', 'TRAVEL INDUSTRY', 'LEISURE', 'CRUISE INDUSTRY', 'CARNIVAL CRUISES', 'Transportation', 'Logistics', 'Tourism', 'Luxury Travel', 'Travel', 'riseandfall', 'rise and fall', 'carnival crisis', 'wsj', 'the wall street journal', 'explainer', 'How Carnival Has Been Hit by the Coronavirus Crisis', 'diamond princess cruise', 'diamond princess cruise ship', 'covid-19', 'cruise ship', 'coronavirus', 'pandemic', 'luxury', 'business news', 'business']
+Video Views: 39793
+Video Rating: None
+Video Description: Over nearly five decades, Carnival amassed a global fleet of cruise ships. But in the face of a pandemic, health authorities and passengers are questioning whether operators like Carnival can set sail safely going forward. WSJ's Carter McCall explains. Photo: Getty Images
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Carnival #RiseAndFall #Explainer
+---
+
+# How Carnival Has Been Hit by the Coronavirus Crisis | WSJ
+**The Wall Street Journal - News Explainers:** [June 24, 2020](https://www.youtube.com/watch?v=2sb3XPXmaKY)
+*  This is the Diamond Princess cruise liner. [[00:00:00](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=0.0s)]
+*  In February, the ship became an early flashpoint [[00:00:04](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=4.08s)]
+*  for the coronavirus outbreak. [[00:00:06](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=6.8s)]
+*  Passengers and crew were quarantined [[00:00:08](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=8.8s)]
+*  as more than 700 of the estimated 3,700 people on board [[00:00:10](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=10.64s)]
+*  tested positive for COVID-19. [[00:00:14](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=14.74s)]
+*  The now infamous ship is owned by Carnival, [[00:00:17](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=17.6s)]
+*  the largest cruise operator in the world. [[00:00:20](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=20.32s)]
+*  Multiple cruise ships have experienced [[00:00:23](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=23.56s)]
+*  a coronavirus outbreak on board, [[00:00:25](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=25.68s)]
+*  including several owned by Carnival. [[00:00:27](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=27.88s)]
+*  Since the coronavirus outbreak hit, [[00:00:31](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=31.0s)]
+*  the number of cruise ships sailing around the world [[00:00:33](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=33.2s)]
+*  has fallen drastically, [[00:00:35](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=35.36s)]
+*  leaving the cruise operator in a precarious position. [[00:00:36](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=36.92s)]
+*  But in the face of a pandemic, [[00:00:40](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=40.56s)]
+*  health authorities and passengers are questioning [[00:00:42](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=42.36s)]
+*  whether cruise operators can set sail safely going forward. [[00:00:44](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=44.480000000000004s)]
+*  Carnival began its history in 1972 [[00:00:49](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=49.8s)]
+*  as a cruise liner with a single ship, the Mardi Gras. [[00:00:52](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=52.879999999999995s)]
+*  Up until then, the industry was separated, [[00:00:56](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=56.68s)]
+*  small operators doing their own thing. [[00:01:00](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=60.6s)]
+*  Carnival was revolutionary because it made cruising [[00:01:03](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=63.519999999999996s)]
+*  affordable to people from every walks of life. [[00:01:08](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=68.0s)]
+*  Carnival fueled an industry-wide shipbuilding boom [[00:01:12](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=72.48s)]
+*  in the 1980s and branded itself [[00:01:15](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=75.28s)]
+*  as the world's most popular cruise line. [[00:01:17](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=77.6s)]
+*  The cruise operator went public in 1987, [[00:01:21](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=81.02s)]
+*  and throughout the next decade, [[00:01:24](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=84.08s)]
+*  he acquired or bought stakes in several cruise lines, [[00:01:25](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=85.32s)]
+*  amassing a fleet of over 100 cruise ships today. [[00:01:28](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=88.16s)]
+*  They would compete directly with the hospitality industry, [[00:01:31](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=91.8s)]
+*  offering a different product. [[00:01:36](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=96.6s)]
+*  And throughout the past two decades, [[00:01:38](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=98.91999999999999s)]
+*  the company has weathered disease outbreaks. [[00:01:40](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=100.75999999999999s)]
+*  We were told by our waiter that over 200 people [[00:01:43](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=103.11999999999999s)]
+*  had already been to the infirmary. [[00:01:44](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=104.75999999999999s)]
+*  And I was sick for five days. [[00:01:45](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=105.91999999999999s)]
+*  As well as natural disasters and accidents at sea. [[00:01:48](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=108.32s)]
+*  In 2012, the Carnival-operated Costa Concordia [[00:01:52](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=112.68s)]
+*  ran aground in Italy. [[00:01:56](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=116.0s)]
+*  The accident killed 32 people. [[00:01:58](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=118.0s)]
+*  It was sinking so fast, and where we were standing [[00:02:00](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=120.92s)]
+*  is actually underwater right now, [[00:02:02](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=122.92s)]
+*  so obviously we needed to get off right then. [[00:02:04](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=124.04s)]
+*  Then in 2013, the company hired Arnold Donald [[00:02:06](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=126.4s)]
+*  to write the ship as CEO. [[00:02:09](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=129.88s)]
+*  Under Donald, Carnival's market value [[00:02:11](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=131.96s)]
+*  nearly doubled to $45 billion in 2017. [[00:02:14](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=134.08s)]
+*  We brought them together in having a common strategy [[00:02:18](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=138.32s)]
+*  of what they offer, applying a way to control costs [[00:02:23](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=143.64s)]
+*  across all those brands. [[00:02:29](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=149.16s)]
+*  Over the past years, the cruising industry [[00:02:31](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=151.48s)]
+*  has been adding at least one million [[00:02:34](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=154.51999999999998s)]
+*  new passengers every year. [[00:02:37](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=157.12s)]
+*  But in 2020, coronavirus became a major concern [[00:02:40](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=160.07999999999998s)]
+*  for the cruise industry early on. [[00:02:43](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=163.68s)]
+*  There are two cruise ships that have been quarantined, [[00:02:45](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=165.84s)]
+*  including the one right here in Hong Kong behind me, [[00:02:47](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=167.88s)]
+*  as well as one in Yokohama, Japan. [[00:02:50](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=170.24s)]
+*  The fear is that coronavirus is spreading. [[00:02:52](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=172.2s)]
+*  Carnival and other cruise operators [[00:02:54](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=174.84s)]
+*  began canceling voyages in Asia. [[00:02:56](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=176.79999999999998s)]
+*  But as reports of virus outbreaks aboard cruise ships [[00:02:59](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=179.24s)]
+*  like the Diamond Princess kept spreading, [[00:03:01](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=181.96s)]
+*  its parent company largely continued [[00:03:04](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=184.2s)]
+*  full steam ahead into March. [[00:03:06](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=186.2s)]
+*  They were not prepared for coronavirus [[00:03:08](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=188.4s)]
+*  because nothing like this has hit them before. [[00:03:10](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=190.0s)]
+*  They could not evacuate thousands of passengers. [[00:03:12](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=192.56s)]
+*  They could not deal with a rapidly spreading epidemic. [[00:03:16](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=196.64s)]
+*  The CDC declared a no-sale order on March 14th, [[00:03:22](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=202.79999999999998s)]
+*  and Carnival's stock price has fallen [[00:03:26](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=206.39999999999998s)]
+*  through the first few months of the year. [[00:03:28](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=208.23999999999998s)]
+*  To stay afloat, the cruise operator has been raising cash [[00:03:31](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=211.04s)]
+*  through bond sales and has furloughed or laid off employees. [[00:03:34](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=214.27999999999997s)]
+*  And the company's sales revenue is expected [[00:03:38](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=218.35999999999999s)]
+*  to drop significantly in 2020. [[00:03:40](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=220.72s)]
+*  Carnival said it plans to resume some sailings [[00:03:44](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=224.0s)]
+*  on August 1st, despite a congressional inquiry [[00:03:46](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=226.4s)]
+*  into the cruise operator's health and safety practices. [[00:03:49](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=229.4s)]
+*  It's a matter of trust. [[00:03:52](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=232.8s)]
+*  So it will take a lot of convincing and a lot of guarantees [[00:03:54](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=234.28s)]
+*  and above everything some time for the clients to return. [[00:03:58](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=238.72s)]
+*  And they're counting that people's memories [[00:04:04](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=244.16s)]
+*  for unpleasant events is short. [[00:04:06](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=246.88s)]
+*  With the coronavirus pandemic continuing, [[00:04:09](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=249.32s)]
+*  what the cruise industry looks like going forward [[00:04:12](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=252.0s)]
+*  remains to be seen. [[00:04:14](https://www.youtube.com/watch?v=2sb3XPXmaKY&t=254.72s)]

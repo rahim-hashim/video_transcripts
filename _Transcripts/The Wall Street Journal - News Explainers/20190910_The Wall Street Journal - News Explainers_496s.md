@@ -1,0 +1,113 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 496s
+Video Keywords: ['antitrust', 'microsoft', 'facebook', 'google', 'apple', 'amazon', 'big tech', 'tech news', 'technology history', 'court cases', 'monopoly', 'monopolization', 'business', 'tech', 'technology', 'wsj', 'the wall street journal', 'bill gates', 'jeff bezos', 'tim cook', 'mark zuckerberg', 'social media', 'finance news', 'finance', 'investing', 'business and finance', 'tech business', 'business tech', 'tech finance', 'silicon valley news', 'antitrust case', 'antitrust court', 'antitrust history', 'antitrust tech', 'technology monopoly']
+Video Views: 271997
+Video Rating: None
+Video Description: The Department of Justice is investigating the U.S.'s largest tech firms for allegedly monopolistic behavior. Roughly 20 years ago, a similar case threatened to destabilize Microsoft. WSJ explains.
+
+More from the Wall Street Journal: 
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Microsoft #Facebook
+---
+
+# What Facebook, Google and Others Can Learn From Microsoft’s Antitrust Case | WSJ
+**The Wall Street Journal - News Explainers:** [September 10, 2019](https://www.youtube.com/watch?v=frA5_sTj_8A)
+*  In the summer of 2019, the United States put Silicon Valley in its crosshairs. [[00:00:00](https://www.youtube.com/watch?v=frA5_sTj_8A&t=0.0s)]
+*  Only a very small number of the nearly 2 billion apps in the App Store are made by Apple. [[00:00:05](https://www.youtube.com/watch?v=frA5_sTj_8A&t=5.72s)]
+*  We have rolled out many innovations over the course of the history of our product. [[00:00:10](https://www.youtube.com/watch?v=frA5_sTj_8A&t=10.52s)]
+*  For every $3 of advertising spent online, a business would have to spend an equivalent of $5 offline to get equal prominence. [[00:00:15](https://www.youtube.com/watch?v=frA5_sTj_8A&t=15.4s)]
+*  That is a tremendous savings for the U.S. economy. [[00:00:24](https://www.youtube.com/watch?v=frA5_sTj_8A&t=24.0s)]
+*  To some, these hearings recall another major antitrust case, a showdown between the Justice Department and Microsoft. [[00:00:26](https://www.youtube.com/watch?v=frA5_sTj_8A&t=26.759999999999998s)]
+*  The year was 1998. [[00:00:34](https://www.youtube.com/watch?v=frA5_sTj_8A&t=34.96s)]
+*  Microsoft controlled more than 90 percent of the PC operating systems market. [[00:00:37](https://www.youtube.com/watch?v=frA5_sTj_8A&t=37.08s)]
+*  At the heart of the case was a new product, the Internet Explorer web browser. [[00:00:41](https://www.youtube.com/watch?v=frA5_sTj_8A&t=41.879999999999995s)]
+*  Prosecutors argued that Microsoft used its market power to stifle the growth of competing browsers. [[00:00:46](https://www.youtube.com/watch?v=frA5_sTj_8A&t=46.56s)]
+*  At the time, many computer networks relied on software from Microsoft. [[00:00:53](https://www.youtube.com/watch?v=frA5_sTj_8A&t=53.16s)]
+*  This gave the firm lots of power and influence. [[00:00:57](https://www.youtube.com/watch?v=frA5_sTj_8A&t=57.48s)]
+*  Today, leaders from Facebook, Amazon, Google and Apple are studying big cases like Microsoft to prepare for their scrutiny. [[00:01:01](https://www.youtube.com/watch?v=frA5_sTj_8A&t=61.08s)]
+*  Here's what they could learn from watching Microsoft's case. [[00:01:09](https://www.youtube.com/watch?v=frA5_sTj_8A&t=69.47999999999999s)]
+*  Lesson number one, how not to counter an antitrust probe. [[00:01:13](https://www.youtube.com/watch?v=frA5_sTj_8A&t=73.24s)]
+*  Ahead of the trial, the Justice Department deposed Microsoft's CEO, Bill Gates. [[00:01:17](https://www.youtube.com/watch?v=frA5_sTj_8A&t=77.76s)]
+*  Mr. Gates, when did you first become concerned about the competitive threat that Netscape posed to Microsoft? [[00:01:23](https://www.youtube.com/watch?v=frA5_sTj_8A&t=83.96000000000001s)]
+*  Bill Gates behavior, his body language is contemptuous. [[00:01:36](https://www.youtube.com/watch?v=frA5_sTj_8A&t=96.28s)]
+*  The product that didn't include Internet Explorer is called the Windows 95 upgrade. [[00:01:42](https://www.youtube.com/watch?v=frA5_sTj_8A&t=102.2s)]
+*  Arrogant. [[00:01:47](https://www.youtube.com/watch?v=frA5_sTj_8A&t=107.32s)]
+*  The full breadth of your question. [[00:01:48](https://www.youtube.com/watch?v=frA5_sTj_8A&t=108.72s)]
+*  And evasive. [[00:01:50](https://www.youtube.com/watch?v=frA5_sTj_8A&t=110.63999999999999s)]
+*  The Department just has played pieces of that video in its opening statement to the judge on the first day of the case. [[00:01:52](https://www.youtube.com/watch?v=frA5_sTj_8A&t=112.27999999999999s)]
+*  And the judge later said, Microsoft, you lost me on day one. [[00:01:59](https://www.youtube.com/watch?v=frA5_sTj_8A&t=119.24s)]
+*  Gates was deposed well after the government sounded an alarm over his company's behavior. [[00:02:05](https://www.youtube.com/watch?v=frA5_sTj_8A&t=125.28s)]
+*  In 1995, Microsoft was served a court order for its anti-competitive activities and software licensing. [[00:02:10](https://www.youtube.com/watch?v=frA5_sTj_8A&t=130.84s)]
+*  Another case opened after the Department of Justice argued that Microsoft violated that court order. [[00:02:18](https://www.youtube.com/watch?v=frA5_sTj_8A&t=138.08s)]
+*  The repeat violations in Gates's behavior did not play well with the judge presiding over the case. [[00:02:24](https://www.youtube.com/watch?v=frA5_sTj_8A&t=144.52s)]
+*  After viewing the tape, Judge Thomas Penfield Jackson expressed negative opinions of Gates and Microsoft to journalists. [[00:02:30](https://www.youtube.com/watch?v=frA5_sTj_8A&t=150.8s)]
+*  In his decision, he called for Microsoft to be broken up. [[00:02:38](https://www.youtube.com/watch?v=frA5_sTj_8A&t=158.76s)]
+*  But on appeal, a panel faulted the judge's conduct, as well as some of his conclusions. [[00:02:42](https://www.youtube.com/watch?v=frA5_sTj_8A&t=162.24s)]
+*  It threw out parts of the ruling. [[00:02:47](https://www.youtube.com/watch?v=frA5_sTj_8A&t=167.64s)]
+*  Microsoft narrowly escaped a breakup. [[00:02:49](https://www.youtube.com/watch?v=frA5_sTj_8A&t=169.4s)]
+*  In the aftermath, the two sides agreed to settle with some changes to how the software maker did business. [[00:02:52](https://www.youtube.com/watch?v=frA5_sTj_8A&t=172.32s)]
+*  According to Kavasic, the legend of the Gates tape haunts today's tech reps when they testify before Congress. [[00:02:58](https://www.youtube.com/watch?v=frA5_sTj_8A&t=178.4s)]
+*  I think the approach that especially the tech leaders have been urged to take is humility. [[00:03:05](https://www.youtube.com/watch?v=frA5_sTj_8A&t=185.84s)]
+*  What their inside and outside lawyers will tell them, because this is deadly serious. [[00:03:12](https://www.youtube.com/watch?v=frA5_sTj_8A&t=192.52s)]
+*  And if you don't take this very seriously, you expose yourself, your company, everything you've done to real hazard. [[00:03:17](https://www.youtube.com/watch?v=frA5_sTj_8A&t=197.24s)]
+*  And if you don't believe us, watch this one. [[00:03:25](https://www.youtube.com/watch?v=frA5_sTj_8A&t=205.24s)]
+*  Precedent number two, free, doesn't always mean better for consumers. [[00:03:28](https://www.youtube.com/watch?v=frA5_sTj_8A&t=208.08s)]
+*  At the heart of any antitrust investigation lies the standard of consumer harm. [[00:03:33](https://www.youtube.com/watch?v=frA5_sTj_8A&t=213.6s)]
+*  Three key elements, price, quality, innovation that improves business performance over the long term for the benefit of consumers. [[00:03:38](https://www.youtube.com/watch?v=frA5_sTj_8A&t=218.84s)]
+*  These three factors have been interpreted by the courts for decades. [[00:03:48](https://www.youtube.com/watch?v=frA5_sTj_8A&t=228.0s)]
+*  In the modern era, courts have spent the most time grappling with the price dimension of harm. [[00:03:52](https://www.youtube.com/watch?v=frA5_sTj_8A&t=232.51999999999998s)]
+*  In Microsoft, Internet Explorer was bundled with Windows 98 at no charge, which meant that the case would require a different kind of analysis. [[00:03:58](https://www.youtube.com/watch?v=frA5_sTj_8A&t=238.96s)]
+*  In the view of the courts, Microsoft made its browser free, but still abused its market power by favoring its products and shutting out rivals. [[00:04:07](https://www.youtube.com/watch?v=frA5_sTj_8A&t=247.88s)]
+*  The government's theory was that those steps taken to forestall the emergence of an alternative to the Windows operating system was improper exclusion. [[00:04:16](https://www.youtube.com/watch?v=frA5_sTj_8A&t=256.76s)]
+*  And for the most part, the district court and the court of appeals agreed. [[00:04:26](https://www.youtube.com/watch?v=frA5_sTj_8A&t=266.96s)]
+*  Which means that companies can harm consumers even if the products they're offering are free. [[00:04:31](https://www.youtube.com/watch?v=frA5_sTj_8A&t=271.23999999999995s)]
+*  That's important because in today's digital economy, free is in. [[00:04:36](https://www.youtube.com/watch?v=frA5_sTj_8A&t=276.68s)]
+*  You don't pay money to use Google search, maps or translate, but you do pay something of value, access to your personal data. [[00:04:41](https://www.youtube.com/watch?v=frA5_sTj_8A&t=281.24s)]
+*  Certainly in the modern tech environment, an important dimension of quality is what they do with your data. [[00:04:49](https://www.youtube.com/watch?v=frA5_sTj_8A&t=289.91999999999996s)]
+*  The treatment of privacy is a variable of quality that the consumer is increasingly concerned about. [[00:04:55](https://www.youtube.com/watch?v=frA5_sTj_8A&t=295.52s)]
+*  Precedent number three, the U.S. government isn't the only test. [[00:05:02](https://www.youtube.com/watch?v=frA5_sTj_8A&t=302.32s)]
+*  An array of state attorneys general submitted comments to the FTC on big tech antitrust violations. [[00:05:07](https://www.youtube.com/watch?v=frA5_sTj_8A&t=307.56s)]
+*  They recommend that the department move its philosophy away from under enforcement. [[00:05:14](https://www.youtube.com/watch?v=frA5_sTj_8A&t=314.52s)]
+*  Many from that group are expected to launch their own investigations. [[00:05:19](https://www.youtube.com/watch?v=frA5_sTj_8A&t=319.2s)]
+*  Across the pond, the European Union already has fined Google eight billion euro. [[00:05:23](https://www.youtube.com/watch?v=frA5_sTj_8A&t=323.64000000000004s)]
+*  European regulators also opened new investigations into Facebook and Amazon. [[00:05:29](https://www.youtube.com/watch?v=frA5_sTj_8A&t=329.0s)]
+*  In its day, Microsoft also had to defend against a variety of challengers. [[00:05:34](https://www.youtube.com/watch?v=frA5_sTj_8A&t=334.52000000000004s)]
+*  In 1998, 20 state attorneys general joined the Justice Department in suing the tech giant. [[00:05:39](https://www.youtube.com/watch?v=frA5_sTj_8A&t=339.52000000000004s)]
+*  And in the 2000s, Europe's Antitrust Commission launched two investigations into Microsoft. [[00:05:45](https://www.youtube.com/watch?v=frA5_sTj_8A&t=345.88s)]
+*  Those resulted in 1.6 billion euro in fines against the company. [[00:05:52](https://www.youtube.com/watch?v=frA5_sTj_8A&t=352.16s)]
+*  I think one needs to put it into context. [[00:05:57](https://www.youtube.com/watch?v=frA5_sTj_8A&t=357.36s)]
+*  Microsoft makes profits of about 1.5 billion dollars per month. [[00:05:59](https://www.youtube.com/watch?v=frA5_sTj_8A&t=359.8s)]
+*  It's not all that large a fine. [[00:06:06](https://www.youtube.com/watch?v=frA5_sTj_8A&t=366.48s)]
+*  Neither competitors nor consumers of Microsoft are out after fines. [[00:06:09](https://www.youtube.com/watch?v=frA5_sTj_8A&t=369.12s)]
+*  Fines don't really do them any good. [[00:06:15](https://www.youtube.com/watch?v=frA5_sTj_8A&t=375.44000000000005s)]
+*  It's competition that does them good. [[00:06:17](https://www.youtube.com/watch?v=frA5_sTj_8A&t=377.6s)]
+*  But we'd rather have compliance and competition than fines. [[00:06:20](https://www.youtube.com/watch?v=frA5_sTj_8A&t=380.24s)]
+*  According to Kavacic, the European Union has broader criteria on which to bring an antitrust case. [[00:06:25](https://www.youtube.com/watch?v=frA5_sTj_8A&t=385.24s)]
+*  The EU's position in dealing with high tech companies, leading firms, has been much stronger than the US. [[00:06:31](https://www.youtube.com/watch?v=frA5_sTj_8A&t=391.6s)]
+*  They arguably came out with a stronger remedy than the US did in their Microsoft case. [[00:06:38](https://www.youtube.com/watch?v=frA5_sTj_8A&t=398.12s)]
+*  If you ask which jurisdiction plays the leading role in setting global standards [[00:06:42](https://www.youtube.com/watch?v=frA5_sTj_8A&t=402.96000000000004s)]
+*  and influencing the way that other countries think about competition law, [[00:06:48](https://www.youtube.com/watch?v=frA5_sTj_8A&t=408.28000000000003s)]
+*  it's unmistakably the European Commission. [[00:06:52](https://www.youtube.com/watch?v=frA5_sTj_8A&t=412.6s)]
+*  All told, Microsoft's tangle with antitrust law stretched from 1995 to 2011. [[00:06:55](https://www.youtube.com/watch?v=frA5_sTj_8A&t=415.72s)]
+*  In Silicon Valley, that's a lifetime. [[00:07:01](https://www.youtube.com/watch?v=frA5_sTj_8A&t=421.84000000000003s)]
+*  According to Kavacic, you can expect the tech companies to argue that a lot will change in their sector as the government attempts to make a case. [[00:07:04](https://www.youtube.com/watch?v=frA5_sTj_8A&t=424.40000000000003s)]
+*  One thing that the companies will argue is, let's take a count for a second of how we got here. [[00:07:12](https://www.youtube.com/watch?v=frA5_sTj_8A&t=432.72s)]
+*  Where was Google in 1998? [[00:07:17](https://www.youtube.com/watch?v=frA5_sTj_8A&t=437.56s)]
+*  Where was Facebook? Didn't exist. [[00:07:22](https://www.youtube.com/watch?v=frA5_sTj_8A&t=442.0s)]
+*  That's years later. [[00:07:24](https://www.youtube.com/watch?v=frA5_sTj_8A&t=444.12s)]
+*  Where was Amazon? [[00:07:25](https://www.youtube.com/watch?v=frA5_sTj_8A&t=445.91999999999996s)]
+*  Another nascent enterprise with an interesting idea. [[00:07:27](https://www.youtube.com/watch?v=frA5_sTj_8A&t=447.2s)]
+*  In the final years of Microsoft's case, the Windows operating system that Microsoft fought so hard to protect [[00:07:31](https://www.youtube.com/watch?v=frA5_sTj_8A&t=451.32s)]
+*  lost ground to the pantheon of web-based applications that we enjoy right now. [[00:07:37](https://www.youtube.com/watch?v=frA5_sTj_8A&t=457.91999999999996s)]
+*  Today, the operating system commands only a 35% market share. [[00:07:43](https://www.youtube.com/watch?v=frA5_sTj_8A&t=463.32s)]
+*  Meanwhile, Internet Explorer enjoyed a dominant share of the web browser market through 2012. [[00:07:47](https://www.youtube.com/watch?v=frA5_sTj_8A&t=467.88s)]
+*  But eventually, a new browser, Google Chrome, overtook Explorer. [[00:07:53](https://www.youtube.com/watch?v=frA5_sTj_8A&t=473.67999999999995s)]
+*  How the Justice Department presides over these investigations just might cause another shakeup for companies on charts like this. [[00:07:58](https://www.youtube.com/watch?v=frA5_sTj_8A&t=478.44s)]

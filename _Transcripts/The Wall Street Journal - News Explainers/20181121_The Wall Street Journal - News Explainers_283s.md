@@ -1,0 +1,61 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 283s
+Video Keywords: ['Riva Gold', 'BEAR MARKETS', 'BEARS', 'S&P', 'ANALYSIS', 'MARKETS', 'JOBLESS', 'CLAIMS', 'DEALS', 'DEAL ACTIVITY', 'INVESTOR', 'SENTIMENT', 'RECESSION', 'BUBBLE', 'BOOM', 'BURST', 'BULL', 'global markets', 'economy', 'correction']
+Video Views: 35489
+Video Rating: None
+Video Description: Is a bear market on the horizon? WSJ markets reporter Riva Gold analyzes the trends that came before the dot-com bubble burst and the financial crisis hit.
+---
+
+# Bear Necessities: The Charts That Predict Market Downturns
+**The Wall Street Journal - News Explainers:** [November 21, 2018](https://www.youtube.com/watch?v=QNxyDQBhrQ4)
+*  Bear markets. It's something we haven't seen in U.S. stocks in roughly a decade. [[00:00:00](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=0.0s)]
+*  Depending on how you look at it, they can either be a major pain triggering panic, [[00:00:06](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=6.0s)]
+*  or, for those with a strong stomach, lucrative buying opportunities. [[00:00:11](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=11.0s)]
+*  Either way, investors are on the hunt for the next bear. [[00:00:16](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=16.0s)]
+*  You'll spot one when the market drops 20% or more from its peak. [[00:00:20](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=20.0s)]
+*  Predicting the next one can be really tough, even for professionals. [[00:00:25](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=25.0s)]
+*  But there are some key charts that top investors have found helpful at predicting bear markets in the past. [[00:00:30](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=30.0s)]
+*  So let's take a look at how some of these fared before the last two bear markets. [[00:00:36](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=36.0s)]
+*  First up, the yield curve. [[00:00:43](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=43.0s)]
+*  When the gap between long-term and short-term government bond yields is climbing like this, [[00:00:45](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=45.0s)]
+*  it generally means investors think the economy is healthy, and growth will be stronger in the future. [[00:00:52](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=52.0s)]
+*  But when it starts to shrink and goes negative like this, that's when you might want to watch out. [[00:00:57](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=57.0s)]
+*  This is the dreaded inverted yield curve, and it usually means investors are really scared about the future of the economy. [[00:01:04](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=64.0s)]
+*  In 2006-2007, it inverted as the Fed lifted rates to try to cool the housing market. [[00:01:13](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=73.0s)]
+*  A bear market followed, as well as the worst financial crisis since the Great Depression. [[00:01:20](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=80.0s)]
+*  Since 2014, the yield curve has been flattening, bringing us once again pretty close to an inverted curve. [[00:01:28](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=88.0s)]
+*  So is it an ominous sign? [[00:01:35](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=95.0s)]
+*  No one's really sure. There's a heated debate. [[00:01:38](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=98.0s)]
+*  Some analysts say that years of never-before-tried monetary policies, [[00:01:41](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=101.0s)]
+*  like negative interest rates in the Eurozone in Japan, have distorted long-term rates, blurring the picture. [[00:01:46](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=106.0s)]
+*  Here's an indicator about investor sentiment. [[00:01:55](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=115.0s)]
+*  Zoomed out like this, it kind of looks like an electrocardiogram. [[00:01:58](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=118.0s)]
+*  But here's what you need to know. [[00:02:02](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=122.0s)]
+*  When the chart's really high, investors are feeling optimistic. [[00:02:04](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=124.0s)]
+*  And when it's really low, they're feeling pretty bearish. [[00:02:07](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=127.0s)]
+*  Let's have a look at January 2000, the highest point ever recorded on this survey. [[00:02:10](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=130.0s)]
+*  The World Wide Web was all the rage. [[00:02:16](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=136.0s)]
+*  The Nasdaq was going vertical, and investors would buy pretty much anything with .com in its name. [[00:02:19](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=139.0s)]
+*  I think we all know how that one turned out. Bear. [[00:02:26](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=146.0s)]
+*  This chart is not always predictive, but keep an eye on the extremes. [[00:02:32](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=152.0s)]
+*  When investors get really, really bullish, it can sometimes be a sign that their expectations are just too high, [[00:02:37](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=157.0s)]
+*  and there's not a lot of cash left on the sidelines to cushion any blows. [[00:02:44](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=164.0s)]
+*  On the flip side, really low levels of optimism actually have the most predictive power. [[00:02:48](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=168.0s)]
+*  Let's take a look at March 2009. [[00:02:57](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=177.0s)]
+*  Sentiment on the survey was at its lowest in years just before the bear market ended. [[00:02:59](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=179.0s)]
+*  If you bought the market right at its bottom, you'd be sitting on a roughly 300% return today. [[00:03:05](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=185.0s)]
+*  Another sign of excess? Deal activity. Companies snapping up other companies. [[00:03:13](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=193.0s)]
+*  Just before the .com bubble burst in 2000, you had a flurry of merger activity, including Time Warner's deal with AOL. [[00:03:19](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=199.0s)]
+*  Just before the financial crisis recession in bear market, deal activity spiked again. [[00:03:29](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=209.0s)]
+*  RBS's deal to buy ABN Amro, the biggest bank merger ever, marked the top. [[00:03:35](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=215.0s)]
+*  So why do mergers matter? They can signal that companies have gotten excessively optimistic. [[00:03:41](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=221.0s)]
+*  Or that they actually think deals are the only way to grow as the economy slows down. [[00:03:47](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=227.0s)]
+*  Lastly, jobless claims. Major bear markets usually, but don't always, coincide with recessions. [[00:03:53](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=233.0s)]
+*  Here, in both 2000 and 2007, jobless claims start to climb right at the beginning of what turned out to be major bear markets. [[00:04:01](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=241.0s)]
+*  A steady rise in claims can signal that something is starting to go wrong with the labor market. [[00:04:10](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=250.0s)]
+*  When the job market slows, consumers tend to spend less, hitting profits. [[00:04:15](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=255.0s)]
+*  Of course, none of these charts on their own can really give you a concrete answer as to when the next bear is going to emerge. [[00:04:20](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=260.0s)]
+*  But taken together, they can give you a pretty useful indicator about the health of the market. [[00:04:27](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=267.0s)]
+*  So when do you think the next bear market is due? Take our poll on wsj.com or tweet me at goldriva. [[00:04:32](https://www.youtube.com/watch?v=QNxyDQBhrQ4&t=272.0s)]

@@ -1,0 +1,111 @@
+---
+Date Generated: February 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 468s
+Video Keywords: ['coronavirus', 'covid 19', 'coronavirus treatment', 'coronavirus therapy', 'coronavirus therapies', 'remdesvir', 'eli lilly', 'covid wsj', 'wsj covid', 'wsj coronavirus', 'coronavirus us', 'covid us', 'covid cases', 'covid explained', 'covid treatment', 'covid treatment explained', 'wsj coronavirus explained', 'explained', 'explanier', 'explains', 'explain', 'wsj explains', 'wsj explained', 'wsj explainer', 'science', 'wsj science', 'coronavirus science', 'covid science', 'covid latest', 'covid news', 'covid update', 'covid novemeber 2020']
+Video Views: 75343
+Video Rating: None
+Video Description: Health experts say having a vaccine is just one front in a two-front battle against COVID-19. The other is effective treatments for those who are already sick with the disease. WSJ breaks down the three most promising types in development. Photo Illustration: Jacob Reynolds/WSJ.
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Coronavirus #Covid19
+---
+
+# The Critical Coronavirus-Busting Therapies, Explained | WSJ
+**The Wall Street Journal - News Explainers:** [November 06, 2020](https://www.youtube.com/watch?v=7t7jV5YcrdI)
+*  Clinical trials for COVID-19 vaccines are nearing the final stretch. [[00:00:00](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=0.0s)]
+*  But health experts say vaccines are just one piece of a larger puzzle [[00:00:05](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=5.0s)]
+*  in fighting the deadly disease and getting us back to normal. [[00:00:09](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=9.0s)]
+*  The other big piece are effective treatments for those who are already sick. [[00:00:12](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=12.0s)]
+*  Not everybody mounts a good immune response. [[00:00:17](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=17.0s)]
+*  In particular, immunosuppressed patients are well known to not respond well to vaccines. [[00:00:20](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=20.0s)]
+*  So we are going to need to have therapies for those who are not vaccinated [[00:00:25](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=25.0s)]
+*  and for those who don't make a good immune response. [[00:00:29](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=29.0s)]
+*  Right now, there are three main categories of COVID-19 treatments. [[00:00:31](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=31.0s)]
+*  Antibody therapies, immunomodulators, and antivirals. [[00:00:36](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=36.0s)]
+*  Antibody therapies leverage antibodies, like these, [[00:00:40](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=40.0s)]
+*  that the body naturally produces after recovering from a disease. [[00:00:44](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=44.0s)]
+*  To ward off infection, they attach to proteins on the virus's surface [[00:00:48](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=48.0s)]
+*  that prevents it from infiltrating cells. [[00:00:52](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=52.0s)]
+*  Different types of antibodies target different parts of the virus. [[00:00:55](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=55.0s)]
+*  They circulate in the yellowish liquid part of blood, known as plasma. [[00:00:59](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=59.0s)]
+*  That's where the treatment comes in. [[00:01:03](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=63.0s)]
+*  You can take that liquid and give it to a person who's sick or to prevent disease. [[00:01:05](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=65.0s)]
+*  So it is the transfer of immunity from a person who's made it to a person who's susceptible. [[00:01:11](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=71.0s)]
+*  When given to sick patients, convalescent plasma can potentially boost a person's immune response to the virus, [[00:01:17](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=77.0s)]
+*  but just for a few weeks. [[00:01:23](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=83.0s)]
+*  We always pull it out during a pandemic. [[00:01:25](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=85.0s)]
+*  We did this for 2009 H1N1, obviously for things such as Ebola virus disease in Africa. [[00:01:27](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=87.0s)]
+*  Because it's relatively easy to produce compared to vaccines and other drugs, [[00:01:33](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=93.0s)]
+*  experts think it could possibly be used both as a treatment and as a preventative medicine against COVID-19. [[00:01:38](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=98.0s)]
+*  It's based on the same principle of if you have a protective antibody, [[00:01:45](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=105.0s)]
+*  passive transfer of that could provide not only protection prophylactically, but also treatment. [[00:01:49](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=109.0s)]
+*  Plasma is widely thought to be safe, and in August, the FDA authorized using it to treat patients hospitalized with COVID-19. [[00:01:55](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=115.0s)]
+*  But its effectiveness is still being studied. [[00:02:03](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=123.0s)]
+*  Convalescent plasma is a little bit of a, it's a mixed bag. [[00:02:06](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=126.0s)]
+*  We don't actually know the titers of the patients who have survived and done well after COVID. [[00:02:09](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=129.0s)]
+*  Titers are a measurement of how many antibodies are in a person's blood. [[00:02:16](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=136.0s)]
+*  Typically, the more antibodies a person has, the better chance they have at fighting an infection. [[00:02:20](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=140.0s)]
+*  This means that not all plasma is created equal. [[00:02:25](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=145.0s)]
+*  The amount and quality of antibodies it contains can vary. [[00:02:28](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=148.0s)]
+*  That impacts how effective the treatment can be. [[00:02:32](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=152.0s)]
+*  So what you're getting with convalescent plasma right now is a bit of an unknown. [[00:02:35](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=155.0s)]
+*  To overcome this, scientists use plasma as a blueprint to build a more potent drug known as monoclonal antibodies. [[00:02:40](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=160.0s)]
+*  They do this by homing in on specific antibodies that do the best job in stopping the virus. [[00:02:47](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=167.0s)]
+*  We screened this huge panel of antibodies through many in vitro assays to select the best antibodies that block the ability of the virus to get inside cells and infect them. [[00:02:53](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=173.0s)]
+*  Once they're identified, scientists can mass produce them in facilities that resemble breweries and pack them into drugs that act as a targeted attack against the virus. [[00:03:04](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=184.0s)]
+*  You're growing these cells in bioreactors, which are huge steel tanks. [[00:03:14](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=194.0s)]
+*  And then as the cells grow, they are pumping out antibody. [[00:03:18](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=198.0s)]
+*  You are concentrating that and in purified form. [[00:03:21](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=201.0s)]
+*  This is what you are administering to patients. [[00:03:24](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=204.0s)]
+*  Both Regeneron and competitor Eli Lilly have been racing to bring monoclonal antibody drugs to market for COVID-19. [[00:03:26](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=206.0s)]
+*  The companies are testing drugs that contain one or two types of antibodies, and researchers say they could have benefits over plasma-based treatments. [[00:03:33](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=213.0s)]
+*  Monoclonal antibody preparations are consistent. They are consistent from patient to patient. [[00:03:42](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=222.0s)]
+*  They can be standardized and they are hopefully easier to use than plasma because of these properties. [[00:03:47](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=227.0s)]
+*  Each of the companies has released encouraging data from early stage clinical trials showing their drugs helped reduce coronavirus levels and improved symptoms in non-hospitalized patients. [[00:03:55](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=235.0s)]
+*  But both drug makers had to pause their studies in hospitalized patients. [[00:04:05](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=245.0s)]
+*  And the Lilly study was halted in this patient population altogether because they didn't see a benefit. [[00:04:09](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=249.0s)]
+*  Early data among less severe patients, though, looks promising for both drugs. [[00:04:15](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=255.0s)]
+*  In October, President Trump was given Regeneron's antibody cocktail as part of his COVID-19 treatment. [[00:04:20](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=260.0s)]
+*  The president said the drug was key to his recovery, but it's unclear how beneficial the drug actually was. [[00:04:26](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=266.0s)]
+*  I just want to say we have Regeneron, we have a very similar drug from Eli Lilly, and they're coming out and we're trying to get them on an emergency basis. [[00:04:32](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=272.0s)]
+*  Both Regeneron and Lilly have asked the FDA to authorize emergency use of their treatments. [[00:04:42](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=282.0s)]
+*  We have committed to manufacturing about 300,000 doses of these antibodies by the end of this year. [[00:04:48](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=288.0s)]
+*  And we have also partnered with Roe so that we can scale up and produce about two million doses of these antibodies to be available annually for worldwide use. [[00:04:53](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=293.0s)]
+*  But physicians have expressed concerns about these new drugs. [[00:05:03](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=303.0s)]
+*  This isn't the type of drug that is always able to be scaled, that can be made available to everyone rapidly, and also is a low cost. [[00:05:06](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=306.0s)]
+*  Experts say both plasma and monoclonal antibody treatments could help not just COVID-19 patients, but also help prevent infection in healthy people. [[00:05:17](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=317.0s)]
+*  To treat patients, doctors have also been using immunomodulators. [[00:05:26](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=326.0s)]
+*  These drugs suppress the immune system and ensuing inflammation in the sickest of COVID-19 patients. [[00:05:30](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=330.0s)]
+*  That's important because this inflammation can be deadly. [[00:05:36](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=336.0s)]
+*  One of those drugs is the steroid dexamethasone. [[00:05:39](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=339.0s)]
+*  Researchers have found that it improved survival when given to severely ill patients. [[00:05:43](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=343.0s)]
+*  The other treatment being used to fight COVID-19 is the antiviral drug remdesivir. [[00:05:48](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=348.0s)]
+*  This was another drug the president was given at Walter Reed Hospital. [[00:05:53](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=353.0s)]
+*  So we really try to give remdesivir as soon as somebody may be admitted to the hospital. [[00:05:57](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=357.0s)]
+*  We want to give it as early as possible. [[00:06:02](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=362.0s)]
+*  We know from Tamiflu and the flu and all those kind of different drugs that giving antivirals sooner rather than later is really important. [[00:06:04](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=364.0s)]
+*  Here's how it stops the coronavirus. [[00:06:11](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=371.0s)]
+*  When a virus infects a cell, it uses the cell's machinery to build more viruses. [[00:06:13](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=373.0s)]
+*  It does that by making copies of its RNA. [[00:06:18](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=378.0s)]
+*  That's the genetic material that contains instructions for replication. [[00:06:21](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=381.0s)]
+*  Remdesivir is designed to infiltrate these instructions by inserting itself into copies of the virus's genetic code. [[00:06:25](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=385.0s)]
+*  This interrupts the replication process and acts as a kill switch for the virus. [[00:06:32](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=392.0s)]
+*  Promising clinical trials led to the drug being approved for emergency use in May. [[00:06:37](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=397.0s)]
+*  But more recent studies have produced conflicting results about its ability to speed up recovery and curb death in COVID-19 patients. [[00:06:42](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=402.0s)]
+*  The Department of Health and Human Services allowed drugmaker Gilead to market the drug directly to hospitals in October. [[00:06:50](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=410.0s)]
+*  And the CEO said he was confident in being able to deliver the drug to the patients who need it. [[00:06:57](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=417.0s)]
+*  We now have enough supply of this medicine for patients in the United States and globally by the end of this month. [[00:07:02](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=422.0s)]
+*  There's been tremendous progress in treating COVID-19, but health experts caution that there is still more work to be done to see just how effective these treatments are. [[00:07:09](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=429.0s)]
+*  And to save lives, doctors will need a multitude of drugs at their disposal. [[00:07:18](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=438.0s)]
+*  I think that we're going to see many more therapeutics come out by the end of this pandemic. [[00:07:22](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=442.0s)]
+*  And so that people that enter the hospital will at least receive one specific COVID-19 treatment for their disease. [[00:07:26](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=446.0s)]
+*  Experts say these three types of treatments are promising. [[00:07:34](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=454.0s)]
+*  And they are hopeful that therapeutic drugs combined with the vaccine may finally put up an effective defense against the pandemic. [[00:07:38](https://www.youtube.com/watch?v=7t7jV5YcrdI&t=458.0s)]
