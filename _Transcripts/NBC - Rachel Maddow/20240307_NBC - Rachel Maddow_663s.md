@@ -1,0 +1,148 @@
+---
+Date Generated: February 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 663s
+Video Keywords: ['Rachel Maddow']
+Video Views: 68995
+Video Rating: None
+Video Description: John Archibald, reporter and columnist for AL.com talks with Rachel Maddow about what people in Alabama know about their junior senator, Katie Britt, "on a scale of zero to Trumpy." An MSNBC panel follows with discussion of Senator Britt's role within the Republican Party as it wrestles with the unpopularity of its position on abortion.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #Alabama #Republicans
+---
+
+# Who is Senator Katie Britt? GOP taps Alabama senator with reproductive rights in spotlight
+**NBC - Rachel Maddow:** [March 07, 2024](https://www.youtube.com/watch?v=qh9J-dR2fog)
+*  The assignment of responding to the State of the Union is thirsty work. [[00:00:00](https://www.youtube.com/watch?v=qh9J-dR2fog&t=0.0s)]
+*  It's a little bit like what used to be called the Sports Illustrated cover curse, [[00:00:04](https://www.youtube.com/watch?v=qh9J-dR2fog&t=4.0s)]
+*  in the sense that it is a great honor. [[00:00:08](https://www.youtube.com/watch?v=qh9J-dR2fog&t=8.0s)]
+*  It means you are a big deal and have done some great stuff, [[00:00:10](https://www.youtube.com/watch?v=qh9J-dR2fog&t=10.0s)]
+*  and people expect more great stuff from you, [[00:00:13](https://www.youtube.com/watch?v=qh9J-dR2fog&t=13.0s)]
+*  but it often doesn't go well for you. [[00:00:15](https://www.youtube.com/watch?v=qh9J-dR2fog&t=15.0s)]
+*  The person who will deliver tonight's Republican response is Katie Britt, [[00:00:18](https://www.youtube.com/watch?v=qh9J-dR2fog&t=18.0s)]
+*  a freshman senator from the great state of Alabama. [[00:00:23](https://www.youtube.com/watch?v=qh9J-dR2fog&t=23.0s)]
+*  She was sworn in last year. [[00:00:26](https://www.youtube.com/watch?v=qh9J-dR2fog&t=26.0s)]
+*  She's the first woman from Alabama to be elected to the U.S. Senate. [[00:00:27](https://www.youtube.com/watch?v=qh9J-dR2fog&t=27.0s)]
+*  At just age 42, she's also the youngest woman ever elected to the U.S. Senate from any state. [[00:00:30](https://www.youtube.com/watch?v=qh9J-dR2fog&t=30.0s)]
+*  Senator Britt's an interesting and strategic choice for Republicans. [[00:00:36](https://www.youtube.com/watch?v=qh9J-dR2fog&t=36.0s)]
+*  She ran on her staunch opposition to abortion. [[00:00:41](https://www.youtube.com/watch?v=qh9J-dR2fog&t=41.0s)]
+*  She celebrated the overturning of Roe vs. Wade. [[00:00:45](https://www.youtube.com/watch?v=qh9J-dR2fog&t=45.0s)]
+*  Republicans have since lost election after election after election. [[00:00:48](https://www.youtube.com/watch?v=qh9J-dR2fog&t=48.0s)]
+*  Any time it's been tied to that subject in any state, [[00:00:53](https://www.youtube.com/watch?v=qh9J-dR2fog&t=53.0s)]
+*  even dark red states where it's been gone up on the ballot in various ways. [[00:00:56](https://www.youtube.com/watch?v=qh9J-dR2fog&t=56.0s)]
+*  After the Alabama Supreme Court effectively banned in vitro fertilization, [[00:01:00](https://www.youtube.com/watch?v=qh9J-dR2fog&t=60.0s)]
+*  effectively banned IVF last month, [[00:01:06](https://www.youtube.com/watch?v=qh9J-dR2fog&t=66.0s)]
+*  Alabama state legislature subsequently rushed through a bill to protect it. [[00:01:09](https://www.youtube.com/watch?v=qh9J-dR2fog&t=69.0s)]
+*  The Alabama governor signed that bill last night, [[00:01:14](https://www.youtube.com/watch?v=qh9J-dR2fog&t=74.0s)]
+*  which happened to be on the literal eve of Senator Katie Britt's national debut. [[00:01:18](https://www.youtube.com/watch?v=qh9J-dR2fog&t=78.0s)]
+*  Lucky her. [[00:01:22](https://www.youtube.com/watch?v=qh9J-dR2fog&t=82.0s)]
+*  Joining us now is our friend John Archibald. [[00:01:23](https://www.youtube.com/watch?v=qh9J-dR2fog&t=83.0s)]
+*  He's a Pulitzer Prize-winning reporter and columnist for AL.com. [[00:01:25](https://www.youtube.com/watch?v=qh9J-dR2fog&t=85.0s)]
+*  John, it's great to see you. Thanks for being with us tonight. [[00:01:29](https://www.youtube.com/watch?v=qh9J-dR2fog&t=89.0s)]
+*  Good to see you too. Thanks for having me. [[00:01:32](https://www.youtube.com/watch?v=qh9J-dR2fog&t=92.0s)]
+*  So you have seen Katie Britt up close in Alabama politics for a lot longer [[00:01:34](https://www.youtube.com/watch?v=qh9J-dR2fog&t=94.0s)]
+*  than people on the national scene know her. [[00:01:39](https://www.youtube.com/watch?v=qh9J-dR2fog&t=99.0s)]
+*  What should we expect and what have you come to learn about her in her years in Alabama politics? [[00:01:42](https://www.youtube.com/watch?v=qh9J-dR2fog&t=102.0s)]
+*  Well, you know, she came to power sort of as an alternative sort of politician [[00:01:47](https://www.youtube.com/watch?v=qh9J-dR2fog&t=107.0s)]
+*  to the craziness of the Mo Brooks's of the world and the buffoonery of Tommy Tuberville [[00:01:53](https://www.youtube.com/watch?v=qh9J-dR2fog&t=113.0s)]
+*  and that sort of thing. [[00:01:59](https://www.youtube.com/watch?v=qh9J-dR2fog&t=119.0s)]
+*  And I think that she wants to present that sort of image to, you know, the nation as sort of an alternative to crazy. [[00:02:00](https://www.youtube.com/watch?v=qh9J-dR2fog&t=120.0s)]
+*  But at the same time, if you really want to see who she is, [[00:02:07](https://www.youtube.com/watch?v=qh9J-dR2fog&t=127.0s)]
+*  you have to look at sort of the Republican Party that that exists, you know, in her state, [[00:02:12](https://www.youtube.com/watch?v=qh9J-dR2fog&t=132.0s)]
+*  which is, you know, busy right as we speak, you know, passing more don't say gay bills and more bathroom bills [[00:02:19](https://www.youtube.com/watch?v=qh9J-dR2fog&t=139.0s)]
+*  and ignoring prison crises that that also affect life. [[00:02:28](https://www.youtube.com/watch?v=qh9J-dR2fog&t=148.0s)]
+*  And so, you know, if that's if that's the that's what you're going to get from Katie Britt [[00:02:34](https://www.youtube.com/watch?v=qh9J-dR2fog&t=154.0s)]
+*  and probably anything that that she thinks Donald Trump might want to hear. [[00:02:41](https://www.youtube.com/watch?v=qh9J-dR2fog&t=161.0s)]
+*  So she was up against Mo Brooks in the primary to get to this Senate seat in the first place. [[00:02:46](https://www.youtube.com/watch?v=qh9J-dR2fog&t=166.0s)]
+*  Mo Brooks started off as very much Team Trump. [[00:02:52](https://www.youtube.com/watch?v=qh9J-dR2fog&t=172.0s)]
+*  And then Trump sort of turned on him, effectively disassociated himself with him in a way that was very harmful, [[00:02:55](https://www.youtube.com/watch?v=qh9J-dR2fog&t=175.0s)]
+*  harmful for Mr. Brooks's campaign. [[00:03:02](https://www.youtube.com/watch?v=qh9J-dR2fog&t=182.0s)]
+*  Katie Britt ended up winning that campaign by a lot after Trump and Brooks split. [[00:03:04](https://www.youtube.com/watch?v=qh9J-dR2fog&t=184.0s)]
+*  I mean, we all saw that drama unfold. [[00:03:09](https://www.youtube.com/watch?v=qh9J-dR2fog&t=189.0s)]
+*  But where would you put her on the scale of zero to Trumpy in terms of what what type of Republican politics she has, [[00:03:11](https://www.youtube.com/watch?v=qh9J-dR2fog&t=191.0s)]
+*  how closely she's aligned herself with the former president and crucially with his claims about elections being fraudulent in the United States? [[00:03:19](https://www.youtube.com/watch?v=qh9J-dR2fog&t=199.0s)]
+*  Yeah, it's really interesting because when she went around campaigning here initially, [[00:03:29](https://www.youtube.com/watch?v=qh9J-dR2fog&t=209.0s)]
+*  tons of people would say, oh, but she's not like that. [[00:03:33](https://www.youtube.com/watch?v=qh9J-dR2fog&t=213.0s)]
+*  She's not like that. She really doesn't believe that she's not that Trumpy, [[00:03:36](https://www.youtube.com/watch?v=qh9J-dR2fog&t=216.0s)]
+*  which only leads me to say, you know, you are what you pretend to be. [[00:03:40](https://www.youtube.com/watch?v=qh9J-dR2fog&t=220.0s)]
+*  And in the time that she's been elected, she has pretended to be nothing but, you know, a Trump shoe shiner. [[00:03:44](https://www.youtube.com/watch?v=qh9J-dR2fog&t=224.0s)]
+*  And I think that she intends to she hopes deeply to be put in that vice presidential lottery. [[00:03:52](https://www.youtube.com/watch?v=qh9J-dR2fog&t=232.0s)]
+*  So so I think that in many ways it's sort of an illusion because because she has been the result is exactly the same. [[00:03:59](https://www.youtube.com/watch?v=qh9J-dR2fog&t=239.0s)]
+*  If you had Tommy Tuberville saying crazy things and you have Katie Britt, who is saying less crazy things, [[00:04:09](https://www.youtube.com/watch?v=qh9J-dR2fog&t=249.0s)]
+*  but ultimately the result is the same. And and I think that's where we are. [[00:04:18](https://www.youtube.com/watch?v=qh9J-dR2fog&t=258.0s)]
+*  John Archibald, Pulitzer Prize winning reporter and columnist for AL.com. [[00:04:23](https://www.youtube.com/watch?v=qh9J-dR2fog&t=263.0s)]
+*  One of of all the people writing columns, journalism in the United States, my favorite person to read of all of them. [[00:04:28](https://www.youtube.com/watch?v=qh9J-dR2fog&t=268.0s)]
+*  John, it's great to have you here. Thank you, my friend. Thank you. [[00:04:35](https://www.youtube.com/watch?v=qh9J-dR2fog&t=275.0s)]
+*  We see live shots from the chamber here as Vice President Kamala Harris enters the chamber. [[00:04:40](https://www.youtube.com/watch?v=qh9J-dR2fog&t=280.0s)]
+*  We also saw the Democratic Senate leader Chuck Schumer, the Republican Senate leader Mitch McConnell coming in behind her. [[00:04:45](https://www.youtube.com/watch?v=qh9J-dR2fog&t=285.0s)]
+*  This this starts the process, a long process, which will take at least the next 20 minutes as as you see members of the House and Senate already there. [[00:04:52](https://www.youtube.com/watch?v=qh9J-dR2fog&t=292.0s)]
+*  We'll see the diplomatic corps, the Cabinet, the the Joint Chiefs, the military leaders of the various branches all come in. [[00:05:01](https://www.youtube.com/watch?v=qh9J-dR2fog&t=301.0s)]
+*  We'll keep eyes on that as it happens. Chris. Oh, I just Katie Britt is a fascinating figure. [[00:05:09](https://www.youtube.com/watch?v=qh9J-dR2fog&t=309.0s)]
+*  She was choice and choice. She were. I mean, clearly, look, they understand they have to protect themselves on this flank. [[00:05:14](https://www.youtube.com/watch?v=qh9J-dR2fog&t=314.0s)]
+*  They have coordinated this timing, right? [[00:05:19](https://www.youtube.com/watch?v=qh9J-dR2fog&t=319.0s)]
+*  Like she's coming to be like, look, we signed the IVF bill. [[00:05:22](https://www.youtube.com/watch?v=qh9J-dR2fog&t=322.0s)]
+*  We're not coming for your frozen embryos, you know, IVF, you versus of America, even though the majority of the House Republican caucus is currently, [[00:05:26](https://www.youtube.com/watch?v=qh9J-dR2fog&t=326.0s)]
+*  as I speak to you right now, a co-sponsors on a bill that's filed in this Congress that would nationalize the Alabama Supreme Court ruling [[00:05:35](https://www.youtube.com/watch?v=qh9J-dR2fog&t=335.0s)]
+*  that has no carve out for IVF. But the other thing that I think is interesting is like the sort of expectation setting that happens when you're the senator in a state where Tommy [[00:05:42](https://www.youtube.com/watch?v=qh9J-dR2fog&t=342.0s)]
+*  Tuberville is the other senator. It's like it's like it's like it's like a bridesmaid's dress for reasonableness. [[00:05:51](https://www.youtube.com/watch?v=qh9J-dR2fog&t=351.0s)]
+*  You know what I mean? Like you look good if you're next to Tommy Tuberville, who is one of the most like embarrassing, ludicrous members of the U.S. [[00:05:57](https://www.youtube.com/watch?v=qh9J-dR2fog&t=357.0s)]
+*  Senate. I can editorialize. Katie Britt is like extremely, extremely respected and looked to as like the future in Republican Senate circles. [[00:06:04](https://www.youtube.com/watch?v=qh9J-dR2fog&t=364.0s)]
+*  She was a staffer for a long time. She was chief of staff to Richard Shelby, who she replaced, whose seat she now holds. [[00:06:16](https://www.youtube.com/watch?v=qh9J-dR2fog&t=376.0s)]
+*  And so she is she is an interesting kind of inside outside transcender in this generation of young Republicans. [[00:06:22](https://www.youtube.com/watch?v=qh9J-dR2fog&t=382.0s)]
+*  She's also the only Republican woman in the Senate with kids who are like, you know, she's raising, which is why probably she is their choice. [[00:06:29](https://www.youtube.com/watch?v=qh9J-dR2fog&t=389.0s)]
+*  It is still odd. I understand they have to like protect their right flank. At the same time, this is the biggest problem they have. [[00:06:39](https://www.youtube.com/watch?v=qh9J-dR2fog&t=399.0s)]
+*  And when she won her Senate seat, she proudly, you know, brags it was excited about the row being overturned. [[00:06:46](https://www.youtube.com/watch?v=qh9J-dR2fog&t=406.0s)]
+*  I mean, so she could be like Republican Gandhi and she still possesses a position that 83 percent of Americans oppose. [[00:06:53](https://www.youtube.com/watch?v=qh9J-dR2fog&t=413.0s)]
+*  Abortion is more popular now than it has been since the poll question has been asked. [[00:07:03](https://www.youtube.com/watch?v=qh9J-dR2fog&t=423.0s)]
+*  And Republicans, radical, extreme Republicans have made it so it doesn't matter how reasonable she looks next to Tommy Tuberville. [[00:07:07](https://www.youtube.com/watch?v=qh9J-dR2fog&t=427.0s)]
+*  And on the question, they don't have an answer. [[00:07:14](https://www.youtube.com/watch?v=qh9J-dR2fog&t=434.0s)]
+*  I mean, Alabama did sort of an end run around it, but they're not answering the fundamental, quote unquote, moral questions that they brought up. [[00:07:16](https://www.youtube.com/watch?v=qh9J-dR2fog&t=436.0s)]
+*  So it's like they answered it. I mean, embryos are children and in the car, it doesn't matter how they pass. [[00:07:22](https://www.youtube.com/watch?v=qh9J-dR2fog&t=442.0s)]
+*  It's over. Does that mean you can freeze children? [[00:07:28](https://www.youtube.com/watch?v=qh9J-dR2fog&t=448.0s)]
+*  I mean, you know, like that's the when you're defending frozen children, you know, you're right. [[00:07:30](https://www.youtube.com/watch?v=qh9J-dR2fog&t=450.0s)]
+*  Beyond that, they also have I think Johnson's invited someone who runs a pregnancy crisis center. [[00:07:35](https://www.youtube.com/watch?v=qh9J-dR2fog&t=455.0s)]
+*  I mean, they're not doing themselves any favors vis a vis, you know, the larger kind of questions that came out of DAB. [[00:07:40](https://www.youtube.com/watch?v=qh9J-dR2fog&t=460.0s)]
+*  What's really one of the key dynamics in this election is that if if everyone was smart on that side, they would just shut the hell up about this issue until November. [[00:07:45](https://www.youtube.com/watch?v=qh9J-dR2fog&t=465.0s)]
+*  Like they would just be like, no one talk about it. [[00:07:56](https://www.youtube.com/watch?v=qh9J-dR2fog&t=476.0s)]
+*  We're not doing a national ban. Wait till we get in power and then we'll do it. [[00:07:59](https://www.youtube.com/watch?v=qh9J-dR2fog&t=479.0s)]
+*  But they can't do that. They can't do that. [[00:08:03](https://www.youtube.com/watch?v=qh9J-dR2fog&t=483.0s)]
+*  Because it is their strongest issue. No, but they also keep talking about themselves. [[00:08:06](https://www.youtube.com/watch?v=qh9J-dR2fog&t=486.0s)]
+*  Keep dying. And the problem is local news still exists. [[00:08:11](https://www.youtube.com/watch?v=qh9J-dR2fog&t=491.0s)]
+*  And you even right wing local news will still cover a woman who has died because she was not able to get health care in the state, even of Texas. [[00:08:14](https://www.youtube.com/watch?v=qh9J-dR2fog&t=494.0s)]
+*  It will still be covered. It's going to happen in Ohio and Texas. It's going to happen in Florida. [[00:08:21](https://www.youtube.com/watch?v=qh9J-dR2fog&t=501.0s)]
+*  It will happen everywhere. And those stories are so compelling just as narratives that they will not they'll be irresistible to the media, local and national. [[00:08:25](https://www.youtube.com/watch?v=qh9J-dR2fog&t=505.0s)]
+*  As women die, it doesn't matter how attractive and reasonable sounding Katie Britt is. [[00:08:34](https://www.youtube.com/watch?v=qh9J-dR2fog&t=514.0s)]
+*  And the reality is the polling on this among the Republican base, I think it's something like only 35 percent of the Republican Party disagrees with the Alabama ruling. [[00:08:38](https://www.youtube.com/watch?v=qh9J-dR2fog&t=518.0s)]
+*  No, but Mike Johnson, I don't know if you all saw the Mike Johnson interview today because he was asked about IVF. [[00:08:47](https://www.youtube.com/watch?v=qh9J-dR2fog&t=527.0s)]
+*  Couldn't answer it. And what he said was it's new since the 1970s and we're in a brave new world. [[00:08:53](https://www.youtube.com/watch?v=qh9J-dR2fog&t=533.0s)]
+*  First of all, he's probably been around since the 19th. He's younger. [[00:09:00](https://www.youtube.com/watch?v=qh9J-dR2fog&t=540.0s)]
+*  He's younger. He's not that much. [[00:09:03](https://www.youtube.com/watch?v=qh9J-dR2fog&t=543.0s)]
+*  Was he born in the 1970s? Yes, that's my point. [[00:09:05](https://www.youtube.com/watch?v=qh9J-dR2fog&t=545.0s)]
+*  Right. And the other issue is that the problem and I look I I come from the 1980s. [[00:09:07](https://www.youtube.com/watch?v=qh9J-dR2fog&t=547.0s)]
+*  I was in high school in the 1980s. And I'm just telling you, when we first started hearing about this and the whole quote unquote test tube baby, the right. [[00:09:13](https://www.youtube.com/watch?v=qh9J-dR2fog&t=553.0s)]
+*  I'm just promising you as somebody who grew up Christian in the 1980s was four square against it, declared it to be demonic and did not believe it should happen. [[00:09:21](https://www.youtube.com/watch?v=qh9J-dR2fog&t=561.0s)]
+*  They believe life begins at conception. And if you create 12 embryos, they believe you must implant all 12 and make all 12 embryos into people because they're already people. [[00:09:30](https://www.youtube.com/watch?v=qh9J-dR2fog&t=570.0s)]
+*  If you say life begins at conception, that means that by definition, if you dispose of a of an embryo, you've frozen. [[00:09:39](https://www.youtube.com/watch?v=qh9J-dR2fog&t=579.0s)]
+*  You have killed a person. That is what they actually believe. [[00:09:47](https://www.youtube.com/watch?v=qh9J-dR2fog&t=587.0s)]
+*  They can cover it up with whatever marketing and slogans and a different messenger. [[00:09:50](https://www.youtube.com/watch?v=qh9J-dR2fog&t=590.0s)]
+*  But that is what they actually believe. [[00:09:54](https://www.youtube.com/watch?v=qh9J-dR2fog&t=594.0s)]
+*  And while we're talking and we're looking at these scenes from inside, there's Tommy Tuberville, the senior senator from Alabama. [[00:09:56](https://www.youtube.com/watch?v=qh9J-dR2fog&t=596.0s)]
+*  But if you when we've had those wide shots of the room, you might have noticed that there's a lot of female members of Congress who are wearing white or wearing cream, light colored. [[00:10:02](https://www.youtube.com/watch?v=qh9J-dR2fog&t=602.0s)]
+*  And it really stands out when you see the wider shot of the room. [[00:10:10](https://www.youtube.com/watch?v=qh9J-dR2fog&t=610.0s)]
+*  Those are members of the Democratic Women's Caucus who are wearing white specifically to signal support for reproductive freedom. [[00:10:14](https://www.youtube.com/watch?v=qh9J-dR2fog&t=614.0s)]
+*  And so this is going to be the centerpiece of what happens tonight, almost regardless of what has said what is being said, right, with the Republicans choosing a Republican from Alabama to give the response to the State of the Union, an anti-abortion Republican from Alabama and to have the Democratic women highlighting it in this very high visibility. [[00:10:20](https://www.youtube.com/watch?v=qh9J-dR2fog&t=620.0s)]
+*  Thank you. [[00:10:50](https://www.youtube.com/watch?v=qh9J-dR2fog&t=650.0s)]

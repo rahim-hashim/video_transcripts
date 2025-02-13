@@ -1,0 +1,157 @@
+---
+Date Generated: February 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 388s
+Video Keywords: ['Rachel Maddow']
+Video Views: 13904
+Video Rating: None
+Video Description: David Plouffe, former campaign manager for Barack Obama, talks with Ali Velshi about the massive anti-Trump political coalition waiting for a sign of reassurance from Joe Biden that could tip the balance of the 2024 election.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#MSNBC #Biden #2024election
+---
+
+# Anti-Trump coalition awaits reassurances from Biden but remains steadfast against Trump
+**NBC - Rachel Maddow:** [July 08, 2024](https://www.youtube.com/watch?v=xTuoINHu8d0)
+*  Let's turn now to David Plouffe, former campaign manager for President Obama, who knows about [[00:00:00](https://www.youtube.com/watch?v=xTuoINHu8d0&t=0.0s)]
+*  these kinds of situations and knows about these coalitions. [[00:00:04](https://www.youtube.com/watch?v=xTuoINHu8d0&t=4.4s)]
+*  David, I mean, I think we just have to face facts. [[00:00:08](https://www.youtube.com/watch?v=xTuoINHu8d0&t=8.76s)]
+*  From a strategic perspective, the Democratic Party is a messier thing than the Republican [[00:00:13](https://www.youtube.com/watch?v=xTuoINHu8d0&t=13.280000000000001s)]
+*  Party. [[00:00:16](https://www.youtube.com/watch?v=xTuoINHu8d0&t=16.8s)]
+*  I mean, Donald Trump was getting convicted and all those guys went and dressed like him [[00:00:17](https://www.youtube.com/watch?v=xTuoINHu8d0&t=17.8s)]
+*  and stood outside the court. [[00:00:20](https://www.youtube.com/watch?v=xTuoINHu8d0&t=20.32s)]
+*  That's not what the Democratic Party is right now. [[00:00:21](https://www.youtube.com/watch?v=xTuoINHu8d0&t=21.68s)]
+*  It's got people who have differences. [[00:00:23](https://www.youtube.com/watch?v=xTuoINHu8d0&t=23.52s)]
+*  Right. [[00:00:25](https://www.youtube.com/watch?v=xTuoINHu8d0&t=25.48s)]
+*  We're not a cult. [[00:00:26](https://www.youtube.com/watch?v=xTuoINHu8d0&t=26.48s)]
+*  I think we're having a healthy discussion. [[00:00:27](https://www.youtube.com/watch?v=xTuoINHu8d0&t=27.48s)]
+*  It does need to conclude at some point. [[00:00:29](https://www.youtube.com/watch?v=xTuoINHu8d0&t=29.4s)]
+*  But I do think your example in France is important. [[00:00:31](https://www.youtube.com/watch?v=xTuoINHu8d0&t=31.68s)]
+*  I believe still today in the battleground states, which is all that matters in a presidential [[00:00:34](https://www.youtube.com/watch?v=xTuoINHu8d0&t=34.16s)]
+*  race, that's the windshield we need to all look out. [[00:00:39](https://www.youtube.com/watch?v=xTuoINHu8d0&t=39.56s)]
+*  There are enough voters who are part of that anti-Trump coalition. [[00:00:42](https://www.youtube.com/watch?v=xTuoINHu8d0&t=42.86s)]
+*  Now some of those are going to be pro-Biden. [[00:00:46](https://www.youtube.com/watch?v=xTuoINHu8d0&t=46.84s)]
+*  Some of those are pro-Democrat. [[00:00:47](https://www.youtube.com/watch?v=xTuoINHu8d0&t=47.84s)]
+*  Some are going to be aligned with us simply because they don't want to see a return of [[00:00:50](https://www.youtube.com/watch?v=xTuoINHu8d0&t=50.22s)]
+*  Donald Trump. [[00:00:54](https://www.youtube.com/watch?v=xTuoINHu8d0&t=54.64s)]
+*  Now, I think we have to be realistic about where the race is. [[00:00:55](https://www.youtube.com/watch?v=xTuoINHu8d0&t=55.64s)]
+*  This time four years ago, Joe Biden led three to five points in states and nationally. [[00:00:58](https://www.youtube.com/watch?v=xTuoINHu8d0&t=58.4s)]
+*  He's trailing by that and maybe a little bit more. [[00:01:04](https://www.youtube.com/watch?v=xTuoINHu8d0&t=64.72s)]
+*  So if the race were held today and it's not, I think we would lose the White House. [[00:01:07](https://www.youtube.com/watch?v=xTuoINHu8d0&t=67.67999999999999s)]
+*  We'd probably also lose the Senate and then the House, the Republican trifecta. [[00:01:12](https://www.youtube.com/watch?v=xTuoINHu8d0&t=72.32s)]
+*  So we've got time to turn that around because, again, I think there's a majority of voters [[00:01:16](https://www.youtube.com/watch?v=xTuoINHu8d0&t=76.84s)]
+*  out there are enough to win. [[00:01:21](https://www.youtube.com/watch?v=xTuoINHu8d0&t=81.2s)]
+*  But I'd like to remind everybody we don't have 120 days. [[00:01:23](https://www.youtube.com/watch?v=xTuoINHu8d0&t=83.16s)]
+*  That's not a long time. [[00:01:26](https://www.youtube.com/watch?v=xTuoINHu8d0&t=86.72s)]
+*  Ballots start going out 80, 90 days from now on battleground states. [[00:01:28](https://www.youtube.com/watch?v=xTuoINHu8d0&t=88.03999999999999s)]
+*  So the debate about whether Joe Biden should be our nominee will continue. [[00:01:31](https://www.youtube.com/watch?v=xTuoINHu8d0&t=91.72s)]
+*  I think that right now it's clear he has no intention of leaving. [[00:01:37](https://www.youtube.com/watch?v=xTuoINHu8d0&t=97.08s)]
+*  Until that changes, he's going to be the nominee. [[00:01:41](https://www.youtube.com/watch?v=xTuoINHu8d0&t=101.44s)]
+*  The real question is, if in fact he is the nominee, and I think right now you'd have [[00:01:43](https://www.youtube.com/watch?v=xTuoINHu8d0&t=103.56s)]
+*  to argue he's going to be, is how is the race going to change? [[00:01:46](https://www.youtube.com/watch?v=xTuoINHu8d0&t=106.6s)]
+*  And I think that has to be prosecuting the case better against Trump for sure. [[00:01:51](https://www.youtube.com/watch?v=xTuoINHu8d0&t=111.4s)]
+*  I don't think it's much. [[00:01:55](https://www.youtube.com/watch?v=xTuoINHu8d0&t=115.16s)]
+*  Yes, his record is important, but elections, I learned, are always about the future. [[00:01:56](https://www.youtube.com/watch?v=xTuoINHu8d0&t=116.24s)]
+*  What we have to paint here is Joe Biden's next four years versus Donald Trump's. [[00:02:00](https://www.youtube.com/watch?v=xTuoINHu8d0&t=120.11999999999999s)]
+*  That could be built on the record. [[00:02:04](https://www.youtube.com/watch?v=xTuoINHu8d0&t=124.16s)]
+*  Trump's horrible record, Biden's strong record, but that's important. [[00:02:05](https://www.youtube.com/watch?v=xTuoINHu8d0&t=125.67999999999999s)]
+*  But the chief issue is voters, not just those that are criticizing voters, but rank and [[00:02:08](https://www.youtube.com/watch?v=xTuoINHu8d0&t=128.68s)]
+*  file voters have to feel more confident in Biden's fitness. [[00:02:14](https://www.youtube.com/watch?v=xTuoINHu8d0&t=134.24s)]
+*  And he's got to really seize every opportunity because if that number gets better, I think [[00:02:17](https://www.youtube.com/watch?v=xTuoINHu8d0&t=137.96s)]
+*  the race gets better. [[00:02:23](https://www.youtube.com/watch?v=xTuoINHu8d0&t=143.56s)]
+*  And I think you can then access that anti-Trump coalition that clearly exists out there. [[00:02:25](https://www.youtube.com/watch?v=xTuoINHu8d0&t=145.16s)]
+*  And do you think that that conversation is happening the right way right now? [[00:02:30](https://www.youtube.com/watch?v=xTuoINHu8d0&t=150.92000000000002s)]
+*  What has to happen to convince voters to be more confident? [[00:02:37](https://www.youtube.com/watch?v=xTuoINHu8d0&t=157.28s)]
+*  The reason I ask this is not about, I'm not talking about the debate performance, I'm [[00:02:39](https://www.youtube.com/watch?v=xTuoINHu8d0&t=159.92000000000002s)]
+*  talking about inflation, right? [[00:02:42](https://www.youtube.com/watch?v=xTuoINHu8d0&t=162.72s)]
+*  This administration has done a very good job with getting inflation under control. [[00:02:44](https://www.youtube.com/watch?v=xTuoINHu8d0&t=164.76000000000002s)]
+*  The numbers are increasing out of inflation, and yet we see polling numbers that indicate [[00:02:49](https://www.youtube.com/watch?v=xTuoINHu8d0&t=169.52s)]
+*  to people that inflation is their biggest problem and they hold Joe Biden responsible [[00:02:54](https://www.youtube.com/watch?v=xTuoINHu8d0&t=174.12s)]
+*  for it. [[00:02:59](https://www.youtube.com/watch?v=xTuoINHu8d0&t=179.08s)]
+*  I mean, it's not logical, but it's out there. [[00:03:00](https://www.youtube.com/watch?v=xTuoINHu8d0&t=180.08s)]
+*  Well, listen, I think people are not going to change their view on their paycheck going [[00:03:01](https://www.youtube.com/watch?v=xTuoINHu8d0&t=181.8s)]
+*  less far than they would have liked because it's gotten better for a month or two. [[00:03:07](https://www.youtube.com/watch?v=xTuoINHu8d0&t=187.60000000000002s)]
+*  But the trajectory matters. [[00:03:10](https://www.youtube.com/watch?v=xTuoINHu8d0&t=190.68s)]
+*  When Barack Obama won reelection in 2012, he won reelection with a historically high [[00:03:12](https://www.youtube.com/watch?v=xTuoINHu8d0&t=192.04000000000002s)]
+*  unemployment rate. [[00:03:16](https://www.youtube.com/watch?v=xTuoINHu8d0&t=196.52s)]
+*  Voters had a sense that things were getting better, and I think Biden can tap into that. [[00:03:18](https://www.youtube.com/watch?v=xTuoINHu8d0&t=198.12s)]
+*  But I think we all have to realize that the reason the debate was so important and why [[00:03:22](https://www.youtube.com/watch?v=xTuoINHu8d0&t=202.32s)]
+*  the Biden campaign wanted to have the debate is they were losing heading into that debate. [[00:03:26](https://www.youtube.com/watch?v=xTuoINHu8d0&t=206.04s)]
+*  So the problem has become worse. [[00:03:31](https://www.youtube.com/watch?v=xTuoINHu8d0&t=211.95999999999998s)]
+*  Now, everyday matters, the Democratic convention matters, the ads that are being run matters. [[00:03:34](https://www.youtube.com/watch?v=xTuoINHu8d0&t=214.23999999999998s)]
+*  The next debate on September 10th, assuming that happens, matters. [[00:03:39](https://www.youtube.com/watch?v=xTuoINHu8d0&t=219.5s)]
+*  Hopefully, Joe Biden will be out doing town halls with voters and, you know, prime time [[00:03:42](https://www.youtube.com/watch?v=xTuoINHu8d0&t=222.6s)]
+*  television programs. [[00:03:47](https://www.youtube.com/watch?v=xTuoINHu8d0&t=227.51999999999998s)]
+*  There's going to be great interest in how he performs. [[00:03:48](https://www.youtube.com/watch?v=xTuoINHu8d0&t=228.51999999999998s)]
+*  And if he can, I think, perform a little bit better, both in terms of, you know, how he [[00:03:51](https://www.youtube.com/watch?v=xTuoINHu8d0&t=231.72s)]
+*  physically and verbally performs, but also prosecuting that case against Trump, because [[00:03:57](https://www.youtube.com/watch?v=xTuoINHu8d0&t=237.44s)]
+*  there is no doubt we know that 2025 agenda that Trump is now trying to run away from [[00:04:03](https://www.youtube.com/watch?v=xTuoINHu8d0&t=243.04s)]
+*  it, that's a tell. [[00:04:08](https://www.youtube.com/watch?v=xTuoINHu8d0&t=248.12s)]
+*  You know, Donald Trump doesn't run away from many of them. [[00:04:09](https://www.youtube.com/watch?v=xTuoINHu8d0&t=249.12s)]
+*  He's running away from that, even though he's all over it. [[00:04:12](https://www.youtube.com/watch?v=xTuoINHu8d0&t=252.24s)]
+*  His fingerprints are all over it. [[00:04:14](https://www.youtube.com/watch?v=xTuoINHu8d0&t=254.72s)]
+*  His people have written chapters, his name's in it. [[00:04:16](https://www.youtube.com/watch?v=xTuoINHu8d0&t=256.16s)]
+*  Yes. [[00:04:19](https://www.youtube.com/watch?v=xTuoINHu8d0&t=259.2s)]
+*  So you got to prosecute that case and say this is what you're going to get. [[00:04:20](https://www.youtube.com/watch?v=xTuoINHu8d0&t=260.2s)]
+*  And by the way, I'm Joe Biden. [[00:04:22](https://www.youtube.com/watch?v=xTuoINHu8d0&t=262.64s)]
+*  I care about average people. [[00:04:23](https://www.youtube.com/watch?v=xTuoINHu8d0&t=263.8s)]
+*  This is what I've done to fight inflation. [[00:04:25](https://www.youtube.com/watch?v=xTuoINHu8d0&t=265.42s)]
+*  We've got a manufacturing boom all over the country. [[00:04:27](https://www.youtube.com/watch?v=xTuoINHu8d0&t=267.08s)]
+*  We're going to continue to invest in health care. [[00:04:30](https://www.youtube.com/watch?v=xTuoINHu8d0&t=270.0s)]
+*  And with Trump, you get the opposite. [[00:04:32](https://www.youtube.com/watch?v=xTuoINHu8d0&t=272.08s)]
+*  You know, tens of millions of people kicked off health care. [[00:04:33](https://www.youtube.com/watch?v=xTuoINHu8d0&t=273.88s)]
+*  He's going to run away from climate change. [[00:04:36](https://www.youtube.com/watch?v=xTuoINHu8d0&t=276.52s)]
+*  And all its awful glory will be the new law of the land. [[00:04:40](https://www.youtube.com/watch?v=xTuoINHu8d0&t=280.12s)]
+*  Like this is we have a lot of material. [[00:04:43](https://www.youtube.com/watch?v=xTuoINHu8d0&t=283.56s)]
+*  And so that's the other thing. [[00:04:45](https://www.youtube.com/watch?v=xTuoINHu8d0&t=285.88s)]
+*  Donald Trump is a very weak candidate. [[00:04:47](https://www.youtube.com/watch?v=xTuoINHu8d0&t=287.12s)]
+*  He was weak in 16, but one in a black swan event. [[00:04:49](https://www.youtube.com/watch?v=xTuoINHu8d0&t=289.84000000000003s)]
+*  He lost in 20. [[00:04:52](https://www.youtube.com/watch?v=xTuoINHu8d0&t=292.72s)]
+*  He's the reason his party had such a miserable 18 and 22 in part. [[00:04:54](https://www.youtube.com/watch?v=xTuoINHu8d0&t=294.36s)]
+*  So this is a guy that can be beat, but he has to be beat. [[00:04:58](https://www.youtube.com/watch?v=xTuoINHu8d0&t=298.1s)]
+*  You know, we know that. [[00:05:02](https://www.youtube.com/watch?v=xTuoINHu8d0&t=302.36s)]
+*  And that sounds like a silly thing to say. [[00:05:03](https://www.youtube.com/watch?v=xTuoINHu8d0&t=303.48s)]
+*  I think as we all evaluate this question of Biden and then [[00:05:05](https://www.youtube.com/watch?v=xTuoINHu8d0&t=305.26s)]
+*  ultimately the question of how we run a campaign going forward, [[00:05:08](https://www.youtube.com/watch?v=xTuoINHu8d0&t=308.74s)]
+*  it's not enough to give it a good effort. [[00:05:11](https://www.youtube.com/watch?v=xTuoINHu8d0&t=311.46s)]
+*  You have to win the bricking race. [[00:05:14](https://www.youtube.com/watch?v=xTuoINHu8d0&t=314.21999999999997s)]
+*  And again, I think there's enough voters out there to put this together. [[00:05:17](https://www.youtube.com/watch?v=xTuoINHu8d0&t=317.18s)]
+*  But the clock is ticking. [[00:05:20](https://www.youtube.com/watch?v=xTuoINHu8d0&t=320.38s)]
+*  And I think the Biden campaign is very strong, great leadership [[00:05:22](https://www.youtube.com/watch?v=xTuoINHu8d0&t=322.34s)]
+*  and General Malley, Dillon and others running this. [[00:05:25](https://www.youtube.com/watch?v=xTuoINHu8d0&t=325.58s)]
+*  We've got great interest groups are going to make the case. [[00:05:27](https://www.youtube.com/watch?v=xTuoINHu8d0&t=327.46s)]
+*  Great members of Congress. [[00:05:29](https://www.youtube.com/watch?v=xTuoINHu8d0&t=329.82s)]
+*  Like I think there's a good support and cast. [[00:05:30](https://www.youtube.com/watch?v=xTuoINHu8d0&t=330.94s)]
+*  But what I've learned in presidential races is it really comes down [[00:05:33](https://www.youtube.com/watch?v=xTuoINHu8d0&t=333.86s)]
+*  to the central characters. [[00:05:36](https://www.youtube.com/watch?v=xTuoINHu8d0&t=336.74s)]
+*  Now, in Donald Trump, we have a deeply flawed, very beatable Republican [[00:05:37](https://www.youtube.com/watch?v=xTuoINHu8d0&t=337.86s)]
+*  nominee. Right now, the Democratic nominee is not performing as we like. [[00:05:43](https://www.youtube.com/watch?v=xTuoINHu8d0&t=343.02s)]
+*  And if he fixes that, then I think we've got a very good shot to hold [[00:05:46](https://www.youtube.com/watch?v=xTuoINHu8d0&t=346.58s)]
+*  on to the White House. But right now, we're behind in this race and we're [[00:05:50](https://www.youtube.com/watch?v=xTuoINHu8d0&t=350.9s)]
+*  behind pretty significantly in the battleground states. [[00:05:54](https://www.youtube.com/watch?v=xTuoINHu8d0&t=354.38s)]
+*  And again, that's why we have campaigns. [[00:05:56](https://www.youtube.com/watch?v=xTuoINHu8d0&t=356.34s)]
+*  You can change that. [[00:05:58](https://www.youtube.com/watch?v=xTuoINHu8d0&t=358.18s)]
+*  But nobody should make a mistake about where we are today. [[00:05:59](https://www.youtube.com/watch?v=xTuoINHu8d0&t=359.38s)]
+*  David, good to see you as always. Thank you for being with us, David. [[00:06:02](https://www.youtube.com/watch?v=xTuoINHu8d0&t=362.70000000000005s)]
+*  Hey there, MSNBC fans, I'm Luke Russert. [[00:06:04](https://www.youtube.com/watch?v=xTuoINHu8d0&t=364.74s)]
+*  And be sure to join me, Rachel Maddow, Jen Psaki, Lawrence O'Donnell, [[00:06:08](https://www.youtube.com/watch?v=xTuoINHu8d0&t=368.74s)]
+*  Steve Kornacki, Joy Reid and many more. [[00:06:14](https://www.youtube.com/watch?v=xTuoINHu8d0&t=374.5s)]
+*  September 7th in Brooklyn, MSNBC Live Democracy 2024. [[00:06:17](https://www.youtube.com/watch?v=xTuoINHu8d0&t=377.22s)]
+*  Click on the link for ticket information. [[00:06:23](https://www.youtube.com/watch?v=xTuoINHu8d0&t=383.42s)]
+*  We will see you there. [[00:06:26](https://www.youtube.com/watch?v=xTuoINHu8d0&t=386.02000000000004s)]

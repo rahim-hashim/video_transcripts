@@ -1,0 +1,158 @@
+---
+Date Generated: February 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 392s
+Video Keywords: ['Way Too Early', 'Morning Joe', 'News']
+Video Views: 137140
+Video Rating: None
+Video Description: Former President Trump during his Sunday Las Vegas rally once again said he would pardon January 6 insurrectionists in a second term.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#Trump #January6 #Politics
+---
+
+# Trump claims Jan. 6 insurrectionists were 'set up' by Capitol police
+**NBC - Ali Vitali:** [June 10, 2024](https://www.youtube.com/watch?v=sAoRrqmFcms)
+*  Welcome back. [[00:00:00](https://www.youtube.com/watch?v=sAoRrqmFcms&t=0.0s)]
+*  At his rally in Las Vegas yesterday, Donald Trump once again suggested that he would pardon [[00:00:02](https://www.youtube.com/watch?v=sAoRrqmFcms&t=2.74s)]
+*  the January 6th insurrectionists in a second term. [[00:00:07](https://www.youtube.com/watch?v=sAoRrqmFcms&t=7.28s)]
+*  He deemed those insurrectionists hostages, victims, and warriors. [[00:00:10](https://www.youtube.com/watch?v=sAoRrqmFcms&t=10.98s)]
+*  He also accused the Capitol Police, many of whom were brutalized during the attack, of [[00:00:16](https://www.youtube.com/watch?v=sAoRrqmFcms&t=16.580000000000002s)]
+*  setting up the rioters to be arrested. [[00:00:21](https://www.youtube.com/watch?v=sAoRrqmFcms&t=21.78s)]
+*  We're going to do a lot of things. [[00:00:26](https://www.youtube.com/watch?v=sAoRrqmFcms&t=26.14s)]
+*  We're going to look very strongly at J6. [[00:00:27](https://www.youtube.com/watch?v=sAoRrqmFcms&t=27.76s)]
+*  Those people, there has never been people treated more horrifically than J6 hostages. [[00:00:29](https://www.youtube.com/watch?v=sAoRrqmFcms&t=29.66s)]
+*  Those J6 warriors, they were warriors, but they were really more than anything else. [[00:00:37](https://www.youtube.com/watch?v=sAoRrqmFcms&t=37.76s)]
+*  They're victims of what happened. [[00:00:41](https://www.youtube.com/watch?v=sAoRrqmFcms&t=41.980000000000004s)]
+*  All they were doing is protesting a rigged election. [[00:00:43](https://www.youtube.com/watch?v=sAoRrqmFcms&t=43.9s)]
+*  That's what they were doing. [[00:00:46](https://www.youtube.com/watch?v=sAoRrqmFcms&t=46.7s)]
+*  And then the police say, go in, go in, go in. [[00:00:49](https://www.youtube.com/watch?v=sAoRrqmFcms&t=49.34s)]
+*  Go on in, everybody, go on in. [[00:00:52](https://www.youtube.com/watch?v=sAoRrqmFcms&t=52.46s)]
+*  What a setup that was. [[00:00:55](https://www.youtube.com/watch?v=sAoRrqmFcms&t=55.019999999999996s)]
+*  What a horrible... [[00:00:56](https://www.youtube.com/watch?v=sAoRrqmFcms&t=56.7s)]
+*  Joining us now, the host of the podcast, on brand with Donnie Deutsch. [[00:00:58](https://www.youtube.com/watch?v=sAoRrqmFcms&t=58.34s)]
+*  Donnie Deutsch, making his way too early debut. [[00:01:02](https://www.youtube.com/watch?v=sAoRrqmFcms&t=62.82s)]
+*  We will have him back frequently going forward. [[00:01:05](https://www.youtube.com/watch?v=sAoRrqmFcms&t=65.62s)]
+*  15 years on the morning, Joe, working my way to this scene. [[00:01:07](https://www.youtube.com/watch?v=sAoRrqmFcms&t=67.86s)]
+*  You finally made it. [[00:01:10](https://www.youtube.com/watch?v=sAoRrqmFcms&t=70.7s)]
+*  We appreciate it. [[00:01:11](https://www.youtube.com/watch?v=sAoRrqmFcms&t=71.7s)]
+*  Made the big time. [[00:01:12](https://www.youtube.com/watch?v=sAoRrqmFcms&t=72.7s)]
+*  So Donnie, let's just start here with Donald Trump. [[00:01:13](https://www.youtube.com/watch?v=sAoRrqmFcms&t=73.7s)]
+*  This is not a new refrain, him praising the January 6th insurrectionists, but now calling [[00:01:16](https://www.youtube.com/watch?v=sAoRrqmFcms&t=76.34s)]
+*  them heroes and contrasting them with the capital police, just a new low. [[00:01:23](https://www.youtube.com/watch?v=sAoRrqmFcms&t=83.22s)]
+*  And also using the word hostages, you know, with what's going on in Israel, we've got [[00:01:29](https://www.youtube.com/watch?v=sAoRrqmFcms&t=89.3s)]
+*  hostages and what we all know all too well and how sadly, but to call these guys hostages [[00:01:32](https://www.youtube.com/watch?v=sAoRrqmFcms&t=92.86s)]
+*  ridiculous and the J6, all of a sudden now it's a thing. [[00:01:36](https://www.youtube.com/watch?v=sAoRrqmFcms&t=96.98s)]
+*  He's branded it J6 and that the police said, come on in, come on in. [[00:01:40](https://www.youtube.com/watch?v=sAoRrqmFcms&t=100.32s)]
+*  It's just as if videotape never existed. [[00:01:44](https://www.youtube.com/watch?v=sAoRrqmFcms&t=104.58s)]
+*  It's as if we've never saw footage. [[00:01:47](https://www.youtube.com/watch?v=sAoRrqmFcms&t=107.3s)]
+*  Yes. [[00:01:48](https://www.youtube.com/watch?v=sAoRrqmFcms&t=108.62s)]
+*  It's just, it's just amazing how he can defy any sense of reality and his followers believe [[00:01:50](https://www.youtube.com/watch?v=sAoRrqmFcms&t=110.38000000000001s)]
+*  it. [[00:01:56](https://www.youtube.com/watch?v=sAoRrqmFcms&t=116.02000000000001s)]
+*  Yeah. [[00:01:57](https://www.youtube.com/watch?v=sAoRrqmFcms&t=117.02000000000001s)]
+*  And J6, the shorthanding it that way seems another moment where he's speaking to this [[00:01:58](https://www.youtube.com/watch?v=sAoRrqmFcms&t=118.02000000000001s)]
+*  like bubble, this ecosystem on the right. [[00:02:00](https://www.youtube.com/watch?v=sAoRrqmFcms&t=120.02000000000001s)]
+*  Expect this video to be played a lot between now and the election. [[00:02:03](https://www.youtube.com/watch?v=sAoRrqmFcms&t=123.18s)]
+*  Yeah. [[00:02:06](https://www.youtube.com/watch?v=sAoRrqmFcms&t=126.82000000000001s)]
+*  You know, it's, it's been a few years and we've got to just continue to refresh people's [[00:02:07](https://www.youtube.com/watch?v=sAoRrqmFcms&t=127.82000000000001s)]
+*  memories and when you see it, you just wonder how can anybody vote for this side, for this [[00:02:11](https://www.youtube.com/watch?v=sAoRrqmFcms&t=131.74s)]
+*  who relishes these people, who calls these people champions, who calls these people heroes [[00:02:17](https://www.youtube.com/watch?v=sAoRrqmFcms&t=137.46s)]
+*  and patriots and victims and hostages. [[00:02:21](https://www.youtube.com/watch?v=sAoRrqmFcms&t=141.62s)]
+*  And then you're staring at this and you go, what planet am I on? [[00:02:24](https://www.youtube.com/watch?v=sAoRrqmFcms&t=144.34s)]
+*  Yeah. [[00:02:26](https://www.youtube.com/watch?v=sAoRrqmFcms&t=146.98s)]
+*  And it's going to be really important for the Biden campaign and other Democrats to [[00:02:27](https://www.youtube.com/watch?v=sAoRrqmFcms&t=147.98s)]
+*  just remind people what the Trump years were like, including how they ended. [[00:02:30](https://www.youtube.com/watch?v=sAoRrqmFcms&t=150.34s)]
+*  The Biden, President Biden was in France for several days last week and his team really [[00:02:35](https://www.youtube.com/watch?v=sAoRrqmFcms&t=155.42s)]
+*  set about creating an implicit contrast with Donald Trump. [[00:02:40](https://www.youtube.com/watch?v=sAoRrqmFcms&t=160.3s)]
+*  Biden was there for all the D-Day events, praising alliances. [[00:02:44](https://www.youtube.com/watch?v=sAoRrqmFcms&t=164.18s)]
+*  We know Trump has tried to sabotage NATO and other American alliances. [[00:02:46](https://www.youtube.com/watch?v=sAoRrqmFcms&t=166.7s)]
+*  You know, President Biden reiterating commitment to Ukraine. [[00:02:50](https://www.youtube.com/watch?v=sAoRrqmFcms&t=170.22s)]
+*  We know that Trump frequently backs Russia and not Kiev. [[00:02:52](https://www.youtube.com/watch?v=sAoRrqmFcms&t=172.74s)]
+*  And then even yesterday, the President Biden was at the World War One cemetery that Trump, [[00:02:57](https://www.youtube.com/watch?v=sAoRrqmFcms&t=177.7s)]
+*  when he was in office, skipped a ceremony there because it rained. [[00:03:02](https://www.youtube.com/watch?v=sAoRrqmFcms&t=182.14s)]
+*  So do you think this kind of messaging, though, is breaking through? [[00:03:05](https://www.youtube.com/watch?v=sAoRrqmFcms&t=185.54s)]
+*  Well, the Biden campaign is going to be about contrast. [[00:03:09](https://www.youtube.com/watch?v=sAoRrqmFcms&t=189.06s)]
+*  They've been very, very clear about that. [[00:03:11](https://www.youtube.com/watch?v=sAoRrqmFcms&t=191.54s)]
+*  It really lifts it up side by side. [[00:03:12](https://www.youtube.com/watch?v=sAoRrqmFcms&t=192.9s)]
+*  One guy who is serious, one guy who is stands for all the kind of gravitas and all the great [[00:03:15](https://www.youtube.com/watch?v=sAoRrqmFcms&t=195.14s)]
+*  things that America is all about, and another guy who's about negativity and tearing it [[00:03:21](https://www.youtube.com/watch?v=sAoRrqmFcms&t=201.33999999999997s)]
+*  down. [[00:03:24](https://www.youtube.com/watch?v=sAoRrqmFcms&t=204.7s)]
+*  And I think you're going to see a lot of this. [[00:03:25](https://www.youtube.com/watch?v=sAoRrqmFcms&t=205.7s)]
+*  One side talks about how America sucks and the other side talks about elevating America [[00:03:27](https://www.youtube.com/watch?v=sAoRrqmFcms&t=207.17999999999998s)]
+*  and the greatness of America. [[00:03:31](https://www.youtube.com/watch?v=sAoRrqmFcms&t=211.26s)]
+*  And I think that's a message that's going to resonate. [[00:03:32](https://www.youtube.com/watch?v=sAoRrqmFcms&t=212.26s)]
+*  So you're obviously an expert on branding and advertising and breaking through. [[00:03:34](https://www.youtube.com/watch?v=sAoRrqmFcms&t=214.06s)]
+*  There was no doubt. [[00:03:37](https://www.youtube.com/watch?v=sAoRrqmFcms&t=217.14s)]
+*  It was noted by several of the Biden camp in Wilmington, noted to me over the weekend [[00:03:38](https://www.youtube.com/watch?v=sAoRrqmFcms&t=218.14s)]
+*  that this Biden trip did break through. [[00:03:41](https://www.youtube.com/watch?v=sAoRrqmFcms&t=221.14s)]
+*  But they acknowledge a lot of that is because, of course, the eyes of the world were going [[00:03:43](https://www.youtube.com/watch?v=sAoRrqmFcms&t=223.06s)]
+*  to be on the 80th anniversary of D-Day. [[00:03:46](https://www.youtube.com/watch?v=sAoRrqmFcms&t=226.06s)]
+*  So they were very pleased how front and center the president was. [[00:03:48](https://www.youtube.com/watch?v=sAoRrqmFcms&t=228.08s)]
+*  But talk to us about the challenge they're going to have keeping him front and center [[00:03:51](https://www.youtube.com/watch?v=sAoRrqmFcms&t=231.22s)]
+*  going forward. [[00:03:54](https://www.youtube.com/watch?v=sAoRrqmFcms&t=234.5s)]
+*  Look, they have to. [[00:03:55](https://www.youtube.com/watch?v=sAoRrqmFcms&t=235.5s)]
+*  You know, the American public has a great sense and a great sniff test. [[00:03:56](https://www.youtube.com/watch?v=sAoRrqmFcms&t=236.5s)]
+*  And if all of a sudden he's not around and they're hiding him and they go, OK, oh, they'll [[00:03:59](https://www.youtube.com/watch?v=sAoRrqmFcms&t=239.98000000000002s)]
+*  do certain kind of events and we're going to coddle him this way, he's got to be out [[00:04:02](https://www.youtube.com/watch?v=sAoRrqmFcms&t=242.86s)]
+*  there and he's got to be out there aggressive and front and center. [[00:04:06](https://www.youtube.com/watch?v=sAoRrqmFcms&t=246.42000000000002s)]
+*  This all, of course, leads up to June 27th in the debate, which is going to be huge. [[00:04:09](https://www.youtube.com/watch?v=sAoRrqmFcms&t=249.29999999999998s)]
+*  So president back on the world stage in just a few days. [[00:04:13](https://www.youtube.com/watch?v=sAoRrqmFcms&t=253.5s)]
+*  He heads to Italy in the G7 later this week. [[00:04:15](https://www.youtube.com/watch?v=sAoRrqmFcms&t=255.73999999999998s)]
+*  So let's talk about about that debate. [[00:04:18](https://www.youtube.com/watch?v=sAoRrqmFcms&t=258.09999999999997s)]
+*  I mean, it's still three weeks or so off or two and a half weeks off. [[00:04:20](https://www.youtube.com/watch?v=sAoRrqmFcms&t=260.06s)]
+*  He's got time to prepare. [[00:04:23](https://www.youtube.com/watch?v=sAoRrqmFcms&t=263.97999999999996s)]
+*  What are some of the things you think he needs to accomplish that night? [[00:04:25](https://www.youtube.com/watch?v=sAoRrqmFcms&t=265.5s)]
+*  I think two things have got to happen. [[00:04:27](https://www.youtube.com/watch?v=sAoRrqmFcms&t=267.9s)]
+*  First and foremost, and it's not a close second, and this happened in the State of the Union. [[00:04:29](https://www.youtube.com/watch?v=sAoRrqmFcms&t=269.58s)]
+*  He's got to answer the question of, is he too old? [[00:04:32](https://www.youtube.com/watch?v=sAoRrqmFcms&t=272.97999999999996s)]
+*  Is he not there? [[00:04:35](https://www.youtube.com/watch?v=sAoRrqmFcms&t=275.94s)]
+*  Does he not have his punch anymore? [[00:04:36](https://www.youtube.com/watch?v=sAoRrqmFcms&t=276.94s)]
+*  Has he lost his fastball? [[00:04:37](https://www.youtube.com/watch?v=sAoRrqmFcms&t=277.94s)]
+*  So a lot of it is going to be, I don't want to say substance over style, but he's going [[00:04:39](https://www.youtube.com/watch?v=sAoRrqmFcms&t=279.02s)]
+*  to have to come off as full of vigor and ready to go and answer that one, oh, well, you know, [[00:04:43](https://www.youtube.com/watch?v=sAoRrqmFcms&t=283.5s)]
+*  he's too old. [[00:04:50](https://www.youtube.com/watch?v=sAoRrqmFcms&t=290.14s)]
+*  And just answer that off the bat the same way he did State of the Union. [[00:04:51](https://www.youtube.com/watch?v=sAoRrqmFcms&t=291.14s)]
+*  And the second thing, and this is why this style plays to his favor without an audience. [[00:04:53](https://www.youtube.com/watch?v=sAoRrqmFcms&t=293.38s)]
+*  It's really about content and it's really about who's got a better grip on things. [[00:04:59](https://www.youtube.com/watch?v=sAoRrqmFcms&t=299.68s)]
+*  And I think Trump does not have the bells and whistles around him. [[00:05:03](https://www.youtube.com/watch?v=sAoRrqmFcms&t=303.59999999999997s)]
+*  So I think this plays to Biden. [[00:05:06](https://www.youtube.com/watch?v=sAoRrqmFcms&t=306.14s)]
+*  But first and foremost, he's got to come off full of piss. [[00:05:07](https://www.youtube.com/watch?v=sAoRrqmFcms&t=307.18s)]
+*  And as a last beat, you know Donald Trump for years here in New York. [[00:05:09](https://www.youtube.com/watch?v=sAoRrqmFcms&t=309.94s)]
+*  He's got to sit for a probation officer interview today, something that, of course, he deeply [[00:05:13](https://www.youtube.com/watch?v=sAoRrqmFcms&t=313.38s)]
+*  detests. [[00:05:18](https://www.youtube.com/watch?v=sAoRrqmFcms&t=318.34000000000003s)]
+*  Just talk to us about how you think he'll take that and what sort of impact, you know, [[00:05:19](https://www.youtube.com/watch?v=sAoRrqmFcms&t=319.66s)]
+*  sentencing month off, how is that weighing on him going forward and how that may impact [[00:05:23](https://www.youtube.com/watch?v=sAoRrqmFcms&t=323.52s)]
+*  what he says? [[00:05:27](https://www.youtube.com/watch?v=sAoRrqmFcms&t=327.26s)]
+*  I think it is weighing on him. [[00:05:28](https://www.youtube.com/watch?v=sAoRrqmFcms&t=328.26s)]
+*  And I think that obviously the sentencing is going to be interesting. [[00:05:29](https://www.youtube.com/watch?v=sAoRrqmFcms&t=329.42s)]
+*  I mean, most people don't think he's going to get prison sentenced, neither do I. [[00:05:32](https://www.youtube.com/watch?v=sAoRrqmFcms&t=332.46000000000004s)]
+*  Look, you know, all this just just eats away at him. [[00:05:36](https://www.youtube.com/watch?v=sAoRrqmFcms&t=336.74s)]
+*  I mean, I'm probably he'll be sitting there like this today at the probation meeting, [[00:05:39](https://www.youtube.com/watch?v=sAoRrqmFcms&t=339.1s)]
+*  like we know his his court stance. [[00:05:41](https://www.youtube.com/watch?v=sAoRrqmFcms&t=341.98s)]
+*  But he certainly ain't loving this. [[00:05:44](https://www.youtube.com/watch?v=sAoRrqmFcms&t=344.34000000000003s)]
+*  And but the good news is he's back on the campaign trail saying the things he says. [[00:05:46](https://www.youtube.com/watch?v=sAoRrqmFcms&t=346.22s)]
+*  So I think the great news about the trial was a guilty verdict and he's back out on [[00:05:49](https://www.youtube.com/watch?v=sAoRrqmFcms&t=349.94s)]
+*  the streets. [[00:05:54](https://www.youtube.com/watch?v=sAoRrqmFcms&t=354.82000000000005s)]
+*  And the Biden team thinks that as well. [[00:05:55](https://www.youtube.com/watch?v=sAoRrqmFcms&t=355.26s)]
+*  They think that actually the trial sheltered him. [[00:05:56](https://www.youtube.com/watch?v=sAoRrqmFcms&t=356.62s)]
+*  Yes. And now that he's out and about, Americans will be listening to him again. [[00:05:58](https://www.youtube.com/watch?v=sAoRrqmFcms&t=358.58000000000004s)]
+*  We turned off by what he says in the biggest moment for that to happen. [[00:06:01](https://www.youtube.com/watch?v=sAoRrqmFcms&t=361.42s)]
+*  The debate underscoring your point, just how large that looms. [[00:06:04](https://www.youtube.com/watch?v=sAoRrqmFcms&t=364.18s)]
+*  Donnie Deutsch, thank you so much. [[00:06:07](https://www.youtube.com/watch?v=sAoRrqmFcms&t=367.06s)]
+*  We will talk to you again a little later this morning on Morning Joe. [[00:06:08](https://www.youtube.com/watch?v=sAoRrqmFcms&t=368.26s)]

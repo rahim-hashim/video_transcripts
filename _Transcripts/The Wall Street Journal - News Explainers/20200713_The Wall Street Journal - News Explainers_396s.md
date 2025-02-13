@@ -1,0 +1,113 @@
+---
+Date Generated: February 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 396s
+Video Keywords: ['RECOVERY SHAPE', 'ECONOMIC RECOVERY', 'ALPHABET ECONOMICS', 'ECONOMISTS', 'ECONOMIST', '1953', 'RECESSION', '1980S', '2008', 'FINANCIAL CRISIS', '2009', 'SWOOSH', 'REVERSE SQUARE ROOT', 'CONGRESS', 'FEDERAL RESERVE', 'Economic News', 'Economic Growth', 'Economic Predictions', 'Forecasts', 'wsj', 'the wall street journal', 'wsj explains', 'wsj explainer', 'economics', 'economics explained', 'recession explained', 'are we in a recession', 'economic recovery', 'bounceback', 'economy', 'stocks', 'markets', 'business', 'business news', 'economy explained', 'investing']
+Video Views: 99145
+Video Rating: None
+Video Description: Economists have long used letters of the alphabet like V and U to describe economic recoveries. But the coronavirus downturn is so different from past recessions that economists are coming up with new shapes to describe the potential recovery. WSJ explains. Illustration: Jacob Reynolds
+
+More from the Wall Street Journal:
+Visit WSJ.com: http://www.wsj.com
+Visit the WSJ Video Center: https://wsj.com/video
+
+On Facebook: https://www.facebook.com/pg/wsj/videos/
+On Twitter: https://twitter.com/WSJ
+On Snapchat: https://on.wsj.com/2ratjSM
+
+#WSJ #Economics #Explainer
+---
+
+# Alphabet Economics: Why the Old Rules of Recoveries May Not Apply | WSJ
+**The Wall Street Journal - News Explainers:** [July 13, 2020](https://www.youtube.com/watch?v=x-EVeDdH00A)
+*  If you watched the news, you've probably been hearing about alphabet economics. [[00:00:00](https://www.youtube.com/watch?v=x-EVeDdH00A&t=0.0s)]
+*  — V-shape. — That V-shape. [[00:00:05](https://www.youtube.com/watch?v=x-EVeDdH00A&t=5.8s)]
+*  — The W-shape. — The U-shape. [[00:00:07](https://www.youtube.com/watch?v=x-EVeDdH00A&t=7.2s)]
+*  Or the dreaded L-shape. [[00:00:09](https://www.youtube.com/watch?v=x-EVeDdH00A&t=9.120000000000001s)]
+*  This is how economists talk about economic recoveries. [[00:00:12](https://www.youtube.com/watch?v=x-EVeDdH00A&t=12.0s)]
+*  And it's not just jargon. [[00:00:15](https://www.youtube.com/watch?v=x-EVeDdH00A&t=15.56s)]
+*  These letters drive policy decisions at Congress and the central bank. [[00:00:17](https://www.youtube.com/watch?v=x-EVeDdH00A&t=17.240000000000002s)]
+*  Decisions that can help determine how far we fall and how quickly we rebound. [[00:00:21](https://www.youtube.com/watch?v=x-EVeDdH00A&t=21.32s)]
+*  But the coronavirus downturn is different from past recessions. [[00:00:26](https://www.youtube.com/watch?v=x-EVeDdH00A&t=26.68s)]
+*  In fact, it's so different that economists are having to come up with new shapes [[00:00:30](https://www.youtube.com/watch?v=x-EVeDdH00A&t=30.2s)]
+*  to describe the potential recovery. [[00:00:33](https://www.youtube.com/watch?v=x-EVeDdH00A&t=33.92s)]
+*  When economists study a rebound, they often look back at previous recoveries for insight. [[00:00:38](https://www.youtube.com/watch?v=x-EVeDdH00A&t=38.120000000000005s)]
+*  Here's a look at change in the U.S.'s gross domestic product over the past century. [[00:00:43](https://www.youtube.com/watch?v=x-EVeDdH00A&t=43.84s)]
+*  You can see these letters appear in different places on the chart. [[00:00:48](https://www.youtube.com/watch?v=x-EVeDdH00A&t=48.519999999999996s)]
+*  Look at 1953. [[00:00:52](https://www.youtube.com/watch?v=x-EVeDdH00A&t=52.36s)]
+*  In the midst of an economic boom, the Fed raised interest rates to prevent inflation. [[00:00:54](https://www.youtube.com/watch?v=x-EVeDdH00A&t=54.4s)]
+*  And the economy saw a sharp contraction, followed by a quick recovery in 1954. [[00:00:59](https://www.youtube.com/watch?v=x-EVeDdH00A&t=59.199999999999996s)]
+*  This is the V. [[00:01:05](https://www.youtube.com/watch?v=x-EVeDdH00A&t=65.16s)]
+*  — V is preferable. What it means is that right after you have the downturn, you bounce right back. [[00:01:06](https://www.youtube.com/watch?v=x-EVeDdH00A&t=66.8s)]
+*  In a V-shaped recovery, we would get back to the previous high of GDP [[00:01:11](https://www.youtube.com/watch?v=x-EVeDdH00A&t=71.36s)]
+*  and the previous low of unemployment within a matter of months instead of a matter of years. [[00:01:16](https://www.youtube.com/watch?v=x-EVeDdH00A&t=76.16s)]
+*  Experts say it's possible that we could see a V-shaped recovery from the current recession. [[00:01:21](https://www.youtube.com/watch?v=x-EVeDdH00A&t=81.16s)]
+*  — There are always signs that we got in May suggested we weren't bouncing back from a very deep hole. [[00:01:25](https://www.youtube.com/watch?v=x-EVeDdH00A&t=85.72s)]
+*  There's a chance people just come back and try to get back to business. [[00:01:31](https://www.youtube.com/watch?v=x-EVeDdH00A&t=91.56s)]
+*  Some of their income has been replaced by the government, by government paychecks. [[00:01:36](https://www.youtube.com/watch?v=x-EVeDdH00A&t=96.03999999999999s)]
+*  And so they could come right back, but it's not a certainty. [[00:01:40](https://www.youtube.com/watch?v=x-EVeDdH00A&t=100.67999999999999s)]
+*  — Jump ahead to the early 1980s, when the Fed pushed interest rates higher to battle inflation. [[00:01:44](https://www.youtube.com/watch?v=x-EVeDdH00A&t=104.75999999999999s)]
+*  The GDP dipped down in 1980, spiked back up, and then plummeted even further before recovering at the end of 1982. [[00:01:49](https://www.youtube.com/watch?v=x-EVeDdH00A&t=109.92s)]
+*  You can see this formed a W-shaped recovery. [[00:01:58](https://www.youtube.com/watch?v=x-EVeDdH00A&t=118.44s)]
+*  — The Fed was pushing up interest rates to get inflation down, but it didn't work. [[00:02:01](https://www.youtube.com/watch?v=x-EVeDdH00A&t=121.88s)]
+*  They had to go back at it. [[00:02:05](https://www.youtube.com/watch?v=x-EVeDdH00A&t=125.88s)]
+*  And it wasn't really until the end of 1982 when the Fed was in a position where it could cut interest rates aggressively [[00:02:07](https://www.youtube.com/watch?v=x-EVeDdH00A&t=127.2s)]
+*  and get the economy back on track again. [[00:02:14](https://www.youtube.com/watch?v=x-EVeDdH00A&t=134.76s)]
+*  — The Fed is in a different position this time because they've cut interest rates very aggressively already. [[00:02:16](https://www.youtube.com/watch?v=x-EVeDdH00A&t=136.8s)]
+*  There's no inflation on the horizon. [[00:02:24](https://www.youtube.com/watch?v=x-EVeDdH00A&t=144.24s)]
+*  — If we see a W this time, it will likely be for different reasons tied to the coronavirus. [[00:02:26](https://www.youtube.com/watch?v=x-EVeDdH00A&t=146.8s)]
+*  — If the second wave comes in and people stop going out and factories have to shut down again [[00:02:32](https://www.youtube.com/watch?v=x-EVeDdH00A&t=152.68s)]
+*  and governments start putting on more restrictions, that could stall the expansion that we started to see in May and June. [[00:02:37](https://www.youtube.com/watch?v=x-EVeDdH00A&t=157.56s)]
+*  — But there are other options, too. [[00:02:45](https://www.youtube.com/watch?v=x-EVeDdH00A&t=165.95999999999998s)]
+*  Look at 2009 at the period following the last financial crisis. [[00:02:47](https://www.youtube.com/watch?v=x-EVeDdH00A&t=167.88s)]
+*  The economy declined steeply when the housing bubble burst and took nearly two years to recover. [[00:02:52](https://www.youtube.com/watch?v=x-EVeDdH00A&t=172.48s)]
+*  This is known as a U-shaped recovery. [[00:02:58](https://www.youtube.com/watch?v=x-EVeDdH00A&t=178.56s)]
+*  — What could cause a U-shaped recovery this time is you have to come back to the coronavirus. [[00:03:01](https://www.youtube.com/watch?v=x-EVeDdH00A&t=181.23999999999998s)]
+*  If we continue to see high caseloads and high hospitalization rates, [[00:03:07](https://www.youtube.com/watch?v=x-EVeDdH00A&t=187.0s)]
+*  it might be that people are very slow to get back to business normally, [[00:03:11](https://www.youtube.com/watch?v=x-EVeDdH00A&t=191.35999999999999s)]
+*  and that we just don't climb out of this very quickly. [[00:03:15](https://www.youtube.com/watch?v=x-EVeDdH00A&t=195.76s)]
+*  — So those are the traditional shapes of alphabet economics. [[00:03:18](https://www.youtube.com/watch?v=x-EVeDdH00A&t=198.64s)]
+*  But again, this downturn is different, and economists are looking at other shapes to try to describe it. [[00:03:22](https://www.youtube.com/watch?v=x-EVeDdH00A&t=202.24s)]
+*  — Our economy got hit by an outside shock, the coronavirus, and we just shut it down. [[00:03:28](https://www.youtube.com/watch?v=x-EVeDdH00A&t=208.16s)]
+*  It was almost like a meteor hit the economy. [[00:03:33](https://www.youtube.com/watch?v=x-EVeDdH00A&t=213.44s)]
+*  — One of these shapes is the swoosh, where the economy falls quickly, rebounds a little, [[00:03:36](https://www.youtube.com/watch?v=x-EVeDdH00A&t=216.88s)]
+*  but then takes months or even years to recover fully. [[00:03:42](https://www.youtube.com/watch?v=x-EVeDdH00A&t=222.35999999999999s)]
+*  — I think what would cause a swoosh-like expansion is that all the uncertainty that comes out of what we just experienced, [[00:03:45](https://www.youtube.com/watch?v=x-EVeDdH00A&t=225.88s)]
+*  the way people think about, for instance, do I want to live in a city anymore? [[00:03:54](https://www.youtube.com/watch?v=x-EVeDdH00A&t=234.51999999999998s)]
+*  The way a business thinks about, you know, do I want to invest in an urban area [[00:03:59](https://www.youtube.com/watch?v=x-EVeDdH00A&t=239.0s)]
+*  or someplace where it might be safer and not as congregated? [[00:04:04](https://www.youtube.com/watch?v=x-EVeDdH00A&t=244.84s)]
+*  — That it takes years potentially for people to get back into our comfort zone [[00:04:09](https://www.youtube.com/watch?v=x-EVeDdH00A&t=249.0s)]
+*  where the economy is functioning at its full capacity. [[00:04:13](https://www.youtube.com/watch?v=x-EVeDdH00A&t=253.24s)]
+*  — And it may take even longer than that. [[00:04:16](https://www.youtube.com/watch?v=x-EVeDdH00A&t=256.8s)]
+*  Some economists say this recovery could look more like a reverse square root sign, [[00:04:19](https://www.youtube.com/watch?v=x-EVeDdH00A&t=259.52s)]
+*  where it drops and then rebounds partially before flatlining for a prolonged period of time. [[00:04:24](https://www.youtube.com/watch?v=x-EVeDdH00A&t=264.2s)]
+*  If you look at the economic activity index from earlier this year, you can kind of see it. [[00:04:30](https://www.youtube.com/watch?v=x-EVeDdH00A&t=270.12s)]
+*  — It dropped sharply in March and rebounded partially before appearing to start to flatten out. [[00:04:35](https://www.youtube.com/watch?v=x-EVeDdH00A&t=275.16s)]
+*  But it's too soon to say if it will flatline. [[00:04:40](https://www.youtube.com/watch?v=x-EVeDdH00A&t=280.48s)]
+*  — I would say a reverse square root sign would mean, in the early stages of the recovery, a quick bounce back. [[00:04:43](https://www.youtube.com/watch?v=x-EVeDdH00A&t=283.16s)]
+*  And we have seen that in May and June. [[00:04:49](https://www.youtube.com/watch?v=x-EVeDdH00A&t=289.36s)]
+*  But then as it proceeds, it flattens out. [[00:04:51](https://www.youtube.com/watch?v=x-EVeDdH00A&t=291.84000000000003s)]
+*  So we don't get all the way back to where we were, [[00:04:54](https://www.youtube.com/watch?v=x-EVeDdH00A&t=294.32s)]
+*  because businesses and households come out of this less willing to spend and invest, [[00:04:58](https://www.youtube.com/watch?v=x-EVeDdH00A&t=298.0s)]
+*  because the coronavirus doesn't go away. [[00:05:03](https://www.youtube.com/watch?v=x-EVeDdH00A&t=303.04s)]
+*  — The path of a recovery isn't just an abstract shape. [[00:05:06](https://www.youtube.com/watch?v=x-EVeDdH00A&t=306.08000000000004s)]
+*  It helps policymakers determine how much stimulus money to pump into the economy. [[00:05:09](https://www.youtube.com/watch?v=x-EVeDdH00A&t=309.56s)]
+*  — If the Fed was confident that we were going to have a V-shaped recovery, [[00:05:14](https://www.youtube.com/watch?v=x-EVeDdH00A&t=314.40000000000003s)]
+*  then they would start raising interest rates sooner than they otherwise would. [[00:05:18](https://www.youtube.com/watch?v=x-EVeDdH00A&t=318.88s)]
+*  They would stop doing their bond-buying programs sooner than they otherwise would. [[00:05:22](https://www.youtube.com/watch?v=x-EVeDdH00A&t=322.84000000000003s)]
+*  If they think it's going to be a long and slow and drawn-out recovery [[00:05:27](https://www.youtube.com/watch?v=x-EVeDdH00A&t=327.72s)]
+*  that holds down inflation, [[00:05:31](https://www.youtube.com/watch?v=x-EVeDdH00A&t=331.88s)]
+*  then they're going to keep interest rates really low for a longer period of time. [[00:05:33](https://www.youtube.com/watch?v=x-EVeDdH00A&t=333.64s)]
+*  It's fundamentally important, because if the Fed is determined to hold down interest rates [[00:05:37](https://www.youtube.com/watch?v=x-EVeDdH00A&t=337.35999999999996s)]
+*  because it thinks it's going to be a slow recovery, [[00:05:42](https://www.youtube.com/watch?v=x-EVeDdH00A&t=342.59999999999997s)]
+*  then that will hold down the rate that you pay on your mortgage. [[00:05:44](https://www.youtube.com/watch?v=x-EVeDdH00A&t=344.88s)]
+*  That will hold down the rate that you pay for a car loan. [[00:05:49](https://www.youtube.com/watch?v=x-EVeDdH00A&t=349.91999999999996s)]
+*  — To protect millions of unemployed Americans, [[00:05:53](https://www.youtube.com/watch?v=x-EVeDdH00A&t=353.88s)]
+*  the Fed has signaled plans to keep interest rates close to zero through 2022. [[00:05:56](https://www.youtube.com/watch?v=x-EVeDdH00A&t=356.59999999999997s)]
+*  — The worst casualty economically in a recession is the person who loses his or her job. [[00:06:01](https://www.youtube.com/watch?v=x-EVeDdH00A&t=361.6s)]
+*  And so this affects everyone who's out of work and wants to get back on the factory floor, [[00:06:08](https://www.youtube.com/watch?v=x-EVeDdH00A&t=368.84s)]
+*  wants to get back into the restaurant, wants to get back in the office. [[00:06:14](https://www.youtube.com/watch?v=x-EVeDdH00A&t=374.32s)]
+*  — Congress's decision about whether to approve more economic relief for these workers [[00:06:18](https://www.youtube.com/watch?v=x-EVeDdH00A&t=378.72s)]
+*  will depend on the shape of the recovery. [[00:06:23](https://www.youtube.com/watch?v=x-EVeDdH00A&t=383.2s)]
+*  — And as the coronavirus cases rise across the country, [[00:06:25](https://www.youtube.com/watch?v=x-EVeDdH00A&t=385.88s)]
+*  that shape remains uncertain. [[00:06:29](https://www.youtube.com/watch?v=x-EVeDdH00A&t=389.4s)]
