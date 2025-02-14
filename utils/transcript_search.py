@@ -21,17 +21,27 @@ news_author = [
   'New Yorker',
   'NPR',
   'Wall Street Journal',
+	'Washington Post',
   # independent
   'All In',
   'Chris Hedges',
+	'Dave Smith',
 	'Democracy Now',
-	'Democracy Now Headlines',
+	'Dropsite News',
+	'Glenn Greenwald',
+	'Joe Rogan', 
+	'Lex Fridman',
   'Owen Jones',
 	'Theo Von'
-	'Lex Fridman',
-	'Joe Rogan', 
 	'Tucker Carlson',
-  'Young Turks'
+	'Tarek Masoud',
+  'Young Turks',
+	# establishment
+	'Council on Foreign Relations'
+]
+
+sports_authors = [
+	'Bill Simmons'
 ]
 
 def rename_folder_and_files(
