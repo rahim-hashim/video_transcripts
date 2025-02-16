@@ -1,0 +1,91 @@
+---
+Date Generated: February 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 511s
+Video Keywords: []
+Video Views: 22309
+Video Rating: None
+Video Description: The contrast between the apocalyptic wasteland of Gaza, and the continued Western lifestyles of Israelis on the other side of the barrier, has been on my mind a lot.
+
+I discuss this with courageous Israeli journalist Gideon Levy. He is at pains to stress that comparisons with the Shoah are "morally and factually wrong", yet this extreme divide evokes the Holocaust film 'The Zone of Interest'.
+
+Please like, subscribe, comment, share - and help us take on the pro-genocide media here: https://www.patreon.com/owenjones84
+
+Subscribe to my new Substack here: https://www.owenjones.news/
+---
+
+# Gaza And Israel Evokes Holocaust Film 'The Zone Of Interest' - Israeli Journalist Gideon Levy
+**Owen Jones - Palestine:** [December 13, 2024](https://www.youtube.com/watch?v=4nMkDw_cpqU)
+*  this isn't a hopeful question. I'm not quite sure actually how to frame it. It's just something [[00:00:00](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=0.0s)]
+*  that's on my mind basically. And I don't, let's just see your response because you're the person, [[00:00:03](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=3.36s)]
+*  definitely the person I'd want to run this by. You know, you're as far from Gaza now, [[00:00:08](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=8.88s)]
+*  I'm in central London. You're as far from Gaza as I am from, for those familiar with Britain, [[00:00:15](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=15.44s)]
+*  Reading, Chelmsford, Southend-on-Sea, places which are extremely close in my mind. They're [[00:00:21](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=21.92s)]
+*  practically, they're culturally, you know, these are commuter towns. These are people, [[00:00:31](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=31.44s)]
+*  people commute to London every single day from these places. And I can't think of any example [[00:00:36](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=36.56s)]
+*  in history where you have this tiny strip of land, Gaza, the size of East London, for those who don't [[00:00:44](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=44.400000000000006s)]
+*  know. I think people often aren't aware of just how small Gaza is, which is this apocalyptic [[00:00:50](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=50.16s)]
+*  wasteland raised from the face of the earth, a different colour and texture now when looked [[00:00:55](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=55.519999999999996s)]
+*  at from space with most buildings destroyed or damaged severely, starving, people eating animal [[00:00:59](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=59.76s)]
+*  gruel in order to live, but starving, people starving to death, the healthcare system gone. [[00:01:07](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=67.36s)]
+*  Basically the apocalypse, I think if people could, had to kind of imagine the apocalypse, [[00:01:14](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=74.08s)]
+*  Gaza I think is a pretty good approximation. And yet nearby people are eating at sushi restaurants. [[00:01:18](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=78.48s)]
+*  They're going to clubs, they're partying, they're getting drunk, they're living, they're going to [[00:01:29](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=89.36s)]
+*  cinemas, they're going to festivals, they're going for walks, you know, they're going to work, [[00:01:33](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=93.68s)]
+*  doing mundane jobs or not mundane jobs, whatever. You know, they're living the life of a European, [[00:01:39](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=99.44s)]
+*  they're living the life of people just outside my window. I can't think of any example in history [[00:01:45](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=105.2s)]
+*  actually of that extreme, you know, to just those alternate realities. And I guess maybe it does [[00:01:50](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=110.88s)]
+*  link back to what you were saying at the beginning, maybe that is about, because I don't quite know [[00:01:59](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=119.60000000000001s)]
+*  what the question is, but I think about it a lot and I wonder what you think, do you think about [[00:02:02](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=122.88s)]
+*  that a lot? And do you think that actually something has to give, because I mean there is [[00:02:06](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=126.72s)]
+*  something particularly unique about that horror. I just want to know what your thoughts are. [[00:02:12](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=132.32s)]
+*  Yeah, first of all, I still remember the service taxi who went every hour from Tel Aviv to Gaza. [[00:02:18](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=138.23999999999998s)]
+*  It costed 10 shekels, like two pounds and they took like one hour drive from Jaffa to Gaza, [[00:02:28](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=148.64s)]
+*  one hour, one hour and 15 for many, many years. People went there for the shopping, [[00:02:36](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=156.72s)]
+*  people went there for repairing their cars, treating their teeth. [[00:02:42](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=162.24s)]
+*  If you ask me about one place on earth that I would like to be now, it would be Gaza, [[00:02:48](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=168.64s)]
+*  because my heart is invested there for years. I went there at least once a week for years and years [[00:02:56](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=176.16s)]
+*  and I love this piece of land. I know I can't tell it to Israelis because they think I'm out [[00:03:05](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=185.04s)]
+*  of my mind, but Gaza is so much different than the West Bank where I still travel at least once a [[00:03:09](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=189.92s)]
+*  week. Gaza is something else and the people of Gaza are different. They live by the beach, [[00:03:15](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=195.51999999999998s)]
+*  they are more open-minded, they have a sense of humor and above all they suffered much more than [[00:03:21](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=201.76s)]
+*  West Bank throughout the years and they are much more courageous. [[00:03:27](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=207.84s)]
+*  There is something in the atmosphere, I mean only people who know Gaza will understand what I'm [[00:03:35](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=215.12s)]
+*  talking about. Now it is one hour away from here. I remember times that I used to come back from [[00:03:40](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=220.39999999999998s)]
+*  there and I was paralyzed at least for one day. I couldn't go out because also crossing the border [[00:03:47](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=227.28s)]
+*  with Gaza in times that it was possible was a trauma, a shock because you move from one world [[00:03:54](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=234.4s)]
+*  to the other also in better times, not only now when everything is really like hell, like [[00:04:03](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=243.44s)]
+*  apocalypse, but also in former times. It was very hard for me to come back from Gaza and to go out [[00:04:09](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=249.12s)]
+*  to a restaurant in Tel Aviv. It was really hard. Unfortunately we get used to everything and [[00:04:16](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=256.72s)]
+*  Israelis have a lot of agents who make it easier for them and above all obviously the Israeli media [[00:04:24](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=264.64000000000004s)]
+*  which voluntarily doesn't show them Gaza and when you don't see it, it doesn't exist. [[00:04:31](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=271.20000000000005s)]
+*  So Gaza is not in their mind, Gaza is not in the Israeli discourse. Gaza is just a big [[00:04:38](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=278.16s)]
+*  camp of terrorists that should be killed until the last baby there. This is the Israeli mindset [[00:04:45](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=285.6s)]
+*  right now and nobody cares what's going on there and for me I feel more lonely than ever in even [[00:04:53](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=293.68s)]
+*  caring about Gaza because I don't have even common language with my friends to speak about Gaza. [[00:05:04](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=304.72s)]
+*  So very few of them care about Gaza now. So very few of them are exposed to what's going on there [[00:05:12](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=312.96s)]
+*  and really I think that history will not forget. History will not forget. I hate [[00:05:20](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=320.56s)]
+*  to compare with the Shoah, with the Holocaust because it's always wrong morally and factually. [[00:05:27](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=327.76s)]
+*  It's a wrong comparison but I must remind you that also in the Holocaust next to those [[00:05:35](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=335.28s)]
+*  extermination camps there was normal life. Dachau was a concentration camp and next to Dachau it [[00:05:42](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=342.56s)]
+*  was the ones. There was ordinary life including this wonderful film about the family of the [[00:05:50](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=350.96000000000004s)]
+*  commander of Dachau who had this normal life or the commander of other camps. [[00:06:00](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=360.40000000000003s)]
+*  Al Jazeera now. Yeah exactly. Yes. Rudolf Hess was the commander and continued his life and you [[00:06:10](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=370.08s)]
+*  could hear the noise. Also Tel Aviv hears the noise of Gaza if it wants but it's not ready to [[00:06:20](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=380.64s)]
+*  hear and the heart is not open to absorb and it tells only on the level of blindness. [[00:06:29](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=389.92s)]
+*  It tells only about the moral profile of Israel today. It really lost it. It lost any humanity. [[00:06:42](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=402.96000000000004s)]
+*  This indifference to what's going on in Gaza is unforgivable. Nothing to compare to all the [[00:06:50](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=410.88s)]
+*  other phenomena that we know from the West Bank, from Lebanon but this ignorance, this ignoring [[00:06:56](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=416.64s)]
+*  of Gaza in the Israeli mindset is something that will accompany us many many years. [[00:07:05](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=425.76s)]
+*  A big heavy shadow on our moral profile to be so indifferent to the suffer which is made by us [[00:07:13](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=433.68s)]
+*  one hour away from our homes. This should be unforgivable and it is unforgivable. [[00:07:23](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=443.52s)]
+*  Amen and you know what I always find it very moving speaking to you Gideon. I hope you don't [[00:07:32](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=452.24s)]
+*  mind me saying so but these videos that I do with you and other people do videos like this with you [[00:07:36](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=456.08s)]
+*  as well because it's not easy to speak out in the way that you do in the climate that exists [[00:07:42](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=462.8s)]
+*  but actually there will be a change and there will be a reckoning and these are what you're [[00:07:49](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=469.28s)]
+*  doing as a testimony, you're testifying to the future and people will listen back and they'll [[00:07:55](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=475.52s)]
+*  know that there were isolated people with more courage and consistency who spoke out when it was [[00:08:01](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=481.91999999999996s)]
+*  hard to do so and I think people obviously will be as people often should be in terms of Britain, [[00:08:08](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=488.56s)]
+*  the terrible crimes that Britain has committed all over the world including just next to an [[00:08:13](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=493.44s)]
+*  island. Reckonings are forced upon us but they will I think in the ages to come what you said [[00:08:17](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=497.68s)]
+*  will be remembered in a very different light than it is currently in Israeli society. [[00:08:25](https://www.youtube.com/watch?v=4nMkDw_cpqU&t=505.36s)]

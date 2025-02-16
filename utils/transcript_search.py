@@ -10,7 +10,8 @@ from utils import fuzzy_lookup
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
-news_author = [
+author_dict = defaultdict(list)
+author_dict['news_author'] = [
   # mainstream
   'ABC',
 	'CBS',
@@ -40,9 +41,11 @@ news_author = [
 	'Council on Foreign Relations'
 ]
 
-sports_authors = [
+author_dict['sports_author'] = [
 	'Bill Simmons'
 ]
+
+author_dict['all'] = []
 
 def rename_folder_and_files(
 		old_name, 
@@ -293,7 +296,7 @@ def load_transcripts(
 		verbose=False
 	):
 	# author_name = sys.argv[1]
-	for author_name in author_names:
+	if author_names not in author_dict.keys():
 		print(f'Searching for {author_name} transcripts...')
 		# check if the dataframe exists
 		if dataframe_exists(author_name) and not reload:
@@ -307,8 +310,8 @@ def load_transcripts(
 	# if the dataframe does not exist, create it by reading the transcripts
 	transcript_paths_dict = find_transcripts(author_names)
 	transcripts_dict = defaultdict(lambda: defaultdict(list))
-	for author_name, transcripts in tqdm(transcript_paths_dict.items(), desc=f'Loading transcripts: {author_name}'):
-		for transcript_path in transcripts:
+	for author_name, transcript_paths in tqdm(transcript_paths_dict.items()):
+		for transcript_path in transcript_paths:
 			if '.md' in transcript_path:
 				transcripts_dict = read_transcript(author_name, transcript_path, transcripts_dict, verbose)
 	transcript_df = dict_to_pandas(transcripts_dict)
