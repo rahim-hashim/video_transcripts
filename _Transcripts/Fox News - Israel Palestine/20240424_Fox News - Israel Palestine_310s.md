@@ -1,0 +1,161 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 310s
+Video Keywords: ['anti israel protesters', 'israel', 'hamas', 'columbia university', 'your world', 'speaker of the house', 'columbia university protests', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'anti-israel protest', 'anti-israel protesters', 'anti-israel protests', 'columbia', 'columbia protests', 'columbia university protest', 'free palestine protest', 'israel war', 'middle east', 'palestine', 'pro-hamas', 'pro-hamas protest', 'pro-palestinian protest', 'jon lovitz', 'jesse watters', 'jesse watters primetime']
+Video Views: 294776
+Video Rating: None
+Video Description: Jewish actor and comedian Jon Lovitz slams the anti-Israel protesters who are demonstrating on college campuses across America on 'Jesse Watters Primetime.'
+#foxnews #primetime 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Jon Lovitz: 'It's horrible' what's happening to Jewish students at Columbia University
+**Fox News - Israel Palestine:** [April 24, 2024](https://www.youtube.com/watch?v=uJufq2mo51M)
+*  Let's bring in actor and comedian John Lovitz. [[00:00:00](https://www.youtube.com/watch?v=uJufq2mo51M&t=0.0s)]
+*  John, what do you see happening across the country? [[00:00:03](https://www.youtube.com/watch?v=uJufq2mo51M&t=3.84s)]
+*  Well, it's what I was told growing up by my father, [[00:00:08](https://www.youtube.com/watch?v=uJufq2mo51M&t=8.3s)]
+*  that the Jews in Germany were German first [[00:00:11](https://www.youtube.com/watch?v=uJufq2mo51M&t=11.540000000000001s)]
+*  and they couldn't believe this was happening [[00:00:16](https://www.youtube.com/watch?v=uJufq2mo51M&t=16.48s)]
+*  and they didn't believe it. [[00:00:18](https://www.youtube.com/watch?v=uJufq2mo51M&t=18.12s)]
+*  And there's a book called Night [[00:00:19](https://www.youtube.com/watch?v=uJufq2mo51M&t=19.68s)]
+*  that Elie Wiesel wrote about the Holocaust. [[00:00:22](https://www.youtube.com/watch?v=uJufq2mo51M&t=22.52s)]
+*  And he was 15 years old. [[00:00:24](https://www.youtube.com/watch?v=uJufq2mo51M&t=24.76s)]
+*  And he said there was a guy in his little village [[00:00:28](https://www.youtube.com/watch?v=uJufq2mo51M&t=28.08s)]
+*  who was, something wrong with him, [[00:00:30](https://www.youtube.com/watch?v=uJufq2mo51M&t=30.78s)]
+*  but he was the village idiot [[00:00:32](https://www.youtube.com/watch?v=uJufq2mo51M&t=32.86s)]
+*  and just would say crazy stuff [[00:00:34](https://www.youtube.com/watch?v=uJufq2mo51M&t=34.06s)]
+*  and nobody would listen to him. [[00:00:35](https://www.youtube.com/watch?v=uJufq2mo51M&t=35.56s)]
+*  And one day the guy disappeared for four days [[00:00:37](https://www.youtube.com/watch?v=uJufq2mo51M&t=37.1s)]
+*  and then he popped back up and he said his hair was wild [[00:00:39](https://www.youtube.com/watch?v=uJufq2mo51M&t=39.8s)]
+*  and he was screaming. [[00:00:43](https://www.youtube.com/watch?v=uJufq2mo51M&t=43.019999999999996s)]
+*  He goes, they're putting all the Jews on trains [[00:00:44](https://www.youtube.com/watch?v=uJufq2mo51M&t=44.16s)]
+*  and taking them and killing them. [[00:00:46](https://www.youtube.com/watch?v=uJufq2mo51M&t=46.2s)]
+*  And nobody believed him because he was the village idiot. [[00:00:48](https://www.youtube.com/watch?v=uJufq2mo51M&t=48.9s)]
+*  And you hear this growing up and it's happening again. [[00:00:51](https://www.youtube.com/watch?v=uJufq2mo51M&t=51.78s)]
+*  And I still think a lot of Jewish people are in disbelief [[00:00:57](https://www.youtube.com/watch?v=uJufq2mo51M&t=57.1s)]
+*  and they go, you're a Jewish American. [[00:01:01](https://www.youtube.com/watch?v=uJufq2mo51M&t=61.24s)]
+*  I go, no, I'm an American. [[00:01:03](https://www.youtube.com/watch?v=uJufq2mo51M&t=63.08s)]
+*  And I happen to be, my religion is Jewish [[00:01:04](https://www.youtube.com/watch?v=uJufq2mo51M&t=64.98s)]
+*  and I happen to be a comedian, but I'm an American citizen [[00:01:07](https://www.youtube.com/watch?v=uJufq2mo51M&t=67.14s)]
+*  and I don't know how this can be upsetting to everybody. [[00:01:09](https://www.youtube.com/watch?v=uJufq2mo51M&t=69.52s)]
+*  And I also, I don't understand it [[00:01:13](https://www.youtube.com/watch?v=uJufq2mo51M&t=73.96000000000001s)]
+*  because Israel is a democracy like we are [[00:01:16](https://www.youtube.com/watch?v=uJufq2mo51M&t=76.06s)]
+*  and Israel is our ally. [[00:01:19](https://www.youtube.com/watch?v=uJufq2mo51M&t=79.06s)]
+*  So what don't you get? [[00:01:21](https://www.youtube.com/watch?v=uJufq2mo51M&t=81.36s)]
+*  And secondly, the students on Columbia blocking Jewish kids [[00:01:25](https://www.youtube.com/watch?v=uJufq2mo51M&t=85.02s)]
+*  from going into school, I tweeted something about it [[00:01:28](https://www.youtube.com/watch?v=uJufq2mo51M&t=88.86s)]
+*  because I went to college [[00:01:31](https://www.youtube.com/watch?v=uJufq2mo51M&t=91.16s)]
+*  and I can't imagine having to deal with this. [[00:01:33](https://www.youtube.com/watch?v=uJufq2mo51M&t=93.36s)]
+*  I was 18 and I lived in a fine arts dorm [[00:01:36](https://www.youtube.com/watch?v=uJufq2mo51M&t=96.04s)]
+*  and everybody had a different ethnic background, [[00:01:38](https://www.youtube.com/watch?v=uJufq2mo51M&t=98.8s)]
+*  Chinese, Mexican, African-American, I'm Jewish. [[00:01:40](https://www.youtube.com/watch?v=uJufq2mo51M&t=100.94s)]
+*  We would have dinner together every night. [[00:01:44](https://www.youtube.com/watch?v=uJufq2mo51M&t=104.24000000000001s)]
+*  We would roast each other about it. [[00:01:46](https://www.youtube.com/watch?v=uJufq2mo51M&t=106.12s)]
+*  And then I'd say, but it doesn't mean anything. [[00:01:48](https://www.youtube.com/watch?v=uJufq2mo51M&t=108.08s)]
+*  We're starting our lives. [[00:01:50](https://www.youtube.com/watch?v=uJufq2mo51M&t=110.12s)]
+*  You wanna be a singer, you wanna be a painter, [[00:01:51](https://www.youtube.com/watch?v=uJufq2mo51M&t=111.22s)]
+*  I wanna be an actor. [[00:01:53](https://www.youtube.com/watch?v=uJufq2mo51M&t=113.8s)]
+*  And I'm thinking these kids are in high school. [[00:01:56](https://www.youtube.com/watch?v=uJufq2mo51M&t=116.08s)]
+*  They worked their butt off to get into a great school [[00:01:58](https://www.youtube.com/watch?v=uJufq2mo51M&t=118.12s)]
+*  like Columbia and now they have to deal with this. [[00:02:00](https://www.youtube.com/watch?v=uJufq2mo51M&t=120.28s)]
+*  And it's horrible. [[00:02:02](https://www.youtube.com/watch?v=uJufq2mo51M&t=122.98s)]
+*  So I said, I wanted to say something to help them. [[00:02:04](https://www.youtube.com/watch?v=uJufq2mo51M&t=124.28s)]
+*  And like you said, it's like weeds. [[00:02:08](https://www.youtube.com/watch?v=uJufq2mo51M&t=128.36s)]
+*  If you don't nip it in the bud, [[00:02:10](https://www.youtube.com/watch?v=uJufq2mo51M&t=130.0s)]
+*  it's just gonna keep spreading and get worse and worse. [[00:02:11](https://www.youtube.com/watch?v=uJufq2mo51M&t=131.56s)]
+*  And we've seen it get worse and worse. [[00:02:14](https://www.youtube.com/watch?v=uJufq2mo51M&t=134.16s)]
+*  Yeah, we sure have. [[00:02:16](https://www.youtube.com/watch?v=uJufq2mo51M&t=136.2s)]
+*  So I feel compelled to say something. [[00:02:17](https://www.youtube.com/watch?v=uJufq2mo51M&t=137.04s)]
+*  We have seen it get as worse as it possibly can be. [[00:02:17](https://www.youtube.com/watch?v=uJufq2mo51M&t=137.86s)]
+*  You heard the gentleman at the top. [[00:02:21](https://www.youtube.com/watch?v=uJufq2mo51M&t=141.46s)]
+*  It can get way worse. [[00:02:23](https://www.youtube.com/watch?v=uJufq2mo51M&t=143.68s)]
+*  Absolutely. [[00:02:24](https://www.youtube.com/watch?v=uJufq2mo51M&t=144.52s)]
+*  You heard him at the top say, you know, [[00:02:25](https://www.youtube.com/watch?v=uJufq2mo51M&t=145.36s)]
+*  I couldn't go on campus and burn a cross and chant KKK [[00:02:26](https://www.youtube.com/watch?v=uJufq2mo51M&t=146.18s)]
+*  and prevent black students from getting to class. [[00:02:30](https://www.youtube.com/watch?v=uJufq2mo51M&t=150.32000000000002s)]
+*  Why do you think, or about anybody, [[00:02:33](https://www.youtube.com/watch?v=uJufq2mo51M&t=153.12s)]
+*  about transgender people, gay people, women. [[00:02:36](https://www.youtube.com/watch?v=uJufq2mo51M&t=156.08s)]
+*  Why is it different with Jewish students? [[00:02:39](https://www.youtube.com/watch?v=uJufq2mo51M&t=159.88000000000002s)]
+*  I don't know. [[00:02:44](https://www.youtube.com/watch?v=uJufq2mo51M&t=164.46s)]
+*  I think people like, you know, or Jewish like myself, [[00:02:45](https://www.youtube.com/watch?v=uJufq2mo51M&t=165.3s)]
+*  or naive and thought, oh, there's not all this anti-Semitism. [[00:02:50](https://www.youtube.com/watch?v=uJufq2mo51M&t=170.04s)]
+*  I think it's always been there. [[00:02:52](https://www.youtube.com/watch?v=uJufq2mo51M&t=172.88s)]
+*  It's just coming out. [[00:02:54](https://www.youtube.com/watch?v=uJufq2mo51M&t=174.04s)]
+*  But what you kind of said about, you know, [[00:02:55](https://www.youtube.com/watch?v=uJufq2mo51M&t=175.5s)]
+*  you respect everybody, whatever their religion, [[00:02:57](https://www.youtube.com/watch?v=uJufq2mo51M&t=177.6s)]
+*  whatever their race, you respect everybody. [[00:03:00](https://www.youtube.com/watch?v=uJufq2mo51M&t=180.24s)]
+*  That's what Judaism, the religion is about, [[00:03:02](https://www.youtube.com/watch?v=uJufq2mo51M&t=182.04s)]
+*  is respecting life and people. [[00:03:05](https://www.youtube.com/watch?v=uJufq2mo51M&t=185.02s)]
+*  And I still think, you know, [[00:03:07](https://www.youtube.com/watch?v=uJufq2mo51M&t=187.08s)]
+*  people have a right to protest peacefully. [[00:03:08](https://www.youtube.com/watch?v=uJufq2mo51M&t=188.8s)]
+*  And they have a, you know, normally you'd get a permit [[00:03:11](https://www.youtube.com/watch?v=uJufq2mo51M&t=191.96s)]
+*  and then you'd get a place to protest. [[00:03:14](https://www.youtube.com/watch?v=uJufq2mo51M&t=194.44s)]
+*  I don't know why they're allowed to do it on the school. [[00:03:16](https://www.youtube.com/watch?v=uJufq2mo51M&t=196.08s)]
+*  And I don't know how people that aren't students [[00:03:20](https://www.youtube.com/watch?v=uJufq2mo51M&t=200.01999999999998s)]
+*  are just camping out in the middle of the school. [[00:03:22](https://www.youtube.com/watch?v=uJufq2mo51M&t=202.38s)]
+*  They should be like, isn't that trespassing? [[00:03:24](https://www.youtube.com/watch?v=uJufq2mo51M&t=204.22s)]
+*  I don't understand. [[00:03:26](https://www.youtube.com/watch?v=uJufq2mo51M&t=206.62s)]
+*  What I don't understand is you have the president [[00:03:28](https://www.youtube.com/watch?v=uJufq2mo51M&t=208.06s)]
+*  of the United States, you have the White House, [[00:03:30](https://www.youtube.com/watch?v=uJufq2mo51M&t=210.22s)]
+*  they won't even touch this. [[00:03:32](https://www.youtube.com/watch?v=uJufq2mo51M&t=212.16s)]
+*  Do you expect more from the leadership in this country? [[00:03:35](https://www.youtube.com/watch?v=uJufq2mo51M&t=215.29999999999998s)]
+*  Yeah, I do. [[00:03:40](https://www.youtube.com/watch?v=uJufq2mo51M&t=220.29999999999998s)]
+*  Yeah, I think anyone doing this against anybody like this [[00:03:41](https://www.youtube.com/watch?v=uJufq2mo51M&t=221.26s)]
+*  should stop it. [[00:03:44](https://www.youtube.com/watch?v=uJufq2mo51M&t=224.29999999999998s)]
+*  I mean, preventing students from going to class, [[00:03:45](https://www.youtube.com/watch?v=uJufq2mo51M&t=225.5s)]
+*  it's ridiculous. [[00:03:48](https://www.youtube.com/watch?v=uJufq2mo51M&t=228.22s)]
+*  It happened to a friend of mine, [[00:03:49](https://www.youtube.com/watch?v=uJufq2mo51M&t=229.94s)]
+*  I was speaking to her this morning, [[00:03:51](https://www.youtube.com/watch?v=uJufq2mo51M&t=231.06s)]
+*  she has one kid at Duke University [[00:03:52](https://www.youtube.com/watch?v=uJufq2mo51M&t=232.29999999999998s)]
+*  and she has another kid at Cornell. [[00:03:54](https://www.youtube.com/watch?v=uJufq2mo51M&t=234.62s)]
+*  At Duke University months ago, [[00:03:56](https://www.youtube.com/watch?v=uJufq2mo51M&t=236.29999999999998s)]
+*  they started doing a protest and they nipped it in the bud [[00:03:57](https://www.youtube.com/watch?v=uJufq2mo51M&t=237.9s)]
+*  and said, no, you can't do that here. [[00:04:00](https://www.youtube.com/watch?v=uJufq2mo51M&t=240.14s)]
+*  And they've had no problems since. [[00:04:01](https://www.youtube.com/watch?v=uJufq2mo51M&t=241.62s)]
+*  Cornell didn't, they've had all these problems. [[00:04:03](https://www.youtube.com/watch?v=uJufq2mo51M&t=243.06s)]
+*  Her daughter couldn't go to class, [[00:04:05](https://www.youtube.com/watch?v=uJufq2mo51M&t=245.74s)]
+*  she couldn't take a test. [[00:04:07](https://www.youtube.com/watch?v=uJufq2mo51M&t=247.01999999999998s)]
+*  And the teacher wouldn't respond to her [[00:04:08](https://www.youtube.com/watch?v=uJufq2mo51M&t=248.57999999999998s)]
+*  and she had trouble retaking it and finally got to. [[00:04:10](https://www.youtube.com/watch?v=uJufq2mo51M&t=250.34s)]
+*  But it's bad. [[00:04:14](https://www.youtube.com/watch?v=uJufq2mo51M&t=254.42s)]
+*  And I don't know why people say, [[00:04:16](https://www.youtube.com/watch?v=uJufq2mo51M&t=256.04s)]
+*  why are you speaking up? [[00:04:20](https://www.youtube.com/watch?v=uJufq2mo51M&t=260.16s)]
+*  Why aren't other people in Hollywood [[00:04:21](https://www.youtube.com/watch?v=uJufq2mo51M&t=261.12s)]
+*  who are way bigger names than me not saying anything? [[00:04:23](https://www.youtube.com/watch?v=uJufq2mo51M&t=263.32s)]
+*  And my answer is, I don't know. [[00:04:26](https://www.youtube.com/watch?v=uJufq2mo51M&t=266.04s)]
+*  I think they're either afraid [[00:04:27](https://www.youtube.com/watch?v=uJufq2mo51M&t=267.3s)]
+*  or they're afraid they're gonna lose their, [[00:04:29](https://www.youtube.com/watch?v=uJufq2mo51M&t=269.78000000000003s)]
+*  it'll hurt their business. [[00:04:31](https://www.youtube.com/watch?v=uJufq2mo51M&t=271.64000000000004s)]
+*  But I feel like it's so bad, [[00:04:33](https://www.youtube.com/watch?v=uJufq2mo51M&t=273.28000000000003s)]
+*  how can you not say something? [[00:04:35](https://www.youtube.com/watch?v=uJufq2mo51M&t=275.24s)]
+*  You have to. [[00:04:37](https://www.youtube.com/watch?v=uJufq2mo51M&t=277.20000000000005s)]
+*  And then people go, well, who are you? [[00:04:38](https://www.youtube.com/watch?v=uJufq2mo51M&t=278.44s)]
+*  I go, look at, you asked me to come on this show. [[00:04:40](https://www.youtube.com/watch?v=uJufq2mo51M&t=280.92s)]
+*  I'm not out there with a megaphone, [[00:04:44](https://www.youtube.com/watch?v=uJufq2mo51M&t=284.32s)]
+*  you know what I mean? [[00:04:46](https://www.youtube.com/watch?v=uJufq2mo51M&t=286.24s)]
+*  But I appreciate the opportunity to say something. [[00:04:47](https://www.youtube.com/watch?v=uJufq2mo51M&t=287.08s)]
+*  You're being very humble to say there's not a lot of names [[00:04:50](https://www.youtube.com/watch?v=uJufq2mo51M&t=290.32s)]
+*  out there bigger than John Lovitz. [[00:04:52](https://www.youtube.com/watch?v=uJufq2mo51M&t=292.68s)]
+*  John, thank you so much for joining [[00:04:53](https://www.youtube.com/watch?v=uJufq2mo51M&t=293.92s)]
+*  Jesse Waters' Primetime. [[00:04:55](https://www.youtube.com/watch?v=uJufq2mo51M&t=295.4s)]
+*  Thank you. [[00:04:56](https://www.youtube.com/watch?v=uJufq2mo51M&t=296.8s)]
+*  Dose of Truth, very refreshing, we appreciate it. [[00:04:57](https://www.youtube.com/watch?v=uJufq2mo51M&t=297.64s)]

@@ -1,0 +1,156 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 430s
+Video Keywords: ['Benjamin Netanyahu ICC', 'Fox News', 'Fox News Channel', 'Gaza', 'ICC', 'Memorial Day', 'Memorial Day message', 'Rafah', 'news', 'patriotism', 'politics', 'veterans', 'world news', 'Israel', 'Israel Hamas war', 'Hamas', 'Iran', 'Iranian regime', 'Israel Defense Forces', 'IDF', 'Israel US', 'Israel allies', 'military', 'Middle East conflict', 'Israel PM', 'Benjamin Netanyahu', 'Middle East', 'Middle East war', 'israeli-palestinian conflict', 'west bank']
+Video Views: 139327
+Video Rating: None
+Video Description: Retired Lt. Gen. Keith Kellogg discusses the ongoing Israel war, arguing the U.S. should intervene. 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# World opinion is turning against Israel 'quite strongly': Retired Lt. Gen. Kellogg
+**Fox News - Israel Palestine:** [May 27, 2024](https://www.youtube.com/watch?v=EuCs78cA2mg)
+*  Now let's bring in retired Lieutenant General Keith Kellogg. [[00:00:00](https://www.youtube.com/watch?v=EuCs78cA2mg&t=0.0s)]
+*  Sir, thank you for being here on this Memorial Day. [[00:00:03](https://www.youtube.com/watch?v=EuCs78cA2mg&t=3.68s)]
+*  We really appreciate it. [[00:00:06](https://www.youtube.com/watch?v=EuCs78cA2mg&t=6.24s)]
+*  Trey Yankst brought us this rather remarkable, heartbreaking video out of Israel, out of [[00:00:08](https://www.youtube.com/watch?v=EuCs78cA2mg&t=8.040000000000001s)]
+*  Gaza. [[00:00:13](https://www.youtube.com/watch?v=EuCs78cA2mg&t=13.16s)]
+*  The rockets coming yet again out of Barapha heading into Israel. [[00:00:14](https://www.youtube.com/watch?v=EuCs78cA2mg&t=14.16s)]
+*  The Iron Dome doing its work and also this terrible video of civilians that are suffering [[00:00:17](https://www.youtube.com/watch?v=EuCs78cA2mg&t=17.28s)]
+*  there on the ground. [[00:00:22](https://www.youtube.com/watch?v=EuCs78cA2mg&t=22.080000000000002s)]
+*  The fires in these tents. [[00:00:23](https://www.youtube.com/watch?v=EuCs78cA2mg&t=23.72s)]
+*  I just want to get your thoughts of this situation as we're watching it unfold. [[00:00:24](https://www.youtube.com/watch?v=EuCs78cA2mg&t=24.84s)]
+*  Yeah, Molly, thanks for having me today. [[00:00:29](https://www.youtube.com/watch?v=EuCs78cA2mg&t=29.56s)]
+*  Look, it's a messaging issue right now. [[00:00:32](https://www.youtube.com/watch?v=EuCs78cA2mg&t=32.84s)]
+*  The Israelis are losing that. [[00:00:34](https://www.youtube.com/watch?v=EuCs78cA2mg&t=34.76s)]
+*  And I know they're trying to eliminate the Hamas leadership in Ra'afah right now. [[00:00:36](https://www.youtube.com/watch?v=EuCs78cA2mg&t=36.56s)]
+*  But this is reaching a point now where they should have gone in earlier, eliminated it [[00:00:42](https://www.youtube.com/watch?v=EuCs78cA2mg&t=42.72s)]
+*  and then gotten out. [[00:00:46](https://www.youtube.com/watch?v=EuCs78cA2mg&t=46.4s)]
+*  Here's what needs to really be done. [[00:00:47](https://www.youtube.com/watch?v=EuCs78cA2mg&t=47.760000000000005s)]
+*  Is United States should intervene in the sense they need to pick up and call the Qatari government, [[00:00:49](https://www.youtube.com/watch?v=EuCs78cA2mg&t=49.36s)]
+*  who's hosting Hamas leadership and say, look, there's a big issue right now with the hostages. [[00:00:54](https://www.youtube.com/watch?v=EuCs78cA2mg&t=54.0s)]
+*  Tell us where the hostages are or put the International Red Cross on the ground to verify [[00:01:01](https://www.youtube.com/watch?v=EuCs78cA2mg&t=61.480000000000004s)]
+*  that the hostages are in fact still alive. [[00:01:06](https://www.youtube.com/watch?v=EuCs78cA2mg&t=66.24000000000001s)]
+*  We've had no proof of life that they're actually still alive and the numbers there are. [[00:01:08](https://www.youtube.com/watch?v=EuCs78cA2mg&t=68.28s)]
+*  But this is going to continue and I would advise the Israelis, they better finish this [[00:01:12](https://www.youtube.com/watch?v=EuCs78cA2mg&t=72.4s)]
+*  in a hurry because world opinion is turning against them quite strongly. [[00:01:16](https://www.youtube.com/watch?v=EuCs78cA2mg&t=76.36s)]
+*  This is one of those, it's a pretty complicated problem. [[00:01:21](https://www.youtube.com/watch?v=EuCs78cA2mg&t=81.2s)]
+*  I know they're trying to finish the job. [[00:01:24](https://www.youtube.com/watch?v=EuCs78cA2mg&t=84.2s)]
+*  They need to get it done. [[00:01:25](https://www.youtube.com/watch?v=EuCs78cA2mg&t=85.76s)]
+*  Which brings us great point to the next part of this conversation about the ICC, the International [[00:01:27](https://www.youtube.com/watch?v=EuCs78cA2mg&t=87.2s)]
+*  Criminal Court, the chief prosecutor, Karim Khan, just recently sent out arrest warrants [[00:01:32](https://www.youtube.com/watch?v=EuCs78cA2mg&t=92.10000000000001s)]
+*  for Benjamin Netanyahu, for Yoav Galant, the defense minister there, as well as some Hamas [[00:01:36](https://www.youtube.com/watch?v=EuCs78cA2mg&t=96.76s)]
+*  leaders. [[00:01:41](https://www.youtube.com/watch?v=EuCs78cA2mg&t=101.92s)]
+*  This is what he has said. [[00:01:43](https://www.youtube.com/watch?v=EuCs78cA2mg&t=103.4s)]
+*  He has said Israel has every right to protect its population and to get the hostages back, [[00:01:44](https://www.youtube.com/watch?v=EuCs78cA2mg&t=104.6s)]
+*  that nobody has a license to commit war crimes or crimes against humanity. [[00:01:49](https://www.youtube.com/watch?v=EuCs78cA2mg&t=109.84s)]
+*  But when Israel seeks some clarification as to what he means, he made this argument that [[00:01:53](https://www.youtube.com/watch?v=EuCs78cA2mg&t=113.2s)]
+*  in essence to look at how Britain handled things with the IRA, with the time of the [[00:01:59](https://www.youtube.com/watch?v=EuCs78cA2mg&t=119.48s)]
+*  trouble, so to say, and drew a comparison here that Israel could act similar to Britain [[00:02:05](https://www.youtube.com/watch?v=EuCs78cA2mg&t=125.16s)]
+*  did in that time period. [[00:02:10](https://www.youtube.com/watch?v=EuCs78cA2mg&t=130.2s)]
+*  What do you make of that suggestion? [[00:02:12](https://www.youtube.com/watch?v=EuCs78cA2mg&t=132.74s)]
+*  Actually, Molly, it's apples and oranges. [[00:02:16](https://www.youtube.com/watch?v=EuCs78cA2mg&t=136.48s)]
+*  It's two different things. [[00:02:19](https://www.youtube.com/watch?v=EuCs78cA2mg&t=139.95999999999998s)]
+*  And I know I mentioned Karim Khanda, the chief prosecutor for the ICC. [[00:02:20](https://www.youtube.com/watch?v=EuCs78cA2mg&t=140.95999999999998s)]
+*  He talked about Margaret Thatcher and how she handled it with the IRA. [[00:02:24](https://www.youtube.com/watch?v=EuCs78cA2mg&t=144.92s)]
+*  It's not the same at all. [[00:02:29](https://www.youtube.com/watch?v=EuCs78cA2mg&t=149.51999999999998s)]
+*  Hamas is a terrorist organization, went into Israel, attacked Israel, killed over a thousand. [[00:02:31](https://www.youtube.com/watch?v=EuCs78cA2mg&t=151.23999999999998s)]
+*  As a frame of reference, the United States is 30x larger than Israel. [[00:02:37](https://www.youtube.com/watch?v=EuCs78cA2mg&t=157.79999999999998s)]
+*  That would be like Hamas killing 30,000 Americans. [[00:02:42](https://www.youtube.com/watch?v=EuCs78cA2mg&t=162.76s)]
+*  We wouldn't tolerate that. [[00:02:47](https://www.youtube.com/watch?v=EuCs78cA2mg&t=167.44s)]
+*  And you look at the ICC and you really don't understand the nature of war. [[00:02:48](https://www.youtube.com/watch?v=EuCs78cA2mg&t=168.88s)]
+*  Nobody wants to get into war. [[00:02:53](https://www.youtube.com/watch?v=EuCs78cA2mg&t=173.06s)]
+*  When you get in it, it can be pretty nasty and there will be collateral damage to civilians. [[00:02:54](https://www.youtube.com/watch?v=EuCs78cA2mg&t=174.06s)]
+*  That's the reason why I think the Israelis need to finish it up as soon as they can. [[00:02:58](https://www.youtube.com/watch?v=EuCs78cA2mg&t=178.84s)]
+*  By the way, on the ICC, it's one of the reasons why we're not part of the ICC, the United [[00:03:02](https://www.youtube.com/watch?v=EuCs78cA2mg&t=182.2s)]
+*  States isn't. [[00:03:06](https://www.youtube.com/watch?v=EuCs78cA2mg&t=186.76s)]
+*  We signed up initially and then we said, nope, it's not going to work. [[00:03:07](https://www.youtube.com/watch?v=EuCs78cA2mg&t=187.76s)]
+*  at all. [[00:03:11](https://www.youtube.com/watch?v=EuCs78cA2mg&t=191.52s)]
+*  So we're not party to it. [[00:03:12](https://www.youtube.com/watch?v=EuCs78cA2mg&t=192.52s)]
+*  In fact, in 2002, we put in the Servicemen's Protection Act where we told the ICC quite [[00:03:13](https://www.youtube.com/watch?v=EuCs78cA2mg&t=193.52s)]
+*  clearly, if you take one of our American service members or diplomats, the president has all [[00:03:19](https://www.youtube.com/watch?v=EuCs78cA2mg&t=199.20000000000002s)]
+*  means, can use all means necessary to actually retrieve that individual. [[00:03:24](https://www.youtube.com/watch?v=EuCs78cA2mg&t=204.04000000000002s)]
+*  So we put the ICC on notice when it comes to Americans. [[00:03:28](https://www.youtube.com/watch?v=EuCs78cA2mg&t=208.4s)]
+*  Israelis have not done that. [[00:03:31](https://www.youtube.com/watch?v=EuCs78cA2mg&t=211.96s)]
+*  I think another great point you were making was that this needs to go back to the hostages. [[00:03:32](https://www.youtube.com/watch?v=EuCs78cA2mg&t=212.96s)]
+*  And right now, just in recent days, when you're talking about the messaging out of Israel, [[00:03:37](https://www.youtube.com/watch?v=EuCs78cA2mg&t=217.6s)]
+*  they put forth a video reminding everyone, reminding the globe about these young women [[00:03:42](https://www.youtube.com/watch?v=EuCs78cA2mg&t=222.2s)]
+*  that are still being held now, well over 200 days. [[00:03:46](https://www.youtube.com/watch?v=EuCs78cA2mg&t=226.4s)]
+*  And where are they? [[00:03:49](https://www.youtube.com/watch?v=EuCs78cA2mg&t=229.72s)]
+*  Word about their conditions. [[00:03:50](https://www.youtube.com/watch?v=EuCs78cA2mg&t=230.72s)]
+*  How are they doing? [[00:03:52](https://www.youtube.com/watch?v=EuCs78cA2mg&t=232.04s)]
+*  There's so much we don't know and Israel is still literally working to get their people [[00:03:53](https://www.youtube.com/watch?v=EuCs78cA2mg&t=233.04s)]
+*  back. [[00:03:56](https://www.youtube.com/watch?v=EuCs78cA2mg&t=236.92000000000002s)]
+*  I mean, that's something they say over and over again, bring them home. [[00:03:57](https://www.youtube.com/watch?v=EuCs78cA2mg&t=237.92000000000002s)]
+*  Is it working? [[00:04:01](https://www.youtube.com/watch?v=EuCs78cA2mg&t=241.28s)]
+*  Is the international community thinking about those young people? [[00:04:02](https://www.youtube.com/watch?v=EuCs78cA2mg&t=242.28s)]
+*  Yeah, you know, Molly, we can tell the Qatar government, Tamim, the Al Tamim family, and [[00:04:07](https://www.youtube.com/watch?v=EuCs78cA2mg&t=247.64000000000001s)]
+*  they were, you know, they kind of lean on us a little bit. [[00:04:13](https://www.youtube.com/watch?v=EuCs78cA2mg&t=253.96s)]
+*  We need to lean on them. [[00:04:16](https://www.youtube.com/watch?v=EuCs78cA2mg&t=256.56s)]
+*  We said, need to do one thing we need to do is get Hamas out of Qatar. [[00:04:17](https://www.youtube.com/watch?v=EuCs78cA2mg&t=257.56s)]
+*  And the second is somehow pressure the International Red Cross with Hamas leadership to find out [[00:04:21](https://www.youtube.com/watch?v=EuCs78cA2mg&t=261.52s)]
+*  about the hostages. [[00:04:25](https://www.youtube.com/watch?v=EuCs78cA2mg&t=265.82s)]
+*  And you're absolutely right about the women. [[00:04:26](https://www.youtube.com/watch?v=EuCs78cA2mg&t=266.82s)]
+*  My concern is, I don't think the numbers are going to be there. [[00:04:28](https://www.youtube.com/watch?v=EuCs78cA2mg&t=268.42s)]
+*  Originally, we thought 100, then it went down to 15. [[00:04:31](https://www.youtube.com/watch?v=EuCs78cA2mg&t=271.8s)]
+*  Now we're at around 30. [[00:04:35](https://www.youtube.com/watch?v=EuCs78cA2mg&t=275.0s)]
+*  I don't know if any of them are still alive. [[00:04:36](https://www.youtube.com/watch?v=EuCs78cA2mg&t=276.35999999999996s)]
+*  And that's the hard, that's really the heartbreaking part of this. [[00:04:38](https://www.youtube.com/watch?v=EuCs78cA2mg&t=278.2s)]
+*  Before I let you go, this is Memorial Day. [[00:04:41](https://www.youtube.com/watch?v=EuCs78cA2mg&t=281.35999999999996s)]
+*  And you know, I have young kids, I try to impart with them a love of America and an [[00:04:45](https://www.youtube.com/watch?v=EuCs78cA2mg&t=285.11999999999995s)]
+*  appreciation for the sacrifices that our troops have made and people serving. [[00:04:49](https://www.youtube.com/watch?v=EuCs78cA2mg&t=289.44s)]
+*  There's a headline. [[00:04:54](https://www.youtube.com/watch?v=EuCs78cA2mg&t=294.2s)]
+*  Peggy Noonan writes in the Wall Street Journal, teach your children to love America. [[00:04:55](https://www.youtube.com/watch?v=EuCs78cA2mg&t=295.2s)]
+*  She writes, quote, children are instructed in a hundred different ways through a hundred [[00:04:58](https://www.youtube.com/watch?v=EuCs78cA2mg&t=298.21999999999997s)]
+*  different portals that America is and always was a dark and scheming place that its history [[00:05:01](https://www.youtube.com/watch?v=EuCs78cA2mg&t=301.92s)]
+*  is the history of pushing people around often in an amoral quest for wealth, but also because [[00:05:06](https://www.youtube.com/watch?v=EuCs78cA2mg&t=306.40000000000003s)]
+*  we aren't very nice ideology and idiocy imposed this view shallowness to it began some decades [[00:05:11](https://www.youtube.com/watch?v=EuCs78cA2mg&t=311.68s)]
+*  ago, but has speeded up and become more extreme in the past 10 years. [[00:05:17](https://www.youtube.com/watch?v=EuCs78cA2mg&t=317.56s)]
+*  With that sort of sentiment out there with people that don't appreciate this country, [[00:05:22](https://www.youtube.com/watch?v=EuCs78cA2mg&t=322.20000000000005s)]
+*  how do we impart a love for America and appreciation for the people that serve to our children? [[00:05:26](https://www.youtube.com/watch?v=EuCs78cA2mg&t=326.20000000000005s)]
+*  Well, we just need to keep reminding them about the sacrifices and today is a day of [[00:05:32](https://www.youtube.com/watch?v=EuCs78cA2mg&t=332.52000000000004s)]
+*  reflection and remembrance of the sacrifices of those who've given them this freedom. [[00:05:37](https://www.youtube.com/watch?v=EuCs78cA2mg&t=337.6s)]
+*  This is not like Veterans Day. [[00:05:41](https://www.youtube.com/watch?v=EuCs78cA2mg&t=341.86s)]
+*  This is Memorial Day and we honor those that have fallen, you know, and this is something [[00:05:43](https://www.youtube.com/watch?v=EuCs78cA2mg&t=343.20000000000005s)]
+*  that we need to think about. [[00:05:47](https://www.youtube.com/watch?v=EuCs78cA2mg&t=347.36s)]
+*  You know, think about the families that sacrificed so much for the nation, about the moms who [[00:05:48](https://www.youtube.com/watch?v=EuCs78cA2mg&t=348.56s)]
+*  never were able to say goodbye to their sons and daughters and the fathers who maybe went [[00:05:52](https://www.youtube.com/watch?v=EuCs78cA2mg&t=352.96000000000004s)]
+*  into a back room and wept silently or the fathers and mothers who had to raise children [[00:05:56](https://www.youtube.com/watch?v=EuCs78cA2mg&t=356.72s)]
+*  on their own because their spouses were gone or the young children who were holding photographs, [[00:06:02](https://www.youtube.com/watch?v=EuCs78cA2mg&t=362.72s)]
+*  faded photographs of those people that have gone before them, their moms and dads, sons, [[00:06:08](https://www.youtube.com/watch?v=EuCs78cA2mg&t=368.28000000000003s)]
+*  brothers or sisters. [[00:06:12](https://www.youtube.com/watch?v=EuCs78cA2mg&t=372.8s)]
+*  And we just need to remind them all about that. [[00:06:13](https://www.youtube.com/watch?v=EuCs78cA2mg&t=373.8s)]
+*  Sometimes it's hard to remember that. [[00:06:16](https://www.youtube.com/watch?v=EuCs78cA2mg&t=376.6s)]
+*  You know, I remind everybody when you play the national anthem, when you think of the [[00:06:18](https://www.youtube.com/watch?v=EuCs78cA2mg&t=378.56s)]
+*  of the national anthem, it says, oh, say, can you see, or is it still the land of the [[00:06:22](https://www.youtube.com/watch?v=EuCs78cA2mg&t=382.96s)]
+*  free and the home of the brave? [[00:06:28](https://www.youtube.com/watch?v=EuCs78cA2mg&t=388.15999999999997s)]
+*  It's a question and you have to answer that hopefully in the affirmative. [[00:06:29](https://www.youtube.com/watch?v=EuCs78cA2mg&t=389.84s)]
+*  And then I think about today really hard and you think about that great poem, For the Fallen, [[00:06:33](https://www.youtube.com/watch?v=EuCs78cA2mg&t=393.79999999999995s)]
+*  by Lawrence Binion, who wrote it over a hundred years ago in the middle of the First World [[00:06:38](https://www.youtube.com/watch?v=EuCs78cA2mg&t=398.79999999999995s)]
+*  War when he said, at the falling of the sun, remember them. [[00:06:44](https://www.youtube.com/watch?v=EuCs78cA2mg&t=404.12s)]
+*  And you need to remember those that we lost. [[00:06:48](https://www.youtube.com/watch?v=EuCs78cA2mg&t=408.91999999999996s)]
+*  And it's a hard thing to do sometimes. [[00:06:51](https://www.youtube.com/watch?v=EuCs78cA2mg&t=411.32s)]
+*  And I know it comes to me pretty hard because I've lost a lot of soldiers in combat. [[00:06:52](https://www.youtube.com/watch?v=EuCs78cA2mg&t=412.91999999999996s)]
+*  But you have to remember the sacrifices they gave for this nation. [[00:06:57](https://www.youtube.com/watch?v=EuCs78cA2mg&t=417.59999999999997s)]
+*  And we need to impart that to our young men and women and those children growing up. [[00:07:00](https://www.youtube.com/watch?v=EuCs78cA2mg&t=420.96s)]
+*  Part of the challenge of remember the fallen. [[00:07:05](https://www.youtube.com/watch?v=EuCs78cA2mg&t=425.28s)]
+*  Lieutenant General Keith Kellogg, thank you very much. [[00:07:07](https://www.youtube.com/watch?v=EuCs78cA2mg&t=427.68s)]

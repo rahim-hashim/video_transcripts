@@ -1,0 +1,155 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 423s
+Video Keywords: ['gaza', 'gaza airstrikes', 'gaza bombings', 'gaza strip', 'hamas', 'hamas war', 'isarel hamas news', 'israel', 'israel defense forces', 'israel hamas', 'israel hamas war', 'israel war', 'israeli defense forces', 'jewish', 'news hamas', 'news israel', 'palestine', 'palestinians', 'world news israel', 'middle east', 'israel news', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news today']
+Video Views: 491358
+Video Rating: None
+Video Description: Former Secretary of State Mike Pompeo discusses the latest news emerging from the Israel-Hamas war as tensions in the Middle East continue to rise. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Biden admin is giving Iran the ‘green light,’ former secretary of state says
+**Fox News - Middle East:** [September 22, 2024](https://www.youtube.com/watch?v=Gh01qyYjqT8)
+*  This Sunday morning with the very latest out of Israel as we approach the one year mark [[00:00:00](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=0.0s)]
+*  since Hamas' deadly and unprovoked attacks on Israel last October 7th. [[00:00:03](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=3.94s)]
+*  This week a pivotal one as Israel launched a series of strikes Friday in Beirut and decimated [[00:00:09](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=9.200000000000001s)]
+*  the leadership of Hezbollah, capping a week of airstrikes across southern Lebanon, including [[00:00:14](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=14.38s)]
+*  covert attacks that caused electronic pagers and devices carried by thousands of Hezbollah [[00:00:19](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=19.36s)]
+*  terrorists to explode virtually simultaneously in a major blow to the terrorist group. [[00:00:24](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=24.2s)]
+*  Joining me now with a look at the week and its impact on the war on Israel is the former [[00:00:29](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=29.96s)]
+*  Secretary of State and Fox News contributor Mike Pompeo. [[00:00:33](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=33.3s)]
+*  Secretary, good to see you. [[00:00:36](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=36.64s)]
+*  Thanks so much for joining us. [[00:00:38](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=38.04s)]
+*  Great to be with you. [[00:00:40](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=40.6s)]
+*  Good morning Maria. [[00:00:41](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=41.6s)]
+*  How would you assess this past week? [[00:00:42](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=42.6s)]
+*  How important was this week in terms of these covert actions from Israel on Hezbollah? [[00:00:43](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=43.6s)]
+*  So it was a big week, an important week where the Israelis sent a message they're no longer [[00:00:50](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=50.72s)]
+*  keeping 80 or 90,000 people out of their homes in northern Israel. [[00:00:56](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=56.74s)]
+*  They're going to come solve that problem. [[00:01:00](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=60.940000000000005s)]
+*  And so a brilliant operation for sure with respect to the pagers sent a message that [[00:01:02](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=62.86s)]
+*  says we can reach you, we can touch you. [[00:01:08](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=68.18s)]
+*  This is the first act in a multi-series multi-act play. [[00:01:10](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=70.02000000000001s)]
+*  Hezbollah surely knows that and its leader Nasrallah must be calculating. [[00:01:14](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=74.5s)]
+*  How far is Tehran willing to go to back me to continue to push on Israel while Israel [[00:01:19](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=79.02000000000001s)]
+*  is wiping Hamas off the face of the earth and about to do the same to me? [[00:01:25](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=85.14s)]
+*  So a big strategic week for Israel. [[00:01:29](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=89.38s)]
+*  Clearly they've made a decision that they can no longer live with seven, eight, nine [[00:01:31](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=91.66s)]
+*  thousand precision guided munitions sitting on the suburbs of Beirut and around them. [[00:01:35](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=95.94s)]
+*  And they're going to go for it. [[00:01:41](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=101.38s)]
+*  Iran now has a tough decision and sadly it is not feeling any threat from the United [[00:01:42](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=102.38s)]
+*  States of America in terms of responding to what Iran has been doing these last 50 weeks [[00:01:46](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=106.48s)]
+*  since October 7th of last year. [[00:01:50](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=110.7s)]
+*  Yeah, I want to ask you about Iran and this failure of deterrence on the U.S. as part. [[00:01:52](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=112.7s)]
+*  But first, I thought it was really interesting that the U.S. comes out after the explosions [[00:01:56](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=116.54s)]
+*  of the pagers and devices and says we knew nothing about this. [[00:02:00](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=120.94s)]
+*  What does that tell you in terms of Israel sharing information with the U.S. now? [[00:02:05](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=125.10000000000001s)]
+*  Maria, this is really important. [[00:02:09](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=129.74s)]
+*  This tells you all you need to know about the Israeli's trust of the United States [[00:02:12](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=132.78s)]
+*  today. [[00:02:17](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=137.1s)]
+*  If they had an operation like that, they almost always would have notified the United [[00:02:18](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=138.1s)]
+*  States in the advance of the attack. [[00:02:21](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=141.82s)]
+*  But this time, no, this time they didn't notify us probably because they felt like the Biden [[00:02:24](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=144.29999999999998s)]
+*  administration would tell them no, you can't do this. [[00:02:28](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=148.34s)]
+*  If you do this, we will go to the U.N., we will hold up weapon systems. [[00:02:30](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=150.26s)]
+*  And so they said, you know, what the heck, we're just going to do this. [[00:02:33](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=153.98s)]
+*  We'll ask for forgiveness. [[00:02:36](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=156.5s)]
+*  That is a deep breach of trust, a way that we didn't have while we were in office for [[00:02:38](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=158.22s)]
+*  four years. [[00:02:42](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=162.88s)]
+*  And frankly, the United States and Israel haven't had for a long time. [[00:02:43](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=163.98s)]
+*  The Israelis don't trust us. [[00:02:46](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=166.78s)]
+*  And frankly, our friends, the Gulf Arab states in the region have no confidence in us either. [[00:02:48](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=168.42s)]
+*  That's unbelievable. [[00:02:53](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=173.04s)]
+*  So where does this go? [[00:02:54](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=174.04s)]
+*  What does this mean? [[00:02:55](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=175.22s)]
+*  We haven't really heard any articulate response from Kamala Harris in terms of her plans regarding [[00:02:56](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=176.22s)]
+*  foreign policy. [[00:03:01](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=181.42000000000002s)]
+*  You're not going to hear anything from Vice President Harris on this because we've that's [[00:03:04](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=184.9s)]
+*  different from what you saw during eight years of President Obama and now four years of her [[00:03:07](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=187.98s)]
+*  and President Biden's leadership. [[00:03:12](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=192.66s)]
+*  Their theory of the case is appease the Iranians, negotiate with them. [[00:03:14](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=194.9s)]
+*  There are moderates there. [[00:03:18](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=198.38s)]
+*  We can all sing Kumbaya and find our way forward when the reality is the Iranians have now [[00:03:19](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=199.38s)]
+*  taken six billion dollars from the United States in exchange for hostages, now holding [[00:03:24](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=204.42000000000002s)]
+*  more American hostages in Gaza. [[00:03:30](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=210.22s)]
+*  They killed 1200 Israeli and American citizens on October 7th. [[00:03:32](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=212.58s)]
+*  And our response has been, hey, can we just get a ceasefire? [[00:03:37](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=217.06s)]
+*  This is this this signals to the world that America has left the global stage. [[00:03:40](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=220.9s)]
+*  We're not prepared to defend the things that matter to us. [[00:03:44](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=224.94s)]
+*  And the risk of escalation resulting from this American weakness, this failure of deterrence [[00:03:47](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=227.70000000000002s)]
+*  is very real. [[00:03:51](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=231.9s)]
+*  These last what, three and a half months of the Biden administration. [[00:03:53](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=233.06s)]
+*  Well, this is really discouraging. [[00:03:56](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=236.9s)]
+*  And I want to get your take on how that plays out in terms of this failure of deterrence. [[00:03:59](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=239.3s)]
+*  You've said this many times, the fact that this administration has failed to deter Iran [[00:04:03](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=243.86s)]
+*  and that's why they just keep doing it, supporting all of these proxies. [[00:04:09](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=249.57999999999998s)]
+*  No, that's exactly right. [[00:04:14](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=254.66s)]
+*  Think about all that's going on while Vice President Harris tells the world in a debate [[00:04:15](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=255.73999999999998s)]
+*  that there's no Americans in combat in harm's way. [[00:04:20](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=260.5s)]
+*  Our our sailors are sitting in the Red Sea and in the Mediterranean, coming under all [[00:04:23](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=263.38s)]
+*  kinds of threats from drones and missiles. [[00:04:28](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=268.06s)]
+*  We've had sailors killed in this effort. [[00:04:30](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=270.7s)]
+*  We've got soldiers still in the Middle East, and yet they claim nothing to see here, folks. [[00:04:33](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=273.86s)]
+*  If you're the Ayatollah, that is a absolute green light to continue to threaten the Israelis, [[00:04:38](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=278.7s)]
+*  continue to threaten the Saudis and the Emiratis. [[00:04:44](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=284.38s)]
+*  And frankly, if you're Xi Jinping or Vladimir Putin in those other theaters that are deeply [[00:04:46](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=286.98s)]
+*  connected as well, you say this is the time for us to go, this is the time for us to [[00:04:51](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=291.3s)]
+*  seize the moment when America is either absent or way on its back foot. [[00:04:56](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=296.38s)]
+*  And Vice President Harris has nothing to add on this topic different from what they've [[00:05:00](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=300.9s)]
+*  done for these last three and a half years. [[00:05:04](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=304.54s)]
+*  Secretary, we just showed a graphic of all of the people who have been eliminated at [[00:05:06](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=306.3s)]
+*  the top of Hezbollah. [[00:05:11](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=311.54s)]
+*  I want to get your take on whether or not the U.S. is, in fact, supplying Israel with [[00:05:12](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=312.90000000000003s)]
+*  what it needs. [[00:05:18](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=318.38s)]
+*  Are we in fact, because I know there are voters out there who have become one issue voters [[00:05:19](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=319.38s)]
+*  and they were very upset that the administration, the Biden-Harris administration, held back [[00:05:24](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=324.82s)]
+*  weapons to Israel during the literally the fight of its life. [[00:05:30](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=330.34000000000003s)]
+*  So my question is, are we supplying what fully IDF needs to defend its people? [[00:05:35](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=335.1s)]
+*  What about replenishing the Iron Dome ordinance? [[00:05:39](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=339.9s)]
+*  What can you tell us? [[00:05:42](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=342.66s)]
+*  So from what I know, we provided them with a great deal of sustainment support that they [[00:05:45](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=345.78000000000003s)]
+*  need. [[00:05:50](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=350.62s)]
+*  But Maria, here's the thing about it is it's always come with restrictions. [[00:05:51](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=351.62s)]
+*  We've threatened to pull it if they don't come to Cairo and talk about a ceasefire, [[00:05:55](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=355.62s)]
+*  which would be a total gift to Hamas terrorists. [[00:05:59](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=359.98s)]
+*  We've threatened to withhold it if they don't comply with the rule of armed conflict. [[00:06:03](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=363.46s)]
+*  Goodness gracious, the Israeli Defense Forces, much like American forces, understand deeply [[00:06:08](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=368.18s)]
+*  that there's a set of rules for how to conduct conflict. [[00:06:12](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=372.85999999999996s)]
+*  The Pager exercise was a precision strike against Hezbollah leadership, for goodness [[00:06:15](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=375.5s)]
+*  sake. [[00:06:19](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=379.74s)]
+*  And so there's always restrictions. [[00:06:20](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=380.74s)]
+*  There's always hesitancy. [[00:06:21](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=381.97999999999996s)]
+*  What we've not done is we have told the Israelis, you tell us what you need, we'll make sure [[00:06:23](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=383.29999999999995s)]
+*  that you have it. [[00:06:27](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=387.7s)]
+*  We are not going to confine you when you're trying to defend yourself because we understand [[00:06:28](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=388.7s)]
+*  that the fight you're undertaking is against Iran, against the leadership in Tehran, and [[00:06:32](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=392.26s)]
+*  it is a fight that we're engaged in as well because they want to wipe us off the map in [[00:06:36](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=396.94s)]
+*  the same way they seek to destroy Israel. [[00:06:41](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=401.18s)]
+*  Unbelievable. [[00:06:43](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=403.94s)]
+*  Secretary, great to get your insights. [[00:06:44](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=404.94s)]
+*  We so appreciate your time this morning. [[00:06:46](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=406.21999999999997s)]
+*  Thank you, Maria. [[00:06:47](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=407.46s)]
+*  Thank you, sir. [[00:06:48](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=408.46s)]
+*  Have a great morning. [[00:06:49](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=409.46s)]
+*  And to you, former Secretary of State Mike Pompeo. [[00:06:50](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=410.46s)]
+*  Thank you. [[00:07:02](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=422.26s)]
+*  Thank you. [[00:07:03](https://www.youtube.com/watch?v=Gh01qyYjqT8&t=423.26s)]

@@ -1,0 +1,56 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 372s
+Video Keywords: ['fox news', 'fox news channel', 'president biden', 'shannon bream', 'fox news network', 'joe biden', 'president joe biden', 'biden administration', 'shannon bream fox news', 'middle east', 'israel hezbollah latest news', 'israel hezbollah attack', 'israel hezbollah', 'foreign policy', 'trump', 'donald trump', 'kamala harris', 'trump vs. harris', 'kamala', 'law and order', 'joe biden supreme court', 'supreme court reform', 'biden scotus', 'scotus', 'scotus reform', 'trump harris debate']
+Video Views: 143154
+Video Rating: None
+Video Description: 'Fox News Sunday' anchor Shannon Bream weighs in on foreign policy amid the war in Israel, the match-up between Trump and Harris, and reports of Biden unveiling a Supreme Court reform proposal. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# This is a shift for Biden: Shannon Bream
+**Fox News - Fox and Friends:** [July 28, 2024](https://www.youtube.com/watch?v=ks4OtcG2RFI)
+*  Let's bring in Fox News Sunday anchor Shannon Bream to talk about all of this and all the news this morning. And Shannon we're we're at a situation where the war in Israel is now one of our top stories again. And now we're dealing with Joe Biden who is a lame duck president and everybody. [[00:00:00](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=0.0s)]
+*  Everybody's going to be looking to see how Kamala Harris responds to this. Yeah. And I think people always feel a sense of worry or of heightened concern during a time of transition. And now that we know that President Biden is going to be a lame duck president he's got six months left. [[00:00:14](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=14.52s)]
+*  He's got a very ambitious slate of things he wants to get accomplished. A lot of that has to do with the Middle East. But in talking to friends who live in that region they are very worried that if Hezbollah that goes into a full fledged conflict it is much more you know existential. [[00:00:28](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=28.94s)]
+*  It is a much better equipped opponent for Israel than even the tragedy of what's going on in Gaza. So there is great concern. You see Secretary Blinken out there saying we don't need this to escalate. But it's a very real issue. And you have to wonder if people are enemies. Look around and see and feel a time of weakness here in the U.S. [[00:00:45](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=45.74s)]
+*  So obviously this is going to be playing loom large in the campaign. We've just got 100 days left and already we're starting to hear President Trump kind of refine his attacks on Kamala Harris. Listen to this. [[00:01:04](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=64.72s)]
+*  Every voter in Minnesota needs to know that when the violent mobs of anarchists and looters and Marxists came to burn down Minneapolis four years ago remember me I couldn't get your governor to act. He's supposed to call in the National Guard or the army and he didn't do it. I couldn't get your governor. [[00:01:18](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=78.74s)]
+*  So I sent in the National Guard to save Minneapolis while Kamala Harris sided with the arsonists and rioters and raised money to bail out the criminals bail them all out of jail. [[00:01:42](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=102.54s)]
+*  Ultra liberal Kamala Harris will deliver crime chaos mayhem and death to our country. I will restore law and order justice in America. [[00:01:57](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=117.53999999999999s)]
+*  So Kamala Harris might try to run as a law and order candidate but it doesn't sound like former President Trump's going to let her do that quietly. [[00:02:11](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=131.94s)]
+*  Yeah it sounds like this is where they're really going to clash. She's going to say as she has been saying I'm a former prosecutor he's a convicted felon he's going to say she's really progressive when it came down to the situation in Minneapolis that posting on X then known as Twitter by the vice president at the time is still there urging people to vote to this Minnesota Freedom Fund which was bailing people out and there were people connected to that who eventually were either convicted or pled to charges like murder and rape and other violent crimes. So that's something that you'll have to talk about. But you and I [[00:02:19](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=139.54s)]
+*  Charlie talked about this on the 5 on Friday. She described herself as a progressive prosecutor saying that she sees essentially two victims in a crime the crime victim and possibly as well the accused or the suspect being a victim of the criminal justice system. [[00:02:49](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=169.54s)]
+*  So those are things that are in her own words that those two are clearly going to spar about. You know Shannon I want to ask you we were observing earlier in the show how it feels like we have all lived about a year's worth of history in the last month. [[00:03:04](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=184.14s)]
+*  And one thing that strikes me is your guest on Fox News Sunday coming up is Pete Buttigieg. He and a number of other people out there in the Democratic Party mainstream folks within that world they have been trying to talk about Trump maybe [[00:03:17](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=197.94s)]
+*  renegotiating the possible debate situation against Kamala Harris. He has a brand new opponent after all in this race. And they're coming after Trump calling him weak and a coward and afraid and things like that. [[00:03:31](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=211.5s)]
+*  He was shot two weeks ago Shannon and they're they're using words like weak and cowardly to describe him that way almost as if they've completely moved on and forgotten what happened in Pennsylvania. [[00:03:44](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=224.45999999999998s)]
+*  Cannot believe that was two weeks and one day ago and that iconic photo that we saw so much in the first three or four days after that shooting. It's been memory hold I think by a lot of people because it telegraphs something different than weakness for a lot of folks when they see that image. [[00:03:56](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=236.26s)]
+*  Others have referred to it. Oh it's propaganda. It's a moment in history. I mean it's a picture. And the fact is that President Trump earlier this week said yeah I'm going to debate her. I mean you've got it. You owe that to the American people. [[00:04:10](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=250.82s)]
+*  And I think they do. This is a different match up. They both need to come explain where they are on any number of issues foreign policy and crime and domestic and inflation and all of those things. So it sounds like in the Trump campaign keep saying yes he's going to do it. [[00:04:21](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=261.94s)]
+*  He wants the dust to settle with Democrats. She's got to be officially the nominee. So I think that they're very much going to show up and I'm going to be popping my popcorn. I think most of America are we all the popcorn stocks are through the roof with all this political theater that is before our eyes these past few weeks. [[00:04:34](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=274.26s)]
+*  Okay so during Joe Biden's Oval Office address when he talked about not running for reelection he said something about how in the time he has remaining in office he wants to focus on Supreme Court reform and now he's reportedly going to announce those Supreme Court reform plans tomorrow. [[00:04:50](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=290.82s)]
+*  What are you hearing about this. So what we're getting a glimpse of is potentially proposing term limits and enforceable ethics code with some outside body overseeing the Supreme Court. And listen this is a shift for him because remember even in the last couple of years he said no I don't think you should add seats or do any of these radical things that are being called for now whether he'll call for seat adding. I don't think so. And what we know of the proposal so far but they are going to be changes potentially to the court. Here's the thing we all know with the current House and Senate those things are going to get passed. [[00:05:08](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=308.26s)]
+*  So essentially what this sounds like is something to give another issue to the campaign trail and we'll see what the vice president does if she endorses these tomorrow too because it'll give them something hopefully I think for them to drive out their base. [[00:05:38](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=338.26s)]
+*  But it is still pretty remarkable considering this is a guy who spent 50 years as kind of an institutionalist in the Senate on the Senate Judiciary Committee and then suddenly he gets into a pinch and he wants to throw out the Supreme Court kind of maybe he now has decided the term limits and aging and those [[00:05:51](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=351.09999999999997s)]
+*  questions are important ones to consider. [[00:06:07](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=367.9s)]
+*  Exactly. Now that he's been shown the door. [[00:06:10](https://www.youtube.com/watch?v=ks4OtcG2RFI&t=370.46s)]

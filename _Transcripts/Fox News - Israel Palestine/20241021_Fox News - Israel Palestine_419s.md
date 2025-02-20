@@ -1,0 +1,158 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 419s
+Video Keywords: ['2024 presidential election', 'Donald Trump', 'Florida', 'Florida elections', 'Fox News', 'Hamas', 'Iran', 'Israel Iran war', 'Israel leaked documents', 'Kamala Harris', 'Marco Rubio', 'Marth MacCallum', 'Rick Scott', 'The Story', 'The Story with Marth MacCallum', 'Tom Cotton', 'Trump 2024', 'election', 'fnc', 'leaked documents', 'classified documents', 'classified information', 'breaking news', 'world news', 'us news', 'national security', 'leaked documents pentagon', 'pentagon documents', 'classified documents leaked']
+Video Views: 668974
+Video Rating: None
+Video Description: Republican Sens. Marco Rubio, Rick Scott, and Tom Cotton join 'The Story' to discuss the leak of classified documents about Israel's planned strike on Iran. #foxnews #thestory 
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'ACT OF TREASON': US senators vow to punish top secret document leakers
+**Fox News - Israel Palestine:** [October 21, 2024](https://www.youtube.com/watch?v=Sy07GIShgh4)
+*  Top secret American intelligence documents about Israel's possible response to Iran's [[00:00:00](https://www.youtube.com/watch?v=Sy07GIShgh4&t=0.0s)]
+*  missile attack this month reportedly ending up on the internet. [[00:00:07](https://www.youtube.com/watch?v=Sy07GIShgh4&t=7.92s)]
+*  And John Kirby has authenticated, he said the documents are real. [[00:00:12](https://www.youtube.com/watch?v=Sy07GIShgh4&t=12.4s)]
+*  The Wall Street Journal reported that they include Israel's preparations for a strike, [[00:00:15](https://www.youtube.com/watch?v=Sy07GIShgh4&t=15.24s)]
+*  but not potential targets. [[00:00:19](https://www.youtube.com/watch?v=Sy07GIShgh4&t=19.72s)]
+*  The document is posted on a site that calls itself independent, but is considered pro-Iran. [[00:00:21](https://www.youtube.com/watch?v=Sy07GIShgh4&t=21.76s)]
+*  It says that it got a tip about the files and has no connection to the original source. [[00:00:26](https://www.youtube.com/watch?v=Sy07GIShgh4&t=26.44s)]
+*  We have three Republican senators with us. [[00:00:31](https://www.youtube.com/watch?v=Sy07GIShgh4&t=31.76s)]
+*  Senator Marco Rubio of Florida, vice chair of the Intelligence Committee, Tom Cotton of [[00:00:34](https://www.youtube.com/watch?v=Sy07GIShgh4&t=34.28s)]
+*  Arkansas who serves on intelligence and armed services, and Senator Rick Scott of Florida [[00:00:38](https://www.youtube.com/watch?v=Sy07GIShgh4&t=38.64s)]
+*  on armed services and homeland security. [[00:00:43](https://www.youtube.com/watch?v=Sy07GIShgh4&t=43.16s)]
+*  Today they're all together in Boca Raton, Florida at a get out the vote rally. [[00:00:45](https://www.youtube.com/watch?v=Sy07GIShgh4&t=45.52s)]
+*  Gentlemen and senators, very good to see you. [[00:00:49](https://www.youtube.com/watch?v=Sy07GIShgh4&t=49.68000000000001s)]
+*  Thank you very much for being with us today. [[00:00:51](https://www.youtube.com/watch?v=Sy07GIShgh4&t=51.44s)]
+*  Thank you. [[00:00:53](https://www.youtube.com/watch?v=Sy07GIShgh4&t=53.760000000000005s)]
+*  So Senator Rubio, if I... [[00:00:55](https://www.youtube.com/watch?v=Sy07GIShgh4&t=55.04s)]
+*  It's great to be with you. [[00:00:56](https://www.youtube.com/watch?v=Sy07GIShgh4&t=56.04s)]
+*  It's great to have you all. [[00:00:57](https://www.youtube.com/watch?v=Sy07GIShgh4&t=57.04s)]
+*  It's great to be with my colleagues. [[00:00:58](https://www.youtube.com/watch?v=Sy07GIShgh4&t=58.04s)]
+*  Thank you. [[00:00:59](https://www.youtube.com/watch?v=Sy07GIShgh4&t=59.04s)]
+*  So Senator Rubio, let me start with you and get your reaction to this leak of U.S. intelligence [[00:01:00](https://www.youtube.com/watch?v=Sy07GIShgh4&t=60.04s)]
+*  and what it understands about the impending Israeli retaliation against Iran. [[00:01:06](https://www.youtube.com/watch?v=Sy07GIShgh4&t=66.28s)]
+*  Well, it's both a federal crime to leak that information, it's also an act of treason. [[00:01:12](https://www.youtube.com/watch?v=Sy07GIShgh4&t=72.92s)]
+*  It's an aiding an enemy of the United States, a government in Iran that basically says death [[00:01:18](https://www.youtube.com/watch?v=Sy07GIShgh4&t=78.48s)]
+*  to America, death to Israel. [[00:01:22](https://www.youtube.com/watch?v=Sy07GIShgh4&t=82.72s)]
+*  Every week, it's their slogan. [[00:01:24](https://www.youtube.com/watch?v=Sy07GIShgh4&t=84.52s)]
+*  So one of the important reasons why we need to have a majority is that we are in the majority, [[00:01:26](https://www.youtube.com/watch?v=Sy07GIShgh4&t=86.2s)]
+*  I guarantee you, we will be investigating not just that, but other strategic leaks that [[00:01:29](https://www.youtube.com/watch?v=Sy07GIShgh4&t=89.6s)]
+*  have been designed to undermine American foreign policy and in many cases to help avowed enemies [[00:01:33](https://www.youtube.com/watch?v=Sy07GIShgh4&t=93.32s)]
+*  of the United States. [[00:01:37](https://www.youtube.com/watch?v=Sy07GIShgh4&t=97.96s)]
+*  That needs to stop, that needs to end. [[00:01:38](https://www.youtube.com/watch?v=Sy07GIShgh4&t=98.96s)]
+*  We need to know who did this and they need to be punished. [[00:01:40](https://www.youtube.com/watch?v=Sy07GIShgh4&t=100.68s)]
+*  Yeah, I mean... [[00:01:42](https://www.youtube.com/watch?v=Sy07GIShgh4&t=102.47999999999999s)]
+*  And an enthusiastic response from the crowd there. [[00:01:43](https://www.youtube.com/watch?v=Sy07GIShgh4&t=103.47999999999999s)]
+*  Senator Tom Cotton, you know, there's a lot of speculation about where this might be coming [[00:01:47](https://www.youtube.com/watch?v=Sy07GIShgh4&t=107.47999999999999s)]
+*  from and in the past there have been some strategic leaks of information to Iran and [[00:01:53](https://www.youtube.com/watch?v=Sy07GIShgh4&t=113.24000000000001s)]
+*  both parties sort of have their ways of dealing with Iran quite differently. [[00:01:58](https://www.youtube.com/watch?v=Sy07GIShgh4&t=118.88s)]
+*  What is your take on what happened here and how dangerous is it really? [[00:02:04](https://www.youtube.com/watch?v=Sy07GIShgh4&t=124.4s)]
+*  Well, Martha, without confirming or denying the information that was in this leak, we [[00:02:08](https://www.youtube.com/watch?v=Sy07GIShgh4&t=128.84s)]
+*  shouldn't be surprised that we've seen from this administration more than a year's worth [[00:02:15](https://www.youtube.com/watch?v=Sy07GIShgh4&t=135.16s)]
+*  of leaks hostile to Israel. [[00:02:19](https://www.youtube.com/watch?v=Sy07GIShgh4&t=139.64s)]
+*  From the very top to the very bottom, they're packed with people who are hostile to Israel [[00:02:21](https://www.youtube.com/watch?v=Sy07GIShgh4&t=141.56s)]
+*  and sympathetic to Iran and its terror networks, from Kamala Harris who puts more pressure [[00:02:26](https://www.youtube.com/watch?v=Sy07GIShgh4&t=146.07999999999998s)]
+*  on Israel than she does on Iran or her own national security adviser who associates with [[00:02:30](https://www.youtube.com/watch?v=Sy07GIShgh4&t=150.48s)]
+*  known Iranian influence agents in the administration, at the State Department, at the Pentagon. [[00:02:35](https://www.youtube.com/watch?v=Sy07GIShgh4&t=155.6s)]
+*  So we've seen this pattern for a year. [[00:02:42](https://www.youtube.com/watch?v=Sy07GIShgh4&t=162.6s)]
+*  After this election though, it's going to stop. [[00:02:45](https://www.youtube.com/watch?v=Sy07GIShgh4&t=165.44s)]
+*  It starts right here in Florida with re-electing Rick Scott but also electing a Republican [[00:02:47](https://www.youtube.com/watch?v=Sy07GIShgh4&t=167.36s)]
+*  majority and electing President Trump because we will back Israel to the hilt and we'll [[00:02:50](https://www.youtube.com/watch?v=Sy07GIShgh4&t=170.96s)]
+*  make sure that Israel wins. [[00:02:56](https://www.youtube.com/watch?v=Sy07GIShgh4&t=176.36s)]
+*  Our own Rich Edson just asked Corrine Jean-Pierre about this and she basically, Senator Scott, [[00:02:57](https://www.youtube.com/watch?v=Sy07GIShgh4&t=177.96s)]
+*  she pushed off to the DOJ and the DOD, the Department of Defense, she said we really [[00:03:05](https://www.youtube.com/watch?v=Sy07GIShgh4&t=185.60000000000002s)]
+*  can't answer any questions from the podium about how this information on what Israel [[00:03:12](https://www.youtube.com/watch?v=Sy07GIShgh4&t=192.72s)]
+*  may be preparing against Iran, how it got out. [[00:03:18](https://www.youtube.com/watch?v=Sy07GIShgh4&t=198.07999999999998s)]
+*  Well, first off, I think we all have to respect and admire what Netanyahu has done. [[00:03:23](https://www.youtube.com/watch?v=Sy07GIShgh4&t=203.07999999999998s)]
+*  He hasn't listened to Biden, he hasn't listened to Harris and he's defended his country. [[00:03:28](https://www.youtube.com/watch?v=Sy07GIShgh4&t=208.24s)]
+*  So we have to respect what he's done and we've got to do everything we can to help him. [[00:03:32](https://www.youtube.com/watch?v=Sy07GIShgh4&t=212.51999999999998s)]
+*  And I agree with my colleagues, whoever did this has to be held accountable and when we [[00:03:36](https://www.youtube.com/watch?v=Sy07GIShgh4&t=216.2s)]
+*  win the majority in the Senate, when Donald Trump is the President, Israel will be supported [[00:03:40](https://www.youtube.com/watch?v=Sy07GIShgh4&t=220.2s)]
+*  and we will not ever allow this to happen again. [[00:03:44](https://www.youtube.com/watch?v=Sy07GIShgh4&t=224.51999999999998s)]
+*  Senator Rubio, I know you're there to support Senator Scott. [[00:03:50](https://www.youtube.com/watch?v=Sy07GIShgh4&t=230.56s)]
+*  He is in a race that has tightened a little bit. [[00:03:54](https://www.youtube.com/watch?v=Sy07GIShgh4&t=234.35999999999999s)]
+*  Some of the polls show him up by about five, another poll shows him up by only two. [[00:03:58](https://www.youtube.com/watch?v=Sy07GIShgh4&t=238.92s)]
+*  What's your take on what's happening in Florida? [[00:04:04](https://www.youtube.com/watch?v=Sy07GIShgh4&t=244.35999999999999s)]
+*  Senator Scott is sitting right there next to you in that race. [[00:04:07](https://www.youtube.com/watch?v=Sy07GIShgh4&t=247.4s)]
+*  Well, first of all, this is the hardest working person I know in the Senate. [[00:04:11](https://www.youtube.com/watch?v=Sy07GIShgh4&t=251.36s)]
+*  I can tell you that. [[00:04:15](https://www.youtube.com/watch?v=Sy07GIShgh4&t=255.28s)]
+*  If our voters work as hard for him as he works for them, he's going to win. [[00:04:16](https://www.youtube.com/watch?v=Sy07GIShgh4&t=256.28000000000003s)]
+*  He's going to win big. [[00:04:19](https://www.youtube.com/watch?v=Sy07GIShgh4&t=259.08s)]
+*  But we don't just have to win the presidential race, we have to win these Senate races. [[00:04:20](https://www.youtube.com/watch?v=Sy07GIShgh4&t=260.16s)]
+*  It starts here in Florida. [[00:04:23](https://www.youtube.com/watch?v=Sy07GIShgh4&t=263.52s)]
+*  We definitely have to win here. [[00:04:24](https://www.youtube.com/watch?v=Sy07GIShgh4&t=264.52s)]
+*  This is home territory for us. [[00:04:25](https://www.youtube.com/watch?v=Sy07GIShgh4&t=265.56s)]
+*  We've got a great Senator. [[00:04:27](https://www.youtube.com/watch?v=Sy07GIShgh4&t=267.18s)]
+*  We need to keep him there. [[00:04:28](https://www.youtube.com/watch?v=Sy07GIShgh4&t=268.18s)]
+*  But we need to win these other seats around the country. [[00:04:29](https://www.youtube.com/watch?v=Sy07GIShgh4&t=269.18s)]
+*  Donald Trump's going to become President if he doesn't have a Senate majority starting [[00:04:31](https://www.youtube.com/watch?v=Sy07GIShgh4&t=271.08000000000004s)]
+*  here in Florida, including Texas and other places, keeping what we have. [[00:04:34](https://www.youtube.com/watch?v=Sy07GIShgh4&t=274.28s)]
+*  But he doesn't have a Senate majority. [[00:04:37](https://www.youtube.com/watch?v=Sy07GIShgh4&t=277.2s)]
+*  He can't get his people confirmed. [[00:04:38](https://www.youtube.com/watch?v=Sy07GIShgh4&t=278.88s)]
+*  Chuck Schumer's not going to confirm any of the people that he needs on his team to get [[00:04:40](https://www.youtube.com/watch?v=Sy07GIShgh4&t=280.64s)]
+*  his agenda for America done. [[00:04:44](https://www.youtube.com/watch?v=Sy07GIShgh4&t=284.44s)]
+*  But it begins here. [[00:04:46](https://www.youtube.com/watch?v=Sy07GIShgh4&t=286.32s)]
+*  And if you're watching from Florida, I encourage you, early voting has started. [[00:04:47](https://www.youtube.com/watch?v=Sy07GIShgh4&t=287.32s)]
+*  You can go vote in person now today. [[00:04:50](https://www.youtube.com/watch?v=Sy07GIShgh4&t=290.71999999999997s)]
+*  And if you're one of these people that don't live in Florida but you vote here because [[00:04:53](https://www.youtube.com/watch?v=Sy07GIShgh4&t=293.0s)]
+*  you're here part of the year, and you have a ballot sitting in your home, put that thing [[00:04:55](https://www.youtube.com/watch?v=Sy07GIShgh4&t=295.52s)]
+*  back because your opinion on this only really matters if you cast that vote for Rick Scott, [[00:05:01](https://www.youtube.com/watch?v=Sy07GIShgh4&t=301.04s)]
+*  for Donald Trump, and for our whole ticket. [[00:05:06](https://www.youtube.com/watch?v=Sy07GIShgh4&t=306.52000000000004s)]
+*  Senator Cotton, I know that Senator Rubio just mentioned that tightening race between [[00:05:08](https://www.youtube.com/watch?v=Sy07GIShgh4&t=308.64000000000004s)]
+*  Ted Cruz and Colin Allred in the state of Texas. [[00:05:14](https://www.youtube.com/watch?v=Sy07GIShgh4&t=314.40000000000003s)]
+*  What is your take on what's happening? [[00:05:18](https://www.youtube.com/watch?v=Sy07GIShgh4&t=318.72s)]
+*  Because I know that you all would love to win West Virginia and hopefully Montana, but [[00:05:20](https://www.youtube.com/watch?v=Sy07GIShgh4&t=320.14000000000004s)]
+*  you don't want to lose Texas. [[00:05:24](https://www.youtube.com/watch?v=Sy07GIShgh4&t=324.24s)]
+*  That's going to put you in a tough position. [[00:05:25](https://www.youtube.com/watch?v=Sy07GIShgh4&t=325.9s)]
+*  Well, obviously, we want to re-elect all of our great incumbents. [[00:05:27](https://www.youtube.com/watch?v=Sy07GIShgh4&t=327.34s)]
+*  That starts with Rick Scott right here in Florida, but it's also in states like Texas [[00:05:33](https://www.youtube.com/watch?v=Sy07GIShgh4&t=333.14s)]
+*  with Ted Cruz or Nebraska with Deb Fisher. [[00:05:36](https://www.youtube.com/watch?v=Sy07GIShgh4&t=336.58s)]
+*  I know everyone's focused a lot on the pickup opportunities we have, and we've got a lot [[00:05:39](https://www.youtube.com/watch?v=Sy07GIShgh4&t=339.21999999999997s)]
+*  of them, but we've got to make sure that we return our great Republican senators like [[00:05:42](https://www.youtube.com/watch?v=Sy07GIShgh4&t=342.41999999999996s)]
+*  Rick Scott, like Ted Cruz, like Deb Fisher. [[00:05:46](https://www.youtube.com/watch?v=Sy07GIShgh4&t=346.09999999999997s)]
+*  But then we've got to go out and expose all those Democrats who vote 100% of the time [[00:05:48](https://www.youtube.com/watch?v=Sy07GIShgh4&t=348.73999999999995s)]
+*  with Joe Biden, Kamala Harris, and Washington. [[00:05:52](https://www.youtube.com/watch?v=Sy07GIShgh4&t=352.78s)]
+*  But then they go back to places like Montana for John Tester, Ohio for Sherrod Brown, and [[00:05:55](https://www.youtube.com/watch?v=Sy07GIShgh4&t=355.18s)]
+*  act like they're right there with Donald Trump. [[00:05:59](https://www.youtube.com/watch?v=Sy07GIShgh4&t=359.18s)]
+*  They're his wingman. [[00:06:01](https://www.youtube.com/watch?v=Sy07GIShgh4&t=361.1s)]
+*  They're fighting alongside of him. [[00:06:02](https://www.youtube.com/watch?v=Sy07GIShgh4&t=362.22s)]
+*  Don't believe it for a second. [[00:06:03](https://www.youtube.com/watch?v=Sy07GIShgh4&t=363.62s)]
+*  Get out and vote Republican. [[00:06:04](https://www.youtube.com/watch?v=Sy07GIShgh4&t=364.62s)]
+*  Final thoughts from Senator Scott? [[00:06:05](https://www.youtube.com/watch?v=Sy07GIShgh4&t=365.62s)]
+*  Let's say it again. [[00:06:07](https://www.youtube.com/watch?v=Sy07GIShgh4&t=367.62s)]
+*  Final thoughts from you, Senator Scott. [[00:06:08](https://www.youtube.com/watch?v=Sy07GIShgh4&t=368.62s)]
+*  You got a lot of support there in that room today, which is clear. [[00:06:14](https://www.youtube.com/watch?v=Sy07GIShgh4&t=374.58s)]
+*  Well, we're going to have a big win because people are coming out to vote because they [[00:06:17](https://www.youtube.com/watch?v=Sy07GIShgh4&t=377.14s)]
+*  know this is the most important election of our lifetime and Donald Trump will be our [[00:06:21](https://www.youtube.com/watch?v=Sy07GIShgh4&t=381.94s)]
+*  next president. [[00:06:25](https://www.youtube.com/watch?v=Sy07GIShgh4&t=385.46000000000004s)]
+*  We'll have a big majority in the Senate and in the House. [[00:06:26](https://www.youtube.com/watch?v=Sy07GIShgh4&t=386.46000000000004s)]
+*  Thank you. [[00:06:28](https://www.youtube.com/watch?v=Sy07GIShgh4&t=388.66s)]
+*  Thank you, guys. [[00:06:29](https://www.youtube.com/watch?v=Sy07GIShgh4&t=389.66s)]
+*  We're watching those Senate races closely, and the Cook Report just put Pennsylvania [[00:06:30](https://www.youtube.com/watch?v=Sy07GIShgh4&t=390.66s)]
+*  into toss-up territory, and Nevada as the lean Republican. [[00:06:34](https://www.youtube.com/watch?v=Sy07GIShgh4&t=394.86s)]
+*  You just mentioned a couple of those races. [[00:06:40](https://www.youtube.com/watch?v=Sy07GIShgh4&t=400.1s)]
+*  So, gentlemen, senators, thank you all. [[00:06:41](https://www.youtube.com/watch?v=Sy07GIShgh4&t=401.46000000000004s)]
+*  Good to have you with us today. [[00:06:43](https://www.youtube.com/watch?v=Sy07GIShgh4&t=403.7s)]
+*  Great to have you on. [[00:06:44](https://www.youtube.com/watch?v=Sy07GIShgh4&t=404.7s)]
+*  We'll catch our hottest interviews and most compelling analysis. [[00:06:51](https://www.youtube.com/watch?v=Sy07GIShgh4&t=411.86s)]
+*  You will not get it anywhere else. [[00:06:55](https://www.youtube.com/watch?v=Sy07GIShgh4&t=415.22s)]

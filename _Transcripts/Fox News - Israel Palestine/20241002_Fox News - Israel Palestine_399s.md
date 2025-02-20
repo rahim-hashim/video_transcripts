@@ -1,0 +1,155 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 399s
+Video Keywords: ['iran attack israel', 'iran israel attack', 'iran israel war', 'netanyahu iran', 'iran vs israel', 'benjamin netanyahu', 'israel war', 'israel iran war', 'iran attack on israel', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'middle east', 'iran attack israel status', 'iran israel', 'iran news', 'iran attack israel fox news', 'war in israel', 'israel news', 'israel hezbollah', 'israel invades lebanon', 'israeli war coverage', 'yahya sinwar', 'hamas', 'hamas leader', 'hamas attack israel october 7']
+Video Views: 511854
+Video Rating: None
+Video Description: Fox News' Bill Hemmer breaks down Israel's multi-layer defense system, the Iron Dome. Fox News contributor Keith Kellogg joined 'America's Newsroom' to discuss what comes next as tension remains at an all-time high between Israel and Iran. #FoxNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Chilling IDF photo raises questions about Hamas leader's fate
+**Fox News - Israel Palestine:** [October 02, 2024](https://www.youtube.com/watch?v=rvBGGmBy9bo)
+*  So this now is a live look, 434 in the afternoon, Western Wall, old city of Jerusalem. [[00:00:00](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=0.0s)]
+*  It's sundown. [[00:00:07](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=7.36s)]
+*  They'll begin Rosh Hashanah and celebrate the New Year in Jewish religious tradition. [[00:00:08](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=8.36s)]
+*  Coming out here right now, we'll let you know what's happening over the past 24 hours and [[00:00:14](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=14.6s)]
+*  give you a sense of the region and what's been transpiring and what really may come [[00:00:18](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=18.52s)]
+*  next with Keith Kellogg in a moment here. [[00:00:24](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=24.16s)]
+*  Here's our area of focus that we watched yesterday. [[00:00:27](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=27.32s)]
+*  This is really Iran's forefront battle. [[00:00:30](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=30.2s)]
+*  For some time now, you've had the Gaza Strip with Hamas and then Hezbollah in the north [[00:00:34](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=34.76s)]
+*  and then you've got the Houthis down here in Yemen firing as they like. [[00:00:40](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=40.6s)]
+*  And then here's, well, that could be the main target. [[00:00:45](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=45.2s)]
+*  That's the country of Iran that we watched yesterday afternoon, live in the afternoon. [[00:00:48](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=48.64s)]
+*  There's a lot of stuff on this screen here. [[00:00:53](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=53.76s)]
+*  I'll draw your attention to Israeli Air Force in the air, Naval Defense there in the east [[00:00:57](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=57.04s)]
+*  of Mediterranean. [[00:01:01](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=61.2s)]
+*  What you see in green right here is what's known as the Iron Dome. [[00:01:02](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=62.68s)]
+*  It has the ability to fire a system that can take out an incoming rocket or missile to [[00:01:05](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=65.94s)]
+*  an altitude of six miles. [[00:01:12](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=72.24000000000001s)]
+*  Pretty good. [[00:01:14](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=74.72s)]
+*  What you see here in blue is David's sling. [[00:01:16](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=76.32s)]
+*  That has the ability to take out a missile or rocket at an altitude of 10 miles. [[00:01:21](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=81.42s)]
+*  Pretty good. [[00:01:27](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=87.58s)]
+*  This is the Aero system here, okay, in yellow. [[00:01:28](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=88.66s)]
+*  It has the ability to go to 100 miles. [[00:01:32](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=92.74000000000001s)]
+*  And a lot of that was enforced yesterday by the Israeli military and how they used it [[00:01:36](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=96.86s)]
+*  to defend their country. [[00:01:41](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=101.14s)]
+*  This is Isfahan. [[00:01:42](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=102.46000000000001s)]
+*  It's a missile complex, been set up for decades. [[00:01:43](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=103.46000000000001s)]
+*  That is the main source as to where the Iranians make their ballistic missiles. [[00:01:46](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=106.7s)]
+*  Is that the target? [[00:01:51](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=111.82000000000001s)]
+*  Keith Kellogg can answer that. [[00:01:52](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=112.82000000000001s)]
+*  Fox News contributor, retired U.S. Army general, and sir, good morning to you. [[00:01:54](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=114.10000000000001s)]
+*  What does Benjamin Netanyahu do next with regard to Iran, sir? [[00:01:58](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=118.12s)]
+*  Yeah, Bill, Dana, thanks for having me. [[00:02:03](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=123.94s)]
+*  Look, he's got a lot of options, and I think he can go a lot of different directions. [[00:02:06](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=126.7s)]
+*  He is going to respond Netanyahu is. [[00:02:10](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=130.88s)]
+*  You know, I'm always a little bit surprised that senior leaders or national security experts [[00:02:13](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=133.1s)]
+*  don't listen to people. [[00:02:18](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=138.22s)]
+*  If you listen to what Netanyahu said when he was at the U.N. General Assembly and he [[00:02:19](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=139.66s)]
+*  talked about Iran, you know, he talked about Moses, and he closed with the book of Samuel. [[00:02:23](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=143.94s)]
+*  They look at this fight against Iran as a biblical issue, a long-term issue. [[00:02:28](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=148.78s)]
+*  And when you look at Iran, you have to drop down, and then you talk Hezbollah and the [[00:02:33](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=153.9s)]
+*  Houthis and Hamas. [[00:02:37](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=157.9s)]
+*  But their frustration is they're actually fighting this fight by themselves. [[00:02:39](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=159.94s)]
+*  And you just mentioned that when you showed the map of all the directions that they're [[00:02:43](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=163.54s)]
+*  fighting. [[00:02:47](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=167.14000000000001s)]
+*  But they're going to respond, and it's very clear they're going to respond. [[00:02:48](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=168.14000000000001s)]
+*  Some of the things you pick up, the tells that I'm picking up is, for example, just [[00:02:51](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=171.22s)]
+*  the other day they took out four air defense sites in Syria. [[00:02:55](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=175.14000000000001s)]
+*  They call it SEAD, S-E-A-D, Suppression of Enemy Air Defense. [[00:02:58](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=178.94s)]
+*  What they're doing is opening up a lane, a lane into Iran. [[00:03:03](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=183.26s)]
+*  So where are they going to go? [[00:03:06](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=186.3s)]
+*  That's a great question. [[00:03:07](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=187.3s)]
+*  I think they're going to go hard. [[00:03:08](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=188.5s)]
+*  And when they go hard, you're looking at the potential for Esfahan. [[00:03:09](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=189.86s)]
+*  Are you looking at their nuclear sites that they want to go after? [[00:03:13](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=193.82000000000002s)]
+*  Because when you hear what Blinken said about them getting ready for a breakout, the Israelis [[00:03:17](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=197.26000000000002s)]
+*  have said, we're going to have to do this on our own, because the United States has [[00:03:21](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=201.42000000000002s)]
+*  said, well, we want equilibrium, meaning that we want everything to calm down. [[00:03:25](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=205.54000000000002s)]
+*  It's not going to calm down. [[00:03:29](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=209.26000000000002s)]
+*  We should actually reverse that and say, no, we're full score behind them. [[00:03:30](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=210.66s)]
+*  When you look at the Iron Dome that you just mentioned, those three interconnected systems, [[00:03:34](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=214.34s)]
+*  the fact is, that's also a U.S. system, U.S. built system, U.S. and Israeli built system [[00:03:37](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=217.94s)]
+*  with Israeli IAI helped build that. [[00:03:42](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=222.66s)]
+*  That's a great system, but it's been very, very effective, and it's given them a lot [[00:03:45](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=225.34s)]
+*  of latitude, meaning the Israelis, because the Iranians have now failed twice. [[00:03:48](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=228.64000000000001s)]
+*  And I think if the Iranians, if you look at Hamané, the Supreme Leader, he's probably [[00:03:52](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=232.98000000000002s)]
+*  going, this may not be such a good deal. [[00:03:56](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=236.66s)]
+*  But I think the Israelis are going to do something, they're going to do something hard, in a very [[00:03:59](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=239.22s)]
+*  near term. [[00:04:03](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=243.18s)]
+*  OK, sir. [[00:04:04](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=244.18s)]
+*  A couple of things here that involve us, really. [[00:04:05](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=245.18s)]
+*  I have to look at the list here. [[00:04:07](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=247.5s)]
+*  Accelerator Nuclear Enrichment Program, shortening the time to get nukes to perhaps weeks. [[00:04:08](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=248.5s)]
+*  Hacking the U.S. President's election, both the Harris and Trump campaigns, victims of that. [[00:04:14](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=254.82000000000002s)]
+*  You got an Iranian plot to assassinate the former president, that's ongoing. [[00:04:18](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=258.86s)]
+*  That threat is still out there. [[00:04:22](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=262.54s)]
+*  And then we came upon this. [[00:04:24](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=264.34000000000003s)]
+*  This is a picture of the IDF. [[00:04:25](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=265.78000000000003s)]
+*  I want our viewers, OK, this is going over Jerusalem and the old city yesterday, which [[00:04:28](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=268.66s)]
+*  the Israelis were like, you know, you're trying to take us out. [[00:04:33](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=273.94s)]
+*  Well, I mean, this is a spot that's sacred to Jews and Muslims and Christians alike. [[00:04:36](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=276.18s)]
+*  Go to call for number three. [[00:04:40](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=280.98s)]
+*  Here we go. [[00:04:42](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=282.14s)]
+*  So this was an IDF picture, OK, with a question mark over the face of Sinwar. [[00:04:43](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=283.14s)]
+*  Yeah. [[00:04:53](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=293.02s)]
+*  Thank you. [[00:04:55](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=295.42s)]
+*  There it is in the upper right hand corner, sir. [[00:04:56](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=296.42s)]
+*  Hang on one moment. [[00:04:58](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=298.06s)]
+*  So we do not know about his fate in Gaza. [[00:04:59](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=299.06s)]
+*  Correct. [[00:05:01](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=301.62s)]
+*  Why would the Israelis being so particular about their own secrecy, why would this get out? [[00:05:02](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=302.7s)]
+*  Well, I think they're just sending a message. [[00:05:09](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=309.9s)]
+*  Basically, you know, Sinwar made the comment that he's willing to do some type of peace [[00:05:11](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=311.58s)]
+*  talks as long as the Israelis can guarantee his life. [[00:05:15](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=315.62s)]
+*  The Israelis are not going to do that. [[00:05:18](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=318.7s)]
+*  Sinwar is really the last of the leaders when you think about it, because they've taken [[00:05:20](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=320.22s)]
+*  out the number one. [[00:05:23](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=323.62s)]
+*  Sinwar was the one who replaced the number one. [[00:05:25](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=325.02s)]
+*  When you look at Hanei after they took him out, and then you look at Nasrallah being taken out. [[00:05:27](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=327.02s)]
+*  You look at Shukar being taken out with Hezbollah. [[00:05:31](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=331.98s)]
+*  They've kind of gone down the list. [[00:05:35](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=335.14s)]
+*  And he's the last one. [[00:05:36](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=336.34s)]
+*  When you look at the leadership out there, there's no leadership. [[00:05:37](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=337.9s)]
+*  There's no leadership in Hamas anymore. [[00:05:40](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=340.54s)]
+*  There's no leadership in Hezbollah anymore. [[00:05:42](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=342.54s)]
+*  In fact, when you look at it, you're kind of saying, well, who's running Lebanon? [[00:05:44](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=344.62s)]
+*  And the only one running Lebanon, and they've got a prime minister, Makhadi, but they don't [[00:05:48](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=348.5s)]
+*  even have a president there. [[00:05:52](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=352.46s)]
+*  So they've kind of taken the, gone down the list and taken these people out, and they've [[00:05:53](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=353.7s)]
+*  kind of reset the battlefield. [[00:05:57](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=357.7s)]
+*  And the person, the group, the organization, the leader that's still standing is Netanyahu [[00:05:59](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=359.46000000000004s)]
+*  in Israel. [[00:06:04](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=364.62s)]
+*  And again, I keep going back to it, Bill, this is when we have an opportunity to stand [[00:06:05](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=365.62s)]
+*  fully behind Israel, because I think what will happen that gives us a gap, it creates [[00:06:10](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=370.86s)]
+*  a gap for us to leverage in the future some type of peace deal into the future with the [[00:06:15](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=375.78000000000003s)]
+*  Palestinians, with the Israelis, helping and using the Saudis as well. [[00:06:21](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=381.58000000000004s)]
+*  But we haven't taken advantage of that at all. [[00:06:26](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=386.18s)]
+*  We just kind of keep saying the same thing. [[00:06:28](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=388.34s)]
+*  General, I mean, what a shame it would be if peace broke out. [[00:06:29](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=389.94s)]
+*  I mean, the world would change. [[00:06:32](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=392.61999999999995s)]
+*  Keith Kellogg, thank you. [[00:06:35](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=395.06s)]
+*  We'll speak later in the week, okay? [[00:06:36](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=396.06s)]
+*  Thank you, sir. [[00:06:37](https://www.youtube.com/watch?v=rvBGGmBy9bo&t=397.73999999999995s)]

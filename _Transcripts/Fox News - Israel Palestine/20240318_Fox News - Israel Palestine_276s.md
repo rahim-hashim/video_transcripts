@@ -1,0 +1,156 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 276s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'al shifa hospital', 'americas newsroom', 'bill hemmer', 'conflict', 'foreign policy', 'hamas', 'hamas fighters', 'humanitarian aid', 'israel', 'israel attacks al shifa hospital', 'israel attacks on gaza', 'israel conflict', 'israel gaza', 'israel hamas', 'israel war', 'israel war in gaza', 'jack keane', 'middle east', 'netanyahu', 'palestinian civilians', 'war in israel', 'war in middle east', 'world conflict', 'general jack keane', 'middle east conflict']
+Video Views: 61717
+Video Rating: None
+Video Description: Fox News senior strategic analyst Gen. Jack Keane (Ret.) joins 'America's Newsroom' to discuss Israel's ground operations in Gaza after Hamas fighters were found in the Al-Shifa hospital and Netanyahu's criticism of Sen. Chuck Schumer's remarks. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Jack Keane: The Biden admin should have stayed out of this
+**Fox News - Israel Palestine:** [March 18, 2024](https://www.youtube.com/watch?v=UBnwlSxDO6U)
+*  In the meantime, from overnight now, [[00:00:00](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=0.0s)]
+*  the IDF Israeli Defense Forces moving [[00:00:01](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=1.68s)]
+*  in on Gaza City on a hospital there. [[00:00:03](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=3.46s)]
+*  When I show you the map behind me, [[00:00:05](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=5.6000000000000005s)]
+*  everything you see in blue is areas [[00:00:07](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=7.68s)]
+*  that have been cleared item on [[00:00:09](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=9.48s)]
+*  behalf of the Israeli military. [[00:00:11](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=11.16s)]
+*  The area in Brown is an area that [[00:00:12](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=12.76s)]
+*  has not yet been touched or gone [[00:00:14](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=14.72s)]
+*  through during the current war. [[00:00:16](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=16.72s)]
+*  This yellow road here that [[00:00:18](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=18.2s)]
+*  intersects all of Gaza City said [[00:00:19](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=19.68s)]
+*  to be a humanitarian corridor. [[00:00:21](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=21.44s)]
+*  So too this sector right here along [[00:00:23](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=23.080000000000002s)]
+*  the the Mediterranean Sea, [[00:00:25](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=25.2s)]
+*  but the Oshifa Hospital is in Gaza City. [[00:00:26](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=26.560000000000002s)]
+*  Remember now all the action, [[00:00:29](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=29.52s)]
+*  all the headlines, [[00:00:31](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=31.16s)]
+*  all the news is pushing to the [[00:00:31](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=31.96s)]
+*  southern end of Gaza toward this [[00:00:33](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=33.84s)]
+*  border crossing of Rafa, [[00:00:35](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=35.52s)]
+*  but this action is up here in Gaza City. [[00:00:36](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=36.8s)]
+*  Want to bring in General Jack [[00:00:39](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=39.480000000000004s)]
+*  Keene to help explain that. [[00:00:40](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=40.88s)]
+*  And Sir, good morning to you. [[00:00:42](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=42.24s)]
+*  What is this all about? [[00:00:43](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=43.84s)]
+*  As Israelis say, [[00:00:45](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=45.24s)]
+*  they have found Hamas fighters [[00:00:46](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=46.2s)]
+*  inside that hospital. [[00:00:47](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=47.64s)]
+*  Yeah, well, Bill, of course, [[00:00:50](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=50.28s)]
+*  that Israelis conducted significant [[00:00:52](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=52.040000000000006s)]
+*  clearing operations in northern [[00:00:53](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=53.56s)]
+*  Gaza many many weeks ago, [[00:00:55](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=55.040000000000006s)]
+*  but given the situation, [[00:00:56](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=56.64s)]
+*  but given the scale of what [[00:00:58](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=58.2s)]
+*  they're dealing with, [[00:01:00](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=60.04s)]
+*  it's impossible for them to occupy [[00:01:00](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=60.84s)]
+*  all the territory that they cleared [[00:01:03](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=63.68s)]
+*  out the Hamas fighters. [[00:01:06](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=66.36s)]
+*  So what we have here is Hamas [[00:01:08](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=68.64s)]
+*  re infiltrating the Al-Shifa Hospital, [[00:01:11](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=71.12s)]
+*  something the Israelis had been through [[00:01:14](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=74.16s)]
+*  and actually had occupied [[00:01:16](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=76.4s)]
+*  for a number of days, [[00:01:18](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=78.32s)]
+*  if not weeks, [[00:01:19](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=79.4s)]
+*  because of the complex tunnels [[00:01:20](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=80.68s)]
+*  that were underneath it. [[00:01:23](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=83.48s)]
+*  So it's not surprising [[00:01:25](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=85.2s)]
+*  that Hamas comes back [[00:01:26](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=86.76s)]
+*  and where they do it. [[00:01:28](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=88.2s)]
+*  Last week, up in the northern part of Gaza, [[00:01:29](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=89.64s)]
+*  the IDF was going into a school, [[00:01:33](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=93.32000000000001s)]
+*  which obviously raises everybody's eyebrows. [[00:01:35](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=95.92s)]
+*  Nobody wants a war being fought over a school. [[00:01:38](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=98.2s)]
+*  Well, we don't want it being fought [[00:01:40](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=100.28s)]
+*  over a hospital either, [[00:01:42](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=102.48s)]
+*  but Hamas chooses these sites purposely [[00:01:43](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=103.80000000000001s)]
+*  because they will shield them [[00:01:47](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=107.96000000000001s)]
+*  from IDF operations. [[00:01:50](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=110.64s)]
+*  And also it enhances [[00:01:53](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=113.32000000000001s)]
+*  international condemnation [[00:01:56](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=116.56s)]
+*  of what the Israelis are doing. [[00:01:58](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=118.28s)]
+*  And that's what this is all about. [[00:02:00](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=120.2s)]
+*  They'll clear these people out of that hospital, [[00:02:01](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=121.6s)]
+*  but don't be surprised if there isn't some instances [[00:02:04](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=124.44s)]
+*  of more re infiltration [[00:02:07](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=127.72s)]
+*  in the northern part of Gaza, [[00:02:09](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=129.52s)]
+*  despite the clearing operations [[00:02:12](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=132.32s)]
+*  that have taken place. [[00:02:13](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=133.92000000000002s)]
+*  Okay, well, we'll follow that. [[00:02:14](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=134.76s)]
+*  I know you came out to talk about the military, [[00:02:15](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=135.88s)]
+*  but there's a political equation in this as well. [[00:02:17](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=137.96s)]
+*  When you think about Chuck Schumer's comments [[00:02:20](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=140.52s)]
+*  last week on the floor of the Senate [[00:02:22](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=142.32s)]
+*  talking about the Israelis losing their confidence [[00:02:23](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=143.68s)]
+*  in Benjamin Netanyahu, [[00:02:26](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=146.84s)]
+*  urging them to hold a new election soon. [[00:02:28](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=148.48s)]
+*  Benjamin Netanyahu was on Fox and Friends [[00:02:31](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=151.6s)]
+*  on Sunday morning and said this. [[00:02:33](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=153.6s)]
+*  I think Schumer's statements are wholly inappropriate. [[00:02:36](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=156.44s)]
+*  I think we're not a banana republic. [[00:02:39](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=159.36s)]
+*  The people of Israel will choose [[00:02:41](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=161.32s)]
+*  when they'll have elections. [[00:02:42](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=162.8s)]
+*  I think the only thing that we should be focused on [[00:02:44](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=164.0s)]
+*  is changing the regime in Gaza, [[00:02:46](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=166.68s)]
+*  bringing down the terrorist regime of Hamas [[00:02:49](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=169.56s)]
+*  and not the duly elected government of Israel. [[00:02:52](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=172.68s)]
+*  That's the right policy. [[00:02:55](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=175.08s)]
+*  General, I don't mean to put you in a pinch here, [[00:02:56](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=176.84s)]
+*  but what do you think about how that fits into this war [[00:02:59](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=179.04s)]
+*  and the current equation and the relationship [[00:03:02](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=182.4s)]
+*  between Jerusalem and Washington? [[00:03:04](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=184.2s)]
+*  Yeah, well, certainly this has got it [[00:03:07](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=187.8s)]
+*  into public spaces now. [[00:03:09](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=189.64000000000001s)]
+*  I mean, we've known for many weeks [[00:03:11](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=191.12s)]
+*  that the administration disagreed with how the IDF [[00:03:13](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=193.24s)]
+*  and Prime Minister Netanyahu [[00:03:17](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=197.16s)]
+*  was conducting military operations, [[00:03:19](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=199.96s)]
+*  something I think they should have stayed out of [[00:03:21](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=201.79999999999998s)]
+*  and left that up to the IDF and their national leadership. [[00:03:24](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=204.2s)]
+*  And now we have Schumer actually calling for the removal [[00:03:27](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=207.92s)]
+*  of the prime minister by holding elections [[00:03:31](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=211.84s)]
+*  prior to the time they would likely have them themselves. [[00:03:35](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=215.04s)]
+*  I think that's pretty shameful. [[00:03:38](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=218.0s)]
+*  And this is a close ally of ours [[00:03:39](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=219.76s)]
+*  and actually doing something like that [[00:03:42](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=222.07999999999998s)]
+*  plays right into the hands of the Hamas. [[00:03:43](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=223.96s)]
+*  Why is that? [[00:03:46](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=226.68s)]
+*  Because it gives them leverage [[00:03:47](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=227.6s)]
+*  in negotiations that have taken place. [[00:03:49](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=229.52s)]
+*  It helps them in the international community [[00:03:51](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=231.88s)]
+*  with the condemnation of Israel [[00:03:54](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=234.8s)]
+*  because they believe now they have on their side [[00:03:56](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=236.56s)]
+*  the president's words that he has used, [[00:03:59](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=239.68s)]
+*  now Senator Schumer's words, [[00:04:02](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=242.12s)]
+*  the highest elected Jewish official [[00:04:05](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=245.24s)]
+*  in the United States government. [[00:04:07](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=247.76000000000002s)]
+*  All of that will be used against the Israelis [[00:04:09](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=249.0s)]
+*  and the prime minister in negotiations [[00:04:11](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=251.92000000000002s)]
+*  and also to fan the condemnation of Israel worldwide. [[00:04:14](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=254.68s)]
+*  General, thank you. [[00:04:18](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=258.92s)]
+*  We'll see how it goes this week [[00:04:19](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=259.76s)]
+*  and we'll keep an eye on what's happening [[00:04:20](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=260.92s)]
+*  there in Gaza City. [[00:04:22](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=262.12s)]
+*  Jack Keene, thank you for your time today. [[00:04:23](https://www.youtube.com/watch?v=UBnwlSxDO6U&t=263.04s)]

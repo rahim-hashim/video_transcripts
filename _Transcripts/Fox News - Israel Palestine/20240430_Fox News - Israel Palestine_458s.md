@@ -1,0 +1,157 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 458s
+Video Keywords: ['columbia university', 'israel hamas war', 'columbia university protest', 'breaking news', 'college campuses', 'anti-israel protests', 'pro-palestine protests', 'columbia protests', 'nyc protests', 'pro palestine protests', 'new york city', 'columbia university protest live stream', 'fox news', 'fox news channel', 'fox news network', 'fox news media', 'columbia university president', 'anti-Israel protests', 'anti-Israel protests Columbia', 'protesters take over columbia']
+Video Views: 332496
+Video Rating: None
+Video Description: U.S. congressional candidate Alison Esposito joined 'Fox & Friends First' to discuss why she believes the situation on campus will continue to escalate and the need for the 'adults in the room' to end the incident. #FoxNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'ABSOLUTE ANARCHY': Anti-Israel protesters at Columbia take over campus building
+**Fox News - Israel Palestine:** [April 30, 2024](https://www.youtube.com/watch?v=Pl0GB3MFMV4)
+*  Let us bring in Alison Esposito, who's running for Congress in New York and is a retired [[00:00:00](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=0.0s)]
+*  New York police officer. [[00:00:04](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=4.4s)]
+*  Your reaction to these scenes of absolute overnight anarchy and the university administrators [[00:00:06](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=6.12s)]
+*  who have allowed this to get this far to happen. [[00:00:11](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=11.94s)]
+*  Good morning. [[00:00:20](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=20.28s)]
+*  Well, thank you so much for having me. [[00:00:21](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=21.28s)]
+*  That's exactly what this is. [[00:00:22](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=22.96s)]
+*  This is anarchy. [[00:00:24](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=24.12s)]
+*  This is absolute unrest and it's absolutely unacceptable. [[00:00:25](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=25.28s)]
+*  You have a group of overly emotional and underly informed individuals that are picking and [[00:00:29](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=29.24s)]
+*  choosing what laws they will abide by in the name of social protest. [[00:00:34](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=34.879999999999995s)]
+*  And it's absolutely ludicrous. [[00:00:41](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=41.32s)]
+*  You have a group of students that have now taken over a building and there have been [[00:00:43](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=43.48s)]
+*  reports overnight of faculty members that were inside the building that were briefly [[00:00:47](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=47.28s)]
+*  even held hostage. [[00:00:52](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=52.12s)]
+*  This is going to continue to escalate and get worse and worse and worse until, God forbid, [[00:00:53](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=53.78s)]
+*  someone gets hurt. [[00:00:58](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=58.8s)]
+*  It is the time now for strong, decisive leadership. [[00:00:59](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=59.96s)]
+*  You see schools around the country where some leaders are stepping forward and stopping [[00:01:03](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=63.559999999999995s)]
+*  this anarchy from happening. [[00:01:08](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=68.8s)]
+*  In the name of social protest, these students have believed that they are not accountable [[00:01:10](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=70.64s)]
+*  for their actions. [[00:01:15](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=75.44s)]
+*  And that is actually pinpointed by the spiraling decline now in society where criminals are [[00:01:16](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=76.66s)]
+*  not held accountable for their actions. [[00:01:21](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=81.75999999999999s)]
+*  We need to take a hard stand and end this now before it gets worse. [[00:01:26](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=86.32000000000001s)]
+*  And to that point that you just made, as a police officer, give us a lesson on law and [[00:01:30](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=90.08s)]
+*  order, of controlling mobs, of negotiating with individuals like this. [[00:01:34](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=94.92s)]
+*  How would you have put a swift end to this before scenes like this could even think about [[00:01:39](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=99.96000000000001s)]
+*  happening? [[00:01:45](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=105.72s)]
+*  So this is beyond negotiations at this point. [[00:01:50](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=110.48s)]
+*  As a New York City police officer, I retired as an inspector of the 70th Police Precinct. [[00:01:54](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=114.28s)]
+*  We dealt with a lot of protests throughout my 25-year tenure. [[00:01:59](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=119.64s)]
+*  Social protest, abiding by the laws, is one thing. [[00:02:04](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=124.83999999999999s)]
+*  But once it crosses the line into criminal behavior, once you are stopping emergency [[00:02:08](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=128.4s)]
+*  vehicles from getting to where they need to be, once you are taking over schools, once [[00:02:13](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=133.6s)]
+*  you are not allowing students, based on their Jewish faith, to cross into buildings and [[00:02:18](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=138.48s)]
+*  cross over lines, you have gone into the criminal element of this and it has to be dealt with. [[00:02:25](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=145.24s)]
+*  They have to be held accountable for their actions. [[00:02:31](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=151.07999999999998s)]
+*  The students are demanding amnesty for all the laws that they're breaking. [[00:02:33](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=153.28s)]
+*  That is absolutely unacceptable. [[00:02:37](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=157.12s)]
+*  This needs to be shut down. [[00:02:38](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=158.4s)]
+*  The leaders must be taken into custody and charged appropriately. [[00:02:39](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=159.64s)]
+*  Those who have been wielding hammers and breaking windows, destroying properties, holding people [[00:02:44](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=164.0s)]
+*  hostage, I saw the reports of a Jewish student or a Jewish individual being tased yesterday [[00:02:49](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=169.55999999999997s)]
+*  on one of the campuses. [[00:02:55](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=175.6s)]
+*  It's time for quick, decisive, strong leadership. [[00:02:57](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=177.23999999999998s)]
+*  The students must be held accountable for their actions. [[00:03:01](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=181.32s)]
+*  If there are professional agitators there, they must be held accountable for their actions. [[00:03:03](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=183.57999999999998s)]
+*  All crimes must be prosecuted. [[00:03:07](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=187.92s)]
+*  The NYPD or the National Guard, the NYPD is some of the best in the business. [[00:03:10](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=190.06s)]
+*  They are going to go in, they will make the arrests that they need to with the professionalism [[00:03:14](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=194.46s)]
+*  that we demand. [[00:03:18](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=198.9s)]
+*  There will not be incidents escalated by the police department, but the students need to [[00:03:20](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=200.3s)]
+*  understand that if you do the crime, you're going to be held accountable. [[00:03:24](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=204.94s)]
+*  And leadership, both in the government and leadership in these colleges, needs to step [[00:03:29](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=209.02s)]
+*  forward and hold these students accountable. [[00:03:33](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=213.18s)]
+*  You said National Guard. [[00:03:35](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=215.68s)]
+*  Do we need to see the National Guard today, basically when the sun comes up, if you can [[00:03:36](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=216.98s)]
+*  mobilize them that quickly? [[00:03:42](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=222.34s)]
+*  We don't need the National Guard in New York City. [[00:03:48](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=228.18s)]
+*  The NYPD is ready and capable of handling protests such as this, handling mob crimes [[00:03:50](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=230.62s)]
+*  such as this. [[00:03:59](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=239.02s)]
+*  They are absolutely capable of going in there and ending this today. [[00:04:00](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=240.82s)]
+*  They did it with Occupy Wall Street. [[00:04:04](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=244.72s)]
+*  We did it with the protests, the Mostly Peaceful protests, aka riots of 2020. [[00:04:07](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=247.28s)]
+*  The NYPD is more than capable of handling this. [[00:04:12](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=252.76000000000002s)]
+*  They need to be allowed to do their job. [[00:04:15](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=255.44s)]
+*  I asked you what you would do if you were in charge as a police officer, as someone [[00:04:17](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=257.24s)]
+*  in law enforcement. [[00:04:21](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=261.32s)]
+*  You're running for Congress. [[00:04:22](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=262.8s)]
+*  Now I'm going to ask you what you would do if you get to the hallowed halls of Congress. [[00:04:23](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=263.8s)]
+*  What will you do to put a stop to this? [[00:04:27](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=267.6s)]
+*  Well, listen, I'm a law and order candidate. [[00:04:35](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=275.56s)]
+*  And the government's number one job is to keep their people safe. [[00:04:39](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=279.24s)]
+*  And they're failing to do that. [[00:04:42](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=282.84000000000003s)]
+*  I'm running for United States Congress because we are seeing a decline of law and order in [[00:04:45](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=285.0s)]
+*  this country. [[00:04:52](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=292.88s)]
+*  And it's not rocket science. [[00:04:54](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=294.12s)]
+*  It's 101. [[00:04:55](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=295.48s)]
+*  We need to be holding criminals accountable for their actions. [[00:04:56](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=296.48s)]
+*  You know, it's like cutting the head off a snake. [[00:04:59](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=299.56s)]
+*  The rest of the snake will wither. [[00:05:02](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=302.2s)]
+*  If you take the leaders of this protest into custody, normalcy will resume. [[00:05:03](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=303.92s)]
+*  It has to be decisive leadership, strong leadership that's coming out of Albany, that's coming [[00:05:09](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=309.68s)]
+*  out of Washington, and that's coming out of the hallowed halls of the academia. [[00:05:14](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=314.44s)]
+*  You mentioned the word consequences. [[00:05:20](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=320.44s)]
+*  There need to be consequences for our actions in life, no matter whether it's this scene, [[00:05:21](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=321.76s)]
+*  whether you're dealing with a child who's one year old. [[00:05:27](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=327.04s)]
+*  You try to teach them right from wrong. [[00:05:29](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=329.6s)]
+*  But these protesters, this to me is the wildest part of the story. [[00:05:31](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=331.48s)]
+*  They are not only demanding all that they are demanding with regard to Israeli divestment, [[00:05:35](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=335.12s)]
+*  but they're also demanding amnesty for anything that they do, whether it's breaking the glass [[00:05:39](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=339.36s)]
+*  like you see on the screen, whether it's preventing people from taking finals, whether it's intimidating [[00:05:44](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=344.48s)]
+*  their fellow students, many of whom are Jewish. [[00:05:49](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=349.88s)]
+*  What's your message to, quite frankly, Allison, these children who want no consequences for [[00:05:53](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=353.6s)]
+*  their actions? [[00:05:59](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=359.6s)]
+*  Well, the adults need to take over. [[00:06:02](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=362.48s)]
+*  The adults in the room need to take over in this situation. [[00:06:06](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=366.40000000000003s)]
+*  Imagine these are the same students that are not going to be allowed to graduate, that [[00:06:10](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=370.6s)]
+*  went through the pandemic a few years back and didn't have their senior proms or high [[00:06:15](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=375.08000000000004s)]
+*  school graduations. [[00:06:19](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=379.20000000000005s)]
+*  The adults in the room need to take over. [[00:06:20](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=380.68s)]
+*  You don't have amnesty. [[00:06:22](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=382.62s)]
+*  You don't get to demand amnesty to crimes in the name of social protest. [[00:06:24](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=384.82s)]
+*  That's not how this works. [[00:06:30](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=390.08000000000004s)]
+*  The adults need to take over. [[00:06:31](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=391.52000000000004s)]
+*  These students need to understand, maybe for the first time in their lives, that there [[00:06:32](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=392.96000000000004s)]
+*  are consequences to your actions and you don't get to commit crime just because you're feigning [[00:06:37](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=397.12s)]
+*  outrage, just because you're upset with something, just because you don't agree with something. [[00:06:42](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=402.82000000000005s)]
+*  This is not the way life and society works. [[00:06:48](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=408.24s)]
+*  This society needs to come down and make sure they know that there are consequences for [[00:06:51](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=411.16s)]
+*  their actions. [[00:06:56](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=416.72s)]
+*  It's a call on the adults in the room who know better, who should know better, that [[00:06:57](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=417.72s)]
+*  should be telling these students that you are not going to get amnesty. [[00:07:02](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=422.48s)]
+*  You will be suspended. [[00:07:06](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=426.52000000000004s)]
+*  You will be expelled and we will uphold the rights of our Jewish students and the students [[00:07:07](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=427.8s)]
+*  at the universities right to study peacefully and right to enter buildings and access places [[00:07:12](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=432.24s)]
+*  on campus based on the $70,000 a year tuition that their parents are paying. [[00:07:18](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=438.40000000000003s)]
+*  Allison Esposito, gotta leave it there. [[00:07:24](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=444.08000000000004s)]
+*  Amazing insight. [[00:07:26](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=446.04s)]
+*  We appreciate it. [[00:07:27](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=447.04s)]
+*  I'm Steve Ducey. [[00:07:28](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=448.04s)]
+*  I'm Brian Kilmeade. [[00:07:29](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=449.04s)]
+*  And I'm Ainsley Earhart. [[00:07:30](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=450.04s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:07:31](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=451.04s)]
+*  and most compelling analysis. [[00:07:35](https://www.youtube.com/watch?v=Pl0GB3MFMV4&t=455.28000000000003s)]

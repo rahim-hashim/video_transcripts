@@ -1,0 +1,157 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 489s
+Video Keywords: ['Fox News', 'Fox News Channel', 'news', 'politics', 'Israel', 'Israel Hamas war', 'Hamas', 'Iran', 'Iranian regime', 'Israel Defense Forces', 'IDF', 'Israel US', 'Israel allies', 'military', 'world news', 'Middle East conflict', 'Israel PM', 'Benjamin Netanyahu', 'Middle East', 'Middle East war', '2024 election', 'presidential election', '2024 presidential election', 'US elections', '2024 president race', 'White House', 'Donald Trump', 'Democrats']
+Video Views: 75943
+Video Rating: None
+Video Description: Rep. Mike Turner, R-Ohio, discusses the ongoing Israel war, the FBI probing the leak of Israeli classified documents, the 2024 presidential election and the current administration's handling of the war.
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# GOP rep says Trump learned this ‘very good’ lesson while in office
+**Fox News - Israel Palestine:** [October 27, 2024](https://www.youtube.com/watch?v=yR0hQH7z6jE)
+*  And we begin this Sunday morning with the war on Israel and its retaliation against [[00:00:00](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=0.0s)]
+*  Iran as Israel launched waves of attacks on Iran over several hours on Saturday morning [[00:00:06](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=6.5200000000000005s)]
+*  in what the Wall Street Journal called the most serious attack on Iran in decades, even [[00:00:12](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=12.64s)]
+*  if measured enough to avoid escalation. [[00:00:17](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=17.64s)]
+*  Israel did not hit Iran's nuclear or oil facilities, which Iran has warned for weeks would prompt [[00:00:20](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=20.96s)]
+*  an aggressive response. [[00:00:26](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=26.240000000000002s)]
+*  Instead, dozens of warplanes from Israel hitting several military targets across Iran, including [[00:00:28](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=28.0s)]
+*  ballistic missile production facilities and surface-to-air missile defense sites. [[00:00:33](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=33.84s)]
+*  All of this in response to Iran's barrage of some 200 missiles on Israel back on October [[00:00:39](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=39.04s)]
+*  1st for the killing of Hezbollah leader Hassan Nasrallah late last month. [[00:00:43](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=43.76s)]
+*  U.S. officials said that they were aware of Israel's retaliation despite the earlier leak [[00:00:48](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=48.480000000000004s)]
+*  of highly classified U.S. documents, which showed Israel's military plans against Iran. [[00:00:53](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=53.52s)]
+*  It prompted an investigation by the Defense Department and the FBI over who posted the [[00:00:59](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=59.120000000000005s)]
+*  top secret documents to social media, putting Israel's security in jeopardy. [[00:01:03](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=63.64s)]
+*  Here's former Director of National Intelligence John Ratcliffe with me this past week on Fox [[00:01:09](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=69.36s)]
+*  Business. [[00:01:12](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=72.92s)]
+*  It's a betrayal of trust between the United States and Israel that has come from a Biden-Harris [[00:01:13](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=73.92s)]
+*  administration that has betrayed that trust time and time again. [[00:01:20](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=80.32s)]
+*  The problem here is now the Israelis are wondering whether it's really not that at all, whether [[00:01:23](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=83.92s)]
+*  it's that this is all intentional. [[00:01:28](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=88.6s)]
+*  Joining me now in this Sunday Morning Futures exclusive is the chairman of the House Intelligence [[00:01:30](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=90.39999999999999s)]
+*  Committee, Congressman Mike Turner from Ohio. [[00:01:35](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=95.39999999999999s)]
+*  Congressman, great to see you this morning. [[00:01:38](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=98.08s)]
+*  Thank you so much for being here. [[00:01:40](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=100.32s)]
+*  Morning, Bre. [[00:01:41](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=101.32s)]
+*  Thanks for having me. [[00:01:42](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=102.32s)]
+*  Your reaction to Israel's retaliation against Iran, where does this warhead next? [[00:01:43](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=103.32s)]
+*  Right. [[00:01:48](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=108.6s)]
+*  Well, one of the fallacies of the Biden administration, Maria, is that the United States has rightly [[00:01:49](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=109.6s)]
+*  assisted Israel in defending against the missile attacks from Iran with missile defense. [[00:01:54](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=114.44s)]
+*  There are over several hundred missiles that Iran has launched against Israel. [[00:02:00](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=120.28s)]
+*  And the Biden administration has attempted to act like, well, since those missiles didn't [[00:02:05](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=125.12s)]
+*  hit their intended targets as if they didn't happen, then trying to restrain Israel's response. [[00:02:08](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=128.16s)]
+*  In doing so, they've limited the ability for Israel to really impact Iran and its ability [[00:02:14](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=134.36s)]
+*  to continue to threaten Israel. [[00:02:19](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=139.76s)]
+*  This certainly makes it very difficult as Israel goes forward. [[00:02:22](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=142.20000000000002s)]
+*  But Israel rightly is defending itself. [[00:02:24](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=144.8s)]
+*  It is hitting military targets. [[00:02:26](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=146.6s)]
+*  It is trying to diminish Iran's overall capabilities to hit and affect Israel. [[00:02:28](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=148.28s)]
+*  And Iran's capabilities are in fact being diminished as Israel takes the conflict to [[00:02:34](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=154.84s)]
+*  it. [[00:02:40](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=160.12s)]
+*  Do you expect a response from Iran after this weekend's attack from Israel? [[00:02:41](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=161.12s)]
+*  I think Iran will continue to respond, but Iran has continued to attack Israel. [[00:02:47](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=167.04s)]
+*  I mean, it's kind of hard to determine what really is a response from Iran and what is [[00:02:50](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=170.96s)]
+*  just its continuing attacks. [[00:02:55](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=175.4s)]
+*  Part of the other problems with the Biden administration is they've continued to look [[00:02:57](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=177.4s)]
+*  at this as just a regional conflict rather than just the continuation of Iran's efforts [[00:03:00](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=180.16s)]
+*  to continue to attack Israel, to challenge its right to exist with its proxies, Hezbollah [[00:03:06](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=186.92000000000002s)]
+*  and Hamas, and now Iran's direct attacks on Israel itself. [[00:03:11](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=191.64000000000001s)]
+*  Tell me about this leak. [[00:03:16](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=196.92000000000002s)]
+*  How is it possible that Israel's military plans against Iran get leaked on social media? [[00:03:18](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=198.32s)]
+*  Well, Maria, this is, as you were indicating, and certainly with John Radcliffe's statements, [[00:03:24](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=204.8s)]
+*  the administration did not indicate that they were trying to investigate whether or not [[00:03:31](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=211.44s)]
+*  this was a leak or whether or not this was a hack, openly identifying that it was their [[00:03:35](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=215.32s)]
+*  assumption that this had been a leak, which as you were discussing with John Radcliffe, [[00:03:40](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=220.0s)]
+*  means that this would be an act of sabotage. [[00:03:44](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=224.72s)]
+*  The FBI is looking at this as a criminal act of espionage, and that certainly is what it [[00:03:47](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=227.28s)]
+*  is. [[00:03:53](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=233.84s)]
+*  It certainly has an impact on both the United States itself. [[00:03:54](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=234.84s)]
+*  We have service members who are in the area and also Israel itself. [[00:03:58](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=238.24s)]
+*  Do you think Israel is hoping for Trump victory to finish this war? [[00:04:03](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=243.44s)]
+*  One thing's for certain, really for all of our allies, to be free of the Biden administration's [[00:04:09](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=249.12s)]
+*  restrictions, to be able to defend yourself openly when you're attacked by an adversary, [[00:04:14](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=254.64s)]
+*  but also to understand that there's coordination here. [[00:04:20](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=260.32s)]
+*  The access of evil, what's going on between Iran and China and Russia, all of the coordinations [[00:04:23](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=263.04s)]
+*  really does bear coordination from us. [[00:04:28](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=268.96s)]
+*  What happens with Iran's oil fields fuels China's economy. [[00:04:32](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=272.4s)]
+*  What happens in Iran's missile fields shows up on the battlefields in Ukraine. [[00:04:36](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=276.59999999999997s)]
+*  All of this needs to be addressed as if this is not regional conflicts, but a coordinated [[00:04:43](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=283.23999999999995s)]
+*  conflict and that our allies have an ability to fully and completely defend themselves, [[00:04:47](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=287.2s)]
+*  not just have minor responses to what really is very broad provocations from our adversaries. [[00:04:52](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=292.35999999999996s)]
+*  Yeah, I guess what I'm asking you is, we have seen zero deterrence from the Biden-Harris [[00:04:58](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=298.4s)]
+*  administration on Iran. [[00:05:03](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=303.2s)]
+*  Iran hacked into the Trump campaign. [[00:05:05](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=305.23999999999995s)]
+*  Iran has had targets on Trump's back, on Mike Pompeo's back, outwardly saying we want to [[00:05:07](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=307.2s)]
+*  assassinate Donald Trump. [[00:05:13](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=313.15999999999997s)]
+*  There's been no response from the Biden-Harris administration. [[00:05:14](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=314.71999999999997s)]
+*  Do you believe Israel wants Trump to win? [[00:05:18](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=318.29999999999995s)]
+*  Well, I think absolutely. [[00:05:21](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=321.12s)]
+*  As former President Trump has said, I don't think these conflicts would have happened [[00:05:24](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=324.04s)]
+*  under President Trump because you wouldn't, you would have had the assumption from these [[00:05:29](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=329.0s)]
+*  adversaries that there would have been consequences. [[00:05:33](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=333.36s)]
+*  The day that if he's elected and raises his hand, people are going to understand that [[00:05:35](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=335.92s)]
+*  there are consequences to adversaries. [[00:05:40](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=340.2s)]
+*  They're not going to have the ability to do these skirmishes, these attacks without real [[00:05:42](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=342.72s)]
+*  and significant consequences. [[00:05:48](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=348.64s)]
+*  That's the only way that you end these conflicts, is if people paying a price for attacking [[00:05:50](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=350.56s)]
+*  and killing our allies. [[00:05:55](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=355.4s)]
+*  So what has Harris and Biden done in that regard then? [[00:05:57](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=357.68s)]
+*  Well, you know, you were discussing, you know, Vice President Harris even hasn't even embraced [[00:06:01](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=361.4s)]
+*  fully President Biden's policy, which even though it's lukewarm, still fully supports [[00:06:06](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=366.28000000000003s)]
+*  Israel. [[00:06:12](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=372.52s)]
+*  He gives them very tepid ability to defend themselves, but fully supports Israel. [[00:06:13](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=373.52s)]
+*  She's been lukewarm on whether or not in responding, whether or not she fully supports Israel. [[00:06:18](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=378.96000000000004s)]
+*  So we don't even know if there'd be a step back from the lukewarm support that the Biden [[00:06:23](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=383.44s)]
+*  administration has been giving. [[00:06:27](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=387.68s)]
+*  But as you were just indicated, you know, here the Biden administration really had an [[00:06:29](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=389.28000000000003s)]
+*  opportunity to step up the plate here. [[00:06:34](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=394.0s)]
+*  Iran not only is attacking Israel, but they have openly indicated they want to kill former [[00:06:35](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=395.40000000000003s)]
+*  President Trump, now a candidate for president again. [[00:06:41](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=401.76s)]
+*  President Biden indicated this after being prodded that this would be an act of war. [[00:06:45](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=405.72s)]
+*  This would have been an opportunity to take consequences to Iran for them threatening [[00:06:49](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=409.84000000000003s)]
+*  President Trump and for attacking Israel. [[00:06:54](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=414.44000000000005s)]
+*  And instead, President Biden heeds caution. [[00:06:56](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=416.6s)]
+*  Do you believe that the intelligence community will get behind Trump in a real way, a meaningful [[00:07:00](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=420.64000000000004s)]
+*  way? [[00:07:05](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=425.64000000000004s)]
+*  Should he win this? [[00:07:06](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=426.64000000000004s)]
+*  Unlike last time? [[00:07:08](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=428.6s)]
+*  Well, I think that President Trump learned some some very good lessons. [[00:07:09](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=429.6s)]
+*  One of them that is he needs to put behind him very strong people and clear out significant [[00:07:15](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=435.08000000000004s)]
+*  levels of each of these agencies. [[00:07:20](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=440.68s)]
+*  So he has people who are responsive. [[00:07:22](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=442.96000000000004s)]
+*  So he doesn't have people who are working against him. [[00:07:24](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=444.64000000000004s)]
+*  But for the intelligence community, there is a sense of arrogance, of unwillingness [[00:07:27](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=447.32000000000005s)]
+*  to say what they don't know. [[00:07:33](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=453.70000000000005s)]
+*  And in this instance, I think the Trump administration's got to be able to come in and say, there are [[00:07:35](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=455.28000000000003s)]
+*  things we don't know and there are things that we need to make certain that we think [[00:07:40](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=460.12s)]
+*  we keep the United States and our allies safe. [[00:07:43](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=463.6s)]
+*  All right, Mr. Chairman, thank you very much. [[00:07:46](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=466.8s)]
+*  House Intelligence Committee Chairman, Congressman Michael Turner. [[00:07:49](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=469.36s)]
+*  Thank you, sir. [[00:07:52](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=472.44s)]
+*  Hey, everyone. [[00:07:53](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=473.44s)]
+*  I'm Emily Campagno. [[00:07:54](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=474.44s)]
+*  Catch me and my co-hosts, Harris Faulkner and Kayleigh McEnany on Outnumbered every [[00:07:55](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=475.44s)]
+*  weekday at 12 p.m. Eastern or sets your DVR. [[00:07:59](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=479.9s)]
+*  Also, don't forget to subscribe to the Fox News YouTube page for daily highlights. [[00:08:03](https://www.youtube.com/watch?v=yR0hQH7z6jE&t=483.36s)]

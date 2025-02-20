@@ -1,0 +1,156 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 367s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'biden', 'biden administration', 'biden israel', 'biden israel relationship', 'fox & friends', 'israel', 'israel ground invasion', 'israel invades rafah', 'israel rafah', 'israel rafah attack', 'israel rafah border', 'israel rafah ground invasion', 'israel rafah war', 'israel war', 'israel war on gaza', 'israel war on palestinians', 'joe biden', 'president biden', 'rafah', 'war in israel', 'weapons shipment', 'weapons shipment to israel', 'biden foreign policy']
+Video Views: 298723
+Video Rating: None
+Video Description: President Biden threatened to stop sending weapons to Israel over the offensive in Rafah. Fox News' Madeleine Rivera reports the latest on the fallout and the 'Fox & Friends' co-hosts react. #FoxNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# White House scrambling after Biden's Rafah decision
+**Fox News - Fox and Friends:** [May 10, 2024](https://www.youtube.com/watch?v=inPzvjstMQA)
+*  White House is still scrambling, scrambling after President Biden's CNN interview earlier [[00:00:00](https://www.youtube.com/watch?v=inPzvjstMQA&t=0.0s)]
+*  this week, where he threatened to stop sending weapons to Israel if they move forward with [[00:00:03](https://www.youtube.com/watch?v=inPzvjstMQA&t=3.72s)]
+*  the RAFA offensive. [[00:00:08](https://www.youtube.com/watch?v=inPzvjstMQA&t=8.14s)]
+*  Actually, he did stop. [[00:00:09](https://www.youtube.com/watch?v=inPzvjstMQA&t=9.14s)]
+*  Madeline Rivera is live in Washington. [[00:00:10](https://www.youtube.com/watch?v=inPzvjstMQA&t=10.14s)]
+*  Madeline. [[00:00:12](https://www.youtube.com/watch?v=inPzvjstMQA&t=12.14s)]
+*  Hey, good morning, guys. [[00:00:13](https://www.youtube.com/watch?v=inPzvjstMQA&t=13.14s)]
+*  Republicans are accusing President Biden of giving in to the demands of the far left flank. [[00:00:14](https://www.youtube.com/watch?v=inPzvjstMQA&t=14.620000000000001s)]
+*  Now, the president must also navigate the growing rift between the anti- and pro-Israel [[00:00:19](https://www.youtube.com/watch?v=inPzvjstMQA&t=19.26s)]
+*  factions of his own party. [[00:00:23](https://www.youtube.com/watch?v=inPzvjstMQA&t=23.86s)]
+*  Pennsylvania Senator John Fetterman says, for instance, hard disagree and deeply disappointing. [[00:00:25](https://www.youtube.com/watch?v=inPzvjstMQA&t=25.86s)]
+*  On the other hand, progressives believe the president's decision to condition aid to Israel [[00:00:32](https://www.youtube.com/watch?v=inPzvjstMQA&t=32.18s)]
+*  is a sign that protests like the ones roiling college campuses are working. [[00:00:36](https://www.youtube.com/watch?v=inPzvjstMQA&t=36.9s)]
+*  Congresswoman Pramila Jayapal says, I commend the president for heeding this call to ensure [[00:00:42](https://www.youtube.com/watch?v=inPzvjstMQA&t=42.260000000000005s)]
+*  we protect innocent Palestinian lives and refuse to supply weapons to ensure no more [[00:00:46](https://www.youtube.com/watch?v=inPzvjstMQA&t=46.82s)]
+*  civilians in Gaza are killed as a consequence of U.S. bombs. [[00:00:51](https://www.youtube.com/watch?v=inPzvjstMQA&t=51.72s)]
+*  A Democratic mega donor also says, bad, bad decision on all levels. [[00:00:55](https://www.youtube.com/watch?v=inPzvjstMQA&t=55.92s)]
+*  Please reconsider. [[00:01:00](https://www.youtube.com/watch?v=inPzvjstMQA&t=60.32s)]
+*  Let's not forget that there are more Jewish voters who care about Israel than Muslim voters [[00:01:01](https://www.youtube.com/watch?v=inPzvjstMQA&t=61.84s)]
+*  that care about Hamas. [[00:01:05](https://www.youtube.com/watch?v=inPzvjstMQA&t=65.98s)]
+*  Let's listen once more to the president's red line. [[00:01:07](https://www.youtube.com/watch?v=inPzvjstMQA&t=67.84s)]
+*  I made it clear that if they go into RAFA, they haven't gone into RAFA yet. [[00:01:10](https://www.youtube.com/watch?v=inPzvjstMQA&t=70.32s)]
+*  If they go into RAFA, I'm not supplying the weapons that have been used historically to [[00:01:17](https://www.youtube.com/watch?v=inPzvjstMQA&t=77.32000000000001s)]
+*  deal with RAFA. [[00:01:22](https://www.youtube.com/watch?v=inPzvjstMQA&t=82.0s)]
+*  We're going to continue to make sure Israel is secure in terms of Iron Dome and their [[00:01:23](https://www.youtube.com/watch?v=inPzvjstMQA&t=83.0s)]
+*  ability to respond to attacks. [[00:01:28](https://www.youtube.com/watch?v=inPzvjstMQA&t=88.04s)]
+*  The White House, though, thinks the president's comments should come as no surprise, as they've [[00:01:31](https://www.youtube.com/watch?v=inPzvjstMQA&t=91.0s)]
+*  been signaling their position for some time now. [[00:01:35](https://www.youtube.com/watch?v=inPzvjstMQA&t=95.32000000000001s)]
+*  They also make clear the shipments they're targeting is not from the foreign aid package [[00:01:38](https://www.youtube.com/watch?v=inPzvjstMQA&t=98.4s)]
+*  that Congress approved last month. [[00:01:41](https://www.youtube.com/watch?v=inPzvjstMQA&t=101.94s)]
+*  The president and his team have been clear for several weeks that we do not support a [[00:01:45](https://www.youtube.com/watch?v=inPzvjstMQA&t=105.16s)]
+*  major ground operation in RAFA, where more than a million people are sheltering with [[00:01:49](https://www.youtube.com/watch?v=inPzvjstMQA&t=109.84s)]
+*  nowhere safe to go. [[00:01:55](https://www.youtube.com/watch?v=inPzvjstMQA&t=115.16s)]
+*  President has said that publicly, and he has communicated that repeatedly and straightforwardly [[00:01:57](https://www.youtube.com/watch?v=inPzvjstMQA&t=117.96s)]
+*  to Prime Minister Netanyahu. [[00:02:04](https://www.youtube.com/watch?v=inPzvjstMQA&t=124.03999999999999s)]
+*  Former White House spokesperson Jen Psaki says the president should have acted sooner. [[00:02:06](https://www.youtube.com/watch?v=inPzvjstMQA&t=126.4s)]
+*  I do think that there is some leverage that we are all seeing being used. [[00:02:11](https://www.youtube.com/watch?v=inPzvjstMQA&t=131.88s)]
+*  Should it have been used earlier? [[00:02:16](https://www.youtube.com/watch?v=inPzvjstMQA&t=136.48s)]
+*  I think the answer is yes to that. [[00:02:17](https://www.youtube.com/watch?v=inPzvjstMQA&t=137.76s)]
+*  But we are seeing them hold back in the sending of weapons. [[00:02:19](https://www.youtube.com/watch?v=inPzvjstMQA&t=139.72s)]
+*  That's actually a pretty significant sign. [[00:02:22](https://www.youtube.com/watch?v=inPzvjstMQA&t=142.51999999999998s)]
+*  Secretary of State Antony Blinken is expected to submit a highly anticipated report to Congress [[00:02:25](https://www.youtube.com/watch?v=inPzvjstMQA&t=145.51999999999998s)]
+*  regarding whether Israel followed international law in its operation in Gaza. [[00:02:31](https://www.youtube.com/watch?v=inPzvjstMQA&t=151.0s)]
+*  Axios reports this could happen as soon as today. [[00:02:35](https://www.youtube.com/watch?v=inPzvjstMQA&t=155.56s)]
+*  Will Ainsley and Brian. [[00:02:39](https://www.youtube.com/watch?v=inPzvjstMQA&t=159.64s)]
+*  All right. Thank you, Mylan. [[00:02:41](https://www.youtube.com/watch?v=inPzvjstMQA&t=161.20000000000002s)]
+*  In her report, she talked about that letter from this big mega donor. [[00:02:42](https://www.youtube.com/watch?v=inPzvjstMQA&t=162.4s)]
+*  He's a billionaire. [[00:02:46](https://www.youtube.com/watch?v=inPzvjstMQA&t=166.52s)]
+*  He's number 23 on Forbes richest American list. [[00:02:47](https://www.youtube.com/watch?v=inPzvjstMQA&t=167.52s)]
+*  And his net worth is like $2.8 billion. [[00:02:51](https://www.youtube.com/watch?v=inPzvjstMQA&t=171.16s)]
+*  But he said he thinks it's a bad decision and we need to reconsider. [[00:02:53](https://www.youtube.com/watch?v=inPzvjstMQA&t=173.44s)]
+*  There are more Jewish voters than there are that care about Israel than there are Muslim [[00:02:57](https://www.youtube.com/watch?v=inPzvjstMQA&t=177.0s)]
+*  voters. [[00:03:00](https://www.youtube.com/watch?v=inPzvjstMQA&t=180.96s)]
+*  It's Christianity is our number one religion. [[00:03:01](https://www.youtube.com/watch?v=inPzvjstMQA&t=181.96s)]
+*  Sixty three percent. [[00:03:04](https://www.youtube.com/watch?v=inPzvjstMQA&t=184.36s)]
+*  Judaism is number two. [[00:03:05](https://www.youtube.com/watch?v=inPzvjstMQA&t=185.6s)]
+*  So if he really cares about the voters and it seems that he's pandering to the voters [[00:03:07](https://www.youtube.com/watch?v=inPzvjstMQA&t=187.51999999999998s)]
+*  in Michigan and Wisconsin by going back on this and holding back the weapons, he needs [[00:03:11](https://www.youtube.com/watch?v=inPzvjstMQA&t=191.6s)]
+*  to think about that. [[00:03:15](https://www.youtube.com/watch?v=inPzvjstMQA&t=195.32s)]
+*  There are more Jewish people and many people I've talked to that are Jewish are saying [[00:03:16](https://www.youtube.com/watch?v=inPzvjstMQA&t=196.32s)]
+*  they're now they're not voting for him because of this. [[00:03:19](https://www.youtube.com/watch?v=inPzvjstMQA&t=199.76s)]
+*  Well, that'll be fascinating to see because that has been a vote that the Democrats have [[00:03:22](https://www.youtube.com/watch?v=inPzvjstMQA&t=202.83999999999997s)]
+*  been able to rely on, similar to how they've been able to rely on the black vote. [[00:03:25](https://www.youtube.com/watch?v=inPzvjstMQA&t=205.88s)]
+*  Cutting off aid. [[00:03:30](https://www.youtube.com/watch?v=inPzvjstMQA&t=210.16s)]
+*  That is something that Joe Biden said he would not do. [[00:03:31](https://www.youtube.com/watch?v=inPzvjstMQA&t=211.16s)]
+*  Almost incensed at the idea in 2019. [[00:03:34](https://www.youtube.com/watch?v=inPzvjstMQA&t=214.51999999999998s)]
+*  The idea that we would cut off military aid to an ally or only true, true ally in the [[00:03:39](https://www.youtube.com/watch?v=inPzvjstMQA&t=219.76s)]
+*  entire region is absolutely preposterous. [[00:03:50](https://www.youtube.com/watch?v=inPzvjstMQA&t=230.6s)]
+*  It's just beyond my comprehension. [[00:03:53](https://www.youtube.com/watch?v=inPzvjstMQA&t=233.84s)]
+*  Anyone would do that. [[00:03:55](https://www.youtube.com/watch?v=inPzvjstMQA&t=235.95999999999998s)]
+*  I was in 2019, Brian, and he was talking directly about Israel. [[00:03:58](https://www.youtube.com/watch?v=inPzvjstMQA&t=238.44s)]
+*  So a couple of things here. [[00:04:02](https://www.youtube.com/watch?v=inPzvjstMQA&t=242.23999999999998s)]
+*  I wish we didn't even worry about the voters. [[00:04:03](https://www.youtube.com/watch?v=inPzvjstMQA&t=243.64s)]
+*  There's certain times in life you have to do what you're supposed to do. [[00:04:05](https://www.youtube.com/watch?v=inPzvjstMQA&t=245.28s)]
+*  The guy's 80 something years old. [[00:04:07](https://www.youtube.com/watch?v=inPzvjstMQA&t=247.23999999999998s)]
+*  I know you do. [[00:04:08](https://www.youtube.com/watch?v=inPzvjstMQA&t=248.92s)]
+*  But he does seem to care about the voters because he's backpedaling. [[00:04:09](https://www.youtube.com/watch?v=inPzvjstMQA&t=249.92s)]
+*  And by the way, Jen Psaki just revealed where most of the Democratic Party is. [[00:04:12](https://www.youtube.com/watch?v=inPzvjstMQA&t=252.92s)]
+*  He should have she's telling Stephen Colbert, we the president should have done this earlier, [[00:04:16](https://www.youtube.com/watch?v=inPzvjstMQA&t=256.52s)]
+*  threatened Israel instead of trying to find out what the right numbers are, how you fight [[00:04:22](https://www.youtube.com/watch?v=inPzvjstMQA&t=262.4s)]
+*  in an urban environment, talk to a military person about what exactly Israel is doing [[00:04:26](https://www.youtube.com/watch?v=inPzvjstMQA&t=266.04s)]
+*  and what their objective is. [[00:04:30](https://www.youtube.com/watch?v=inPzvjstMQA&t=270.0s)]
+*  They quickly got to say, well, there's protests on campus. [[00:04:31](https://www.youtube.com/watch?v=inPzvjstMQA&t=271.68s)]
+*  Michigan's going south. [[00:04:34](https://www.youtube.com/watch?v=inPzvjstMQA&t=274.68s)]
+*  So that's why the president should take weapons away. [[00:04:36](https://www.youtube.com/watch?v=inPzvjstMQA&t=276.28s)]
+*  How about our allies of democracy? [[00:04:38](https://www.youtube.com/watch?v=inPzvjstMQA&t=278.76s)]
+*  They were attacked October 7th. [[00:04:40](https://www.youtube.com/watch?v=inPzvjstMQA&t=280.88s)]
+*  Worst time since the 1940s. [[00:04:42](https://www.youtube.com/watch?v=inPzvjstMQA&t=282.68s)]
+*  A guy who was Hitler was presiding over it. [[00:04:45](https://www.youtube.com/watch?v=inPzvjstMQA&t=285.28s)]
+*  Hamas just as bad. [[00:04:47](https://www.youtube.com/watch?v=inPzvjstMQA&t=287.35999999999996s)]
+*  Only there's more of them. [[00:04:48](https://www.youtube.com/watch?v=inPzvjstMQA&t=288.47999999999996s)]
+*  And now you just ask yourself this question. [[00:04:49](https://www.youtube.com/watch?v=inPzvjstMQA&t=289.88s)]
+*  What's the objective to wipe out Hamas? [[00:04:51](https://www.youtube.com/watch?v=inPzvjstMQA&t=291.47999999999996s)]
+*  Where are they in Rafa? [[00:04:53](https://www.youtube.com/watch?v=inPzvjstMQA&t=293.59999999999997s)]
+*  How many are left? [[00:04:55](https://www.youtube.com/watch?v=inPzvjstMQA&t=295.15999999999997s)]
+*  Eight thousand. [[00:04:56](https://www.youtube.com/watch?v=inPzvjstMQA&t=296.24s)]
+*  Where's the head? [[00:04:57](https://www.youtube.com/watch?v=inPzvjstMQA&t=297.24s)]
+*  Where's the head man? [[00:04:58](https://www.youtube.com/watch?v=inPzvjstMQA&t=298.56s)]
+*  Sinwar. [[00:04:59](https://www.youtube.com/watch?v=inPzvjstMQA&t=299.72s)]
+*  Where is he? [[00:05:00](https://www.youtube.com/watch?v=inPzvjstMQA&t=300.72s)]
+*  In the tunnels of Rafa. [[00:05:01](https://www.youtube.com/watch?v=inPzvjstMQA&t=301.72s)]
+*  Why would you not go in? [[00:05:03](https://www.youtube.com/watch?v=inPzvjstMQA&t=303.56s)]
+*  How dare you not allow a country that was just lost 2200 people in a brutal massacre, [[00:05:05](https://www.youtube.com/watch?v=inPzvjstMQA&t=305.36s)]
+*  including young people at a concert for peace. [[00:05:12](https://www.youtube.com/watch?v=inPzvjstMQA&t=312.12s)]
+*  How dare you tell them they can't go in and get the people responsible? [[00:05:15](https://www.youtube.com/watch?v=inPzvjstMQA&t=315.40000000000003s)]
+*  And that's what he should be saying. [[00:05:20](https://www.youtube.com/watch?v=inPzvjstMQA&t=320.24s)]
+*  Every person that dies is on Hamas's hands. [[00:05:21](https://www.youtube.com/watch?v=inPzvjstMQA&t=321.76s)]
+*  And don't forget, there are American hostages that are being held still within. [[00:05:24](https://www.youtube.com/watch?v=inPzvjstMQA&t=324.52s)]
+*  Yeah, he never brings that up. [[00:05:28](https://www.youtube.com/watch?v=inPzvjstMQA&t=328.68s)]
+*  No. [[00:05:30](https://www.youtube.com/watch?v=inPzvjstMQA&t=330.12s)]
+*  He never brings up the hostages either. [[00:05:31](https://www.youtube.com/watch?v=inPzvjstMQA&t=331.12s)]
+*  Everybody wants hostages out. [[00:05:33](https://www.youtube.com/watch?v=inPzvjstMQA&t=333.03999999999996s)]
+*  That's the only reason why these other guys are still alive. [[00:05:34](https://www.youtube.com/watch?v=inPzvjstMQA&t=334.03999999999996s)]
+*  But the other thing to keep in mind too is that the president of the United States could [[00:05:37](https://www.youtube.com/watch?v=inPzvjstMQA&t=337.15999999999997s)]
+*  be also defining for people the reason why hospitals are hit is because they're headquarters [[00:05:41](https://www.youtube.com/watch?v=inPzvjstMQA&t=341.12s)]
+*  for Hamas. [[00:05:46](https://www.youtube.com/watch?v=inPzvjstMQA&t=346.03999999999996s)]
+*  The reason why playgrounds and schools are hit is because they're weapons depots for [[00:05:47](https://www.youtube.com/watch?v=inPzvjstMQA&t=347.03999999999996s)]
+*  Hamas. [[00:05:50](https://www.youtube.com/watch?v=inPzvjstMQA&t=350.0s)]
+*  It would be great if the president said that once in a while instead of when he finally [[00:05:51](https://www.youtube.com/watch?v=inPzvjstMQA&t=351.0s)]
+*  does an interview just throwing Israel under the bus. [[00:05:54](https://www.youtube.com/watch?v=inPzvjstMQA&t=354.56s)]
+*  I'm Steve Ducey. [[00:05:56](https://www.youtube.com/watch?v=inPzvjstMQA&t=356.88s)]
+*  I'm Brian Kilmeade. [[00:05:57](https://www.youtube.com/watch?v=inPzvjstMQA&t=357.92s)]
+*  And I'm Ainsley Earhart. [[00:05:58](https://www.youtube.com/watch?v=inPzvjstMQA&t=358.92s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:05:59](https://www.youtube.com/watch?v=inPzvjstMQA&t=359.92s)]
+*  and most compelling analysis. [[00:06:04](https://www.youtube.com/watch?v=inPzvjstMQA&t=364.2s)]
