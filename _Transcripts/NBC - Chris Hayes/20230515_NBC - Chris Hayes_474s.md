@@ -1,0 +1,143 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 474s
+Video Keywords: ['Chris Hayes']
+Video Views: 173476
+Video Rating: None
+Video Description: Talking Points Memo’s Hunter Walker reports a congressional staffer for Rep. Paul Gosar is a prominent follower of neo-Nazi Nick Fuentes. Evidence uncovered by Walker shows the staffer is behind an online persona Fuentes referred to as one of his “strongest soldiers.”
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#msnbc #gosar #nickfuentes
+---
+
+# Report: Gosar's congressional staffer linked to neo-Nazi Nick Fuentes
+**NBC - Chris Hayes:** [May 15, 2023](https://www.youtube.com/watch?v=hta235TfCIY)
+*  And now we have new reporting from Hunter Walker at Talking Points Memo. [[00:00:00](https://www.youtube.com/watch?v=hta235TfCIY&t=0.0s)]
+*  He uncovered evidence that a congressional staffer, the digital director for Congressman [[00:00:03](https://www.youtube.com/watch?v=hta235TfCIY&t=3.84s)]
+*  Paul Gosar of Arizona, is a prominent follower of a neo-Nazi named Nick Fuentes. [[00:00:08](https://www.youtube.com/watch?v=hta235TfCIY&t=8.44s)]
+*  You may remember Fuentes as the racist Holocaust denier who Kanye West brought to dinner at [[00:00:13](https://www.youtube.com/watch?v=hta235TfCIY&t=13.64s)]
+*  Mar-a-Lago with Donald J. Trump last year. [[00:00:18](https://www.youtube.com/watch?v=hta235TfCIY&t=18.22s)]
+*  So what does all of this tell us? [[00:00:21](https://www.youtube.com/watch?v=hta235TfCIY&t=21.76s)]
+*  But the right in America has mainstreamed a very dangerous, violent movement, a threat [[00:00:24](https://www.youtube.com/watch?v=hta235TfCIY&t=24.8s)]
+*  to us all. [[00:00:29](https://www.youtube.com/watch?v=hta235TfCIY&t=29.92s)]
+*  And if you needed any further proof of that, just look at the tragedy that unfolded last [[00:00:30](https://www.youtube.com/watch?v=hta235TfCIY&t=30.92s)]
+*  weekend in Allen, Texas. [[00:00:35](https://www.youtube.com/watch?v=hta235TfCIY&t=35.52s)]
+*  The man who opened fire in an outlet mall and killed eight people, including a three-year-old, [[00:00:37](https://www.youtube.com/watch?v=hta235TfCIY&t=37.28s)]
+*  expressed interest in white supremacists and neo-Nazi views. [[00:00:42](https://www.youtube.com/watch?v=hta235TfCIY&t=42.519999999999996s)]
+*  And yet the denialism and whataboutism on the right sadly persists. [[00:00:46](https://www.youtube.com/watch?v=hta235TfCIY&t=46.96s)]
+*  Joining me now, Hunter Walker is the investigative reporter for Talking Points Memo, who I just [[00:00:52](https://www.youtube.com/watch?v=hta235TfCIY&t=52.52s)]
+*  mentioned. [[00:00:56](https://www.youtube.com/watch?v=hta235TfCIY&t=56.4s)]
+*  Ruth Ben-Giatt is a professor of history at New York University and the author of The [[00:00:57](https://www.youtube.com/watch?v=hta235TfCIY&t=57.4s)]
+*  Lucid Substack, where she writes about democracy and autocracy. [[00:01:00](https://www.youtube.com/watch?v=hta235TfCIY&t=60.44s)]
+*  And Jamel Bowie is an opinion columnist for The New York Times. [[00:01:04](https://www.youtube.com/watch?v=hta235TfCIY&t=64.06s)]
+*  Thank you all for joining me tonight. [[00:01:07](https://www.youtube.com/watch?v=hta235TfCIY&t=67.08s)]
+*  Hunter, let me start with you. [[00:01:08](https://www.youtube.com/watch?v=hta235TfCIY&t=68.68s)]
+*  Tell us more about your reporting. [[00:01:10](https://www.youtube.com/watch?v=hta235TfCIY&t=70.08s)]
+*  How close is this Gosar staffer to Nick Fuentes and his gripper movement? [[00:01:11](https://www.youtube.com/watch?v=hta235TfCIY&t=71.34s)]
+*  So Nick Fuentes referred to Chicken Right, the online persona that can be linked to this [[00:01:16](https://www.youtube.com/watch?v=hta235TfCIY&t=76.96s)]
+*  staffer, as one of his best quote-unquote soldiers. [[00:01:22](https://www.youtube.com/watch?v=hta235TfCIY&t=82.33999999999999s)]
+*  I also watched one of these extended Nick Fuentes streams where the chicken persona [[00:01:26](https://www.youtube.com/watch?v=hta235TfCIY&t=86.52s)]
+*  pledged loyalty to Nick Fuentes and to the white race. [[00:01:32](https://www.youtube.com/watch?v=hta235TfCIY&t=92.19999999999999s)]
+*  And there are extensive links between this online persona, which was fairly prominent, [[00:01:36](https://www.youtube.com/watch?v=hta235TfCIY&t=96.44s)]
+*  amassing over 20,000 followers in Nick Fuentes' movement and two staffers actually in Gosar's [[00:01:41](https://www.youtube.com/watch?v=hta235TfCIY&t=101.08s)]
+*  office. [[00:01:47](https://www.youtube.com/watch?v=hta235TfCIY&t=107.75999999999999s)]
+*  When the accounts first launched, they were credited to quote Wade and Landon. [[00:01:49](https://www.youtube.com/watch?v=hta235TfCIY&t=109.03999999999999s)]
+*  Wade Searle is Gosar's digital director. [[00:01:53](https://www.youtube.com/watch?v=hta235TfCIY&t=113.32s)]
+*  Landon Peterson is an intern in the office. [[00:01:55](https://www.youtube.com/watch?v=hta235TfCIY&t=115.75999999999999s)]
+*  These accounts then ultimately tweeted photos that appear to be Wade Searle with Nick Fuentes [[00:01:59](https://www.youtube.com/watch?v=hta235TfCIY&t=119.46s)]
+*  when he attended a Nick Fuentes rally. [[00:02:04](https://www.youtube.com/watch?v=hta235TfCIY&t=124.2s)]
+*  They were tweeting from his hometown. [[00:02:06](https://www.youtube.com/watch?v=hta235TfCIY&t=126.44s)]
+*  They were also tweeting indicating they were about the same age as him. [[00:02:09](https://www.youtube.com/watch?v=hta235TfCIY&t=129.2s)]
+*  So there's really extensive links. [[00:02:13](https://www.youtube.com/watch?v=hta235TfCIY&t=133.44s)]
+*  And this is not just some run-of-the-mill follower of Nick Fuentes. [[00:02:15](https://www.youtube.com/watch?v=hta235TfCIY&t=135.07999999999998s)]
+*  This is also someone who was in internal leadership chats telling the grippers, Nick Fuentes' [[00:02:19](https://www.youtube.com/watch?v=hta235TfCIY&t=139.0s)]
+*  movement, what was going on in Gosar's office. [[00:02:24](https://www.youtube.com/watch?v=hta235TfCIY&t=144.76s)]
+*  And he was creating these videos and content and propaganda for the movement. [[00:02:27](https://www.youtube.com/watch?v=hta235TfCIY&t=147.45999999999998s)]
+*  So this is a high-profile gripper now working directly creating content for a U.S. congressman. [[00:02:31](https://www.youtube.com/watch?v=hta235TfCIY&t=151.44s)]
+*  I'm shocked that that congressman, I'm shocked that congressman is Paul Gosar. [[00:02:38](https://www.youtube.com/watch?v=hta235TfCIY&t=158.28s)]
+*  Ruth, moving from Paul Gosar to Tommy Tuberville, what did you make of Tuberville's conflation [[00:02:41](https://www.youtube.com/watch?v=hta235TfCIY&t=161.92000000000002s)]
+*  of white supremacists and Nazis with MAGA supporters and Trump supporters? [[00:02:48](https://www.youtube.com/watch?v=hta235TfCIY&t=168.68s)]
+*  Well, it makes perfect sense because Trump has been, you know, cultivating extremists. [[00:02:53](https://www.youtube.com/watch?v=hta235TfCIY&t=173.20000000000002s)]
+*  You mentioned the very fine, you know, people neo-Nazi episode. [[00:03:01](https://www.youtube.com/watch?v=hta235TfCIY&t=181.96s)]
+*  But what we've got now is that Trump is openly, you know, appealing to people as a violent [[00:03:06](https://www.youtube.com/watch?v=hta235TfCIY&t=186.20000000000002s)]
+*  cult leader. [[00:03:12](https://www.youtube.com/watch?v=hta235TfCIY&t=192.08s)]
+*  He's not a conventional politician. [[00:03:13](https://www.youtube.com/watch?v=hta235TfCIY&t=193.08s)]
+*  He's a cult leader. [[00:03:15](https://www.youtube.com/watch?v=hta235TfCIY&t=195.04s)]
+*  And it's quite extraordinary. [[00:03:16](https://www.youtube.com/watch?v=hta235TfCIY&t=196.48000000000002s)]
+*  It's like all of the white, all of the right-wing extremists from the entire 20th century, their [[00:03:18](https://www.youtube.com/watch?v=hta235TfCIY&t=198.44s)]
+*  representatives and inheritors are now, you know, grouped around Trump. [[00:03:24](https://www.youtube.com/watch?v=hta235TfCIY&t=204.92000000000002s)]
+*  So you've got the neo-Nazis, you've got fascists, you've got people who love Pinochet and the [[00:03:29](https://www.youtube.com/watch?v=hta235TfCIY&t=209.96s)]
+*  military juntas, the proud boys who wear shirts that say Pinochet did nothing wrong, all the [[00:03:34](https://www.youtube.com/watch?v=hta235TfCIY&t=214.88s)]
+*  way up to the new right, you know, of Orban and Putin, and of course, historical racism [[00:03:40](https://www.youtube.com/watch?v=hta235TfCIY&t=220.88s)]
+*  and white Christian nationalism. [[00:03:47](https://www.youtube.com/watch?v=hta235TfCIY&t=227.72s)]
+*  Michael Flynn, all of that is, has like had a confluence around Trump. [[00:03:49](https://www.youtube.com/watch?v=hta235TfCIY&t=229.56s)]
+*  So I'm not surprised at all. [[00:03:55](https://www.youtube.com/watch?v=hta235TfCIY&t=235.8s)]
+*  This is part of the culture that is the GOP today. [[00:03:57](https://www.youtube.com/watch?v=hta235TfCIY&t=237.36s)]
+*  And I believe Donald Trump promised over the weekend to bring Michael Flynn back if he's [[00:04:00](https://www.youtube.com/watch?v=hta235TfCIY&t=240.95999999999998s)]
+*  re-elected to office. [[00:04:04](https://www.youtube.com/watch?v=hta235TfCIY&t=244.68s)]
+*  Jamel, while it is very good that President Biden is speaking out against the white supremacist [[00:04:06](https://www.youtube.com/watch?v=hta235TfCIY&t=246.12s)]
+*  domestic terror threat, I have to ask, where is the broader political media legislative [[00:04:10](https://www.youtube.com/watch?v=hta235TfCIY&t=250.79999999999998s)]
+*  strategy from Democrats, from liberals, from the left, for counteracting this mainstreaming [[00:04:17](https://www.youtube.com/watch?v=hta235TfCIY&t=257.36s)]
+*  of white supremacy in front of our very eyes on the right? [[00:04:22](https://www.youtube.com/watch?v=hta235TfCIY&t=262.88s)]
+*  You know, I don't know if there's a broad strategy here. [[00:04:25](https://www.youtube.com/watch?v=hta235TfCIY&t=265.0s)]
+*  I think that part of what makes talking about this so difficult, you showed this clips of [[00:04:30](https://www.youtube.com/watch?v=hta235TfCIY&t=270.8s)]
+*  folks on Fox News kind of dismissing this as ridiculous, is that I'm not really sure [[00:04:36](https://www.youtube.com/watch?v=hta235TfCIY&t=276.24s)]
+*  that American political culture in general has any real way of talking about this or [[00:04:40](https://www.youtube.com/watch?v=hta235TfCIY&t=280.8s)]
+*  discussing this or preparing for it. [[00:04:46](https://www.youtube.com/watch?v=hta235TfCIY&t=286.24s)]
+*  You mentioned the 1995 Oklahoma City bombing, and that's instructive for a lot of reasons. [[00:04:49](https://www.youtube.com/watch?v=hta235TfCIY&t=289.28s)]
+*  Obviously, as you said, the most deadly act of domestic terrorism in American history. [[00:04:54](https://www.youtube.com/watch?v=hta235TfCIY&t=294.84000000000003s)]
+*  But in the wake of that bombing, there is a real reluctance to talk about the racial [[00:05:00](https://www.youtube.com/watch?v=hta235TfCIY&t=300.28000000000003s)]
+*  ideology at Timothy McBain and the people who helped organize it. [[00:05:06](https://www.youtube.com/watch?v=hta235TfCIY&t=306.44s)]
+*  And that kind of continued afterwards. [[00:05:10](https://www.youtube.com/watch?v=hta235TfCIY&t=310.04s)]
+*  You could talk about domestic extremism. [[00:05:12](https://www.youtube.com/watch?v=hta235TfCIY&t=312.32s)]
+*  You could talk about the militia movement. [[00:05:14](https://www.youtube.com/watch?v=hta235TfCIY&t=314.32s)]
+*  But talking specifically about white supremacist ideology is difficult. [[00:05:16](https://www.youtube.com/watch?v=hta235TfCIY&t=316.48s)]
+*  And even, you know, we're in 2023. [[00:05:21](https://www.youtube.com/watch?v=hta235TfCIY&t=321.96s)]
+*  We have over the past seven or eight years, a number of shootings, mass shootings by [[00:05:24](https://www.youtube.com/watch?v=hta235TfCIY&t=324.28s)]
+*  avowed white supremacist people with that ideology, the Charleston shooting to the Tree [[00:05:30](https://www.youtube.com/watch?v=hta235TfCIY&t=330.36s)]
+*  of Life shooting in 2018 to the Allen, Texas shooting most recently. [[00:05:34](https://www.youtube.com/watch?v=hta235TfCIY&t=334.96s)]
+*  This is a regular occurrence. [[00:05:40](https://www.youtube.com/watch?v=hta235TfCIY&t=340.8s)]
+*  This kind of violence in American life, Biden's right to call it a serious threat. [[00:05:42](https://www.youtube.com/watch?v=hta235TfCIY&t=342.96s)]
+*  And yet, beyond just the political system, I think Americans have a really tough time [[00:05:47](https://www.youtube.com/watch?v=hta235TfCIY&t=347.40000000000003s)]
+*  beginning to think of it as ideological and think of it as a threat deserving a concerted [[00:05:53](https://www.youtube.com/watch?v=hta235TfCIY&t=353.36s)]
+*  response. And it's not simply people with hate in their heart. [[00:06:00](https://www.youtube.com/watch?v=hta235TfCIY&t=360.8s)]
+*  It's something much more sinister and much more dangerous. [[00:06:03](https://www.youtube.com/watch?v=hta235TfCIY&t=363.76s)]
+*  But Jamel, you don't need to worry, because I am absolutely sure that Kevin McCarthy is [[00:06:08](https://www.youtube.com/watch?v=hta235TfCIY&t=368.08000000000004s)]
+*  about to take action against Paul Gosar. [[00:06:12](https://www.youtube.com/watch?v=hta235TfCIY&t=372.56s)]
+*  Isn't he, Hunter? [[00:06:14](https://www.youtube.com/watch?v=hta235TfCIY&t=374.76s)]
+*  I don't think so. [[00:06:16](https://www.youtube.com/watch?v=hta235TfCIY&t=376.71999999999997s)]
+*  I've reached out to the speaker's office for comment. [[00:06:17](https://www.youtube.com/watch?v=hta235TfCIY&t=377.68s)]
+*  I've reached out to Paul Gosar for comment. [[00:06:19](https://www.youtube.com/watch?v=hta235TfCIY&t=379.92s)]
+*  And the only thing we've seen is Paul Gosar actually shutting off replies on his Twitter [[00:06:22](https://www.youtube.com/watch?v=hta235TfCIY&t=382.0s)]
+*  feed. And I'm not surprised by that, honestly, because Paul Gosar, as you alluded to, has [[00:06:26](https://www.youtube.com/watch?v=hta235TfCIY&t=386.03999999999996s)]
+*  one of the most, you know, extreme histories in the current Congress. [[00:06:30](https://www.youtube.com/watch?v=hta235TfCIY&t=390.64s)]
+*  He's, you know, sent out links to anti-Semitic newsletters. [[00:06:37](https://www.youtube.com/watch?v=hta235TfCIY&t=397.03999999999996s)]
+*  He's appeared twice at Nick Fuentes's political conference. [[00:06:40](https://www.youtube.com/watch?v=hta235TfCIY&t=400.8s)]
+*  And this was a bit of an open secret on the far right. [[00:06:44](https://www.youtube.com/watch?v=hta235TfCIY&t=404.8s)]
+*  They were tweeting about how this guy was on his staff. [[00:06:47](https://www.youtube.com/watch?v=hta235TfCIY&t=407.52s)]
+*  That's sort of how I caught on to it. [[00:06:50](https://www.youtube.com/watch?v=hta235TfCIY&t=410.28s)]
+*  Researchers in Arizona like Haley Orion and Nick Martin, who I worked with, were chasing [[00:06:52](https://www.youtube.com/watch?v=hta235TfCIY&t=412.2s)]
+*  this stuff. We put it all together, but I don't think we're going to see action. [[00:06:57](https://www.youtube.com/watch?v=hta235TfCIY&t=417.4s)]
+*  And part of that is because of what we're talking about right now. [[00:07:01](https://www.youtube.com/watch?v=hta235TfCIY&t=421.44s)]
+*  I think Senator Tuberville said the quiet part out loud. [[00:07:05](https://www.youtube.com/watch?v=hta235TfCIY&t=425.12s)]
+*  You know, this is the modern Republican Party. [[00:07:08](https://www.youtube.com/watch?v=hta235TfCIY&t=428.24s)]
+*  White nationalism is a part of it and explicitly so. [[00:07:11](https://www.youtube.com/watch?v=hta235TfCIY&t=431.28s)]
+*  You see people like Gosar and Marjorie Taylor Greene, you know, embrace the term [[00:07:15](https://www.youtube.com/watch?v=hta235TfCIY&t=435.04s)]
+*  Christian nationalism. That clip you played before where they're attacking DEI. [[00:07:19](https://www.youtube.com/watch?v=hta235TfCIY&t=439.04s)]
+*  These are white supremacist talking points. [[00:07:22](https://www.youtube.com/watch?v=hta235TfCIY&t=442.92s)]
+*  And, you know, what my reporting is trying to do is just expose how deep and extreme [[00:07:25](https://www.youtube.com/watch?v=hta235TfCIY&t=445.28s)]
+*  this goes and that it's actually tying directly to neo-Nazism. [[00:07:29](https://www.youtube.com/watch?v=hta235TfCIY&t=449.8s)]

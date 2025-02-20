@@ -1,0 +1,62 @@
+---
+Date Generated: February 19, 2025
+Transcription Model: whisper medium 20231117
+Length: 474s
+Video Keywords: ['Chris Hayes']
+Video Views: 476804
+Video Rating: None
+Video Description: In the decision barring Trump from the ballot, the Colorado majority took Justice Neil Gorsuch’s own words and offered them back at him, citing a ruling he issued as a then circuit court of appeals judge. 
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#msnbc #trump #colorado
+---
+
+# ‘This you?’: Conservative justice cited in Colorado decision disqualifying Trump
+**NBC - Chris Hayes:** [December 20, 2023](https://www.youtube.com/watch?v=15wUYT3vbtU)
+*  One thing that's quite clear in the Colorado majority opinion is how much the majority is writing for the conservative United States Supreme Court, knowing full well they will almost certainly review it. [[00:00:00](https://www.youtube.com/watch?v=15wUYT3vbtU&t=0.0s)]
+*  This is particularly true around the Supreme Court's terms of originalism, the original public meaning, a phrase they use, but also in the bedrock conservative principle that states are the ultimate arbiters of and administrators of elections, even federal elections. [[00:00:12](https://www.youtube.com/watch?v=15wUYT3vbtU&t=12.0s)]
+*  This has been a stalwart conservative piece of jurisprudence, and it is in that context that the Colorado justices take Supreme Court Justice Neil Gorsuch in his own words when he was an appellate court judge and offer them back at him, citing him saying yes, it is quote, a state's legitimate interest in protecting the integrity and practical functioning of the political process that permits it to exclude from the ballot candidates who are constitutionally prohibited from assuming office. [[00:00:24](https://www.youtube.com/watch?v=15wUYT3vbtU&t=24.0s)]
+*  This is part of a broader longstanding tendency among conservatives of asserting that states' rights devolve things to the states, even though that is often and has been historically to the great detriment of all kinds of voters of color and all sorts of other populations. [[00:00:50](https://www.youtube.com/watch?v=15wUYT3vbtU&t=50.0s)]
+*  Now, that exact same principle is going to come before Supreme Court that is likely going to find historic and perhaps comical ways to bend itself around to the other view. [[00:01:03](https://www.youtube.com/watch?v=15wUYT3vbtU&t=63.0s)]
+*  Everyone anticipates they're going to take this case. Most people think they will overturn it, but there's almost a schadenfreude interest in exactly how they're going to do it. [[00:01:13](https://www.youtube.com/watch?v=15wUYT3vbtU&t=73.0s)]
+*  Melissa Murray is a professor at New York University School of Law, co-host of Strict Scrutiny Podcast along with Leah Lippman and my wife, Kate Shaw, Jeffrey Tubman, his attorney and legal analyst, and they both join me now. [[00:01:22](https://www.youtube.com/watch?v=15wUYT3vbtU&t=82.0s)]
+*  So I don't think there's much suspense like, will they take it? They're going to take it, though it would be hilarious if they didn't. [[00:01:32](https://www.youtube.com/watch?v=15wUYT3vbtU&t=92.0s)]
+*  I also don't think there's a ton of suspense about, are they going to let this stand? I don't think they will. [[00:01:36](https://www.youtube.com/watch?v=15wUYT3vbtU&t=96.0s)]
+*  The interesting question is like, how are they going to get there? What do you think? [[00:01:41](https://www.youtube.com/watch?v=15wUYT3vbtU&t=101.0s)]
+*  So again, we saw that the Colorado majority cited Justice Gorsuch liberally from this 10th Circuit decision when he was a judge. And this was what the kids on Twitter call this you moment. [[00:01:45](https://www.youtube.com/watch?v=15wUYT3vbtU&t=105.0s)]
+*  So are these your commitments? And this is a court that has been very clear about their commitments to textualism, their commitments to strict interpretation, their commitments to this idea of federalism, that there are certain things that are state prerogatives and are for them. [[00:01:56](https://www.youtube.com/watch?v=15wUYT3vbtU&t=116.0s)]
+*  And all of this is going to be tested in this case because there's also this outstanding practical concern that if they allow this decision to stand, whether it's because of textualism, federalism or whatnot, it means that there's going to be a patchwork quilt of disqualifications all around this country, patchwork ballots. [[00:02:10](https://www.youtube.com/watch?v=15wUYT3vbtU&t=130.0s)]
+*  And this election will probably not seem super legitimate to the people that it needs to seem legitimate to. And that's a real concern. And it's not unlike the kind of practicality concerns that guided the court in Bush versus Gore back in 2000. [[00:02:30](https://www.youtube.com/watch?v=15wUYT3vbtU&t=150.0s)]
+*  Bush versus Gore. Talk about states rights. It is Bush versus Gore. I mean, that's the thing. I mean, you know, what it means to be a conservative is to believe that states get to regulate their own affairs, especially when it comes to elections. [[00:02:43](https://www.youtube.com/watch?v=15wUYT3vbtU&t=163.0s)]
+*  And this is at issue a state statute in Colorado about the election. Just as in Florida, it was Florida law saying under Florida law, you Al Gore are entitled to a recount. The Supreme Court in Bush v. Gore said, no, no, no, this would be unfair to George W. Bush. [[00:02:59](https://www.youtube.com/watch?v=15wUYT3vbtU&t=179.0s)]
+*  It would violate his rights. Thus, George Bush's president. So, you know, these these principles yield to results that the majority wants to and I expect that's what would happen. [[00:03:15](https://www.youtube.com/watch?v=15wUYT3vbtU&t=195.0s)]
+*  Yeah, I have to say just to add to that. Not only did they say no, no, no, it would violate his rights. It would violate their rights under the 14th Amendment to the United States Constitution, which we have now found a novel interpretation of the equal protection clause that this violates, though it's only good said novel interpretation for this decision and no more. [[00:03:25](https://www.youtube.com/watch?v=15wUYT3vbtU&t=205.0s)]
+*  This ticket for this train only. That's that that was that was the heart of Bush v. Gore. [[00:03:44](https://www.youtube.com/watch?v=15wUYT3vbtU&t=224.0s)]
+*  Yeah, so I agree with everything that Jeff has said. I think one thing is different is that this is a very different court than the one in Bush versus Gore. This is a court whose legitimacy has been called into question numerous times over the last three years. [[00:03:48](https://www.youtube.com/watch?v=15wUYT3vbtU&t=228.0s)]
+*  This is not the court that was in 2000 and I think that has to weigh on them as well. I don't know that it will necessarily lead to a different outcome, but it may shape the way they get to that outcome. [[00:04:00](https://www.youtube.com/watch?v=15wUYT3vbtU&t=240.0s)]
+*  Well, and I also don't want to be I don't want to be over like it is a set of novel issues like I may say that in the majority opinion. I think they're quite clear about that. The big question of like, yes, the plain language is clear. But like what counts as insurrection and more? I think precisely who gets to say who is the arbiter of whether an individual counts here. [[00:04:10](https://www.youtube.com/watch?v=15wUYT3vbtU&t=250.0s)]
+*  Well, and that's that's where I think there is room for the Supreme Court to get rid of this case in a way that is intellectually respectable, which is that's interesting, which is you don't that. Yes, it is true. [[00:04:29](https://www.youtube.com/watch?v=15wUYT3vbtU&t=269.0s)]
+*  A presidential candidate can be disqualified for supporting and engaging in insurrection, but Donald Trump was not given adequate due process. He was not given adequate opportunity to prove that he did that. He did not engage in it that there was the trial was too attenuate was was too brief. [[00:04:43](https://www.youtube.com/watch?v=15wUYT3vbtU&t=283.0s)]
+*  He wasn't allowed to subpoena witnesses. He wasn't allowed to take depositions. That's one way of getting rid of the case, overturning it without too much embarrassing themselves. And the dissenters in Colorado sort of laid the seeds for that when they talked about the idea that they were very reluctant to disqualify someone in the absence of a criminal conviction for insurrection. And so the seeds of this are already in the water. So one thing that's very interesting about that, and I also I agree. I think there's there's a way out for them to not be. [[00:05:03](https://www.youtube.com/watch?v=15wUYT3vbtU&t=303.0s)]
+*  I mean, I think the idea is quite sort of like obvious as Bush v Gore, though, sort of where they had they were sort of their backs were up against the wall. They were just like, screw it, right? I mean, they were they. But but in this case, I mean, what's interesting is, OK, I think that's a colorable argument, right? That this is a serious thing to disqualify from the ballot. You need the Constitution requires level process akin to a criminal conviction, right? What's interesting about that is like, OK, well, he might get a criminal conviction for a crime that isn't explicitly named as insurrection, but is. [[00:05:33](https://www.youtube.com/watch?v=15wUYT3vbtU&t=333.0s)]
+*  Essentially that and then all of a sudden it's like, wow, that becomes a fresh constitutional issue. Well, that's why this issue isn't necessarily over is that if if he gets convicted in one of these cases, particularly the Washington, which is the one likely to go to trial first, assuming the Supreme Court lets it go to go to trial. [[00:06:03](https://www.youtube.com/watch?v=15wUYT3vbtU&t=363.0s)]
+*  If he's convicted again, you if he's convicted for a first time, then you will see other states come back to this issue and then he will there will be an even better argument, right? Because he will have got due process. [[00:06:20](https://www.youtube.com/watch?v=15wUYT3vbtU&t=380.0s)]
+*  You know what's more due process right than a criminal trial? So it's not this issue. Even if this Colorado decision is overturned at this point, it doesn't mean it's over for 2024. [[00:06:34](https://www.youtube.com/watch?v=15wUYT3vbtU&t=394.0s)]
+*  Also, I think that may be the way that the court will proceed, like reverse on the Colorado Supreme Court decision, but then allow the claim allow the trials to go forward that there is no presidential immunity for these criminal indictments. [[00:06:48](https://www.youtube.com/watch?v=15wUYT3vbtU&t=408.0s)]
+*  But it is worth noting that Jack Smith had the opportunity to specifically charge Donald Trump with insurrection and did not write. And so instead, it's this obstruction of a congressional hearing. [[00:07:01](https://www.youtube.com/watch?v=15wUYT3vbtU&t=421.0s)]
+*  And that may also be chum in the water because there's this Fisher versus United States case where the court has to decide whether the meaning of the statute about obstructing governmental proceedings is meant to apply to something like this or simply something that is meant to apply to Enron, which is the origins of that statute in the first place. [[00:07:12](https://www.youtube.com/watch?v=15wUYT3vbtU&t=432.0s)]
+*  So there's a lot more that's going to happen here, but the court may try to split this baby. [[00:07:29](https://www.youtube.com/watch?v=15wUYT3vbtU&t=449.0s)]
+*  Thank you. [[00:07:42](https://www.youtube.com/watch?v=15wUYT3vbtU&t=462.0s)]

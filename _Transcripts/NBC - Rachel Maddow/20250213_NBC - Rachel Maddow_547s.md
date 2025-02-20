@@ -1,0 +1,158 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 547s
+Video Keywords: ['Rachel Maddow']
+Video Views: 168779
+Video Rating: None
+Video Description: Foreign autocrats and opponents of freedom and democracy have harbored animosity toward USAID as an agent of those American values abroad. Now that Elon Musk and Donald Trump have decimated the agency, abruptly cutting off its programs, those same enemies of American values are excited to persecute anyone who worked with the United States and are left vulnerable now that Trump has cut and run. Rep. Jim Himes, ranking member of the House Intelligence Committee, discusses with Rachel Maddow.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Politics #USAID
+---
+
+# Donald Trump exposed as faithless ally as USAID workers abandoned by Trump become targets
+**NBC - Rachel Maddow:** [February 13, 2025](https://www.youtube.com/watch?v=fiv2fnFuw_4)
+*  Over the past 20 years, election monitoring groups, human rights organizations and anti-corruption [[00:00:00](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=0.0s)]
+*  efforts have been funded in part by USAID, which has provided more than $2.6 billion [[00:00:06](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=6.88s)]
+*  to Russia. [[00:00:14](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=14.0s)]
+*  President Vladimir Putin has now ended USAID's programs, reportedly out of concern they interfere [[00:00:15](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=15.44s)]
+*  with elections by aiding opposition groups. [[00:00:21](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=21.12s)]
+*  That was 2012. [[00:00:25](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=25.32s)]
+*  In 2012, 13 years ago, the Vladimir Putin government, Kremlin, expelled USAID from Russia. [[00:00:28](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=28.04s)]
+*  Now here we are 13 years later and Donald Trump and Elon Musk's shutdown of USAID, shutdown [[00:00:36](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=36.6s)]
+*  of that entire agency, that is being celebrated by authoritarians everywhere. [[00:00:43](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=43.08s)]
+*  Russia called it a quote, smart move. [[00:00:49](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=49.64s)]
+*  Hungary's dictatorial leader, Viktor Orban, hailed the shutdown, his allies saying they [[00:00:52](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=52.48s)]
+*  quote, couldn't be happier. [[00:00:58](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=58.199999999999996s)]
+*  Here's how the Guardian headlined it quote, authoritarian regimes around the world cheer [[00:01:00](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=60.31999999999999s)]
+*  on dismantling of USAID. [[00:01:05](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=65.0s)]
+*  Nicaragua's state media, controlled by the family of the president, declared that Trump [[00:01:07](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=67.8s)]
+*  turned off the faucet for what they labeled terrorists. [[00:01:12](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=72.6s)]
+*  Venezuela's interior minister announced plans to investigate the agency, saying the government's [[00:01:17](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=77.68s)]
+*  opposition was paid by USAID. [[00:01:24](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=84.0s)]
+*  But it's not just that authoritarian leaders around the world and dictators around the [[00:01:26](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=86.84s)]
+*  world are celebrating this move by Donald Trump. [[00:01:31](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=91.96000000000001s)]
+*  The damage done by shutting this agency is turning out to be an ongoing and now newly [[00:01:35](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=95.52000000000001s)]
+*  serious disaster. [[00:01:40](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=100.72s)]
+*  When Elon Musk posted to his hundreds of millions of followers online quote, USAID [[00:01:45](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=105.08s)]
+*  is a criminal organization, that turns out to have had consequences. [[00:01:50](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=110.88s)]
+*  You know who's been more than happy to pick that up and run with it? [[00:01:56](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=116.4s)]
+*  Check this out. [[00:02:00](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=120.88s)]
+*  This is from the Guardian newspapers, Andrew Roth today quote, right wing and autocratic [[00:02:01](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=121.88s)]
+*  governments have their knives out for USAID demanding data on grant recipients from Elon [[00:02:08](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=128.32s)]
+*  Musk and threatening employees and grant recipients with investigations and prison. [[00:02:15](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=135.0s)]
+*  USAID has long been a thorn in the side of governments in the region who have railed [[00:02:21](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=141.08s)]
+*  against US support for pro-democracy and civil society movements. [[00:02:24](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=144.92s)]
+*  Well now, local leaders for the first time see an ally in Washington that will back a [[00:02:29](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=149.48s)]
+*  crackdown on USAID and its beneficiaries as if they are criminals. [[00:02:34](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=154.72s)]
+*  In Georgia, the government, not the state of Georgia, the country of Georgia, the government [[00:02:40](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=160.6s)]
+*  there has opened a mysterious case after the prime minister accused the US embassy, USAID [[00:02:45](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=165.0s)]
+*  and other American backed organizations of quote, acting in a coordinated manner against [[00:02:51](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=171.32s)]
+*  the Georgian people and the Georgian state. [[00:02:56](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=176.79999999999998s)]
+*  In Slovakia, the prime minister there published a letter to Elon Musk in which he asked Elon [[00:03:00](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=180.24s)]
+*  share information about NGOs and the media and individual journalists who have worked [[00:03:06](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=186.08s)]
+*  in his country. [[00:03:12](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=192.96s)]
+*  In Russia, the state Duma speaker said the government should request a list of people [[00:03:14](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=194.52s)]
+*  who received funding from USAID and that they should be made to quote, publicly confess [[00:03:19](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=199.08s)]
+*  and repent on Red Square. [[00:03:24](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=204.16000000000003s)]
+*  Quote, if they've declared USAID an enemy organization, let them provide the names. [[00:03:26](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=206.36s)]
+*  Congress will send us the list and we'll hand it over to the FSB. [[00:03:32](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=212.44s)]
+*  One current USAID employee tells the Guardian quote, this is Trump's Afghanistan withdrawal, [[00:03:37](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=217.32s)]
+*  cutting and running and leaving people who have faithfully and consistently worked for [[00:03:43](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=223.96s)]
+*  the USA in our interests being left behind to be jailed or worse. [[00:03:47](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=227.88s)]
+*  Joining us now is Congressman Jim Himes, Democratic of Connecticut. [[00:03:55](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=235.44s)]
+*  He's a ranking member on the House Intelligence Committee, the top Democrat on that committee. [[00:03:57](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=237.6s)]
+*  Congressman Himes, I really appreciate you making time tonight. [[00:04:02](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=242.88s)]
+*  Thanks for being here. [[00:04:04](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=244.64s)]
+*  Thanks for having me, Rachel. [[00:04:05](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=245.64s)]
+*  I confess that I worried a lot about the legality of what it meant to be shutting down USAID. [[00:04:07](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=247.79999999999998s)]
+*  I worried about the false information and lies and the impact of that in terms of the [[00:04:14](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=254.04s)]
+*  ways they were describing what USAID is. [[00:04:18](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=258.68s)]
+*  I worried about the material impact of shutting down USAID programs that do good work and [[00:04:21](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=261.64s)]
+*  keep people alive. [[00:04:26](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=266.96s)]
+*  I, before today, had not yet let my brain go there that we are inviting dictators and [[00:04:29](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=269.2s)]
+*  tyrannical regimes around the world to arrest and imprison people who are associated with [[00:04:35](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=275.36s)]
+*  USAID for the crime of working with the United States of America. [[00:04:42](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=282.0s)]
+*  The Guardian reporting today on this scale has put a real chill through me and I wanted [[00:04:47](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=287.32s)]
+*  to get your reaction to it. [[00:04:52](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=292.44s)]
+*  Yeah, yeah, you know, I mean, inside DC circles there's hard power, that's the military, [[00:04:54](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=294.64000000000004s)]
+*  the battleships, the F-35s, the weapons, and there's soft power. [[00:05:01](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=301.0s)]
+*  Now soft power is a little harder to understand. [[00:05:04](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=304.68s)]
+*  Soft power is persuasion, it's winning hearts and minds. [[00:05:06](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=306.76000000000005s)]
+*  But let me tell you a story to best illustrate how important soft power is. [[00:05:09](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=309.32000000000005s)]
+*  And the USAID is all about soft power. [[00:05:14](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=314.20000000000005s)]
+*  When I was a freshman, I think it was 2009, 2010, four-star Marine Corps general James [[00:05:17](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=317.28000000000003s)]
+*  Jones walks into my office in a cloud of lethality and testosterone, because he is a United States [[00:05:23](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=323.56s)]
+*  Marine to his core. [[00:05:30](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=330.56s)]
+*  And he says to me, I need you to support the foreign aid budget and USAID. [[00:05:32](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=332.56s)]
+*  And let me tell you why. [[00:05:37](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=337.28s)]
+*  Because I used to have the most unbelievable weaponry you can imagine floating off the [[00:05:39](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=339.0s)]
+*  coast of Lebanon, and Hezbollah was beating me. [[00:05:43](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=343.52s)]
+*  Why? [[00:05:47](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=347.64s)]
+*  Because they were building hospitals for people, because they were running newspapers, because [[00:05:48](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=348.64s)]
+*  they were providing food. [[00:05:52](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=352.24s)]
+*  And he said, if you don't fully fund soft power, USAID, hearts and minds stuff, I'm going [[00:05:53](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=353.84s)]
+*  to lose a lot more Marines. [[00:06:00](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=360.84s)]
+*  So you couldn't have said it better. [[00:06:03](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=363.2s)]
+*  You know, if nothing else, when the worst people on the planet are giving you a standing [[00:06:06](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=366.12s)]
+*  ovation, it's worth asking exactly why that's true. [[00:06:11](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=371.08s)]
+*  I'm worried also about the immediate danger to people who, again, their grave crime is [[00:06:15](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=375.36s)]
+*  having worked with the United States on programs that the U.S. [[00:06:21](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=381.44s)]
+*  Congress agreed to and the American people funded. [[00:06:24](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=384.44s)]
+*  I mean, the Guardian's reporting that some of these, you know, tyrannical governments [[00:06:28](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=388.08s)]
+*  around the world are now asking Elon Musk personally for information from USAID's files, [[00:06:32](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=392.12s)]
+*  grant recipients, non-governmental organizations, individual journalists that have been [[00:06:39](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=399.15999999999997s)]
+*  operating in their country because they had some connection to USAID. [[00:06:43](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=403.96s)]
+*  I have to ask you, does Elon Musk have access to that kind of information? [[00:06:48](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=408.28000000000003s)]
+*  Does he have any authority to share it with other governments? [[00:06:52](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=412.28000000000003s)]
+*  Is there anything that can be done to prevent that eventuality? [[00:06:55](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=415.12s)]
+*  Well, you know, given the impunity and the illegality with which Elon Musk and his merry [[00:06:59](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=419.48s)]
+*  band of 20 year olds have been operating in D.C. [[00:07:03](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=423.96s)]
+*  with, the honest answer is I don't know. [[00:07:06](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=426.4s)]
+*  But I would certainly assume that they've got access to what they want. [[00:07:08](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=428.76s)]
+*  Now, a judge has said you don't get access to the payment system and, you know, all kinds [[00:07:11](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=431.48s)]
+*  of judges, you know, a dozen plus of them are pushing back. [[00:07:15](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=435.36s)]
+*  But these are not people, certainly not Elon Musk, who respect the law or the truth. [[00:07:18](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=438.08000000000004s)]
+*  So, yeah, that is a very real danger. [[00:07:23](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=443.44s)]
+*  And, you know, it's not an accident, Rachel, that they went after USAID. [[00:07:26](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=446.12s)]
+*  If you ask most Americans, what's the one part of the foreign of the federal budget [[00:07:30](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=450.04s)]
+*  you would cut? They say foreign aid, because maybe they don't know that story about Jim [[00:07:33](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=453.64s)]
+*  Jones and how important it is to keeping security. [[00:07:37](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=457.6s)]
+*  Maybe preservation of democracy and decency abroad is an abstraction. [[00:07:40](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=460.04s)]
+*  Relative to the price of eggs. [[00:07:45](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=465.40000000000003s)]
+*  But what they are what they are what they are seeing right now is their country, their [[00:07:47](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=467.32s)]
+*  country whose grandparents fought the Nazis, whose parents fought the Soviets, cutting [[00:07:52](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=472.32s)]
+*  and running from those people who are risking their lives to try to promote democracy in [[00:07:58](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=478.04s)]
+*  various places around the world. [[00:08:02](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=482.72s)]
+*  By the way, including Ukraine. [[00:08:04](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=484.2s)]
+*  You saw what I did with today with President Trump and the Secretary of Defense basically [[00:08:05](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=485.76s)]
+*  saying, oh, man, Ukrainians shouldn't have wandered into this war anyway. [[00:08:09](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=489.8s)]
+*  They were always going to lose it. [[00:08:13](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=493.36s)]
+*  You know, the United States is cutting and running from the role that we have always [[00:08:14](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=494.56s)]
+*  placed played in the world, which was to stand for democracy and a better future for the [[00:08:18](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=498.8s)]
+*  world's people. [[00:08:23](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=503.88s)]
+*  Congressman Jim Himes, ranking member of the House Intelligence Committee, because of [[00:08:25](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=505.64s)]
+*  the Intelligence Committee and its remit, I know a lot of what you know, you can't talk [[00:08:29](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=509.32s)]
+*  about, but I'm going to keep asking you about this stuff because I'm really worried about [[00:08:32](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=512.76s)]
+*  some of these folks around the world and some of the hardest places to live in the world [[00:08:36](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=516.72s)]
+*  who are in real grave danger tonight because of because of what our government is doing. [[00:08:40](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=520.96s)]
+*  Thanks for being here tonight, sir. [[00:08:44](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=524.72s)]
+*  I appreciate it. [[00:08:45](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=525.7600000000001s)]
+*  Thank you. [[00:08:46](https://www.youtube.com/watch?v=fiv2fnFuw_4&t=526.7600000000001s)]
