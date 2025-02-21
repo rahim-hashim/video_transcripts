@@ -1,0 +1,156 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 327s
+Video Keywords: ['Biden', 'Biden Democrats', 'Biden crime family', 'Biden family', 'Biden pardons', 'Brian Kilmeade', 'Democratic Party', 'Democrats', 'FNC', 'FOX', 'Fox & Friends', 'Fox & Friends FNC', 'Fox News', 'Fox News Channel', 'Fox News flash', 'Fox News media', 'Fox News video', 'GOP', 'Hunter Biden laptop', 'Hunter Biden laptop story', 'Miranda Devine', 'New York Post', 'President Trump', 'Trump', 'US', 'US media', 'US news', 'US politics', 'former President Biden', 'media', 'news', 'pardons', 'politics']
+Video Views: 443723
+Video Rating: None
+Video Description: New York Post columnist Miranda Devine reacts to former President Biden's last-minute family pardons and the roles Democrats have played in covering up the Hunter Biden laptop story. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'FITTING END': Biden called out over last-minute 'admission of guilt'
+**Fox News - Fox and Friends:** [January 21, 2025](https://www.youtube.com/watch?v=BJNeoXCXQ9k)
+*  I was surprised that President Biden would go and pardon [[00:00:00](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=0.0s)]
+*  his whole family, because that makes him look very guilty. [[00:00:07](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=7.96s)]
+*  You know, I could have pardoned my family. [[00:00:10](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=10.24s)]
+*  I could have pardoned myself, my family. [[00:00:12](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=12.6s)]
+*  I said, if I do that, it's going to make me look very guilty. [[00:00:14](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=14.48s)]
+*  I don't think I'd be sitting here, frankly. [[00:00:17](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=17.32s)]
+*  Yeah, and how great must have been for him [[00:00:21](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=21.36s)]
+*  to be back in the Oval Office right there, [[00:00:23](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=23.52s)]
+*  talking to the press. [[00:00:25](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=25.2s)]
+*  President Trump reacted to former President Biden's, [[00:00:26](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=26.72s)]
+*  yes, former President Biden's person, I've said that, [[00:00:29](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=29.64s)]
+*  blanket pardons for his siblings and their spouses, [[00:00:32](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=32.2s)]
+*  as well as the J-6 committee members. [[00:00:36](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=36.36s)]
+*  He announced it in the final minutes of his presidency. [[00:00:38](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=38.6s)]
+*  Biden explaining, quote, [[00:00:41](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=41.24s)]
+*  My family has been subjected to unrelenting attacks [[00:00:42](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=42.120000000000005s)]
+*  and threats motivated solely by a desire to hurt me. [[00:00:44](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=44.800000000000004s)]
+*  Really? Unfortunately, I have no reason to believe [[00:00:47](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=47.6s)]
+*  these attacks will end. [[00:00:49](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=49.72s)]
+*  New York Post columnist Miranda Devine joins us now. [[00:00:51](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=51.68000000000001s)]
+*  Miranda, your thoughts about not only the new president's reaction, [[00:00:53](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=53.84s)]
+*  but about the former president's action. [[00:00:58](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=58.32s)]
+*  Look, Brian, I think it was such a fitting end [[00:01:01](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=61.92s)]
+*  to Joe Biden's presidency because it just shows [[00:01:04](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=64.28s)]
+*  the nature of the corruption, [[00:01:07](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=67.96000000000001s)]
+*  how his family was all involved. [[00:01:10](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=70.68s)]
+*  All his brothers, both Frank and Jim, [[00:01:13](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=73.08s)]
+*  as well as his sister Val and their spouses, have been pardoned. [[00:01:16](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=76.4s)]
+*  And that is an admission of guilt. [[00:01:21](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=81.36s)]
+*  As Donald Trump just said then, [[00:01:23](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=83.2s)]
+*  he didn't do that for his own family, for himself, [[00:01:25](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=85.12s)]
+*  when he was president last time, [[00:01:28](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=88.2s)]
+*  even though he was being hounded by Democrats and lawfare, [[00:01:29](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=89.72s)]
+*  because he said that would be an admission of guilt. [[00:01:34](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=94.32000000000001s)]
+*  And that's what Joe Biden has done. He's admitted guilt. [[00:01:36](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=96.48s)]
+*  I'm thinking about James Comer's book [[00:01:39](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=99.72s)]
+*  when he said there's what, the $240,000 payment [[00:01:41](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=101.48s)]
+*  from his brother James to Joe. Why did he do it? [[00:01:44](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=104.80000000000001s)]
+*  Well, just gave it to him. Really? [[00:01:47](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=107.12s)]
+*  He just gave them that much money. [[00:01:48](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=108.24000000000001s)]
+*  What was the reason behind that? [[00:01:49](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=109.80000000000001s)]
+*  Now, think about your book, Laptop from Hell. [[00:01:51](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=111.16s)]
+*  You were the first one to forensically go through and say, [[00:01:53](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=113.04s)]
+*  where's this money coming from and where is it? [[00:01:55](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=115.84s)]
+*  Well, that's why Sarah Biden needs a pardon. [[00:01:58](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=118.76s)]
+*  She's Jim Biden's wife, [[00:02:01](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=121.84s)]
+*  and she was the one who withdrew cash from their account [[00:02:04](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=124.24000000000001s)]
+*  after Hunter had given them some Chinese money, [[00:02:08](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=128.2s)]
+*  some of the Chinese money that he'd got. [[00:02:11](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=131.04s)]
+*  She takes it out in cash, she puts it into another account, [[00:02:13](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=133.48000000000002s)]
+*  and then she cuts a check for Joe Biden, [[00:02:16](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=136.76s)]
+*  and she writes in the memo line, loan repayment. [[00:02:18](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=138.8s)]
+*  So, I mean, that is why do you need to go [[00:02:22](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=142.12s)]
+*  to all those financial shenanigans [[00:02:24](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=144.68s)]
+*  to write a loan repayment check. [[00:02:27](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=147.64000000000001s)]
+*  By the way, Democrats are not happy about this. [[00:02:29](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=149.56s)]
+*  They're trying to find their footing, [[00:02:31](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=151.6s)]
+*  and they say Joe Biden's made things [[00:02:33](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=153.28s)]
+*  markedly worse when he's leaving. [[00:02:34](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=154.68s)]
+*  Amy Klobuchar says, this goes to, I don't support this, [[00:02:36](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=156.0s)]
+*  and this really undermines the justice system, [[00:02:39](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=159.0s)]
+*  and we have to revamp the pardons. [[00:02:41](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=161.72s)]
+*  Well, now they say that, [[00:02:43](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=163.28s)]
+*  but they've been covering up Joe Biden's corruption. [[00:02:44](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=164.72s)]
+*  I mean, it's been in the open. [[00:02:47](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=167.24s)]
+*  We at the New York Post have been exposing it for four years, [[00:02:48](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=168.52s)]
+*  and they've pretended that it was all Russian disinformation, [[00:02:51](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=171.60000000000002s)]
+*  and lies. [[00:02:54](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=174.56s)]
+*  You're just such a perfect person for this segment [[00:02:55](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=175.48s)]
+*  and this portion of our interview. [[00:02:57](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=177.88s)]
+*  51 intel agents that signed off [[00:03:00](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=180.16s)]
+*  that the Hunter Biden laptop was Russian disinformation. [[00:03:02](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=182.32s)]
+*  Well, that has not slipped by the president's mind. [[00:03:05](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=185.72s)]
+*  He doesn't have short-term memory loss. [[00:03:08](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=188.24s)]
+*  Yesterday, he suspended their security clearances [[00:03:10](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=190.12s)]
+*  for falsely implying that the laptop was not real. [[00:03:13](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=193.32s)]
+*  Yeah, they didn't imply. [[00:03:17](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=197.72s)]
+*  They said that it was Russian disinformation in their... [[00:03:19](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=199.04s)]
+*  What about Leon Fetta, John Brennan? [[00:03:22](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=202.12s)]
+*  Exactly. Mike Morrell. [[00:03:24](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=204.64000000000001s)]
+*  That letter was instigated by Antony Blinken. [[00:03:26](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=206.92000000000002s)]
+*  Thank God, no longer the Secretary of State. [[00:03:30](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=210.44s)]
+*  He was a campaign adviser. [[00:03:32](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=212.44s)]
+*  He calls up former acting director of the CIA, Mike Morrell, [[00:03:34](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=214.4s)]
+*  and gets him to write this letter. [[00:03:38](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=218.36s)]
+*  It was a campaign stunt. They all knew it. [[00:03:39](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=219.96s)]
+*  They all knew it was to give Joe Biden a talking point [[00:03:43](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=223.44s)]
+*  in that final debate against Donald Trump, and they lied. [[00:03:46](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=226.20000000000002s)]
+*  And so the very least that should happen to them [[00:03:50](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=230.32000000000002s)]
+*  is to get their security clearances stripped now [[00:03:52](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=232.8s)]
+*  four years later. [[00:03:55](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=235.20000000000002s)]
+*  They make money out of those security clearances. [[00:03:56](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=236.48000000000002s)]
+*  Keep in mind, that was like the death nail in that story [[00:03:59](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=239.56s)]
+*  that made it almost impossible to run with [[00:04:03](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=243.24s)]
+*  because 51 intel agents, [[00:04:05](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=245.12s)]
+*  Leon Panetta's not known as a blatant partisan, [[00:04:06](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=246.84s)]
+*  even though he worked for Democratic administrators. [[00:04:08](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=248.8s)]
+*  And you thought to yourself, OK, guess who else was duped by that? [[00:04:11](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=251.0s)]
+*  Mark Zuckerberg was briefed in the summer [[00:04:14](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=254.12s)]
+*  before the laptop story broke, [[00:04:16](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=256.56s)]
+*  thanks to Rudy Giuliani and the New York Post. [[00:04:18](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=258.24s)]
+*  And when it happened, he goes, [[00:04:20](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=260.52s)]
+*  Oh, yeah, just like they told me in the summer. [[00:04:21](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=261.8s)]
+*  I want to continue to find out who the FBI agents [[00:04:23](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=263.76s)]
+*  that told Zuckerberg that and who the FBI agents [[00:04:26](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=266.52000000000004s)]
+*  that talked to the owner of the computer repair shop [[00:04:29](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=269.04s)]
+*  and made them seem like the criminals. [[00:04:32](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=272.28000000000003s)]
+*  Instead of saying thank you for coming forward, [[00:04:34](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=274.2s)]
+*  we'll look into that. [[00:04:36](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=276.76s)]
+*  Absolutely. The same thing with Twitter. [[00:04:37](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=277.68s)]
+*  I mean, the FBI is definitely a part of this deep state cover-up [[00:04:39](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=279.68s)]
+*  of Joe Biden's corruption. [[00:04:43](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=283.52s)]
+*  And I'm sure that Cash Patel, Pam Bondi, [[00:04:45](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=285.32s)]
+*  John Ratcliffe and Tulsi Gabbard will get to the bottom of it. [[00:04:49](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=289.68s)]
+*  And by the way, you know who was president during this time? [[00:04:53](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=293.15999999999997s)]
+*  Donald Trump. Yeah. [[00:04:55](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=295.44s)]
+*  So even before the Bidens were in office [[00:04:56](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=296.44s)]
+*  and Democrats were in office, [[00:04:59](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=299.56s)]
+*  they had the power of the FBI in many cases. [[00:05:00](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=300.71999999999997s)]
+*  They are completely out of control. [[00:05:04](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=304.24s)]
+*  Just unaccountable deep staters. [[00:05:06](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=306.76s)]
+*  And they acted against Donald Trump, his entire first presidency. [[00:05:08](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=308.96s)]
+*  Hopefully it's over. Thanks so much, Miranda Devine. [[00:05:12](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=312.08s)]
+*  Great to see you. Thanks so much. [[00:05:14](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=314.24s)]
+*  It was an exciting time. [[00:05:15](https://www.youtube.com/watch?v=BJNeoXCXQ9k&t=315.32s)]

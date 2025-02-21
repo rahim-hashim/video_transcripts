@@ -1,0 +1,157 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 295s
+Video Keywords: ['Bob Unanue', 'Fox and Friends weekend Goya Cares', 'Fox and friends Goya CEO', 'Goya', 'Goya CEO Bob unanue Sara Carter', 'Goya Cares', 'Goya Cares Human Trafficking', 'Goya Foods CEO Bob Unanue', 'Goya Tom Homan', 'Goya border crisis', 'Goya foods', 'Human Trafficking', 'Human Trafficking awareness month', 'Sara Carter', 'Tom Homan', 'border', 'border crisis', 'fox news contributor sara carter', 'missing migrant children', 'tom homan border czar']
+Video Views: 269895
+Video Rating: None
+Video Description: CEO of Goya Bob Unanue and Fox News contributor Sara Carter join 'Fox & Friends Weekend' to discuss the Goya Cares initiative teaming up with Tom Homan to locate missing migrant children.
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/ 
+ 
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+ 
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night 
+ 
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'Goya Cares' is helping locate trafficked migrant children
+**Fox News - Fox and Friends:** [January 26, 2025](https://www.youtube.com/watch?v=04-ft07I6pE)
+*  Goya Cares is teaming up with Border Czar Tom Holman [[00:00:00](https://www.youtube.com/watch?v=04-ft07I6pE&t=0.0s)]
+*  and investigative reporter Sarah Carter [[00:00:03](https://www.youtube.com/watch?v=04-ft07I6pE&t=3.8000000000000003s)]
+*  to launch an initiative aimed at locating over 325,000 [[00:00:05](https://www.youtube.com/watch?v=04-ft07I6pE&t=5.66s)]
+*  missing illegal migrant children [[00:00:10](https://www.youtube.com/watch?v=04-ft07I6pE&t=10.200000000000001s)]
+*  for Human Trafficking Awareness Month. [[00:00:13](https://www.youtube.com/watch?v=04-ft07I6pE&t=13.14s)]
+*  Here to discuss is Goya CEO Bob Yunnanwe [[00:00:16](https://www.youtube.com/watch?v=04-ft07I6pE&t=16.1s)]
+*  and Fox News contributor Sarah Carter. [[00:00:18](https://www.youtube.com/watch?v=04-ft07I6pE&t=18.34s)]
+*  So back in the summer, [[00:00:21](https://www.youtube.com/watch?v=04-ft07I6pE&t=21.22s)]
+*  myself and Will and Pete interviewed Donald Trump. [[00:00:24](https://www.youtube.com/watch?v=04-ft07I6pE&t=24.62s)]
+*  I asked him directly, [[00:00:27](https://www.youtube.com/watch?v=04-ft07I6pE&t=27.32s)]
+*  will you find these children who are missing? [[00:00:28](https://www.youtube.com/watch?v=04-ft07I6pE&t=28.34s)]
+*  And he said, yes, of course. [[00:00:31](https://www.youtube.com/watch?v=04-ft07I6pE&t=31.08s)]
+*  And I was so heartened to learn [[00:00:33](https://www.youtube.com/watch?v=04-ft07I6pE&t=33.28s)]
+*  that he was already starting on this right away, [[00:00:34](https://www.youtube.com/watch?v=04-ft07I6pE&t=34.76s)]
+*  as soon as he won, he got Tom Holman on it. [[00:00:38](https://www.youtube.com/watch?v=04-ft07I6pE&t=38.22s)]
+*  So Bob, I'll start with you. [[00:00:40](https://www.youtube.com/watch?v=04-ft07I6pE&t=40.46s)]
+*  What is Goya doing to help Tom Holman [[00:00:41](https://www.youtube.com/watch?v=04-ft07I6pE&t=41.96s)]
+*  in the search for these children, which is so tragic? [[00:00:45](https://www.youtube.com/watch?v=04-ft07I6pE&t=45.66s)]
+*  Well, what a difference an election makes, right? [[00:00:48](https://www.youtube.com/watch?v=04-ft07I6pE&t=48.0s)]
+*  And people who care about, [[00:00:50](https://www.youtube.com/watch?v=04-ft07I6pE&t=50.36s)]
+*  this past administration has been active [[00:00:52](https://www.youtube.com/watch?v=04-ft07I6pE&t=52.58s)]
+*  in bringing in people, [[00:00:54](https://www.youtube.com/watch?v=04-ft07I6pE&t=54.980000000000004s)]
+*  not just from the Northern Southern border, [[00:00:57](https://www.youtube.com/watch?v=04-ft07I6pE&t=57.26s)]
+*  but a parole system where we're flying people in [[00:00:59](https://www.youtube.com/watch?v=04-ft07I6pE&t=59.46s)]
+*  from Nicaragua, Haiti, Venezuela and Cuba. [[00:01:02](https://www.youtube.com/watch?v=04-ft07I6pE&t=62.120000000000005s)]
+*  But we were involved in the movie Sound of Freedom, [[00:01:06](https://www.youtube.com/watch?v=04-ft07I6pE&t=66.5s)]
+*  where we became aware of this tremendous evil [[00:01:09](https://www.youtube.com/watch?v=04-ft07I6pE&t=69.9s)]
+*  of trafficking. [[00:01:14](https://www.youtube.com/watch?v=04-ft07I6pE&t=74.1s)]
+*  And so with that awareness, [[00:01:15](https://www.youtube.com/watch?v=04-ft07I6pE&t=75.54s)]
+*  we formed the coalition of different people, [[00:01:19](https://www.youtube.com/watch?v=04-ft07I6pE&t=79.04s)]
+*  organizations that to raise awareness, [[00:01:21](https://www.youtube.com/watch?v=04-ft07I6pE&t=81.62s)]
+*  we're going into schools with people like Monique Bear, [[00:01:25](https://www.youtube.com/watch?v=04-ft07I6pE&t=85.03999999999999s)]
+*  Crime Soppers, different groups, [[00:01:29](https://www.youtube.com/watch?v=04-ft07I6pE&t=89.03999999999999s)]
+*  to bring awareness to this problem. [[00:01:32](https://www.youtube.com/watch?v=04-ft07I6pE&t=92.11999999999999s)]
+*  Because before that we weren't aware that this, [[00:01:34](https://www.youtube.com/watch?v=04-ft07I6pE&t=94.08s)]
+*  again, this last administration [[00:01:36](https://www.youtube.com/watch?v=04-ft07I6pE&t=96.75999999999999s)]
+*  was actively bringing this in. [[00:01:38](https://www.youtube.com/watch?v=04-ft07I6pE&t=98.36s)]
+*  We've gone from 85,000 children missing to 340,000, [[00:01:40](https://www.youtube.com/watch?v=04-ft07I6pE&t=100.92s)]
+*  but they're not missing, they've been sold. [[00:01:45](https://www.youtube.com/watch?v=04-ft07I6pE&t=105.32s)]
+*  They're purchased basically, [[00:01:47](https://www.youtube.com/watch?v=04-ft07I6pE&t=107.66s)]
+*  and then handed off to sponsors, [[00:01:49](https://www.youtube.com/watch?v=04-ft07I6pE&t=109.24s)]
+*  40 children at one address. [[00:01:51](https://www.youtube.com/watch?v=04-ft07I6pE&t=111.8s)]
+*  That's not a home, it's a business. [[00:01:54](https://www.youtube.com/watch?v=04-ft07I6pE&t=114.66s)]
+*  You're absolutely right, [[00:01:57](https://www.youtube.com/watch?v=04-ft07I6pE&t=117.1s)]
+*  and I love that you're going into the schools, Bob, [[00:01:58](https://www.youtube.com/watch?v=04-ft07I6pE&t=118.3s)]
+*  because so many of these kids [[00:01:59](https://www.youtube.com/watch?v=04-ft07I6pE&t=119.9s)]
+*  are ending up in the school system. [[00:02:01](https://www.youtube.com/watch?v=04-ft07I6pE&t=121.67999999999999s)]
+*  And you're able to give the signs [[00:02:03](https://www.youtube.com/watch?v=04-ft07I6pE&t=123.94s)]
+*  and let them know that there's help for them [[00:02:06](https://www.youtube.com/watch?v=04-ft07I6pE&t=126.34s)]
+*  and resources should that happen. [[00:02:09](https://www.youtube.com/watch?v=04-ft07I6pE&t=129.07999999999998s)]
+*  But obviously this is going to take law enforcement, [[00:02:11](https://www.youtube.com/watch?v=04-ft07I6pE&t=131.12s)]
+*  right, Sarah? [[00:02:13](https://www.youtube.com/watch?v=04-ft07I6pE&t=133.42s)]
+*  Oh, it's gonna take a huge cooperation [[00:02:14](https://www.youtube.com/watch?v=04-ft07I6pE&t=134.66s)]
+*  with federal, local, state law enforcement officials, [[00:02:16](https://www.youtube.com/watch?v=04-ft07I6pE&t=136.26s)]
+*  as well as I think our partners in the Western hemisphere. [[00:02:19](https://www.youtube.com/watch?v=04-ft07I6pE&t=139.72s)]
+*  There's no way to stop this kind of crisis alone. [[00:02:22](https://www.youtube.com/watch?v=04-ft07I6pE&t=142.62s)]
+*  I mean, everybody has to be working together. [[00:02:26](https://www.youtube.com/watch?v=04-ft07I6pE&t=146.32s)]
+*  Bob's right with Goya Cares, [[00:02:28](https://www.youtube.com/watch?v=04-ft07I6pE&t=148.62s)]
+*  we're able to get out there [[00:02:30](https://www.youtube.com/watch?v=04-ft07I6pE&t=150.2s)]
+*  and educate students in the schools. [[00:02:31](https://www.youtube.com/watch?v=04-ft07I6pE&t=151.45999999999998s)]
+*  We're able to find within the communities [[00:02:33](https://www.youtube.com/watch?v=04-ft07I6pE&t=153.5s)]
+*  those kids that may be trafficked, [[00:02:36](https://www.youtube.com/watch?v=04-ft07I6pE&t=156.06s)]
+*  that may be afraid, they can go to someone, [[00:02:38](https://www.youtube.com/watch?v=04-ft07I6pE&t=158.06s)]
+*  feel safe, and report what's happening. [[00:02:40](https://www.youtube.com/watch?v=04-ft07I6pE&t=160.06s)]
+*  And then, but it's the aftercare [[00:02:42](https://www.youtube.com/watch?v=04-ft07I6pE&t=162.54s)]
+*  that's gonna be the most important. [[00:02:44](https://www.youtube.com/watch?v=04-ft07I6pE&t=164.14s)]
+*  That's what I wanna know, [[00:02:44](https://www.youtube.com/watch?v=04-ft07I6pE&t=164.98s)]
+*  what happens after you find them? [[00:02:45](https://www.youtube.com/watch?v=04-ft07I6pE&t=165.79999999999998s)]
+*  What is happening to these children? [[00:02:46](https://www.youtube.com/watch?v=04-ft07I6pE&t=166.74s)]
+*  The Biden administration, Tom Holman, [[00:02:48](https://www.youtube.com/watch?v=04-ft07I6pE&t=168.57999999999998s)]
+*  you guys find them and then what happens? [[00:02:51](https://www.youtube.com/watch?v=04-ft07I6pE&t=171.24s)]
+*  Well, I think that the very first thing is mental health. [[00:02:53](https://www.youtube.com/watch?v=04-ft07I6pE&t=173.64s)]
+*  I mean, a lot of what we're dealing with now [[00:02:56](https://www.youtube.com/watch?v=04-ft07I6pE&t=176.74s)]
+*  and finding their parents, their actual guardians, [[00:02:58](https://www.youtube.com/watch?v=04-ft07I6pE&t=178.34s)]
+*  because a lot of these children have come into the country, [[00:03:00](https://www.youtube.com/watch?v=04-ft07I6pE&t=180.52s)]
+*  have disappeared into homes where they're being sold, [[00:03:02](https://www.youtube.com/watch?v=04-ft07I6pE&t=182.98s)]
+*  as Bob has stated. [[00:03:07](https://www.youtube.com/watch?v=04-ft07I6pE&t=187.08s)]
+*  So we need to locate their guardians. [[00:03:08](https://www.youtube.com/watch?v=04-ft07I6pE&t=188.06s)]
+*  One thing I can say, Rachel, [[00:03:10](https://www.youtube.com/watch?v=04-ft07I6pE&t=190.26s)]
+*  I spoke with President Bukele, [[00:03:11](https://www.youtube.com/watch?v=04-ft07I6pE&t=191.56s)]
+*  I've been to El Salvador a number of times. [[00:03:14](https://www.youtube.com/watch?v=04-ft07I6pE&t=194.16s)]
+*  We know that children have been trying to contact relatives [[00:03:16](https://www.youtube.com/watch?v=04-ft07I6pE&t=196.6s)]
+*  HHS has a hotline. [[00:03:21](https://www.youtube.com/watch?v=04-ft07I6pE&t=201.22s)]
+*  Some of these children have called that hotline. [[00:03:22](https://www.youtube.com/watch?v=04-ft07I6pE&t=202.98000000000002s)]
+*  These children are gonna find their way back to safety [[00:03:26](https://www.youtube.com/watch?v=04-ft07I6pE&t=206.02s)]
+*  because Tom Holman is gonna be leading that effort [[00:03:28](https://www.youtube.com/watch?v=04-ft07I6pE&t=208.88s)]
+*  with President Trump. [[00:03:31](https://www.youtube.com/watch?v=04-ft07I6pE&t=211.70000000000002s)]
+*  And the people who are trafficking these children [[00:03:32](https://www.youtube.com/watch?v=04-ft07I6pE&t=212.98000000000002s)]
+*  in the United States need to be held [[00:03:35](https://www.youtube.com/watch?v=04-ft07I6pE&t=215.32s)]
+*  to the full extent of the law. [[00:03:37](https://www.youtube.com/watch?v=04-ft07I6pE&t=217.64000000000001s)]
+*  They absolutely have to be punished. [[00:03:39](https://www.youtube.com/watch?v=04-ft07I6pE&t=219.52s)]
+*  There is no way that we can allow this [[00:03:41](https://www.youtube.com/watch?v=04-ft07I6pE&t=221.32s)]
+*  to continue to happen. [[00:03:43](https://www.youtube.com/watch?v=04-ft07I6pE&t=223.86s)]
+*  We're a nation that is based on principles and morals [[00:03:44](https://www.youtube.com/watch?v=04-ft07I6pE&t=224.98000000000002s)]
+*  and we can't sit around and we can't accuse anyone else [[00:03:48](https://www.youtube.com/watch?v=04-ft07I6pE&t=228.44s)]
+*  of doing anything if we're not willing to take care [[00:03:51](https://www.youtube.com/watch?v=04-ft07I6pE&t=231.35999999999999s)]
+*  of the problem that has happened in this country [[00:03:53](https://www.youtube.com/watch?v=04-ft07I6pE&t=233.79999999999998s)]
+*  because of a wide open border under President Biden. [[00:03:56](https://www.youtube.com/watch?v=04-ft07I6pE&t=236.1s)]
+*  Well, Bob, as you know, we were complicit in this. [[00:03:59](https://www.youtube.com/watch?v=04-ft07I6pE&t=239.2s)]
+*  Congress, the Democrats refused to do DNA tests [[00:04:02](https://www.youtube.com/watch?v=04-ft07I6pE&t=242.32s)]
+*  on these children. [[00:04:04](https://www.youtube.com/watch?v=04-ft07I6pE&t=244.61999999999998s)]
+*  And then they handed them off to people we don't know. [[00:04:05](https://www.youtube.com/watch?v=04-ft07I6pE&t=245.76s)]
+*  They're telling me I have to wrap [[00:04:07](https://www.youtube.com/watch?v=04-ft07I6pE&t=247.88s)]
+*  one last sentence from you, Bob. [[00:04:09](https://www.youtube.com/watch?v=04-ft07I6pE&t=249.45999999999998s)]
+*  This is the biggest industry in the world. [[00:04:11](https://www.youtube.com/watch?v=04-ft07I6pE&t=251.39999999999998s)]
+*  It's the money and the power that we seek. [[00:04:13](https://www.youtube.com/watch?v=04-ft07I6pE&t=253.72s)]
+*  This administration who cares about our kids, [[00:04:17](https://www.youtube.com/watch?v=04-ft07I6pE&t=257.54s)]
+*  they're gonna solve this. [[00:04:20](https://www.youtube.com/watch?v=04-ft07I6pE&t=260.66s)]
+*  We've already not one week into this administration [[00:04:22](https://www.youtube.com/watch?v=04-ft07I6pE&t=262.16s)]
+*  and we're already saving thousands of people. [[00:04:24](https://www.youtube.com/watch?v=04-ft07I6pE&t=264.7s)]
+*  It's unbelievable and it's remarkable [[00:04:27](https://www.youtube.com/watch?v=04-ft07I6pE&t=267.62s)]
+*  what you've done, Sarah. [[00:04:30](https://www.youtube.com/watch?v=04-ft07I6pE&t=270.26s)]
+*  And Bob, there are very few CEOs who wanna take on [[00:04:31](https://www.youtube.com/watch?v=04-ft07I6pE&t=271.56s)]
+*  an ugly issue like this. [[00:04:34](https://www.youtube.com/watch?v=04-ft07I6pE&t=274.44s)]
+*  God bless you for putting your efforts [[00:04:36](https://www.youtube.com/watch?v=04-ft07I6pE&t=276.18s)]
+*  and your money behind something like this. [[00:04:37](https://www.youtube.com/watch?v=04-ft07I6pE&t=277.86s)]
+*  Very few presidents. [[00:04:40](https://www.youtube.com/watch?v=04-ft07I6pE&t=280.26s)]
+*  And very few presidents. [[00:04:41](https://www.youtube.com/watch?v=04-ft07I6pE&t=281.68s)]
+*  Amen to that. [[00:04:43](https://www.youtube.com/watch?v=04-ft07I6pE&t=283.06s)]
+*  Thank you, Bob. [[00:04:44](https://www.youtube.com/watch?v=04-ft07I6pE&t=284.22s)]
+*  I'm Steve Ducey. [[00:04:45](https://www.youtube.com/watch?v=04-ft07I6pE&t=285.14s)]
+*  I'm Brian Kilmeade. [[00:04:46](https://www.youtube.com/watch?v=04-ft07I6pE&t=286.03999999999996s)]
+*  And I'm Ainsley Earhart. [[00:04:46](https://www.youtube.com/watch?v=04-ft07I6pE&t=286.96s)]
+*  And click here to subscribe to the Fox News YouTube page [[00:04:47](https://www.youtube.com/watch?v=04-ft07I6pE&t=287.91999999999996s)]
+*  to catch our hottest interviews [[00:04:50](https://www.youtube.com/watch?v=04-ft07I6pE&t=290.88s)]
+*  and most compelling analysis. [[00:04:52](https://www.youtube.com/watch?v=04-ft07I6pE&t=292.4s)]

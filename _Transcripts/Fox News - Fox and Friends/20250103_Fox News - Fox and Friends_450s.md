@@ -1,0 +1,156 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 450s
+Video Keywords: ['joe biden', 'president biden', 'biden administration', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'fox & friends', 'nuclear weapons', 'iran nuclear weapons', 'iran nuclear program', 'iran nuclear sites', 'tehran nuclear sites', 'tehran nuclear program', 'biden foreign policy', 'politics', 'foreign policy', 'middle east', 'middle east foreign policy', 'iran nuclear deal', 'iran nuclear', 'iran nuclear sites attacked', 'iran nuclear facilities']
+Video Views: 250500
+Video Rating: None
+Video Description: Fox News senior strategic analyst Jack Keane joined 'Fox & Friends' to discuss the rise of radical Islamic terrorism and his reaction to Biden reportedly discussing strikes on Tehran's nuclear sites. #FoxNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Biden reportedly weighed strikes on Iranian nuclear sites
+**Fox News - Fox and Friends:** [January 03, 2025](https://www.youtube.com/watch?v=F5_zKiwXVZA)
+*  the FBI is changing their assessment after saying they believe there could be additional [[00:00:00](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=0.0s)]
+*  suspects in the New Orleans terror attack. [[00:00:07](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=7.28s)]
+*  Let me be very clear about this point. [[00:00:11](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=11.28s)]
+*  This was an act of terrorism. [[00:00:13](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=13.64s)]
+*  We do not assess at this point that anyone else involved in this attack is involved in [[00:00:16](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=16.34s)]
+*  this attack except for Shamsa Dinn Jabbar, the subject you've already been briefed on. [[00:00:22](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=22.82s)]
+*  He served in the military for a period of time. [[00:00:29](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=29.46s)]
+*  Here to discuss all this is retired four-star general Jack Keene. [[00:00:33](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=33.1s)]
+*  But before we get to Jack Keene, I want to just go over some of the history and some [[00:00:36](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=36.78s)]
+*  of the organizations to reframe your mind. [[00:00:40](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=40.54s)]
+*  We talk about this every day. [[00:00:43](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=43.22s)]
+*  I mean, let's go back to Hamas. [[00:00:44](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=44.660000000000004s)]
+*  In the 1980s, they emerged right in the Gaza West Bank area. [[00:00:46](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=46.8s)]
+*  Their goal as a Sunni extremist organization to oust all Western culture, especially Israel, [[00:00:51](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=51.400000000000006s)]
+*  from what they consider Palestine, which it's not. [[00:00:58](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=58.7s)]
+*  They still exist today. [[00:01:01](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=61.02s)]
+*  They are financed and loosely affiliated with Iran. [[00:01:02](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=62.02s)]
+*  But they're Shia Iran. [[00:01:05](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=65.58s)]
+*  Brings us to al-Qaeda, emerged really during the Soviet Union occupation of Afghanistan, [[00:01:07](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=67.3s)]
+*  led by Osama bin Laden, famously. [[00:01:12](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=72.38s)]
+*  They were really kicked out of Saudi Arabia where it started. [[00:01:14](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=74.54s)]
+*  They took root over in Pakistan, Afghanistan region. [[00:01:17](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=77.30000000000001s)]
+*  They also had a presence in Sudan. [[00:01:20](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=80.66s)]
+*  The relevance today, their branches are still operating in and around there and gave birth [[00:01:22](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=82.54s)]
+*  to some derivatives who they often brawl with. [[00:01:27](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=87.06s)]
+*  One of those derivatives is ISIS, famously called by four-star General Austin at the [[00:01:30](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=90.30000000000001s)]
+*  time and who was told, President Biden at the time, don't worry about it. [[00:01:35](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=95.82000000000001s)]
+*  They're really not a big deal. [[00:01:40](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=100.74000000000001s)]
+*  They're like the JV team. [[00:01:42](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=102.18s)]
+*  They're not the JV team. [[00:01:44](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=104.22s)]
+*  They can be, they are famed for being able to inspire people without training them in [[00:01:45](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=105.76s)]
+*  person. [[00:01:50](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=110.7s)]
+*  And of course, this latest attack in New Orleans, this suspect who is now dead was [[00:01:51](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=111.7s)]
+*  inspired by ISIS. [[00:01:56](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=116.78s)]
+*  So let's talk to General Jack Keene about all this, the Chairman for the Institute of [[00:01:59](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=119.46000000000001s)]
+*  Study of War. [[00:02:03](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=123.26s)]
+*  So General, as we're going to weave in some of the incidents that have happened over the [[00:02:04](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=124.54s)]
+*  last year of terror attacks around the world, how do we stop this? [[00:02:08](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=128.74s)]
+*  Is there something we could do in the Middle East to stop what's happening in the West? [[00:02:13](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=133.02s)]
+*  Well, certainly at the foundation of all of this is an ideology that perpetuates it. [[00:02:18](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=138.3s)]
+*  And they have a big idea and it's difficult to defeat an idea like that, given the roots [[00:02:24](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=144.34s)]
+*  that exist in some of these countries to help fester and grow that idea. [[00:02:29](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=149.70000000000002s)]
+*  But all three of those terrorist organizations are mere shadows of the former self, Brian. [[00:02:34](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=154.3s)]
+*  Let's face it, Hamas has decimated, Al-Qaeda has never actually recovered from taking down [[00:02:39](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=159.70000000000002s)]
+*  Osama bin Laden and his entire network. [[00:02:47](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=167.1s)]
+*  They still exist. [[00:02:49](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=169.78s)]
+*  They're still a threat, but they're not on the stage that they used to be as major global [[00:02:50](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=170.78s)]
+*  threat. [[00:02:54](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=174.46s)]
+*  ISIS had a caliphate and that was destroyed. [[00:02:55](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=175.45999999999998s)]
+*  The Trump administration dismantled it in Iraq and Syria. [[00:02:58](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=178.98s)]
+*  Now, the fact is that there are hotspots around the world. [[00:03:03](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=183.18s)]
+*  There's still radical Islamist organizations in 40 countries and the hotspots, fortunately, [[00:03:07](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=187.1s)]
+*  are not in the United States. [[00:03:12](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=192.14s)]
+*  These are organizations that exist. [[00:03:13](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=193.7s)]
+*  They have networks. [[00:03:16](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=196.06s)]
+*  They do planned and premeditated attacks. [[00:03:17](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=197.74s)]
+*  And they're taking place in Africa, in Mali, in Kenya, in Niger, in Somalia, in Indonesia, [[00:03:20](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=200.3s)]
+*  in Southeast Asia, and obviously in Pakistan and Afghanistan, where there is a rise of [[00:03:27](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=207.14000000000001s)]
+*  ISIS and their desire to conduct attacks outside of Afghanistan. [[00:03:32](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=212.58s)]
+*  We've already seen it in Iran and in Europe. [[00:03:37](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=217.7s)]
+*  And certainly the United States is trying to keep its eye on that. [[00:03:40](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=220.7s)]
+*  As you pointed out early in the show, we don't have our eyes and ears. [[00:03:43](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=223.54000000000002s)]
+*  We closed our multiple CIA bases and we certainly have no one on the ground to keep an eye on [[00:03:46](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=226.94s)]
+*  that threat. [[00:03:51](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=231.94s)]
+*  But nonetheless, the United States is not one of the hotspots where radical Islam extremism [[00:03:53](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=233.20000000000002s)]
+*  is on the rise. [[00:03:58](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=238.9s)]
+*  It is in some other places in the world and we have to maintain our diligence. [[00:04:00](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=240.58s)]
+*  I'm not saying we ease up on anything. [[00:04:04](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=244.78s)]
+*  We've got good intelligence. [[00:04:07](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=247.38s)]
+*  We have good counterterrorism organizations that we've put together after 9-11, where [[00:04:08](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=248.62s)]
+*  we're coordinating these activities and watching them. [[00:04:13](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=253.98000000000002s)]
+*  But here we don't have networks that we're dealing against. [[00:04:17](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=257.14s)]
+*  We don't have an organization that we're dealing against. [[00:04:20](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=260.62s)]
+*  We're dealing with a lone wolf who's very hard to penetrate that person, an individual [[00:04:22](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=262.78000000000003s)]
+*  on the Internet, that's getting more and more radicalized and then makes a decision to jihad [[00:04:28](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=268.26s)]
+*  and use violence against his own people. [[00:04:34](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=274.26s)]
+*  It's very difficult to discern that and prevent it, obviously. [[00:04:37](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=277.70000000000005s)]
+*  Obviously. [[00:04:41](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=281.26000000000005s)]
+*  So when President Trump takes over on January 20th, he's got a situation in the Middle East [[00:04:42](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=282.26000000000005s)]
+*  simmering, a lot of people waiting for him, maybe Netanyahu is. [[00:04:47](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=287.02000000000004s)]
+*  There's a report today in Axios that Joe Biden discussed plans to strike Iran's nuclear sites [[00:04:51](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=291.06s)]
+*  if Tehran was speeding towards a bomb. [[00:04:56](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=296.76000000000005s)]
+*  I heard they are speeding towards a bomb. [[00:04:59](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=299.66s)]
+*  Do you look at that? [[00:05:02](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=302.54s)]
+*  Do your sources say the same thing? [[00:05:03](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=303.54s)]
+*  Well, here's the issue. [[00:05:08](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=308.26s)]
+*  I mean, the Iranians have a decision to make. [[00:05:09](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=309.26s)]
+*  And look at what happened to them. [[00:05:11](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=311.78s)]
+*  Hamas and Hezbollah decimated. [[00:05:12](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=312.94s)]
+*  Hezbollah was the organization that they created to protect Iran from Israel. [[00:05:14](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=314.73999999999995s)]
+*  And that organization also has got major problems. [[00:05:20](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=320.58s)]
+*  They've lost their strategic platform in Syria. [[00:05:23](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=323.97999999999996s)]
+*  They are defenseless at home because Israel stripped away their air defense system. [[00:05:27](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=327.0s)]
+*  They can't even protect their leaders in Tehran, to be frank about it, much less their nuclear [[00:05:31](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=331.53999999999996s)]
+*  systems and their rockets and missiles. [[00:05:35](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=335.82s)]
+*  So what's their choice? [[00:05:37](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=337.97999999999996s)]
+*  What they want to do more than anything else is preserve their regime. [[00:05:40](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=340.05999999999995s)]
+*  They've always thought a nuclear weapon would do that. [[00:05:43](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=343.65999999999997s)]
+*  They believe Saddam Hussein would still be in power today and so would Gaddafi if they [[00:05:46](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=346.26s)]
+*  had pursued a nuclear weapon successfully. [[00:05:51](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=351.11999999999995s)]
+*  Are they now going to pursue that and get there in a matter of months? [[00:05:53](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=353.97999999999996s)]
+*  That remains to be seen. [[00:05:58](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=358.58s)]
+*  I think our intelligence agencies are watching it like a hawk. [[00:05:59](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=359.58s)]
+*  I know where Prime Minister Netanyahu is. [[00:06:03](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=363.26000000000005s)]
+*  He wants to eliminate this threat. [[00:06:06](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=366.3s)]
+*  He sees this as a strategic opportunity. [[00:06:07](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=367.70000000000005s)]
+*  They're defenseless. [[00:06:09](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=369.90000000000003s)]
+*  They're not going to be able to retaliate very much because they've taken down a lot [[00:06:10](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=370.90000000000003s)]
+*  of their rockets and missiles and they can do more of that with a strike that goes after [[00:06:14](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=374.82000000000005s)]
+*  their nuclear system. [[00:06:18](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=378.78000000000003s)]
+*  I know he's talking to President Trump and their advisors here and likely they're working [[00:06:20](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=380.28000000000003s)]
+*  through options, hopefully together, to deal with this threat. [[00:06:24](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=384.70000000000005s)]
+*  I think it's a strategic opportunity and you could force Iran to dismantle the system [[00:06:28](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=388.22s)]
+*  by a date certain, bring inspectors in to verify, US regional inspectors, UN inspectors, [[00:06:34](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=394.22s)]
+*  or go after it kinetically and take it down once and for all. [[00:06:40](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=400.18s)]
+*  I think Prime Minister Netanyahu wants to eliminate this threat once and for all. [[00:06:43](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=403.42s)]
+*  He knows Iran is on its heels and now is the time to take this thing off the board, frankly. [[00:06:47](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=407.38000000000005s)]
+*  You know, General, the other thing would be Netanyahu, who's not going to ask for much, [[00:06:53](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=413.58000000000004s)]
+*  let him do it instead of getting in his way or tipping off the Iranians. [[00:06:57](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=417.02s)]
+*  That was how bad the relationship seemed to be between the Biden administration and Netanyahu. [[00:07:01](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=421.5s)]
+*  He's going to have a much better relationship with this administration. [[00:07:07](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=427.38s)]
+*  It's going to be quite interesting because this is a historic opportunity, as you repeatedly [[00:07:11](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=431.94s)]
+*  have told us. [[00:07:15](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=435.62s)]
+*  General, thanks so much. [[00:07:16](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=436.62s)]
+*  Have a fantastic weekend. [[00:07:17](https://www.youtube.com/watch?v=F5_zKiwXVZA&t=437.62s)]

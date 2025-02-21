@@ -1,0 +1,158 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 376s
+Video Keywords: ['pa', 'philly', 'philadelphia', 'top gun', 'philaldelphia plane crash', 'plane crash in philadelphia today', 'learjet 55', 'philly plane crash 2025', 'roosevelt mall', 'lear jet', 'jet rescue air ambulance', 'philadelphia news', 'fox news', 'fnc', 'fox news channel', 'pennsylvannia plane crash', 'another plane crash', 'washington plane crash', 'american airlines crash', 'black hawk', 'shriners', 'air ambulance crash', 'pa plane crash', 'medical flight', 'pa crash survivors']
+Video Views: 765667
+Video Rating: None
+Video Description: Decorated Navy Top Gun graduate Matthew ‘Whiz’ Buckley analyzes the Philadelphia plane crash and the Washington air collision on ‘Fox & Friends Weekend.’ #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# ‘Something catastrophic happened': Top Gun graduate analyzes deadly jet crash
+**Fox News - Fox and Friends:** [February 01, 2025](https://www.youtube.com/watch?v=kka7gF7AFdo)
+*  We're back with a Fox News alert. [[00:00:00](https://www.youtube.com/watch?v=kka7gF7AFdo&t=0.0s)]
+*  Cars are smashed and debris is covering the ground in northeast Philadelphia after a medical [[00:00:02](https://www.youtube.com/watch?v=kka7gF7AFdo&t=2.0s)]
+*  plane carrying six people crashed. [[00:00:06](https://www.youtube.com/watch?v=kka7gF7AFdo&t=6.5200000000000005s)]
+*  Air traffic control audio captured the chilling moments after the plane went down. [[00:00:09](https://www.youtube.com/watch?v=kka7gF7AFdo&t=9.84s)]
+*  Approach to runway 24, what's going on down there? [[00:00:14](https://www.youtube.com/watch?v=kka7gF7AFdo&t=14.44s)]
+*  It's at 7.55. [[00:00:18](https://www.youtube.com/watch?v=kka7gF7AFdo&t=18.68s)]
+*  We have a lost aircraft. [[00:00:20](https://www.youtube.com/watch?v=kka7gF7AFdo&t=20.72s)]
+*  We're not exactly sure what happened, so we're trying to figure it out. [[00:00:23](https://www.youtube.com/watch?v=kka7gF7AFdo&t=23.12s)]
+*  For now, the field is going to be closed, so no inbounds or outbounds probably. [[00:00:25](https://www.youtube.com/watch?v=kka7gF7AFdo&t=25.48s)]
+*  Here to discuss is Top Gun Navy graduate Matthew Wiz Buckley. [[00:00:31](https://www.youtube.com/watch?v=kka7gF7AFdo&t=31.96s)]
+*  Matthew, thank you for joining us. [[00:00:35](https://www.youtube.com/watch?v=kka7gF7AFdo&t=35.8s)]
+*  You hear that audio. [[00:00:37](https://www.youtube.com/watch?v=kka7gF7AFdo&t=37.52s)]
+*  When it first came out, it was reported this was the moments before. [[00:00:38](https://www.youtube.com/watch?v=kka7gF7AFdo&t=38.52s)]
+*  Now we understand it makes more sense. [[00:00:42](https://www.youtube.com/watch?v=kka7gF7AFdo&t=42.32s)]
+*  It's the moments after. [[00:00:43](https://www.youtube.com/watch?v=kka7gF7AFdo&t=43.72s)]
+*  Walk us through what you hear there. [[00:00:45](https://www.youtube.com/watch?v=kka7gF7AFdo&t=45.400000000000006s)]
+*  Well, obviously tower realized they lost the aircraft. [[00:00:47](https://www.youtube.com/watch?v=kka7gF7AFdo&t=47.72s)]
+*  There's previous auto of the control tower clearing them to contact Philadelphia departure [[00:00:51](https://www.youtube.com/watch?v=kka7gF7AFdo&t=51.6s)]
+*  and they don't. [[00:00:57](https://www.youtube.com/watch?v=kka7gF7AFdo&t=57.2s)]
+*  So any either the captain or the first officer of the medevac flight acknowledged that frequency [[00:00:58](https://www.youtube.com/watch?v=kka7gF7AFdo&t=58.800000000000004s)]
+*  chain so sounded like everything was fine in the cockpit up until a couple, you know, [[00:01:05](https://www.youtube.com/watch?v=kka7gF7AFdo&t=65.8s)]
+*  maybe 3040 seconds after that. [[00:01:11](https://www.youtube.com/watch?v=kka7gF7AFdo&t=71.36s)]
+*  Yeah, we're being told that this entire scenario took place in less than a minute, which is [[00:01:13](https://www.youtube.com/watch?v=kka7gF7AFdo&t=73.24000000000001s)]
+*  hard to believe. [[00:01:17](https://www.youtube.com/watch?v=kka7gF7AFdo&t=77.88s)]
+*  But this is something I want to ask you about because of your experience with very fast [[00:01:19](https://www.youtube.com/watch?v=kka7gF7AFdo&t=79.32s)]
+*  jets. [[00:01:23](https://www.youtube.com/watch?v=kka7gF7AFdo&t=83.24s)]
+*  We look at the video and to the naked eye to the average person, it looks like a missile [[00:01:24](https://www.youtube.com/watch?v=kka7gF7AFdo&t=84.24s)]
+*  coming to the ground at full speed. [[00:01:28](https://www.youtube.com/watch?v=kka7gF7AFdo&t=88.72s)]
+*  I know it's a lot to put in perspective, but when you see those videos and you see them [[00:01:31](https://www.youtube.com/watch?v=kka7gF7AFdo&t=91.11999999999999s)]
+*  all together, what do you see? [[00:01:34](https://www.youtube.com/watch?v=kka7gF7AFdo&t=94.96s)]
+*  Do you see a plane that could be at full throttle? [[00:01:36](https://www.youtube.com/watch?v=kka7gF7AFdo&t=96.75999999999999s)]
+*  Are there mechanical failures that you're reminded of? [[00:01:40](https://www.youtube.com/watch?v=kka7gF7AFdo&t=100.39999999999999s)]
+*  We showed a graphic at the beginning of the show that shows the steep angle in which it [[00:01:43](https://www.youtube.com/watch?v=kka7gF7AFdo&t=103.52s)]
+*  was going up and now it's going down. [[00:01:46](https://www.youtube.com/watch?v=kka7gF7AFdo&t=106.52s)]
+*  Give us any insight you have there. [[00:01:48](https://www.youtube.com/watch?v=kka7gF7AFdo&t=108.9s)]
+*  And I know we're speculating. [[00:01:50](https://www.youtube.com/watch?v=kka7gF7AFdo&t=110.06s)]
+*  Absolutely, we're speculating. [[00:01:51](https://www.youtube.com/watch?v=kka7gF7AFdo&t=111.7s)]
+*  But in nearly four decades of flying and flying fighters, that that jet was simply not flying. [[00:01:54](https://www.youtube.com/watch?v=kka7gF7AFdo&t=114.12s)]
+*  That was that was a missile. [[00:02:00](https://www.youtube.com/watch?v=kka7gF7AFdo&t=120.56s)]
+*  That was a rocket. [[00:02:02](https://www.youtube.com/watch?v=kka7gF7AFdo&t=122.0s)]
+*  Clearly something catastrophic happened either with the airframe or the engines to cause [[00:02:03](https://www.youtube.com/watch?v=kka7gF7AFdo&t=123.74000000000001s)]
+*  that. [[00:02:10](https://www.youtube.com/watch?v=kka7gF7AFdo&t=130.02s)]
+*  The last radar hits that I believe I saw where it was going down at close to 11000 feet per [[00:02:11](https://www.youtube.com/watch?v=kka7gF7AFdo&t=131.02s)]
+*  minute and close to about 280 knots. [[00:02:16](https://www.youtube.com/watch?v=kka7gF7AFdo&t=136.7s)]
+*  So clearly something catastrophic. [[00:02:19](https://www.youtube.com/watch?v=kka7gF7AFdo&t=139.73999999999998s)]
+*  And looking at the videos, it's on fire. [[00:02:21](https://www.youtube.com/watch?v=kka7gF7AFdo&t=141.66s)]
+*  There are there are flames leaving the aircraft that tells me there's something catastrophic. [[00:02:24](https://www.youtube.com/watch?v=kka7gF7AFdo&t=144.5s)]
+*  Let me share with you something I was thinking about is as an F-18 Hornet pilot and as a [[00:02:28](https://www.youtube.com/watch?v=kka7gF7AFdo&t=148.89999999999998s)]
+*  civilian pilot, we own our own fighter jet for the No Fallen Heroes Foundation. [[00:02:34](https://www.youtube.com/watch?v=kka7gF7AFdo&t=154.14s)]
+*  Before I take off, before I took off in the Hornet or my personal jet, you go to full [[00:02:39](https://www.youtube.com/watch?v=kka7gF7AFdo&t=159.14s)]
+*  power at the hold short or on the runway. [[00:02:43](https://www.youtube.com/watch?v=kka7gF7AFdo&t=163.78s)]
+*  Why? [[00:02:47](https://www.youtube.com/watch?v=kka7gF7AFdo&t=167.29999999999998s)]
+*  Because the engines are at the most power at takeoff. [[00:02:48](https://www.youtube.com/watch?v=kka7gF7AFdo&t=168.29999999999998s)]
+*  So if anything is going to happen with a motor, it's going to happen in the first couple seconds [[00:02:53](https://www.youtube.com/watch?v=kka7gF7AFdo&t=173.89999999999998s)]
+*  of flight. [[00:02:58](https://www.youtube.com/watch?v=kka7gF7AFdo&t=178.06s)]
+*  Business jets, airliners, they don't go to the hold short and run the motors up to full [[00:02:59](https://www.youtube.com/watch?v=kka7gF7AFdo&t=179.06s)]
+*  power. [[00:03:03](https://www.youtube.com/watch?v=kka7gF7AFdo&t=183.45999999999998s)]
+*  They don't get on the runway and run the motors up to full power. [[00:03:04](https://www.youtube.com/watch?v=kka7gF7AFdo&t=184.45999999999998s)]
+*  So something to think about there. [[00:03:06](https://www.youtube.com/watch?v=kka7gF7AFdo&t=186.98s)]
+*  No, absolutely. [[00:03:09](https://www.youtube.com/watch?v=kka7gF7AFdo&t=189.26s)]
+*  I've seen that happen. [[00:03:10](https://www.youtube.com/watch?v=kka7gF7AFdo&t=190.26s)]
+*  So the NTSB investigators, they're preparing to examine the newly recovered black box from [[00:03:12](https://www.youtube.com/watch?v=kka7gF7AFdo&t=192.38s)]
+*  the Blackhawk helicopter involved in the D.C. crash just a few days ago. [[00:03:17](https://www.youtube.com/watch?v=kka7gF7AFdo&t=197.5s)]
+*  President Trump says the military helicopters, he thinks, were flying too high. [[00:03:22](https://www.youtube.com/watch?v=kka7gF7AFdo&t=202.46s)]
+*  I want to play a clip real quick of newly minted Defense Secretary Pete Hegseth on this. [[00:03:25](https://www.youtube.com/watch?v=kka7gF7AFdo&t=205.62s)]
+*  The black box from the Blackhawk, when we do, we'll get a sense of internal communications [[00:03:32](https://www.youtube.com/watch?v=kka7gF7AFdo&t=212.14000000000001s)]
+*  that might tell us exactly who was piloting that Blackhawk. [[00:03:37](https://www.youtube.com/watch?v=kka7gF7AFdo&t=217.2s)]
+*  You had a captain in training. [[00:03:40](https://www.youtube.com/watch?v=kka7gF7AFdo&t=220.58s)]
+*  You had a chief warrant officer, too, as an instructor. [[00:03:42](https://www.youtube.com/watch?v=kka7gF7AFdo&t=222.84s)]
+*  And then you also had a staff sergeant in that Blackhawk as well. [[00:03:46](https://www.youtube.com/watch?v=kka7gF7AFdo&t=226.34s)]
+*  Who was talking? [[00:03:48](https://www.youtube.com/watch?v=kka7gF7AFdo&t=228.9s)]
+*  Who was on the comms? [[00:03:49](https://www.youtube.com/watch?v=kka7gF7AFdo&t=229.9s)]
+*  Who was piloting? [[00:03:50](https://www.youtube.com/watch?v=kka7gF7AFdo&t=230.9s)]
+*  And then what, if any confusion was there at the end? [[00:03:51](https://www.youtube.com/watch?v=kka7gF7AFdo&t=231.9s)]
+*  We're looking at altitude. [[00:03:54](https://www.youtube.com/watch?v=kka7gF7AFdo&t=234.22000000000003s)]
+*  And the president was clear about that. [[00:03:56](https://www.youtube.com/watch?v=kka7gF7AFdo&t=236.34s)]
+*  Someone was at the wrong altitude. [[00:03:58](https://www.youtube.com/watch?v=kka7gF7AFdo&t=238.06s)]
+*  Yeah, we're not here to point fingers. [[00:03:59](https://www.youtube.com/watch?v=kka7gF7AFdo&t=239.54000000000002s)]
+*  I don't think that President Trump or Pete Hegseth are as well. [[00:04:02](https://www.youtube.com/watch?v=kka7gF7AFdo&t=242.38000000000002s)]
+*  When we look at how closely military operations were happening to civilian air traffic, how [[00:04:05](https://www.youtube.com/watch?v=kka7gF7AFdo&t=245.26s)]
+*  common is that? [[00:04:10](https://www.youtube.com/watch?v=kka7gF7AFdo&t=250.66s)]
+*  Is that very common? [[00:04:12](https://www.youtube.com/watch?v=kka7gF7AFdo&t=252.1s)]
+*  Is it unique to DC? [[00:04:13](https://www.youtube.com/watch?v=kka7gF7AFdo&t=253.45999999999998s)]
+*  I'd love some insight on that. [[00:04:14](https://www.youtube.com/watch?v=kka7gF7AFdo&t=254.7s)]
+*  Well, hitting another aircraft is never common. [[00:04:17](https://www.youtube.com/watch?v=kka7gF7AFdo&t=257.06s)]
+*  Around the DC area with all the military and civilian aircraft, it looks like controlled [[00:04:21](https://www.youtube.com/watch?v=kka7gF7AFdo&t=261.86s)]
+*  chaos, and it is, as long as it's controlled. [[00:04:25](https://www.youtube.com/watch?v=kka7gF7AFdo&t=265.65999999999997s)]
+*  If somebody doesn't do their job, bad things happen. [[00:04:29](https://www.youtube.com/watch?v=kka7gF7AFdo&t=269.02s)]
+*  So I got to tell you, man, Occam's Razor, usually the most reasonable thing, they were [[00:04:32](https://www.youtube.com/watch?v=kka7gF7AFdo&t=272.84s)]
+*  off course. [[00:04:39](https://www.youtube.com/watch?v=kka7gF7AFdo&t=279.2s)]
+*  Route four through that corridor, they're supposed to hug the eastern side of the Potomac [[00:04:40](https://www.youtube.com/watch?v=kka7gF7AFdo&t=280.44s)]
+*  River. [[00:04:45](https://www.youtube.com/watch?v=kka7gF7AFdo&t=285.47999999999996s)]
+*  They were completely off course. [[00:04:46](https://www.youtube.com/watch?v=kka7gF7AFdo&t=286.47999999999996s)]
+*  They were in the middle of the Potomac. [[00:04:47](https://www.youtube.com/watch?v=kka7gF7AFdo&t=287.47999999999996s)]
+*  The max altitude is 200 feet on route four. [[00:04:49](https://www.youtube.com/watch?v=kka7gF7AFdo&t=289.5s)]
+*  So you're all the way over to the east. [[00:04:52](https://www.youtube.com/watch?v=kka7gF7AFdo&t=292.88s)]
+*  Do not go above 200 feet. [[00:04:55](https://www.youtube.com/watch?v=kka7gF7AFdo&t=295.84s)]
+*  But when they said, hey, traffic in sight, the wrong traffic, they might have said, hey, [[00:04:57](https://www.youtube.com/watch?v=kka7gF7AFdo&t=297.85999999999996s)]
+*  there's nobody around us. [[00:05:02](https://www.youtube.com/watch?v=kka7gF7AFdo&t=302.64000000000004s)]
+*  Maybe we can deviate a little bit for whatever reason. [[00:05:03](https://www.youtube.com/watch?v=kka7gF7AFdo&t=303.64000000000004s)]
+*  So there's two strikes right there. [[00:05:06](https://www.youtube.com/watch?v=kka7gF7AFdo&t=306.40000000000003s)]
+*  Off course, off altitude. [[00:05:08](https://www.youtube.com/watch?v=kka7gF7AFdo&t=308.52000000000004s)]
+*  Third strike is the controller, as soon as he heard traffic in sight, since he was single [[00:05:10](https://www.youtube.com/watch?v=kka7gF7AFdo&t=310.58000000000004s)]
+*  manning two positions, put a mental check mark there that said, I'm busy. [[00:05:15](https://www.youtube.com/watch?v=kka7gF7AFdo&t=315.6s)]
+*  They have that other traffic in sight. [[00:05:20](https://www.youtube.com/watch?v=kka7gF7AFdo&t=320.52000000000004s)]
+*  I'm going to focus on other things. [[00:05:22](https://www.youtube.com/watch?v=kka7gF7AFdo&t=322.44s)]
+*  Yeah, never been there. [[00:05:24](https://www.youtube.com/watch?v=kka7gF7AFdo&t=324.04s)]
+*  Traffic control school. [[00:05:25](https://www.youtube.com/watch?v=kka7gF7AFdo&t=325.32000000000005s)]
+*  But I can almost guarantee you on day one, they tell you if you see two targets coming [[00:05:26](https://www.youtube.com/watch?v=kka7gF7AFdo&t=326.32000000000005s)]
+*  at each other on your scope, even if one of those guys said traffic in sight, give them [[00:05:30](https://www.youtube.com/watch?v=kka7gF7AFdo&t=330.56s)]
+*  a harder traffic call. [[00:05:35](https://www.youtube.com/watch?v=kka7gF7AFdo&t=335.32s)]
+*  Pack two five. [[00:05:37](https://www.youtube.com/watch?v=kka7gF7AFdo&t=337.32s)]
+*  Confirm you have traffic left. [[00:05:38](https://www.youtube.com/watch?v=kka7gF7AFdo&t=338.52s)]
+*  Eleven level. [[00:05:40](https://www.youtube.com/watch?v=kka7gF7AFdo&t=340.4s)]
+*  Acknowledge that would have got the hair on the back of their neck and the helos standing [[00:05:41](https://www.youtube.com/watch?v=kka7gF7AFdo&t=341.91999999999996s)]
+*  up in this mishap wouldn't have happened. [[00:05:46](https://www.youtube.com/watch?v=kka7gF7AFdo&t=346.03999999999996s)]
+*  So a couple of links in this chain that if you took one of them out, this didn't happen [[00:05:48](https://www.youtube.com/watch?v=kka7gF7AFdo&t=348.14s)]
+*  in a tragedy unfolds. [[00:05:52](https://www.youtube.com/watch?v=kka7gF7AFdo&t=352.52s)]
+*  Again, we're not here to point blame. [[00:05:54](https://www.youtube.com/watch?v=kka7gF7AFdo&t=354.71999999999997s)]
+*  We're here to try to understand what happened. [[00:05:56](https://www.youtube.com/watch?v=kka7gF7AFdo&t=356.64s)]
+*  I'm sure we'll learn more as the days go on. [[00:05:58](https://www.youtube.com/watch?v=kka7gF7AFdo&t=358.12s)]
+*  Thank you so much for joining us. [[00:06:01](https://www.youtube.com/watch?v=kka7gF7AFdo&t=361.0s)]
+*  And of course, thank you for your service. [[00:06:02](https://www.youtube.com/watch?v=kka7gF7AFdo&t=362.0s)]
+*  You bet. [[00:06:03](https://www.youtube.com/watch?v=kka7gF7AFdo&t=363.92s)]
+*  God bless, bro. [[00:06:04](https://www.youtube.com/watch?v=kka7gF7AFdo&t=364.92s)]
+*  Thanks. [[00:06:05](https://www.youtube.com/watch?v=kka7gF7AFdo&t=365.92s)]
+*  Yes, sir. [[00:06:06](https://www.youtube.com/watch?v=kka7gF7AFdo&t=366.92s)]

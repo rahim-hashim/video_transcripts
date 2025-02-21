@@ -1,0 +1,156 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 376s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'alexandria hoff', 'donald trump', 'elon', 'elon musk', 'elon musk mar a lago', 'elon musk trump', 'fox & friends', 'fox news trump', 'griff jenkins', 'jd vance', 'johnny jones', 'mar a lago', 'new year', 'new years eve', 'new years eve at mar a lago', 'nicole saphier', 'president trump', 'trump', 'trump jd vance', 'trump mar a lago', 'trump musk', 'trump new year', 'trump new years eve', 'trump news', 'trump nye']
+Video Views: 493089
+Video Rating: None
+Video Description: Fox News' Alexandria Hoff shares details on the president-elect's New Year's Eve celebration at 'the center of the universe.' 'Fox & Friends' co-hosts react. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Trump rings in new year at Mar-a-Lago with Vance, Musk
+**Fox News - Fox and Friends:** [January 01, 2025](https://www.youtube.com/watch?v=zP8djYnEJmE)
+*  It's the dawn of a new year. [[00:00:00](https://www.youtube.com/watch?v=zP8djYnEJmE&t=0.0s)]
+*  President-elect Trump celebrates New Year's Eve with his family, VP-elect J.D. Vance, [[00:00:02](https://www.youtube.com/watch?v=zP8djYnEJmE&t=2.16s)]
+*  Elon Musk, and his annual Mar-a-Lago bash. [[00:00:07](https://www.youtube.com/watch?v=zP8djYnEJmE&t=7.140000000000001s)]
+*  Yeah, Alexandria Hoff is here. [[00:00:09](https://www.youtube.com/watch?v=zP8djYnEJmE&t=9.84s)]
+*  She's got more on this, Alex. [[00:00:11](https://www.youtube.com/watch?v=zP8djYnEJmE&t=11.64s)]
+*  Yeah, what an evening. [[00:00:14](https://www.youtube.com/watch?v=zP8djYnEJmE&t=14.040000000000001s)]
+*  And in a post looking ahead to last night's celebration, the president-elect called Mar-a-Lago [[00:00:15](https://www.youtube.com/watch?v=zP8djYnEJmE&t=15.48s)]
+*  the center of the universe, and he has certainly made it so. [[00:00:19](https://www.youtube.com/watch?v=zP8djYnEJmE&t=19.52s)]
+*  Local reports from police put the guest list around 300, with heavy security screenings [[00:00:23](https://www.youtube.com/watch?v=zP8djYnEJmE&t=23.2s)]
+*  and a shuttle system to get guests to the grounds. [[00:00:28](https://www.youtube.com/watch?v=zP8djYnEJmE&t=28.2s)]
+*  The president-elect and future returning first lady arrived on the red carpet last night [[00:00:30](https://www.youtube.com/watch?v=zP8djYnEJmE&t=30.76s)]
+*  to close out a year that against all odds proved victorious for them. [[00:00:34](https://www.youtube.com/watch?v=zP8djYnEJmE&t=34.44s)]
+*  Consider for Trump the indictments, the multiple attempts on his life, one not too far from [[00:00:39](https://www.youtube.com/watch?v=zP8djYnEJmE&t=39.160000000000004s)]
+*  where the party was held last night, the uphill battle to the nomination, winning the presidency, [[00:00:43](https://www.youtube.com/watch?v=zP8djYnEJmE&t=43.6s)]
+*  securing the House, the Senate. [[00:00:48](https://www.youtube.com/watch?v=zP8djYnEJmE&t=48.44s)]
+*  I mean, it's been such a big year, such a stressful one, but there is more challenge [[00:00:49](https://www.youtube.com/watch?v=zP8djYnEJmE&t=49.44s)]
+*  to come in 2025, along with more to celebrate. [[00:00:54](https://www.youtube.com/watch?v=zP8djYnEJmE&t=54.08s)]
+*  You know, that's going to be implementing those promises that he successfully won on. [[00:00:57](https://www.youtube.com/watch?v=zP8djYnEJmE&t=57.48s)]
+*  So last night, you know, there were there were people out here watching this saying [[00:01:02](https://www.youtube.com/watch?v=zP8djYnEJmE&t=62.08s)]
+*  there he has on that red carpet. [[00:01:06](https://www.youtube.com/watch?v=zP8djYnEJmE&t=66.03999999999999s)]
+*  You know, I voted for him. [[00:01:08](https://www.youtube.com/watch?v=zP8djYnEJmE&t=68.08s)]
+*  Perhaps I was an unlikely voter, someone might say. [[00:01:09](https://www.youtube.com/watch?v=zP8djYnEJmE&t=69.47999999999999s)]
+*  I'm ready for him to roll out the red carpet for me. [[00:01:11](https://www.youtube.com/watch?v=zP8djYnEJmE&t=71.72s)]
+*  So what is President-elect Trump looking forward to next year? [[00:01:14](https://www.youtube.com/watch?v=zP8djYnEJmE&t=74.24s)]
+*  Listen. [[00:01:17](https://www.youtube.com/watch?v=zP8djYnEJmE&t=77.84s)]
+*  Great. [[00:01:18](https://www.youtube.com/watch?v=zP8djYnEJmE&t=78.84s)]
+*  A great year. [[00:01:19](https://www.youtube.com/watch?v=zP8djYnEJmE&t=79.84s)]
+*  I think we're going to do fantastically well as a country. [[00:01:20](https://www.youtube.com/watch?v=zP8djYnEJmE&t=80.84s)]
+*  We're going to bring it back. [[00:01:21](https://www.youtube.com/watch?v=zP8djYnEJmE&t=81.84s)]
+*  It has to be brought back. [[00:01:22](https://www.youtube.com/watch?v=zP8djYnEJmE&t=82.84s)]
+*  People are not respecting it. [[00:01:23](https://www.youtube.com/watch?v=zP8djYnEJmE&t=83.84s)]
+*  I think a lot of progress has been made over the last five weeks. [[00:01:25](https://www.youtube.com/watch?v=zP8djYnEJmE&t=85.84s)]
+*  It's been pretty amazing when you look at what's happened. [[00:01:26](https://www.youtube.com/watch?v=zP8djYnEJmE&t=86.84s)]
+*  There's a whole light over the whole world, not just our country. [[00:01:27](https://www.youtube.com/watch?v=zP8djYnEJmE&t=87.84s)]
+*  There are a lot of very happy people. [[00:01:28](https://www.youtube.com/watch?v=zP8djYnEJmE&t=88.84s)]
+*  Have you got any resolutions for 2025? [[00:01:29](https://www.youtube.com/watch?v=zP8djYnEJmE&t=89.84s)]
+*  Well, I just want everybody to be happy, healthy and well. [[00:01:30](https://www.youtube.com/watch?v=zP8djYnEJmE&t=90.84s)]
+*  And then we also had Vice President-elect and the future second lady enjoying their [[00:01:49](https://www.youtube.com/watch?v=zP8djYnEJmE&t=109.36s)]
+*  time in their New Year's Eve celebration last night at Mar-a-Lago. [[00:01:53](https://www.youtube.com/watch?v=zP8djYnEJmE&t=113.39999999999999s)]
+*  You can actually see, if you look really closely, the outline of the president-elect's head [[00:01:56](https://www.youtube.com/watch?v=zP8djYnEJmE&t=116.64s)]
+*  behind J.D. Vance, as he's mingling about. [[00:02:01](https://www.youtube.com/watch?v=zP8djYnEJmE&t=121.44s)]
+*  Also, Elon Musk, he's never too far from the president-elect. [[00:02:03](https://www.youtube.com/watch?v=zP8djYnEJmE&t=123.83999999999999s)]
+*  He was there as well. [[00:02:06](https://www.youtube.com/watch?v=zP8djYnEJmE&t=126.88s)]
+*  He actually had his son on his shoulders. [[00:02:07](https://www.youtube.com/watch?v=zP8djYnEJmE&t=127.88s)]
+*  I mean, that little guy has gotten such a look at the American political system. [[00:02:10](https://www.youtube.com/watch?v=zP8djYnEJmE&t=130.84s)]
+*  He went through the halls of the Capitol, now to Mar-a-Lago, a place I'm sure he's not [[00:02:15](https://www.youtube.com/watch?v=zP8djYnEJmE&t=135.04s)]
+*  too much of a stranger to. [[00:02:19](https://www.youtube.com/watch?v=zP8djYnEJmE&t=139.28s)]
+*  But you can see those guests walking in. [[00:02:20](https://www.youtube.com/watch?v=zP8djYnEJmE&t=140.8s)]
+*  I mean, this was the center of the universe in many ways. [[00:02:22](https://www.youtube.com/watch?v=zP8djYnEJmE&t=142.04s)]
+*  We saw a lot of faces. [[00:02:24](https://www.youtube.com/watch?v=zP8djYnEJmE&t=144.72s)]
+*  I'm seeing on the left there next to Don Jr., a woman named Bettina Anderson. [[00:02:25](https://www.youtube.com/watch?v=zP8djYnEJmE&t=145.72s)]
+*  She's considered a socialite, now considered to be Don Jr.'s new girlfriend. [[00:02:29](https://www.youtube.com/watch?v=zP8djYnEJmE&t=149.84s)]
+*  So there were a lot of faces at this celebration last night that I think the American public [[00:02:34](https://www.youtube.com/watch?v=zP8djYnEJmE&t=154.24s)]
+*  are going to really come to know in the next four years, not only just political, but [[00:02:37](https://www.youtube.com/watch?v=zP8djYnEJmE&t=157.88s)]
+*  socially and family-wise as well. [[00:02:43](https://www.youtube.com/watch?v=zP8djYnEJmE&t=163.36s)]
+*  We know that's important for the Trump family, guys. [[00:02:45](https://www.youtube.com/watch?v=zP8djYnEJmE&t=165.44s)]
+*  All right, Alexandria Hoff, live in Washington. [[00:02:47](https://www.youtube.com/watch?v=zP8djYnEJmE&t=167.68s)]
+*  Alex, thanks for waking up with us. [[00:02:50](https://www.youtube.com/watch?v=zP8djYnEJmE&t=170.72s)]
+*  Happy New Year to you. [[00:02:52](https://www.youtube.com/watch?v=zP8djYnEJmE&t=172.36s)]
+*  Happy New Year. [[00:02:53](https://www.youtube.com/watch?v=zP8djYnEJmE&t=173.36s)]
+*  Happy New Year. [[00:02:54](https://www.youtube.com/watch?v=zP8djYnEJmE&t=174.36s)]
+*  You know, Alex started a report saying that Mar-a-Lago has become the center of the universe. [[00:02:55](https://www.youtube.com/watch?v=zP8djYnEJmE&t=175.36s)]
+*  But it's even more than that because I remember just a few weeks ago when I was covering Mar-a-Lago [[00:03:00](https://www.youtube.com/watch?v=zP8djYnEJmE&t=180.44s)]
+*  as the reporter, it became apparent to me that Mar-a-Lago is now the center of the economic [[00:03:03](https://www.youtube.com/watch?v=zP8djYnEJmE&t=183.84s)]
+*  universe too. [[00:03:09](https://www.youtube.com/watch?v=zP8djYnEJmE&t=189.8s)]
+*  That is why so many CEOs from Zuckerberg to Bezos, everyone's coming to Mar-a-Lago. [[00:03:10](https://www.youtube.com/watch?v=zP8djYnEJmE&t=190.8s)]
+*  The prime minister from Canada, foreign ministers, everybody wants to be there because they know [[00:03:18](https://www.youtube.com/watch?v=zP8djYnEJmE&t=198.2s)]
+*  this is where the changes in the world, everything is going to be decided here. [[00:03:23](https://www.youtube.com/watch?v=zP8djYnEJmE&t=203.84s)]
+*  That's why the biggest and brightest and why so many of the Silicon Valley billionaires [[00:03:29](https://www.youtube.com/watch?v=zP8djYnEJmE&t=209.04s)]
+*  that did not support Trump in the first term are saying, you know what, we better take [[00:03:34](https://www.youtube.com/watch?v=zP8djYnEJmE&t=214.32s)]
+*  another look. [[00:03:37](https://www.youtube.com/watch?v=zP8djYnEJmE&t=217.92s)]
+*  We better get on his side and get on his page. [[00:03:38](https://www.youtube.com/watch?v=zP8djYnEJmE&t=218.92s)]
+*  I think you're going to see Mar-a-Lago continue to be more than just a, you know, southern [[00:03:42](https://www.youtube.com/watch?v=zP8djYnEJmE&t=222.20000000000002s)]
+*  White House or whatever title they give it. [[00:03:48](https://www.youtube.com/watch?v=zP8djYnEJmE&t=228.72s)]
+*  I think it's going to be a place he spends a lot of time during his next four years and [[00:03:50](https://www.youtube.com/watch?v=zP8djYnEJmE&t=230.52s)]
+*  where a lot of important decisions will be made and a lot of important people will go [[00:03:54](https://www.youtube.com/watch?v=zP8djYnEJmE&t=234.92000000000002s)]
+*  to meet him. [[00:03:58](https://www.youtube.com/watch?v=zP8djYnEJmE&t=238.68s)]
+*  Yeah, you know, we say Mar-a-Lago is really, it's President Donald Trump has become the [[00:03:59](https://www.youtube.com/watch?v=zP8djYnEJmE&t=239.68s)]
+*  center of everything moving forward. [[00:04:03](https://www.youtube.com/watch?v=zP8djYnEJmE&t=243.92000000000002s)]
+*  Most Western countries haven't done as well as we have in general. [[00:04:06](https://www.youtube.com/watch?v=zP8djYnEJmE&t=246.64000000000001s)]
+*  They haven't done as well as we have in responding to COVID and all of that economically. [[00:04:09](https://www.youtube.com/watch?v=zP8djYnEJmE&t=249.6s)]
+*  And they're hungry. [[00:04:14](https://www.youtube.com/watch?v=zP8djYnEJmE&t=254.4s)]
+*  They're hungry to move forward. [[00:04:15](https://www.youtube.com/watch?v=zP8djYnEJmE&t=255.4s)]
+*  They know that President Trump at least has promised to move this country forward economically, [[00:04:16](https://www.youtube.com/watch?v=zP8djYnEJmE&t=256.4s)]
+*  especially. [[00:04:21](https://www.youtube.com/watch?v=zP8djYnEJmE&t=261.0s)]
+*  But when you talk about immigration, they have the same problems in so many other places, [[00:04:22](https://www.youtube.com/watch?v=zP8djYnEJmE&t=262.0s)]
+*  include Canada. [[00:04:26](https://www.youtube.com/watch?v=zP8djYnEJmE&t=266.08s)]
+*  And so when we talk about being the center of the universe, really what we're saying [[00:04:27](https://www.youtube.com/watch?v=zP8djYnEJmE&t=267.08s)]
+*  is President Trump has the ear of anybody he wants to pick up the phone and talk to. [[00:04:29](https://www.youtube.com/watch?v=zP8djYnEJmE&t=269.16s)]
+*  And it's different than the first time around where, you know, leaders in the press and [[00:04:34](https://www.youtube.com/watch?v=zP8djYnEJmE&t=274.72s)]
+*  everyone's taking this moral stand. [[00:04:39](https://www.youtube.com/watch?v=zP8djYnEJmE&t=279.04s)]
+*  That's not the case this time. [[00:04:40](https://www.youtube.com/watch?v=zP8djYnEJmE&t=280.88000000000005s)]
+*  Well, and every single president coming in, you know, after the election usually says [[00:04:41](https://www.youtube.com/watch?v=zP8djYnEJmE&t=281.88000000000005s)]
+*  they're going to hit the ground running in the first hundred days, they're going to [[00:04:45](https://www.youtube.com/watch?v=zP8djYnEJmE&t=285.24s)]
+*  do X, Y and Z. But President-elect Trump is already starting to do that. [[00:04:47](https://www.youtube.com/watch?v=zP8djYnEJmE&t=287.88000000000005s)]
+*  He's already met with foreign leaders. [[00:04:51](https://www.youtube.com/watch?v=zP8djYnEJmE&t=291.68s)]
+*  He's already having, you know, Jeff Bezos and a lot of the big industry players come [[00:04:53](https://www.youtube.com/watch?v=zP8djYnEJmE&t=293.64000000000004s)]
+*  talk to them. [[00:04:58](https://www.youtube.com/watch?v=zP8djYnEJmE&t=298.28000000000003s)]
+*  Everyone is ready to deal. [[00:04:59](https://www.youtube.com/watch?v=zP8djYnEJmE&t=299.28000000000003s)]
+*  And so I think that the momentum is continuing to grow. [[00:05:00](https://www.youtube.com/watch?v=zP8djYnEJmE&t=300.28000000000003s)]
+*  And I'm really looking forward to see what those first hundred days will bring. [[00:05:02](https://www.youtube.com/watch?v=zP8djYnEJmE&t=302.84s)]
+*  Well, day one is going to be quite something, you know, in Washington, typically inaugurations, [[00:05:06](https://www.youtube.com/watch?v=zP8djYnEJmE&t=306.23999999999995s)]
+*  you know, all of the incoming staff looks forward to at least the party in the beginning, [[00:05:11](https://www.youtube.com/watch?v=zP8djYnEJmE&t=311.91999999999996s)]
+*  the inaugural balls. [[00:05:16](https://www.youtube.com/watch?v=zP8djYnEJmE&t=316.0s)]
+*  They're making social plans. [[00:05:17](https://www.youtube.com/watch?v=zP8djYnEJmE&t=317.4s)]
+*  They're going to go to parties. [[00:05:19](https://www.youtube.com/watch?v=zP8djYnEJmE&t=319.0s)]
+*  No, if you're working for President Donald Trump in the White House, you better be ready [[00:05:20](https://www.youtube.com/watch?v=zP8djYnEJmE&t=320.35999999999996s)]
+*  to hit the ground because he's going to start signing executive orders. [[00:05:25](https://www.youtube.com/watch?v=zP8djYnEJmE&t=325.67999999999995s)]
+*  We're going to see everything from the border to the regulations, oil and gas and a lot [[00:05:29](https://www.youtube.com/watch?v=zP8djYnEJmE&t=329.24s)]
+*  of other things. [[00:05:35](https://www.youtube.com/watch?v=zP8djYnEJmE&t=335.2s)]
+*  And I think there's probably going to be some surprises. [[00:05:36](https://www.youtube.com/watch?v=zP8djYnEJmE&t=336.2s)]
+*  I think that it's pretty clear that he wants the most impressive first hundred days, but [[00:05:37](https://www.youtube.com/watch?v=zP8djYnEJmE&t=337.84000000000003s)]
+*  also the most impressive first 30 days in office and the first day in office in the [[00:05:43](https://www.youtube.com/watch?v=zP8djYnEJmE&t=343.24s)]
+*  actions that he will take. [[00:05:48](https://www.youtube.com/watch?v=zP8djYnEJmE&t=348.32s)]
+*  Yeah, you know, you talk about connecting the center of the universe, connecting with [[00:05:49](https://www.youtube.com/watch?v=zP8djYnEJmE&t=349.8s)]
+*  these world leaders. [[00:05:53](https://www.youtube.com/watch?v=zP8djYnEJmE&t=353.16s)]
+*  He won this presidency by connecting with Americans. [[00:05:54](https://www.youtube.com/watch?v=zP8djYnEJmE&t=354.68s)]
+*  He did it in unique ways. [[00:05:57](https://www.youtube.com/watch?v=zP8djYnEJmE&t=357.68s)]
+*  Driving a garbage truck, serving McDonald's fries, connecting with Americans that maybe [[00:05:59](https://www.youtube.com/watch?v=zP8djYnEJmE&t=359.16s)]
+*  weren't political at all or leaned left. [[00:06:03](https://www.youtube.com/watch?v=zP8djYnEJmE&t=363.88s)]
+*  I'm Steve Ducey. [[00:06:05](https://www.youtube.com/watch?v=zP8djYnEJmE&t=365.96s)]
+*  I'm Brian Kilmeade. [[00:06:06](https://www.youtube.com/watch?v=zP8djYnEJmE&t=366.96s)]
+*  And I'm Ainsley Earhart. [[00:06:07](https://www.youtube.com/watch?v=zP8djYnEJmE&t=367.96s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:06:08](https://www.youtube.com/watch?v=zP8djYnEJmE&t=368.96s)]
+*  and most compelling analysis. [[00:06:13](https://www.youtube.com/watch?v=zP8djYnEJmE&t=373.24s)]

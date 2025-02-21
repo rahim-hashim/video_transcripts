@@ -1,0 +1,190 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 745s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'ainsley earhardt', 'brian kilmeade', 'cease fire', 'ceasefire', 'fox & friends', 'gaza', 'hamas', 'hamas cease fire', 'hamas hostage deal', 'hamas hostages', 'hostage deal', 'hostage deal reached', 'hostage release', 'hostage release deal', 'israel', 'israel cease fire', 'israel hamas deal', 'israel hamas hostage deal', 'israel war', 'israeli hostages', 'lawrence jones', 'middle east', 'palestinian prisoners', 'war in israel', 'war in the middle east']
+Video Views: 30441
+Video Rating: None
+Video Description: FOX News' Jeff Paul provides details on the tense negotiations that ended with a deal that allows for the release of some hostages and a pause in fighting. Oded Ailam, 24-year veteran of Mossad, provides reaction and analysis. #FoxNews
+
+-Israeli cabinet approves limited 4-day cease-fire with Hamas
+-Hostage deal specifies that 150 Palestinian prisoners will be released by Israel in exchange for 50 hostages taken by Hamas
+-Three Americans will be released as part of the deal
+-Israeli Prime Minister Benjamin Netanyahu vows to continue the war until Hamas is eliminated
+-More than 30 states hit with powerful storms amid Thanksgiving travel
+-The nation braces for what is expected to be the busiest travel day in U.S. history
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Today's Top Headlines | Wednesday, Nov. 22
+**Fox News - Fox and Friends:** [November 22, 2023](https://www.youtube.com/watch?v=d0jX4L25ONU)
+*  We begin this hour with a Fox News alert right now smoke rising over Gaza just hours after the Israeli cabinet [[00:00:00](https://www.youtube.com/watch?v=d0jX4L25ONU&t=0.0s)]
+*  Approved a limited four-day ceasefire with Hamas the pause and fighting will take effect sometime in the next 24 hours [[00:00:07](https://www.youtube.com/watch?v=d0jX4L25ONU&t=7.2s)]
+*  So this is what we know under the deal [[00:00:14](https://www.youtube.com/watch?v=d0jX4L25ONU&t=14.4s)]
+*  150 Palestinian prisoners will be handed over in exchange for 50 hostages taken by the terrorist group Brian [[00:00:17](https://www.youtube.com/watch?v=d0jX4L25ONU&t=17.36s)]
+*  All right, here we go. That includes a three-year-old American girl whose parents were killed on October 7th [[00:00:24](https://www.youtube.com/watch?v=d0jX4L25ONU&t=24.16s)]
+*  We think her name is Abigail Jeff Paul joins us right now from Tel Aviv. Hey Jeff [[00:00:29](https://www.youtube.com/watch?v=d0jX4L25ONU&t=29.72s)]
+*  You have weeks of tense negotiations finally with some results here in Tel Aviv this meeting with Israeli government officials where they debated [[00:00:37](https://www.youtube.com/watch?v=d0jX4L25ONU&t=37.76s)]
+*  Whether or not to approve this deal. It took more than six hours [[00:00:46](https://www.youtube.com/watch?v=d0jX4L25ONU&t=46.08s)]
+*  They ended around 3 3 30 in the morning here local time [[00:00:49](https://www.youtube.com/watch?v=d0jX4L25ONU&t=49.32s)]
+*  But under this agreement you're gonna have not only a pause in the fighting but this release of hostages [[00:00:52](https://www.youtube.com/watch?v=d0jX4L25ONU&t=52.739999999999995s)]
+*  Which you got to think about for all the families of the hostages [[00:00:58](https://www.youtube.com/watch?v=d0jX4L25ONU&t=58.42s)]
+*  It gives them a bit of hope that there is some good news on the horizon now under this broker deal that involve the US [[00:01:01](https://www.youtube.com/watch?v=d0jX4L25ONU&t=61.7s)]
+*  Qatar's and [[00:01:09](https://www.youtube.com/watch?v=d0jX4L25ONU&t=69.34s)]
+*  Egyptians [[00:01:10](https://www.youtube.com/watch?v=d0jX4L25ONU&t=70.98s)]
+*  Israel will get 50 hostages released to them from Hamas [[00:01:11](https://www.youtube.com/watch?v=d0jX4L25ONU&t=71.98s)]
+*  These will be women and children in exchange Israel will release [[00:01:15](https://www.youtube.com/watch?v=d0jX4L25ONU&t=75.44s)]
+*  150 Palestinian prisoners the hostages as we understand will be released in [[00:01:19](https://www.youtube.com/watch?v=d0jX4L25ONU&t=79.38s)]
+*  Groups of about 10 to 12 over a span of four to five days each of those days when hostages are released [[00:01:24](https://www.youtube.com/watch?v=d0jX4L25ONU&t=84.34s)]
+*  There'll be a pause in the fighting now Prime Minister Benjamin Netanyahu has been under increasing pressure [[00:01:29](https://www.youtube.com/watch?v=d0jX4L25ONU&t=89.75999999999999s)]
+*  From the families of the hostages. He said this was a tough decision, but he believes it was the right decision [[00:01:35](https://www.youtube.com/watch?v=d0jX4L25ONU&t=95.7s)]
+*  But he also added their campaign to crack Hamas will continue [[00:01:41](https://www.youtube.com/watch?v=d0jX4L25ONU&t=101.47999999999999s)]
+*  And I grew the milk on up we are at war and we will continue this war until we achieve all our goals [[00:01:47](https://www.youtube.com/watch?v=d0jX4L25ONU&t=107.3s)]
+*  To eliminate Hamas to bring back all of our hostages and missing people and to ensure that in Gaza [[00:01:53](https://www.youtube.com/watch?v=d0jX4L25ONU&t=113.98s)]
+*  There will be no factor that threatens Israel [[00:02:00](https://www.youtube.com/watch?v=d0jX4L25ONU&t=120.94s)]
+*  Hamas released a statement regarding the agreement saying in part we affirm that our fingers remain on the trigger and our victorious [[00:02:06](https://www.youtube.com/watch?v=d0jX4L25ONU&t=126.66s)]
+*  Finders will remain on the lookout to defend our people and defeat the occupation [[00:02:14](https://www.youtube.com/watch?v=d0jX4L25ONU&t=134.32s)]
+*  Now again, we could see that first batch of hostages released as soon as tomorrow [[00:02:19](https://www.youtube.com/watch?v=d0jX4L25ONU&t=139.34s)]
+*  We're hearing the ceasefire could start at 10 a.m. Local time [[00:02:24](https://www.youtube.com/watch?v=d0jX4L25ONU&t=144.46s)]
+*  So that that is good news and in past hostage releases [[00:02:29](https://www.youtube.com/watch?v=d0jX4L25ONU&t=149.02s)]
+*  We've seen the hostages taken to the rapid crossing they get into Egypt and then they're chopper back here to somewhere in Israel [[00:02:33](https://www.youtube.com/watch?v=d0jX4L25ONU&t=153.62s)]
+*  They're gonna go to the hospital get checked out and eventually they'll be talking to Israeli security about the things they saw and the things they [[00:02:40](https://www.youtube.com/watch?v=d0jX4L25ONU&t=160.34s)]
+*  Experienced send it back to you all. Yeah to get the rest of them out. Let's hope Jeff. Thanks so much [[00:02:47](https://www.youtube.com/watch?v=d0jX4L25ONU&t=167.24s)]
+*  That would be a rescue rather than a release. Let's bring in beside veteran Odette Ilam. He's live from Tel Aviv [[00:02:52](https://www.youtube.com/watch?v=d0jX4L25ONU&t=172.08s)]
+*  Odette thanks for joining us. Is this a deal you would do? [[00:02:58](https://www.youtube.com/watch?v=d0jX4L25ONU&t=178.08s)]
+*  Thanks for having me first of all and I wouldn't call it a deal but it's more of sort of a blackmail [[00:03:03](https://www.youtube.com/watch?v=d0jX4L25ONU&t=183.76000000000002s)]
+*  but under the circumstances [[00:03:12](https://www.youtube.com/watch?v=d0jX4L25ONU&t=192.48000000000002s)]
+*  Morality overrides the objections of the war [[00:03:15](https://www.youtube.com/watch?v=d0jX4L25ONU&t=195.0s)]
+*  Which is to eradicate the Hamas [[00:03:21](https://www.youtube.com/watch?v=d0jX4L25ONU&t=201.44s)]
+*  so this is more or less the same deal that was on the table in the beginning of the [[00:03:25](https://www.youtube.com/watch?v=d0jX4L25ONU&t=205.04s)]
+*  invasion into Gaza with a few changes and a little bit flexibility of [[00:03:33](https://www.youtube.com/watch?v=d0jX4L25ONU&t=213.92s)]
+*  both sides, but it's [[00:03:40](https://www.youtube.com/watch?v=d0jX4L25ONU&t=220.07999999999998s)]
+*  Basically, it's more or less the same deal [[00:03:42](https://www.youtube.com/watch?v=d0jX4L25ONU&t=222.0s)]
+*  It's just worth pointing out that there's an explosion on the right. It looks like so [[00:03:45](https://www.youtube.com/watch?v=d0jX4L25ONU&t=225.6s)]
+*  Which goes to my next point of dead? [[00:03:50](https://www.youtube.com/watch?v=d0jX4L25ONU&t=230.24s)]
+*  Sinwar is on the ropes right now. We know Israeli special forces that been hitting him hard [[00:03:53](https://www.youtube.com/watch?v=d0jX4L25ONU&t=233.32s)]
+*  Plus you got your infantrymen the the ground game as well as the air support [[00:03:59](https://www.youtube.com/watch?v=d0jX4L25ONU&t=239.88s)]
+*  So the question is that they come to the negotiation table because they're fractured and they need some time to regroup [[00:04:04](https://www.youtube.com/watch?v=d0jX4L25ONU&t=244.84s)]
+*  Absolutely [[00:04:11](https://www.youtube.com/watch?v=d0jX4L25ONU&t=251.96s)]
+*  This is this is exactly [[00:04:14](https://www.youtube.com/watch?v=d0jX4L25ONU&t=254.6s)]
+*  The point right now the Hamas right now is as you said is is on the rope, but it's not [[00:04:17](https://www.youtube.com/watch?v=d0jX4L25ONU&t=257.04s)]
+*  It does not feel that [[00:04:24](https://www.youtube.com/watch?v=d0jX4L25ONU&t=264.8s)]
+*  It's going to be [[00:04:27](https://www.youtube.com/watch?v=d0jX4L25ONU&t=267.40000000000003s)]
+*  Eradicated not now. We need to use much more force in order to [[00:04:30](https://www.youtube.com/watch?v=d0jX4L25ONU&t=270.32s)]
+*  To [[00:04:36](https://www.youtube.com/watch?v=d0jX4L25ONU&t=276.84000000000003s)]
+*  Convince him that this is its last chance and then maybe in the future the near future [[00:04:38](https://www.youtube.com/watch?v=d0jX4L25ONU&t=278.44s)]
+*  We can get a better deal. Oh [[00:04:45](https://www.youtube.com/watch?v=d0jX4L25ONU&t=285.72s)]
+*  Dead in the original reporting before the Israeli government and then Hamas agreed to this [[00:04:48](https://www.youtube.com/watch?v=d0jX4L25ONU&t=288.56s)]
+*  Hostage negotiation you called it blackmail and I understand why you say that the original [[00:04:55](https://www.youtube.com/watch?v=d0jX4L25ONU&t=295.04s)]
+*  Reporting was that Iran would have to agree not to use drone surveillance over Gaza [[00:04:59](https://www.youtube.com/watch?v=d0jX4L25ONU&t=299.72s)]
+*  Do you know if that is included in the final deal? [[00:05:04](https://www.youtube.com/watch?v=d0jX4L25ONU&t=304.84000000000003s)]
+*  It's difficult to say what is included in the final deal or not, but I think eventually the next few hours [[00:05:09](https://www.youtube.com/watch?v=d0jX4L25ONU&t=309.44s)]
+*  We will all know what is included in the final deals right now [[00:05:16](https://www.youtube.com/watch?v=d0jX4L25ONU&t=316.44s)]
+*  It seems that this is included in the final deal, which actually [[00:05:20](https://www.youtube.com/watch?v=d0jX4L25ONU&t=320.96000000000004s)]
+*  It's hinders [[00:05:26](https://www.youtube.com/watch?v=d0jX4L25ONU&t=326.48s)]
+*  Israeli efforts to gather intelligence on the ground you must understand that [[00:05:28](https://www.youtube.com/watch?v=d0jX4L25ONU&t=328.40000000000003s)]
+*  The [[00:05:33](https://www.youtube.com/watch?v=d0jX4L25ONU&t=333.76s)]
+*  most fundamental [[00:05:35](https://www.youtube.com/watch?v=d0jX4L25ONU&t=335.32s)]
+*  Intelligence that being gathered is is on the ground is by troops. It's by drones. It's by [[00:05:37](https://www.youtube.com/watch?v=d0jX4L25ONU&t=337.16s)]
+*  documents and whatever you have [[00:05:45](https://www.youtube.com/watch?v=d0jX4L25ONU&t=345.68s)]
+*  access to so this [[00:05:49](https://www.youtube.com/watch?v=d0jX4L25ONU&t=349.32s)]
+*  Hinders in a way our ability to see how the Hamas is going to [[00:05:53](https://www.youtube.com/watch?v=d0jX4L25ONU&t=353.36s)]
+*  regain its force and [[00:06:00](https://www.youtube.com/watch?v=d0jX4L25ONU&t=360.04s)]
+*  Change its position and [[00:06:02](https://www.youtube.com/watch?v=d0jX4L25ONU&t=362.40000000000003s)]
+*  Even a reach a more hostages Oh dead. So right now they've been in there for about three weeks inside [[00:06:04](https://www.youtube.com/watch?v=d0jX4L25ONU&t=364.64000000000004s)]
+*  They're able to go into a lot. I understand one of the big stories yesterday [[00:06:11](https://www.youtube.com/watch?v=d0jX4L25ONU&t=371.8s)]
+*  They went into a mosque and saw a whole weapons depot and weapons plant inside a mosque [[00:06:14](https://www.youtube.com/watch?v=d0jX4L25ONU&t=374.8s)]
+*  So they have information on the ground to see I evidently our special forces also on the ground [[00:06:19](https://www.youtube.com/watch?v=d0jX4L25ONU&t=379.40000000000003s)]
+*  How much information and intelligence can we get if there is a drone which they're all undetectable by the eye? [[00:06:24](https://www.youtube.com/watch?v=d0jX4L25ONU&t=384.64000000000004s)]
+*  Above to see where these hostages emerge. How valuable is that? [[00:06:31](https://www.youtube.com/watch?v=d0jX4L25ONU&t=391.48s)]
+*  Enormous [[00:06:39](https://www.youtube.com/watch?v=d0jX4L25ONU&t=399.40000000000003s)]
+*  Because the right now the Hamas will use the pose and I call it the pose for few purposes [[00:06:40](https://www.youtube.com/watch?v=d0jX4L25ONU&t=400.68s)]
+*  first of all [[00:06:47](https://www.youtube.com/watch?v=d0jX4L25ONU&t=407.04s)]
+*  to regain supply [[00:06:48](https://www.youtube.com/watch?v=d0jX4L25ONU&t=408.56s)]
+*  second to move [[00:06:51](https://www.youtube.com/watch?v=d0jX4L25ONU&t=411.12s)]
+*  hostages where they are in a place that the Hamas things are not safe enough for their purposes and [[00:06:53](https://www.youtube.com/watch?v=d0jX4L25ONU&t=413.0s)]
+*  The most important thing is to have an overall view of the Israeli [[00:07:00](https://www.youtube.com/watch?v=d0jX4L25ONU&t=420.48s)]
+*  Forces on the ground because you have to take into consideration [[00:07:06](https://www.youtube.com/watch?v=d0jX4L25ONU&t=426.44s)]
+*  The Hamas does not have the full [[00:07:09](https://www.youtube.com/watch?v=d0jX4L25ONU&t=429.6s)]
+*  Picture where we are and what we are doing because they are partially blinded [[00:07:13](https://www.youtube.com/watch?v=d0jX4L25ONU&t=433.08000000000004s)]
+*  By the fact that they have to hide in the tunnel [[00:07:18](https://www.youtube.com/watch?v=d0jX4L25ONU&t=438.72s)]
+*  Yeah [[00:07:22](https://www.youtube.com/watch?v=d0jX4L25ONU&t=442.12s)]
+*  this will enable them to see the overall picture and [[00:07:22](https://www.youtube.com/watch?v=d0jX4L25ONU&t=442.32s)]
+*  This can be a major risk to the Israeli forces that are right now on the ground [[00:07:26](https://www.youtube.com/watch?v=d0jX4L25ONU&t=446.79999999999995s)]
+*  So did I guess the next question would be okay? We know part of the negotiation with Hamas [[00:07:32](https://www.youtube.com/watch?v=d0jX4L25ONU&t=452.59999999999997s)]
+*  But what does this mean for the Houthi rebels? What does this mean for Hezbollah? [[00:07:38](https://www.youtube.com/watch?v=d0jX4L25ONU&t=458.52s)]
+*  Do they pause as well or are they gonna be assisting Hamas? [[00:07:43](https://www.youtube.com/watch?v=d0jX4L25ONU&t=463.28s)]
+*  Trying to get some of their major commanders out of town [[00:07:48](https://www.youtube.com/watch?v=d0jX4L25ONU&t=468.12s)]
+*  Because I think that's part of the calculus here they can always [[00:07:52](https://www.youtube.com/watch?v=d0jX4L25ONU&t=472.32s)]
+*  Reorganize and get more [[00:07:56](https://www.youtube.com/watch?v=d0jX4L25ONU&t=476.59999999999997s)]
+*  Folks on the ground, but they need their leaders to stay in place for the ideology purposes, right? [[00:07:58](https://www.youtube.com/watch?v=d0jX4L25ONU&t=478.64s)]
+*  Absolutely, I think the Hamas I think the Hamas is trying desperately [[00:08:06](https://www.youtube.com/watch?v=d0jX4L25ONU&t=486.91999999999996s)]
+*  to gain support from the Houthi from Hezbollah from Iraq and from other places and [[00:08:12](https://www.youtube.com/watch?v=d0jX4L25ONU&t=492.08s)]
+*  Especially from the West Bank [[00:08:20](https://www.youtube.com/watch?v=d0jX4L25ONU&t=500.92s)]
+*  Right now that failed on all fronts. I mean as a Hezbollah is joining the [[00:08:23](https://www.youtube.com/watch?v=d0jX4L25ONU&t=503.84000000000003s)]
+*  War but on a very very medium scale [[00:08:30](https://www.youtube.com/watch?v=d0jX4L25ONU&t=510.12s)]
+*  So, of course the Houthi and the Hezbollah will try to let's say increase [[00:08:35](https://www.youtube.com/watch?v=d0jX4L25ONU&t=515.16s)]
+*  their effort for support, but I'm not sure how much it is [[00:08:42](https://www.youtube.com/watch?v=d0jX4L25ONU&t=522.4s)]
+*  Working and how much it's actually supporting the Hamas leaders [[00:08:47](https://www.youtube.com/watch?v=d0jX4L25ONU&t=527.9599999999999s)]
+*  There's a lot of people who feel as though Hezbollah has got to be neutralized at the end of this conflict because you [[00:08:53](https://www.youtube.com/watch?v=d0jX4L25ONU&t=533.16s)]
+*  There's a lot of people in Israel do not feel safe. Even if Hamas is virtually defeated and destroyed [[00:08:58](https://www.youtube.com/watch?v=d0jX4L25ONU&t=538.0s)]
+*  Thanks so much for joining us. So dad appreciate it. Absolutely [[00:09:04](https://www.youtube.com/watch?v=d0jX4L25ONU&t=544.64s)]
+*  Thank you for having me [[00:09:08](https://www.youtube.com/watch?v=d0jX4L25ONU&t=548.4399999999999s)]
+*  You got it. Happy Thanksgiving [[00:09:10](https://www.youtube.com/watch?v=d0jX4L25ONU&t=550.48s)]
+*  Turn into Fox weather alert a powerful storm system pounded more than 30 states with snow and plenty of rain here on the East Coast [[00:09:12](https://www.youtube.com/watch?v=d0jX4L25ONU&t=552.3199999999999s)]
+*  Brian, all right [[00:09:19](https://www.youtube.com/watch?v=d0jX4L25ONU&t=559.88s)]
+*  Lawrence the storm is disrupting Thanksgiving travel plans at airports across America on what could be [[00:09:21](https://www.youtube.com/watch?v=d0jX4L25ONU&t=561.4s)]
+*  The busiest travel day in American history and we are [[00:09:27](https://www.youtube.com/watch?v=d0jX4L25ONU&t=567.48s)]
+*  248 years young right now folks are pouring into airports across the country to get to their holiday destinations dating all the way back to [[00:09:31](https://www.youtube.com/watch?v=d0jX4L25ONU&t=571.9599999999999s)]
+*  1776 [[00:09:40](https://www.youtube.com/watch?v=d0jX4L25ONU&t=580.0s)]
+*  Day right and this is bad news on the busiest day more than [[00:09:42](https://www.youtube.com/watch?v=d0jX4L25ONU&t=582.72s)]
+*  370 flights are delayed this morning with another 40 cancelled [[00:09:47](https://www.youtube.com/watch?v=d0jX4L25ONU&t=587.56s)]
+*  Let's check in with senior meteorologist Jancy for our Fox weather forecast in this historic moment [[00:09:51](https://www.youtube.com/watch?v=d0jX4L25ONU&t=591.42s)]
+*  History in the making right here. We had 2.5 million people are close to it passing through the to a TSA checkpoint [[00:09:57](https://www.youtube.com/watch?v=d0jX4L25ONU&t=597.44s)]
+*  That's up from 180,000 or 180,000 more [[00:10:04](https://www.youtube.com/watch?v=d0jX4L25ONU&t=604.24s)]
+*  Than last year. So let's take a look at it. We've got [[00:10:09](https://www.youtube.com/watch?v=d0jX4L25ONU&t=609.16s)]
+*  1,400 flights in the air [[00:10:12](https://www.youtube.com/watch?v=d0jX4L25ONU&t=612.2s)]
+*  352 delays 40 cancellations the worst delays right now in Atlanta, New York and Los Angeles [[00:10:14](https://www.youtube.com/watch?v=d0jX4L25ONU&t=614.24s)]
+*  And we have that coastal storm that is moving offshore. That's part of the problem along the East Coast [[00:10:19](https://www.youtube.com/watch?v=d0jX4L25ONU&t=619.84s)]
+*  Temperatures ahead of the front warmer than average [[00:10:26](https://www.youtube.com/watch?v=d0jX4L25ONU&t=626.28s)]
+*  Except when you go up to North New England and Canada where we've got snow flying and that's going to disrupt things [[00:10:29](https://www.youtube.com/watch?v=d0jX4L25ONU&t=629.36s)]
+*  And even though this storm is gonna move offshore, it's the winds behind it that will cause delays and the cancellation [[00:10:35](https://www.youtube.com/watch?v=d0jX4L25ONU&t=635.84s)]
+*  So even though the radar looks good, you know, the winds will definitely cause some issues in the air [[00:10:42](https://www.youtube.com/watch?v=d0jX4L25ONU&t=642.96s)]
+*  Here's the snow still to come for parts of New England [[00:10:47](https://www.youtube.com/watch?v=d0jX4L25ONU&t=647.88s)]
+*  Certainly Maine will get the bullseye of over a foot in some areas. So that front moves offshore [[00:10:50](https://www.youtube.com/watch?v=d0jX4L25ONU&t=650.68s)]
+*  That's the same storm system that brought the severe weather including tornadoes this week [[00:10:56](https://www.youtube.com/watch?v=d0jX4L25ONU&t=656.28s)]
+*  And then a new storm system moves into the northwest otherwise a pretty good-looking forecast as we get into Thanksgiving [[00:11:01](https://www.youtube.com/watch?v=d0jX4L25ONU&t=661.24s)]
+*  We do have that new storm system moving across the Rockies and that's going to bring some snow a white Thanksgiving [[00:11:07](https://www.youtube.com/watch?v=d0jX4L25ONU&t=667.7199999999999s)]
+*  But for the rest of the country pretty good and above average for a lot of folks if there is a silver lining [[00:11:13](https://www.youtube.com/watch?v=d0jX4L25ONU&t=673.3399999999999s)]
+*  You are delayed tomorrow is a better day and Friday will be good as well in terms of weather and getting to grandma's house [[00:11:18](https://www.youtube.com/watch?v=d0jX4L25ONU&t=678.88s)]
+*  fingers crossed [[00:11:26](https://www.youtube.com/watch?v=d0jX4L25ONU&t=686.56s)]
+*  The turtleneck I like that that's my favorite time of year [[00:11:28](https://www.youtube.com/watch?v=d0jX4L25ONU&t=688.9599999999999s)]
+*  Yeah, I used to beg my mom not to have to wear why I felt like I was choking to death [[00:11:35](https://www.youtube.com/watch?v=d0jX4L25ONU&t=695.5999999999999s)]
+*  I go mock turtle but mock turtle [[00:11:42](https://www.youtube.com/watch?v=d0jX4L25ONU&t=702.3199999999999s)]
+*  Please [[00:11:46](https://www.youtube.com/watch?v=d0jX4L25ONU&t=706.3199999999999s)]
+*  Do you have pictures somewhere? Yeah, I'll get one of you is the worst picture day. I don't wear a turtleneck [[00:11:48](https://www.youtube.com/watch?v=d0jX4L25ONU&t=708.56s)]
+*  No one's wearing turtlenecks. She didn't believe me [[00:11:54](https://www.youtube.com/watch?v=d0jX4L25ONU&t=714.0799999999999s)]
+*  But just to get over your head I guess had a big head just get over your head [[00:11:58](https://www.youtube.com/watch?v=d0jX4L25ONU&t=718.64s)]
+*  It was I felt for a moment. I could lose breath. They could have extra large [[00:12:02](https://www.youtube.com/watch?v=d0jX4L25ONU&t=722.0999999999999s)]
+*  Turtleneck that would be you extra large now. We know we're getting brighter for Christmas [[00:12:06](https://www.youtube.com/watch?v=d0jX4L25ONU&t=726.4799999999999s)]
+*  hate a turtleneck [[00:12:11](https://www.youtube.com/watch?v=d0jX4L25ONU&t=731.64s)]
+*  I'm Steve juicy. I'm Brian kill me and I'm Ainsley Earhart and click here to subscribe to the Fox News YouTube page to catch [[00:12:14](https://www.youtube.com/watch?v=d0jX4L25ONU&t=734.3199999999999s)]
+*  Our hottest interviews and most compelling analysis [[00:12:20](https://www.youtube.com/watch?v=d0jX4L25ONU&t=740.76s)]

@@ -1,0 +1,142 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 305s
+Video Keywords: ['israel war', 'israel hamas war', 'israel news', 'biden administration', 'israel at war october 2023', 'joe biden', 'foreign policy', 'middle east war', 'middle east', 'middle east news', 'israel hamas war gaza', 'gaza invasion', 'gaza-israel conflict', 'foreign policy middle east', 'war', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news today', 'jamaal bowman fire alarm pull', 'jamaal bowman fire alarm', 'rep. jamaal bowman pulling fire alarm', 'cory mills', 'fox & friends weekend']
+Video Views: 45894
+Video Rating: None
+Video Description: Rep. Cory Mills, R-Fla., discusses his rescue efforts of bringing 159 more Americans home amid the war in Israel and New York Rep. Jamaal Bowman pleading guilty to pulling a fire alarm at the Capitol building. #foxnews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Biden admin's failed foreign policy has resulted in all this: Rep Cory Mills
+**Fox News - Middle East:** [October 28, 2023](https://www.youtube.com/watch?v=DainbBZ5uks)
+*  We're back with a Fox News alert. [[00:00:00](https://www.youtube.com/watch?v=DainbBZ5uks&t=0.0s)]
+*  You're taking a live look at explosions rocking Gaza right now as the IDF ramps up its operations [[00:00:02](https://www.youtube.com/watch?v=DainbBZ5uks&t=2.48s)]
+*  both through the air and on the ground. [[00:00:08](https://www.youtube.com/watch?v=DainbBZ5uks&t=8.28s)]
+*  And it's a race against time for U.S. citizens stuck in Israel, but GOP Congressman Cory [[00:00:10](https://www.youtube.com/watch?v=DainbBZ5uks&t=10.72s)]
+*  Mills is stepping up. [[00:00:14](https://www.youtube.com/watch?v=DainbBZ5uks&t=14.98s)]
+*  Yesterday he coordinated his second flight to get more stranded Americans out safely. [[00:00:17](https://www.youtube.com/watch?v=DainbBZ5uks&t=17.0s)]
+*  Florida Congressman Cory Mills joins us now. [[00:00:22](https://www.youtube.com/watch?v=DainbBZ5uks&t=22.76s)]
+*  Great to see you, Congressman. [[00:00:25](https://www.youtube.com/watch?v=DainbBZ5uks&t=25.2s)]
+*  We remember that you did something like this when it came to Afghanistan. [[00:00:26](https://www.youtube.com/watch?v=DainbBZ5uks&t=26.96s)]
+*  Now here we are once again when it comes to Israel. [[00:00:31](https://www.youtube.com/watch?v=DainbBZ5uks&t=31.060000000000002s)]
+*  Well, again, it just shows that the Biden administration doesn't prioritize the safety [[00:00:33](https://www.youtube.com/watch?v=DainbBZ5uks&t=33.04s)]
+*  of American lives. [[00:00:36](https://www.youtube.com/watch?v=DainbBZ5uks&t=36.480000000000004s)]
+*  We saw it in 2021 when we were conducting ground operations, getting out fellow Texans [[00:00:37](https://www.youtube.com/watch?v=DainbBZ5uks&t=37.72s)]
+*  that had been stranded, a mother and three children born and raised in Amarillo, Texas. [[00:00:41](https://www.youtube.com/watch?v=DainbBZ5uks&t=41.660000000000004s)]
+*  When I saw what was occurring and I knew kind of the destabilization that was going [[00:00:46](https://www.youtube.com/watch?v=DainbBZ5uks&t=46.24s)]
+*  to go on because Iran really wants to break down that normalization process that was going [[00:00:49](https://www.youtube.com/watch?v=DainbBZ5uks&t=49.24s)]
+*  the KSA and Israel to build out and expand the Abram Accords. [[00:00:54](https://www.youtube.com/watch?v=DainbBZ5uks&t=54.8s)]
+*  I knew that we were going to see a very similar thing, whether it's Secretary Blinken, Lloyd [[00:00:59](https://www.youtube.com/watch?v=DainbBZ5uks&t=59.28s)]
+*  Austin or President Biden. [[00:01:02](https://www.youtube.com/watch?v=DainbBZ5uks&t=62.44s)]
+*  They have no plan, no strategy, no way to actually prioritize the American lives. [[00:01:04](https://www.youtube.com/watch?v=DainbBZ5uks&t=64.17999999999999s)]
+*  It's all about their failed foreign policy that's resulted in all this. [[00:01:08](https://www.youtube.com/watch?v=DainbBZ5uks&t=68.28s)]
+*  And so if Joe Biden's unwilling to do his job, then there's other Americans who will [[00:01:11](https://www.youtube.com/watch?v=DainbBZ5uks&t=71.86s)]
+*  step up and do it for him. [[00:01:15](https://www.youtube.com/watch?v=DainbBZ5uks&t=75.16s)]
+*  And this has been urgent. [[00:01:16](https://www.youtube.com/watch?v=DainbBZ5uks&t=76.47999999999999s)]
+*  Explain to our audience, you know, you just got this last group out, but barely. [[00:01:17](https://www.youtube.com/watch?v=DainbBZ5uks&t=77.47999999999999s)]
+*  Yeah. [[00:01:21](https://www.youtube.com/watch?v=DainbBZ5uks&t=81.36s)]
+*  The thing that just came in, we had 159 that was on this and pretty much one of the last [[00:01:22](https://www.youtube.com/watch?v=DainbBZ5uks&t=82.36s)]
+*  flights as soon as ground operations and IDF started moving, they ceased all civilian aircrafts [[00:01:26](https://www.youtube.com/watch?v=DainbBZ5uks&t=86.52s)]
+*  coming out of Tel Aviv. [[00:01:30](https://www.youtube.com/watch?v=DainbBZ5uks&t=90.68s)]
+*  So usually when there's a rescue operation like this, you think you have all these government [[00:01:32](https://www.youtube.com/watch?v=DainbBZ5uks&t=92.2s)]
+*  resources behind you. [[00:01:36](https://www.youtube.com/watch?v=DainbBZ5uks&t=96.28s)]
+*  When you're doing this independently, what can you count on? [[00:01:37](https://www.youtube.com/watch?v=DainbBZ5uks&t=97.5s)]
+*  Yourself, yourself and your team. [[00:01:40](https://www.youtube.com/watch?v=DainbBZ5uks&t=100.76s)]
+*  And that was the thing. [[00:01:42](https://www.youtube.com/watch?v=DainbBZ5uks&t=102.96000000000001s)]
+*  Now I've spent over 20 years throughout the Middle East, obviously from the Iraq War in [[00:01:43](https://www.youtube.com/watch?v=DainbBZ5uks&t=103.96000000000001s)]
+*  03 and all the way through. [[00:01:47](https://www.youtube.com/watch?v=DainbBZ5uks&t=107.56s)]
+*  And I speak fluent Arabic, which actually does help when you're on the ground. [[00:01:48](https://www.youtube.com/watch?v=DainbBZ5uks&t=108.9s)]
+*  I've been going through Jordan. [[00:01:52](https://www.youtube.com/watch?v=DainbBZ5uks&t=112.12s)]
+*  So when I went over there, we actually conducted the first day, 32 Americans that we ground [[00:01:53](https://www.youtube.com/watch?v=DainbBZ5uks&t=113.12s)]
+*  evaced out of areas like Haifa and Nazareth, Tiberias up by the Syrian area. [[00:01:57](https://www.youtube.com/watch?v=DainbBZ5uks&t=117.64s)]
+*  On the second day I went and we ended up getting 45 out and we were able to go through the [[00:02:01](https://www.youtube.com/watch?v=DainbBZ5uks&t=121.96s)]
+*  West Bank and through Jerusalem and some of the other outer areas closer moving into the [[00:02:05](https://www.youtube.com/watch?v=DainbBZ5uks&t=125.75999999999999s)]
+*  South. [[00:02:09](https://www.youtube.com/watch?v=DainbBZ5uks&t=129.28s)]
+*  And so it really is one of those things where you get on the ground and you figure it out [[00:02:10](https://www.youtube.com/watch?v=DainbBZ5uks&t=130.28s)]
+*  where in the military we just adapt and overcome. [[00:02:13](https://www.youtube.com/watch?v=DainbBZ5uks&t=133.72s)]
+*  Yeah. [[00:02:16](https://www.youtube.com/watch?v=DainbBZ5uks&t=136.12s)]
+*  Awesome story, Congressman. [[00:02:17](https://www.youtube.com/watch?v=DainbBZ5uks&t=137.12s)]
+*  Incredible. [[00:02:18](https://www.youtube.com/watch?v=DainbBZ5uks&t=138.12s)]
+*  Not as awesome story coming out of Congress with a different congressman. [[00:02:19](https://www.youtube.com/watch?v=DainbBZ5uks&t=139.12s)]
+*  Jamal Bowman, he pled guilty to, I guess, pulling the fire alarm. [[00:02:22](https://www.youtube.com/watch?v=DainbBZ5uks&t=142.44s)]
+*  I'm trying to pick my words correctly because there were some he's still not admitting intention [[00:02:28](https://www.youtube.com/watch?v=DainbBZ5uks&t=148.24s)]
+*  in some way. [[00:02:32](https://www.youtube.com/watch?v=DainbBZ5uks&t=152.72s)]
+*  But in this video right here comes out afterwards, you can see walks up, he takes down the signs, [[00:02:33](https://www.youtube.com/watch?v=DainbBZ5uks&t=153.72s)]
+*  throws them on the ground, walks over, pulls the fire alarm and then walks back out the [[00:02:37](https://www.youtube.com/watch?v=DainbBZ5uks&t=157.76000000000002s)]
+*  same way he came in. [[00:02:42](https://www.youtube.com/watch?v=DainbBZ5uks&t=162.04000000000002s)]
+*  You know, just total BS the idea that he thought it was going to release the door and tried [[00:02:43](https://www.youtube.com/watch?v=DainbBZ5uks&t=163.04000000000002s)]
+*  to walk through. [[00:02:48](https://www.youtube.com/watch?v=DainbBZ5uks&t=168.60000000000002s)]
+*  Well, and the lack of integrity. [[00:02:49](https://www.youtube.com/watch?v=DainbBZ5uks&t=169.60000000000002s)]
+*  I mean, look, he tried to act as if he didn't know and it was just opening the doors, what [[00:02:50](https://www.youtube.com/watch?v=DainbBZ5uks&t=170.95999999999998s)]
+*  he originally said. [[00:02:53](https://www.youtube.com/watch?v=DainbBZ5uks&t=173.84s)]
+*  But people fail to remember he worked in a school. [[00:02:54](https://www.youtube.com/watch?v=DainbBZ5uks&t=174.84s)]
+*  They gave actual tutoring on, hey, don't pull these fire alarms. [[00:02:57](https://www.youtube.com/watch?v=DainbBZ5uks&t=177.2s)]
+*  Don't do this. [[00:03:01](https://www.youtube.com/watch?v=DainbBZ5uks&t=181.04s)]
+*  Don't do that. [[00:03:02](https://www.youtube.com/watch?v=DainbBZ5uks&t=182.04s)]
+*  In my personal opinion, it's intentional, criminal and malicious. [[00:03:03](https://www.youtube.com/watch?v=DainbBZ5uks&t=183.04s)]
+*  I think that he should at minimum be censured, but I would actually vote to have him expelled. [[00:03:05](https://www.youtube.com/watch?v=DainbBZ5uks&t=185.79999999999998s)]
+*  I know Congresswoman Malia Talkis has put a bill or put a resolution on the floor that [[00:03:09](https://www.youtube.com/watch?v=DainbBZ5uks&t=189.39999999999998s)]
+*  would actually expel him. [[00:03:13](https://www.youtube.com/watch?v=DainbBZ5uks&t=193.64s)]
+*  I would happily support that. [[00:03:14](https://www.youtube.com/watch?v=DainbBZ5uks&t=194.88s)]
+*  I've already endorsed or sorry, endorsed, co-sponsored Lisa McClain's bill that actually [[00:03:16](https://www.youtube.com/watch?v=DainbBZ5uks&t=196.32s)]
+*  censures him. [[00:03:20](https://www.youtube.com/watch?v=DainbBZ5uks&t=200.72s)]
+*  You know what is BS? [[00:03:21](https://www.youtube.com/watch?v=DainbBZ5uks&t=201.72s)]
+*  That this video came out now. [[00:03:22](https://www.youtube.com/watch?v=DainbBZ5uks&t=202.84s)]
+*  I guarantee you that if that was Marjorie Taylor Greene that this would have been out [[00:03:24](https://www.youtube.com/watch?v=DainbBZ5uks&t=204.28s)]
+*  on that day. [[00:03:29](https://www.youtube.com/watch?v=DainbBZ5uks&t=209.28s)]
+*  Here's the other thing. [[00:03:30](https://www.youtube.com/watch?v=DainbBZ5uks&t=210.28s)]
+*  I'm surprised Donald Trump hasn't been blamed for it. [[00:03:31](https://www.youtube.com/watch?v=DainbBZ5uks&t=211.28s)]
+*  I agree. [[00:03:32](https://www.youtube.com/watch?v=DainbBZ5uks&t=212.68s)]
+*  He also said this is Bowman. [[00:03:33](https://www.youtube.com/watch?v=DainbBZ5uks&t=213.68s)]
+*  He says I'm now that he's been charged, he says he's happy for a quick resolution. [[00:03:35](https://www.youtube.com/watch?v=DainbBZ5uks&t=215.52s)]
+*  There were no quick resolutions for the J sixers who were accused of the same thing, [[00:03:40](https://www.youtube.com/watch?v=DainbBZ5uks&t=220.16s)]
+*  which was, you know, interrupting. [[00:03:44](https://www.youtube.com/watch?v=DainbBZ5uks&t=224.6s)]
+*  Look at his sweetheart plea. [[00:03:47](https://www.youtube.com/watch?v=DainbBZ5uks&t=227.44s)]
+*  It's basically, okay, well, I'm going to pay a fine and then after a certain amount of [[00:03:48](https://www.youtube.com/watch?v=DainbBZ5uks&t=228.56s)]
+*  time it's going to be expunged and or pulled away. [[00:03:51](https://www.youtube.com/watch?v=DainbBZ5uks&t=231.2s)]
+*  Would anyone else who has committed this, which they're now labeling only as a misdemeanor, [[00:03:53](https://www.youtube.com/watch?v=DainbBZ5uks&t=233.56s)]
+*  which I think with criminal intent, it should be at minimum a low class felony. [[00:03:58](https://www.youtube.com/watch?v=DainbBZ5uks&t=238.12s)]
+*  Would anyone else get that same sweetheart deal? [[00:04:01](https://www.youtube.com/watch?v=DainbBZ5uks&t=241.72s)]
+*  And to your point, if it was Marjorie Taylor Greene or a Lauren Bovert or a Matt Gaetz [[00:04:03](https://www.youtube.com/watch?v=DainbBZ5uks&t=243.48s)]
+*  or any of those, would they have gotten this type of sweetheart deal or were they throwing [[00:04:06](https://www.youtube.com/watch?v=DainbBZ5uks&t=246.95999999999998s)]
+*  him onto the bus? [[00:04:09](https://www.youtube.com/watch?v=DainbBZ5uks&t=249.88s)]
+*  I know that the world is, I know that the world is blowing up right now. [[00:04:10](https://www.youtube.com/watch?v=DainbBZ5uks&t=250.88s)]
+*  It's crazy. [[00:04:13](https://www.youtube.com/watch?v=DainbBZ5uks&t=253.84s)]
+*  But will just out of principle, the Republicans and the new speaker prioritize absolutely [[00:04:14](https://www.youtube.com/watch?v=DainbBZ5uks&t=254.84s)]
+*  throwing the book at this guy? [[00:04:19](https://www.youtube.com/watch?v=DainbBZ5uks&t=259.88s)]
+*  Well, I don't think that we're going to prioritize anything on Bowman. [[00:04:21](https://www.youtube.com/watch?v=DainbBZ5uks&t=261.0s)]
+*  We've prioritized securing our border and physical responsibility, but I can tell you [[00:04:23](https://www.youtube.com/watch?v=DainbBZ5uks&t=263.56s)]
+*  getting accountability of all members of Congress is definitely something that the speaker Mike [[00:04:26](https://www.youtube.com/watch?v=DainbBZ5uks&t=266.52s)]
+*  Johnson will definitely do. [[00:04:31](https://www.youtube.com/watch?v=DainbBZ5uks&t=271.66s)]
+*  And by the way, what a blessing. [[00:04:32](https://www.youtube.com/watch?v=DainbBZ5uks&t=272.66s)]
+*  Mike Johnson is one of the most constitutionally principled faith based individuals that we [[00:04:34](https://www.youtube.com/watch?v=DainbBZ5uks&t=274.96s)]
+*  could possibly have gotten in a speaker. [[00:04:39](https://www.youtube.com/watch?v=DainbBZ5uks&t=279.12s)]
+*  He believes in a member driven, not speaker driven process to decentralize things. [[00:04:41](https://www.youtube.com/watch?v=DainbBZ5uks&t=281.48s)]
+*  This is the return of power and limited government overreach that we need. [[00:04:45](https://www.youtube.com/watch?v=DainbBZ5uks&t=285.52000000000004s)]
+*  Good. [[00:04:48](https://www.youtube.com/watch?v=DainbBZ5uks&t=288.52000000000004s)]
+*  Looks good so far. [[00:04:49](https://www.youtube.com/watch?v=DainbBZ5uks&t=289.52000000000004s)]
+*  Appreciate it. [[00:04:50](https://www.youtube.com/watch?v=DainbBZ5uks&t=290.52000000000004s)]
+*  Thank you. [[00:04:51](https://www.youtube.com/watch?v=DainbBZ5uks&t=291.52000000000004s)]
+*  Thanks for being here with us in person. [[00:04:52](https://www.youtube.com/watch?v=DainbBZ5uks&t=292.52000000000004s)]
+*  I'm Steve Ducey. [[00:04:53](https://www.youtube.com/watch?v=DainbBZ5uks&t=293.52000000000004s)]
+*  I'm Brian Kilmeade. [[00:04:54](https://www.youtube.com/watch?v=DainbBZ5uks&t=294.52000000000004s)]
+*  And I'm Ainsley Earhart. [[00:04:55](https://www.youtube.com/watch?v=DainbBZ5uks&t=295.52000000000004s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:04:56](https://www.youtube.com/watch?v=DainbBZ5uks&t=296.52000000000004s)]
+*  and most compelling analysis. [[00:05:01](https://www.youtube.com/watch?v=DainbBZ5uks&t=301.52000000000004s)]

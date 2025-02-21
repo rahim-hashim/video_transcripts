@@ -1,0 +1,158 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 566s
+Video Keywords: ['Fox News Channel', 'FNC', 'Fox News', 'News', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'pro-palestine protest', 'pro-palestine marches', 'anti-israel protest in america', 'anti-israel protests', 'national mall', 'washington d.c.', 'israel news', 'dc protest', 'israel gaza', 'protest today', 'israel war', 'hamas gaza', 'war in israel', 'israel', 'gaza strip', 'middle east', 'fox & friends', 'jewish americans', 'pro-Israel rally', 'pro-Israel rally dc', 'steve doocy']
+Video Views: 62867
+Video Rating: None
+Video Description: FOX News' Steve Doocy spoke with pro-Israel rally-goers during the nearly 300,000-person event on the National Mall. #FOXNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Israel supporters flood DC, warn Americans about Hamas: 'It's coming to your neighborhood'
+**Fox News - Fox and Friends:** [November 15, 2023](https://www.youtube.com/watch?v=u8hX4LNQ9rQ)
+*  Right. Well, there's so many people here in America that are praying for Israel, that [[00:00:00](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=0.0s)]
+*  support Israel. Yesterday was the big pro-Israel rally down in D.C., and that's where Steve [[00:00:03](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=3.92s)]
+*  is. Steve, they were expecting, I think you said the original permit was for 60,000. About [[00:00:08](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=8.16s)]
+*  300,000 showed up. [[00:00:13](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=13.44s)]
+*  People were shocked at how many people did show up, Ainsley and Brian and Lawrence. And [[00:00:15](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=15.8s)]
+*  I'll tell you what, it was perfect weather. It was a beautiful day in November, and they [[00:00:20](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=20.28s)]
+*  all came here to show the world that we're standing with Israel. Keep in mind, same area, [[00:00:26](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=26.04s)]
+*  about 10 days ago they had a pro-Palestinian rally. So they wanted to show there are more [[00:00:33](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=33.64s)]
+*  of us than you. And also, hundreds of thousands of people showed up, as you can see right [[00:00:38](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=38.16s)]
+*  there, showed up here because what's going on over there. Watch this. [[00:00:44](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=44.44s)]
+*  Are you ready to stand for Israel today? [[00:00:51](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=51.48s)]
+*  Bring them home! Bring them home! [[00:00:55](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=55.48s)]
+*  We stand with Israel. [[00:00:58](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=58.48s)]
+*  So why did tens of thousands of people show up today in Washington? For one reason, to [[00:01:01](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=61.48s)]
+*  send an absolutely clear message that at this critical moment in history, Israel is not [[00:01:06](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=66.72s)]
+*  alone. [[00:01:14](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=74.88s)]
+*  There is no two sides here. This is between the right side, God's side, and savages who [[00:01:15](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=75.88s)]
+*  worship death. [[00:01:22](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=82.88s)]
+*  We're here, not wearing masks to cover our face because it's not embarrassing for what [[00:01:23](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=83.88s)]
+*  we are rallying for. It's not a right or left issue, it's a good versus evil issue. [[00:01:27](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=87.56s)]
+*  Our rallies compared to the pro-Palestinian rallies are night and day. We're here, we're [[00:01:31](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=91.67999999999999s)]
+*  not even protesting, we're just standing up for our brothers and sisters. [[00:01:35](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=95.64s)]
+*  We're not going to stop. We're going to keep fighting and supporting Israel no matter what [[00:01:38](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=98.72s)]
+*  it takes. [[00:01:42](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=102.52s)]
+*  There are some people who are like, you know that October 7th thing never actually happened. [[00:01:43](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=103.52s)]
+*  Well, you can't, my great grandmother used to say, you can't argue with a lunatic. [[00:01:48](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=108.52s)]
+*  Christians stand with Israel. Isn't that why everybody's here, just to show Israel we've [[00:01:55](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=115.52s)]
+*  got their back? [[00:02:00](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=120.16s)]
+*  It should be. I have religious beliefs, but if I put away the Bible, I still believe we [[00:02:01](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=121.47999999999999s)]
+*  need to support Israel. [[00:02:07](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=127.12s)]
+*  For years, Satan has been trying to destroy Israel and he's at it again, but we're not [[00:02:08](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=128.28s)]
+*  going to let that happen. [[00:02:13](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=133.56s)]
+*  It's so sad to see how many people are so willingly ignorant about all of this and they [[00:02:14](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=134.76s)]
+*  choose not to see this. So what we're here doing today is so important because we're [[00:02:19](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=139.56s)]
+*  able to show in people's faces, we're able to show them the truth, we're able to show [[00:02:23](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=143.16s)]
+*  them that the Jewish people are not going away. We're not going anywhere. [[00:02:26](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=146.48s)]
+*  This is a moment that we're going to tell our grandchildren about. There are over 200 [[00:02:28](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=148.88s)]
+*  hostages still in Israel and we feel an obligation to bring them home. [[00:02:32](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=152.64s)]
+*  These are your children. [[00:02:36](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=156.72s)]
+*  They're held hostage right now? [[00:02:38](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=158.16s)]
+*  Yes. [[00:02:39](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=159.64s)]
+*  This is your daughter? [[00:02:40](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=160.64s)]
+*  Yes, and this is my son. [[00:02:41](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=161.64s)]
+*  I've seen them in trouble. [[00:02:42](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=162.64s)]
+*  And this is my son. [[00:02:43](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=163.64s)]
+*  Beautiful children. [[00:02:44](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=164.64s)]
+*  Thank you. [[00:02:45](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=165.64s)]
+*  I'm so sorry. [[00:02:46](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=166.64s)]
+*  Thank you. [[00:02:47](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=167.64s)]
+*  Honestly, I don't think we hear enough about the hostages on the news and we need to do [[00:02:48](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=168.64s)]
+*  everything we can to bring them home. [[00:02:54](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=174.07999999999998s)]
+*  At Fox we try to do a lot. [[00:02:56](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=176.36s)]
+*  There's nothing better than listening to Fox News. They're the one media that's showing [[00:02:58](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=178.32s)]
+*  what's really happening and getting the truth out. [[00:03:03](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=183.52s)]
+*  We pray for eventual peace, but if you do not conquer Hamas, who wants death, wants [[00:03:05](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=185.88s)]
+*  destruction, you'll have more death. So a ceasefire is surrendered. [[00:03:12](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=192.79999999999998s)]
+*  This is really everyone's war. This is not debatable. These are savages that I'm going [[00:03:16](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=196.44s)]
+*  to say something shocking, worse than Nazis. [[00:03:22](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=202.35999999999999s)]
+*  You know, I saw a video yesterday with a baby bottle 10 feet away from missiles and suicide [[00:03:25](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=205.64s)]
+*  Is this a normal thing? Is this a normal thing? No, this isn't normal and we need to stop [[00:03:32](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=212.8s)]
+*  this. [[00:03:37](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=217.0s)]
+*  These are savages and they're living in our country with us. And anyone who doesn't speak [[00:03:38](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=218.0s)]
+*  out now, it's coming to your neighborhood right now. [[00:03:43](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=223.44s)]
+*  You know, I worked here in Washington back in the 80s and I have seen a lot of events [[00:03:51](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=231.56s)]
+*  on the national mall as people from all over the country come to gather for something. [[00:03:58](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=238.6s)]
+*  But what I saw yesterday was different because really this was an existential threat because [[00:04:02](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=242.88s)]
+*  the people who were there just want to remind people of what's going on over there. [[00:04:09](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=249.88s)]
+*  There was a great quote I saw this morning in the New York Post, a personal trainer from [[00:04:15](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=255.16s)]
+*  Hackensack, New Jersey, got on a bus and went down. He's in that crowd right there. He said, [[00:04:19](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=259.84s)]
+*  We are here to show the world that we won't be exterminated again. [[00:04:25](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=265.4s)]
+*  You know, I got to tell you, it was a great moment of unity. I was disappointed that the [[00:04:31](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=271.4s)]
+*  president and the vice president decided not to attend this. But I also noticed as well [[00:04:36](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=276.76s)]
+*  as a lot of my Jewish friends noticed that the other networks didn't bother to cover [[00:04:43](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=283.28s)]
+*  it as much. It is not lost upon them that you guys covered the women's march and all [[00:04:47](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=287.71999999999997s)]
+*  the other anti-marks, the Black Lives Matter march. They are saying that that's okay. [[00:04:54](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=294.24s)]
+*  Many Jewish people are Democrats, they are progressives, so they have stood with you [[00:05:01](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=301.6s)]
+*  with that. But they are wondering why their march didn't get the same coverage, especially [[00:05:05](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=305.32s)]
+*  Ainsley when they had 300,000 people there. [[00:05:09](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=309.64s)]
+*  Right. There are some great speakers too. Go ahead. [[00:05:12](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=312.84000000000003s)]
+*  I was just going to say, I can't tell you how many people when Ari and I were walking [[00:05:16](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=316.48s)]
+*  through the crowd with the camera, how many people came over to me and said, Hey, Steve [[00:05:22](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=322.1s)]
+*  from Fox, thank you. Your coverage is great. You are getting the word out. [[00:05:26](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=326.66s)]
+*  Yeah, there have been several articles written about it as well. You know, when I look at [[00:05:31](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=331.02000000000004s)]
+*  that, Steve, it seemed like you almost got choked up when you were doing one of the stand-ups. [[00:05:34](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=334.98s)]
+*  You look at that and your heart just hurts for them because you know what they have been [[00:05:39](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=339.90000000000003s)]
+*  through and you know what they are going through on our college campuses. You look at what [[00:05:42](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=342.86s)]
+*  is happening in America and they are not getting the support. This is America. Then I also [[00:05:47](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=347.26000000000005s)]
+*  feel like as a Christian, the Bible is very clear about the future of Israel. It's the [[00:05:51](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=351.26000000000005s)]
+*  promised land. They are God's chosen people, but we are all God's children. We don't want [[00:05:58](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=358.58000000000004s)]
+*  any of the civilians to die. But there was a peace fire, a ceasefire on October the 6th. [[00:06:03](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=363.38000000000005s)]
+*  Then they stormed Israel on October the 7th and they are just not getting the support [[00:06:10](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=370.16s)]
+*  that they deserve. It really warms my heart that so many of them went down there. I follow [[00:06:13](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=373.98s)]
+*  a lot of my Jewish friends here in the city on social media and they were posting wonderful [[00:06:18](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=378.0s)]
+*  just clips of being at the march. It just is emotional for everybody. Yeah, I bet you [[00:06:23](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=383.32s)]
+*  it's been, I think you are going to see a big bounce back. In the beginning it was, [[00:06:28](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=388.68s)]
+*  what the heck is going on? Where is all this pro-Palestinian, they deserve homeland and [[00:06:32](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=392.64000000000004s)]
+*  pro-Hamas attitude? I think this is the beginning of the pushback. I think everybody was stunned [[00:06:37](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=397.28000000000003s)]
+*  in the beginning, but I think it's really going to turn around, at least I hope. The [[00:06:43](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=403.0s)]
+*  other thing is the speeches were really good. Hakeem Jeffries was excellent speaking right [[00:06:47](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=407.8s)]
+*  after the speaker of the House Republican. And then you have Van Jones, the first time [[00:06:53](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=413.36s)]
+*  we heard about Van Jones, he's working for President Obama, not known as a right wing [[00:06:58](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=418.48s)]
+*  activist. Talking about how proud he is of the Jewish community. And then you have Debra [[00:07:02](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=422.72s)]
+*  Messing who there is no left wing cause she is not supporting of, but yet she was there [[00:07:09](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=429.44s)]
+*  front and center making a great speech. I also found it fascinating Steve that at one [[00:07:14](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=434.94s)]
+*  point at the march that they said no ceasefire, no ceasefire. Van Jones when he brought it [[00:07:20](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=440.42s)]
+*  up. Van Jones when he tried to say we want peace, we want to have peace. Well the Jewish [[00:07:27](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=447.9s)]
+*  people have been saying we want peace, but if peace means that now that we can't retaliate [[00:07:32](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=452.5s)]
+*  and hunt down the people that if you don't get them they are just going to wait another [[00:07:38](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=458.18s)]
+*  day to do it. The other day to do it. Steve you interviewed a mom who lost two of her [[00:07:41](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=461.7s)]
+*  children. I know two kids, they looked to be in their twenties and she was absolutely [[00:07:45](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=465.46s)]
+*  heartbroken. But to the point you were making a moment ago about the speaker was there, [[00:07:50](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=470.62s)]
+*  also Chuck Schumer was there, Mr. Jeffries is there. And we've got an image where you've [[00:07:56](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=476.38s)]
+*  got, and you don't see this in Washington right there, that right there, that picture, [[00:08:00](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=480.96s)]
+*  you're holding hands. We are bipartisan on this issue. We have got Israel's back. A lot [[00:08:04](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=484.9s)]
+*  of people there said we are here, we like the fact that the Capitol dome was behind [[00:08:13](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=493.53999999999996s)]
+*  the stage so we can say, we can show our gratitude to the U.S. government. Thank you for backing [[00:08:19](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=499.26s)]
+*  Israel. The issue Steve that the Democrats after they, and I'm glad that they showed [[00:08:26](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=506.0s)]
+*  up and I'm glad that we had a moment of unity. But now they have to go back to their perspective [[00:08:31](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=511.58s)]
+*  caucuses and talk to them and they have to really understand and be willing to talk with [[00:08:37](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=517.46s)]
+*  their folks in their party about why they won't stand with Israel. Why they continue [[00:08:43](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=523.02s)]
+*  to protest. We see all these pro-Palestinian or pro-Hamas rallies. I was so glad to see [[00:08:47](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=527.78s)]
+*  a pro-Israel one. I hope they don't stop. I hope we continue to have these. Right, everyone [[00:08:54](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=534.1s)]
+*  couldn't believe it but I think no one's longer stunned. The other thing to keep in [[00:08:59](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=539.58s)]
+*  mind too is Netanyahu says I need bullets. Meta ammo. Guys, if anybody needs weapons [[00:09:03](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=543.4200000000001s)]
+*  to fight, it's the Israelis. Find a way to get that done in Congress. I'm Steve Ducey. [[00:09:11](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=551.5600000000001s)]
+*  I'm Brian Kilmeade. And I'm Ainsley Earhart. And click here to subscribe to the Fox News [[00:09:16](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=556.1800000000001s)]
+*  YouTube page to catch our hottest interviews and most compelling analysis. [[00:09:20](https://www.youtube.com/watch?v=u8hX4LNQ9rQ&t=560.1s)]

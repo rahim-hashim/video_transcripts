@@ -1,0 +1,155 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 433s
+Video Keywords: ['177 dead south korean plane crash', 'Aviation expert', 'Mike Boyd', 'Mike Boyd south korean plane crash', 'Muan South Korea', 'South Korea', 'South Korean Plane Crash', 'World news', 'asia', 'crash', 'deadly plane crash', 'fox and friends plane crash', 'korean plane crash', 'mike boyd fox and friends', 'plane crash', 'plane crash 2024', 'plane crash analysis', 'plane crash asia', 'south korean news', 'south korean plane crash 2024']
+Video Views: 149574
+Video Rating: None
+Video Description: Aviation consultant Mike Boyd joins 'Fox & Friends Weekend' to discuss a plane crash in South Korea leaving 177 dead.
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/ 
+ 
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+ 
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night 
+ 
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 177 dead in South Korean plane crash
+**Fox News - Fox and Friends:** [December 29, 2024](https://www.youtube.com/watch?v=dOM1a5AziVM)
+*  A devastating plane crash in South Korea has left at least 177 people dead. [[00:00:00](https://www.youtube.com/watch?v=dOM1a5AziVM&t=0.0s)]
+*  The Boeing 737-800 plane carrying 181 people on board is skidded off the runway at an airport [[00:00:05](https://www.youtube.com/watch?v=dOM1a5AziVM&t=5.2s)]
+*  about 180 miles south of Seoul earlier today. [[00:00:13](https://www.youtube.com/watch?v=dOM1a5AziVM&t=13.14s)]
+*  Cleanup continuing this morning after the aircraft exploded on impact with a concrete [[00:00:16](https://www.youtube.com/watch?v=dOM1a5AziVM&t=16.44s)]
+*  wall at Muang. [[00:00:21](https://www.youtube.com/watch?v=dOM1a5AziVM&t=21.76s)]
+*  That's the international airport there in South Korea. [[00:00:25](https://www.youtube.com/watch?v=dOM1a5AziVM&t=25.32s)]
+*  The video of this crash is graphic. [[00:00:28](https://www.youtube.com/watch?v=dOM1a5AziVM&t=28.0s)]
+*  We want to give some of our viewers a warning because you may find this disturbing. [[00:00:30](https://www.youtube.com/watch?v=dOM1a5AziVM&t=30.56s)]
+*  Incredibly, two crew members were pulled from the wreckage alive by emergency crews [[00:00:52](https://www.youtube.com/watch?v=dOM1a5AziVM&t=52.0s)]
+*  without any life-threatening injuries. [[00:00:56](https://www.youtube.com/watch?v=dOM1a5AziVM&t=56.46s)]
+*  Local officials say the control tower issued a bird strike warning shortly afterward and [[00:00:58](https://www.youtube.com/watch?v=dOM1a5AziVM&t=58.980000000000004s)]
+*  shortly afterwards. [[00:01:04](https://www.youtube.com/watch?v=dOM1a5AziVM&t=64.86s)]
+*  Pilots declared May Day and then pilots attempted to land. [[00:01:06](https://www.youtube.com/watch?v=dOM1a5AziVM&t=66.38s)]
+*  Reports also saying the Boeing 737-800 jet's landing gear was not deployed during the crash [[00:01:09](https://www.youtube.com/watch?v=dOM1a5AziVM&t=69.9s)]
+*  landing. [[00:01:15](https://www.youtube.com/watch?v=dOM1a5AziVM&t=75.86s)]
+*  Sad, sad story that played out on many people's social media timeline and right there for [[00:01:16](https://www.youtube.com/watch?v=dOM1a5AziVM&t=76.86s)]
+*  all of us to see this morning as well how it occurred. [[00:01:22](https://www.youtube.com/watch?v=dOM1a5AziVM&t=82.94s)]
+*  Let's bring in Mike Boyd. [[00:01:25](https://www.youtube.com/watch?v=dOM1a5AziVM&t=85.1s)]
+*  He's an aviation consultant to shed a little more light on this sad tragedy in South Korea. [[00:01:26](https://www.youtube.com/watch?v=dOM1a5AziVM&t=86.1s)]
+*  Mike, when you see that video of the crash, what stands out to you? [[00:01:31](https://www.youtube.com/watch?v=dOM1a5AziVM&t=91.17999999999999s)]
+*  Number one, the gear is not extended. [[00:01:35](https://www.youtube.com/watch?v=dOM1a5AziVM&t=95.94s)]
+*  The flaps are not extended, which would indicate that there was a major hydraulic failure of [[00:01:39](https://www.youtube.com/watch?v=dOM1a5AziVM&t=99.46s)]
+*  some kind there. [[00:01:43](https://www.youtube.com/watch?v=dOM1a5AziVM&t=103.97999999999999s)]
+*  I understand that even when there's a hydraulic failure, there's a mechanical way of dropping [[00:01:45](https://www.youtube.com/watch?v=dOM1a5AziVM&t=105.38s)]
+*  the landing gear. [[00:01:50](https://www.youtube.com/watch?v=dOM1a5AziVM&t=110.11999999999999s)]
+*  That was not done. [[00:01:51](https://www.youtube.com/watch?v=dOM1a5AziVM&t=111.11999999999999s)]
+*  I think we're going to be kind of in the dark here till we find the cockpit voice recorder [[00:01:52](https://www.youtube.com/watch?v=dOM1a5AziVM&t=112.14s)]
+*  and the black box for this because it looks like there was a bird strike from some earlier [[00:01:56](https://www.youtube.com/watch?v=dOM1a5AziVM&t=116.28s)]
+*  picture of it. [[00:02:02](https://www.youtube.com/watch?v=dOM1a5AziVM&t=122.14s)]
+*  They did vector the airplane around to the other end of the runway, so there was control. [[00:02:03](https://www.youtube.com/watch?v=dOM1a5AziVM&t=123.52000000000001s)]
+*  But landing at this speed or coming down at this speed with the gear not down, it looks [[00:02:07](https://www.youtube.com/watch?v=dOM1a5AziVM&t=127.94s)]
+*  like that airplane suffered some major hydraulic failure of some kind. [[00:02:14](https://www.youtube.com/watch?v=dOM1a5AziVM&t=134.76s)]
+*  We don't know what that will be until we get the black boxes. [[00:02:20](https://www.youtube.com/watch?v=dOM1a5AziVM&t=140.04s)]
+*  Mike, the black boxes have been found, so hopefully some answers will come soon from [[00:02:22](https://www.youtube.com/watch?v=dOM1a5AziVM&t=142.4s)]
+*  that. [[00:02:27](https://www.youtube.com/watch?v=dOM1a5AziVM&t=147.28s)]
+*  But I'm curious, if you could explain, for those of us who don't know a lot about this, [[00:02:28](https://www.youtube.com/watch?v=dOM1a5AziVM&t=148.28s)]
+*  how can a bird strike, what impact does that have? [[00:02:32](https://www.youtube.com/watch?v=dOM1a5AziVM&t=152.85999999999999s)]
+*  And also, this hydraulic failure, is that entirely mechanical or could there be a pilot [[00:02:36](https://www.youtube.com/watch?v=dOM1a5AziVM&t=156.44s)]
+*  decision or problem with that as well? [[00:02:44](https://www.youtube.com/watch?v=dOM1a5AziVM&t=164.12s)]
+*  Well, there are a million backups on this airplane. [[00:02:50](https://www.youtube.com/watch?v=dOM1a5AziVM&t=170.44s)]
+*  It's extremely safe. [[00:02:52](https://www.youtube.com/watch?v=dOM1a5AziVM&t=172.56s)]
+*  And that's what a lot of people are saying. [[00:02:53](https://www.youtube.com/watch?v=dOM1a5AziVM&t=173.56s)]
+*  They can't understand why this airplane landed on that runway at that speed with no flaps, [[00:02:55](https://www.youtube.com/watch?v=dOM1a5AziVM&t=175.07999999999998s)]
+*  with no gear. [[00:03:01](https://www.youtube.com/watch?v=dOM1a5AziVM&t=181.39999999999998s)]
+*  There might have been something else involved. [[00:03:02](https://www.youtube.com/watch?v=dOM1a5AziVM&t=182.64s)]
+*  But a bird strike on an engine might shut an engine down. [[00:03:04](https://www.youtube.com/watch?v=dOM1a5AziVM&t=184.23999999999998s)]
+*  But there's so many redundant systems there, it just doesn't make sense. [[00:03:07](https://www.youtube.com/watch?v=dOM1a5AziVM&t=187.44s)]
+*  So we're in the dark here. [[00:03:12](https://www.youtube.com/watch?v=dOM1a5AziVM&t=192.16s)]
+*  But we know this. [[00:03:15](https://www.youtube.com/watch?v=dOM1a5AziVM&t=195.51999999999998s)]
+*  The runway is 9,200 feet. [[00:03:16](https://www.youtube.com/watch?v=dOM1a5AziVM&t=196.72s)]
+*  It's a very long runway. [[00:03:17](https://www.youtube.com/watch?v=dOM1a5AziVM&t=197.72s)]
+*  It did come in hot and high, hot and fast. [[00:03:20](https://www.youtube.com/watch?v=dOM1a5AziVM&t=200.35999999999999s)]
+*  We don't know why that was. [[00:03:22](https://www.youtube.com/watch?v=dOM1a5AziVM&t=202.68s)]
+*  The real issue, that airplane was probably damaged more than we think. [[00:03:24](https://www.youtube.com/watch?v=dOM1a5AziVM&t=204.56s)]
+*  And it may not have been just the bird strike. [[00:03:27](https://www.youtube.com/watch?v=dOM1a5AziVM&t=207.88s)]
+*  There might have been other things that happened to that airplane. [[00:03:29](https://www.youtube.com/watch?v=dOM1a5AziVM&t=209.8s)]
+*  We don't know. [[00:03:32](https://www.youtube.com/watch?v=dOM1a5AziVM&t=212.64s)]
+*  But it's very strange to have that airplane land that hot on a runway. [[00:03:33](https://www.youtube.com/watch?v=dOM1a5AziVM&t=213.64s)]
+*  It's 9,200 feet to the point where it literally was still going pretty strong when it hit [[00:03:37](https://www.youtube.com/watch?v=dOM1a5AziVM&t=217.84s)]
+*  that wall. [[00:03:42](https://www.youtube.com/watch?v=dOM1a5AziVM&t=222.28s)]
+*  I still can't wrap my head around the idea that there were two people who survived that [[00:03:43](https://www.youtube.com/watch?v=dOM1a5AziVM&t=223.52s)]
+*  crash, and especially when you watch the explosion at the end. [[00:03:48](https://www.youtube.com/watch?v=dOM1a5AziVM&t=228.16s)]
+*  Are you surprised by that? [[00:03:52](https://www.youtube.com/watch?v=dOM1a5AziVM&t=232.12s)]
+*  And how does anybody survive something like that? [[00:03:53](https://www.youtube.com/watch?v=dOM1a5AziVM&t=233.96s)]
+*  I don't know. [[00:03:56](https://www.youtube.com/watch?v=dOM1a5AziVM&t=236.88s)]
+*  I'm thrilled by it, actually, for their families. [[00:03:57](https://www.youtube.com/watch?v=dOM1a5AziVM&t=237.88s)]
+*  They're both flight attendants. [[00:04:00](https://www.youtube.com/watch?v=dOM1a5AziVM&t=240.24s)]
+*  They're probably in the jump seats in the very back of the airplane. [[00:04:01](https://www.youtube.com/watch?v=dOM1a5AziVM&t=241.24s)]
+*  And you know, it makes sense. [[00:04:04](https://www.youtube.com/watch?v=dOM1a5AziVM&t=244.6s)]
+*  The airplane absorbed all that. [[00:04:05](https://www.youtube.com/watch?v=dOM1a5AziVM&t=245.6s)]
+*  They really got away with the very lucky position where they were, because they weren't very [[00:04:08](https://www.youtube.com/watch?v=dOM1a5AziVM&t=248.08s)]
+*  far from the rest of the passengers on that airplane. [[00:04:13](https://www.youtube.com/watch?v=dOM1a5AziVM&t=253.32000000000002s)]
+*  So God love them. [[00:04:15](https://www.youtube.com/watch?v=dOM1a5AziVM&t=255.56s)]
+*  It's a wonderful thing that they were blessed that way. [[00:04:17](https://www.youtube.com/watch?v=dOM1a5AziVM&t=257.96000000000004s)]
+*  But these things do happen. [[00:04:19](https://www.youtube.com/watch?v=dOM1a5AziVM&t=259.92s)]
+*  And again, how an airplane breaks up when it hits the ground, it's different every time. [[00:04:22](https://www.youtube.com/watch?v=dOM1a5AziVM&t=262.08s)]
+*  Mike, you know, I've always been told, and I'd love for you to tell me if this is accurate [[00:04:27](https://www.youtube.com/watch?v=dOM1a5AziVM&t=267.92s)]
+*  or not, that it's actually more risky during takeoff than it is on landing for most air [[00:04:32](https://www.youtube.com/watch?v=dOM1a5AziVM&t=272.2s)]
+*  flights. [[00:04:39](https://www.youtube.com/watch?v=dOM1a5AziVM&t=279.28000000000003s)]
+*  We all feel the jolt when we land and feel a bit of nervousness. [[00:04:40](https://www.youtube.com/watch?v=dOM1a5AziVM&t=280.28000000000003s)]
+*  But landing is what I've been told is one of the more safe aspects of air travel. [[00:04:42](https://www.youtube.com/watch?v=dOM1a5AziVM&t=282.36s)]
+*  But I want you to tell me if that's true or not. [[00:04:46](https://www.youtube.com/watch?v=dOM1a5AziVM&t=286.96000000000004s)]
+*  But I also want to see if I understand what you were telling Rachel correctly. [[00:04:49](https://www.youtube.com/watch?v=dOM1a5AziVM&t=289.16s)]
+*  Is it possible to land a plane and get it to stop without its landing gear belly first, [[00:04:53](https://www.youtube.com/watch?v=dOM1a5AziVM&t=293.44s)]
+*  like we saw there, if the runway is long enough to bring it to a stop? [[00:04:59](https://www.youtube.com/watch?v=dOM1a5AziVM&t=299.44s)]
+*  Or should perhaps the pilot, if the plane was capable, avoid it landing and try to stay [[00:05:03](https://www.youtube.com/watch?v=dOM1a5AziVM&t=303.92s)]
+*  up until the issues are resolved? [[00:05:09](https://www.youtube.com/watch?v=dOM1a5AziVM&t=309.52000000000004s)]
+*  I would suspect the second part they were doing, because I understand they didn't go [[00:05:12](https://www.youtube.com/watch?v=dOM1a5AziVM&t=312.40000000000003s)]
+*  around. [[00:05:16](https://www.youtube.com/watch?v=dOM1a5AziVM&t=316.08000000000004s)]
+*  That's reported. [[00:05:17](https://www.youtube.com/watch?v=dOM1a5AziVM&t=317.08000000000004s)]
+*  I don't know. [[00:05:18](https://www.youtube.com/watch?v=dOM1a5AziVM&t=318.08000000000004s)]
+*  But keep in mind, you know, yes, there are belly landings all the time. [[00:05:19](https://www.youtube.com/watch?v=dOM1a5AziVM&t=319.08000000000004s)]
+*  I mean, it's not unheard of. [[00:05:24](https://www.youtube.com/watch?v=dOM1a5AziVM&t=324.24s)]
+*  But in this case, that airplane didn't have its flaps. [[00:05:26](https://www.youtube.com/watch?v=dOM1a5AziVM&t=326.64s)]
+*  That meant it was coming in at a much higher speed to stay in the sky. [[00:05:29](https://www.youtube.com/watch?v=dOM1a5AziVM&t=329.52000000000004s)]
+*  And that meant, bang, we're going way too fast on that runway. [[00:05:35](https://www.youtube.com/watch?v=dOM1a5AziVM&t=335.08000000000004s)]
+*  It has to do with the flaps in this case. [[00:05:38](https://www.youtube.com/watch?v=dOM1a5AziVM&t=338.8s)]
+*  The landing gear itself, we've had those things happen. [[00:05:40](https://www.youtube.com/watch?v=dOM1a5AziVM&t=340.92s)]
+*  But we are landing at a very, very high speed because you can't slow down because you'll [[00:05:43](https://www.youtube.com/watch?v=dOM1a5AziVM&t=343.88s)]
+*  fall out of the sky. [[00:05:47](https://www.youtube.com/watch?v=dOM1a5AziVM&t=347.72s)]
+*  It's a tough thing. [[00:05:49](https://www.youtube.com/watch?v=dOM1a5AziVM&t=349.36s)]
+*  And we don't know what the background of the crew was. [[00:05:50](https://www.youtube.com/watch?v=dOM1a5AziVM&t=350.36s)]
+*  I would suspect they were very qualified. [[00:05:51](https://www.youtube.com/watch?v=dOM1a5AziVM&t=351.88s)]
+*  This airline's been in business almost 20 years. [[00:05:54](https://www.youtube.com/watch?v=dOM1a5AziVM&t=354.16s)]
+*  It's almost a new airport. [[00:05:56](https://www.youtube.com/watch?v=dOM1a5AziVM&t=356.52000000000004s)]
+*  So all those things, I don't think will be factors, but we will find out. [[00:05:58](https://www.youtube.com/watch?v=dOM1a5AziVM&t=358.24s)]
+*  Mike, it can't be ignored that this was a Boeing plane. [[00:06:02](https://www.youtube.com/watch?v=dOM1a5AziVM&t=362.40000000000003s)]
+*  Can you talk to us about that? [[00:06:06](https://www.youtube.com/watch?v=dOM1a5AziVM&t=366.28000000000003s)]
+*  Because there have been some issues with Boeing as late. [[00:06:07](https://www.youtube.com/watch?v=dOM1a5AziVM&t=367.52000000000004s)]
+*  In fact, even some issues with airplanes, Boeing airplanes that very day and other airports. [[00:06:10](https://www.youtube.com/watch?v=dOM1a5AziVM&t=370.20000000000005s)]
+*  Nothing deadly, but. [[00:06:15](https://www.youtube.com/watch?v=dOM1a5AziVM&t=375.84000000000003s)]
+*  I wouldn't go there with that. [[00:06:17](https://www.youtube.com/watch?v=dOM1a5AziVM&t=377.44s)]
+*  I really wouldn't. [[00:06:19](https://www.youtube.com/watch?v=dOM1a5AziVM&t=379.28000000000003s)]
+*  I mean, we had a separate set of things that happened. [[00:06:20](https://www.youtube.com/watch?v=dOM1a5AziVM&t=380.08000000000004s)]
+*  And this Boeing is 800 is a very safe airplane. [[00:06:25](https://www.youtube.com/watch?v=dOM1a5AziVM&t=385.04s)]
+*  There's never been any systemic problems with it. [[00:06:28](https://www.youtube.com/watch?v=dOM1a5AziVM&t=388.08000000000004s)]
+*  So I would say it's not a Boeing issue. [[00:06:30](https://www.youtube.com/watch?v=dOM1a5AziVM&t=390.68s)]
+*  I always want to look at that because you learn something from every crash. [[00:06:33](https://www.youtube.com/watch?v=dOM1a5AziVM&t=393.0s)]
+*  You learn something. [[00:06:37](https://www.youtube.com/watch?v=dOM1a5AziVM&t=397.40000000000003s)]
+*  But the fact of the matter here is we do we do know that some systems on that airplane were not working and we knew there was a bird strike right before. [[00:06:38](https://www.youtube.com/watch?v=dOM1a5AziVM&t=398.67999999999995s)]
+*  That's probably the path they're going to go down right away, although every path is open. [[00:06:47](https://www.youtube.com/watch?v=dOM1a5AziVM&t=407.2s)]
+*  All right, Mike, we appreciate you jumping on with us early this morning and help us understand a little more about this sad tragedy in South Korea. [[00:06:52](https://www.youtube.com/watch?v=dOM1a5AziVM&t=412.84s)]
+*  My pleasure. Thank you, Mike. [[00:06:59](https://www.youtube.com/watch?v=dOM1a5AziVM&t=419.71999999999997s)]
+*  Our hottest interviews and most compelling analysis. [[00:07:08](https://www.youtube.com/watch?v=dOM1a5AziVM&t=428.4s)]

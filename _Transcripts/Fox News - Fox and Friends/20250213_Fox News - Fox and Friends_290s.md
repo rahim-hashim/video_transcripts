@@ -1,0 +1,157 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 290s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'ainsley earhardt', 'brian kilmeade', 'doge', 'doge slashing agencies', 'donald trump', 'elon musk', 'elon musk buyout', 'elon musk deleting agencies', 'elon musk doge', 'elon musk government spending', 'elon musk news', 'elon musk proposal', 'elon musk trump', 'fox & friends', 'musk', 'president elon musk', 'president musk', 'president trump', 'steve doocy', 'trump', 'trump administration', 'trump elon', 'trump elon musk', 'trump musk news']
+Video Views: 47910
+Video Rating: None
+Video Description: 'Fox & Friends' co-hosts discuss the legality of billionaire Elon Musk's proposal to buy out federal employees and his recent push to 'delete entire agencies' within the federal government. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Musk proposes cutting ENTIRE agencies: 'Remove the roots'
+**Fox News - Fox and Friends:** [February 13, 2025](https://www.youtube.com/watch?v=BOzpxEqcW6U)
+*  That Fork in the Road program by Elon Musk, [[00:00:00](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=0.0s)]
+*  75,000 people have said they're going to take the deal. [[00:00:02](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=2.88s)]
+*  I think the number would be higher, [[00:00:07](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=7.32s)]
+*  but there are a lot of people in Washington [[00:00:09](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=9.24s)]
+*  who would be eligible for that, [[00:00:10](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=10.92s)]
+*  but they're just worried, you know, [[00:00:13](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=13.56s)]
+*  whether or not it's legal, [[00:00:15](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=15.6s)]
+*  whether or not it would actually happen, [[00:00:17](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=17.0s)]
+*  or if they said, hey, I would love to take [[00:00:19](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=19.04s)]
+*  the free salary for eight months, [[00:00:22](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=22.06s)]
+*  and if it doesn't go through, [[00:00:24](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=24.28s)]
+*  suddenly Elon Musk has got a list of 85,000 people [[00:00:25](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=25.36s)]
+*  who don't wanna work there. [[00:00:28](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=28.72s)]
+*  They would be the first one to go. [[00:00:29](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=29.88s)]
+*  Well, that's why a lot of people didn't sign. [[00:00:32](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=32.12s)]
+*  I heard from some of my friends in DC. [[00:00:33](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=33.84s)]
+*  A lot of people moved during COVID, [[00:00:35](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=35.68s)]
+*  and so they were working from home, [[00:00:37](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=37.12s)]
+*  and they don't wanna go back to DC. [[00:00:38](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=38.44s)]
+*  So, and the program did get the green light from the judge, [[00:00:39](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=39.72s)]
+*  and you're not allowed to sign up for the program anymore [[00:00:42](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=42.84s)]
+*  if you didn't already. [[00:00:44](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=44.84s)]
+*  So you got 2.5 million federal workers. [[00:00:45](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=45.68s)]
+*  He said you all have a chance to leave [[00:00:49](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=49.92s)]
+*  with your six to eight months pay. [[00:00:51](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=51.6s)]
+*  Then they got frozen by the courts. [[00:00:53](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=53.64s)]
+*  Yesterday got unfrozen. [[00:00:55](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=55.72s)]
+*  The union said you can't do that, [[00:00:57](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=57.56s)]
+*  and then the judge essentially said, [[00:00:58](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=58.96s)]
+*  I don't know, can't they make their own decision? [[00:01:00](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=60.68s)]
+*  And he said, yeah. [[00:01:02](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=62.480000000000004s)]
+*  So, okay, so it was 60, 80, 90. [[00:01:03](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=63.44s)]
+*  So it would probably go higher than that, [[00:01:06](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=66.16s)]
+*  and then little by little we could, [[00:01:07](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=67.84s)]
+*  and pay them on time so we don't have to do lump sums [[00:01:09](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=69.48s)]
+*  and take from another area. [[00:01:11](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=71.76s)]
+*  Pay them out, not one big lump sum. [[00:01:13](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=73.36s)]
+*  So don't say that we're taking money away or denying it. [[00:01:15](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=75.6s)]
+*  Don't get jammed up there. [[00:01:18](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=78.94s)]
+*  And then after eight months, [[00:01:20](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=80.68s)]
+*  you will see everything shrink. [[00:01:21](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=81.76s)]
+*  The one thing that Elon does say is that sometimes [[00:01:22](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=82.8s)]
+*  if I cut too much, I get some back. [[00:01:25](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=85.64s)]
+*  So if one agency is barren, [[00:01:27](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=87.6s)]
+*  barren, no pun intended, [[00:01:30](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=90.39999999999999s)]
+*  we're gonna put some people back there. [[00:01:32](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=92.83999999999999s)]
+*  Surely, well, here's the thing. [[00:01:34](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=94.52s)]
+*  Ultimately, I think a lot of the people who didn't sign up, [[00:01:36](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=96.64s)]
+*  and they pulled the plug on the program last night. [[00:01:39](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=99.52s)]
+*  They said, okay, if you haven't signed up yet, [[00:01:41](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=101.08s)]
+*  don't bother because it's closed. [[00:01:43](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=103.24s)]
+*  They're worried that it is not legal. [[00:01:46](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=106.52s)]
+*  The judge who was appointed by Bill Clinton [[00:01:48](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=108.67999999999999s)]
+*  back in the 90s, what he said was, [[00:01:51](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=111.88s)]
+*  the unions don't actually have standing. [[00:01:54](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=114.32s)]
+*  He did not say whether or not it's legal. [[00:01:56](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=116.36s)]
+*  I'm sure that's gonna be adjudicated as well. [[00:01:58](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=118.12s)]
+*  But it would, you know, [[00:02:00](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=120.16s)]
+*  there will be fewer people working in the federal government [[00:02:01](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=121.68s)]
+*  if Elon Musk is able to get that buyout to work. [[00:02:04](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=124.44s)]
+*  He was actually on just very shortly ago, [[00:02:07](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=127.64s)]
+*  while you were sleeping, [[00:02:10](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=130.04s)]
+*  he did a Zoom call to world governments. [[00:02:11](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=131.08s)]
+*  It was a summit in Dubai. [[00:02:14](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=134.2s)]
+*  And here's what he had to say [[00:02:15](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=135.76s)]
+*  about entire federal agencies vanishing. [[00:02:17](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=137.48s)]
+*  We really have here a rule of the bureaucracy, [[00:02:22](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=142.8s)]
+*  as opposed to rule of the people democracy. [[00:02:26](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=146.64000000000001s)]
+*  We want to restore rule of the people. [[00:02:29](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=149.28s)]
+*  And so what that means is [[00:02:31](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=151.08s)]
+*  reducing the size of the federal government, [[00:02:32](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=152.48000000000002s)]
+*  basically reducing regulation. [[00:02:38](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=158.32000000000002s)]
+*  You know, there's a tremendous amount of overregulation [[00:02:41](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=161.60000000000002s)]
+*  that's happened over time. [[00:02:44](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=164.4s)]
+*  I think we do need to delete entire agencies. [[00:02:45](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=165.44s)]
+*  As opposed to leave part of them behind. [[00:02:52](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=172.36s)]
+*  Because if you leave part of them behind, [[00:02:54](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=174.76000000000002s)]
+*  it's easy, it's kind of like leaving a weed. [[00:02:56](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=176.88000000000002s)]
+*  If you don't remove the roots of the weed, [[00:02:59](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=179.84s)]
+*  then it's easy for the weed to grow back. [[00:03:02](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=182.52s)]
+*  So with Doge's done and people have done, [[00:03:04](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=184.68s)]
+*  by the way, I love this thing he does. [[00:03:07](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=187.12s)]
+*  So I hear some anecdotal information [[00:03:09](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=189.20000000000002s)]
+*  when he gets in front of his guys, [[00:03:10](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=190.92000000000002s)]
+*  his women doing some of this work. [[00:03:13](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=193.8s)]
+*  He'll bring some people in and say, [[00:03:15](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=195.68s)]
+*  you got 15 minutes to explain what you do. [[00:03:16](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=196.72000000000003s)]
+*  You know how oftentimes you hear from federal workers [[00:03:18](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=198.60000000000002s)]
+*  or maybe it's you guys out there. [[00:03:21](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=201.36s)]
+*  You feel as though you're doing a good job [[00:03:22](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=202.96s)]
+*  and you don't really cares. [[00:03:24](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=204.44000000000003s)]
+*  And all of a sudden you have that moment to say, [[00:03:26](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=206.32000000000002s)]
+*  wow, you're asking me what I'm doing, great. [[00:03:28](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=208.52s)]
+*  Maybe you hate it because you're getting away with murder, [[00:03:31](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=211.28s)]
+*  getting that check, you know you're not doing anything. [[00:03:33](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=213.64000000000001s)]
+*  But if you care about your job, you relish that moment. [[00:03:36](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=216.04000000000002s)]
+*  Then you add in, this is what I would do if I'm in charge. [[00:03:38](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=218.84s)]
+*  And that's what impresses Elon Musk [[00:03:41](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=221.44000000000003s)]
+*  if you look at his other businesses and most managers. [[00:03:43](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=223.72000000000003s)]
+*  I just think that all of a sudden you're in a bis, [[00:03:46](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=226.72000000000003s)]
+*  you're in a job, you're in a drab office, [[00:03:48](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=228.64s)]
+*  going to a federal building and you swipe in [[00:03:51](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=231.64s)]
+*  and you feel like, what am I really doing? [[00:03:54](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=234.32s)]
+*  Waiting to retire? [[00:03:56](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=236.32s)]
+*  Well, not anymore, he's gonna make you accountable. [[00:03:57](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=237.56s)]
+*  And believe it or not, Teddy Roosevelt talked about [[00:03:59](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=239.72s)]
+*  doing the same thing, only without the pass. [[00:04:01](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=241.68s)]
+*  He had a different type of security system. [[00:04:04](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=244.04s)]
+*  They're also focusing on immigration [[00:04:04](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=244.88s)]
+*  and they stripped money from New York City. [[00:04:06](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=246.51999999999998s)]
+*  The front page of the New York Post says US versus New York. [[00:04:09](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=249.0s)]
+*  It says Trump administration calls back 80 million [[00:04:12](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=252.07999999999998s)]
+*  for migrant hotels. [[00:04:14](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=254.4s)]
+*  So what happened was that money was approved by Congress [[00:04:15](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=255.92s)]
+*  in 2023. [[00:04:19](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=259.28s)]
+*  They put it in the bank account last week [[00:04:20](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=260.12s)]
+*  for New York City to be able to use that money [[00:04:22](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=262.08s)]
+*  for immigration and for shelters. [[00:04:24](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=264.0s)]
+*  No, the money was for FEMA, federal emergencies. [[00:04:25](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=265.8s)]
+*  And they're using it for the migrants. [[00:04:29](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=269.84s)]
+*  Exactly, so the Trump administration said, [[00:04:31](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=271.24s)]
+*  I don't think so. [[00:04:33](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=273.2s)]
+*  They went to check the bank account, the money is gone. [[00:04:34](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=274.2s)]
+*  Not just 60, but 80,000. [[00:04:36](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=276.48s)]
+*  80 million. 80 million. [[00:04:38](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=278.76s)]
+*  Thank you. [[00:04:48](https://www.youtube.com/watch?v=BOzpxEqcW6U&t=288.44s)]

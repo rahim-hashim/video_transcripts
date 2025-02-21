@@ -1,0 +1,161 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 470s
+Video Keywords: ['fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'hannity', 'hannity monologue', 'hannity monologue tonight', 'hannity tonight', 'sean hannity', 'sean hannity monologue', 'sean hannity monologue tonight', 'sean hannity reacts', 'sean hannity show', 'sean hannity tonight', 'middle east', 'secretary of state', 'biden administration', 'israel news', 'mike pompeo', 'israel war', 'israel hamas war', 'united states', 'israel palestine', 'us iran relations', 'mike pompeo iran']
+Video Views: 87325
+Video Rating: None
+Video Description: Former Secretary of State Mike Pompeo weighs in on the role the U.S. should play in the Israel-Hamas war without sparking an entire breakout of war in the Middle East on 'Hannity.'
+#FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Mike Pompeo: Biden's weakness invited Iran to unleash Hamas
+**Fox News - Israel Palestine:** [October 27, 2023](https://www.youtube.com/watch?v=O8oSFQ-fetQ)
+*  As we stay with our top story, the ground war in Gaza has begun. [[00:00:00](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=0.0s)]
+*  And this brings us to a very, very important question, whether or not Israel is forced [[00:00:03](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=3.68s)]
+*  to open a two-front war. [[00:00:08](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=8.48s)]
+*  What role should the U.S. play? [[00:00:10](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=10.64s)]
+*  How do we protect our American soldiers in the region and deter any threat from Iran [[00:00:12](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=12.68s)]
+*  without sparking a world war or an entire breakout of war in the entire region? [[00:00:18](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=18.2s)]
+*  Joining us once again is former Secretary of State, our friend Mike Pompeo, is back. [[00:00:24](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=24.76s)]
+*  Mr. Secretary, to follow up a little bit on a very good analysis by both Colonel North [[00:00:29](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=29.2s)]
+*  and you and Aaron, who we just heard from. [[00:00:33](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=33.6s)]
+*  So, with this ground war beginning, certainly the net result that Israel is going to need [[00:00:36](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=36.48s)]
+*  out of this is that neither Gaza nor Lebanon can remain launching pads for rockets being [[00:00:43](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=43.28s)]
+*  fired into Israel. [[00:00:51](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=51.68s)]
+*  The second very important goal has to be the tunnels, which we spoke of earlier, the network [[00:00:53](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=53.32s)]
+*  of tunnels. [[00:00:58](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=58.2s)]
+*  So I want to walk through this, if I can with you, front by front. [[00:00:59](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=59.6s)]
+*  So the first front, first battle is going to be Gaza. [[00:01:05](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=65.24000000000001s)]
+*  That ground war has begun. [[00:01:09](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=69.56s)]
+*  Now we would expect that Hezbollah is going to ratchet up their rocket attacks from the [[00:01:11](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=71.44s)]
+*  north. [[00:01:15](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=75.68s)]
+*  Now we have a two-front war. [[00:01:16](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=76.68s)]
+*  Then you have the threat of Syria. [[00:01:18](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=78.52000000000001s)]
+*  We have talked about the threat of the Houthi rebels from Yemen. [[00:01:19](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=79.84s)]
+*  And then the Iranians themselves. [[00:01:24](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=84.88s)]
+*  What the strategy has to be to cut off the head of the snake. [[00:01:28](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=88.24s)]
+*  But if it's a one-front war, I think they handle it. [[00:01:33](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=93.6s)]
+*  I think they can handle the two-front war. [[00:01:36](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=96.4s)]
+*  Where do you see the most trouble and the greatest danger for Israel right now? [[00:01:38](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=98.84s)]
+*  And how would you go about it? [[00:01:42](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=102.32000000000001s)]
+*  Well, Sean, I agree. [[00:01:43](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=103.88s)]
+*  The more fronts, the more complexity. [[00:01:47](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=107.36s)]
+*  We should also remember that there are diplomatic and political fronts as well that they'll [[00:01:49](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=109.72s)]
+*  be confronting. [[00:01:54](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=114.03999999999999s)]
+*  Just today at the United Nations, only 17 countries voted against demanding a complete [[00:01:55](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=115.16s)]
+*  ceasefire of the victim. [[00:01:59](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=119.96s)]
+*  And so they've got a very complex information campaign that they are fighting as well. [[00:02:01](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=121.96s)]
+*  And now they're going to be fighting the Biden administration that has demanded a humanitarian [[00:02:06](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=126.12s)]
+*  pause. [[00:02:10](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=130.32s)]
+*  We all know that's silly, right? [[00:02:11](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=131.32s)]
+*  A hundred million dollars going there is going to be a hundred million dollars worth of more [[00:02:12](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=132.72s)]
+*  fuel, a hundred million dollars worth of tunnel reinforcements, a hundred million dollars more [[00:02:15](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=135.68s)]
+*  munitions. [[00:02:19](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=139.68s)]
+*  That's what the Hamas terrorists will actually use that money for. [[00:02:20](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=140.76000000000002s)]
+*  So they've got that information warfare front as well. [[00:02:24](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=144.48000000000002s)]
+*  The United States can play the central role at preventing these other fronts from opening. [[00:02:28](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=148.36s)]
+*  So I think you may have even neglected another front, Judean Samaria, the West Bank. [[00:02:32](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=152.88s)]
+*  America can have a role in keeping containment in the West Bank. [[00:02:38](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=158.28s)]
+*  It can certainly do good work making clear to the regime in Iran that there'll be real [[00:02:41](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=161.72s)]
+*  costs imposed on them. [[00:02:45](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=165.96s)]
+*  Colonel North did a fine job of talking about some of them. [[00:02:47](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=167.36s)]
+*  For example, today, Sean, today, four million barrels of crude oil were sold by the Iranians. [[00:02:50](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=170.24s)]
+*  Just as we sat here today while they're holding Americans hostage and their foreign minister [[00:02:54](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=174.68s)]
+*  was in New York. [[00:02:58](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=178.52s)]
+*  We can do simple things, things that are non-kinetic that can impose real costs on the Iranian [[00:02:59](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=179.98000000000002s)]
+*  leadership convincing them that they need to restrain these proxy forces. [[00:03:04](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=184.60000000000002s)]
+*  A second, when they come after Americans, you can't just fire back at munitions. [[00:03:09](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=189.04000000000002s)]
+*  When they attack American soldiers and we fire at ammunition depots, that basically [[00:03:13](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=193.88s)]
+*  validates that. [[00:03:19](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=199.68s)]
+*  That seconds the Iranian understanding of the weakness that the Iranian leadership saw [[00:03:20](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=200.68s)]
+*  in Afghanistan, that they have seen when the Chinese spy balloon flow over our country. [[00:03:24](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=204.88000000000002s)]
+*  We have to get America back on its front foot in a way that actually will that will convince [[00:03:29](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=209.92000000000002s)]
+*  the Iranians that opening up these other fronts would be a detriment to them, not to their [[00:03:34](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=214.96s)]
+*  proxies, not to the folks in Iraq or Yemen, but to them. [[00:03:39](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=219.52s)]
+*  If we get that right, Sean, we can deter more fronts than the Israelis can handle. [[00:03:43](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=223.38s)]
+*  And then we just need to give the Israelis all the space to make decisions for themselves, [[00:03:48](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=228.07999999999998s)]
+*  to do the necessary, which is to ensure that something like what happened on October 7th [[00:03:51](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=231.95999999999998s)]
+*  never is possible of happening again to them. [[00:03:56](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=236.72s)]
+*  No, I can't say it any better. [[00:03:58](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=238.92s)]
+*  It is sad to see, you know, the fact that all of this money, international aid money, [[00:04:00](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=240.6s)]
+*  American taxpayer dollars, have been spent to help build infrastructure, schools, hospitals, [[00:04:07](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=247.16s)]
+*  and all of that money wasted on a network of tunnels and a terror network for one purpose, [[00:04:12](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=252.52s)]
+*  and that is the stated goal in Hamas's charter, which is the elimination of Israel with the [[00:04:18](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=258.16s)]
+*  help, support, the scheming, military plotting, planning of Iran. [[00:04:25](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=265.32s)]
+*  Specifically, what should the world's reaction to Iran be? [[00:04:30](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=270.76s)]
+*  Let me go back. [[00:04:35](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=275.6s)]
+*  As secretary of state during the Trump administration, you guys accomplished something I never thought [[00:04:36](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=276.84000000000003s)]
+*  I'd see in my lifetime. [[00:04:42](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=282.52000000000004s)]
+*  You created an alliance between the United States and Israel and Egypt and Jordan and [[00:04:44](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=284.28000000000003s)]
+*  Saudi Arabia and the Emirates, and you stood together. [[00:04:50](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=290.52000000000004s)]
+*  We had intelligence sharing at levels we'd never had before, mostly a private relationship, [[00:04:54](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=294.68s)]
+*  but I was very aware of it. [[00:05:01](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=301.32s)]
+*  When I'd interview you, you'd give me a little smile, which kind of let me know that [[00:05:03](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=303.52000000000004s)]
+*  path and I was trying to put pieces from sources together, but your CIA roots were held very [[00:05:08](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=308.92s)]
+*  strong. [[00:05:15](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=315.24s)]
+*  You never gave me a real clue, but I know we had this. [[00:05:16](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=316.24s)]
+*  Can you talk about that alliance? [[00:05:19](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=319.88s)]
+*  Can we achieve that alliance again? [[00:05:21](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=321.8s)]
+*  And it was really to stand against Iranian hegemony in the region and them ever getting [[00:05:25](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=325.48s)]
+*  a nuclear weapon. [[00:05:30](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=330.92s)]
+*  Can we get back to that? [[00:05:32](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=332.96000000000004s)]
+*  O'Shaugham, we certainly can, but it takes American leadership. [[00:05:36](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=336.15999999999997s)]
+*  You're right. [[00:05:41](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=341.08s)]
+*  Our theory of the case was this. [[00:05:42](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=342.08s)]
+*  We wanted good things for the Palestinians, but we knew in order to get that, appeasing [[00:05:43](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=343.24s)]
+*  Iran wasn't the direction for that. [[00:05:48](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=348.24s)]
+*  In the same way, demanding that Israel stand down is not good for the people who are living [[00:05:50](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=350.64s)]
+*  in Gaza either. [[00:05:54](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=354.2s)]
+*  We understood that Iran was a threat not only to Israel, the little Satan, and to the United [[00:05:56](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=356.15999999999997s)]
+*  States, the great Satan, but a threat to people living in the Kingdom of Saudi Arabia, people [[00:06:00](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=360.4s)]
+*  living in Bahrain, people living in the Emirates. [[00:06:04](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=364.64s)]
+*  And we isolated Iran. [[00:06:07](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=367.2s)]
+*  We literally, for the first time, had Iran on an island, stuck, trying to figure out [[00:06:09](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=369.0s)]
+*  how is they're going to get back from the pressure that had been put on them, economic [[00:06:13](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=373.56s)]
+*  pressure, diplomatic pressure, and when they began to act out, military pressure. [[00:06:18](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=378.0s)]
+*  Sean, remember too, we were very clear about our support for Israel. [[00:06:22](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=382.96s)]
+*  Not only did we move the embassy from Tel Aviv to Jerusalem, but we declared the Golan [[00:06:26](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=386.88s)]
+*  Heights the rightful property of the Jewish people, their rightful homeland. [[00:06:31](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=391.52000000000004s)]
+*  Those were things that so much in the establishment of foreign policy said those will create World [[00:06:35](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=395.08000000000004s)]
+*  War III. [[00:06:38](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=398.8s)]
+*  Well, we can see, you create risk of that very kind of regional or even potentially [[00:06:39](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=399.8s)]
+*  global conflagration when you're weak, when you invite the Iranians to do precisely what [[00:06:45](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=405.8s)]
+*  they did by unleashing Hamas on 1,300 civilians in the southern part of Israel. [[00:06:50](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=410.40000000000003s)]
+*  We have to understand, and both of your stories tonight, Sean, make clear, I think, to all [[00:06:56](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=416.36s)]
+*  of us here in America, evil still roams the earth. [[00:07:01](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=421.12s)]
+*  And there is a responsibility to ensure that when it happens, when that evil exposes itself, [[00:07:03](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=423.88s)]
+*  that we do everything we can to prevent it from impacting those who are good human beings [[00:07:08](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=428.72s)]
+*  trying to do the right thing. [[00:07:12](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=432.72s)]
+*  We know who the victim is here. [[00:07:14](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=434.12s)]
+*  We know who the aggressor is here. [[00:07:15](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=435.36s)]
+*  And America simply needs to stand on the side of those people who are fighting for basic [[00:07:17](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=437.0s)]
+*  human decency. [[00:07:20](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=440.96000000000004s)]
+*  I wish you could bring that message to every college and university across the country [[00:07:22](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=442.08000000000004s)]
+*  that has taken positions that, frankly, are incomprehensible to me. [[00:07:27](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=447.2s)]
+*  Thank you, Mr. Secretary. [[00:07:32](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=452.08000000000004s)]
+*  I know we kept you up late tonight. [[00:07:33](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=453.40000000000003s)]
+*  We appreciate all your support. [[00:07:35](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=455.72s)]
+*  Hey, Sean Hannity here. [[00:07:38](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=458.16s)]
+*  Hey, click here to subscribe to Fox News YouTube page and catch our hottest interviews and [[00:07:39](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=459.28000000000003s)]
+*  most compelling analysis. [[00:07:44](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=464.88s)]
+*  You will not get it anywhere else. [[00:07:46](https://www.youtube.com/watch?v=O8oSFQ-fetQ&t=466.64s)]

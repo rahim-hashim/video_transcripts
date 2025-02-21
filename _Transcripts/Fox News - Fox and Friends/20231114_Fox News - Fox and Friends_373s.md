@@ -1,0 +1,157 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 373s
+Video Keywords: ['fox news', 'fox news media', 'fox news channel', 'fox news network', 'war in israel', 'israel', 'israel war', 'gaza strip', 'hamas militants', 'hamas', 'IDF', 'israeli military', 'middle east', 'trey yingst', 'trey yingst fox news', 'trey yingst israel', 'gaza', 'israel hamas', 'israel hamas war gaza', 'israel hamas war news today', 'israel hamas live news', 'israel hamas news', 'israel hamas gaza', 'israel hamas war footage', 'gaza strip tunnels', 'hamas tunnels in gaza', 'hamas footage', 'hamas news', 'fox & friends']
+Video Views: 112182
+Video Rating: None
+Video Description: FOX News' Trey Yingst reports the latest on the IDF's efforts from southern Israel. #FOXNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Israeli military announces temporary pause in fighting to allow Gaza evacuations
+**Fox News - Fox and Friends:** [November 14, 2023](https://www.youtube.com/watch?v=Ttpu0VAqVF4)
+*  Hey, we've got a Fox News alert right now. [[00:00:00](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=0.0s)]
+*  The IDF in Israel is temporarily pausing what they're referring to as military activities [[00:00:03](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=3.56s)]
+*  in Gaza City so that some civilians can actually evacuate. [[00:00:09](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=9.56s)]
+*  And earlier this hour, Washington announced a third round of sanctions against Hamas-affiliated [[00:00:13](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=13.72s)]
+*  individuals. [[00:00:18](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=18.92s)]
+*  And by the way, we're seeing video of Israel bringing incubators into that hospital in Gaza. [[00:00:19](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=19.92s)]
+*  Trey Yanks is live in southern Israel. [[00:00:26](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=26.6s)]
+*  Trey. [[00:00:28](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=28.400000000000002s)]
+*  Hey guys, good morning. [[00:00:30](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=30.4s)]
+*  We understand the Israelis are taking what they're referring to as tactical pauses today [[00:00:31](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=31.759999999999998s)]
+*  to allow some more civilians to get out of the line of fire. [[00:00:36](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=36.1s)]
+*  I do want to show you behind me here there are some excavators near the northern part [[00:00:39](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=39.519999999999996s)]
+*  of the Gaza Strip. [[00:00:43](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=43.4s)]
+*  You can hear a little bit of that small arms fire in the distance as the battles are going [[00:00:44](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=44.64s)]
+*  on. [[00:00:48](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=48.28s)]
+*  The Israelis are working to destroy the tunnel network of Hamas, trying to target as many [[00:00:49](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=49.28s)]
+*  of those entrances as possible to make sure their forces are not ambushed as they operate [[00:00:52](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=52.9s)]
+*  inside Gaza. [[00:00:57](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=57.28s)]
+*  The Israelis say 47 of their soldiers have died since the ground operation began two [[00:00:58](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=58.480000000000004s)]
+*  and a half weeks ago. [[00:01:02](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=62.6s)]
+*  Now, as these battles are taking place, much of the focus remains on the Al-Shifa hospital [[00:01:03](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=63.6s)]
+*  in Gaza City. [[00:01:07](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=67.92s)]
+*  It is the Strip's largest. [[00:01:08](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=68.92s)]
+*  UN officials say dozens of premature babies, kidney patients, and other vulnerable Palestinians [[00:01:10](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=70.56s)]
+*  are currently sheltering there. [[00:01:15](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=75.36s)]
+*  Overnight, the Israelis said they are preparing to deliver incubators to the Al-Shifa hospital. [[00:01:16](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=76.84s)]
+*  They've been going back and forth as these battles are taking place in the streets of [[00:01:21](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=81.6s)]
+*  Gaza City, working to support those infantry troops. [[00:01:25](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=85.28s)]
+*  You can hear that outgoing artillery fire in the distance, a very active scene here [[00:01:28](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=88.24s)]
+*  along the southern front. [[00:01:31](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=91.84s)]
+*  Guys, back to you. [[00:01:33](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=93.08s)]
+*  Hey, Trey, I've got a question for you. [[00:01:34](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=94.08s)]
+*  If they're taking these pauses so civilians can get out, how do they know they're actual [[00:01:36](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=96.04s)]
+*  civilians and not Hamas? [[00:01:40](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=100.46000000000001s)]
+*  It's a great question. [[00:01:45](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=105.2s)]
+*  The Israelis are maintaining a distance from these evacuation corridors over concern that [[00:01:46](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=106.2s)]
+*  Hamas could fire on their soldiers. [[00:01:51](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=111.36s)]
+*  They also, interestingly, are going on loudspeakers and speaking in Hebrew to the evacuating Palestinians [[00:01:53](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=113.68s)]
+*  because they want to see if there are any of those hostages among the group. [[00:02:00](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=120.36s)]
+*  Guys? [[00:02:04](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=124.0s)]
+*  That's interesting. [[00:02:05](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=125.0s)]
+*  Thank you, Trey. [[00:02:06](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=126.0s)]
+*  Meanwhile, moments ago, more than 400 U.S. officials from 40 departments, including the [[00:02:07](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=127.0s)]
+*  White House, State Department, and the Department of Justice, signed a letter protesting against [[00:02:11](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=131.76s)]
+*  Joe Biden's Israel policy. [[00:02:17](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=137.1s)]
+*  They write, quote, we call on President Biden to urgently demand a ceasefire and to call [[00:02:18](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=138.8s)]
+*  for de-escalation of the current conflict by securing the immediate release of the Israeli [[00:02:23](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=143.32s)]
+*  hostages and arbitrarily detained Palestinians and the passage of adequate humanitarian aid [[00:02:27](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=147.68s)]
+*  to the Gaza Strip. [[00:02:33](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=153.44s)]
+*  Meanwhile, 52 U.S. bases in Iraq and Syria have been attacked by Iranian militias. [[00:02:34](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=154.44s)]
+*  Fox News correspondent Benjamin Hall joins us now. [[00:02:39](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=159.24s)]
+*  Benji, so great to see you. [[00:02:41](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=161.84s)]
+*  You're looking good, man. [[00:02:44](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=164.08s)]
+*  The forces that have been attacked there, some of them are special operators, some of [[00:02:46](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=166.64s)]
+*  the guys that rescued you, they've been getting TBI traumatic brain injuries there. [[00:02:51](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=171.44s)]
+*  What's your reaction and what can you tell us from some of the soldiers that are in those [[00:02:56](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=176.32s)]
+*  bases that are experiencing right now, how it's impacted them? [[00:03:01](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=181.12s)]
+*  Yeah, I've been out there quite a lot and I spent time on both sides with some of the [[00:03:04](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=184.44s)]
+*  U.S. troops out there as well as near some of the Iranian-backed militias as well. [[00:03:08](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=188.12s)]
+*  So I get both sides and 50 injuries now, over 50 injuries amongst American soldiers up there. [[00:03:12](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=192.24s)]
+*  And I think the big question is what does the response mean? [[00:03:18](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=198.16s)]
+*  You know, we've seen a few strikes on some of those sheer militia areas, but nothing [[00:03:20](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=200.28s)]
+*  in particular. [[00:03:26](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=206.24s)]
+*  And I was speaking to Vice President Pence just before this and he was looking back and [[00:03:27](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=207.24s)]
+*  saying, you know, we went in, we took out Soleimani when there was a big issue. [[00:03:29](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=209.56s)]
+*  When there was gas used in Syria, we sent dozens of cruise missiles. [[00:03:33](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=213.32s)]
+*  That sends a message to Iran. [[00:03:36](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=216.64s)]
+*  That holds them back. [[00:03:38](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=218.22s)]
+*  Taken out, a couple of guys in their little desert camps isn't going to hurt Iran. [[00:03:40](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=220.02s)]
+*  Iran doesn't miss them at all. [[00:03:44](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=224.32s)]
+*  We've hit back four times since we hit them on Sunday. [[00:03:45](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=225.56s)]
+*  So they're saying bring it on. [[00:03:50](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=230.24s)]
+*  We have to put a message of deterrence. [[00:03:52](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=232.68s)]
+*  The administration feels differently. [[00:03:55](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=235.68s)]
+*  They're afraid of escalation. [[00:03:57](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=237.52s)]
+*  And they've made it very clear as well. [[00:03:59](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=239.64000000000001s)]
+*  So what message does that send to the Iranians? [[00:04:00](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=240.96s)]
+*  We aren't going to do more because we're afraid of escalating it. [[00:04:03](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=243.08s)]
+*  And it has given Iran the carte blanche to continue doing what it's doing. [[00:04:05](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=245.36s)]
+*  You know, if it loses some of those guys, it just sends more. [[00:04:08](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=248.08s)]
+*  It doesn't feel it. [[00:04:10](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=250.24s)]
+*  And you are seeing Iran in so many different places right now and they're not being stopped [[00:04:11](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=251.24s)]
+*  in any way. [[00:04:14](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=254.64s)]
+*  You know, Hamas, Hezbollah supporting Russia. [[00:04:15](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=255.64s)]
+*  Oil prices rising, which helps Iran. [[00:04:18](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=258.71999999999997s)]
+*  Iran is behind so many things and nothing's being done to stop them. [[00:04:21](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=261.04s)]
+*  Yeah. [[00:04:24](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=264.0s)]
+*  I mean, what type of a message does this send to world leaders? [[00:04:25](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=265.0s)]
+*  They've attacked us 52 times, our bases, since October 17th. [[00:04:27](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=267.28s)]
+*  We've struck back only a couple of times. [[00:04:31](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=271.2s)]
+*  I think the world leaders is really interesting because I think we're starting to see a bit [[00:04:33](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=273.15999999999997s)]
+*  of a pull in some Western countries. [[00:04:36](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=276.71999999999997s)]
+*  The full-on support for Israel seems to be dropping back slightly. [[00:04:38](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=278.64s)]
+*  And I wonder whether in the coming weeks we're going to see that change a little bit in [[00:04:41](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=281.96s)]
+*  growing calls for ceasefires. [[00:04:44](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=284.56s)]
+*  And how about the fact that as we were introducing you, the news that there are a number of people [[00:04:46](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=286.28000000000003s)]
+*  in the administration, staff members, who are have signed a letter at the DOJ State [[00:04:51](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=291.20000000000005s)]
+*  Department, even at the White House saying, hey, Joe Biden, we shouldn't be behind Israel. [[00:04:56](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=296.12s)]
+*  Yeah. [[00:05:00](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=300.72s)]
+*  I mean, 400. [[00:05:01](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=301.72s)]
+*  There was another letter written a few days ago by 100 State Department employees as well, [[00:05:02](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=302.72s)]
+*  basically saying that the administration is wrong on its policy towards Israel, saying [[00:05:06](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=306.92s)]
+*  the guy who, a junior diplomat who wrote the first letter, had come out previously and [[00:05:11](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=311.6s)]
+*  said that Israel was committing genocide against Gaza. [[00:05:15](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=315.40000000000003s)]
+*  And these are people who are working within the State Department. [[00:05:17](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=317.44s)]
+*  And that's where we're going to start seeing this pull and push. [[00:05:20](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=320.0s)]
+*  That's why Secretary of State Pompeo said at times he seemed like pretty isolated. [[00:05:22](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=322.08000000000004s)]
+*  And he was Secretary of State. [[00:05:26](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=326.32s)]
+*  Within the State Department is another culture who want to run a different country than they're in. [[00:05:28](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=328.16s)]
+*  Yeah. [[00:05:32](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=332.32s)]
+*  It just feels that the State Department is, of course, out in the field. [[00:05:33](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=333.32s)]
+*  And they're talking to the Qataris and they're trying to do things on diplomatic fronts. [[00:05:36](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=336.36s)]
+*  But there hasn't been any progress as a result. [[00:05:39](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=339.52s)]
+*  And so the question is, is that enough? [[00:05:42](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=342.2s)]
+*  And what else needs to be done? [[00:05:44](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=344.0s)]
+*  And I will point out that on the other side, you have all the Arab leaders meeting over [[00:05:45](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=345.59999999999997s)]
+*  the weekend and they're making big pushes. [[00:05:48](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=348.88s)]
+*  And you had MBS, Mohammed bin Salman meeting with the president of Iran, with Assad, who [[00:05:51](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=351.0s)]
+*  killed 250,000 of his own people. [[00:05:56](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=356.23999999999995s)]
+*  You know, Erdogan, who hurts the Kurds, Sisi, who won't allow any Ghazans into Egypt. [[00:05:58](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=358.35999999999996s)]
+*  And you ask the question, what are those world leaders doing? [[00:06:04](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=364.23999999999995s)]
+*  And where is the U.S. influence on those countries? [[00:06:07](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=367.0s)]
+*  It doesn't exist. [[00:06:09](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=369.28000000000003s)]
+*  Benjamin, thank you very much. [[00:06:10](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=370.28000000000003s)]
+*  Thank you. [[00:06:11](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=371.28000000000003s)]
+*  Good to see you. [[00:06:12](https://www.youtube.com/watch?v=Ttpu0VAqVF4&t=372.28000000000003s)]
