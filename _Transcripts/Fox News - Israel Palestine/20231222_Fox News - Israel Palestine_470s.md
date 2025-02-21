@@ -1,0 +1,158 @@
+---
+Date Generated: February 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 470s
+Video Keywords: ['israel news', 'united nations', 'un security council', 'united nations security council', 'israel hamas war', 'hamas israel', 'israel war', 'israel hamas', 'israel gaza', 'war in israel', 'greg palkot', 'greg palkot israel', 'UNSC', 'gaza strip', 'middle east', 'israel hamas war gaza', 'gaza', 'lisa boothe', 'israel vs hamas today', 'israeli war coverage', 'israel today latest news live', 'israel vs palestine fighting', 'israel news today', 'israel war live']
+Video Views: 193975
+Video Rating: None
+Video Description: Senior foreign affairs correspondent Greg Palkot reports the latest on the vote from Tel Aviv. The 'Outnumbered' panelists also discuss their reaction to the vote as the war between Israel and Hamas continues. #FoxNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# UN torched for voting to 'give aid to Hamas'
+**Fox News - Israel Palestine:** [December 22, 2023](https://www.youtube.com/watch?v=LHMFdvYjmMg)
+*  The United Nations Security Council just a few minutes ago voting 13 to 0 to boost aid [[00:00:00](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=0.0s)]
+*  to the Gaza Strip. [[00:00:07](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=7.24s)]
+*  The United States and Russia abstained from the vote. [[00:00:08](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=8.82s)]
+*  Now, today's vote comes after nearly two weeks of negotiations and already several days of [[00:00:12](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=12.52s)]
+*  delays. [[00:00:18](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=18.52s)]
+*  Greg Palcott with more from Tel Aviv, Israel. [[00:00:19](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=19.52s)]
+*  Greg. [[00:00:22](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=22.96s)]
+*  Hey, Emily. [[00:00:23](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=23.96s)]
+*  Yeah, we just got this vote in from the UN Security Council regarding the Israel-AMAS [[00:00:25](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=25.44s)]
+*  war. [[00:00:30](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=30.96s)]
+*  And to some degree, it's a vote in favor of trying to deal with this battle. [[00:00:31](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=31.96s)]
+*  The vote went 13-0. [[00:00:38](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=38.84s)]
+*  That nothing means no no's, no vetoes. [[00:00:42](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=42.040000000000006s)]
+*  But there were two abstentions, one from the US and one from Russia. [[00:00:46](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=46.56s)]
+*  That doesn't sound great, but in fact, an abstention from the United States is a positive [[00:00:50](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=50.94s)]
+*  thing. [[00:00:55](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=55.94s)]
+*  The US had been working on reworking the language for the past week or so on this resolution, [[00:00:56](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=56.94s)]
+*  first dealing with the humanitarian pause. [[00:01:04](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=64.58s)]
+*  The initial wording had a direct demand that a ceasefire would take place. [[00:01:08](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=68.34s)]
+*  The US came up with some compromised language. [[00:01:14](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=74.02s)]
+*  I'm looking for it now. [[00:01:16](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=76.9s)]
+*  The UN saying that the conditions should be created for the cessation of hostilities. [[00:01:18](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=78.78s)]
+*  Conditions created for the cessation of hostilities. [[00:01:24](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=84.18s)]
+*  Also regarding humanitarian aid, there's been a bit of a sticking point on that. [[00:01:26](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=86.98s)]
+*  The UN just flatly saying all humanitarian aid should go in controlled by the UN. [[00:01:31](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=91.18s)]
+*  By all means, the US has been worried, as has Israel, that maybe some other stuff could [[00:01:37](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=97.1s)]
+*  get mixed in with that aid if Israel doesn't have a hand in it. [[00:01:42](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=102.5s)]
+*  So basically what they're calling for steps, the resolution says, steps would be taken [[00:01:46](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=106.1s)]
+*  to allow in more humanitarian aid. [[00:01:51](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=111.46s)]
+*  Those steps could mean, yes, more aid could be coming, but maybe not a full-blown rush [[00:01:54](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=114.89999999999999s)]
+*  of aid as had been initially referred to in the wording. [[00:02:02](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=122.25999999999999s)]
+*  So again, that was enough for a US abstention. [[00:02:07](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=127.13999999999999s)]
+*  US Ambassador to the UN, Linda Thomas-Greenfield, and she frankly overnight had said, yes, the [[00:02:10](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=130.98s)]
+*  resolution as it stands is something we could vote on, which is kind of short of saying [[00:02:18](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=138.22s)]
+*  vote for, and that's exactly what happened. [[00:02:23](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=143.17999999999998s)]
+*  Russia had problems with the wording too. [[00:02:26](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=146.29999999999998s)]
+*  Russia probably did not think it went as far as a lot of other people would have liked [[00:02:28](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=148.66s)]
+*  it to have gone, and this was their way of issuing an opinion. [[00:02:33](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=153.66s)]
+*  But again, they didn't issue a veto either. [[00:02:37](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=157.34s)]
+*  So I think this is seen overall as a win for the folks trying to rein in a bit the Israeli [[00:02:40](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=160.38000000000002s)]
+*  war against Hamas. [[00:02:47](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=167.82000000000002s)]
+*  Not a full-blown win, but maybe a qualified win. [[00:02:49](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=169.54000000000002s)]
+*  Emily, let me just bring you up to date just on one final point. [[00:02:53](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=173.22s)]
+*  Bad hostage news. [[00:02:57](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=177.98000000000002s)]
+*  It was announced today that 73-year-old Gadi Higai, an Israeli-American held hostage by [[00:02:58](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=178.98000000000002s)]
+*  Hamas. [[00:03:04](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=184.58s)]
+*  He's actually dead in captivity. [[00:03:05](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=185.58s)]
+*  He was shot and killed on October 7th when Hamas came into his kibbutz and took him away. [[00:03:06](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=186.98s)]
+*  His body remains in Gaza. [[00:03:12](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=192.61999999999998s)]
+*  He's the first of eight American dual citizens held inside Gaza that we now know is dead. [[00:03:14](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=194.54s)]
+*  He leaves behind his wife, who was kidnapped as well, and plus four children, seven grandchildren. [[00:03:20](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=200.29999999999998s)]
+*  So very bad news that way. [[00:03:26](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=206.85999999999999s)]
+*  Somewhat hopeful news coming out of the UN. [[00:03:30](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=210.17999999999998s)]
+*  Back to you. [[00:03:32](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=212.78s)]
+*  Greg, thank you for that. [[00:03:33](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=213.78s)]
+*  We're going to bring the conversation back to the couch and our prayers just go out to [[00:03:36](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=216.1s)]
+*  the Higai family, Congressman. [[00:03:40](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=220.1s)]
+*  What heartbreaking news. [[00:03:42](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=222.24s)]
+*  This against the landscape that we've learned that Hamas has rejected an offer by Israel [[00:03:43](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=223.85999999999999s)]
+*  of a ceasefire in exchange for hostages. [[00:03:49](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=229.06s)]
+*  So it's a poignant loss, always the loss of a human life. [[00:03:51](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=231.56s)]
+*  This is an American-Israeli dual citizen. [[00:03:55](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=235.72s)]
+*  And now the UN votes for more funding to Gaza. [[00:03:58](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=238.57999999999998s)]
+*  What say you? [[00:04:02](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=242.0s)]
+*  Yeah, I think the interesting part is, and of course it is tragic we're seeing this happen [[00:04:03](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=243.0s)]
+*  and that's part of what we've been seeing since October. [[00:04:06](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=246.06s)]
+*  The question that actually comes to my mind though is with this resolution, I think Bill, [[00:04:09](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=249.3s)]
+*  he actually said it there, this is a victory for Hamas in this battle with Israel. [[00:04:13](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=253.62s)]
+*  So you're putting for the first time the UN saying this needs to happen, we need more [[00:04:18](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=258.48s)]
+*  aid put into Gaza, which at that point is like a government program here in the US. [[00:04:23](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=263.18s)]
+*  Once that first step is there, then what is the next step? [[00:04:27](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=267.54s)]
+*  We were talking about this. [[00:04:29](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=269.9s)]
+*  Is it going to be UN actual control of this aid? [[00:04:30](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=270.9s)]
+*  And if UN control is that, then they need security, which means security forces are [[00:04:33](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=273.34s)]
+*  going to have to come into play here. [[00:04:36](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=276.78s)]
+*  This one is interesting that we abstain from this. [[00:04:38](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=278.65999999999997s)]
+*  Well, you know what Hamas never seems to run out of? [[00:04:41](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=281.09999999999997s)]
+*  Rockets. [[00:04:44](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=284.59999999999997s)]
+*  They're not voting to give aid to innocent Gazans, they're voting to give aid to Hamas. [[00:04:45](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=285.59999999999997s)]
+*  You look at the Gazan population, it's something like 47% live in poverty, 80% live in poverty, [[00:04:51](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=291.21999999999997s)]
+*  there is a 47% unemployment rate. [[00:04:58](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=298.41999999999996s)]
+*  Yet Hamas has a real estate and an investment portfolio of something like $500 million in [[00:05:00](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=300.7s)]
+*  an annual military budget of $350 million. [[00:05:06](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=306.1s)]
+*  So where do you think that money is going people? [[00:05:09](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=309.18s)]
+*  That's right. [[00:05:11](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=311.7s)]
+*  And you spoke about that. [[00:05:12](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=312.7s)]
+*  Yeah, this is just a heartbreaking situation. [[00:05:13](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=313.7s)]
+*  You know, we always have to think that there are some innocent civilians in Gaza. [[00:05:15](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=315.58s)]
+*  They're not all terrorists. [[00:05:20](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=320.68s)]
+*  But when you think about where is all this humanitarian aid going and what is it, food, [[00:05:22](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=322.14s)]
+*  antibiotics, medications to conduct operations, you know, at the beginning of the war, the [[00:05:27](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=327.74s)]
+*  doctors in the hospitals in Sheba Hospital, they did not have the medicines that they [[00:05:32](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=332.94s)]
+*  needed to take care of the innocent children who were suffering as a result of Hamas terrorist [[00:05:37](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=337.78000000000003s)]
+*  action. [[00:05:42](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=342.58000000000004s)]
+*  So we have to think, okay, we need to help the innocent. [[00:05:43](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=343.58000000000004s)]
+*  But yet, yes, to your point, Lisa, a lot of this aid is going to Gaza, I'm sorry, to Hamas. [[00:05:46](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=346.3s)]
+*  A lot of them we know that are using undercover schools and hospitals and churches to hide [[00:05:52](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=352.82s)]
+*  and disguise themselves. [[00:05:58](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=358.65999999999997s)]
+*  But it's a hard balance because they need the help. [[00:06:00](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=360.65999999999997s)]
+*  They need the basics, necessity of life to survive. [[00:06:04](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=364.5s)]
+*  But at the same time, we need to do everything we can to eradicate Hamas off the face of [[00:06:07](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=367.71999999999997s)]
+*  this world. [[00:06:12](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=372.86s)]
+*  Well, it is a really big deal. [[00:06:13](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=373.86s)]
+*  It is a really big deal that we just learned that the first U.S. hostage has died. [[00:06:14](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=374.86s)]
+*  We all celebrated the release of the little girl, first American to be released and to [[00:06:22](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=382.1s)]
+*  hear that the first American hostage who was held hostage for how many days now has passed [[00:06:29](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=389.26s)]
+*  away is something you need to take a beat and think about this man and his life and [[00:06:35](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=395.94s)]
+*  the news and think about the consideration that the Biden administration might be under [[00:06:40](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=400.58s)]
+*  now after I know that the U.N. can be very confusing. [[00:06:43](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=403.94s)]
+*  I just got a lesson from Doug on really what this means. [[00:06:48](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=408.78s)]
+*  But by abstaining from this vote, that means that the Biden administration in the United [[00:06:52](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=412.38s)]
+*  States just basically said hands off, OK, let this aid go to Gaza, which means let this [[00:06:57](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=417.42s)]
+*  aid possibly go to Hamas. [[00:07:03](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=423.18s)]
+*  If the United States said no, voted no, then the aid would not have, there would not have [[00:07:06](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=426.38s)]
+*  been an increase in aid. [[00:07:11](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=431.58s)]
+*  So to have these two things happen at the same time is notable. [[00:07:13](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=433.18s)]
+*  One last thing, I'm so sorry, I just want to say one last thing. [[00:07:17](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=437.34s)]
+*  There was this political report that Kamala Harris is now pushing the White House to be [[00:07:19](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=439.74s)]
+*  more sympathetic towards Palestinians. [[00:07:24](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=444.46s)]
+*  I would urge her to remember this man and all the United States citizens who died in [[00:07:26](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=446.62s)]
+*  this terror attack before she rushes to be for sympathy towards Palestinians. [[00:07:30](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=450.53999999999996s)]
+*  I understand the innocent civilians there. [[00:07:35](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=455.98s)]
+*  They're also being held hostage by Hamas. [[00:07:38](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=458.14s)]
+*  They also voted Hamas into power. [[00:07:40](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=460.42s)]
+*  The Hague family, our prayers are with you. [[00:07:42](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=462.78s)]
+*  Our love is with you. [[00:07:45](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=465.65999999999997s)]
+*  And Gaudi, may your memory be a blessing. [[00:07:46](https://www.youtube.com/watch?v=LHMFdvYjmMg&t=466.78s)]
