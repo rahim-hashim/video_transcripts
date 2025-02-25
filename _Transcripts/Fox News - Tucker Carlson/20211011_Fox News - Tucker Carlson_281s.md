@@ -1,0 +1,163 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 281s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight', 'Candace owens', 'kamala harris', 'kamala harris fox news', 'candace owens fox news']
+Video Views: 2906782
+Video Rating: None
+Video Description: Tucker Carlson and Candace Owens slammed the video of Kamala Harris talking to kids as the 'fakest thing that's ever been caught on video.'
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity: http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Tucker, Candace Owens break down 'bizarre' Kamala Harris video
+**Fox News - Tucker Carlson:** [October 11, 2021](https://www.youtube.com/watch?v=FSlMnn0hc9c)
+*  Why are we putting up this exactly and who's running it? [[00:00:00](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=0.0s)]
+*  Well, Kamala Harris or Kamala Harris, depending on the day, [[00:00:04](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=4.0s)]
+*  is officially in charge. [[00:00:06](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=6.96s)]
+*  She's our border czar. [[00:00:08](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=8.24s)]
+*  That's what Joe Biden says. [[00:00:09](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=9.28s)]
+*  But she doesn't seem very interested in the job. [[00:00:10](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=10.8s)]
+*  Instead, she spent the last week filming [[00:00:13](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=13.280000000000001s)]
+*  a truly bizarre video for World Space Week. [[00:00:15](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=15.200000000000001s)]
+*  But don't take our word for it. [[00:00:19](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=19.240000000000002s)]
+*  Here it is. [[00:00:21](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=21.16s)]
+*  I just love the idea of exploring the unknown. [[00:00:23](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=23.240000000000002s)]
+*  And then there's other things [[00:00:27](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=27.68s)]
+*  that we just haven't figured out or discovered yet. [[00:00:28](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=28.6s)]
+*  To think about so much that's out there [[00:00:31](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=31.520000000000003s)]
+*  that we still have to learn. [[00:00:34](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=34.24s)]
+*  Like, I love that. [[00:00:36](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=36.44s)]
+*  I love that. [[00:00:37](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=37.760000000000005s)]
+*  And so I'm very excited about the space council. [[00:00:38](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=38.6s)]
+*  We're gonna learn so much as we increasingly, I think, [[00:00:40](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=40.36s)]
+*  are curious and interested in the potential [[00:00:44](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=44.480000000000004s)]
+*  for the discoveries and the work we can do in space. [[00:00:48](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=48.0s)]
+*  So that's one of the things I'm most excited about. [[00:00:51](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=51.64s)]
+*  But the other, you guys are gonna see, [[00:00:55](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=55.08s)]
+*  you're gonna literally see the craters on the moon [[00:00:59](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=59.24s)]
+*  with your own eyes. [[00:01:01](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=61.64s)]
+*  With your own eyes, I'm telling you, [[00:01:04](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=64.16s)]
+*  it is gonna be unbelievable. [[00:01:06](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=66.64s)]
+*  So for humanitarian reasons, [[00:01:10](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=70.52s)]
+*  we're not gonna play you that whole video, [[00:01:12](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=72.28s)]
+*  but it's online. [[00:01:13](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=73.75999999999999s)]
+*  If you dare, look it up. [[00:01:14](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=74.84s)]
+*  Watch it, watch it again. [[00:01:16](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=76.72s)]
+*  Watch your own soul die as you do. [[00:01:18](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=78.32s)]
+*  It's the fakest thing that's ever been caught on video, [[00:01:21](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=81.32s)]
+*  but in fact, it's even faker than it looks. [[00:01:23](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=83.72s)]
+*  We've just learned that one of the kids, [[00:01:25](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=85.52s)]
+*  that Kamala Harris was lecturing at, [[00:01:27](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=87.16s)]
+*  is in fact not a normal kid. [[00:01:29](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=89.39999999999999s)]
+*  He's a child actor called Trevor, [[00:01:32](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=92.0s)]
+*  who auditioned for that role. [[00:01:33](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=93.75999999999999s)]
+*  No political party that believed in democracy [[00:01:36](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=96.12s)]
+*  and thought it had to win over voters [[00:01:38](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=98.44s)]
+*  would ever put up someone like Kamala [[00:01:39](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=99.92s)]
+*  or Kamala Harris for office. [[00:01:42](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=102.0s)]
+*  So what does this tell us about the Democratic Party? [[00:01:43](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=103.44s)]
+*  Candace Owens is the host of Candace. [[00:01:46](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=106.12s)]
+*  She joins us tonight. [[00:01:48](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=108.0s)]
+*  Candace Owens, thanks so much for coming on. [[00:01:49](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=109.72s)]
+*  So I don't know if you dared to watch that whole thing. [[00:01:51](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=111.36s)]
+*  And I'm not just being mean for political reasons. [[00:01:54](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=114.12s)]
+*  I've never seen anything that fraudulent in my whole life. [[00:01:57](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=117.28s)]
+*  It is really a bizarre thing to watch. [[00:02:01](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=121.88s)]
+*  And it's just, the thing that's bizarre, [[00:02:04](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=124.12s)]
+*  it's like you question yourself, [[00:02:05](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=125.32s)]
+*  has she ever even been around children, by the way? [[00:02:06](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=126.56s)]
+*  These are, as you reported, [[00:02:08](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=128.8s)]
+*  this is somebody who was a child actor [[00:02:10](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=130.36s)]
+*  who reached out to his agent and asked to get this part. [[00:02:12](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=132.16s)]
+*  He was called back weeks later and said, [[00:02:15](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=135.0s)]
+*  yes, you got the part to star along [[00:02:16](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=136.24s)]
+*  the vice president of the United States [[00:02:18](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=138.24s)]
+*  and try to normalize and humanize her, [[00:02:19](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=139.56s)]
+*  which he, you know, unfortunately for him, [[00:02:21](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=141.48s)]
+*  he failed at because it's hard to humanize Kamala Harris. [[00:02:23](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=143.0s)]
+*  And what's more bizarre is that he's 13 years old. [[00:02:26](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=146.0s)]
+*  Why is she speaking to 13 year olds like this? [[00:02:28](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=148.44s)]
+*  She's speaking like they're five years old, [[00:02:30](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=150.92000000000002s)]
+*  using the expressions and using her hands [[00:02:33](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=153.28s)]
+*  as if you're reading the hungry, hungry caterpillar [[00:02:36](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=156.32s)]
+*  to a kindergarten class. [[00:02:38](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=158.68s)]
+*  It's so scripted, there's nothing authentic about her at all. [[00:02:40](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=160.24s)]
+*  And then you wonder, like to me personally, [[00:02:43](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=163.64000000000001s)]
+*  whenever I watch her, I wonder whether or not, [[00:02:45](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=165.56s)]
+*  forget whether or not she wants to be in front of children, [[00:02:47](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=167.52s)]
+*  does she even want to be the vice president? [[00:02:49](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=169.16s)]
+*  I think that's a question that's on a lot of Americans' minds [[00:02:51](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=171.04000000000002s)]
+*  when it comes to her, because every time you see her, [[00:02:53](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=173.12s)]
+*  she just seems so phony. [[00:02:54](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=174.96s)]
+*  It seems like she's playing a part [[00:02:56](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=176.16s)]
+*  that she genuinely doesn't want to play. [[00:02:57](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=177.12s)]
+*  I think that people that are accurately reporting [[00:02:59](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=179.24s)]
+*  that there seems to be this shade war going on [[00:03:01](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=181.76s)]
+*  between Kamala Harris and Joe Biden. [[00:03:03](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=183.51999999999998s)]
+*  I think that's accurate. [[00:03:05](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=185.28s)]
+*  I think she genuinely resents being the vice president [[00:03:06](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=186.28s)]
+*  of the United States. [[00:03:08](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=188.64s)]
+*  She genuinely resents being subordinate to Biden. [[00:03:09](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=189.48s)]
+*  And she genuinely resents every element of her job, [[00:03:12](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=192.04s)]
+*  including scripted elements like the one [[00:03:14](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=194.44s)]
+*  that we had to watch just tonight. [[00:03:16](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=196.24s)]
+*  Yeah, because I mean, it's a different level. [[00:03:18](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=198.35999999999999s)]
+*  They're all phony, all politicians are phony. [[00:03:19](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=199.8s)]
+*  Every single one of them, [[00:03:21](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=201.44s)]
+*  they're all weird, creepy personal lives, got it. [[00:03:22](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=202.32s)]
+*  But she's so phony that her phoniness [[00:03:24](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=204.88s)]
+*  is an act of aggression aimed at her audience. [[00:03:27](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=207.04s)]
+*  I mean, she's daring you to watch her without vomiting. [[00:03:29](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=209.36s)]
+*  I mean, she's literally that phony. [[00:03:32](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=212.36s)]
+*  Yeah, she's so unlikable. [[00:03:35](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=215.88s)]
+*  It's hard to think that they could ever put forth a woman [[00:03:37](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=217.04s)]
+*  that was more unlikable than Hillary Clinton, [[00:03:39](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=219.28s)]
+*  but by golly, the Democrat Party is not. [[00:03:40](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=220.76s)]
+*  I find her to be more unbearable [[00:03:42](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=222.88s)]
+*  and more unlikable than Hillary Clinton somehow. [[00:03:44](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=224.64s)]
+*  And it's because it's the acting behind it. [[00:03:46](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=226.72s)]
+*  It's the phony laugh. [[00:03:48](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=228.8s)]
+*  It's the cackling laugh. [[00:03:49](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=229.68s)]
+*  And again, to have to go out and get actors. [[00:03:51](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=231.67999999999998s)]
+*  We see Joe Biden appearing in front of a set at the EEOB. [[00:03:53](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=233.76s)]
+*  We've got Kamala Harris hiring child actors. [[00:03:57](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=237.04s)]
+*  I mean, what is actually going on in this administration? [[00:03:59](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=239.64s)]
+*  This really does feel like it's a Saturday Night Live skit. [[00:04:01](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=241.72s)]
+*  You know, the same amount of viewers, not very many, [[00:04:04](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=244.27999999999997s)]
+*  but it's like, do we have people [[00:04:07](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=247.0s)]
+*  that are actually running our country? [[00:04:08](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=248.56s)]
+*  Or do we have actors that are just sitting around, [[00:04:10](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=250.11999999999998s)]
+*  you know, saying what they're supposed to say, [[00:04:12](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=252.92s)]
+*  reading off of teleprompters? [[00:04:14](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=254.32s)]
+*  Why don't they just let us read the teleprompter? [[00:04:15](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=255.32s)]
+*  It'd be much easier. [[00:04:17](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=257.71999999999997s)]
+*  I totally agree. [[00:04:19](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=259.71999999999997s)]
+*  She leaves you pining for the authentic maternal warmth [[00:04:20](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=260.8s)]
+*  of Hillary Clinton. [[00:04:23](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=263.44s)]
+*  I mean, it's that bad. [[00:04:24](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=264.36s)]
+*  Oh, can't I say it? [[00:04:25](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=265.44s)]
+*  Great to see you tonight. [[00:04:27](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=267.56s)]
+*  Hey, Sean Hannity here. [[00:04:28](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=268.6s)]
+*  Hey, click here to subscribe to Fox News' YouTube page [[00:04:29](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=269.68s)]
+*  and catch our hottest interviews [[00:04:33](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=273.6s)]
+*  and most compelling analysis. [[00:04:35](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=275.12s)]
+*  You will not get it anywhere else. [[00:04:37](https://www.youtube.com/watch?v=FSlMnn0hc9c&t=277.04s)]

@@ -1,0 +1,157 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 729s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight', 'AOC', 'Alexandria Ocasio Cortez', 'Ocasio Cortez', 'Tucker AOC', 'AOC book', 'book on AOC', 'Tucker on AOC', 'AOC Tucker', 'Tucker Carlson on AOC', 'new book on AOC', 'book praising AOC', 'book Alexandria Ocasio Cortez']
+Video Views: 2073623
+Video Rating: None
+Video Description: Fox News host gives his take on a new book about Alexandria Ocasio-Cortez on 'Tucker Carlson Tonight.' #FoxNews #Tucker
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Tucker roasts book that compares AOC to Jesus
+**Fox News - Tucker Carlson:** [February 18, 2022](https://www.youtube.com/watch?v=H00jERnz8Rw)
+*  Good evening and welcome to Tucker Carlson. Tonight, happy Friday, where all the news [[00:00:00](https://www.youtube.com/watch?v=H00jERnz8Rw&t=0.0s)]
+*  stacks up. We told you the beginning of the week that Canada had descended into tyranny, [[00:00:04](https://www.youtube.com/watch?v=H00jERnz8Rw&t=4.24s)]
+*  and in fact it has. Justin Trudeau has declared that he controls all the money in Canada. He can [[00:00:08](https://www.youtube.com/watch?v=H00jERnz8Rw&t=8.48s)]
+*  take yours at will. Today, Trudeau had non-violent protesters and independent reporters arrested. [[00:00:13](https://www.youtube.com/watch?v=H00jERnz8Rw&t=13.84s)]
+*  In some cases, they were trampled with horses. These are the most egregious human rights [[00:00:20](https://www.youtube.com/watch?v=H00jERnz8Rw&t=20.16s)]
+*  violations by a Western government in recent memory. And yet the Biden administration is [[00:00:25](https://www.youtube.com/watch?v=H00jERnz8Rw&t=25.12s)]
+*  encouraging all of it. Biden's State Department has refused to criticize Justin Trudeau and his [[00:00:30](https://www.youtube.com/watch?v=H00jERnz8Rw&t=30.080000000000002s)]
+*  successes in any way. Instead, our mannequin-in-chief spent yet another day yammering on about Ukraine, [[00:00:34](https://www.youtube.com/watch?v=H00jERnz8Rw&t=34.72s)]
+*  as if we're supposed to believe that's more important than our own problems. What country [[00:00:41](https://www.youtube.com/watch?v=H00jERnz8Rw&t=41.68s)]
+*  is this guy in charge of anyway? Someone ought to tell him. And in fact, we were going to tell him, [[00:00:46](https://www.youtube.com/watch?v=H00jERnz8Rw&t=46.480000000000004s)]
+*  right at the top of tonight's show. That was our lead. A serious topic for a serious time. [[00:00:51](https://www.youtube.com/watch?v=H00jERnz8Rw&t=51.84s)]
+*  And then, out of nowhere, we received an early copy of Take Up Space, the unprecedented AOC. [[00:00:57](https://www.youtube.com/watch?v=H00jERnz8Rw&t=57.84s)]
+*  It's a book-length suck-up to Alexandria Ocasio-Cortez by the editors at New York [[00:01:05](https://www.youtube.com/watch?v=H00jERnz8Rw&t=65.2s)]
+*  Magazine. It's coming out next week. Now, a hagiography of Sandy Cortez is like a box of [[00:01:09](https://www.youtube.com/watch?v=H00jERnz8Rw&t=69.92s)]
+*  Fig Newtons. You know it's wrong to open it, but the temptation is strong. And so we did. [[00:01:15](https://www.youtube.com/watch?v=H00jERnz8Rw&t=75.52000000000001s)]
+*  And before we knew it, we consumed the whole thing. We still feel sick. [[00:01:20](https://www.youtube.com/watch?v=H00jERnz8Rw&t=80.56s)]
+*  So that is what we're opening with tonight. The new Sandy Cortez book. Yes, it's a lighter topic [[00:01:24](https://www.youtube.com/watch?v=H00jERnz8Rw&t=84.0s)]
+*  than tyranny in Canada or war in Ukraine, both of which we will get to in a minute. [[00:01:29](https://www.youtube.com/watch?v=H00jERnz8Rw&t=89.12s)]
+*  Our only excuse is it's Friday and we've got limited self-control with stuff like this. [[00:01:33](https://www.youtube.com/watch?v=H00jERnz8Rw&t=93.28s)]
+*  It's an amazing book. Let's put it this way. It opens by comparing Ocasio-Cortez to Jesus. [[00:01:37](https://www.youtube.com/watch?v=H00jERnz8Rw&t=97.76s)]
+*  And then it suggests that because she once got second place in a high school science competition, [[00:01:43](https://www.youtube.com/watch?v=H00jERnz8Rw&t=103.28s)]
+*  she could have gone on to win the Nobel Prize. It is a remarkable piece of journalism. We plan [[00:01:47](https://www.youtube.com/watch?v=H00jERnz8Rw&t=107.6s)]
+*  to put extensive excerpts from the book on the screen tonight for you to read. And then we thought, [[00:01:53](https://www.youtube.com/watch?v=H00jERnz8Rw&t=113.83999999999999s)]
+*  who reads anymore? Not Sandy Cortez. She never reads. Reading is racism. It's so white people. [[00:01:59](https://www.youtube.com/watch?v=H00jERnz8Rw&t=119.36s)]
+*  So instead, we've asked our senior producer, Alex McCaskill, to read the passages for us. [[00:02:05](https://www.youtube.com/watch?v=H00jERnz8Rw&t=125.91999999999999s)]
+*  You may recognize Alex McCaskill's melodious outer London-inflected voice from the Stacey [[00:02:10](https://www.youtube.com/watch?v=H00jERnz8Rw&t=130.79999999999998s)]
+*  Abrams softcore porn novels that we have featured on the show. We've asked him today [[00:02:16](https://www.youtube.com/watch?v=H00jERnz8Rw&t=136.16s)]
+*  to compare these two projects. He said he found this one creepier. We'll let you be the judge. [[00:02:20](https://www.youtube.com/watch?v=H00jERnz8Rw&t=140.4s)]
+*  Here's a section in which the fangirls at New York Magazine let us know why they wrote this [[00:02:26](https://www.youtube.com/watch?v=H00jERnz8Rw&t=146.07999999999998s)]
+*  book in the first place. There are a lot of politicians they could have fawned over. [[00:02:30](https://www.youtube.com/watch?v=H00jERnz8Rw&t=150.64s)]
+*  They picked Sandy Cortez because she's a lady. To say she is a feminist is to understate the facts. [[00:02:34](https://www.youtube.com/watch?v=H00jERnz8Rw&t=154.48s)]
+*  Ocasio-Cortez is the first politician in history to live fully out loud while female, [[00:02:41](https://www.youtube.com/watch?v=H00jERnz8Rw&t=161.51999999999998s)]
+*  and the degradations of womanhood are personal to her. [[00:02:47](https://www.youtube.com/watch?v=H00jERnz8Rw&t=167.28s)]
+*  So she's not just the first woman to represent her congressional district in the state of New [[00:02:52](https://www.youtube.com/watch?v=H00jERnz8Rw&t=172.16s)]
+*  York. She's the first woman in human history to get elected to something and then, quote, [[00:02:55](https://www.youtube.com/watch?v=H00jERnz8Rw&t=175.92s)]
+*  live fully out loud while female. What exactly does that mean? Is it a trans thing? Honestly, [[00:03:00](https://www.youtube.com/watch?v=H00jERnz8Rw&t=180.0s)]
+*  we don't know. She's definitely loud. But we did understand the next line. The degradations [[00:03:06](https://www.youtube.com/watch?v=H00jERnz8Rw&t=186.32s)]
+*  of womanhood are personal to her. Well, that's certainly true. No one has done more personally [[00:03:11](https://www.youtube.com/watch?v=H00jERnz8Rw&t=191.6s)]
+*  to degrade American womanhood than Sandy Cortez has. She is living proof that 60 years of feminist [[00:03:17](https://www.youtube.com/watch?v=H00jERnz8Rw&t=197.68s)]
+*  liberation did not work. Sandy Cortez is not empowered. She's neurotic and silly. She is far [[00:03:23](https://www.youtube.com/watch?v=H00jERnz8Rw&t=203.6s)]
+*  more frivolous than any 1950s housewife ever was. June Cleaver was a more serious person. At least [[00:03:30](https://www.youtube.com/watch?v=H00jERnz8Rw&t=210.4s)]
+*  she made dinner. Here's what Sandy Cortez does. She puts on makeup while talking about herself. [[00:03:36](https://www.youtube.com/watch?v=H00jERnz8Rw&t=216.08s)]
+*  As the youngest woman in Congress, and as a woman of color, it's so hard to be taken seriously. [[00:03:42](https://www.youtube.com/watch?v=H00jERnz8Rw&t=222.4s)]
+*  It's just, you know, it's like any workplace where sometimes it feels like you have to jump [[00:03:50](https://www.youtube.com/watch?v=H00jERnz8Rw&t=230.72000000000003s)]
+*  up and down for anyone to listen. It's just really difficult because some people are just born in [[00:03:57](https://www.youtube.com/watch?v=H00jERnz8Rw&t=237.60000000000002s)]
+*  bodies that are naturally taken more seriously. People already try to diminish me and diminish [[00:04:04](https://www.youtube.com/watch?v=H00jERnz8Rw&t=244.95999999999998s)]
+*  my voice as young and frivolous and unintelligent. They don't take me seriously when I put on [[00:04:12](https://www.youtube.com/watch?v=H00jERnz8Rw&t=252.32s)]
+*  eyeshadow. People are calling me unintelligent just because I'm dumb. It's pretty funny. But the [[00:04:19](https://www.youtube.com/watch?v=H00jERnz8Rw&t=259.52s)]
+*  funniest of all was hearing Sandy Cortez describe herself as a woman of color. She often does. No [[00:04:24](https://www.youtube.com/watch?v=H00jERnz8Rw&t=264.4s)]
+*  one ever dares to challenge that description, but every honest person knows it is hilariously [[00:04:29](https://www.youtube.com/watch?v=H00jERnz8Rw&t=269.92s)]
+*  absurd. There is no place on earth outside of American colleges and newsrooms where Sandy [[00:04:35](https://www.youtube.com/watch?v=H00jERnz8Rw&t=275.04s)]
+*  Cortez would be recognized as a quote woman of color because she's not. She's a rich, [[00:04:40](https://www.youtube.com/watch?v=H00jERnz8Rw&t=280.64000000000004s)]
+*  entitled white lady. She's the pampered obnoxious ski bunny in the matching snow suit who tells you [[00:04:45](https://www.youtube.com/watch?v=H00jERnz8Rw&t=285.52000000000004s)]
+*  to pull up your mask while you're standing in the lift line at Jackson Hole. They're all the same. [[00:04:50](https://www.youtube.com/watch?v=H00jERnz8Rw&t=290.88s)]
+*  It doesn't matter what shade they are. Apparently the editors at New York Magazine don't ski. [[00:04:54](https://www.youtube.com/watch?v=H00jERnz8Rw&t=294.8s)]
+*  They spend the entire book pretending that Sandy Cortez has just emerged from some teeming favela [[00:04:59](https://www.youtube.com/watch?v=H00jERnz8Rw&t=299.68s)]
+*  in the slums of Rio to save the world's poor. Reading it, you would have literally no clue [[00:05:05](https://www.youtube.com/watch?v=H00jERnz8Rw&t=305.36s)]
+*  she was a credential member of the overclass. You'd think she was St. Francis. On the day of [[00:05:11](https://www.youtube.com/watch?v=H00jERnz8Rw&t=311.36s)]
+*  the House vote, Ocasio-Cortez stood up in the chamber, again wearing all white. She looked [[00:05:16](https://www.youtube.com/watch?v=H00jERnz8Rw&t=316.64000000000004s)]
+*  like a prophet or a medium tapping a deep well of popular fury. [[00:05:22](https://www.youtube.com/watch?v=H00jERnz8Rw&t=322.56s)]
+*  Radiant and white in her gown, bathed in the glow of holy righteousness, a prophet for our time. [[00:05:28](https://www.youtube.com/watch?v=H00jERnz8Rw&t=328.48s)]
+*  Imagine Isaiah but with nails to match the handbag. That's how New York Magazine describes Sandy [[00:05:35](https://www.youtube.com/watch?v=H00jERnz8Rw&t=335.6s)]
+*  Cortez. And that's weird because we live in this country too and that's not at all how we [[00:05:40](https://www.youtube.com/watch?v=H00jERnz8Rw&t=340.64s)]
+*  remember the moment. Here's a clip from the speech the book is referring to. Look at this person and [[00:05:45](https://www.youtube.com/watch?v=H00jERnz8Rw&t=345.92s)]
+*  ask yourself if you can feel God's presence. But we have to go into this vote eyes wide open. What [[00:05:52](https://www.youtube.com/watch?v=H00jERnz8Rw&t=352.0s)]
+*  did the Senate majority fight for? One of the largest corporate bailouts with as few strings [[00:05:59](https://www.youtube.com/watch?v=H00jERnz8Rw&t=359.44s)]
+*  as possible in American history. A prophet or proof that adderall abuse is more common than we [[00:06:04](https://www.youtube.com/watch?v=H00jERnz8Rw&t=364.4s)]
+*  admit? We'll let you decide. We will tell you that the editors at New York Magazine are highly [[00:06:12](https://www.youtube.com/watch?v=H00jERnz8Rw&t=372.56s)]
+*  impressed by the way Ocasio-Cortez looks. They think she's hot. It's a major theme in the book [[00:06:17](https://www.youtube.com/watch?v=H00jERnz8Rw&t=377.36s)]
+*  and in fact it's a major theme with Ocasio-Cortez herself. She talks about her beauty constantly. [[00:06:23](https://www.youtube.com/watch?v=H00jERnz8Rw&t=383.2s)]
+*  Just a few weeks ago she let us know how hard it is that everyone wants to sleep with her [[00:06:28](https://www.youtube.com/watch?v=H00jERnz8Rw&t=388.40000000000003s)]
+*  all the time. What a burden. It's like living as a nudist in the Dallas Cowboys locker room. Men are [[00:06:32](https://www.youtube.com/watch?v=H00jERnz8Rw&t=392.64s)]
+*  so aroused by her TikTok videos she can barely get through a day. Yet she does her job anyway. [[00:06:37](https://www.youtube.com/watch?v=H00jERnz8Rw&t=397.6s)]
+*  That's why she's a hero. The burden of sexiness weighs heavily on her sleek and tawny shoulders [[00:06:43](https://www.youtube.com/watch?v=H00jERnz8Rw&t=403.28s)]
+*  but she bears up under it. Listen to New York Magazine's account. [[00:06:48](https://www.youtube.com/watch?v=H00jERnz8Rw&t=408.64s)]
+*  Ocasio-Cortez would have been well aware of her impact on others. Her rhetoric could be [[00:06:53](https://www.youtube.com/watch?v=H00jERnz8Rw&t=413.03999999999996s)]
+*  confrontational and her politics countercultural but her appearance conformed to society's [[00:06:58](https://www.youtube.com/watch?v=H00jERnz8Rw&t=418.0s)]
+*  conventions. With her wide apart eyes, arched brows and tawny complexion she could have modeled [[00:07:04](https://www.youtube.com/watch?v=H00jERnz8Rw&t=424.23999999999995s)]
+*  for a skincare line and in fact later capitalize on these assets by shooting a makeup tutorial for Vogue. [[00:07:12](https://www.youtube.com/watch?v=H00jERnz8Rw&t=432.16s)]
+*  She could have been a model for a skincare line and that's why she's such an amazing political [[00:07:21](https://www.youtube.com/watch?v=H00jERnz8Rw&t=441.92s)]
+*  leader because she's so pretty. Imagine a man saying that. It would probably be considered [[00:07:27](https://www.youtube.com/watch?v=H00jERnz8Rw&t=447.28000000000003s)]
+*  patronizing if not grounds for cancellation but New York Magazine isn't ashamed to objectify [[00:07:33](https://www.youtube.com/watch?v=H00jERnz8Rw&t=453.28000000000003s)]
+*  Alexandria Ocasio-Cortez. It makes you wonder what would happen if one day she gained 100 pounds and [[00:07:39](https://www.youtube.com/watch?v=H00jERnz8Rw&t=459.12s)]
+*  got eczema on her nose and forgot to trim her ear hair. Well you know what would happen? Her political [[00:07:44](https://www.youtube.com/watch?v=H00jERnz8Rw&t=464.4s)]
+*  influence would evaporate instantly. She's not the leader of an ideological movement. She's a living [[00:07:48](https://www.youtube.com/watch?v=H00jERnz8Rw&t=468.72s)]
+*  marketing campaign. Here she is selling cosmetics. I really like starting to blend with my fingers [[00:07:54](https://www.youtube.com/watch?v=H00jERnz8Rw&t=474.08s)]
+*  and then I'll go in afterwards and polish it off. I've been lately playing with a lot of eyeshadows. [[00:08:02](https://www.youtube.com/watch?v=H00jERnz8Rw&t=482.72s)]
+*  I go in with a little kind of a lighter color and I just wash it all over my lid. I tried the [[00:08:08](https://www.youtube.com/watch?v=H00jERnz8Rw&t=488.72s)]
+*  shimmer and it it looks fire. It looks good. Whenever you see me wearing a red lip most of [[00:08:16](https://www.youtube.com/watch?v=H00jERnz8Rw&t=496.8s)]
+*  the time it's this one and again I start small and I start working my way out. [[00:08:24](https://www.youtube.com/watch?v=H00jERnz8Rw&t=504.56s)]
+*  So makeup is a process. You know you start small and then you work your way out. Concentric circles. [[00:08:31](https://www.youtube.com/watch?v=H00jERnz8Rw&t=511.44s)]
+*  That's the way she uses cosmetics. We have to but she seems pretty good at it. Painting her own face [[00:08:36](https://www.youtube.com/watch?v=H00jERnz8Rw&t=516.16s)]
+*  may be her one real skill but something useful? Ah it's a different story. Watch this CNN account [[00:08:41](https://www.youtube.com/watch?v=H00jERnz8Rw&t=521.04s)]
+*  of her attempt to assemble her own IKEA furniture. Oh shoot. Five second rule. [[00:08:47](https://www.youtube.com/watch?v=H00jERnz8Rw&t=527.92s)]
+*  Hey everyone. She was munching popcorn, sipping white wine and assembling furniture on Instagram live. [[00:08:55](https://www.youtube.com/watch?v=H00jERnz8Rw&t=535.6s)]
+*  All right what am I doing here? AOC moved into her Washington apartment three months ago but has been [[00:09:02](https://www.youtube.com/watch?v=H00jERnz8Rw&t=542.8000000000001s)]
+*  too busy to furnish it. Did I do this wrong? Boom! I did it. Obviously there are a lot of self-involved [[00:09:09](https://www.youtube.com/watch?v=H00jERnz8Rw&t=549.44s)]
+*  people in politics. All of them pretty much but it takes a special kind of narcissist to imagine [[00:09:18](https://www.youtube.com/watch?v=H00jERnz8Rw&t=558.72s)]
+*  that the world desperately wants to see you pull together a particle board coffee table [[00:09:25](https://www.youtube.com/watch?v=H00jERnz8Rw&t=565.2s)]
+*  but New York magazine can't get enough of it. Here's their account of what you just saw. [[00:09:30](https://www.youtube.com/watch?v=H00jERnz8Rw&t=570.5600000000001s)]
+*  On this night and again during another session assembling IKEA furniture in July [[00:09:34](https://www.youtube.com/watch?v=H00jERnz8Rw&t=574.0s)]
+*  she shone a bright light on her own complicated mess. She was in a hurry to get her own [[00:09:38](https://www.youtube.com/watch?v=H00jERnz8Rw&t=578.96s)]
+*  furniture in July. She shone a bright light on her own complicated multifaceted self. [[00:09:44](https://www.youtube.com/watch?v=H00jERnz8Rw&t=584.5600000000001s)]
+*  In that video Ocasio-Cortez looks thin. Her trousers sag. She's wearing her glasses and her [[00:09:50](https://www.youtube.com/watch?v=H00jERnz8Rw&t=590.4000000000001s)]
+*  hair is up in a sloppy just about to wash my face bun. She's wearing an old moto jacket and is sitting [[00:09:56](https://www.youtube.com/watch?v=H00jERnz8Rw&t=596.5600000000001s)]
+*  on the floor of her unfurnished apartment eating a bowl of popcorn and drinking a glass of wine. [[00:10:02](https://www.youtube.com/watch?v=H00jERnz8Rw&t=602.08s)]
+*  For dessert she has a small pack of fruit snacks sent to her in bulk by Roberts's mother. [[00:10:07](https://www.youtube.com/watch?v=H00jERnz8Rw&t=607.76s)]
+*  She has no agenda nothing in particular to get off her chest. It really is if she were exhausted [[00:10:13](https://www.youtube.com/watch?v=H00jERnz8Rw&t=613.28s)]
+*  and wanting to talk. I'm alone today she says pointedly at the camera. Imagine if you were [[00:10:18](https://www.youtube.com/watch?v=H00jERnz8Rw&t=618.8s)]
+*  the person who wrote that. So here's this crazed solipsist filming herself as she puts together a [[00:10:27](https://www.youtube.com/watch?v=H00jERnz8Rw&t=627.92s)]
+*  coffee table and eats popcorn. Okay the least compelling film made since Andy Warhol died [[00:10:34](https://www.youtube.com/watch?v=H00jERnz8Rw&t=634.08s)]
+*  and this is what you call it. She's shone a bright light on her own complicated multifaceted self. [[00:10:41](https://www.youtube.com/watch?v=H00jERnz8Rw&t=641.2s)]
+*  That's the moment you have to be honest with yourself and say it's time for me to retire. [[00:10:46](https://www.youtube.com/watch?v=H00jERnz8Rw&t=646.88s)]
+*  By the way the person who wrote this didn't even perceive how creepy it was. I'm alone today [[00:10:51](https://www.youtube.com/watch?v=H00jERnz8Rw&t=651.2s)]
+*  Ocasio-Cortez says pointedly at the camera. Is it just us or does that sound like an invitation [[00:10:56](https://www.youtube.com/watch?v=H00jERnz8Rw&t=656.8s)]
+*  to a booty call? Maybe one step from what are you wearing? Other way it's a little strange. It's [[00:11:02](https://www.youtube.com/watch?v=H00jERnz8Rw&t=662.4s)]
+*  definitely oversharing and yet according to the book oversharing is the key to Sandy Cortez's [[00:11:07](https://www.youtube.com/watch?v=H00jERnz8Rw&t=667.2800000000001s)]
+*  success. She offered the reassuring warmth of Oprah, the fire and brimstone of Jonathan Edwards, [[00:11:13](https://www.youtube.com/watch?v=H00jERnz8Rw&t=673.5200000000001s)]
+*  the inspiration of John F. Kennedy, the intimacy of an FDR fireside chat. [[00:11:21](https://www.youtube.com/watch?v=H00jERnz8Rw&t=681.12s)]
+*  It was exhausting and reassuring and scary and comforting and extremely weird. The intimacy of [[00:11:28](https://www.youtube.com/watch?v=H00jERnz8Rw&t=688.24s)]
+*  an FDR fireside chat sure except that FDR never told us about his skincare regimen. [[00:11:35](https://www.youtube.com/watch?v=H00jERnz8Rw&t=695.84s)]
+*  Somehow he was able to win the second world war anyway. You wonder how he did that. You also [[00:11:41](https://www.youtube.com/watch?v=H00jERnz8Rw&t=701.84s)]
+*  wonder what brand of concealer he used. Sadly there was no Instagram then so the details have [[00:11:46](https://www.youtube.com/watch?v=H00jERnz8Rw&t=706.88s)]
+*  been lost to history. Thank heaven we know what Sandy Cortez uses. Hey Sean Hannity here. Hey [[00:11:51](https://www.youtube.com/watch?v=H00jERnz8Rw&t=711.52s)]
+*  click here to subscribe to Fox News YouTube page and catch our hottest interviews and most [[00:11:58](https://www.youtube.com/watch?v=H00jERnz8Rw&t=718.0s)]
+*  compelling analysis. You will not get it anywhere else. [[00:12:03](https://www.youtube.com/watch?v=H00jERnz8Rw&t=723.6s)]

@@ -1,0 +1,157 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 465s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'apalachee', 'apalachee high school', 'fbi', 'fbi interviewed shooter', 'fbi tip', 'fox & friends', 'georgia high school shooting', 'georgia school shooting', 'georgia school shooting today', 'georgia shooter', 'georgia shooting', 'georgia shooting update', 'school shooter', 'school shooting', 'school shooting georgia suspect', 'school shooting suspect', 'shooter', 'shooting', 'shooting suspect', 'winder', 'winder ga', 'winder georgia shooting', 'apalachee high school shooting']
+Video Views: 201835
+Video Rating: None
+Video Description: Fox News' Danamarie McNicholl provides details the on the shooting at Apalachee High School in Winder, Georgia, in which two students and two teachers were killed. 'Fox & Friends' co-hosts weigh in. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# FBI interviewed GA school shooter in 2023 about online threats
+**Fox News - Fox and Friends:** [September 05, 2024](https://www.youtube.com/watch?v=0evODUkU_Fg)
+*  8.01 here in New York City, same time in Georgia where we've got a Fox News alert. [[00:00:00](https://www.youtube.com/watch?v=0evODUkU_Fg&t=0.0s)]
+*  Schools all across the country are on high alert after that deadly shooting at Apalachee [[00:00:06](https://www.youtube.com/watch?v=0evODUkU_Fg&t=6.2s)]
+*  High School in Georgia. [[00:00:10](https://www.youtube.com/watch?v=0evODUkU_Fg&t=10.28s)]
+*  So police say two 14-year-old students and two teachers were killed by a 14-year-old [[00:00:12](https://www.youtube.com/watch?v=0evODUkU_Fg&t=12.280000000000001s)]
+*  student who had the FBI. [[00:00:16](https://www.youtube.com/watch?v=0evODUkU_Fg&t=16.76s)]
+*  The FBI had interviewed him just last year. [[00:00:18](https://www.youtube.com/watch?v=0evODUkU_Fg&t=18.76s)]
+*  Dana-Marie McNichol is in outside the school in Winder, Georgia with more on the suspect [[00:00:21](https://www.youtube.com/watch?v=0evODUkU_Fg&t=21.76s)]
+*  and the victims. [[00:00:27](https://www.youtube.com/watch?v=0evODUkU_Fg&t=27.3s)]
+*  Dana-Marie. [[00:00:28](https://www.youtube.com/watch?v=0evODUkU_Fg&t=28.3s)]
+*  Well, good morning. [[00:00:30](https://www.youtube.com/watch?v=0evODUkU_Fg&t=30.3s)]
+*  We do know that law enforcement say the shooter is communicating with them. [[00:00:32](https://www.youtube.com/watch?v=0evODUkU_Fg&t=32.74s)]
+*  Fox News has decided not to name the shooter. [[00:00:37](https://www.youtube.com/watch?v=0evODUkU_Fg&t=37.1s)]
+*  Of course, the timeline of the day is still under investigation, but police say that first [[00:00:40](https://www.youtube.com/watch?v=0evODUkU_Fg&t=40.58s)]
+*  call came in at 10.30 in the morning. [[00:00:45](https://www.youtube.com/watch?v=0evODUkU_Fg&t=45.46s)]
+*  Obviously, the shooter was armed and our school resource officer engaged him and the shooter [[00:00:48](https://www.youtube.com/watch?v=0evODUkU_Fg&t=48.1s)]
+*  quickly realized that if he did not give up, that it would end with an OIS, an officer [[00:00:55](https://www.youtube.com/watch?v=0evODUkU_Fg&t=55.26s)]
+*  involved shooting. [[00:01:04](https://www.youtube.com/watch?v=0evODUkU_Fg&t=64.3s)]
+*  He gave up, got on the ground and the deputy took him into custody. [[00:01:05](https://www.youtube.com/watch?v=0evODUkU_Fg&t=65.3s)]
+*  The weapon that was used in this was an AR platform style weapon. [[00:01:08](https://www.youtube.com/watch?v=0evODUkU_Fg&t=68.98s)]
+*  Last night we learned the names of the four people who lost their lives. [[00:01:15](https://www.youtube.com/watch?v=0evODUkU_Fg&t=75.25999999999999s)]
+*  Mason Schirmerhorn, a 14-year-old student. [[00:01:19](https://www.youtube.com/watch?v=0evODUkU_Fg&t=79.06s)]
+*  Christian Angulo, a 14-year-old student. [[00:01:22](https://www.youtube.com/watch?v=0evODUkU_Fg&t=82.7s)]
+*  Two teachers, Richard Aspenwall and Christina Irmi. [[00:01:26](https://www.youtube.com/watch?v=0evODUkU_Fg&t=86.66s)]
+*  Now, according to the school's website, the adults killed were both math teachers and [[00:01:30](https://www.youtube.com/watch?v=0evODUkU_Fg&t=90.66s)]
+*  Aspenwall was also an assistant football coach. [[00:01:35](https://www.youtube.com/watch?v=0evODUkU_Fg&t=95.38s)]
+*  Students were escorted onto the school's football field yesterday as they waited to be reunited [[00:01:39](https://www.youtube.com/watch?v=0evODUkU_Fg&t=99.18s)]
+*  with loved ones after a traumatic day. [[00:01:43](https://www.youtube.com/watch?v=0evODUkU_Fg&t=103.5s)]
+*  You can hear the fear in their voices when we spoke to them. [[00:01:45](https://www.youtube.com/watch?v=0evODUkU_Fg&t=105.98s)]
+*  I just feel like you're basically never safe anywhere and no matter like how you can like, [[00:01:49](https://www.youtube.com/watch?v=0evODUkU_Fg&t=109.9s)]
+*  no matter if there's like cops in the school, there's still no safety at all. [[00:02:01](https://www.youtube.com/watch?v=0evODUkU_Fg&t=121.86s)]
+*  Questions still remain about how the shooter got the gun inside the school, but we do know [[00:02:11](https://www.youtube.com/watch?v=0evODUkU_Fg&t=131.78s)]
+*  the teenager was on FBI's radar since last year. [[00:02:15](https://www.youtube.com/watch?v=0evODUkU_Fg&t=135.66s)]
+*  In May 2023, the FBI's National Threat Operations Center received several anonymous tips about [[00:02:19](https://www.youtube.com/watch?v=0evODUkU_Fg&t=139.1s)]
+*  online threats to commit a school shooting at an unidentified location and time. [[00:02:24](https://www.youtube.com/watch?v=0evODUkU_Fg&t=144.78s)]
+*  The online threats contained photographs of the gun. [[00:02:29](https://www.youtube.com/watch?v=0evODUkU_Fg&t=149.78s)]
+*  The subject denied making these threats online. [[00:02:32](https://www.youtube.com/watch?v=0evODUkU_Fg&t=152.9s)]
+*  There was no probable cause for arrest or to take any additional law enforcement action. [[00:02:36](https://www.youtube.com/watch?v=0evODUkU_Fg&t=156.42s)]
+*  Authorities went to the 13-year-old's then at the time home, spoke to his father and [[00:02:42](https://www.youtube.com/watch?v=0evODUkU_Fg&t=162.14000000000001s)]
+*  said he had a hunting gun in the house and that his son never had unsupervised access [[00:02:47](https://www.youtube.com/watch?v=0evODUkU_Fg&t=167.62s)]
+*  to the guns. [[00:02:52](https://www.youtube.com/watch?v=0evODUkU_Fg&t=172.74s)]
+*  The FBI referred this information to the Jackson County Sheriff's Office for action. [[00:02:55](https://www.youtube.com/watch?v=0evODUkU_Fg&t=175.46s)]
+*  The Jackson County Sheriff's Office identified and located Gray, who is our suspect in this [[00:03:00](https://www.youtube.com/watch?v=0evODUkU_Fg&t=180.62s)]
+*  case. [[00:03:06](https://www.youtube.com/watch?v=0evODUkU_Fg&t=186.06s)]
+*  They conducted an investigation at that time and there was no probable cause for arrest [[00:03:07](https://www.youtube.com/watch?v=0evODUkU_Fg&t=187.22s)]
+*  or to take any additional law enforcement action. [[00:03:11](https://www.youtube.com/watch?v=0evODUkU_Fg&t=191.82s)]
+*  And authorities say that 14-year-old is in police custody. [[00:03:17](https://www.youtube.com/watch?v=0evODUkU_Fg&t=197.42s)]
+*  He will be charged with murder and tried as an adult. [[00:03:20](https://www.youtube.com/watch?v=0evODUkU_Fg&t=200.3s)]
+*  As for this community, of course there in Mourning, there were several vigils held last [[00:03:24](https://www.youtube.com/watch?v=0evODUkU_Fg&t=204.18s)]
+*  night. [[00:03:28](https://www.youtube.com/watch?v=0evODUkU_Fg&t=208.78s)]
+*  School in this county will be closed for the rest of the week as this investigation continues. [[00:03:29](https://www.youtube.com/watch?v=0evODUkU_Fg&t=209.94s)]
+*  Dana Ray, we thank you very much for the live report from Georgia. [[00:03:36](https://www.youtube.com/watch?v=0evODUkU_Fg&t=216.26000000000002s)]
+*  So she just indicated that an AR weapon was used and at the same time talked a little [[00:03:39](https://www.youtube.com/watch?v=0evODUkU_Fg&t=219.06s)]
+*  bit about how when the cops went to the house, the father said, yeah, I've got hunting guns [[00:03:46](https://www.youtube.com/watch?v=0evODUkU_Fg&t=226.78s)]
+*  but the kid doesn't have unsupervised access to them. [[00:03:52](https://www.youtube.com/watch?v=0evODUkU_Fg&t=232.32s)]
+*  That's the way the cops depicted it. [[00:03:56](https://www.youtube.com/watch?v=0evODUkU_Fg&t=236.3s)]
+*  There's nothing that actually connects this gun to the family at this point. [[00:03:59](https://www.youtube.com/watch?v=0evODUkU_Fg&t=239.86s)]
+*  We don't know where the gun came from. [[00:04:03](https://www.youtube.com/watch?v=0evODUkU_Fg&t=243.94s)]
+*  It could have been the family's gun. [[00:04:05](https://www.youtube.com/watch?v=0evODUkU_Fg&t=245.7s)]
+*  Then again, it could have been from somewhere else. [[00:04:07](https://www.youtube.com/watch?v=0evODUkU_Fg&t=247.01999999999998s)]
+*  They also have not mentioned what sort of a motive, what motivated the guy to do this. [[00:04:09](https://www.youtube.com/watch?v=0evODUkU_Fg&t=249.57999999999998s)]
+*  You know, when you look at only four people, just four people, it could have been a lot [[00:04:16](https://www.youtube.com/watch?v=0evODUkU_Fg&t=256.3s)]
+*  worse, but two math teachers and two students and as soon as the school resource officer [[00:04:20](https://www.youtube.com/watch?v=0evODUkU_Fg&t=260.58s)]
+*  approached him, he just said, I give up. [[00:04:26](https://www.youtube.com/watch?v=0evODUkU_Fg&t=266.38s)]
+*  No doubt he saved a lot of lives, some cops in the house. [[00:04:29](https://www.youtube.com/watch?v=0evODUkU_Fg&t=269.41999999999996s)]
+*  Takes a lot of guts to walk up to somebody with a gun. [[00:04:33](https://www.youtube.com/watch?v=0evODUkU_Fg&t=273.09999999999997s)]
+*  Even if you have a gun. [[00:04:35](https://www.youtube.com/watch?v=0evODUkU_Fg&t=275.42s)]
+*  Because some have hid and not gone in before. [[00:04:36](https://www.youtube.com/watch?v=0evODUkU_Fg&t=276.42s)]
+*  So kudos to this law enforcement officer that did this. [[00:04:39](https://www.youtube.com/watch?v=0evODUkU_Fg&t=279.94s)]
+*  I guess my big question when it comes to the FBI and local police is what is an interview? [[00:04:43](https://www.youtube.com/watch?v=0evODUkU_Fg&t=283.06s)]
+*  What is watching? [[00:04:50](https://www.youtube.com/watch?v=0evODUkU_Fg&t=290.04s)]
+*  What is on your radar? [[00:04:51](https://www.youtube.com/watch?v=0evODUkU_Fg&t=291.04s)]
+*  Because so many, I mean, we've covered so many of this. [[00:04:52](https://www.youtube.com/watch?v=0evODUkU_Fg&t=292.5s)]
+*  Remember the Buffalo shooting? [[00:04:54](https://www.youtube.com/watch?v=0evODUkU_Fg&t=294.3s)]
+*  A hundred percent. [[00:04:55](https://www.youtube.com/watch?v=0evODUkU_Fg&t=295.3s)]
+*  Or Yuvaldi or calls were made. [[00:04:56](https://www.youtube.com/watch?v=0evODUkU_Fg&t=296.58s)]
+*  So when you say someone is being watched or on your radar, what does that consist of? [[00:04:59](https://www.youtube.com/watch?v=0evODUkU_Fg&t=299.3s)]
+*  Because we continue to report on these shootings in schools or terrorist incidents where they [[00:05:05](https://www.youtube.com/watch?v=0evODUkU_Fg&t=305.82s)]
+*  said that this was happening. [[00:05:11](https://www.youtube.com/watch?v=0evODUkU_Fg&t=311.42s)]
+*  And obviously they're not being watched if they're committing the final act. [[00:05:13](https://www.youtube.com/watch?v=0evODUkU_Fg&t=313.3s)]
+*  This was a gut punch to every parent in America, many of whom took their child to school for [[00:05:17](https://www.youtube.com/watch?v=0evODUkU_Fg&t=317.14s)]
+*  the first time this week after Labor Day. [[00:05:21](https://www.youtube.com/watch?v=0evODUkU_Fg&t=321.7s)]
+*  Mason Shennimore went to school. [[00:05:24](https://www.youtube.com/watch?v=0evODUkU_Fg&t=324.54s)]
+*  He was autistic and his family literally put out a message saying, if you find him, calm [[00:05:26](https://www.youtube.com/watch?v=0evODUkU_Fg&t=326.28s)]
+*  him down. [[00:05:31](https://www.youtube.com/watch?v=0evODUkU_Fg&t=331.65999999999997s)]
+*  He wasn't answering his phone and then he lost his life. [[00:05:32](https://www.youtube.com/watch?v=0evODUkU_Fg&t=332.65999999999997s)]
+*  He loved going to Walt Disney World. [[00:05:35](https://www.youtube.com/watch?v=0evODUkU_Fg&t=335.21999999999997s)]
+*  Mason had just transferred to the school. [[00:05:37](https://www.youtube.com/watch?v=0evODUkU_Fg&t=337.18s)]
+*  Mason should still be with us. [[00:05:38](https://www.youtube.com/watch?v=0evODUkU_Fg&t=338.84s)]
+*  As should that other student, those two teachers, one of those teachers, the math teacher, by [[00:05:40](https://www.youtube.com/watch?v=0evODUkU_Fg&t=340.02s)]
+*  the way, you see there, a hero football coach who died when he was opening the door to let [[00:05:44](https://www.youtube.com/watch?v=0evODUkU_Fg&t=344.14s)]
+*  students out. [[00:05:49](https://www.youtube.com/watch?v=0evODUkU_Fg&t=349.06s)]
+*  He died a hero. [[00:05:50](https://www.youtube.com/watch?v=0evODUkU_Fg&t=350.26s)]
+*  And you wonder if it is the parents' gun, if this figures, if the parents' gun and they [[00:05:51](https://www.youtube.com/watch?v=0evODUkU_Fg&t=351.26s)]
+*  didn't secure it, if they're going to be legally liable after that case. [[00:05:57](https://www.youtube.com/watch?v=0evODUkU_Fg&t=357.26s)]
+*  We've seen it. [[00:06:02](https://www.youtube.com/watch?v=0evODUkU_Fg&t=362.5s)]
+*  Right. [[00:06:03](https://www.youtube.com/watch?v=0evODUkU_Fg&t=363.5s)]
+*  That's where it's going to be key. [[00:06:05](https://www.youtube.com/watch?v=0evODUkU_Fg&t=365.42s)]
+*  And then all of a sudden, if you know that if you're a parent, you leave that gun out. [[00:06:06](https://www.youtube.com/watch?v=0evODUkU_Fg&t=366.42s)]
+*  I trust my son. [[00:06:08](https://www.youtube.com/watch?v=0evODUkU_Fg&t=368.3s)]
+*  Really? [[00:06:09](https://www.youtube.com/watch?v=0evODUkU_Fg&t=369.3s)]
+*  If you trust your son for your own freedom, you trust him. [[00:06:10](https://www.youtube.com/watch?v=0evODUkU_Fg&t=370.3s)]
+*  If you're going to allow him to go out with us, just know you're going to go to jail too [[00:06:12](https://www.youtube.com/watch?v=0evODUkU_Fg&t=372.34s)]
+*  if you know your son, if your son's out of control. [[00:06:16](https://www.youtube.com/watch?v=0evODUkU_Fg&t=376.26s)]
+*  The other thing is, if law enforcement wants more power, if those FBI agents left that [[00:06:19](https://www.youtube.com/watch?v=0evODUkU_Fg&t=379.22s)]
+*  room and said, I wish I had the ability to detain this kid, but I don't, I want to hear [[00:06:23](https://www.youtube.com/watch?v=0evODUkU_Fg&t=383.8s)]
+*  it. [[00:06:28](https://www.youtube.com/watch?v=0evODUkU_Fg&t=388.82s)]
+*  I want to hear it now. [[00:06:29](https://www.youtube.com/watch?v=0evODUkU_Fg&t=389.82s)]
+*  Tell me, the Buffalo Kid who shot up everyone in that mall, they detained him, they kept [[00:06:31](https://www.youtube.com/watch?v=0evODUkU_Fg&t=391.14s)]
+*  an eye on him. [[00:06:35](https://www.youtube.com/watch?v=0evODUkU_Fg&t=395.7s)]
+*  He goes up 500 miles upstate and starts shooting people, and he was a racist. [[00:06:36](https://www.youtube.com/watch?v=0evODUkU_Fg&t=396.7s)]
+*  And now you have this guy, if they had additional power, what would they have done? [[00:06:41](https://www.youtube.com/watch?v=0evODUkU_Fg&t=401.02s)]
+*  My sense is they knew the kid was lying when he said it wasn't his, because forensically, [[00:06:45](https://www.youtube.com/watch?v=0evODUkU_Fg&t=405.78s)]
+*  we're finding people in caves in Afghanistan, forensically. [[00:06:50](https://www.youtube.com/watch?v=0evODUkU_Fg&t=410.3s)]
+*  I'm pretty sure we know where the 13-year-old gamer that was his threat. [[00:06:55](https://www.youtube.com/watch?v=0evODUkU_Fg&t=415.02s)]
+*  Tell us what you need. [[00:06:59](https://www.youtube.com/watch?v=0evODUkU_Fg&t=419.5s)]
+*  So we can stop this from happening. [[00:07:00](https://www.youtube.com/watch?v=0evODUkU_Fg&t=420.94s)]
+*  Also, sweet off to those young people that drug that coach inside of the classroom and [[00:07:02](https://www.youtube.com/watch?v=0evODUkU_Fg&t=422.62s)]
+*  began to hit CPR and covered the gunshot wound. [[00:07:09](https://www.youtube.com/watch?v=0evODUkU_Fg&t=429.7s)]
+*  I mean, your parents, obviously this was a terrible decision. [[00:07:13](https://www.youtube.com/watch?v=0evODUkU_Fg&t=433.3s)]
+*  She'd be proud of you for taking it. [[00:07:16](https://www.youtube.com/watch?v=0evODUkU_Fg&t=436.18s)]
+*  I mean, not a lot of people is dragging bodies in when gunshots are ranking out. [[00:07:18](https://www.youtube.com/watch?v=0evODUkU_Fg&t=438.34s)]
+*  And every senator in America should be embracing the Marsha Blackburn bill. [[00:07:23](https://www.youtube.com/watch?v=0evODUkU_Fg&t=443.06s)]
+*  Maybe Trump can lead the charge on this to get more school resource officers, retired [[00:07:26](https://www.youtube.com/watch?v=0evODUkU_Fg&t=446.66s)]
+*  law enforcement veterans in our schools. [[00:07:30](https://www.youtube.com/watch?v=0evODUkU_Fg&t=450.26s)]
+*  That made a difference yesterday. [[00:07:32](https://www.youtube.com/watch?v=0evODUkU_Fg&t=452.46s)]
+*  Absolutely. [[00:07:33](https://www.youtube.com/watch?v=0evODUkU_Fg&t=453.65999999999997s)]

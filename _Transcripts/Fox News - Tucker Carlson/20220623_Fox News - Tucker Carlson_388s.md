@@ -1,0 +1,150 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 388s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight', 'january 6 committee']
+Video Views: 63546
+Video Rating: None
+Video Description: Former Assistant Attorney General Jeffrey Clark joins 'Tucker Carlson Tonight' after Rep. Adam Kinzinger leads 1/6 testimony focused on him.  #foxnews  #tucker 
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# January 6 hearing target Jeffrey Clark recounts FBI raid
+**Fox News - Tucker Carlson:** [June 23, 2022](https://www.youtube.com/watch?v=oQaPLkKgYZY)
+*  You sit in your seat, read Joe Biden's staff prepared card today. [[00:00:00](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=0.0s)]
+*  You sit in your seat. [[00:00:06](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=6.4s)]
+*  Apparently Ron Klain was worried Biden was going to sit in someone else's seats. [[00:00:07](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=7.84s)]
+*  They put it all caps. [[00:00:11](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=11.48s)]
+*  You sit in your seat. [[00:00:12](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=12.48s)]
+*  All right. [[00:00:13](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=13.48s)]
+*  Thank you, Mr. President. [[00:00:14](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=14.48s)]
+*  Well, the January 6th committee is investigating an insurrection in Washington. [[00:00:16](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=16.2s)]
+*  The insurrection. [[00:00:20](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=20.8s)]
+*  But what's interesting is there's been no investigation of any kind into an actual insurrection [[00:00:22](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=22.16s)]
+*  that happened two years ago in May of 2020. [[00:00:28](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=28.8s)]
+*  A mob set fire to a historic Episcopal church right outside the White House, [[00:00:33](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=33.92s)]
+*  and they injured more than 60 Secret Service officers as they tried to storm the White House grounds. [[00:00:38](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=38.24s)]
+*  Now, Donald Trump was inside, so the media applauded it. [[00:00:43](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=43.92s)]
+*  And so the siege of the White House continued all month. [[00:00:48](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=48.16s)]
+*  On June 22nd of 2020, that was two years ago this week, [[00:00:51](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=51.08s)]
+*  the mob tried to tear down the Andrew Jackson statue in Lafayette Square right in front of the White House. [[00:00:54](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=54.64s)]
+*  Do you remember this? No one else seems to. [[00:00:59](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=59.56s)]
+*  Here's the footage. [[00:01:01](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=61.28s)]
+*  What do we want? [[00:01:02](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=62.28s)]
+*  Justice! [[00:01:03](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=63.28s)]
+*  What do we want? [[00:01:04](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=64.28s)]
+*  Now! [[00:01:05](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=65.28s)]
+*  What do we want? [[00:01:06](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=66.28s)]
+*  Justice! [[00:01:07](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=67.28s)]
+*  What do we want? [[00:01:08](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=68.28s)]
+*  Now! [[00:01:09](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=69.28s)]
+*  Raise a lot of questions. [[00:01:10](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=70.28s)]
+*  Where were the police? [[00:01:31](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=91.24000000000001s)]
+*  They had ropes around the statue right in front of the White House and no one was doing [[00:01:32](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=92.24000000000001s)]
+*  anything about it? [[00:01:35](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=95.68s)]
+*  There's a lot of blame to go around for that, by the way. [[00:01:37](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=97.56s)]
+*  A lot. [[00:01:39](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=99.64s)]
+*  But that's not an insurrection? [[00:01:41](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=101.28s)]
+*  Well, not if no one remembers it even happened. [[00:01:43](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=103.36s)]
+*  And that's why that footage has been memory-holed. [[00:01:45](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=105.92s)]
+*  You probably haven't seen it in the last two years. [[00:01:47](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=107.88s)]
+*  That's because what's happening in Congress right now is not about an insurrection. [[00:01:51](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=111.16s)]
+*  It's about using the mechanics of the federal government, which you pay for, especially [[00:01:54](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=114.64s)]
+*  the Intel and law enforcement agencies, to crush and silence anyone who opposes the Democratic [[00:01:59](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=119.96000000000001s)]
+*  Party and Joe Biden. [[00:02:06](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=126.0s)]
+*  That's not an overstatement. [[00:02:08](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=128.64s)]
+*  One of the political opponents of the January 6th committee is targeting is a man called [[00:02:09](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=129.64s)]
+*  Jeff Clark. [[00:02:13](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=133.64s)]
+*  He was Assistant Attorney General during the previous administration. [[00:02:14](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=134.64s)]
+*  Before dawn on Wednesday, which is, say, yesterday, a large group of armed federal agents wearing [[00:02:17](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=137.64s)]
+*  body armor with weapons raided Jeff Clark's home. [[00:02:24](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=144.16s)]
+*  They dragged him into the street in his pajamas. [[00:02:29](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=149.12s)]
+*  Now, what did Jeff Clark do wrong? [[00:02:30](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=150.95999999999998s)]
+*  Was he selling fentanyl? [[00:02:33](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=153.2s)]
+*  Was he human trafficking on the Mexican border? [[00:02:35](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=155.22s)]
+*  No. [[00:02:38](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=158.1s)]
+*  Jeff Clark did not commit any crime. [[00:02:39](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=159.1s)]
+*  What he did wrong was calling for an investigation into voter fraud. [[00:02:41](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=161.38s)]
+*  We are happy to have Jeff Clark join us now. [[00:02:45](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=165.02s)]
+*  He's a senior fellow with the Center for Renewing America. [[00:02:48](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=168.3s)]
+*  Jeff, thanks so much for joining us. [[00:02:50](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=170.54s)]
+*  This is a Soviet account, really. [[00:02:52](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=172.86s)]
+*  So tell us what happened and why. [[00:02:57](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=177.5s)]
+*  It is, and good to be here, Tucker. [[00:03:00](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=180.46s)]
+*  So yesterday at about just before 7 a.m., there was loud banging at my door, insistent [[00:03:03](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=183.17999999999998s)]
+*  banging. [[00:03:09](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=189.14s)]
+*  So I just rushed down as fast as I could. [[00:03:10](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=190.14s)]
+*  I quickly figured out that there were agents there. [[00:03:12](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=192.33999999999997s)]
+*  I opened the door and asked for the courtesy to be able to put some pants on and was told, [[00:03:16](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=196.5s)]
+*  no, you got to come outside. [[00:03:21](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=201.14s)]
+*  So I came outside. [[00:03:22](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=202.5s)]
+*  They swept the house. [[00:03:24](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=204.57999999999998s)]
+*  Eventually, they let me go back inside and put the pants on. [[00:03:25](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=205.57999999999998s)]
+*  Then by my count, at one point, 12 agents and two Fairfax County police officers went [[00:03:29](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=209.5s)]
+*  into my house, searched it for three and a half hours. [[00:03:37](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=217.94s)]
+*  They even brought along something, Tucker, I've never seen before or heard of, an electronic [[00:03:40](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=220.85999999999999s)]
+*  sniffing dog. [[00:03:46](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=226.26s)]
+*  They took all of the electronics from my house. [[00:03:48](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=228.34s)]
+*  I don't blame the agents. [[00:03:52](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=232.98s)]
+*  I think what you're talking about in terms of weaponization is really about who's pointing [[00:03:54](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=234.62s)]
+*  the agents and telling them what to do, Tucker. [[00:03:59](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=239.9s)]
+*  So Peter Strzok, who worked at the FBI, is effectively a criminal, in my view, never [[00:04:03](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=243.34s)]
+*  really punished, sent out a tweet today mocking you and gloating over the fact that the Biden [[00:04:07](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=247.98000000000002s)]
+*  administration stole your cell phone and will now be reading all of your private messages. [[00:04:13](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=253.34s)]
+*  At what point can we say the Department of Justice where you once served is a political [[00:04:19](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=259.14s)]
+*  instrument? It's completely out of control. [[00:04:24](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=264.14s)]
+*  Yeah, I think this is highly politicized. [[00:04:25](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=265.14s)]
+*  And it's also part, Tucker, if you didn't know it, of a nationwide effort yesterday. [[00:04:29](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=269.62s)]
+*  There were multiple states where multiple people were roughly simultaneously raided [[00:04:35](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=275.65999999999997s)]
+*  for their electronic devices. [[00:04:41](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=281.62s)]
+*  And that obviously requires a high level of coordination. [[00:04:44](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=284.53999999999996s)]
+*  And look, with the hearing that was pointed at me and targeting me today with the special [[00:04:47](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=287.86s)]
+*  audience member of Sean Penn, so you know this is Hollywood, the very next day, it looks [[00:04:55](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=295.7s)]
+*  highly coincidental. [[00:05:03](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=303.26s)]
+*  And, Tucker, I just don't believe in coincidences. [[00:05:04](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=304.26s)]
+*  So you know Chris Ray, of course, who runs FBI. [[00:05:08](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=308.42s)]
+*  You probably know Merrick Garland. [[00:05:12](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=312.1s)]
+*  He's been around Washington a long time. [[00:05:13](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=313.5s)]
+*  Both of them have decided to pervert and corrupt our most basic institutions on behalf of Joe [[00:05:16](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=316.58000000000004s)]
+*  Biden. [[00:05:23](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=323.3s)]
+*  Did you think they were capable of doing that when you worked there? [[00:05:24](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=324.3s)]
+*  I argued in front of Merrick Garland. [[00:05:28](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=328.94s)]
+*  I got a very respectful hearing. [[00:05:31](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=331.58000000000004s)]
+*  I think I was going to win that case, but we wound up actually settling it in the shadow [[00:05:33](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=333.98s)]
+*  of what everyone assumed was going to be a victory. [[00:05:39](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=339.34000000000003s)]
+*  Sometimes that happens in financial cases. [[00:05:42](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=342.34000000000003s)]
+*  Chris Ray was with me in the Justice Department. [[00:05:45](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=345.06s)]
+*  He was just in the Criminal Division back in Bush 43. [[00:05:47](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=347.26s)]
+*  So I do know both of them. [[00:05:50](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=350.58s)]
+*  And I just think we're living in an era that I don't recognize. [[00:05:53](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=353.42s)]
+*  And increasingly, Tucker, I don't recognize the country anymore with these kinds of Stasi-like [[00:05:58](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=358.65999999999997s)]
+*  things happening. [[00:06:03](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=363.98s)]
+*  Yeah, this is Stalinist. [[00:06:06](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=366.98s)]
+*  At some point somebody's going to fight back and it's going to get super ugly. [[00:06:08](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=368.62s)]
+*  I pray that doesn't happen, but I think it probably will. [[00:06:11](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=371.62s)]
+*  The whole thing is so sad. [[00:06:15](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=375.22s)]
+*  And I'm sorry that you were caught up in it, in your pajamas. [[00:06:16](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=376.22s)]
+*  They could have just called you. [[00:06:19](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=379.3s)]
+*  It's outrageous. [[00:06:20](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=380.54s)]
+*  Jeff Clark, I appreciate you coming on. [[00:06:21](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=381.54s)]
+*  I hope you'll come back and tell us where this winds up. [[00:06:23](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=383.38s)]
+*  It's creeps. [[00:06:25](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=385.7s)]
+*  Thank you. [[00:06:26](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=386.7s)]
+*  Will do. [[00:06:27](https://www.youtube.com/watch?v=oQaPLkKgYZY&t=387.7s)]

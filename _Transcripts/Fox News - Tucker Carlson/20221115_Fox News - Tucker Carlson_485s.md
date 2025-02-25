@@ -1,0 +1,157 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 485s
+Video Keywords: []
+Video Views: 63612
+Video Rating: None
+Video Description: Fox News host Will Cain reacts to the missile strike in Poland on 'Tucker Carlson Tonight.' #FoxNews #tucker
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Will Cain: We should know these answers before we 'zombie walk' into war
+**Fox News - Tucker Carlson:** [November 15, 2022](https://www.youtube.com/watch?v=AVMs6hq487Q)
+*  Well, good evening and welcome to Tucker Carlson. [[00:00:00](https://www.youtube.com/watch?v=AVMs6hq487Q&t=0.0s)]
+*  Tonight I am Will Kaine in for Tucker. [[00:00:02](https://www.youtube.com/watch?v=AVMs6hq487Q&t=2.96s)]
+*  Tonight, unfortunately, the world continues to flirt with World War III. [[00:00:05](https://www.youtube.com/watch?v=AVMs6hq487Q&t=5.92s)]
+*  This morning, according to the Associated Press, citing now a senior U.S. intelligence [[00:00:11](https://www.youtube.com/watch?v=AVMs6hq487Q&t=11.4s)]
+*  official, it said that Russian missiles, did the Associated Press, quote, crossed into [[00:00:16](https://www.youtube.com/watch?v=AVMs6hq487Q&t=16.16s)]
+*  NATO member Poland, killing two people. [[00:00:21](https://www.youtube.com/watch?v=AVMs6hq487Q&t=21.56s)]
+*  The Pentagon says that they are tracking these reports, though not confirming anything right [[00:00:24](https://www.youtube.com/watch?v=AVMs6hq487Q&t=24.88s)]
+*  out of the gates here, though being very clear in saying that the United States stands by [[00:00:30](https://www.youtube.com/watch?v=AVMs6hq487Q&t=30.04s)]
+*  Article 5, which is an attack on one, attack on one NATO country is an attack on all. [[00:00:35](https://www.youtube.com/watch?v=AVMs6hq487Q&t=35.24s)]
+*  And that is the concern here, guys. [[00:00:39](https://www.youtube.com/watch?v=AVMs6hq487Q&t=39.6s)]
+*  If these were Russian missiles, all we know right now is that these were missiles or rockets [[00:00:41](https://www.youtube.com/watch?v=AVMs6hq487Q&t=41.44s)]
+*  that landed in this farm that is along the border of Poland and Ukraine in Polish territories, [[00:00:46](https://www.youtube.com/watch?v=AVMs6hq487Q&t=46.36s)]
+*  killing two. [[00:00:53](https://www.youtube.com/watch?v=AVMs6hq487Q&t=53.480000000000004s)]
+*  And if those were Russians, then that is the concern here that the Ukraine war could extrapolate [[00:00:54](https://www.youtube.com/watch?v=AVMs6hq487Q&t=54.480000000000004s)]
+*  and become something bigger. [[00:00:59](https://www.youtube.com/watch?v=AVMs6hq487Q&t=59.68s)]
+*  Whoa. [[00:01:02](https://www.youtube.com/watch?v=AVMs6hq487Q&t=62.44s)]
+*  Extrapolate into something bigger. [[00:01:05](https://www.youtube.com/watch?v=AVMs6hq487Q&t=65.04s)]
+*  Now that wouldn't be the first time that a butterfly flapped its wings in Eastern Europe. [[00:01:06](https://www.youtube.com/watch?v=AVMs6hq487Q&t=66.56s)]
+*  I give you the assassination of Archduke Franz Ferdinand for World War I buffs. [[00:01:11](https://www.youtube.com/watch?v=AVMs6hq487Q&t=71.8s)]
+*  And then a global war blew through America. [[00:01:16](https://www.youtube.com/watch?v=AVMs6hq487Q&t=76.36s)]
+*  So let's not extrapolate into a nuclear conflict this time without asking hard questions and [[00:01:19](https://www.youtube.com/watch?v=AVMs6hq487Q&t=79.28s)]
+*  asking for sober leadership. [[00:01:25](https://www.youtube.com/watch?v=AVMs6hq487Q&t=85.6s)]
+*  You heard in that report the mention of Article 5. [[00:01:27](https://www.youtube.com/watch?v=AVMs6hq487Q&t=87.64s)]
+*  That's a self-defense provision in the NATO charter. [[00:01:31](https://www.youtube.com/watch?v=AVMs6hq487Q&t=91.52s)]
+*  Now if invoked, it means World War against Russia. [[00:01:34](https://www.youtube.com/watch?v=AVMs6hq487Q&t=94.2s)]
+*  There's no doubt about it. [[00:01:37](https://www.youtube.com/watch?v=AVMs6hq487Q&t=97.84s)]
+*  And within minutes of that apparent strike in Poland, the government of Estonia, a NATO [[00:01:39](https://www.youtube.com/watch?v=AVMs6hq487Q&t=99.56s)]
+*  ally, made it clear that World War might result. [[00:01:43](https://www.youtube.com/watch?v=AVMs6hq487Q&t=103.56s)]
+*  Quote, Estonia is ready to defend every inch of NATO territory. [[00:01:47](https://www.youtube.com/watch?v=AVMs6hq487Q&t=107.68s)]
+*  Is America? [[00:01:53](https://www.youtube.com/watch?v=AVMs6hq487Q&t=113.02s)]
+*  Now there are reports that instead of Article 5, Poland will actually look to invoke Article [[00:01:54](https://www.youtube.com/watch?v=AVMs6hq487Q&t=114.33999999999999s)]
+*  4. [[00:01:59](https://www.youtube.com/watch?v=AVMs6hq487Q&t=119.02s)]
+*  Now that would give them the power to ask NATO to come together for more support for [[00:02:00](https://www.youtube.com/watch?v=AVMs6hq487Q&t=120.02s)]
+*  Ukraine, more money, perhaps air and anti-air power over Ukraine. [[00:02:05](https://www.youtube.com/watch?v=AVMs6hq487Q&t=125.97999999999999s)]
+*  And in fact, the White House today asked Congress for another $37 billion. [[00:02:10](https://www.youtube.com/watch?v=AVMs6hq487Q&t=130.34s)]
+*  And of course, they'll get that for Ukraine. [[00:02:15](https://www.youtube.com/watch?v=AVMs6hq487Q&t=135.68s)]
+*  In other words, whoever was responsible for that missile strike in Poland, well, they're [[00:02:18](https://www.youtube.com/watch?v=AVMs6hq487Q&t=138.06s)]
+*  about to get even richer. [[00:02:22](https://www.youtube.com/watch?v=AVMs6hq487Q&t=142.5s)]
+*  Defense contractors. [[00:02:24](https://www.youtube.com/watch?v=AVMs6hq487Q&t=144.58s)]
+*  Look, we don't know what happened yet in Poland. [[00:02:25](https://www.youtube.com/watch?v=AVMs6hq487Q&t=145.58s)]
+*  We don't know where those missiles came from. [[00:02:30](https://www.youtube.com/watch?v=AVMs6hq487Q&t=150.26s)]
+*  We don't know what was the intended target. [[00:02:32](https://www.youtube.com/watch?v=AVMs6hq487Q&t=152.7s)]
+*  We don't know if it was a mistake. [[00:02:34](https://www.youtube.com/watch?v=AVMs6hq487Q&t=154.54s)]
+*  Russia denies launching the attack. [[00:02:37](https://www.youtube.com/watch?v=AVMs6hq487Q&t=157.22s)]
+*  The Pentagon hasn't confirmed it even happened. [[00:02:39](https://www.youtube.com/watch?v=AVMs6hq487Q&t=159.66s)]
+*  Ukraine's President Zelensky, of course, has blamed Russia. [[00:02:42](https://www.youtube.com/watch?v=AVMs6hq487Q&t=162.62s)]
+*  But we should know the answers to these questions before we zombie walk into war. [[00:02:46](https://www.youtube.com/watch?v=AVMs6hq487Q&t=166.22s)]
+*  And these questions can't just be brushed away with Putin-apologist or conspiracy theorist, [[00:02:51](https://www.youtube.com/watch?v=AVMs6hq487Q&t=171.7s)]
+*  the same way that was done with COVID origins, vaccine efficacy, lockdown efficacy, mask [[00:02:58](https://www.youtube.com/watch?v=AVMs6hq487Q&t=178.45999999999998s)]
+*  efficacy, or asking for details and facts around the attack of Paul Pelosi. [[00:03:05](https://www.youtube.com/watch?v=AVMs6hq487Q&t=185.1s)]
+*  More on that in a moment. [[00:03:11](https://www.youtube.com/watch?v=AVMs6hq487Q&t=191.89999999999998s)]
+*  Sadly, though, it's clear that our leadership in Washington is in no shape to handle any [[00:03:14](https://www.youtube.com/watch?v=AVMs6hq487Q&t=194.06s)]
+*  of this. [[00:03:19](https://www.youtube.com/watch?v=AVMs6hq487Q&t=199.22s)]
+*  Joe Biden had to skip dinner with the world leaders at the G20 summit last night in Bali, [[00:03:20](https://www.youtube.com/watch?v=AVMs6hq487Q&t=200.5s)]
+*  retreating back to his hotel room for undisclosed reasons. [[00:03:25](https://www.youtube.com/watch?v=AVMs6hq487Q&t=205.46s)]
+*  He was just on television before we broadcast, looking quite confused in front of television [[00:03:29](https://www.youtube.com/watch?v=AVMs6hq487Q&t=209.34s)]
+*  cameras tonight. [[00:03:33](https://www.youtube.com/watch?v=AVMs6hq487Q&t=213.9s)]
+*  It's probably all better because if he were awake or lucid, he might verbally stumble [[00:03:35](https://www.youtube.com/watch?v=AVMs6hq487Q&t=215.74s)]
+*  us into Hiroshima. [[00:03:40](https://www.youtube.com/watch?v=AVMs6hq487Q&t=220.28s)]
+*  Words are power. [[00:03:43](https://www.youtube.com/watch?v=AVMs6hq487Q&t=223.3s)]
+*  Speaking of the power of words, like famous basketball dad Levar Ball, speaking it into [[00:03:45](https://www.youtube.com/watch?v=AVMs6hq487Q&t=225.58s)]
+*  existence, the head of the DHS suggested our border is secure. [[00:03:50](https://www.youtube.com/watch?v=AVMs6hq487Q&t=230.38s)]
+*  I guess attempting to speak that falsehood into existence as fentanyl flows across and [[00:03:55](https://www.youtube.com/watch?v=AVMs6hq487Q&t=235.42000000000002s)]
+*  kills thousands of Americans every month. [[00:04:01](https://www.youtube.com/watch?v=AVMs6hq487Q&t=241.82s)]
+*  I've heard you and the Judiciary Committee recently in the summer testify that the border [[00:04:04](https://www.youtube.com/watch?v=AVMs6hq487Q&t=244.66s)]
+*  is secure. [[00:04:09](https://www.youtube.com/watch?v=AVMs6hq487Q&t=249.62s)]
+*  Secretary Myorkas, do you continue to maintain that the border is secure? [[00:04:12](https://www.youtube.com/watch?v=AVMs6hq487Q&t=252.3s)]
+*  Yes, and we are working day in and day out to enhance its security. [[00:04:17](https://www.youtube.com/watch?v=AVMs6hq487Q&t=257.38s)]
+*  Alejandro Myorkas, undefeated, never lost. [[00:04:22](https://www.youtube.com/watch?v=AVMs6hq487Q&t=262.26s)]
+*  In reality, more than 230,000 people crossed the border last month, compared to just 60,000 [[00:04:25](https://www.youtube.com/watch?v=AVMs6hq487Q&t=265.5s)]
+*  in October of 2019. [[00:04:31](https://www.youtube.com/watch?v=AVMs6hq487Q&t=271.7s)]
+*  Now this is what's actually happening at the border, courtesy of Fox's Bill Mollusian. [[00:04:34](https://www.youtube.com/watch?v=AVMs6hq487Q&t=274.1s)]
+*  Take a look at this video we shot early this morning. [[00:04:39](https://www.youtube.com/watch?v=AVMs6hq487Q&t=279.34000000000003s)]
+*  This is drone video, thermal drone video, showing a single massive group of several [[00:04:41](https://www.youtube.com/watch?v=AVMs6hq487Q&t=281.48s)]
+*  hundred migrants crossing illegally into the Normandy, Texas area. [[00:04:46](https://www.youtube.com/watch?v=AVMs6hq487Q&t=286.86s)]
+*  Normandy is a tiny little town on the northern outskirts of Eagle Pass. [[00:04:50](https://www.youtube.com/watch?v=AVMs6hq487Q&t=290.52000000000004s)]
+*  And as you look at this, you'll see just a single file line of migrants wading across [[00:04:54](https://www.youtube.com/watch?v=AVMs6hq487Q&t=294.52000000000004s)]
+*  the Rio Grande and entering Texas. [[00:04:59](https://www.youtube.com/watch?v=AVMs6hq487Q&t=299.3s)]
+*  There's no resistance on either side of the border whatsoever. [[00:05:02](https://www.youtube.com/watch?v=AVMs6hq487Q&t=302.20000000000005s)]
+*  And once these migrants get to the U.S. side, they simply crawl under a fence that was put [[00:05:05](https://www.youtube.com/watch?v=AVMs6hq487Q&t=305.44s)]
+*  up by the state of Texas and they walk into an area where they wait to be processed by [[00:05:10](https://www.youtube.com/watch?v=AVMs6hq487Q&t=310.18s)]
+*  Border Patrol. [[00:05:15](https://www.youtube.com/watch?v=AVMs6hq487Q&t=315.02s)]
+*  And there's a couple hours after that thermal video across town in Eagle Pass, we had another [[00:05:16](https://www.youtube.com/watch?v=AVMs6hq487Q&t=316.02s)]
+*  group of migrants crossing illegally into the Eagle Pass area. [[00:05:20](https://www.youtube.com/watch?v=AVMs6hq487Q&t=320.86s)]
+*  This at a private pecan orchard, a couple hundred single adults crossed in this area [[00:05:24](https://www.youtube.com/watch?v=AVMs6hq487Q&t=324.46000000000004s)]
+*  with a Border Patrol source telling Fox News here in this Del Rio sector, just since October [[00:05:29](https://www.youtube.com/watch?v=AVMs6hq487Q&t=329.2s)]
+*  1st, there have already been nearly 50,000 illegal crossings. [[00:05:34](https://www.youtube.com/watch?v=AVMs6hq487Q&t=334.6s)]
+*  How should Republicans respond to a crisis like this when the federal government, as [[00:05:39](https://www.youtube.com/watch?v=AVMs6hq487Q&t=339.66s)]
+*  led by the executive Joe Biden, refuses to act? [[00:05:44](https://www.youtube.com/watch?v=AVMs6hq487Q&t=344.06s)]
+*  Well, today, it appears one Republican actually did something about it. [[00:05:48](https://www.youtube.com/watch?v=AVMs6hq487Q&t=348.14s)]
+*  Or did he? [[00:05:53](https://www.youtube.com/watch?v=AVMs6hq487Q&t=353.8s)]
+*  Texas Governor Greg Abbott seemed to declare an invasion is in progress at the southern [[00:05:55](https://www.youtube.com/watch?v=AVMs6hq487Q&t=355.26s)]
+*  border. [[00:05:59](https://www.youtube.com/watch?v=AVMs6hq487Q&t=359.3s)]
+*  Now, under the Constitution of the United States and the Constitution of Texas, that [[00:06:00](https://www.youtube.com/watch?v=AVMs6hq487Q&t=360.3s)]
+*  move would authorize Texas to independently crush the surge of illegal immigrants without [[00:06:04](https://www.youtube.com/watch?v=AVMs6hq487Q&t=364.5s)]
+*  needing any approval from the federal government. [[00:06:10](https://www.youtube.com/watch?v=AVMs6hq487Q&t=370.06s)]
+*  Specifically, Greg Abbott's decision to invoke the invasion clause would allow Texas to deploy [[00:06:13](https://www.youtube.com/watch?v=AVMs6hq487Q&t=373.22s)]
+*  the National Guard and Texas DPS to remove illegal immigrants. [[00:06:19](https://www.youtube.com/watch?v=AVMs6hq487Q&t=379.42s)]
+*  But in his press release today, Texas Governor Greg Abbott said he would remove illegal immigrants [[00:06:24](https://www.youtube.com/watch?v=AVMs6hq487Q&t=384.38s)]
+*  to the border. [[00:06:29](https://www.youtube.com/watch?v=AVMs6hq487Q&t=389.98s)]
+*  Wait, to the border. [[00:06:31](https://www.youtube.com/watch?v=AVMs6hq487Q&t=391.38s)]
+*  Ken Cuccinelli, he's the former attorney general of Virginia, and a big leader in this [[00:06:34](https://www.youtube.com/watch?v=AVMs6hq487Q&t=394.02s)]
+*  push for states to declare an invasion, points out to the border is not deportation. [[00:06:37](https://www.youtube.com/watch?v=AVMs6hq487Q&t=397.85999999999996s)]
+*  It wouldn't stem the tide of illegal immigrants. [[00:06:43](https://www.youtube.com/watch?v=AVMs6hq487Q&t=403.78s)]
+*  And it doesn't invoke the full constitutional power of declaring an invasion. [[00:06:46](https://www.youtube.com/watch?v=AVMs6hq487Q&t=406.41999999999996s)]
+*  So is it just a press release? [[00:06:51](https://www.youtube.com/watch?v=AVMs6hq487Q&t=411.5s)]
+*  Another example of words? [[00:06:54](https://www.youtube.com/watch?v=AVMs6hq487Q&t=414.18s)]
+*  Or is this potentially leadership? [[00:06:56](https://www.youtube.com/watch?v=AVMs6hq487Q&t=416.78s)]
+*  Republicans now have the House. [[00:06:59](https://www.youtube.com/watch?v=AVMs6hq487Q&t=419.90000000000003s)]
+*  At any moment tonight, it could be called that the Republicans now have a majority in [[00:07:02](https://www.youtube.com/watch?v=AVMs6hq487Q&t=422.90000000000003s)]
+*  the House. [[00:07:07](https://www.youtube.com/watch?v=AVMs6hq487Q&t=427.26s)]
+*  And then the question becomes, might they be able to lead in actually solving the border [[00:07:08](https://www.youtube.com/watch?v=AVMs6hq487Q&t=428.26s)]
+*  crisis or maybe returning our elections to pre-pandemic election laws? [[00:07:13](https://www.youtube.com/watch?v=AVMs6hq487Q&t=433.66s)]
+*  Or maybe even being that sorely lacking sober leadership we need before we extrapolate ourselves [[00:07:18](https://www.youtube.com/watch?v=AVMs6hq487Q&t=438.90000000000003s)]
+*  into World War III? [[00:07:26](https://www.youtube.com/watch?v=AVMs6hq487Q&t=446.68s)]
+*  We're too long now. [[00:07:28](https://www.youtube.com/watch?v=AVMs6hq487Q&t=448.86s)]
+*  We've been gaslit. [[00:07:30](https://www.youtube.com/watch?v=AVMs6hq487Q&t=450.3s)]
+*  We've been shouted down. [[00:07:31](https://www.youtube.com/watch?v=AVMs6hq487Q&t=451.3s)]
+*  We have been censored. [[00:07:32](https://www.youtube.com/watch?v=AVMs6hq487Q&t=452.3s)]
+*  Our questions have been called conspiracies. [[00:07:33](https://www.youtube.com/watch?v=AVMs6hq487Q&t=453.3s)]
+*  While the English language is tortured to the point where you can no longer explain [[00:07:36](https://www.youtube.com/watch?v=AVMs6hq487Q&t=456.54s)]
+*  what is a woman or why we're going to war, we need leaders, honest leaders, of any party [[00:07:40](https://www.youtube.com/watch?v=AVMs6hq487Q&t=460.14s)]
+*  at any level of government to answer, to act, and to remember that they work for us. [[00:07:47](https://www.youtube.com/watch?v=AVMs6hq487Q&t=467.74s)]
+*  Subscribe to the Fox News YouTube channel to catch our nightly opens, stories that are [[00:07:54](https://www.youtube.com/watch?v=AVMs6hq487Q&t=474.74s)]
+*  changing the world and changing your life. [[00:07:59](https://www.youtube.com/watch?v=AVMs6hq487Q&t=479.86s)]
+*  From Tucker Carlson tonight. [[00:08:02](https://www.youtube.com/watch?v=AVMs6hq487Q&t=482.42s)]

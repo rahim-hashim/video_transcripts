@@ -1,0 +1,157 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 331s
+Video Keywords: ['Pelosi', 'biden', 'capitol hill police force', 'Troy Nehls', 'January 6', 'capitol riot', 'troy nehls fox news', 'fox news troy nehls', 'tucker carlson tonight', 'fox news tucker carlson tonight', 'tucker carlson tonight fox news', 'fox news tucker carlson', 'tucker carlson fox news', 'pelosi biden', 'biden pelosi', 'us capitol hill police force', 'fox news capitol police', 'capitol police fox news', 'january 6 capitol riot fox news', 'fox news january 6 capitol riot']
+Video Views: 1516151
+Video Rating: None
+Video Description: Rep. Troy Nehls, R-Texas, explains why he thinks the U.S. Capitol Police took a secret photo of constitutionally-protected legislative documents in his office on ‘Tucker Carlson Tonight.’ #FoxNews #TuckerCarlsonTonight
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# They’re coming after anyone who doesn’t agree with them: Nehls
+**Fox News - Tucker Carlson:** [February 09, 2022](https://www.youtube.com/watch?v=TpROOqpsuCM)
+*  The Capitol Hill Police exist for a single reason, [[00:00:00](https://www.youtube.com/watch?v=TpROOqpsuCM&t=0.0s)]
+*  to protect the Capitol, which is the home of our legislature, [[00:00:02](https://www.youtube.com/watch?v=TpROOqpsuCM&t=2.64s)]
+*  which is the heart of our democracy, [[00:00:05](https://www.youtube.com/watch?v=TpROOqpsuCM&t=5.84s)]
+*  our elected members of Congress. [[00:00:07](https://www.youtube.com/watch?v=TpROOqpsuCM&t=7.28s)]
+*  But since January 6th, the Capitol Hill Police Force [[00:00:09](https://www.youtube.com/watch?v=TpROOqpsuCM&t=9.76s)]
+*  has been subverted by Nancy Pelosi, who oversees it, [[00:00:13](https://www.youtube.com/watch?v=TpROOqpsuCM&t=13.16s)]
+*  and Joe Biden, the new president, [[00:00:16](https://www.youtube.com/watch?v=TpROOqpsuCM&t=16.36s)]
+*  to become a kind of secret police force [[00:00:17](https://www.youtube.com/watch?v=TpROOqpsuCM&t=17.84s)]
+*  that acts on behalf of the Democratic Party. [[00:00:20](https://www.youtube.com/watch?v=TpROOqpsuCM&t=20.0s)]
+*  Think we're overstating that? We're not. [[00:00:22](https://www.youtube.com/watch?v=TpROOqpsuCM&t=22.0s)]
+*  Members of the Capitol Hill Police [[00:00:24](https://www.youtube.com/watch?v=TpROOqpsuCM&t=24.6s)]
+*  have been surveilling elected members of Congress, [[00:00:26](https://www.youtube.com/watch?v=TpROOqpsuCM&t=26.080000000000002s)]
+*  their staff and visitors to their offices. [[00:00:29](https://www.youtube.com/watch?v=TpROOqpsuCM&t=29.54s)]
+*  Republican Congressman Troy Nails of Texas [[00:00:33](https://www.youtube.com/watch?v=TpROOqpsuCM&t=33.5s)]
+*  said that Capitol Hill Police officers [[00:00:35](https://www.youtube.com/watch?v=TpROOqpsuCM&t=35.7s)]
+*  entered his congressional office last year [[00:00:37](https://www.youtube.com/watch?v=TpROOqpsuCM&t=37.54s)]
+*  without his knowledge, [[00:00:39](https://www.youtube.com/watch?v=TpROOqpsuCM&t=39.66s)]
+*  and then photographed confidential materials [[00:00:41](https://www.youtube.com/watch?v=TpROOqpsuCM&t=41.1s)]
+*  within the office. [[00:00:43](https://www.youtube.com/watch?v=TpROOqpsuCM&t=43.26s)]
+*  Now, if you haven't worked on Capitol Hill or around it, [[00:00:44](https://www.youtube.com/watch?v=TpROOqpsuCM&t=44.18s)]
+*  it's hard to overstate how completely out of bounds that is. [[00:00:46](https://www.youtube.com/watch?v=TpROOqpsuCM&t=46.66s)]
+*  In any other administration, under any other speaker, [[00:00:49](https://www.youtube.com/watch?v=TpROOqpsuCM&t=49.82s)]
+*  that would be considered a complete outrage. [[00:00:52](https://www.youtube.com/watch?v=TpROOqpsuCM&t=52.980000000000004s)]
+*  Now, it's just par for the course. [[00:00:56](https://www.youtube.com/watch?v=TpROOqpsuCM&t=56.18s)]
+*  Plainclothes Capitol Police officers [[00:00:59](https://www.youtube.com/watch?v=TpROOqpsuCM&t=59.66s)]
+*  from the department's quote, intelligence division [[00:01:01](https://www.youtube.com/watch?v=TpROOqpsuCM&t=61.42s)]
+*  subsequently questioned one of the congressman's aides [[00:01:04](https://www.youtube.com/watch?v=TpROOqpsuCM&t=64.1s)]
+*  about what was on a whiteboard within his office. [[00:01:06](https://www.youtube.com/watch?v=TpROOqpsuCM&t=66.9s)]
+*  On Twitter, the congressman wrote quote, [[00:01:10](https://www.youtube.com/watch?v=TpROOqpsuCM&t=70.22s)]
+*  so why is the Capitol Police leadership [[00:01:11](https://www.youtube.com/watch?v=TpROOqpsuCM&t=71.62s)]
+*  maliciously investigating me [[00:01:13](https://www.youtube.com/watch?v=TpROOqpsuCM&t=73.86s)]
+*  in an attempt to destroy me and my character? [[00:01:15](https://www.youtube.com/watch?v=TpROOqpsuCM&t=75.78s)]
+*  Congressman Troy Nails joins us now. [[00:01:19](https://www.youtube.com/watch?v=TpROOqpsuCM&t=79.06s)]
+*  Congressman, thanks so much for coming on. [[00:01:20](https://www.youtube.com/watch?v=TpROOqpsuCM&t=80.62s)]
+*  It's hard to overstate how shocking this story is. [[00:01:22](https://www.youtube.com/watch?v=TpROOqpsuCM&t=82.66s)]
+*  These are the people who are paid to protect you, [[00:01:25](https://www.youtube.com/watch?v=TpROOqpsuCM&t=85.7s)]
+*  and they're spying on you, an elected member of Congress, [[00:01:29](https://www.youtube.com/watch?v=TpROOqpsuCM&t=89.78s)]
+*  speaking of an attack on our democracy. [[00:01:33](https://www.youtube.com/watch?v=TpROOqpsuCM&t=93.61999999999999s)]
+*  Tell us why you think this happened. [[00:01:36](https://www.youtube.com/watch?v=TpROOqpsuCM&t=96.53999999999999s)]
+*  Why were they in your office? [[00:01:38](https://www.youtube.com/watch?v=TpROOqpsuCM&t=98.82s)]
+*  Well, I think, well, first of all, thank you for having me, [[00:01:41](https://www.youtube.com/watch?v=TpROOqpsuCM&t=101.3s)]
+*  and I think it's very clear. [[00:01:43](https://www.youtube.com/watch?v=TpROOqpsuCM&t=103.5s)]
+*  You know, Leader McCarthy selected me to be one of the five [[00:01:45](https://www.youtube.com/watch?v=TpROOqpsuCM&t=105.25999999999999s)]
+*  to be on the select committee, looking into January 6th, [[00:01:48](https://www.youtube.com/watch?v=TpROOqpsuCM&t=108.97999999999999s)]
+*  and I've been a very vocal critic of January 6th, [[00:01:52](https://www.youtube.com/watch?v=TpROOqpsuCM&t=112.74000000000001s)]
+*  specifically the Capitol Police, [[00:01:56](https://www.youtube.com/watch?v=TpROOqpsuCM&t=116.06s)]
+*  the leadership of the Capitol Police, [[00:01:58](https://www.youtube.com/watch?v=TpROOqpsuCM&t=118.10000000000001s)]
+*  the intelligence section, and been very vocal about it. [[00:01:59](https://www.youtube.com/watch?v=TpROOqpsuCM&t=119.7s)]
+*  I mean, all the intelligence was there. [[00:02:02](https://www.youtube.com/watch?v=TpROOqpsuCM&t=122.7s)]
+*  It was glaring to them, and it was in their face [[00:02:04](https://www.youtube.com/watch?v=TpROOqpsuCM&t=124.9s)]
+*  that we knew the Capitol was the target for January 6th. [[00:02:07](https://www.youtube.com/watch?v=TpROOqpsuCM&t=127.10000000000001s)]
+*  We knew that there were maps [[00:02:12](https://www.youtube.com/watch?v=TpROOqpsuCM&t=132.42000000000002s)]
+*  that were scattered throughout the whole city [[00:02:15](https://www.youtube.com/watch?v=TpROOqpsuCM&t=135.42000000000002s)]
+*  about the tunnels on January 6th. [[00:02:18](https://www.youtube.com/watch?v=TpROOqpsuCM&t=138.22s)]
+*  So all the intelligence was there. [[00:02:20](https://www.youtube.com/watch?v=TpROOqpsuCM&t=140.54s)]
+*  They knew the extremist groups were gonna be there, [[00:02:22](https://www.youtube.com/watch?v=TpROOqpsuCM&t=142.98s)]
+*  and they did nothing with it. [[00:02:24](https://www.youtube.com/watch?v=TpROOqpsuCM&t=144.42000000000002s)]
+*  So I've exposed this, and I've been very vocal about it. [[00:02:26](https://www.youtube.com/watch?v=TpROOqpsuCM&t=146.02s)]
+*  I've been vocal, too, even on your program a few months back [[00:02:28](https://www.youtube.com/watch?v=TpROOqpsuCM&t=148.9s)]
+*  about the death of Ashley Babbitt [[00:02:32](https://www.youtube.com/watch?v=TpROOqpsuCM&t=152.14000000000001s)]
+*  and questioning why Lieutenant Byrd's investigation [[00:02:34](https://www.youtube.com/watch?v=TpROOqpsuCM&t=154.46s)]
+*  did not go to a grand jury. [[00:02:37](https://www.youtube.com/watch?v=TpROOqpsuCM&t=157.66s)]
+*  So this really doesn't surprise me, quite honestly. [[00:02:39](https://www.youtube.com/watch?v=TpROOqpsuCM&t=159.26s)]
+*  I'm being targeted right now, [[00:02:41](https://www.youtube.com/watch?v=TpROOqpsuCM&t=161.98000000000002s)]
+*  and I believe that Nancy Pelosi is weaponizing [[00:02:44](https://www.youtube.com/watch?v=TpROOqpsuCM&t=164.1s)]
+*  the U.S. Capitol Police to investigate me, [[00:02:48](https://www.youtube.com/watch?v=TpROOqpsuCM&t=168.78s)]
+*  to try to silence me, intimidate me, [[00:02:52](https://www.youtube.com/watch?v=TpROOqpsuCM&t=172.46s)]
+*  and quite honestly, to destroy me. [[00:02:54](https://www.youtube.com/watch?v=TpROOqpsuCM&t=174.82s)]
+*  This is totally third world and crazy, [[00:02:57](https://www.youtube.com/watch?v=TpROOqpsuCM&t=177.38s)]
+*  and it's hard to believe it's happening in the Capitol City. [[00:03:00](https://www.youtube.com/watch?v=TpROOqpsuCM&t=180.38s)]
+*  By the way, I should note, [[00:03:03](https://www.youtube.com/watch?v=TpROOqpsuCM&t=183.1s)]
+*  their claim is they were trying to protect you, [[00:03:04](https://www.youtube.com/watch?v=TpROOqpsuCM&t=184.34s)]
+*  but of course they never told you about it. [[00:03:06](https://www.youtube.com/watch?v=TpROOqpsuCM&t=186.26s)]
+*  If there was a threat, they should of course alert you. [[00:03:07](https://www.youtube.com/watch?v=TpROOqpsuCM&t=187.78s)]
+*  You're the member of Congress. [[00:03:09](https://www.youtube.com/watch?v=TpROOqpsuCM&t=189.54s)]
+*  Why don't you shut these people down? [[00:03:10](https://www.youtube.com/watch?v=TpROOqpsuCM&t=190.78s)]
+*  How can you have Nancy Pelosi's secret police force [[00:03:12](https://www.youtube.com/watch?v=TpROOqpsuCM&t=192.86s)]
+*  in your office and no one shuts them down? [[00:03:16](https://www.youtube.com/watch?v=TpROOqpsuCM&t=196.1s)]
+*  Well, the claim is that they discovered [[00:03:20](https://www.youtube.com/watch?v=TpROOqpsuCM&t=200.22s)]
+*  one of my office doors wide open on a Saturday afternoon. [[00:03:21](https://www.youtube.com/watch?v=TpROOqpsuCM&t=201.82s)]
+*  The officer entered my office and said, [[00:03:25](https://www.youtube.com/watch?v=TpROOqpsuCM&t=205.54s)]
+*  to check to see if anybody was there [[00:03:28](https://www.youtube.com/watch?v=TpROOqpsuCM&t=208.5s)]
+*  that shouldn't be there, [[00:03:30](https://www.youtube.com/watch?v=TpROOqpsuCM&t=210.22s)]
+*  and saw suspicious writings on my whiteboard, [[00:03:31](https://www.youtube.com/watch?v=TpROOqpsuCM&t=211.1s)]
+*  whereas where I draft my legislative proposals, [[00:03:33](https://www.youtube.com/watch?v=TpROOqpsuCM&t=213.74s)]
+*  couple days later I've got these secret agents, [[00:03:36](https://www.youtube.com/watch?v=TpROOqpsuCM&t=216.74s)]
+*  secret agents from the Capitol Police [[00:03:39](https://www.youtube.com/watch?v=TpROOqpsuCM&t=219.38s)]
+*  knocking on my office door, questioning my staff, [[00:03:41](https://www.youtube.com/watch?v=TpROOqpsuCM&t=221.86s)]
+*  one of my staffers, as to the language on that board. [[00:03:45](https://www.youtube.com/watch?v=TpROOqpsuCM&t=225.45999999999998s)]
+*  Why was there body armor written on your board, [[00:03:48](https://www.youtube.com/watch?v=TpROOqpsuCM&t=228.66s)]
+*  interrogating this staffer, [[00:03:51](https://www.youtube.com/watch?v=TpROOqpsuCM&t=231.22s)]
+*  asking him questions related to a handwritten map [[00:03:53](https://www.youtube.com/watch?v=TpROOqpsuCM&t=233.66s)]
+*  of the Rayburn office building, [[00:03:57](https://www.youtube.com/watch?v=TpROOqpsuCM&t=237.7s)]
+*  which is an office building for members of Congress, [[00:03:59](https://www.youtube.com/watch?v=TpROOqpsuCM&t=239.5s)]
+*  and the X on it. [[00:04:02](https://www.youtube.com/watch?v=TpROOqpsuCM&t=242.29999999999998s)]
+*  I mean, absolutely silly, absolutely ludicrous. [[00:04:03](https://www.youtube.com/watch?v=TpROOqpsuCM&t=243.73999999999998s)]
+*  Why were the Capitol Police inside my office [[00:04:07](https://www.youtube.com/watch?v=TpROOqpsuCM&t=247.14s)]
+*  investigating me? [[00:04:10](https://www.youtube.com/watch?v=TpROOqpsuCM&t=250.06s)]
+*  And I was under a criminal investigation. [[00:04:11](https://www.youtube.com/watch?v=TpROOqpsuCM&t=251.22s)]
+*  The chief of police, Manger, he's downplaying this, [[00:04:13](https://www.youtube.com/watch?v=TpROOqpsuCM&t=253.54s)]
+*  but I'm telling you, they're coming after anyone [[00:04:16](https://www.youtube.com/watch?v=TpROOqpsuCM&t=256.53999999999996s)]
+*  that has a dissenting point of view, [[00:04:19](https://www.youtube.com/watch?v=TpROOqpsuCM&t=259.18s)]
+*  anybody that doesn't agree with them. [[00:04:21](https://www.youtube.com/watch?v=TpROOqpsuCM&t=261.02s)]
+*  It happened to me, sir, I believe the NSA, [[00:04:23](https://www.youtube.com/watch?v=TpROOqpsuCM&t=263.18s)]
+*  it happened to you looking at your emails, text messages. [[00:04:25](https://www.youtube.com/watch?v=TpROOqpsuCM&t=265.82s)]
+*  Obama used the FBI to go after Donald Trump, [[00:04:30](https://www.youtube.com/watch?v=TpROOqpsuCM&t=270.14s)]
+*  Russia collusion, and we know how that turned out. [[00:04:34](https://www.youtube.com/watch?v=TpROOqpsuCM&t=274.65999999999997s)]
+*  So they're weaponizing these federal law enforcement [[00:04:37](https://www.youtube.com/watch?v=TpROOqpsuCM&t=277.38s)]
+*  agencies and intelligence agencies. [[00:04:39](https://www.youtube.com/watch?v=TpROOqpsuCM&t=279.9s)]
+*  It's making my heart beat faster. [[00:04:43](https://www.youtube.com/watch?v=TpROOqpsuCM&t=283.7s)]
+*  We can't put up, this is the red line [[00:04:44](https://www.youtube.com/watch?v=TpROOqpsuCM&t=284.7s)]
+*  that you can't tolerate in a free society. [[00:04:46](https://www.youtube.com/watch?v=TpROOqpsuCM&t=286.9s)]
+*  You cannot use federal law enforcement agencies [[00:04:48](https://www.youtube.com/watch?v=TpROOqpsuCM&t=288.86s)]
+*  to go after your political enemies, period. [[00:04:51](https://www.youtube.com/watch?v=TpROOqpsuCM&t=291.5s)]
+*  So they do in Africa, we cannot allow that here, obviously. [[00:04:53](https://www.youtube.com/watch?v=TpROOqpsuCM&t=293.5s)]
+*  I hope you get every one of these cretins fired, [[00:04:56](https://www.youtube.com/watch?v=TpROOqpsuCM&t=296.46s)]
+*  I mean it too. [[00:04:59](https://www.youtube.com/watch?v=TpROOqpsuCM&t=299.18s)]
+*  Well, the office of Inspector General [[00:05:00](https://www.youtube.com/watch?v=TpROOqpsuCM&t=300.26s)]
+*  was in my office last week. [[00:05:03](https://www.youtube.com/watch?v=TpROOqpsuCM&t=303.94s)]
+*  He has agreed to do a study and an investigation, [[00:05:05](https://www.youtube.com/watch?v=TpROOqpsuCM&t=305.46s)]
+*  an independent investigation, and I feel good about that. [[00:05:09](https://www.youtube.com/watch?v=TpROOqpsuCM&t=309.06s)]
+*  We're gonna get to the bottom of it. [[00:05:11](https://www.youtube.com/watch?v=TpROOqpsuCM&t=311.9s)]
+*  I hope you will, I hope you will. [[00:05:13](https://www.youtube.com/watch?v=TpROOqpsuCM&t=313.14s)]
+*  Thank you for joining us tonight. [[00:05:14](https://www.youtube.com/watch?v=TpROOqpsuCM&t=314.9s)]
+*  Thank you, God bless. [[00:05:16](https://www.youtube.com/watch?v=TpROOqpsuCM&t=316.41999999999996s)]
+*  God bless. [[00:05:18](https://www.youtube.com/watch?v=TpROOqpsuCM&t=318.06s)]

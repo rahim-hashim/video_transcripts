@@ -1,0 +1,156 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 336s
+Video Keywords: ['2024 presidential election', 'ainsley earhardt', 'biden administration', 'biden policies', 'biden-harris', 'biden-harris administration', 'border', 'border crisis', 'border security', 'brian kilmeade', 'crime', 'fnc', 'fox', 'fox & friends weekend', 'fox news', 'fox news channel', 'fox news media', 'immigration policies', 'jim jordan', 'migrant crime', 'news', 'november election', 'presidential election', 'threats to the us', 'us threats']
+Video Views: 61916
+Video Rating: None
+Video Description: Rep. Jim Jordan, R-Ohio, examines what effect the Biden-Harris border policies have had on U.S. safety, urging Americans to evaluate the past two administrations before casting their ballot. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# ‘Potential’ for another 9/11-like attack is a ‘real concern,’ GOP lawmaker warns
+**Fox News - Fox and Friends:** [August 18, 2024](https://www.youtube.com/watch?v=5JlAGCC53tk)
+*  A new House report accusing the Biden-Harris border policies of causing more violent crime, [[00:00:00](https://www.youtube.com/watch?v=5JlAGCC53tk&t=0.0s)]
+*  including the murder of Laken Reilly, the 22-year-old nursing student who was killed [[00:00:10](https://www.youtube.com/watch?v=5JlAGCC53tk&t=10.24s)]
+*  by a suspected illegal immigrant while jogging at the University of Georgia last winter. [[00:00:14](https://www.youtube.com/watch?v=5JlAGCC53tk&t=14.8s)]
+*  All right. [[00:00:19](https://www.youtube.com/watch?v=5JlAGCC53tk&t=19.28s)]
+*  According to the report, the suspect was living in Ecuador, but may have been drawn to enter [[00:00:20](https://www.youtube.com/watch?v=5JlAGCC53tk&t=20.28s)]
+*  illegally under the quote, Biden-Harris open borders, no consequences, immigration policy. [[00:00:24](https://www.youtube.com/watch?v=5JlAGCC53tk&t=24.32s)]
+*  Joining us right now with more from that report, House Judiciary Committee, Jim Jordan. [[00:00:29](https://www.youtube.com/watch?v=5JlAGCC53tk&t=29.92s)]
+*  Congressman, they don't want to talk about any of the victims. [[00:00:34](https://www.youtube.com/watch?v=5JlAGCC53tk&t=34.32s)]
+*  They want us to talk about the percentage of illegal immigrants who commit crimes is [[00:00:37](https://www.youtube.com/watch?v=5JlAGCC53tk&t=37.160000000000004s)]
+*  so much lower than the general population. [[00:00:40](https://www.youtube.com/watch?v=5JlAGCC53tk&t=40.52s)]
+*  What are you finding? [[00:00:42](https://www.youtube.com/watch?v=5JlAGCC53tk&t=42.96s)]
+*  Well, the American people know that when this administration on day one said, we're no [[00:00:43](https://www.youtube.com/watch?v=5JlAGCC53tk&t=43.96s)]
+*  longer going to build the wall, we're no longer going to have you remain in Mexico while we [[00:00:47](https://www.youtube.com/watch?v=5JlAGCC53tk&t=47.68000000000001s)]
+*  evaluate your claim, and when you get here, you will not be detained, everyone came, including [[00:00:51](https://www.youtube.com/watch?v=5JlAGCC53tk&t=51.120000000000005s)]
+*  really bad people that they let in the country. [[00:00:56](https://www.youtube.com/watch?v=5JlAGCC53tk&t=56.64s)]
+*  They knew that this guy who killed Lake and Riley, they knew he had a criminal record. [[00:00:59](https://www.youtube.com/watch?v=5JlAGCC53tk&t=59.0s)]
+*  They knew about his brothers involved in this gang, and yet they let him roam free, and [[00:01:02](https://www.youtube.com/watch?v=5JlAGCC53tk&t=62.120000000000005s)]
+*  we have this terrible tragedy with Lake and Riley. [[00:01:06](https://www.youtube.com/watch?v=5JlAGCC53tk&t=66.36s)]
+*  So our report talks about these issues where they let bad guys in the country do bad things, [[00:01:08](https://www.youtube.com/watch?v=5JlAGCC53tk&t=68.2s)]
+*  and the fact, report we released a couple weeks ago, 99 people on the terrorist watch [[00:01:13](https://www.youtube.com/watch?v=5JlAGCC53tk&t=73.44s)]
+*  list, they released into the country. [[00:01:18](https://www.youtube.com/watch?v=5JlAGCC53tk&t=78.4s)]
+*  And oh, by the way, the person in charge of all this, the borders czar, they just made [[00:01:20](https://www.youtube.com/watch?v=5JlAGCC53tk&t=80.44s)]
+*  their nominee. [[00:01:24](https://www.youtube.com/watch?v=5JlAGCC53tk&t=84.56s)]
+*  When 10 million people come into this country illegally, they're on pace to get to 12 million [[00:01:25](https://www.youtube.com/watch?v=5JlAGCC53tk&t=85.56s)]
+*  the equivalent of the entire population of Ohio, and we're the seventh largest state [[00:01:29](https://www.youtube.com/watch?v=5JlAGCC53tk&t=89.88s)]
+*  in the union. [[00:01:32](https://www.youtube.com/watch?v=5JlAGCC53tk&t=92.76s)]
+*  That's how serious this is, and they're making the border czar their nominee. [[00:01:33](https://www.youtube.com/watch?v=5JlAGCC53tk&t=93.76s)]
+*  I think that gets through to the American people in the end, and that's what's going [[00:01:38](https://www.youtube.com/watch?v=5JlAGCC53tk&t=98.16s)]
+*  to help, one of the many things that's going to help President Trump be our next president. [[00:01:40](https://www.youtube.com/watch?v=5JlAGCC53tk&t=100.6s)]
+*  Absolutely. [[00:01:44](https://www.youtube.com/watch?v=5JlAGCC53tk&t=104.72s)]
+*  Kamala called the wall a vanity project. [[00:01:45](https://www.youtube.com/watch?v=5JlAGCC53tk&t=105.72s)]
+*  She's mocking Donald Trump. [[00:01:47](https://www.youtube.com/watch?v=5JlAGCC53tk&t=107.56s)]
+*  She wants to pay for everything for the illegal immigrants, wants us to do it with taxpayer [[00:01:49](https://www.youtube.com/watch?v=5JlAGCC53tk&t=109.08s)]
+*  dollars, and then we have the 99 that were released that are on the terror list. [[00:01:53](https://www.youtube.com/watch?v=5JlAGCC53tk&t=113.84s)]
+*  Do you suspect that we're in for another 9-11 attack here in our country? [[00:01:57](https://www.youtube.com/watch?v=5JlAGCC53tk&t=117.88s)]
+*  Well, the guy who chairs our Tom McClintock, the chair of our subcommittee on immigration, [[00:02:02](https://www.youtube.com/watch?v=5JlAGCC53tk&t=122.24s)]
+*  he has talked about this. [[00:02:05](https://www.youtube.com/watch?v=5JlAGCC53tk&t=125.84s)]
+*  He's been speaking about this for the last year and a half, saying if we keep doing this, [[00:02:06](https://www.youtube.com/watch?v=5JlAGCC53tk&t=126.84s)]
+*  there could be, we don't want it to happen. [[00:02:10](https://www.youtube.com/watch?v=5JlAGCC53tk&t=130.74s)]
+*  We hope it doesn't happen, but the potential is certainly there. [[00:02:13](https://www.youtube.com/watch?v=5JlAGCC53tk&t=133.07999999999998s)]
+*  When you got 99 folks coming in, and there are others on the terrorist watches they've [[00:02:16](https://www.youtube.com/watch?v=5JlAGCC53tk&t=136.85999999999999s)]
+*  encountered, how about all the people they don't know about? [[00:02:20](https://www.youtube.com/watch?v=5JlAGCC53tk&t=140.48s)]
+*  I mean, it's basically an open border. [[00:02:22](https://www.youtube.com/watch?v=5JlAGCC53tk&t=142.6s)]
+*  So yeah, it's a real concern, but I just think it's amazing. [[00:02:25](https://www.youtube.com/watch?v=5JlAGCC53tk&t=145.14s)]
+*  The lady who, as the borders are, they make the nominee. [[00:02:29](https://www.youtube.com/watch?v=5JlAGCC53tk&t=149.73999999999998s)]
+*  The lady who did the tie-breaking vote on the Inflation Reduction Act, which actually [[00:02:31](https://www.youtube.com/watch?v=5JlAGCC53tk&t=151.77999999999997s)]
+*  caused inflation. [[00:02:35](https://www.youtube.com/watch?v=5JlAGCC53tk&t=155.29999999999998s)]
+*  And they mocked the fact that it's just not for inflation. [[00:02:36](https://www.youtube.com/watch?v=5JlAGCC53tk&t=156.29999999999998s)]
+*  Yeah, exactly. [[00:02:38](https://www.youtube.com/watch?v=5JlAGCC53tk&t=158.66s)]
+*  That's the person, and that same individual is now going out talking about price controls, [[00:02:39](https://www.youtube.com/watch?v=5JlAGCC53tk&t=159.66s)]
+*  which we know create scarcity, which is going to, I mean, that's their, so again, at some [[00:02:43](https://www.youtube.com/watch?v=5JlAGCC53tk&t=163.89999999999998s)]
+*  point I think these things get through and we get past this sort of honeymoon period [[00:02:47](https://www.youtube.com/watch?v=5JlAGCC53tk&t=167.77999999999997s)]
+*  with the vice president. [[00:02:51](https://www.youtube.com/watch?v=5JlAGCC53tk&t=171.61999999999998s)]
+*  They know about our record. [[00:02:53](https://www.youtube.com/watch?v=5JlAGCC53tk&t=173.17999999999998s)]
+*  That's why she's not giving interviews. [[00:02:54](https://www.youtube.com/watch?v=5JlAGCC53tk&t=174.54s)]
+*  They want to hide it, because a lot of Americans don't realize how left she is. [[00:02:56](https://www.youtube.com/watch?v=5JlAGCC53tk&t=176.07999999999998s)]
+*  Yeah, but these debates are coming. [[00:03:00](https://www.youtube.com/watch?v=5JlAGCC53tk&t=180.82s)]
+*  And President Trump, we saw how great he did in that debate with Joe Biden. [[00:03:02](https://www.youtube.com/watch?v=5JlAGCC53tk&t=182.82s)]
+*  I think he'll do a great job again. [[00:03:05](https://www.youtube.com/watch?v=5JlAGCC53tk&t=185.7s)]
+*  I think JD Vance against Tim Walz, I think he'll do a great, I think it's amazing. [[00:03:07](https://www.youtube.com/watch?v=5JlAGCC53tk&t=187.82s)]
+*  Walz is the guy who said, he's the guy who started the whole weird thing, and I was talking [[00:03:11](https://www.youtube.com/watch?v=5JlAGCC53tk&t=191.89999999999998s)]
+*  to a group yesterday, and I said, weird? [[00:03:15](https://www.youtube.com/watch?v=5JlAGCC53tk&t=195.29999999999998s)]
+*  JD Vance came from the humblest of families. [[00:03:18](https://www.youtube.com/watch?v=5JlAGCC53tk&t=198.06s)]
+*  And then was, I mean, a family of public assistants. [[00:03:20](https://www.youtube.com/watch?v=5JlAGCC53tk&t=200.82s)]
+*  United States Marine, Ohio State grad, Yale Law School, successful in business, best-selling [[00:03:23](https://www.youtube.com/watch?v=5JlAGCC53tk&t=203.62s)]
+*  author, sold so many books, they made a movie about it. [[00:03:28](https://www.youtube.com/watch?v=5JlAGCC53tk&t=208.62s)]
+*  United States Senator from the seventh largest state in the union, vice presidential candidate, [[00:03:30](https://www.youtube.com/watch?v=5JlAGCC53tk&t=210.78s)]
+*  and he's 40. [[00:03:35](https://www.youtube.com/watch?v=5JlAGCC53tk&t=215.22s)]
+*  That is not weird. [[00:03:36](https://www.youtube.com/watch?v=5JlAGCC53tk&t=216.82s)]
+*  That is amazing. [[00:03:37](https://www.youtube.com/watch?v=5JlAGCC53tk&t=217.82s)]
+*  That is exceptional. [[00:03:38](https://www.youtube.com/watch?v=5JlAGCC53tk&t=218.82s)]
+*  That's the American story, and they're going to make fun of that? [[00:03:39](https://www.youtube.com/watch?v=5JlAGCC53tk&t=219.82s)]
+*  Go ahead, keep going. [[00:03:42](https://www.youtube.com/watch?v=5JlAGCC53tk&t=222.73999999999998s)]
+*  Wait till the debates, where I think our guys are going to win. [[00:03:43](https://www.youtube.com/watch?v=5JlAGCC53tk&t=223.73999999999998s)]
+*  By the way, Austin has Keep Austin Weird and Keep Portland Weird. [[00:03:46](https://www.youtube.com/watch?v=5JlAGCC53tk&t=226.5s)]
+*  I think that's their base. [[00:03:49](https://www.youtube.com/watch?v=5JlAGCC53tk&t=229.54s)]
+*  Real quick, do you know what she's going to come back and say? [[00:03:50](https://www.youtube.com/watch?v=5JlAGCC53tk&t=230.54s)]
+*  She's going to say, Kamala Harris, I was tough on the border. [[00:03:52](https://www.youtube.com/watch?v=5JlAGCC53tk&t=232.94s)]
+*  I cracked down as AG on transnational gangs. [[00:03:55](https://www.youtube.com/watch?v=5JlAGCC53tk&t=235.5s)]
+*  They're totally putting it on its head. [[00:04:00](https://www.youtube.com/watch?v=5JlAGCC53tk&t=240.66s)]
+*  What are you going to react to? [[00:04:02](https://www.youtube.com/watch?v=5JlAGCC53tk&t=242.14s)]
+*  How are you going to react to that? [[00:04:03](https://www.youtube.com/watch?v=5JlAGCC53tk&t=243.14s)]
+*  Again, I think we have something we very seldom get in the United States in this great country. [[00:04:04](https://www.youtube.com/watch?v=5JlAGCC53tk&t=244.14s)]
+*  We can compare the last two administrations back to back. [[00:04:10](https://www.youtube.com/watch?v=5JlAGCC53tk&t=250.02s)]
+*  You got the Biden-Harris administration, and you got what all the good things happened [[00:04:13](https://www.youtube.com/watch?v=5JlAGCC53tk&t=253.98s)]
+*  under President Trump. [[00:04:17](https://www.youtube.com/watch?v=5JlAGCC53tk&t=257.58s)]
+*  From a secure border to no border, safe streets, record crime, $2 gas, $4 gas, stable prices, [[00:04:18](https://www.youtube.com/watch?v=5JlAGCC53tk&t=258.65999999999997s)]
+*  record inflation. [[00:04:25](https://www.youtube.com/watch?v=5JlAGCC53tk&t=265.74s)]
+*  We went from a commander in chief in President Trump who projected strength, where Russia [[00:04:26](https://www.youtube.com/watch?v=5JlAGCC53tk&t=266.74s)]
+*  didn't go into Ukraine, where Hamas and Hezbollah didn't attack our best friend, the state of [[00:04:30](https://www.youtube.com/watch?v=5JlAGCC53tk&t=270.02s)]
+*  Israel, to Joe Biden and Kamala Harris. [[00:04:33](https://www.youtube.com/watch?v=5JlAGCC53tk&t=273.94s)]
+*  I think the American people can just step back and look at those. [[00:04:36](https://www.youtube.com/watch?v=5JlAGCC53tk&t=276.18s)]
+*  Look at the last eight years. [[00:04:39](https://www.youtube.com/watch?v=5JlAGCC53tk&t=279.38s)]
+*  Which four do you like? [[00:04:40](https://www.youtube.com/watch?v=5JlAGCC53tk&t=280.5s)]
+*  Again, I think that becomes even more clear during these debates that are coming up, where [[00:04:42](https://www.youtube.com/watch?v=5JlAGCC53tk&t=282.09999999999997s)]
+*  President Trump and J.D. will make those points. [[00:04:47](https://www.youtube.com/watch?v=5JlAGCC53tk&t=287.46000000000004s)]
+*  When the American people are smart people, they got common sense and get like, I like [[00:04:49](https://www.youtube.com/watch?v=5JlAGCC53tk&t=289.86s)]
+*  the previous four years. [[00:04:53](https://www.youtube.com/watch?v=5JlAGCC53tk&t=293.26s)]
+*  And by the way, he likes Long Island too, because that's where a lot of great wrestlers [[00:04:54](https://www.youtube.com/watch?v=5JlAGCC53tk&t=294.26s)]
+*  from Long Island. [[00:04:57](https://www.youtube.com/watch?v=5JlAGCC53tk&t=297.1s)]
+*  That's right. [[00:04:58](https://www.youtube.com/watch?v=5JlAGCC53tk&t=298.1s)]
+*  That's right. [[00:04:59](https://www.youtube.com/watch?v=5JlAGCC53tk&t=299.1s)]
+*  And that's where he was yesterday. [[00:05:00](https://www.youtube.com/watch?v=5JlAGCC53tk&t=300.1s)]
+*  Really? [[00:05:01](https://www.youtube.com/watch?v=5JlAGCC53tk&t=301.1s)]
+*  There were more police there than about any. [[00:05:02](https://www.youtube.com/watch?v=5JlAGCC53tk&t=302.1s)]
+*  We was here for a big endorsement of the Suffolk County Police Association's endorsed President [[00:05:03](https://www.youtube.com/watch?v=5JlAGCC53tk&t=303.70000000000005s)]
+*  Trump and the Conservative Party in this great state endorsed President Trump. [[00:05:08](https://www.youtube.com/watch?v=5JlAGCC53tk&t=308.54s)]
+*  So we were there to accept that. [[00:05:11](https://www.youtube.com/watch?v=5JlAGCC53tk&t=311.66s)]
+*  That's Brian's county. [[00:05:13](https://www.youtube.com/watch?v=5JlAGCC53tk&t=313.46000000000004s)]
+*  I know. [[00:05:14](https://www.youtube.com/watch?v=5JlAGCC53tk&t=314.46000000000004s)]
+*  Close, NASA. [[00:05:15](https://www.youtube.com/watch?v=5JlAGCC53tk&t=315.46000000000004s)]
+*  Oh, you're NASA? [[00:05:16](https://www.youtube.com/watch?v=5JlAGCC53tk&t=316.5s)]
+*  I'm NASA too. [[00:05:17](https://www.youtube.com/watch?v=5JlAGCC53tk&t=317.5s)]
+*  I thought you were Suffolk. [[00:05:18](https://www.youtube.com/watch?v=5JlAGCC53tk&t=318.5s)]
+*  We should talk once more. [[00:05:19](https://www.youtube.com/watch?v=5JlAGCC53tk&t=319.82s)]
+*  Okay. [[00:05:20](https://www.youtube.com/watch?v=5JlAGCC53tk&t=320.82s)]
+*  Let's stay in touch. [[00:05:21](https://www.youtube.com/watch?v=5JlAGCC53tk&t=321.82s)]
+*  Great to see you. [[00:05:22](https://www.youtube.com/watch?v=5JlAGCC53tk&t=322.82s)]
+*  Good to see you guys. [[00:05:23](https://www.youtube.com/watch?v=5JlAGCC53tk&t=323.82s)]
+*  Thank you. [[00:05:24](https://www.youtube.com/watch?v=5JlAGCC53tk&t=324.82s)]
+*  I'm Steve Ducey. [[00:05:25](https://www.youtube.com/watch?v=5JlAGCC53tk&t=325.82s)]
+*  I'm Brian Kilmeade. [[00:05:26](https://www.youtube.com/watch?v=5JlAGCC53tk&t=326.82s)]
+*  And I'm Ainsley Earhart. [[00:05:27](https://www.youtube.com/watch?v=5JlAGCC53tk&t=327.82s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:05:28](https://www.youtube.com/watch?v=5JlAGCC53tk&t=328.82s)]
+*  and most compelling analysis. [[00:05:33](https://www.youtube.com/watch?v=5JlAGCC53tk&t=333.21999999999997s)]

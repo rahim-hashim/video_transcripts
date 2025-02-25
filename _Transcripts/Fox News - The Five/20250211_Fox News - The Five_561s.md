@@ -1,0 +1,155 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 561s
+Video Keywords: ['dana perino', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news the five', 'fox news voices', 'greg gutfeld', 'gutfeld', 'gutfeld reacts', 'harold ford jr', 'jeanine pirro', 'jesse watters', 'perino', 'the five', 'the five dana perino', 'the five fox news', 'the five greg gutfeld', 'the five jeanine pirro', 'the five jesse watters', 'richard fowler', 'israel news', 'hostage release', 'gaza', 'trump hostage']
+Video Views: 728282
+Video Rating: None
+Video Description: 'The Five' co-hosts discuss President Donald Trump's threat to unleash 'hell' on Hamas if it does not release all hostages by Saturday.
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'The Five': Hamas thinks it’s dealing with Joe Biden
+**Fox News - The Five:** [February 11, 2025](https://www.youtube.com/watch?v=9jSvtm2ft_g)
+*  President Trump promising to let all hell break loose if Hamas terrorists don't release all Israeli hostages by noon this Saturday. [[00:00:00](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=0.0s)]
+*  He doubled down on his promise while hanging with the King of Jordan. [[00:00:07](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=7.08s)]
+*  I don't think they're going to make the deadline personally. [[00:00:11](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=11.8s)]
+*  I think they they want to play tough guy, but we'll see how tough they are. [[00:00:14](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=14.040000000000001s)]
+*  A bully is the weakest person and their bullies. [[00:00:19](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=19.12s)]
+*  Hamas is bullies. [[00:00:23](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=23.240000000000002s)]
+*  You said all hell will break out if all the hostages are not released on Saturday. [[00:00:24](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=24.6s)]
+*  What did you mean by that? [[00:00:28](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=28.44s)]
+*  I've looked at what at the condition of people coming out of the hostage situation and it's horrible. [[00:00:29](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=29.52s)]
+*  I don't want to do two and then we do another two in another week and then we do four and three weeks now. [[00:00:37](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=37.2s)]
+*  They either have them out by Saturday at 12 o'clock or all bets are off. [[00:00:43](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=43.92s)]
+*  All bets are off. [[00:00:50](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=50.28s)]
+*  Trump also giving more details on his Gaza plaza plan. [[00:00:51](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=51.84s)]
+*  We're not going to buy anything. [[00:00:56](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=56.879999999999995s)]
+*  We're going to have it. [[00:00:57](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=57.96s)]
+*  We're going to keep it and we're going to make sure that there's going to be peace and there's not going to be any problem and nobody's going to question it. [[00:00:59](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=59.04s)]
+*  And we're going to run it very properly and eventually we'll have economic development at a very large scale, maybe the largest scale on that site. [[00:01:06](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=66.32s)]
+*  And we'll have lots of good things built there, including hotels and office buildings and housing and other things. [[00:01:15](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=75.72s)]
+*  And we'll make that site into what it should be. [[00:01:22](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=82.72s)]
+*  You know, Judge, I'm glad he brought up the condition of the hostages because we keep hearing this like almost equating these sides. [[00:01:25](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=85.92s)]
+*  This is like, I mean, they look like they are survivors of the Holocaust. [[00:01:35](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=95.92s)]
+*  And it's like, you know, there should be no F's given, you know, when dealing with these guys, these animals. [[00:01:39](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=99.88s)]
+*  You know, if you know anything about Donald Trump, you know that when he saw that, that that really infuriated him. [[00:01:47](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=107.32000000000001s)]
+*  And if you recall, it was during his first administration that he heard about chemical weapons being used against kids in Syria. [[00:01:54](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=114.84s)]
+*  And he had I think was the mother of all bombs. [[00:02:01](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=121.52000000000001s)]
+*  I'm not sure, but he did this strategic strike at the chemical weapons factories in Syria in and out because he didn't like what was happening to kids. [[00:02:03](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=123.88000000000001s)]
+*  The same thing with these Holocaust looking survivors, who I understand Greg were force fed the last week before they were being released. [[00:02:12](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=132.36s)]
+*  And what we've got to understand is that we have given hundreds of prisoners back to the Gaza or the Palestinians. [[00:02:20](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=140.16000000000003s)]
+*  And, you know, these are prisoners versus a hostage who hasn't done anything. [[00:02:27](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=147.92000000000002s)]
+*  And, you know, the terrorists now they're saying, you know, that Israel isn't living up to its end of the deal. [[00:02:32](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=152.32000000000002s)]
+*  They think they're dealing with Joe Biden. They are not dealing with Joe Biden. [[00:02:38](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=158.8s)]
+*  They're dealing with Donald Trump. [[00:02:42](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=162.84s)]
+*  And so when I kind of tied the A block and this last thing I'll say is that we both we all know the two state solution hasn't worked. [[00:02:44](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=164.64s)]
+*  Not going to work. Don't try it again. [[00:02:52](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=172.76s)]
+*  But all the money that we're wasting on USAID and all the fraud and corruption, we've got to figure out a way to get the Palestinians out of Gaza for them to rebuild Gaza, [[00:02:54](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=174.64s)]
+*  whether you move into one half and then build in that half or whether you pay money to Egypt and Abdullah in Jordan, [[00:03:05](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=185.44s)]
+*  who's got a resistance to them because of what happened on Black September because of what the PLO did. [[00:03:12](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=192.35999999999999s)]
+*  But, you know, we got money. We can force countries to clear out Gaza. [[00:03:18](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=198.2s)]
+*  That's the problem. That's the problem is like these countries nearby don't want to upset their political balance, [[00:03:22](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=202.6s)]
+*  which is fragile by taking in like half a million Palestinians because then they lose power in Egypt or Jordan. [[00:03:29](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=209.28s)]
+*  Actually, no one has ever cared about the Palestinians as much as the Americans have. [[00:03:35](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=215.4s)]
+*  Yeah. [[00:03:40](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=220.56s)]
+*  And I say that because who helps them? They sort of pretend to help them. [[00:03:41](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=221.08s)]
+*  Iran says, here, we'll help you if you kill Israelis, if you kill Jews. [[00:03:45](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=225.8s)]
+*  And then Jordan is like, we've got so many and their economy is not great. [[00:03:51](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=231.84s)]
+*  Egypt is like, well, we don't want them here. We've got problems with the Muslim Brotherhood. [[00:03:56](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=236.56s)]
+*  It is nuanced. It is complicated. [[00:03:59](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=239.72000000000003s)]
+*  It's complex. But what is not complicated is the issue of right and wrong when it comes to these hostages. [[00:04:02](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=242.60000000000002s)]
+*  So what he's saying is we're not going to be like Biden anymore. [[00:04:07](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=247.51999999999998s)]
+*  The Bidens, they were slow walking weapons to the Israelis like, well, we don't want to we don't want to go too far and actually actually win this thing. [[00:04:11](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=251.16s)]
+*  We want to we want to draw out the pain for as long as possible. [[00:04:18](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=258.56s)]
+*  I actually do have a question, though, for the president. Does he mean noon? [[00:04:22](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=262.71999999999997s)]
+*  Our time or their time? Because it matters. It does matter. [[00:04:25](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=265.68s)]
+*  It could be what's the time difference? Seven hours. Seven hours. [[00:04:28](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=268.88s)]
+*  Are we talking five a.m.? This is the middle of Shabbat. [[00:04:31](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=271.56s)]
+*  I don't know what's going to happen on that front. [[00:04:34](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=274.4s)]
+*  I also think this Hamas doesn't know how to deal with Trump. [[00:04:37](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=277.12s)]
+*  They said you're going to give Trump an ultimatum. [[00:04:40](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=280.2s)]
+*  I don't think so. Like, you're going to try to out negotiate him. [[00:04:43](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=283.03999999999996s)]
+*  And you think he's joking. But I will end with this. [[00:04:46](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=286.12s)]
+*  I understand the sensitivity for the families of the hostages who we believe are alive, [[00:04:49](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=289.32s)]
+*  because right now they are possibly in more danger than they have ever been in these next few days. [[00:04:55](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=295.44s)]
+*  So I'm hoping that Hamas does the right thing and turns them over. [[00:05:01](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=301.0s)]
+*  As Jeanine said, we've already we should say the Israelis have released 200 convicted terrorists. [[00:05:04](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=304.40000000000003s)]
+*  Right. Did any of them look like they've been starved? [[00:05:09](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=309.84000000000003s)]
+*  Where's the United Nations? [[00:05:12](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=312.72s)]
+*  My last point on this, actually, is we had hostages that were being held in some of the UNRWA camps. [[00:05:14](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=314.08000000000004s)]
+*  This was money that we were paying. Yeah. [[00:05:20](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=320.2s)]
+*  That they were giving to them. So the Bidens had it backwards. [[00:05:23](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=323.56s)]
+*  They held back the weapons but gave the aid to Gaza. [[00:05:26](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=326.40000000000003s)]
+*  That's not the problem. It's like the opposite of what should have happened. [[00:05:29](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=329.40000000000003s)]
+*  Right. So I want the opposite of nuance. [[00:05:32](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=332.20000000000005s)]
+*  Let's go to Jesse. [[00:05:34](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=334.40000000000003s)]
+*  Magazizstan. Do you think it's going to happen? [[00:05:36](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=336.40000000000003s)]
+*  Is it a negotiation tactic? [[00:05:39](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=339.20000000000005s)]
+*  It is because there's a grand bargain. What to do with the Palestinians. [[00:05:41](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=341.36s)]
+*  You do the displacement and the rebuild, but you also work in. [[00:05:45](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=345.0s)]
+*  You want to redo the diplomacy between Saudis and the Israelis. [[00:05:49](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=349.96000000000004s)]
+*  And you also have to deal with the Iranian nuclear weapons. [[00:05:54](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=354.12s)]
+*  So it's all one big negotiation. [[00:05:57](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=357.04s)]
+*  I don't know how it plays in, but as Janine said, they cannot peacefully coexist. [[00:06:00](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=360.32s)]
+*  The two-state solution, living side by side, it's an unrealistic expectation. [[00:06:05](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=365.47999999999996s)]
+*  So this, Gazizstan, is the only alternative. [[00:06:11](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=371.71999999999997s)]
+*  I'm not saying it's the answer, but right now it is the only alternative that's realistic. [[00:06:16](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=376.84s)]
+*  So until the Arab powers come with their idea, this is the only idea at play right now. [[00:06:21](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=381.76s)]
+*  I love the deadline, Greg. I love having deadlines. [[00:06:28](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=388.48s)]
+*  You saw how great deadlines were with tariff threats. [[00:06:31](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=391.36s)]
+*  Now there's a military threat to back that up. [[00:06:33](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=393.56s)]
+*  And Hamas could miscalculate because they want to stretch the negotiation. [[00:06:36](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=396.56s)]
+*  Once they give away all the hostages, they don't have any more bargaining chips than the ceasefires over. [[00:06:40](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=400.68s)]
+*  And anything could happen. [[00:06:47](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=407.12s)]
+*  So if they're going to test the Israelis and the Americans, the Americans and the Israelis have to understand [[00:06:48](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=408.68s)]
+*  if they're going to enforce them blowing off this deadline, they're going to have to risk, [[00:06:54](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=414.44s)]
+*  possibly risking the lives of the hostages by going in with heavy strikes. [[00:07:01](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=421.03999999999996s)]
+*  Are they willing to take that risk? I don't know. [[00:07:05](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=425.67999999999995s)]
+*  But the Arab world, the Europeans, the media, they're not pressuring us. [[00:07:07](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=427.96s)]
+*  They're not pressuring the Israelis. We have a free hand here. [[00:07:15](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=435.4s)]
+*  But this this population in Palestine is hostile, uneducated. [[00:07:18](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=438.68s)]
+*  It's even more radicalized than they were at the beginning of this. [[00:07:26](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=446.0s)]
+*  I mean, now they have no homes at all. They're even more hateful of the Israelis. [[00:07:29](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=449.92s)]
+*  And their birth rate is explosive. [[00:07:35](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=455.2s)]
+*  The average Palestinian woman has five and a half babies. [[00:07:37](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=457.88s)]
+*  The average Israeli woman has only two and a half babies. [[00:07:41](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=461.76s)]
+*  So demographically, they're a threat, not to mention the national security threat. [[00:07:46](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=466.04s)]
+*  There is no way you can have these two peoples living side by side. [[00:07:51](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=471.84000000000003s)]
+*  Interesting. All right, Richard, close this out. [[00:07:56](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=476.72s)]
+*  What is going to happen on Saturday? Give us your prediction. [[00:07:59](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=479.32000000000005s)]
+*  I don't know, but I do hope that Hamas does release these hostages and I hope they do it soon. [[00:08:02](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=482.08000000000004s)]
+*  I have a lot of questions about the president's plan to sort of I think he said he's going to make sure that there's peaceful. [[00:08:07](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=487.20000000000005s)]
+*  There's going to be hotels, office, office buildings, et cetera. [[00:08:14](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=494.44s)]
+*  And the reason why I have that is because I think no matter what side of the aisle you're on, we've we've sat at this table, [[00:08:18](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=498.04s)]
+*  you and I, Greg, what we were talking about, Afghanistan and long American deployments. [[00:08:21](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=501.71999999999997s)]
+*  And the ideal of maintaining peace in this region to me sounds like the beginning of a long American deployment. [[00:08:25](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=505.88s)]
+*  I want to know who's going to rebuild it. I want to know who's going to pay for it. [[00:08:32](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=512.72s)]
+*  I want to know how we're going to enforce the peace. [[00:08:36](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=516.2s)]
+*  I want to know how long we're going to enforce the peace. [[00:08:39](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=519.68s)]
+*  And I want to know if it's going to be another long American deployment to make that happen, [[00:08:42](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=522.56s)]
+*  because I think whether no matter what side you live, no matter how old you are, [[00:08:45](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=525.8s)]
+*  I don't want to see more American troops over there. Because to Jesse's point, [[00:08:48](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=528.72s)]
+*  you have two group of people who do not like each other, who one group is more radicalized. [[00:08:51](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=531.6s)]
+*  I think the Netanyahu government does not like the Palestinians. [[00:08:56](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=536.48s)]
+*  I think we're in a world in which the ideal of maintaining that peace will require a long American deployment. [[00:08:59](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=539.56s)]
+*  And I don't know if I like that. [[00:09:04](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=544.24s)]
+*  All right. Up next, President Trump is making the IRS audit the border. [[00:09:06](https://www.youtube.com/watch?v=9jSvtm2ft_g&t=546.4399999999999s)]

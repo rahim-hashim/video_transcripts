@@ -1,0 +1,151 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 273s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'natalie morales', 'dont say gay bill', 'desantis disney', 'reedy creek improvement district', 'tucker monologue', 'tucker monologue tonight', 'tucker tonight', 'tucker reacts', 'ronald desantis', 'florida governor actions', 'tallahassee state house']
+Video Views: 2732853
+Video Rating: None
+Video Description: Florida governor sounds off on 'Tucker Carlson Tonight' after eliminating the Reedy Creek Improvement District. #foxnews #tucker
+
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/lon...
+Special Report with Bret Baier: http://video.foxnews.com/playlist/lon...
+Fox News Primetime: https://video.foxnews.com/playlist/on...
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/lon...
+Hannity:  http://video.foxnews.com/playlist/lon...
+The Ingraham Angle: http://video.foxnews.com/playlist/lon...
+Fox News @ Night: http://video.foxnews.com/playlist/lon...
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# DeSantis responds to critics after signing bill ending Disney autonomy
+**Fox News - Tucker Carlson:** [April 22, 2022](https://www.youtube.com/watch?v=p-ZgrIt2KUs)
+*  But here are the new rules. [[00:00:00](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=0.0s)]
+*  If you would like a big publicly held corporation [[00:00:01](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=1.6s)]
+*  to pay its taxes, then you're a child rapist. [[00:00:04](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=4.94s)]
+*  Obviously you're a racist. [[00:00:08](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=8.64s)]
+*  You're like Putin, which means you're a fascist. [[00:00:10](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=10.14s)]
+*  But you know what else you are? [[00:00:11](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=11.98s)]
+*  According to Joy Reid, you're a communist. [[00:00:13](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=13.58s)]
+*  Ron DeSantis is, quote, [[00:00:16](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=16.82s)]
+*  taking us back to the Soviet Union. [[00:00:17](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=17.98s)]
+*  You're a communist, [[00:00:19](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=19.76s)]
+*  if you want the company to pay its taxes. [[00:00:21](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=21.580000000000002s)]
+*  Now Joy Reid went to Harvard, [[00:00:23](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=23.1s)]
+*  so we're not gonna disagree with her. [[00:00:24](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=24.46s)]
+*  But we did feel a moral obligation [[00:00:25](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=25.86s)]
+*  to check that fact, because it's a heavy claim. [[00:00:27](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=27.36s)]
+*  So joining us tonight to confirm or deny these charters [[00:00:29](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=29.400000000000002s)]
+*  is comrade Ron DeSantis, who is also the governor of Florida. [[00:00:32](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=32.14s)]
+*  Governor, thanks so much for coming on tonight. [[00:00:35](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=35.54s)]
+*  So I can't tell whether you're a racist, [[00:00:37](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=37.58s)]
+*  a communist, a fascist, [[00:00:40](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=40.34s)]
+*  for wanting a big publicly held corporation [[00:00:41](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=41.980000000000004s)]
+*  to pay its taxes. [[00:00:44](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=44.38s)]
+*  How would you describe yourself? [[00:00:45](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=45.32s)]
+*  Well, it's interesting, Tucker. [[00:00:48](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=48.68s)]
+*  Not only pay taxes, I mean, [[00:00:49](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=49.66s)]
+*  this company had a deal, [[00:00:51](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=51.32s)]
+*  unlike any company or any individual [[00:00:53](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=53.400000000000006s)]
+*  in all of the state of Florida, [[00:00:56](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=56.46s)]
+*  and probably anywhere in the United States, [[00:00:57](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=57.82s)]
+*  they were self-governing, [[00:00:59](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=59.699999999999996s)]
+*  they had extraordinary powers, [[00:01:01](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=61.16s)]
+*  they could build nuclear power plants, [[00:01:02](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=62.96s)]
+*  they didn't have to go through permitting processes, [[00:01:05](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=65.0s)]
+*  obviously a lot of tax benefits. [[00:01:07](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=67.2s)]
+*  And so that's just inappropriate. [[00:01:08](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=68.8s)]
+*  And it's certainly inappropriate when you look, [[00:01:10](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=70.6s)]
+*  as you, I think, did a great job pointing out, [[00:01:12](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=72.74s)]
+*  they pledged themselves to mobilize [[00:01:15](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=75.1s)]
+*  their considerable corporate resources [[00:01:17](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=77.8s)]
+*  out of the coffers of this Burbank, [[00:01:20](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=80.34s)]
+*  California-based corporation, [[00:01:22](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=82.24s)]
+*  to overturn the rights of parents [[00:01:24](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=84.38s)]
+*  in the state of Florida, [[00:01:26](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=86.94s)]
+*  and effectively commandeer our democratic process. [[00:01:27](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=87.94s)]
+*  And so that obviously is something [[00:01:31](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=91.32000000000001s)]
+*  that we very much objected to. [[00:01:33](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=93.16s)]
+*  And then you also have those videos that you showed [[00:01:35](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=95.22s)]
+*  where you have all these higher-ups in Disney [[00:01:37](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=97.96000000000001s)]
+*  talking about how it was their intent [[00:01:40](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=100.02s)]
+*  to inject sexuality in the programming [[00:01:42](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=102.62s)]
+*  that goes to young kids. [[00:01:45](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=105.16s)]
+*  I got a five-year-old, a four-year-old, [[00:01:46](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=106.2s)]
+*  and a two-year-old at home, Tucker. [[00:01:47](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=107.66s)]
+*  I want them to be able to watch cartoons [[00:01:49](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=109.24000000000001s)]
+*  without having this stuff jammed down their throats. [[00:01:51](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=111.44s)]
+*  And so it was appropriate to have done this originally, [[00:01:54](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=114.06s)]
+*  three years ago, whatever, [[00:01:57](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=117.96000000000001s)]
+*  but it's certainly appropriate to make them live [[00:01:59](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=119.56s)]
+*  under the same laws as everybody else [[00:02:01](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=121.88000000000001s)]
+*  in the state of Florida. [[00:02:04](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=124.14s)]
+*  Well, yes, and it's a little weird coming from people [[00:02:05](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=125.2s)]
+*  who devote their programming to defending, quote, democracy. [[00:02:07](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=127.14s)]
+*  So you've been elected by the voters of Florida. [[00:02:11](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=131.24s)]
+*  You're standing for election very soon in November, [[00:02:13](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=133.82s)]
+*  and we'll see how you do. [[00:02:16](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=136.28s)]
+*  But you're a product of democracy. [[00:02:17](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=137.78s)]
+*  Bob Chapik and Bob Iger were elected by nobody, [[00:02:19](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=139.76s)]
+*  so why wouldn't democracy defenders be on the side [[00:02:22](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=142.42000000000002s)]
+*  of the legislative process over corporate fiat? [[00:02:24](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=144.98000000000002s)]
+*  Because I think what the left has come to [[00:02:29](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=149.6s)]
+*  is all they want to see is power exercised [[00:02:31](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=151.4s)]
+*  in advance of their leftist agenda. [[00:02:34](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=154.26s)]
+*  So yes, they used to be hostile to big corporations [[00:02:36](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=156.24s)]
+*  because I think they perceived those corporations [[00:02:38](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=158.96s)]
+*  as being apolitical [[00:02:41](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=161.4s)]
+*  and that they wouldn't support their agenda. [[00:02:42](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=162.78s)]
+*  Now they figured out that they can try to subcontract out [[00:02:44](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=164.5s)]
+*  their leftism to some of these big corporations [[00:02:48](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=168.02s)]
+*  and some of the executives will cave to the woke mob [[00:02:50](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=170.86s)]
+*  and then they'll basically do the left's dirty work. [[00:02:54](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=174.26s)]
+*  Tucker, they're not gonna win elections in Florida [[00:02:56](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=176.36s)]
+*  if they're actually running on injecting transgender ideology [[00:02:58](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=178.62s)]
+*  into second grade classrooms, and they know that. [[00:03:02](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=182.5s)]
+*  So their hope was getting Disney involved in that [[00:03:04](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=184.36s)]
+*  would somehow get me to back down from signing the bill. [[00:03:07](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=187.34s)]
+*  Well, that was a bad judgment in their part [[00:03:11](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=191.04s)]
+*  because of course we weren't gonna back down an inch. [[00:03:14](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=194.04s)]
+*  It's a little weird [[00:03:16](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=196.56s)]
+*  because there are a bunch of Republican governors [[00:03:17](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=197.4s)]
+*  in the country. [[00:03:19](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=199.04s)]
+*  There's actually a Republican governor [[00:03:19](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=199.88s)]
+*  that sits over one of the most evenly divided states. [[00:03:20](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=200.72s)]
+*  It's a Republican state, but just barely. [[00:03:23](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=203.07999999999998s)]
+*  Overwhelmingly Republican states in the West, like Utah, [[00:03:25](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=205.04s)]
+*  their governors have done nothing like this. [[00:03:28](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=208.92s)]
+*  They haven't fought back at all. [[00:03:30](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=210.6s)]
+*  Why is that, do you think? [[00:03:31](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=211.64s)]
+*  You know, I don't know, Tucker. [[00:03:35](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=215.44s)]
+*  I mean, I think the way I view it is, [[00:03:36](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=216.32s)]
+*  is you have the media class, [[00:03:38](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=218.0s)]
+*  you have kind of the Twitter class, [[00:03:40](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=220.01999999999998s)]
+*  you have some of these people [[00:03:41](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=221.88s)]
+*  and that's a distorted view of reality. [[00:03:43](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=223.44s)]
+*  And you actually need to talk to people [[00:03:45](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=225.92s)]
+*  who aren't always on those outlets [[00:03:48](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=228.04s)]
+*  and listen to what they have to say. [[00:03:50](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=230.51999999999998s)]
+*  And I can tell you, [[00:03:52](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=232.4s)]
+*  they do not want this woke garbage in our society. [[00:03:53](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=233.51999999999998s)]
+*  They don't want women to be denied the opportunity [[00:03:56](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=236.88s)]
+*  to participate in sports. [[00:03:59](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=239.44s)]
+*  They don't want to see their kids go to kindergarten [[00:04:01](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=241.16s)]
+*  and have this stuff jammed down their throats. [[00:04:04](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=244.28s)]
+*  And so I just stand with the people. [[00:04:06](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=246.04s)]
+*  I stand against a lot of media [[00:04:08](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=248.2s)]
+*  and a lot of big corporations. [[00:04:09](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=249.6s)]
+*  But at the end of the day, I think we have the facts [[00:04:11](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=251.14s)]
+*  and the strength in numbers on our side. [[00:04:13](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=253.88s)]
+*  Yeah, I think you're exactly right. [[00:04:16](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=256.36s)]
+*  Thank you. [[00:04:18](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=258.32s)]
+*  It was great to see you tonight. [[00:04:19](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=259.14s)]
+*  Governor DeSantis of Florida. [[00:04:19](https://www.youtube.com/watch?v=p-ZgrIt2KUs&t=259.98s)]

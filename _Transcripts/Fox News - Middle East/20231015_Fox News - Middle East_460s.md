@@ -1,0 +1,156 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 460s
+Video Keywords: ['israeli war coverage', 'israel hamas war gaza', 'israel hamas war', 'israel at war october 2023', 'israel war', 'israel news', 'israeli hamas war', 'israel war live', 'israeli war coverage live stream', 'israel hamas', 'israel palestine history', 'gaza strip', 'israel gaza', 'middle east', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'iran', 'iran news', 'iran israel war news today', 'iran warning israel', 'iran foreign', 'iran foreign minister', 'iran foreign minister warns israel']
+Video Views: 240861
+Video Rating: None
+Video Description: FOX News' Mike Tobin reports the latest from Israel. #FOXNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Israeli military preps for Gaza attack by air, land, sea
+**Fox News - Middle East:** [October 15, 2023](https://www.youtube.com/watch?v=U-AhnQJx-FU)
+*  The [[00:00:00](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=0.0s)]
+*  scenes from several fronts of the war as fighting in Israel reaches its eighth day. [[00:00:16](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=16.54s)]
+*  This has tens of thousands of Israeli soldiers prepare for a full-scale invasion of Gaza. [[00:00:21](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=21.04s)]
+*  We are just learning that Secretary of State Antony Blinken will return to Israel Monday [[00:00:26](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=26.28s)]
+*  for further talks following a visit to other leaders in the Middle East. [[00:00:30](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=30.64s)]
+*  IDF issuing a statement saying forces are currently preparing to implement a wide range [[00:00:34](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=34.92s)]
+*  of operational offensive plans which can include combined and coordinated strikes from the [[00:00:40](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=40.3s)]
+*  air, land and sea. [[00:00:46](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=46.040000000000006s)]
+*  At least 1,300 Israelis and 29 U.S. citizens have been killed in the fighting so far. [[00:00:48](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=48.88s)]
+*  The New York Times reports that Israeli forces have delayed their initial plans as weather [[00:00:56](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=56.199999999999996s)]
+*  conditions in the area could worsen. [[00:00:59](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=59.63999999999999s)]
+*  Meanwhile, a second U.S. aircraft carrier is on its way to the Mediterranean Sea in [[00:01:02](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=62.44s)]
+*  what Defense Secretary Lloyd Austin calls a show of force as the U.S. continues to affirm [[00:01:06](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=66.92s)]
+*  its support for Israel. [[00:01:12](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=72.92s)]
+*  Despite that, Iran is now warning Israel to stop the fighting immediately, saying any [[00:01:15](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=75.03999999999999s)]
+*  further action they take will cause a quote, huge earthquake for Israel if the operation [[00:01:20](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=80.12s)]
+*  in Gaza continues. [[00:01:26](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=86.08s)]
+*  And now let's get to Mike Tobin on the ground in southern Israel with the latest. [[00:01:29](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=89.2s)]
+*  Mike? [[00:01:33](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=93.36s)]
+*  Well, with troops at the ready, good morning, gang. [[00:01:34](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=94.36s)]
+*  With troops at the ready and so much anticipation that the ground offensive would have started [[00:01:37](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=97.8s)]
+*  by now, you can see the artillery sits behind me at the moment. [[00:01:41](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=101.52s)]
+*  The guns are quiet and the ground offensive did not materialize. [[00:01:45](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=105.16s)]
+*  You've seen the reporting from the New York Times saying that the weather was the reason [[00:01:48](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=108.68s)]
+*  that the troops didn't go in, that the drones and the other aircraft wouldn't be able to [[00:01:52](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=112.24s)]
+*  spot as much detail on the ground. [[00:01:55](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=115.64s)]
+*  What I'm getting from the sources, weather is just one of the factors. [[00:01:57](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=117.64s)]
+*  They really want to optimize all of the factors before they move in and minimize the risk [[00:02:00](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=120.84s)]
+*  to the soldiers who are accompanying all the armor that's going to be part of this anticipated [[00:02:06](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=126.44s)]
+*  ground offensive. [[00:02:11](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=131.94s)]
+*  Still, the Israeli aircraft continue to pummel targets overnight. [[00:02:12](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=132.94s)]
+*  Israel claims they got another high-value target, an individual named Bilal al-Kendra. [[00:02:17](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=137.24s)]
+*  They say that he is a part of this Nukba. [[00:02:21](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=141.84s)]
+*  They call him a naval commando force that was central in the planning of this October [[00:02:25](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=145.92s)]
+*  7th massacre. [[00:02:30](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=150.44s)]
+*  Specifically, they say that Bilal al-Kendra was responsible for planning the attack at [[00:02:31](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=151.44s)]
+*  Kibbutz Nireem. [[00:02:36](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=156.64s)]
+*  This is the third high-value target that Israel says they've got by airstrikes over the last [[00:02:38](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=158.16s)]
+*  three days. [[00:02:43](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=163.44s)]
+*  Other operatives with Hamas and Islamic Jihad have also been killed, according to Israel, [[00:02:44](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=164.84s)]
+*  with 100 airstrikes conducted overnight. [[00:02:50](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=170.72s)]
+*  The northern border is still extremely tense. [[00:02:53](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=173.48s)]
+*  Rockets came across the border overnight. [[00:02:56](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=176.48s)]
+*  There was a strike in a town called Shtula. [[00:02:58](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=178.83999999999997s)]
+*  In that town, an Israeli Arab, meaning an Arab man with Israeli citizenship, was killed. [[00:03:02](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=182.04s)]
+*  He was working on the farms up there. [[00:03:07](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=187.48s)]
+*  He was killed. [[00:03:09](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=189.23999999999998s)]
+*  Two others were injured. [[00:03:10](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=190.23999999999998s)]
+*  Dozens of rockets continued to fly over that border. [[00:03:12](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=192.07999999999998s)]
+*  Israel has responded. [[00:03:15](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=195.11999999999998s)]
+*  Thus far, that hasn't melted down into another front. [[00:03:16](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=196.11999999999998s)]
+*  We sit here watching the Gaza border in the south of the country as these soldiers are [[00:03:19](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=199.64s)]
+*  waiting to get their orders. [[00:03:24](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=204.39999999999998s)]
+*  You saw they got the visit from Prime Minister Benjamin Netanyahu yesterday telling them [[00:03:26](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=206.04s)]
+*  that the next stage is coming. [[00:03:30](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=210.85999999999999s)]
+*  So far, the order has not come. [[00:03:32](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=212.54s)]
+*  Guys, back to you in New York. [[00:03:34](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=214.27999999999997s)]
+*  Mike, you said it's a multitude of factors, weather being one of them, but it's also, [[00:03:35](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=215.76s)]
+*  it's got to be evacuation of folks in northern Gaza, which we've seen disrupted by Hamas [[00:03:40](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=220.95999999999998s)]
+*  at many levels. [[00:03:47](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=227.27999999999997s)]
+*  And also, the coordination it takes to bring in that many troops and do it effectively [[00:03:48](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=228.68s)]
+*  and move in decisively. [[00:03:52](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=232.5s)]
+*  Comment on any of that, but also I've heard reports that the rules of engagement for Israeli [[00:03:55](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=235.36s)]
+*  soldiers have been loosened a little bit in the expectation that when they go into north [[00:03:59](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=239.68s)]
+*  Gaza, they're going in against anyone there is someone that can be considered an enemy. [[00:04:03](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=243.8s)]
+*  Can you report on any of that? [[00:04:09](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=249.24s)]
+*  Well, one of the things that we've seen with Israel in the past, when they go into the [[00:04:11](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=251.04s)]
+*  Gaza Strip, they'll lay down a bunch of scorched earth with the idea that anyone who's not [[00:04:16](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=256.56s)]
+*  a combatant would leave. [[00:04:21](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=261.64s)]
+*  They've issued this warning telling anyone who's not a combatant to leave. [[00:04:23](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=263.56s)]
+*  We do know that there still is personnel in the northern end of the Gaza Strip, meaning [[00:04:27](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=267.08s)]
+*  Hamas or Islamic Jihad fighting personnel, because the rockets continue to come out. [[00:04:30](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=270.96s)]
+*  We know that there's a network of tunnels. [[00:04:36](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=276.08s)]
+*  We know that they anticipate that as the Israeli front line advances, there's the potential [[00:04:38](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=278.12s)]
+*  that fighters could pop up behind them and attack from the rear because of the tunnels. [[00:04:43](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=283.64000000000004s)]
+*  They do have a great deal of intelligence about the tunnels, but you have to doubt that [[00:04:47](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=287.96000000000004s)]
+*  they've exhausted all of the intelligence about the tunnels. [[00:04:52](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=292.12s)]
+*  But we've seen in the past, even with fighting in the West Bank, as these radical Islamic [[00:04:55](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=295.8s)]
+*  fighters retreat, they leave behind booby traps. [[00:05:01](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=301.76s)]
+*  So it's fraught with peril as the Israelis prepare to go in, and they're trying to do [[00:05:04](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=304.68s)]
+*  everything they can to minimize the risk to their own troops. [[00:05:08](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=308.96000000000004s)]
+*  No doubt. [[00:05:12](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=312.76000000000005s)]
+*  All right, Mike Tobin, thank you so much. [[00:05:13](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=313.76000000000005s)]
+*  Mike, thank you. [[00:05:15](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=315.68s)]
+*  We'll check in with you a little bit later in the show. [[00:05:16](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=316.68s)]
+*  I do want to bring up, you know, talking about Gaza. [[00:05:18](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=318.32000000000005s)]
+*  I don't think this is the type of analysis that should lead to paralysis, but it's always [[00:05:22](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=322.72s)]
+*  important to understand and ask yourself what comes next. [[00:05:28](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=328.44000000000005s)]
+*  And we probably did not sufficiently have an answer to that question before we went [[00:05:32](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=332.12s)]
+*  into Afghanistan. [[00:05:35](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=335.6s)]
+*  Or Ukraine. [[00:05:36](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=336.6s)]
+*  And that you brought it up earlier, Pete. [[00:05:37](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=337.96000000000004s)]
+*  What happens next in Gaza has got to be part of the conversation today, at least for the [[00:05:39](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=339.88s)]
+*  government of Israel. [[00:05:45](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=345.52s)]
+*  Meaning, occupy true occupation, not what is called now an occupation. [[00:05:47](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=347.0s)]
+*  Turn it back over. [[00:05:54](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=354.24s)]
+*  Turn it over to who? [[00:05:55](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=355.28s)]
+*  Because Hamas is the ruling, essentially, government of Gaza. [[00:05:57](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=357.08s)]
+*  And the point is to cut out Hamas, like a cancer. [[00:06:01](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=361.08s)]
+*  Then what comes next? [[00:06:04](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=364.24s)]
+*  All of these questions are very monumental about what happens. [[00:06:05](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=365.8s)]
+*  I mean, the task of an invasion and a hostage rescue and all of that is monumental. [[00:06:09](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=369.88s)]
+*  And it probably pales into comparison of the task that follows. [[00:06:14](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=374.76s)]
+*  And all of that does, you're exactly right, all of that does impact how you move through [[00:06:18](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=378.24s)]
+*  in the first place as well. [[00:06:22](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=382.64s)]
+*  But I've read multiple reports and heard from people that say, it's this all happened so [[00:06:24](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=384.2s)]
+*  fast that there hasn't been a full reckoning with what the next phase looks like. [[00:06:27](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=387.68s)]
+*  And I think part of it might be what kind of resistance they face and what kind of combat [[00:06:35](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=395.38s)]
+*  they encounter, how the hostage situation unfolds. [[00:06:39](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=399.98s)]
+*  So I don't know that they know what that end state is right now. [[00:06:43](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=403.86s)]
+*  You don't always have the convenience of knowing what that looks like. [[00:06:46](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=406.18s)]
+*  Rooting out Hamas, I mean, you're right, the elected, well, now the permanent government [[00:06:50](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=410.58s)]
+*  there, but also a terrorist organization that's killed 1,300 of your citizens, innocents. [[00:06:55](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=415.38s)]
+*  I don't know that they've thought it all through, nor had the opportunity. [[00:07:01](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=421.1s)]
+*  And for the role of Iran in this, who is now saying, if you do, if you go into Gaza with [[00:07:04](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=424.3s)]
+*  ground forces, we're going to get involved as well. [[00:07:08](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=428.86s)]
+*  And they said we're going to cause an earthquake for Israel. [[00:07:12](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=432.09999999999997s)]
+*  Then the question then becomes, how does that impact America? [[00:07:15](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=435.9s)]
+*  Do we end up getting involved and drawn into this? [[00:07:19](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=439.9s)]
+*  After all, we have some hostages that are Americans and also those killed. [[00:07:22](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=442.46s)]
+*  So it is very complicated. [[00:07:27](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=447.97999999999996s)]
+*  And thinking ahead, I'm so glad you brought that up. [[00:07:30](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=450.14s)]
+*  What comes next? [[00:07:32](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=452.86s)]
+*  Because it could be World War III. [[00:07:33](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=453.98s)]
+*  So it's something that we need to really do cautiously. [[00:07:37](https://www.youtube.com/watch?v=U-AhnQJx-FU&t=457.02000000000004s)]

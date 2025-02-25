@@ -1,0 +1,156 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 322s
+Video Keywords: ['Biden Russian invasion', 'Russia Ukraine war', 'Russian invasion', 'Russian invasion Tucker', 'Tucker Russia', 'Tucker Russian invasion', 'Tucker Ukraine', 'Ukraine', 'Ukraine war Tucker', 'conflicts', 'war', 'war in Ukraine', 'carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight']
+Video Views: 1781474
+Video Rating: None
+Video Description: Fox News host gives his take on the Russian invasion of Ukraine on ‘Tucker Carlson Tonight.’ #FoxNews #Fox #Tucker
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Tucker: This is insulting
+**Fox News - Tucker Carlson:** [March 30, 2022](https://www.youtube.com/watch?v=m0x6BXCi7TM)
+*  Good evening and welcome to Tucker Carlson tonight. [[00:00:00](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=0.0s)]
+*  When the Russian military invaded Ukraine last month, [[00:00:02](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=2.5s)]
+*  the most highly credentialed people in the world [[00:00:05](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=5.5s)]
+*  seemed stunned by it. [[00:00:08](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=8.4s)]
+*  And that was not very reassuring to the rest of us. [[00:00:09](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=9.74s)]
+*  Quote, it was a shock to many of the leading experts [[00:00:11](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=11.8s)]
+*  and policymakers in the United States, Europe, [[00:00:14](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=14.68s)]
+*  and even Ukraine, explained a fellow expert [[00:00:16](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=16.88s)]
+*  and policymaker at the Atlantic Council. [[00:00:19](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=19.88s)]
+*  Quote, the head of German intelligence [[00:00:21](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=21.68s)]
+*  was so caught off guard that he was still in Kiev [[00:00:23](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=23.66s)]
+*  and had to be evacuated. [[00:00:25](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=25.96s)]
+*  That's pretty weird if you think about it [[00:00:28](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=28.36s)]
+*  because for weeks, Joe Biden had been speaking [[00:00:30](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=30.28s)]
+*  in a very loud voice about a potential Russian invasion [[00:00:32](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=32.519999999999996s)]
+*  of Ukraine. [[00:00:35](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=35.2s)]
+*  They seemed ready for it. [[00:00:36](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=36.019999999999996s)]
+*  And yet it turns out that nobody in Washington, [[00:00:37](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=37.519999999999996s)]
+*  including Biden himself, [[00:00:39](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=39.9s)]
+*  really thought it was going to happen. [[00:00:41](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=41.04s)]
+*  And when it did happen, official Washington concluded [[00:00:43](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=43.6s)]
+*  that Putin must be insane. [[00:00:46](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=46.16s)]
+*  The casual speculation about Vladimir Putin's mental state [[00:00:48](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=48.7s)]
+*  has become more serious, wrote National Review. [[00:00:51](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=51.32s)]
+*  In other words, there's a reason, a good reason, [[00:00:54](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=54.239999999999995s)]
+*  and none of us saw this coming. [[00:00:56](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=56.62s)]
+*  Putin just snapped. [[00:00:58](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=58.28s)]
+*  He's irrational and impossible to predict. [[00:00:59](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=59.48s)]
+*  A lot of people took that at face value, [[00:01:02](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=62.739999999999995s)]
+*  but you had to notice that like most explanations [[00:01:04](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=64.14s)]
+*  you hear in Washington, it was self-exculpatory. [[00:01:06](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=66.17999999999999s)]
+*  It was more an excuse than an analysis. [[00:01:09](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=69.1s)]
+*  In fact, Putin may well be crazy, [[00:01:12](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=72.22s)]
+*  but it's fair to assume there was more to the invasion [[00:01:13](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=73.86s)]
+*  of Ukraine than a single psychiatric episode. [[00:01:16](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=76.03999999999999s)]
+*  And at this point, it would be nice to know [[00:01:18](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=78.82s)]
+*  exactly what it is, what happened and why. [[00:01:20](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=80.38s)]
+*  Why did the Russians do this? [[00:01:23](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=83.06s)]
+*  It's not treasonous to ask that, it's essential. [[00:01:25](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=85.58s)]
+*  You can't make wise decisions about the future [[00:01:28](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=88.76s)]
+*  without understanding what just happened. [[00:01:31](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=91.08s)]
+*  It's a prerequisite. [[00:01:33](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=93.1s)]
+*  But our leaders so far have refused to do that. [[00:01:34](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=94.66s)]
+*  They keep lying to themselves. [[00:01:36](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=96.98s)]
+*  They're imposing censorship on the rest of us. [[00:01:38](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=98.22s)]
+*  They're forcing the entire American population [[00:01:40](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=100.56s)]
+*  to mouth childish slogans about good versus evil. [[00:01:42](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=102.58s)]
+*  It's insulting, but worse, it's not helpful. [[00:01:45](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=105.68s)]
+*  This is not how nations survive complex moments like this. [[00:01:48](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=108.7s)]
+*  Crisis demands crystal clear thinking. [[00:01:52](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=112.6s)]
+*  So now is the moment to ignore the people [[00:01:56](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=116.11999999999999s)]
+*  who've been consistently wrong, [[00:01:58](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=118.03999999999999s)]
+*  and instead listen carefully to the people [[00:01:59](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=119.91999999999999s)]
+*  who've gotten it right in the past, [[00:02:01](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=121.83999999999999s)]
+*  the ones who saw the Ukraine war coming [[00:02:03](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=123.75999999999999s)]
+*  and said so out loud. [[00:02:05](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=125.64s)]
+*  Those are the people you should be listening to, [[00:02:07](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=127.52s)]
+*  and one of them is Nigel Farage. [[00:02:08](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=128.79999999999998s)]
+*  Nobody would call Farage a stooge of Vladimir Putin, [[00:02:11](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=131.0s)]
+*  just the opposite. [[00:02:13](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=133.79999999999998s)]
+*  Farage is a nationalist. [[00:02:14](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=134.95999999999998s)]
+*  He cares about his own countries devoted his life to it. [[00:02:16](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=136.2s)]
+*  In his case, his country is Great Britain, [[00:02:19](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=139.04s)]
+*  whose long-term interests have been gravely damaged [[00:02:20](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=140.8s)]
+*  by the Russian invasion and by the West's response to it. [[00:02:23](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=143.04000000000002s)]
+*  The same is true, unfortunately, of our country. [[00:02:25](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=145.92000000000002s)]
+*  The US has never had a president as reckless as Joe Biden is. [[00:02:27](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=147.78s)]
+*  We're gonna pay the price for that for a long time. [[00:02:30](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=150.8s)]
+*  But Nigel Farage, had you asked him, [[00:02:33](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=153.32000000000002s)]
+*  could have predicted all of this. [[00:02:35](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=155.0s)]
+*  In fact, he did predict it back in 2014 [[00:02:36](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=156.72s)]
+*  as the leader of the UK Independence Party. [[00:02:40](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=160.0s)]
+*  Farage gave a speech to the European Parliament that year, [[00:02:42](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=162.84s)]
+*  which unfortunately we just saw yesterday. [[00:02:45](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=165.24s)]
+*  In retrospect, his words seem prophetic. [[00:02:47](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=167.76s)]
+*  Farage understood what would happen [[00:02:51](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=171.0s)]
+*  because he saw clearly what had already taken place. [[00:02:53](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=173.12s)]
+*  Watch this carefully. [[00:02:56](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=176.2s)]
+*  We think you'll agree it's an analysis worth hearing. [[00:02:57](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=177.35999999999999s)]
+*  Here's Nigel Farage eight years ago on Ukraine. [[00:03:00](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=180.16s)]
+*  Most of the long lists of foreign policy failures [[00:03:04](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=184.84s)]
+*  and contradictions in the last few years, [[00:03:06](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=186.84s)]
+*  including of course the bombing of Libya, [[00:03:08](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=188.89999999999998s)]
+*  the desire to arm the rebels in Syria, [[00:03:11](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=191.16s)]
+*  has been the unnecessary provocation of Vladimir Putin. [[00:03:13](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=193.32s)]
+*  This EU empire ever seeking to expand [[00:03:17](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=197.8s)]
+*  stated its territorial claim on the Ukraine some years ago. [[00:03:20](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=200.52s)]
+*  Just to make that worse, of course, [[00:03:24](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=204.88s)]
+*  some NATO members said they too would like the Ukraine [[00:03:26](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=206.44s)]
+*  to join NATO. [[00:03:30](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=210.32s)]
+*  We directly encouraged the uprising in the Ukraine [[00:03:31](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=211.66s)]
+*  that led to the toppling of the president Yanukovych. [[00:03:35](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=215.52s)]
+*  And that led of course in turn [[00:03:39](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=219.74s)]
+*  to Vladimir Putin reacting. [[00:03:41](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=221.64s)]
+*  And the moral of the story is if you poke the Russian bear [[00:03:43](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=223.92s)]
+*  with a stick, don't be surprised when he reacts. [[00:03:47](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=227.4s)]
+*  Now, just to continue with that, [[00:03:51](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=231.29999999999998s)]
+*  today we are rushing through an association agreement, [[00:03:54](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=234.42s)]
+*  an undue speed with the Ukraine. [[00:03:58](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=238.1s)]
+*  And as we speak, there are NATO soldiers engaged [[00:04:00](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=240.4s)]
+*  in military exercises in the Ukraine. [[00:04:04](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=244.16s)]
+*  Have we taken leave of our senses? [[00:04:06](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=246.56s)]
+*  Do we actually want to have a war with Putin? [[00:04:09](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=249.44s)]
+*  Because if we do, we're certainly going about it [[00:04:12](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=252.48s)]
+*  the right way. [[00:04:15](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=255.32s)]
+*  Perhaps we ought to recognize that the West now faces [[00:04:16](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=256.46s)]
+*  the biggest threat and crisis to our way of life [[00:04:20](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=260.08s)]
+*  that we have seen for over 70 years. [[00:04:23](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=263.16s)]
+*  The recent beheadings of the British and American hostages [[00:04:26](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=266.5s)]
+*  graphically illustrates the problem. [[00:04:30](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=270.04s)]
+*  And of course we have our own citizens [[00:04:32](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=272.2s)]
+*  from our own countries engaged in that struggle too. [[00:04:33](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=273.8s)]
+*  In the war against Islamic extremism, [[00:04:36](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=276.98s)]
+*  Vladimir Putin, whatever we may think of him [[00:04:40](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=280.06s)]
+*  as a human being, is actually on our side. [[00:04:42](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=282.26s)]
+*  I suggest we grow up. [[00:04:45](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=285.94s)]
+*  I suggest we recognize the real threat [[00:04:47](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=287.86s)]
+*  facing all of our countries, communities, and societies. [[00:04:50](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=290.42s)]
+*  We stop playing war games in the Ukraine [[00:04:53](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=293.92s)]
+*  and we start to prepare a plan to help countries [[00:04:56](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=296.76s)]
+*  like Syria, like Iraq, like Kenya, like indeed Nigeria, [[00:04:59](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=299.86s)]
+*  to try and help them to deal with the real threat [[00:05:04](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=304.12s)]
+*  that faces us. [[00:05:06](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=306.42s)]
+*  Let's not go on provoking Putin, [[00:05:07](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=307.26s)]
+*  whether we like him or not. [[00:05:09](https://www.youtube.com/watch?v=m0x6BXCi7TM&t=309.5s)]

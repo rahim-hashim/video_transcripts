@@ -1,0 +1,158 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 299s
+Video Keywords: ['fox news', 'fox news channel live now', 'fox news channel today', 'fox news channel live streaming now', 'fox news channel', 'fnc', 'tucker carlson', 'tucker carlson tonight', 'kyle rittenhouse trial', 'kyle rittenhouse not guilty', 'kyle rittenhouse tucker', 'kyle rittenhouse', 'defamation lawsuit', 'defamation lawyer', 'kyle rittenhouse self defense', 'kyle rittenhouse reaction', 'latest news', 'todd mcmurtry attorney', 'todd mcmurtry rittenhouse', 'todd mcmurtry nick sandmann']
+Video Views: 1392310
+Video Rating: None
+Video Description: Kyle Rittenhouse and his lawyer Todd McMurtry join 'Tucker Carlson Tonight' to discuss the action they are taking against the tech companies that 'enabled defamation' against the teenager.
+#FoxNews #Tucker
+
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/lon...
+Special Report with Bret Baier: http://video.foxnews.com/playlist/lon...
+Fox News Primetime: https://video.foxnews.com/playlist/on...
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/lon...
+Hannity:  http://video.foxnews.com/playlist/lon...
+The Ingraham Angle: http://video.foxnews.com/playlist/lon...
+Fox News @ Night: http://video.foxnews.com/playlist/lon...
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Kyle Rittenhouse taking new legal action
+**Fox News - Tucker Carlson:** [June 06, 2022](https://www.youtube.com/watch?v=Q_3kn1NuqnA)
+*  Kamala Harris and other figures in the Democratic Party [[00:00:00](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=0.0s)]
+*  encouraged the mob torching Kenosha, Wisconsin [[00:00:03](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=3.4s)]
+*  in the summer of 2020. [[00:00:07](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=7.12s)]
+*  Kyle Rittenhouse decided to try to defend the city, [[00:00:08](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=8.78s)]
+*  a car lot specifically, [[00:00:11](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=11.56s)]
+*  he was asked by the owner to help defend the car lot [[00:00:12](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=12.92s)]
+*  because the police weren't there. [[00:00:14](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=14.84s)]
+*  He worked in Kenosha, his family's father lived there. [[00:00:16](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=16.32s)]
+*  So he shows up and a child molester tries to murder him [[00:00:19](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=19.28s)]
+*  and Kyle Rittenhouse defends himself. [[00:00:22](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=22.04s)]
+*  Two other people tried to kill him too, one with a gun. [[00:00:25](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=25.240000000000002s)]
+*  So for doing that, [[00:00:27](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=27.78s)]
+*  he was put on trial and charged with murder, he was acquitted. [[00:00:30](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=30.020000000000003s)]
+*  But at the same time, [[00:00:32](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=32.34s)]
+*  virtually every news organization in the country [[00:00:33](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=33.18s)]
+*  defamed him. [[00:00:35](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=35.82s)]
+*  They called him a murderer before the trial had ended [[00:00:37](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=37.02s)]
+*  and they called him repeatedly a white supremacist, [[00:00:39](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=39.46s)]
+*  which he is not. [[00:00:41](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=41.7s)]
+*  Tech platforms enabled that defamation. [[00:00:43](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=43.02s)]
+*  Now Kyle Rittenhouse is taking legal action against them. [[00:00:45](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=45.68000000000001s)]
+*  Kyle Rittenhouse is the founder [[00:00:48](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=48.980000000000004s)]
+*  of the Media Accountability Project. [[00:00:50](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=50.260000000000005s)]
+*  Todd McMurtry is his lawyer. [[00:00:51](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=51.7s)]
+*  They join us now to explain what they're doing. [[00:00:53](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=53.540000000000006s)]
+*  Thanks to you both for coming on. [[00:00:55](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=55.92s)]
+*  Tell us Kyle, good to see you. [[00:00:58](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=58.160000000000004s)]
+*  What action are you taking against the tech companies [[00:01:01](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=61.04s)]
+*  that made this defamation possible? [[00:01:03](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=63.24s)]
+*  Well, we're gonna make the media pay for what they did to me. [[00:01:06](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=66.4s)]
+*  They made it hard for me to live a normal life. [[00:01:09](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=69.0s)]
+*  I can't go out into public, I can't go to the store, [[00:01:11](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=71.2s)]
+*  it's hard for me to go anywhere without security. [[00:01:14](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=74.56s)]
+*  Shoot, doing basic things like taking my dog [[00:01:17](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=77.48s)]
+*  to the dog park is difficult. [[00:01:20](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=80.24000000000001s)]
+*  So they made it really difficult to be normal [[00:01:21](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=81.88s)]
+*  and they affected future job opportunities to me. [[00:01:26](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=86.16000000000001s)]
+*  I don't think I'll ever be able to work or get a job [[00:01:28](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=88.68s)]
+*  because I'm afraid an employer may not hire me. [[00:01:31](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=91.60000000000001s)]
+*  I think that's entirely fair because of the lies [[00:01:35](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=95.16s)]
+*  repeated for over a year by the tech platforms [[00:01:39](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=99.08s)]
+*  that are not journalists, they're soldiers [[00:01:43](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=103.08000000000001s)]
+*  in some sort of weird partisan war they're fighting. [[00:01:45](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=105.94s)]
+*  So what are you doing to rectify this? [[00:01:48](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=108.24000000000001s)]
+*  Well, we're gonna be taking them to court. [[00:01:52](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=112.64s)]
+*  Go ahead, Todd. [[00:01:56](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=116.36s)]
+*  Yeah, sorry. [[00:01:58](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=118.88000000000001s)]
+*  Todd, tell us the legal action. [[00:01:59](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=119.72s)]
+*  Yeah. [[00:02:00](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=120.92s)]
+*  Okay, sure. [[00:02:02](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=122.48s)]
+*  To answer your first question with regard [[00:02:03](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=123.68s)]
+*  to what we plan to do with the tech companies, [[00:02:05](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=125.24000000000001s)]
+*  of course we're looking at those [[00:02:06](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=126.96000000000001s)]
+*  and I think the first one that I'm taking a look at [[00:02:08](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=128.18s)]
+*  is Facebook. [[00:02:10](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=130.06s)]
+*  Mark Zuckerberg announced in a videotape [[00:02:12](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=132.0s)]
+*  that what Kyle was involved in was a mass murder [[00:02:14](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=134.96s)]
+*  and that's clearly defamatory as well. [[00:02:17](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=137.42000000000002s)]
+*  That's not protected by Section 230, [[00:02:19](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=139.88s)]
+*  the Communications Decency Act. [[00:02:21](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=141.82s)]
+*  In my opinion, Section 230 allows you to take down [[00:02:23](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=143.4s)]
+*  violent things or things that people don't wanna hear [[00:02:26](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=146.88s)]
+*  but telling the truth about Kyle is not something [[00:02:30](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=150.48000000000002s)]
+*  that Section 230 enabled Facebook to take down. [[00:02:33](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=153.04000000000002s)]
+*  So that's an example of what we plan to do with tech [[00:02:35](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=155.76s)]
+*  and also plan to do in the defamation arena. [[00:02:38](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=158.70000000000002s)]
+*  And by defamation arena, do you mean [[00:02:41](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=161.68s)]
+*  with so-called news organizations? [[00:02:43](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=163.44s)]
+*  Absolutely. [[00:02:47](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=167.18s)]
+*  I mean, you mentioned some of that on the way in [[00:02:48](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=168.02s)]
+*  and certainly Kyle was charged with a crime, [[00:02:50](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=170.72s)]
+*  news organizations are allowed to report on that [[00:02:53](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=173.52s)]
+*  but calling somebody a murderer in certain circumstances [[00:02:56](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=176.16s)]
+*  can be actionable. [[00:03:00](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=180.04s)]
+*  Other things that media personalities, [[00:03:01](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=181.32s)]
+*  people on social media said were clearly defamatory. [[00:03:05](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=185.04s)]
+*  I think your comment about calling Kyle [[00:03:08](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=188.16s)]
+*  a white supremacist is made up out of thin air. [[00:03:10](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=190.4s)]
+*  I don't know how a media can claim [[00:03:13](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=193.4s)]
+*  that they didn't make a statement made up out of thin air [[00:03:15](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=195.5s)]
+*  without engaging in actual malice [[00:03:17](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=197.68s)]
+*  or most certainly negligence. [[00:03:19](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=199.96s)]
+*  So I think that we have some strong grounds to proceed. [[00:03:21](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=201.56s)]
+*  We're looking at, we're starting to look at all those. [[00:03:25](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=205.24s)]
+*  We're gonna evaluate them and look for opportunities [[00:03:27](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=207.28s)]
+*  to hold the media and to hold tech accountable [[00:03:30](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=210.0s)]
+*  as Kyle's promised. [[00:03:32](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=212.4s)]
+*  So Kyle, when you go into public, [[00:03:33](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=213.88s)]
+*  do people repeat to you things that they saw on social media [[00:03:36](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=216.24s)]
+*  or on say NBC News or CNN? [[00:03:40](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=220.60000000000002s)]
+*  There's been a few people. [[00:03:43](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=223.76000000000002s)]
+*  I've received some harassment [[00:03:44](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=224.8s)]
+*  and thank goodness for my security, [[00:03:46](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=226.36s)]
+*  LT, TC and Kenny and Dave for helping me [[00:03:48](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=228.68s)]
+*  not have to get harassed to make sure that [[00:03:52](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=232.48000000000002s)]
+*  they keep me safe and if somebody does come up to me, [[00:03:55](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=235.84s)]
+*  they make sure that they're not gonna harm me. [[00:03:59](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=239.4s)]
+*  So thank God for them. [[00:04:01](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=241.16000000000003s)]
+*  Yeah. [[00:04:02](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=242.92000000000002s)]
+*  And Todd, really quick, [[00:04:03](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=243.96s)]
+*  how exactly are you gonna go after Zuckerberg? [[00:04:05](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=245.0s)]
+*  Well, I think we're gonna sue A [[00:04:09](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=249.98000000000002s)]
+*  for the defamatory statements that Kyle engaged [[00:04:11](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=251.76s)]
+*  in mass murder and B for violations of section 230 [[00:04:14](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=254.96s)]
+*  by taking down posts that were told the truth about Kyle. [[00:04:18](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=258.4s)]
+*  So in essence, they suppressed the truth [[00:04:21](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=261.48s)]
+*  by taking down truthful posts [[00:04:23](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=263.52s)]
+*  and they did that in violation of section 230. [[00:04:25](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=265.64s)]
+*  That communication decency act [[00:04:28](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=268.4s)]
+*  does not provide that protection. [[00:04:30](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=270.2s)]
+*  Well, that's exactly right. [[00:04:31](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=271.8s)]
+*  It's not just that they defamed him, [[00:04:32](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=272.64s)]
+*  but they also took down any defensive him [[00:04:34](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=274.64s)]
+*  or the facts about him as they did with the vaccines [[00:04:36](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=276.88s)]
+*  and a million other things. [[00:04:39](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=279.08s)]
+*  The war in Ukraine. [[00:04:40](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=280.28s)]
+*  I appreciate what you all are doing. [[00:04:41](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=281.71999999999997s)]
+*  Thank you both. [[00:04:43](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=283.52s)]
+*  Kyle, great to see you. [[00:04:44](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=284.44s)]
+*  Thank you, Todd. [[00:04:45](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=285.26s)]
+*  Thank you, Tucker. [[00:04:46](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=286.71999999999997s)]
+*  Thank you, Tucker. [[00:04:47](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=287.55999999999995s)]
+*  Subscribe to the Fox News YouTube channel [[00:04:48](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=288.76s)]
+*  to catch our nightly opens, [[00:04:51](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=291.09999999999997s)]
+*  stories that are changing the world [[00:04:53](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=293.15999999999997s)]
+*  and changing your life. [[00:04:55](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=295.15999999999997s)]
+*  From Tucker Carlson tonight. [[00:04:56](https://www.youtube.com/watch?v=Q_3kn1NuqnA&t=296.84s)]

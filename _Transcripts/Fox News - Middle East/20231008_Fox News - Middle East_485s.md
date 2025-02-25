@@ -1,0 +1,158 @@
+---
+Date Generated: February 24, 2025
+Transcription Model: whisper medium 20231117
+Length: 485s
+Video Keywords: ['FOX & Friends Weekend', 'FOX News', 'FOX News Channel', 'FOX News alert', 'FOX News media', 'FOX News video', 'Gaza strip', 'Israel', 'Israel Palestine conflict', 'Israel news', 'Israeli Palestinian history', 'Israeli Palestinian onflict', 'Middle East', 'Middle East Israel Palestine', 'Middle East conflict', 'Middle East history', 'Middle East news', 'Middle East tensions', 'Palestine', 'Pete hegseth', 'Will Cain', 'attack', 'history', 'history Middle East', 'terrorism', 'terrorist attack', 'war', 'world', 'world history', 'world news']
+Video Views: 236878
+Video Rating: None
+Video Description: 'FOX & Friends Weekend' hosts Will Cain and Pete Hegseth break down the history of the Israeli-Palestinian conflict as terror in the Middle East continues with no end in sight. #FOXNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Why are Israel and Palestine at odds? Ongoing conflict explained
+**Fox News - Middle East:** [October 08, 2023](https://www.youtube.com/watch?v=O454c_qs5kI)
+*  Hundreds are dead and thousands injured following the horrific Hamas attack against Israel. [[00:00:00](https://www.youtube.com/watch?v=O454c_qs5kI&t=0.0s)]
+*  But the conflict today, as we know, it's been stirring for years. [[00:00:07](https://www.youtube.com/watch?v=O454c_qs5kI&t=7.88s)]
+*  Yeah, so let's go off the ball once more to understand the history and how this started, [[00:00:10](https://www.youtube.com/watch?v=O454c_qs5kI&t=10.84s)]
+*  some of the background between the state of Israel, Palestinians, and how it erupted over [[00:00:16](https://www.youtube.com/watch?v=O454c_qs5kI&t=16.12s)]
+*  this past weekend. [[00:00:21](https://www.youtube.com/watch?v=O454c_qs5kI&t=21.84s)]
+*  In fact, while we come at this very humbly, it's complex and there are different sets [[00:00:22](https://www.youtube.com/watch?v=O454c_qs5kI&t=22.84s)]
+*  of facts. [[00:00:27](https://www.youtube.com/watch?v=O454c_qs5kI&t=27.64s)]
+*  We think a little bit of historical context can help us understand what's going on in [[00:00:28](https://www.youtube.com/watch?v=O454c_qs5kI&t=28.64s)]
+*  Israel. [[00:00:32](https://www.youtube.com/watch?v=O454c_qs5kI&t=32.08s)]
+*  Yeah, you could spend a whole semester at a graduate seminar course attempting to break [[00:00:33](https://www.youtube.com/watch?v=O454c_qs5kI&t=33.08s)]
+*  all this down and understand it. [[00:00:35](https://www.youtube.com/watch?v=O454c_qs5kI&t=35.8s)]
+*  We're going to do it for you in five minutes as best we can. [[00:00:37](https://www.youtube.com/watch?v=O454c_qs5kI&t=37.24s)]
+*  So the area known as Israel now was controlled by the Ottoman Empire for 400 years, hundreds [[00:00:39](https://www.youtube.com/watch?v=O454c_qs5kI&t=39.96s)]
+*  of years. [[00:00:45](https://www.youtube.com/watch?v=O454c_qs5kI&t=45.2s)]
+*  It was a part of that sprawling empire. [[00:00:46](https://www.youtube.com/watch?v=O454c_qs5kI&t=46.2s)]
+*  Of course, the Ottoman Empire joined with the Germans in World War I, and that led to [[00:00:48](https://www.youtube.com/watch?v=O454c_qs5kI&t=48.08s)]
+*  its downfall. [[00:00:51](https://www.youtube.com/watch?v=O454c_qs5kI&t=51.94s)]
+*  That really solidified its downfall. [[00:00:53](https://www.youtube.com/watch?v=O454c_qs5kI&t=53.28s)]
+*  It had begun to fall apart prior to World War I, but the Ottoman Empire was huge and [[00:00:54](https://www.youtube.com/watch?v=O454c_qs5kI&t=54.76s)]
+*  established stability across the entire region from Africa down through the Middle East, [[00:00:59](https://www.youtube.com/watch?v=O454c_qs5kI&t=59.12s)]
+*  Turkey and into Europe. [[00:01:03](https://www.youtube.com/watch?v=O454c_qs5kI&t=63.56s)]
+*  But as Pete pointed out, following World War I, the stability that was provided by the [[00:01:05](https://www.youtube.com/watch?v=O454c_qs5kI&t=65.88s)]
+*  Ottoman Empire disintegrated. [[00:01:10](https://www.youtube.com/watch?v=O454c_qs5kI&t=70.52s)]
+*  And it was replaced by a different form of stability in the British mandate. [[00:01:12](https://www.youtube.com/watch?v=O454c_qs5kI&t=72.44s)]
+*  So the British government showed interest in establishing a Jewish state. [[00:01:17](https://www.youtube.com/watch?v=O454c_qs5kI&t=77.12s)]
+*  There was an agreement called the Belfour Declaration in 1917, which eventually led [[00:01:20](https://www.youtube.com/watch?v=O454c_qs5kI&t=80.84s)]
+*  to the British mandate. [[00:01:25](https://www.youtube.com/watch?v=O454c_qs5kI&t=85.8s)]
+*  There was flourishing and coalescing. [[00:01:27](https://www.youtube.com/watch?v=O454c_qs5kI&t=87.84s)]
+*  You look at images of Jerusalem and Israel back then, but there was still a lot of conflict, [[00:01:30](https://www.youtube.com/watch?v=O454c_qs5kI&t=90.36s)]
+*  just like when the Romans were there in the biblical era. [[00:01:34](https://www.youtube.com/watch?v=O454c_qs5kI&t=94.32000000000001s)]
+*  The Jewish people wanted their own state. [[00:01:36](https://www.youtube.com/watch?v=O454c_qs5kI&t=96.80000000000001s)]
+*  Speaking of the biblical era, this entire region, what had largely been tribal, it didn't [[00:01:39](https://www.youtube.com/watch?v=O454c_qs5kI&t=99.0s)]
+*  resemble anything we think of in the modern mind as the nation state. [[00:01:43](https://www.youtube.com/watch?v=O454c_qs5kI&t=103.60000000000001s)]
+*  But following World War I, Britain through the League of Nations was given control of [[00:01:46](https://www.youtube.com/watch?v=O454c_qs5kI&t=106.76s)]
+*  the area and they began to carve up the map. [[00:01:50](https://www.youtube.com/watch?v=O454c_qs5kI&t=110.32s)]
+*  They began to create Jordan and Syria and the modern conception of the nation state. [[00:01:52](https://www.youtube.com/watch?v=O454c_qs5kI&t=112.63999999999999s)]
+*  I can't remember the name of the of the agreement, but a lot of the consternation across the [[00:01:57](https://www.youtube.com/watch?v=O454c_qs5kI&t=117.83999999999999s)]
+*  Middle East goes back to Winston Churchill and others who drew a lot of straight lines [[00:02:03](https://www.youtube.com/watch?v=O454c_qs5kI&t=123.28s)]
+*  across previous tribal areas, which led to nation states that have different groups of [[00:02:08](https://www.youtube.com/watch?v=O454c_qs5kI&t=128.48s)]
+*  I think of Iraq, what different groups of people. [[00:02:13](https://www.youtube.com/watch?v=O454c_qs5kI&t=133.51999999999998s)]
+*  You certainly see that in Israel. [[00:02:15](https://www.youtube.com/watch?v=O454c_qs5kI&t=135.92s)]
+*  Now, there was a very tumultuous period in Europe between 1922 and 1947, a lot of anti-Semitism. [[00:02:17](https://www.youtube.com/watch?v=O454c_qs5kI&t=137.92s)]
+*  Regimes predicated on the destruction of the Jewish people, most significantly Adolf Hitler [[00:02:24](https://www.youtube.com/watch?v=O454c_qs5kI&t=144.67999999999998s)]
+*  and the Nazi regime, which in the Holocaust that led to the death of six million Jews. [[00:02:30](https://www.youtube.com/watch?v=O454c_qs5kI&t=150.64s)]
+*  A lot of Jews left Europe and came back to Israel. [[00:02:35](https://www.youtube.com/watch?v=O454c_qs5kI&t=155.11999999999998s)]
+*  And of course, Jews leave Europe, head back to Israel. [[00:02:38](https://www.youtube.com/watch?v=O454c_qs5kI&t=158.32s)]
+*  There's already Palestinians living in Israel and thus begins your tensions. [[00:02:41](https://www.youtube.com/watch?v=O454c_qs5kI&t=161.76s)]
+*  Let's focus in on the geography. [[00:02:46](https://www.youtube.com/watch?v=O454c_qs5kI&t=166.07999999999998s)]
+*  Keith's done a great job this morning going to the maps and explaining the current environment. [[00:02:47](https://www.youtube.com/watch?v=O454c_qs5kI&t=167.4s)]
+*  But this is a little bit of a scope out, but still focusing on Israel. [[00:02:51](https://www.youtube.com/watch?v=O454c_qs5kI&t=171.4s)]
+*  Israel, roughly the size of New Jersey, west to Palestine, two largely Palestinian areas, [[00:02:54](https://www.youtube.com/watch?v=O454c_qs5kI&t=174.68s)]
+*  areas west the West Bank along the West Bank of the Jordan River and the Gaza Strip, where [[00:03:02](https://www.youtube.com/watch?v=O454c_qs5kI&t=182.04000000000002s)]
+*  our focus is this morning and throughout this latest incident. [[00:03:06](https://www.youtube.com/watch?v=O454c_qs5kI&t=186.76s)]
+*  And a lot of focus of the past has been the so-called West Bank. [[00:03:10](https://www.youtube.com/watch?v=O454c_qs5kI&t=190.24s)]
+*  Sometimes we'll call it Judea and Samaria, the historic homeland of the Jewish people [[00:03:14](https://www.youtube.com/watch?v=O454c_qs5kI&t=194.36s)]
+*  as well. [[00:03:18](https://www.youtube.com/watch?v=O454c_qs5kI&t=198.56s)]
+*  So words are a big part of this complication inside that as well. [[00:03:19](https://www.youtube.com/watch?v=O454c_qs5kI&t=199.56s)]
+*  So we've talked about the Gaza Strip a lot, small area, lots of people. [[00:03:23](https://www.youtube.com/watch?v=O454c_qs5kI&t=203.0s)]
+*  You look at the West Bank, just to give you a sense, this is where Jerusalem is. [[00:03:28](https://www.youtube.com/watch?v=O454c_qs5kI&t=208.36s)]
+*  And so you've got West Jerusalem and East Jerusalem and a lot of the religious sites [[00:03:33](https://www.youtube.com/watch?v=O454c_qs5kI&t=213.08s)]
+*  were captured in 1967, which we'll get to. [[00:03:37](https://www.youtube.com/watch?v=O454c_qs5kI&t=217.8s)]
+*  But when you think of the West Bank, there's a lot of sites in this location of significance [[00:03:40](https://www.youtube.com/watch?v=O454c_qs5kI&t=220.66s)]
+*  to Jews and Christians. [[00:03:45](https://www.youtube.com/watch?v=O454c_qs5kI&t=225.66s)]
+*  You've got the traditional baptismal site of Jesus along the Jordan River. [[00:03:47](https://www.youtube.com/watch?v=O454c_qs5kI&t=227.06s)]
+*  You've got the walls of Jericho that are there. [[00:03:50](https://www.youtube.com/watch?v=O454c_qs5kI&t=230.46s)]
+*  You've got Bethlehem, the birthplace of Jesus. [[00:03:52](https://www.youtube.com/watch?v=O454c_qs5kI&t=232.54s)]
+*  So a lot of significance in the Judea and Samaria. [[00:03:54](https://www.youtube.com/watch?v=O454c_qs5kI&t=234.54s)]
+*  A good comparison people are making for the West Bank to conceptualize geographically [[00:03:57](https://www.youtube.com/watch?v=O454c_qs5kI&t=237.66s)]
+*  is Delaware, you know, with a third of the population roughly the same geographic size. [[00:04:02](https://www.youtube.com/watch?v=O454c_qs5kI&t=242.0s)]
+*  But really quickly, just to put that in context, look how small Gaza Strip is where our focus [[00:04:08](https://www.youtube.com/watch?v=O454c_qs5kI&t=248.02s)]
+*  is a 140 square miles, two million population. [[00:04:11](https://www.youtube.com/watch?v=O454c_qs5kI&t=251.98000000000002s)]
+*  Yeah, compare the sizes and the populations are pretty similar. [[00:04:15](https://www.youtube.com/watch?v=O454c_qs5kI&t=255.54000000000002s)]
+*  It's extremely dense. [[00:04:18](https://www.youtube.com/watch?v=O454c_qs5kI&t=258.74s)]
+*  The complexity only gets worse in terms of the tensions over the past 75 years in the [[00:04:20](https://www.youtube.com/watch?v=O454c_qs5kI&t=260.66s)]
+*  existence of Israel. [[00:04:26](https://www.youtube.com/watch?v=O454c_qs5kI&t=266.38s)]
+*  Israel, as we point out, as Jews begin to re-migrate back to Israel, 1947 is a marking [[00:04:28](https://www.youtube.com/watch?v=O454c_qs5kI&t=268.22s)]
+*  point after World War II where there's the first attempt and ultimately is successful [[00:04:36](https://www.youtube.com/watch?v=O454c_qs5kI&t=276.14s)]
+*  in creating the state of Israel. [[00:04:42](https://www.youtube.com/watch?v=O454c_qs5kI&t=282.14s)]
+*  And then ultimately, soon thereafter, there was a war, the Arab-Israeli War, where effectively [[00:04:43](https://www.youtube.com/watch?v=O454c_qs5kI&t=283.65999999999997s)]
+*  you see Egypt, you see Jordan, they all coalesce on saying, no, no, no, we don't want Jews [[00:04:48](https://www.youtube.com/watch?v=O454c_qs5kI&t=288.02s)]
+*  at a state of Israel here. [[00:04:53](https://www.youtube.com/watch?v=O454c_qs5kI&t=293.9s)]
+*  Jordan being very significant, Jordan moved all the way up to Jerusalem and controlled [[00:04:55](https://www.youtube.com/watch?v=O454c_qs5kI&t=295.78s)]
+*  much of that until 1967. [[00:04:59](https://www.youtube.com/watch?v=O454c_qs5kI&t=299.58s)]
+*  So it was disputed from the very beginning and has been fought over in the modern sense [[00:05:01](https://www.youtube.com/watch?v=O454c_qs5kI&t=301.64s)]
+*  of the nation-state since 1947. [[00:05:06](https://www.youtube.com/watch?v=O454c_qs5kI&t=306.84s)]
+*  The U.S., by the way, the first country to recognize Israel 11 minutes into their existence, [[00:05:09](https://www.youtube.com/watch?v=O454c_qs5kI&t=309.12s)]
+*  Harry Truman did so. [[00:05:13](https://www.youtube.com/watch?v=O454c_qs5kI&t=313.15999999999997s)]
+*  That war which followed the declaration essentially establishes the state of Israel in 1948. [[00:05:14](https://www.youtube.com/watch?v=O454c_qs5kI&t=314.68s)]
+*  And then, Pete, as we pointed out, wars throughout time, but with largely state actors. [[00:05:19](https://www.youtube.com/watch?v=O454c_qs5kI&t=319.88s)]
+*  We're talking about Jordan, we're talking about Egypt, we're talking about Syria that [[00:05:24](https://www.youtube.com/watch?v=O454c_qs5kI&t=324.12s)]
+*  flashed up since the 40s in two main points. [[00:05:28](https://www.youtube.com/watch?v=O454c_qs5kI&t=328.92s)]
+*  The 1967 Six-Day War was one of those, and in fact is one of those that many people are [[00:05:31](https://www.youtube.com/watch?v=O454c_qs5kI&t=331.92s)]
+*  pointing back to today as a marking point of how extreme what we're watching take place [[00:05:37](https://www.youtube.com/watch?v=O454c_qs5kI&t=337.68s)]
+*  today is. [[00:05:42](https://www.youtube.com/watch?v=O454c_qs5kI&t=342.64000000000004s)]
+*  That was a really, really big one because the state of Israel, a lot of people thought, [[00:05:43](https://www.youtube.com/watch?v=O454c_qs5kI&t=343.64000000000004s)]
+*  okay, its enemies wanted to wipe it off its map. [[00:05:47](https://www.youtube.com/watch?v=O454c_qs5kI&t=347.92s)]
+*  Instead, it went on a counteroffensive and captured Gaza, captured Judea and Sumeria [[00:05:50](https://www.youtube.com/watch?v=O454c_qs5kI&t=350.72s)]
+*  in the West Bank, captured the Golan Heights in the north, captured East Jerusalem where [[00:05:56](https://www.youtube.com/watch?v=O454c_qs5kI&t=356.24s)]
+*  they were on the Temple Mount and quickly gave it back. [[00:06:01](https://www.youtube.com/watch?v=O454c_qs5kI&t=361.08s)]
+*  But ultimately that redrew the lines and it allowed Israel the opportunity to effectively [[00:06:04](https://www.youtube.com/watch?v=O454c_qs5kI&t=364.32s)]
+*  control these areas for their own security, something that changed in 2005 and is pertinent [[00:06:08](https://www.youtube.com/watch?v=O454c_qs5kI&t=368.36s)]
+*  to our discussion when they gave the Gaza Strip over to the Palestinian Authority. [[00:06:13](https://www.youtube.com/watch?v=O454c_qs5kI&t=373.6s)]
+*  So you brought this up earlier this morning. [[00:06:17](https://www.youtube.com/watch?v=O454c_qs5kI&t=377.32s)]
+*  You talked about Bibi Netanyahu who immediately said, this is war. [[00:06:18](https://www.youtube.com/watch?v=O454c_qs5kI&t=378.96000000000004s)]
+*  That war, word, had specific meaning, not an operation, specifically a war. [[00:06:22](https://www.youtube.com/watch?v=O454c_qs5kI&t=382.48s)]
+*  Why? [[00:06:28](https://www.youtube.com/watch?v=O454c_qs5kI&t=388.84000000000003s)]
+*  Because it's 50 years since a war. [[00:06:29](https://www.youtube.com/watch?v=O454c_qs5kI&t=389.84000000000003s)]
+*  In 1973, the Yom Kippur War is the last time that type of language, that type of mindset [[00:06:31](https://www.youtube.com/watch?v=O454c_qs5kI&t=391.32s)]
+*  approach has really defined the Palestinian and Israeli confrontation. [[00:06:35](https://www.youtube.com/watch?v=O454c_qs5kI&t=395.82s)]
+*  But after seeing 600, we're right now, by the way, at 600 civilian children, women, [[00:06:41](https://www.youtube.com/watch?v=O454c_qs5kI&t=401.72s)]
+*  grandmothers dead, and this has been declared war. [[00:06:48](https://www.youtube.com/watch?v=O454c_qs5kI&t=408.24s)]
+*  This basically settled the nation state aspect of this. [[00:06:52](https://www.youtube.com/watch?v=O454c_qs5kI&t=412.36s)]
+*  And after that, you saw intifadas or uprisings led by the PLO, led by Hamas, led by terrorist [[00:06:55](https://www.youtube.com/watch?v=O454c_qs5kI&t=415.64s)]
+*  organizations, trying to achieve their goals inside their regions. [[00:07:01](https://www.youtube.com/watch?v=O454c_qs5kI&t=421.52s)]
+*  You saw buses blowing up inside. [[00:07:05](https://www.youtube.com/watch?v=O454c_qs5kI&t=425.52s)]
+*  That's why you saw border fences put up across Jerusalem and in Gaza and operations that [[00:07:07](https://www.youtube.com/watch?v=O454c_qs5kI&t=427.96000000000004s)]
+*  led to deaths of Israelis and Palestinians. [[00:07:13](https://www.youtube.com/watch?v=O454c_qs5kI&t=433.68s)]
+*  That brings us to today. [[00:07:16](https://www.youtube.com/watch?v=O454c_qs5kI&t=436.52s)]
+*  We're talking about not just the horrific nature of it, but the historical nature of [[00:07:18](https://www.youtube.com/watch?v=O454c_qs5kI&t=438.76s)]
+*  this conflict in time between these two and what it could mean for the future. [[00:07:23](https://www.youtube.com/watch?v=O454c_qs5kI&t=443.15999999999997s)]
+*  By the way, I want to point you to Fox Nation, to Battle in the Holy Land on Fox Nation. [[00:07:29](https://www.youtube.com/watch?v=O454c_qs5kI&t=449.48s)]
+*  I did it a couple of years ago, but it is a breakdown of the dynamics, political, cultural, [[00:07:34](https://www.youtube.com/watch?v=O454c_qs5kI&t=454.71999999999997s)]
+*  religious that have led to this moment in time. [[00:07:39](https://www.youtube.com/watch?v=O454c_qs5kI&t=459.52s)]
+*  There's also Battle in the Holy City, specifically about Jerusalem. [[00:07:42](https://www.youtube.com/watch?v=O454c_qs5kI&t=462.52s)]
+*  But we go to those contested areas right outside Gaza, into the West Bank, into Ramallah, [[00:07:45](https://www.youtube.com/watch?v=O454c_qs5kI&t=465.96s)]
+*  and try to tell the story. [[00:07:51](https://www.youtube.com/watch?v=O454c_qs5kI&t=471.56s)]
+*  Check it out on Fox Nation today. [[00:07:52](https://www.youtube.com/watch?v=O454c_qs5kI&t=472.56s)]

@@ -1,0 +1,158 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 572s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight', 'kim kardashian', 'kanye west', 'kim and kanye', 'kim kardashian kanye west', 'kanye west kim kardashian', 'celebrity news', 'kanye tucker', 'kanye tucker interview']
+Video Views: 2990068
+Video Rating: None
+Video Description: Kanye West discusses with ‘Tucker Carlson Tonight’ his ex-wife Kim Kardashian’s relationship with the Clintons and his involvement with the brand SKIMS. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Ye reveals he didn't know how close ex-wife Kim Kardashian was to Clintons
+**Fox News - Tucker Carlson:** [October 06, 2022](https://www.youtube.com/watch?v=XVOGB-eSvqw)
+*  The first indication that West might become a massive problem for the industrial deception complex came in 2015 and 2016 when Donald Trump appeared and [[00:00:00](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=0.0s)]
+*  West had a very strong gut reaction to Trump that was very positive and the people around him were panicked by this [[00:00:09](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=9.96s)]
+*  The last thing you could have is one of the most popular pop culture figures in America [[00:00:16](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=16.34s)]
+*  Coming out for Donald Trump's they applied intense pressure to get him back on the script [[00:00:21](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=21.8s)]
+*  Apparently his wife was part of that his former wife Kim Kardashian who West now learns had a very close relationship [[00:00:26](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=26.2s)]
+*  With the Clintons and people around the Clintons [[00:00:32](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=32.32s)]
+*  He had no idea his relationship with Trump on the other hand [[00:00:35](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=35.16s)]
+*  Flourished and he got a window into the people around Trump and in this clip you'll hear him assess [[00:00:38](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=38.76s)]
+*  What happened inside the White House very interesting watch? [[00:00:44](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=44.879999999999995s)]
+*  It was interesting a friend of mine told me that [[00:00:49](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=49.92s)]
+*  Chris and Kim had called him because he had influence inside of the black community [[00:00:53](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=53.120000000000005s)]
+*  And had called him [[00:01:01](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=61.92s)]
+*  To say oh to get him to influence people to take the vaccination [[00:01:07](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=67.08s)]
+*  mm-hmm and [[00:01:14](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=74.08s)]
+*  I [[00:01:16](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=76.08s)]
+*  Don't have opinion on that I just want to state that as a flat statement, but it was [[00:01:21](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=81.84s)]
+*  It was wild that I didn't know how close my own wife was to the Clintons. I [[00:01:26](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=86.0s)]
+*  didn't know you know I [[00:01:34](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=94.0s)]
+*  Didn't realize it at the time that you were married to her and while I was married to her [[00:01:37](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=97.2s)]
+*  How close was she to the Clintons? [[00:01:42](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=102.32s)]
+*  I mean cell phone away like or hey tell you to say this away or hey [[00:01:46](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=106.24s)]
+*  Go out and use your platform to push [[00:01:51](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=111.52s)]
+*  The vaccination away. I mean not away, but like sick the away part [[00:01:54](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=114.03999999999999s)]
+*  But do you feel like at times you were manipulated by political forces through your wife? [[00:01:58](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=118.08s)]
+*  Attempt [[00:02:04](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=124.84s)]
+*  Manipulation, but yes, there was some manipulation me not saying I like Trump. It was a form of a [[00:02:06](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=126.28s)]
+*  Manipulation for sure. Yeah, why did you like him? By the way, you said you liked him early like you saw him under I mean [[00:02:12](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=132.96s)]
+*  I keep telling this joke if people say Trump was the first black president [[00:02:23](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=143.68s)]
+*  I'm gonna be the first Latino president because all the values the the conservative values just line up [[00:02:28](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=148.14s)]
+*  Come on, man. Trump's this way me has his own buildings. We talked about he's like [[00:02:35](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=155.68s)]
+*  Like Ralph Lauren, yeah, he made Ivanka [[00:02:41](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=161.02s)]
+*  You like Ivanka yeah [[00:02:45](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=165.86s)]
+*  You tweet you wrote a post on Instagram about her husband today [[00:02:49](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=169.18s)]
+*  Yeah, you know I [[00:02:53](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=173.70000000000002s)]
+*  had a dinner with [[00:02:56](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=176.42000000000002s)]
+*  Ivanka Jared and Josh and [[00:03:00](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=180.82000000000002s)]
+*  A couple days later. I found out that Josh Kushner had 10% [[00:03:04](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=184.74s)]
+*  of [[00:03:10](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=190.9s)]
+*  Skims, which is a line that I had developed with Kim [[00:03:11](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=191.94s)]
+*  And I had a lot of issues with the imagery of skims [[00:03:16](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=196.58s)]
+*  I felt like there's a lot of imagery that was overly sexualized and things that I wouldn't want to see [[00:03:21](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=201.48000000000002s)]
+*  My wife and definitely not my daughter's doing in the future in order to sell product [[00:03:28](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=208.06s)]
+*  But it reaches another level when it's like, okay, well [[00:03:35](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=215.26000000000002s)]
+*  This is what my wife is doing and this is what they're doing for this is what she's doing for our children [[00:03:40](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=220.02s)]
+*  but it reaches another level when her business partners are [[00:03:45](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=225.14000000000001s)]
+*  Selling pieces of company that they don't have to [[00:03:49](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=229.74s)]
+*  Because the company's already so successful and it's a internet based company [[00:03:52](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=232.78s)]
+*  So it's like they're really just selling off the company in order to create more relationships for themselves that are unneeded [[00:03:56](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=236.82000000000002s)]
+*  it's like when I went to the gap and with our release they just like [[00:04:03](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=243.86s)]
+*  They shoveled it out I'm very cautious with my words [[00:04:07](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=247.14000000000001s)]
+*  I'm really big on being able to have an adult conversation in front of the children. So I don't use [[00:04:10](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=250.1s)]
+*  explicit language [[00:04:16](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=256.98s)]
+*  in interviews, especially so I [[00:04:18](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=258.58s)]
+*  Found out after this dinner that Josh Kushner had 10% of skims and I had 5% of skims and [[00:04:22](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=262.42s)]
+*  regardless if [[00:04:32](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=272.42s)]
+*  Josh Kushner figured out how to put [[00:04:34](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=274.74s)]
+*  150 million dollars. I'm sure it wasn't out of his own account, but 150 million and I'm sure Jarrett still has a piece of that fun [[00:04:38](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=278.26s)]
+*  They [[00:04:48](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=288.18s)]
+*  Regardless of them putting that money in for me to have been a owner in it and not known [[00:04:49](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=289.38s)]
+*  Just from a place as a creative where skims is so [[00:04:55](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=295.86s)]
+*  Based on a lot of the easy ideas [[00:05:00](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=300.02000000000004s)]
+*  Then it's based on all of the relationships [[00:05:02](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=302.82s)]
+*  in fashion because I had to use my relationships in fashion in order to [[00:05:06](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=306.09999999999997s)]
+*  establish Kim in a way where [[00:05:11](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=311.62s)]
+*  Fashionable people say hey, I'm I'm I'm down to where Kim's line [[00:05:15](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=315.14s)]
+*  And these vcs they come in and they get a piece of it [[00:05:20](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=320.5s)]
+*  After the fact and they run around and say they have ownership in it [[00:05:24](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=324.34s)]
+*  So as I put on my instagram, which [[00:05:27](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=327.78000000000003s)]
+*  You know luckily for everyone they could just write it off that you know [[00:05:30](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=330.42s)]
+*  I'm crazy until they see my disposition in this interview and then it's going to get scary [[00:05:33](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=333.94s)]
+*  They [[00:05:41](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=341.06s)]
+*  I said hey Josh, what if uh, what if I had 10% of carly claus's lingerie [[00:05:45](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=345.06s)]
+*  Shapewear swimsuit [[00:05:52](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=352.74s)]
+*  Line and you have five percent of it and you didn't know [[00:05:54](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=354.74s)]
+*  How would that make you feel [[00:06:03](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=363.06s)]
+*  And then after talking to them and really sitting with Jared and sitting with Josh [[00:06:07](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=367.86s)]
+*  And finding out other pieces of information. I was like, wow. These guys might have really been holding trump back [[00:06:14](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=374.26s)]
+*  These guys might have really been holding trump back [[00:06:20](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=380.82s)]
+*  And being very much a handler [[00:06:25](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=385.06s)]
+*  Right then they love to just look at me or look at trump like we're so crazy and that they're the businessmen [[00:06:27](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=387.53999999999996s)]
+*  so when I think about all of these things that [[00:06:34](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=394.97999999999996s)]
+*  Jared's, you know [[00:06:38](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=398.5s)]
+*  Somehow doesn't get enough credit for with his work. And what is it his work in israel or his work in palette? [[00:06:40](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=400.74s)]
+*  What is this, you know where he made these peace treaties [[00:06:48](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=408.17999999999995s)]
+*  Where was that? Do you know the facts on this right here? So i'm like, well, I think that was between israel and some of the arab nations [[00:06:51](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=411.53999999999996s)]
+*  I just think it was to make money [[00:06:57](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=417.78s)]
+*  I don't know. Is that is that too heavy-handed to put on this platform? No, that's that's your opinion [[00:07:01](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=421.21999999999997s)]
+*  We're not in a censorship business. Okay. Thank you [[00:07:05](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=425.85999999999996s)]
+*  and [[00:07:09](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=429.38s)]
+*  I just think that that's what they're about [[00:07:10](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=430.58s)]
+*  Is making money. I don't think that they have the ability to make anything [[00:07:13](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=433.14s)]
+*  On their own. I think they're born into money [[00:07:17](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=437.62s)]
+*  and [[00:07:20](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=440.18s)]
+*  For me is a maverick and a talent and a person that's been [[00:07:21](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=441.46000000000004s)]
+*  You know beat kicked [[00:07:25](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=445.46000000000004s)]
+*  Lost everything [[00:07:28](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=448.42s)]
+*  Sad to have lost my mind [[00:07:29](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=449.94s)]
+*  Went from pull myself [[00:07:32](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=452.34000000000003s)]
+*  Up by my boot. My boots don't have straps on them, but I say pull myself up from my boots [[00:07:34](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=454.5s)]
+*  uh to becoming a multi-billionaire that gets [[00:07:39](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=459.86s)]
+*  uh that gets [[00:07:44](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=464.34000000000003s)]
+*  you know, um [[00:07:46](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=466.82s)]
+*  The the price every year of my network goes down every year [[00:07:48](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=468.58s)]
+*  On forbes. They just keep on slowly just taking it down every year. It's like really a weird thing [[00:07:53](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=473.46000000000004s)]
+*  But as a person that has really built something from nothing [[00:07:58](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=478.26s)]
+*  when I sit across [[00:08:02](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=482.98s)]
+*  The table from a josh kushner and he just feels [[00:08:05](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=485.06s)]
+*  so entitled [[00:08:08](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=488.66s)]
+*  to that idea [[00:08:10](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=490.18s)]
+*  And this person has never brought anything of value [[00:08:12](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=492.5s)]
+*  Other than so-called being a good venture capitalist [[00:08:15](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=495.94s)]
+*  I have a major I have a major issue with that and it makes me feel like they weren't serving my boy trump [[00:08:19](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=499.21999999999997s)]
+*  the way we could have because [[00:08:26](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=506.9s)]
+*  you know [[00:08:29](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=509.38s)]
+*  Trump wanted nothing but the best for this country and it doesn't [[00:08:30](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=510.58s)]
+*  like [[00:08:35](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=515.46s)]
+*  Moses stuttered and saying god is not always going to bring the most perfect personality [[00:08:36](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=516.9s)]
+*  A lot of times the most fake people their job [[00:08:42](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=522.68s)]
+*  Is talking and making people feel comfortable. Yeah, you know and the realest people are going to make you feel uncomfortable [[00:08:47](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=527.0799999999999s)]
+*  At first [[00:08:55](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=535.7199999999999s)]
+*  Yeah, that's not shallow and it's also not crazy it's true whether you agree with it or not [[00:09:00](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=540.1999999999999s)]
+*  so [[00:09:06](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=546.8399999999999s)]
+*  West has thought a lot about politics and he's thought a lot about what's going to happen in 2024 [[00:09:07](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=547.96s)]
+*  You'll hear that coming up. He's also very close to elon musk, which we didn't know [[00:09:12](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=552.6s)]
+*  Asked him off the cuff to elon musk. Oh, yes, very close. He's got a lot of thoughts on that too. That's next [[00:09:16](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=556.44s)]
+*  Subscribe to the fox news youtube channel to catch our nightly opens stories that are changing the world and changing your life [[00:09:21](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=561.72s)]
+*  from tucker carlson tonight [[00:09:29](https://www.youtube.com/watch?v=XVOGB-eSvqw&t=569.72s)]

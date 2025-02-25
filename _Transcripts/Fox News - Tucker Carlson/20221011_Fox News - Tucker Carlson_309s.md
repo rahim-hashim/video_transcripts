@@ -1,0 +1,167 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 309s
+Video Keywords: ['carlson', 'kanye west', 'white lives matter', 'black lives matter', 'kanye west white lives matter', 'kanye west white lives matter shirt', 'kanye west white matter', 'kanye west interview', 'ye', 'west', 'fox news kanye', 'kanye', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight']
+Video Views: 1769967
+Video Rating: None
+Video Description: Conservative commentator Candace Owens joins 'Tucker Carlson Tonight' to sound off on 'exclusionary' hypocrisy. #foxnews  #tucker 
+
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/lon...
+Special Report with Bret Baier: http://video.foxnews.com/playlist/lon...
+Fox News Primetime: https://video.foxnews.com/playlist/on...
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/lon...
+Hannity: http://video.foxnews.com/playlist/lon...
+The Ingraham Angle: http://video.foxnews.com/playlist/lon...
+Fox News @ Night: http://video.foxnews.com/playlist/lon...
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/om/
+Comments
+---
+
+# Candace Owens reacts to firestorm over wearing White Lives Matter shirt
+**Fox News - Tucker Carlson:** [October 11, 2022](https://www.youtube.com/watch?v=JtMe-8H921M)
+*  Kanye West, now, yay, was not the only person [[00:00:00](https://www.youtube.com/watch?v=JtMe-8H921M&t=0.0s)]
+*  wearing a White Lives Matter T-shirt [[00:00:03](https://www.youtube.com/watch?v=JtMe-8H921M&t=3.4s)]
+*  at the Paris Fashion Week. [[00:00:05](https://www.youtube.com/watch?v=JtMe-8H921M&t=5.5200000000000005s)]
+*  His friend and our friend, Candace Owens, [[00:00:07](https://www.youtube.com/watch?v=JtMe-8H921M&t=7.76s)]
+*  was standing right next to him. [[00:00:09](https://www.youtube.com/watch?v=JtMe-8H921M&t=9.36s)]
+*  So we asked West what that whole thing was like, [[00:00:12](https://www.youtube.com/watch?v=JtMe-8H921M&t=12.58s)]
+*  and here's what he told us. [[00:00:15](https://www.youtube.com/watch?v=JtMe-8H921M&t=15.48s)]
+*  The more and more I lean into God and work for God, [[00:00:17](https://www.youtube.com/watch?v=JtMe-8H921M&t=17.240000000000002s)]
+*  the more wins God is gonna bestow on our team, [[00:00:21](https://www.youtube.com/watch?v=JtMe-8H921M&t=21.96s)]
+*  on Jesus' gang. [[00:00:26](https://www.youtube.com/watch?v=JtMe-8H921M&t=26.16s)]
+*  And for me to go out and just state an obvious [[00:00:27](https://www.youtube.com/watch?v=JtMe-8H921M&t=27.88s)]
+*  and empathetic statement in the middle of the most liberal, [[00:00:33](https://www.youtube.com/watch?v=JtMe-8H921M&t=33.22s)]
+*  central, like, to go, that was like Tiananmen Square [[00:00:38](https://www.youtube.com/watch?v=JtMe-8H921M&t=38.84s)]
+*  or something like that. [[00:00:41](https://www.youtube.com/watch?v=JtMe-8H921M&t=41.56s)]
+*  I was like, with Candace Owens, [[00:00:42](https://www.youtube.com/watch?v=JtMe-8H921M&t=42.56s)]
+*  and we both wore the shirt at the same time. [[00:00:45](https://www.youtube.com/watch?v=JtMe-8H921M&t=45.68s)]
+*  You know, we got some Jesus soldiers out here, [[00:00:49](https://www.youtube.com/watch?v=JtMe-8H921M&t=49.56s)]
+*  and people say they're willing to die for it, [[00:00:53](https://www.youtube.com/watch?v=JtMe-8H921M&t=53.8s)]
+*  but we live for it. [[00:00:56](https://www.youtube.com/watch?v=JtMe-8H921M&t=56.88s)]
+*  We're living for the battle. [[00:00:58](https://www.youtube.com/watch?v=JtMe-8H921M&t=58.440000000000005s)]
+*  And what's the battle for? [[00:01:01](https://www.youtube.com/watch?v=JtMe-8H921M&t=61.24s)]
+*  Life itself, our children. [[00:01:02](https://www.youtube.com/watch?v=JtMe-8H921M&t=62.28s)]
+*  Like Tiananmen Square, yay West, Candace Owens [[00:01:05](https://www.youtube.com/watch?v=JtMe-8H921M&t=65.84s)]
+*  standing there in front of the tank, [[00:01:09](https://www.youtube.com/watch?v=JtMe-8H921M&t=69.4s)]
+*  which is international media. [[00:01:10](https://www.youtube.com/watch?v=JtMe-8H921M&t=70.88s)]
+*  Candace Owens is the host of the podcast, Candace, [[00:01:14](https://www.youtube.com/watch?v=JtMe-8H921M&t=74.56s)]
+*  and she joins us. [[00:01:17](https://www.youtube.com/watch?v=JtMe-8H921M&t=77.44s)]
+*  Hey, Candace, thanks so much for coming on. [[00:01:18](https://www.youtube.com/watch?v=JtMe-8H921M&t=78.28s)]
+*  So why did you do that? [[00:01:19](https://www.youtube.com/watch?v=JtMe-8H921M&t=79.6s)]
+*  You did it together. [[00:01:21](https://www.youtube.com/watch?v=JtMe-8H921M&t=81.96000000000001s)]
+*  And what do you think of the response? [[00:01:24](https://www.youtube.com/watch?v=JtMe-8H921M&t=84.02000000000001s)]
+*  Why can't you do that? [[00:01:26](https://www.youtube.com/watch?v=JtMe-8H921M&t=86.56s)]
+*  Well, I just want to say it was one of the only weeks [[00:01:29](https://www.youtube.com/watch?v=JtMe-8H921M&t=89.96000000000001s)]
+*  that I missed doing your show. [[00:01:31](https://www.youtube.com/watch?v=JtMe-8H921M&t=91.76s)]
+*  And the only reason I would miss doing your show, Tucker, [[00:01:32](https://www.youtube.com/watch?v=JtMe-8H921M&t=92.92s)]
+*  is because I knew that there was a cultural moment [[00:01:35](https://www.youtube.com/watch?v=JtMe-8H921M&t=95.44s)]
+*  that would be so significant as this was. [[00:01:37](https://www.youtube.com/watch?v=JtMe-8H921M&t=97.92s)]
+*  You know, I did it because Kanye called me [[00:01:40](https://www.youtube.com/watch?v=JtMe-8H921M&t=100.32000000000001s)]
+*  and he said that he needed me to be there at the show [[00:01:42](https://www.youtube.com/watch?v=JtMe-8H921M&t=102.14s)]
+*  and he needed me to be a part of the show. [[00:01:44](https://www.youtube.com/watch?v=JtMe-8H921M&t=104.92s)]
+*  And when he told me what he had in mind [[00:01:47](https://www.youtube.com/watch?v=JtMe-8H921M&t=107.0s)]
+*  and wearing these t-shirts, [[00:01:49](https://www.youtube.com/watch?v=JtMe-8H921M&t=109.04s)]
+*  which by the way, he told me the day of, [[00:01:50](https://www.youtube.com/watch?v=JtMe-8H921M&t=110.2s)]
+*  I instantly understood what he was trying to do [[00:01:52](https://www.youtube.com/watch?v=JtMe-8H921M&t=112.9s)]
+*  and what the artistic expression was. [[00:01:55](https://www.youtube.com/watch?v=JtMe-8H921M&t=115.22s)]
+*  What it offered was a stunning commentary [[00:01:57](https://www.youtube.com/watch?v=JtMe-8H921M&t=117.14s)]
+*  on the hypocrisy of the society that we live in. [[00:01:59](https://www.youtube.com/watch?v=JtMe-8H921M&t=119.42s)]
+*  For years, we were told that Black Lives Matter [[00:02:01](https://www.youtube.com/watch?v=JtMe-8H921M&t=121.94s)]
+*  was not an exclusionary phrase. [[00:02:04](https://www.youtube.com/watch?v=JtMe-8H921M&t=124.42s)]
+*  We were told that it's just what we're saying. [[00:02:06](https://www.youtube.com/watch?v=JtMe-8H921M&t=126.38s)]
+*  We're not trying to leave white people out, right? [[00:02:08](https://www.youtube.com/watch?v=JtMe-8H921M&t=128.38s)]
+*  We're just saying this because this is a moment [[00:02:10](https://www.youtube.com/watch?v=JtMe-8H921M&t=130.7s)]
+*  that black Americans need to have in this country. [[00:02:12](https://www.youtube.com/watch?v=JtMe-8H921M&t=132.64s)]
+*  They were totally fine when Asian Lives Matter [[00:02:15](https://www.youtube.com/watch?v=JtMe-8H921M&t=135.26s)]
+*  became a slogan as well. [[00:02:17](https://www.youtube.com/watch?v=JtMe-8H921M&t=137.1s)]
+*  Asians, by the way, are doing better in this country [[00:02:18](https://www.youtube.com/watch?v=JtMe-8H921M&t=138.42s)]
+*  economically than white Americans. [[00:02:20](https://www.youtube.com/watch?v=JtMe-8H921M&t=140.54s)]
+*  They're more successful in education as well. [[00:02:21](https://www.youtube.com/watch?v=JtMe-8H921M&t=141.98s)]
+*  And they're more likely to get credit cards [[00:02:24](https://www.youtube.com/watch?v=JtMe-8H921M&t=144.22s)]
+*  as just one example. [[00:02:26](https://www.youtube.com/watch?v=JtMe-8H921M&t=146.3s)]
+*  And yet despite all of that, [[00:02:27](https://www.youtube.com/watch?v=JtMe-8H921M&t=147.66s)]
+*  it was okay to say Asian Lives Matter. [[00:02:28](https://www.youtube.com/watch?v=JtMe-8H921M&t=148.94s)]
+*  We put on a t-shirt to actually do something [[00:02:30](https://www.youtube.com/watch?v=JtMe-8H921M&t=150.72s)]
+*  that was inclusive, to say, actually white Americans, [[00:02:32](https://www.youtube.com/watch?v=JtMe-8H921M&t=152.84s)]
+*  you are allowed to be a part of this too [[00:02:35](https://www.youtube.com/watch?v=JtMe-8H921M&t=155.70000000000002s)]
+*  because literally all lives matter. [[00:02:37](https://www.youtube.com/watch?v=JtMe-8H921M&t=157.5s)]
+*  And in fact, no lives have been mattering. [[00:02:39](https://www.youtube.com/watch?v=JtMe-8H921M&t=159.62s)]
+*  Black Americans are suffering as a result [[00:02:42](https://www.youtube.com/watch?v=JtMe-8H921M&t=162.18s)]
+*  because of Black Lives Matter. [[00:02:43](https://www.youtube.com/watch?v=JtMe-8H921M&t=163.98000000000002s)]
+*  We know that their neighborhoods have been rioted [[00:02:45](https://www.youtube.com/watch?v=JtMe-8H921M&t=165.3s)]
+*  in inner city communities [[00:02:47](https://www.youtube.com/watch?v=JtMe-8H921M&t=167.5s)]
+*  and the businesses are moving out of there. [[00:02:48](https://www.youtube.com/watch?v=JtMe-8H921M&t=168.54000000000002s)]
+*  The result of Black Lives Matter has been white supremacy. [[00:02:50](https://www.youtube.com/watch?v=JtMe-8H921M&t=170.24s)]
+*  Assuming that black Americans were stupid and emotional [[00:02:52](https://www.youtube.com/watch?v=JtMe-8H921M&t=172.94s)]
+*  and would loot and riot their own communities [[00:02:55](https://www.youtube.com/watch?v=JtMe-8H921M&t=175.5s)]
+*  to fulfill a false narrative about policing. [[00:02:58](https://www.youtube.com/watch?v=JtMe-8H921M&t=178.46s)]
+*  And so we got to say all of that by wearing one t-shirt. [[00:03:00](https://www.youtube.com/watch?v=JtMe-8H921M&t=180.7s)]
+*  It's just so interesting. [[00:03:05](https://www.youtube.com/watch?v=JtMe-8H921M&t=185.06s)]
+*  I mean, if you're triggered, as they say, [[00:03:06](https://www.youtube.com/watch?v=JtMe-8H921M&t=186.34s)]
+*  by a shirt like that, no one who is mad about it [[00:03:08](https://www.youtube.com/watch?v=JtMe-8H921M&t=188.85999999999999s)]
+*  ever seemed to ask like, why? [[00:03:11](https://www.youtube.com/watch?v=JtMe-8H921M&t=191.57999999999998s)]
+*  If it said Malaysian Lives Matter or anybody, [[00:03:13](https://www.youtube.com/watch?v=JtMe-8H921M&t=193.3s)]
+*  you would, a normal person would say, [[00:03:17](https://www.youtube.com/watch?v=JtMe-8H921M&t=197.46s)]
+*  well, of course all lives matter, [[00:03:18](https://www.youtube.com/watch?v=JtMe-8H921M&t=198.78s)]
+*  but like, why does this make them so mad? [[00:03:20](https://www.youtube.com/watch?v=JtMe-8H921M&t=200.54s)]
+*  It's weird and dark. [[00:03:22](https://www.youtube.com/watch?v=JtMe-8H921M&t=202.98s)]
+*  It makes them so mad because there is actually [[00:03:24](https://www.youtube.com/watch?v=JtMe-8H921M&t=204.7s)]
+*  in this country, a hatred toward white people. [[00:03:27](https://www.youtube.com/watch?v=JtMe-8H921M&t=207.9s)]
+*  It is undeniable. [[00:03:30](https://www.youtube.com/watch?v=JtMe-8H921M&t=210.7s)]
+*  The worst thing that you can be in this country, [[00:03:31](https://www.youtube.com/watch?v=JtMe-8H921M&t=211.73999999999998s)]
+*  far from what they're telling you, [[00:03:33](https://www.youtube.com/watch?v=JtMe-8H921M&t=213.45999999999998s)]
+*  I would say two things. [[00:03:34](https://www.youtube.com/watch?v=JtMe-8H921M&t=214.73999999999998s)]
+*  First and foremost, a black child in the womb of its mother. [[00:03:35](https://www.youtube.com/watch?v=JtMe-8H921M&t=215.79999999999998s)]
+*  That is the most unsafe place for a black child to be. [[00:03:38](https://www.youtube.com/watch?v=JtMe-8H921M&t=218.06s)]
+*  The second thing is a white straight male, right? [[00:03:40](https://www.youtube.com/watch?v=JtMe-8H921M&t=220.34s)]
+*  Because they perceive that as being too normal, right? [[00:03:42](https://www.youtube.com/watch?v=JtMe-8H921M&t=222.72s)]
+*  It's too normal for you to be a white straight male. [[00:03:45](https://www.youtube.com/watch?v=JtMe-8H921M&t=225.45999999999998s)]
+*  You need to make yourself somehow problematized [[00:03:47](https://www.youtube.com/watch?v=JtMe-8H921M&t=227.38s)]
+*  by saying that you're trans, that you're suffering, [[00:03:49](https://www.youtube.com/watch?v=JtMe-8H921M&t=229.6s)]
+*  that you're gay, that you're Hispanic, [[00:03:51](https://www.youtube.com/watch?v=JtMe-8H921M&t=231.48s)]
+*  that you have a biracial mother, something. [[00:03:53](https://www.youtube.com/watch?v=JtMe-8H921M&t=233.28s)]
+*  People are dying to say that they're anything [[00:03:55](https://www.youtube.com/watch?v=JtMe-8H921M&t=235.92s)]
+*  but being white. [[00:03:58](https://www.youtube.com/watch?v=JtMe-8H921M&t=238.07999999999998s)]
+*  And again, that is the commentary that we offer [[00:03:59](https://www.youtube.com/watch?v=JtMe-8H921M&t=239.04s)]
+*  by wearing these shirts. [[00:04:01](https://www.youtube.com/watch?v=JtMe-8H921M&t=241.06s)]
+*  You actually cannot, right now, today on TikTok, [[00:04:02](https://www.youtube.com/watch?v=JtMe-8H921M&t=242.24s)]
+*  you cannot use the hashtag white lives matter [[00:04:05](https://www.youtube.com/watch?v=JtMe-8H921M&t=245.12s)]
+*  because they say that it inspires hatred. [[00:04:07](https://www.youtube.com/watch?v=JtMe-8H921M&t=247.44s)]
+*  And in fact, banning the hashtag white lives matter [[00:04:09](https://www.youtube.com/watch?v=JtMe-8H921M&t=249.72s)]
+*  is what inspires hatred. [[00:04:12](https://www.youtube.com/watch?v=JtMe-8H921M&t=252.12s)]
+*  The saddest part of this Tucker, which I wanna add, [[00:04:13](https://www.youtube.com/watch?v=JtMe-8H921M&t=253.51999999999998s)]
+*  is that after wearing the shirt [[00:04:15](https://www.youtube.com/watch?v=JtMe-8H921M&t=255.6s)]
+*  and getting back here down in Tennessee, [[00:04:16](https://www.youtube.com/watch?v=JtMe-8H921M&t=256.76s)]
+*  I went to a farmer's market [[00:04:18](https://www.youtube.com/watch?v=JtMe-8H921M&t=258.04s)]
+*  and I had white people coming up to me [[00:04:20](https://www.youtube.com/watch?v=JtMe-8H921M&t=260.12s)]
+*  with tears in their eyes. [[00:04:20](https://www.youtube.com/watch?v=JtMe-8H921M&t=260.96000000000004s)]
+*  And I told Kanye this, tears in their eyes saying, [[00:04:21](https://www.youtube.com/watch?v=JtMe-8H921M&t=261.8s)]
+*  thank you so much as if they're the forgotten people [[00:04:23](https://www.youtube.com/watch?v=JtMe-8H921M&t=263.96000000000004s)]
+*  for just allowing us to have our voices back. [[00:04:26](https://www.youtube.com/watch?v=JtMe-8H921M&t=266.04s)]
+*  They've been sitting in silence, completely sidelined, [[00:04:28](https://www.youtube.com/watch?v=JtMe-8H921M&t=268.2s)]
+*  told that they are not allowed to be American [[00:04:30](https://www.youtube.com/watch?v=JtMe-8H921M&t=270.48s)]
+*  because there's a vicious narrative around [[00:04:32](https://www.youtube.com/watch?v=JtMe-8H921M&t=272.28000000000003s)]
+*  that somehow black Americans are suffering from policing [[00:04:34](https://www.youtube.com/watch?v=JtMe-8H921M&t=274.04s)]
+*  and therefore white lives can't matter. [[00:04:36](https://www.youtube.com/watch?v=JtMe-8H921M&t=276.76s)]
+*  They do, it's obvious, Kanye was correct. [[00:04:38](https://www.youtube.com/watch?v=JtMe-8H921M&t=278.56s)]
+*  Yeah, I don't know why people put up with it. [[00:04:41](https://www.youtube.com/watch?v=JtMe-8H921M&t=281.92s)]
+*  I mean, no group, no group, no matter what they look like [[00:04:43](https://www.youtube.com/watch?v=JtMe-8H921M&t=283.28000000000003s)]
+*  or what they believe should put up with being singled out [[00:04:46](https://www.youtube.com/watch?v=JtMe-8H921M&t=286.16s)]
+*  on the basis of immutable characteristics, [[00:04:48](https://www.youtube.com/watch?v=JtMe-8H921M&t=288.42s)]
+*  there should be zero tolerance for that. [[00:04:50](https://www.youtube.com/watch?v=JtMe-8H921M&t=290.06s)]
+*  And yet there's enormous, as you said, [[00:04:51](https://www.youtube.com/watch?v=JtMe-8H921M&t=291.90000000000003s)]
+*  enforced tolerance of it and it should stop now. [[00:04:53](https://www.youtube.com/watch?v=JtMe-8H921M&t=293.3s)]
+*  I agree with that. [[00:04:55](https://www.youtube.com/watch?v=JtMe-8H921M&t=295.46000000000004s)]
+*  Candace Owens, thank you. [[00:04:56](https://www.youtube.com/watch?v=JtMe-8H921M&t=296.3s)]

@@ -1,0 +1,157 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 361s
+Video Keywords: ['fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news today', 'carlson', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson tonight', 'tucker reacts', 'tucker tonight', 'glenn beck radio show', 'glenn beck interview', 'glenn beck news', 'glenn beck today', 'donald trump latest news', 'donald trump news', 'donald trump announcement', 'alvin bragg da', 'alvin bragg news', 'trump indictment', 'trump arrested', 'trump indicted today', 'trump indicted', 'indictment']
+Video Views: 2952834
+Video Rating: None
+Video Description: 'The Great Reset' author Glenn Beck reacts to the 'unprecedented' indictment of former President Donald Trump on 'Tucker Carlson Tonight.' #foxnews #fox #tucker 
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Glenn Beck issues grave warning to America after Trump indictment
+**Fox News - Tucker Carlson:** [March 31, 2023](https://www.youtube.com/watch?v=CBr9hgxZiNg)
+*  So when the history of cable news is written, [[00:00:00](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=0.0s)]
+*  assuming anyone bothers to write it, [[00:00:03](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=3.24s)]
+*  but if it ever is written, Glenn Beck will have his own chapter [[00:00:04](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=4.96s)]
+*  as possibly the greatest synthesizer of big ideas [[00:00:08](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=8.72s)]
+*  ever to appear on camera. [[00:00:13](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=13.68s)]
+*  And a lot of people made fun of Glenn Beck [[00:00:15](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=15.96s)]
+*  over the years for that. [[00:00:17](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=17.8s)]
+*  But if you go back and watch the tape, [[00:00:18](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=18.68s)]
+*  you will find out that maybe more than any other person [[00:00:20](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=20.44s)]
+*  on television, Glenn Beck got it right again and again [[00:00:22](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=22.8s)]
+*  and again. [[00:00:27](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=27.48s)]
+*  So we thought tonight is the perfect opportunity [[00:00:28](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=28.68s)]
+*  to hear from him. [[00:00:31](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=31.12s)]
+*  He's the co-founder of Blaze Media. [[00:00:31](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=31.96s)]
+*  He's just written a book called The Great Reset. [[00:00:33](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=33.72s)]
+*  And he joins us now for an overview of what we're watching. [[00:00:35](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=35.64s)]
+*  Glenn Beck, thank you so much for coming on tonight. [[00:00:38](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=38.52s)]
+*  How would you interpret this? [[00:00:41](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=41.08s)]
+*  Well, it's true. [[00:00:44](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=44.6s)]
+*  So let me, I've got a couple of things here for you. [[00:00:46](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=46.52s)]
+*  Let me just go through. [[00:00:49](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=49.480000000000004s)]
+*  I'm gonna bring, I think, a different perspective to this. [[00:00:50](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=50.8s)]
+*  We have the banking crisis. [[00:00:53](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=53.92s)]
+*  They say it's fine. [[00:00:55](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=55.22s)]
+*  It's just beginning. [[00:00:56](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=56.24s)]
+*  Yesterday, we had the Saudis and Brazil and China [[00:00:58](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=58.6s)]
+*  enter a deal to where the petrodollar is over. [[00:01:05](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=65.6s)]
+*  Brazil and China are gonna trade in their own currency. [[00:01:09](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=69.28s)]
+*  That's the beginning of the end of our currency. [[00:01:13](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=73.32s)]
+*  That means a dollar collapse. [[00:01:15](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=75.8s)]
+*  That means we become Venezuela. [[00:01:17](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=77.32s)]
+*  We will have war with China. [[00:01:19](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=79.8s)]
+*  We will have war with Russia and Iran. [[00:01:21](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=81.72s)]
+*  We have the restrict bill. [[00:01:24](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=84.88s)]
+*  We have social media and our NSA and everybody else [[00:01:26](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=86.16s)]
+*  in bed with each other, silencing people. [[00:01:30](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=90.03999999999999s)]
+*  We, of course, have the raccoon dogs, [[00:01:32](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=92.56s)]
+*  which we all know is bull crap. [[00:01:34](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=94.47999999999999s)]
+*  And now this week, we have a new gun grab [[00:01:36](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=96.39999999999999s)]
+*  that they're trying to do. [[00:01:40](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=100.67999999999999s)]
+*  Biden and his family taking money from the Chinese. [[00:01:43](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=103.12s)]
+*  What do you think this Donald Trump thing [[00:01:46](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=106.96s)]
+*  is really all about? [[00:01:48](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=108.52s)]
+*  The American, the America that we knew, [[00:01:50](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=110.12s)]
+*  the fundamental transformation that started in 2008 [[00:01:53](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=113.58s)]
+*  is finished. [[00:01:57](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=117.53999999999999s)]
+*  We are no longer viewed as a superpower. [[00:01:58](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=118.56s)]
+*  We are now an elderly, [[00:02:02](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=122.62s)]
+*  what were Joe Biden just walking into the twilight. [[00:02:06](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=126.58s)]
+*  What this is all about, I believe, [[00:02:10](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=130.66s)]
+*  is trying to inflame this country. [[00:02:13](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=133.14s)]
+*  They've wanted violence from the right from the beginning. [[00:02:17](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=137.38s)]
+*  They can't wait it. [[00:02:21](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=141.26s)]
+*  They need it. [[00:02:22](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=142.82s)]
+*  Because if we strike out, look at January 6th, [[00:02:24](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=144.16s)]
+*  the day they're letting the shaman out of prison [[00:02:28](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=148.29999999999998s)]
+*  because it was all trumped up, [[00:02:31](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=151.7s)]
+*  thank you, Tucker Carlson, for revealing this, [[00:02:33](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=153.57999999999998s)]
+*  the day they're letting him out, [[00:02:37](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=157.12s)]
+*  they do this to Donald Trump? [[00:02:39](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=159.7s)]
+*  They want you to strike out. [[00:02:42](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=162.22s)]
+*  Why? [[00:02:44](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=164.24s)]
+*  Because then they can close the cage. [[00:02:45](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=165.07999999999998s)]
+*  I'm gonna make another prediction for you, Tucker. [[00:02:47](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=167.57999999999998s)]
+*  You said I got it right. [[00:02:50](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=170.42s)]
+*  Well, everything I've been talking about since 08, [[00:02:51](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=171.82s)]
+*  this is the time. [[00:02:54](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=174.86s)]
+*  I'm gonna make a prediction. [[00:02:56](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=176.94s)]
+*  By 2025, we are going to be at war. [[00:02:58](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=178.1s)]
+*  We are going to have a new dollar, [[00:03:03](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=183.4s)]
+*  a currency that probably is coming from the central bank, [[00:03:06](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=186.06s)]
+*  we'll have a currency collapse, [[00:03:09](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=189.34s)]
+*  and we will live in a virtual police state. [[00:03:11](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=191.98s)]
+*  I know that might sound crazy to a lot of people. [[00:03:15](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=195.62s)]
+*  It's not far off. [[00:03:18](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=198.66s)]
+*  The Bill of Rights is gone. [[00:03:22](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=202.06s)]
+*  Nobody is paying attention. [[00:03:25](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=205.32s)]
+*  Where are the Republicans? [[00:03:27](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=207.42000000000002s)]
+*  Where are the decent Democrats that can see [[00:03:30](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=210.34s)]
+*  this is insanity? [[00:03:34](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=214.98000000000002s)]
+*  Donald Trump, the reason why this is going to [[00:03:38](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=218.44s)]
+*  help Donald Trump, and that's why I don't think [[00:03:43](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=223.06s)]
+*  they're doing it so he can't run. [[00:03:45](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=225.62s)]
+*  They're doing it because they want people to strike out. [[00:03:47](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=227.38s)]
+*  Please turn to God, repent, pray for our country, [[00:03:50](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=230.18s)]
+*  pray for peace, put on the full armor of God. [[00:03:54](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=234.5s)]
+*  But here's what's really, what they miss. [[00:03:57](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=237.74s)]
+*  Donald Trump is not even a person anymore. [[00:04:02](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=242.06s)]
+*  He is a symbol. [[00:04:05](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=245.98000000000002s)]
+*  He is a symbol of the average everyday guy [[00:04:07](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=247.46s)]
+*  that keeps getting screwed every single time, [[00:04:10](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=250.78s)]
+*  watches other people screw up big banks, [[00:04:15](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=255.4s)]
+*  screw up their companies, and get away with it. [[00:04:19](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=259.02s)]
+*  They see people all the time doing stuff [[00:04:22](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=262.34s)]
+*  that they know if they did, they'd be in prison [[00:04:24](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=264.74s)]
+*  for 20 years, but because they're not part of the elite, [[00:04:28](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=268.06s)]
+*  they get away with it. [[00:04:32](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=272.09999999999997s)]
+*  Donald Trump has taken arrow after arrow, [[00:04:33](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=273.46s)]
+*  and that's why this is the way [[00:04:36](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=276.78s)]
+*  the average American feels tonight. [[00:04:40](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=280.9s)]
+*  I hope that there's a few Democrats out there, [[00:04:44](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=284.02s)]
+*  but this guy has been taking the bullets [[00:04:49](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=289.7s)]
+*  for the average person now for years, [[00:04:51](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=291.66s)]
+*  and people on the right feel like he's the only guy [[00:04:55](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=295.5s)]
+*  that really gets what the people are feeling, [[00:04:59](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=299.3s)]
+*  and it's not gonna end well for the Democrats [[00:05:03](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=303.54s)]
+*  in the next election. [[00:05:09](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=309.02000000000004s)]
+*  It's just not. [[00:05:10](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=310.22s)]
+*  I don't know if Donald Trump is the winner or not, [[00:05:11](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=311.66s)]
+*  but I will tell you this. [[00:05:14](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=314.82s)]
+*  Donald, you're not going to stop 100 million people. [[00:05:16](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=316.58s)]
+*  This country is in shambles, [[00:05:22](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=322.94s)]
+*  and there's gonna be 100 million people [[00:05:26](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=326.58s)]
+*  that will walk on broken glass and through fire [[00:05:28](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=328.54s)]
+*  to vote for someone other than [[00:05:31](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=331.5s)]
+*  this corrupt Banana Republic administration. [[00:05:34](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=334.5s)]
+*  That's, I think, exactly right. [[00:05:39](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=339.74s)]
+*  Glenn Beck, wow. [[00:05:41](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=341.5s)]
+*  I'm gonna be processing that for a couple days. [[00:05:43](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=343.46s)]
+*  I really appreciate your coming on tonight. [[00:05:45](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=345.02s)]
+*  Thank you. [[00:05:46](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=346.78s)]
+*  Thank you, Tucker, thank you. [[00:05:48](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=348.82s)]
+*  Subscribe to the Fox News YouTube channel [[00:05:50](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=350.7s)]
+*  to catch our nightly opens, [[00:05:53](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=353.02s)]
+*  stories that are changing the world and changing your life [[00:05:55](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=355.06s)]
+*  from Tucker Carlson tonight. [[00:05:58](https://www.youtube.com/watch?v=CBr9hgxZiNg&t=358.78s)]

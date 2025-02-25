@@ -1,0 +1,156 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 381s
+Video Keywords: ['brian kilmeade', 'donald trump', 'fnc', 'fox', 'fox & friends', 'fox news', 'fox news channel', 'fox news media', 'news', 'one nation', 'pete hegseth', 'political news', 'politics', 'secret service', 'secret service investigation', 'secret service probe', 'secret service trump', 'trump', 'trump 2024', 'trump assassination attempt', 'trump assassination attempts', 'trump campaign', 'trump news', 'trump secret service', 'us secret service']
+Video Views: 31001
+Video Rating: None
+Video Description: Fox News host Brian Kilmeade reacts to admissions from the U.S. Secret Service acting director on the Trump assassination attempts and previews the ‘One Nation’ line-up. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Brian Kilmeade: How hard would this have been?
+**Fox News - Fox and Friends:** [September 21, 2024](https://www.youtube.com/watch?v=TTs6c8_oR7g)
+*  Acting Secret Service Director Ronald Roe owning up to some of the agency failures including [[00:00:00](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=0.0s)]
+*  a lack of communication and drone issues that led to the first assassination attempt on [[00:00:07](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=7.58s)]
+*  President Trump, the first. [[00:00:13](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=13.06s)]
+*  It comes as a new Secret Service report reveals that local police responsible for the roof [[00:00:15](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=15.32s)]
+*  where the shooter was found had never spoken to the Secret Service prior to the attempt [[00:00:18](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=18.96s)]
+*  on Trump's life. [[00:00:24](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=24.02s)]
+*  Joining us now with more is Fox & Friends co-host and host of One Nation, Brian Kilmeade. [[00:00:26](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=26.54s)]
+*  Brian, great to see you. [[00:00:31](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=31.38s)]
+*  What do you make of this quasi-mea culpa and what's been revealed around the investigation? [[00:00:33](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=33.66s)]
+*  I mean, Ronald Roe has an opportunity to say, listen, I wasn't in charge, this is what I [[00:00:39](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=39.7s)]
+*  found, let's work on this together. [[00:00:44](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=44.879999999999995s)]
+*  And I appreciate the fact that he's coming out and he's addressing us because you know [[00:00:46](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=46.82s)]
+*  who didn't? [[00:00:50](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=50.379999999999995s)]
+*  He acted the director that was responsible, Kimberly Cheadle, who looks as though looking [[00:00:51](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=51.9s)]
+*  at her resume she had no business running the Secret Service, who came out arrogantly [[00:00:56](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=56.78s)]
+*  and just smugly sat there and said after her testimony, which was such a train wreck, she [[00:01:01](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=61.0s)]
+*  resigned. [[00:01:07](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=67.22s)]
+*  But to me he comes off defensive. [[00:01:08](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=68.3s)]
+*  We know these people are great. [[00:01:10](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=70.58s)]
+*  I have a lot of trouble, as do you, being critical of law enforcement. [[00:01:11](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=71.94s)]
+*  People that throw themselves in front of bullets should be lauded, not criticized. [[00:01:16](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=76.08s)]
+*  And I worry that they're watching me and you and saying, I work 18 hours a day, I haven't [[00:01:21](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=81.42s)]
+*  seen my family in three months, and now these guys are going to be critical of me. [[00:01:25](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=85.9s)]
+*  I'm not. [[00:01:29](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=89.86s)]
+*  But the systems are broken. [[00:01:30](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=90.86s)]
+*  I can't believe how bad this was. [[00:01:32](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=92.7s)]
+*  Do you know one of the highlights for me was instead of using their radios to say we're [[00:01:35](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=95.18s)]
+*  looking for a would-be gunman, they can't find him, they're texting. [[00:01:40](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=100.6s)]
+*  I mean, how hard would it be to use your radio which would have alerted everybody? [[00:01:45](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=105.1s)]
+*  How hard would it have been to put local police in a meeting with the Secret Service [[00:01:49](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=109.3s)]
+*  in order to coordinate an event? [[00:01:53](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=113.53999999999999s)]
+*  And Pete, I thought about this. [[00:01:54](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=114.8s)]
+*  How many other events, mostly probably Trump because he does most of them, were barely [[00:01:56](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=116.47999999999999s)]
+*  protected? [[00:02:01](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=121.7s)]
+*  How many other events where a handful of cops with no coordination with the Secret Service? [[00:02:02](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=122.7s)]
+*  If you really cared, you'd go back, not just to Butler, to others and say what was the [[00:02:07](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=127.66s)]
+*  deal? [[00:02:12](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=132.54s)]
+*  And then I like to get Secret Service involved. [[00:02:13](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=133.54s)]
+*  I hear one of the requirements for to be Secret Service is college. [[00:02:15](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=135.54s)]
+*  If you are a special operator and you come out at 32 years old and you want to retire [[00:02:20](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=140.94s)]
+*  and do something productive, maybe you want to go to the Secret Service or any of your [[00:02:25](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=145.7s)]
+*  bachelor's degree. [[00:02:28](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=148.82s)]
+*  Can we waive that and get some of the best trained people in our country around the most [[00:02:29](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=149.82s)]
+*  important people in our country? [[00:02:34](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=154.62s)]
+*  Especially when they have a shortage of counter snipers and specialties that easily could [[00:02:36](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=156.85999999999999s)]
+*  be filled by experts from the military. [[00:02:40](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=160.14s)]
+*  Well, you had a chance to talk to... [[00:02:43](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=163.7s)]
+*  Oh, go ahead, Brian. [[00:02:45](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=165.0s)]
+*  Yeah, I just want to say, and the other one, I do not understand how they consider the [[00:02:46](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=166.0s)]
+*  golf thing, assassination number two, a success. [[00:02:51](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=171.85999999999999s)]
+*  You got to have somebody walk in the perimeter, say, I love what my agent did, spotting the [[00:02:55](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=175.38s)]
+*  barrel of the gun, but I'm disappointed we didn't have someone on the other side of the [[00:02:59](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=179.89999999999998s)]
+*  fence. [[00:03:03](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=183.89999999999998s)]
+*  Don't just say we did enough because logic gets in here and you say, what else are you [[00:03:04](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=184.89999999999998s)]
+*  not being candid about? [[00:03:09](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=189.38s)]
+*  But I asked President Trump this, Pete. [[00:03:10](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=190.86s)]
+*  I said, I know you feel protected. [[00:03:12](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=192.46s)]
+*  You've already said that. [[00:03:13](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=193.98000000000002s)]
+*  But what about your family? [[00:03:15](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=195.46s)]
+*  And this is what he said. [[00:03:16](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=196.98000000000002s)]
+*  I know you and your safety and the special secret service, but do you worry about your [[00:03:19](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=199.5s)]
+*  family too? [[00:03:23](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=203.14000000000001s)]
+*  I do. [[00:03:24](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=204.14000000000001s)]
+*  I do. [[00:03:25](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=205.14000000000001s)]
+*  I don't talk about it, but I do. [[00:03:26](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=206.14000000000001s)]
+*  I have to worry about family. [[00:03:28](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=208.18s)]
+*  I have to worry about everybody. [[00:03:29](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=209.54000000000002s)]
+*  I worry about you. [[00:03:31](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=211.10000000000002s)]
+*  I worry about everybody because, look, we're under siege and no country has ever suffered [[00:03:32](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=212.42000000000002s)]
+*  like we have for the last three and a half, almost four years, when they allow millions [[00:03:37](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=217.78s)]
+*  of people to come into our country from prisons, right? [[00:03:42](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=222.18s)]
+*  From prisons and terrorists and people from mental institutions, and they take over our [[00:03:46](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=226.46s)]
+*  parks. [[00:03:51](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=231.3s)]
+*  Look at New York. [[00:03:52](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=232.3s)]
+*  They can't play Little League Baseball anymore. [[00:03:53](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=233.3s)]
+*  You know, that doesn't sound serious, but it is serious. [[00:03:54](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=234.3s)]
+*  When they take away your whole lifestyle, when they live in hotels better than our incredible [[00:03:57](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=237.46s)]
+*  veterans who are lying on the street opposite the main entrance to a hotel, and in that [[00:04:03](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=243.42000000000002s)]
+*  hotel you have illegal aliens that have come in, and by the way, destroying the hotel, [[00:04:07](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=247.5s)]
+*  fighting at levels that the police don't even want to go into the hotels. [[00:04:12](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=252.9s)]
+*  When you have that happening at this city and this country, I do. [[00:04:16](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=256.5s)]
+*  I want to protect everybody. [[00:04:20](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=260.34s)]
+*  You know, P.D., he has meetings during the day. [[00:04:22](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=262.86s)]
+*  Then he goes to the cryptocurrency, first purchase ever by a former president, buys [[00:04:27](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=267.26s)]
+*  a bunch of hamburgers, does Gutfeld, which took an hour and a half, and then he gets [[00:04:32](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=272.5s)]
+*  on a caravan, goes to Long Island, has to take pictures with 300 VIPs all paid for it, [[00:04:36](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=276.5s)]
+*  does 10 minutes with me, which you know is taxing and exhausting, and then he does a [[00:04:42](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=282.54s)]
+*  two hour live event in front of 18,000 people with maybe 6,000 on the outside, and then [[00:04:46](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=286.94s)]
+*  who knows what he did on the way back in New York. [[00:04:54](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=294.02s)]
+*  He didn't worry about his son at a local college here in New York City. [[00:04:56](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=296.62s)]
+*  I mean, that's tough for a 28-year-old. [[00:05:00](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=300.34s)]
+*  What about a 78-year-old? [[00:05:03](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=303.34s)]
+*  But he thinks he can do this, and we're going to find out in the next 45 days if he can. [[00:05:05](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=305.22s)]
+*  Sure will. [[00:05:11](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=311.70000000000005s)]
+*  I wonder who has more energy, Donald Trump or Brian Kilmeade? [[00:05:12](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=312.70000000000005s)]
+*  That is an open question. [[00:05:15](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=315.82000000000005s)]
+*  We will debate it on the couch. [[00:05:16](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=316.90000000000003s)]
+*  It's a toss-up. [[00:05:18](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=318.1s)]
+*  It's a toss-up. [[00:05:19](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=319.1s)]
+*  But Pete, I'll tell you, I have a chance to talk to you tonight at 9 o'clock. [[00:05:20](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=320.1s)]
+*  You have done something for me that I just can't thank you enough. [[00:05:26](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=326.42s)]
+*  You watched thousands of hours of video and pulled out the media moments of the week, [[00:05:29](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=329.6s)]
+*  and I can't wait to see what you have. [[00:05:33](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=333.54s)]
+*  Robert Davie overdressed, but he's going to be great talking about celebrities and singing. [[00:05:35](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=335.06s)]
+*  Should they be weighing in on what you guys were just talking about when it comes to these [[00:05:39](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=339.5s)]
+*  elections? [[00:05:42](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=342.85999999999996s)]
+*  And ask Asa Raskin and Tristan Harris. [[00:05:43](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=343.85999999999996s)]
+*  Asa invented the scrolling mechanism on your phone that lets you go through Instagram and [[00:05:48](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=348.09999999999997s)]
+*  all your things. [[00:05:54](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=354.46s)]
+*  He feels guilty. [[00:05:55](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=355.59999999999997s)]
+*  It formed an addiction in this country. [[00:05:56](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=356.71999999999997s)]
+*  Is AI a friend or foe? [[00:05:58](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=358.85999999999996s)]
+*  Both of them, break it down for us. [[00:06:00](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=360.29999999999995s)]
+*  We've seen the entire interview with Donald Trump on One Nation tonight. [[00:06:02](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=362.1s)]
+*  Do not miss it. [[00:06:05](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=365.78000000000003s)]
+*  Brian? [[00:06:06](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=366.78000000000003s)]
+*  Yes. [[00:06:07](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=367.78000000000003s)]
+*  Thank you. [[00:06:08](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=368.78000000000003s)]
+*  9 o'clock. [[00:06:09](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=369.78000000000003s)]
+*  You got it. [[00:06:10](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=370.78000000000003s)]
+*  I'm Steve Ducey. [[00:06:11](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=371.78000000000003s)]
+*  I'm Brian Kilmeade. [[00:06:12](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=372.78000000000003s)]
+*  And I'm Ainsley Earhart. [[00:06:13](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=373.78000000000003s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:06:14](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=374.78000000000003s)]
+*  and most compelling analysis. [[00:06:17](https://www.youtube.com/watch?v=TTs6c8_oR7g&t=377.54s)]

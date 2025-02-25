@@ -1,0 +1,156 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 324s
+Video Keywords: ['ismail haniyeh', 'hamas chief killed', 'ismail haniyeh in iran', 'hamas leader killed', 'ismail haniyeh killed in iran', 'ismail haniyeh dead', 'israel hamas war', 'tehran airstrike', 'iran airstrike', 'hamas leadership', 'ismail haniyeh death', 'gaza', 'gaza strip', 'middle east', 'fox news', 'fox news media', 'fox news channel', 'world news', 'israel', 'hamas', 'israel hamas war news', 'foreign policy', 'biden foreign policy', 'biden administration', 'white house', 'president biden', 'trump', 'donald trump', 'trump news']
+Video Views: 259084
+Video Rating: None
+Video Description: Trump 2024 campaign senior adviser Danielle Alvarez joined 'Fox & Friends First' to discuss why the world is safer under Trump's leadership and why she considers Kamala Harris 'dangerously liberal' on the issues. #FoxNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Trump FIRES back at Biden admin after killing of top Hamas leader
+**Fox News - Middle East:** [July 31, 2024](https://www.youtube.com/watch?v=D5Kp7D-xIHk)
+*  Let's bring in Trump 2024 campaign senior advisor, [[00:00:00](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=0.0s)]
+*  Danielle Alvarez. [[00:00:03](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=3.2s)]
+*  Danielle, your boss, responding to the death [[00:00:04](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=4.5600000000000005s)]
+*  of Hamas leader and all the events [[00:00:07](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=7.0s)]
+*  coming out of the Middle East in the last 12 hours [[00:00:09](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=9.0s)]
+*  with the following post on Truth Social. [[00:00:11](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=11.200000000000001s)]
+*  Quote, Russia never invaded Ukraine under Trump. [[00:00:13](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=13.280000000000001s)]
+*  Iran never invaded Israel under Trump. [[00:00:17](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=17.6s)]
+*  Nobody invaded anybody under Trump. [[00:00:20](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=20.0s)]
+*  China never even thought of invading Taiwan under Trump. [[00:00:21](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=21.84s)]
+*  Biggest embarrassment ever in Afghanistan [[00:00:24](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=24.82s)]
+*  would have never happened under Trump. [[00:00:27](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=27.6s)]
+*  There was no inflation under Trump. [[00:00:29](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=29.36s)]
+*  What a different world it would be under Trump. [[00:00:30](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=30.88s)]
+*  So what's the campaign's message on what a Kamala Harris [[00:00:34](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=34.16s)]
+*  presidency would mean for US foreign policy going forward? [[00:00:37](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=37.12s)]
+*  President Donald Trump is absolutely right. [[00:00:42](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=42.879999999999995s)]
+*  Under his leadership, there was historic peace, [[00:00:44](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=44.8s)]
+*  because there is always peace through strength. [[00:00:47](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=47.56s)]
+*  And what we're seeing now is chaos on the world stage, [[00:00:50](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=50.68s)]
+*  because Kamala Harris is weak. [[00:00:53](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=53.4s)]
+*  She has failed. [[00:00:55](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=55.84s)]
+*  Our adversaries laugh at the Harris-Biden administration. [[00:00:56](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=56.68s)]
+*  We've seen Russia invade Ukraine. [[00:01:01](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=61.12s)]
+*  We've seen China embolden. [[00:01:02](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=62.88s)]
+*  We've seen Hamas attack Israel. [[00:01:04](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=64.68s)]
+*  I mean, it is so unsafe in the world, [[00:01:07](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=67.64s)]
+*  because Kamala Harris is at the helm, [[00:01:11](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=71.12s)]
+*  because she propped up Joe Biden and lied about his health [[00:01:14](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=74.56s)]
+*  for 3 and 1 half years. [[00:01:18](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=78.8s)]
+*  It's an absolute disaster. [[00:01:20](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=80.56s)]
+*  It hurts our nation. [[00:01:22](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=82.56s)]
+*  And it is time to elect President Donald Trump, [[00:01:24](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=84.24000000000001s)]
+*  because he said it best. [[00:01:26](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=86.52s)]
+*  There was peace in his administration, [[00:01:28](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=88.39999999999999s)]
+*  and the world was much safer because of the strength [[00:01:30](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=90.96s)]
+*  of America. [[00:01:34](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=94.84s)]
+*  Politico is reporting that the Israeli government [[00:01:36](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=96.08s)]
+*  is worried about a potential Kamala Harris administration, [[00:01:38](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=98.16s)]
+*  because she is seen as much more sympathetic [[00:01:41](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=101.08s)]
+*  to the Palestinian side than even Joe Biden. [[00:01:43](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=103.24s)]
+*  Under a Trump administration, would Israel [[00:01:46](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=106.03999999999999s)]
+*  have those same concerns? [[00:01:48](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=108.16s)]
+*  Absolutely not. [[00:01:51](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=111.84s)]
+*  Kamala Harris is dangerously liberal. [[00:01:52](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=112.72s)]
+*  I mean, the internet can try to wipe out how liberal she is. [[00:01:55](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=115.36s)]
+*  GovTrack rated her the most liberal senator, more liberal [[00:02:01](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=121.08s)]
+*  than Bernie Sanders. [[00:02:03](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=123.88s)]
+*  But Americans know just how radical, just how left she is. [[00:02:05](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=125.6s)]
+*  We know that now she's trying to walk the line as it relates [[00:02:11](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=131.04s)]
+*  to Israel and Gaza. [[00:02:14](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=134.96s)]
+*  But we know that when these attacks happened [[00:02:16](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=136.56s)]
+*  and when college students and protesters took to campuses [[00:02:19](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=139.0s)]
+*  She supported pro-Hamas sympathizers, [[00:02:23](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=143.56s)]
+*  and she supported pro-Hamas on college campuses. [[00:02:27](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=147.04s)]
+*  And it's just an absolute disaster. [[00:02:31](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=151.92000000000002s)]
+*  It's not a worry that we would have under President Trump, [[00:02:33](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=153.4s)]
+*  because he was able to deliver peace in the Middle East [[00:02:35](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=155.8s)]
+*  through the Abraham Accords when nobody said that was possible. [[00:02:39](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=159.28s)]
+*  That's the leadership we had under Donald Trump, [[00:02:42](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=162.36s)]
+*  and that's the leadership that we must return to. [[00:02:44](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=164.4s)]
+*  To the border now, VP Harris rallying in Atlanta, [[00:02:46](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=166.76s)]
+*  the same venue where President Trump and JD Vance [[00:02:49](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=169.28s)]
+*  will campaign at this weekend. [[00:02:51](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=171.72s)]
+*  And she sort of has a different take [[00:02:53](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=173.51999999999998s)]
+*  on how the whole border mess came about. [[00:02:55](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=175.83999999999997s)]
+*  Let's take a listen. [[00:02:57](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=177.92s)]
+*  Donald Trump does not care about border security. [[00:03:00](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=180.48s)]
+*  He only cares about himself. [[00:03:04](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=184.23999999999998s)]
+*  And when I am president, I will work [[00:03:06](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=186.32s)]
+*  to actually solve the problem. [[00:03:08](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=188.35999999999999s)]
+*  Yeah! [[00:03:10](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=190.48s)]
+*  Yeah! [[00:03:11](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=191.48s)]
+*  So here is my pledge to you. [[00:03:15](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=195.72s)]
+*  As president, I will bring back the border security bill [[00:03:19](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=199.32s)]
+*  that Donald Trump killed, and I will sign it into law. [[00:03:23](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=203.24s)]
+*  And show Donald Trump what real leadership looks like. [[00:03:30](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=210.88s)]
+*  So a few lies in there. [[00:03:35](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=215.56s)]
+*  Donald Trump did not kill any border security bill. [[00:03:36](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=216.64s)]
+*  He has not been in office for the last three and a half years. [[00:03:38](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=218.72s)]
+*  That's when that border security bill came out. [[00:03:40](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=220.72s)]
+*  It was Harris who in 2019 rejected more funding [[00:03:42](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=222.88s)]
+*  for border patrol agents, [[00:03:45](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=225.96s)]
+*  and it was Harris who compared ICE to the KKK. [[00:03:47](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=227.79999999999998s)]
+*  So obviously these are lies, [[00:03:50](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=230.51999999999998s)]
+*  but how will your campaign keep these lies from Kamala Harris, [[00:03:52](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=232.16s)]
+*  specifically on the border, from spreading, [[00:03:56](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=236.67999999999998s)]
+*  especially in those swing states [[00:03:59](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=239.32s)]
+*  where those voters are looking for that answer, [[00:04:00](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=240.95999999999998s)]
+*  looking for that final determination [[00:04:03](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=243.72s)]
+*  as to who they're going to pull the lever for, Danielle? [[00:04:05](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=245.56s)]
+*  It's laughable that she's trying to rewrite history. [[00:04:09](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=249.2s)]
+*  Everyone knows that she was the original border czar. [[00:04:11](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=251.64s)]
+*  And what's best is that she has said it in her own words, [[00:04:14](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=254.32s)]
+*  talking about decriminalizing border crossings, [[00:04:17](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=257.24s)]
+*  talking about abolishing ICE. [[00:04:20](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=260.48s)]
+*  I mean, all of this she has stated in her own words, [[00:04:22](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=262.72s)]
+*  we're going to roll back the tapes, [[00:04:25](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=265.88s)]
+*  we're going to play those clips [[00:04:27](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=267.28000000000003s)]
+*  because the border was secure under Donald Trump. [[00:04:28](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=268.84000000000003s)]
+*  The floodgates were open under Kamala Harris and Joe Biden. [[00:04:32](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=272.12s)]
+*  It's been devastating for our country, [[00:04:35](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=275.88s)]
+*  and it came using her own words. [[00:04:38](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=278.48s)]
+*  I mean, let's be very honest. [[00:04:41](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=281.0s)]
+*  Yesterday at her event, [[00:04:42](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=282.84000000000003s)]
+*  the crowd was not buying what she was saying. [[00:04:44](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=284.72s)]
+*  We've now seen clips on social media [[00:04:46](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=286.72s)]
+*  where they were there [[00:04:48](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=288.96000000000004s)]
+*  because they thought they were there for a concert, [[00:04:49](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=289.8s)]
+*  and they left as soon as she started remarking. [[00:04:52](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=292.04s)]
+*  She cannot gaslight the American people [[00:04:54](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=294.48s)]
+*  who know her as the original border czar [[00:04:57](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=297.52000000000004s)]
+*  and the original failure at this issue. [[00:04:59](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=299.96000000000004s)]
+*  Yeah. [[00:05:02](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=302.92s)]
+*  And she also said that Donald Trump [[00:05:03](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=303.76000000000005s)]
+*  doesn't care about border security. [[00:05:05](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=305.32000000000005s)]
+*  Probably the most notable comment [[00:05:07](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=307.56s)]
+*  out of the whole string of what we just played that she said. [[00:05:09](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=309.32000000000005s)]
+*  Danielle, thank you so much for joining us. [[00:05:12](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=312.16s)]
+*  I'm Steve Ducey. [[00:05:13](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=313.68s)]
+*  I'm Brian Kilmeade. [[00:05:14](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=314.56s)]
+*  And I'm Ainsley Earhart. [[00:05:15](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=315.48s)]
+*  And I'm a reporter for Fox News. [[00:05:17](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=317.28s)]
+*  And I'm a reporter for Fox News. [[00:05:18](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=318.76s)]
+*  And I'm a reporter for Fox News. [[00:05:20](https://www.youtube.com/watch?v=D5Kp7D-xIHk&t=320.16s)]

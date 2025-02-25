@@ -1,0 +1,157 @@
+---
+Date Generated: February 24, 2025
+Transcription Model: whisper medium 20231117
+Length: 386s
+Video Keywords: ['fox news', 'fox news channel', 'fox', 'news', 'fox and friends', 'fox & friends', 'dan bongino', 'bongino', 'dan bongino fox news', 'dan bongino interview', 'steve doocy', 'brian kilmeade', 'ainsley earhardt', 'Iran', 'Soleimani', 'soleimani strike', 'soleimani airstrike', 'democrats', 'trump', 'trump news', 'trump Iran', 'Trump soleimani', 'president trump', 'white house', 'donald trump', 'bongino fox news', 'politics opinion', 'politics news', 'US IRAN', 'Iraq', 'Iraq embassy', 'embassy', 'US embassy', 'qassem', 'qassem soleimani']
+Video Views: 740413
+Video Rating: None
+Video Description: Fox News contributor Dan Bongino sounds off on the criticism of President Trump's order to strike Iran's top general. #FoxNews
+ 
+FOX News operates the FOX News Channel (FNC), FOX Business Network (FBN), FOX News Radio, FOX News Headlines 24/7, FOXNews.com and the direct-to-consumer streaming service, FOX Nation. FOX News also produces FOX News Sunday on FOX Broadcasting Company and FOX News Edge. A top five-cable network, FNC has been the most-watched news channel in the country for 17 consecutive years. According to a 2018 Research Intelligencer study by Brand Keys, FOX News ranks as the second most trusted television brand in the country. Additionally, a Suffolk University/USA Today survey states Fox News is the most trusted source for television news or commentary in the country, while a 2017 Gallup/Knight Foundation survey found that among Americans who could name an objective news source, FOX News is the top-cited outlet. FNC is available in nearly 90 million homes and dominates the cable news landscape while routinely notching the top ten programs in the genre.
+
+Subscribe to Fox News!  https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+The Story with Martha MacCallum: http://video.foxnews.com/playlist/longform-the-story-with-martha-maccallum/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Bongino blasts Dems critical of Soleimani strike: What team are you on?
+**Fox News - Middle East:** [January 06, 2020](https://www.youtube.com/watch?v=kp4itKzY3zo)
+*  Tragically, his actions now put us on the path to another war. [[00:00:00](https://www.youtube.com/watch?v=kp4itKzY3zo&t=0.0s)]
+*  He's been erratic and unsuccessful in almost every previous foreign policy endeavor. [[00:00:08](https://www.youtube.com/watch?v=kp4itKzY3zo&t=8.0s)]
+*  This one is the most dangerous of all. [[00:00:13](https://www.youtube.com/watch?v=kp4itKzY3zo&t=13.68s)]
+*  We are not safer today than we were before Donald Trump acted. [[00:00:15](https://www.youtube.com/watch?v=kp4itKzY3zo&t=15.84s)]
+*  Well, that's her opinion. [[00:00:19](https://www.youtube.com/watch?v=kp4itKzY3zo&t=19.6s)]
+*  Some Democrats right there slamming President Trump for killing terror mastermind Soleimani. [[00:00:21](https://www.youtube.com/watch?v=kp4itKzY3zo&t=21.5s)]
+*  Our next guest is fired up. [[00:00:26](https://www.youtube.com/watch?v=kp4itKzY3zo&t=26.76s)]
+*  Fox News contributor Dan Bongino joins us now. [[00:00:28](https://www.youtube.com/watch?v=kp4itKzY3zo&t=28.08s)]
+*  Dan, when you hear Elizabeth Warren say we're not safer, but yet you hear that this guy [[00:00:30](https://www.youtube.com/watch?v=kp4itKzY3zo&t=30.639999999999997s)]
+*  was planning an attack on hundreds of Americans who are clearly safer today. [[00:00:34](https://www.youtube.com/watch?v=kp4itKzY3zo&t=34.64s)]
+*  What do you make of it? [[00:00:40](https://www.youtube.com/watch?v=kp4itKzY3zo&t=40.04s)]
+*  You know, Ainsley, the Democrats and some in the media, the reaction to the killing [[00:00:42](https://www.youtube.com/watch?v=kp4itKzY3zo&t=42.32s)]
+*  of this savage, one of the most dangerous men in the world, has been an abomination. [[00:00:46](https://www.youtube.com/watch?v=kp4itKzY3zo&t=46.72s)]
+*  I mean, it makes you seriously ask the question, I mean, what team are you on? [[00:00:51](https://www.youtube.com/watch?v=kp4itKzY3zo&t=51.32s)]
+*  How is this not an unabashedly good thing for the security of the entire world? [[00:00:57](https://www.youtube.com/watch?v=kp4itKzY3zo&t=57.52s)]
+*  You have to remember, it's not just American blood this savage was bathed in, it's regional [[00:01:02](https://www.youtube.com/watch?v=kp4itKzY3zo&t=62.56s)]
+*  blood as well. [[00:01:08](https://www.youtube.com/watch?v=kp4itKzY3zo&t=68.36s)]
+*  Whether it was Libya, Afghanistan, Yemen, Syria, Bahrain, Iraq, this was a force for [[00:01:09](https://www.youtube.com/watch?v=kp4itKzY3zo&t=69.68s)]
+*  instability and insecurity around the entire world. [[00:01:16](https://www.youtube.com/watch?v=kp4itKzY3zo&t=76.32000000000001s)]
+*  And just to be clear on this, so you don't think anybody here speaking with forked tongue, [[00:01:20](https://www.youtube.com/watch?v=kp4itKzY3zo&t=80.68s)]
+*  I don't remember after Barack Obama ordered the killing, thankfully, of Osama bin Laden, [[00:01:25](https://www.youtube.com/watch?v=kp4itKzY3zo&t=85.08s)]
+*  which was a successful operation for the United States and the world. [[00:01:30](https://www.youtube.com/watch?v=kp4itKzY3zo&t=90.12s)]
+*  I don't remember any of this talk about, well, was bin Laden an imminent threat? [[00:01:33](https://www.youtube.com/watch?v=kp4itKzY3zo&t=93.08s)]
+*  Well, did we really need to, did we dangerously escalate the situation? [[00:01:36](https://www.youtube.com/watch?v=kp4itKzY3zo&t=96.72s)]
+*  You know who dangerously escalated the situation? [[00:01:40](https://www.youtube.com/watch?v=kp4itKzY3zo&t=100.72s)]
+*  This Iranian savage we just killed when he decided it was a good idea to attack our embassy. [[00:01:43](https://www.youtube.com/watch?v=kp4itKzY3zo&t=103.72s)]
+*  Where were the Democrats lecturing Soleimani and the Iranians then? [[00:01:48](https://www.youtube.com/watch?v=kp4itKzY3zo&t=108.4s)]
+*  The answer is they weren't. [[00:01:51](https://www.youtube.com/watch?v=kp4itKzY3zo&t=111.74s)]
+*  They were celebrating Obama, paying him off with $100 billion in cash that they still [[00:01:52](https://www.youtube.com/watch?v=kp4itKzY3zo&t=112.74s)]
+*  continue to claim was Iranian money. [[00:01:57](https://www.youtube.com/watch?v=kp4itKzY3zo&t=117.58s)]
+*  Nobody, it wasn't Iranian money, it was the Shah's money. [[00:01:59](https://www.youtube.com/watch?v=kp4itKzY3zo&t=119.69999999999999s)]
+*  Well, Dan, what do you make of the fact that within the last hour, Senators Schumer and [[00:02:02](https://www.youtube.com/watch?v=kp4itKzY3zo&t=122.78s)]
+*  Menendez of New Jersey have sent a letter to the White House saying, hey, you've got to [[00:02:07](https://www.youtube.com/watch?v=kp4itKzY3zo&t=127.08s)]
+*  declassify that war powers notification that you sent to Congress because we want the American [[00:02:10](https://www.youtube.com/watch?v=kp4itKzY3zo&t=130.9s)]
+*  people to see the justification for pulling the trigger on this guy. [[00:02:16](https://www.youtube.com/watch?v=kp4itKzY3zo&t=136.57999999999998s)]
+*  And then you got Nancy Pelosi. [[00:02:20](https://www.youtube.com/watch?v=kp4itKzY3zo&t=140.06s)]
+*  She says that the House is going to vote this week on an Iranian resolution that essentially [[00:02:21](https://www.youtube.com/watch?v=kp4itKzY3zo&t=141.28s)]
+*  restricts the president's ability to defend the United States and attack Iran. [[00:02:25](https://www.youtube.com/watch?v=kp4itKzY3zo&t=145.8s)]
+*  Yeah, that's interesting. [[00:02:32](https://www.youtube.com/watch?v=kp4itKzY3zo&t=152.04s)]
+*  I don't remember them doing that with Al-Alaqi or any of the Obama drone strikes. [[00:02:34](https://www.youtube.com/watch?v=kp4itKzY3zo&t=154.16s)]
+*  You remember that guys? [[00:02:38](https://www.youtube.com/watch?v=kp4itKzY3zo&t=158.34s)]
+*  Do you remember the Democrats pushing for that? [[00:02:39](https://www.youtube.com/watch?v=kp4itKzY3zo&t=159.34s)]
+*  Of course you didn't because they're phony, fake, fraud hypocrites who I'm telling you, [[00:02:41](https://www.youtube.com/watch?v=kp4itKzY3zo&t=161.0s)]
+*  you should be asking yourself today a very serious question. [[00:02:46](https://www.youtube.com/watch?v=kp4itKzY3zo&t=166.84s)]
+*  I'm not kidding. [[00:02:49](https://www.youtube.com/watch?v=kp4itKzY3zo&t=169.56s)]
+*  What team are these guys on? [[00:02:50](https://www.youtube.com/watch?v=kp4itKzY3zo&t=170.94s)]
+*  We have seen them, Steve, defend MS-13. [[00:02:53](https://www.youtube.com/watch?v=kp4itKzY3zo&t=173.44s)]
+*  Remember Nancy Pelosi? [[00:02:56](https://www.youtube.com/watch?v=kp4itKzY3zo&t=176.68s)]
+*  Oh, you can't call MS-13 animals. [[00:02:57](https://www.youtube.com/watch?v=kp4itKzY3zo&t=177.68s)]
+*  No, I think when your motto is rape, torture, kill, you can pretty much call people animals. [[00:02:59](https://www.youtube.com/watch?v=kp4itKzY3zo&t=179.12s)]
+*  It's actually a disgrace to animals to call them animals. [[00:03:03](https://www.youtube.com/watch?v=kp4itKzY3zo&t=183.66s)]
+*  But that's not where Pelosi was going with that. [[00:03:06](https://www.youtube.com/watch?v=kp4itKzY3zo&t=186.16s)]
+*  Remember with the Kim Jong-un, the nuclear meetings we had? [[00:03:08](https://www.youtube.com/watch?v=kp4itKzY3zo&t=188.18s)]
+*  It appeared that they were rooting for Kim Jong-un. [[00:03:11](https://www.youtube.com/watch?v=kp4itKzY3zo&t=191.32s)]
+*  I mean, what team are these guys on? [[00:03:13](https://www.youtube.com/watch?v=kp4itKzY3zo&t=193.84s)]
+*  Listen, do you really think this is going to get you elected that mainstream America [[00:03:16](https://www.youtube.com/watch?v=kp4itKzY3zo&t=196.36s)]
+*  wants to hear you defending one of the world's most dangerous people after we took him out? [[00:03:20](https://www.youtube.com/watch?v=kp4itKzY3zo&t=200.0s)]
+*  Let's game plan this. [[00:03:25](https://www.youtube.com/watch?v=kp4itKzY3zo&t=205.3s)]
+*  Let's look ahead and we know what's going to happen. [[00:03:26](https://www.youtube.com/watch?v=kp4itKzY3zo&t=206.48000000000002s)]
+*  The Iranians have militias and relationships with terror groups all around the world, including [[00:03:29](https://www.youtube.com/watch?v=kp4itKzY3zo&t=209.64000000000001s)]
+*  sleeper cells in our country. [[00:03:35](https://www.youtube.com/watch?v=kp4itKzY3zo&t=215.32s)]
+*  As soon as something happens, and sadly something's going to happen in reprisal, that's just the [[00:03:37](https://www.youtube.com/watch?v=kp4itKzY3zo&t=217.1s)]
+*  way they work. [[00:03:41](https://www.youtube.com/watch?v=kp4itKzY3zo&t=221.24s)]
+*  This is what they live for. [[00:03:42](https://www.youtube.com/watch?v=kp4itKzY3zo&t=222.24s)]
+*  We've seen the Middle East. [[00:03:43](https://www.youtube.com/watch?v=kp4itKzY3zo&t=223.24s)]
+*  I told you so. [[00:03:44](https://www.youtube.com/watch?v=kp4itKzY3zo&t=224.24s)]
+*  We never should have done this. [[00:03:45](https://www.youtube.com/watch?v=kp4itKzY3zo&t=225.24s)]
+*  But you can't quantify the attacks that didn't happen because the supreme coordinator since [[00:03:46](https://www.youtube.com/watch?v=kp4itKzY3zo&t=226.44s)]
+*  1997 has been taken out and destabilized. [[00:03:51](https://www.youtube.com/watch?v=kp4itKzY3zo&t=231.8s)]
+*  You can't quantify attacks that didn't happen because they no longer can figure out the [[00:03:55](https://www.youtube.com/watch?v=kp4itKzY3zo&t=235.28s)]
+*  president who didn't do anything after the drone was shot down and the Saudi base was [[00:03:59](https://www.youtube.com/watch?v=kp4itKzY3zo&t=239.16s)]
+*  blown up, the oil plant was blown up. [[00:04:04](https://www.youtube.com/watch?v=kp4itKzY3zo&t=244.64000000000001s)]
+*  Now all of a sudden they go, wait a second, what is this guy capable of? [[00:04:06](https://www.youtube.com/watch?v=kp4itKzY3zo&t=246.8s)]
+*  So you can't quantify one, but you can quantify the other. [[00:04:10](https://www.youtube.com/watch?v=kp4itKzY3zo&t=250.64s)]
+*  And then you're going to see almost Democrats almost high fiving after these attacks saying, [[00:04:13](https://www.youtube.com/watch?v=kp4itKzY3zo&t=253.98s)]
+*  I told you so. [[00:04:17](https://www.youtube.com/watch?v=kp4itKzY3zo&t=257.47999999999996s)]
+*  Well let me double down on your point there. [[00:04:19](https://www.youtube.com/watch?v=kp4itKzY3zo&t=259.56s)]
+*  You're right, number one, you can't prove a counterfactual. [[00:04:20](https://www.youtube.com/watch?v=kp4itKzY3zo&t=260.91999999999996s)]
+*  That's impossible. [[00:04:23](https://www.youtube.com/watch?v=kp4itKzY3zo&t=263.4s)]
+*  You cannot show what would have happened if something happened that didn't happen. [[00:04:24](https://www.youtube.com/watch?v=kp4itKzY3zo&t=264.4s)]
+*  Secondly, something already did happen, Brian. [[00:04:28](https://www.youtube.com/watch?v=kp4itKzY3zo&t=268.15999999999997s)]
+*  We have 600 dead American servicemen buried underground whose families lost them, who [[00:04:30](https://www.youtube.com/watch?v=kp4itKzY3zo&t=270.84s)]
+*  died heroically because of this savage. [[00:04:37](https://www.youtube.com/watch?v=kp4itKzY3zo&t=277.12s)]
+*  That already happened. [[00:04:39](https://www.youtube.com/watch?v=kp4itKzY3zo&t=279.92s)]
+*  We already had an attack on our embassy that if it wasn't quelled by brave U.S. patriots [[00:04:41](https://www.youtube.com/watch?v=kp4itKzY3zo&t=281.18s)]
+*  and our military could have resulted in another Benghazi-like situation. [[00:04:45](https://www.youtube.com/watch?v=kp4itKzY3zo&t=285.68s)]
+*  This already happened. [[00:04:49](https://www.youtube.com/watch?v=kp4itKzY3zo&t=289.84000000000003s)]
+*  As you just mentioned, we've already had regional violence in Yemen with their proxy groups [[00:04:51](https://www.youtube.com/watch?v=kp4itKzY3zo&t=291.28000000000003s)]
+*  starting instability all over the world that sadly can filter back here. [[00:04:56](https://www.youtube.com/watch?v=kp4itKzY3zo&t=296.0s)]
+*  This already happened. [[00:04:59](https://www.youtube.com/watch?v=kp4itKzY3zo&t=299.96000000000004s)]
+*  So that, you're absolutely right. [[00:05:01](https://www.youtube.com/watch?v=kp4itKzY3zo&t=301.70000000000005s)]
+*  If they start going down this road, blaming everything now from this point on President [[00:05:03](https://www.youtube.com/watch?v=kp4itKzY3zo&t=303.36s)]
+*  Trump, it would just be another disturbing, gross episode in the history of a now broken [[00:05:06](https://www.youtube.com/watch?v=kp4itKzY3zo&t=306.96s)]
+*  Democrat party on foreign policy. [[00:05:11](https://www.youtube.com/watch?v=kp4itKzY3zo&t=311.12s)]
+*  What do you say to the people that do watch the networks when they're saying that this [[00:05:13](https://www.youtube.com/watch?v=kp4itKzY3zo&t=313.03999999999996s)]
+*  man was, they're praising him and... [[00:05:16](https://www.youtube.com/watch?v=kp4itKzY3zo&t=316.71999999999997s)]
+*  Revered. [[00:05:19](https://www.youtube.com/watch?v=kp4itKzY3zo&t=319.96s)]
+*  Revered. [[00:05:20](https://www.youtube.com/watch?v=kp4itKzY3zo&t=320.96s)]
+*  They say revered. [[00:05:21](https://www.youtube.com/watch?v=kp4itKzY3zo&t=321.96s)]
+*  We've had guests on that say actually he was feared by many people over there who weren't [[00:05:22](https://www.youtube.com/watch?v=kp4itKzY3zo&t=322.96s)]
+*  his followers. [[00:05:25](https://www.youtube.com/watch?v=kp4itKzY3zo&t=325.47999999999996s)]
+*  What do you say to the person that buys into that Democratic message? [[00:05:26](https://www.youtube.com/watch?v=kp4itKzY3zo&t=326.47999999999996s)]
+*  I mean, what are they going to call him next, an austere scholar? [[00:05:30](https://www.youtube.com/watch?v=kp4itKzY3zo&t=330.08s)]
+*  No, they can't do that. [[00:05:34](https://www.youtube.com/watch?v=kp4itKzY3zo&t=334.24s)]
+*  They already did that with Baghdadi. [[00:05:35](https://www.youtube.com/watch?v=kp4itKzY3zo&t=335.46s)]
+*  They've already used those adages. [[00:05:36](https://www.youtube.com/watch?v=kp4itKzY3zo&t=336.94s)]
+*  This is really why upwards of 90% of Republicans and probably close, I don't know, 30, 40% [[00:05:38](https://www.youtube.com/watch?v=kp4itKzY3zo&t=338.86s)]
+*  of Democrats, 40, 50% of the population in general just can't stand the mainstream media [[00:05:43](https://www.youtube.com/watch?v=kp4itKzY3zo&t=343.58s)]
+*  and doesn't trust them for the news anymore. [[00:05:48](https://www.youtube.com/watch?v=kp4itKzY3zo&t=348.82s)]
+*  They do it to themselves. [[00:05:50](https://www.youtube.com/watch?v=kp4itKzY3zo&t=350.32s)]
+*  It's this kind of stuff. [[00:05:51](https://www.youtube.com/watch?v=kp4itKzY3zo&t=351.82s)]
+*  I mean, it's really unbelievable that the world is now a safer place because of the [[00:05:52](https://www.youtube.com/watch?v=kp4itKzY3zo&t=352.82s)]
+*  brave decisions of our military and President Trump and we just can't all take a victory [[00:05:56](https://www.youtube.com/watch?v=kp4itKzY3zo&t=356.46s)]
+*  lap and say, okay, what do we do together going forward? [[00:06:00](https://www.youtube.com/watch?v=kp4itKzY3zo&t=360.5s)]
+*  That whole idea politics ends at the water's edge is sadly dead and gone. [[00:06:03](https://www.youtube.com/watch?v=kp4itKzY3zo&t=363.4s)]
+*  It's really disturbing. [[00:06:07](https://www.youtube.com/watch?v=kp4itKzY3zo&t=367.53999999999996s)]
+*  And I'll tell you, Joe Lieberman is a great piece about this in the Wall Street Journal [[00:06:08](https://www.youtube.com/watch?v=kp4itKzY3zo&t=368.53999999999996s)]
+*  this morning. [[00:06:10](https://www.youtube.com/watch?v=kp4itKzY3zo&t=370.91999999999996s)]
+*  A Democrat, by the way, saying, guys, we all need to get on the same team here. [[00:06:11](https://www.youtube.com/watch?v=kp4itKzY3zo&t=371.91999999999996s)]
+*  This is our country. [[00:06:15](https://www.youtube.com/watch?v=kp4itKzY3zo&t=375.65999999999997s)]
+*  We should all be bleeding red, white, and blue and interested in the security of our [[00:06:16](https://www.youtube.com/watch?v=kp4itKzY3zo&t=376.65999999999997s)]
+*  country going forward. [[00:06:19](https://www.youtube.com/watch?v=kp4itKzY3zo&t=379.35999999999996s)]
+*  This isn't a partisan issue. [[00:06:20](https://www.youtube.com/watch?v=kp4itKzY3zo&t=380.53999999999996s)]
+*  Dan Bargino, thanks so much. [[00:06:21](https://www.youtube.com/watch?v=kp4itKzY3zo&t=381.78s)]
+*  Thanks, guys. [[00:06:23](https://www.youtube.com/watch?v=kp4itKzY3zo&t=383.73999999999995s)]
+*  You bet. [[00:06:25](https://www.youtube.com/watch?v=kp4itKzY3zo&t=385.26s)]

@@ -1,0 +1,158 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 333s
+Video Keywords: ['2024 election', '2024 elections', '2024 presidential election', 'barack obama', 'biden', 'democratic party', 'democrats', 'dnc', 'dnc lindy li', 'election news', 'election results', 'fnc', 'fox', 'fox news', 'fox news channel', 'fox news election coverage', 'fox news media', 'fox news presidential election', 'harris', 'harris campaign', 'kamala harris', 'lindy li', 'news', 'obama', 'politics', 'president biden', 'presidential election', 'us elections']
+Video Views: 662747
+Video Rating: None
+Video Description: Harris surrogate and DNC National Finance Committee member Lindy Li joins ‘Fox & Friends Weekend’ with her postmortem on the Democratic Party after an ‘epic disaster’ on election night. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# VP Harris' 'coronation' was an 'epic disaster,' says DNC official
+**Fox News - Fox and Friends:** [November 09, 2024](https://www.youtube.com/watch?v=3alzdNWoylQ)
+*  Top Democrats still trying to process Vice President Harris' stunning loss. [[00:00:00](https://www.youtube.com/watch?v=3alzdNWoylQ&t=0.0s)]
+*  The former speaker, Nancy Pelosi, placing the blame on President Biden and his late [[00:00:06](https://www.youtube.com/watch?v=3alzdNWoylQ&t=6.2s)]
+*  exit from the race. [[00:00:11](https://www.youtube.com/watch?v=3alzdNWoylQ&t=11.120000000000001s)]
+*  Pelosi telling the New York Times, quote, had the president gotten out sooner, there [[00:00:12](https://www.youtube.com/watch?v=3alzdNWoylQ&t=12.280000000000001s)]
+*  may have been other candidates in the race. [[00:00:16](https://www.youtube.com/watch?v=3alzdNWoylQ&t=16.94s)]
+*  The anticipation was that if the president were to step aside, that there would be an [[00:00:19](https://www.youtube.com/watch?v=3alzdNWoylQ&t=19.72s)]
+*  open primary. [[00:00:23](https://www.youtube.com/watch?v=3alzdNWoylQ&t=23.64s)]
+*  Our next guest has recently been vocal about missteps made in the Harris campaign. [[00:00:24](https://www.youtube.com/watch?v=3alzdNWoylQ&t=24.84s)]
+*  The former President of the United States, DNC, woman's chair and Harris surrogate, [[00:00:28](https://www.youtube.com/watch?v=3alzdNWoylQ&t=28.52s)]
+*  Lindy Lee, joining us now. [[00:00:32](https://www.youtube.com/watch?v=3alzdNWoylQ&t=32.76s)]
+*  Lindy, we appreciate you being here. [[00:00:33](https://www.youtube.com/watch?v=3alzdNWoylQ&t=33.76s)]
+*  This is sort of an after analysis here of what happened with the campaign. [[00:00:35](https://www.youtube.com/watch?v=3alzdNWoylQ&t=35.76s)]
+*  But first, talk to me about what's going on. [[00:00:41](https://www.youtube.com/watch?v=3alzdNWoylQ&t=41.68s)]
+*  You see here Nancy Pelosi making the case to sort of blame Joe Biden, but it's a backhanded [[00:00:43](https://www.youtube.com/watch?v=3alzdNWoylQ&t=43.68s)]
+*  compliment because she's blaming Joe Biden for allowing Kamala Harris to be the nominee. [[00:00:48](https://www.youtube.com/watch?v=3alzdNWoylQ&t=48.8s)]
+*  Right. [[00:00:54](https://www.youtube.com/watch?v=3alzdNWoylQ&t=54.0s)]
+*  Well, thank you so much for having me. [[00:00:55](https://www.youtube.com/watch?v=3alzdNWoylQ&t=55.0s)]
+*  What she's saying is that she is not forcefully saying that Harris would have been the strongest [[00:00:56](https://www.youtube.com/watch?v=3alzdNWoylQ&t=56.48s)]
+*  candidate after a vigorous process. [[00:01:00](https://www.youtube.com/watch?v=3alzdNWoylQ&t=60.04s)]
+*  She's not saying definitively that it would have been her. [[00:01:01](https://www.youtube.com/watch?v=3alzdNWoylQ&t=61.96s)]
+*  She says it might have been her. [[00:01:04](https://www.youtube.com/watch?v=3alzdNWoylQ&t=64.34s)]
+*  But you know, maybe there was an alternative. [[00:01:05](https://www.youtube.com/watch?v=3alzdNWoylQ&t=65.84s)]
+*  Maybe it was Josh Shapiro or maybe Gretchen Whitmer, someone who can forcefully litigate [[00:01:07](https://www.youtube.com/watch?v=3alzdNWoylQ&t=67.98s)]
+*  the case against Donald Trump. [[00:01:12](https://www.youtube.com/watch?v=3alzdNWoylQ&t=72.48s)]
+*  And if you truly believe that Trump is an existential threat, and that's what Democrats [[00:01:14](https://www.youtube.com/watch?v=3alzdNWoylQ&t=74.06s)]
+*  have been saying for the past couple years, then you should have had that process instead [[00:01:17](https://www.youtube.com/watch?v=3alzdNWoylQ&t=77.03999999999999s)]
+*  of just coronating somebody. [[00:01:20](https://www.youtube.com/watch?v=3alzdNWoylQ&t=80.94s)]
+*  What is the relationship? [[00:01:24](https://www.youtube.com/watch?v=3alzdNWoylQ&t=84.08s)]
+*  What has been the relationship throughout the campaign? [[00:01:25](https://www.youtube.com/watch?v=3alzdNWoylQ&t=85.72s)]
+*  And what do you think the relationship is today between Biden world and Kamala Harris [[00:01:28](https://www.youtube.com/watch?v=3alzdNWoylQ&t=88.0s)]
+*  world? [[00:01:32](https://www.youtube.com/watch?v=3alzdNWoylQ&t=92.28s)]
+*  Well, I have friends, I mean, in both worlds. [[00:01:33](https://www.youtube.com/watch?v=3alzdNWoylQ&t=93.28s)]
+*  And let me tell you, the relationship was terrible even before the campaign. [[00:01:34](https://www.youtube.com/watch?v=3alzdNWoylQ&t=94.6s)]
+*  There was backstabbing. [[00:01:38](https://www.youtube.com/watch?v=3alzdNWoylQ&t=98.2s)]
+*  They wanted to hand her the most, you know, least favorable agenda. [[00:01:39](https://www.youtube.com/watch?v=3alzdNWoylQ&t=99.2s)]
+*  You know, the legislative priority is she was stuck with immigration, civil rights, [[00:01:43](https://www.youtube.com/watch?v=3alzdNWoylQ&t=103.84s)]
+*  like none of that. [[00:01:47](https://www.youtube.com/watch?v=3alzdNWoylQ&t=107.84s)]
+*  Before she was even a candidate, you're saying, as vice president. [[00:01:48](https://www.youtube.com/watch?v=3alzdNWoylQ&t=108.84s)]
+*  There was a lot of backstabbing we saw in the press. [[00:01:51](https://www.youtube.com/watch?v=3alzdNWoylQ&t=111.2s)]
+*  All the time, the White House leaking like a seed when it came to Kamala Harris. [[00:01:54](https://www.youtube.com/watch?v=3alzdNWoylQ&t=114.76s)]
+*  And finally, in the final year, she was able to stabilize and stop the bleeding of her [[00:01:58](https://www.youtube.com/watch?v=3alzdNWoylQ&t=118.72s)]
+*  staff because there was a lot of turnover as well. [[00:02:02](https://www.youtube.com/watch?v=3alzdNWoylQ&t=122.76s)]
+*  And we saw the press reports about that. [[00:02:05](https://www.youtube.com/watch?v=3alzdNWoylQ&t=125.12s)]
+*  And things have finally started to calm down. [[00:02:07](https://www.youtube.com/watch?v=3alzdNWoylQ&t=127.38000000000001s)]
+*  And I actually think President Biden, you know, the whole endorsing her 30 minutes after [[00:02:09](https://www.youtube.com/watch?v=3alzdNWoylQ&t=129.48000000000002s)]
+*  he dropped out, I think that was a big F you to the party. [[00:02:15](https://www.youtube.com/watch?v=3alzdNWoylQ&t=135.78s)]
+*  You know, you don't want me here somebody that you may not like, but deal with it, you [[00:02:18](https://www.youtube.com/watch?v=3alzdNWoylQ&t=138.44s)]
+*  know. [[00:02:22](https://www.youtube.com/watch?v=3alzdNWoylQ&t=142.68s)]
+*  You mean that he's sticking the party with Kamala Harris? [[00:02:23](https://www.youtube.com/watch?v=3alzdNWoylQ&t=143.68s)]
+*  Kind of like sticking it to the man. [[00:02:25](https://www.youtube.com/watch?v=3alzdNWoylQ&t=145.64000000000001s)]
+*  Yeah, but okay. [[00:02:26](https://www.youtube.com/watch?v=3alzdNWoylQ&t=146.88s)]
+*  Help me understand your perspective on that because you worked for Kamala Harris. [[00:02:27](https://www.youtube.com/watch?v=3alzdNWoylQ&t=147.88s)]
+*  I didn't. [[00:02:31](https://www.youtube.com/watch?v=3alzdNWoylQ&t=151.4s)]
+*  I'm a donor. [[00:02:32](https://www.youtube.com/watch?v=3alzdNWoylQ&t=152.4s)]
+*  You're a donor. [[00:02:33](https://www.youtube.com/watch?v=3alzdNWoylQ&t=153.4s)]
+*  Technically, I mean, you know, I am not on anyone's payroll. [[00:02:34](https://www.youtube.com/watch?v=3alzdNWoylQ&t=154.4s)]
+*  I'm not beholden to anyone. [[00:02:36](https://www.youtube.com/watch?v=3alzdNWoylQ&t=156.64000000000001s)]
+*  That's why I'm here telling the truth. [[00:02:37](https://www.youtube.com/watch?v=3alzdNWoylQ&t=157.76000000000002s)]
+*  I'm not here to gaslight anybody. [[00:02:39](https://www.youtube.com/watch?v=3alzdNWoylQ&t=159.12s)]
+*  This is just the truth. [[00:02:40](https://www.youtube.com/watch?v=3alzdNWoylQ&t=160.72s)]
+*  And what is the truth? [[00:02:41](https://www.youtube.com/watch?v=3alzdNWoylQ&t=161.72s)]
+*  The truth is the this is just an epic disaster. [[00:02:43](https://www.youtube.com/watch?v=3alzdNWoylQ&t=163.12s)]
+*  This is a one billion, a one billion dollar disaster. [[00:02:46](https://www.youtube.com/watch?v=3alzdNWoylQ&t=166.64000000000001s)]
+*  Actually, it was one billion, 18 million, I think, right? [[00:02:49](https://www.youtube.com/watch?v=3alzdNWoylQ&t=169.48000000000002s)]
+*  Or 20 million or 20 million or 18 million dollars in in debt. [[00:02:52](https://www.youtube.com/watch?v=3alzdNWoylQ&t=172.92s)]
+*  It's incredible. [[00:02:56](https://www.youtube.com/watch?v=3alzdNWoylQ&t=176.84s)]
+*  And I raised millions of that. [[00:02:57](https://www.youtube.com/watch?v=3alzdNWoylQ&t=177.84s)]
+*  I have friends that I have to be accountable to and explain what happened because I told [[00:02:59](https://www.youtube.com/watch?v=3alzdNWoylQ&t=179.04s)]
+*  them it was a margin of error race. [[00:03:03](https://www.youtube.com/watch?v=3alzdNWoylQ&t=183.28s)]
+*  I was promised General Malley Dillon promised all of us that Harris would win. [[00:03:04](https://www.youtube.com/watch?v=3alzdNWoylQ&t=184.84s)]
+*  She even put videos out saying that Harris would win. [[00:03:09](https://www.youtube.com/watch?v=3alzdNWoylQ&t=189.44s)]
+*  I believed her. [[00:03:12](https://www.youtube.com/watch?v=3alzdNWoylQ&t=192.2s)]
+*  My donors believed her. [[00:03:13](https://www.youtube.com/watch?v=3alzdNWoylQ&t=193.38s)]
+*  And so they wrote massive checks. [[00:03:15](https://www.youtube.com/watch?v=3alzdNWoylQ&t=195.16s)]
+*  I just I feel like a lot of us were misled. [[00:03:17](https://www.youtube.com/watch?v=3alzdNWoylQ&t=197.44s)]
+*  And even on the night of election night, well, I looked somebody in the eye and I said, [[00:03:19](https://www.youtube.com/watch?v=3alzdNWoylQ&t=199.84s)]
+*  are we going to do this? [[00:03:23](https://www.youtube.com/watch?v=3alzdNWoylQ&t=203.68s)]
+*  Are we going to pull it off? [[00:03:24](https://www.youtube.com/watch?v=3alzdNWoylQ&t=204.68s)]
+*  She told me yes. [[00:03:25](https://www.youtube.com/watch?v=3alzdNWoylQ&t=205.88000000000002s)]
+*  And I asked somebody else, like, how are you feeling? [[00:03:27](https://www.youtube.com/watch?v=3alzdNWoylQ&t=207.16000000000003s)]
+*  He's like, we're going to win Iowa. [[00:03:29](https://www.youtube.com/watch?v=3alzdNWoylQ&t=209.64000000000001s)]
+*  And I was like, did they believe this going in? [[00:03:31](https://www.youtube.com/watch?v=3alzdNWoylQ&t=211.60000000000002s)]
+*  Was there a real sense of false confidence on the side of Kamala Harris? [[00:03:34](https://www.youtube.com/watch?v=3alzdNWoylQ&t=214.96s)]
+*  What did they know? [[00:03:39](https://www.youtube.com/watch?v=3alzdNWoylQ&t=219.60000000000002s)]
+*  They were in in store for disaster. [[00:03:40](https://www.youtube.com/watch?v=3alzdNWoylQ&t=220.60000000000002s)]
+*  You know, I was wondering about that. [[00:03:42](https://www.youtube.com/watch?v=3alzdNWoylQ&t=222.88000000000002s)]
+*  I was like, are you I asked them, are you privy to internal numbers that I am not seeing? [[00:03:44](https://www.youtube.com/watch?v=3alzdNWoylQ&t=224.04000000000002s)]
+*  Because I study this so carefully and I just wasn't seeing any basis for that level of [[00:03:48](https://www.youtube.com/watch?v=3alzdNWoylQ&t=228.32s)]
+*  confidence. [[00:03:52](https://www.youtube.com/watch?v=3alzdNWoylQ&t=232.95999999999998s)]
+*  And I also want to remind our viewers that, you know, the Trump campaign was touting all [[00:03:54](https://www.youtube.com/watch?v=3alzdNWoylQ&t=234.35999999999999s)]
+*  of these incredible empirical data weeks before election night. [[00:03:59](https://www.youtube.com/watch?v=3alzdNWoylQ&t=239.44s)]
+*  What Harris is touting was the door knocking. [[00:04:03](https://www.youtube.com/watch?v=3alzdNWoylQ&t=243.12s)]
+*  She didn't say anything really about early voting. [[00:04:05](https://www.youtube.com/watch?v=3alzdNWoylQ&t=245.32s)]
+*  Now I know it's because there was nothing much to say. [[00:04:08](https://www.youtube.com/watch?v=3alzdNWoylQ&t=248.24s)]
+*  I asked you what the relationship was between Biden world and Kamala Harris world and you [[00:04:11](https://www.youtube.com/watch?v=3alzdNWoylQ&t=251.64s)]
+*  told me it was bad. [[00:04:16](https://www.youtube.com/watch?v=3alzdNWoylQ&t=256.21999999999997s)]
+*  Predating the campaign. [[00:04:17](https://www.youtube.com/watch?v=3alzdNWoylQ&t=257.62s)]
+*  Where does Obama world fit in this? [[00:04:19](https://www.youtube.com/watch?v=3alzdNWoylQ&t=259.34000000000003s)]
+*  You know, there's I don't want I don't want to break the Democratic Party into these three [[00:04:21](https://www.youtube.com/watch?v=3alzdNWoylQ&t=261.86s)]
+*  fiefdoms because there's probably more. [[00:04:27](https://www.youtube.com/watch?v=3alzdNWoylQ&t=267.42s)]
+*  Nancy Pelosi is a huge power player. [[00:04:29](https://www.youtube.com/watch?v=3alzdNWoylQ&t=269.34000000000003s)]
+*  But Barack Obama, the Obama world is a huge player. [[00:04:31](https://www.youtube.com/watch?v=3alzdNWoylQ&t=271.48s)]
+*  How do they fit in the tension or the happiness of Democrats? [[00:04:35](https://www.youtube.com/watch?v=3alzdNWoylQ&t=275.06s)]
+*  That's a really good question. [[00:04:39](https://www.youtube.com/watch?v=3alzdNWoylQ&t=279.22s)]
+*  I want to point out that they waited three days. [[00:04:40](https://www.youtube.com/watch?v=3alzdNWoylQ&t=280.22s)]
+*  Michelle and Barack Obama waited three days to endorse Kamala Harris. [[00:04:42](https://www.youtube.com/watch?v=3alzdNWoylQ&t=282.66s)]
+*  It was a silence heard around the world. [[00:04:46](https://www.youtube.com/watch?v=3alzdNWoylQ&t=286.22s)]
+*  And prior to Biden's endorsement that no one really anticipated, they were vetting people [[00:04:49](https://www.youtube.com/watch?v=3alzdNWoylQ&t=289.06s)]
+*  like Mark Kelly. [[00:04:54](https://www.youtube.com/watch?v=3alzdNWoylQ&t=294.26s)]
+*  Kamala Harris wasn't at the top of the ticket. [[00:04:55](https://www.youtube.com/watch?v=3alzdNWoylQ&t=295.58s)]
+*  So Biden's endorsement of Harris caught a lot of people off guard, even the chieftains [[00:04:58](https://www.youtube.com/watch?v=3alzdNWoylQ&t=298.0s)]
+*  of the party. [[00:05:02](https://www.youtube.com/watch?v=3alzdNWoylQ&t=302.58s)]
+*  I really think it was a big it was a big effort. [[00:05:03](https://www.youtube.com/watch?v=3alzdNWoylQ&t=303.58s)]
+*  I'm so sorry. [[00:05:07](https://www.youtube.com/watch?v=3alzdNWoylQ&t=307.18s)]
+*  It's all right. [[00:05:08](https://www.youtube.com/watch?v=3alzdNWoylQ&t=308.18s)]
+*  I think I think I'm getting a vivid picture. [[00:05:09](https://www.youtube.com/watch?v=3alzdNWoylQ&t=309.18s)]
+*  I didn't finish the word specifically when it comes to why or the effect and perhaps [[00:05:10](https://www.youtube.com/watch?v=3alzdNWoylQ&t=310.18s)]
+*  the plan on when Joe Biden endorsed Kamala Harris. [[00:05:15](https://www.youtube.com/watch?v=3alzdNWoylQ&t=315.6s)]
+*  Really interesting insight, Lindy. [[00:05:18](https://www.youtube.com/watch?v=3alzdNWoylQ&t=318.76s)]
+*  Thank you so much for being with us. [[00:05:20](https://www.youtube.com/watch?v=3alzdNWoylQ&t=320.24s)]
+*  Thank you so much for having me. [[00:05:21](https://www.youtube.com/watch?v=3alzdNWoylQ&t=321.24s)]
+*  Lindy Lee. [[00:05:22](https://www.youtube.com/watch?v=3alzdNWoylQ&t=322.24s)]
+*  I'm Steve Ducey. [[00:05:23](https://www.youtube.com/watch?v=3alzdNWoylQ&t=323.24s)]
+*  I'm Brian Kilmeade. [[00:05:24](https://www.youtube.com/watch?v=3alzdNWoylQ&t=324.24s)]
+*  And I'm Ainsley Earhart. [[00:05:25](https://www.youtube.com/watch?v=3alzdNWoylQ&t=325.24s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:05:26](https://www.youtube.com/watch?v=3alzdNWoylQ&t=326.24s)]
+*  and most compelling analysis. [[00:05:30](https://www.youtube.com/watch?v=3alzdNWoylQ&t=330.22s)]

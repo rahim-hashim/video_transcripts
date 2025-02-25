@@ -1,0 +1,157 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 309s
+Video Keywords: ["Abimbola 'Bola' osundairo", 'FNC', 'Fox News', 'Fox News Channel', 'News', "Olabinjo 'Ola' Osundairo", 'Osundairo', 'Osundairo brothers', 'bola osundairo', 'brian kilmeade', 'fox & friends', 'jussie', 'jussie smollett', 'jussie smollett attack', 'jussie smollett conviction', 'jussie smollett fake attack', 'jussie smollett hoax', 'ola osundairo', 'smollett', 'illinois supreme court', 'jussie smollett news', 'jussie smollett fox news', 'jussie smollett latest news']
+Video Views: 56220
+Video Rating: None
+Video Description: Abimbola 'Bola' and Olabinjo 'Ola' Osundairo, who admitted to helping Jussie Smollett with his hoax attack, share their reaction to the Illinois Supreme Court's decision to reverse his conviction. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Brothers who staged Jussie Smollett hoax: This was a 'real injustice'
+**Fox News - Fox and Friends:** [November 22, 2024](https://www.youtube.com/watch?v=aWz4BEX1Y0s)
+*  Let's bring in two guys right in the middle of this. [[00:00:00](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=0.0s)]
+*  Ola and Abel Oshindaro. [[00:00:02](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=2.0s)]
+*  We appreciate you guys joining us. [[00:00:04](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=4.36s)]
+*  We saw you on the special recreating this big hoax. [[00:00:05](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=5.8s)]
+*  First off, your thought about this decision from the courts. [[00:00:09](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=9.16s)]
+*  We were taken aback initially, not [[00:00:15](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=15.48s)]
+*  because of the Supreme Court's decision, [[00:00:18](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=18.16s)]
+*  but because Jussie never admitted guilt. [[00:00:20](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=20.72s)]
+*  We understand that he has due process rights [[00:00:24](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=24.44s)]
+*  and double jeopardy and is not allowed in America. [[00:00:27](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=27.36s)]
+*  However, Jussie should have admitted guilt, [[00:00:32](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=32.24s)]
+*  and that's where we stand. [[00:00:34](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=34.76s)]
+*  So the real injustice here was the sweetheart deal [[00:00:37](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=37.6s)]
+*  he was given by Kim Foxx's office [[00:00:41](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=41.44s)]
+*  at the beginning of all this. [[00:00:43](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=43.8s)]
+*  Here's what Kim Foxx said yesterday, [[00:00:46](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=46.239999999999995s)]
+*  defending the plea deal. [[00:00:48](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=48.36s)]
+*  Watch. [[00:00:49](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=49.519999999999996s)]
+*  The amount of attention to a filing of a false police [[00:00:51](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=51.6s)]
+*  report charge and the energy that resulted from that [[00:00:55](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=55.08s)]
+*  is something I won't understand. [[00:00:59](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=59.56s)]
+*  It's important to note, is Dan Webb [[00:01:01](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=61.0s)]
+*  knew all along that this was not a legitimate prosecution. [[00:01:02](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=62.92s)]
+*  So I'm grateful that the court has finally put this to rest. [[00:01:07](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=67.28s)]
+*  So Abel, your thoughts? [[00:01:12](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=72.6s)]
+*  She says, what's the big hype? [[00:01:15](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=75.32s)]
+*  He did a network. [[00:01:16](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=76.92s)]
+*  He did all these network interviews. [[00:01:17](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=77.88s)]
+*  He said how white MAGA people are out to kill him [[00:01:19](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=79.75999999999999s)]
+*  because he was gay and black. [[00:01:23](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=83.64s)]
+*  We're in the middle of the George Floyd riots. [[00:01:25](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=85.36s)]
+*  This was a blowtorch to blow up American society [[00:01:27](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=87.76s)]
+*  and further that cause and make him more famous. [[00:01:31](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=91.68s)]
+*  That's the big deal, isn't it? [[00:01:34](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=94.84s)]
+*  Yes, it is a big deal. [[00:01:37](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=97.16s)]
+*  And the problem is, if it was a regular small Joe [[00:01:39](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=99.04s)]
+*  John Doe or Ola Uchundairo, he would not get that deal. [[00:01:42](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=102.68s)]
+*  Jussie got that deal because he has influence and power. [[00:01:47](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=107.72s)]
+*  So it shows that there are two different citizens [[00:01:51](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=111.0s)]
+*  in America, one with power and one without. [[00:01:53](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=113.48s)]
+*  And that's why he got that sweetheart deal. [[00:01:56](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=116.48s)]
+*  Have you talked to him since, Ola? [[00:02:00](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=120.2s)]
+*  Did he ever pay you guys? [[00:02:01](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=121.80000000000001s)]
+*  We have not spoken to him since. [[00:02:04](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=124.48s)]
+*  Yes, he did pay us at first. [[00:02:07](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=127.36s)]
+*  He still owes us $500. [[00:02:09](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=129.36s)]
+*  But I don't think we're ever going to see that. [[00:02:12](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=132.08s)]
+*  Abel, go ahead. [[00:02:14](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=134.44s)]
+*  Yeah. [[00:02:15](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=135.68s)]
+*  It wasn't about the money. [[00:02:16](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=136.44s)]
+*  It was not about the money at all. [[00:02:18](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=138.12s)]
+*  It was more so us helping out a friend. [[00:02:20](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=140.08s)]
+*  Do you know anyone that believes him? [[00:02:23](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=143.72s)]
+*  Do you know anyone that believes Jussie Smollett [[00:02:26](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=146.56s)]
+*  was telling the truth, Ola? [[00:02:28](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=148.96s)]
+*  Not a single soul. [[00:02:31](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=151.84s)]
+*  I'm sorry. [[00:02:34](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=154.32000000000002s)]
+*  I do see people online that still has his back. [[00:02:35](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=155.0s)]
+*  But no. [[00:02:39](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=159.32000000000002s)]
+*  In my immediate circle, nobody believes him. [[00:02:41](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=161.12s)]
+*  Yeah, not even Pinocchio. [[00:02:43](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=163.64000000000001s)]
+*  Abel, let me ask you something. [[00:02:46](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=166.56s)]
+*  When he told you about it, did you [[00:02:47](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=167.84s)]
+*  realize this was an absolute farce that would never come off, [[00:02:49](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=169.92000000000002s)]
+*  that no one would believe it? [[00:02:53](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=173.12s)]
+*  Yes, I did believe that. [[00:02:55](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=175.84s)]
+*  However, he made it seem like this is what Hollywood does. [[00:02:57](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=177.52s)]
+*  He mentioned Kim Kardashian. [[00:03:02](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=182.04000000000002s)]
+*  During that time, she had a incident [[00:03:04](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=184.36s)]
+*  where she got robbed and kidnapped in France. [[00:03:07](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=187.08s)]
+*  And he said that was made up. [[00:03:10](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=190.76000000000002s)]
+*  That was fake. [[00:03:12](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=192.28s)]
+*  So that's what I was thinking. [[00:03:13](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=193.36s)]
+*  Oh, this is what Hollywood does. [[00:03:14](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=194.92000000000002s)]
+*  My brother and I are professional actors. [[00:03:17](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=197.2s)]
+*  And we thought, oh, this is our introduction into Hollywood. [[00:03:18](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=198.96s)]
+*  And actually, we go further in our book [[00:03:23](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=203.0s)]
+*  that we just released, Bigger Than Jesse, [[00:03:26](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=206.12s)]
+*  the reason why Jesse might have actually performed this hoax. [[00:03:29](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=209.2s)]
+*  And who? [[00:03:33](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=213.84s)]
+*  That's a very important question that leads us to the why. [[00:03:34](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=214.84s)]
+*  The who. [[00:03:38](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=218.44s)]
+*  Who is involved. [[00:03:39](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=219.07999999999998s)]
+*  Who put him up to it. [[00:03:39](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=219.88s)]
+*  And obviously, I think he's unemployable, [[00:03:41](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=221.56s)]
+*  even though he beats it on this. [[00:03:44](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=224.35999999999999s)]
+*  Abel, you're boxing, right? [[00:03:46](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=226.92s)]
+*  You're a pro. [[00:03:49](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=229.12s)]
+*  You want to fight Jake Paul? [[00:03:49](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=229.76s)]
+*  Oh, definitely, especially after that rubbish [[00:03:51](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=231.79999999999998s)]
+*  that happened with Mike Tyson. [[00:03:54](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=234.79999999999998s)]
+*  Oh my god. [[00:03:56](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=236.35999999999999s)]
+*  Yes, Jake Paul, we're going to come after you [[00:03:57](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=237.48s)]
+*  and we're going to beat you up. [[00:03:59](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=239.51999999999998s)]
+*  Maybe do a tag team. [[00:04:00](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=240.76s)]
+*  I'll take Logan. [[00:04:02](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=242.16s)]
+*  Logan Paul versus Ola. [[00:04:03](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=243.2s)]
+*  I'll bet on you guys. [[00:04:06](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=246.2s)]
+*  What did you think of the Tyson fight, Abel? [[00:04:07](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=247.48s)]
+*  The Tyson fight, I think it was a... [[00:04:13](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=253.92s)]
+*  I think it did a disservice to boxing [[00:04:16](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=256.68s)]
+*  because Tyson should have definitely [[00:04:18](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=258.71999999999997s)]
+*  went in there to kill him. [[00:04:21](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=261.32s)]
+*  Now, we're tainted on Tyson's memory, [[00:04:23](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=263.08s)]
+*  on who he was as a boxer. [[00:04:26](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=266.15999999999997s)]
+*  Now, my little cousin has to look at Tyson [[00:04:28](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=268.12s)]
+*  as being this wimpy guy that Jake Paul beat. [[00:04:31](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=271.0s)]
+*  I don't think Tyson even fought, [[00:04:35](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=275.76s)]
+*  but I can't wait to get your book. [[00:04:37](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=277.59999999999997s)]
+*  You have rigged answers to big questions. [[00:04:39](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=279.2s)]
+*  Bigger Than Jesse, and we look forward [[00:04:41](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=281.59999999999997s)]
+*  to following both of your career. [[00:04:43](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=283.12s)]
+*  And everybody, go to One Nation. [[00:04:44](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=284.52s)]
+*  Go to Fox Nation and watch Jesse Smollett, [[00:04:46](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=286.6s)]
+*  Anatomy of a Hoax. [[00:04:49](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=289.40000000000003s)]
+*  These guys bring it all to light. [[00:04:50](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=290.76000000000005s)]
+*  Thanks, guys. Appreciate it. [[00:04:52](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=292.20000000000005s)]
+*  Thank you. We appreciate you. [[00:04:54](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=294.96000000000004s)]
+*  Thank you, Brian. Take care. [[00:04:56](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=296.08000000000004s)]
+*  All right. You too. [[00:04:57](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=297.36s)]
+*  I'm Steve Ducey. [[00:04:58](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=298.44s)]
+*  I'm Brian Kilmeade. [[00:04:59](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=299.36s)]
+*  And I'm Ainsley Earhart. [[00:05:00](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=300.28000000000003s)]
+*  And click here to subscribe to the Fox News YouTube page [[00:05:01](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=301.20000000000005s)]
+*  to catch our hottest interviews [[00:05:04](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=304.16s)]
+*  and most compelling analysis. [[00:05:05](https://www.youtube.com/watch?v=aWz4BEX1Y0s&t=305.8s)]

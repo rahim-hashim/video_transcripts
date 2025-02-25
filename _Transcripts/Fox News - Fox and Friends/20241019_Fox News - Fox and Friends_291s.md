@@ -1,0 +1,155 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 291s
+Video Keywords: ['donald trump', 'republican party', 'democratic party', 'kamala harris', 'republican party vs democratic party', 'donald trump news', 'donald trump latest news', 'democratic party 2024', 'democratic party vs republican party', 'democratic campaign ads 2024', 'democratic campaign', 'democratic campaign ads', 'democratic campaign 2024', 'democrat ads trump', 'down ballot democrats', 'fnc', 'fox news', 'fox news network', 'fox news today']
+Video Views: 92471
+Video Rating: None
+Video Description: Democrats in down ballot races are turning to their ties to former President Trump in their campaigns. The 'Fox & Friends Weekend' co-hosts with their reactions.  #foxnews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Dems tout ties with Trump in campaign ads
+**Fox News - Fox and Friends:** [October 19, 2024](https://www.youtube.com/watch?v=sJfsvSGCN0Q)
+*  One thing I am sure you guys are with me on this, [[00:00:00](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=0.0s)]
+*  like I've become increasingly skeptical of, [[00:00:02](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=2.56s)]
+*  is our attempt to pull an election all the way through. [[00:00:04](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=4.32s)]
+*  It's hard to know what to trust based on history. [[00:00:08](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=8.28s)]
+*  By the way, betting markets, [[00:00:11](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=11.56s)]
+*  we're learning more about betting markets as time goes by [[00:00:12](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=12.84s)]
+*  because it's a new way of measuring. [[00:00:14](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=14.84s)]
+*  They've moved heavily in favor of Donald Trump recently. [[00:00:16](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=16.88s)]
+*  But you probably have no better indicator [[00:00:19](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=19.88s)]
+*  of how this election is going than to look, [[00:00:22](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=22.240000000000002s)]
+*  as Charlie pointed out earlier, down ballot. [[00:00:24](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=24.240000000000002s)]
+*  Axios is watching what's happening down ballot [[00:00:26](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=26.26s)]
+*  and here's their headline. [[00:00:29](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=29.36s)]
+*  Endangered Democrats begin to brag about their ties [[00:00:30](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=30.560000000000002s)]
+*  to Donald Trump in the final stretch. [[00:00:33](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=33.480000000000004s)]
+*  From Pennsylvania to Wisconsin to Michigan, [[00:00:36](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=36.02s)]
+*  Democrats not just putting an arm's length distance [[00:00:39](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=39.64s)]
+*  between them and Joe Biden, [[00:00:44](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=44.8s)]
+*  but in some cases embracing Donald Trump. [[00:00:46](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=46.58s)]
+*  Casey bucked Biden to protect fracking [[00:00:51](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=51.24s)]
+*  and he sided with Trump to end NAFTA [[00:00:54](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=54.0s)]
+*  and put tariffs on China to stop them from cheating. [[00:00:56](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=56.16s)]
+*  Tammy Baldwin got President Trump [[00:00:59](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=59.519999999999996s)]
+*  to sign her Made in America bill. [[00:01:01](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=61.48s)]
+*  And then she got President Biden to make it permanent. [[00:01:03](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=63.12s)]
+*  That's why I wrote a law signed by President Trump [[00:01:05](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=65.92s)]
+*  forcing drug companies to show their actual prices. [[00:01:08](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=68.67999999999999s)]
+*  Yeah, it's stunning. [[00:01:13](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=73.03999999999999s)]
+*  You know, in Wisconsin, Tammy Baldwin didn't want, [[00:01:14](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=74.6s)]
+*  you know, she said she was busy, [[00:01:18](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=78.56s)]
+*  couldn't meet with Kamala Harris when she was in the state. [[00:01:19](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=79.56s)]
+*  But you have to think about these consultants that, [[00:01:22](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=82.88s)]
+*  they do these internal polling. [[00:01:25](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=85.16s)]
+*  So these candidates have spent, [[00:01:26](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=86.36s)]
+*  especially Senate candidates. [[00:01:28](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=88.48s)]
+*  They know way more than we know. [[00:01:29](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=89.64s)]
+*  They have internal polling [[00:01:32](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=92.16s)]
+*  that they're not gonna share with anybody [[00:01:33](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=93.24000000000001s)]
+*  that's going to tell them what's going on [[00:01:34](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=94.76s)]
+*  on the ground with their voters. [[00:01:37](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=97.28s)]
+*  And if they're cutting commercials that say, [[00:01:39](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=99.2s)]
+*  I'm with Donald Trump and they're Democrats, [[00:01:41](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=101.48s)]
+*  boy, that's as you said, a really clear indicator. [[00:01:43](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=103.72s)]
+*  You just have to, I just love the visual [[00:01:47](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=107.16s)]
+*  and thinking about the consultants coming to the candidates [[00:01:49](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=109.2s)]
+*  and saying, listen, [[00:01:52](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=112.08s)]
+*  this is what you have to do in the next commercial. [[00:01:53](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=113.64s)]
+*  It's like putting a gun to their head, you know? [[00:01:55](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=115.32s)]
+*  It's like, they're like, what? [[00:01:57](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=117.03999999999999s)]
+*  I hate this guy. [[00:01:58](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=118.19999999999999s)]
+*  I've been saying how horrible he is that he's, you know, [[00:01:59](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=119.78s)]
+*  Hitler and now I have to, you know, [[00:02:02](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=122.72s)]
+*  do a commercial saying, I'm with him. [[00:02:05](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=125.24s)]
+*  Campaigns lie, candidates lie, polls lie. [[00:02:07](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=127.61999999999999s)]
+*  What doesn't lie is the ad that the campaign puts on TV. [[00:02:10](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=130.68s)]
+*  You can see it. [[00:02:13](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=133.84s)]
+*  And Dave McCormick, who's running against Bob Casey [[00:02:14](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=134.76s)]
+*  in Pennsylvania was on with Jesse saying that, you know, [[00:02:17](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=137.68s)]
+*  you know, Democrats may actually wish [[00:02:22](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=142.35999999999999s)]
+*  they still had Joe Biden on the ballot. [[00:02:24](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=144.64s)]
+*  I think Democrats are recognizing that at least [[00:02:28](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=148.07999999999998s)]
+*  in Pennsylvania, Joe Biden would have been a better [[00:02:29](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=149.96s)]
+*  candidate than Kamala Harris. [[00:02:32](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=152.4s)]
+*  You know, he was Scranton Joe. [[00:02:34](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=154.4s)]
+*  He had these relationships with the unions [[00:02:35](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=155.64s)]
+*  and key Democrats. [[00:02:37](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=157.64s)]
+*  Kamala Harris is a San Francisco liberal [[00:02:39](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=159.44s)]
+*  that is completely out of touch with Pennsylvania. [[00:02:41](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=161.54s)]
+*  Ban fracking, defund the police, [[00:02:44](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=164.2s)]
+*  mandatory buybacks of guns. [[00:02:46](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=166.44s)]
+*  The list goes on and on in her own words. [[00:02:47](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=167.8s)]
+*  And President Trump is gaining real momentum here [[00:02:50](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=170.08s)]
+*  in our polling. [[00:02:52](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=172.4s)]
+*  He's in the lead and gaining. [[00:02:53](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=173.76000000000002s)]
+*  And in our polling, I'm tied and gaining. [[00:02:55](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=175.84s)]
+*  And that's because people are recognizing [[00:02:59](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=179.48000000000002s)]
+*  that this is a race between strength and weakness [[00:03:02](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=182.44s)]
+*  and common sense policies in this radical liberal agenda [[00:03:05](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=185.8s)]
+*  that career politician, weak Bob Casey has supported [[00:03:08](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=188.98000000000002s)]
+*  every step of the way. [[00:03:13](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=193.16000000000003s)]
+*  And that's why we're gonna win in Pennsylvania [[00:03:14](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=194.16000000000003s)]
+*  because that choice is becoming more and more clear. [[00:03:16](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=196.68s)]
+*  Pennsylvania is 25% Catholic [[00:03:20](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=200.23999999999998s)]
+*  and the Catholic vote is really important as well. [[00:03:22](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=202.67999999999998s)]
+*  Again, that's another area where Joe Biden, [[00:03:25](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=205.33999999999997s)]
+*  even though I don't think he was a great Catholic, [[00:03:27](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=207.6s)]
+*  he was, you know, his abortion policies were despicable, [[00:03:29](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=209.07999999999998s)]
+*  but he would run in his campaign ads, holding the rosary [[00:03:31](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=211.94s)]
+*  sort of, he's a cultural Catholic, if you will. [[00:03:36](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=216.04s)]
+*  And he was able as an Irish Catholic to sort of put [[00:03:38](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=218.16s)]
+*  that out there and appeal to them. [[00:03:40](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=220.83999999999997s)]
+*  Kamala, and by the way, Donald Trump in Pennsylvania, [[00:03:42](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=222.76s)]
+*  he's been doing a lot of interesting moves. [[00:03:45](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=225.72s)]
+*  It wasn't just that rally that he appealed to Catholics [[00:03:47](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=227.72s)]
+*  where he said, you know, he had the Ave Maria [[00:03:50](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=230.78s)]
+*  and he, you know, that right before the rally, [[00:03:53](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=233.16s)]
+*  he posted the prayer to St. Michael, [[00:03:55](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=235.32s)]
+*  but he's been posting things about Polish saints. [[00:03:57](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=237.56s)]
+*  There's a very big Polish Catholic population there. [[00:04:00](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=240.36s)]
+*  So he's making all kinds of moves. [[00:04:02](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=242.98s)]
+*  And then of course you have the Al Smith dinner [[00:04:04](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=244.62s)]
+*  with, you know, Donald Trump showing up. [[00:04:06](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=246.96s)]
+*  So pay attention to the Catholic vote, [[00:04:09](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=249.02s)]
+*  specifically in Pennsylvania, [[00:04:11](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=251.38s)]
+*  wherever the Catholic swing vote goes, [[00:04:13](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=253.64s)]
+*  usually that candidate wins. [[00:04:15](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=255.56s)]
+*  I'm just thinking about how amped up you get [[00:04:18](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=258.52000000000004s)]
+*  whenever the topic turns to Catholics. [[00:04:20](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=260.40000000000003s)]
+*  That's true. [[00:04:22](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=262.36s)]
+*  Catholics, yes, here we go. [[00:04:24](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=264.32000000000005s)]
+*  Well, you know, we're powerful. [[00:04:26](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=266.96000000000004s)]
+*  That's how I feel when we talk about Texas. [[00:04:28](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=268.20000000000005s)]
+*  Yeah. [[00:04:30](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=270.0s)]
+*  All right. [[00:04:31](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=271.32000000000005s)]
+*  That's how I feel about God. [[00:04:32](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=272.16s)]
+*  That's how you feel about football. [[00:04:32](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=272.98s)]
+*  You know, I didn't say God. [[00:04:34](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=274.72s)]
+*  I didn't say Protestants. [[00:04:35](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=275.96000000000004s)]
+*  I didn't say religion. [[00:04:37](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=277.20000000000005s)]
+*  I said Catholic. [[00:04:38](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=278.16s)]
+*  Well, anyway, it's a very interesting, you know, [[00:04:40](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=280.04s)]
+*  appeal that these candidates have to make. [[00:04:44](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=284.12s)]
+*  I think that Donald Trump is leaving nothing on the table [[00:04:46](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=286.68s)]
+*  when it comes to that. [[00:04:49](https://www.youtube.com/watch?v=sJfsvSGCN0Q&t=289.68s)]

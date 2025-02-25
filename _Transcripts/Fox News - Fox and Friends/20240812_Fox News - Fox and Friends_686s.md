@@ -1,0 +1,156 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 686s
+Video Keywords: ['2024 election', 'FNC', 'Fox News', 'Fox News Channel', 'News', 'ainsley earhardt', 'biden administration', 'biden white house', 'brian kilmeade', 'democratic party', 'election', 'fox & friends', 'fox news kamala harris', 'harris 2024', 'harris campaign', 'harris walz', 'harris walz campaign', 'joe biden', 'kamala harris', 'kamala harris 2024', 'kamala harris fox news', 'lawrence jones', 'presidential election', 'steve doocy', 'trump', 'trump 2024', 'trump campaign', 'trump harris', 'white house', 'obama', 'barack obama']
+Video Views: 379190
+Video Rating: None
+Video Description: 'Fox & Friends' co-hosts discuss former House Speaker Kevin McCarthy's claim that Obama officials are working on Kamala Harris' campaign. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Obama secretly running Kamala's campaign, says former speaker
+**Fox News - Fox and Friends:** [August 12, 2024](https://www.youtube.com/watch?v=jedi1KqPSZc)
+*  That has to be hard though if you're working for Joe Biden and you think he's going to be [[00:00:00](https://www.youtube.com/watch?v=jedi1KqPSZc&t=0.0s)]
+*  the candidate right and you're an aide working on his staff or his campaign and then all of a sudden [[00:00:04](https://www.youtube.com/watch?v=jedi1KqPSZc&t=4.5600000000000005s)]
+*  things change and they push up Kamala Harris right what happens to you especially because they have [[00:00:09](https://www.youtube.com/watch?v=jedi1KqPSZc&t=9.52s)]
+*  tensions between the staff exactly because he she couldn't keep anybody 87 percent of those staffers [[00:00:14](https://www.youtube.com/watch?v=jedi1KqPSZc&t=14.16s)]
+*  have resigned from day one and then you have the Biden people who think you know I don't even know [[00:00:19](https://www.youtube.com/watch?v=jedi1KqPSZc&t=19.12s)]
+*  how to work with her and they don't work with her and now all of a sudden they get elevated and they [[00:00:23](https://www.youtube.com/watch?v=jedi1KqPSZc&t=23.04s)]
+*  used to disparage her right and General Malley for example General Malley Dillon the former [[00:00:28](https://www.youtube.com/watch?v=jedi1KqPSZc&t=28.0s)]
+*  white uh former Biden White House official talked to her over the weekend said I need to know my [[00:00:33](https://www.youtube.com/watch?v=jedi1KqPSZc&t=33.36s)]
+*  role right they're all nervous about David Plouffe coming in from the Obama years well they should [[00:00:38](https://www.youtube.com/watch?v=jedi1KqPSZc&t=38.64s)]
+*  be nervous because he he's great at his job also you got Stephanie Cutter as well so David Plouffe [[00:00:42](https://www.youtube.com/watch?v=jedi1KqPSZc&t=42.88s)]
+*  apparently is is is in control of the math how did he get to 270 great at his job Stephanie Cutter [[00:00:48](https://www.youtube.com/watch?v=jedi1KqPSZc&t=48.0s)]
+*  is now over messaging all the communication strategy the one thing I find troubling though [[00:00:54](https://www.youtube.com/watch?v=jedi1KqPSZc&t=54.0s)]
+*  okay you got David Plouffe and Stephanie Cutter had a great candidate they had Barack Obama [[00:00:59](https://www.youtube.com/watch?v=jedi1KqPSZc&t=59.6s)]
+*  someone that was on this is a plan that was five years in the making to get him to the presidency [[00:01:03](https://www.youtube.com/watch?v=jedi1KqPSZc&t=63.44s)]
+*  now they have Kamala Harris who they can't put on the road to actually talk to voters on a day-to-day [[00:01:10](https://www.youtube.com/watch?v=jedi1KqPSZc&t=70.0s)]
+*  basis sure they can keep her on the prompter but she's not going to have any of those breakout [[00:01:14](https://www.youtube.com/watch?v=jedi1KqPSZc&t=74.72s)]
+*  moments now apparently the tension is is because they said that David Plouffe is over the math [[00:01:19](https://www.youtube.com/watch?v=jedi1KqPSZc&t=79.84s)]
+*  but he's really running the campaign right and Jen O'Malley Dillon wants her role to be [[00:01:24](https://www.youtube.com/watch?v=jedi1KqPSZc&t=84.72s)]
+*  solidified as the campaign manager because when you think about it uh the the Biden team which [[00:01:30](https://www.youtube.com/watch?v=jedi1KqPSZc&t=90.48s)]
+*  a lot of it has morphed into the Harris team uh with the reelection in Wilmington and why is it [[00:01:35](https://www.youtube.com/watch?v=jedi1KqPSZc&t=95.60000000000001s)]
+*  in Wilmington now because she's not from Wilmington um you know they're the people who thought that [[00:01:41](https://www.youtube.com/watch?v=jedi1KqPSZc&t=101.60000000000001s)]
+*  in the run-up to the election they would put Joe Biden at union halls with 80 people right suddenly [[00:01:47](https://www.youtube.com/watch?v=jedi1KqPSZc&t=107.36s)]
+*  they've got big events where there are in you know in excess of 10 000 people and it's completely [[00:01:53](https://www.youtube.com/watch?v=jedi1KqPSZc&t=113.03999999999999s)]
+*  different and one of the other things according to this Politico article that talks a little bit [[00:01:58](https://www.youtube.com/watch?v=jedi1KqPSZc&t=118.32s)]
+*  about the tension between the Harris team and the campaign is the fact that apparently there are some [[00:02:02](https://www.youtube.com/watch?v=jedi1KqPSZc&t=122.56s)]
+*  people on the uh on one of the teams that is bad mouth uh the the current vice president who's [[00:02:09](https://www.youtube.com/watch?v=jedi1KqPSZc&t=129.28s)]
+*  running for president and they don't like that person right i mean you can see they're a big [[00:02:16](https://www.youtube.com/watch?v=jedi1KqPSZc&t=136.64s)]
+*  part of the team here's the headline of the Politico article Kamala Harris united democrats [[00:02:20](https://www.youtube.com/watch?v=jedi1KqPSZc&t=140.55999999999997s)]
+*  her campaign still has fractures it talks about how Biden Biden's aides as you're saying Steve [[00:02:24](https://www.youtube.com/watch?v=jedi1KqPSZc&t=144.32s)]
+*  in the past have known for their disparaging comments about Kamala Harris it talks about [[00:02:30](https://www.youtube.com/watch?v=jedi1KqPSZc&t=150.39999999999998s)]
+*  the daunting task to try to integrate two different political worlds it talks about [[00:02:35](https://www.youtube.com/watch?v=jedi1KqPSZc&t=155.11999999999998s)]
+*  David Plouffe coming in and Kevin McCarthy was interviewed and he said because David Plouffe [[00:02:39](https://www.youtube.com/watch?v=jedi1KqPSZc&t=159.76s)]
+*  worked for Obama helped get him elected he said Obama's really running the show here listen [[00:02:45](https://www.youtube.com/watch?v=jedi1KqPSZc&t=165.84s)]
+*  watching the campaign now some of Obama's David Plouffe and others are now working on the campaign [[00:02:51](https://www.youtube.com/watch?v=jedi1KqPSZc&t=171.68s)]
+*  you're getting the Obamas shifting from running the White House to now running this campaign [[00:02:58](https://www.youtube.com/watch?v=jedi1KqPSZc&t=178.4s)]
+*  this is the most liberal ticket in the history of American politics we do not want to put San [[00:03:03](https://www.youtube.com/watch?v=jedi1KqPSZc&t=183.84s)]
+*  Francisco in the Minnesota across this country and and Nancy Pelosi may have taken Joe Biden out [[00:03:10](https://www.youtube.com/watch?v=jedi1KqPSZc&t=190.4s)]
+*  but remember who was the speaker of the house during President Barack Obama's uh presidency [[00:03:17](https://www.youtube.com/watch?v=jedi1KqPSZc&t=197.92000000000002s)]
+*  was Nancy Pelosi very extremely close apparently some of the reporting that we saw during the [[00:03:22](https://www.youtube.com/watch?v=jedi1KqPSZc&t=202.0s)]
+*  Sundays and show is that they did not President Obama Nancy Pelosi as well as some of the [[00:03:26](https://www.youtube.com/watch?v=jedi1KqPSZc&t=206.64000000000001s)]
+*  leadership did not anticipating uh anticipate Joe Biden selecting Kamala to be the candidate they [[00:03:30](https://www.youtube.com/watch?v=jedi1KqPSZc&t=210.8s)]
+*  were expecting an open primary process and after that second statement he named him put them all in [[00:03:38](https://www.youtube.com/watch?v=jedi1KqPSZc&t=218.32s)]
+*  the top so I think he's saying to Nancy Pelosi there's two people with a lot of experience [[00:03:43](https://www.youtube.com/watch?v=jedi1KqPSZc&t=223.68s)]
+*  number one I know you ousted me but I'm going to pick who's next I know you don't like her [[00:03:47](https://www.youtube.com/watch?v=jedi1KqPSZc&t=227.35999999999999s)]
+*  because we saw you on television on CNN when asked should you be the running mate for Joe Biden goes [[00:03:51](https://www.youtube.com/watch?v=jedi1KqPSZc&t=231.68s)]
+*  he thinks so remember yeah he thinks so and how about this imagine if you're Julie Chavez Rodriguez [[00:03:56](https://www.youtube.com/watch?v=jedi1KqPSZc&t=236.56s)]
+*  and you're running Joe Biden's campaign which got a big elevation right and all of a sudden you find [[00:04:02](https://www.youtube.com/watch?v=jedi1KqPSZc&t=242.72s)]
+*  out now you're in charge of the Sun Belt states really I thought I was leading yeah yeah I thought [[00:04:07](https://www.youtube.com/watch?v=jedi1KqPSZc&t=247.20000000000002s)]
+*  I was the one getting to 270 now David Plouffe comes off the bench uh leaves Kellyanne Conway's [[00:04:13](https://www.youtube.com/watch?v=jedi1KqPSZc&t=253.76s)]
+*  podcast right and now runs things so I hope they work it out because she has a history of not being [[00:04:19](https://www.youtube.com/watch?v=jedi1KqPSZc&t=259.44s)]
+*  able to work out anything with her staff remember a terrible campaign staff a terrible vice presidential [[00:04:24](https://www.youtube.com/watch?v=jedi1KqPSZc&t=264.64s)]
+*  staff who I'm not saying they're bad individually but collectively there was no leadership and they [[00:04:29](https://www.youtube.com/watch?v=jedi1KqPSZc&t=269.84000000000003s)]
+*  end up tearing each other's eyes out I think they're doing whatever it takes whatever it takes [[00:04:34](https://www.youtube.com/watch?v=jedi1KqPSZc&t=274.64s)]
+*  to win they we have 30 plus 35 days until early voting is that right 34 days tick tick tick well [[00:04:38](https://www.youtube.com/watch?v=jedi1KqPSZc&t=278.32s)]
+*  I just hope I just hope the Republicans take the same strategy and do whatever it takes to win all [[00:04:45](https://www.youtube.com/watch?v=jedi1KqPSZc&t=285.84s)]
+*  the petty uh going back and forth with old opponents George and all that matters right it's about who's [[00:04:52](https://www.youtube.com/watch?v=jedi1KqPSZc&t=292.32s)]
+*  gonna win and Kamala Harris what does this tell you this tells you that she needs all the help she [[00:04:59](https://www.youtube.com/watch?v=jedi1KqPSZc&t=299.44s)]
+*  can get Donald Trump's running his own show but they can't trust Kamala Harris to run her own show [[00:05:04](https://www.youtube.com/watch?v=jedi1KqPSZc&t=304.24s)]
+*  they have to tell her what to do and bring in Obama's people yeah to your point uh one of the [[00:05:09](https://www.youtube.com/watch?v=jedi1KqPSZc&t=309.04s)]
+*  things the Republicans need to do is they need a a solid ground game the Democrats for decades have [[00:05:13](https://www.youtube.com/watch?v=jedi1KqPSZc&t=313.36s)]
+*  had a great get out the vote on election day right exactly well even before that uh going back decades [[00:05:19](https://www.youtube.com/watch?v=jedi1KqPSZc&t=319.6s)]
+*  they were really good machine politics the Republicans right now don't have that they're [[00:05:26](https://www.youtube.com/watch?v=jedi1KqPSZc&t=326.96s)]
+*  kind of farming it out to other people but behind the scenes also part of a political playbook it's [[00:05:32](https://www.youtube.com/watch?v=jedi1KqPSZc&t=332.08s)]
+*  interesting apparently she is Kamala Harris is getting ready to debate uh Donald Trump you know [[00:05:37](https://www.youtube.com/watch?v=jedi1KqPSZc&t=337.76s)]
+*  who the debate partner is that they have selected it is Hillary Clinton's former aide that Philippe [[00:05:43](https://www.youtube.com/watch?v=jedi1KqPSZc&t=343.35999999999996s)]
+*  Reynes is the guy who's going to actually be playing Donald Trump yeah exactly well well and [[00:05:49](https://www.youtube.com/watch?v=jedi1KqPSZc&t=349.67999999999995s)]
+*  one of the things they will be doing is they will be trying to get her to pivot and she's been [[00:05:55](https://www.youtube.com/watch?v=jedi1KqPSZc&t=355.04s)]
+*  pivoting on a lot of stuff flip-flopping uh flip-flopping another polite way to put it in politics [[00:06:01](https://www.youtube.com/watch?v=jedi1KqPSZc&t=361.04s)]
+*  changing her mind totally here just like Biden did on day one remember all those executive orders [[00:06:06](https://www.youtube.com/watch?v=jedi1KqPSZc&t=366.48s)]
+*  shutting down the wall shutting down the pipeline but he did tell us he was gonna do moderate though [[00:06:11](https://www.youtube.com/watch?v=jedi1KqPSZc&t=371.92s)]
+*  yeah he told us he was gonna be moderate last week we talked about how she was using uh the [[00:06:16](https://www.youtube.com/watch?v=jedi1KqPSZc&t=376.56s)]
+*  big airplane at big events a la Donald Trump and now she's taken something that is very near and [[00:06:20](https://www.youtube.com/watch?v=jedi1KqPSZc&t=380.96s)]
+*  dear to people who live on tips watch the comparison seem familiar raise the minimum wage [[00:06:27](https://www.youtube.com/watch?v=jedi1KqPSZc&t=387.12s)]
+*  and eliminate taxes on tips for service and hospitality workers when i get to office we [[00:06:37](https://www.youtube.com/watch?v=jedi1KqPSZc&t=397.28s)]
+*  are going to not charge taxes on tips there will be no taxes on tips no taxes on tips it's called [[00:06:43](https://www.youtube.com/watch?v=jedi1KqPSZc&t=403.92s)]
+*  no tax on tips no tax on tips i'm also doing no tax on tips no tax on tips so the question is [[00:06:54](https://www.youtube.com/watch?v=jedi1KqPSZc&t=414.24s)]
+*  does she even know what the policy is when it comes to no tax on tips where does she where did [[00:07:05](https://www.youtube.com/watch?v=jedi1KqPSZc&t=425.68s)]
+*  it come from the teleprompter who who who does it all encompass in it also if you remember it's [[00:07:10](https://www.youtube.com/watch?v=jedi1KqPSZc&t=430.64s)]
+*  not just the tips policy the democrats joe biden and kamala harris have already said they want to [[00:07:16](https://www.youtube.com/watch?v=jedi1KqPSZc&t=436.4s)]
+*  roll back the trump uh tax cuts that are set to expire what's your position on that are you gonna [[00:07:21](https://www.youtube.com/watch?v=jedi1KqPSZc&t=441.44s)]
+*  be in support of a tax increase on most of americans that got a tax cut under that bill [[00:07:27](https://www.youtube.com/watch?v=jedi1KqPSZc&t=447.91999999999996s)]
+*  i mean there's been no pushback or curiosity why now why now he's been in office for three and a [[00:07:33](https://www.youtube.com/watch?v=jedi1KqPSZc&t=453.2s)]
+*  half years as the vice president or why not do it now as the vice president you have some influence [[00:07:38](https://www.youtube.com/watch?v=jedi1KqPSZc&t=458.88s)]
+*  you can apparently have this weekly meeting with the president of the united states why haven't [[00:07:43](https://www.youtube.com/watch?v=jedi1KqPSZc&t=463.28s)]
+*  y'all proposed that being into law right now think about it until they heard donald trump [[00:07:47](https://www.youtube.com/watch?v=jedi1KqPSZc&t=467.36s)]
+*  and that's going to be the interesting part is you know she's doing a 180 on all the border [[00:07:52](https://www.youtube.com/watch?v=jedi1KqPSZc&t=472.48s)]
+*  stuff now she's doing uh hey no tax on tips i wonder how long until she adopts another very [[00:07:56](https://www.youtube.com/watch?v=jedi1KqPSZc&t=476.32s)]
+*  popular suggestion that donald trump made a week or two ago and that is no tax on social security [[00:08:03](https://www.youtube.com/watch?v=jedi1KqPSZc&t=483.2s)]
+*  because that is a good way to get older people over 65 living on social security to vote for you [[00:08:08](https://www.youtube.com/watch?v=jedi1KqPSZc&t=488.48s)]
+*  well at one point the voters have to say now you're insulting me now listen uh if you want to do you [[00:08:14](https://www.youtube.com/watch?v=jedi1KqPSZc&t=494.48s)]
+*  are running on john on donald trump's plans so most of the stuff that donald trump's running on [[00:08:20](https://www.youtube.com/watch?v=jedi1KqPSZc&t=500.72s)]
+*  in terms of keeping the tax rate in place in terms of having a strong border in terms of various uh [[00:08:26](https://www.youtube.com/watch?v=jedi1KqPSZc&t=506.88s)]
+*  so protecting strength on foreign policy are 60 approval trump aside these are these are issues [[00:08:32](https://www.youtube.com/watch?v=jedi1KqPSZc&t=512.4s)]
+*  that six out of every 10 americans say i fully support so instead of running on what she's done [[00:08:38](https://www.youtube.com/watch?v=jedi1KqPSZc&t=518.72s)]
+*  and what she wanted to do in 2020 and she got the nomination she's running as donald trump so [[00:08:43](https://www.youtube.com/watch?v=jedi1KqPSZc&t=523.9200000000001s)]
+*  the american people have to say at one point it's a little insulting yeah i i don't pretend as if we [[00:08:50](https://www.youtube.com/watch?v=jedi1KqPSZc&t=530.0s)]
+*  don't have a uh a television we're not online we're not on social media and understand what this [[00:08:55](https://www.youtube.com/watch?v=jedi1KqPSZc&t=535.52s)]
+*  came from the problem is we eat breathe and sleep this that's true we're covering this constantly so [[00:09:00](https://www.youtube.com/watch?v=jedi1KqPSZc&t=540.8s)]
+*  we know that he said it first but yesterday i was at a restaurant and the waitress we were talking [[00:09:05](https://www.youtube.com/watch?v=jedi1KqPSZc&t=545.12s)]
+*  about no tax on tips how do you feel about it she said both candidates are saying that she had no [[00:09:09](https://www.youtube.com/watch?v=jedi1KqPSZc&t=549.52s)]
+*  clue exactly she's one speech away from saying maga i mean she's almost she's gonna say build a wall [[00:09:14](https://www.youtube.com/watch?v=jedi1KqPSZc&t=554.3199999999999s)]
+*  i mean she she's that close from doing it but again the campaign strategy is to isolate her [[00:09:20](https://www.youtube.com/watch?v=jedi1KqPSZc&t=560.4s)]
+*  and judging by what's happened so far there hasn't been any pushback she has gotten the bump as a [[00:09:26](https://www.youtube.com/watch?v=jedi1KqPSZc&t=566.88s)]
+*  result from keeping her away from the american people and if if you don't think it won't work [[00:09:32](https://www.youtube.com/watch?v=jedi1KqPSZc&t=572.32s)]
+*  look back in 2020 the same thing that joe bike and it's working right it's working right now [[00:09:37](https://www.youtube.com/watch?v=jedi1KqPSZc&t=577.84s)]
+*  voting record if you really want to know what she thinks how she feels what she believes look at her [[00:09:41](https://www.youtube.com/watch?v=jedi1KqPSZc&t=581.5200000000001s)]
+*  voting record this truly is the most progressive ticket we've ever had in our country she won an [[00:09:46](https://www.youtube.com/watch?v=jedi1KqPSZc&t=586.72s)]
+*  award i don't know if they gave out plaques but she was in 2019 the most uh the most liberal [[00:09:51](https://www.youtube.com/watch?v=jedi1KqPSZc&t=591.12s)]
+*  senator most progressive senator in the senate and uh bernie sanders was second do they give [[00:09:56](https://www.youtube.com/watch?v=jedi1KqPSZc&t=596.32s)]
+*  them is there a ceremony for that well there's no there's no plaque i think she got a gift card [[00:10:02](https://www.youtube.com/watch?v=jedi1KqPSZc&t=602.72s)]
+*  oh she got a gift card to what starbucks well something like that well but to your point about [[00:10:06](https://www.youtube.com/watch?v=jedi1KqPSZc&t=606.5600000000001s)]
+*  we haven't heard from her in a you know a professional interview segment setting like that [[00:10:11](https://www.youtube.com/watch?v=jedi1KqPSZc&t=611.28s)]
+*  it's because that's beltway stuff steve that's just beltway stuff well and her comms team said [[00:10:16](https://www.youtube.com/watch?v=jedi1KqPSZc&t=616.32s)]
+*  they're not going to do it because uh you know what it's not going to help them with swing [[00:10:20](https://www.youtube.com/watch?v=jedi1KqPSZc&t=620.8s)]
+*  staters and swing voters and stuff like that but when you look at the new sienna new york [[00:10:24](https://www.youtube.com/watch?v=jedi1KqPSZc&t=624.24s)]
+*  times poll which came out over the weekend suddenly she is it's within the margin of error but she is [[00:10:29](https://www.youtube.com/watch?v=jedi1KqPSZc&t=629.68s)]
+*  slightly ahead in three of the states michigan pennsylvania and wisconsin which is 180 from [[00:10:34](https://www.youtube.com/watch?v=jedi1KqPSZc&t=634.4799999999999s)]
+*  where joe biden was there are some other studies out there other polls out there that showed donald [[00:10:40](https://www.youtube.com/watch?v=jedi1KqPSZc&t=640.24s)]
+*  trump is ahead the point is it's really close and she has suddenly made it competitive and [[00:10:44](https://www.youtube.com/watch?v=jedi1KqPSZc&t=644.88s)]
+*  is she going to put herself out there to be interviewed by people like peter deucey or [[00:10:50](https://www.youtube.com/watch?v=jedi1KqPSZc&t=650.48s)]
+*  anybody else yeah according to like there's anybody else besides peter deucey well come on [[00:10:54](https://www.youtube.com/watch?v=jedi1KqPSZc&t=654.48s)]
+*  see let's be honest at our house right so i'm so really real quickly according to the rcp average [[00:10:58](https://www.youtube.com/watch?v=jedi1KqPSZc&t=658.64s)]
+*  uh donald trump is winning in most of the battle ground states except for nevada in michigan so [[00:11:08](https://www.youtube.com/watch?v=jedi1KqPSZc&t=668.0s)]
+*  we'll see what happens i'm steve deucey i'm brian killmey and i'm ainsley erhart and click here to [[00:11:14](https://www.youtube.com/watch?v=jedi1KqPSZc&t=674.48s)]
+*  subscribe to the fox news youtube page to catch our hottest interviews and most compelling analysis [[00:11:19](https://www.youtube.com/watch?v=jedi1KqPSZc&t=679.12s)]

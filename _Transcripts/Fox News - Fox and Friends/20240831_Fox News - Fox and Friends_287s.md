@@ -1,0 +1,155 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 287s
+Video Keywords: ['kamala harris', 'kamala harris fracking', 'kamala harris news', 'usa news', 'us news today', 'usa news today', 'fracking flip-flop', 'us energy policy', 'kamala harris on fracking', 'kamala harris energy', 'pennsylvania', 'pennsylvania freacking', 'pennsylvania energy industry', 'us fracking industry', 'us economy', 'biden harris administration policies', 'inflation', 'rising prices', 'us inflation', 'fnc', 'fox news', 'fox news media', 'fox news network', 'fox news today']
+Video Views: 227269
+Video Rating: None
+Video Description: President & CEO of JWF Industries Bill Polacek weighs in on Vice President Harris' flip-flop on fracking and reacts to rise in prices of Pennsylvania staples. #foxnews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'WE'RE NOT STUPID': CEO sounds off on Harris' fracking flip-flop
+**Fox News - Fox and Friends:** [August 31, 2024](https://www.youtube.com/watch?v=_6v4Wv0n57U)
+*  There's no question I'm in favor of banning fracking. [[00:00:00](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=0.0s)]
+*  I would not ban fracking. [[00:00:02](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=2.5s)]
+*  As vice president, I did not ban fracking. [[00:00:04](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=4.64s)]
+*  As president, I will not ban fracking. [[00:00:07](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=7.0s)]
+*  Kamala Harris appearing to make, not appearing, [[00:00:09](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=9.88s)]
+*  she makes a complete U-turn on energy. [[00:00:12](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=12.14s)]
+*  And President Trump is not gonna let it slide [[00:00:15](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=15.34s)]
+*  in the Keystone State. [[00:00:17](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=17.54s)]
+*  Then they start playing clips. [[00:00:19](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=19.52s)]
+*  We will always ban fracking. [[00:00:21](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=21.66s)]
+*  There will never be fracking. [[00:00:23](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=23.46s)]
+*  The people of Pennsylvania are smart. [[00:00:26](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=26.52s)]
+*  They're not gonna fall for it. [[00:00:29](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=29.54s)]
+*  We were energy independent four years ago. [[00:00:31](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=31.02s)]
+*  Look what happened. [[00:00:33](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=33.78s)]
+*  We're energy, we're gonna be energy dominant very soon. [[00:00:34](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=34.72s)]
+*  Bill Polichek is the president and CEO of JWF Industries, [[00:00:38](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=38.42s)]
+*  who also spoke at Trump's rally in Pennsylvania. [[00:00:42](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=42.72s)]
+*  He joins us now. [[00:00:45](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=45.7s)]
+*  Bill, thanks for being here. [[00:00:47](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=47.54s)]
+*  Kamala Harris is counting on the fact [[00:00:49](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=49.36s)]
+*  that she can hoodwink people, [[00:00:50](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=50.96s)]
+*  that she can say, [[00:00:52](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=52.04s)]
+*  well, I may have said that before, [[00:00:53](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=53.34s)]
+*  but I don't believe that today. [[00:00:54](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=54.54s)]
+*  For folks in Pennsylvania who are involved in this industry [[00:00:55](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=55.94s)]
+*  or around that in the industrial base [[00:00:58](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=58.86000000000001s)]
+*  and manufacturing, which you are, [[00:01:01](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=61.06s)]
+*  how do they feel about what Kamala Harris would actually do? [[00:01:03](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=63.400000000000006s)]
+*  Well, first of all, we're not stupid, number one. [[00:01:07](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=67.74000000000001s)]
+*  And you can't say something 10 times [[00:01:10](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=70.38000000000001s)]
+*  and then say something different 11th time [[00:01:12](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=72.98s)]
+*  and we think, oh, 11th time's the actual truth. [[00:01:15](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=75.34s)]
+*  We know Dan well, she's far left. [[00:01:17](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=77.88s)]
+*  We know that she's very liberal. [[00:01:20](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=80.26s)]
+*  They're against any fracking. [[00:01:22](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=82.46000000000001s)]
+*  And the sad part is our cost, [[00:01:24](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=84.22s)]
+*  since Donald Trump has been out of office, [[00:01:26](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=86.83999999999999s)]
+*  our energy cost has gone up. [[00:01:29](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=89.67999999999999s)]
+*  Our jobs have gone down in the fracking industry. [[00:01:31](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=91.83999999999999s)]
+*  It was a wonderful thing where you had a fracking industry [[00:01:35](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=95.08s)]
+*  that was robust. [[00:01:39](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=99.32s)]
+*  It created jobs. [[00:01:40](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=100.61999999999999s)]
+*  It brought our utility costs down. [[00:01:41](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=101.82s)]
+*  It brought our gas prices down into our homes. [[00:01:44](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=104.1s)]
+*  It's just ridiculous to think the average American, [[00:01:47](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=107.52s)]
+*  the average Pennsylvania is stupid [[00:01:50](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=110.6s)]
+*  and they're gonna think, oh, all of a sudden now she's left. [[00:01:52](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=112.35999999999999s)]
+*  Bill, we know the race to the White House [[00:01:55](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=115.61999999999999s)]
+*  goes through Pennsylvania. [[00:01:58](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=118.22s)]
+*  We hear about this issue of fracking. [[00:01:59](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=119.75999999999999s)]
+*  How significant is horizontal fracture in Pennsylvania? [[00:02:02](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=122.11999999999999s)]
+*  Is this a small issue or is this really something [[00:02:06](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=126.96s)]
+*  that people resonate with? [[00:02:09](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=129.29999999999998s)]
+*  No, it's a very big issue [[00:02:12](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=132.0s)]
+*  and I think it affects everybody across the state. [[00:02:13](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=133.04s)]
+*  It affects obviously the people [[00:02:16](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=136.14s)]
+*  that are working in that industry. [[00:02:18](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=138.88s)]
+*  It affects the price of the pump. [[00:02:20](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=140.14s)]
+*  It affects the gas prices at your home. [[00:02:22](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=142.38s)]
+*  It affects my cost of manufacture. [[00:02:26](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=146.12s)]
+*  And of course we build things in the oil and gas industry. [[00:02:29](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=149.36s)]
+*  We haven't had an order since six months [[00:02:32](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=152.86s)]
+*  since Biden and Harris took over office. [[00:02:36](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=156.54s)]
+*  It's just to the point where you're hurting manufacturing. [[00:02:41](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=161.08s)]
+*  She says she wants to help manufacturing, [[00:02:42](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=162.9s)]
+*  help the middle class. [[00:02:45](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=165.54s)]
+*  It's the exact opposite. [[00:02:46](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=166.7s)]
+*  That's who the hell it is. [[00:02:47](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=167.82s)]
+*  It's the middle class that she's affecting. [[00:02:48](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=168.88s)]
+*  Yeah, it's all duplicitous. [[00:02:52](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=172.28s)]
+*  I mean, their policies for three and a half years [[00:02:53](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=173.56s)]
+*  crack down on your industries [[00:02:56](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=176.66s)]
+*  and then suddenly they talk about how they wanna help you [[00:02:58](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=178.2s)]
+*  or they wanna address inflation. [[00:03:00](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=180.35999999999999s)]
+*  Speaking of inflation, by the way, [[00:03:02](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=182.28s)]
+*  your Senate candidate there, Dave McCormick, [[00:03:03](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=183.48s)]
+*  put out a couple of graphics or information [[00:03:05](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=185.35999999999999s)]
+*  about the cost of things in Pennsylvania, [[00:03:08](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=188.67999999999998s)]
+*  which are that much more expensive. [[00:03:11](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=191.17999999999998s)]
+*  Let me know, is this your experience? [[00:03:13](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=193.32s)]
+*  So if you want a six inch hoagie from Wawa, [[00:03:14](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=194.83999999999997s)]
+*  it's almost doubled from 2019 to 2024. [[00:03:17](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=197.6s)]
+*  If you want a beer at a Phillies game [[00:03:20](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=200.72s)]
+*  or a Pittsburgh Steelers game, I can see you're a fan. [[00:03:22](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=202.4s)]
+*  It's up by a buck 70. [[00:03:25](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=205.32s)]
+*  And a cheesesteak up almost two and a half bucks. [[00:03:27](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=207.6s)]
+*  Is this your experience too? [[00:03:31](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=211.48000000000002s)]
+*  Are people voting on this? [[00:03:33](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=213.20000000000002s)]
+*  Yeah, they are. [[00:03:36](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=216.0s)]
+*  When the average Pennsylvania lives paycheck to paycheck [[00:03:36](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=216.84s)]
+*  and they see these prices, they go to the grocery store [[00:03:42](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=222.76s)]
+*  and now they've gotta decide what they're gonna buy, [[00:03:45](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=225.32s)]
+*  what type of groceries. [[00:03:48](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=228.68s)]
+*  Or maybe some of the senior citizens [[00:03:49](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=229.68s)]
+*  now are deciding whether they can afford their medicine [[00:03:51](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=231.78s)]
+*  or pay for food. [[00:03:54](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=234.22s)]
+*  I mean, it's the ability to whether you can live [[00:03:55](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=235.98s)]
+*  and it's just gotten ridiculous. [[00:04:00](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=240.14s)]
+*  Yes, we see that same thing. [[00:04:01](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=241.58s)]
+*  And not to mention, go buy a hamburger today. [[00:04:02](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=242.94s)]
+*  It's up 50%. [[00:04:05](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=245.9s)]
+*  Yeah. [[00:04:06](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=246.98s)]
+*  Yeah, and then they wanna- [[00:04:08](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=248.06s)]
+*  And she says it's 3% increase. [[00:04:08](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=248.9s)]
+*  She's bragging about the, it's only 3% more. [[00:04:12](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=252.06s)]
+*  That's over the 20% that they've already increased [[00:04:15](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=255.46s)]
+*  with inflation, so it's ridiculous. [[00:04:18](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=258.74s)]
+*  Correct, we brought inflation down to 3%. [[00:04:20](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=260.18s)]
+*  Well, what about the 40% I see in all my other items [[00:04:22](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=262.06s)]
+*  in the grocery store, which we all experience? [[00:04:24](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=264.94s)]
+*  Absolutely. [[00:04:26](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=266.86s)]
+*  Bill, thank you and good luck to Russell Wilson [[00:04:27](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=267.7s)]
+*  and your squad this year. [[00:04:30](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=270.3s)]
+*  We'll see how it goes. [[00:04:31](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=271.5s)]
+*  Yeah, we hope he's their favorite player. [[00:04:32](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=272.34000000000003s)]
+*  Hey, he's done it before, we'll see. [[00:04:33](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=273.90000000000003s)]
+*  Good to see you. [[00:04:35](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=275.66s)]
+*  I'm Steve Ducey. [[00:04:36](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=276.9s)]
+*  I'm Brian Kilmeade. [[00:04:37](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=277.78000000000003s)]
+*  And I'm Ainsley Earhart. [[00:04:38](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=278.7s)]
+*  And click here to subscribe to the Fox News YouTube page [[00:04:39](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=279.66s)]
+*  to catch our hottest interviews [[00:04:42](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=282.62s)]
+*  and most compelling analysis. [[00:04:44](https://www.youtube.com/watch?v=_6v4Wv0n57U&t=284.14s)]

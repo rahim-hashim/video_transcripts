@@ -1,0 +1,158 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 613s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'crime', 'daniel penny', 'daniel penny acquittal', 'daniel penny acquitted', 'daniel penny fox nation', 'daniel penny fox news', 'daniel penny interview', 'daniel penny judge jeanine', 'fox & friends', 'fox nation daniel penny', 'fox news daniel penny', 'jordan neely', 'judge jeanine', 'judge jeanine daniel penny', 'new york', 'penny', 'subway', 'daniel penny not guilty', 'chokehold death', 'daniel penny trial', 'daniel penny verdict', 'jordan neely daniel penny', 'penny acquitted']
+Video Views: 159525
+Video Rating: None
+Video Description: 'Fox & Friends' co-hosts react to Daniel Penny's exclusive interview with Judge Jeanine Pirro the day after he was acquitted. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Daniel Penny surprises hosts with answer on whether he regrets helping New Yorkers
+**Fox News - Fox and Friends:** [December 11, 2024](https://www.youtube.com/watch?v=x17DugcYOiU)
+*  Marine veteran and New York City subway hero Daniel Penny is speaking out [[00:00:00](https://www.youtube.com/watch?v=x17DugcYOiU&t=0.0s)]
+*  speaking out for the first time after he was acquitted this week in the subway [[00:00:04](https://www.youtube.com/watch?v=x17DugcYOiU&t=4.5600000000000005s)]
+*  chokehold case. Penny opened up about his experience in an exclusive interview [[00:00:08](https://www.youtube.com/watch?v=x17DugcYOiU&t=8.72s)]
+*  with our own judge Jeanine Pirro. The full interview with Daniel Penny is [[00:00:14](https://www.youtube.com/watch?v=x17DugcYOiU&t=14.22s)]
+*  available on Fox Nation. That's right so one day after being acquitted he sat [[00:00:18](https://www.youtube.com/watch?v=x17DugcYOiU&t=18.14s)]
+*  down at a location looks like an office probably one of his attorney's offices [[00:00:23](https://www.youtube.com/watch?v=x17DugcYOiU&t=23.68s)]
+*  overlooking lower Manhattan and you know yesterday on the program we were [[00:00:29](https://www.youtube.com/watch?v=x17DugcYOiU&t=29.2s)]
+*  talking about how he was exonerated how he was acquitted and we we wondered [[00:00:34](https://www.youtube.com/watch?v=x17DugcYOiU&t=34.48s)]
+*  given the fact that he has been to hell and back ten times since he was charged [[00:00:39](https://www.youtube.com/watch?v=x17DugcYOiU&t=39.24s)]
+*  with the death of Jordan Neely would he do it again if he were riding the subway [[00:00:44](https://www.youtube.com/watch?v=x17DugcYOiU&t=44.44s)]
+*  today would he do it again? Here is the surprising answer. Will you take the [[00:00:50](https://www.youtube.com/watch?v=x17DugcYOiU&t=50.239999999999995s)]
+*  subway again? Yeah and I have been. I believe in New York I love New York. [[00:00:58](https://www.youtube.com/watch?v=x17DugcYOiU&t=58.24s)]
+*  Knowing what you know now Danny if you faced the same situation again would you [[00:01:03](https://www.youtube.com/watch?v=x17DugcYOiU&t=63.480000000000004s)]
+*  do it again? Yeah totally I would not be able to live with myself if I didn't do [[00:01:10](https://www.youtube.com/watch?v=x17DugcYOiU&t=70.68s)]
+*  anything in that situation and someone got hurt I would feel guilty for the [[00:01:18](https://www.youtube.com/watch?v=x17DugcYOiU&t=78.56s)]
+*  rest of my life and I think I'm in a position and all people if they're in a [[00:01:23](https://www.youtube.com/watch?v=x17DugcYOiU&t=83.84s)]
+*  position to help should always help. I think that's the New York thing to do [[00:01:32](https://www.youtube.com/watch?v=x17DugcYOiU&t=92.2s)]
+*  it's the American thing to do and yeah I would. [[00:01:36](https://www.youtube.com/watch?v=x17DugcYOiU&t=96.4s)]
+*  That's why he did it in the first place. So he said that he believes that all [[00:01:43](https://www.youtube.com/watch?v=x17DugcYOiU&t=103.12s)]
+*  people should help I mean that's how we all feel is that especially if [[00:01:47](https://www.youtube.com/watch?v=x17DugcYOiU&t=107.88s)]
+*  you're a man you don't watch women and children one lady had a baby being [[00:01:51](https://www.youtube.com/watch?v=x17DugcYOiU&t=111.44s)]
+*  harassed and don't do anything about it and what there's such a there's such a [[00:01:57](https://www.youtube.com/watch?v=x17DugcYOiU&t=117.92s)]
+*  void right now the cops can't do their job anymore you know the DA is a lot of [[00:02:03](https://www.youtube.com/watch?v=x17DugcYOiU&t=123.36s)]
+*  criminals just take take us under siege in this city it's like Gotham City in in [[00:02:08](https://www.youtube.com/watch?v=x17DugcYOiU&t=128.16s)]
+*  New York right now and so it's only up to us to stand in I still even though he [[00:02:13](https://www.youtube.com/watch?v=x17DugcYOiU&t=133.56s)]
+*  got off and the jury's put a red line in I think more people are gonna be [[00:02:19](https://www.youtube.com/watch?v=x17DugcYOiU&t=139.12s)]
+*  hesitant to get involved now Rachel. Yeah that's the problem right I mean we want [[00:02:25](https://www.youtube.com/watch?v=x17DugcYOiU&t=145.0s)]
+*  good Samaritans we want heroes to step forward especially young strong men like [[00:02:29](https://www.youtube.com/watch?v=x17DugcYOiU&t=149.44s)]
+*  this with the kind of experience he has from the military to step in and do the [[00:02:33](https://www.youtube.com/watch?v=x17DugcYOiU&t=153.56s)]
+*  right thing and I do think people will be hesitant and part of it is because you [[00:02:37](https://www.youtube.com/watch?v=x17DugcYOiU&t=157.76s)]
+*  know when it first happened people were hailing him as a hero initially because [[00:02:43](https://www.youtube.com/watch?v=x17DugcYOiU&t=163.8s)]
+*  we have to remember what was going on at that time people were dying on the [[00:02:47](https://www.youtube.com/watch?v=x17DugcYOiU&t=167.38s)]
+*  subway there were people getting shoved into the tracks and then this guy comes [[00:02:50](https://www.youtube.com/watch?v=x17DugcYOiU&t=170.38s)]
+*  in and does that and then right away as soon as he starts getting that hero [[00:02:55](https://www.youtube.com/watch?v=x17DugcYOiU&t=175.29999999999998s)]
+*  adulation the forces of the racial justice cottage industry starts you know [[00:02:58](https://www.youtube.com/watch?v=x17DugcYOiU&t=178.9s)]
+*  doing their thing and trying to turn him into a villain this young man actually [[00:03:05](https://www.youtube.com/watch?v=x17DugcYOiU&t=185.06s)]
+*  talked to Judge Neen by the way this kid has good judgment also picking Judge Neen [[00:03:09](https://www.youtube.com/watch?v=x17DugcYOiU&t=189.3s)]
+*  this was she did this interview beautifully she was the right person to [[00:03:13](https://www.youtube.com/watch?v=x17DugcYOiU&t=193.02s)]
+*  do this I was getting even better than Barbara Walter vibes off this Judge [[00:03:17](https://www.youtube.com/watch?v=x17DugcYOiU&t=197.70000000000002s)]
+*  Neen killed it in this interview she was amazing and here he is talking to her [[00:03:21](https://www.youtube.com/watch?v=x17DugcYOiU&t=201.82000000000002s)]
+*  about what it was like to go from hero to villain because of the racial justice [[00:03:26](https://www.youtube.com/watch?v=x17DugcYOiU&t=206.62s)]
+*  industry listen. You go from a hero to a villain when they say they're going to [[00:03:31](https://www.youtube.com/watch?v=x17DugcYOiU&t=211.70000000000002s)]
+*  indict you. Right. How do you feel about that? You know obviously it's it's pretty [[00:03:41](https://www.youtube.com/watch?v=x17DugcYOiU&t=221.16s)]
+*  nerve-racking it's it was yeah it was very anxiety inducing but throughout [[00:03:47](https://www.youtube.com/watch?v=x17DugcYOiU&t=227.95999999999998s)]
+*  this whole process I would remind myself of the witnesses coming up to thank me [[00:03:55](https://www.youtube.com/watch?v=x17DugcYOiU&t=235.07999999999998s)]
+*  and really no matter what outcome the trial had I only cared about what the [[00:04:03](https://www.youtube.com/watch?v=x17DugcYOiU&t=243.79999999999998s)]
+*  witnesses what the witnesses said about the situation and I only cared about [[00:04:09](https://www.youtube.com/watch?v=x17DugcYOiU&t=249.28s)]
+*  their opinions. I'm on you know immediately when this happened I got a [[00:04:13](https://www.youtube.com/watch?v=x17DugcYOiU&t=253.84s)]
+*  text message and said I surf with this guy I've been surfing with him for two [[00:04:18](https://www.youtube.com/watch?v=x17DugcYOiU&t=258.64s)]
+*  and two and a half years he's one of the greatest guys they go is there anything [[00:04:22](https://www.youtube.com/watch?v=x17DugcYOiU&t=262.84s)]
+*  in his background that's gonna come up as we were trying to make sense of this [[00:04:25](https://www.youtube.com/watch?v=x17DugcYOiU&t=265.64s)]
+*  goes zero and then you find out they went all over his back and tried to [[00:04:28](https://www.youtube.com/watch?v=x17DugcYOiU&t=268.32s)]
+*  fight anything he did you know walked across traffic anything worked against [[00:04:32](https://www.youtube.com/watch?v=x17DugcYOiU&t=272.4s)]
+*  traffic and he was actually in the military okay was actually in the [[00:04:36](https://www.youtube.com/watch?v=x17DugcYOiU&t=276.08s)]
+*  military for a while excuse me a military file he also was in the symphony [[00:04:40](https://www.youtube.com/watch?v=x17DugcYOiU&t=280.84s)]
+*  so when he has some time he wants to be an architect and he was going to the gym [[00:04:45](https://www.youtube.com/watch?v=x17DugcYOiU&t=285.12s)]
+*  so he's not even I mean there was nothing about him there was did anything [[00:04:49](https://www.youtube.com/watch?v=x17DugcYOiU&t=289.76s)]
+*  but correct but here's what I worry about I worry about the civil trial yeah [[00:04:53](https://www.youtube.com/watch?v=x17DugcYOiU&t=293.56s)]
+*  and with the threshold being so low and they're saying you know the cause of [[00:04:57](https://www.youtube.com/watch?v=x17DugcYOiU&t=297.71999999999997s)]
+*  death and we remember that this could cost millions of dollars and I just [[00:05:00](https://www.youtube.com/watch?v=x17DugcYOiU&t=300.91999999999996s)]
+*  thank the American people for allowing his legal bills to be paid because he's [[00:05:05](https://www.youtube.com/watch?v=x17DugcYOiU&t=305.08s)]
+*  not from a family they could write a big check to be bankrupt and number two I [[00:05:08](https://www.youtube.com/watch?v=x17DugcYOiU&t=308.32s)]
+*  worry about the civil trial because that'll send the wrong message too it's [[00:05:12](https://www.youtube.com/watch?v=x17DugcYOiU&t=312.15999999999997s)]
+*  okay I'm exonerated but I'm broke you know so you're gonna bankrupt me you're [[00:05:15](https://www.youtube.com/watch?v=x17DugcYOiU&t=315.35999999999996s)]
+*  gonna garnish my wages because I lost a civil trial too for what I can tell a [[00:05:19](https://www.youtube.com/watch?v=x17DugcYOiU&t=319.91999999999996s)]
+*  father that was MIA this kid this 25 year old Jordan Neely was in foster was [[00:05:25](https://www.youtube.com/watch?v=x17DugcYOiU&t=325.0s)]
+*  put up for adoption or a foster care where he pretty much abused his mom was [[00:05:31](https://www.youtube.com/watch?v=x17DugcYOiU&t=331.88s)]
+*  killed by the boyfriend and she was chopped up and put in a suitcase so you [[00:05:36](https://www.youtube.com/watch?v=x17DugcYOiU&t=336.71999999999997s)]
+*  can imagine the trauma with that and where was the dad well the dad now has [[00:05:41](https://www.youtube.com/watch?v=x17DugcYOiU&t=341.36s)]
+*  a cash register out he's gonna choose to sue Sivoli and he's gonna look to cash [[00:05:45](https://www.youtube.com/watch?v=x17DugcYOiU&t=345.6s)]
+*  showing up now for the payout that's amazing well it's just unfortunate [[00:05:49](https://www.youtube.com/watch?v=x17DugcYOiU&t=349.76s)]
+*  because he had a rough life I sympathize with his Jordan Neely with [[00:05:54](https://www.youtube.com/watch?v=x17DugcYOiU&t=354.64s)]
+*  his story but that is not society's fault and it's not the innocent people [[00:06:01](https://www.youtube.com/watch?v=x17DugcYOiU&t=361.08s)]
+*  that were on the subway's fault there was a system for that that system [[00:06:07](https://www.youtube.com/watch?v=x17DugcYOiU&t=367.59999999999997s)]
+*  clearly failed but you don't get to create some person to be the person that [[00:06:11](https://www.youtube.com/watch?v=x17DugcYOiU&t=371.91999999999996s)]
+*  you crucify as a result of that go after the system say he didn't get homeless [[00:06:18](https://www.youtube.com/watch?v=x17DugcYOiU&t=378.59999999999997s)]
+*  care food and all that go after his family but you don't get to make the guy [[00:06:23](https://www.youtube.com/watch?v=x17DugcYOiU&t=383.84s)]
+*  that was the hero suddenly this villain the last thing I say about this this is [[00:06:27](https://www.youtube.com/watch?v=x17DugcYOiU&t=387.35999999999996s)]
+*  a story also about the leads I've been watching other networks talk about this [[00:06:32](https://www.youtube.com/watch?v=x17DugcYOiU&t=392.08s)]
+*  you have the luxury not to have to take public transportation there's a lot of [[00:06:36](https://www.youtube.com/watch?v=x17DugcYOiU&t=396.52s)]
+*  people that have to take the separate they have to take the bus I mean we're [[00:06:41](https://www.youtube.com/watch?v=x17DugcYOiU&t=401.91999999999996s)]
+*  blessed enough to be paid where you know if we want to take a black car we can [[00:06:46](https://www.youtube.com/watch?v=x17DugcYOiU&t=406.44s)]
+*  take a black car okay average day New Yorkers cannot do that they can't afford [[00:06:50](https://www.youtube.com/watch?v=x17DugcYOiU&t=410.4s)]
+*  an uber especially with all the surge price and that's why AOC's comments [[00:06:55](https://www.youtube.com/watch?v=x17DugcYOiU&t=415.76s)]
+*  about this were so I actually found them kind of shocking because she is for all [[00:06:59](https://www.youtube.com/watch?v=x17DugcYOiU&t=419.71999999999997s)]
+*  her flaws she's a populist after Trump won she went on social media and was [[00:07:04](https://www.youtube.com/watch?v=x17DugcYOiU&t=424.52s)]
+*  like hey I really want to understand what happened here some people voted for [[00:07:09](https://www.youtube.com/watch?v=x17DugcYOiU&t=429.08s)]
+*  Trump some people and at the same time voted for me she seemed curious and [[00:07:12](https://www.youtube.com/watch?v=x17DugcYOiU&t=432.15999999999997s)]
+*  wanting to be in touch with everyday people but then these comments have [[00:07:16](https://www.youtube.com/watch?v=x17DugcYOiU&t=436.15999999999997s)]
+*  resurfaced of what she said at this time and her instincts were so wrong [[00:07:19](https://www.youtube.com/watch?v=x17DugcYOiU&t=439.56s)]
+*  she's not with the common people who have to take the subway well we're all [[00:07:23](https://www.youtube.com/watch?v=x17DugcYOiU&t=443.44s)]
+*  regarding Danny Penny taking the subway and he just said that he takes the [[00:07:26](https://www.youtube.com/watch?v=x17DugcYOiU&t=446.84s)]
+*  subway all the time and he will again I'm sure he's gonna take it today the [[00:07:30](https://www.youtube.com/watch?v=x17DugcYOiU&t=450.92s)]
+*  thing about Danny Penny though is he's got a distinctive look I mean if if you [[00:07:34](https://www.youtube.com/watch?v=x17DugcYOiU&t=454.96s)]
+*  you would spot that hair a mile off I bet he wears he probably wears a [[00:07:38](https://www.youtube.com/watch?v=x17DugcYOiU&t=458.88s)]
+*  stocking cap he probably wears a hat I saw photos of him out with his [[00:07:43](https://www.youtube.com/watch?v=x17DugcYOiU&t=463.16s)]
+*  girlfriend right recently in one of these magazines and he's wearing a hat [[00:07:46](https://www.youtube.com/watch?v=x17DugcYOiU&t=466.48s)]
+*  he's trying to just live his life because think about it if Danny Penny [[00:07:51](https://www.youtube.com/watch?v=x17DugcYOiU&t=471.04s)]
+*  sat down next to you on a subway I'd love that hey sit next to me on the [[00:07:55](https://www.youtube.com/watch?v=x17DugcYOiU&t=475.84000000000003s)]
+*  subway but a lot of people here in New York he's a bad guy even though he has [[00:08:02](https://www.youtube.com/watch?v=x17DugcYOiU&t=482.0s)]
+*  been fully exonerated by by a jury of his peers and that's why sit next to me [[00:08:06](https://www.youtube.com/watch?v=x17DugcYOiU&t=486.24s)]
+*  clear what AOC said AOC said the subways are less safe because of people like [[00:08:12](https://www.youtube.com/watch?v=x17DugcYOiU&t=492.0s)]
+*  Jordan Neely and it's for someone who grew up in New York you should know [[00:08:18](https://www.youtube.com/watch?v=x17DugcYOiU&t=498.48s)]
+*  better and I will say this the whole interview you got to watch it because [[00:08:23](https://www.youtube.com/watch?v=x17DugcYOiU&t=503.88s)]
+*  judge handles it because she lets she gets out of the way she asked the [[00:08:27](https://www.youtube.com/watch?v=x17DugcYOiU&t=507.6s)]
+*  question yes she lets him go and when a guy has long pauses my old instinct is [[00:08:30](https://www.youtube.com/watch?v=x17DugcYOiU&t=510.88s)]
+*  to jump in she lets no she let it goes and the number two is Lawrence I'll [[00:08:35](https://www.youtube.com/watch?v=x17DugcYOiU&t=515.34s)]
+*  I get on a subway because you can't get anywhere in New York right now if so [[00:08:39](https://www.youtube.com/watch?v=x17DugcYOiU&t=519.84s)]
+*  easy in a car especially with the Christmas tree and lighting I can't get [[00:08:44](https://www.youtube.com/watch?v=x17DugcYOiU&t=524.8000000000001s)]
+*  it will take me 45 minutes to get to the tunnel so I never I always hop on a [[00:08:48](https://www.youtube.com/watch?v=x17DugcYOiU&t=528.96s)]
+*  subway last night I did too and I always go on a railroad because I can't get [[00:08:53](https://www.youtube.com/watch?v=x17DugcYOiU&t=533.88s)]
+*  anywhere so what would you do in this situation by the way didn't we have Adam [[00:08:58](https://www.youtube.com/watch?v=x17DugcYOiU&t=538.48s)]
+*  our weather guy actually got into an altercation on a subway meet up 130 [[00:09:02](https://www.youtube.com/watch?v=x17DugcYOiU&t=542.96s)]
+*  people like you who take the subway especially knowing what what what [[00:09:07](https://www.youtube.com/watch?v=x17DugcYOiU&t=547.04s)]
+*  Daniel Penny has gone through you see the same situation do you jump in I [[00:09:11](https://www.youtube.com/watch?v=x17DugcYOiU&t=551.56s)]
+*  have to you have to jump in especially I see a woman with a child are you [[00:09:17](https://www.youtube.com/watch?v=x17DugcYOiU&t=557.12s)]
+*  kidding you have to and let with the chips fall where they may but I will say [[00:09:21](https://www.youtube.com/watch?v=x17DugcYOiU&t=561.1999999999999s)]
+*  I talk to cops all the time nobody talks more than you I get it but everywhere I [[00:09:25](https://www.youtube.com/watch?v=x17DugcYOiU&t=565.4399999999999s)]
+*  go and everyone agrees it's getting better law enforcement feels backed yeah [[00:09:28](https://www.youtube.com/watch?v=x17DugcYOiU&t=568.8199999999999s)]
+*  I think that this place New York City has got families here walking on the [[00:09:33](https://www.youtube.com/watch?v=x17DugcYOiU&t=573.68s)]
+*  streets our tree is a huge place for everyone to come I sense that things are [[00:09:37](https://www.youtube.com/watch?v=x17DugcYOiU&t=577.04s)]
+*  turning in the country and I think this case is is gonna be the beginning of the [[00:09:41](https://www.youtube.com/watch?v=x17DugcYOiU&t=581.68s)]
+*  end of the woke da's yeah the American Republicans I think the way BLM looks so [[00:09:46](https://www.youtube.com/watch?v=x17DugcYOiU&t=586.16s)]
+*  ridiculous and I mean come on yeah we would all love to get back to normal [[00:09:52](https://www.youtube.com/watch?v=x17DugcYOiU&t=592.88s)]
+*  let's hope let's hope that happens I'm Steve juicy I'm Brian kill me and I [[00:09:59](https://www.youtube.com/watch?v=x17DugcYOiU&t=599.88s)]
+*  means layer heart and click here to subscribe to the Fox News YouTube page [[00:10:04](https://www.youtube.com/watch?v=x17DugcYOiU&t=604.24s)]
+*  to catch our hottest interviews and most compelling analysis [[00:10:07](https://www.youtube.com/watch?v=x17DugcYOiU&t=607.8s)]

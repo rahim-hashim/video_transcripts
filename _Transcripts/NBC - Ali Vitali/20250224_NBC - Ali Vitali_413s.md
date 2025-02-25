@@ -1,0 +1,156 @@
+---
+Date Generated: February 24, 2025
+Transcription Model: whisper medium 20231117
+Length: 413s
+Video Keywords: ['Way Too Early', 'Morning Joe', 'News', 'Ali Vitali']
+Video Views: 28434
+Video Rating: None
+Video Description: Rep. Dave Min, D-Calif., discusses the new bill to repeal Trump's executive order establishing and implementing DOGE.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#ElonMusk #DOGE #Politics
+---
+
+# Democratic lawmaker launches battle against Musk's DOGE
+**NBC - Ali Vitali:** [February 24, 2025](https://www.youtube.com/watch?v=_wqczvB9nhY)
+*  We have a very corrupt group of people in this country. [[00:00:00](https://www.youtube.com/watch?v=_wqczvB9nhY&t=0.0s)]
+*  We're finding them out. [[00:00:03](https://www.youtube.com/watch?v=_wqczvB9nhY&t=3.68s)]
+*  We're removing all of the unnecessary incompetent and corrupt bureaucrats from the federal workforce. [[00:00:05](https://www.youtube.com/watch?v=_wqczvB9nhY&t=5.6000000000000005s)]
+*  That's what we're doing. [[00:00:11](https://www.youtube.com/watch?v=_wqczvB9nhY&t=11.72s)]
+*  We want to make government smaller, more efficient. [[00:00:13](https://www.youtube.com/watch?v=_wqczvB9nhY&t=13.52s)]
+*  We want to keep the best people, and we're not going to keep the worst people. [[00:00:16](https://www.youtube.com/watch?v=_wqczvB9nhY&t=16.28s)]
+*  That of course was President Trump weighing in on the federal firings being carried out [[00:00:22](https://www.youtube.com/watch?v=_wqczvB9nhY&t=22.240000000000002s)]
+*  by his administration and Elon Musk's Doge team. [[00:00:25](https://www.youtube.com/watch?v=_wqczvB9nhY&t=25.88s)]
+*  This comes as polling shows a majority of Americans actually disapprove of the way that [[00:00:29](https://www.youtube.com/watch?v=_wqczvB9nhY&t=29.62s)]
+*  Musk is carrying out his job. [[00:00:33](https://www.youtube.com/watch?v=_wqczvB9nhY&t=33.54s)]
+*  A recent Washington Post Ipsos poll found that just 34% of Americans said they approve [[00:00:35](https://www.youtube.com/watch?v=_wqczvB9nhY&t=35.5s)]
+*  of how Musk is handling his job compared to 49% who disapprove. [[00:00:40](https://www.youtube.com/watch?v=_wqczvB9nhY&t=40.14s)]
+*  And in a recent Quinnipiac University poll, 55% of respondents said Musk has too much [[00:00:44](https://www.youtube.com/watch?v=_wqczvB9nhY&t=44.980000000000004s)]
+*  power in making decisions affecting the United States. [[00:00:49](https://www.youtube.com/watch?v=_wqczvB9nhY&t=49.760000000000005s)]
+*  Joining us now is Democratic Congressman Dave Min of California. [[00:00:53](https://www.youtube.com/watch?v=_wqczvB9nhY&t=53.58s)]
+*  First I want to start with the Doge pushback that you and your colleagues have been trying [[00:00:57](https://www.youtube.com/watch?v=_wqczvB9nhY&t=57.74s)]
+*  to do from your roles in Congress. [[00:01:02](https://www.youtube.com/watch?v=_wqczvB9nhY&t=62.3s)]
+*  You've actually got a new bill out this morning that we got a first look at. [[00:01:05](https://www.youtube.com/watch?v=_wqczvB9nhY&t=65.46s)]
+*  You've mastered the art of the trolling title in legislation because you call it the Bad [[00:01:08](https://www.youtube.com/watch?v=_wqczvB9nhY&t=68.82s)]
+*  Doge Act. [[00:01:12](https://www.youtube.com/watch?v=_wqczvB9nhY&t=72.42s)]
+*  But tell us about it and what you hope it would do. [[00:01:13](https://www.youtube.com/watch?v=_wqczvB9nhY&t=73.74s)]
+*  This is the Bolstering American Democracy and Demanding Oversight in Government Ethics [[00:01:16](https://www.youtube.com/watch?v=_wqczvB9nhY&t=76.22s)]
+*  And it's meant to address the abuses of power, the illegalities, the blatant attacks on our [[00:01:21](https://www.youtube.com/watch?v=_wqczvB9nhY&t=81.58s)]
+*  Constitution that Elon Musk and Doge are engaged in right now. [[00:01:28](https://www.youtube.com/watch?v=_wqczvB9nhY&t=88.02s)]
+*  So if you look at the White House executive order that created Doge, it very specifically [[00:01:31](https://www.youtube.com/watch?v=_wqczvB9nhY&t=91.22s)]
+*  authorized Doge as a quote, temporary government organization. [[00:01:37](https://www.youtube.com/watch?v=_wqczvB9nhY&t=97.02s)]
+*  And that temporary government organization is by law limited to carrying out a specific [[00:01:41](https://www.youtube.com/watch?v=_wqczvB9nhY&t=101.61999999999999s)]
+*  study or project. [[00:01:46](https://www.youtube.com/watch?v=_wqczvB9nhY&t=106.06s)]
+*  In this case, it was supposed to be data modernization. [[00:01:47](https://www.youtube.com/watch?v=_wqczvB9nhY&t=107.67999999999999s)]
+*  Elon Musk, as we all know, was supposed to be a special government employee, a temporary [[00:01:50](https://www.youtube.com/watch?v=_wqczvB9nhY&t=110.62s)]
+*  employee whose role was limited to consulting and advisement. [[00:01:54](https://www.youtube.com/watch?v=_wqczvB9nhY&t=114.82s)]
+*  Obviously, they've gone way beyond that in ways that clearly are against their own mandate. [[00:01:59](https://www.youtube.com/watch?v=_wqczvB9nhY&t=119.5s)]
+*  If Donald Trump had said, we're going to have an agency that's going to be able to sweepingly [[00:02:05](https://www.youtube.com/watch?v=_wqczvB9nhY&t=125.25999999999999s)]
+*  fire millions of federal employees to delete agencies with the flick of a switch, that [[00:02:09](https://www.youtube.com/watch?v=_wqczvB9nhY&t=129.54s)]
+*  would have required an act of Congress. [[00:02:14](https://www.youtube.com/watch?v=_wqczvB9nhY&t=134.22s)]
+*  It would have required Senate confirmation. [[00:02:15](https://www.youtube.com/watch?v=_wqczvB9nhY&t=135.66s)]
+*  It would have required Elon Musk and his 25-year-old buddies to have complied with a lot of different [[00:02:17](https://www.youtube.com/watch?v=_wqczvB9nhY&t=137.98s)]
+*  laws out there, which they are not complying with right now. [[00:02:23](https://www.youtube.com/watch?v=_wqczvB9nhY&t=143.82s)]
+*  So every day they're out there, they're violating the law. [[00:02:25](https://www.youtube.com/watch?v=_wqczvB9nhY&t=145.98s)]
+*  And of course, they're violating the law in many, many other ways. [[00:02:28](https://www.youtube.com/watch?v=_wqczvB9nhY&t=148.5s)]
+*  Stealing our data violates a lot of data privacy acts. [[00:02:31](https://www.youtube.com/watch?v=_wqczvB9nhY&t=151.42000000000002s)]
+*  They're violating the Empowerment Control Act. [[00:02:35](https://www.youtube.com/watch?v=_wqczvB9nhY&t=155.78s)]
+*  And dozens of different ethics laws are being violated every single day by these folks. [[00:02:37](https://www.youtube.com/watch?v=_wqczvB9nhY&t=157.58s)]
+*  But the real thing that they're engaging in that I think is so problematic is that they [[00:02:42](https://www.youtube.com/watch?v=_wqczvB9nhY&t=162.46s)]
+*  are attacking our Constitution. [[00:02:46](https://www.youtube.com/watch?v=_wqczvB9nhY&t=166.5s)]
+*  Even my 14-, 12-, and 9-year-olds all know this because they learned it in elementary [[00:02:48](https://www.youtube.com/watch?v=_wqczvB9nhY&t=168.42s)]
+*  school. [[00:02:52](https://www.youtube.com/watch?v=_wqczvB9nhY&t=172.34s)]
+*  The Congress, and only Congress, is tasked with making laws and appropriating money. [[00:02:53](https://www.youtube.com/watch?v=_wqczvB9nhY&t=173.34s)]
+*  And what Elon Musk is asserting right now is the ability unilaterally to be able to [[00:02:59](https://www.youtube.com/watch?v=_wqczvB9nhY&t=179.18s)]
+*  rewrite law, to delete agencies we've created, to redirect funding that we have authorized [[00:03:03](https://www.youtube.com/watch?v=_wqczvB9nhY&t=183.26s)]
+*  in Congress. [[00:03:08](https://www.youtube.com/watch?v=_wqczvB9nhY&t=188.34s)]
+*  And there's a word for that. [[00:03:09](https://www.youtube.com/watch?v=_wqczvB9nhY&t=189.86s)]
+*  It's dictatorship, autocracy, monarchy. [[00:03:11](https://www.youtube.com/watch?v=_wqczvB9nhY&t=191.1s)]
+*  It is not a democracy. [[00:03:13](https://www.youtube.com/watch?v=_wqczvB9nhY&t=193.34s)]
+*  And that's what this is about. [[00:03:15](https://www.youtube.com/watch?v=_wqczvB9nhY&t=195.22s)]
+*  And of course, there's the myriad conflict of interest, the ways in which what they're [[00:03:16](https://www.youtube.com/watch?v=_wqczvB9nhY&t=196.94s)]
+*  doing is harmful and immoral to so many Americans out there. [[00:03:19](https://www.youtube.com/watch?v=_wqczvB9nhY&t=199.54s)]
+*  But at the end of the day, this is about the rule of law. [[00:03:22](https://www.youtube.com/watch?v=_wqczvB9nhY&t=202.54s)]
+*  And I started my career, as I mentioned to you earlier, at the SEC as a law professor. [[00:03:24](https://www.youtube.com/watch?v=_wqczvB9nhY&t=204.78s)]
+*  I've worked hard my whole career in trying to uphold the rule of law. [[00:03:28](https://www.youtube.com/watch?v=_wqczvB9nhY&t=208.86s)]
+*  And all of this offends my sensibilities. [[00:03:32](https://www.youtube.com/watch?v=_wqczvB9nhY&t=212.5s)]
+*  When you talk about, though, the Bad Doge Act, I think that it gets the point across [[00:03:34](https://www.youtube.com/watch?v=_wqczvB9nhY&t=214.86s)]
+*  that you're talking about, the number of concerns that you and your colleagues have detailed. [[00:03:39](https://www.youtube.com/watch?v=_wqczvB9nhY&t=219.18s)]
+*  But the reality is on the Hill is that it's not going to pass, of course. [[00:03:43](https://www.youtube.com/watch?v=_wqczvB9nhY&t=223.66s)]
+*  And so what is your hope for legislation like this and for Americans who agree with you [[00:03:47](https://www.youtube.com/watch?v=_wqczvB9nhY&t=227.02s)]
+*  and the sentiments that you put forward in this bill? [[00:03:51](https://www.youtube.com/watch?v=_wqczvB9nhY&t=231.54s)]
+*  But they say, all right, if this can't become law, then what's the pushback? [[00:03:53](https://www.youtube.com/watch?v=_wqczvB9nhY&t=233.92s)]
+*  What's the pushback? [[00:03:56](https://www.youtube.com/watch?v=_wqczvB9nhY&t=236.94s)]
+*  Well, look, first of all, I hope that this bill starts a conversation, both in Congress [[00:03:57](https://www.youtube.com/watch?v=_wqczvB9nhY&t=237.94s)]
+*  and maybe in households across the country. [[00:04:01](https://www.youtube.com/watch?v=_wqczvB9nhY&t=241.98s)]
+*  But do you feel like the good faith conversations on the Hill are dead? [[00:04:03](https://www.youtube.com/watch?v=_wqczvB9nhY&t=243.7s)]
+*  I know you've only been there for a few weeks. [[00:04:06](https://www.youtube.com/watch?v=_wqczvB9nhY&t=246.57999999999998s)]
+*  But as someone who's been there for several years, it doesn't feel like there's very much [[00:04:08](https://www.youtube.com/watch?v=_wqczvB9nhY&t=248.3s)]
+*  good faith up there right now. [[00:04:11](https://www.youtube.com/watch?v=_wqczvB9nhY&t=251.38s)]
+*  So I'm getting to know my colleagues still, right, still believing in the American experiment [[00:04:13](https://www.youtube.com/watch?v=_wqczvB9nhY&t=253.23999999999998s)]
+*  in democracy. [[00:04:17](https://www.youtube.com/watch?v=_wqczvB9nhY&t=257.2s)]
+*  And I'm hoping that we can get some Republicans on this bill. [[00:04:18](https://www.youtube.com/watch?v=_wqczvB9nhY&t=258.2s)]
+*  We have a three-vote minority right now. [[00:04:20](https://www.youtube.com/watch?v=_wqczvB9nhY&t=260.4s)]
+*  They have a three-vote majority on the Republican side. [[00:04:22](https://www.youtube.com/watch?v=_wqczvB9nhY&t=262.0s)]
+*  And I'm hoping that a few of them, at least, maybe more than that, will remember the oath [[00:04:25](https://www.youtube.com/watch?v=_wqczvB9nhY&t=265.12s)]
+*  that we all took when we entered office to support and defend the Constitution of the [[00:04:29](https://www.youtube.com/watch?v=_wqczvB9nhY&t=269.24s)]
+*  United States. [[00:04:32](https://www.youtube.com/watch?v=_wqczvB9nhY&t=272.68s)]
+*  It doesn't say anything about Donald Trump or the president in that oath we took. [[00:04:33](https://www.youtube.com/watch?v=_wqczvB9nhY&t=273.68s)]
+*  It's about the Constitution of the United States. [[00:04:36](https://www.youtube.com/watch?v=_wqczvB9nhY&t=276.4s)]
+*  And that is what I'm hoping Republicans will do here. [[00:04:38](https://www.youtube.com/watch?v=_wqczvB9nhY&t=278.32s)]
+*  I want to broaden out because you are coming back to Washington. [[00:04:41](https://www.youtube.com/watch?v=_wqczvB9nhY&t=281.04s)]
+*  Again, the fact that we have a California lawmaker in the studio with us, we do recognize [[00:04:43](https://www.youtube.com/watch?v=_wqczvB9nhY&t=283.56s)]
+*  that it's more difficult for you. [[00:04:47](https://www.youtube.com/watch?v=_wqczvB9nhY&t=287.32s)]
+*  It's as advertised, as I like to tell people. [[00:04:49](https://www.youtube.com/watch?v=_wqczvB9nhY&t=289.12s)]
+*  But you just came back from a week being at home with your constituents. [[00:04:51](https://www.youtube.com/watch?v=_wqczvB9nhY&t=291.40000000000003s)]
+*  We saw some of the town halls across the country, Republicans kind of getting some heat for [[00:04:55](https://www.youtube.com/watch?v=_wqczvB9nhY&t=295.0s)]
+*  what's happening in government. [[00:04:59](https://www.youtube.com/watch?v=_wqczvB9nhY&t=299.08000000000004s)]
+*  Did you hear that from your constituents? [[00:05:00](https://www.youtube.com/watch?v=_wqczvB9nhY&t=300.52000000000004s)]
+*  Oh, absolutely. [[00:05:01](https://www.youtube.com/watch?v=_wqczvB9nhY&t=301.96000000000004s)]
+*  Right now, people are terrified. [[00:05:02](https://www.youtube.com/watch?v=_wqczvB9nhY&t=302.96000000000004s)]
+*  They're uncertain. [[00:05:03](https://www.youtube.com/watch?v=_wqczvB9nhY&t=303.96000000000004s)]
+*  I talked with food banks. [[00:05:05](https://www.youtube.com/watch?v=_wqczvB9nhY&t=305.68s)]
+*  I talked with different environmental organizations. [[00:05:07](https://www.youtube.com/watch?v=_wqczvB9nhY&t=307.28000000000003s)]
+*  I talked with health services, with UC Irvine, who I represent. [[00:05:10](https://www.youtube.com/watch?v=_wqczvB9nhY&t=310.16s)]
+*  And they're all worried right now because many of them have already received notices [[00:05:15](https://www.youtube.com/watch?v=_wqczvB9nhY&t=315.2s)]
+*  that they're going to lose funding illegally again. [[00:05:18](https://www.youtube.com/watch?v=_wqczvB9nhY&t=318.68s)]
+*  And so, for example, UC Irvine, if the NIH freeze or cuts go through, they're going to [[00:05:21](https://www.youtube.com/watch?v=_wqczvB9nhY&t=321.48s)]
+*  lose $125 million, which is an existential threat to their budget. [[00:05:26](https://www.youtube.com/watch?v=_wqczvB9nhY&t=326.76s)]
+*  This is money that already was committed. [[00:05:30](https://www.youtube.com/watch?v=_wqczvB9nhY&t=330.76s)]
+*  They hired people based on it. [[00:05:33](https://www.youtube.com/watch?v=_wqczvB9nhY&t=333.08s)]
+*  They engaged in cancer trials, among other things, based on that funding promise. [[00:05:34](https://www.youtube.com/watch?v=_wqczvB9nhY&t=334.36s)]
+*  And Elon Musk is trying to take it away. [[00:05:38](https://www.youtube.com/watch?v=_wqczvB9nhY&t=338.56s)]
+*  You multiply that across the board. [[00:05:40](https://www.youtube.com/watch?v=_wqczvB9nhY&t=340.8s)]
+*  Just an example I like to give right now. [[00:05:42](https://www.youtube.com/watch?v=_wqczvB9nhY&t=342.6s)]
+*  Meals on Wheels is tasked to be cut. [[00:05:44](https://www.youtube.com/watch?v=_wqczvB9nhY&t=344.6s)]
+*  And the reason Meals on Wheels is supposed to be cut is because it is a DEI initiative. [[00:05:47](https://www.youtube.com/watch?v=_wqczvB9nhY&t=347.48s)]
+*  How did that happen? [[00:05:52](https://www.youtube.com/watch?v=_wqczvB9nhY&t=352.48s)]
+*  It's because seniors, apparently, they're viewing as a protected class. [[00:05:53](https://www.youtube.com/watch?v=_wqczvB9nhY&t=353.48s)]
+*  And this is what happens when you have 19- to 25-year-olds making the decisions with [[00:05:56](https://www.youtube.com/watch?v=_wqczvB9nhY&t=356.0s)]
+*  the flick of a switch on which agencies to delete, which programs to cut. [[00:06:00](https://www.youtube.com/watch?v=_wqczvB9nhY&t=360.4s)]
+*  This needs to happen through Congress. [[00:06:04](https://www.youtube.com/watch?v=_wqczvB9nhY&t=364.79999999999995s)]
+*  At the end of the day, all of this needs to happen through Congress. [[00:06:05](https://www.youtube.com/watch?v=_wqczvB9nhY&t=365.79999999999995s)]
+*  Yeah, that is the power of the purse, right? [[00:06:08](https://www.youtube.com/watch?v=_wqczvB9nhY&t=368.28s)]
+*  That is the role of Congress. [[00:06:10](https://www.youtube.com/watch?v=_wqczvB9nhY&t=370.15999999999997s)]
+*  And I'm glad that you bring up the role of food banks. [[00:06:11](https://www.youtube.com/watch?v=_wqczvB9nhY&t=371.76s)]
+*  I've actually done reporting in your community with food banks in that area. [[00:06:13](https://www.youtube.com/watch?v=_wqczvB9nhY&t=373.67999999999995s)]
+*  And when you see programs like SNAP being cut, it drives more people to food banks that [[00:06:17](https://www.youtube.com/watch?v=_wqczvB9nhY&t=377.47999999999996s)]
+*  are already stretched so thin, never fully recovered from during and after the pandemic. [[00:06:22](https://www.youtube.com/watch?v=_wqczvB9nhY&t=382.35999999999996s)]
+*  Congresswoman Dave Minn of California, we so appreciate you getting up with us this morning. [[00:06:27](https://www.youtube.com/watch?v=_wqczvB9nhY&t=387.76s)]
+*  Thanks for having me. [[00:06:31](https://www.youtube.com/watch?v=_wqczvB9nhY&t=391.59999999999997s)]

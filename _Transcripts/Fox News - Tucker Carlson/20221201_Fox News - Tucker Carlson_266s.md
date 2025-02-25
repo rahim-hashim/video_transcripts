@@ -1,0 +1,162 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 266s
+Video Keywords: ['turning point usa', 'turning point', 'charlie kirk', 'TPUSA', 'carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight']
+Video Views: 249245
+Video Rating: None
+Video Description: Turning Point USA founder and president joins 'Tucker Carlson Tonight' to discuss riot police being mobilized for protests at the University of New Mexico against his speech on campus.
+#foxnews #tucker #fox  
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity: http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Charlie Kirk speaks out after masked protesters target his speech at UNM
+**Fox News - Tucker Carlson:** [December 01, 2022](https://www.youtube.com/watch?v=x7jP-kzu0ng)
+*  Well, here's a story you have definitely seen before. [[00:00:00](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=0.0s)]
+*  A major college campus erupted into violence [[00:00:02](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=2.64s)]
+*  when someone tried to say things [[00:00:05](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=5.74s)]
+*  that were not approved by the people in charge, [[00:00:07](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=7.640000000000001s)]
+*  the Biden administration and Apple. [[00:00:09](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=9.42s)]
+*  That happened last night [[00:00:10](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=10.76s)]
+*  at the University of New Mexico in Albuquerque. [[00:00:11](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=11.72s)]
+*  Charlie Kirk visited the campus [[00:00:13](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=13.56s)]
+*  and riot police had to be deployed. [[00:00:16](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=16.14s)]
+*  Watch. [[00:00:18](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=18.740000000000002s)]
+*  F*** you! [[00:00:20](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=20.52s)]
+*  Get the f*** off our campus! [[00:00:21](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=21.36s)]
+*  Who are you? [[00:00:23](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=23.36s)]
+*  I'm a reporter. [[00:00:24](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=24.36s)]
+*  You're a reporter. [[00:00:25](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=25.36s)]
+*  You're a f***ing white cop. [[00:00:26](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=26.36s)]
+*  You're a f***ing white cop. [[00:00:27](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=27.36s)]
+*  He's a f***ing white cop. [[00:00:28](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=28.52s)]
+*  That's what the f*** he is, right? [[00:00:29](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=29.52s)]
+*  You f***ing coward. [[00:00:31](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=31.52s)]
+*  F***. [[00:00:32](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=32.519999999999996s)]
+*  What do you think about the cops? [[00:00:33](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=33.519999999999996s)]
+*  Cops? F*** them. [[00:00:35](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=35.519999999999996s)]
+*  You know what I say? [[00:00:36](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=36.519999999999996s)]
+*  American? [[00:00:37](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=37.519999999999996s)]
+*  F*** Americans. [[00:00:38](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=38.519999999999996s)]
+*  Especially the cops. [[00:00:39](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=39.519999999999996s)]
+*  F***. [[00:00:40](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=40.519999999999996s)]
+*  You! [[00:00:41](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=41.519999999999996s)]
+*  F***. [[00:00:42](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=42.519999999999996s)]
+*  You son of a bitch! [[00:00:43](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=43.519999999999996s)]
+*  No! [[00:00:44](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=44.519999999999996s)]
+*  You! [[00:00:45](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=45.519999999999996s)]
+*  F***! [[00:00:46](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=46.519999999999996s)]
+*  Hey, get off of there! [[00:00:47](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=47.519999999999996s)]
+*  Police! [[00:00:48](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=48.519999999999996s)]
+*  F***! [[00:00:49](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=49.519999999999996s)]
+*  What's the problem with this? [[00:00:50](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=50.519999999999996s)]
+*  F***! [[00:00:51](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=51.519999999999996s)]
+*  F***! [[00:00:52](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=52.519999999999996s)]
+*  I love... [[00:00:53](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=53.519999999999996s)]
+*  Oh my God! [[00:00:54](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=54.519999999999996s)]
+*  You like white supremacy, yeah? [[00:00:55](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=55.519999999999996s)]
+*  F***! [[00:00:56](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=56.519999999999996s)]
+*  You like the police! [[00:00:57](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=57.68s)]
+*  You like the police! [[00:00:58](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=58.68s)]
+*  You like the police! [[00:00:59](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=59.68000000000001s)]
+*  F***! [[00:01:00](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=60.68000000000001s)]
+*  F***! [[00:01:01](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=61.68000000000001s)]
+*  You like the police! [[00:01:02](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=62.68000000000001s)]
+*  F***! [[00:01:03](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=63.68000000000001s)]
+*  You like the police! [[00:01:04](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=64.68s)]
+*  You like the police! [[00:01:05](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=65.68s)]
+*  F***! [[00:01:06](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=66.68s)]
+*  You like the police! [[00:01:07](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=67.68s)]
+*  You like the police! [[00:01:08](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=68.68s)]
+*  You like the police! [[00:01:09](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=69.68s)]
+*  Oh, but the threat is the Proud Boys and QAnon. [[00:01:10](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=70.68s)]
+*  Charlie Kirk is the founder and president of Turning Point USA. [[00:01:12](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=72.68s)]
+*  He joins us tonight. [[00:01:15](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=75.0s)]
+*  Charlie, thanks so much for coming on. [[00:01:16](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=76.0s)]
+*  This was clearly organized. [[00:01:17](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=77.26s)]
+*  A lot of the signs were pre-printed. [[00:01:18](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=78.26s)]
+*  Who were these people, do you know? [[00:01:19](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=79.96000000000001s)]
+*  It's a good question. [[00:01:20](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=80.96000000000001s)]
+*  I wonder if they're paid and why they were spending their evenings to protest me and [[00:01:21](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=81.96000000000001s)]
+*  our Turning Point USA chapter just to talk about the U.S. Constitution and freedom of [[00:01:27](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=87.34s)]
+*  speech. [[00:01:31](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=91.42s)]
+*  It's really interesting when you try to show up on a college campus and do an optional [[00:01:32](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=92.42s)]
+*  voluntary event, how angry the other side gets. [[00:01:35](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=95.14s)]
+*  But this is a very important moment for people to recognize and understand that the other [[00:01:38](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=98.46000000000001s)]
+*  side, the left, the radical left, they're acting like the very same domestic violent [[00:01:42](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=102.56s)]
+*  extremists that the entire federal government is now organized to go after. [[00:01:46](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=106.74000000000001s)]
+*  And we're told that's on the American right. [[00:01:50](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=110.94000000000001s)]
+*  Really go look at that footage. [[00:01:52](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=112.66000000000001s)]
+*  Is that the Proud Boys? [[00:01:53](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=113.98s)]
+*  Is that the American right? [[00:01:54](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=114.98s)]
+*  Are those conservatives? [[00:01:55](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=115.98s)]
+*  No. [[00:01:57](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=117.78s)]
+*  Those people are on the left. [[00:01:58](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=118.78s)]
+*  And I wonder who's financing them and who's behind it. [[00:01:59](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=119.78s)]
+*  This is the third time this semester that we've done an event on this campus. [[00:02:00](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=120.78s)]
+*  The other two had to be canceled or ended abruptly because of these people that intervened. [[00:02:03](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=123.82000000000001s)]
+*  So I went there on a personal mission because the only way we lose right now is if we don't [[00:02:08](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=128.46s)]
+*  show up. [[00:02:13](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=133.22s)]
+*  So I went there last evening to send a message to every one of these people, to send a message [[00:02:14](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=134.22s)]
+*  to the one that's watching, that we're going to stand for free speech and you are not going [[00:02:17](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=137.94s)]
+*  to be able to disrupt our events or bully our students with force. [[00:02:21](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=141.18s)]
+*  And thankfully the event went very well despite their best protest and their violence. [[00:02:25](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=145.26s)]
+*  Three people were arrested last evening. [[00:02:30](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=150.5s)]
+*  But I noticed their signs are so familiar. [[00:02:33](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=153.01999999999998s)]
+*  You're a racist. [[00:02:34](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=154.66s)]
+*  You're a white supremacist. [[00:02:35](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=155.66s)]
+*  I happen to know that you argue when you even address race for a colorblind society, which [[00:02:36](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=156.66s)]
+*  is of course the opposite in the antidote to racism. [[00:02:41](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=161.14s)]
+*  Why is it always that slur? [[00:02:43](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=163.89999999999998s)]
+*  I mean, there are probably things you believe that they don't think could attack you on [[00:02:45](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=165.38s)]
+*  those, but no, they called you a white supremacist and they always do. [[00:02:47](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=167.73999999999998s)]
+*  Why? [[00:02:50](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=170.54s)]
+*  Well, first of all, because most people cower in fear when they're called a racist. [[00:02:51](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=171.98s)]
+*  They go into a place of paralysis. [[00:02:56](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=176.14s)]
+*  We are in the era of weaponized name calling where people ask for forgiveness immediately [[00:02:58](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=178.14s)]
+*  and they apologize for no reason just because they're called this. [[00:03:04](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=184.0s)]
+*  But there's another reason. [[00:03:06](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=186.76s)]
+*  It's because the modern left, the postmodern left, they don't believe in speech. [[00:03:07](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=187.98s)]
+*  They don't believe you're an individual made in the image of God. [[00:03:11](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=191.34s)]
+*  They believe you are a member of a collective identity group. [[00:03:13](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=193.54s)]
+*  And they believe that they can then shut us up just by calling us white supremacists and [[00:03:16](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=196.82s)]
+*  racists. [[00:03:21](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=201.34s)]
+*  I invited every single one of them to come into our event and they could have the microphone [[00:03:22](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=202.34s)]
+*  and make their case. [[00:03:26](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=206.3s)]
+*  But they do not believe that speech is a value. [[00:03:27](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=207.74s)]
+*  All they care about is force and power. [[00:03:30](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=210.46s)]
+*  This is the country they're trying to lead us towards. [[00:03:32](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=212.94s)]
+*  What happened in Albuquerque yesterday is not an aberration. [[00:03:35](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=215.42000000000002s)]
+*  It is a coming attraction. [[00:03:38](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=218.94s)]
+*  It is something that is soon going to happen all across the country. [[00:03:41](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=221.34s)]
+*  If we don't get this right, we win when we show up. [[00:03:43](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=223.94s)]
+*  And one last thing I'll say is despite everything the media has said over the last couple of [[00:03:46](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=226.42000000000002s)]
+*  weeks about Gen Z, the good news is that over the last five years, young people have become [[00:03:50](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=230.06s)]
+*  13 points less liberal, according to the Morning Consult. [[00:03:55](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=235.74s)]
+*  I don't think that the behavior yesterday is popular, nor do I think it's emblematic [[00:03:59](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=239.18s)]
+*  of an entire generation. [[00:04:03](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=243.3s)]
+*  Well, it's just a complete dead end. [[00:04:04](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=244.58s)]
+*  I mean, it's just darkness. [[00:04:06](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=246.78s)]
+*  So I hope you're right in those numbers. [[00:04:09](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=249.62s)]
+*  Charlie Kirk, great to see you tonight. [[00:04:11](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=251.74s)]
+*  Thank you. [[00:04:12](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=252.94s)]
+*  Hey, Sean Hannity here. [[00:04:13](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=253.94s)]
+*  Thanks for having me. [[00:04:14](https://www.youtube.com/watch?v=x7jP-kzu0ng&t=254.94s)]

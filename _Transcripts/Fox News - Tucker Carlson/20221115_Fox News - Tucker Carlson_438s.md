@@ -1,0 +1,155 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 438s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight']
+Video Views: 890498
+Video Rating: None
+Video Description: Former CIA officer and radio host Buck Sexton joins 'Tucker Carlson Tonight' to analyze Miguel Almaguer's predicament. #foxnews  #tucker  
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity: http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: httaps://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Buck Sexton reacts to NBC reporter suspended over Paul Pelosi attack reportage
+**Fox News - Tucker Carlson:** [November 15, 2022](https://www.youtube.com/watch?v=tF3r9SWuujM)
+*  But a little bit earlier in the show, I mentioned Paul Pelosi. [[00:00:00](https://www.youtube.com/watch?v=tF3r9SWuujM&t=0.0s)]
+*  Tonight, there's more confusion about what happened inside Nancy Pelosi's [[00:00:03](https://www.youtube.com/watch?v=tF3r9SWuujM&t=3.38s)]
+*  house on October 28th. Now, if you remember, that's when nudists, [[00:00:07](https://www.youtube.com/watch?v=tF3r9SWuujM&t=7.72s)]
+*  a nudist named David DePapp attacked Paul Pelosi with a hammer. [[00:00:11](https://www.youtube.com/watch?v=tF3r9SWuujM&t=11.48s)]
+*  Now, according to a federal indictment by the federal department of justice, [[00:00:15](https://www.youtube.com/watch?v=tF3r9SWuujM&t=15.48s)]
+*  police officers opened the door to Nancy Pelosi's home. [[00:00:20](https://www.youtube.com/watch?v=tF3r9SWuujM&t=20.76s)]
+*  Now this is fascinating because it's in direct contradiction to the filing [[00:00:25](https://www.youtube.com/watch?v=tF3r9SWuujM&t=25.1s)]
+*  by San Francisco district attorney and local law enforcement who say that no, [[00:00:30](https://www.youtube.com/watch?v=tF3r9SWuujM&t=30.12s)]
+*  in fact, Paul Pelosi opened the door. [[00:00:34](https://www.youtube.com/watch?v=tF3r9SWuujM&t=34.4s)]
+*  An NBC news affiliate in the Bay area just reported that according to law [[00:00:37](https://www.youtube.com/watch?v=tF3r9SWuujM&t=37.76s)]
+*  enforcement sources who saw body cam footage, the DA is right. [[00:00:43](https://www.youtube.com/watch?v=tF3r9SWuujM&t=43.94s)]
+*  The DOJ is wrong. Paul Pelosi opened the door. [[00:00:48](https://www.youtube.com/watch?v=tF3r9SWuujM&t=48.879999999999995s)]
+*  Now why is this important? [[00:00:53](https://www.youtube.com/watch?v=tF3r9SWuujM&t=53.64s)]
+*  Because asking for details or facts when it comes to this story have again been [[00:00:55](https://www.youtube.com/watch?v=tF3r9SWuujM&t=55.04s)]
+*  dismissed as a conspiracy, [[00:00:58](https://www.youtube.com/watch?v=tF3r9SWuujM&t=58.84s)]
+*  as an entire narrative that David DePapp was an insurrectionist and a MAGA [[00:01:00](https://www.youtube.com/watch?v=tF3r9SWuujM&t=60.440000000000005s)]
+*  Republican was built. No questions that could get in the way of that narrative. [[00:01:05](https://www.youtube.com/watch?v=tF3r9SWuujM&t=65.16s)]
+*  For example, [[00:01:10](https://www.youtube.com/watch?v=tF3r9SWuujM&t=70.32000000000001s)]
+*  this isn't the first time that NBC news contradicted the DOJ's narrative. [[00:01:11](https://www.youtube.com/watch?v=tF3r9SWuujM&t=71.52000000000001s)]
+*  Earlier this month, NBC ran this report, [[00:01:16](https://www.youtube.com/watch?v=tF3r9SWuujM&t=76.52000000000001s)]
+*  which stated that Paul Pelosi didn't think he was in danger when David DePapp [[00:01:19](https://www.youtube.com/watch?v=tF3r9SWuujM&t=79.80000000000001s)]
+*  was in his home. [[00:01:23](https://www.youtube.com/watch?v=tF3r9SWuujM&t=83.84s)]
+*  Sources familiar with what unfolded in the Pelosi residence now revealing when [[00:01:25](https://www.youtube.com/watch?v=tF3r9SWuujM&t=85.52000000000001s)]
+*  officers responded to the high priority call, [[00:01:30](https://www.youtube.com/watch?v=tF3r9SWuujM&t=90.64s)]
+*  they were seemingly unaware they'd been called to the home of the speaker of the [[00:01:33](https://www.youtube.com/watch?v=tF3r9SWuujM&t=93.56s)]
+*  house. After a knock and announce, [[00:01:37](https://www.youtube.com/watch?v=tF3r9SWuujM&t=97.48s)]
+*  the front door was opened by Mr. Pelosi. [[00:01:40](https://www.youtube.com/watch?v=tF3r9SWuujM&t=100.08000000000001s)]
+*  The 82 year old did not immediately declare an emergency or tried to leave his [[00:01:42](https://www.youtube.com/watch?v=tF3r9SWuujM&t=102.84s)]
+*  home, [[00:01:48](https://www.youtube.com/watch?v=tF3r9SWuujM&t=108.04s)]
+*  but instead began walking several feet back into the foyer toward the assailant [[00:01:48](https://www.youtube.com/watch?v=tF3r9SWuujM&t=108.68s)]
+*  and away from police. [[00:01:53](https://www.youtube.com/watch?v=tF3r9SWuujM&t=113.92s)]
+*  Why Pelosi didn't try to flee or tell responding officers he was in distress is [[00:01:55](https://www.youtube.com/watch?v=tF3r9SWuujM&t=115.64s)]
+*  unclear. [[00:02:01](https://www.youtube.com/watch?v=tF3r9SWuujM&t=121.4s)]
+*  We still don't know exactly what unfolded between Mr. Pelosi and the suspect for [[00:02:02](https://www.youtube.com/watch?v=tF3r9SWuujM&t=122.24000000000001s)]
+*  the 30 minutes they were alone inside that house before police arrived. [[00:02:06](https://www.youtube.com/watch?v=tF3r9SWuujM&t=126.56s)]
+*  Now that report by NBC news that seems to at least be in part supported by the [[00:02:11](https://www.youtube.com/watch?v=tF3r9SWuujM&t=131.32s)]
+*  new investigative report from an NBC affiliate in the Bay area was totally [[00:02:16](https://www.youtube.com/watch?v=tF3r9SWuujM&t=136.92000000000002s)]
+*  scrubbed from its website. [[00:02:21](https://www.youtube.com/watch?v=tF3r9SWuujM&t=141.28s)]
+*  They also suspended that reporter Miguel Almaguer. He has not been heard from, [[00:02:23](https://www.youtube.com/watch?v=tF3r9SWuujM&t=143.44s)]
+*  no tweets, no appearances on television for almost two weeks. [[00:02:27](https://www.youtube.com/watch?v=tF3r9SWuujM&t=147.68s)]
+*  NBC claims that Almaguer violated their standards. [[00:02:32](https://www.youtube.com/watch?v=tF3r9SWuujM&t=152.2s)]
+*  What standards were those? See, [[00:02:36](https://www.youtube.com/watch?v=tF3r9SWuujM&t=156.84s)]
+*  no NBC reporters were ever suspended for the lies that they told in helping the [[00:02:39](https://www.youtube.com/watch?v=tF3r9SWuujM&t=159.35999999999999s)]
+*  democratic party. Watch. [[00:02:44](https://www.youtube.com/watch?v=tF3r9SWuujM&t=164.24s)]
+*  Right-wing media has been focused on Hunter Biden. [[00:02:46](https://www.youtube.com/watch?v=tF3r9SWuujM&t=166.64s)]
+*  This laptop that intelligence officials have warned is likely Russian [[00:02:49](https://www.youtube.com/watch?v=tF3r9SWuujM&t=169.35999999999999s)]
+*  disinformation. [[00:02:53](https://www.youtube.com/watch?v=tF3r9SWuujM&t=173.67999999999998s)]
+*  The story is preposterous, right? The story is preposterous. [[00:02:54](https://www.youtube.com/watch?v=tF3r9SWuujM&t=174.84s)]
+*  So we're supposed to believe that Hunter Biden and a drunken stupor dropped off [[00:02:58](https://www.youtube.com/watch?v=tF3r9SWuujM&t=178.16s)]
+*  his laptop and I guess apparently QAnon repair office. [[00:03:03](https://www.youtube.com/watch?v=tF3r9SWuujM&t=183.23999999999998s)]
+*  It is so obviously a Russian operation. [[00:03:08](https://www.youtube.com/watch?v=tF3r9SWuujM&t=188.32s)]
+*  This looks like Russian intelligence. This walks like Russian intelligence. [[00:03:11](https://www.youtube.com/watch?v=tF3r9SWuujM&t=191.72s)]
+*  This talks like Russian intelligence. [[00:03:16](https://www.youtube.com/watch?v=tF3r9SWuujM&t=196.2s)]
+*  This effort by Julie Giuliani and the New York Post and Steve Bannon to cook up [[00:03:18](https://www.youtube.com/watch?v=tF3r9SWuujM&t=198.08s)]
+*  supposed dirt on Joe Biden looks like a classic Russian [[00:03:23](https://www.youtube.com/watch?v=tF3r9SWuujM&t=203.20000000000002s)]
+*  playbook disinformation campaign. [[00:03:27](https://www.youtube.com/watch?v=tF3r9SWuujM&t=207.84s)]
+*  That all of those lies, [[00:03:30](https://www.youtube.com/watch?v=tF3r9SWuujM&t=210.92000000000002s)]
+*  all of that misinformation was apparently up to NBC standards. [[00:03:32](https://www.youtube.com/watch?v=tF3r9SWuujM&t=212.52s)]
+*  This report that we now know or suggest is true below NBC standards. [[00:03:36](https://www.youtube.com/watch?v=tF3r9SWuujM&t=216.24s)]
+*  You can see him on the screen. He's Buck Sexton. [[00:03:41](https://www.youtube.com/watch?v=tF3r9SWuujM&t=221.0s)]
+*  He's the host of the Clay Travis and Buck Sexton show. And he joins us now. [[00:03:42](https://www.youtube.com/watch?v=tF3r9SWuujM&t=222.56s)]
+*  Buck's also a former CIA officer. Buck, help me make sense of this. [[00:03:46](https://www.youtube.com/watch?v=tF3r9SWuujM&t=226.04s)]
+*  What's going on? [[00:03:49](https://www.youtube.com/watch?v=tF3r9SWuujM&t=229.96s)]
+*  Well, you know, Will, I think it's pretty straightforward. This is yet again, [[00:03:51](https://www.youtube.com/watch?v=tF3r9SWuujM&t=231.8s)]
+*  the American people being shown what the rules of so-called journalism are. [[00:03:55](https://www.youtube.com/watch?v=tF3r9SWuujM&t=235.52s)]
+*  Liars get Pulitzers and truth tellers get fired or in this case suspended [[00:04:00](https://www.youtube.com/watch?v=tF3r9SWuujM&t=240.0s)]
+*  because it's all about activism. [[00:04:05](https://www.youtube.com/watch?v=tF3r9SWuujM&t=245.2s)]
+*  It's all about support of the partisan narrative in the moment. [[00:04:06](https://www.youtube.com/watch?v=tF3r9SWuujM&t=246.88s)]
+*  I mean, as a former intelligence officer watching those clips of people saying [[00:04:10](https://www.youtube.com/watch?v=tF3r9SWuujM&t=250.4s)]
+*  that the Hunter Biden laptop was Russian disinformation. [[00:04:14](https://www.youtube.com/watch?v=tF3r9SWuujM&t=254.4s)]
+*  There's not much left of the Intel community these days in terms of reputation [[00:04:17](https://www.youtube.com/watch?v=tF3r9SWuujM&t=257.36s)]
+*  to protect, but they were certainly trying to destroy it there. [[00:04:20](https://www.youtube.com/watch?v=tF3r9SWuujM&t=260.48s)]
+*  And they did a good job of it. [[00:04:23](https://www.youtube.com/watch?v=tF3r9SWuujM&t=263.56s)]
+*  We see this time and time again where even if eventually the truth comes out, [[00:04:25](https://www.youtube.com/watch?v=tF3r9SWuujM&t=265.0s)]
+*  there's no punishment. I mean, we didn't even get into Russia collusion, [[00:04:30](https://www.youtube.com/watch?v=tF3r9SWuujM&t=270.2s)]
+*  for example, [[00:04:33](https://www.youtube.com/watch?v=tF3r9SWuujM&t=273.28000000000003s)]
+*  where the entire Democrat aligned corporate media spent four years. [[00:04:34](https://www.youtube.com/watch?v=tF3r9SWuujM&t=274.24s)]
+*  They still say it's kind of true in some ways. You ask them how, [[00:04:38](https://www.youtube.com/watch?v=tF3r9SWuujM&t=278.24s)]
+*  they don't really ever explain it. But Will, [[00:04:40](https://www.youtube.com/watch?v=tF3r9SWuujM&t=280.88s)]
+*  they understand that these are actually the rules. [[00:04:42](https://www.youtube.com/watch?v=tF3r9SWuujM&t=282.88s)]
+*  This is what we are dealing with. This is not a bug. This is a feature. [[00:04:44](https://www.youtube.com/watch?v=tF3r9SWuujM&t=284.71999999999997s)]
+*  This is the desire of the Democrats to use the biggest media outlets they [[00:04:48](https://www.youtube.com/watch?v=tF3r9SWuujM&t=288.2s)]
+*  possibly can to tell the most important lies, the biggest lies, [[00:04:52](https://www.youtube.com/watch?v=tF3r9SWuujM&t=292.64s)]
+*  or even just suppress the truth in moments of peril for their power. [[00:04:56](https://www.youtube.com/watch?v=tF3r9SWuujM&t=296.56s)]
+*  And we saw that with the Hunter Biden laptop and with the Nancy Pelosi story, [[00:05:01](https://www.youtube.com/watch?v=tF3r9SWuujM&t=301.12s)]
+*  I would just point out Paul Pelosi story. [[00:05:04](https://www.youtube.com/watch?v=tF3r9SWuujM&t=304.92s)]
+*  The security situation alone is worthy of a serious deep dive. [[00:05:07](https://www.youtube.com/watch?v=tF3r9SWuujM&t=307.04s)]
+*  How is it that this guy, if he was invited in or wasn't invited in, [[00:05:11](https://www.youtube.com/watch?v=tF3r9SWuujM&t=311.64s)]
+*  was able to attack Nancy Pelosi's husband, the police response, [[00:05:15](https://www.youtube.com/watch?v=tF3r9SWuujM&t=315.8s)]
+*  all of this should be something that journalists want to know right away, [[00:05:18](https://www.youtube.com/watch?v=tF3r9SWuujM&t=318.88s)]
+*  but they're trying to slow walk this because they know that there was a story [[00:05:22](https://www.youtube.com/watch?v=tF3r9SWuujM&t=322.03999999999996s)]
+*  to tell at the time to help Democrats in an election. [[00:05:26](https://www.youtube.com/watch?v=tF3r9SWuujM&t=326.36s)]
+*  And that was all that mattered. [[00:05:28](https://www.youtube.com/watch?v=tF3r9SWuujM&t=328.91999999999996s)]
+*  There was a story to tell. Are you referencing there, Buck, [[00:05:31](https://www.youtube.com/watch?v=tF3r9SWuujM&t=331.03999999999996s)]
+*  the entire narrative, this ornate narrative that was built upon a foundation, [[00:05:33](https://www.youtube.com/watch?v=tF3r9SWuujM&t=333.88s)]
+*  that David DePapp was a MAGA Republican and somehow therefore this is connected [[00:05:38](https://www.youtube.com/watch?v=tF3r9SWuujM&t=338.64s)]
+*  to January 6th. [[00:05:42](https://www.youtube.com/watch?v=tF3r9SWuujM&t=342.44s)]
+*  That was the narrative that was built with very few facts to support it [[00:05:44](https://www.youtube.com/watch?v=tF3r9SWuujM&t=344.0s)]
+*  underneath. [[00:05:47](https://www.youtube.com/watch?v=tF3r9SWuujM&t=347.47999999999996s)]
+*  And now we understand that if you ask for facts, [[00:05:48](https://www.youtube.com/watch?v=tF3r9SWuujM&t=348.64s)]
+*  facts which are now coming forward to try to clarify what is the story, [[00:05:51](https://www.youtube.com/watch?v=tF3r9SWuujM&t=351.71999999999997s)]
+*  you're guilty of conspiracy. No need to make an affirmative case, right? [[00:05:55](https://www.youtube.com/watch?v=tF3r9SWuujM&t=355.32s)]
+*  Simply questioning the facts makes you guilty of a conspiracy. [[00:05:59](https://www.youtube.com/watch?v=tF3r9SWuujM&t=359.03999999999996s)]
+*  Yeah. What you've seen here, Will, [[00:06:03](https://www.youtube.com/watch?v=tF3r9SWuujM&t=363.47999999999996s)]
+*  is that they will actually weaponize the most basic principles of fact [[00:06:04](https://www.youtube.com/watch?v=tF3r9SWuujM&t=364.72s)]
+*  finding and what's supposedly journalism against people. [[00:06:09](https://www.youtube.com/watch?v=tF3r9SWuujM&t=369.32000000000005s)]
+*  You asked the question and you're the bad guy. [[00:06:12](https://www.youtube.com/watch?v=tF3r9SWuujM&t=372.6s)]
+*  And we just saw in the horrific tragedy of Uvalde, for example, [[00:06:15](https://www.youtube.com/watch?v=tF3r9SWuujM&t=375.08000000000004s)]
+*  police initially were lying. The reports initially were entirely false. [[00:06:19](https://www.youtube.com/watch?v=tF3r9SWuujM&t=379.28000000000003s)]
+*  And there was a reason for that, right? [[00:06:24](https://www.youtube.com/watch?v=tF3r9SWuujM&t=384.24s)]
+*  There were people who were trying to cover up for their entirely inadequate and [[00:06:25](https://www.youtube.com/watch?v=tF3r9SWuujM&t=385.76000000000005s)]
+*  honestly awful response. So in this instance, you just want to say, well, [[00:06:29](https://www.youtube.com/watch?v=tF3r9SWuujM&t=389.96000000000004s)]
+*  why can't we know the truth? If it's so straightforward, [[00:06:33](https://www.youtube.com/watch?v=tF3r9SWuujM&t=393.64s)]
+*  if it's such an obvious story, [[00:06:36](https://www.youtube.com/watch?v=tF3r9SWuujM&t=396.4s)]
+*  why are there two law enforcement agencies that have different facts? [[00:06:37](https://www.youtube.com/watch?v=tF3r9SWuujM&t=397.91999999999996s)]
+*  That's just a reality. They can say that it's QAnon or conspiracy or lunacy, [[00:06:41](https://www.youtube.com/watch?v=tF3r9SWuujM&t=401.59999999999997s)]
+*  but how about just the truth? But Will, we all know, [[00:06:46](https://www.youtube.com/watch?v=tF3r9SWuujM&t=406.0s)]
+*  they didn't want that before the election and they're not going to want it on [[00:06:48](https://www.youtube.com/watch?v=tF3r9SWuujM&t=408.64s)]
+*  this issue for a long time. [[00:06:51](https://www.youtube.com/watch?v=tF3r9SWuujM&t=411.03999999999996s)]
+*  Someone's going to need to get that body cam footage, [[00:06:52](https://www.youtube.com/watch?v=tF3r9SWuujM&t=412.44s)]
+*  the local DA and that local affiliate in San Francisco on the same page because [[00:06:54](https://www.youtube.com/watch?v=tF3r9SWuujM&t=414.71999999999997s)]
+*  their facts are getting in the way of the previously built narrative. [[00:06:58](https://www.youtube.com/watch?v=tF3r9SWuujM&t=418.84s)]
+*  Buck, always great to talk to you. Thanks for being with me tonight. [[00:07:02](https://www.youtube.com/watch?v=tF3r9SWuujM&t=422.76000000000005s)]
+*  Thanks my friend. [[00:07:05](https://www.youtube.com/watch?v=tF3r9SWuujM&t=425.96000000000004s)]

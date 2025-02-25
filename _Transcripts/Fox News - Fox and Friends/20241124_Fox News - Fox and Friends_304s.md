@@ -1,0 +1,157 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 304s
+Video Keywords: ['Breast Cancer', 'Breast Cancer Findings', 'Breast Cancer Prevention', 'Breast Cancer Research', 'Breast Cancer Risks', 'Breast Cancer Study', 'Breast Cancer and Child Birth', 'Cancer', 'Cancer Diagnoses', 'Cancer Findings', 'Cancer Prevention', 'Cancer Research', 'Cancer Risks', 'Cancer Study', 'Child Birth', 'Child Birth Research', 'Fertility', 'Fertility Science', 'Health', 'Medical Research', 'Medical Study']
+Video Views: 20890
+Video Rating: None
+Video Description: Fox News contributor Dr. Nicole Saphier joins 'Fox & Friends Weekend' to discuss the increase in breast cancer diagnoses in younger women and ways to reduce the risk.
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/ 
+ 
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+ 
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night 
+ 
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Having children at younger age may help reduce the risk of breast cancer, study says
+**Fox News - Fox and Friends:** [November 24, 2024](https://www.youtube.com/watch?v=hXspRNf8TtQ)
+*  A breast cancer warning you need to know about this morning. [[00:00:00](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=0.0s)]
+*  As an alarming rate or data that has been coming out [[00:00:03](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=3.52s)]
+*  reveals a growing prevalence among younger women. [[00:00:07](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=7.1000000000000005s)]
+*  Fox News medical contributor, Dr. Nicole Sapphire [[00:00:11](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=11.16s)]
+*  lays it all out in a brand new op-ed, [[00:00:13](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=13.68s)]
+*  and she joins us now. [[00:00:16](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=16.32s)]
+*  Nicole, good morning to you. [[00:00:18](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=18.44s)]
+*  So talk to us about this alarming increase [[00:00:20](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=20.1s)]
+*  in young women getting breast cancer, [[00:00:23](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=23.26s)]
+*  and what are the factors that you're seeing [[00:00:25](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=25.16s)]
+*  that you laid out in the op-ed? [[00:00:28](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=28.0s)]
+*  Well, good morning, Rachel. [[00:00:30](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=30.2s)]
+*  Thanks so much for having me on. [[00:00:31](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=31.04s)]
+*  As you know, my day job is diagnosing breast cancer, [[00:00:32](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=32.16s)]
+*  and my goal is to always find it [[00:00:35](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=35.52s)]
+*  as earliest and easiest to treat. [[00:00:36](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=36.92s)]
+*  And one of the trends that we have been seeing [[00:00:38](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=38.72s)]
+*  over the last couple of decades [[00:00:40](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=40.6s)]
+*  is a rise in breast cancer in younger women. [[00:00:42](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=42.24s)]
+*  So obviously that makes us wonder what's been going on. [[00:00:44](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=44.86s)]
+*  Why are we seeing more breast cancers in younger women? [[00:00:47](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=47.32s)]
+*  You and I have talked about at length [[00:00:50](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=50.24s)]
+*  part of our lifestyles, the food that we're consuming, [[00:00:52](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=52.519999999999996s)]
+*  the sedentary life that we are leading. [[00:00:54](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=54.879999999999995s)]
+*  People are more overweight. [[00:00:57](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=57.16s)]
+*  The chemicals we're putting on and inside of our body. [[00:00:58](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=58.58s)]
+*  This is all contributing to the rise in breast cancer. [[00:01:01](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=61.26s)]
+*  But there are also some other things [[00:01:04](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=64.02s)]
+*  that I point out to in the op-ed [[00:01:05](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=65.53999999999999s)]
+*  that makes me pause and wonder [[00:01:07](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=67.42s)]
+*  if this is also leading to the increase. [[00:01:08](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=68.94s)]
+*  And data tells me it absolutely is. [[00:01:11](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=71.14s)]
+*  The fact that our US fertility rates [[00:01:13](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=73.42s)]
+*  has hit a record low in 2023, [[00:01:15](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=75.86s)]
+*  down 21% over the last couple of decades. [[00:01:18](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=78.46s)]
+*  When we have babies, it suppresses our estrogen [[00:01:22](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=82.44s)]
+*  or our lifetime exposure to estrogen. [[00:01:25](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=85.2s)]
+*  So having babies and having them at younger ages [[00:01:27](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=87.78s)]
+*  actually decreases our risk of breast cancer. [[00:01:30](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=90.33999999999999s)]
+*  Women are having babies older as well. [[00:01:32](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=92.74s)]
+*  The average age of our first pregnancy is now 30 [[00:01:34](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=94.61999999999999s)]
+*  when it was 21 in 1970. [[00:01:37](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=97.11999999999999s)]
+*  And on top of that, Rachel, you and I have talked about [[00:01:39](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=99.78s)]
+*  people aren't breastfeeding exclusively like they used to. [[00:01:42](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=102.53999999999999s)]
+*  And so while this is all progress in the women's movement, [[00:01:45](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=105.34s)]
+*  women are now out getting careers [[00:01:48](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=108.61999999999999s)]
+*  and they're working full time. [[00:01:50](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=110.46s)]
+*  You and I are two of these women. [[00:01:51](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=111.66s)]
+*  That's also causing us to not have as many babies, [[00:01:53](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=113.61999999999999s)]
+*  having them older and not breastfeeding. [[00:01:56](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=116.7s)]
+*  And all of this is adding to the rise in breast cancer [[00:01:58](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=118.78s)]
+*  in younger women. [[00:02:01](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=121.66s)]
+*  So Nicole, for those who don't understand the connection [[00:02:02](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=122.78s)]
+*  between breastfeeding and breast cancer prevention, [[00:02:05](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=125.46000000000001s)]
+*  why don't you lay that out? [[00:02:09](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=129.14000000000001s)]
+*  And then I wanna talk a little bit [[00:02:10](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=130.14000000000001s)]
+*  about the fertility rates as well. [[00:02:11](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=131.62s)]
+*  So all three of those things together, [[00:02:14](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=134.74s)]
+*  I talked about having a baby, [[00:02:16](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=136.14000000000001s)]
+*  having a baby at an older or younger age and breastfeeding. [[00:02:17](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=137.98000000000002s)]
+*  All of this suppresses ovulation. [[00:02:21](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=141.34s)]
+*  And if you're suppressing your ovulation, [[00:02:24](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=144.42000000000002s)]
+*  you're decreasing your lifetime exposure of estrogen. [[00:02:27](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=147.14s)]
+*  Our lifetime exposure of estrogen, [[00:02:29](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=149.73999999999998s)]
+*  one of the hormones that's circulating in women's bodies, [[00:02:31](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=151.5s)]
+*  that increases our risk of breast cancer. [[00:02:34](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=154.45999999999998s)]
+*  It also increases our risk of other cancers as well. [[00:02:36](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=156.42s)]
+*  Another thing that people don't talk about or don't realize [[00:02:39](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=159.17999999999998s)]
+*  is do you know that fat cells, our adipose cells [[00:02:41](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=161.61999999999998s)]
+*  in our body also produces estrogen, [[00:02:44](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=164.45999999999998s)]
+*  which is why women who are overweight [[00:02:47](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=167.57999999999998s)]
+*  and even men who are overweight [[00:02:49](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=169.66s)]
+*  have a higher risk of breast and other cancers [[00:02:51](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=171.22s)]
+*  that are directly linked to estrogen. [[00:02:54](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=174.29999999999998s)]
+*  We can't get rid of estrogen entirely. [[00:02:57](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=177.14s)]
+*  We're women, it's just part of our natural body. [[00:02:58](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=178.94s)]
+*  But decreasing our risk of breast cancer [[00:03:01](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=181.29999999999998s)]
+*  and decreasing our exposure of estrogen [[00:03:03](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=183.61999999999998s)]
+*  is overall good for our health. [[00:03:06](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=186.42s)]
+*  I think about birth control pills as well. [[00:03:08](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=188.38s)]
+*  There's just so much more information coming out now [[00:03:10](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=190.73999999999998s)]
+*  about its impact on our bodies. [[00:03:13](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=193.29999999999998s)]
+*  What do you think about a connection there? [[00:03:15](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=195.26s)]
+*  Because birth control pills, as you say, also, [[00:03:16](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=196.85999999999999s)]
+*  are impacting people's fertility rates, clearly. [[00:03:20](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=200.98s)]
+*  But also, it's something that's going into your body [[00:03:24](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=204.58s)]
+*  that's not natural. [[00:03:26](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=206.86s)]
+*  Well, the data has gone back and forth [[00:03:29](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=209.82000000000002s)]
+*  when it comes to oral contraceptive pills [[00:03:31](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=211.10000000000002s)]
+*  with some evidence showing that they have a protective effect [[00:03:33](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=213.3s)]
+*  against endometrial cancer, [[00:03:36](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=216.18s)]
+*  some showing that they have a slight increased risk [[00:03:37](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=217.86s)]
+*  of breast cancer. [[00:03:39](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=219.74s)]
+*  A recent study came out in the last year showing that IUDs, [[00:03:41](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=221.10000000000002s)]
+*  which once was thought didn't have some of those effects [[00:03:44](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=224.42000000000002s)]
+*  because it wasn't an oral contraception, [[00:03:47](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=227.54000000000002s)]
+*  now suggest there may be a slight increased risk [[00:03:49](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=229.66000000000003s)]
+*  of breast cancer with these contraceptive devices. [[00:03:52](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=232.22s)]
+*  And anything that you're taking exogenously, [[00:03:55](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=235.54s)]
+*  they do have some risk to it, [[00:03:58](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=238.94s)]
+*  and those are things you need to talk to your doctor. [[00:04:00](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=240.57999999999998s)]
+*  Unfortunately, in our public health sector, [[00:04:02](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=242.38s)]
+*  people love to talk about the benefits, [[00:04:04](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=244.9s)]
+*  but they don't really like to talk about the risks. [[00:04:06](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=246.78s)]
+*  And that one life is more important than the other. [[00:04:08](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=248.66s)]
+*  So we always have to make sure that we're fully transparent [[00:04:10](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=250.94s)]
+*  with the known risks. [[00:04:13](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=253.66s)]
+*  Yeah, information is power. [[00:04:14](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=254.86s)]
+*  And I think some of these issues, [[00:04:16](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=256.62s)]
+*  they have a political component to it, [[00:04:18](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=258.38s)]
+*  birth control in particular, [[00:04:21](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=261.14s)]
+*  the feminist movement is definitely pro that. [[00:04:22](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=262.21999999999997s)]
+*  And as a result of that, [[00:04:24](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=264.94s)]
+*  there has been a suppression of a really good, [[00:04:26](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=266.7s)]
+*  robust debate about the facts. [[00:04:29](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=269.62s)]
+*  And I'm really hoping that RFK over at HHS [[00:04:32](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=272.26s)]
+*  and some of the changes that we're seeing [[00:04:36](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=276.02s)]
+*  in the administration, [[00:04:37](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=277.38s)]
+*  I know you and I have talked about that before, [[00:04:38](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=278.21999999999997s)]
+*  that we might be able to finally lift these taboos [[00:04:40](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=280.02s)]
+*  and start having an honest conversation [[00:04:42](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=282.82s)]
+*  because information is power, as you know, Nicole. [[00:04:45](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=285.21999999999997s)]
+*  Absolutely. [[00:04:49](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=289.09999999999997s)]
+*  All right, thanks, Nicole. [[00:04:50](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=290.1s)]
+*  Great conversation. [[00:04:51](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=291.5s)]
+*  Thanks for having me. [[00:04:52](https://www.youtube.com/watch?v=hXspRNf8TtQ&t=292.34000000000003s)]

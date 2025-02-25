@@ -1,0 +1,155 @@
+---
+Date Generated: February 24, 2025
+Transcription Model: whisper medium 20231117
+Length: 595s
+Video Keywords: ['fox news', 'fox', 'fnc', 'israel', 'palestine', 'iran', 'hamas', 'israel at war october 2023', 'israeli war coverage', 'israel hamas live news', 'israel under attack red alert', 'israel hamas', 'israel gaza', 'gaza', 'gaza strip', 'hamas militants infiltrate israel', 'hamas attacks israel hostages', 'hamas israeli prisoners', 'hamas military power', 'hamas kidnapings', 'israel war', 'israel hamas war', 'middle east', 'hamas attack', 'israel news']
+Video Views: 33486
+Video Rating: None
+Video Description: Israeli citizen Raz Shmilovich opens up to FOX News on the 'horrible' experience and says he fears what comes next as Hamas attacks continue. #foxnews 
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Israeli describes collecting DNA samples to identify deceased
+**Fox News - Middle East:** [October 09, 2023](https://www.youtube.com/watch?v=nw88g6ZbOEo)
+*  Joining us now from Israel with very personal story is Roz Shmelovich [[00:00:00](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=0.0s)]
+*  He lost several friends in the attack on Saturday and was going door-to-door to help his community Roz [[00:00:05](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=5.36s)]
+*  Thank you for joining us [[00:00:11](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=11.28s)]
+*  I know the reason that you're going door-to-door is to collect samples of DNA [[00:00:12](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=12.280000000000001s)]
+*  So that bodies that have been found in this carnage can be identified and matched to family members [[00:00:17](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=17.44s)]
+*  What what is the situation there for you on the ground right now? [[00:00:23](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=23.36s)]
+*  Hi, how are we doing? Thank you very much [[00:00:30](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=30.4s)]
+*  Situation on the ground now as civilian who is living in the closest easily community that the Gaza Strait border [[00:00:34](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=34.88s)]
+*  is kind of [[00:00:43](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=43.2s)]
+*  Horrible most of the people in my community [[00:00:46](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=46.519999999999996s)]
+*  We are a community of a thousand people have been evacuated from the community today. It's almost empty. There's nobody there [[00:00:50](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=50.44s)]
+*  Yesterday we as you said you finished identifying [[00:00:58](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=58.400000000000006s)]
+*  In the order to identify the dead bodies we had to go into the victims houses to collect toothbrushes or [[00:01:02](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=62.24s)]
+*  Hairbrushes or any dirty clothes that might have sweat on them or DNA samples of any kind [[00:01:09](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=69.16s)]
+*  You're entering houses that were seen of murder a couple of minutes before that a couple of hours or days [[00:01:15](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=75.88s)]
+*  So you're talking about areas full of blood still on the ground [[00:01:22](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=82.08s)]
+*  Animals dogs that are shot and spending their four days [[00:01:26](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=86.44s)]
+*  frightening [[00:01:31](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=91.08s)]
+*  Shattered glasses and this is a quiet [[00:01:32](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=92.75999999999999s)]
+*  No one residential community that was my house in still is my house when I come back there [[00:01:35](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=95.19999999999999s)]
+*  Raj so sorry for everything that you are experiencing in all of your losses and for everything that you all are going through [[00:01:42](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=102.39999999999999s)]
+*  And it is obviously very difficult to hear everything that you just described [[00:01:49](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=109.72s)]
+*  What are you hearing from those people who are there when you go house to house if you do see anyone there? [[00:01:54](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=114.32s)]
+*  You don't hear much because most people are not there when you go to the house [[00:02:04](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=124.36s)]
+*  It's because somebody who lived there either was murdered or still in hospital [[00:02:08](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=128.04s)]
+*  And who the ones you do see there is the beloved one their son their daughter their parents are coming to get the sample and they have [[00:02:11](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=131.6s)]
+*  to encounter [[00:02:18](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=138.95999999999998s)]
+*  blood [[00:02:20](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=140.32s)]
+*  Which is the blood of their dear son on the ground so [[00:02:21](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=141.52s)]
+*  The ones you do encounter and their worst time is their life if I can get plastic for a moment [[00:02:24](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=144.44s)]
+*  So I had to find somebody young one of my neighbors in his 50s trying to clean the blood [[00:02:30](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=150.60000000000002s)]
+*  Of his father from the ground and he couldn't help he couldn't deal with it [[00:02:35](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=155.72s)]
+*  So we literally left the house which left me to do that [[00:02:38](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=158.76000000000002s)]
+*  So you have to stand there in in a house a neighbor or friend to cleaning puddles of blood [[00:02:41](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=161.64000000000001s)]
+*  Then you can trace that the murder track where the victim was sitting on the couch [[00:02:47](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=167.72s)]
+*  She tried to run away [[00:02:52](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=172.56s)]
+*  She was shot again in a different spot and you can literally trace that and that's just horrible horrible talking about [[00:02:53](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=173.72s)]
+*  civilians all [[00:03:00](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=180.92000000000002s)]
+*  People in the 70s sitting in their houses water to death by people or Hamas [[00:03:02](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=182.4s)]
+*  Terrorists to for some reason I keep being called militants. Those are terrorists and you know [[00:03:07](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=187.6s)]
+*  There's nothing that more than those when I saw your reporter earlier on in the water which is a hometown next to where I live [[00:03:12](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=192.54s)]
+*  I was like welcome to my life. I have to go to a school my kids go to school [[00:03:20](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=200.14s)]
+*  which is a bomb shelter sounds of alarms and [[00:03:25](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=205.73999999999998s)]
+*  explosive sounds landing by is our [[00:03:29](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=209.62s)]
+*  soundtrack of our life [[00:03:33](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=213.01999999999998s)]
+*  Yes, I know living living in that area you under you are under a constant threat [[00:03:34](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=214.73999999999998s)]
+*  There's no question about that and I was in Israel in [[00:03:40](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=220.45999999999998s)]
+*  2006 during the war with Hezbollah and I was just so taken with the tenacity and the strength that the Israeli people show [[00:03:44](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=224.7s)]
+*  In the face of threats. I remember up in Metula, which is where we were staying [[00:03:53](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=233.98s)]
+*  there was a grandmother who was running the hotel Arraza in there and [[00:03:59](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=239.29999999999998s)]
+*  she was the the toughest person that you could ever imagine as the rockets were falling all around and and [[00:04:02](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=242.82s)]
+*  Journalists were running for cover [[00:04:08](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=248.74s)]
+*  She was still there behind the front desk at the hotel and she sort of looked at everybody running away and tisk tisk [[00:04:10](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=250.26000000000002s)]
+*  Tisks us for not wanting to stand there in the face of the the threat that was coming our way [[00:04:16](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=256.34000000000003s)]
+*  In terms of what you were hearing from the leadership there in Israel [[00:04:22](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=262.22s)]
+*  We are expecting the Prime Minister Benjamin Netanyahu to make remarks in the next [[00:04:27](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=267.42s)]
+*  Couple of hours probably at the very least [[00:04:34](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=274.5s)]
+*  What do you think about the response so far from the leadership there? [[00:04:38](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=278.02s)]
+*  Are you hearing enough about what's happening and what's to come? [[00:04:42](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=282.26s)]
+*  To be honest, we don't hear anything at all if you feel and you hear is the absence of any official [[00:04:48](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=288.46s)]
+*  comment as the victim community of the committee that suffered a massacre [[00:04:56](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=296.29999999999995s)]
+*  Nobody from the official government have contacted us. They'll still kidnap persons [[00:05:01](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=301.74s)]
+*  I'm guessing our leaders. I'm hoping our leaders are working on a solution [[00:05:07](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=307.06s)]
+*  So then busy running the war and have no mistake. It is a war [[00:05:12](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=312.02s)]
+*  But I want to hear I want to hear that this time it's going to be a whole different scenario [[00:05:17](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=317.94s)]
+*  We are not expecting another [[00:05:23](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=323.5s)]
+*  Heat from the air and let's blow down some [[00:05:25](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=325.7s)]
+*  Some towers and some buildings they'll come they will fight back [[00:05:29](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=329.58s)]
+*  you know what what took us a complete surprise on Saturday and [[00:05:32](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=332.9s)]
+*  Actually almost broke the spirit of Israel's but as you just mentioned we are strong [[00:05:37](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=337.9s)]
+*  We've suffered the trauma that has not been [[00:05:43](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=343.66s)]
+*  At least not by generation not been [[00:05:47](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=347.02s)]
+*  Experienced yet, maybe even bigger than the Yom Kippur in 73 [[00:05:50](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=350.38s)]
+*  But it took us two days and now we are gaining back our powers [[00:05:54](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=354.7s)]
+*  armies well organized back [[00:05:59](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=359.18s)]
+*  Recruiting reserves our spirits are high. We're working on our we're working on our [[00:06:01](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=361.86s)]
+*  Resilience on our minds and we are starting to be stronger. This is the mindset [[00:06:08](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=368.5s)]
+*  We have like the old lady you mentioned this is us will stand back on our legs and who comes to kill us [[00:06:11](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=371.9s)]
+*  We will be killed first. We are strong [[00:06:17](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=377.21999999999997s)]
+*  We will come out of it stronger and anybody who does but murder Jews in their home and slaughtered and you mentioned [[00:06:19](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=379.74s)]
+*  260 people murdered [[00:06:27](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=387.14s)]
+*  260 Jews slaughtered in the forests in the woods [[00:06:29](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=389.34s)]
+*  Those of us are second or third generation to Holocaust survivors know about those stories who took place in Babi are in other areas [[00:06:33](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=393.06s)]
+*  What Jews were rounded out in the forest and shot? [[00:06:40](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=400.14s)]
+*  Oh [[00:06:43](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=403.18s)]
+*  Already there we said never again and those images and somebody who traveled a couple of times to death camps in Poland and heard those stories [[00:06:44](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=404.38s)]
+*  Echoed in my head and I cannot do anything but say today the Jews have a state a land an army and allies [[00:06:52](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=412.34s)]
+*  Never again, they should not happen again the victims 260 Jews slaughtered solely for being Jews will not happen again [[00:07:00](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=420.46s)]
+*  This time would not need the world to do our job [[00:07:07](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=427.5s)]
+*  We have our own people to do it [[00:07:10](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=430.65999999999997s)]
+*  We do know that we are anticipating as John just mentioned that we could hear from the Israeli Prime Minister anytime now [[00:07:13](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=433.58s)]
+*  this as [[00:07:20](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=440.94s)]
+*  Reports a ground invasion could be happening very soon [[00:07:22](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=442.7s)]
+*  Crossing the wires a short time ago the Hamas military spokesman saying it will kill a civilian hostage anytime [[00:07:26](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=446.42s)]
+*  Israel targets Gaza civilians without warning [[00:07:33](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=453.42s)]
+*  We know what we heard from the Israeli Prime Minister on Sunday telling him the president the US President [[00:07:37](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=457.14s)]
+*  Biden that Israel does not have any choice but to unleash a ground operation in Gaza saying quote [[00:07:42](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=462.86s)]
+*  We have to go in according to the Israeli leader. What do you expect the next couple of hours to look like Roz? I [[00:07:49](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=469.06s)]
+*  Fear I truly fear the next hours none of the options we have on the table [[00:07:59](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=479.82s)]
+*  Are not good for anybody in war nobody wins there's only losers, but this war was forced on us and [[00:08:05](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=485.06s)]
+*  in war we pay prices and [[00:08:12](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=492.54s)]
+*  You know just think that you actually these are the kidnapped soldier a couple of years ago [[00:08:15](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=495.78000000000003s)]
+*  We released a thousand terrorists for one soldier of ours [[00:08:19](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=499.74s)]
+*  Now I think it's gloves off. I expect that ground invasion is not necessarily what I personally would have done [[00:08:23](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=503.78000000000003s)]
+*  I know the costs but I would say anybody with who dares to [[00:08:29](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=509.46000000000004s)]
+*  Execute an Israeli civilian [[00:08:33](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=513.74s)]
+*  under captivity which is [[00:08:36](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=516.34s)]
+*  Against so many international laws means gloves off on our side as well [[00:08:38](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=518.9s)]
+*  I would expect our leadership to take the gloves off as well if Israeli civilian blood is allowed [[00:08:43](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=523.0600000000001s)]
+*  So be it and the other side blood is allowed as well the moment Hamas terrorist [[00:08:49](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=529.1s)]
+*  executes an Israeli [[00:08:55](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=535.22s)]
+*  Civilian I [[00:08:57](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=537.62s)]
+*  Hope the anger will be unleashed and either we use all the power it has [[00:08:59](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=539.02s)]
+*  including every means [[00:09:04](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=544.02s)]
+*  Ground ground invasion in my opinion is too risky for us [[00:09:06](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=546.22s)]
+*  Why risk our own people if I can flatten down neighborhoods, you know, you know, why risk our people? [[00:09:09](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=549.76s)]
+*  I would have given the Palestinians who think they're not part of Hamas a warning get out of this area [[00:09:15](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=555.1800000000001s)]
+*  Anybody in this area is a son of death if you hide Hamas militants terrorists behind you your son of death [[00:09:21](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=561.0600000000001s)]
+*  And that's what I would have done. I would have unleashed the moment that happens [[00:09:27](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=567.34s)]
+*  I think we should flip the disk and change our mindset and you know, they say in the Middle East [[00:09:31](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=571.0600000000001s)]
+*  It was big Arabic. We are the only land speaks Hebrew. Maybe it's time to start speaking Arabic as well [[00:09:36](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=576.54s)]
+*  Roz we mourn the losses that you and your friends and family have experienced and we thank you for joining us with your personal stories [[00:09:43](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=583.78s)]
+*  Good luck to you. Thank you so much [[00:09:51](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=591.38s)]
+*  Thank you so much [[00:09:54](https://www.youtube.com/watch?v=nw88g6ZbOEo&t=594.22s)]

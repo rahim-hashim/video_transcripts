@@ -1,0 +1,162 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 760s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight', 'Biden', 'Biden classified document', 'classified documents Biden', 'Biden documents', 'White House Biden', 'Biden White House', 'joe biden']
+Video Views: 2046400
+Video Rating: None
+Video Description: Fox News host Tucker Carlson explains why permanent Washington is tired of President Biden's leadership on 'Tucker Carlson Tonight.' #FoxNews #Tucker
+
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Tucker Carlson: Biden is done
+**Fox News - Tucker Carlson:** [January 19, 2023](https://www.youtube.com/watch?v=MgXq8S02NJc)
+*  Good evening and welcome to Tucker Carlson tonight. If you're a normal person, it's a pretty weird [[00:00:00](https://www.youtube.com/watch?v=MgXq8S02NJc&t=0.0s)]
+*  experience watching Joe Biden's presidency get euthanized by his own party. On one hand, [[00:00:05](https://www.youtube.com/watch?v=MgXq8S02NJc&t=5.04s)]
+*  there's an undeniable thrill to it. You have to admit that Biden is the most destructive [[00:00:10](https://www.youtube.com/watch?v=MgXq8S02NJc&t=10.88s)]
+*  president in American history. More things have broken under his watch than enter under any other [[00:00:15](https://www.youtube.com/watch?v=MgXq8S02NJc&t=15.36s)]
+*  president. Joe Biden deserves to be driven from office and disgraced. But for this, breaking [[00:00:21](https://www.youtube.com/watch?v=MgXq8S02NJc&t=21.12s)]
+*  federal classification rules, some of the stupidest and most dishonest laws Congress has ever passed, [[00:00:27](https://www.youtube.com/watch?v=MgXq8S02NJc&t=27.6s)]
+*  it's like arresting El Chapo for expired plates. It's missing the point. But it looks like that's [[00:00:33](https://www.youtube.com/watch?v=MgXq8S02NJc&t=33.52s)]
+*  what's going to happen. It seems like every day when a Biden's lawyer shows up with more [[00:00:38](https://www.youtube.com/watch?v=MgXq8S02NJc&t=38.96s)]
+*  sheaves of classified documents, like a dog who's found another dead chipmunk under the house, [[00:00:42](https://www.youtube.com/watch?v=MgXq8S02NJc&t=42.800000000000004s)]
+*  this bunch was in his office at Penn, the one paid for by the Communist Party of China. These were [[00:00:47](https://www.youtube.com/watch?v=MgXq8S02NJc&t=47.84s)]
+*  found next to his sad little midlife crisis sports car in a garage in Delaware, and so on. [[00:00:53](https://www.youtube.com/watch?v=MgXq8S02NJc&t=53.199999999999996s)]
+*  You keep waiting for the White House physician to announce another document trove has been [[00:00:58](https://www.youtube.com/watch?v=MgXq8S02NJc&t=58.8s)]
+*  discovered after a routine colonoscopy. It could happen because at this point you know exactly [[00:01:02](https://www.youtube.com/watch?v=MgXq8S02NJc&t=62.32s)]
+*  where this story is heading. Permanent Washington does not want Joe Biden to run for president [[00:01:08](https://www.youtube.com/watch?v=MgXq8S02NJc&t=68.32s)]
+*  again. This is how they're sending that message. Even CNN has decided to become interested in Joe [[00:01:13](https://www.youtube.com/watch?v=MgXq8S02NJc&t=73.6s)]
+*  Biden's misdeeds two years into his presidency. They're doing segments on how classification [[00:01:19](https://www.youtube.com/watch?v=MgXq8S02NJc&t=79.28s)]
+*  laws protect this country from its mortal enemies like Russia. So you know for certain the order has [[00:01:24](https://www.youtube.com/watch?v=MgXq8S02NJc&t=84.64s)]
+*  gone out. Biden is done. What a missed opportunity this is. If you're looking for crimes that Joe [[00:01:30](https://www.youtube.com/watch?v=MgXq8S02NJc&t=90.32000000000001s)]
+*  Biden has committed, there is a very long list. Our country is being invaded. The world is on the [[00:01:37](https://www.youtube.com/watch?v=MgXq8S02NJc&t=97.44s)]
+*  brink of nuclear war. American cities have become slums. Our economy is in shambles. Even our airplanes [[00:01:42](https://www.youtube.com/watch?v=MgXq8S02NJc&t=102.96000000000001s)]
+*  no longer take off on time. It's a disaster and Joe Biden and his staff have a hand in all of it. [[00:01:48](https://www.youtube.com/watch?v=MgXq8S02NJc&t=108.96s)]
+*  In a country with a functioning government, Joe Biden would have been impeached before the first [[00:01:56](https://www.youtube.com/watch?v=MgXq8S02NJc&t=116.16s)]
+*  million illegal aliens crossed over our southern border, but no one did anything to stop it. So now [[00:01:59](https://www.youtube.com/watch?v=MgXq8S02NJc&t=119.83999999999999s)]
+*  they're arriving at the rate of a quarter million a month. Watch. Customs and border protection [[00:02:05](https://www.youtube.com/watch?v=MgXq8S02NJc&t=125.03999999999999s)]
+*  sources exclusively tell Fox News more than 250,000 migrants were encountered at the border in the [[00:02:10](https://www.youtube.com/watch?v=MgXq8S02NJc&t=130.64s)]
+*  month of December, about as many people living in Scottsdale, Arizona, making it the highest [[00:02:17](https://www.youtube.com/watch?v=MgXq8S02NJc&t=137.44s)]
+*  month ever on record. In Eagle Pass, Texas, the migrant surge continues. Local Kenny County rancher [[00:02:23](https://www.youtube.com/watch?v=MgXq8S02NJc&t=143.28s)]
+*  Pam Schott had a harrowing experience with migrants on her property. And I looked out the back and I [[00:02:29](https://www.youtube.com/watch?v=MgXq8S02NJc&t=149.92s)]
+*  could see three illegals walking up to the house. I had gotten a gun, which is an AR-15. I asked him, [[00:02:35](https://www.youtube.com/watch?v=MgXq8S02NJc&t=155.52s)]
+*  I said, please, you know, stop, go away. And I had the gun in my hands and they, you know, [[00:02:42](https://www.youtube.com/watch?v=MgXq8S02NJc&t=162.8s)]
+*  just kind of looked at me and kind of smiled. And I was like, auto and just go away. And they [[00:02:48](https://www.youtube.com/watch?v=MgXq8S02NJc&t=168.64000000000001s)]
+*  refused to do so. They're on the other side of the glass, trying to get in and not backing down. [[00:02:55](https://www.youtube.com/watch?v=MgXq8S02NJc&t=175.76000000000002s)]
+*  Not backing down. Even though I have a high powerful rifle in my arms, they are not backing down. [[00:03:03](https://www.youtube.com/watch?v=MgXq8S02NJc&t=183.60000000000002s)]
+*  That was scary. A rifle Joe Biden would like to take away from her. So that, writ large, is the [[00:03:10](https://www.youtube.com/watch?v=MgXq8S02NJc&t=190.96s)]
+*  biggest story of our lifetimes. It is the one thing Joe Biden has done that cannot be undone. [[00:03:19](https://www.youtube.com/watch?v=MgXq8S02NJc&t=199.76000000000002s)]
+*  Our great grandchildren are going to live with the consequences of this, but you never know it from [[00:03:25](https://www.youtube.com/watch?v=MgXq8S02NJc&t=205.28s)]
+*  watching most of the news. There's an effective media blackout on Joe Biden's immigration policies [[00:03:29](https://www.youtube.com/watch?v=MgXq8S02NJc&t=209.20000000000002s)]
+*  and on their downstream effects on America. There are too many strangers pouring in at once. And as [[00:03:34](https://www.youtube.com/watch?v=MgXq8S02NJc&t=214.16s)]
+*  a result, the country is becoming chaotic. Here's a rare television news piece on what happened when [[00:03:40](https://www.youtube.com/watch?v=MgXq8S02NJc&t=220.24s)]
+*  officials in New York decided to house some of Joe Biden's illegal aliens in a local hotel. [[00:03:45](https://www.youtube.com/watch?v=MgXq8S02NJc&t=225.12s)]
+*  An employee there says that migrants have made an absolute mess of the place. [[00:03:50](https://www.youtube.com/watch?v=MgXq8S02NJc&t=230.72s)]
+*  You're standing in front of it. Is that true? [[00:03:55](https://www.youtube.com/watch?v=MgXq8S02NJc&t=235.20000000000002s)]
+*  Yeah. Well, what we're hearing from that employee is that the hotel is completely overrun. He says, [[00:03:59](https://www.youtube.com/watch?v=MgXq8S02NJc&t=239.28s)]
+*  you know, of course, some people just looking for that better life, but as a result, the hotel is [[00:04:04](https://www.youtube.com/watch?v=MgXq8S02NJc&t=244.0s)]
+*  a mess and he fears for his safety. We don't have any guests anymore. They sold the entire hotel [[00:04:09](https://www.youtube.com/watch?v=MgXq8S02NJc&t=249.2s)]
+*  from the fourth floor to the 28th floor. It's all migrants. So we got people who are [[00:04:18](https://www.youtube.com/watch?v=MgXq8S02NJc&t=258.71999999999997s)]
+*  getting drunk using marijuana. They are punching and beating their wives or their girlfriends. [[00:04:26](https://www.youtube.com/watch?v=MgXq8S02NJc&t=266.48s)]
+*  Wow. We have teenagers running around wild around the hotel, opening the fire exit doors and [[00:04:34](https://www.youtube.com/watch?v=MgXq8S02NJc&t=274.08s)]
+*  doing what teenagers do in the stairways. And it's a mess. [[00:04:44](https://www.youtube.com/watch?v=MgXq8S02NJc&t=284.16s)]
+*  It's a mess, he said. Of course it is. The whole country is a mess because Joe Biden has ignored [[00:04:49](https://www.youtube.com/watch?v=MgXq8S02NJc&t=289.04s)]
+*  immigration laws passed by the Congress. That is a crime and it has killed huge numbers of Americans, [[00:04:54](https://www.youtube.com/watch?v=MgXq8S02NJc&t=294.96s)]
+*  hundreds of thousands dead from narcotics. Fentanyl has changed the entire game here in [[00:05:02](https://www.youtube.com/watch?v=MgXq8S02NJc&t=302.96s)]
+*  San Francisco. You can't buy heroin out here anymore. Nobody sells heroin and nobody uses [[00:05:08](https://www.youtube.com/watch?v=MgXq8S02NJc&t=308.32s)]
+*  heroin. Everybody has transitioned over to fentanyl. Fentanyl is the most dangerous drug [[00:05:12](https://www.youtube.com/watch?v=MgXq8S02NJc&t=312.47999999999996s)]
+*  to ever hit the streets in the United States in history. Fentanyl has killed more than 70,000 [[00:05:17](https://www.youtube.com/watch?v=MgXq8S02NJc&t=317.2s)]
+*  Americans in 12 months. Here in San Francisco, it's the dominant drug. It's responsible for [[00:05:21](https://www.youtube.com/watch?v=MgXq8S02NJc&t=321.76s)]
+*  three quarters of drug overdoses, brazen drug dealing and rampant drug use. In the shadow of [[00:05:27](https://www.youtube.com/watch?v=MgXq8S02NJc&t=327.44s)]
+*  City Hall, the same City Hall residents say actively enabled the fentanyl crisis. [[00:05:32](https://www.youtube.com/watch?v=MgXq8S02NJc&t=332.96s)]
+*  All of it, every gram came over an open border. So what's notable as a political matter is that [[00:05:39](https://www.youtube.com/watch?v=MgXq8S02NJc&t=339.04s)]
+*  every one of these disasters, the fentanyl epidemic, the chaos and crime in our cities, [[00:05:45](https://www.youtube.com/watch?v=MgXq8S02NJc&t=345.36s)]
+*  the invasion underway through Texas, Arizona and California, all of those deeply concern Americans. [[00:05:49](https://www.youtube.com/watch?v=MgXq8S02NJc&t=349.12s)]
+*  We're not guessing at that. Polls show it very clearly. By contrast, how many voters do you think [[00:05:54](https://www.youtube.com/watch?v=MgXq8S02NJc&t=354.96s)]
+*  are lying awake right now worrying that public officials might violate some obscure federal [[00:06:00](https://www.youtube.com/watch?v=MgXq8S02NJc&t=360.32s)]
+*  classification law? None. Not a single person. No one outside Washington cares or even understands [[00:06:04](https://www.youtube.com/watch?v=MgXq8S02NJc&t=364.71999999999997s)]
+*  the issue. And yet it is classified documents, not our open borders, that the Justice Department [[00:06:11](https://www.youtube.com/watch?v=MgXq8S02NJc&t=371.44s)]
+*  is punishing Joe Biden for. Why is that? What's going on here? Well, it's simple. [[00:06:17](https://www.youtube.com/watch?v=MgXq8S02NJc&t=377.28s)]
+*  Washington is protecting itself. Joe Biden alone is responsible for this crime. He alone [[00:06:22](https://www.youtube.com/watch?v=MgXq8S02NJc&t=382.24s)]
+*  took home classified documents. He didn't have help in doing that. But allowing the country to [[00:06:28](https://www.youtube.com/watch?v=MgXq8S02NJc&t=388.56s)]
+*  be invaded, that's not something you can do by yourself. So if Biden were to be taken down for [[00:06:33](https://www.youtube.com/watch?v=MgXq8S02NJc&t=393.76000000000005s)]
+*  opening the southern border, a lot of other people would go with them. He had a lot of accomplices. [[00:06:39](https://www.youtube.com/watch?v=MgXq8S02NJc&t=399.44s)]
+*  Permanent Washington doesn't want that. And ultimately, and here's the point, [[00:06:44](https://www.youtube.com/watch?v=MgXq8S02NJc&t=404.56s)]
+*  permanent Washington is in charge. It's not the democracy you imagine. We're seeing that now. [[00:06:48](https://www.youtube.com/watch?v=MgXq8S02NJc&t=408.08s)]
+*  So if you want to understand, if you really want to understand how the American government [[00:06:53](https://www.youtube.com/watch?v=MgXq8S02NJc&t=413.84s)]
+*  actually works at the highest levels, and if you want to know why they don't teach history anymore, [[00:06:58](https://www.youtube.com/watch?v=MgXq8S02NJc&t=418.15999999999997s)]
+*  one thing you should know is that the most popular president in American history was [[00:07:02](https://www.youtube.com/watch?v=MgXq8S02NJc&t=422.47999999999996s)]
+*  Richard Nixon. Richard Nixon. Yet somehow, without a single vote being cast by a single [[00:07:07](https://www.youtube.com/watch?v=MgXq8S02NJc&t=427.2s)]
+*  American voter, Richard Nixon was kicked out of office and replaced by the only unelected [[00:07:13](https://www.youtube.com/watch?v=MgXq8S02NJc&t=433.44s)]
+*  president in American history. So he went from the most popular president to a president nobody [[00:07:18](https://www.youtube.com/watch?v=MgXq8S02NJc&t=438.24s)]
+*  voted for. Wait a minute, you may ask. Why didn't I know that? Wasn't Richard Nixon a criminal? [[00:07:23](https://www.youtube.com/watch?v=MgXq8S02NJc&t=443.84s)]
+*  Wasn't he despised by all decent people? No, he wasn't. In fact, if any president could claim [[00:07:30](https://www.youtube.com/watch?v=MgXq8S02NJc&t=450.4s)]
+*  to be the people's choice, it was Richard Nixon. Richard Nixon was reelected in 1972 by the largest [[00:07:37](https://www.youtube.com/watch?v=MgXq8S02NJc&t=457.44s)]
+*  margin of the popular vote ever recorded before or since. Nixon got 17 million more votes than his [[00:07:43](https://www.youtube.com/watch?v=MgXq8S02NJc&t=463.04s)]
+*  opponent. Less than two years later, he was gone. He was forced to resign, and in his place, an [[00:07:50](https://www.youtube.com/watch?v=MgXq8S02NJc&t=470.16s)]
+*  obedient servant of the federal agencies called Gerald Ford took over the White House. How did [[00:07:55](https://www.youtube.com/watch?v=MgXq8S02NJc&t=475.20000000000005s)]
+*  that happen? Well, it's a long story, but here are the highlights, and they tell you a lot. [[00:07:59](https://www.youtube.com/watch?v=MgXq8S02NJc&t=479.20000000000005s)]
+*  Richard Nixon believed that elements in the federal bureaucracy were working to undermine [[00:08:04](https://www.youtube.com/watch?v=MgXq8S02NJc&t=484.64000000000004s)]
+*  the American system of government and had been doing that for a long time. [[00:08:08](https://www.youtube.com/watch?v=MgXq8S02NJc&t=488.8s)]
+*  He often said that. He was absolutely right. On June 23, 1972, Nixon met with the then CIA director, [[00:08:13](https://www.youtube.com/watch?v=MgXq8S02NJc&t=493.04s)]
+*  Richard Helms, at the White House. During the conversation, which thankfully was tape recorded, [[00:08:20](https://www.youtube.com/watch?v=MgXq8S02NJc&t=500.16s)]
+*  Nixon suggested he knew, quote, who shot John, meaning President John F. Kennedy. Nixon further [[00:08:25](https://www.youtube.com/watch?v=MgXq8S02NJc&t=505.28000000000003s)]
+*  implied that the CIA was directly involved in Kennedy's assassination, which we now know it was. [[00:08:32](https://www.youtube.com/watch?v=MgXq8S02NJc&t=512.08s)]
+*  Helms's telling response? Total silence. But for Nixon, it didn't matter because it was already [[00:08:38](https://www.youtube.com/watch?v=MgXq8S02NJc&t=518.32s)]
+*  over. Four days before, on June 19, the Washington Post had published the first of many stories about [[00:08:44](https://www.youtube.com/watch?v=MgXq8S02NJc&t=524.6400000000001s)]
+*  a break-in at the Watergate office building. Unbeknownst to Nixon and unreported by the [[00:08:50](https://www.youtube.com/watch?v=MgXq8S02NJc&t=530.4000000000001s)]
+*  Washington Post, four of the five burglars worked for the CIA. The first of many dishonest Watergate [[00:08:55](https://www.youtube.com/watch?v=MgXq8S02NJc&t=535.6s)]
+*  stories was written by a 29-year-old Metro reporter called Bob Woodward. Who exactly was Bob Woodward? [[00:09:02](https://www.youtube.com/watch?v=MgXq8S02NJc&t=542.4s)]
+*  Well, he wasn't a journalist. Bob Woodward had no background whatsoever in the news business. [[00:09:09](https://www.youtube.com/watch?v=MgXq8S02NJc&t=549.6s)]
+*  Instead, Bob Woodward came directly from the classified areas of the federal government. [[00:09:15](https://www.youtube.com/watch?v=MgXq8S02NJc&t=555.04s)]
+*  Shortly before Watergate, Woodward was a naval officer at the Pentagon. He had a top-secret [[00:09:20](https://www.youtube.com/watch?v=MgXq8S02NJc&t=560.0799999999999s)]
+*  clearance. He worked regularly with the intel agencies. At times, Woodward was even detailed [[00:09:24](https://www.youtube.com/watch?v=MgXq8S02NJc&t=564.24s)]
+*  to the Nixon White House, where he interacted with Richard Nixon's top aides. Soon after leaving the [[00:09:29](https://www.youtube.com/watch?v=MgXq8S02NJc&t=569.28s)]
+*  Navy for reasons that have never been clear, Woodward was hired by the most powerful news [[00:09:34](https://www.youtube.com/watch?v=MgXq8S02NJc&t=574.9599999999999s)]
+*  outlet in Washington and assigned the biggest story in the country. And just to make it crystal [[00:09:39](https://www.youtube.com/watch?v=MgXq8S02NJc&t=579.76s)]
+*  clear what was actually happening, Woodward's main source for his Watergate series was the deputy [[00:09:44](https://www.youtube.com/watch?v=MgXq8S02NJc&t=584.9599999999999s)]
+*  director of the FBI, Mark Felt. And Mark Felt ran, and we're not making this up, the FBI's [[00:09:50](https://www.youtube.com/watch?v=MgXq8S02NJc&t=590.9599999999999s)]
+*  COINTELPRO program, which was designed to secretly discredit political actors the federal agencies [[00:09:56](https://www.youtube.com/watch?v=MgXq8S02NJc&t=596.56s)]
+*  wanted to destroy. People like Richard Nixon. And at the same time, those same agencies were also [[00:10:02](https://www.youtube.com/watch?v=MgXq8S02NJc&t=602.0799999999999s)]
+*  working to take down Nixon's elected vice president, Spiro Agnew. In the fall of 1973, [[00:10:08](https://www.youtube.com/watch?v=MgXq8S02NJc&t=608.64s)]
+*  Agnew was indicted for tax evasion and forced to resign. His replacement was a colorless congressman [[00:10:14](https://www.youtube.com/watch?v=MgXq8S02NJc&t=614.0s)]
+*  from Grand Rapids called Gerald Ford. What was Ford's qualification for the job? Well, he had [[00:10:19](https://www.youtube.com/watch?v=MgXq8S02NJc&t=619.4399999999999s)]
+*  served on the Warren Commission, which absolved the CIA of responsibility for President Kennedy's [[00:10:26](https://www.youtube.com/watch?v=MgXq8S02NJc&t=626.16s)]
+*  murder. Nixon was strong-armed into accepting Gerald Ford by Democrats in Congress. Quote, [[00:10:30](https://www.youtube.com/watch?v=MgXq8S02NJc&t=630.9599999999999s)]
+*  we gave Nixon no choice but Ford, Speaker of the House Carl Albert later boasted. Eight months later, [[00:10:37](https://www.youtube.com/watch?v=MgXq8S02NJc&t=637.12s)]
+*  Gerald Ford of the Warren Commission was the President of the United States. See how that works? [[00:10:42](https://www.youtube.com/watch?v=MgXq8S02NJc&t=642.7199999999999s)]
+*  So those are the facts, not speculation. All of that actually happened. None of it's secret. Most [[00:10:49](https://www.youtube.com/watch?v=MgXq8S02NJc&t=649.76s)]
+*  of it actually is on Wikipedia. But no mainstream news organization has ever told that story. It's [[00:10:54](https://www.youtube.com/watch?v=MgXq8S02NJc&t=654.32s)]
+*  so obvious, yet it's intentionally ignored. And as a result, permanent Washington remains in charge [[00:11:00](https://www.youtube.com/watch?v=MgXq8S02NJc&t=660.8000000000001s)]
+*  of our political system. Unelected lifers and the federal agencies make the biggest decisions in [[00:11:08](https://www.youtube.com/watch?v=MgXq8S02NJc&t=668.32s)]
+*  American government and crush anyone who tries to rein them in. And in the process, our democracy [[00:11:13](https://www.youtube.com/watch?v=MgXq8S02NJc&t=673.7600000000001s)]
+*  becomes a joke. Now, you may have noticed that the very first person in the Trump administration [[00:11:19](https://www.youtube.com/watch?v=MgXq8S02NJc&t=679.6s)]
+*  the agencies went after was General Michael Flynn. Why Flynn? Because Mike Flynn was a career army [[00:11:25](https://www.youtube.com/watch?v=MgXq8S02NJc&t=685.76s)]
+*  intel officer who ran the Defense Intelligence Agency. In other words, Mike Flynn knew exactly [[00:11:33](https://www.youtube.com/watch?v=MgXq8S02NJc&t=693.28s)]
+*  how the system worked. And as a result, he was capable of fighting back. Four days after Donald [[00:11:38](https://www.youtube.com/watch?v=MgXq8S02NJc&t=698.96s)]
+*  Trump's inauguration, the FBI lured Mike Flynn into a meeting without his lawyer, concocted a [[00:11:45](https://www.youtube.com/watch?v=MgXq8S02NJc&t=705.12s)]
+*  series of fake crimes, and forced him to resign. So that's how things actually work in Washington. [[00:11:50](https://www.youtube.com/watch?v=MgXq8S02NJc&t=710.32s)]
+*  Let's stop lying about it. Joe Biden, meanwhile, whooped like a hyena when the Justice Department [[00:11:58](https://www.youtube.com/watch?v=MgXq8S02NJc&t=718.32s)]
+*  destroyed Mike Flynn. So there is, we have to say, a certain perverse justice in watching something [[00:12:03](https://www.youtube.com/watch?v=MgXq8S02NJc&t=723.12s)]
+*  very similar happen to Joe Biden himself six years later. Joe Biden does not deserve our sympathy. [[00:12:08](https://www.youtube.com/watch?v=MgXq8S02NJc&t=728.0s)]
+*  He's being shafted, but don't weep for him. And yet the rest of us do deserve a better system, [[00:12:15](https://www.youtube.com/watch?v=MgXq8S02NJc&t=735.2s)]
+*  an actual democracy. When people nobody voted for run everything, you are not living in a free country. [[00:12:21](https://www.youtube.com/watch?v=MgXq8S02NJc&t=741.84s)]

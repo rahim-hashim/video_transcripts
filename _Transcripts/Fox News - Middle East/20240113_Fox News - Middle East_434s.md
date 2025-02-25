@@ -1,0 +1,156 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 434s
+Video Keywords: ['american foreign policy', 'biden foreign policy', 'china', 'china taiwan elections', 'fnc', 'foreign policy', 'foreign policy middle east', 'former state department spokes', 'former state dept', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news today', 'houthis', 'houthis attack', 'houthis red sea', 'iran', 'middle east', 'middle east news', 'middle east war', 'morgan ortagus', 'taiwan', 'taiwan elections', 'us strikes houthi', 'war']
+Video Views: 148139
+Video Rating: None
+Video Description: Former State Department spokesperson Morgan Ortagus discusses the U.S. strikes on the Houthis, the Biden administration's Middle East policy and Taiwan's presidential election results. #foxnews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Former State Dept. spox warns this is the 'biggest failure' of Middle East policy in 20 years
+**Fox News - Middle East:** [January 13, 2024](https://www.youtube.com/watch?v=3GIwaiV5WbE)
+*  More on the US airstrikes against the Houthi targets in Yemen. [[00:00:00](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=0.0s)]
+*  Joining us live now, former State Department spokesperson Morgan Ortegas. [[00:00:03](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=3.68s)]
+*  Morgan, I want to get your reaction. [[00:00:08](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=8.16s)]
+*  You heard in Lucas's great reporting there, General Jack Keane, Fox News contributor, [[00:00:10](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=10.24s)]
+*  saying that ultimately, unless they go after, the administration goes after Iran, no deterrence [[00:00:15](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=15.280000000000001s)]
+*  is going to stop these Iran-backed proxies like the Houthis. [[00:00:21](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=21.88s)]
+*  Your reaction? [[00:00:25](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=25.68s)]
+*  I think General Keane is right. [[00:00:28](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=28.159999999999997s)]
+*  Let's just fast forward or go back, I should say reverse, to three years ago when we, what [[00:00:30](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=30.159999999999997s)]
+*  we handed over the Trump administration to the Biden administration. [[00:00:35](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=35.239999999999995s)]
+*  Iran was essentially in a box. [[00:00:39](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=39.16s)]
+*  We had taken out Qasem Soleimani, the head of the IRGC. [[00:00:40](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=40.66s)]
+*  The Quds Force were essentially, you know, combined to their, or confined to their barracks [[00:00:44](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=44.28s)]
+*  for a year. [[00:00:48](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=48.28s)]
+*  And so they weren't operating as they are now. [[00:00:49](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=49.959999999999994s)]
+*  They didn't have the billions of dollars that they have had over the past three years [[00:00:52](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=52.64s)]
+*  because of sanctions that the Biden administration hasn't pursued. [[00:00:57](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=57.120000000000005s)]
+*  We were heavy every day doing a maximum economic pressure campaign against the Islamic [[00:01:00](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=60.160000000000004s)]
+*  Republic of Iran. [[00:01:05](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=65.36s)]
+*  And so what you have seen is just probably the biggest failure of Middle East policy [[00:01:07](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=67.88s)]
+*  in 20 years has been Biden's policy towards the Iranian regime because they were in a [[00:01:13](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=73.8s)]
+*  box, they had maximum pressure, they had max leverage, and that has been squandered [[00:01:19](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=79.24000000000001s)]
+*  over the past three years. [[00:01:24](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=84.4s)]
+*  And another point, by the way, on the Houthis, we see these attacks that the U.S. had to [[00:01:27](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=87.2s)]
+*  do in Yemen. [[00:01:30](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=90.04s)]
+*  That's another failure of Biden and U.S. policy. [[00:01:31](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=91.04s)]
+*  What happened three years ago in February of 21, right after Biden took over, he stopped [[00:01:34](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=94.52000000000001s)]
+*  the Saudis and said basically you cannot continue with the war on your own peninsula, right? [[00:01:39](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=99.60000000000001s)]
+*  We told them no more weapons from the United States for that war. [[00:01:45](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=105.08000000000001s)]
+*  We told them that the war had to end. [[00:01:48](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=108.4s)]
+*  What happened? [[00:01:50](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=110.60000000000001s)]
+*  The Houthis spent three years, instead of the Saudis continuing to go after them and [[00:01:51](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=111.60000000000001s)]
+*  do the work for us and go after the terrorists for us, the Biden administration spent the [[00:01:55](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=115.64s)]
+*  last three years letting the Houthis build up their capabilities. [[00:02:01](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=121.32s)]
+*  And now you have a nightmare scenario, Griff. [[00:02:05](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=125.16s)]
+*  This is the scenario that we talked extensively about in the days and months after 9-11. [[00:02:07](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=127.48s)]
+*  We said that we were worried that sophisticated weaponry would get in the hands of a terrorist [[00:02:12](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=132.48s)]
+*  group, and that is exactly what happened. [[00:02:16](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=136.96s)]
+*  We have a terrorist group shooting ballistic missiles at our troops. [[00:02:18](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=138.64s)]
+*  Morgan, I want to go back just because, you know, people forget that you guys, towards [[00:02:21](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=141.88s)]
+*  the end of the Trump administration, listed the Houthis as a terrorist organization. [[00:02:26](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=146.32s)]
+*  When Trump came, or Biden came in, in February 4th of 2021, one of the first things he did [[00:02:31](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=151.32s)]
+*  is delist the Houthis from the terror list. [[00:02:36](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=156.51999999999998s)]
+*  Yesterday, Biden was asked about whether or not the Houthis are terrorists or not. [[00:02:40](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=160.44s)]
+*  Here's what he said. [[00:02:44](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=164.51999999999998s)]
+*  Listen to this. [[00:02:45](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=165.51999999999998s)]
+*  Are we in the back of the process? [[00:02:47](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=167.28s)]
+*  No. [[00:02:48](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=168.76000000000002s)]
+*  Iran does not want to award us. [[00:02:49](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=169.76000000000002s)]
+*  Are you worried that these are terrorist groups, sir? [[00:02:52](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=172.76000000000002s)]
+*  I think they are. [[00:02:55](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=175.76000000000002s)]
+*  I think they are, he says. [[00:02:57](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=177.4s)]
+*  So he thinks the Houthis are terrorists, but yet his administration doesn't list them. [[00:02:58](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=178.72s)]
+*  Does this matter? [[00:03:03](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=183.72s)]
+*  It does matter because, first of all, it took us about a year to build that designation [[00:03:06](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=186.48000000000002s)]
+*  package and it matters because when they lifted the terrorism designation from the Houthis, [[00:03:10](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=190.20000000000002s)]
+*  guess what the Houthis did? [[00:03:16](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=196.56s)]
+*  Within two days, they were attacking again. [[00:03:17](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=197.56s)]
+*  And so it's this, I think it's Griff, like this liberal, high-minded sort of view of [[00:03:20](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=200.76s)]
+*  the world. [[00:03:26](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=206.56s)]
+*  They didn't like how many civilian casualties were happening when the Saudis were going [[00:03:27](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=207.56s)]
+*  after the Houthis. [[00:03:31](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=211.56s)]
+*  I get that, I respect that. [[00:03:32](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=212.56s)]
+*  What we should have done is worked with the Saudis to refine their targeting capability, [[00:03:34](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=214.26s)]
+*  to refine what they were doing, their attacks on the Houthis, and instead, we just said, [[00:03:38](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=218.44s)]
+*  no, no, no, stop the war, too many civilian attacks. [[00:03:43](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=223.68s)]
+*  Does that sound similar? [[00:03:46](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=226.79999999999998s)]
+*  Sounds like variations on a theme. [[00:03:47](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=227.79999999999998s)]
+*  And what happens when you make people stop the war and stop going after the terrorists? [[00:03:48](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=228.79999999999998s)]
+*  It just means we get dragged into it and we have to do it ourselves. [[00:03:52](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=232.39999999999998s)]
+*  So we're now three years later doing something that the Saudis, that we stopped the Saudis [[00:03:56](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=236.29999999999998s)]
+*  from doing, and now we're using our own Tomahawk missiles, our own resources, which should [[00:04:00](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=240.51999999999998s)]
+*  be in the Indo-Pacific and focused on China and Taiwan. [[00:04:05](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=245.7s)]
+*  Well, and one of the things that the Saudis will appreciate is right now our producers [[00:04:08](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=248.56s)]
+*  will show you Abdul Malik al-Houthi. [[00:04:13](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=253.06s)]
+*  He is the leader of this organization that has for years been building this very strongly [[00:04:16](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=256.0s)]
+*  armed arsenal of these fighters. [[00:04:24](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=264.66s)]
+*  There he is, there he is in his 40s. [[00:04:27](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=267.38s)]
+*  He's been at this for years. [[00:04:28](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=268.94s)]
+*  In 2022, he really went after Saudi Arabia and the UAE, and now it looks like he's coming [[00:04:29](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=269.94s)]
+*  for us. [[00:04:35](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=275.38s)]
+*  Is it time for the U.S. to target this guy? [[00:04:36](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=276.38s)]
+*  Yeah, I mean, we should be targeting all of Houthi senior leadership. [[00:04:38](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=278.94s)]
+*  Absolutely, that's a given. [[00:04:44](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=284.09999999999997s)]
+*  We're still waiting for the battle damage assessment. [[00:04:45](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=285.9s)]
+*  But as Senator Risch, for example, said, put out in his statement, the series of strikes [[00:04:47](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=287.94s)]
+*  I'm supportive of over the past few days, but it can't be a one and done thing. [[00:04:52](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=292.29999999999995s)]
+*  It can't be a narrow response. [[00:04:56](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=296.78s)]
+*  This administration has to restore deterrence. [[00:04:59](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=299.21999999999997s)]
+*  And I'm incredibly concerned about how dangerous the world is under Joe Biden. [[00:05:02](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=302.02s)]
+*  I mean, if you think about it, Griff, every single year of the Biden presidency, there [[00:05:06](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=306.17999999999995s)]
+*  has been a new war or a new catastrophe. [[00:05:11](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=311.42s)]
+*  In 2021, you saw Kabul fall to the Taliban. [[00:05:13](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=313.42s)]
+*  You now have ISIS, Khorasan with a foothold in every province in Afghanistan. [[00:05:17](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=317.82s)]
+*  In 2022, you see Russia invade Ukraine, the worst war on Europe's soil. [[00:05:22](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=322.38s)]
+*  2023, you see now war has broken out in the Middle East with Hamas killing more Jews than [[00:05:26](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=326.98s)]
+*  any day since the Holocaust. [[00:05:31](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=331.86s)]
+*  What is 2024 going to bring us? [[00:05:33](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=333.78s)]
+*  I mean, a major war in every single year of the Biden administration. [[00:05:35](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=335.02s)]
+*  Well, we see other problems rising in the South China Sea. [[00:05:39](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=339.1s)]
+*  I want to before I run out of time, I've only got about 30 seconds, but I want to get your [[00:05:42](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=342.58s)]
+*  reaction to the news today. [[00:05:46](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=346.14s)]
+*  We've got Taiwan's elections are in the independent party, the candidate that Xi Jinping and the [[00:05:47](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=347.46s)]
+*  Communist Party of China did not want to win. [[00:05:53](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=353.38s)]
+*  Alai Shintai has won. [[00:05:56](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=356.26s)]
+*  Your reaction? [[00:05:58](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=358.62s)]
+*  Yeah, well, first of all, the producers need to give us another 10 minutes to talk about [[00:06:01](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=361.02s)]
+*  Taiwan. But bottom line, thank God that the DPP won again. [[00:06:04](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=364.22s)]
+*  That means that the Taiwanese people are rejecting all of the coercive attempts by China to [[00:06:08](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=368.41999999999996s)]
+*  interfere in their election. [[00:06:14](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=374.26s)]
+*  China has made it clear, Xi Jinping has made it clear, that reunifying with Taiwan is [[00:06:16](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=376.5s)]
+*  existential to him, to what he wants to do with China. [[00:06:21](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=381.09999999999997s)]
+*  If that happens, you're going to have major, major problems in shipping lanes there. [[00:06:25](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=385.7s)]
+*  You know, we could go into everything that will happen, but you will have China basically [[00:06:31](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=391.14s)]
+*  eating another democracy. [[00:06:34](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=394.41999999999996s)]
+*  We can't allow that to happen. [[00:06:36](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=396.82s)]
+*  And I think Senator Graham's idea to start getting sanctions, to put pre-invasion [[00:06:38](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=398.46s)]
+*  sanctions on China, if they even consider invading Taiwan, is a number of diplomatic [[00:06:43](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=403.97999999999996s)]
+*  options that we should be looking at, including military options to deter Xi Jinping from [[00:06:48](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=408.9s)]
+*  a military invasion of Taiwan. [[00:06:53](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=413.61999999999995s)]
+*  It's going to be very interesting to follow this. [[00:06:55](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=415.61999999999995s)]
+*  Morgan Ortegas, thank you for your time. [[00:06:57](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=417.65999999999997s)]
+*  Always insightful. [[00:06:59](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=419.94s)]
+*  If you want to catch our hottest interviews and most compelling analysis, you will not [[00:07:06](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=426.78s)]
+*  get it anywhere else. [[00:07:10](https://www.youtube.com/watch?v=3GIwaiV5WbE&t=430.73999999999995s)]

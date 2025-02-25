@@ -1,0 +1,156 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 284s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight']
+Video Views: 443816
+Video Rating: None
+Video Description: Florida Gov. Ron DeSantis joins 'Tucker Carlson Tonight' to respond to St. Petersburg Democrat running against him for governor. #foxnews  #tucker  
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Ron DeSantis blasts Charlie Crist for insulting his voters
+**Fox News - Tucker Carlson:** [August 24, 2022](https://www.youtube.com/watch?v=r8v_13JlG08)
+*  Glenn Young can became governor of Virginia last fall. [[00:00:00](https://www.youtube.com/watch?v=r8v_13JlG08&t=0.0s)]
+*  No one thought he would. [[00:00:02](https://www.youtube.com/watch?v=r8v_13JlG08&t=2.88s)]
+*  He beat a former governor, very well funded. [[00:00:04](https://www.youtube.com/watch?v=r8v_13JlG08&t=4.24s)]
+*  Why? [[00:00:06](https://www.youtube.com/watch?v=r8v_13JlG08&t=6.6000000000000005s)]
+*  Well, the main reason was parents in Virginia, [[00:00:07](https://www.youtube.com/watch?v=r8v_13JlG08&t=7.44s)]
+*  like parents everywhere, [[00:00:09](https://www.youtube.com/watch?v=r8v_13JlG08&t=9.84s)]
+*  don't actually want teachers indoctrinating their kids [[00:00:11](https://www.youtube.com/watch?v=r8v_13JlG08&t=11.16s)]
+*  with their weird political views [[00:00:13](https://www.youtube.com/watch?v=r8v_13JlG08&t=13.64s)]
+*  because it's creepy as hell and not what school is for. [[00:00:14](https://www.youtube.com/watch?v=r8v_13JlG08&t=14.88s)]
+*  Well, voters in Florida sent the same message. [[00:00:17](https://www.youtube.com/watch?v=r8v_13JlG08&t=17.96s)]
+*  Last night in Florida, [[00:00:20](https://www.youtube.com/watch?v=r8v_13JlG08&t=20.0s)]
+*  Republicans flipped five majority left school districts [[00:00:21](https://www.youtube.com/watch?v=r8v_13JlG08&t=21.04s)]
+*  in big counties, Miami Dade, Sarasota Duval, Martin Clay. [[00:00:24](https://www.youtube.com/watch?v=r8v_13JlG08&t=24.68s)]
+*  Miami Dade alone has more than 300,000 students. [[00:00:28](https://www.youtube.com/watch?v=r8v_13JlG08&t=28.72s)]
+*  It's one of the biggest school districts in the country. [[00:00:31](https://www.youtube.com/watch?v=r8v_13JlG08&t=31.56s)]
+*  How this happened, what does it mean? [[00:00:33](https://www.youtube.com/watch?v=r8v_13JlG08&t=33.8s)]
+*  Ron DeSantis runs Florida, he's the governor. [[00:00:35](https://www.youtube.com/watch?v=r8v_13JlG08&t=35.12s)]
+*  He joins us tonight. [[00:00:37](https://www.youtube.com/watch?v=r8v_13JlG08&t=37.56s)]
+*  Governor, thanks so much for coming on. [[00:00:38](https://www.youtube.com/watch?v=r8v_13JlG08&t=38.4s)]
+*  This seems like a big story. [[00:00:40](https://www.youtube.com/watch?v=r8v_13JlG08&t=40.2s)]
+*  How this happened and what does it mean? [[00:00:42](https://www.youtube.com/watch?v=r8v_13JlG08&t=42.239999999999995s)]
+*  Well, we made a concerted effort on these races, Tucker, [[00:00:46](https://www.youtube.com/watch?v=r8v_13JlG08&t=46.239999999999995s)]
+*  for precisely the reasons you said. [[00:00:48](https://www.youtube.com/watch?v=r8v_13JlG08&t=48.92s)]
+*  Parents are seeing what's going on now more than ever. [[00:00:50](https://www.youtube.com/watch?v=r8v_13JlG08&t=50.4s)]
+*  So there was a lot of energy and that's important to harness, [[00:00:53](https://www.youtube.com/watch?v=r8v_13JlG08&t=53.2s)]
+*  but it's also important to educate other Republican voters [[00:00:56](https://www.youtube.com/watch?v=r8v_13JlG08&t=56.2s)]
+*  who may be your grandparents now, [[00:01:00](https://www.youtube.com/watch?v=r8v_13JlG08&t=60.440000000000005s)]
+*  or maybe they don't have kids in the house anymore. [[00:01:02](https://www.youtube.com/watch?v=r8v_13JlG08&t=62.160000000000004s)]
+*  But I think all really understand [[00:01:04](https://www.youtube.com/watch?v=r8v_13JlG08&t=64.52000000000001s)]
+*  that we gotta get this education stuff right. [[00:01:06](https://www.youtube.com/watch?v=r8v_13JlG08&t=66.4s)]
+*  So we worked hard in 30 different races. [[00:01:08](https://www.youtube.com/watch?v=r8v_13JlG08&t=68.76s)]
+*  We ended up winning 25 of the races that I was involved in. [[00:01:11](https://www.youtube.com/watch?v=r8v_13JlG08&t=71.72s)]
+*  And as you said, some of that were sweeps [[00:01:14](https://www.youtube.com/watch?v=r8v_13JlG08&t=74.80000000000001s)]
+*  to where you have school boards that were majority left, [[00:01:17](https://www.youtube.com/watch?v=r8v_13JlG08&t=77.16s)]
+*  now majority right. [[00:01:20](https://www.youtube.com/watch?v=r8v_13JlG08&t=80.32000000000001s)]
+*  Part of the problem that we saw with this [[00:01:21](https://www.youtube.com/watch?v=r8v_13JlG08&t=81.60000000000001s)]
+*  is you would have red counties, [[00:01:23](https://www.youtube.com/watch?v=r8v_13JlG08&t=83.48s)]
+*  but because the school board races [[00:01:25](https://www.youtube.com/watch?v=r8v_13JlG08&t=85.44s)]
+*  under our constitution are nonpartisan, [[00:01:27](https://www.youtube.com/watch?v=r8v_13JlG08&t=87.36s)]
+*  the union would back a leftist, fund the leftist, [[00:01:29](https://www.youtube.com/watch?v=r8v_13JlG08&t=89.64s)]
+*  and you'd have a left-wing school board [[00:01:32](https://www.youtube.com/watch?v=r8v_13JlG08&t=92.52s)]
+*  representing a conservative county. [[00:01:34](https://www.youtube.com/watch?v=r8v_13JlG08&t=94.36s)]
+*  So we have fixed that in many of these places [[00:01:36](https://www.youtube.com/watch?v=r8v_13JlG08&t=96.67999999999999s)]
+*  to where these school boards are now gonna be representative [[00:01:39](https://www.youtube.com/watch?v=r8v_13JlG08&t=99.48s)]
+*  of the values of the people that live there. [[00:01:42](https://www.youtube.com/watch?v=r8v_13JlG08&t=102.47999999999999s)]
+*  Yeah, and people weren't paying attention. [[00:01:45](https://www.youtube.com/watch?v=r8v_13JlG08&t=105.08s)]
+*  I mean, did you have trouble convincing people [[00:01:47](https://www.youtube.com/watch?v=r8v_13JlG08&t=107.16s)]
+*  that this was worth getting involved in? [[00:01:49](https://www.youtube.com/watch?v=r8v_13JlG08&t=109.68s)]
+*  I think a little bit, but what we did, [[00:01:52](https://www.youtube.com/watch?v=r8v_13JlG08&t=112.68s)]
+*  we had no other races on the Republican side. [[00:01:55](https://www.youtube.com/watch?v=r8v_13JlG08&t=115.0s)]
+*  There was no governor, primary, senate, attorney general. [[00:01:57](https://www.youtube.com/watch?v=r8v_13JlG08&t=117.80000000000001s)]
+*  This was really it. [[00:02:01](https://www.youtube.com/watch?v=r8v_13JlG08&t=121.08000000000001s)]
+*  We had a handful of legislative races, [[00:02:02](https://www.youtube.com/watch?v=r8v_13JlG08&t=122.44000000000001s)]
+*  but this is what we told voters were important. [[00:02:04](https://www.youtube.com/watch?v=r8v_13JlG08&t=124.68s)]
+*  And I do think that it impacted it. [[00:02:07](https://www.youtube.com/watch?v=r8v_13JlG08&t=127.60000000000001s)]
+*  I think our turnout overall would have been less [[00:02:09](https://www.youtube.com/watch?v=r8v_13JlG08&t=129.76000000000002s)]
+*  had there not been this effort with the school board. [[00:02:12](https://www.youtube.com/watch?v=r8v_13JlG08&t=132.52s)]
+*  And I think more and more are getting the picture [[00:02:15](https://www.youtube.com/watch?v=r8v_13JlG08&t=135.48000000000002s)]
+*  that this is important. [[00:02:18](https://www.youtube.com/watch?v=r8v_13JlG08&t=138.28s)]
+*  But I do think as successful as it was, [[00:02:20](https://www.youtube.com/watch?v=r8v_13JlG08&t=140.0s)]
+*  this is just step one. [[00:02:22](https://www.youtube.com/watch?v=r8v_13JlG08&t=142.56s)]
+*  We're gonna institutionalize this going forward [[00:02:24](https://www.youtube.com/watch?v=r8v_13JlG08&t=144.16s)]
+*  so that we have good candidates running [[00:02:28](https://www.youtube.com/watch?v=r8v_13JlG08&t=148.20000000000002s)]
+*  in these school board races as a matter of course. [[00:02:29](https://www.youtube.com/watch?v=r8v_13JlG08&t=149.92000000000002s)]
+*  And so this is part of how we're educating voters [[00:02:32](https://www.youtube.com/watch?v=r8v_13JlG08&t=152.36s)]
+*  to make sure that we have people on those school boards [[00:02:35](https://www.youtube.com/watch?v=r8v_13JlG08&t=155.20000000000002s)]
+*  who wanna educate kids, not indoctrinate kids, [[00:02:38](https://www.youtube.com/watch?v=r8v_13JlG08&t=158.32000000000002s)]
+*  and that are gonna be reflective of the values [[00:02:41](https://www.youtube.com/watch?v=r8v_13JlG08&t=161.24s)]
+*  of the communities that they serve. [[00:02:42](https://www.youtube.com/watch?v=r8v_13JlG08&t=162.96s)]
+*  So I wanna ask you quickly about your race. [[00:02:45](https://www.youtube.com/watch?v=r8v_13JlG08&t=165.04000000000002s)]
+*  We learned the other day on last Tuesday [[00:02:46](https://www.youtube.com/watch?v=r8v_13JlG08&t=166.96s)]
+*  that Charlie Crist, who beat the zany weed lady [[00:02:49](https://www.youtube.com/watch?v=r8v_13JlG08&t=169.16s)]
+*  he was running against is gonna be your opponent. [[00:02:51](https://www.youtube.com/watch?v=r8v_13JlG08&t=171.48s)]
+*  And Crist, a former Republican, [[00:02:53](https://www.youtube.com/watch?v=r8v_13JlG08&t=173.8s)]
+*  came out today with a message to your supporters, [[00:02:55](https://www.youtube.com/watch?v=r8v_13JlG08&t=175.28s)]
+*  which I want our viewers to see. [[00:02:57](https://www.youtube.com/watch?v=r8v_13JlG08&t=177.64000000000001s)]
+*  Here it is. [[00:02:58](https://www.youtube.com/watch?v=r8v_13JlG08&t=178.88s)]
+*  Those who support the governor should stay with them [[00:03:00](https://www.youtube.com/watch?v=r8v_13JlG08&t=180.32s)]
+*  and vote for him, and I don't want your vote. [[00:03:02](https://www.youtube.com/watch?v=r8v_13JlG08&t=182.84s)]
+*  If you have that hate in your heart, keep it there. [[00:03:06](https://www.youtube.com/watch?v=r8v_13JlG08&t=186.56s)]
+*  I want the vote of the people of Florida [[00:03:09](https://www.youtube.com/watch?v=r8v_13JlG08&t=189.72s)]
+*  who care about our state. [[00:03:11](https://www.youtube.com/watch?v=r8v_13JlG08&t=191.6s)]
+*  He doesn't want your vote. [[00:03:14](https://www.youtube.com/watch?v=r8v_13JlG08&t=194.68s)]
+*  You're morally beneath him. [[00:03:16](https://www.youtube.com/watch?v=r8v_13JlG08&t=196.08s)]
+*  I've never seen a politician say that. [[00:03:17](https://www.youtube.com/watch?v=r8v_13JlG08&t=197.36s)]
+*  This is his fifth decade running for office. [[00:03:21](https://www.youtube.com/watch?v=r8v_13JlG08&t=201.04000000000002s)]
+*  He's a chameleon, typical career politician. [[00:03:23](https://www.youtube.com/watch?v=r8v_13JlG08&t=203.28s)]
+*  But you know, Tucker, people support me [[00:03:26](https://www.youtube.com/watch?v=r8v_13JlG08&t=206.60000000000002s)]
+*  because I kept the state open and protected their jobs. [[00:03:29](https://www.youtube.com/watch?v=r8v_13JlG08&t=209.24s)]
+*  Charlie Crist wanted it locked down. [[00:03:32](https://www.youtube.com/watch?v=r8v_13JlG08&t=212.08s)]
+*  So that's not hate in their heart. [[00:03:34](https://www.youtube.com/watch?v=r8v_13JlG08&t=214.28000000000003s)]
+*  They're just appreciative that they had a governor [[00:03:35](https://www.youtube.com/watch?v=r8v_13JlG08&t=215.64000000000001s)]
+*  who was standing up for them. [[00:03:37](https://www.youtube.com/watch?v=r8v_13JlG08&t=217.72000000000003s)]
+*  Parents around the state support me [[00:03:39](https://www.youtube.com/watch?v=r8v_13JlG08&t=219.04000000000002s)]
+*  because we made sure schools were open [[00:03:41](https://www.youtube.com/watch?v=r8v_13JlG08&t=221.28000000000003s)]
+*  and we're working to make sure they get education, [[00:03:43](https://www.youtube.com/watch?v=r8v_13JlG08&t=223.04000000000002s)]
+*  not indoctrination. [[00:03:44](https://www.youtube.com/watch?v=r8v_13JlG08&t=224.96s)]
+*  That's not hate in their heart. [[00:03:46](https://www.youtube.com/watch?v=r8v_13JlG08&t=226.24s)]
+*  They're just appreciative that they have a governor [[00:03:47](https://www.youtube.com/watch?v=r8v_13JlG08&t=227.68s)]
+*  that's fighting for them. [[00:03:49](https://www.youtube.com/watch?v=r8v_13JlG08&t=229.72s)]
+*  It's kind of weird to see Charlie Crist [[00:03:51](https://www.youtube.com/watch?v=r8v_13JlG08&t=231.68s)]
+*  look down his nose at voters. [[00:03:54](https://www.youtube.com/watch?v=r8v_13JlG08&t=234.16s)]
+*  Is there anyone in the state who is more morally suspect [[00:03:56](https://www.youtube.com/watch?v=r8v_13JlG08&t=236.32000000000002s)]
+*  than Charlie Crist who's registered to vote [[00:03:59](https://www.youtube.com/watch?v=r8v_13JlG08&t=239.8s)]
+*  that you're aware of? [[00:04:02](https://www.youtube.com/watch?v=r8v_13JlG08&t=242.04000000000002s)]
+*  I'll tell you what, I would take, yeah, [[00:04:05](https://www.youtube.com/watch?v=r8v_13JlG08&t=245.04000000000002s)]
+*  I don't think you can. [[00:04:07](https://www.youtube.com/watch?v=r8v_13JlG08&t=247.60000000000002s)]
+*  I think he is not one to be cast in stones. [[00:04:09](https://www.youtube.com/watch?v=r8v_13JlG08&t=249.08s)]
+*  And how contemptible it is when he says, [[00:04:11](https://www.youtube.com/watch?v=r8v_13JlG08&t=251.68s)]
+*  he claims that he wants to unify Florida. [[00:04:14](https://www.youtube.com/watch?v=r8v_13JlG08&t=254.35999999999999s)]
+*  He says he wants a Florida for all. [[00:04:17](https://www.youtube.com/watch?v=r8v_13JlG08&t=257.84s)]
+*  And then you condemn a majority of the people [[00:04:19](https://www.youtube.com/watch?v=r8v_13JlG08&t=259.8s)]
+*  in the state of Florida? [[00:04:22](https://www.youtube.com/watch?v=r8v_13JlG08&t=262.59999999999997s)]
+*  Give me a break. [[00:04:23](https://www.youtube.com/watch?v=r8v_13JlG08&t=263.8s)]
+*  And the thing about what I've done is, [[00:04:24](https://www.youtube.com/watch?v=r8v_13JlG08&t=264.64s)]
+*  we've done issues that people across the spectrum [[00:04:26](https://www.youtube.com/watch?v=r8v_13JlG08&t=266.48s)]
+*  have been able to agree with. [[00:04:29](https://www.youtube.com/watch?v=r8v_13JlG08&t=269.4s)]
+*  And that's really what it's all about. [[00:04:30](https://www.youtube.com/watch?v=r8v_13JlG08&t=270.4s)]
+*  It's not hating the other side. [[00:04:31](https://www.youtube.com/watch?v=r8v_13JlG08&t=271.84s)]
+*  It's trying to have policies that a majority can agree with. [[00:04:33](https://www.youtube.com/watch?v=r8v_13JlG08&t=273.6s)]
+*  If you don't support me, you're a hater. [[00:04:36](https://www.youtube.com/watch?v=r8v_13JlG08&t=276.96s)]
+*  That doesn't work. [[00:04:39](https://www.youtube.com/watch?v=r8v_13JlG08&t=279.64s)]
+*  I hope it doesn't. [[00:04:40](https://www.youtube.com/watch?v=r8v_13JlG08&t=280.48s)]
+*  Governor, thanks so much for coming on. [[00:04:41](https://www.youtube.com/watch?v=r8v_13JlG08&t=281.92s)]
+*  Appreciate it. [[00:04:43](https://www.youtube.com/watch?v=r8v_13JlG08&t=283.2s)]

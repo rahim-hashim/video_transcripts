@@ -1,0 +1,155 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 282s
+Video Keywords: ['carlson', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news voices', 'tucker', 'tucker carlson', 'tucker carlson monologue', 'tucker carlson monologue tonight', 'tucker carlson tonight', 'tucker monologue', 'tucker monologue tonight', 'tucker reacts', 'tucker tonight', 'us news', 'top stories', 'joe biden', 'tara reade on tucker carlson', 'tara reade the view', 'tara reade on tucker']
+Video Views: 388252
+Video Rating: None
+Video Description: Tara Reade, the former Senate staffer who alleged President Biden sexually assaulted her in 1993, discusses how she's now being 'silenced' as a result of her unsuccessful lawsuit against the New York Times on 'Tucker Carlson Tonight.'
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Tucker: This is wrong
+**Fox News - Tucker Carlson:** [March 30, 2023](https://www.youtube.com/watch?v=rC1sZY6zfbs)
+*  The neoliberal establishment has decided [[00:00:00](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=0.0s)]
+*  it can't win arguments. [[00:00:02](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=2.24s)]
+*  Nobody wants what they're selling at all. [[00:00:04](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=4.54s)]
+*  So why even bother to convince anybody? [[00:00:07](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=7.32s)]
+*  So instead they're going right to force [[00:00:09](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=9.72s)]
+*  and you're seeing that all over our country. [[00:00:11](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=11.3s)]
+*  And one of the ways they're inflicting force on people, [[00:00:13](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=13.16s)]
+*  inflicting pain, is through civil suits. [[00:00:15](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=15.76s)]
+*  Bring them to civil court, [[00:00:18](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=18.04s)]
+*  because anyone can file a lawsuit. [[00:00:19](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=19.12s)]
+*  And so there are a lot of well-funded lawsuits [[00:00:21](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=21.16s)]
+*  trying to shut people up or punish them [[00:00:23](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=23.48s)]
+*  for stepping out of line. [[00:00:26](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=26.22s)]
+*  And here's the latest example. [[00:00:27](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=27.32s)]
+*  This has not gotten enough coverage. [[00:00:28](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=28.84s)]
+*  So Tara Reid once worked for Joe Biden. [[00:00:30](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=30.44s)]
+*  He sexually assaulted her, [[00:00:33](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=33.08s)]
+*  and she made possibly the mistake of saying so out loud. [[00:00:35](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=35.38s)]
+*  You're not allowed to do that. [[00:00:38](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=38.28s)]
+*  So in retaliation against her, [[00:00:39](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=39.68s)]
+*  the New York Times posted her social security number [[00:00:41](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=41.120000000000005s)]
+*  on her website. [[00:00:43](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=43.58s)]
+*  Can you imagine the ramifications of that? [[00:00:44](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=44.42s)]
+*  So Tara Reid sued the New York Times [[00:00:46](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=46.58s)]
+*  because you can't put people's social security numbers [[00:00:48](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=48.44s)]
+*  on a website. [[00:00:51](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=51.32s)]
+*  But a federal judge has now ruled against Tara Reid [[00:00:53](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=53.24s)]
+*  and said that she has to pay the legal fees [[00:00:56](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=56.260000000000005s)]
+*  of the New York Times. [[00:00:58](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=58.38s)]
+*  So they're still trying to crush her. [[00:00:59](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=59.980000000000004s)]
+*  And we think it's wrong. [[00:01:01](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=61.940000000000005s)]
+*  She joins us now. [[00:01:03](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=63.34s)]
+*  Thanks so much for coming on. [[00:01:05](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=65.18s)]
+*  Did I misstate any of that? [[00:01:07](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=67.06s)]
+*  I mean, it seems like you came out [[00:01:08](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=68.58s)]
+*  and accused the sitting president of a sex crime, [[00:01:10](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=70.5s)]
+*  and we've spoken a great length about this on the air, [[00:01:12](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=72.76s)]
+*  and I don't think there's any question that it happened. [[00:01:15](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=75.0s)]
+*  You said so at the time, [[00:01:17](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=77.1s)]
+*  and now they're trying to hurt you for saying that. [[00:01:18](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=78.94s)]
+*  That's what it looks like to me. [[00:01:20](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=80.7s)]
+*  Yes, this is just one of the many things that they've done [[00:01:23](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=83.58s)]
+*  to try to silence me. [[00:01:26](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=86.46000000000001s)]
+*  But yeah, the lawsuit that I filed [[00:01:29](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=89.06s)]
+*  was because on the first story that they did, [[00:01:31](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=91.53999999999999s)]
+*  the New York Times, [[00:01:33](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=93.69999999999999s)]
+*  and they used me as basically a whipping post all of 2020 [[00:01:34](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=94.53999999999999s)]
+*  to try to silence and discredit me. [[00:01:38](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=98.22s)]
+*  But the first story was on Easter Sunday, [[00:01:40](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=100.17999999999999s)]
+*  and I was woken up very early in the morning [[00:01:42](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=102.06s)]
+*  by a friend who lived back East and said, [[00:01:43](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=103.97999999999999s)]
+*  hey, the online story on New York Times [[00:01:45](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=105.53999999999999s)]
+*  has your congressional ID [[00:01:47](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=107.58s)]
+*  showing your social security number. [[00:01:49](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=109.89999999999999s)]
+*  We need to get it down. [[00:01:51](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=111.69999999999999s)]
+*  It took a few hours, we got it down, [[00:01:52](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=112.82s)]
+*  and they did comply with taking it down, [[00:01:54](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=114.58s)]
+*  but it was very awful. [[00:01:57](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=117.8s)]
+*  So I did try to file a lawsuit. [[00:01:59](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=119.67999999999999s)]
+*  I lost, the judge ruled that it was in the public interest [[00:02:01](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=121.6s)]
+*  to print it, and I then was slapped with attorney's fees [[00:02:04](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=124.75999999999999s)]
+*  from New York Times upwards close to over $71,000. [[00:02:09](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=129.88s)]
+*  So you were not a rich person, I know, [[00:02:16](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=136.16s)]
+*  from our conversations. [[00:02:18](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=138.12s)]
+*  So just two quick questions. [[00:02:20](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=140.64s)]
+*  How was it in the public's interest for the New York Times [[00:02:22](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=142.24s)]
+*  to publish your social security number of all private things? [[00:02:24](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=144.84s)]
+*  Well, suddenly, I guess there was a great interest [[00:02:29](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=149.56s)]
+*  in freedom of speech, so, and freedom of the press. [[00:02:31](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=151.96s)]
+*  So freedom of the press would be the impetus for that [[00:02:34](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=154.48000000000002s)]
+*  and sort of a more of a legal argument. [[00:02:37](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=157.52s)]
+*  And I don't wanna bore your audience with all of that, [[00:02:40](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=160.44s)]
+*  but there's been different ways that the, you know, [[00:02:42](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=162.48000000000002s)]
+*  Biden administration has come after me. [[00:02:46](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=166.44s)]
+*  They've come after me with the DOJ, [[00:02:48](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=168.08s)]
+*  with sealed warrants on my Twitter, which are of record, [[00:02:49](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=169.6s)]
+*  and there's been, you know, a little bit of press about that. [[00:02:52](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=172.6s)]
+*  They took my communications on Twitter and all of that. [[00:02:56](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=176.64s)]
+*  So yeah, it's been, you know, watching Joe Biden [[00:03:00](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=180.0s)]
+*  take a wrecking ball to my, [[00:03:03](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=183.56s)]
+*  I've been experiencing this wrecking ball to my life, [[00:03:04](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=184.76s)]
+*  but now I've been watching the last couple of years [[00:03:06](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=186.83999999999997s)]
+*  take a wrecking ball to the United States, [[00:03:08](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=188.67999999999998s)]
+*  including, you know, the proxy war that Russia [[00:03:10](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=190.95999999999998s)]
+*  and that NATO and US is fighting against Russia, [[00:03:14](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=194.16s)]
+*  and upwards of $100 billion going over there. [[00:03:19](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=199.16s)]
+*  When we have dire circumstances here. [[00:03:21](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=201.6s)]
+*  So all of those things that I talked about [[00:03:24](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=204.04s)]
+*  that I criticized Joe Biden about, [[00:03:26](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=206.4s)]
+*  besides the awful experience [[00:03:28](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=208.76s)]
+*  of being sexually assaulted by him [[00:03:30](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=210.76s)]
+*  when I was a Senate staffer in 1993, [[00:03:32](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=212.6s)]
+*  you know, people are seeing just the true Joe Biden [[00:03:35](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=215.8s)]
+*  of how corrupt this regime is. [[00:03:39](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=219.56s)]
+*  And if there needs to be any regime change, [[00:03:42](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=222.36s)]
+*  it doesn't need to be in other countries. [[00:03:44](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=224.56s)]
+*  It needs to happen here. [[00:03:45](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=225.96s)]
+*  Now, so. I agree. [[00:03:47](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=227.4s)]
+*  We're seeing how cruel and ruthless they are. [[00:03:49](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=229.52s)]
+*  And not only they don't believe all women, [[00:03:52](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=232.20000000000002s)]
+*  they will hurt women who disobey. [[00:03:54](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=234.56s)]
+*  And you're a perfect example. [[00:03:56](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=236.44s)]
+*  And further, Tucker, you know, the New York Times has become, [[00:03:57](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=237.48000000000002s)]
+*  the legacy media has become like an arm [[00:04:00](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=240.24s)]
+*  of the Biden administration, like the DOJ and the FBI. [[00:04:02](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=242.12s)]
+*  I mean, look at what just happened to Matt Taibbi [[00:04:05](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=245.04000000000002s)]
+*  who testified about, you know, the different ways [[00:04:07](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=247.20000000000002s)]
+*  that they were trying to suppress US citizen speech [[00:04:09](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=249.64000000000001s)]
+*  and using taxpayer money to do it [[00:04:12](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=252.24s)]
+*  and control the conversation and control the narrative. [[00:04:14](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=254.88s)]
+*  He got visited by an IRS agent. [[00:04:17](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=257.32s)]
+*  The day of his testimony. [[00:04:19](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=259.04s)]
+*  So, you know. They send the IRS to your house. [[00:04:20](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=260.44s)]
+*  Yeah. Yeah. No, I'm not. [[00:04:22](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=262.6s)]
+*  We're all waiting for that. [[00:04:24](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=264.64000000000004s)]
+*  And I know that you are, you're living it now. [[00:04:25](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=265.6s)]
+*  Terri, thank you so much for coming on. [[00:04:27](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=267.6s)]
+*  I appreciate it. Thank you for having me. [[00:04:29](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=269.08000000000004s)]
+*  I appreciate it. [[00:04:30](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=270.96000000000004s)]
+*  Subscribe to the Fox News YouTube channel [[00:04:31](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=271.92s)]
+*  to catch our nightly opens, [[00:04:34](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=274.20000000000005s)]
+*  stories that are changing the world [[00:04:36](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=276.28000000000003s)]
+*  and changing your life. [[00:04:38](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=278.28000000000003s)]
+*  From Tucker Carlson tonight. [[00:04:39](https://www.youtube.com/watch?v=rC1sZY6zfbs&t=279.96000000000004s)]

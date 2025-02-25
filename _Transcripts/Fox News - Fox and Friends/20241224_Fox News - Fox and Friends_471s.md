@@ -1,0 +1,157 @@
+---
+Date Generated: February 21, 2025
+Transcription Model: whisper medium 20231117
+Length: 471s
+Video Keywords: ['Biden', 'Biden administration', 'Biden pardons', 'FNC', 'FOX', 'Fox & Friends', 'Fox News', 'Fox News Channel', 'Todd Piro', 'US', 'US media', 'US news', 'US politics', 'biden presidenntial pardons', 'biden sentence commutations', 'career criminal', 'crime', 'criminal', 'death sentence', 'death sentence commutation', 'donna major', 'fox & friends fnc', 'joe biden', 'media', 'murder victim', 'news', 'pardons', 'politics', 'president biden', 'president joe biden', 'presidential pardons', 'south carolina']
+Video Views: 1050515
+Video Rating: None
+Video Description: Donna Major's husband Danny Jenkins and daughters Heather Turner and Katie Jenkins call out President Biden for commuting the death sentence of her murderer. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'ABSOLUTE ANGER': Victim's family outraged after Biden commutes killer's death sentence
+**Fox News - Fox and Friends:** [December 24, 2024](https://www.youtube.com/watch?v=zphn3B-7vZQ)
+*  Joe Biden commuted the death sentences of 37 death row inmates just two days before [[00:00:00](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=0.0s)]
+*  the families of their victims gather for Christmas. [[00:00:06](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=6.2s)]
+*  Biden defending his move explaining, quote, I condemn these murderers and grieve for the [[00:00:09](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=9.44s)]
+*  victims of their despicable acts, but guided by my conscience and my experience, I am more [[00:00:13](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=13.88s)]
+*  convinced than ever that we must stop the use of the death penalty. [[00:00:19](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=19.44s)]
+*  Joining us now are Heather Turner, Katie Jenkins, and Danny Major, the daughters and husband [[00:00:24](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=24.04s)]
+*  of Donna Major, who was murdered back in 2017 in a bank robbery by a career criminal whose [[00:00:29](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=29.64s)]
+*  sentence was just commuted by President Biden. [[00:00:35](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=35.72s)]
+*  I'm sorry to be talking to all three of you under these circumstances. [[00:00:39](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=39.760000000000005s)]
+*  I cannot even put myself in your position to know how difficult this would be any week, [[00:00:43](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=43.44s)]
+*  but especially Christmas week. [[00:00:49](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=49.56s)]
+*  Heather, what was your reaction when you heard the news? [[00:00:51](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=51.519999999999996s)]
+*  Anger, absolute anger. [[00:00:54](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=54.64s)]
+*  We were told from our prosecution team on Sunday afternoon. [[00:00:56](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=56.8s)]
+*  I was actually gathered with my in-laws for our family Christmas. [[00:01:00](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=60.8s)]
+*  My sister was gathered with her in-laws and we got the call and I was angry. [[00:01:04](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=64.84s)]
+*  I'm still angry. [[00:01:09](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=69.96s)]
+*  I am upset that this is even happening, that one man can make this decision without even [[00:01:11](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=71.72s)]
+*  talking to the victims, without any regard for what we've been through, what we're going [[00:01:20](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=80.0s)]
+*  through. [[00:01:25](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=85.12s)]
+*  I'm completely hurt, frustrated, and angry. [[00:01:26](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=86.12s)]
+*  So Heather, nobody gave you a heads up that this was coming from the White House? [[00:01:29](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=89.64s)]
+*  So in May, we heard that this was a possibility and at that point, we began writing letters [[00:01:33](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=93.84s)]
+*  to the pardoned attorney. [[00:01:39](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=99.12s)]
+*  I reached out requesting an in-person meeting in D.C. and we were refused. [[00:01:40](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=100.44s)]
+*  They denied our right to have our voices heard that we're victims. [[00:01:47](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=107.44s)]
+*  My mother was murdered at the hands of Brandon Hanzel. [[00:01:52](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=112.92s)]
+*  They should have heard our story and all we got was a 10-minute virtual conference and [[00:01:56](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=116.72s)]
+*  clearly that fell on deaf ears. [[00:02:03](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=123.56s)]
+*  They did not want to hear our story. [[00:02:05](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=125.52s)]
+*  Danny, Joe Biden or whoever made this decision, because it is entirely unclear whether this [[00:02:07](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=127.64s)]
+*  came from him directly or his people. [[00:02:13](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=133.16s)]
+*  He's showing mercy to your wife's killer. [[00:02:16](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=136.4s)]
+*  Was your wife showing any mercy? [[00:02:19](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=139.8s)]
+*  She was showing no mercy at all. [[00:02:22](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=142.6s)]
+*  This man walked into the bank, never said two words to her, shot her three times in [[00:02:24](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=144.12s)]
+*  total, went and shot her coworker, Katie Skeen as well, who was totally defenseless and unaware [[00:02:29](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=149.76s)]
+*  that anything was happening. [[00:02:36](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=156.16s)]
+*  It's just beyond me that I can't even believe that this has actually happened. [[00:02:40](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=160.8s)]
+*  The commuting of sentences like this of 37 victims, all but three, which was certainly [[00:02:46](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=166.04s)]
+*  a political scheme, but no undoubtedly. [[00:02:51](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=171.92s)]
+*  Joe Biden was also told by the Pope that he should stop these executions. [[00:02:57](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=177.04s)]
+*  Now, what the Pope has to do with anything in this country, I don't know, but Joe Biden [[00:03:02](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=182.07999999999998s)]
+*  certainly has no convictions. [[00:03:07](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=187.32s)]
+*  He's a senile old man. [[00:03:09](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=189.32s)]
+*  He couldn't tie his shoes, I wouldn't think, if you could see him in person. [[00:03:10](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=190.88s)]
+*  It's absolutely disgusting. [[00:03:15](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=195.28s)]
+*  Well, continuing his MO of the past four years, he bent to the far left, whether it is this [[00:03:16](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=196.96s)]
+*  far left Pope, which many Catholics have said about this Pope or members of his own party, [[00:03:22](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=202.56s)]
+*  he has bent the knee to the left wing of the Democrats. [[00:03:29](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=209.32s)]
+*  And that includes squad member Congresswoman Ayanna Pressley, who said this to the news. [[00:03:33](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=213.08s)]
+*  Listen. [[00:03:38](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=218.92000000000002s)]
+*  The death penalty has not been proven to be a deterrent of crime. [[00:03:40](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=220.28s)]
+*  State sanctioned murder is not justice. [[00:03:45](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=225.32s)]
+*  And today, what President Biden did demonstrated moral leadership, compassionate leadership [[00:03:47](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=227.72s)]
+*  informed by his own faith. [[00:03:54](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=234.44s)]
+*  It has had a disparate impact on low income people, black people and other marginalized [[00:03:55](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=235.94s)]
+*  persons. [[00:04:00](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=240.4s)]
+*  Katie, when Ayanna Pressley refers to compassion, what is your response to the congresswoman? [[00:04:01](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=241.4s)]
+*  Compassion? [[00:04:11](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=251.11999999999998s)]
+*  I don't think that that's compassion. [[00:04:12](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=252.11999999999998s)]
+*  The fact that he didn't talk to any of us, the victims of this crime, you know, we trusted [[00:04:14](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=254.92s)]
+*  the judicial system. [[00:04:21](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=261.88s)]
+*  We sat through court. [[00:04:24](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=264.0s)]
+*  I watched my mother be murdered. [[00:04:25](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=265.4s)]
+*  I watched images of her body laying on the ground. [[00:04:28](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=268.32s)]
+*  He does not have compassion for who? [[00:04:32](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=272.36s)]
+*  A criminal? [[00:04:35](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=275.52s)]
+*  A criminal? [[00:04:36](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=276.52s)]
+*  No. [[00:04:37](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=277.52s)]
+*  No, I don't agree with that. [[00:04:38](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=278.84s)]
+*  I don't agree with that at all. [[00:04:41](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=281.32s)]
+*  Heather, off the top, you mentioned Christmas celebrations that you've already tried to [[00:04:43](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=283.2s)]
+*  have. [[00:04:48](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=288.28s)]
+*  How do you get through Christmas following news like this when you have to put on a brave [[00:04:49](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=289.28s)]
+*  face for kids for whom we really do celebrate this holiday to watch the joy and the magic [[00:04:53](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=293.7s)]
+*  and the excitement in their eyes? [[00:04:59](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=299.71999999999997s)]
+*  How do you get through this, Heather? [[00:05:01](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=301.96s)]
+*  Jesus, the reason for the season. [[00:05:04](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=304.15999999999997s)]
+*  I mean, we wouldn't be celebrating Christmas if it wasn't for Christ and his birth. [[00:05:06](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=306.76s)]
+*  And he is what has gotten us through this entire thing. [[00:05:12](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=312.0s)]
+*  We have leaned into Jesus. [[00:05:15](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=315.5s)]
+*  He has provided us strength and a peace that is beyond all understanding because he's the [[00:05:18](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=318.12s)]
+*  son of peace. [[00:05:24](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=324.12s)]
+*  And I'm just so thankful for the Lord and for my faith and for my family. [[00:05:25](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=325.12s)]
+*  I have three small children. [[00:05:32](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=332.76s)]
+*  My sister has one baby. [[00:05:34](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=334.0s)]
+*  She's a year old. [[00:05:36](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=336.44s)]
+*  My brother has two children. [[00:05:37](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=337.44s)]
+*  My mom had six grandchildren, only three of which she met. [[00:05:38](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=338.76s)]
+*  Our job is to make Christmas as special and as magical as we can. [[00:05:43](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=343.32s)]
+*  And we're going to do that. [[00:05:47](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=347.36s)]
+*  Danny, same basic question to you. [[00:05:48](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=348.96s)]
+*  How do you get through this as a grandpa, knowing that you lost the love of your life? [[00:05:51](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=351.2s)]
+*  She's never coming back, but this killer has been spared the death penalty. [[00:05:55](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=355.72s)]
+*  Well, probably the worst thing for me through this whole thing since day one was watching [[00:06:02](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=362.6s)]
+*  my three children, Doug, Heather and Katie, suffer through this. [[00:06:07](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=367.08000000000004s)]
+*  If it was just me, I'd be OK with that. [[00:06:11](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=371.64000000000004s)]
+*  I know Donna is with her Savior right now. [[00:06:13](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=373.84000000000003s)]
+*  Not because she was a good person or anything like that, but because she trusted him as [[00:06:17](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=377.36s)]
+*  Lord and Savior. [[00:06:20](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=380.76000000000005s)]
+*  As far as the grandchildren go, the few that were here with us, they probably don't have [[00:06:22](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=382.48s)]
+*  a whole lot of memory of her, but there still is a great loss in that, just knowing that [[00:06:29](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=389.15999999999997s)]
+*  they'll never get to see her or be loved by her or touch her or hug her or hold her. [[00:06:34](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=394.0s)]
+*  He does a great job of filling in. [[00:06:40](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=400.47999999999996s)]
+*  I'm sure he does. [[00:06:42](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=402.76s)]
+*  He's incredible. [[00:06:44](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=404.4s)]
+*  Katie, final question to you. [[00:06:45](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=405.52s)]
+*  The exact phrase used by the White House in their release announcing these pardons and [[00:06:47](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=407.12s)]
+*  commutations is that Joe Biden is committed to a fair and effective justice system. [[00:06:51](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=411.47999999999996s)]
+*  Katie, what about this is fair to your family? [[00:06:58](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=418.6s)]
+*  None of it. [[00:07:04](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=424.52s)]
+*  None of it, because we didn't commit that crime. [[00:07:05](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=425.52s)]
+*  Brandon counseled him. [[00:07:09](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=429.56s)]
+*  He made that choice that day, a crime that is punishable by the death penalty. [[00:07:10](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=430.8s)]
+*  We, 12 jurors unanimously voted for the death penalty. [[00:07:17](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=437.0s)]
+*  That is what was fair. [[00:07:23](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=443.84000000000003s)]
+*  And Biden took that away from us. [[00:07:25](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=445.64s)]
+*  A senile, old, incompetent man took that away from our family. [[00:07:28](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=448.12s)]
+*  Justice. [[00:07:33](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=453.6s)]
+*  Just like that. [[00:07:34](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=454.6s)]
+*  Nothing. [[00:07:36](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=456.36s)]
+*  This is not fair. [[00:07:37](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=457.36s)]
+*  Heather, Katie and Danny, may the Lord show mercy upon your entire family the way the [[00:07:38](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=458.36s)]
+*  killer in the current White House has not. [[00:07:45](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=465.28000000000003s)]
+*  We wish you the very best. [[00:07:48](https://www.youtube.com/watch?v=zphn3B-7vZQ&t=468.24s)]

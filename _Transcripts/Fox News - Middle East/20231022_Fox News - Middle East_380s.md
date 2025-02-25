@@ -1,0 +1,157 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 380s
+Video Keywords: ['foreign policy', 'middle east war', 'middle east', 'middle east news', 'israel hamas war', 'israel news', 'israel vs hamas', 'israel hamas', 'gaza israel border', 'gaza israel war', 'gaza israel attack', 'iran', 'foreign policy middle east', 'war', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news today', 'us military', 'usmc', 'us marine corps', 'meu', 'marine expeditionary unit', 'fox & friends weekend', 'joey jones', 'pete hegeseth']
+Video Views: 134060
+Video Rating: None
+Video Description: 'FOX & Friends Weekend' hosts Pete Hegseth and Joey Jones break down the combat capabilities of the USMC's Marine Expeditionary Unit (MEU). 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/ 
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night 
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# A deep-dive into the US Marines' arsenal amid war in Israel
+**Fox News - Middle East:** [October 22, 2023](https://www.youtube.com/watch?v=bSHP8NA4Og0)
+*  The 26th Marine Corps Expeditionary Unit, also referred to as the MU, abruptly ended [[00:00:00](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=0.0s)]
+*  pre-scheduled training in Kuwait last week and is in route to the waters off of Israel. [[00:00:06](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=6.44s)]
+*  The unit can operate a range of military operations and today we're diving deeper into their arsenal. [[00:00:11](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=11.28s)]
+*  You hear things like MU and now we're going to break down a little bit for you what that [[00:00:16](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=16.88s)]
+*  means. [[00:00:20](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=20.96s)]
+*  First of all, Joey, a Marine Expeditionary Unit, how many of them does the U.S. have? [[00:00:21](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=21.96s)]
+*  How long do they train? [[00:00:25](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=25.080000000000002s)]
+*  How long are they out? [[00:00:26](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=26.080000000000002s)]
+*  They're in rotational cycles. [[00:00:27](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=27.080000000000002s)]
+*  So we have several on the East Coast, several on the West Coast, one that's permanently [[00:00:28](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=28.8s)]
+*  in Okinawa and they go out onto their deployment depending on training schedule and really [[00:00:32](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=32.08s)]
+*  things like this. [[00:00:37](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=37.88s)]
+*  You're doing an 18-month workup for what should be a six-month deployment. [[00:00:39](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=39.400000000000006s)]
+*  I don't know their full schedule. [[00:00:43](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=43.32s)]
+*  There's always a MU in training and always a MU out in the water. [[00:00:44](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=44.92s)]
+*  So 18 to 24 months of training to be out on a boat for six months effectively is a floating [[00:00:48](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=48.760000000000005s)]
+*  emergency response unit full of 2,000 Marines. [[00:00:53](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=53.92s)]
+*  And to set the stage, this is actually what the Marine Corps is supposed to do and does [[00:00:57](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=57.08s)]
+*  best. [[00:01:01](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=61.4s)]
+*  The Marine Corps has a promise to the President of the United States, within 72 hours, anywhere [[00:01:02](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=62.4s)]
+*  in the world, we will wage war and take the fight to our enemies. [[00:01:05](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=65.72s)]
+*  Now we may not be able to hold ground, that's what the Army's for. [[00:01:08](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=68.72s)]
+*  They have more of like a 30-day window, bring in the big stuff, build buildings, make outposts, [[00:01:11](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=71.52s)]
+*  things like that. [[00:01:18](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=78.24s)]
+*  The Marine Corps, lightweight, maneuverable, go in, cause havoc, let the Army come in and [[00:01:19](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=79.24s)]
+*  hold the ground. [[00:01:23](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=83.08s)]
+*  That's kind of the traditional role of the Marine Corps. [[00:01:24](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=84.28s)]
+*  And until 2005 when Marsau came to be, when he thought Marine Special Forces, this is [[00:01:26](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=86.96s)]
+*  kind of how you would implement Marine Special Forces. [[00:01:32](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=92.32s)]
+*  So you say light infantry, but when we break this down, there's a lot of big equipment [[00:01:35](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=95.25999999999999s)]
+*  that these Marines bring around. [[00:01:39](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=99.66s)]
+*  First of all, in four slides we'll break out what is on a MU. [[00:01:40](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=100.88s)]
+*  First you've got the command element, Joey. [[00:01:44](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=104.16s)]
+*  You're going to have about 150 officers telling everybody what to do. [[00:01:45](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=105.8s)]
+*  That's right. [[00:01:49](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=109.19999999999999s)]
+*  The Marine Corps prides itself on small unit leadership. [[00:01:50](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=110.19999999999999s)]
+*  You got 169 people wearing shiny things on their collar, but don't make a mistake about [[00:01:51](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=111.63999999999999s)]
+*  it. [[00:01:56](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=116.48s)]
+*  It's the sergeants and the corporals who are going to take the teams to combat. [[00:01:57](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=117.48s)]
+*  A couple of lieutenants too. [[00:01:59](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=119.03999999999999s)]
+*  Yeah, we just tell them what to do. [[00:02:00](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=120.03999999999999s)]
+*  All right, next slide is the actual ground element, Joey. [[00:02:01](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=121.36s)]
+*  That's 1,200 sailors and Marines. [[00:02:05](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=125.32s)]
+*  Yeah, so when we talk about this, we're going to talk about capabilities. [[00:02:07](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=127.36s)]
+*  This is to get on the ground. [[00:02:10](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=130.4s)]
+*  But what makes the Marine Corps completely different from the Haws, Moths, and Zuma to [[00:02:11](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=131.88s)]
+*  the Shorts, EEE, or Fighter Nations battle on land, on air, and sea? [[00:02:15](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=135.44s)]
+*  They have the ability to do an amphibious assault. [[00:02:19](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=139.7s)]
+*  That means they can go from the ship onto a beach like that. [[00:02:22](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=142.4s)]
+*  They have the capabilities and the vehicles for it. [[00:02:26](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=146.52s)]
+*  They also can do it through the air. [[00:02:28](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=148.36s)]
+*  Obviously, they can do an insertion through helicopters. [[00:02:29](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=149.8s)]
+*  We'll talk about what some of these actual vehicles are, but the idea is they can go [[00:02:31](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=151.68s)]
+*  through the air, through the ocean, and get on land, and go in and do their mission. [[00:02:35](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=155.0s)]
+*  Go in and take somebody on. [[00:02:38](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=158.68s)]
+*  You can reinforce someone and provide additional defensive capabilities. [[00:02:39](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=159.68s)]
+*  Stability operations are longer term, which they could end up being involved in. [[00:02:43](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=163.32000000000002s)]
+*  Small unit, the word is we can hurt you or we can help you, and we can do both really [[00:02:47](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=167.4s)]
+*  well. [[00:02:52](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=172.12s)]
+*  I like it. [[00:02:53](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=173.12s)]
+*  We have a lot of aviation assets, over 400 Marines and sailors that fly some really high [[00:02:54](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=174.44s)]
+*  tech equipment. [[00:02:59](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=179.44s)]
+*  I know you've watched Top Gun, but some of the best fighter pilots in the military are [[00:03:00](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=180.44s)]
+*  Marines. [[00:03:04](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=184.32s)]
+*  We have our own fighting aircraft. [[00:03:05](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=185.32s)]
+*  In a MEU, you have various types of aircraft. [[00:03:07](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=187.20000000000002s)]
+*  Some of it's changed as of late. [[00:03:09](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=189.8s)]
+*  We have what's called the Harrier. [[00:03:11](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=191.4s)]
+*  It's a fighter jet, basically, that can come up and down vertically. [[00:03:12](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=192.48000000000002s)]
+*  We now have the Osprey that can do that and haul troops. [[00:03:15](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=195.38s)]
+*  So you have a lot of capabilities included in this MAGTF or MEU that can bring troops [[00:03:17](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=197.96s)]
+*  and firepower into the battlefield. [[00:03:23](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=203.07999999999998s)]
+*  Keep going. [[00:03:24](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=204.67999999999998s)]
+*  All right, we're going to move to the next slide, which is logistics. [[00:03:25](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=205.67999999999998s)]
+*  Logistics are very, very important, but we're going to move through it quickly because I [[00:03:28](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=208.04s)]
+*  want to get to all the capabilities on one slide that exist on a MEU. [[00:03:31](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=211.07999999999998s)]
+*  What this really means is they're self-sustainable. [[00:03:35](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=215.32s)]
+*  They can feed themselves, take care of themselves, and pack up their wounds themselves. [[00:03:37](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=217.48s)]
+*  All right, next slide is the entirety of all of the combat power. [[00:03:41](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=221.72s)]
+*  And when you look at this, you say, I mean, we're talking four main battle tanks. [[00:03:47](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=227.04s)]
+*  They've taken tanks out of it now. [[00:03:52](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=232.36s)]
+*  This is a change that happened this year. [[00:03:54](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=234.12s)]
+*  That's why we have the expert. [[00:03:55](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=235.96s)]
+*  Well, this is about the lightweight maneuverability of the Marine Corps. [[00:03:57](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=237.4s)]
+*  And the rest of those vehicles kind of talk to that. [[00:04:01](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=241.0s)]
+*  I mean, you've got over 100 Humvees. [[00:04:03](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=243.44s)]
+*  You've got light armored vehicles. [[00:04:06](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=246.84s)]
+*  Those are those are like side by sides with armor on them. [[00:04:08](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=248.36s)]
+*  Absolutely. And then you talked about this being a place, a power projection platform [[00:04:10](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=250.72s)]
+*  in the air as well. [[00:04:15](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=255.56s)]
+*  Absolutely. This Osprey is the plane that you've seen videos of that looks like an airplane [[00:04:16](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=256.4s)]
+*  with propellers. All of a sudden, the propellers go up and they land like a helicopter. [[00:04:20](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=260.6s)]
+*  They can haul a lot of troops on an Osprey and the Super Stallion, the CH-53, if it ain't leaking, [[00:04:24](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=264.2s)]
+*  it ain't working. It's a battle tank in the air and it can take our guys wherever they need to be. [[00:04:29](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=269.28000000000003s)]
+*  Hueys to get them out if if something goes wrong. [[00:04:34](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=274.16s)]
+*  And then you have other aircraft, a lot of rotary aircraft. [[00:04:37](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=277.08s)]
+*  All this is about getting people in and getting people out. [[00:04:40](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=280.08s)]
+*  One of the main missions of a Mew would be hostage rescue. [[00:04:44](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=284.04s)]
+*  If a fighter pilot has to eject and goes down behind enemy lines, that type of surgical go in, [[00:04:48](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=288.16s)]
+*  take care of business and get back out mission. [[00:04:53](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=293.52s)]
+*  We bring it over here to the subject matter expert. [[00:04:55](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=295.96s)]
+*  You said the ability to sustain yourself is that's it right here. [[00:04:58](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=298.28000000000003s)]
+*  We've got records. We've got bulldozers, forklifts. [[00:05:01](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=301.32s)]
+*  If we have to sustain and hold an area, we can do it. [[00:05:03](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=303.64s)]
+*  But there are 10,000 troops. [[00:05:06](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=306.4s)]
+*  There's 2000 troops that are doing the combat and the rest of this stuff. [[00:05:08](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=308.0s)]
+*  The Marine Corps is the smallest, the smallest service in the military. [[00:05:11](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=311.8s)]
+*  It has the most different jobs because we are so malleable. [[00:05:15](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=315.52000000000004s)]
+*  And this is how you highlight that. [[00:05:19](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=319.04s)]
+*  Lastly, just to kind of just to kind of wrap this up, I do want to say this. [[00:05:20](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=320.88s)]
+*  They are special operations certified. [[00:05:25](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=325.28000000000003s)]
+*  They can go in and get hostages, things like that. [[00:05:28](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=328.04s)]
+*  If we end up with SEALs, Delta Force, things like that, they already are trained to work with them [[00:05:30](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=330.20000000000005s)]
+*  to be their guardian angels, their infield, their ex-field. [[00:05:35](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=335.40000000000003s)]
+*  Whatever the president decides to do here, this is the military capabilities you need to do it [[00:05:38](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=338.32s)]
+*  without engaging us in a long-sustained, high troop count ground war. [[00:05:44](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=344.44s)]
+*  All of this brought to you by three ships, is my understanding. [[00:05:49](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=349.0s)]
+*  I know for a fact there are three ships in this Mew as published before it took off. [[00:05:52](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=352.91999999999996s)]
+*  I don't know if other ships have joined, but three to five ships at most. [[00:05:56](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=356.47999999999996s)]
+*  Three to five ships, all of that equipment, all of that firepower, [[00:06:00](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=360.23999999999995s)]
+*  if used properly, should be the type of deterrent that makes, I don't know, [[00:06:04](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=364.12s)]
+*  someone like Aron say we're going to think twice about broadening this. [[00:06:08](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=368.28s)]
+*  Let's hope so. [[00:06:11](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=371.2s)]
+*  We talk about the tip of the spear in special operations. [[00:06:12](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=372.04s)]
+*  This is, this effort right here is what makes the American military different. [[00:06:14](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=374.48s)]
+*  No doubt. [[00:06:18](https://www.youtube.com/watch?v=bSHP8NA4Og0&t=378.64s)]

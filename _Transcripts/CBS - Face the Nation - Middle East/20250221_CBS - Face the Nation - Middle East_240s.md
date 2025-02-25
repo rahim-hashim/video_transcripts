@@ -1,0 +1,71 @@
+---
+Date Generated: February 24, 2025
+Transcription Model: whisper medium 20231117
+Length: 240s
+Video Keywords: ['shiri bibas', 'idf', 'israeli defense forces', 'israeli hostage', 'benjamin netanyahu', 'gaza', 'hamas', 'hezbollah', 'iran', 'israel', 'middle east', 'palestine', 'west bank', 'Palestine', 'Iran', 'Hamas', 'Israel', 'Gaza', 'Hezbollah', 'Middle East', 'Benjamin Neta\u200bnyahu', 'West Bank', 'CBS News Mornings Clips', 'World', 'CBS News']
+Video Views: 100732
+Video Rating: None
+Video Description: Hamas on Thursday handed over the bodies of four Israeli hostages, said to be Shiri Bibas and her two young children, Ariel and Kfir, as well as Oded Lifshitz. But overnight, Israel's defense forces announced one of the bodies received was not Shiri Bibas. CBS News contributor Robert Berger has more.
+
+#news #israel #middleeast
+
+CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.
+
+Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews
+Watch CBS News 24/7: https://cbsnews.com/live/
+Download the CBS News app: https://cbsnews.com/mobile/
+Follow CBS News on Instagram: https://instagram.com/cbsnews/
+Like CBS News on Facebook: https://facebook.com/cbsnews
+Follow CBS News on X: https://twitter.com/cbsnews
+Subscribe to our newsletters: https://cbsnews.com/newsletters/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# IDF says body returned was not Shiri Bibas, Netanyahu vows to make Hamas pay
+**CBS - Face the Nation - Middle East:** [February 21, 2025](https://www.youtube.com/watch?v=R5-V9Qm2tlM)
+*  We begin with developments out of the Middle East this morning, [[00:00:00](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=0.0s)]
+*  where Israeli Prime Minister Benjamin Netanyahu is vowing to make Hamas pay [[00:00:03](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=3.0s)]
+*  for failing to return the body of deceased Israeli hostage Shiri Bebas as agreed. [[00:00:08](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=8.0s)]
+*  Yesterday, the militant group handed over the bodies of four Israeli hostages, as we reported, [[00:00:13](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=13.0s)]
+*  said to be Shiri and her two young children, Ariel and Kefir, as well as Oded Lifshitz. [[00:00:18](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=18.0s)]
+*  But overnight, Israel's defense forces announced one of the bodies received was not Shiri Bebas. [[00:00:24](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=24.0s)]
+*  Responding this morning, Hamas claimed Shiri's remains appear to have been mixed up with that of another person. [[00:00:30](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=30.0s)]
+*  Joining us now for more on this from Jerusalem is CBS News contributor Robert Berger. [[00:00:37](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=37.0s)]
+*  Robert, what impact could this horrific mix-up have on the Gaza ceasefire? [[00:00:41](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=41.0s)]
+*  Well, there's a sense of outrage here. [[00:00:48](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=48.0s)]
+*  You know, Israelis waking up to this news. [[00:00:50](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=50.0s)]
+*  Yesterday, it was a sad day when Shiri Bebas and the two youngest hostages' bodies were returned home. [[00:00:53](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=53.0s)]
+*  And then today, it turns out that it wasn't her at all. [[00:01:00](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=60.0s)]
+*  As you mentioned, Prime Minister Benjamin Netanyahu is saying it's a cynical violation of the ceasefire and vowing revenge. [[00:01:03](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=63.0s)]
+*  But having said that, I don't think Israel wants to blow up this peace deal or this hostage deal. [[00:01:11](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=71.0s)]
+*  So tomorrow, we're expecting the release of six living hostages. [[00:01:18](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=78.0s)]
+*  Nobody wants that to be thwarted. [[00:01:23](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=83.0s)]
+*  So I think the Israelis are angry. [[00:01:26](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=86.0s)]
+*  They, as I said, Netanyahu vowing revenge. [[00:01:29](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=89.0s)]
+*  But on the other hand, they want to keep that hostage release tomorrow, six hostages in place. [[00:01:33](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=93.0s)]
+*  Also, we're expecting the release of another four dead hostages next week, which would wind up Phase One. [[00:01:38](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=98.0s)]
+*  So the hope is to keep that on track despite what happened. [[00:01:45](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=105.0s)]
+*  And meantime, Robert Netanyahu has ordered Israel's military to carry out a, quote, intensive operation over in the West Bank. [[00:01:49](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=109.0s)]
+*  And that followed explosions on buses last night near Tel Aviv. [[00:01:57](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=117.0s)]
+*  Tell us what's happening on that front. [[00:02:01](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=121.0s)]
+*  Yeah, a scary night last night in Tel Aviv. [[00:02:03](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=123.0s)]
+*  Around 10 p.m., there were explosions that blew up three empty buses. [[00:02:06](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=126.0s)]
+*  No injuries. But the explosions rattled areas around Tel Aviv. [[00:02:11](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=131.0s)]
+*  And then they discovered two more bombs on other buses near Tel Aviv. [[00:02:19](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=139.0s)]
+*  And according to police, the plan was to blow these buses up simultaneously today during morning rush hour. [[00:02:24](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=144.0s)]
+*  Could have been really a catastrophic terrorist attack. [[00:02:31](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=151.0s)]
+*  Reminiscent of the first Palestinian uprising back from 2000 and 2004. [[00:02:35](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=155.0s)]
+*  We used to see those fairly often. Hardly see those anymore. [[00:02:42](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=162.0s)]
+*  But really a close call there. [[00:02:46](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=166.0s)]
+*  Apparently, it was something went wrong with the timers on the bomb and they went off early. [[00:02:49](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=169.0s)]
+*  Just stunning to hear your reporting on that. [[00:02:54](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=174.0s)]
+*  Meanwhile, Arab leaders, they're meeting in Saudi Arabia today to discuss the future of Gaza. [[00:02:57](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=177.0s)]
+*  What exactly are they proposing? [[00:03:02](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=182.0s)]
+*  Well, of course, this comes against the background of President Trump's very controversial proposal to move two million Palestinians out of Gaza and complete and create a so-called Riviera in the Middle East. [[00:03:04](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=184.0s)]
+*  The Arab states obviously opposed to this. [[00:03:19](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=199.0s)]
+*  All of them because and especially Egypt and Jordan, because the president was hoping that they would take in hundreds of thousands of Palestinians from Gaza. [[00:03:23](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=203.0s)]
+*  They've refused. So we're seeing Egypt, Jordan, Saudi Arabia, the Gulf states meeting today in Saudi Arabia to try and come up with an alternative plan. [[00:03:34](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=214.0s)]
+*  In short, it would call for the rebuilding of Gaza while Palestinians in Gaza are able to remain on their own land. [[00:03:44](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=224.0s)]
+*  All right, Robert Berger joining us from Jerusalem just past two in the afternoon there, Robert. Thank you. [[00:03:55](https://www.youtube.com/watch?v=R5-V9Qm2tlM&t=235.0s)]

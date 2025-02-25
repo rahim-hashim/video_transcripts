@@ -1,0 +1,158 @@
+---
+Date Generated: February 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 355s
+Video Keywords: ['FNC', 'Fox News', 'Fox News Channel', 'News', 'Reza Pahlavi', 'crown prince reza pahlavi', 'fox & friends', 'fox news iran', 'fox news israel', 'fox news middle east', 'iran', 'iran crown prince', 'iran news', 'iran sanctions', 'iranian crown prince reza pahlavi', 'israel war', 'middle east', 'middle east war', 'reza pahlavi fox news', 'reza pahlavi iran', 'sanctions on iran', 'steve doocy', 'us sanctions on iran', 'us support for israel', 'war in israel', 'war in the middle east']
+Video Views: 118942
+Video Rating: None
+Video Description: Reza Pahlavi, the exiled crown prince of Iran, joins 'FOX & Friends' after the president of Iran issued an ominous warning to the U.S. and Israel. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Iran's exiled crown prince calls out America's weak policies
+**Fox News - Middle East:** [October 31, 2023](https://www.youtube.com/watch?v=tblBe1llv7g)
+*  All right, the president of Iran, Ibrahim Rasi, [[00:00:00](https://www.youtube.com/watch?v=tblBe1llv7g&t=0.0s)]
+*  is issuing an ominous warning to the United States [[00:00:04](https://www.youtube.com/watch?v=tblBe1llv7g&t=4.04s)]
+*  and Israel over the weekend. [[00:00:06](https://www.youtube.com/watch?v=tblBe1llv7g&t=6.84s)]
+*  In a statement, he warned, quote, [[00:00:08](https://www.youtube.com/watch?v=tblBe1llv7g&t=8.34s)]
+*  Zionist regime's crimes have crossed the red lines, [[00:00:10](https://www.youtube.com/watch?v=tblBe1llv7g&t=10.44s)]
+*  which may force everyone to take action. [[00:00:14](https://www.youtube.com/watch?v=tblBe1llv7g&t=14.620000000000001s)]
+*  Washington asks us not to do anything, [[00:00:17](https://www.youtube.com/watch?v=tblBe1llv7g&t=17.32s)]
+*  but they keep giving widespread support to Israel. [[00:00:19](https://www.youtube.com/watch?v=tblBe1llv7g&t=19.76s)]
+*  Here with his reaction is the exiled Crown Prince of Iran, [[00:00:23](https://www.youtube.com/watch?v=tblBe1llv7g&t=23.52s)]
+*  Israel's Highness Reza Pahlavi. [[00:00:27](https://www.youtube.com/watch?v=tblBe1llv7g&t=27.54s)]
+*  Reza, good morning to you. [[00:00:30](https://www.youtube.com/watch?v=tblBe1llv7g&t=30.14s)]
+*  Good morning. [[00:00:31](https://www.youtube.com/watch?v=tblBe1llv7g&t=31.34s)]
+*  Okay. [[00:00:32](https://www.youtube.com/watch?v=tblBe1llv7g&t=32.24s)]
+*  What is Iran doing? [[00:00:33](https://www.youtube.com/watch?v=tblBe1llv7g&t=33.6s)]
+*  The red line, what are they talking about? [[00:00:35](https://www.youtube.com/watch?v=tblBe1llv7g&t=35.04s)]
+*  I mean, their bomb and their proxy forces [[00:00:37](https://www.youtube.com/watch?v=tblBe1llv7g&t=37.14s)]
+*  are shooting at our guys over in that region [[00:00:40](https://www.youtube.com/watch?v=tblBe1llv7g&t=40.68s)]
+*  every day, it seems. [[00:00:42](https://www.youtube.com/watch?v=tblBe1llv7g&t=42.980000000000004s)]
+*  That's exactly the case. [[00:00:45](https://www.youtube.com/watch?v=tblBe1llv7g&t=45.72s)]
+*  From the very beginning, the attitude of this regime [[00:00:47](https://www.youtube.com/watch?v=tblBe1llv7g&t=47.32s)]
+*  has been repression at home and aggression abroad, [[00:00:50](https://www.youtube.com/watch?v=tblBe1llv7g&t=50.620000000000005s)]
+*  using obviously its proxies, Hezbollah in Lebanon [[00:00:53](https://www.youtube.com/watch?v=tblBe1llv7g&t=53.46s)]
+*  and Hamas in Gaza. [[00:00:56](https://www.youtube.com/watch?v=tblBe1llv7g&t=56.2s)]
+*  That's how far the regime is apart from where [[00:00:59](https://www.youtube.com/watch?v=tblBe1llv7g&t=59.660000000000004s)]
+*  the Iranian people are. [[00:01:03](https://www.youtube.com/watch?v=tblBe1llv7g&t=63.440000000000005s)]
+*  The most heard slogan on Iranian street [[00:01:05](https://www.youtube.com/watch?v=tblBe1llv7g&t=65.4s)]
+*  has been, neither Gaza, neither Lebanon. [[00:01:07](https://www.youtube.com/watch?v=tblBe1llv7g&t=67.78s)]
+*  My life is sacrificed for Iran. [[00:01:11](https://www.youtube.com/watch?v=tblBe1llv7g&t=71.24000000000001s)]
+*  What does that mean? [[00:01:13](https://www.youtube.com/watch?v=tblBe1llv7g&t=73.72s)]
+*  That means the Iranian people know very well [[00:01:14](https://www.youtube.com/watch?v=tblBe1llv7g&t=74.82000000000001s)]
+*  that what today the regime represents and calls for [[00:01:17](https://www.youtube.com/watch?v=tblBe1llv7g&t=77.18s)]
+*  has nothing to do with their aspiration. [[00:01:19](https://www.youtube.com/watch?v=tblBe1llv7g&t=79.88s)]
+*  The regime, on the other hand, is trying to push the envelope, [[00:01:21](https://www.youtube.com/watch?v=tblBe1llv7g&t=81.96000000000001s)]
+*  trying to see whether they can take advantage of a weakness, [[00:01:24](https://www.youtube.com/watch?v=tblBe1llv7g&t=84.83999999999999s)]
+*  which currently seems to be the case, [[00:01:28](https://www.youtube.com/watch?v=tblBe1llv7g&t=88.02s)]
+*  and that's why they become emboldened every time [[00:01:29](https://www.youtube.com/watch?v=tblBe1llv7g&t=89.91999999999999s)]
+*  the West hesitate or doesn't apply the necessary pressure [[00:01:32](https://www.youtube.com/watch?v=tblBe1llv7g&t=92.66s)]
+*  as it should have to at least contain this. [[00:01:35](https://www.youtube.com/watch?v=tblBe1llv7g&t=95.66s)]
+*  But ultimately, with the idea of putting an end [[00:01:37](https://www.youtube.com/watch?v=tblBe1llv7g&t=97.89999999999999s)]
+*  to the problem by eliminating the regime once and for all. [[00:01:40](https://www.youtube.com/watch?v=tblBe1llv7g&t=100.55999999999999s)]
+*  Otherwise, it would be just kicking the can down the road. [[00:01:43](https://www.youtube.com/watch?v=tblBe1llv7g&t=103.46s)]
+*  Yeah, it looks like that's what they're doing right now. [[00:01:46](https://www.youtube.com/watch?v=tblBe1llv7g&t=106.25999999999999s)]
+*  But our president has been very clear. [[00:01:48](https://www.youtube.com/watch?v=tblBe1llv7g&t=108.69999999999999s)]
+*  He has said, don't. [[00:01:51](https://www.youtube.com/watch?v=tblBe1llv7g&t=111.6s)]
+*  That's all he said is don't. [[00:01:53](https://www.youtube.com/watch?v=tblBe1llv7g&t=113.24000000000001s)]
+*  Shouldn't he say don't or there's going to be hell to pay? [[00:01:55](https://www.youtube.com/watch?v=tblBe1llv7g&t=115.64s)]
+*  Look, I mean, words are words, but action [[00:01:59](https://www.youtube.com/watch?v=tblBe1llv7g&t=119.94000000000001s)]
+*  determine the outcome. [[00:02:02](https://www.youtube.com/watch?v=tblBe1llv7g&t=122.78s)]
+*  Right now, you have a situation where you have encouraged [[00:02:04](https://www.youtube.com/watch?v=tblBe1llv7g&t=124.74000000000001s)]
+*  the regime that if you take hostages, [[00:02:08](https://www.youtube.com/watch?v=tblBe1llv7g&t=128.78s)]
+*  you will be rewarded and get some more cash in your hands. [[00:02:11](https://www.youtube.com/watch?v=tblBe1llv7g&t=131.02s)]
+*  You have called for sanctions, but you have never implemented [[00:02:14](https://www.youtube.com/watch?v=tblBe1llv7g&t=134.16s)]
+*  them, like the old sanctions. [[00:02:17](https://www.youtube.com/watch?v=tblBe1llv7g&t=137.16s)]
+*  That is not what I call putting pressure. [[00:02:18](https://www.youtube.com/watch?v=tblBe1llv7g&t=138.92000000000002s)]
+*  So, you know, be good boys and don't harm us. [[00:02:20](https://www.youtube.com/watch?v=tblBe1llv7g&t=140.98000000000002s)]
+*  Is that the message? [[00:02:24](https://www.youtube.com/watch?v=tblBe1llv7g&t=144.62s)]
+*  Yeah. [[00:02:25](https://www.youtube.com/watch?v=tblBe1llv7g&t=145.66s)]
+*  I mean, come on. [[00:02:26](https://www.youtube.com/watch?v=tblBe1llv7g&t=146.46s)]
+*  Reza, what does the pressure look like? [[00:02:27](https://www.youtube.com/watch?v=tblBe1llv7g&t=147.56s)]
+*  Help the people in the State Department. [[00:02:28](https://www.youtube.com/watch?v=tblBe1llv7g&t=148.72s)]
+*  They need some ideas. [[00:02:30](https://www.youtube.com/watch?v=tblBe1llv7g&t=150.72s)]
+*  Look, I mean, there has been a strategy of maximum support. [[00:02:32](https://www.youtube.com/watch?v=tblBe1llv7g&t=152.70000000000002s)]
+*  And as I say, if it's actually implemented, and by the way, [[00:02:38](https://www.youtube.com/watch?v=tblBe1llv7g&t=158.14000000000001s)]
+*  if your European allies were to also target and designate [[00:02:41](https://www.youtube.com/watch?v=tblBe1llv7g&t=161.44s)]
+*  the IRGC as a terrorist organization, [[00:02:46](https://www.youtube.com/watch?v=tblBe1llv7g&t=166.08s)]
+*  that's additional pressure on the regime [[00:02:49](https://www.youtube.com/watch?v=tblBe1llv7g&t=169.2s)]
+*  and will curtail their efforts even further. [[00:02:51](https://www.youtube.com/watch?v=tblBe1llv7g&t=171.62s)]
+*  But parallel to maximum pressure, [[00:02:54](https://www.youtube.com/watch?v=tblBe1llv7g&t=174.1s)]
+*  there ought to be also a campaign of maximum support. [[00:02:56](https://www.youtube.com/watch?v=tblBe1llv7g&t=176.06s)]
+*  That means empowerment of the Iranian people [[00:02:59](https://www.youtube.com/watch?v=tblBe1llv7g&t=179.29999999999998s)]
+*  to put domestic pressure to force the regime ultimately [[00:03:01](https://www.youtube.com/watch?v=tblBe1llv7g&t=181.54s)]
+*  to paralysis and collapse. [[00:03:04](https://www.youtube.com/watch?v=tblBe1llv7g&t=184.73999999999998s)]
+*  That would mean more technological assistance, [[00:03:06](https://www.youtube.com/watch?v=tblBe1llv7g&t=186.6s)]
+*  funding labor strikes, and what have you. [[00:03:09](https://www.youtube.com/watch?v=tblBe1llv7g&t=189.44s)]
+*  And it has happened before, KCNP, Solidarity Movement [[00:03:11](https://www.youtube.com/watch?v=tblBe1llv7g&t=191.73999999999998s)]
+*  in Poland, for instance, at the end of the Cold War. [[00:03:14](https://www.youtube.com/watch?v=tblBe1llv7g&t=194.82s)]
+*  So Reza, what does the average Iranian in Tehran, [[00:03:17](https://www.youtube.com/watch?v=tblBe1llv7g&t=197.62s)]
+*  as they look at what the regime is doing, what are they thinking? [[00:03:22](https://www.youtube.com/watch?v=tblBe1llv7g&t=202.48s)]
+*  Well, they're thinking that for 44 years, [[00:03:28](https://www.youtube.com/watch?v=tblBe1llv7g&t=208.32s)]
+*  we've been primarily occupied by a group of people who are [[00:03:30](https://www.youtube.com/watch?v=tblBe1llv7g&t=210.62s)]
+*  ideologically not at all interested in the livelihood [[00:03:36](https://www.youtube.com/watch?v=tblBe1llv7g&t=216.36s)]
+*  of our own citizens. [[00:03:40](https://www.youtube.com/watch?v=tblBe1llv7g&t=220.3s)]
+*  They're only interested in exporting an ideology [[00:03:41](https://www.youtube.com/watch?v=tblBe1llv7g&t=221.84s)]
+*  beyond our borders and create a modern day Shiite caliphate [[00:03:44](https://www.youtube.com/watch?v=tblBe1llv7g&t=224.38000000000002s)]
+*  to dominate the region and the rest of the world. [[00:03:48](https://www.youtube.com/watch?v=tblBe1llv7g&t=228.28s)]
+*  They are conducting all these campaigns. [[00:03:51](https://www.youtube.com/watch?v=tblBe1llv7g&t=231.02s)]
+*  They are funding all of these proxies [[00:03:53](https://www.youtube.com/watch?v=tblBe1llv7g&t=233.66000000000003s)]
+*  at the expense of the Iranian people themselves. [[00:03:57](https://www.youtube.com/watch?v=tblBe1llv7g&t=237.20000000000002s)]
+*  So Iranians want liberty. [[00:04:00](https://www.youtube.com/watch?v=tblBe1llv7g&t=240.0s)]
+*  Iranians want freedom. [[00:04:01](https://www.youtube.com/watch?v=tblBe1llv7g&t=241.56s)]
+*  Iranians share the very same values [[00:04:02](https://www.youtube.com/watch?v=tblBe1llv7g&t=242.66000000000003s)]
+*  of citizens in democratic country, [[00:04:05](https://www.youtube.com/watch?v=tblBe1llv7g&t=245.64000000000001s)]
+*  whereas the West and other countries in the world, [[00:04:07](https://www.youtube.com/watch?v=tblBe1llv7g&t=247.9s)]
+*  because we believe in human rights. [[00:04:11](https://www.youtube.com/watch?v=tblBe1llv7g&t=251.04000000000002s)]
+*  We believe in equality. [[00:04:12](https://www.youtube.com/watch?v=tblBe1llv7g&t=252.44s)]
+*  We believe in putting an end to any kind of discrimination, [[00:04:13](https://www.youtube.com/watch?v=tblBe1llv7g&t=253.48s)]
+*  whether for ideological reasons or religious reasons [[00:04:16](https://www.youtube.com/watch?v=tblBe1llv7g&t=256.92s)]
+*  or sexual orientation, something totally different [[00:04:20](https://www.youtube.com/watch?v=tblBe1llv7g&t=260.71999999999997s)]
+*  than what this regime represents. [[00:04:23](https://www.youtube.com/watch?v=tblBe1llv7g&t=263.71999999999997s)]
+*  It does not represent the will and the opinions [[00:04:26](https://www.youtube.com/watch?v=tblBe1llv7g&t=266.06s)]
+*  of my fellow compatriots. [[00:04:30](https://www.youtube.com/watch?v=tblBe1llv7g&t=270.26s)]
+*  But when you look at the regime with these proxy forces [[00:04:32](https://www.youtube.com/watch?v=tblBe1llv7g&t=272.6s)]
+*  firing stuff off at us, do they want a war with the United [[00:04:35](https://www.youtube.com/watch?v=tblBe1llv7g&t=275.74s)]
+*  States because we know who's putting those weapons [[00:04:39](https://www.youtube.com/watch?v=tblBe1llv7g&t=279.84000000000003s)]
+*  in their hands? [[00:04:43](https://www.youtube.com/watch?v=tblBe1llv7g&t=283.2s)]
+*  I mean, look, the regime in Iran has tried to sabotage [[00:04:45](https://www.youtube.com/watch?v=tblBe1llv7g&t=285.1s)]
+*  what could have led to legitimate peace in the region. [[00:04:49](https://www.youtube.com/watch?v=tblBe1llv7g&t=289.68s)]
+*  The forces of evil that are fighting via terror, [[00:04:53](https://www.youtube.com/watch?v=tblBe1llv7g&t=293.78000000000003s)]
+*  whether it's conducted against our own people or Israel [[00:04:58](https://www.youtube.com/watch?v=tblBe1llv7g&t=298.86s)]
+*  or other nations in the region, they are not committed to peace. [[00:05:02](https://www.youtube.com/watch?v=tblBe1llv7g&t=302.72s)]
+*  They do not want peace. [[00:05:06](https://www.youtube.com/watch?v=tblBe1llv7g&t=306.46000000000004s)]
+*  They want peace. [[00:05:07](https://www.youtube.com/watch?v=tblBe1llv7g&t=307.92s)]
+*  And the only way to have peace is to allow for a two-state [[00:05:09](https://www.youtube.com/watch?v=tblBe1llv7g&t=309.02000000000004s)]
+*  solution, but that will only occur at a time that these [[00:05:11](https://www.youtube.com/watch?v=tblBe1llv7g&t=311.06s)]
+*  proxies and everybody who's trying to sabotage the peace [[00:05:14](https://www.youtube.com/watch?v=tblBe1llv7g&t=314.1s)]
+*  process are no longer there. [[00:05:17](https://www.youtube.com/watch?v=tblBe1llv7g&t=317.02000000000004s)]
+*  So you have to eliminate the problem once and for all. [[00:05:18](https://www.youtube.com/watch?v=tblBe1llv7g&t=318.92s)]
+*  You can kill soldiers and Hamas's and al-Qaeda's [[00:05:21](https://www.youtube.com/watch?v=tblBe1llv7g&t=321.8s)]
+*  of this world, but you cannot kill an ideology. [[00:05:25](https://www.youtube.com/watch?v=tblBe1llv7g&t=325.64s)]
+*  You have to ultimately defeat that ideology that breeds such [[00:05:28](https://www.youtube.com/watch?v=tblBe1llv7g&t=328.6s)]
+*  kind of conduct and comportment by some. [[00:05:32](https://www.youtube.com/watch?v=tblBe1llv7g&t=332.6s)]
+*  Indeed. [[00:05:35](https://www.youtube.com/watch?v=tblBe1llv7g&t=335.14s)]
+*  He is the exiled crown prince of Iran, Reza Pahlavi. [[00:05:36](https://www.youtube.com/watch?v=tblBe1llv7g&t=336.24s)]
+*  Sir, thank you very much. [[00:05:40](https://www.youtube.com/watch?v=tblBe1llv7g&t=340.44s)]
+*  A real pleasure talking to you today. [[00:05:41](https://www.youtube.com/watch?v=tblBe1llv7g&t=341.44s)]
+*  Thanks for having me. [[00:05:42](https://www.youtube.com/watch?v=tblBe1llv7g&t=342.84s)]
+*  You bet. [[00:05:43](https://www.youtube.com/watch?v=tblBe1llv7g&t=343.74s)]

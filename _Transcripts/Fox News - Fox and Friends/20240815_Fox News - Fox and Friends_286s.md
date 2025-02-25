@@ -1,0 +1,157 @@
+---
+Date Generated: February 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 286s
+Video Keywords: ['2024 election', 'Fox News', 'Fox News Channel', 'News', 'ainsley earhardt', 'biden economy', 'election', 'election polls', 'fox & friends', 'fox news election poll', 'fox news kamala harris', 'fox news poll', 'kamala harris economy', 'kamala harris polling', 'kamala harris trump', 'katie pavlich', 'polling', 'polls', 'presidential election', 'trump economy', 'trump harris', 'trump kamala harris', 'trump policy', 'us economy', 'kamala harris', 'kamala harris news', 'donald trump', 'kamala harris polls', 'kamala harris policies']
+Video Views: 211970
+Video Rating: None
+Video Description: Fox News contributor Katie Pavlich breaks down new Fox News Polling giving Trump the the advantage with independent voters and on key issues. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/ 
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night 
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Kamala is still losing to Trump: Katie Pavlich
+**Fox News - Fox and Friends:** [August 15, 2024](https://www.youtube.com/watch?v=DeQxmB3DhHA)
+*  A new matchup, but the same result. [[00:00:00](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=0.0s)]
+*  Former President Trump leading Harris by one point [[00:00:02](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=2.2s)]
+*  in this brand new Fox national poll. [[00:00:05](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=5.4s)]
+*  And Trump also, excuse me, Trump also leading Harris [[00:00:08](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=8.24s)]
+*  by eight points amongst independent voters. [[00:00:11](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=11.44s)]
+*  Americans also overwhelmingly turning to the former president [[00:00:14](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=14.48s)]
+*  on these top issues, on the economy, on border security, [[00:00:17](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=17.68s)]
+*  as he's blasting Kamala Harris for embracing Bidenomics. [[00:00:20](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=20.64s)]
+*  Kamala has declared that tackling inflation [[00:00:26](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=26.52s)]
+*  will be a day one priority. [[00:00:29](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=29.44s)]
+*  Just think of it, for her, but day one for Kamala [[00:00:32](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=32.800000000000004s)]
+*  was three and a half years ago. [[00:00:36](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=36.480000000000004s)]
+*  Why hasn't she done it? [[00:00:38](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=38.64s)]
+*  So here with reaction is Fox News contributor, [[00:00:41](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=41.0s)]
+*  Katie Pavlich, hey Katie. [[00:00:42](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=42.92s)]
+*  Good morning. [[00:00:45](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=45.120000000000005s)]
+*  Good morning. Good to see you too. [[00:00:45](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=45.96s)]
+*  Yeah, he makes a good point. [[00:00:47](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=47.64s)]
+*  Everyone's kind of been making this point [[00:00:48](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=48.760000000000005s)]
+*  across the network yesterday. [[00:00:50](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=50.32s)]
+*  She said, I'll fix it on day one. [[00:00:52](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=52.6s)]
+*  And then people are reminding her, [[00:00:54](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=54.120000000000005s)]
+*  no, you've been in office for three and a half years. [[00:00:55](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=55.52s)]
+*  What is her plan to do something different [[00:00:58](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=58.24s)]
+*  than she has already done in the past? [[00:01:00](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=60.4s)]
+*  Yeah, well, when she says that she is willing [[00:01:04](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=64.36s)]
+*  to tackle inflation on day one, [[00:01:06](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=66.16s)]
+*  that's like someone who lights a house on fire [[00:01:07](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=67.96000000000001s)]
+*  and then conveniently calls the fire department [[00:01:09](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=69.84s)]
+*  and wants all of the credit for somehow saving the remnants [[00:01:12](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=72.04s)]
+*  of what they've destroyed. [[00:01:15](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=75.44s)]
+*  Kamala Harris was the last vote [[00:01:17](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=77.28s)]
+*  to get the Inflation Induction Act, [[00:01:19](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=79.72s)]
+*  it's technically called the Inflation Reduction Act, [[00:01:22](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=82.04s)]
+*  over the finish line, which really boosted inflation [[00:01:24](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=84.72000000000001s)]
+*  and caused a lot of damage for Americans across the country. [[00:01:27](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=87.84s)]
+*  And when you look at this polling, [[00:01:31](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=91.12s)]
+*  it's quite interesting to see [[00:01:32](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=92.36000000000001s)]
+*  that with all of the honeymoon talk [[00:01:33](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=93.64000000000001s)]
+*  and all of the favorable coverage of Kamala Harris, [[00:01:35](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=95.64000000000001s)]
+*  she still is losing to Donald Trump. [[00:01:38](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=98.60000000000001s)]
+*  And when it comes to these swing states [[00:01:40](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=100.76s)]
+*  like Michigan, Pennsylvania, Wisconsin, [[00:01:42](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=102.4s)]
+*  the number one issue for people is the economy. [[00:01:44](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=104.92000000000002s)]
+*  And so you're gonna have these battling visions, I guess, [[00:01:47](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=107.60000000000001s)]
+*  if she ever comes out to speak about [[00:01:51](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=111.32000000000001s)]
+*  what her vision will be about how to move [[00:01:52](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=112.80000000000001s)]
+*  the country forward, she's already copied President Trump [[00:01:54](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=114.56s)]
+*  on the no tax on tips issue, [[00:01:56](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=116.96000000000001s)]
+*  but it seems like she's gonna try to run away [[00:01:59](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=119.0s)]
+*  from Bidenomics in a way, but also embrace many [[00:02:00](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=120.84s)]
+*  of the far left policy positions by repackaging it [[00:02:04](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=124.24000000000001s)]
+*  to seem a little more palatable to independent voters [[00:02:07](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=127.68s)]
+*  in these swing states. [[00:02:10](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=130.78s)]
+*  Yeah, you're right. [[00:02:11](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=131.62s)]
+*  She's flip-flopping on a lot of her former voting record. [[00:02:12](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=132.44s)]
+*  Yes, all of them. [[00:02:16](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=136.04s)]
+*  Issues, all of them, you're right. [[00:02:16](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=136.88s)]
+*  And she is copying Donald Trump on the no tax on tips. [[00:02:18](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=138.24s)]
+*  Listen to what he said about that yesterday. [[00:02:21](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=141.8s)]
+*  When Kamala lays out her fake economic plan this week, [[00:02:25](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=145.08s)]
+*  probably will be a copy of my plan [[00:02:28](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=148.72s)]
+*  because basically that's what she does. [[00:02:30](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=150.68s)]
+*  Just remember, she goes to work every morning [[00:02:34](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=154.6s)]
+*  in the West Wing. [[00:02:37](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=157.0s)]
+*  Her desk is 10 steps from the Oval Office. [[00:02:38](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=158.4s)]
+*  She cast the tie-breaking votes [[00:02:41](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=161.36s)]
+*  that gave us record inflation. [[00:02:43](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=163.16s)]
+*  He also, Katie, doesn't wanna attack social security [[00:02:45](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=165.48000000000002s)]
+*  and he called out yesterday how there's a double taxation [[00:02:47](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=167.76s)]
+*  on that, it's not fair to Americans, [[00:02:50](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=170.76s)]
+*  especially people on fixed incomes [[00:02:52](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=172.32s)]
+*  when they're getting those social security checks. [[00:02:53](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=173.8s)]
+*  But he made a joke, he said, [[00:02:55](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=175.76000000000002s)]
+*  there's probably a spy in here [[00:02:56](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=176.84s)]
+*  that's gonna tell Kamala Harris I'm doing that [[00:02:58](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=178.36s)]
+*  and she'll probably copy me on that. [[00:03:00](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=180.16000000000003s)]
+*  What's your reaction on her copying everything [[00:03:01](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=181.84s)]
+*  that he's doing or a lot of what he's doing? [[00:03:04](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=184.72s)]
+*  Well, it's so interesting because if, [[00:03:07](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=187.64000000000001s)]
+*  far left policies that she has held, [[00:03:11](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=191.32000000000002s)]
+*  not only just for over the past four years [[00:03:13](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=193.56s)]
+*  as the vice president to Joe Biden who ran as a moderate, [[00:03:15](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=195.42000000000002s)]
+*  but really has had one of those liberal presidencies [[00:03:18](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=198.56s)]
+*  in modern times. [[00:03:21](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=201.0s)]
+*  But if you look at her record of running in 2019 and 2020, [[00:03:22](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=202.24s)]
+*  if those policies were popular, [[00:03:26](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=206.20000000000002s)]
+*  they would not be running away from them. [[00:03:28](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=208.12s)]
+*  She would be embracing her quote, [[00:03:29](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=209.72s)]
+*  principled stand on all of these issues. [[00:03:31](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=211.92000000000002s)]
+*  Instead, they're running a far away from them [[00:03:34](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=214.04000000000002s)]
+*  because they don't sit well with the American people, [[00:03:36](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=216.24s)]
+*  especially with the voters that she needs, [[00:03:39](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=219.24s)]
+*  independents, people who are still haven't made up their minds [[00:03:41](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=221.8s)]
+*  in these places where they need that [[00:03:44](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=224.68s)]
+*  to get over the finish line [[00:03:46](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=226.20000000000002s)]
+*  in terms of the Electoral College. [[00:03:47](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=227.3s)]
+*  So they're running away from it. [[00:03:49](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=229.08s)]
+*  And so interesting because while she's trying to strike out [[00:03:50](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=230.48s)]
+*  on her own and be her own candidate, [[00:03:54](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=234.76s)]
+*  she's not just the vice president for Joe Biden. [[00:03:57](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=237.32s)]
+*  She's her own woman, [[00:03:59](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=239.48s)]
+*  wants to be the first female president of the United States. [[00:04:00](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=240.67999999999998s)]
+*  She's copying Donald Trump. [[00:04:03](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=243.39999999999998s)]
+*  And the White House really is not letting her [[00:04:04](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=244.72s)]
+*  get away from Bidenomics. [[00:04:06](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=246.51999999999998s)]
+*  If you go to the WhiteHouse.gov [[00:04:08](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=248.0s)]
+*  and you put Bidenomics into the search bar, [[00:04:10](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=250.0s)]
+*  you'll find dozens of posts, press releases [[00:04:12](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=252.73999999999998s)]
+*  that say Biden-Harris administration, [[00:04:16](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=256.64s)]
+*  and nobody should forget that they sent her out [[00:04:19](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=259.24s)]
+*  to do a number of events [[00:04:21](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=261.71999999999997s)]
+*  where she very happily touted Bidenomics. [[00:04:22](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=262.96s)]
+*  And so yesterday they were saying, [[00:04:26](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=266.15999999999997s)]
+*  oh no, she's been a partner with us. [[00:04:28](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=268.03999999999996s)]
+*  So she's trying to walk this line [[00:04:29](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=269.96s)]
+*  where she's endorsed the Biden agenda, [[00:04:31](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=271.32s)]
+*  but somehow is different while also calling [[00:04:33](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=273.59999999999997s)]
+*  for more regulation, [[00:04:35](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=275.44s)]
+*  which will only create more costs for American families. [[00:04:36](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=276.84s)]
+*  Absolutely, absolutely. [[00:04:40](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=280.03999999999996s)]
+*  She can't run away from her record. [[00:04:40](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=280.88s)]
+*  We have it all on tape. [[00:04:41](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=281.86s)]
+*  We have it in her own words. [[00:04:42](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=282.98s)]
+*  Thank you so much, Katie, for coming on. [[00:04:44](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=284.03999999999996s)]
+*  Yep. [[00:04:45](https://www.youtube.com/watch?v=DeQxmB3DhHA&t=285.71999999999997s)]

@@ -1,0 +1,156 @@
+---
+Date Generated: February 24, 2025
+Transcription Model: whisper medium 20231117
+Length: 402s
+Video Keywords: ['Biden', 'Biden Iran', 'Biden Israel', 'Biden foreign policy', 'FOX News', 'Hamas attacks on Israel', 'Hamas terrorist attack on Israel', 'Hammas', 'Iran', 'Iranian leadership', 'Iranian regime', 'Israel', 'Israel Hamas war', 'Joe Biden', 'Martha Maccallum', 'Mike Pompeo', 'The Story', 'fnc', 'terrorism', 'war']
+Video Views: 140871
+Video Rating: None
+Video Description: Former Secretary of State Mike Pompeo argues the U.S. must strike back against Iranian leadership for the killing of nine Americans during the Hamas attacks on Israel. #foxnews #thestory 
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'Threat elimination': Pompeo urges Biden to attack the 'heart of the beast'
+**Fox News - Middle East:** [October 09, 2023](https://www.youtube.com/watch?v=8DfpMraR1U4)
+*  Joining me now, former Secretary of State and CIA Director Mike Pompeo. [[00:00:00](https://www.youtube.com/watch?v=8DfpMraR1U4&t=0.0s)]
+*  Secretary, good to have you with us as always. [[00:00:04](https://www.youtube.com/watch?v=8DfpMraR1U4&t=4.68s)]
+*  You know, I want to start by reading this statement that came out from Saudi Arabia, [[00:00:08](https://www.youtube.com/watch?v=8DfpMraR1U4&t=8.2s)]
+*  and I want to get your thoughts on this. [[00:00:12](https://www.youtube.com/watch?v=8DfpMraR1U4&t=12.88s)]
+*  It says, and this is in reaction to the Hamas attack on the villages outside of Gaza, the [[00:00:16](https://www.youtube.com/watch?v=8DfpMraR1U4&t=16.12s)]
+*  kingdom recalls its repeated warnings of the dangers of the explosion of the situation [[00:00:22](https://www.youtube.com/watch?v=8DfpMraR1U4&t=22.68s)]
+*  as a result of the continued occupation, the deprivation of the Palestinian people of their [[00:00:26](https://www.youtube.com/watch?v=8DfpMraR1U4&t=26.76s)]
+*  legitimate rights, and the repetition of systematic provocations against its sanctities. [[00:00:30](https://www.youtube.com/watch?v=8DfpMraR1U4&t=30.94s)]
+*  The kingdom renews the call for international community to assume its responsibilities and [[00:00:36](https://www.youtube.com/watch?v=8DfpMraR1U4&t=36.52s)]
+*  activate a credible peace process. [[00:00:40](https://www.youtube.com/watch?v=8DfpMraR1U4&t=40.260000000000005s)]
+*  So sir, what do you say about that statement from the Saudis? [[00:00:43](https://www.youtube.com/watch?v=8DfpMraR1U4&t=43.480000000000004s)]
+*  Well, Martha, it's great to be with you. [[00:00:47](https://www.youtube.com/watch?v=8DfpMraR1U4&t=47.36s)]
+*  It's important to recall the context for this. [[00:00:50](https://www.youtube.com/watch?v=8DfpMraR1U4&t=50.72s)]
+*  The context is that the reason that Hamas attacked today with the full support of Iran, [[00:00:52](https://www.youtube.com/watch?v=8DfpMraR1U4&t=52.96s)]
+*  and I am almost certain sitting here with a full green light from Iran, the reason they [[00:00:58](https://www.youtube.com/watch?v=8DfpMraR1U4&t=58.32s)]
+*  did it was because they were feeling like they might be isolated, like the kingdom of [[00:01:02](https://www.youtube.com/watch?v=8DfpMraR1U4&t=62.4s)]
+*  Saudi Arabia was about to recognize the most fundamental right of the Jewish homeland, [[00:01:06](https://www.youtube.com/watch?v=8DfpMraR1U4&t=66.24000000000001s)]
+*  the right of the nation of Israel to exist. [[00:01:10](https://www.youtube.com/watch?v=8DfpMraR1U4&t=70.44s)]
+*  And so I hope that that effort will continue. [[00:01:14](https://www.youtube.com/watch?v=8DfpMraR1U4&t=74.08s)]
+*  I think that the statement that the kingdom of Saudi Arabia put out is consistent with [[00:01:17](https://www.youtube.com/watch?v=8DfpMraR1U4&t=77.04s)]
+*  their longstanding position. [[00:01:21](https://www.youtube.com/watch?v=8DfpMraR1U4&t=81.04s)]
+*  And I am confident that the Iranians fear more than anything else a resolution of this [[00:01:23](https://www.youtube.com/watch?v=8DfpMraR1U4&t=83.24s)]
+*  between Israel and other nations, just like the Abraham Accords built out peace and isolated [[00:01:28](https://www.youtube.com/watch?v=8DfpMraR1U4&t=88.38s)]
+*  Iran. [[00:01:32](https://www.youtube.com/watch?v=8DfpMraR1U4&t=92.64s)]
+*  What caused this to happen was the Iranians feeling like they were about to be cut out [[00:01:33](https://www.youtube.com/watch?v=8DfpMraR1U4&t=93.64s)]
+*  of the Middle East stability and peace and prosperity. [[00:01:39](https://www.youtube.com/watch?v=8DfpMraR1U4&t=99.08s)]
+*  So how do you change that dynamic at this point? [[00:01:42](https://www.youtube.com/watch?v=8DfpMraR1U4&t=102.32s)]
+*  Well, Martha, you start with not giving them $6 billion. [[00:01:48](https://www.youtube.com/watch?v=8DfpMraR1U4&t=108.75999999999999s)]
+*  And you know, I've heard their storyline, they're gaslighting the American people saying [[00:01:52](https://www.youtube.com/watch?v=8DfpMraR1U4&t=112.64s)]
+*  that $6 billion didn't benefit Hamas and Hezbollah, who's now attacking from the north, and the [[00:01:55](https://www.youtube.com/watch?v=8DfpMraR1U4&t=115.52s)]
+*  Palestinians in the West Bank. [[00:02:01](https://www.youtube.com/watch?v=8DfpMraR1U4&t=121.03999999999999s)]
+*  Forget the $6 billion if you want to. [[00:02:03](https://www.youtube.com/watch?v=8DfpMraR1U4&t=123.47999999999999s)]
+*  $20 or $30 billion worth of sanctions failures, that is, they stopped enforcing the very sanctions [[00:02:05](https://www.youtube.com/watch?v=8DfpMraR1U4&t=125.24s)]
+*  that the Trump administration was enforcing, gave $70 billion worth of reserves accessible [[00:02:10](https://www.youtube.com/watch?v=8DfpMraR1U4&t=130.92s)]
+*  to the Iranians. [[00:02:16](https://www.youtube.com/watch?v=8DfpMraR1U4&t=136.78s)]
+*  So, no money, Martha, for the Iranian regime. [[00:02:18](https://www.youtube.com/watch?v=8DfpMraR1U4&t=138.68s)]
+*  And so the way you square this is to continue to put pressure on the primary actor, the [[00:02:20](https://www.youtube.com/watch?v=8DfpMraR1U4&t=140.42s)]
+*  world's largest state sponsor, Tehran. [[00:02:24](https://www.youtube.com/watch?v=8DfpMraR1U4&t=144.46s)]
+*  It's now the case that the Iranians have killed nine Americans. [[00:02:26](https://www.youtube.com/watch?v=8DfpMraR1U4&t=146.7s)]
+*  It requires a response against Iran. [[00:02:30](https://www.youtube.com/watch?v=8DfpMraR1U4&t=150.3s)]
+*  You can't just keep taking out militias and knuckleheads in Iraq. [[00:02:32](https://www.youtube.com/watch?v=8DfpMraR1U4&t=152.46s)]
+*  You have to go at the heart of the beast, and that is the Iranian leadership. [[00:02:36](https://www.youtube.com/watch?v=8DfpMraR1U4&t=156.54s)]
+*  How would you do that? [[00:02:41](https://www.youtube.com/watch?v=8DfpMraR1U4&t=161.3s)]
+*  And how would you coordinate with Israel on that? [[00:02:42](https://www.youtube.com/watch?v=8DfpMraR1U4&t=162.42000000000002s)]
+*  And would you support an Israeli act to take out some of these nuclear facilities? [[00:02:45](https://www.youtube.com/watch?v=8DfpMraR1U4&t=165.35999999999999s)]
+*  Because if they get invaded from the north and from Gaza, they are going to be in existence [[00:02:50](https://www.youtube.com/watch?v=8DfpMraR1U4&t=170.88s)]
+*  peril. [[00:02:58](https://www.youtube.com/watch?v=8DfpMraR1U4&t=178.23999999999998s)]
+*  Yes, Martha, the Israelis will do just fine. [[00:03:01](https://www.youtube.com/watch?v=8DfpMraR1U4&t=181.23999999999998s)]
+*  They'll defend themselves. [[00:03:03](https://www.youtube.com/watch?v=8DfpMraR1U4&t=183.51999999999998s)]
+*  I have great confidence in their capacity to do that. [[00:03:04](https://www.youtube.com/watch?v=8DfpMraR1U4&t=184.51999999999998s)]
+*  The way you do it is you start with the simple things. [[00:03:07](https://www.youtube.com/watch?v=8DfpMraR1U4&t=187.44s)]
+*  You build out a coalition in the region. [[00:03:10](https://www.youtube.com/watch?v=8DfpMraR1U4&t=190.12s)]
+*  You make clear to the Gulf Arab states that we're going to be your friend. [[00:03:12](https://www.youtube.com/watch?v=8DfpMraR1U4&t=192.14s)]
+*  We're going to be your security partner, just like we did in the Trump administration. [[00:03:15](https://www.youtube.com/watch?v=8DfpMraR1U4&t=195.68s)]
+*  You then stop funding them. [[00:03:18](https://www.youtube.com/watch?v=8DfpMraR1U4&t=198.36s)]
+*  You stop giving money to the UNRWA, to the Palestinians. [[00:03:19](https://www.youtube.com/watch?v=8DfpMraR1U4&t=199.84s)]
+*  $230 million within hours of the Trump administration ending went and flowed to these very terrorists [[00:03:22](https://www.youtube.com/watch?v=8DfpMraR1U4&t=202.76s)]
+*  that committed these barbaric acts. [[00:03:28](https://www.youtube.com/watch?v=8DfpMraR1U4&t=208.4s)]
+*  And then you do what we did. [[00:03:31](https://www.youtube.com/watch?v=8DfpMraR1U4&t=211.08s)]
+*  You make very clear. [[00:03:32](https://www.youtube.com/watch?v=8DfpMraR1U4&t=212.58s)]
+*  I spoke directly to Qasem Soleimani and to Ayatollah when I was the CIA director and [[00:03:33](https://www.youtube.com/watch?v=8DfpMraR1U4&t=213.58s)]
+*  secretary of state. [[00:03:38](https://www.youtube.com/watch?v=8DfpMraR1U4&t=218.0s)]
+*  We told them, you come after an American, we're coming not after your proxy forces, [[00:03:39](https://www.youtube.com/watch?v=8DfpMraR1U4&t=219.0s)]
+*  we're coming after the regime. [[00:03:43](https://www.youtube.com/watch?v=8DfpMraR1U4&t=223.07999999999998s)]
+*  We're coming after the leaders who have put this peril for America and for Israel. [[00:03:45](https://www.youtube.com/watch?v=8DfpMraR1U4&t=225.07999999999998s)]
+*  That's what this administration needs to do. [[00:03:50](https://www.youtube.com/watch?v=8DfpMraR1U4&t=230.51999999999998s)]
+*  I hope that they will. [[00:03:52](https://www.youtube.com/watch?v=8DfpMraR1U4&t=232.07999999999998s)]
+*  They've demonstrated again that appeasement with Iran, attempting to sort of balance Middle [[00:03:53](https://www.youtube.com/watch?v=8DfpMraR1U4&t=233.68s)]
+*  Eastern interests, ends up in the murder of nine Americans and hundreds and hundreds [[00:03:58](https://www.youtube.com/watch?v=8DfpMraR1U4&t=238.12s)]
+*  of Israelis. [[00:04:04](https://www.youtube.com/watch?v=8DfpMraR1U4&t=244.35999999999999s)]
+*  What do you expect? [[00:04:05](https://www.youtube.com/watch?v=8DfpMraR1U4&t=245.35999999999999s)]
+*  You know, they put a lid on hearing from the president at 1146 a.m. this morning while [[00:04:06](https://www.youtube.com/watch?v=8DfpMraR1U4&t=246.72s)]
+*  Americans across the country are glued to their televisions watching this war unfold [[00:04:12](https://www.youtube.com/watch?v=8DfpMraR1U4&t=252.56s)]
+*  and hearing about these nine Americans who have been killed. [[00:04:17](https://www.youtube.com/watch?v=8DfpMraR1U4&t=257.76s)]
+*  I hope we don't hear about any more Americans who are dead or in danger. [[00:04:20](https://www.youtube.com/watch?v=8DfpMraR1U4&t=260.56s)]
+*  But what do you think of that lid at 1146? [[00:04:25](https://www.youtube.com/watch?v=8DfpMraR1U4&t=265.56s)]
+*  And what do you expect? [[00:04:28](https://www.youtube.com/watch?v=8DfpMraR1U4&t=268.6s)]
+*  What should we expect to hear from the president? [[00:04:29](https://www.youtube.com/watch?v=8DfpMraR1U4&t=269.6s)]
+*  And how soon? [[00:04:32](https://www.youtube.com/watch?v=8DfpMraR1U4&t=272.14s)]
+*  This is the moment for leadership in America. [[00:04:35](https://www.youtube.com/watch?v=8DfpMraR1U4&t=275.2s)]
+*  And President Biden should be speaking directly to the American people, explaining how [[00:04:38](https://www.youtube.com/watch?v=8DfpMraR1U4&t=278.36s)]
+*  it was the case that we lost 13 Americans in Afghanistan from these same kind of terrorists, [[00:04:42](https://www.youtube.com/watch?v=8DfpMraR1U4&t=282.32s)]
+*  how it's the case that we now have a war in Europe where there are thousands of innocents [[00:04:47](https://www.youtube.com/watch?v=8DfpMraR1U4&t=287.56s)]
+*  being slaughtered, and how today we've got nine Americans who confirmed dead. [[00:04:51](https://www.youtube.com/watch?v=8DfpMraR1U4&t=291.59999999999997s)]
+*  Martha, I think you're right. [[00:04:55](https://www.youtube.com/watch?v=8DfpMraR1U4&t=295.68s)]
+*  I think we're likely to find that there were more. [[00:04:56](https://www.youtube.com/watch?v=8DfpMraR1U4&t=296.68s)]
+*  I think we're likely to find that there are American hostages as well. [[00:04:58](https://www.youtube.com/watch?v=8DfpMraR1U4&t=298.32s)]
+*  The president needs to explain how it is we're going to begin the process of threat elimination. [[00:05:01](https://www.youtube.com/watch?v=8DfpMraR1U4&t=301.64s)]
+*  This is no longer about managing a process. [[00:05:06](https://www.youtube.com/watch?v=8DfpMraR1U4&t=306.36s)]
+*  This is now about threat elimination. [[00:05:08](https://www.youtube.com/watch?v=8DfpMraR1U4&t=308.68s)]
+*  This is existential for the Israeli nation, and it's important to the American people [[00:05:10](https://www.youtube.com/watch?v=8DfpMraR1U4&t=310.18s)]
+*  too. [[00:05:14](https://www.youtube.com/watch?v=8DfpMraR1U4&t=314.1s)]
+*  American leadership is demanded, and the president should be on TV tonight, primetime, telling [[00:05:15](https://www.youtube.com/watch?v=8DfpMraR1U4&t=315.1s)]
+*  him how America is going to do this. [[00:05:19](https://www.youtube.com/watch?v=8DfpMraR1U4&t=319.08s)]
+*  One more for you. [[00:05:20](https://www.youtube.com/watch?v=8DfpMraR1U4&t=320.7s)]
+*  A lot of discussion in some media outlets about Israel, the blockade around Gaza, and [[00:05:21](https://www.youtube.com/watch?v=8DfpMraR1U4&t=321.7s)]
+*  that in many ways they brought this on themselves, according to a lot of people whose voices [[00:05:29](https://www.youtube.com/watch?v=8DfpMraR1U4&t=329.54s)]
+*  are out there. [[00:05:34](https://www.youtube.com/watch?v=8DfpMraR1U4&t=334.92s)]
+*  What do you say to that? [[00:05:35](https://www.youtube.com/watch?v=8DfpMraR1U4&t=335.92s)]
+*  I feel terrible for the Arab citizens who are living in Gaza under the terror of the [[00:05:38](https://www.youtube.com/watch?v=8DfpMraR1U4&t=338.14s)]
+*  Iranian regime themselves. [[00:05:43](https://www.youtube.com/watch?v=8DfpMraR1U4&t=343.5s)]
+*  That is just like the Iranian people having their lives and families destroyed by this [[00:05:45](https://www.youtube.com/watch?v=8DfpMraR1U4&t=345.18s)]
+*  theocratic thug, the Ayatollah. [[00:05:49](https://www.youtube.com/watch?v=8DfpMraR1U4&t=349.74s)]
+*  We should give Israel the capacity, the capability to make sure they can do what they need to [[00:05:53](https://www.youtube.com/watch?v=8DfpMraR1U4&t=353.4s)]
+*  do, and that's eliminate this threat to their own nation. [[00:05:57](https://www.youtube.com/watch?v=8DfpMraR1U4&t=357.7s)]
+*  It's what we would do for America. [[00:06:00](https://www.youtube.com/watch?v=8DfpMraR1U4&t=360.21999999999997s)]
+*  It's what we expect at our southern border. [[00:06:01](https://www.youtube.com/watch?v=8DfpMraR1U4&t=361.91999999999996s)]
+*  Israel's got to do it on its borders, and I'm confident that they will. [[00:06:03](https://www.youtube.com/watch?v=8DfpMraR1U4&t=363.97999999999996s)]
+*  So long as America doesn't, that the president doesn't stare at this, because it's going [[00:06:07](https://www.youtube.com/watch?v=8DfpMraR1U4&t=367.16s)]
+*  to be ugly, Martha. [[00:06:11](https://www.youtube.com/watch?v=8DfpMraR1U4&t=371.36s)]
+*  We're going to see things in the coming days and weeks. [[00:06:12](https://www.youtube.com/watch?v=8DfpMraR1U4&t=372.36s)]
+*  This is going to be a real war. [[00:06:14](https://www.youtube.com/watch?v=8DfpMraR1U4&t=374.44s)]
+*  As long as America doesn't deny Israel the capacity to go do this, I am confident Israel [[00:06:16](https://www.youtube.com/watch?v=8DfpMraR1U4&t=376.20000000000005s)]
+*  can eliminate this threat. [[00:06:20](https://www.youtube.com/watch?v=8DfpMraR1U4&t=380.6s)]
+*  Okay. [[00:06:21](https://www.youtube.com/watch?v=8DfpMraR1U4&t=381.96000000000004s)]
+*  Mike Pompeo, former Secretary of State, former CIA director. [[00:06:22](https://www.youtube.com/watch?v=8DfpMraR1U4&t=382.96000000000004s)]
+*  Sir, always good to have you. [[00:06:25](https://www.youtube.com/watch?v=8DfpMraR1U4&t=385.56s)]
+*  Thank you very much. [[00:06:26](https://www.youtube.com/watch?v=8DfpMraR1U4&t=386.92s)]
+*  Thank you, Martha. [[00:06:27](https://www.youtube.com/watch?v=8DfpMraR1U4&t=387.92s)]
+*  Bless you. [[00:06:28](https://www.youtube.com/watch?v=8DfpMraR1U4&t=388.92s)]
+*  Have a good day. [[00:06:29](https://www.youtube.com/watch?v=8DfpMraR1U4&t=389.92s)]
+*  Hey, Sean Hannity here. [[00:06:30](https://www.youtube.com/watch?v=8DfpMraR1U4&t=390.92s)]
+*  Hey, click here to subscribe to Fox News' YouTube page and catch our hottest interviews [[00:06:31](https://www.youtube.com/watch?v=8DfpMraR1U4&t=391.92s)]
+*  and most compelling analysis. [[00:06:36](https://www.youtube.com/watch?v=8DfpMraR1U4&t=396.24s)]
+*  You will not get it anywhere else. [[00:06:38](https://www.youtube.com/watch?v=8DfpMraR1U4&t=398.24s)]
