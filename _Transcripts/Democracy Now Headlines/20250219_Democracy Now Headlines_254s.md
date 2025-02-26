@@ -1,0 +1,92 @@
+---
+Date Generated: February 24, 2025
+Transcription Model: whisper medium 20231117
+Length: 254s
+Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
+Video Views: 36589
+Video Rating: None
+Video Description: Support our work: https://democracynow.org/donate/sm-desc-yt
+
+Today federal workers nationwide are calling for support for a “Save Our Services Day of Action” mobilizing nationwide in opposition to Elon Musk’s efforts to dismantle government agencies through the so-called Department of Government Efficiency, or DOGE. Workers plan to protest outside of federal buildings and Tesla dealerships to show support for the work of federal agencies. “It’s not just about federal workers,” says Eric Blanc, author and assistant professor of labor studies at Rutgers University. “If they take out the federal unions, that’s our best block right now against Trump’s authoritarian power grab.” This comes as Musk has gained access to the sensitive information of millions of Americans, all the while laying off government workers en masse. The layoffs have affected the FAA, NIH, IRS and more.
+
+Democracy Now! is an independent global news hour that airs on over 1,500 TV and radio stations Monday through Friday. Watch our livestream at democracynow.org Mondays to Fridays 8-9 a.m. ET.
+
+Subscribe to our Daily Email Digest: https://democracynow.org/subscribe
+---
+
+# To Fight the Trump/Musk Purge, Federal Workers Hold Nationwide Day of Action to “Save Our Services”
+**Democracy Now Headlines:** [February 19, 2025](https://www.youtube.com/watch?v=wxtKiQhvRq8)
+*  Democracy depends on a free press. [[00:00:00](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=0.0s)]
+*  Please support our independent journalism at democracynow.org. [[00:00:02](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=2.64s)]
+*  federalgovernmentworkersandunionmembers are holding protests in cities across the country [[00:00:06](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=6.24s)]
+*  on what they're calling the Save Our Services Day of Action. [[00:00:12](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=12.08s)]
+*  For more, we're joined by Eric Blank, professor of labor studies at Rutgers University, author [[00:00:15](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=15.68s)]
+*  of the new book We Are the Union, How a Worker to Worker Organizing is Revitalizing Labor [[00:00:21](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=21.3s)]
+*  and Winning Big. [[00:00:27](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=27.62s)]
+*  He's offering organizing support to today's protests. [[00:00:28](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=28.88s)]
+*  Eric, thanks so much. [[00:00:31](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=31.52s)]
+*  It was great to see you last night as you talked about your exhaustion but exhilaration [[00:00:32](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=32.519999999999996s)]
+*  around these protests. [[00:00:36](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=36.76s)]
+*  You were remembering Jayan Makalevi, the great labor strategist, last night at CUNY. [[00:00:38](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=38.94s)]
+*  But today, talk about what's happening. [[00:00:44](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=44.28s)]
+*  Is it twice a day in cities all over the country, lunch and after work? [[00:00:46](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=46.4s)]
+*  Every major city in the country is going to have a big protest, and the locations and [[00:00:52](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=52.599999999999994s)]
+*  the times differ. [[00:00:57](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=57.64s)]
+*  What I would recommend for anybody who wants to support federal workers and understands [[00:00:59](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=59.760000000000005s)]
+*  the importance of protecting our services against Monk's Coup and power grab is to go [[00:01:03](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=63.46s)]
+*  to the website that we've set up where you can see your local event. [[00:01:08](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=68.66s)]
+*  That's go.workersfiremust.com. [[00:01:11](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=71.60000000000001s)]
+*  So you just go to the website, go.workersfiremust.com, and then you can find your local rally. [[00:01:14](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=74.6s)]
+*  There's noontime and 530 rallies in lots of places, but that's the best place to find [[00:01:18](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=78.92s)]
+*  the information. [[00:01:23](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=83.04s)]
+*  And Eric, what's been the actual number of federal workers already either forced out [[00:01:27](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=87.04s)]
+*  to take voluntary retirement or given layoff notices? [[00:01:31](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=91.88000000000001s)]
+*  I mean, to be honest, everybody's head is spinning. [[00:01:37](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=97.76s)]
+*  We don't even have those numbers yet. [[00:01:40](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=100.72s)]
+*  What we do know is that the stakes couldn't be higher for everybody. [[00:01:42](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=102.60000000000001s)]
+*  And it's not just about federal workers. [[00:01:46](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=106.64000000000001s)]
+*  And that's their message that they're coming out with today, is that the attacks on federal [[00:01:48](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=108.06s)]
+*  workers, they're the canary in the coal mine. [[00:01:51](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=111.52000000000001s)]
+*  If they take out the federal unions, that's our best block right now against Trump's [[00:01:55](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=115.2s)]
+*  authoritarian power grab. [[00:01:58](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=118.04s)]
+*  And if you can destroy the power and resistance of federal workers and their organized efforts, [[00:01:59](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=119.48s)]
+*  then that's going to allow Trump to go after all of the surfaces and decimate all the public [[00:02:03](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=123.56s)]
+*  sector. [[00:02:07](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=127.64s)]
+*  You know, who's going to provide Social Security? [[00:02:08](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=128.64000000000001s)]
+*  Who's going to provide Medicare? [[00:02:09](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=129.64000000000001s)]
+*  Who's going to provide basic health and safety regulations for workers? [[00:02:11](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=131.24s)]
+*  This impacts everybody, and that's the message that workers are getting out there. [[00:02:14](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=134.48000000000002s)]
+*  Eric, all over the country, I mean, the message being put out from the Oval Office is that [[00:02:18](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=138.12s)]
+*  workers are fat. [[00:02:23](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=143.51999999999998s)]
+*  You're the unnecessary fat. [[00:02:24](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=144.51999999999998s)]
+*  They're the corrupt ones. [[00:02:26](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=146.88s)]
+*  They're the ones who are bleeding the budget dry. [[00:02:29](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=149.07999999999998s)]
+*  Can you respond to that as you talk about federal workers as the canary in the coal [[00:02:33](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=153.0s)]
+*  mine? [[00:02:36](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=156.76s)]
+*  I mean, we're seeing it's more than a quarter of a million probationary workers that have [[00:02:37](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=157.76s)]
+*  been fired. [[00:02:42](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=162.72s)]
+*  But probation includes people who have been there for decades who get a promotion, and [[00:02:43](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=163.82s)]
+*  they then go on some kind of probationary period. [[00:02:48](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=168.76s)]
+*  They, too, get fired. [[00:02:51](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=171.56s)]
+*  Yeah. [[00:02:53](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=173.56s)]
+*  Look, the big lie getting put out there right now is that the reason working-class Americans [[00:02:54](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=174.56s)]
+*  are hurting is because of federal employees. [[00:02:58](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=178.60000000000002s)]
+*  And there's just no basis for this. [[00:03:00](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=180.36s)]
+*  Elon Musk, the richest man on earth, has a $412 billion net worth. [[00:03:01](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=181.68s)]
+*  That's more, that's significantly more than the total pay of every federal worker, [[00:03:06](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=186.64000000000001s)]
+*  2.3 million federal workers. [[00:03:10](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=190.88s)]
+*  They get $217 billion per year. [[00:03:12](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=192.52s)]
+*  Musk makes more than all of them combined, almost double. [[00:03:15](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=195.48000000000002s)]
+*  So the idea that what's at the root of people struggling is federal workers rather than [[00:03:18](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=198.12s)]
+*  the billionaires that are taking our country into the ground, it's ludicrous. [[00:03:22](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=202.32000000000002s)]
+*  And I think it's time for people to start speaking out. [[00:03:26](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=206.20000000000002s)]
+*  Well, we want to thank you so much, Eric, for being with us. [[00:03:29](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=209.20000000000002s)]
+*  We'll be out covering those protests in New York City, both at, I think it's, what, [[00:03:33](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=213.64000000000001s)]
+*  1230 or 12 and 530? [[00:03:39](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=219.56s)]
+*  Yeah, so it's going to—in New York City, it will be noon at Foley Square and then 530 [[00:03:42](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=222.08s)]
+*  Foley Square. [[00:03:47](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=227.64s)]
+*  And we're expecting a big turnout, so I hope to see you there. [[00:03:48](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=228.64s)]
+*  Eric Long, professor of Labor Studies at Rutgers University, author of We Are the Union. [[00:03:50](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=230.16s)]
+*  He's organizing, along with federal workers, around the country. [[00:03:55](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=235.4s)]
+*  Thank you so much to our remarkable staff, past and present. [[00:03:59](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=239.51999999999998s)]
+*  I'm Amy Goodman, with Juan González. [[00:04:03](https://www.youtube.com/watch?v=wxtKiQhvRq8&t=243.79999999999998s)]
