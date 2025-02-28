@@ -1,0 +1,157 @@
+---
+Date Generated: February 27, 2025
+Transcription Model: whisper medium 20231117
+Length: 443s
+Video Keywords: ['kamala harris interview', 'kamala harris speech', 'kamala harris interview fox', 'kamala harris concession speech', 'kamala harris snl', 'kamala harris cnn interview', 'kamala harris 60 minutes', 'kamala harris impersonator', 'kamala harris rally', 'kamala harris naacp speech', 'kamala harris oprah', 'kamala harris teleprompter goes out', 'kamala harris dnc speech']
+Video Views: 331066
+Video Rating: None
+Video Description: ‘The Five’ co-hosts discuss how former Vice President Kamala Harris went back to bashing President Donald Trump during her NAACP Image Awards speech and how it reflects Democrats' frustration with the president's momentum.
+
+Subscribe to Fox News! https://bit.ly/2vaBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: http://video.foxnews.com/playlist/longform-the-five/
+Special Report with Bret Baier: http://video.foxnews.com/playlist/longform-special-report/
+Fox News Primetime: https://video.foxnews.com/playlist/on-air-fox-news-primetime/
+Tucker Carlson Tonight: http://video.foxnews.com/playlist/longform-tucker-carlson-tonight/
+Hannity:  http://video.foxnews.com/playlist/longform-hannity/
+The Ingraham Angle: http://video.foxnews.com/playlist/longform-the-ingraham-angle/
+Fox News @ Night: http://video.foxnews.com/playlist/longform-fox-news-night/
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Kamala goes back to her ‘tired, Trump-bashing routine’: Watters
+**Fox News - The Five:** [February 24, 2025](https://www.youtube.com/watch?v=Rndo3mRu_X8)
+*  Democrats refusing to unburden themselves from the losers who got them shellacked at the ballot box. [[00:00:00](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=0.0s)]
+*  Instead, they're doling out participation trophies. [[00:00:05](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=5.3s)]
+*  Kamala Harris receiving the prestigious Chairman's Prize at the NAACP Image Awards [[00:00:08](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=8.2s)]
+*  and going back to her tired Trump-bashing routine. [[00:00:13](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=13.5s)]
+*  Some see the flames on our horizons, the rising waters in our cities, [[00:00:18](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=18.0s)]
+*  the shadows gathering over our democracy, and ask, what do we do now? [[00:00:26](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=26.5s)]
+*  But we know exactly what to do, because we have done it before, and we will do it again. [[00:00:36](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=36.0s)]
+*  But hey, when you've got no message, what else can you do? [[00:00:46](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=46.0s)]
+*  It's no wonder why James Carville is trying to give liberals hope [[00:00:48](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=48.5s)]
+*  that all they have to do is sit back and hope President Trump will implode. [[00:00:51](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=51.5s)]
+*  I believe that this administration, in less than 30 days, in the midst of a massive collapse, [[00:00:57](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=57.5s)]
+*  in particularly a collapse in public opinion, [[00:01:04](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=64.5s)]
+*  it's going to be easy pickings here in six weeks. Just lay back. [[00:01:09](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=69.5s)]
+*  I think the House Democrats, and this is going to shock a lot of people, [[00:01:16](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=76.5s)]
+*  I think they know exactly what they're doing, and they know exactly what's going to happen. [[00:01:19](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=79.5s)]
+*  Do you think that's a good strategy, Jessica, just to sit back and wait for Trump to implode? [[00:01:25](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=85.5s)]
+*  I think it's better than standing outside of the Department of Education singing. [[00:01:31](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=91.5s)]
+*  I think that is a better approach. But they're not just sitting back and waiting. [[00:01:37](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=97.5s)]
+*  They're talking about what's actually going on. They're talking about the Doge Cuts. [[00:01:41](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=101.5s)]
+*  They're steering people towards the Wall Street Journal analysis, which said, [[00:01:45](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=105.5s)]
+*  you've heard these huge numbers, like $55 billion in cuts. It's actually $2.6 billion. [[00:01:49](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=109.5s)]
+*  And guess what? We looked under the hood of those as well. [[00:01:53](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=113.5s)]
+*  And they're doing things like cutting clinical trials for Alzheimer's or the 9-11 health fund. [[00:01:55](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=115.5s)]
+*  Restored. [[00:02:01](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=121.5s)]
+*  Oh, after it was a mistake and then restored? [[00:02:02](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=122.5s)]
+*  Yep. [[00:02:04](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=124.5s)]
+*  Great. So add that to the list of things that Elon Musk could have waited five seconds to do, [[00:02:05](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=125.5s)]
+*  and then we could be in a better place. [[00:02:09](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=129.5s)]
+*  You can't keep making the same point. Yeah, they make mistakes and they fix it. [[00:02:11](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=131.5s)]
+*  Listen to the little lady, Jessica. [[00:02:14](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=134.5s)]
+*  Well, then explain how people are parading around these massive numbers, [[00:02:16](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=136.5s)]
+*  and the numbers are actually a lot smaller. And what really matters in all of this, [[00:02:20](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=140.5s)]
+*  and the Democrats are hammering it, is that in the bill that the Republicans are putting forward, [[00:02:24](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=144.5s)]
+*  there will be $880 billion cut to Medicaid. And you see Republicans all over the country, [[00:02:30](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=150.5s)]
+*  and no, Jesse, these are not plants that are showing up at their town halls. [[00:02:36](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=156.5s)]
+*  I never said that. [[00:02:39](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=159.5s)]
+*  But you were thinking that. [[00:02:41](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=161.5s)]
+*  You were thinking that. [[00:02:42](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=162.5s)]
+*  You have back to it. [[00:02:43](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=163.5s)]
+*  Okay, so I had to do off. [[00:02:44](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=164.5s)]
+*  They were actually people who worked at the CDC in Richmond Cormitt's district. [[00:02:46](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=166.5s)]
+*  Democrats. [[00:02:49](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=169.5s)]
+*  But people are showing up in Oklahoma, in Arkansas, Pennsylvania, Missouri, Wisconsin, [[00:02:50](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=170.5s)]
+*  and they're saying what's going on at Doge is unacceptable, and are you kidding me, [[00:02:56](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=176.5s)]
+*  with these Medicaid cuts? [[00:03:00](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=180.5s)]
+*  Yeah, you guys listen to the voters. [[00:03:01](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=181.5s)]
+*  Trillion-style. [[00:03:02](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=182.5s)]
+*  It's like the first time you listen to the voters, Jessica. [[00:03:03](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=183.5s)]
+*  We are trying. [[00:03:05](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=185.5s)]
+*  So is Jessica saying that we're not cutting enough? That's the argument? [[00:03:06](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=186.5s)]
+*  I think what she's saying is that we should really just cut, like, maybe double it. [[00:03:11](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=191.5s)]
+*  Jessica's not saying that at all. [[00:03:17](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=197.5s)]
+*  Jessica's not saying that. [[00:03:18](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=198.5s)]
+*  Here's the other thing that's happening, is that if you look at the people who are out there [[00:03:19](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=199.5s)]
+*  communicating for the Democrats, James Carville's on TV a lot, and a lot of us might say, [[00:03:25](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=205.5s)]
+*  well, at least he was the one saying, Democrats, you're losing the working class. [[00:03:29](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=209.5s)]
+*  Democrats, you're losing men. [[00:03:32](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=212.5s)]
+*  But also, he wrote an op-ed saying that Kamala Harris was going to win by a landslide, okay? [[00:03:34](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=214.5s)]
+*  So when he says the Trump administration is going to implode in 30 days, [[00:03:39](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=219.5s)]
+*  I think we can take that for what it's worth. [[00:03:45](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=225.5s)]
+*  Also, this past weekend, the New York Times has this huge profile about Senator Chris Murphy [[00:03:48](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=228.5s)]
+*  saying he's such a breakthrough, and he's so refreshing, and he's so great. [[00:03:54](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=234.5s)]
+*  The guy acts like the election never happened. [[00:03:59](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=239.5s)]
+*  He's still talking about Hitler and the constitutional crisis, [[00:04:01](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=241.5s)]
+*  and that Republicans only love billionaires, and that they're racists and fascists, [[00:04:04](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=244.5s)]
+*  and it's obviously not what happened, and they are spiraling in this case. [[00:04:08](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=248.5s)]
+*  Greg, were you surprised that you didn't receive the NAACP image award? [[00:04:14](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=254.5s)]
+*  I've done so much work. [[00:04:18](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=258.5s)]
+*  You have? [[00:04:19](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=259.5s)]
+*  You know why Doug Emhoff was at the NAACP? [[00:04:20](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=260.5s)]
+*  He thought the N stood for nanny. [[00:04:22](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=262.5s)]
+*  But Carville is right. [[00:04:25](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=265.5s)]
+*  It's the best strategy. [[00:04:28](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=268.5s)]
+*  I hope the Democrats don't listen and they embarrass themselves continuously, [[00:04:29](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=269.5s)]
+*  because who's more likely to get hit by a car? [[00:04:33](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=273.5s)]
+*  Some guy sitting on the couch eating popcorn or a guy going outside to run. [[00:04:36](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=276.5s)]
+*  Guy running. [[00:04:41](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=281.5s)]
+*  So the Republicans are in power. [[00:04:42](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=282.5s)]
+*  They're out there. [[00:04:43](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=283.5s)]
+*  They're actually playing in traffic. [[00:04:44](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=284.5s)]
+*  So sooner or later, something's going to happen. [[00:04:46](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=286.5s)]
+*  It's just the odds are something will happen. [[00:04:48](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=288.5s)]
+*  It might be a catastrophe. [[00:04:50](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=290.5s)]
+*  It might not. [[00:04:52](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=292.5s)]
+*  The Dems just have to sit back and hope that their pathetic nature draws less attention [[00:04:53](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=293.5s)]
+*  and hope, upon hope, that the Republicans run into something ugly. [[00:04:59](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=299.5s)]
+*  What's great about Trump is he knows this and he doesn't care. [[00:05:03](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=303.5s)]
+*  He's still willing to take the risks. [[00:05:06](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=306.5s)]
+*  He takes lots of risks every day. [[00:05:08](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=308.5s)]
+*  And what Carville is saying is that you kind of have, if you're rooting for something to [[00:05:10](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=310.5s)]
+*  befall Trump, you're also saying it about America, because his success and America's [[00:05:16](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=316.5s)]
+*  success are intertwined. [[00:05:21](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=321.5s)]
+*  As a populist who believes America first, America's priorities are in line with his. [[00:05:22](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=322.5s)]
+*  So if you want him to suffer, you're going to want America to suffer too. [[00:05:27](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=327.5s)]
+*  And that makes you an anti-American commie pig. [[00:05:30](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=330.5s)]
+*  Does that make them an anti-American commie pig? [[00:05:33](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=333.5s)]
+*  The spending does. [[00:05:36](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=336.5s)]
+*  The spending is absolutely communistic. [[00:05:37](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=337.5s)]
+*  The idea of redistribution, which Bernie Sanders has been pushing for decades. [[00:05:39](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=339.5s)]
+*  Bernie Sanders became one of the elites. [[00:05:45](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=345.5s)]
+*  It's the elites in the party and the establishment that allowed them to go forward with this [[00:05:48](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=348.5s)]
+*  anti-Trump Trump is Hitler narrative, which was devoid of ideas. [[00:05:54](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=354.5s)]
+*  And now they're stuck. [[00:05:59](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=359.5s)]
+*  They don't have any leader. [[00:06:01](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=361.5s)]
+*  Like they kind of had Biden and then he fell apart. [[00:06:02](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=362.5s)]
+*  So they kind of had Kamala, but they couldn't really get behind her because they knew she [[00:06:05](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=365.5s)]
+*  was incompetent. [[00:06:08](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=368.5s)]
+*  It was Obama pulling the strings. [[00:06:09](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=369.5s)]
+*  And even now with his billion dollar library, they can't even call it that because it's [[00:06:11](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=371.5s)]
+*  too big. [[00:06:16](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=376.5s)]
+*  He can't get donors for his big, dumb, ugly library because he no longer has juice inside [[00:06:17](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=377.5s)]
+*  or outside of the party. [[00:06:23](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=383.5s)]
+*  So with the Obamas waning and Biden on political death store, I don't know what they have left. [[00:06:25](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=385.5s)]
+*  What you should have left is a series of ideas that will appeal to the working class that [[00:06:33](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=393.5s)]
+*  they lost, but they will not pivot to that. [[00:06:38](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=398.5s)]
+*  Instead, they're sticking with this anti-Trump narrative that it goes to anti-Elon. [[00:06:41](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=401.5s)]
+*  None of it is going to work. [[00:06:46](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=406.5s)]
+*  And I know people are very optimistic in the Democrat Party about the midterms in 2026. [[00:06:48](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=408.5s)]
+*  At this point, you better start getting it together because their entire coalition has [[00:06:54](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=414.5s)]
+*  been left behind because they turn their backs on them. [[00:06:59](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=419.5s)]
+*  They turn their backs on them. [[00:07:01](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=421.5s)]
+*  They turn their backs on them. [[00:07:03](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=423.5s)]
+*  Get it together. [[00:07:04](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=424.5s)]
+*  Still available. [[00:07:05](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=425.5s)]
+*  Still available where books are sold. [[00:07:06](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=426.5s)]
+*  Thank you. [[00:07:18](https://www.youtube.com/watch?v=Rndo3mRu_X8&t=438.5s)]

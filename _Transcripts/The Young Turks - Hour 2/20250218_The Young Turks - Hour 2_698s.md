@@ -1,0 +1,462 @@
+---
+Date Generated: February 28, 2025
+Transcription Model: whisper medium 20231117
+Length: 698s
+Video Keywords: ['250218__TB02Weiss', 'News', 'Politics', 'TYT', 'The Young Turks', 'Cenk Uygur', 'Progressive', 'TYT Network', 'Ana Kasparian', 'political establishment', 'John Iadarola', 'Breaking News', 'Donald Trump', 'Trump', '2022 election', '2024 election', '2024', 'Rebel HQ', 'Kamala Harris', 'Kamala Harris Donald Trump', 'Joe Biden', 'Election', 'bari weiss', 'bari weiss peter thiel', 'bari weiss douglas murray', 'the free press']
+Video Views: 27547
+Video Rating: None
+Video Description: Bari Weiss says the far-right will lead to the downfall of the Republican party. Ana Kasparian and Cenk Uygur discuss on The Young Turks. Do you agree with TYT's take? Tell us what you think in the comments below. SUBSCRIBE today: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+
+Help support our mission and get perks https://www.youtube.com/TheYoungTurks/join
+
+0:00 Bari Weiss slams the far-right for corrupting conservatism
+2:00 Ana corrects Bari Weiss
+3:30 Different Republican camps 
+6:00 Weiss takes shots at Tucker Carlson
+6:50 Cenk calls out Bari's real intentions
+9:00 Cenk tells Bari Weiss to shup up
+10:00 Audience poll
+
+Your Support is Crucial to the Show: https://go.tyt.com/jointoday
+
+Read more HERE:  https://www.mediaite.com/news/bari-weiss-torches-tucker-carlson-and-the-far-right-for-erasing-the-line-between-good-and-evil/
+
+"Bari Weiss, the former New York Times editor and founder of The Free Press, fired a shot across the bow of Tucker Carlson and the far-right more generally on Monday."*
+
+*** 
+
+Watch TYT LIVE on weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live
+
+The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. 
+
+Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: ▶ https://www.youtube.com/TheYoungTurks/join
+
+The Young Turks are fearless in talking about the issues that matter. We are a rare show that combines all of the news that people care about in one place. We cover politics, entertainment, sports, and pop culture; all through a progressive lens.
+
+What does it mean to be a “Young Turk?”
+
+According to the American Heritage Dictionary;
+1. Young progressive or insurgent member of an institution, movement, or political party. 
+2. Young person who rebels against authority or societal expectations.
+
+"Sharp-witted, persuasive, and inspiring, calling out toxic Republicans, politely-ineffectual Democrats, and mealy-mouthed media mavens in equal measure, JUSTICE IS COMING will give heart to Democrats and progressives who seek to change our politics and society for the better.
+
+The media can’t stop talking about the gridlock in Washington, as if a handful of stubborn Republicans are the only thing standing between us and a fully-functional democracy. The reality is that our government has been taken over by big business and their allies in both political parties. The getaway driver in this heist was corporate media. The good news is that the American people are very progressive. And soon progressives will take over Washington as well! And when they do, the great majority of Americans will love it.
+
+In JUSTICE IS COMING: How Progressives Are Going to Take Over the Country and America Is Going to Love It (On sale: September 19, 2023), The Young Turks founder Cenk Uygur presents two ideas that counter everything we hear from pundits and politicians on a daily basis: one, progressives are correct on all issues, and two, America is actually a very progressive country. Millions of us know that we are a part of something larger, a movement that is already transforming Washington.
+
+JUSTICE IS COMING, a compulsively readable manifesto, seeks to apply the momentum progressives have already built to a concrete progressive agenda that activists, voters, and citizens can all rally around. JUSTICE IS COMING looks beyond Trump to the larger historical forces that have given us this unique political moment, and explains why we should fight, how we should fight, and how we will win."
+
+https://www.kirkusreviews.com/book-reviews/cenk-uygur/justice-is-coming/
+
+SUBSCRIBE on YOUTUBE: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+FACEBOOK: ☞ http://www.facebook.com/TheYoungTurks
+TWITTER: ☞ http://www.twitter.com/TheYoungTurks
+INSTAGRAM: ☞ http://www.instagram.com/TheYoungTurks
+TWITCH: ☞ http://www.twitch.com/tyt
+
+👕 Merch: http://shoptyt.com
+
+❤ Donate: http://www.tyt.com/go
+
+🔗 Website: https://www.tyt.com
+
+📱App: http://www.tyt.com/app
+
+📬 Newsletters: https://www.tyt.com/newsletters/
+
+
+If you want to watch more videos from TYT, consider subscribing to other channels in our network:
+
+The Watchlist https://www.youtube.com/watchlisttyt
+
+Indisputable with Dr. Rashad Richey https://www.youtube.com/indisputabletyt
+
+The Damage Report ▶ https://www.youtube.com/thedamagereport
+
+TYT Sports ▶ https://www.youtube.com/tytsports
+
+The Conversation ▶ https://www.youtube.com/tytconversation
+
+Rebel HQ ▶ https://www.youtube.com/rebelhq
+
+TYT Investigates ▶ https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA
+
+
+#TYT #politics  #news 
+
+250218__TB02Weiss
+---
+
+# Bari Weiss Takes Shots At Tucker Carlson
+**The Young Turks - Hour 2:** [February 18, 2025](https://www.youtube.com/watch?v=-Mm1pmQnTNU)
+*  If a political movement does not [[00:00:00](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=0.0s)]
+*  police its ranks, [[00:00:02](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=2.5s)]
+*  does not draw lines. [[00:00:04](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=4.08s)]
+*  If a political movement neglects to [[00:00:06](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=6.62s)]
+*  protect its borders, if it does not [[00:00:09](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=9.06s)]
+*  defend its sacred values, [[00:00:11](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=11.48s)]
+*  it cannot long endure. [[00:00:13](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=13.42s)]
+*  We may wind up spending the next few [[00:00:15](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=15.72s)]
+*  years watching the same story we [[00:00:17](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=17.92s)]
+*  just lived through on the other [[00:00:19](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=19.92s)]
+*  side as the far right and [[00:00:21](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=21.72s)]
+*  not the way cable defines it, [[00:00:23](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=23.1s)]
+*  which includes almost everyone in [[00:00:24](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=24.8s)]
+*  this room today. [[00:00:26](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=26.84s)]
+*  But as the real far right devours [[00:00:27](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=27.92s)]
+*  what remains of the center right. [[00:00:29](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=29.92s)]
+*  That was the founder of [[00:00:33](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=33.760000000000005s)]
+*  the free press, Barry Weiss, [[00:00:35](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=35.36s)]
+*  who decided to go after what she [[00:00:37](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=37.7s)]
+*  dubbed the far right. [[00:00:40](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=40.1s)]
+*  And she also stated that it could [[00:00:42](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=42.1s)]
+*  corrupt the entirety of the [[00:00:44](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=44.42s)]
+*  conservative movement if left [[00:00:46](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=46.42s)]
+*  unchecked. [[00:00:48](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=48.72s)]
+*  So Weiss did take some not so [[00:00:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=50.0s)]
+*  subtle shots at specific individuals, [[00:00:51](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=51.74s)]
+*  namely Tucker Carlson in particular. [[00:00:54](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=54.260000000000005s)]
+*  So we'll get to him in just [[00:00:57](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=57.08s)]
+*  a minute. [[00:00:58](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=58.34s)]
+*  But first, let's hear a little more [[00:00:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=59.0s)]
+*  of Weiss's thoughts on the far [[00:01:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=61.68s)]
+*  right overall. [[00:01:03](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=63.760000000000005s)]
+*  This group says that we're in a war, [[00:01:06](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=66.16s)]
+*  a war here at home. [[00:01:08](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=68.84s)]
+*  And that because we're at war, [[00:01:11](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=71.16s)]
+*  because the stakes are life and [[00:01:13](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=73.16s)]
+*  death, the normal rules of the game [[00:01:15](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=75.2s)]
+*  need to be suspended. [[00:01:17](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=77.36s)]
+*  They say that those who don't go [[00:01:19](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=79.44s)]
+*  along with that are squishes or [[00:01:21](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=81.44s)]
+*  traitors or they were secret leftists [[00:01:23](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=83.36s)]
+*  all along. [[00:01:25](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=85.76s)]
+*  Or they accuse them of being [[00:01:26](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=86.8s)]
+*  conservative or Republican in name [[00:01:28](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=88.68s)]
+*  only, which is a version of [[00:01:30](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=90.92s)]
+*  the false consciousness that [[00:01:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=92.6s)]
+*  Marxists are so fond of telling [[00:01:34](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=94.56s)]
+*  people that they suffer from. [[00:01:36](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=96.54s)]
+*  They say it's not enough to return [[00:01:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=99.12s)]
+*  to normal or renew our old values, [[00:01:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=101.12s)]
+*  because that's not an option. [[00:01:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=103.2s)]
+*  Instead, what they say is that it's [[00:01:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=105.56s)]
+*  time to give the other side a taste [[00:01:47](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=107.6s)]
+*  of their own medicine. [[00:01:49](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=109.48s)]
+*  They say we were treated cruelly, [[00:01:51](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=111.48s)]
+*  and so cruelty is the only response. [[00:01:53](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=113.84s)]
+*  I have to correct one small thing. [[00:01:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=119.12s)]
+*  And look, a lot of people make [[00:02:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=121.0s)]
+*  this argument, [[00:02:02](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=122.92s)]
+*  it's not founded in reality. [[00:02:04](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=124.16s)]
+*  There's a lot of people running [[00:02:07](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=127.4s)]
+*  around online who like to call [[00:02:09](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=129.36s)]
+*  themselves Marxists, and [[00:02:11](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=131.08s)]
+*  they're not Marxists, [[00:02:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=132.68s)]
+*  they're radical liberals. [[00:02:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=134.0s)]
+*  There are five, I could count them [[00:02:15](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=135.68s)]
+*  on my hand, Marxists in the country. [[00:02:17](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=137.88s)]
+*  I know them personally. [[00:02:20](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=140.4s)]
+*  None of them subscribe to the rad [[00:02:22](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=142.0s)]
+*  lib doctrine of hall monitoring, [[00:02:25](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=145.04s)]
+*  and speech policing, or [[00:02:28](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=148.96s)]
+*  any of that stuff. [[00:02:30](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=150.6s)]
+*  So I just want to make that quick [[00:02:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=152.16s)]
+*  correction. [[00:02:33](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=153.72s)]
+*  But she's making this argument, [[00:02:34](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=154.28s)]
+*  Cenk, about how the Democratic [[00:02:36](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=156.68s)]
+*  Party has really suffered as [[00:02:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=159.04s)]
+*  a result of their failure in [[00:02:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=161.12s)]
+*  getting control of some of the more [[00:02:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=163.28s)]
+*  excessive, I guess the excesses of [[00:02:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=165.88s)]
+*  the radical liberals. [[00:02:49](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=169.04s)]
+*  But can you make that same parallel [[00:02:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=170.92000000000002s)]
+*  with the conservatives? [[00:02:53](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=173.72s)]
+*  Yeah, so look, I think that this is [[00:02:58](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=178.76s)]
+*  complicated, and she's about to [[00:03:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=181.6s)]
+*  take on Tucker Carlson, and [[00:03:04](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=184.4s)]
+*  I'll probably agree with Tucker on [[00:03:06](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=186.64s)]
+*  some of it. [[00:03:09](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=189.28s)]
+*  And there's a code word that she [[00:03:10](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=190.28s)]
+*  used there, it seems benign, [[00:03:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=192.36s)]
+*  American values, and [[00:03:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=194.6s)]
+*  she'll talk about Western values. [[00:03:16](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=196.16s)]
+*  It's not benign. [[00:03:18](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=198.44s)]
+*  If she really meant it, then it [[00:03:20](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=200.08s)]
+*  would be perfectly great, but [[00:03:21](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=201.64s)]
+*  I'll tell you what it actually [[00:03:23](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=203.12s)]
+*  means in a minute. [[00:03:24](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=204.52s)]
+*  But when she distinguishes between [[00:03:25](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=205.76000000000002s)]
+*  the far right and the center right, [[00:03:28](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=208.04000000000002s)]
+*  I appreciate that. [[00:03:30](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=210.44s)]
+*  I think that that makes sense, [[00:03:31](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=211.88s)]
+*  because not everyone on the right [[00:03:33](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=213.52s)]
+*  is the same. [[00:03:35](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=215.36s)]
+*  And in fact, [[00:03:36](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=216.16s)]
+*  I draw another distinction. [[00:03:36](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=216.84s)]
+*  Then there's the moderates and [[00:03:38](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=218.64000000000001s)]
+*  the independents that voted for [[00:03:40](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=220.04000000000002s)]
+*  Donald Trump, who just hate [[00:03:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=221.48000000000002s)]
+*  the establishment, and [[00:03:42](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=222.76000000000002s)]
+*  he seemed less establishment. [[00:03:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=223.84s)]
+*  I don't even think they're right [[00:03:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=225.76000000000002s)]
+*  wing at all, so that portion, [[00:03:47](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=227.20000000000002s)]
+*  right? [[00:03:48](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=228.64000000000001s)]
+*  So it's a big spectrum, and [[00:03:49](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=229.20000000000002s)]
+*  there are different parts of [[00:03:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=230.48000000000002s)]
+*  the spectrum. [[00:03:51](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=231.84s)]
+*  And so, and of course, [[00:03:52](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=232.64000000000001s)]
+*  I've talked about the far left, [[00:03:53](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=233.88s)]
+*  versus the center left, [[00:03:55](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=235.64s)]
+*  or populist left. [[00:03:56](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=236.88s)]
+*  And everybody catches feelings over [[00:03:58](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=238.67999999999998s)]
+*  it, and why? [[00:04:00](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=240.67999999999998s)]
+*  Because both the far right and [[00:04:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=241.76s)]
+*  the far left are incentivized to [[00:04:03](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=243.67999999999998s)]
+*  pretend that all of the voters on [[00:04:05](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=245.76s)]
+*  their side agree with them. [[00:04:07](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=247.92s)]
+*  No one actually elected them to [[00:04:10](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=250.76s)]
+*  those positions. [[00:04:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=252.16s)]
+*  No one actually voted that way. [[00:04:13](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=253.0s)]
+*  In fact, when we do vote, [[00:04:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=254.23999999999998s)]
+*  they almost always get annihilated, [[00:04:15](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=255.72s)]
+*  both the far right and [[00:04:17](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=257.76s)]
+*  the far left. [[00:04:18](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=258.8s)]
+*  But they say, no, we are the kings [[00:04:19](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=259.8s)]
+*  and queens of what is left and [[00:04:22](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=262.12s)]
+*  what is right. [[00:04:24](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=264.15999999999997s)]
+*  So the fact that she's pushing back [[00:04:25](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=265.5s)]
+*  against that on the right, [[00:04:27](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=267.29999999999995s)]
+*  I think is terrific. [[00:04:28](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=268.7s)]
+*  I think the other thing that she's [[00:04:29](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=269.9s)]
+*  pushing back against that's [[00:04:31](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=271.53999999999996s)]
+*  terrific, is this idea of violating [[00:04:33](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=273.14s)]
+*  the normal rules and laws of [[00:04:35](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=275.09999999999997s)]
+*  America. [[00:04:36](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=276.73999999999995s)]
+*  No, we should follow the laws of [[00:04:37](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=277.85999999999996s)]
+*  America. [[00:04:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=279.5s)]
+*  And that is, shouldn't be a right [[00:04:40](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=280.26s)]
+*  wing or a left wing position, but [[00:04:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=281.94s)]
+*  certainly that used to be [[00:04:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=283.62s)]
+*  a right wing position, rule of law, [[00:04:44](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=284.85999999999996s)]
+*  right, at least a talking point. [[00:04:46](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=286.78s)]
+*  So, and she's right when she points [[00:04:48](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=288.78s)]
+*  out to the far right, makes excuses [[00:04:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=290.74s)]
+*  for Donald Trump saying, [[00:04:52](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=292.94s)]
+*  potentially ignore the courts and [[00:04:55](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=295.29999999999995s)]
+*  then that he's above the law. [[00:04:57](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=297.14s)]
+*  Well, they did it, they did it. [[00:04:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=299.02s)]
+*  That's the most common excuse I [[00:05:00](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=300.17999999999995s)]
+*  hear. [[00:05:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=301.85999999999996s)]
+*  Well, if they did it and [[00:05:02](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=302.53999999999996s)]
+*  they're so evil, [[00:05:03](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=303.78s)]
+*  what does that make you when you do [[00:05:04](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=304.73999999999995s)]
+*  it? [[00:05:06](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=306.78s)]
+*  So that is not a principled way to [[00:05:08](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=308.02s)]
+*  act and I appreciate that. [[00:05:09](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=309.62s)]
+*  Yes, later I'm going to disagree [[00:05:10](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=310.9s)]
+*  with her. [[00:05:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=312.21999999999997s)]
+*  So look, Weiss is covering a lot of [[00:05:13](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=313.9s)]
+*  ground there, but she could at [[00:05:15](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=315.97999999999996s)]
+*  least in part be alluding to this [[00:05:17](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=317.97999999999996s)]
+*  post by President Donald Trump, [[00:05:20](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=320.14s)]
+*  which she quoted. [[00:05:22](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=322.58s)]
+*  So he had said, he who serves his [[00:05:23](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=323.98s)]
+*  country does not violate any law. [[00:05:26](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=326.58s)]
+*  Barry Weiss disagrees, [[00:05:29](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=329.58s)]
+*  I disagree with that as well. [[00:05:30](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=330.98s)]
+*  I mean, it depends on what the dear [[00:05:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=332.74s)]
+*  leader is up to and if he is [[00:05:35](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=335.42s)]
+*  violating things like [[00:05:37](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=337.54s)]
+*  constitutional rights and [[00:05:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=339.14s)]
+*  the rule of law, then yeah, [[00:05:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=341.02s)]
+*  that's a problem. [[00:05:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=343.21999999999997s)]
+*  And look, the argument that he's [[00:05:44](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=344.54s)]
+*  making there is this ridiculous [[00:05:46](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=346.3s)]
+*  argument of how the means don't [[00:05:48](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=348.1s)]
+*  have to judge the law, [[00:05:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=350.14s)]
+*  the means don't have to justify [[00:05:51](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=351.42s)]
+*  the ends, but [[00:05:53](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=353.38s)]
+*  I disagree with that entirely. [[00:05:54](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=354.3s)]
+*  I think the means do have to [[00:05:56](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=356.06s)]
+*  justify the ends. [[00:05:58](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=358.06s)]
+*  And the idea of by any act [[00:05:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=359.42s)]
+*  necessary to get what you want, [[00:06:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=361.62s)]
+*  that's unacceptable. [[00:06:04](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=364.5s)]
+*  You have to follow the law and [[00:06:07](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=367.42s)]
+*  you have to keep constitutional [[00:06:08](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=368.86s)]
+*  rights in mind. [[00:06:10](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=370.46s)]
+*  And so I agree with [[00:06:11](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=371.46s)]
+*  Barry Weiss on this. [[00:06:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=372.3s)]
+*  Now, she went on to criticize [[00:06:13](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=373.06s)]
+*  Tucker Carlson in her speech, [[00:06:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=374.46s)]
+*  let's give that a watch. [[00:06:15](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=375.98s)]
+*  Just as the left defaced and [[00:06:18](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=378.06s)]
+*  desecrated statues of Churchill, [[00:06:20](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=380.18s)]
+*  the vandals on the right desecrate [[00:06:22](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=382.98s)]
+*  his name and his memory. [[00:06:25](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=385.62s)]
+*  While the left long sympathetic [[00:06:27](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=387.34000000000003s)]
+*  with Stalin, today sympathizes with [[00:06:29](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=389.78000000000003s)]
+*  modern day Nazis in the form of [[00:06:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=392.46000000000004s)]
+*  Hamas, the new right eulogizes [[00:06:34](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=394.70000000000005s)]
+*  the original ones. [[00:06:37](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=397.1s)]
+*  And in rehabilitating Hitler, and [[00:06:38](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=398.74s)]
+*  I'm not exaggerating, [[00:06:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=401.14000000000004s)]
+*  they don't just demonize Jews, but [[00:06:42](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=402.82000000000005s)]
+*  they demonize the West itself. [[00:06:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=405.22s)]
+*  I'm going to let you take this one, [[00:06:47](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=407.42s)]
+*  Cenk. [[00:06:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=410.06s)]
+*  Yeah, there we go. [[00:06:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=410.94000000000005s)]
+*  When they demonize it, [[00:06:52](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=412.66s)]
+*  poor victim Israel, [[00:06:54](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=414.62s)]
+*  they demonize all of the West. [[00:06:56](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=416.5s)]
+*  So you in Kansas, even though it [[00:06:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=419.78000000000003s)]
+*  looks like you giving $300 billion [[00:07:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=421.5s)]
+*  to Israel is a giant waste of your [[00:07:03](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=423.66s)]
+*  money, no, Israel is the bulk of [[00:07:05](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=425.74s)]
+*  Western values. [[00:07:08](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=428.18s)]
+*  The West loves to commit genocide [[00:07:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=432.42s)]
+*  and ethnic cleansing. [[00:07:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=434.58000000000004s)]
+*  And if anyone doesn't voluntarily [[00:07:16](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=436.42s)]
+*  give up their land to Israel, [[00:07:18](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=438.66s)]
+*  the West values is to slaughter [[00:07:20](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=440.58000000000004s)]
+*  them endlessly. [[00:07:22](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=442.62s)]
+*  Wait, you got a little derailed [[00:07:24](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=444.74s)]
+*  there, Barry. [[00:07:26](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=446.34000000000003s)]
+*  That doesn't have anything to do [[00:07:27](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=447.74s)]
+*  with what you were talking about [[00:07:28](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=448.78000000000003s)]
+*  before, which I liked. [[00:07:29](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=449.98s)]
+*  So I knew she was going to go [[00:07:31](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=451.22s)]
+*  there when she started using [[00:07:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=452.5s)]
+*  the word values. [[00:07:33](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=453.70000000000005s)]
+*  Because American values then [[00:07:34](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=454.94s)]
+*  morph into Western values. [[00:07:36](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=456.3s)]
+*  And the trick of the Israeli [[00:07:38](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=458.18s)]
+*  supporters is the West is [[00:07:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=459.82000000000005s)]
+*  comprised of America and Israel. [[00:07:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=461.42s)]
+*  That's it. [[00:07:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=463.70000000000005s)]
+*  Maybe a little bit of Europe, but [[00:07:44](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=464.34s)]
+*  I don't like their socialist [[00:07:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=465.61999999999995s)]
+*  policies. [[00:07:46](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=466.65999999999997s)]
+*  I like how they look. [[00:07:47](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=467.21999999999997s)]
+*  They're socialist policies. [[00:07:49](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=469.97999999999996s)]
+*  No, so just Israel and America. [[00:07:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=470.97999999999996s)]
+*  And not really America, [[00:07:52](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=472.82s)]
+*  just give everything to Israel, [[00:07:53](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=473.82s)]
+*  okay? [[00:07:55](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=475.09999999999997s)]
+*  So now we've got a conflict because [[00:07:55](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=475.82s)]
+*  Tucker Carlson is not interested [[00:07:57](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=477.65999999999997s)]
+*  in giving everything to Israel. [[00:07:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=479.46s)]
+*  And so are many other folks. [[00:08:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=481.9s)]
+*  And then there was a recent fight [[00:08:03](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=483.62s)]
+*  we covered on the show, [[00:08:05](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=485.02s)]
+*  where Mark Levin was upset that [[00:08:06](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=486.09999999999997s)]
+*  there was somebody going to go into [[00:08:07](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=487.62s)]
+*  the Defense Department that [[00:08:09](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=489.26s)]
+*  whose sole job wasn't kissing [[00:08:10](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=490.53999999999996s)]
+*  Israel's ass, and [[00:08:11](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=491.9s)]
+*  then Charlie Kirk stood up for [[00:08:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=492.70000000000005s)]
+*  that guy, and so did JD Vance, [[00:08:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=494.58000000000004s)]
+*  and so did Elon Musk. [[00:08:16](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=496.70000000000005s)]
+*  So now we've got a rift. [[00:08:18](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=498.14000000000004s)]
+*  We've got a significant difference [[00:08:19](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=499.42s)]
+*  in foreign policy here. [[00:08:21](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=501.54s)]
+*  And so on this one, [[00:08:23](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=503.18s)]
+*  I'm totally against Barry Weiss. [[00:08:24](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=504.74s)]
+*  And in the other camp, [[00:08:27](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=507.46000000000004s)]
+*  Israel shouldn't be first. [[00:08:28](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=508.66s)]
+*  I don't even think it should be [[00:08:30](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=510.62s)]
+*  second. [[00:08:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=512.0600000000001s)]
+*  I don't know why we even care about [[00:08:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=512.62s)]
+*  Israel, let alone gave them [[00:08:34](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=514.22s)]
+*  $300 billion. [[00:08:35](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=515.6600000000001s)]
+*  I could understand why we cared [[00:08:36](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=516.86s)]
+*  about it maybe in 1948, and [[00:08:38](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=518.4200000000001s)]
+*  now we're in the middle of [[00:08:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=519.82s)]
+*  the war. [[00:08:40](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=520.78s)]
+*  Maybe in 1948, and that is an [[00:08:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=521.38s)]
+*  interesting and debatable point. [[00:08:42](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=522.82s)]
+*  But at this point, [[00:08:44](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=524.7s)]
+*  they're one of the strongest [[00:08:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=525.62s)]
+*  nations on Earth, both militarily [[00:08:47](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=527.14s)]
+*  and economically. [[00:08:48](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=528.98s)]
+*  And people here saying no, [[00:08:49](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=529.98s)]
+*  we demand all of your money anyway. [[00:08:52](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=532.22s)]
+*  Well, the left wing hates it, and [[00:08:56](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=536.0600000000001s)]
+*  that's why she said the left likes [[00:08:57](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=537.74s)]
+*  Hamas, which is Nazis. [[00:08:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=539.4200000000001s)]
+*  The left likes Nazis before they [[00:09:00](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=540.94s)]
+*  used to like Stalin, and [[00:09:02](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=542.7s)]
+*  now they love Hitler. [[00:09:04](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=544.0600000000001s)]
+*  Shut up. [[00:09:05](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=545.14s)]
+*  That is so hyperbolic and [[00:09:07](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=547.02s)]
+*  ridiculous. [[00:09:08](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=548.98s)]
+*  And Barry, do you really believe [[00:09:10](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=550.42s)]
+*  that all of the left likes Stalin? [[00:09:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=552.4599999999999s)]
+*  Because you're making yourself look [[00:09:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=554.66s)]
+*  ridiculous and totally uneducated [[00:09:17](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=557.18s)]
+*  when you say that. [[00:09:19](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=559.74s)]
+*  And then now you turn around to, [[00:09:21](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=561.3399999999999s)]
+*  if you don't support giving endless [[00:09:23](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=563.54s)]
+*  billions of dollars to Israel to [[00:09:26](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=566.06s)]
+*  slaughter more Palestinians and [[00:09:28](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=568.3s)]
+*  take Gaza, take the West Bank, [[00:09:30](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=570.5799999999999s)]
+*  take everything and [[00:09:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=572.86s)]
+*  we have all the land. [[00:09:34](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=574.2199999999999s)]
+*  If you don't support that, [[00:09:35](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=575.6999999999999s)]
+*  you're now a Nazi. [[00:09:37](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=577.26s)]
+*  No, not interested. [[00:09:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=579.0999999999999s)]
+*  Not at all interested. [[00:09:40](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=580.46s)]
+*  And you ruined the first half of [[00:09:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=581.78s)]
+*  your speech, which was actually [[00:09:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=583.34s)]
+*  a good speech until you got to. [[00:09:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=585.02s)]
+*  Now remember everybody, [[00:09:46](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=586.86s)]
+*  the whole point of me telling you [[00:09:47](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=587.9399999999999s)]
+*  all of this is so you give all of [[00:09:49](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=589.3s)]
+*  your money to Israel. [[00:09:50](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=590.62s)]
+*  Not at all interested. [[00:09:51](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=591.5s)]
+*  Thank you. [[00:09:52](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=592.58s)]
+*  So we do have a poll on this, [[00:09:54](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=594.86s)]
+*  Barry Weiss versus Tucker Carlson. [[00:09:57](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=597.42s)]
+*  Jake, do you want to present it? [[00:10:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=601.18s)]
+*  Yeah, who's going to win on [[00:10:02](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=602.7s)]
+*  foreign policy? [[00:10:03](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=603.62s)]
+*  So I'm not talking about [[00:10:04](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=604.66s)]
+*  the rule of law. [[00:10:05](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=605.66s)]
+*  I agree with Barry Weiss on that. [[00:10:06](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=606.66s)]
+*  And yes, by the way, [[00:10:08](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=608.38s)]
+*  it turns out you could agree and [[00:10:09](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=609.58s)]
+*  disagree in parts with a human [[00:10:11](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=611.26s)]
+*  being, whether they're on the right [[00:10:12](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=612.86s)]
+*  or the left. [[00:10:14](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=614.74s)]
+*  If you use this crazy thing we have [[00:10:15](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=615.46s)]
+*  in our body called your mind, [[00:10:17](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=617.14s)]
+*  okay, instead of me hate all of [[00:10:18](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=618.66s)]
+*  them, me hate all of them, [[00:10:20](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=620.3s)]
+*  but they disagree. [[00:10:21](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=621.78s)]
+*  So which one you hate on this [[00:10:23](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=623.02s)]
+*  disagreement. [[00:10:24](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=624.58s)]
+*  When it comes to foreign policy on [[00:10:25](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=625.26s)]
+*  the issue of Israel, I hate it, but [[00:10:27](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=627.86s)]
+*  yeah, Tucker's right and [[00:10:30](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=630.58s)]
+*  Barry Weiss is wrong. [[00:10:32](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=632.54s)]
+*  So sad day for anyone who doesn't [[00:10:34](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=634.98s)]
+*  want to use their mind. [[00:10:37](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=637.1s)]
+*  And now, by the way, [[00:10:39](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=639.18s)]
+*  the reason why Barry Weiss and [[00:10:40](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=640.34s)]
+*  Mark Levin and other supporters of [[00:10:41](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=641.94s)]
+*  Israel in America are starting to [[00:10:43](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=643.82s)]
+*  give these speeches and even lash [[00:10:45](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=645.58s)]
+*  out at Trump for his appointments [[00:10:47](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=647.54s)]
+*  is because they're beginning to [[00:10:49](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=649.54s)]
+*  panic because Israel is in the [[00:10:51](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=651.5s)]
+*  middle of losing the right wing. [[00:10:53](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=653.38s)]
+*  And once they lose the right wing, [[00:10:56](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=656.58s)]
+*  they ain't got no wing left. [[00:10:58](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=658.34s)]
+*  So because then at that point, [[00:10:59](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=659.94s)]
+*  it becomes super obvious that it's [[00:11:01](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=661.86s)]
+*  the American people versus APAC, [[00:11:03](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=663.94s)]
+*  and they don't want that to be [[00:11:05](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=665.94s)]
+*  obvious, even though it's really [[00:11:07](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=667.74s)]
+*  been that way for decades. [[00:11:09](https://www.youtube.com/watch?v=-Mm1pmQnTNU&t=669.7s)]

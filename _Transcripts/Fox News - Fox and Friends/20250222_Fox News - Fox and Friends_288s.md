@@ -1,0 +1,157 @@
+---
+Date Generated: February 27, 2025
+Transcription Model: whisper medium 20231117
+Length: 288s
+Video Keywords: ['epstein', 'jeffrey epstein', 'bondi epstein', 'ag pam bondi', 'pam bondi', 'attorney general', 'attorney general pam bondi', 'jfk files', 'mlk files', 'jeffrey epstein list', 'epstein list', 'epstein island', 'white house', 'trump administration', 'donald trump', 'president donald trump', 'trump news', 'trump latest', 'classified documents', 'trump epstein files', 'fox news', 'fox news channel', 'fox news network', 'fnc', 'fox news youtube']
+Video Views: 1058207
+Video Rating: None
+Video Description: ‘Fox & Friends Weekend’ co-hosts discuss Attorney General Pam Bondi’s review of classified Jeffrey Epstein documents. #FoxNews
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# AG Pam Bondi reviews classified Epstein documents
+**Fox News - Fox and Friends:** [February 22, 2025](https://www.youtube.com/watch?v=QBnngnwukBU)
+*  Look at this, Pam Bondi asked about the Epstein files. [[00:00:00](https://www.youtube.com/watch?v=QBnngnwukBU&t=0.0s)]
+*  She said, the Epstein files are on my desk. [[00:00:04](https://www.youtube.com/watch?v=QBnngnwukBU&t=4.04s)]
+*  I remember asking Donald Trump about this [[00:00:09](https://www.youtube.com/watch?v=QBnngnwukBU&t=9.8s)]
+*  back in the summertime. [[00:00:12](https://www.youtube.com/watch?v=QBnngnwukBU&t=12.8s)]
+*  I asked him if he was gonna release all of these files. [[00:00:14](https://www.youtube.com/watch?v=QBnngnwukBU&t=14.52s)]
+*  Do we have that video, guys? [[00:00:17](https://www.youtube.com/watch?v=QBnngnwukBU&t=17.400000000000002s)]
+*  Americans have lost a lot of trust in institutions, [[00:00:21](https://www.youtube.com/watch?v=QBnngnwukBU&t=21.36s)]
+*  and I think there's been a lot of discussion, [[00:00:23](https://www.youtube.com/watch?v=QBnngnwukBU&t=23.92s)]
+*  especially online and especially with young people. [[00:00:25](https://www.youtube.com/watch?v=QBnngnwukBU&t=25.080000000000002s)]
+*  How do we rebuild that trust in institutions? [[00:00:27](https://www.youtube.com/watch?v=QBnngnwukBU&t=27.28s)]
+*  The CIA, the FBI, all those institutions. [[00:00:30](https://www.youtube.com/watch?v=QBnngnwukBU&t=30.240000000000002s)]
+*  You're right. [[00:00:33](https://www.youtube.com/watch?v=QBnngnwukBU&t=33.36s)]
+*  Some people think that one way to build trust [[00:00:34](https://www.youtube.com/watch?v=QBnngnwukBU&t=34.18s)]
+*  is to declassify things that everyone's talking about. [[00:00:37](https://www.youtube.com/watch?v=QBnngnwukBU&t=37.44s)]
+*  I know you talked earlier about, [[00:00:40](https://www.youtube.com/watch?v=QBnngnwukBU&t=40.160000000000004s)]
+*  I don't wanna be a conspiracy theorist. [[00:00:41](https://www.youtube.com/watch?v=QBnngnwukBU&t=41.08s)]
+*  So if you were president, would you declassify, [[00:00:42](https://www.youtube.com/watch?v=QBnngnwukBU&t=42.68s)]
+*  you can answer yes or no to these. [[00:00:45](https://www.youtube.com/watch?v=QBnngnwukBU&t=45.72s)]
+*  Would you declassify the 9-11 files? [[00:00:47](https://www.youtube.com/watch?v=QBnngnwukBU&t=47.400000000000006s)]
+*  Yeah. [[00:00:49](https://www.youtube.com/watch?v=QBnngnwukBU&t=49.96s)]
+*  Would you declassify JFK files? [[00:00:50](https://www.youtube.com/watch?v=QBnngnwukBU&t=50.8s)]
+*  Yeah, I did a lot of it. [[00:00:52](https://www.youtube.com/watch?v=QBnngnwukBU&t=52.44s)]
+*  Would you declassify the Epstein files? [[00:00:54](https://www.youtube.com/watch?v=QBnngnwukBU&t=54.72s)]
+*  Yeah, yeah, I would. [[00:00:57](https://www.youtube.com/watch?v=QBnngnwukBU&t=57.44s)]
+*  I guess I would. [[00:00:59](https://www.youtube.com/watch?v=QBnngnwukBU&t=59.4s)]
+*  I think that less so because you don't know, [[00:01:00](https://www.youtube.com/watch?v=QBnngnwukBU&t=60.339999999999996s)]
+*  you don't wanna affect people's lives [[00:01:03](https://www.youtube.com/watch?v=QBnngnwukBU&t=63.36s)]
+*  if it's phony stuff in there [[00:01:04](https://www.youtube.com/watch?v=QBnngnwukBU&t=64.88s)]
+*  because there's a lot of phony stuff with that whole world. [[00:01:06](https://www.youtube.com/watch?v=QBnngnwukBU&t=66.03999999999999s)]
+*  But I think I would, or at least I'd- [[00:01:10](https://www.youtube.com/watch?v=QBnngnwukBU&t=70.08s)]
+*  Do you think that would restore trust? [[00:01:11](https://www.youtube.com/watch?v=QBnngnwukBU&t=71.56s)]
+*  Help restore trust? [[00:01:13](https://www.youtube.com/watch?v=QBnngnwukBU&t=73.16s)]
+*  Yeah, I don't know about Epstein so much as I do the others. [[00:01:14](https://www.youtube.com/watch?v=QBnngnwukBU&t=74.0s)]
+*  Certainly about the way he died, [[00:01:16](https://www.youtube.com/watch?v=QBnngnwukBU&t=76.48s)]
+*  it would be interesting to find out what happened there [[00:01:18](https://www.youtube.com/watch?v=QBnngnwukBU&t=78.03999999999999s)]
+*  because that was a weird situation [[00:01:19](https://www.youtube.com/watch?v=QBnngnwukBU&t=79.75999999999999s)]
+*  and the cameras didn't happen to be working, [[00:01:21](https://www.youtube.com/watch?v=QBnngnwukBU&t=81.6s)]
+*  et cetera, et cetera. [[00:01:23](https://www.youtube.com/watch?v=QBnngnwukBU&t=83.32s)]
+*  But you had to go a long way toward that one. [[00:01:25](https://www.youtube.com/watch?v=QBnngnwukBU&t=85.47999999999999s)]
+*  Great questions. [[00:01:27](https://www.youtube.com/watch?v=QBnngnwukBU&t=87.24s)]
+*  Yeah, it's tough. [[00:01:28](https://www.youtube.com/watch?v=QBnngnwukBU&t=88.08s)]
+*  You press them, and now we've got Attorney General [[00:01:29](https://www.youtube.com/watch?v=QBnngnwukBU&t=89.44s)]
+*  Pam Bondi talking yesterday about what she plans to do [[00:01:31](https://www.youtube.com/watch?v=QBnngnwukBU&t=91.28s)]
+*  with these files now sitting on her desk. [[00:01:35](https://www.youtube.com/watch?v=QBnngnwukBU&t=95.75999999999999s)]
+*  Here's what she says. [[00:01:37](https://www.youtube.com/watch?v=QBnngnwukBU&t=97.19999999999999s)]
+*  This is something Donald Trump has talked about. [[00:01:38](https://www.youtube.com/watch?v=QBnngnwukBU&t=98.97999999999999s)]
+*  The DOJ may be releasing the list [[00:01:41](https://www.youtube.com/watch?v=QBnngnwukBU&t=101.03999999999999s)]
+*  of Jeffrey Epstein's clients. [[00:01:43](https://www.youtube.com/watch?v=QBnngnwukBU&t=103.38s)]
+*  Will that really happen? [[00:01:45](https://www.youtube.com/watch?v=QBnngnwukBU&t=105.52s)]
+*  It's sitting on my desk right now to review. [[00:01:47](https://www.youtube.com/watch?v=QBnngnwukBU&t=107.0s)]
+*  That's been a directive by President Trump. [[00:01:50](https://www.youtube.com/watch?v=QBnngnwukBU&t=110.08s)]
+*  I'm reviewing that. [[00:01:52](https://www.youtube.com/watch?v=QBnngnwukBU&t=112.52s)]
+*  I'm reviewing JFK files, MLK files. [[00:01:53](https://www.youtube.com/watch?v=QBnngnwukBU&t=113.36s)]
+*  That's all in the process of being reviewed [[00:01:56](https://www.youtube.com/watch?v=QBnngnwukBU&t=116.6s)]
+*  because that was done at the directive of the president [[00:01:58](https://www.youtube.com/watch?v=QBnngnwukBU&t=118.52s)]
+*  from all of these agencies. [[00:02:00](https://www.youtube.com/watch?v=QBnngnwukBU&t=120.6s)]
+*  So have you seen anything there? [[00:02:01](https://www.youtube.com/watch?v=QBnngnwukBU&t=121.92s)]
+*  You said, oh my gosh. [[00:02:03](https://www.youtube.com/watch?v=QBnngnwukBU&t=123.48s)]
+*  Not yet. [[00:02:06](https://www.youtube.com/watch?v=QBnngnwukBU&t=126.08s)]
+*  That you, I think you spurned that to happen. [[00:02:08](https://www.youtube.com/watch?v=QBnngnwukBU&t=128.12s)]
+*  And now Pam Bondi's being pretty specific [[00:02:12](https://www.youtube.com/watch?v=QBnngnwukBU&t=132.28s)]
+*  that she's reviewing it. [[00:02:14](https://www.youtube.com/watch?v=QBnngnwukBU&t=134.92s)]
+*  So that's not clear that we're getting all of it, [[00:02:16](https://www.youtube.com/watch?v=QBnngnwukBU&t=136.4s)]
+*  but it's not just FC, MLK, JFK, [[00:02:18](https://www.youtube.com/watch?v=QBnngnwukBU&t=138.84s)]
+*  and all of these things. [[00:02:22](https://www.youtube.com/watch?v=QBnngnwukBU&t=142.76s)]
+*  Look, the Epstein stuff is serious stuff. [[00:02:24](https://www.youtube.com/watch?v=QBnngnwukBU&t=144.32s)]
+*  It is. [[00:02:26](https://www.youtube.com/watch?v=QBnngnwukBU&t=146.23999999999998s)]
+*  We're talking about children, [[00:02:27](https://www.youtube.com/watch?v=QBnngnwukBU&t=147.07999999999998s)]
+*  we're talking about sexual abuse. [[00:02:27](https://www.youtube.com/watch?v=QBnngnwukBU&t=147.89999999999998s)]
+*  Absolutely, and remember we're talking about [[00:02:30](https://www.youtube.com/watch?v=QBnngnwukBU&t=150.07999999999998s)]
+*  a number of different potential crime scenes [[00:02:32](https://www.youtube.com/watch?v=QBnngnwukBU&t=152.23999999999998s)]
+*  and videos that have been collected. [[00:02:34](https://www.youtube.com/watch?v=QBnngnwukBU&t=154.72s)]
+*  One of the big differences I think now [[00:02:36](https://www.youtube.com/watch?v=QBnngnwukBU&t=156.92s)]
+*  compared to the past four years is now there seems [[00:02:39](https://www.youtube.com/watch?v=QBnngnwukBU&t=159.48s)]
+*  to be a real aggressive action toward transparency. [[00:02:42](https://www.youtube.com/watch?v=QBnngnwukBU&t=162.51999999999998s)]
+*  As we've been talking about all morning long, [[00:02:46](https://www.youtube.com/watch?v=QBnngnwukBU&t=166.35999999999999s)]
+*  I do wanna know where those tapes went. [[00:02:48](https://www.youtube.com/watch?v=QBnngnwukBU&t=168.39999999999998s)]
+*  I do wanna know what happened out in New Mexico. [[00:02:51](https://www.youtube.com/watch?v=QBnngnwukBU&t=171.04s)]
+*  I would like to know are there other women and children [[00:02:54](https://www.youtube.com/watch?v=QBnngnwukBU&t=174.44s)]
+*  who've been impacted, for example, by this Epstein, [[00:02:57](https://www.youtube.com/watch?v=QBnngnwukBU&t=177.48s)]
+*  not just by Jeffrey Epstein himself, [[00:03:00](https://www.youtube.com/watch?v=QBnngnwukBU&t=180.0s)]
+*  but also by Justland Maxwell, [[00:03:02](https://www.youtube.com/watch?v=QBnngnwukBU&t=182.0s)]
+*  and by others who may or may not have been party [[00:03:03](https://www.youtube.com/watch?v=QBnngnwukBU&t=183.88s)]
+*  to these circumstances on the east side of New York. [[00:03:06](https://www.youtube.com/watch?v=QBnngnwukBU&t=186.44s)]
+*  So I think transparency, sunlight, [[00:03:09](https://www.youtube.com/watch?v=QBnngnwukBU&t=189.6s)]
+*  what they say is the best disinfectant. [[00:03:13](https://www.youtube.com/watch?v=QBnngnwukBU&t=193.0s)]
+*  It's the best disinfectant. [[00:03:13](https://www.youtube.com/watch?v=QBnngnwukBU&t=193.84s)]
+*  Let me tell you why I think this is important. [[00:03:15](https://www.youtube.com/watch?v=QBnngnwukBU&t=195.07999999999998s)]
+*  I think it's important because we have a generation [[00:03:17](https://www.youtube.com/watch?v=QBnngnwukBU&t=197.0s)]
+*  of young people who have been through the lies of COVID [[00:03:19](https://www.youtube.com/watch?v=QBnngnwukBU&t=199.44s)]
+*  that deeply impacted them, [[00:03:22](https://www.youtube.com/watch?v=QBnngnwukBU&t=202.12s)]
+*  have seen all of these things transpire [[00:03:23](https://www.youtube.com/watch?v=QBnngnwukBU&t=203.52s)]
+*  that we've been talking about, but at very formative ages. [[00:03:26](https://www.youtube.com/watch?v=QBnngnwukBU&t=206.34s)]
+*  And this is their chance to believe [[00:03:29](https://www.youtube.com/watch?v=QBnngnwukBU&t=209.04s)]
+*  that their government is honest again. [[00:03:32](https://www.youtube.com/watch?v=QBnngnwukBU&t=212.48s)]
+*  I think if these are not released in their entirety [[00:03:35](https://www.youtube.com/watch?v=QBnngnwukBU&t=215.2s)]
+*  and if this promise is not kept, and by the way, [[00:03:38](https://www.youtube.com/watch?v=QBnngnwukBU&t=218.6s)]
+*  I believe President Trump is gonna keep this promise, [[00:03:41](https://www.youtube.com/watch?v=QBnngnwukBU&t=221.56s)]
+*  but I think this is about restoring trust [[00:03:44](https://www.youtube.com/watch?v=QBnngnwukBU&t=224.52s)]
+*  for young people in democracy. [[00:03:47](https://www.youtube.com/watch?v=QBnngnwukBU&t=227.56s)]
+*  Yeah. [[00:03:49](https://www.youtube.com/watch?v=QBnngnwukBU&t=229.84s)]
+*  It's such a good point because we've had these drones [[00:03:50](https://www.youtube.com/watch?v=QBnngnwukBU&t=230.68s)]
+*  and we've talked about here on the couch and elsewhere, [[00:03:53](https://www.youtube.com/watch?v=QBnngnwukBU&t=233.2s)]
+*  these mysterious drones everywhere in the Biden administration. [[00:03:55](https://www.youtube.com/watch?v=QBnngnwukBU&t=235.28s)]
+*  Stonewall, Stonewall, Stonewall, [[00:03:58](https://www.youtube.com/watch?v=QBnngnwukBU&t=238.32s)]
+*  Trump administration comes in right away, [[00:03:59](https://www.youtube.com/watch?v=QBnngnwukBU&t=239.9s)]
+*  is like, okay, here's what that was. [[00:04:01](https://www.youtube.com/watch?v=QBnngnwukBU&t=241.32s)]
+*  Yeah. [[00:04:03](https://www.youtube.com/watch?v=QBnngnwukBU&t=243.04s)]
+*  And put this like, why was that so hard? [[00:04:03](https://www.youtube.com/watch?v=QBnngnwukBU&t=243.88s)]
+*  I don't know. [[00:04:05](https://www.youtube.com/watch?v=QBnngnwukBU&t=245.32s)]
+*  And you have a great point too with young viewers. [[00:04:06](https://www.youtube.com/watch?v=QBnngnwukBU&t=246.16s)]
+*  This is about the erosion of trust [[00:04:07](https://www.youtube.com/watch?v=QBnngnwukBU&t=247.8s)]
+*  with young people and their government. [[00:04:10](https://www.youtube.com/watch?v=QBnngnwukBU&t=250.68s)]
+*  And that's not a good thing. [[00:04:12](https://www.youtube.com/watch?v=QBnngnwukBU&t=252.88s)]
+*  That needs to be reversed. [[00:04:14](https://www.youtube.com/watch?v=QBnngnwukBU&t=254.2s)]
+*  And I think transparency, [[00:04:15](https://www.youtube.com/watch?v=QBnngnwukBU&t=255.48s)]
+*  they can see tangible transparency [[00:04:17](https://www.youtube.com/watch?v=QBnngnwukBU&t=257.03999999999996s)]
+*  when they're looking into whether it's Epstein or RFK or JFK. [[00:04:19](https://www.youtube.com/watch?v=QBnngnwukBU&t=259.65999999999997s)]
+*  They're like, okay, now I can see it. [[00:04:23](https://www.youtube.com/watch?v=QBnngnwukBU&t=263.96s)]
+*  Now I can see it for myself. [[00:04:25](https://www.youtube.com/watch?v=QBnngnwukBU&t=265.38s)]
+*  I can read it and therefore, you're reading sources. [[00:04:26](https://www.youtube.com/watch?v=QBnngnwukBU&t=266.56s)]
+*  There's a reason for government to have some secrets, [[00:04:29](https://www.youtube.com/watch?v=QBnngnwukBU&t=269.12s)]
+*  but a lot of this is just about protecting powerful people. [[00:04:31](https://www.youtube.com/watch?v=QBnngnwukBU&t=271.7s)]
+*  And this is a chance to reverse that, so. [[00:04:34](https://www.youtube.com/watch?v=QBnngnwukBU&t=274.94s)]
+*  All right. [[00:04:37](https://www.youtube.com/watch?v=QBnngnwukBU&t=277.28s)]
+*  Thank you. [[00:04:45](https://www.youtube.com/watch?v=QBnngnwukBU&t=285.48s)]
