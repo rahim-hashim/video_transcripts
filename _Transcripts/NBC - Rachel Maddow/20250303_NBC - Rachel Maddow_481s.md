@@ -1,0 +1,152 @@
+---
+Date Generated: March 04, 2025
+Transcription Model: whisper medium 20231117
+Length: 481s
+Video Keywords: ['Rachel Maddow']
+Video Views: 120012
+Video Rating: None
+Video Description: Rachel Maddow considers the number of ways that Donald Trump has been working to appease Russian President Vladimir Putin without extracting any concessions from Russia to ensure the security of Ukraine. Courtney Kube, NBC News Pentagon correspondent, joins to discuss Trump's cut off of aid to Ukraine and whether there is any upside for America in this deal arranged by the "America first" president.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Russia #Ukraine
+---
+
+# Trump giveaways to Russia with no concessions make a mockery of his 'dealmaker' image
+**NBC - Rachel Maddow:** [March 03, 2025](https://www.youtube.com/watch?v=vPl5qTeRFEk)
+*  Just a moment ago, I showed you some of the protests that greeted Vice President JD Vance [[00:00:00](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=0.0s)]
+*  when he tried to go skiing this weekend at Sugarbush in Vermont. [[00:00:05](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=5.6000000000000005s)]
+*  Waitsfield, Vermont absolutely filled up with people telling him to get out of town. [[00:00:10](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=10.8s)]
+*  JD Vance is a traitor. [[00:00:15](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=15.72s)]
+*  Go ski in Russia. [[00:00:17](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=17.48s)]
+*  But you know what? [[00:00:20](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=20.12s)]
+*  Do not underestimate the stamina and determination and cold tolerance of New Englanders when [[00:00:21](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=21.12s)]
+*  it gets to this part of the winter. [[00:00:26](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=26.3s)]
+*  They can pretty much take anything. [[00:00:28](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=28.240000000000002s)]
+*  So not only did they protest JD Vance at the ski mountain up in Waitsfield, Vermont, telling [[00:00:29](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=29.92s)]
+*  him to get out of town, there was also a whole other group of protesters waiting for him [[00:00:34](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=34.68s)]
+*  when he tried to get out of town. [[00:00:39](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=39.120000000000005s)]
+*  This wasn't Waitsfield. [[00:00:41](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=41.1s)]
+*  Just drop the chyron here so people can see here. [[00:00:42](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=42.1s)]
+*  Yeah. [[00:00:44](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=44.400000000000006s)]
+*  This was the route to the airport for JD Vance in South Burlington, Vermont. [[00:00:45](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=45.400000000000006s)]
+*  Protesters also turned up there sending him off as he tried to leave the state. [[00:00:49](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=49.08s)]
+*  They called it his farewell sendoff. [[00:00:52](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=52.68000000000001s)]
+*  And you know, it wasn't just Vermont getting out in the streets to show their support for [[00:00:56](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=56.040000000000006s)]
+*  Ukraine and their objections to the United States, aligning itself with Vladimir Putin. [[00:00:59](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=59.019999999999996s)]
+*  This was Charlotte, North Carolina this weekend and Bentonville, Arkansas and Washington, [[00:01:03](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=63.86s)]
+*  D.C. and Seattle, Washington this weekend. [[00:01:09](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=69.14s)]
+*  Protesters holding pro-Ukraine anti-Russia demonstrations in the wake of President Trump [[00:01:12](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=72.02s)]
+*  and Vice President JD Vance, aligning themselves with the Russian Federation and against our [[00:01:17](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=77.82s)]
+*  ally. [[00:01:23](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=83.86s)]
+*  And that was this weekend. [[00:01:24](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=84.86s)]
+*  Now today we are confronting a series of headlines that seem to make it official. [[00:01:27](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=87.74000000000001s)]
+*  Defense Secretary Pete Hegsath orders a halt to cyber operations against Russia. [[00:01:32](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=92.18s)]
+*  Trump administration halting cyber operations against Russia, even as Russia appears to [[00:01:37](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=97.78s)]
+*  have intensified its cyber operations against our allies in NATO and in Ukraine. [[00:01:41](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=101.86s)]
+*  Further news just tonight as we're getting on the air that the United States is not only [[00:01:48](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=108.26s)]
+*  starting the process of dropping sanctions on Russia. [[00:01:52](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=112.38s)]
+*  The White House reported the ordering the Treasury Department and the State Department [[00:01:56](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=116.62s)]
+*  to explore the end to Russian sanctions, but also now putting a stop to all U.S. aid to [[00:01:59](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=119.98s)]
+*  Ukraine in the middle of this war. [[00:02:07](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=127.42s)]
+*  Joining us now is NBC News correspondent Courtney Kuby. [[00:02:10](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=130.94s)]
+*  She covers the Pentagon and national security. [[00:02:13](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=133.02s)]
+*  Courtney, it's really nice of you to make time to be here tonight. [[00:02:14](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=134.82s)]
+*  Thank you. [[00:02:16](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=136.78s)]
+*  Thanks. [[00:02:17](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=137.78s)]
+*  Thanks for having me. [[00:02:18](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=138.78s)]
+*  Can you put sort of in layman's terms for us what these things together mean? [[00:02:20](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=140.54000000000002s)]
+*  We've seen the headline about cyber command. [[00:02:25](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=145.94s)]
+*  We've seen the headline about dropping Russian sanctions. [[00:02:27](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=147.9s)]
+*  We've seen the headline about pausing all U.S. aid to Ukraine. [[00:02:30](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=150.22s)]
+*  Can you help us understand what what viewers might need to understand about what this means [[00:02:34](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=154.74s)]
+*  for this U-turn in the U.S. government? [[00:02:40](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=160.14s)]
+*  Yeah, sure. [[00:02:42](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=162.22s)]
+*  So I mean, there's really two sides to this argument. [[00:02:44](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=164.3s)]
+*  There are the people who believe that this is just part of negotiating, that you make [[00:02:46](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=166.7s)]
+*  sacrifices or some changes during negotiation, whether it's a show of good faith or getting [[00:02:51](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=171.7s)]
+*  the other side to the table. [[00:02:56](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=176.42s)]
+*  And then there are other people who clearly think this is nothing but capitulation to [[00:02:58](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=178.14s)]
+*  Russia. [[00:03:01](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=181.38s)]
+*  So the two sides broken down. [[00:03:02](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=182.38s)]
+*  What the cyber command decision or order from Secretary of Defense Pete Hagseth does is [[00:03:03](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=183.85999999999999s)]
+*  it is pausing all offensive cyber operations against Russia and all offensive information [[00:03:09](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=189.57999999999998s)]
+*  operations against Russia. [[00:03:16](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=196.1s)]
+*  But the key here is we don't know how long this is supposed to last. [[00:03:17](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=197.86s)]
+*  There are some officials who say this is while the U.S. is actively involved in trying to [[00:03:22](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=202.42000000000002s)]
+*  be this mediator between Russia and Ukraine to try to end the war. [[00:03:27](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=207.22000000000003s)]
+*  And there are others who say, look, we don't have any sense of what the timeline could [[00:03:31](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=211.38000000000002s)]
+*  be and when this actually could end. [[00:03:34](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=214.5s)]
+*  Now, there are critics or people who are concerned that this is this is a time where the United [[00:03:36](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=216.74s)]
+*  States should be stepping up their gathering on Russia, particularly when it comes to information [[00:03:41](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=221.98000000000002s)]
+*  operations. But at this point, it appears that all of that is halted. [[00:03:47](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=227.14s)]
+*  And the timeline, again, is really unclear for that. [[00:03:52](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=232.1s)]
+*  The next issue on the weapons on these the military equipment that the United States [[00:03:55](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=235.18s)]
+*  has been flowing in and Rachel, you know, whether there whether people are in favor of [[00:03:59](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=239.85999999999999s)]
+*  actually sending these weapons and this equipment to Ukraine or not, there is no doubt that [[00:04:05](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=245.62s)]
+*  this has been a logistical feat and hurdle to get these billions and billions of dollars [[00:04:10](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=250.54s)]
+*  of in some cases, massive equipment, weapons, ammunition into Ukraine so that they've [[00:04:17](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=257.34s)]
+*  been able to stave off the Russian offensive that began just over three years ago. [[00:04:24](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=264.9s)]
+*  Well, we've learned late today is that, in fact, the Trump administration, at least for [[00:04:29](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=269.3s)]
+*  now, again, has paused the delivery of any additional military weapons or equipment [[00:04:33](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=273.38s)]
+*  to Ukraine. Now, you may say, well, we haven't been hearing about the Trump administration [[00:04:39](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=279.58s)]
+*  announcing any additional sending of any additional weapons. [[00:04:45](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=285.14s)]
+*  And that is right. Basically, the Biden administration used almost all of the money that [[00:04:49](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=289.34s)]
+*  they had allocated to send to to to buy weapons or to send from U.S. [[00:04:54](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=294.78s)]
+*  stockpiles and then reimburse U.S. stockpiles for Ukraine. [[00:05:00](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=300.29999999999995s)]
+*  There was about three three point eight or so billion dollars that were left in that. [[00:05:03](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=303.62s)]
+*  But there's not any money that's still left to reimburse the U.S. [[00:05:07](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=307.42s)]
+*  military for that. So that money has basically been paused. [[00:05:11](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=311.74s)]
+*  There really hasn't been any new spending to Ukraine. [[00:05:14](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=314.98s)]
+*  But there was money. [[00:05:18](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=318.7s)]
+*  If there was still additional weapons and equipment that were being sent as part of other [[00:05:20](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=320.7s)]
+*  disbursements. So, for instance, one of the last presidential drawdown authority announcements [[00:05:24](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=324.94s)]
+*  had some refurbished vehicles. [[00:05:30](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=330.34000000000003s)]
+*  Those were still being flown into Ukraine. [[00:05:32](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=332.22s)]
+*  And then there's another pot of money that has existed for the last three years called [[00:05:34](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=334.54s)]
+*  the Ukraine Security Assistance Initiative. [[00:05:38](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=338.7s)]
+*  That's sort of longer term weapons systems and equipment that could take years in some [[00:05:40](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=340.86s)]
+*  cases to deliver to Ukraine. [[00:05:44](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=344.42s)]
+*  What we found out tonight is that the United States is pausing all of those shipments for [[00:05:46](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=346.42s)]
+*  now. And again, just like the Cyber Command decision, it's just not how clear that's going [[00:05:51](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=351.1s)]
+*  to last. Now, why I keep going back to how long these decisions and these these these [[00:05:56](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=356.82s)]
+*  announcements will last is because it will prove whether this really is something that the [[00:06:02](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=362.3s)]
+*  United States has decided to do as part of a negotiation or whether it is, as some have [[00:06:07](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=367.74s)]
+*  claimed, that this could be a sign of in an effort to to that President Trump has made [[00:06:14](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=374.34000000000003s)]
+*  very clear that he wants to normalize relations with Moscow, that this could be part of a [[00:06:19](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=379.58000000000004s)]
+*  capitulation to that effort, Rachel. [[00:06:23](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=383.78000000000003s)]
+*  And just to be clear, with all of these things that that Russia has now received effectively, [[00:06:26](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=386.02000000000004s)]
+*  just in terms of deal points from from the U.S. [[00:06:32](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=392.54s)]
+*  government, you know, halting aid to Ukraine, ending sanction, moving to end sanctions on [[00:06:35](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=395.26s)]
+*  Russia, having a high level U.S. [[00:06:40](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=400.90000000000003s)]
+*  government meeting between the Russian U.S. [[00:06:43](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=403.02000000000004s)]
+*  government, President Trump publicly advocating that Russia be let back in the G7, saying that [[00:06:45](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=405.1s)]
+*  he wants to have a one on one summit with with Vladimir Putin, Russia being invited to [[00:06:50](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=410.06s)]
+*  reopen their embassy in full consulate strength in the United States with all of these things [[00:06:57](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=417.09999999999997s)]
+*  that the U.S. has now given to Russia in terms of deal points. [[00:07:01](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=421.53999999999996s)]
+*  Has Russia given us anything? [[00:07:05](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=425.38s)]
+*  If so, it's not nothing that we are aware of at this point. [[00:07:09](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=429.09999999999997s)]
+*  I mean, and you know, officials, we know when the cybercom thing first came up, officials were [[00:07:13](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=433.02s)]
+*  saying, look, the United States needs to show some good faith here. [[00:07:17](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=437.86s)]
+*  So is it possible that Russia will give something? [[00:07:20](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=440.7s)]
+*  Vladimir Zelensky has made it very clear that he doesn't believe that Russia will negotiate in [[00:07:23](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=443.42s)]
+*  good faith in any way. [[00:07:27](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=447.14s)]
+*  At this point, we're not aware of anything that they have given to the U.S. [[00:07:29](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=449.06s)]
+*  for these things. Yeah. [[00:07:31](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=451.46000000000004s)]
+*  At some point, the math doesn't work, right? [[00:07:35](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=455.34000000000003s)]
+*  Cardinal Kubi, I really appreciate you being here. [[00:07:37](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=457.54s)]
+*  I really appreciate it. Thank you. [[00:07:39](https://www.youtube.com/watch?v=vPl5qTeRFEk&t=459.5s)]
