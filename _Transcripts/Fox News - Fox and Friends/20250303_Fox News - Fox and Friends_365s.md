@@ -1,0 +1,157 @@
+---
+Date Generated: March 04, 2025
+Transcription Model: whisper medium 20231117
+Length: 365s
+Video Keywords: ['donald trump', 'white house', 'us ukraine minerals deal', 'us ukraine minerals', 'minerals deal', 'ukraine minerals deal', 'ukraine minerals trump', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'fox & friends', 'trump administration', 'trump zelenskyy', 'trump zelenskyy meeting', 'trump zelenskyy white house meeting', 'foreign policy', 'trump foreign policy', 'donald trump and zelensky meeting', 'zelenskyy trump meeting', 'zelenskyy trump', 'trump putin', 'mineral deal', 'marco rubio']
+Video Views: 191969
+Video Rating: None
+Video Description: The 'Fox & Friends' co-hosts react to Ukrainian President Zelenskyy's heated White House meeting with President Donald Trump, prompting him to leave without signing the minerals deal. #FoxNews 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Rubio takes on ABC host: It's only bad when Trump does this
+**Fox News - Fox and Friends:** [March 03, 2025](https://www.youtube.com/watch?v=E3bT8smBqJs)
+*  There wasn't good vibes with Zelensky and our president and vice president. [[00:00:00](https://www.youtube.com/watch?v=E3bT8smBqJs&t=0.0s)]
+*  No, we watched it all unfold on national television Friday. [[00:00:04](https://www.youtube.com/watch?v=E3bT8smBqJs&t=4.0s)]
+*  Normally we get a readout on this, but this time we saw it all before our eyes. [[00:00:06](https://www.youtube.com/watch?v=E3bT8smBqJs&t=6.76s)]
+*  Yeah, right. [[00:00:11](https://www.youtube.com/watch?v=E3bT8smBqJs&t=11.56s)]
+*  Slightly delayed. [[00:00:12](https://www.youtube.com/watch?v=E3bT8smBqJs&t=12.56s)]
+*  If you were watching Outnumbered, you saw the live playback of the video. [[00:00:13](https://www.youtube.com/watch?v=E3bT8smBqJs&t=13.56s)]
+*  And you were on Outnumbered. [[00:00:17](https://www.youtube.com/watch?v=E3bT8smBqJs&t=17.56s)]
+*  I was indeed. [[00:00:19](https://www.youtube.com/watch?v=E3bT8smBqJs&t=19.92s)]
+*  I was the one lucky guy. [[00:00:20](https://www.youtube.com/watch?v=E3bT8smBqJs&t=20.92s)]
+*  Well, Zelensky was the one unlucky guy on Friday there. [[00:00:22](https://www.youtube.com/watch?v=E3bT8smBqJs&t=22.36s)]
+*  And this kind of stuff does happen between presidents and world leaders behind closed [[00:00:28](https://www.youtube.com/watch?v=E3bT8smBqJs&t=28.12s)]
+*  doors. [[00:00:32](https://www.youtube.com/watch?v=E3bT8smBqJs&t=32.92s)]
+*  And then afterwards the readout is, well, the two world leaders had a frank discussion [[00:00:33](https://www.youtube.com/watch?v=E3bT8smBqJs&t=33.92s)]
+*  and they're united and find enough solution. [[00:00:39](https://www.youtube.com/watch?v=E3bT8smBqJs&t=39.08s)]
+*  Well we saw that this relationship right there between the three of them is fractured. [[00:00:43](https://www.youtube.com/watch?v=E3bT8smBqJs&t=43.28s)]
+*  And Mr. Zelensky, tone deaf, going in and fighting back, getting sassy with the president [[00:00:48](https://www.youtube.com/watch?v=E3bT8smBqJs&t=48.16s)]
+*  and the vice president. [[00:00:54](https://www.youtube.com/watch?v=E3bT8smBqJs&t=54.08s)]
+*  He was sassy. [[00:00:55](https://www.youtube.com/watch?v=E3bT8smBqJs&t=55.08s)]
+*  He was sassy. [[00:00:56](https://www.youtube.com/watch?v=E3bT8smBqJs&t=56.08s)]
+*  He got some bad advice from somebody, but it certainly was not the White House. [[00:00:58](https://www.youtube.com/watch?v=E3bT8smBqJs&t=58.04s)]
+*  They said Mr. Zelensky, show up, wear a suit. [[00:01:00](https://www.youtube.com/watch?v=E3bT8smBqJs&t=60.68s)]
+*  Lindsey Graham said, whatever you do, don't get into an argument. [[00:01:03](https://www.youtube.com/watch?v=E3bT8smBqJs&t=63.839999999999996s)]
+*  So what does Zelensky do? [[00:01:06](https://www.youtube.com/watch?v=E3bT8smBqJs&t=66.52s)]
+*  He gets into an argument with Donald Trump and Mr. Vance and suddenly Mr. Z is looking [[00:01:08](https://www.youtube.com/watch?v=E3bT8smBqJs&t=68.32s)]
+*  for plan B. [[00:01:12](https://www.youtube.com/watch?v=E3bT8smBqJs&t=72.56s)]
+*  Yeah, he was kicked out of the White House. [[00:01:13](https://www.youtube.com/watch?v=E3bT8smBqJs&t=73.68s)]
+*  He said, go home, go packing because we're not giving you this deal because Zelensky [[00:01:15](https://www.youtube.com/watch?v=E3bT8smBqJs&t=75.48s)]
+*  wanted security guarantees. [[00:01:21](https://www.youtube.com/watch?v=E3bT8smBqJs&t=81.32s)]
+*  And President Trump and J.D. Vance said, look, you have not been grateful. [[00:01:22](https://www.youtube.com/watch?v=E3bT8smBqJs&t=82.92s)]
+*  Look at what we've done. [[00:01:26](https://www.youtube.com/watch?v=E3bT8smBqJs&t=86.88000000000001s)]
+*  We've sent you weapons, we've sent you money and you have to be grateful. [[00:01:27](https://www.youtube.com/watch?v=E3bT8smBqJs&t=87.88000000000001s)]
+*  And it was the beginning of what could be a peace deal between Russia and Ukraine. [[00:01:30](https://www.youtube.com/watch?v=E3bT8smBqJs&t=90.92s)]
+*  I really think, and Brian, I want to get your thoughts on it. [[00:01:34](https://www.youtube.com/watch?v=E3bT8smBqJs&t=94.96000000000001s)]
+*  I really thought he crossed the line when he implied a threat. [[00:01:38](https://www.youtube.com/watch?v=E3bT8smBqJs&t=98.52000000000001s)]
+*  When he said the ocean, you guys have the ocean separating you, but maybe not soon enough. [[00:01:42](https://www.youtube.com/watch?v=E3bT8smBqJs&t=102.88s)]
+*  And you saw the rage in the president at that point when he goes, don't you, you have no [[00:01:47](https://www.youtube.com/watch?v=E3bT8smBqJs&t=107.94s)]
+*  right to say that. [[00:01:52](https://www.youtube.com/watch?v=E3bT8smBqJs&t=112.72s)]
+*  No position to tell us. [[00:01:53](https://www.youtube.com/watch?v=E3bT8smBqJs&t=113.72s)]
+*  I thought he said that. [[00:01:56](https://www.youtube.com/watch?v=E3bT8smBqJs&t=116.0s)]
+*  Let Europe deal with it. [[00:01:57](https://www.youtube.com/watch?v=E3bT8smBqJs&t=117.52s)]
+*  Yeah, right. [[00:01:58](https://www.youtube.com/watch?v=E3bT8smBqJs&t=118.52s)]
+*  Let other people, let other countries give money. [[00:01:59](https://www.youtube.com/watch?v=E3bT8smBqJs&t=119.52s)]
+*  But but he also did one other thing that was extraordinary. [[00:02:01](https://www.youtube.com/watch?v=E3bT8smBqJs&t=121.03999999999999s)]
+*  Zelensky was lecturing past presidents. [[00:02:03](https://www.youtube.com/watch?v=E3bT8smBqJs&t=123.64s)]
+*  He said, look, Obama had the chance to stop it. [[00:02:06](https://www.youtube.com/watch?v=E3bT8smBqJs&t=126.32s)]
+*  Trump had the chance to stop it. [[00:02:09](https://www.youtube.com/watch?v=E3bT8smBqJs&t=129.8s)]
+*  So he's saying, hey, you didn't stop it. [[00:02:11](https://www.youtube.com/watch?v=E3bT8smBqJs&t=131.44s)]
+*  And look where we are. [[00:02:13](https://www.youtube.com/watch?v=E3bT8smBqJs&t=133.44s)]
+*  He said, and then Joe Biden didn't stop it. [[00:02:14](https://www.youtube.com/watch?v=E3bT8smBqJs&t=134.44s)]
+*  So he was sassy with the guy who he needed to bail him out on this. [[00:02:17](https://www.youtube.com/watch?v=E3bT8smBqJs&t=137.32s)]
+*  So on the couch, everyone was quiet except JD Vance and Marco Rubio was sitting right [[00:02:22](https://www.youtube.com/watch?v=E3bT8smBqJs&t=142.76s)]
+*  in the middle as secretary of state. [[00:02:27](https://www.youtube.com/watch?v=E3bT8smBqJs&t=147.56s)]
+*  He's the one who talked to the Russians in Saudi Arabia. [[00:02:29](https://www.youtube.com/watch?v=E3bT8smBqJs&t=149.56s)]
+*  He's the one who's going to be moving it up the ranks and maybe meeting with Lavrov again [[00:02:32](https://www.youtube.com/watch?v=E3bT8smBqJs&t=152.24s)]
+*  directly. [[00:02:36](https://www.youtube.com/watch?v=E3bT8smBqJs&t=156.2s)]
+*  Here's what he said was his take on what Zelensky did wrong. [[00:02:37](https://www.youtube.com/watch?v=E3bT8smBqJs&t=157.2s)]
+*  I really am puzzled why anyone thinks that trying to be a peacemaker is a bad thing. [[00:02:41](https://www.youtube.com/watch?v=E3bT8smBqJs&t=161.04s)]
+*  It's only a bad thing when it's Donald Trump trying to do it. [[00:02:46](https://www.youtube.com/watch?v=E3bT8smBqJs&t=166.28s)]
+*  I would ask everybody this. [[00:02:48](https://www.youtube.com/watch?v=E3bT8smBqJs&t=168.36s)]
+*  If there are no negotiations, what is the alternative? [[00:02:49](https://www.youtube.com/watch?v=E3bT8smBqJs&t=169.92s)]
+*  Another four years of war, another three years of war in which the United States and Europe [[00:02:52](https://www.youtube.com/watch?v=E3bT8smBqJs&t=172.82s)]
+*  continues to pour billions of dollars into a war in Ukraine. [[00:02:57](https://www.youtube.com/watch?v=E3bT8smBqJs&t=177.04s)]
+*  Is that the alternative? [[00:03:00](https://www.youtube.com/watch?v=E3bT8smBqJs&t=180.56s)]
+*  I've asked every foreign minister I meet with, tell me your idea of how this turns out. [[00:03:02](https://www.youtube.com/watch?v=E3bT8smBqJs&t=182.32s)]
+*  Most don't have a plan. [[00:03:06](https://www.youtube.com/watch?v=E3bT8smBqJs&t=186.96s)]
+*  A few have said, well, let's give them another year of fighting. [[00:03:08](https://www.youtube.com/watch?v=E3bT8smBqJs&t=188.12s)]
+*  A year from now, a year later, after another year of death, another year of destruction, [[00:03:10](https://www.youtube.com/watch?v=E3bT8smBqJs&t=190.96s)]
+*  then maybe Putin will be ready to negotiate at that point. [[00:03:16](https://www.youtube.com/watch?v=E3bT8smBqJs&t=196.0s)]
+*  No one here is claiming Vladimir Putin is going to get the Nobel Peace Prize this year [[00:03:18](https://www.youtube.com/watch?v=E3bT8smBqJs&t=198.79999999999998s)]
+*  or that he should be the man of the year of the Humanitarian Association. [[00:03:22](https://www.youtube.com/watch?v=E3bT8smBqJs&t=202.32s)]
+*  What we're arguing here is he has a very large country. [[00:03:25](https://www.youtube.com/watch?v=E3bT8smBqJs&t=205.67999999999998s)]
+*  They're in full war footing. [[00:03:29](https://www.youtube.com/watch?v=E3bT8smBqJs&t=209.67999999999998s)]
+*  They're cranking out weapons now at a war footing pace. [[00:03:32](https://www.youtube.com/watch?v=E3bT8smBqJs&t=212.07999999999998s)]
+*  And we need to figure out, is there a way to get them to stop the war? [[00:03:35](https://www.youtube.com/watch?v=E3bT8smBqJs&t=215.12s)]
+*  And the only way you're going to do that is to get Russians engaged in negotiations. [[00:03:38](https://www.youtube.com/watch?v=E3bT8smBqJs&t=218.72s)]
+*  Right. [[00:03:42](https://www.youtube.com/watch?v=E3bT8smBqJs&t=222.68s)]
+*  Zelensky told the BBC that the minerals deal still—he is still ready to sign it. [[00:03:43](https://www.youtube.com/watch?v=E3bT8smBqJs&t=223.68s)]
+*  Now he is. [[00:03:48](https://www.youtube.com/watch?v=E3bT8smBqJs&t=228.16s)]
+*  Prime Minister Stammer of the UK said it would require—they've been working, they worked [[00:03:49](https://www.youtube.com/watch?v=E3bT8smBqJs&t=229.16s)]
+*  over the weekend to try to come up with a peace plan. [[00:03:53](https://www.youtube.com/watch?v=E3bT8smBqJs&t=233.12s)]
+*  And he said that it would require strong U.S. backing. [[00:03:56](https://www.youtube.com/watch?v=E3bT8smBqJs&t=236.16s)]
+*  So his formal plan, he'll send it to the U.S. and work with Donald Trump, he said. [[00:03:59](https://www.youtube.com/watch?v=E3bT8smBqJs&t=239.04s)]
+*  NATO had a summit without us, which is—I don't think we were upset by it, but I would [[00:04:02](https://www.youtube.com/watch?v=E3bT8smBqJs&t=242.24s)]
+*  rather not— [[00:04:07](https://www.youtube.com/watch?v=E3bT8smBqJs&t=247.04000000000002s)]
+*  Not helpful. [[00:04:08](https://www.youtube.com/watch?v=E3bT8smBqJs&t=248.04000000000002s)]
+*  —have NATO meetings without us. [[00:04:09](https://www.youtube.com/watch?v=E3bT8smBqJs&t=249.04000000000002s)]
+*  The—you all put together a four-step plan. [[00:04:10](https://www.youtube.com/watch?v=E3bT8smBqJs&t=250.04000000000002s)]
+*  They said to keep the military aid flowing to Ukraine is one. [[00:04:11](https://www.youtube.com/watch?v=E3bT8smBqJs&t=251.72s)]
+*  At lasting peace must ensure Ukraine's sovereignty and security. [[00:04:14](https://www.youtube.com/watch?v=E3bT8smBqJs&t=254.76s)]
+*  Number three, in the event of a peace deal, European leaders will aim to deter any future [[00:04:18](https://www.youtube.com/watch?v=E3bT8smBqJs&t=258.04s)]
+*  invasion, which I assume they're committing to troops. [[00:04:21](https://www.youtube.com/watch?v=E3bT8smBqJs&t=261.72s)]
+*  And number four, there'll be a collision—there'll be a coalition of the willing to defend Ukraine [[00:04:24](https://www.youtube.com/watch?v=E3bT8smBqJs&t=264.64s)]
+*  and guarantee peace in the country. [[00:04:29](https://www.youtube.com/watch?v=E3bT8smBqJs&t=269.4s)]
+*  In other words, they're not calling us out. [[00:04:31](https://www.youtube.com/watch?v=E3bT8smBqJs&t=271.04s)]
+*  I don't—if anyone characterizes the Europeans as being angry at us, I have not read anything [[00:04:33](https://www.youtube.com/watch?v=E3bT8smBqJs&t=273.04s)]
+*  about that. [[00:04:38](https://www.youtube.com/watch?v=E3bT8smBqJs&t=278.6s)]
+*  But they're saying we have to somehow understand the U.S. might not be aboard in Ukraine. [[00:04:39](https://www.youtube.com/watch?v=E3bT8smBqJs&t=279.6s)]
+*  I think they're calling us out. [[00:04:44](https://www.youtube.com/watch?v=E3bT8smBqJs&t=284.44s)]
+*  I really do. [[00:04:45](https://www.youtube.com/watch?v=E3bT8smBqJs&t=285.8s)]
+*  I think they're upset. [[00:04:46](https://www.youtube.com/watch?v=E3bT8smBqJs&t=286.84000000000003s)]
+*  We're going to do it ourselves. [[00:04:47](https://www.youtube.com/watch?v=E3bT8smBqJs&t=287.84000000000003s)]
+*  100 percent. [[00:04:48](https://www.youtube.com/watch?v=E3bT8smBqJs&t=288.84000000000003s)]
+*  Knock yourself out. [[00:04:49](https://www.youtube.com/watch?v=E3bT8smBqJs&t=289.84000000000003s)]
+*  Knock yourself out. [[00:04:50](https://www.youtube.com/watch?v=E3bT8smBqJs&t=290.84000000000003s)]
+*  If you want to do it by yourself. [[00:04:51](https://www.youtube.com/watch?v=E3bT8smBqJs&t=291.84000000000003s)]
+*  But again, all of this is virtue. [[00:04:53](https://www.youtube.com/watch?v=E3bT8smBqJs&t=293.96000000000004s)]
+*  All of the photos that were released, all of the meetings that were released, because [[00:04:56](https://www.youtube.com/watch?v=E3bT8smBqJs&t=296.16s)]
+*  at the end of the day, you had the ambassador from the UK that said—after all of us saying [[00:04:59](https://www.youtube.com/watch?v=E3bT8smBqJs&t=299.6s)]
+*  all of that nonsense said, oh, none of this happens without the support of the United [[00:05:04](https://www.youtube.com/watch?v=E3bT8smBqJs&t=304.24s)]
+*  States. [[00:05:08](https://www.youtube.com/watch?v=E3bT8smBqJs&t=308.36s)]
+*  Well, here's ultimately what's going to happen. [[00:05:09](https://www.youtube.com/watch?v=E3bT8smBqJs&t=309.36s)]
+*  They had on paper the deal that was going to be signed. [[00:05:10](https://www.youtube.com/watch?v=E3bT8smBqJs&t=310.36s)]
+*  Whatever the magic number was, how many hundreds of billions of dollars' worth of minerals [[00:05:13](https://www.youtube.com/watch?v=E3bT8smBqJs&t=313.32s)]
+*  the United States was going to get, Donald Trump just got a better deal because eventually [[00:05:18](https://www.youtube.com/watch?v=E3bT8smBqJs&t=318.23999999999995s)]
+*  we're going to sign it. [[00:05:23](https://www.youtube.com/watch?v=E3bT8smBqJs&t=323.4s)]
+*  But whatever that number was, say it was $200 billion, now it's $300 or $400. [[00:05:24](https://www.youtube.com/watch?v=E3bT8smBqJs&t=324.67999999999995s)]
+*  That's how Donald Trump works when it comes to negotiating. [[00:05:31](https://www.youtube.com/watch?v=E3bT8smBqJs&t=331.55999999999995s)]
+*  Hey, you blew it. [[00:05:33](https://www.youtube.com/watch?v=E3bT8smBqJs&t=333.96s)]
+*  You want to come back and talk to me? [[00:05:34](https://www.youtube.com/watch?v=E3bT8smBqJs&t=334.96s)]
+*  It's going to cost you. [[00:05:36](https://www.youtube.com/watch?v=E3bT8smBqJs&t=336.76s)]
+*  Maybe. [[00:05:37](https://www.youtube.com/watch?v=E3bT8smBqJs&t=337.76s)]
+*  But I think in the big picture, think long term. [[00:05:38](https://www.youtube.com/watch?v=E3bT8smBqJs&t=338.76s)]
+*  Do we want another American ally being taken over by another country? [[00:05:41](https://www.youtube.com/watch?v=E3bT8smBqJs&t=341.20000000000005s)]
+*  If we pull out for a sustained period of time, we have to be prepared for Kiev to fall into [[00:05:46](https://www.youtube.com/watch?v=E3bT8smBqJs&t=346.16s)]
+*  Vladimir Putin's hand, and that's not going to look—look any administration make him [[00:05:50](https://www.youtube.com/watch?v=E3bT8smBqJs&t=350.84000000000003s)]
+*  look good. [[00:05:54](https://www.youtube.com/watch?v=E3bT8smBqJs&t=354.64000000000004s)]
