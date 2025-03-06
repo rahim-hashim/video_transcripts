@@ -16,6 +16,7 @@ author_dict['news_author'] = [
   'ABC',
 	'CBS',
   'CNN',
+	'Fox News',
   'NBC',
 	'Ezra Klein', 
   'New York Times',
@@ -296,17 +297,17 @@ def load_transcripts(
 		verbose=False
 	):
 	# author_name = sys.argv[1]
-	if author_names not in author_dict.keys():
-		print(f'Searching for {author_name} transcripts...')
-		# check if the dataframe exists
-		if dataframe_exists(author_name) and not reload:
-			print(f'Found: transcript_df already exists.')
-			dataframe_dir_path = os.path.join('_Dataframes', f'{author_name}_transcript_df.pickle')
-			print(f'  Loading \'{dataframe_dir_path}\'...')
-			with open(dataframe_dir_path, 'rb') as f:
-				transcript_df = pickle.load(f)
-				print(f'  Number of transcripts: {len(transcript_df)}.')
-				return transcript_df
+	# if author_names not in author_dict.keys():
+	# 	print(f'Searching for {author_name} transcripts...')
+	# 	# check if the dataframe exists
+	# 	if dataframe_exists(author_name) and not reload:
+	# 		print(f'Found: transcript_df already exists.')
+	# 		dataframe_dir_path = os.path.join('_Dataframes', f'{author_name}_transcript_df.pickle')
+	# 		print(f'  Loading \'{dataframe_dir_path}\'...')
+	# 		with open(dataframe_dir_path, 'rb') as f:
+	# 			transcript_df = pickle.load(f)
+	# 			print(f'  Number of transcripts: {len(transcript_df)}.')
+	# 			return transcript_df
 	# if the dataframe does not exist, create it by reading the transcripts
 	transcript_paths_dict = find_transcripts(author_names)
 	transcripts_dict = defaultdict(lambda: defaultdict(list))
