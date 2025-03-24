@@ -1,12 +1,15 @@
 podcast_playlist_names = {
+  # mainstream news
   # 'https://www.youtube.com/playlist?list=PLnwt1fUa-EVhHEHY16Za6nORjkefQpR8_': 'AP News - Israel Palestine',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOExDwCvqcjMvaaKPHw-e_3XA': 'NBC - Chris Hayes',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEyETRGoRP9y8zhyu6bHl6iK': 'NBC - Rachel Maddow',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEwfv0LML1BGBlPxZsnoa0xM': 'NBC - Ali Vitali',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEzOrc-KpytMYuN9zOXB2cd3': 'NBC - Middle East',
+  'https://www.youtube.com/playlist?list=PLEb3ThbkPrFbwLLgwnOaB3QXvaTHjskWB': 'CBS - Top News',
   'https://www.youtube.com/playlist?list=PLjOdCQvzbrcGIE4axxNh-ITK2fOA4q3Nb': 'CNN - Amanpour - Middle East',
   'https://www.youtube.com/playlist?list=PLjOdCQvzbrcHHZ_jG9Uld25V0g3NorM-y': 'CNN - Amanpour - International Politics',
   'https://www.youtube.com/playlist?list=PL6XRrncXkMaU55GiCvv416NR2qBD_xbmf': 'CNN - Israel Palestine',
+  'https://www.youtube.com/playlist?list=PL6XRrncXkMaVXAutoJ8D2RDKAz_XufaFm': 'CNN - World News',
   'https://www.youtube.com/playlist?list=PLiBCWgmydwnQeRr49qMRGCQpq4ru7zKYB': 'CBS - Face the Nation - Middle East',
   'https://www.youtube.com/playlist?list=PLiBCWgmydwnShGCflEgLOVZIL32dbbdKb': 'CBS - Face the Nation - World News',
   'https://www.youtube.com/playlist?list=PLlTLHnxSVuIyMU4Q4I8NsLAVK1iNANGW9': 'Fox News - Israel Palestine',
@@ -35,6 +38,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman',
   # 'https://www.youtube.com/playlist?list=PLHZGTTZG6HcI2tr4tg8oak8_6Wz5on1jY': 'Chomsky\'s Philosophy - Best of Chomsky',
   'https://www.youtube.com/playlist?list=PLM4u6XbiXf5p7irrx8GfeXslWyGB9DGjg': 'a16z Bio',
+  'https://www.youtube.com/playlist?list=PLUiBUNqvsvrgDDM2V7as8tt7PJCF_wM-x': 'HasanAbi',
   'https://www.youtube.com/playlist?list=PLrxfgDEc2NxY_fRExpDXr87tzRbPCaA5x': 'Mindscape Podcast',
   'https://www.youtube.com/playlist?list=PL6ZR-sD5vIlxemueCxB9HLe9I9_K9l5jQ': 'Empire Podcast',
   'https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W': 'Conversation with Tyler',
@@ -53,7 +57,9 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLTpcK80irdQgz9WLvn1yxFWLXbZw20aV7': 'The Young Turks - Hour 1',
   'https://www.youtube.com/playlist?list=PLTpcK80irdQjwxSkQkLHTvGy2abINHRym': 'The Young Turks - Hour 2',
   'https://www.youtube.com/playlist?list=PLsnSWTCV9wc5nV9PVgeDQ_zFar8jN0nve': 'Dropsite News',
-  'https://www.youtube.com/playlist?list=PLS_48r7yuHnsRSghHtImrz-VEAl4hmUKE': 'Glenn Greenwald - System Update'
+  'https://www.youtube.com/playlist?list=PLS_48r7yuHnsRSghHtImrz-VEAl4hmUKE': 'Glenn Greenwald - System Update',
+  # US Congressmen
+  # https://www.youtube.com/@RepAlGreen/videos # Al Green
 }
 
 podcast_channel_names = {

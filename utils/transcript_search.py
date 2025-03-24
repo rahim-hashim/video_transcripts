@@ -4,6 +4,7 @@ import sys
 import pickle
 import datetime
 import pandas as pd
+import numpy as np
 import seaborn as sns
 from tqdm import tqdm
 from utils import fuzzy_lookup
@@ -289,6 +290,17 @@ def fuzzy_search(transcript_df, target_word_list, fuzzy_threshold=0.85):
 		transcript_df[f'max_fuzzy_word_{key}'] = max_fuzzy_word_list[key]
 	return transcript_df
 
+def add_fields(transcript_df):
+	length_times = []
+	for length in transcript_df['length']:
+		if type(length) == str:
+			length_times.append(int(length.split('s')[0]))
+		else:
+			length_times.append(np.nan)
+
+	transcript_df['length_time'] = length_times
+	return transcript_df
+
 def load_transcripts(
 		author_names = ['New York Times'], 
 		reload=True, 
@@ -316,6 +328,7 @@ def load_transcripts(
 			if '.md' in transcript_path:
 				transcripts_dict = read_transcript(author_name, transcript_path, transcripts_dict, verbose)
 	transcript_df = dict_to_pandas(transcripts_dict)
+	transcript_df = add_fields(transcript_df)
 	if save_df:
 		pickle_transcript_df(transcript_df, save_name)
 	return transcript_df

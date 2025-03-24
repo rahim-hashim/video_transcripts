@@ -205,7 +205,7 @@ class Video:
 			f.write(f'Video Description: {self.description}\n')
 		f.write('---\n\n')
 
-	def write_transcript(self):
+	def write_transcript(self, no_timestamps=False):
 		'''Write the transcript to a markdown file'''
 		print('Writing transcript to file')
 		# if file does not exist, write the transcript
@@ -223,6 +223,8 @@ class Video:
 				# get link to the youtube video with the timestamp
 				timestamp_link = f'{self.url}&t={timestamp}s'
 				timestamp_str = time.strftime('%H:%M:%S', time.gmtime(timestamp))
+				if no_timestamps:
+					continue
 				f.write(f'* {segment} [[{timestamp_str}]({timestamp_link})]\n')
 		f.close()
 
@@ -237,7 +239,11 @@ def extract_playlist_urls(args, playlists):
 	for playlist_url in playlists:
 		playlist = Playlist(playlist_url)
 		playlist_url_list = list(playlist.video_urls)
-		print(f'Transcribing Playlist: {playlist.title}')
+		try:
+			print(f'Transcribing Playlist: {playlist.title}')
+		except Exception as e:
+			print(f'  Error: {e}')
+			continue
 		print(f'  Number of Total Videos: {len(playlist_url_list)}')
 		if args.refresh and args.max_load == None:
 			print(f'     --refresh specified')
@@ -286,8 +292,21 @@ if __name__ == '__main__':
 		default=1000, 
 		type=int
 	)
-	parser.add_argument('--search_all', help='If specified, does not break transcription loop once a repeat has been detected', action='store_true')
-	parser.add_argument('--git', help='If specified, push the changes to git', action='store_true')
+	parser.add_argument(
+		'--search_all', 
+		help='If specified, does not break transcription loop once a repeat has been detected', 
+		action='store_true'
+	)
+	parser.add_argument(
+		'--no_timestamps',
+		help='If specified, does not include timestamps in the transcript',
+		action='store_true'
+	)
+	parser.add_argument(
+		'--git', 
+		help='If specified, push the changes to git', 
+		action='store_true'
+	)
 
 	args = parser.parse_args()
 	
@@ -305,7 +324,7 @@ if __name__ == '__main__':
 		local_path = args.local_path
 		video.get_video(source=args.source, local_path=local_path)
 		video.transcribe_video(video, model)
-		video.write_transcript()
+		video.write_transcript(args.no_timestamps)
 		sys.exit()
 
 	# Youtube videos
@@ -329,6 +348,8 @@ if __name__ == '__main__':
 		url_dict[args.url].append(args.url)
 
 	print(f'Number of Channels: {len(url_dict)}')
+	if args.no_timestamps:
+		print('  Skipping timestamps in transcript.')
 	transcribed_url_count = 0
 	for c_index, channel in enumerate(tqdm(url_dict.keys())):
 		print(f'Transcribing Channel: {channel}')
@@ -353,7 +374,7 @@ if __name__ == '__main__':
 			# Transcribe the video
 			if not video.transcript_exists and status != None:
 				video.transcribe_video(video, model)
-				video.write_transcript()
+				video.write_transcript(args.no_timestamps)
 				video.delete_video()
 				transcribed_url_count += 1
 			elif status == None and not args.search_all:

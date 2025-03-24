@@ -1,0 +1,62 @@
+---
+Date Generated: March 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 275s
+Video Keywords: ['Jim Acosta', 'Cedric Leighton', 'Crimea', 'Ukraine', 'Russia', 'World News']
+Video Views: 575160
+Video Rating: None
+Video Description: Retired Air Force colonel Cedric Leighton breaks down the missile attack by Ukraine against the Black Sea Fleet headquarters in occupied Crimea. #CNN #News
+---
+
+# Retired colonel explains the strategy behind Ukraine’s Black Sea strike
+**CNN - World News:** [September 23, 2023](https://www.youtube.com/watch?v=ZDNMkGBn5Pc)
+*  Take a look at that. That was the moment a Ukrainian cruise missile struck the headquarters [[00:00:00](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=0.0s)]
+*  of Russia's Black Sea Fleet in Crimea. Ukraine says the attack left dozens dead and wounded, [[00:00:10](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=10.56s)]
+*  including senior Russian naval officers. Joining us now to discuss is CNN military analyst [[00:00:16](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=16.36s)]
+*  and retired U.S. Air Force Colonel Cedric Layton. Colonel Layton, that's some pretty [[00:00:20](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=20.56s)]
+*  impressive firepower that the Ukrainians just unleashed on the Russians there. [[00:00:26](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=26.04s)]
+*  Help us understand the significance of this strike. Sure is, Jim. One of the key things [[00:00:30](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=30.439999999999998s)]
+*  to think about here is exactly what happened. You look at this roof and it's basically destroyed [[00:00:34](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=34.62s)]
+*  right here with this impact from the missile. And when you look at the other things that happened [[00:00:40](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=40.0s)]
+*  on the street here in Sevastopol, there's a lot of collateral damage that's associated with this [[00:00:46](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=46.04s)]
+*  missile strike. So what the Ukrainians did was really impressive from a tactical standpoint and [[00:00:51](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=51.24s)]
+*  also from a strategic standpoint because this right here is the headquarters of the Russian [[00:00:56](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=56.52s)]
+*  Black Sea Fleet. And that, of course, is one of the main areas where they're actually looking at [[00:01:01](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=61.480000000000004s)]
+*  all the different command and control aspects that the Russians are running out of this building. [[00:01:06](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=66.68s)]
+*  And so this one of the key things that you have here is, you know, when you're looking at Crimea, [[00:01:13](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=73.68s)]
+*  Sevastopol is right about here and you've got them running all of this right, all of the Black Sea [[00:01:19](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=79.56s)]
+*  operations right here. You also have them controlling what's going on in the southern front. And so when [[00:01:26](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=86.12s)]
+*  they're doing this, they're also looking at controlling what's going on in Odessa. And that [[00:01:31](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=91.80000000000001s)]
+*  is, of course, important because this is where Ukraine is actually shipping its grain out of. So [[00:01:36](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=96.60000000000001s)]
+*  anything that the Ukrainians can do to attack this particular target, that is what is critical for [[00:01:42](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=102.28s)]
+*  the Ukrainians from their war effort. Right. And Ukraine may soon be getting these long-range [[00:01:49](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=109.0s)]
+*  missiles known as Atacams. What impact does an attack like this have on their argument for more [[00:01:53](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=113.64s)]
+*  systems like this? Because, I mean, this is the kind of, I guess, punishment they want to inflict [[00:01:59](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=119.96000000000001s)]
+*  on the Russians. Well, it certainly is. So Atacam systems, like the one that is being used right [[00:02:05](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=125.48s)]
+*  here, and when you see this, this is the Atacams in flight, what this particular missile can do [[00:02:11](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=131.4s)]
+*  is, of course, go over a whole area that is about 190 miles or so. So if you launch it from about [[00:02:17](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=137.48s)]
+*  here, it could cover this area right in here. What the Ukrainians did when they launched this attack, [[00:02:26](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=146.2s)]
+*  they came in and they used probably what amounts to a homegrown missile or one of these missiles. [[00:02:32](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=152.35999999999999s)]
+*  And this is the Storm Shadow missile, which is on the Su-24 fighter jet that the Ukrainians have. So [[00:02:38](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=158.92s)]
+*  when they did this, they were able to use this kind of equipment and do it in a way that actually [[00:02:45](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=165.8s)]
+*  was, you know, I think, partly a more important way of handling this. But it was also a system [[00:02:51](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=171.24s)]
+*  that where they're improvising using some Western things, some Western weapons systems to do this. [[00:02:58](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=178.52s)]
+*  But the other things that they can do here is they can actually use this in a way that they have [[00:03:03](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=183.64000000000001s)]
+*  the range for the Storm Shadow. It can be up to 250 miles, depending on the variant. It's an air [[00:03:09](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=189.8s)]
+*  launch system, like I mentioned with the Su-24, and it can hit hardened targets. Now, if they [[00:03:15](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=195.4s)]
+*  bring the Atacams into this, it ranges about 190 miles. It is a ground launch system. It [[00:03:20](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=200.12s)]
+*  originally was used to handle infantry and softer targets, but it can also handle some of the more [[00:03:25](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=205.96s)]
+*  hardened targets, such as armor. So this is a critical thing. There's one capability with the [[00:03:30](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=210.68s)]
+*  Storm Shadow. There's another capability with the Atacams, and they are complementary to each other. [[00:03:35](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=215.0s)]
+*  Yeah, their capabilities are certainly getting upgraded. And one Ukrainian official warned that [[00:03:40](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=220.20000000000002s)]
+*  the Black Sea fleet could be, quote, sliced up like a salami in potential future strikes. [[00:03:44](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=224.6s)]
+*  How do you think Ukraine could pull that off? Can they pull that off? [[00:03:50](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=230.51999999999998s)]
+*  Well, I think one of the key things is that when the Ukrainians are doing this, they are actually [[00:03:53](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=233.4s)]
+*  using something that is part of the intelligence process. They're going through, and they're taking [[00:03:58](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=238.35999999999999s)]
+*  a look and seeing where each one of these ships is, for example. And if they target each one of [[00:04:03](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=243.24s)]
+*  these ships, what they're doing, Jim, is they're making sure that the Russian capability to control [[00:04:08](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=248.84s)]
+*  the Black Sea, all of this water right here, is limited. So they can actually do this, [[00:04:14](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=254.52s)]
+*  and it is possible that they could actually slice and dice the Black Sea fleet if they wanted to. [[00:04:19](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=259.40000000000003s)]
+*  All right, we'll be watching for that. We know you will as well, Colonel Cedric Layton. [[00:04:25](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=265.32s)]
+*  Always appreciate your expertise and insights. Thanks for coming in on this rainy Saturday evening. [[00:04:28](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=268.84000000000003s)]
+*  Really appreciate it. You bet. [[00:04:33](https://www.youtube.com/watch?v=ZDNMkGBn5Pc&t=273.96000000000004s)]

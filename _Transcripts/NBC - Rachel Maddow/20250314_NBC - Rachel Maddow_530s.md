@@ -1,0 +1,151 @@
+---
+Date Generated: March 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 530s
+Video Keywords: ['Rachel Maddow']
+Video Views: 193567
+Video Rating: None
+Video Description: Rachel Maddow looks at how the Department of Justice under the second Trump administration has abandoned any pretense of being a bulwark for the rule of law, and has instead allowed itself to be used to exact revenge against Donald Trump's political and legal opponents, and to exercise Trump's grievances. 
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#MSNBC #DOJ #Trump
+---
+
+# Trump hones Justice Department as weapon of revenge; some dull edges remain
+**NBC - Rachel Maddow:** [March 14, 2025](https://www.youtube.com/watch?v=7X2-yEQsjp8)
+*  One of Donald Trump's first acts upon being sworn in as president for a second term was [[00:00:00](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=0.0s)]
+*  to appoint a new U.S. attorney in Washington, D.C. [[00:00:04](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=4.48s)]
+*  His name is Ed Martin. [[00:00:07](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=7.08s)]
+*  It quickly became clear what made Ed Martin so appealing to Trump for this term. [[00:00:08](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=8.08s)]
+*  Ed Martin was at the U.S. Capitol on January 6th. [[00:00:13](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=13.280000000000001s)]
+*  He said it was great, said it was like Mardi Gras. [[00:00:17](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=17.88s)]
+*  He later served as a defense lawyer for several Trump supporters who were charged with attacking [[00:00:20](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=20.64s)]
+*  police officers during the attack on the Capitol that day. [[00:00:25](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=25.080000000000002s)]
+*  Once Trump named him U.S. attorney in Washington, the top federal prosecutor in Washington, [[00:00:29](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=29.24s)]
+*  D.C., Mr. Martin immediately set about demoting and firing federal prosecutors who had worked [[00:00:33](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=33.68s)]
+*  on January 6th cases. [[00:00:39](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=39.68s)]
+*  He also, honestly, tried to indict Chuck Schumer, the top Democrat in the Senate, an effort [[00:00:42](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=42.08s)]
+*  so outlandish he apparently couldn't even get Trump Justice Department officials to [[00:00:49](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=49.92s)]
+*  sign off on it. [[00:00:53](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=53.92s)]
+*  Ed Martin also tried to get one top prosecutor in his office to order a bank to freeze billions [[00:00:56](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=56.12s)]
+*  of dollars that had been dispersed by the Biden administration in a federal grant. [[00:01:02](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=62.36s)]
+*  That prosecutor resigned rather than follow that order from Ed Martin. [[00:01:06](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=66.56s)]
+*  She resigned because she said there was no crime, there was no legal justification for [[00:01:10](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=70.75999999999999s)]
+*  opening a criminal investigation and thereby freezing those funds. [[00:01:16](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=76.03999999999999s)]
+*  She said he was essentially telling her to fake a criminal investigation and she wouldn't [[00:01:20](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=80.46s)]
+*  do it. [[00:01:24](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=84.52s)]
+*  Ed Martin, after she resigned, then personally signed and submitted a seizure warrant for [[00:01:26](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=86.47999999999999s)]
+*  the funds in that bank account because he couldn't find anybody else willing to sign [[00:01:32](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=92.39999999999999s)]
+*  it. [[00:01:36](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=96.8s)]
+*  The judge he submitted that warrant to rejected it because, again, no evidence of any crime. [[00:01:37](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=97.8s)]
+*  This week, Congressman Jamie Raskin, Democrat of Maryland, asked the Justice Department's [[00:01:45](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=105.56s)]
+*  inspector general to open an inquiry into the behavior of Mr. Martin as U.S. attorney [[00:01:49](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=109.84s)]
+*  in Washington, D.C. [[00:01:55](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=115.92s)]
+*  Raskin's letter outlined all the things Martin has done that he says could potentially deserve [[00:01:57](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=117.16s)]
+*  investigation by the inspector general. [[00:02:02](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=122.28s)]
+*  The list runs to nine pages, single-spaced, in small type. [[00:02:04](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=124.44s)]
+*  Ed Martin hasn't even been running that office for two months. [[00:02:09](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=129.6s)]
+*  Democrats in the Senate have also asked for an investigation of Ed Martin from the D.C. [[00:02:13](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=133.52s)]
+*  bar. [[00:02:17](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=137.6s)]
+*  And in a development that's surely totally unrelated, I should mention that Ed Martin [[00:02:19](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=139.2s)]
+*  and Trump's attorney general, Pam Bondi, are reportedly now moving to try to take control [[00:02:23](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=143.2s)]
+*  of the D.C. bar themselves. [[00:02:28](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=148.51999999999998s)]
+*  They're doing it very stealthily by having Ed Martin's deputy and Pam Bondi's brother [[00:02:31](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=151.07999999999998s)]
+*  run for leadership roles to take over the D.C. bar. [[00:02:37](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=157.23999999999998s)]
+*  Good luck with that. [[00:02:41](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=161.92s)]
+*  I'm sure nobody will notice. [[00:02:42](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=162.92s)]
+*  Is it the Bondi as in Bondi? [[00:02:43](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=163.92s)]
+*  Yes, same last name. [[00:02:45](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=165.95999999999998s)]
+*  You might think that developments like this might create a real sense of turmoil, hunkering [[00:02:49](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=169.0s)]
+*  down maybe, or at least a lot of renewed hard work at the Justice Department. [[00:02:52](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=172.92s)]
+*  Well, let's look at what Attorney General Pam Bondi has been up to in the midst of this [[00:02:56](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=176.88s)]
+*  mess. [[00:03:00](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=180.48s)]
+*  You might recall that last week Trump signed an executive order to punish a particular [[00:03:01](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=181.48s)]
+*  law firm because that law firm has done work for Democrats. [[00:03:05](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=185.84s)]
+*  Among other things, Trump's executive order would block anyone from that law firm from [[00:03:10](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=190.96s)]
+*  entering federal courthouses, which might make it difficult to be a lawyer in Washington, [[00:03:15](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=195.95999999999998s)]
+*  D.C., I'm just saying. [[00:03:21](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=201.07999999999998s)]
+*  The law firm naturally sued, and because the case was so important to Trump and potentially [[00:03:23](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=203.07999999999998s)]
+*  because it was difficult to find any career prosecutors who really wanted to defend it, [[00:03:28](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=208.67999999999998s)]
+*  Attorney General Pam Bondi sent her own chief of staff, the attorney general's chief of [[00:03:33](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=213.92s)]
+*  staff, to argue the case himself personally in federal court. [[00:03:37](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=217.95999999999998s)]
+*  The judge said Trump's order sent a chill down her spine. [[00:03:44](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=224.6s)]
+*  She said the whole legal profession was, quote, watching in horror what Trump was trying to [[00:03:59](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=239.32s)]
+*  do and what the attorney general's chief of staff was trying and very much failing to [[00:04:03](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=243.84s)]
+*  defend in court. [[00:04:09](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=249.12s)]
+*  Pam Bondi and Trump's Justice Department are also apparently trying to launch an investigation [[00:04:11](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=251.96s)]
+*  into the otherwise totally normal process of funding shelters for migrants in New York [[00:04:16](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=256.44s)]
+*  City. [[00:04:22](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=262.2s)]
+*  I say they are trying to launch an investigation there because they seem to be having trouble [[00:04:23](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=263.2s)]
+*  with some of the fundamentals, like spelling. [[00:04:26](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=266.64s)]
+*  At least one of the subpoenas they sent out has folks in New York scratching their heads [[00:04:30](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=270.44s)]
+*  because it went to something called the Hotel Chandler. [[00:04:34](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=274.04s)]
+*  The Hotel Chandler does not host immigrants at all. [[00:04:38](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=278.44s)]
+*  It's not clear what's going on there with the Hotel Chandler, but a CBS News report [[00:04:43](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=283.44s)]
+*  does note that, quote, a source familiar with the shelter system pointed out that another [[00:04:47](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=287.96s)]
+*  hotel with a similar name, the Candler, is in fact a hotel where they house migrants. [[00:04:52](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=292.4s)]
+*  Asked about the situation with the Chandler and the Candler, a spokesman for the Department [[00:05:01](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=301.68s)]
+*  of Justice said, quote, we will decline to comment on an ongoing investigation. [[00:05:06](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=306.04s)]
+*  Also, Pam, do you... [[00:05:11](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=311.04s)]
+*  But don't worry about it. [[00:05:17](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=317.04s)]
+*  When it comes to the really important stuff, Pam Bondi is on it. [[00:05:18](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=318.28000000000003s)]
+*  This went out from her office this week. [[00:05:21](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=321.28000000000003s)]
+*  All caps. [[00:05:24](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=324.6s)]
+*  Memorandum for all department employees from the attorney general. [[00:05:25](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=325.6s)]
+*  Subject, ending procurement of paper straws. [[00:05:28](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=328.68s)]
+*  Quote, in accordance with President Trump's direction, the Department of Justice, she's [[00:05:32](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=332.71999999999997s)]
+*  talking about the U.S. Department of Justice, shall take appropriate action to eliminate [[00:05:40](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=340.71999999999997s)]
+*  the procurement of paper straws and ensure that paper straws are no longer provided within [[00:05:44](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=344.96s)]
+*  department buildings. [[00:05:50](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=350.59999999999997s)]
+*  Department components shall take appropriate action to identify and eliminate any portion [[00:05:52](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=352.56s)]
+*  of policy or guidance documents designed to disfavor plastic straws. [[00:05:57](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=357.12s)]
+*  Oh, you guys, the Justice Department's long nightmare is over. [[00:06:02](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=362.44s)]
+*  Today, Pam Bondi took time out of her busy schedule of vanquishing plastic straw discrimination [[00:06:10](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=370.64s)]
+*  to welcome the president to the Justice Department, making sure to point out to him the most [[00:06:17](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=377.68s)]
+*  important decor, the picture of him, after which Trump gave a long, long, discursive, [[00:06:22](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=382.24s)]
+*  rambling, angry speech to Justice Department employees that included basically handing [[00:06:29](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=389.24s)]
+*  them a handy list of enemies he'd like them to look into. [[00:06:35](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=395.36s)]
+*  Ed Martin at the D.C. [[00:06:40](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=400.56s)]
+*  U.S. [[00:06:41](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=401.56s)]
+*  Attorney's Office, he seems to already have his own enemies list. [[00:06:42](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=402.56s)]
+*  I mentioned that Ed Martin tried to indict Democratic Senate Leader Chuck Schumer. [[00:06:44](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=404.72s)]
+*  Chuck Schumer is one of only several people, including several elected officials, all Democrats [[00:06:51](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=411.23999999999995s)]
+*  who Martin appears to be targeting for investigation. [[00:06:56](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=416.0s)]
+*  He's also sent a letter to Democratic Congressman Robert Garcia because Robert Garcia criticized [[00:06:58](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=418.52s)]
+*  Elon Musk, so that got him a threatening letter from the U.S. Attorney's Office. [[00:07:04](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=424.68s)]
+*  Democratic Congressman Eugene Vindman this week also revealed that he has received a [[00:07:09](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=429.64s)]
+*  threatening letter from Ed Martin, this one asking about his personal finances. [[00:07:12](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=432.96s)]
+*  And his twin brother, Alexander Vindman, have long been targets of Donald Trump's rage [[00:07:20](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=440.64s)]
+*  and invective for their roles in bringing to light the events that led to Trump's first [[00:07:24](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=444.96000000000004s)]
+*  impeachment. [[00:07:29](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=449.84000000000003s)]
+*  This is the letter that D.C. [[00:07:31](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=451.66s)]
+*  U.S. Attorney Ed Martin sent to Congressman Vindman. [[00:07:33](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=453.08000000000004s)]
+*  It starts, quote, Dear Eugene, do you always write your business just dear? [[00:07:35](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=455.18s)]
+*  Quote, I have received requests for clarification of your personal financial disclosures over [[00:07:43](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=463.2s)]
+*  the past year. [[00:07:48](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=468.68s)]
+*  I look forward to your cooperation with my letter of inquiry after requests. [[00:07:50](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=470.56s)]
+*  Thank you in advance for your assistance with this. [[00:07:55](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=475.0s)]
+*  Please respond by day, month, date 2025. [[00:07:57](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=477.40000000000003s)]
+*  That is literally what the letter says. [[00:08:00](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=480.6s)]
+*  Day, month, date 2025. [[00:08:02](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=482.64s)]
+*  Only the best people. [[00:08:06](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=486.92s)]
+*  Washington Post now reports that Ed Martin has sent about 20 of these kinds of threatening [[00:08:09](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=489.52s)]
+*  letters to public officials and public figures of various kinds. [[00:08:14](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=494.62s)]
+*  We only know about this one to Congressman Vindman because he decided to go public with [[00:08:18](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=498.1s)]
+*  it, saying Trump is trying to, quote, intimidate and silence public servants like me, and it's [[00:08:21](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=501.58000000000004s)]
+*  not going to work. [[00:08:27](https://www.youtube.com/watch?v=7X2-yEQsjp8&t=507.74s)]

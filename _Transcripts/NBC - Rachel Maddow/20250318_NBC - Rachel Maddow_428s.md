@@ -1,0 +1,152 @@
+---
+Date Generated: March 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 428s
+Video Keywords: ['Rachel Maddow']
+Video Views: 250072
+Video Rating: None
+Video Description: Timothy Snyder, professor of history at Yale University, talks with Rachel Maddow about the importance of political activism and protest as Donald Trump tries to dismantle democracy in the United States, and the unsustainably un-democratic way that Trump seems to only recognize having two constituents, Elon Musk and Vladimir Putin.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #ElonMusk #Putin
+---
+
+# Snyder: Trump deference to Musk, Putin over U.S. public opinion is 'unsustainable'
+**NBC - Rachel Maddow:** [March 18, 2025](https://www.youtube.com/watch?v=DFhvMcUDlpk)
+*  In northern Georgia, there's a town called Gainesville. [[00:00:00](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=0.0s)]
+*  It's not Gainesville, Florida. [[00:00:03](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=3.0s)]
+*  Gainesville, Georgia is small. [[00:00:04](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=4.5s)]
+*  It's home to about 47,000 people. [[00:00:06](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=6.0s)]
+*  Gainesville is also home to a regional office of the Social Security Administration, [[00:00:09](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=9.0s)]
+*  one of at least five Social Security offices in the state of Georgia [[00:00:14](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=14.0s)]
+*  that Donald Trump is trying to close, trying to get rid of. [[00:00:18](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=18.0s)]
+*  But look at this. [[00:00:22](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=22.0s)]
+*  Look at this. [[00:00:23](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=23.0s)]
+*  Local residents in Gainesville, Georgia just held as a protest a funeral [[00:00:24](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=24.0s)]
+*  for that Social Security office. [[00:00:29](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=29.0s)]
+*  They showed up in downtown Gainesville. [[00:00:31](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=31.0s)]
+*  They were all black, as if it was a funeral. [[00:00:33](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=33.0s)]
+*  They held little coffins that said RIP Social Security. [[00:00:35](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=35.0s)]
+*  They also focused the bulk of their attention and their rhyming skills [[00:00:39](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=39.0s)]
+*  on their local Republican congressman Andrew Clyde [[00:00:44](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=44.0s)]
+*  for his support for Trump and Elon Musk. [[00:00:47](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=47.0s)]
+*  See signs like this. [[00:00:50](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=50.0s)]
+*  Clyde lies as Social Security dies. [[00:00:51](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=51.0s)]
+*  And KKK lied. [[00:00:54](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=54.0s)]
+*  Doses while Social Security closes, spelling Clyde with three Ks. [[00:00:57](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=57.0s)]
+*  And yeah, this is a relatively small protest, [[00:01:02](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=62.0s)]
+*  but Gainesville, Georgia is a relatively small town. [[00:01:06](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=66.0s)]
+*  The opposition to Trump is turning up in surprising places, [[00:01:10](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=70.0s)]
+*  in places that are doing it in their own totally independent, [[00:01:14](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=74.0s)]
+*  moving and creative ways. [[00:01:18](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=78.0s)]
+*  Joining us now is Timothy Snyder. [[00:01:21](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=81.0s)]
+*  He's the author of On Freedom and On Tyranny. [[00:01:23](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=83.0s)]
+*  He's the Richard C. Levin Professor of History at Yale University. [[00:01:25](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=85.0s)]
+*  Tim, Professor Snyder, it's really nice of you to make time to be here tonight. [[00:01:29](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=89.0s)]
+*  Thank you. [[00:01:32](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=92.0s)]
+*  Of course. [[00:01:33](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=93.0s)]
+*  There's a lot that's going on that I want to talk to you about, [[00:01:35](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=95.0s)]
+*  but I wanted to ask you now that we are this many weeks into it, [[00:01:37](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=97.0s)]
+*  what you make of the character of the opposition [[00:01:42](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=102.0s)]
+*  that we are seeing right now to Trump's presidency. [[00:01:45](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=105.0s)]
+*  Mm-hmm. [[00:01:48](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=108.0s)]
+*  I think on the one side, we have too few Democrats [[00:01:50](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=110.0s)]
+*  who are articulate in describing the world as it actually is unfolding before our eyes, [[00:01:54](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=114.0s)]
+*  but we have a few who are doing an excellent job. [[00:02:00](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=120.0s)]
+*  And on the other side, we have creative local opposition all throughout the country, [[00:02:03](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=123.0s)]
+*  probably more than we see, [[00:02:09](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=129.0s)]
+*  because unfortunately we don't have enough local reporters to cover all of this properly. [[00:02:11](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=131.0s)]
+*  What we're going to see, I think, in months to come [[00:02:15](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=135.0s)]
+*  is those two things moving slowly to each other [[00:02:18](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=138.0s)]
+*  as these creative protests create platforms [[00:02:21](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=141.0s)]
+*  for the more adventurous and charismatic politicians. [[00:02:24](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=144.0s)]
+*  What impact does opposition like this have, [[00:02:28](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=148.0s)]
+*  and where do you watch for signs of its impact? [[00:02:32](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=152.0s)]
+*  It's absolutely of the first importance, [[00:02:36](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=156.0s)]
+*  because when strange things happen and nobody reacts, [[00:02:39](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=159.0s)]
+*  then everybody normalizes. [[00:02:43](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=163.0s)]
+*  But if strange things happen and a few people react, [[00:02:45](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=165.0s)]
+*  or even more than a few people react, [[00:02:48](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=168.0s)]
+*  then people can say, yeah, you know, maybe I wouldn't protest myself, [[00:02:50](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=170.0s)]
+*  but there sure is a strange thing that's happening. [[00:02:54](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=174.0s)]
+*  And then when another strange thing happens, they might actually protest. [[00:02:56](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=176.0s)]
+*  So getting out there, showing your face, being with other people, [[00:03:00](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=180.0s)]
+*  being creative, making up slogans and signs, [[00:03:03](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=183.0s)]
+*  all of that is really important because it arrests people's imagination. [[00:03:06](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=186.0s)]
+*  It helps them stop and think and say, wait, this is in fact strange, [[00:03:10](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=190.0s)]
+*  because other people think it's strange, and maybe next time I'll join in. [[00:03:14](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=194.0s)]
+*  One of the things that I have been sort of watching and not knowing what to do with, [[00:03:18](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=198.0s)]
+*  and I've been wanting to talk to you about it, [[00:03:23](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=203.0s)]
+*  is this very, very, very strong set of signals and public opinion polling [[00:03:25](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=205.0s)]
+*  from the American public about Russia, [[00:03:30](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=210.0s)]
+*  about disfavoring Vladimir Putin, disfavoring Russia under Putin, [[00:03:33](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=213.0s)]
+*  strongly siding with Ukraine over Russia in the Russia-Ukraine war. [[00:03:38](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=218.0s)]
+*  At so many of these protests, even in small towns and in red districts and all, [[00:03:43](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=223.0s)]
+*  unexpected places all over the country, you're seeing people with Ukraine flags [[00:03:47](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=227.0s)]
+*  and people making that a central point of the way they're protesting. [[00:03:51](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=231.0s)]
+*  You saw it in the protest against JD Vance. [[00:03:56](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=236.0s)]
+*  Go ski in Russia, you traitor. [[00:03:58](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=238.0s)]
+*  It seems to be really an animating thing for the American people, [[00:04:00](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=240.0s)]
+*  even though I feel like the punditocracy has been telling us for a long time [[00:04:04](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=244.0s)]
+*  that Americans don't care about anything beyond our borders. [[00:04:07](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=247.0s)]
+*  What do you make of that, and what do you think the clash ultimately will be [[00:04:10](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=250.0s)]
+*  between the American public having such a clear, strong, immutable opinion on that matter [[00:04:19](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=259.0s)]
+*  and the behavior of President Trump? [[00:04:24](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=264.0s)]
+*  Yeah, I think Ukraine-Russia is an area where a lot of Americans just show a lot of common sense. [[00:04:27](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=267.0s)]
+*  People know who invaded whom, and people have a sense that invasions are wrong, [[00:04:31](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=271.0s)]
+*  and people know that war crimes are wrong. [[00:04:36](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=276.0s)]
+*  People know that it's wrong to be tortured, to have children kidnapped, [[00:04:39](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=279.0s)]
+*  to have local leaders executed, to have all these things happen. [[00:04:43](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=283.0s)]
+*  People have righteous common sense about these things, [[00:04:46](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=286.0s)]
+*  and I think Ukraine is a resonant for American protesters for a couple of reasons. [[00:04:48](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=288.0s)]
+*  The first is that it involves people going out and being courageous. [[00:04:52](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=292.0s)]
+*  It involves people taking a stand for values like freedom, [[00:04:57](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=297.0s)]
+*  and people think, well, if they can do it, then we can do it. [[00:05:01](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=301.0s)]
+*  But another thing which is important is that Ukraine is about reality. [[00:05:05](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=305.0s)]
+*  It's about something which is actually happening, [[00:05:08](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=308.0s)]
+*  whereas so much that we're being fed by this administration has to do with unreality, [[00:05:10](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=310.0s)]
+*  with stuff which is made up, with lies, big, little and small, [[00:05:14](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=314.0s)]
+*  and I think it's refreshing for people to say, well, wait, [[00:05:18](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=318.0s)]
+*  there are people who are living in reality. [[00:05:20](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=320.0s)]
+*  As far as the disjuncture with popular opinions concerned, [[00:05:23](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=323.0s)]
+*  I was thinking about that during your segment, [[00:05:25](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=325.0s)]
+*  and it strikes me that I can't think of any example in history [[00:05:27](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=327.0s)]
+*  where an American leader has been so entranced for such a long period by any foreigner, [[00:05:31](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=331.0s)]
+*  let alone a foreign leader who's obviously an extreme right-wing dictator [[00:05:37](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=337.0s)]
+*  carrying out a war of aggression. [[00:05:40](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=340.0s)]
+*  There is something deeply strange about that, [[00:05:43](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=343.0s)]
+*  and I think unsustainable for the reason you're putting your finger on. [[00:05:45](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=345.0s)]
+*  It's very undemocratic. [[00:05:48](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=348.0s)]
+*  Trump acts as though his only constituents were Musk and Putin, [[00:05:50](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=350.0s)]
+*  and no one else really matters, [[00:05:55](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=355.0s)]
+*  and I think with time people are going to realize that, [[00:05:57](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=357.0s)]
+*  that Trump is acting like those two men are his constituents, [[00:06:00](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=360.0s)]
+*  and no one else really matters. [[00:06:03](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=363.0s)]
+*  Crucial point, and I think that's exactly right. [[00:06:05](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=365.0s)]
+*  We have seen things in history, in bad points in American history, [[00:06:09](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=369.0s)]
+*  where we've had leaders, influential people, even electeds, [[00:06:13](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=373.0s)]
+*  who have been entranced by foreign dictators, [[00:06:15](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=375.0s)]
+*  but the idea of how they would pursue that [[00:06:18](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=378.0s)]
+*  is that they would try to persuade Americans to come along with them in that affection. [[00:06:23](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=383.0s)]
+*  They would try to persuade Americans to also be entranced by that foreign dictator. [[00:06:27](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=387.0s)]
+*  In this case, that couldn't be further from the truth. [[00:06:32](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=392.0s)]
+*  It seems to be a personal connection. [[00:06:35](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=395.0s)]
+*  Timothy Snyder, I knew you'd know. [[00:06:39](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=399.0s)]
+*  Professor of history at Yale University, thank you for being with us tonight. [[00:06:42](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=402.0s)]
+*  I'd love to have you back soon. [[00:06:45](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=405.0s)]
+*  Anytime. [[00:06:47](https://www.youtube.com/watch?v=DFhvMcUDlpk&t=407.0s)]
