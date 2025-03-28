@@ -1,0 +1,153 @@
+---
+Date Generated: March 28, 2025
+Transcription Model: whisper medium 20231117
+Length: 576s
+Video Keywords: ['Rachel Maddow']
+Video Views: 1521710
+Video Rating: None
+Video Description: Senator Tammy Duckworth talks with Rachel Maddow about why she feels Donald Trump's secretary of defense, Pete Hegseth, should resign for putting U.S. pilots at risk by sharing sensitive military operation information in an insecure group chat, and why others in the chat should have known to speak up when they realized the content of the chat was inappropriate for that platform.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#PeteHegseth #DefenseSecretary #classifiedinformation
+---
+
+# 'F---ing liar': Sen. Duckworth rips Pete Hegseth; calls for his resignation over group chat scandal
+**NBC - Rachel Maddow:** [March 26, 2025](https://www.youtube.com/watch?v=kgqyEflCz_A)
+*  Donald Trump's defense secretary, Pete Hegseth, isn't working out all that well. [[00:00:00](https://www.youtube.com/watch?v=kgqyEflCz_A&t=0.0s)]
+*  And it started right at the beginning. [[00:00:05](https://www.youtube.com/watch?v=kgqyEflCz_A&t=5.6000000000000005s)]
+*  Right after he was sworn in, there was the midair collision of a passenger jet and an [[00:00:07](https://www.youtube.com/watch?v=kgqyEflCz_A&t=7.68s)]
+*  Army helicopter in Washington, D.C. [[00:00:11](https://www.youtube.com/watch?v=kgqyEflCz_A&t=11.16s)]
+*  Despite the strict and solemn rules of the Defense Department that say no information [[00:00:13](https://www.youtube.com/watch?v=kgqyEflCz_A&t=13.52s)]
+*  about deceased service members can be made public until 24 hours after the next of kin [[00:00:18](https://www.youtube.com/watch?v=kgqyEflCz_A&t=18.68s)]
+*  has been informed. [[00:00:24](https://www.youtube.com/watch?v=kgqyEflCz_A&t=24.12s)]
+*  Pete Hegseth, nevertheless, blurted out to the public the ranks of the three helicopter [[00:00:25](https://www.youtube.com/watch?v=kgqyEflCz_A&t=25.88s)]
+*  crew members who had just been killed in the crash. [[00:00:32](https://www.youtube.com/watch?v=kgqyEflCz_A&t=32.04s)]
+*  Hegseth also blurted out that the crew members had been performing a training flight on a [[00:00:35](https://www.youtube.com/watch?v=kgqyEflCz_A&t=35.239999999999995s)]
+*  quote, continuity of government mission. [[00:00:39](https://www.youtube.com/watch?v=kgqyEflCz_A&t=39.28s)]
+*  Mr. Hegseth quote, was later told that he should not have publicly disclosed that it [[00:00:42](https://www.youtube.com/watch?v=kgqyEflCz_A&t=42.519999999999996s)]
+*  was a continuity of government mission, which involves U.S. officials and military forces [[00:00:46](https://www.youtube.com/watch?v=kgqyEflCz_A&t=46.56s)]
+*  practicing how the government would react in the event of an emergency. [[00:00:51](https://www.youtube.com/watch?v=kgqyEflCz_A&t=51.0s)]
+*  Just a couple of weeks later, Mr. Hegseth took his first big international trip as defense [[00:00:55](https://www.youtube.com/watch?v=kgqyEflCz_A&t=55.8s)]
+*  secretary, went to a big NATO meeting in Europe, and he began the trip by just totally flummoxing [[00:00:59](https://www.youtube.com/watch?v=kgqyEflCz_A&t=59.519999999999996s)]
+*  not only our allies, but also a lot of Washington. [[00:01:06](https://www.youtube.com/watch?v=kgqyEflCz_A&t=66.12s)]
+*  When he again just blurted out that any peace deal in the Russia-Ukraine war would have [[00:01:10](https://www.youtube.com/watch?v=kgqyEflCz_A&t=70.2s)]
+*  to include Ukraine giving up lots of its territory and abandoning its bid to join NATO. [[00:01:15](https://www.youtube.com/watch?v=kgqyEflCz_A&t=75.53999999999999s)]
+*  That caused major blowback for obvious reasons. [[00:01:21](https://www.youtube.com/watch?v=kgqyEflCz_A&t=81.52s)]
+*  He was just giving away Ukraine's major bargaining chips even before negotiations [[00:01:24](https://www.youtube.com/watch?v=kgqyEflCz_A&t=84.68s)]
+*  had started. [[00:01:29](https://www.youtube.com/watch?v=kgqyEflCz_A&t=89.96000000000001s)]
+*  When that blowback made its way to him, Pete Hegseth sort of angrily asserted that he had [[00:01:31](https://www.youtube.com/watch?v=kgqyEflCz_A&t=91.88000000000001s)]
+*  basically been the victim of his own comments. [[00:01:37](https://www.youtube.com/watch?v=kgqyEflCz_A&t=97.56s)]
+*  As it pertains to NATO membership not being realistic outcome for negotiations, that's [[00:01:43](https://www.youtube.com/watch?v=kgqyEflCz_A&t=103.0s)]
+*  something that was stated as part of my remarks here, as part of the coordination with how [[00:01:48](https://www.youtube.com/watch?v=kgqyEflCz_A&t=108.60000000000001s)]
+*  we're executing these ongoing negotiations. [[00:01:52](https://www.youtube.com/watch?v=kgqyEflCz_A&t=112.88s)]
+*  That's something that was stated as part of my remarks here. [[00:01:57](https://www.youtube.com/watch?v=kgqyEflCz_A&t=117.52s)]
+*  I don't know who stated it, but it was part of my remarks. [[00:02:01](https://www.youtube.com/watch?v=kgqyEflCz_A&t=121.44s)]
+*  I did not state it. [[00:02:05](https://www.youtube.com/watch?v=kgqyEflCz_A&t=125.19999999999999s)]
+*  It was something that was stated by something inside my mouth in my remarks time. [[00:02:06](https://www.youtube.com/watch?v=kgqyEflCz_A&t=126.19999999999999s)]
+*  It's very offensive to me as well. [[00:02:12](https://www.youtube.com/watch?v=kgqyEflCz_A&t=132.68s)]
+*  Pete Hegseth's latest and greatest. [[00:02:17](https://www.youtube.com/watch?v=kgqyEflCz_A&t=137.04s)]
+*  Nobody's texting war plans. [[00:02:47](https://www.youtube.com/watch?v=kgqyEflCz_A&t=167.04s)]
+*  You know who sees war plans? [[00:02:51](https://www.youtube.com/watch?v=kgqyEflCz_A&t=171.04s)]
+*  I see them. [[00:02:53](https://www.youtube.com/watch?v=kgqyEflCz_A&t=173.04s)]
+*  Every single day. [[00:02:54](https://www.youtube.com/watch?v=kgqyEflCz_A&t=174.04s)]
+*  I looked at them this morning. [[00:02:56](https://www.youtube.com/watch?v=kgqyEflCz_A&t=176.04s)]
+*  Nobody's texting war plans. [[00:02:58](https://www.youtube.com/watch?v=kgqyEflCz_A&t=178.04s)]
+*  I know exactly what I'm doing. [[00:03:02](https://www.youtube.com/watch?v=kgqyEflCz_A&t=182.04s)]
+*  I know what war plans look like. [[00:03:04](https://www.youtube.com/watch?v=kgqyEflCz_A&t=184.04s)]
+*  War plans? [[00:03:06](https://www.youtube.com/watch?v=kgqyEflCz_A&t=186.04s)]
+*  I see them all the time. [[00:03:07](https://www.youtube.com/watch?v=kgqyEflCz_A&t=187.04s)]
+*  I eat war plans for breakfast. [[00:03:08](https://www.youtube.com/watch?v=kgqyEflCz_A&t=188.04s)]
+*  I wouldn't know war plans. [[00:03:10](https://www.youtube.com/watch?v=kgqyEflCz_A&t=190.04s)]
+*  What do you mean? [[00:03:13](https://www.youtube.com/watch?v=kgqyEflCz_A&t=193.04s)]
+*  I wouldn't know if there were war plans. [[00:03:14](https://www.youtube.com/watch?v=kgqyEflCz_A&t=194.04s)]
+*  Meanwhile, headline. [[00:03:16](https://www.youtube.com/watch?v=kgqyEflCz_A&t=196.04s)]
+*  Here are the attack plans that Trump's advisers shared on Signal. [[00:03:17](https://www.youtube.com/watch?v=kgqyEflCz_A&t=197.04s)]
+*  Jeffrey Goldberg of the Atlantic magazine today releasing the entirety of the Signal [[00:03:21](https://www.youtube.com/watch?v=kgqyEflCz_A&t=201.04s)]
+*  message chain that he was somehow inexplicably added to, in which top Trump administration [[00:03:25](https://www.youtube.com/watch?v=kgqyEflCz_A&t=205.04s)]
+*  officials texted in detail about forthcoming airstrikes in Yemen. [[00:03:30](https://www.youtube.com/watch?v=kgqyEflCz_A&t=210.04s)]
+*  And despite Pete Hegseth and other officials in the chat saying there was no classified [[00:03:35](https://www.youtube.com/watch?v=kgqyEflCz_A&t=215.04s)]
+*  information, and definitely no war plans, here is Pete Hegseth texting on a private [[00:03:39](https://www.youtube.com/watch?v=kgqyEflCz_A&t=219.04s)]
+*  messaging app to a group including a reporter. [[00:03:44](https://www.youtube.com/watch?v=kgqyEflCz_A&t=224.04s)]
+*  Times and weapons and attack sequences about two hours before the first bombs exploded. [[00:03:47](https://www.youtube.com/watch?v=kgqyEflCz_A&t=227.04s)]
+*  Senator Tammy Duckworth, an Army helicopter pilot who lost both legs in combat, she now serves on [[00:03:55](https://www.youtube.com/watch?v=kgqyEflCz_A&t=235.04s)]
+*  the Senate Armed Services Committee. [[00:04:01](https://www.youtube.com/watch?v=kgqyEflCz_A&t=241.04s)]
+*  She had this to say today in response. [[00:04:03](https://www.youtube.com/watch?v=kgqyEflCz_A&t=243.04s)]
+*  This is an official statement released by her Senate office. [[00:04:05](https://www.youtube.com/watch?v=kgqyEflCz_A&t=245.04s)]
+*  I will warn you, it contains a thinly veiled swear. [[00:04:08](https://www.youtube.com/watch?v=kgqyEflCz_A&t=248.04s)]
+*  Statement says, quote, Pete Hegseth is a effing liar. [[00:04:12](https://www.youtube.com/watch?v=kgqyEflCz_A&t=252.04s)]
+*  This is so clearly classified info he recklessly leaked that could have gotten our pilots killed. [[00:04:17](https://www.youtube.com/watch?v=kgqyEflCz_A&t=257.03999999999996s)]
+*  He needs to resign in disgrace immediately. [[00:04:24](https://www.youtube.com/watch?v=kgqyEflCz_A&t=264.03999999999996s)]
+*  Senator Tammy Duckworth of Illinois. [[00:04:28](https://www.youtube.com/watch?v=kgqyEflCz_A&t=268.03999999999996s)]
+*  Senator, thank you so much for being with us tonight. [[00:04:31](https://www.youtube.com/watch?v=kgqyEflCz_A&t=271.03999999999996s)]
+*  I appreciate you making the time. [[00:04:33](https://www.youtube.com/watch?v=kgqyEflCz_A&t=273.03999999999996s)]
+*  Thanks for having me on, Rachel. [[00:04:34](https://www.youtube.com/watch?v=kgqyEflCz_A&t=274.03999999999996s)]
+*  Such an important issue that you're covering. [[00:04:36](https://www.youtube.com/watch?v=kgqyEflCz_A&t=276.03999999999996s)]
+*  We have we first learned about this about midday on Monday. [[00:04:38](https://www.youtube.com/watch?v=kgqyEflCz_A&t=278.04s)]
+*  It's now Wednesday night. [[00:04:43](https://www.youtube.com/watch?v=kgqyEflCz_A&t=283.04s)]
+*  We have learned more over the last couple of days about what happened in this group text about these forthcoming strikes. [[00:04:44](https://www.youtube.com/watch?v=kgqyEflCz_A&t=284.04s)]
+*  This is a very strong reaction that you have had to it. [[00:04:52](https://www.youtube.com/watch?v=kgqyEflCz_A&t=292.04s)]
+*  It's not only profane. [[00:04:55](https://www.youtube.com/watch?v=kgqyEflCz_A&t=295.04s)]
+*  It is it's it's mad. [[00:04:57](https://www.youtube.com/watch?v=kgqyEflCz_A&t=297.04s)]
+*  You're angry here. [[00:04:59](https://www.youtube.com/watch?v=kgqyEflCz_A&t=299.04s)]
+*  Can you explain your reaction to it and why you think Senator Hegs, why you think Secretary Hegs should resign? [[00:05:00](https://www.youtube.com/watch?v=kgqyEflCz_A&t=300.04s)]
+*  I think he should resign because he put those those pilots in danger. [[00:05:06](https://www.youtube.com/watch?v=kgqyEflCz_A&t=306.04s)]
+*  If you look at the text chain, that's my response was immediately after I read the actual text chain that showed him putting up on this unsecured platform. [[00:05:10](https://www.youtube.com/watch?v=kgqyEflCz_A&t=310.04s)]
+*  The drones are going to strike. [[00:05:22](https://www.youtube.com/watch?v=kgqyEflCz_A&t=322.04s)]
+*  And then he put down exactly how long was going to be until the F 18s were going to be over the target area. [[00:05:25](https://www.youtube.com/watch?v=kgqyEflCz_A&t=325.04s)]
+*  If anybody had compromised that chain, those pilots could have been in danger. [[00:05:31](https://www.youtube.com/watch?v=kgqyEflCz_A&t=331.04s)]
+*  And that's why I was so upset. [[00:05:37](https://www.youtube.com/watch?v=kgqyEflCz_A&t=337.04s)]
+*  And I use my army language in that text because he is the guy that's leading the military and he put those pilots in direct danger. [[00:05:38](https://www.youtube.com/watch?v=kgqyEflCz_A&t=338.04s)]
+*  And by the way, this if I were our allies, if I were the UK or any of our allies, I would think twice about sharing intelligence with us in the future, [[00:05:47](https://www.youtube.com/watch?v=kgqyEflCz_A&t=347.04s)]
+*  because we've shown that our Secretary of Defense, our national intelligence community does not know how to safeguard classified information. [[00:05:57](https://www.youtube.com/watch?v=kgqyEflCz_A&t=357.04s)]
+*  Well, let me ask you about the classified portion of this. [[00:06:04](https://www.youtube.com/watch?v=kgqyEflCz_A&t=364.04s)]
+*  Obviously, there's potential criminal liability here, whether or not this was classified information. [[00:06:08](https://www.youtube.com/watch?v=kgqyEflCz_A&t=368.04s)]
+*  But we've also had these blunt assertions from the president, from other White House officials, from Mr. [[00:06:13](https://www.youtube.com/watch?v=kgqyEflCz_A&t=373.04s)]
+*  Hegs, saying that there was nothing that was classified or that could be construed as classified information in the text. [[00:06:19](https://www.youtube.com/watch?v=kgqyEflCz_A&t=379.04s)]
+*  We know what Mr. Goldberg has published. [[00:06:28](https://www.youtube.com/watch?v=kgqyEflCz_A&t=388.04s)]
+*  We know that the NSC says that they've verified that this was the actual text chain. [[00:06:30](https://www.youtube.com/watch?v=kgqyEflCz_A&t=390.04s)]
+*  Does it seem to you that this is classified information? [[00:06:34](https://www.youtube.com/watch?v=kgqyEflCz_A&t=394.04s)]
+*  It absolutely is. [[00:06:38](https://www.youtube.com/watch?v=kgqyEflCz_A&t=398.04s)]
+*  Any type of targeting information, sequencing of the attack, that's automatically classified. [[00:06:40](https://www.youtube.com/watch?v=kgqyEflCz_A&t=400.04s)]
+*  And that's why I called him a liar, because he's been saying there was no classified information. [[00:06:47](https://www.youtube.com/watch?v=kgqyEflCz_A&t=407.04s)]
+*  And then this text chain gets published and we see clearly that it is classified information and that it directly put those pilots in danger. [[00:06:52](https://www.youtube.com/watch?v=kgqyEflCz_A&t=412.04s)]
+*  Once all of those people on that text chain and there were 18 or 19 people or something on it, [[00:07:00](https://www.youtube.com/watch?v=kgqyEflCz_A&t=420.04s)]
+*  once all of those people started seeing the type of information that was circulating again on a commercial app, [[00:07:06](https://www.youtube.com/watch?v=kgqyEflCz_A&t=426.04s)]
+*  a non-government device or non-government system, certainly not a classified information system, [[00:07:13](https://www.youtube.com/watch?v=kgqyEflCz_A&t=433.04s)]
+*  what kind of responsibility did they all have? [[00:07:20](https://www.youtube.com/watch?v=kgqyEflCz_A&t=440.04s)]
+*  Because I'm struck here by Michael Waltz, the National Security Advisor, having started this text chain and having apparently added the reporter to it. [[00:07:24](https://www.youtube.com/watch?v=kgqyEflCz_A&t=444.04s)]
+*  I'm struck by the fact that Mr. Hegs has made the decisions that he made to post what he did to this chain. [[00:07:33](https://www.youtube.com/watch?v=kgqyEflCz_A&t=453.04s)]
+*  I'm struck by the fact that the CIA director posted the name of an active intelligence officer. [[00:07:38](https://www.youtube.com/watch?v=kgqyEflCz_A&t=458.04s)]
+*  But I'm also thinking about Stephen Miller in the White House and Susie Wiles, the White House Chief of Staff, [[00:07:43](https://www.youtube.com/watch?v=kgqyEflCz_A&t=463.04s)]
+*  and Marco Rubio, the Secretary of State, and Tulsi Gabbard, the DNI, and all of these others. [[00:07:48](https://www.youtube.com/watch?v=kgqyEflCz_A&t=468.04s)]
+*  The Secretary of Treasury was on this for some reason. [[00:07:53](https://www.youtube.com/watch?v=kgqyEflCz_A&t=473.04s)]
+*  All of these people, once they realized the type of information that was on this chain, [[00:07:55](https://www.youtube.com/watch?v=kgqyEflCz_A&t=475.04s)]
+*  if they were responsible with that type of information, what should they have done? [[00:08:00](https://www.youtube.com/watch?v=kgqyEflCz_A&t=480.04s)]
+*  What do you think is most culpable in terms of their behavior here? [[00:08:05](https://www.youtube.com/watch?v=kgqyEflCz_A&t=485.04s)]
+*  Well, that is why I said they should all lose their jobs, because they needed to have spoken up. [[00:08:08](https://www.youtube.com/watch?v=kgqyEflCz_A&t=488.04s)]
+*  As soon as he put that information on there and posted the information about the sequencing, what the strike was going to be, [[00:08:13](https://www.youtube.com/watch?v=kgqyEflCz_A&t=493.04s)]
+*  what platforms were going to be used, tomahawks, drones, F-18s, for example, someone on that chain should have said, [[00:08:20](https://www.youtube.com/watch?v=kgqyEflCz_A&t=500.04s)]
+*  hey, this is not the correct platform. Let's switch over to the SIPRnet. [[00:08:27](https://www.youtube.com/watch?v=kgqyEflCz_A&t=507.04s)]
+*  And not a single one of them spoke up. That is egregious dereliction of duty in terms of their jobs. [[00:08:32](https://www.youtube.com/watch?v=kgqyEflCz_A&t=512.04s)]
+*  They needed to have spoken up, especially those who are in the intelligence community. [[00:08:42](https://www.youtube.com/watch?v=kgqyEflCz_A&t=522.04s)]
+*  And don't tell me that they don't know that. You've got Tulsi Gabbard, who claims that she's a combat veteran, [[00:08:45](https://www.youtube.com/watch?v=kgqyEflCz_A&t=525.04s)]
+*  and she has all this experience. You've got the CIA director, who at one point was also the DNI at one point in the previous administration. [[00:08:51](https://www.youtube.com/watch?v=kgqyEflCz_A&t=531.04s)]
+*  These people know better, and not a single one of them spoke up, which is why they're all culpable. [[00:08:59](https://www.youtube.com/watch?v=kgqyEflCz_A&t=539.04s)]
+*  Senator Tammy Duckworth of Illinois, member of the Armed Services Committee, thank you for your clarity on this. [[00:09:05](https://www.youtube.com/watch?v=kgqyEflCz_A&t=545.04s)]
+*  Thanks for making time to be with us tonight, Senator. It's an honor to have you here. [[00:09:11](https://www.youtube.com/watch?v=kgqyEflCz_A&t=551.04s)]
+*  Thanks. Thanks for having me on. [[00:09:14](https://www.youtube.com/watch?v=kgqyEflCz_A&t=554.04s)]
+*  Thank you. [[00:09:21](https://www.youtube.com/watch?v=kgqyEflCz_A&t=561.04s)]
