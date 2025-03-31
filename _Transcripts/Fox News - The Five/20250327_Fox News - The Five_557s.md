@@ -1,0 +1,157 @@
+---
+Date Generated: March 31, 2025
+Transcription Model: whisper medium 20231117
+Length: 557s
+Video Keywords: ['el salvador prison 2025', 'el salvador prison', 'el salvador gang crackdown', 'el salvador president', 'el salvador plus', 'el salvador gang', 'el salvador news', 'kristi noem el salvador', 'kristi noem confirmation hearing', 'kristi noem homeland security', 'kristi noem interview', 'kristi noem speech', 'migrant gangs in chicago', 'migrant gangs in aurora colorado', 'migrant gangs vs street gangs', 'migrant gangs in texas', 'migrant gangs denver', 'migrant gangs taking over chicago', 'migrant gangs nyc']
+Video Views: 239445
+Video Rating: None
+Video Description: ‘The Five’ discusses Department of Homeland Security Secretary Kristi Noem’s visit to CECOT prison in El Salvador and her warning to those trying to come to the United States illegally. #foxnews #elsalvador #usnews #immigration 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# ‘PR GAME’: Watters praises Kristi Noem’s visit to El Salvador prison
+**Fox News - The Five:** [March 27, 2025](https://www.youtube.com/watch?v=ea_mG0OqZYc)
+*  from El Salvador, and he will not be living in our country much longer. [[00:00:00](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=0.0s)]
+*  How's this for a bad ombre? The feds nabbing a suspected top three leader of [[00:00:05](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=5.5200000000000005s)]
+*  the brutal MS-13 gang agents busting into his home in Virginia where they [[00:00:10](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=10.96s)]
+*  found three firearms, ammo, two suppressors. Authorities say he's from [[00:00:15](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=15.96s)]
+*  El Salvador and in America illegally. Hey Harold, turns out all we needed was a new [[00:00:20](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=20.28s)]
+*  president to catch these bad guys in your face. I just want to emphasize the [[00:00:25](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=25.240000000000002s)]
+*  pace and the focus. And so no, these were not lists that were available in [[00:00:29](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=29.08s)]
+*  the previous administration because they wouldn't do that. I cannot emphasize [[00:00:34](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=34.28s)]
+*  enough the collaboration and support and leadership out of the new [[00:00:38](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=38.48s)]
+*  administration that is so different than what we saw in at least the [[00:00:42](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=42.599999999999994s)]
+*  previous three years of my administration. And south of the border, [[00:00:45](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=45.8s)]
+*  DHS Secretary Noem did a house call to check on Venezuelan gang members. [[00:00:49](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=49.84s)]
+*  Trump kicked out of the country. Christie coming face to face with the [[00:00:54](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=54.04s)]
+*  criminals and warning illegals out there. This could be their new home soon. [[00:00:57](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=57.56s)]
+*  I want to thank El Salvador and their president for their partnership with [[00:01:02](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=62.300000000000004s)]
+*  the United States of America to bring our terrorists here and to incarcerate [[00:01:05](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=65.48s)]
+*  them and have consequences for the violence that they have perpetuated in [[00:01:09](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=69.36s)]
+*  our communities. I also want everybody to know if you come to our country [[00:01:12](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=72.84s)]
+*  illegally, this is one of the consequences you could face. First of [[00:01:16](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=76.4s)]
+*  all, do not come to our country illegally. You will be removed and you [[00:01:19](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=79.96000000000001s)]
+*  can't make like please come back. You're welcome here anytime. Jesse, this you [[00:01:24](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=84.68s)]
+*  know what I love about that visit? She stood in front of criminals in their [[00:01:29](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=89.16000000000001s)]
+*  environment because usually Democrats when they want you to see criminals, [[00:01:34](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=94.2s)]
+*  they're in court, freshly bought shirt, clip on tie, makeup over their teardrop [[00:01:38](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=98.44s)]
+*  tattoos, you know, more as the, uh, you know, the remorseful suspect rather [[00:01:44](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=104.32000000000001s)]
+*  than in their own, uh, you know, soup of crime. So this is a PR game for the [[00:01:51](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=111.32000000000001s)]
+*  people illegals here. So if you're an illegal and you're a criminal, that's [[00:01:57](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=117.92s)]
+*  where they're gonna send you exactly. So she's basically saying you want your [[00:02:02](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=122.84s)]
+*  head shaved, you want handcuffs, you want to sit a jail cell with 90 bad [[00:02:06](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=126.44s)]
+*  hombres, self deport. And you're right, I'm shocked there wasn't a prison break [[00:02:10](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=130.56s)]
+*  because that's like a riot right there. I, you know, I'm surprised if they could [[00:02:16](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=136.6s)]
+*  walk Tom Homan through that jail and you think he's hot at that point. But [[00:02:21](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=141.56s)]
+*  Christie, my God. So great. We already had so many gangs here. We had Crips, [[00:02:26](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=146.68s)]
+*  you have Bloods and then you have the mafia. You have the Chinese guys and the [[00:02:31](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=151.48s)]
+*  Russians in Brooklyn. It's like we had enough already. Yeah. And at the height [[00:02:35](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=155.07999999999998s)]
+*  of the crime wave 2021 2022, Biden decides to let in 25,000 ms 13 guys. [[00:02:39](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=159.04s)]
+*  And imagine you're at the Border Patrol and you see a guy with face tattoos and [[00:02:46](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=166.6s)]
+*  you catch and release them. And not only that, you give a guy with face tattoos [[00:02:52](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=172.12s)]
+*  a bus ticket to Manhattan. And then if he gets arrested in Manhattan, they [[00:02:56](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=176.32s)]
+*  don't even deport him. They let him back out on the street. You know, we [[00:03:01](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=181.28s)]
+*  always tried to impeach Joe for Hunter. They should have impeached him for the [[00:03:05](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=185.24s)]
+*  border because that's really an impeachable offense. And they had all [[00:03:09](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=189.38s)]
+*  these FBI guys running around going after these Jan six. What? Well, why? You [[00:03:13](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=193.28s)]
+*  should have been going after these guys. And what a waste of time because Trump [[00:03:19](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=199.56s)]
+*  pardon them all. So it's great to see these guys going after real crime. And [[00:03:22](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=202.56s)]
+*  that's what we need to get back to. Judge in a rare show of intelligence, [[00:03:27](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=207.28s)]
+*  Jesse makes a good point. Don't you love how Democrats only care about vetting [[00:03:31](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=211.44s)]
+*  criminals when they're leaving? Yeah, they're way not when they're coming in. [[00:03:36](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=216.64s)]
+*  Right, right. On their way out. You're absolutely right. In fact, I had an [[00:03:40](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=220.28s)]
+*  appointment today somewhere and it doesn't matter where, but the person [[00:03:44](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=224.2s)]
+*  started crying. She was so worried that we were deporting people who maybe [[00:03:47](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=227.8s)]
+*  shouldn't be deported. And I said, you know, if they have these tattoos that [[00:03:52](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=232.0s)]
+*  indicate their trend, they are rock was shouldn't they be deported? Well, maybe [[00:03:55](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=235.36s)]
+*  they didn't mean it, you know, and that's what we're dealing with. But look, here's [[00:03:58](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=238.08s)]
+*  the good news, Greg. I mean, the one of the top three MS 13 gang leaders. Okay, [[00:04:02](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=242.04s)]
+*  he's in this country for a while. He's living with his mother for at least [[00:04:06](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=246.56s)]
+*  6-8 months that we're aware of, but silencers, long guns, ammunition, the [[00:04:10](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=250.07999999999998s)]
+*  whole thing. So now the question is, what's gonna happen to him? Is he gonna [[00:04:14](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=254.64s)]
+*  be prosecuted? Is he going to be released by some judge who thinks that, [[00:04:19](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=259.92s)]
+*  you know, we can't hold this guy or is he gonna be deported? And Kristi Noem, [[00:04:26](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=266.4s)]
+*  to her credit, that messaging was excellent. You're gonna come here, boys, [[00:04:30](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=270.52s)]
+*  and this is what's gonna happen to you. And I think the issue now, given [[00:04:35](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=275.15999999999997s)]
+*  especially what's happened with Boasberg and the Circuit Court of Appeals, [[00:04:39](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=279.0s)]
+*  where they said that, you know, we're gonna keep, we're not going to hold the [[00:04:42](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=282.6s)]
+*  temporary restraining order. Now this has to go to the Supreme Court to see [[00:04:47](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=287.0s)]
+*  if the White House can deport these people under the Aliens Enemies Act. So [[00:04:50](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=290.52s)]
+*  we're kind of in a holding pattern right now. But the message is clear. [[00:04:55](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=295.72s)]
+*  You know, most viewers aren't aware, Harold, that you were once in a gang, [[00:04:59](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=299.84s)]
+*  and we've actually have makeup applied over your teardrop tattoos. So you're a [[00:05:04](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=304.04s)]
+*  little biased here. But how soon before your Dem allies demand we respect the [[00:05:08](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=308.2s)]
+*  right to due process for this character? It's good to be back around the table, [[00:05:13](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=313.28s)]
+*  and good to know you have not lost your sense of humor or fastball. I couldn't [[00:05:17](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=317.88s)]
+*  agree more with what's already been said. If President Biden and his team had [[00:05:21](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=321.84s)]
+*  focused more on the border, Jesse, I think you're right. Not only would have [[00:05:27](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=327.68s)]
+*  been redounded to their benefit politically, as the judges noted, it would [[00:05:31](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=331.8s)]
+*  have been a good thing for the country. I hope they prosecute these guys. I [[00:05:36](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=336.92s)]
+*  hope they convict these guys, and I hope they send them to that jail, because I [[00:05:40](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=340.88s)]
+*  think we need to have in our records here that these guys are that, whether [[00:05:44](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=344.48s)]
+*  they come back, try to come back into the country or not. I salute the [[00:05:48](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=348.72s)]
+*  president and salute this U.S., this prosecutorial team and Miss Botany and [[00:05:52](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=352.52000000000004s)]
+*  what they've been able to accomplish here. Now as relates to some of the [[00:05:57](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=357.20000000000005s)]
+*  other things we're conflating here with sending these gang members back to [[00:06:01](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=361.04s)]
+*  Venezuela, I support that too. I just, we should follow the law and do it. As I [[00:06:05](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=365.16s)]
+*  said before, sentimentally the country is with President Trump, though. If we don't [[00:06:09](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=369.68s)]
+*  follow every bit of it, you're right. People are going to want these guys out, [[00:06:13](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=373.56s)]
+*  and the problem is if you round up 50 of them and three of them are Americans and [[00:06:16](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=376.56s)]
+*  didn't do anything, if that's your cousin or your brother or your sister or [[00:06:21](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=381.12s)]
+*  someone, I think people may have an issue with it. But all that being [[00:06:24](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=384.40000000000003s)]
+*  said, I salute what Miss Bondi and her team has done in capturing and arresting [[00:06:28](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=388.92s)]
+*  this MS-13 leader and God bless them going to get the rest of them. [[00:06:33](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=393.0s)]
+*  Dana, you know, it's interesting because it's easy for us to target [[00:06:36](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=396.44s)]
+*  Democrats for what they haven't done, because it's legit, even Harold admitted it, [[00:06:41](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=401.64s)]
+*  but they will target Republicans for how they've done it because the aim is [[00:06:45](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=405.64s)]
+*  unquestionably correct. Well I also think though that we don't talk enough [[00:06:51](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=411.8s)]
+*  about what they did and the effects of it. So you have Governor [[00:06:57](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=417.32s)]
+*  Youngkin who said, I can't tell you the difference that it's made. He said he had [[00:07:00](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=420.84s)]
+*  been trying to get after this guy for three years. The Biden administration [[00:07:05](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=425.4s)]
+*  was unresponsive. Here we have within the first three months the top guy is [[00:07:09](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=429.0s)]
+*  nabbed. And why does that matter? I don't think we've also done enough to explain [[00:07:13](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=433.08s)]
+*  that once all of these illegals got into the country, they spread out [[00:07:16](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=436.79999999999995s)]
+*  everywhere. That's what gangs do, take over territory, and the violence that [[00:07:19](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=439.88s)]
+*  they commit is terrible. But one thing that's really interesting, a lot of it is [[00:07:25](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=445.67999999999995s)]
+*  aimed towards women. And then you had the Attorney General, Pam Bondi, and the [[00:07:30](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=450.52000000000004s)]
+*  Homeland Security Secretary, Kristi Noem, basically saying in your face, MS-13, and [[00:07:36](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=456.8s)]
+*  that we're the ones that are going to be in power now and we're going to do [[00:07:42](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=462.64000000000004s)]
+*  something about it. You're not going to be able to get away with it from before. [[00:07:46](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=466.0s)]
+*  The other thing is the communications on this again continues to me to be [[00:07:48](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=468.44s)]
+*  excellent and it's one of the reasons that the country continues to be with [[00:07:52](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=472.28000000000003s)]
+*  President Trump, because they are showing their work and you can see it [[00:07:55](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=475.20000000000005s)]
+*  visibly. And they got up at three o'clock in the morning to be there when this [[00:07:59](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=479.84000000000003s)]
+*  went down this morning. Pam Bondi, Cash Patel, Tom Homan, and then you have [[00:08:03](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=483.92s)]
+*  Kristi Youngkin traveling and you have somebody going. Remember the visuals that [[00:08:08](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=488.52000000000004s)]
+*  you had to use for Kamala Harris was her interview with Lester Holt arguing about [[00:08:11](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=491.56s)]
+*  whether she had been to the border. And that was it. The other time she did one [[00:08:17](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=497.12s)]
+*  interview, like a statement saying, don't come to America, with basically a [[00:08:20](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=500.64s)]
+*  steel wall behind her. My last point is I have a feeling that the countries of [[00:08:25](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=505.28s)]
+*  the UK, France, Spain, Italy that are just inundated with so many migrants and you [[00:08:30](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=510.03999999999996s)]
+*  think they sleep in France and they try to sneak over to the UK when they can [[00:08:36](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=516.8s)]
+*  because the benefits are so generous. It won't be long, I don't think, until some [[00:08:40](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=520.68s)]
+*  of these countries who have a populist streak now running through them will say [[00:08:44](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=524.52s)]
+*  we want to do the same type of thing. Just need one person to break the seal. [[00:08:49](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=529.28s)]
+*  Is our gang called the Five? Yes, exactly. Five-tier drops. Yeah, you know what? The initiation [[00:08:54](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=534.56s)]
+*  rituals after this show, Harold. [[00:09:00](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=540.4599999999999s)]
+*  Get them! [[00:09:04](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=544.16s)]
+*  It's good to have you back, Harold. [[00:09:08](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=548.16s)]
+*  Up next, Elon and the Doge dudes hit back at deranged Democrats. [[00:09:12](https://www.youtube.com/watch?v=ea_mG0OqZYc&t=552.16s)]
