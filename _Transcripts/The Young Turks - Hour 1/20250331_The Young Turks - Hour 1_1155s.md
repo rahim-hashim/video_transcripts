@@ -1,0 +1,420 @@
+---
+Date Generated: April 01, 2025
+Transcription Model: whisper medium 20231117
+Length: 1155s
+Video Keywords: ['250331__TA01TrumpTariffs', 'News', 'Politics', 'trump economy', 'trump economy polls', 'the young turks', 'trump inflation', 'trump approval rating', 'trump polling', 'trump tariff news', 'trump twitter', 'trump tariffs', 'trump latest news', 'stock market today trump', 'donald trump', 'economy', 'trump news', 'trump polls', 'trump', 'the damage report', 'inflation', 'truth social', 'polling', 'politics', 'democrats', 'breaking news', 'progressive news', 'progressive media', 'news', 'john iadarola', 'progressives', 'polls', 'tdr', 'tyt']
+Video Views: 46865
+Video Rating: None
+Video Description: Trump dismisses any discussion about stagflation. Cenk Uygur and Ana Kasparian discuss on The Young Turks. Do you agree with TYT's take? Tell us what you think in the comments below. SUBSCRIBE today: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+
+0:00 Boom Town USA!
+1:00 25% auto tariffs
+4:45 Ana's take on tariffs
+6:00 Cenk's take on tariffs
+9:00 Cenk responds to challenge from a viewer
+10:45 Trump says he doesn't care at all about price hikes
+12:30 Benefitting Tesla
+13:30 Disastrous economic polling for Trump
+15:30 Karoline Leavitt blames Biden for bad polling numbers
+
+Help support our mission and get perks https://www.youtube.com/TheYoungTurks/join
+
+Read more HERE:  https://www.mediaite.com/news/new-poll-trump-gets-brutal-marks-on-the-economy-voter-dissatisfaction-underlined-by-whopping-33-point-swing-in-one-key-metric/
+
+"According to new polling from CBS News, voters are expressing their dissatisfaction with the president’s economic agenda in several key metrics. Most notably, just 23 percent of Americans now believe Trump’s economic policies are making them “better off.” That’s down from 42 percent in January. That same 42 percent now things Trump’s policies are making them “worse off” — up from 28 percent in January. In all, that’s a 33-point swing — as “better off” prevailed by a 14 point margin in January, and now trails by 19 percent."*
+
+*** 
+
+Your Support is Crucial to the Show: https://go.tyt.com/jointoday
+
+The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live
+
+Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: ▶ https://www.youtube.com/TheYoungTurks/join
+
+TYT is the largest online news network in the country. It presents news, context and analysis. We have dozens of on-air hosts on half a dozen major channels on almost all the platforms. We also have a live 24-hour news channel that features all our shows.
+
+The Young Turks is the flagship show of the TYY Network. The Young Turks is the longest running daily show in internet history. We’re about to celebrate our 20th anniversary as a digital native show. We are also the first ever YouTube partner channel. So, we are the original YouTubers.
+
+On the network, we do things a little differently than other places. We present the news first, with all of the facts and context you need, which is a rarity in commentary-heavy online shows. We then also give analysis and perspective, which is rare in traditional news.
+
+Our commentary and perspective are almost always on the left, but we have an enormous range of opinions on the network. Hosts are allowed to think and say whatever they like. Perspectives usually range from the far left to the center of the political spectrum.
+
+Now, our presence and range is large enough that we are adopting the tagline The Online News Network. Our longevity, our 27 million subscribers and 30 billion lifetime views allows us to make this claim confidently.
+
+TYT emphasizes open-minds and open-hearts. We believe in fighting for the average American. We believe in challenging the powerful. We are vigilant about pursuing the truth to the best of our abilities and for always being honest with our audience. We’ve been proud to serve the internet for longer than any other news show or network. As one of the founding fathers and mothers of online media, we have always believed that digital media would become the dominant news source for all Americans. We’re thrilled that day is here and that TYT is where everyone can come to see The Online News Network.
+
+TYT is also available as a podcast on Spotify, Apple Podcasts, TuneIn, Amazon Music, and more.
+
+SUBSCRIBE on YOUTUBE: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+FACEBOOK: ☞ http://www.facebook.com/TheYoungTurks
+TWITTER: ☞ http://www.twitter.com/TheYoungTurks
+INSTAGRAM: ☞ http://www.instagram.com/TheYoungTurks
+TWITCH: ☞ http://www.twitch.com/tyt
+
+👕 Merch: http://shoptyt.com
+
+❤ Donate: http://www.tyt.com/go
+
+🔗 Website: https://www.tyt.com
+
+
+If you want to watch more videos from TYT, consider subscribing to other channels in our network:
+
+The Watchlist https://www.youtube.com/watchlisttyt
+
+Indisputable with Dr. Rashad Richey https://www.youtube.com/indisputabletyt
+
+The Damage Report ▶ https://www.youtube.com/thedamagereport
+
+TYT Sports ▶ https://www.youtube.com/tytsports
+
+The Conversation ▶ https://www.youtube.com/tytconversation
+
+Rebel HQ ▶ https://www.youtube.com/rebelhq
+
+TYT Investigates ▶ https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA
+
+
+#maga  #tariffs  #trump 
+
+250331__TA01TrumpTariffs
+---
+
+# Trump's MOST Delusional Statement About The Economy???
+**The Young Turks - Hour 1:** [March 31, 2025](https://www.youtube.com/watch?v=N9LwPp0J-MI)
+*  I haven't heard the term in years, I don't know anything about it. [[00:00:00](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=0.0s)]
+*  This country is going to be more successful than it ever was. [[00:00:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=11.44s)]
+*  It's gonna boom. [[00:00:15](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=15.44s)]
+*  We're gonna have boomtown USA, we're gonna boom. [[00:00:16](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=16.44s)]
+*  We're gonna boom, boomtown USA. [[00:00:20](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=20.5s)]
+*  There's a whole song about it. [[00:00:23](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=23.2s)]
+*  Yeah. [[00:00:24](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=24.2s)]
+*  Yeah. [[00:00:25](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=25.2s)]
+*  As long as he says it, Ana, then it happens. [[00:00:26](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=26.2s)]
+*  Then it happens. [[00:00:28](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=28.28s)]
+*  Because once you go boom, boom, gone, gone. [[00:00:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=29.28s)]
+*  Boomtown USA. [[00:00:32](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=32.0s)]
+*  Okay. [[00:00:33](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=33.0s)]
+*  All right, but- Maybe a little bit more complicated. [[00:00:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=34.0s)]
+*  But is it, are we headed toward boomtown USA? [[00:00:36](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=36.08s)]
+*  Because everything we're seeing right now in terms of the analysis, the metrics, not [[00:00:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=40.28s)]
+*  boomtown USA. [[00:00:45](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=45.68s)]
+*  So here's what the reality is. [[00:00:46](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=46.72s)]
+*  One day earlier, President Donald Trump made clear that he actually does not care. [[00:00:49](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=49.08s)]
+*  He doesn't give a hoot about economic ramifications that will result from his tariff policies. [[00:00:53](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=53.96s)]
+*  What are his tariff policies? [[00:01:00](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=60.6s)]
+*  We don't really know. [[00:01:01](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=61.72s)]
+*  Okay, he threatens tariffs and then he pulls back, threatens them again, pulls back. [[00:01:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=62.72s)]
+*  But in regard to the auto tariffs, he seems to be very serious about it. [[00:01:07](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=67.68s)]
+*  Last week he announced that he would impose 25% tariffs on all foreign-made automobiles [[00:01:13](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=73.64s)]
+*  and auto parts that are imported to the United States. [[00:01:19](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=79.08s)]
+*  Even when it comes to cars that are manufactured within the United States, oftentimes they [[00:01:23](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=83.14s)]
+*  use parts that are manufactured elsewhere. [[00:01:27](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=87.3s)]
+*  And so he says, we start off with a 2.5 base, which is what we're at, and go to 25%. [[00:01:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=90.25999999999999s)]
+*  So collection of tariffs, according to President Trump, will begin on April 3rd. [[00:01:39](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=99.74s)]
+*  He also said that they would be permanent. [[00:01:44](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=104.78s)]
+*  And he's claiming that the US could end up collecting as much as $100 billion from tariff [[00:01:47](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=107.06s)]
+*  revenue. [[00:01:52](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=112.74s)]
+*  Now, some unions, including the United Auto Workers, are lauding President Trump for these [[00:01:53](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=113.74s)]
+*  tariffs, arguing that it'll actually bring manufacturing back to the United States and [[00:01:58](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=118.41999999999999s)]
+*  help auto workers. [[00:02:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=122.24s)]
+*  And sure, that could happen. [[00:02:03](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=123.94s)]
+*  We have yet to see a robust policy or plan in place by the Trump administration that [[00:02:06](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=126.94s)]
+*  would really help build up our manufacturing capabilities here in the US. [[00:02:12](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=132.85999999999999s)]
+*  But nonetheless, in the short term, regardless of whether or not the Trump administration [[00:02:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=137.34s)]
+*  gets its act together with that strategy, we are going to experience an increase in [[00:02:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=142.3s)]
+*  prices for cars in the US. [[00:02:26](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=146.78s)]
+*  And that might be true of the long term, but certainly it'll be true of the short term. [[00:02:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=149.78s)]
+*  Yeah, so I have one solid prediction here, and then lots of interesting topics and speculation [[00:02:33](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=153.94s)]
+*  and wanna hear from you guys, etc. [[00:02:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=160.70000000000002s)]
+*  The one prediction that to me is obvious is they're gonna be permanent. [[00:02:43](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=163.34s)]
+*  No chance they're gonna be permanent, no way. [[00:02:46](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=166.42000000000002s)]
+*  It's gonna be another tariffist interruptus, because he does this, the stock market's crash, [[00:02:49](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=169.14s)]
+*  he panics, he withdraws it. [[00:02:55](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=175.54s)]
+*  So are we really gonna have a 25% tariff on Canada and Mexico, and let alone Japan, South [[00:02:57](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=177.82s)]
+*  Korea, European Union, etc.? [[00:03:04](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=184.22s)]
+*  When they strike back, prices will go through the roof, there'll be massive panic, his economic [[00:03:06](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=186.5s)]
+*  numbers will be in the tank. [[00:03:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=191.32s)]
+*  Forget the stock market, his polling's already in disaster shape, we'll show you about that. [[00:03:12](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=192.73999999999998s)]
+*  When it comes to the economy, it'll be even worse at that point. [[00:03:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=197.06s)]
+*  You're telling me Trump is not going to flip-flop. [[00:03:20](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=200.1s)]
+*  I mean, it's interesting, cuz there's some folks on the right and the left that think [[00:03:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=202.06s)]
+*  Trump never flip-flops. [[00:03:25](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=205.78s)]
+*  I don't know which president you're looking at. [[00:03:26](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=206.78s)]
+*  No, he flip-flops all the time. [[00:03:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=209.26s)]
+*  All the time. [[00:03:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=210.26s)]
+*  Yeah. [[00:03:31](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=211.26s)]
+*  Nonstop. [[00:03:32](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=212.26s)]
+*  So he'll definitely flip-flop on this. [[00:03:33](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=213.26s)]
+*  One of the things we're asking you guys is, will he come to regret causing a tariff war? [[00:03:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=214.26s)]
+*  That's in the live chat poll, shows obviously live 6 to 8 PM Eastern every day. [[00:03:38](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=218.36s)]
+*  So I think he definitely will. [[00:03:43](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=223.12s)]
+*  It's already going very poorly for him. [[00:03:46](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=226.02s)]
+*  And there's going to be a lot more that came from. [[00:03:48](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=228.34s)]
+*  There's one thing holding up his numbers overall, and it ain't this, which we'll talk about [[00:03:50](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=230.70000000000002s)]
+*  in a little bit. [[00:03:55](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=235.18s)]
+*  Yeah, that's exactly right. [[00:03:56](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=236.18s)]
+*  So let's talk a little bit about what the experts are saying. [[00:03:57](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=237.18s)]
+*  For instance, AutoWeek has made some predictions in regard to the ramifications of these tariffs [[00:04:00](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=240.58s)]
+*  should President Trump go through with them. [[00:04:05](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=245.54000000000002s)]
+*  If a 25% tariff is imposed, prices could increase by as much as $12,000 for some models, or [[00:04:07](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=247.66000000000003s)]
+*  as little as $4,000 for others. [[00:04:13](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=253.98s)]
+*  In both cases, a cost that will almost certainly be passed on to US buyers. [[00:04:16](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=256.82s)]
+*  And look, that is a massive price hike at a time when Americans are still struggling [[00:04:21](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=261.88s)]
+*  from inflation. [[00:04:27](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=267.5s)]
+*  As we've talked about on the show, the Federal Reserve has decided against lowering interest [[00:04:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=269.14s)]
+*  rates. [[00:04:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=274.42s)]
+*  That was the last time Jerome Powell spoke to the public and explained what the Federal [[00:04:35](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=275.42s)]
+*  Reserve's policy is going to be. [[00:04:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=280.34s)]
+*  And it's because of the fact that inflation continues to be sticky. [[00:04:42](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=282.5s)]
+*  This is not going to help the situation. [[00:04:46](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=286.84s)]
+*  Now, I wanna just pause and say this because I think it's important to put my cards on [[00:04:48](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=288.41999999999996s)]
+*  the table. [[00:04:51](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=291.82s)]
+*  I'm not necessarily against tariffs when you're implementing them with the intention to bring [[00:04:52](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=292.82s)]
+*  manufacturing back to the United States. [[00:04:58](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=298.78s)]
+*  But I need to see an actual plan in place. [[00:05:00](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=300.97999999999996s)]
+*  And also, in the first Trump term, he had implemented tariffs against China that had [[00:05:04](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=304.02s)]
+*  really hurt our farmers. [[00:05:09](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=309.78s)]
+*  But he used those tariffs that the federal government collected to make those farmers [[00:05:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=311.86s)]
+*  whole as a result of the business they were losing due to those tariffs. [[00:05:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=317.26s)]
+*  Is anything gonna be done to help Americans out at a time of inflation if they need to [[00:05:21](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=321.72s)]
+*  buy a car and car prices go up as much as $12,000? [[00:05:25](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=325.46000000000004s)]
+*  See, there needs to be a strategy and a plan in place. [[00:05:28](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=328.7s)]
+*  And then you'll get buy-in from the American people. [[00:05:32](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=332.90000000000003s)]
+*  For now, I don't really see a strategy and I don't even see a consistent message from [[00:05:35](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=335.66s)]
+*  Donald Trump on this at all. [[00:05:39](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=339.38s)]
+*  Yeah, so a couple things about that. [[00:05:41](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=341.42s)]
+*  The reason that the farmers got that money is because they have a significant size lobby. [[00:05:43](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=343.26s)]
+*  There's some small farmers, but there's also giant farmers as in farming corporations. [[00:05:48](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=348.34000000000003s)]
+*  So those guys put pressure on and say, hey, whatever you saved on the tariffs, funnel [[00:05:54](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=354.90000000000003s)]
+*  over to us. [[00:05:59](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=359.70000000000005s)]
+*  So it's another way of getting corporate donors a giant amount of money. [[00:06:01](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=361.18s)]
+*  There might be some small businesses in there, I hope there was, but most of it will go to [[00:06:04](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=364.26s)]
+*  giant corporate interests. [[00:06:08](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=368.34000000000003s)]
+*  So in this case, though, when you have to pay $4,000 for more for a car, you don't have [[00:06:09](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=369.9s)]
+*  a lobby. [[00:06:16](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=376.65999999999997s)]
+*  So you're just gonna have to eat it, right? [[00:06:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=377.65999999999997s)]
+*  And so and that'll happen in all the different places that Rand Paul is freaking out because [[00:06:19](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=379.82s)]
+*  it's not gonna just hit the car manufacturers in his home state, but also bourbon and whiskey [[00:06:24](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=384.26s)]
+*  and all those other products. [[00:06:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=390.0s)]
+*  When those prices go up and you pay it, you don't have a lobby to get it back, no way. [[00:06:31](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=391.58s)]
+*  And he says all of this will raise, don't worry, everything's gonna be fine. [[00:06:36](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=396.5s)]
+*  $200 billion, let's assume that that's true, because it could be true. [[00:06:39](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=399.62s)]
+*  It could raise some money. [[00:06:44](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=404.22s)]
+*  It could have downsides, but still raise money. [[00:06:45](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=405.22s)]
+*  Okay, how's that gonna pay for your $4.5 trillion tax cut? [[00:06:47](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=407.74s)]
+*  Yeah, exactly. [[00:06:52](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=412.62s)]
+*  Then we'll be down to 4.4 trillion tax cut. [[00:06:53](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=413.62s)]
+*  So it doesn't matter at all, because they're gonna destroy the debt and the deficit momentarily. [[00:06:56](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=416.58s)]
+*  So this is all as a way of distracting you as if they're doing big additions to the revenue [[00:07:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=422.18s)]
+*  through tariffs and deductions from the budget in terms of costs through Doge, none of which [[00:07:09](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=429.06s)]
+*  is really happening. [[00:07:16](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=436.34s)]
+*  So some of the small changes at Doge again, also they brag on the website for Doge. [[00:07:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=437.34s)]
+*  We've saved $130 billion and a lot of Democrats are disproving that or reporters are disproving [[00:07:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=442.38s)]
+*  some of that, but that's not important. [[00:07:28](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=448.74s)]
+*  Because even if you give them that, say, they actually did save the whole 130 billion. [[00:07:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=450.18s)]
+*  Okay, now we're down to $4.3 trillion hole in the deficit because the rich want tax cuts. [[00:07:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=454.78s)]
+*  And guys, take a step back and look at the whole picture here. [[00:07:41](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=461.46s)]
+*  Because if you just look at the tariffs in a vacuum, you might either like them or hate [[00:07:44](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=464.29999999999995s)]
+*  them, whatever. [[00:07:49](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=469.29999999999995s)]
+*  But if you take a step back and you kind of look at what's been transpiring with Trump's [[00:07:50](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=470.29999999999995s)]
+*  economic policies so far, you have this austerity agenda, quite frankly, right? [[00:07:54](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=474.26s)]
+*  They're looking to cut some of these social safety net programs, including Medicaid to [[00:08:00](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=480.9s)]
+*  the tune of $880 billion. [[00:08:07](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=487.34s)]
+*  And that was the direction given to the committee in the House responsible for Medicaid. [[00:08:09](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=489.5s)]
+*  They were told through this budget blueprint that they need to find $880 billion in cuts. [[00:08:15](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=495.7s)]
+*  And so you have austerity coupled with tariffs that are very likely, if he goes through with [[00:08:21](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=501.58s)]
+*  it, going to increase prices. [[00:08:28](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=508.74s)]
+*  Interest rates remain high. [[00:08:32](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=512.02s)]
+*  Inflation remains high or sticky. [[00:08:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=514.42s)]
+*  I mean, American consumers, Americans in general, are going to be crushed by this. [[00:08:36](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=516.86s)]
+*  And by the way, I haven't even mentioned the stock market. [[00:08:42](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=522.54s)]
+*  The stock market has been a bit of a disaster. [[00:08:44](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=524.3s)]
+*  It's been incredibly turbulent. [[00:08:47](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=527.12s)]
+*  But right now, as I speak, the stock market is down. [[00:08:49](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=529.1s)]
+*  I'm not crying tears for the wealthiest. [[00:08:52](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=532.3s)]
+*  The top 10% are the ones who are mostly invested in the stock market. [[00:08:54](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=534.86s)]
+*  But think about all the people who have their retirement funds who are suffering right now [[00:08:59](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=539.3000000000001s)]
+*  as a result of the stock market downturn. [[00:09:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=542.46s)]
+*  Yeah, so Box in a YouTube member section is an interesting guy with different points of [[00:09:04](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=544.62s)]
+*  view. [[00:09:09](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=549.1800000000001s)]
+*  He writes in pretty often. [[00:09:10](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=550.1800000000001s)]
+*  By the way, become a member, be part of the show like Box's, you can hit the join button [[00:09:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=551.1800000000001s)]
+*  below on YouTube. [[00:09:14](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=554.74s)]
+*  Rich folks, he says, don't like more taxes. [[00:09:16](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=556.26s)]
+*  That's why they're so afraid right now. [[00:09:18](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=558.22s)]
+*  Bring on the tariffs. [[00:09:20](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=560.02s)]
+*  Interesting. [[00:09:21](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=561.02s)]
+*  What I'd say back to you, Box, I hear you, but there is and we've talked about this on [[00:09:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=562.02s)]
+*  a couple of shows. [[00:09:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=569.14s)]
+*  There's a right way to do tariffs. [[00:09:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=570.14s)]
+*  So you think through, okay, what are reciprocal? [[00:09:31](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=571.74s)]
+*  What is China doing in this vertical, right? [[00:09:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=574.92s)]
+*  And what can we do to match them? [[00:09:37](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=577.5s)]
+*  It's not fair that they're putting X amount of tariffs on us, but we're not putting it [[00:09:39](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=579.14s)]
+*  on them. [[00:09:42](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=582.18s)]
+*  Fair, okay, no problem. [[00:09:43](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=583.18s)]
+*  We can do that in a lot of different places. [[00:09:44](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=584.18s)]
+*  Hey, what's a tariff that protects this particular industry in America that's important to national [[00:09:46](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=586.3s)]
+*  security or just is important for manufacturing? [[00:09:50](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=590.4399999999999s)]
+*  And how do we mitigate the downsides of the tariff that'll come? [[00:09:54](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=594.0s)]
+*  That's the kind of strategizing that a smart populace would do about tariffs, right? [[00:09:57](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=597.3199999999999s)]
+*  But I know that these tariffs have absolutely no chance of working because they haven't [[00:10:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=602.3199999999999s)]
+*  strategized at all. [[00:10:05](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=605.4399999999999s)]
+*  That's exactly right. [[00:10:06](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=606.88s)]
+*  They haven't figured out how to mitigate any of its downsides. [[00:10:07](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=607.88s)]
+*  That's why he's going up and down, flip flopping nonstop. [[00:10:10](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=610.1s)]
+*  They haven't thought it through. [[00:10:13](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=613.0799999999999s)]
+*  They're not targeting. [[00:10:14](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=614.1999999999999s)]
+*  They're doing it in a broad way. [[00:10:16](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=616.0799999999999s)]
+*  They're not saying, hey, we're gonna go reciprocal with Japan and South Korea there, but European [[00:10:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=617.48s)]
+*  Union is okay, cuz we're already on the same level. [[00:10:21](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=621.6s)]
+*  Whatever it might be, I give that as just a hypothetical. [[00:10:24](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=624.12s)]
+*  Instead, they're going blanket all against all of our allies, okay? [[00:10:26](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=626.52s)]
+*  European Union, Canada, Japan, it doesn't matter. [[00:10:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=630.9200000000001s)]
+*  You're all getting it. [[00:10:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=634.6s)]
+*  Well, okay, that doesn't make any sense. [[00:10:35](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=635.6s)]
+*  And so things that don't make sense blow up. [[00:10:38](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=638.16s)]
+*  They do go boom, but not the way that Trump thinks. [[00:10:41](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=641.16s)]
+*  Now maybe this exchange will change Box's mind because NBC reporters were talking to [[00:10:44](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=644.32s)]
+*  Trump and they asked him what his message was to the motor industry CEOs and whether [[00:10:52](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=652.1600000000001s)]
+*  he had warned them against raising prices. [[00:10:58](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=658.4200000000001s)]
+*  Here's what Trump said. [[00:11:01](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=661.4000000000001s)]
+*  The message is, congratulations, if you make your car in the United States, you're going [[00:11:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=662.8000000000001s)]
+*  to make a lot of money. [[00:11:07](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=667.94s)]
+*  If you don't, you're going to have to probably come to the United States because if you make [[00:11:09](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=669.7800000000001s)]
+*  your car in the United States, there is no tariff. [[00:11:14](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=674.3s)]
+*  When pressed if he told CEOs not to raise prices, here's how Trump responded. [[00:11:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=677.74s)]
+*  No, I never said that. [[00:11:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=682.42s)]
+*  I couldn't care less if they raise prices because people are going to start buying American [[00:11:24](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=684.3s)]
+*  made cars. [[00:11:28](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=688.26s)]
+*  I couldn't care less. [[00:11:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=689.26s)]
+*  I hope they raise their prices because if they do, people are gonna buy American made [[00:11:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=690.5s)]
+*  cars. [[00:11:35](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=695.26s)]
+*  We have plenty. [[00:11:36](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=696.8599999999999s)]
+*  Okay, so we don't have plenty. [[00:11:37](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=697.8599999999999s)]
+*  Actually, Tesla happens to be the most American made car, not just in terms of being manufactured [[00:11:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=700.02s)]
+*  here. [[00:11:46](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=706.02s)]
+*  Yes, they also have manufacturing plants in other countries as well, but they manufacture [[00:11:47](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=707.02s)]
+*  Teslas in the United States. [[00:11:49](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=709.62s)]
+*  And in terms of the parts used to manufacture the cars, they're mostly American parts, but [[00:11:51](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=711.62s)]
+*  there are some foreign made parts as well. [[00:11:58](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=718.54s)]
+*  The point is, it seems like if he does go through with this tariffs policy, the car [[00:12:00](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=720.54s)]
+*  company that stands to benefit the most would be Tesla, no? [[00:12:06](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=726.42s)]
+*  Yeah, second most. [[00:12:10](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=730.66s)]
+*  Rivian would benefit the most, Tesla the second most. [[00:12:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=731.82s)]
+*  Ford is somewhere in the middle and then GM and Stellantis would be very hard. [[00:12:14](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=734.66s)]
+*  What are you doing, Ford? [[00:12:18](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=738.22s)]
+*  What are you doing, Ford? [[00:12:19](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=739.22s)]
+*  You're really gonna make your cars in the US, come on. [[00:12:20](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=740.22s)]
+*  Okay, so that's why we're in an interesting situation here, where we do wanna protect [[00:12:23](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=743.34s)]
+*  manufacturing in America. [[00:12:28](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=748.22s)]
+*  We do want cars made in the US, so that's why we're not blanket against tariffs. [[00:12:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=749.42s)]
+*  Some tariffs for that industry might make some sense, but I have no confidence that [[00:12:34](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=754.26s)]
+*  they've put any kind of decent thought into this. [[00:12:39](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=759.0600000000001s)]
+*  And then here's Tesla popping up, and this is not us, this is senior analyst in an article [[00:12:41](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=761.7s)]
+*  on CNBC, right, explaining Tesla does wind up being a big winner here. [[00:12:47](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=767.62s)]
+*  Because the price of their competitors cars will go up significantly and theirs won't. [[00:12:53](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=773.9s)]
+*  Now, Elon says, well, we're also- [[00:12:59](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=779.62s)]
+*  Going to increase prices. [[00:13:01](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=781.8199999999999s)]
+*  Yeah, don't worry, we're also gonna increase prices. [[00:13:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=782.9399999999999s)]
+*  No, he says we're also gonna be hurt by some of these tariffs. [[00:13:05](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=785.2199999999999s)]
+*  Yes, but a lot less so than the other car dealers and the other car makers, I should [[00:13:08](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=788.2199999999999s)]
+*  say. [[00:13:14](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=794.02s)]
+*  And so that's why they stand again and that's what the analysts say. [[00:13:15](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=795.02s)]
+*  Maybe that is a coincidence, maybe that isn't, that's up for you to decide. [[00:13:18](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=798.18s)]
+*  So regardless of how you feel about this entire economic situation, when you take a look at [[00:13:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=802.7199999999999s)]
+*  the bigger picture, Americans not so happy. [[00:13:28](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=808.1s)]
+*  Remember, Donald Trump got elected over Kamala Harris because more Americans felt that he [[00:13:31](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=811.22s)]
+*  would be better for the economy as opposed to Kamala Harris. [[00:13:36](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=816.1800000000001s)]
+*  But that has not really come to fruition for voters and that's based on what they're saying [[00:13:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=820.1800000000001s)]
+*  in these polls. [[00:13:45](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=825.5s)]
+*  So let's go to this CBS YouGov poll and you'll see how people are grading him based on various [[00:13:46](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=826.5s)]
+*  areas of his administration. [[00:13:53](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=833.46s)]
+*  So when it comes to immigration, for instance, he still has high marks, 53% of respondents [[00:13:55](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=835.46s)]
+*  say that they approve, but 47% disapprove the economy. [[00:13:59](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=839.96s)]
+*  More Americans disapprove at 52% than approve 48% of Trump's handling of the economy. [[00:14:04](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=844.84s)]
+*  So he's starting to really suffer in the polling when it comes to how he's handling the economic [[00:14:12](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=852.1800000000001s)]
+*  situation in the United States. [[00:14:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=857.0400000000001s)]
+*  Let's go to the next one. [[00:14:19](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=859.32s)]
+*  So if you look at this graphic, just 23% of Americans now believe Trump's economic policies [[00:14:20](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=860.7800000000001s)]
+*  are making them better off. [[00:14:24](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=864.9200000000001s)]
+*  That's down from 42% in January. [[00:14:27](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=867.04s)]
+*  Nearly twice as many people now say he's making their finances worse. [[00:14:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=870.88s)]
+*  And that's a massive 33 point swing, better off prevailed by a 14 point margin in January, [[00:14:35](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=875.76s)]
+*  but now trails by 19%. [[00:14:42](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=882.2199999999999s)]
+*  Also many voters believe that Trump's priorities are kind of out of whack here. [[00:14:45](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=885.7199999999999s)]
+*  Let's take a look at this graphic. [[00:14:49](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=889.76s)]
+*  So 64% of Americans think the Trump administration is not focusing enough on lowering prices [[00:14:51](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=891.24s)]
+*  while 55% believe he's focusing too much on tariffs. [[00:14:57](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=897.74s)]
+*  And the overwhelming majority of respondents, that's 72%, also believe the tariffs will [[00:15:00](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=900.9s)]
+*  create price increases in the short term. [[00:15:05](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=905.22s)]
+*  And honestly, likely the long term if he doesn't have a strategy in place to actually foster [[00:15:08](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=908.9s)]
+*  and facilitate the manufacturing in the US necessary to keep costs down. [[00:15:15](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=915.06s)]
+*  And final thing that I'll leave you with, Cenk, is Caroline Levitt, White House press [[00:15:21](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=921.0s)]
+*  secretary was confronted about the terrible polling numbers and she decided to blame an [[00:15:24](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=924.78s)]
+*  interesting figure here. [[00:15:30](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=930.74s)]
+*  Let's take a look. [[00:15:32](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=932.02s)]
+*  Is the president doing enough to answer the needs and demands of the American voter when [[00:15:33](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=933.02s)]
+*  it comes to the economy and lowering prices? [[00:15:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=940.76s)]
+*  The president and his economic team are working on this effort every single day. [[00:15:43](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=943.9399999999999s)]
+*  And the president is not only trying to fix the mess created by the previous administration's [[00:15:48](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=948.8s)]
+*  incompetence and reckless spending. [[00:15:54](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=954.0200000000001s)]
+*  He is trying to fix decades of unfair trade practices that have ripped our country off, [[00:15:56](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=956.34s)]
+*  that have sent jobs overseas and that have forced millions of Americans out of their [[00:16:01](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=961.6600000000001s)]
+*  jobs. [[00:16:06](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=966.74s)]
+*  So, I guess we're blaming Biden for what's happening in the economy at this very moment. [[00:16:07](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=967.74s)]
+*  Yeah, I wouldn't leave out Clinton or Obama or Carter or Grover Cleveland. [[00:16:13](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=973.4200000000001s)]
+*  So brother, we know what the economy was when you took over and now it's gotten worse. [[00:16:20](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=980.86s)]
+*  And so here's the thing that apparently people in Washington don't understand you, cuz the [[00:16:25](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=985.58s)]
+*  Democrats certainly don't understand it. [[00:16:29](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=989.42s)]
+*  They thought, no, even though Joe Biden can't speak, we'll pretend he's young and dynamic [[00:16:31](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=991.38s)]
+*  and we'll trick the whole country, right? [[00:16:36](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=996.32s)]
+*  Now Trump and his team think, even though prices are going up and they're about to skyrocket [[00:16:38](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=998.42s)]
+*  in some places like in cars, we're going to pretend that it wasn't us and it wasn't the [[00:16:43](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1003.58s)]
+*  tariffs and it was Biden and Jimmy Carter and James Polk. [[00:16:50](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1010.18s)]
+*  Okay, good luck. [[00:16:54](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1014.9s)]
+*  You're trying to do the same tricky, posicky maneuver that the Democrats did. [[00:16:57](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1017.2199999999999s)]
+*  It's not that tricky. [[00:17:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1022.3399999999999s)]
+*  Yeah, and how did that wind up for them? [[00:17:03](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1023.3399999999999s)]
+*  It didn't. [[00:17:05](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1025.1s)]
+*  So by the way, look, there's something great going on here, such a silver lining to this [[00:17:06](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1026.1s)]
+*  story and a lot of other stories. [[00:17:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1031.22s)]
+*  Politicians these days are getting caught a lot quicker, okay? [[00:17:14](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1034.06s)]
+*  So if you asked me how long is it gonna take for Trump voters to turn on Trump, I would [[00:17:18](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1038.92s)]
+*  have said, I mean, we're not even having that conversation until six months in. [[00:17:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1042.76s)]
+*  At eight or nine months, you might start to see some cracks and at 18 months, I think [[00:17:26](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1046.76s)]
+*  we'll probably be in trouble. [[00:17:31](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1051.3200000000002s)]
+*  Look at that poll, 33 point swing on if you're better off economically since January. [[00:17:33](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1053.44s)]
+*  Yeah. [[00:17:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1060.5600000000002s)]
+*  That's just like with two, max three months. [[00:17:41](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1061.5600000000002s)]
+*  And already the Trump voters are like, no, I'm not better off. [[00:17:45](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1065.16s)]
+*  You can keep telling me I'm better off and you can keep telling me Joe Biden's young. [[00:17:48](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1068.96s)]
+*  But I see the price of eggs and I see the price of everything and I'm not better off. [[00:17:52](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1072.44s)]
+*  And so that is super refreshing to see, cuz you'd be shocked at how much propaganda from [[00:17:56](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1076.5600000000002s)]
+*  both sides affects polling, right? [[00:18:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1082.24s)]
+*  That's true, yes. [[00:18:04](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1084.8000000000002s)]
+*  But I think the tactic of attempting to gaslight the American people never worked. [[00:18:05](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1085.8400000000001s)]
+*  It's not working right now and I'm glad to see it's not working. [[00:18:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1091.5s)]
+*  Americans aren't gaslightable, okay? [[00:18:15](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1095.6000000000001s)]
+*  They live in the real world. [[00:18:17](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1097.16s)]
+*  They see what their finances look like. [[00:18:18](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1098.32s)]
+*  They see what the economic conditions are. [[00:18:20](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1100.28s)]
+*  You can't convince them otherwise. [[00:18:22](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1102.52s)]
+*  Yeah, I'm gonna keep saying that. [[00:18:24](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1104.12s)]
+*  The fact that the mainstream media monopoly has been broken is amazing news. [[00:18:26](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1106.4199999999998s)]
+*  Because people are getting their news now from a whole bunch of different sources and [[00:18:31](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1111.76s)]
+*  not just from two propaganda outlets. [[00:18:35](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1115.52s)]
+*  So that's why they're catching on much quicker. [[00:18:38](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1118.0s)]
+*  So Trump can start keep trying to play these games. [[00:18:40](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1120.6799999999998s)]
+*  But I think he didn't get caught on the economy last time, partly cuz he had the establishment [[00:18:44](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1124.3999999999999s)]
+*  on his team pumping the brakes and they wound up in some sort of weirdo balance that halfway [[00:18:49](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1129.1999999999998s)]
+*  worked for three years, right? [[00:18:53](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1133.4799999999998s)]
+*  And you could say, hey, I'm wrong about that, etc, no problem. [[00:18:54](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1134.9599999999998s)]
+*  But what you're gonna see here is now without those brakes in the car, he's gonna hit that [[00:18:58](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1138.4799999999998s)]
+*  brick wall a lot quicker. [[00:19:02](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1142.9599999999998s)]
+*  And then what he does after that will be interesting. [[00:19:04](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1144.9799999999998s)]
+*  I don't know what he'll do. [[00:19:06](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1146.8s)]
+*  Every time you ring the bell below, an angel gets his wings. [[00:19:08](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1148.9399999999998s)]
+*  Totally not true. [[00:19:11](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1151.9199999999998s)]
+*  But it does keep you updated on our live shows. [[00:19:13](https://www.youtube.com/watch?v=N9LwPp0J-MI&t=1153.04s)]
