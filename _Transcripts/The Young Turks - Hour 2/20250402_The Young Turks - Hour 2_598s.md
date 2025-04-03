@@ -1,0 +1,433 @@
+---
+Date Generated: April 03, 2025
+Transcription Model: whisper medium 20231117
+Length: 598s
+Video Keywords: ['250402__TB02_Judge_Drops', 'News', 'Politics', 'TYT', 'The Young Turks', 'Cenk Uygur', 'Progressive', 'TYT Network', 'Ana Kasparian', 'political establishment', 'John Iadarola', 'Breaking News', 'Donald Trump', 'Trump', '2024 election', '2024', 'Rebel HQ', 'Election', 'Trump 2024', 'Republican', 'Democrat', 'Congress', 'Senate', 'Dale Ho', 'Eric Adams', 'New York']
+Video Views: 8196
+Video Rating: None
+Video Description: Judge Dale Ho, the judge overseeing the corruption case against New York City mayor Eric Adams has dismissed the charges.
+
+Ana Kasparian discusses on The Young Turks. Do you agree with TYT's take? Tell us what you think in the comments below. SUBSCRIBE today: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+
+0:00 Jessica Tarlov fights Jeanine Pirro
+1:15 Most Americans say migrants need due process
+5:30 Jesse Watters makes flippant and cruel comments about innocent immigrant
+
+Help support our mission and get perks https://www.youtube.com/TheYoungTurks/join
+
+Read more HERE:  https://www.cnn.com/2025/04/02/politics/eric-adams-dismissal/index.html
+
+"The judge overseeing the corruption case against Eric Adams has dismissed the charges against the New York City mayor, and in a split with the Trump Justice Department, ordered that the charges cannot be brought again.
+
+Judge Dale Ho said his hands were essentially tied – even though he has concerns about the Justice Department’s reasons to dismiss the case – he could not force them to prosecute a defendant."
+
+*** 
+
+Your Support is Crucial to the Show: https://go.tyt.com/jointoday
+
+The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live
+
+Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: ▶ https://www.youtube.com/TheYoungTurks/join
+
+TYT is the largest online news network in the country. It presents news, context and analysis. We have dozens of on-air hosts on half a dozen major channels on almost all the platforms. We also have a live 24-hour news channel that features all our shows.
+
+The Young Turks is the flagship show of the TYY Network. The Young Turks is the longest running daily show in internet history. We’re about to celebrate our 20th anniversary as a digital native show. We are also the first ever YouTube partner channel. So, we are the original YouTubers.
+
+On the network, we do things a little differently than other places. We present the news first, with all of the facts and context you need, which is a rarity in commentary-heavy online shows. We then also give analysis and perspective, which is rare in traditional news.
+
+Our commentary and perspective are almost always on the left, but we have an enormous range of opinions on the network. Hosts are allowed to think and say whatever they like. Perspectives usually range from the far left to the center of the political spectrum.
+
+Now, our presence and range is large enough that we are adopting the tagline The Online News Network. Our longevity, our 27 million subscribers and 30 billion lifetime views allows us to make this claim confidently.
+
+TYT emphasizes open-minds and open-hearts. We believe in fighting for the average American. We believe in challenging the powerful. We are vigilant about pursuing the truth to the best of our abilities and for always being honest with our audience. We’ve been proud to serve the internet for longer than any other news show or network. As one of the founding fathers and mothers of online media, we have always believed that digital media would become the dominant news source for all Americans. We’re thrilled that day is here and that TYT is where everyone can come to see The Online News Network.
+
+TYT includes owned and operated and partner shows such as The Young Turks, The Damage Report, Indisputable, and more.
+
+TYT’s 24/7 programming is available on YouTube TV, Samsung TV, Plus, Roku, Xumo, TCLtv+, Fubo, and more.
+
+TYT is also available as a podcast on Spotify, Apple Podcasts, TuneIn, Amazon Music, and more.
+
+SUBSCRIBE on YOUTUBE: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+FACEBOOK: ☞ http://www.facebook.com/TheYoungTurks
+TWITTER: ☞ http://www.twitter.com/TheYoungTurks
+INSTAGRAM: ☞ http://www.instagram.com/TheYoungTurks
+TWITCH: ☞ http://www.twitch.com/tyt
+
+👕 Merch: http://shoptyt.com
+
+❤ Donate: http://www.tyt.com/go
+
+🔗 Website: https://www.tyt.com
+
+
+If you want to watch more videos from TYT, consider subscribing to other channels in our network:
+
+The Watchlist https://www.youtube.com/watchlisttyt
+
+Indisputable with Dr. Rashad Richey https://www.youtube.com/indisputabletyt
+
+The Damage Report ▶ https://www.youtube.com/thedamagereport
+
+TYT Sports ▶ https://www.youtube.com/tytsports
+
+The Conversation ▶ https://www.youtube.com/tytconversation
+
+Rebel HQ ▶ https://www.youtube.com/rebelhq
+
+TYT Investigates ▶ https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA
+
+
+#TYT #TheYoungTurks #BreakingNews
+
+250402__TB02_Judge_Drops
+---
+
+# Judge Dismisses Case Against NYC Mayor Eric Adams
+**The Young Turks - Hour 2:** [April 02, 2025](https://www.youtube.com/watch?v=cXiCO7rPFqs)
+*  As you have heard, this case, [[00:00:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=0.0s)]
+*  the judge has dismissed it with [[00:00:03](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=3.6s)]
+*  prejudice, making it clear that [[00:00:07](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=7.36s)]
+*  it never can be brought back. [[00:00:11](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=11.4s)]
+*  Let me be clear, as I said all [[00:00:15](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=15.36s)]
+*  along, this case should have never [[00:00:18](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=18.56s)]
+*  been brought, and I did nothing [[00:00:22](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=22.16s)]
+*  wrong. [[00:00:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=25.560000000000002s)]
+*  I mean, I feel like some of the [[00:00:26](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=26.44s)]
+*  evidence that the public has [[00:00:28](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=28.240000000000002s)]
+*  already seen indicates that you [[00:00:29](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=29.68s)]
+*  might have done something wrong. [[00:00:31](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=31.16s)]
+*  But alas, a judge has in fact [[00:00:32](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=32.88s)]
+*  dismissed the corruption, bribery, [[00:00:35](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=35.28s)]
+*  and wire fraud case against New [[00:00:38](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=38.160000000000004s)]
+*  York Mayor Eric Adams. [[00:00:40](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=40.480000000000004s)]
+*  But while it might sound like a big [[00:00:42](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=42.160000000000004s)]
+*  win for Adams and possibly for [[00:00:44](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=44.36s)]
+*  the Trump administration, which has [[00:00:46](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=46.44s)]
+*  been accused of engaging in quid [[00:00:48](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=48.96s)]
+*  pro quo with Adams, [[00:00:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=51.16s)]
+*  there's a catch here. [[00:00:52](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=52.52s)]
+*  So bucking up the money, [[00:00:54](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=54.0s)]
+*  so buckle up. [[00:00:56](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=56.0s)]
+*  Judge Dale Ho issued a long opinion [[00:00:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=57.4s)]
+*  today, in fact, explaining why, [[00:01:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=60.36s)]
+*  even though he has concerns about [[00:01:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=62.92s)]
+*  the Justice Department's [[00:01:05](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=65.22s)]
+*  motivations for dismissing the [[00:01:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=66.98s)]
+*  case, he went along with it anyway, [[00:01:09](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=69.06s)]
+*  all right? [[00:01:11](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=71.48s)]
+*  And it has to do with the fact that [[00:01:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=72.2s)]
+*  the Trump administration's [[00:01:14](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=74.44s)]
+*  Department of Justice had actually [[00:01:16](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=76.48s)]
+*  asked for the case to be dropped, [[00:01:19](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=79.04s)]
+*  but also wanted to retain the [[00:01:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=81.36s)]
+*  authority to restore charges later [[00:01:23](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=83.44000000000001s)]
+*  on. [[00:01:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=85.76s)]
+*  Man, that is like some mob [[00:01:26](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=86.28s)]
+*  activity, okay? [[00:01:28](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=88.36s)]
+*  We're going to drop it for now, [[00:01:30](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=90.08000000000001s)]
+*  but we reserve the right to bring [[00:01:32](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=92.68s)]
+*  it back. [[00:01:35](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=95.4s)]
+*  But so that was what was going on. [[00:01:36](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=96.44000000000001s)]
+*  Now, Judge Ho did not agree to [[00:01:39](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=99.96000000000001s)]
+*  that, instead dismissing the case [[00:01:42](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=102.12s)]
+*  with prejudice, meaning that [[00:01:44](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=104.68s)]
+*  the charges cannot be brought back. [[00:01:46](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=106.72s)]
+*  So in his strongly worded ruling, [[00:01:49](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=109.08000000000001s)]
+*  Ho rejected the Justice [[00:01:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=111.32000000000001s)]
+*  Department's argument that [[00:01:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=113.08000000000001s)]
+*  prosecutors were politically [[00:01:54](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=114.84s)]
+*  motivated in bringing the case [[00:01:56](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=116.88000000000001s)]
+*  against Eric Adams, and also that [[00:01:58](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=118.76s)]
+*  the charges were impacting Adams' [[00:02:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=120.7s)]
+*  ability to carry out Trump's [[00:02:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=122.66000000000001s)]
+*  immigration agenda. [[00:02:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=124.28s)]
+*  He said everything here smacks of [[00:02:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=126.12s)]
+*  a bargain, dismissal of the [[00:02:08](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=128.36s)]
+*  indictment in exchange for [[00:02:10](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=130.20000000000002s)]
+*  immigration policy concessions. [[00:02:11](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=131.88s)]
+*  He wrote in a 78 page opinion, [[00:02:14](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=134.24s)]
+*  he said DOJ's position is [[00:02:16](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=136.12s)]
+*  disturbing because it implies [[00:02:17](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=137.76s)]
+*  public officials may receive [[00:02:19](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=139.64000000000001s)]
+*  special treatment if they go along [[00:02:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=141.44s)]
+*  with political priorities. [[00:02:23](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=143.52s)]
+*  Are we really surprised by that? [[00:02:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=145.72s)]
+*  I mean, look, this isn't good. [[00:02:27](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=147.16s)]
+*  I think it's unfair that someone [[00:02:30](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=150.08s)]
+*  who engaged in corruption schemes [[00:02:32](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=152.44s)]
+*  and took bribes allegedly from [[00:02:34](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=154.8s)]
+*  foreign nationals is basically [[00:02:36](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=156.8s)]
+*  getting away with it now. [[00:02:39](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=159.04000000000002s)]
+*  I think it's unfair. [[00:02:41](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=161.32s)]
+*  I think if you're breaking the law, [[00:02:42](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=162.36s)]
+*  you should suffer the consequences [[00:02:44](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=164.08s)]
+*  for that. [[00:02:45](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=165.6s)]
+*  But the culture in which Judge Ho [[00:02:46](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=166.88s)]
+*  is concerned about has existed [[00:02:48](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=168.96s)]
+*  for a long time in this country. [[00:02:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=171.44s)]
+*  I mean, politicians, people in [[00:02:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=173.96s)]
+*  positions of power have engaged in [[00:02:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=175.44s)]
+*  all sorts of criminality and [[00:02:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=177.0s)]
+*  have gotten away with it. [[00:02:58](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=178.12s)]
+*  So I mean, okay, but sure, [[00:02:58](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=178.92000000000002s)]
+*  let's pretend like this is a new [[00:03:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=180.48000000000002s)]
+*  thing. [[00:03:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=182.24s)]
+*  He said the DOJ's position is [[00:03:03](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=183.44s)]
+*  disturbing. [[00:03:05](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=185.20000000000002s)]
+*  This suggestion is fundamentally [[00:03:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=186.28s)]
+*  incompatible with the basic [[00:03:08](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=188.48000000000002s)]
+*  promise of equal justice under [[00:03:10](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=190.24s)]
+*  the law. [[00:03:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=192.08s)]
+*  We don't have equal justice under [[00:03:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=192.60000000000002s)]
+*  the law in the United States. [[00:03:14](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=194.28s)]
+*  You know that, Judge Ho. [[00:03:15](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=195.72s)]
+*  Judge Ho. [[00:03:17](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=197.36s)]
+*  Dismissing the case without [[00:03:19](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=199.08s)]
+*  any doubt would create the [[00:03:20](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=200.44s)]
+*  unavoidable perception that [[00:03:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=201.8s)]
+*  the mayor's freedom depends on his [[00:03:23](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=203.44s)]
+*  ability to carry out the immigration [[00:03:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=205.28s)]
+*  enforcement priorities of [[00:03:27](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=207.28s)]
+*  the administration. [[00:03:28](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=208.84s)]
+*  And that he might be more beholden [[00:03:30](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=210.24s)]
+*  to the demands of the federal [[00:03:32](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=212.44s)]
+*  government than he wishes of his [[00:03:34](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=214.32s)]
+*  own constituents. [[00:03:36](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=216.44s)]
+*  And then here's a breakdown from [[00:03:38](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=218.84s)]
+*  a legal analyst of exactly what all [[00:03:40](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=220.8s)]
+*  of this means. [[00:03:42](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=222.96s)]
+*  What this judge is worried about [[00:03:45](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=225.08s)]
+*  is that he thinks the government [[00:03:47](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=227.08s)]
+*  is going to hold leverage over [[00:03:49](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=229.07999999999998s)]
+*  Eric Adams. [[00:03:50](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=230.67999999999998s)]
+*  If he dismissed the case without [[00:03:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=231.92s)]
+*  prejudice, that would mean that [[00:03:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=233.6s)]
+*  these charges could be brought [[00:03:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=235.28s)]
+*  again. [[00:03:56](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=236.68s)]
+*  So he thinks that this is the [[00:03:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=237.2s)]
+*  fairest way to handle this case. [[00:03:58](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=238.76s)]
+*  And he's very clear here that this [[00:04:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=240.79999999999998s)]
+*  has nothing to do with the merits [[00:04:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=242.88s)]
+*  of the case against Eric Adams [[00:04:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=244.95999999999998s)]
+*  Vlad. [[00:04:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=246.79999999999998s)]
+*  It's that he thinks this is the [[00:04:07](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=247.56s)]
+*  best way to proceed because he [[00:04:09](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=249.32s)]
+*  also cannot force the Justice [[00:04:11](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=251.16s)]
+*  Department to continue prosecuting [[00:04:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=252.95999999999998s)]
+*  this case. [[00:04:15](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=255.35999999999999s)]
+*  And he thinks it's fairest to [[00:04:16](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=256.2s)]
+*  defend Eric Adams because he [[00:04:18](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=258.16s)]
+*  expresses that it seems quite [[00:04:20](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=260.08000000000004s)]
+*  clear to him that they were trying [[00:04:22](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=262.04s)]
+*  to create leverage over him. [[00:04:24](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=264.08000000000004s)]
+*  Now this case against Eric Adams [[00:04:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=265.8s)]
+*  is dismissed and these charges [[00:04:27](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=267.44s)]
+*  cannot be brought again. [[00:04:29](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=269.0s)]
+*  So I want to be clear, [[00:04:31](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=271.96000000000004s)]
+*  even though Eric Adams is saying [[00:04:33](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=273.20000000000005s)]
+*  that the case was dismissed because [[00:04:35](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=275.08000000000004s)]
+*  he did nothing wrong, [[00:04:37](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=277.08000000000004s)]
+*  that is not true. [[00:04:38](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=278.36s)]
+*  So I understand the judge's [[00:04:40](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=280.44000000000005s)]
+*  reasoning here, John. [[00:04:41](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=281.88s)]
+*  I do, because he doesn't want [[00:04:43](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=283.24s)]
+*  the Trump administration to have [[00:04:45](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=285.24s)]
+*  the power over Adams, essentially [[00:04:47](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=287.36s)]
+*  threatening to prosecute him for [[00:04:49](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=289.64s)]
+*  the corruption charges if he [[00:04:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=291.68s)]
+*  doesn't play ball with the [[00:04:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=293.44s)]
+*  immigration policies of [[00:04:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=295.0s)]
+*  the administration. [[00:04:56](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=296.64s)]
+*  So I understand the decision and [[00:04:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=297.8s)]
+*  on top of that, the judge doesn't [[00:04:59](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=299.44s)]
+*  have the power to force the [[00:05:01](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=301.2s)]
+*  prosecution of Eric Adams. [[00:05:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=302.48s)]
+*  Yeah. [[00:05:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=304.16s)]
+*  By the Justice Department. [[00:05:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=304.68s)]
+*  Yeah, which I think would be, [[00:05:05](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=305.48s)]
+*  if he could, a much better way to [[00:05:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=306.72s)]
+*  take away the power of the Trump [[00:05:08](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=308.2s)]
+*  administration over him. [[00:05:09](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=309.56s)]
+*  That sword hanging over his head [[00:05:10](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=310.92s)]
+*  that the charges might come back. [[00:05:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=312.0s)]
+*  If you just leave them there in [[00:05:13](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=313.0s)]
+*  the first place, then we wouldn't [[00:05:14](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=314.2s)]
+*  have to worry about that. [[00:05:15](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=315.52000000000004s)]
+*  And we'd actually get justice. [[00:05:16](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=316.36s)]
+*  To what Eric Adams earlier said [[00:05:17](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=317.96000000000004s)]
+*  about, and from the beginning I've [[00:05:19](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=319.6s)]
+*  said I didn't do anything wrong. [[00:05:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=321.40000000000003s)]
+*  Well, I guess we'll never know, [[00:05:23](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=323.64s)]
+*  because we're not going to have [[00:05:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=325.48s)]
+*  the actual trial. [[00:05:27](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=327.2s)]
+*  So reasonable people are for [[00:05:28](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=328.28000000000003s)]
+*  the rest of your life going to look [[00:05:29](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=329.88s)]
+*  at you and see you as the guy that [[00:05:31](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=331.72s)]
+*  got saved by Donald Trump. [[00:05:33](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=333.44s)]
+*  And stuff is just sort of [[00:05:35](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=335.68s)]
+*  lingering out there that was never [[00:05:36](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=336.96000000000004s)]
+*  really adjudicated, [[00:05:38](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=338.8s)]
+*  never really investigated. [[00:05:39](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=339.96000000000004s)]
+*  And so if people want to imply [[00:05:41](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=341.64s)]
+*  that hell, there was a lot of [[00:05:43](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=343.2s)]
+*  strong evidence against you, [[00:05:44](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=344.6s)]
+*  they're going to be able to do [[00:05:46](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=346.20000000000005s)]
+*  that. And you're never going to be [[00:05:47](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=347.20000000000005s)]
+*  able to say, no, we've already [[00:05:48](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=348.48s)]
+*  been through this, and [[00:05:49](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=349.72s)]
+*  it turned out I was innocent. [[00:05:50](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=350.64000000000004s)]
+*  You will never ever be innocent. [[00:05:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=351.92s)]
+*  You will only be free in this [[00:05:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=353.96000000000004s)]
+*  particular case. [[00:05:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=355.76000000000005s)]
+*  On the judge's reasoning, [[00:05:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=357.8s)]
+*  I guess the reasoning to some [[00:05:58](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=358.96000000000004s)]
+*  extent makes sense. [[00:06:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=360.04s)]
+*  I find what he said, [[00:06:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=360.6s)]
+*  the way he said it very [[00:06:01](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=361.64000000000004s)]
+*  frustrating, all this about like, [[00:06:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=362.72s)]
+*  it could do this and it might, [[00:06:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=364.56s)]
+*  no, it did. [[00:06:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=366.36s)]
+*  Dude, you know that it did. [[00:06:07](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=367.64000000000004s)]
+*  All of this is already true. [[00:06:09](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=369.16s)]
+*  And the thing about it is, [[00:06:11](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=371.36s)]
+*  it's easy to point out that [[00:06:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=372.56s)]
+*  the Trump administration seems like [[00:06:13](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=373.92s)]
+*  they were trying to wield this [[00:06:15](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=375.71999999999997s)]
+*  power over Eric Adams, which they [[00:06:17](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=377.12s)]
+*  definitely were. [[00:06:18](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=378.71999999999997s)]
+*  But you could also point out that [[00:06:19](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=379.8s)]
+*  Eric Adams did everything you [[00:06:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=381.52s)]
+*  could or would do if you were [[00:06:23](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=383.12s)]
+*  trying to set up this sort of [[00:06:24](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=384.56s)]
+*  quid pro quo situation. [[00:06:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=385.96s)]
+*  For months he was lobbying to get [[00:06:27](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=387.2s)]
+*  this. [[00:06:29](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=389.52s)]
+*  So Trump and Trump's DOJ are not [[00:06:30](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=390.08s)]
+*  the only corrupt looking ones here, [[00:06:32](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=392.03999999999996s)]
+*  by the way. [[00:06:34](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=394.36s)]
+*  And by the way, so first of all, [[00:06:35](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=395.08s)]
+*  the fear that he might do stuff [[00:06:38](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=398.03999999999996s)]
+*  that Trump wants rather than [[00:06:40](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=400.84s)]
+*  his constituents because of [[00:06:43](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=403.47999999999996s)]
+*  the fear of something. [[00:06:45](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=405.23999999999995s)]
+*  This takes away one sort of [[00:06:47](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=407.08s)]
+*  mechanism that the Trump [[00:06:48](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=408.59999999999997s)]
+*  administration could use against [[00:06:49](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=409.84s)]
+*  him. [[00:06:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=411.55999999999995s)]
+*  But what do you think, [[00:06:52](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=412.08s)]
+*  they're just going to be like, [[00:06:52](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=412.96s)]
+*  shucks, that's it. [[00:06:54](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=414.4s)]
+*  I guess we'll let justice reign or [[00:06:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=415.71999999999997s)]
+*  whatever. [[00:06:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=417.64s)]
+*  They could look for other stuff. [[00:06:58](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=418.71999999999997s)]
+*  Do we know that the charges [[00:07:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=420.23999999999995s)]
+*  included all of his corrupt [[00:07:01](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=421.15999999999997s)]
+*  actions in the past? [[00:07:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=422.15999999999997s)]
+*  That's a good point. [[00:07:03](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=423.32s)]
+*  I mean, but look, do I think the [[00:07:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=424.11999999999995s)]
+*  Trump administration is going to [[00:07:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=426.2s)]
+*  engage in a phishing expedition [[00:07:08](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=428.4s)]
+*  against Eric Adams? [[00:07:10](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=430.59999999999997s)]
+*  Eric Adams at this point is a bit [[00:07:13](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=433.2s)]
+*  of a lame duck mayor. [[00:07:14](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=434.44s)]
+*  There's a mayoral race currently [[00:07:15](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=435.59999999999997s)]
+*  happening for New York City. [[00:07:17](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=437.36s)]
+*  So I don't think Adams has a bright [[00:07:18](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=438.84s)]
+*  political future ahead. [[00:07:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=441.24s)]
+*  In fact, he is very, [[00:07:23](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=443.64s)]
+*  very low on the polling. [[00:07:24](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=444.71999999999997s)]
+*  I can't believe he's even running [[00:07:26](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=446.44s)]
+*  for reelection, but he is. [[00:07:27](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=447.76s)]
+*  He's running for reelection. [[00:07:28](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=448.92s)]
+*  Currently in the Democratic [[00:07:30](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=450.36s)]
+*  primary, you have Andrew Cuomo [[00:07:31](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=451.76s)]
+*  pulling ahead of everybody. [[00:07:33](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=453.68s)]
+*  So it seems likely that Cuomo is [[00:07:37](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=457.03999999999996s)]
+*  going to win the Democratic [[00:07:38](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=458.96s)]
+*  primary. [[00:07:40](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=460.8s)]
+*  I don't know if a Republican really [[00:07:41](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=461.76s)]
+*  has a chance in New York City, but [[00:07:43](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=463.68s)]
+*  that's where the race currently [[00:07:45](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=465.48s)]
+*  stands. [[00:07:47](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=467.08s)]
+*  I think Eric Adams days in elected [[00:07:47](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=467.59999999999997s)]
+*  office are numbered. [[00:07:49](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=469.52s)]
+*  But unbelievably, Adams decided to [[00:07:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=471.2s)]
+*  give a little book recommendation [[00:07:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=473.24s)]
+*  during his address after it was [[00:07:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=475.24s)]
+*  announced that his case was dropped. [[00:07:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=477.12s)]
+*  Do you know about this? [[00:07:59](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=479.15999999999997s)]
+*  No, I don't. [[00:08:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=480.03999999999996s)]
+*  No. [[00:08:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=480.56s)]
+*  So the book he's holding up is [[00:08:01](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=481.2s)]
+*  something you should be paying [[00:08:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=482.76s)]
+*  close attention to in this next [[00:08:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=484.28s)]
+*  clip. [[00:08:05](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=485.68s)]
+*  Take a look. [[00:08:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=486.24s)]
+*  Many of you know my faith. [[00:08:07](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=487.76s)]
+*  When all that came at me, [[00:08:10](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=490.4s)]
+*  Jesus stepped in and [[00:08:13](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=493.48s)]
+*  he uses who he uses. [[00:08:16](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=496.08s)]
+*  And New York has stopped me all [[00:08:19](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=499.48s)]
+*  the time in trying to find [[00:08:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=501.59999999999997s)]
+*  the rationale behind this. [[00:08:23](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=503.4s)]
+*  And I found it in this book. [[00:08:25](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=505.48s)]
+*  I'm going to encourage every [[00:08:30](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=510.36s)]
+*  New Yorker to read it. [[00:08:31](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=511.8s)]
+*  Read it and understand how we can [[00:08:33](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=513.04s)]
+*  never allow this to happen to [[00:08:35](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=515.48s)]
+*  another innocent American. [[00:08:37](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=517.76s)]
+*  God bless you. [[00:08:41](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=521.36s)]
+*  Did you think he was going to hold [[00:08:44](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=524.24s)]
+*  up the Bible? [[00:08:45](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=525.2s)]
+*  Jesus Christ. [[00:08:45](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=525.88s)]
+*  Did you think he was going to hold [[00:08:46](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=526.44s)]
+*  up the Bible? [[00:08:47](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=527.6s)]
+*  He held up a book. [[00:08:48](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=528.2s)]
+*  Let's take a look at the book. [[00:08:49](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=529.2s)]
+*  Here's the cover. [[00:08:50](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=530.36s)]
+*  To cover the book. [[00:08:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=531.6s)]
+*  Government Gangsters by Cash [[00:08:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=533.64s)]
+*  Patel. [[00:08:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=535.5600000000001s)]
+*  I wonder how long back and forth [[00:08:58](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=538.0s)]
+*  Cash Patel went and [[00:08:59](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=539.36s)]
+*  been like, do I look like a dweeb [[00:09:00](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=540.28s)]
+*  in this? [[00:09:01](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=541.96s)]
+*  This is the coolest I've ever [[00:09:02](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=542.88s)]
+*  looked at thing. [[00:09:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=544.0400000000001s)]
+*  I'll go with it. [[00:09:04](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=544.76s)]
+*  I love that he held it up. [[00:09:05](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=545.76s)]
+*  That is a cool shot. [[00:09:06](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=546.8s)]
+*  I have to admit. [[00:09:07](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=547.76s)]
+*  It has a helicopter and [[00:09:09](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=549.0s)]
+*  I guess that's cool. [[00:09:10](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=550.04s)]
+*  Unfortunately, he's blocking part [[00:09:10](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=550.92s)]
+*  of the image. [[00:09:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=552.12s)]
+*  Every part of the image that's [[00:09:12](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=552.9599999999999s)]
+*  blocked by Cash Patel is less cool [[00:09:14](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=554.3599999999999s)]
+*  than it would otherwise be. [[00:09:15](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=555.92s)]
+*  And yes, I do mean the trees. [[00:09:17](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=557.1999999999999s)]
+*  The trees are cooler. [[00:09:19](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=559.24s)]
+*  Anyway, all of what we just saw [[00:09:21](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=561.28s)]
+*  would make sense if he then dropped [[00:09:22](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=562.9599999999999s)]
+*  into one of his cool new trash cans, [[00:09:24](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=564.9599999999999s)]
+*  I guess. [[00:09:27](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=567.4399999999999s)]
+*  And I love he's like, [[00:09:28](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=568.24s)]
+*  Jesus stepped in. [[00:09:29](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=569.88s)]
+*  No, dude, Trump stepped in. [[00:09:31](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=571.1999999999999s)]
+*  That's it. [[00:09:33](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=573.4s)]
+*  100%. [[00:09:34](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=574.0799999999999s)]
+*  That's why he's holding up [[00:09:35](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=575.0799999999999s)]
+*  the Bible. [[00:09:36](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=576.12s)]
+*  That's the administration's Bible. [[00:09:36](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=576.64s)]
+*  It is, I guess. [[00:09:38](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=578.32s)]
+*  That's the book that Patel [[00:09:39](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=579.0s)]
+*  published with the enemies list. [[00:09:40](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=580.84s)]
+*  So welcome to our trash resolution, [[00:09:43](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=583.64s)]
+*  resolution, revolution. [[00:09:46](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=586.28s)]
+*  We've had plenty of trash [[00:09:48](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=588.64s)]
+*  resolutions, that's for sure. [[00:09:50](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=590.0s)]
+*  Every time you ring the bell below [[00:09:51](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=591.8s)]
+*  an angel gets his wings. [[00:09:53](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=593.32s)]
+*  Totally not true, but [[00:09:54](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=594.88s)]
+*  it does keep you updated on [[00:09:55](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=595.92s)]
+*  our live shows. [[00:09:57](https://www.youtube.com/watch?v=cXiCO7rPFqs&t=597.16s)]
