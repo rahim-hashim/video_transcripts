@@ -1,0 +1,213 @@
+---
+Date Generated: April 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 533s
+Video Keywords: ['Sam Seder', 'Majority Report', 'Emma Vigeland', 'Matt Lech', 'Politics News', 'Democrat', 'liberal', 'progressive politics', 'left politics', 'Seder Majority', 'news']
+Video Views: 97840
+Video Rating: None
+Video Description: Watch the Majority Report live Monday–Friday at 12 p.m. EST on YouTube OR listen via daily podcast at http://www.Majority.FM ...OR become a member at JoinTheMajorityReport.com: https://fans.fm/majority/join 
+
+#SamSeder #EmmaVigeland #majorityreport #politics #news #podcast
+
+https://www.house.gov/representatives/find-your-representative
+https://www.senate.gov/senators/senators-contact.htm 
+
+Get all your MR merch at our store: https://shop.majorityreportradio.com/ 
+Gift a Majority Report subscription here: https://fans.fm/majority/gift 
+Get the free Majority Report App!: http://majority.fm/app
+
+Go to https://JustCoffee.coop and use coupon code majority to get 20% off your purchase! 
+
+CHECK OUT MORE from the MR crew: 
+Matt Binder DOOMED https://www.youtube.com/MattBinder 
+Brandon Sutton DISCOURSE https://www.youtube.com/@Th3Discourse 
+Emma Vigeland ESVN https://www.youtube.com/ESVNShow 
+Matt Lech LEFT RECKONING https://www.youtube.com/LeftReckoning 
+
+OTHER LINKS: 
+Our alt YouTube: https://www.youtube.com/majorityreportlive 
+Twitch: https://www.twitch.tv/themajorityreport 
+TikTok: https://www.tiktok.com/@majorityreportfm 
+Discord: http://majoritydiscord.com/ 
+AMQuickie newsletter: https://am-quickie.ghost.io 
+Instagram: https://www.instagram.com/majorityreport.fm 
+Twitter: http://www.twitter.com/MajorityFM   
+Rumble: https://rumble.com/user/majorityreport 
+Facebook: http://www.facebook.com/MajorityReport 
+
+The Majority Report with Sam Seder - https://www.majorityreportradio.com/
+---
+
+# Fox Host Gives Most Braindead Take On Jews For Peace Protest
+**The Majority Report - Israel Palestine:** [March 16, 2025](https://www.youtube.com/watch?v=GNHImbhsn9E)
+*  Protesters occupied Trump Tower. [[00:00:00](https://www.youtube.com/watch?v=GNHImbhsn9E&t=0.0s)]
+*  She played. [[00:00:03](https://www.youtube.com/watch?v=GNHImbhsn9E&t=3.08s)]
+*  We played a little bit of the footage. [[00:00:04](https://www.youtube.com/watch?v=GNHImbhsn9E&t=4.04s)]
+*  Yeah. And up in Albany, there was also was that was on. [[00:00:05](https://www.youtube.com/watch?v=GNHImbhsn9E&t=5.5600000000000005s)]
+*  Oh, we did play that. Yes. Yeah. [[00:00:10](https://www.youtube.com/watch?v=GNHImbhsn9E&t=10.200000000000001s)]
+*  He confronted Tom Holman. [[00:00:12](https://www.youtube.com/watch?v=GNHImbhsn9E&t=12.0s)]
+*  This is from Trump Tower. [[00:00:13](https://www.youtube.com/watch?v=GNHImbhsn9E&t=13.56s)]
+*  Just so you see the protests are taking place here. [[00:00:15](https://www.youtube.com/watch?v=GNHImbhsn9E&t=15.0s)]
+*  Great place for protest. [[00:00:19](https://www.youtube.com/watch?v=GNHImbhsn9E&t=19.2s)]
+*  OK, for those of you who can't see a lot of people wearing red shirts, [[00:00:30](https://www.youtube.com/watch?v=GNHImbhsn9E&t=30.2s)]
+*  we'll talk about that in a moment. [[00:00:36](https://www.youtube.com/watch?v=GNHImbhsn9E&t=36.0s)]
+*  These are these were not MAGA shirts, I should tell you. [[00:00:37](https://www.youtube.com/watch?v=GNHImbhsn9E&t=37.96s)]
+*  But Fox News covered this. Wow. Yeah. And [[00:00:41](https://www.youtube.com/watch?v=GNHImbhsn9E&t=41.92s)]
+*  these are people who are protesting the disappearing [[00:00:48](https://www.youtube.com/watch?v=GNHImbhsn9E&t=48.36s)]
+*  and now the detention of Mahmoud Khalil. [[00:00:52](https://www.youtube.com/watch?v=GNHImbhsn9E&t=52.04s)]
+*  He is a legal resident of this country who was a negotiator [[00:00:55](https://www.youtube.com/watch?v=GNHImbhsn9E&t=55.36s)]
+*  with Colombia about, you know, from the protesters [[00:00:59](https://www.youtube.com/watch?v=GNHImbhsn9E&t=59.96s)]
+*  who are protesting Israel's genocide. [[00:01:05](https://www.youtube.com/watch?v=GNHImbhsn9E&t=65.4s)]
+*  And they were protesting on behalf of Palestinians in Gaza. [[00:01:10](https://www.youtube.com/watch?v=GNHImbhsn9E&t=70.68s)]
+*  People know by now he's got an eight month. [[00:01:15](https://www.youtube.com/watch?v=GNHImbhsn9E&t=75.44s)]
+*  He's got a child on the way. [[00:01:18](https://www.youtube.com/watch?v=GNHImbhsn9E&t=78.8s)]
+*  His wife is eight months pregnant. [[00:01:21](https://www.youtube.com/watch?v=GNHImbhsn9E&t=81.16s)]
+*  She's an American and he's married to an American. [[00:01:22](https://www.youtube.com/watch?v=GNHImbhsn9E&t=82.92s)]
+*  He is locked away. [[00:01:25](https://www.youtube.com/watch?v=GNHImbhsn9E&t=85.68s)]
+*  Is it Tennessee? I think it is. [[00:01:27](https://www.youtube.com/watch?v=GNHImbhsn9E&t=87.8s)]
+*  Louisiana, Louisiana, sorry. [[00:01:29](https://www.youtube.com/watch?v=GNHImbhsn9E&t=89.96s)]
+*  It's from New York. [[00:01:33](https://www.youtube.com/watch?v=GNHImbhsn9E&t=93.0s)]
+*  He was just sort of disappeared there. [[00:01:33](https://www.youtube.com/watch?v=GNHImbhsn9E&t=93.72s)]
+*  And people didn't know where he was for a long time. [[00:01:35](https://www.youtube.com/watch?v=GNHImbhsn9E&t=95.63999999999999s)]
+*  If you look at the [[00:01:38](https://www.youtube.com/watch?v=GNHImbhsn9E&t=98.16s)]
+*  there was the warrant or the [[00:01:40](https://www.youtube.com/watch?v=GNHImbhsn9E&t=100.96s)]
+*  the justification of it written up, it's it's absolutely garbage. [[00:01:43](https://www.youtube.com/watch?v=GNHImbhsn9E&t=103.36s)]
+*  It's fascinating. This document, maybe we'll show that in a moment. [[00:01:47](https://www.youtube.com/watch?v=GNHImbhsn9E&t=107.72s)]
+*  But here's Harris Faulkner. [[00:01:51](https://www.youtube.com/watch?v=GNHImbhsn9E&t=111.24s)]
+*  This is how much they have to lie about what's going on here. [[00:01:53](https://www.youtube.com/watch?v=GNHImbhsn9E&t=113.52s)]
+*  So you hear them chanting [[00:01:56](https://www.youtube.com/watch?v=GNHImbhsn9E&t=116.48s)]
+*  free Makboud, free them all. [[00:02:00](https://www.youtube.com/watch?v=GNHImbhsn9E&t=120.64s)]
+*  I'm wondering, Ari, who are they all? [[00:02:02](https://www.youtube.com/watch?v=GNHImbhsn9E&t=122.24s)]
+*  And if the world is watching our nation right now [[00:02:04](https://www.youtube.com/watch?v=GNHImbhsn9E&t=124.96s)]
+*  and they know us as is, you know, a bastion of free speech, so on and so forth. [[00:02:08](https://www.youtube.com/watch?v=GNHImbhsn9E&t=128.04s)]
+*  Would you hate when people feel under threat because of what you're saying? [[00:02:12](https://www.youtube.com/watch?v=GNHImbhsn9E&t=132.72s)]
+*  Pause it for a second. That's actually. [[00:02:16](https://www.youtube.com/watch?v=GNHImbhsn9E&t=136.6s)]
+*  She's I don't know if she's looking at the monitor. Mm hmm. [[00:02:20](https://www.youtube.com/watch?v=GNHImbhsn9E&t=140.04s)]
+*  But there's a lot of these these red shirts have the slogan [[00:02:23](https://www.youtube.com/watch?v=GNHImbhsn9E&t=143.68s)]
+*  not in our name. [[00:02:28](https://www.youtube.com/watch?v=GNHImbhsn9E&t=148.20000000000002s)]
+*  Weird, weird. All right. [[00:02:30](https://www.youtube.com/watch?v=GNHImbhsn9E&t=150.32s)]
+*  Let's keep go back just a little bit. [[00:02:31](https://www.youtube.com/watch?v=GNHImbhsn9E&t=151.88s)]
+*  We'll hear her like, you know, talk about what what [[00:02:33](https://www.youtube.com/watch?v=GNHImbhsn9E&t=153.52s)]
+*  how she's hateful individuals. [[00:02:38](https://www.youtube.com/watch?v=GNHImbhsn9E&t=158.08s)]
+*  Let's see. [[00:02:40](https://www.youtube.com/watch?v=GNHImbhsn9E&t=160.36s)]
+*  And they know us as is, you know, a bastion of free speech, so on and so forth. [[00:02:41](https://www.youtube.com/watch?v=GNHImbhsn9E&t=161.04000000000002s)]
+*  When you hate when people feel under threat because of what you're saying, [[00:02:45](https://www.youtube.com/watch?v=GNHImbhsn9E&t=165.68s)]
+*  that's actually not protected speech. [[00:02:50](https://www.youtube.com/watch?v=GNHImbhsn9E&t=170.28s)]
+*  That's right. [[00:02:52](https://www.youtube.com/watch?v=GNHImbhsn9E&t=172.44s)]
+*  And and look at some of the signage in here. [[00:02:53](https://www.youtube.com/watch?v=GNHImbhsn9E&t=173.2s)]
+*  I mean, they hate Israel. [[00:02:55](https://www.youtube.com/watch?v=GNHImbhsn9E&t=175.48s)]
+*  Pause it for one second. [[00:02:57](https://www.youtube.com/watch?v=GNHImbhsn9E&t=177.24s)]
+*  One second, actually. [[00:02:59](https://www.youtube.com/watch?v=GNHImbhsn9E&t=179.35999999999999s)]
+*  So-called hate speech [[00:03:04](https://www.youtube.com/watch?v=GNHImbhsn9E&t=184.88s)]
+*  in and of itself is not, I don't believe, contrary to the First Amendment. [[00:03:07](https://www.youtube.com/watch?v=GNHImbhsn9E&t=187.48s)]
+*  Certainly, you know, like it. [[00:03:14](https://www.youtube.com/watch?v=GNHImbhsn9E&t=194.24s)]
+*  Well, what if somebody says never again for anyone? [[00:03:18](https://www.youtube.com/watch?v=GNHImbhsn9E&t=198.24s)]
+*  Well, I mean, putting that aside, that there isn't a hate speech on display here. [[00:03:21](https://www.youtube.com/watch?v=GNHImbhsn9E&t=201.52s)]
+*  There will be a lot of people in jail just for their Twitter, [[00:03:30](https://www.youtube.com/watch?v=GNHImbhsn9E&t=210.12s)]
+*  their tweets at me, I can tell you right now, if hate speech was a problem. [[00:03:33](https://www.youtube.com/watch?v=GNHImbhsn9E&t=213.24s)]
+*  Is she some kind of fee for turning people in for some of that stuff? [[00:03:37](https://www.youtube.com/watch?v=GNHImbhsn9E&t=217.16s)]
+*  Um, let's let's let's hear her say this again. [[00:03:39](https://www.youtube.com/watch?v=GNHImbhsn9E&t=219.52s)]
+*  And and look at some of the signage in here. [[00:03:43](https://www.youtube.com/watch?v=GNHImbhsn9E&t=223.92000000000002s)]
+*  I mean, they hate Israel. [[00:03:46](https://www.youtube.com/watch?v=GNHImbhsn9E&t=226.20000000000002s)]
+*  They hate Jewish Americans. [[00:03:48](https://www.youtube.com/watch?v=GNHImbhsn9E&t=228.16s)]
+*  They are anti-American. [[00:03:49](https://www.youtube.com/watch?v=GNHImbhsn9E&t=229.72s)]
+*  I mean, hold on, I just want to just clarify something. [[00:03:51](https://www.youtube.com/watch?v=GNHImbhsn9E&t=231.84s)]
+*  They say they hate Jewish Americans. [[00:03:55](https://www.youtube.com/watch?v=GNHImbhsn9E&t=235.36s)]
+*  But let's listen to that again. [[00:03:59](https://www.youtube.com/watch?v=GNHImbhsn9E&t=239.28s)]
+*  It's one I get pick up on that. [[00:04:00](https://www.youtube.com/watch?v=GNHImbhsn9E&t=240.4s)]
+*  And and look at some of the signage in here. [[00:04:02](https://www.youtube.com/watch?v=GNHImbhsn9E&t=242.24s)]
+*  I mean, they hate Israel. [[00:04:04](https://www.youtube.com/watch?v=GNHImbhsn9E&t=244.52s)]
+*  They hate Jewish Americans. [[00:04:06](https://www.youtube.com/watch?v=GNHImbhsn9E&t=246.48000000000002s)]
+*  They are anti-American. [[00:04:08](https://www.youtube.com/watch?v=GNHImbhsn9E&t=248.0s)]
+*  OK, here is the irony of her saying that she as she's saying [[00:04:09](https://www.youtube.com/watch?v=GNHImbhsn9E&t=249.44s)]
+*  they hate Jewish Americans, there's a shot of all these people [[00:04:16](https://www.youtube.com/watch?v=GNHImbhsn9E&t=256.16s)]
+*  wearing red shirts. [[00:04:19](https://www.youtube.com/watch?v=GNHImbhsn9E&t=259.4s)]
+*  These people are [[00:04:21](https://www.youtube.com/watch?v=GNHImbhsn9E&t=261.4s)]
+*  all Jews that she's saying hate Jewish Americans, [[00:04:25](https://www.youtube.com/watch?v=GNHImbhsn9E&t=265.71999999999997s)]
+*  including a friend of the show, Noah Colwin, who got arrested [[00:04:29](https://www.youtube.com/watch?v=GNHImbhsn9E&t=269.12s)]
+*  as part of these demonstrations. Shout out to him. [[00:04:32](https://www.youtube.com/watch?v=GNHImbhsn9E&t=272.52s)]
+*  They are from a group called Jewish Voice for Peace. [[00:04:34](https://www.youtube.com/watch?v=GNHImbhsn9E&t=274.91999999999996s)]
+*  And those hateful signs that they have up [[00:04:38](https://www.youtube.com/watch?v=GNHImbhsn9E&t=278.23999999999995s)]
+*  they have holding say things like opposing fascism is a Jewish tradition. [[00:04:41](https://www.youtube.com/watch?v=GNHImbhsn9E&t=281.32s)]
+*  Well, have you considered that she's trying to protect them from self hate? [[00:04:47](https://www.youtube.com/watch?v=GNHImbhsn9E&t=287.56s)]
+*  Because sometimes the Harris Faulkner. [[00:04:51](https://www.youtube.com/watch?v=GNHImbhsn9E&t=291.6s)]
+*  Yeah, exactly. [[00:04:54](https://www.youtube.com/watch?v=GNHImbhsn9E&t=294.8s)]
+*  Hope of the Jews. [[00:04:56](https://www.youtube.com/watch?v=GNHImbhsn9E&t=296.0s)]
+*  Harris Falkner. [[00:04:57](https://www.youtube.com/watch?v=GNHImbhsn9E&t=297.08000000000004s)]
+*  Go hell, listen, I can speak from personal experience. [[00:04:57](https://www.youtube.com/watch?v=GNHImbhsn9E&t=297.84000000000003s)]
+*  Don't fall down that self. [[00:05:00](https://www.youtube.com/watch?v=GNHImbhsn9E&t=300.92s)]
+*  Oh, God, I didn't even get any. [[00:05:02](https://www.youtube.com/watch?v=GNHImbhsn9E&t=302.52000000000004s)]
+*  I think a wormhole. [[00:05:04](https://www.youtube.com/watch?v=GNHImbhsn9E&t=304.32s)]
+*  Believe me. Oh, oh. [[00:05:05](https://www.youtube.com/watch?v=GNHImbhsn9E&t=305.6s)]
+*  But did she say anything else after that is? [[00:05:08](https://www.youtube.com/watch?v=GNHImbhsn9E&t=308.08000000000004s)]
+*  Yeah, you keep going. [[00:05:11](https://www.youtube.com/watch?v=GNHImbhsn9E&t=311.0s)]
+*  They they they hate Jewish Americans and they hate American Jewish Americans. [[00:05:12](https://www.youtube.com/watch?v=GNHImbhsn9E&t=312.08000000000004s)]
+*  This is about Israel, you idiot. [[00:05:16](https://www.youtube.com/watch?v=GNHImbhsn9E&t=316.8s)]
+*  Big points here. [[00:05:18](https://www.youtube.com/watch?v=GNHImbhsn9E&t=318.71999999999997s)]
+*  Well, I'm going to start with the speech facade, the myth that this is about speech. [[00:05:20](https://www.youtube.com/watch?v=GNHImbhsn9E&t=320.0s)]
+*  What happened to Malik Mahmoud Khalil had nothing to do with speech. [[00:05:24](https://www.youtube.com/watch?v=GNHImbhsn9E&t=324.76s)]
+*  It has everything to do with creating an encampment that is where Zionists [[00:05:28](https://www.youtube.com/watch?v=GNHImbhsn9E&t=328.15999999999997s)]
+*  are prohibited, where Jewish students are not allowed to walk on their own campus. [[00:05:32](https://www.youtube.com/watch?v=GNHImbhsn9E&t=332.4s)]
+*  These are crimes. [[00:05:37](https://www.youtube.com/watch?v=GNHImbhsn9E&t=337.52s)]
+*  These are deportable events. [[00:05:39](https://www.youtube.com/watch?v=GNHImbhsn9E&t=339.08s)]
+*  These are things that we would never tolerate. [[00:05:40](https://www.youtube.com/watch?v=GNHImbhsn9E&t=340.88s)]
+*  As for all these people who are now in Trump Tower. [[00:05:43](https://www.youtube.com/watch?v=GNHImbhsn9E&t=343.2s)]
+*  Not after I hope that this administration will do what the Biden administration [[00:05:45](https://www.youtube.com/watch?v=GNHImbhsn9E&t=345.52s)]
+*  did to the January six people who walked inside the Capitol. [[00:05:49](https://www.youtube.com/watch?v=GNHImbhsn9E&t=349.28s)]
+*  They have the technology to get their faces, match it up with the database. [[00:05:52](https://www.youtube.com/watch?v=GNHImbhsn9E&t=352.96s)]
+*  And if any of them are noncitizens, every one of them is trespassing. [[00:05:56](https://www.youtube.com/watch?v=GNHImbhsn9E&t=356.79999999999995s)]
+*  They all should be deported from this country. [[00:06:00](https://www.youtube.com/watch?v=GNHImbhsn9E&t=360.55999999999995s)]
+*  Wouldn't they be trespassing anyway if they are causing people to fear? [[00:06:02](https://www.youtube.com/watch?v=GNHImbhsn9E&t=362.91999999999996s)]
+*  There are people who pay to live in that residence. [[00:06:06](https://www.youtube.com/watch?v=GNHImbhsn9E&t=366.67999999999995s)]
+*  There are businesses on that. Oh, no. [[00:06:09](https://www.youtube.com/watch?v=GNHImbhsn9E&t=369.88s)]
+*  This is not a safe situation. [[00:06:12](https://www.youtube.com/watch?v=GNHImbhsn9E&t=372.64s)]
+*  If you are Jewish in that building, do you feel safe? [[00:06:14](https://www.youtube.com/watch?v=GNHImbhsn9E&t=374.52000000000004s)]
+*  Pause it for a second. I'll tell you something. [[00:06:17](https://www.youtube.com/watch?v=GNHImbhsn9E&t=377.44s)]
+*  I don't know. [[00:06:20](https://www.youtube.com/watch?v=GNHImbhsn9E&t=380.48s)]
+*  Except for during and I will say, [[00:06:21](https://www.youtube.com/watch?v=GNHImbhsn9E&t=381.6s)]
+*  I'm not even as an adult, but as a child, [[00:06:25](https://www.youtube.com/watch?v=GNHImbhsn9E&t=385.64000000000004s)]
+*  I was in a building during Yom Kippur in Rosh Hashanah. [[00:06:29](https://www.youtube.com/watch?v=GNHImbhsn9E&t=389.32s)]
+*  With more Jews than in that day, that's the only time [[00:06:35](https://www.youtube.com/watch?v=GNHImbhsn9E&t=395.44s)]
+*  that the high holiday services, they'd have all the entire congregation [[00:06:39](https://www.youtube.com/watch?v=GNHImbhsn9E&t=399.96s)]
+*  go into the Worcester auditorium. [[00:06:44](https://www.youtube.com/watch?v=GNHImbhsn9E&t=404.32s)]
+*  But I don't think I've ever been in a building with more Jews. [[00:06:47](https://www.youtube.com/watch?v=GNHImbhsn9E&t=407.35999999999996s)]
+*  That wasn't a Jewish holiday. [[00:06:50](https://www.youtube.com/watch?v=GNHImbhsn9E&t=410.08s)]
+*  And even the temples I go to now for shawl. [[00:06:51](https://www.youtube.com/watch?v=GNHImbhsn9E&t=411.67999999999995s)]
+*  I don't think there's that many Jews. [[00:06:56](https://www.youtube.com/watch?v=GNHImbhsn9E&t=416.35999999999996s)]
+*  I actually think that's probably one of the safest places to be if you're Jewish. [[00:06:57](https://www.youtube.com/watch?v=GNHImbhsn9E&t=417.88s)]
+*  Well, the risk that Jews face there are that they would get arrested [[00:07:00](https://www.youtube.com/watch?v=GNHImbhsn9E&t=420.91999999999996s)]
+*  for protesting Israel by the police. [[00:07:04](https://www.youtube.com/watch?v=GNHImbhsn9E&t=424.12s)]
+*  Yeah, I might not feel safe in Trump Tower either. [[00:07:06](https://www.youtube.com/watch?v=GNHImbhsn9E&t=426.23999999999995s)]
+*  I mean, gosh, what what fascist is going to roll through? [[00:07:08](https://www.youtube.com/watch?v=GNHImbhsn9E&t=428.92s)]
+*  And I don't know, come at you or something. [[00:07:12](https://www.youtube.com/watch?v=GNHImbhsn9E&t=432.4s)]
+*  Literally, as she's saying that she is juxtaposed [[00:07:14](https://www.youtube.com/watch?v=GNHImbhsn9E&t=434.08s)]
+*  in the split screen with opposing fascism as a Jewish tradition sign. [[00:07:18](https://www.youtube.com/watch?v=GNHImbhsn9E&t=438.44s)]
+*  She I don't know. [[00:07:22](https://www.youtube.com/watch?v=GNHImbhsn9E&t=442.96s)]
+*  She ever say the name of Jewish voice? [[00:07:24](https://www.youtube.com/watch?v=GNHImbhsn9E&t=444.48s)]
+*  No. Peace in this. [[00:07:25](https://www.youtube.com/watch?v=GNHImbhsn9E&t=445.92s)]
+*  Which makes me think it's deliberate. Deliberate. [[00:07:26](https://www.youtube.com/watch?v=GNHImbhsn9E&t=446.88s)]
+*  I think it's deliberate. [[00:07:28](https://www.youtube.com/watch?v=GNHImbhsn9E&t=448.48s)]
+*  I mean, I'm sure it's deliberate by somebody. [[00:07:29](https://www.youtube.com/watch?v=GNHImbhsn9E&t=449.56s)]
+*  I'm sure they also don't have to say anything to her. [[00:07:33](https://www.youtube.com/watch?v=GNHImbhsn9E&t=453.0s)]
+*  She just like going on, you know, this is instinct. [[00:07:35](https://www.youtube.com/watch?v=GNHImbhsn9E&t=455.12s)]
+*  Who is her guest? [[00:07:38](https://www.youtube.com/watch?v=GNHImbhsn9E&t=458.20000000000005s)]
+*  Who's at? [[00:07:39](https://www.youtube.com/watch?v=GNHImbhsn9E&t=459.88000000000005s)]
+*  Ari Fleischer. [[00:07:40](https://www.youtube.com/watch?v=GNHImbhsn9E&t=460.56s)]
+*  Sorry, Fleischer. [[00:07:41](https://www.youtube.com/watch?v=GNHImbhsn9E&t=461.48s)]
+*  Ari Fleischer. [[00:07:42](https://www.youtube.com/watch?v=GNHImbhsn9E&t=462.28000000000003s)]
+*  One of the most odious. [[00:07:43](https://www.youtube.com/watch?v=GNHImbhsn9E&t=463.04s)]
+*  No, he did not. [[00:07:44](https://www.youtube.com/watch?v=GNHImbhsn9E&t=464.16s)]
+*  On the contrary. OK. [[00:07:47](https://www.youtube.com/watch?v=GNHImbhsn9E&t=467.32000000000005s)]
+*  This is. [[00:07:50](https://www.youtube.com/watch?v=GNHImbhsn9E&t=470.48s)]
+*  And first off. [[00:07:53](https://www.youtube.com/watch?v=GNHImbhsn9E&t=473.12s)]
+*  People, to the extent that anybody was charged with trespassing on January 6th, [[00:07:55](https://www.youtube.com/watch?v=GNHImbhsn9E&t=475.40000000000003s)]
+*  it was always a secondary charge [[00:07:59](https://www.youtube.com/watch?v=GNHImbhsn9E&t=479.92s)]
+*  after violence or inhibiting the functioning of our government. [[00:08:03](https://www.youtube.com/watch?v=GNHImbhsn9E&t=483.72s)]
+*  Yep. [[00:08:10](https://www.youtube.com/watch?v=GNHImbhsn9E&t=490.52000000000004s)]
+*  They're modern McCarthyites. [[00:08:12](https://www.youtube.com/watch?v=GNHImbhsn9E&t=492.32s)]
+*  And did you see how we've conflated Zionists and Jew within like the first? [[00:08:14](https://www.youtube.com/watch?v=GNHImbhsn9E&t=494.04s)]
+*  Yeah, that's important, because what they are referring to is, [[00:08:18](https://www.youtube.com/watch?v=GNHImbhsn9E&t=498.20000000000005s)]
+*  at least in Colombia, there were agitators who were kept out of the encampments [[00:08:21](https://www.youtube.com/watch?v=GNHImbhsn9E&t=501.36s)]
+*  by protesters, but everyone who would would know that the statement [[00:08:25](https://www.youtube.com/watch?v=GNHImbhsn9E&t=505.36s)]
+*  they kept Jews off the campus is as false as what Faulkner is saying here, [[00:08:29](https://www.youtube.com/watch?v=GNHImbhsn9E&t=509.0s)]
+*  because all of the protesters themselves were Jewish. [[00:08:33](https://www.youtube.com/watch?v=GNHImbhsn9E&t=513.12s)]
