@@ -1,0 +1,153 @@
+---
+Date Generated: April 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 534s
+Video Keywords: ['Rachel Maddow']
+Video Views: 164937
+Video Rating: None
+Video Description: Rachel Maddow looks at the bizarre, frivolous demands of members of Donald Trump's staff even as vital public services are being cut in the name of waste.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Cabinet #DanBongino #DougBurgum
+---
+
+# Trump in search of waste need look no further than his own staff
+**NBC - Rachel Maddow:** [April 08, 2025](https://www.youtube.com/watch?v=5pEc8KG5ZeA)
+*  So here's this, like, podcaster tent revival guy, right, with the merchandise branded with [[00:00:00](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=0.0s)]
+*  his name and the bottles of snake oil that he'll sell you and the children's books [[00:00:07](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=7.76s)]
+*  about Donald Trump being a king. [[00:00:11](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=11.6s)]
+*  That is who Donald Trump puts in charge of the FBI. [[00:00:13](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=13.780000000000001s)]
+*  When he gets there, he tells the agents of the FBI, essentially, hey, listen, don't [[00:00:16](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=16.56s)]
+*  worry, I know I'm an outsider, but I respect what you do enough that we're going to pick [[00:00:20](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=20.240000000000002s)]
+*  one of you guys, an experienced FBI agent, to be my deputy in running this place. [[00:00:25](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=25.02s)]
+*  Sure, maybe I'm just a podcaster, but we'll put somebody in. [[00:00:30](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=30.1s)]
+*  Here's my number two, who you'll really trust. [[00:00:33](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=33.1s)]
+*  And then does he do that? [[00:00:36](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=36.06s)]
+*  No he does not. [[00:00:37](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=37.62s)]
+*  He hires instead, as the deputy director of the FBI, another podcaster. [[00:00:38](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=38.62s)]
+*  This burly man, whose whole kind of brand as a podcaster is that he's kind of burly, [[00:00:46](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=46.06s)]
+*  his whole shtick is man in tight t-shirt, talks about fighting a lot, and makes a lot [[00:00:53](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=53.38s)]
+*  of melodrama about the importance of physical toughness and being willing to die heroically [[00:00:58](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=58.7s)]
+*  for the cause. [[00:01:04](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=64.18s)]
+*  And of course, the cause is the greatness and infallibility of Donald Trump. [[00:01:05](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=65.18s)]
+*  Wow, does he love that guy? [[00:01:09](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=69.42s)]
+*  But he means it only in the manliest way possible. [[00:01:11](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=71.18s)]
+*  Look at these arms. [[00:01:13](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=73.80000000000001s)]
+*  It's like his whole shtick. [[00:01:14](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=74.80000000000001s)]
+*  So Cash Patel, podcaster, names this other podcaster guy to be deputy director of the [[00:01:17](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=77.38s)]
+*  FBI instead of actually hiring anyone with FBI experience. [[00:01:23](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=83.86s)]
+*  But now that deputy director, he too has started on the job. [[00:01:28](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=88.24s)]
+*  And how is that going so far? [[00:01:31](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=91.72s)]
+*  Headline. [[00:01:33](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=93.97999999999999s)]
+*  FBI creates multi-agent bodyguard team to protect Dan Bongino. [[00:01:34](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=94.97999999999999s)]
+*  The former pro-Trump podcaster is the first deputy director to have a security detail. [[00:01:42](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=102.1s)]
+*  Full-time protection could require up to 20 agents, former officials said. [[00:01:47](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=107.33999999999999s)]
+*  Quote, in a break from past practice, in which the bureau's number two officials have not [[00:01:51](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=111.69999999999999s)]
+*  had security details, the FBI has now issued a call for agents to serve as bodyguards for [[00:01:56](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=116.8s)]
+*  Deputy Director Dan Bongino. [[00:02:01](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=121.89999999999999s)]
+*  The FBI canvas sought agents willing to relocate for 30 days of temporary duty to protect Dan [[00:02:04](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=124.13999999999999s)]
+*  Bongino 24 hours a day. [[00:02:10](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=130.26s)]
+*  Full-time protection could require as many as 20 agents. [[00:02:14](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=134.34s)]
+*  The previous deputy director was assigned a single agent part-time to accompany him [[00:02:18](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=138.14s)]
+*  to certain events. [[00:02:22](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=142.98s)]
+*  He had a full detail only when he traveled overseas. [[00:02:24](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=144.54s)]
+*  In contrast, though, now two former FBI officials familiar with the matter said Dan Bongino's [[00:02:29](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=149.06s)]
+*  have followed him inside secure FBI facilities, including headquarters in Washington. [[00:02:35](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=155.38s)]
+*  They said directors typically walk around FBI headquarters without their security details. [[00:02:43](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=163.18s)]
+*  But not this deputy director, not this podcaster. [[00:02:51](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=171.84s)]
+*  He wants the full 24-hours, 20-man team surrounding him at all times, including while he's walking [[00:02:55](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=175.68s)]
+*  around inside the FBI building. [[00:03:04](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=184.44000000000003s)]
+*  Because, what? [[00:03:07](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=187.64000000000001s)]
+*  Spiders? [[00:03:10](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=190.36s)]
+*  Creaking sounds? [[00:03:11](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=191.36s)]
+*  Is there any chance you just hate to be alone? [[00:03:12](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=192.36s)]
+*  I mean, we are in this everything must go moment, right? [[00:03:16](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=196.88000000000002s)]
+*  In this administration, we can no longer fund libraries or museums. [[00:03:22](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=202.88000000000002s)]
+*  We must stop our work on multi-drug-resistant tuberculosis and drug-resistant gonorrhea. [[00:03:29](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=209.04s)]
+*  We are closing the Head Start offices. [[00:03:35](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=215.78s)]
+*  We are firing the meteorologists who produce weather forecasts. [[00:03:38](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=218.28s)]
+*  We are firing the people who answer the phones at the Social Security office. [[00:03:41](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=221.07999999999998s)]
+*  We are firing tens of thousands of people who work with veterans at the VA. [[00:03:44](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=224.92s)]
+*  We are shutting the U.S. Department of Education because everything must go. [[00:03:49](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=229.2s)]
+*  It's all waste. [[00:03:53](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=233.34s)]
+*  It's all waste. [[00:03:55](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=235.56s)]
+*  It all has to go because we, the taxpayers, must pay for Cash Patel's nude drapes in [[00:03:56](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=236.56s)]
+*  his office, his nice nude decor that he demanded on day one, and also the cost of his, what [[00:04:02](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=242.08s)]
+*  was that phrase, of his spending, what was the quote? [[00:04:09](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=249.84s)]
+*  Quote, a lot of time in Las Vegas, where you won't even be enjoying the nude drapes. [[00:04:12](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=252.36s)]
+*  Also, we have to pay for his deputy director, Dan Bongino, the podcaster with the arms, [[00:04:18](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=258.4s)]
+*  to be surrounded at all times by a full-time phalanx of a 20-man team of bodyguards who [[00:04:25](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=265.04s)]
+*  stay with him 24 hours a day, seven days a week, so while he sleeps, they can sit and [[00:04:30](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=270.44s)]
+*  watch him. [[00:04:37](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=277.44s)]
+*  And while he's inside the FBI headquarters building at work inside, they will be there [[00:04:38](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=278.64000000000004s)]
+*  surrounding him in case, like, he has to get up and go potty or something. [[00:04:44](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=284.52000000000004s)]
+*  There is a team that can take him. [[00:04:49](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=289.0s)]
+*  But it's not only Trump's guys at the FBI. [[00:04:53](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=293.44s)]
+*  Headline, the cabinet secretary who wants his cookies freshly baked. [[00:04:55](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=295.84s)]
+*  Trump administration Interior Secretary Doug Burgum likes chocolate chip cookies, preferably [[00:05:00](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=300.68s)]
+*  freshly baked and still warm. [[00:05:05](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=305.84s)]
+*  This peculiar fact became the talk of the Department of the Interior in recent weeks [[00:05:08](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=308.76s)]
+*  after his chief of staff made an unusual request of staff in his office. [[00:05:12](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=312.2s)]
+*  Quote, learn to regularly bake cookies for Secretary Burgum and his guests using the [[00:05:16](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=316.8s)]
+*  industrial ovens at the department headquarters. [[00:05:23](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=323.28s)]
+*  That request was not the only move by his team that has alarmed some Interior officials. [[00:05:27](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=327.88s)]
+*  Four people familiar with Burgum's leadership told the Atlantic that those who run Burgum's [[00:05:32](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=332.08s)]
+*  office have repeatedly made unusual demands to his employees. [[00:05:36](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=336.11999999999995s)]
+*  His office leadership, for example, once instructed political appointees to act as servers for [[00:05:39](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=339.84s)]
+*  a multi-course meal. [[00:05:45](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=345.47999999999996s)]
+*  They also did, like waiters, they made them into waiters. [[00:05:49](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=349.15999999999997s)]
+*  They also dispatched a US Park police helicopter for his personal transportation. [[00:05:52](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=352.56s)]
+*  On at least one occasion, a political appointee was told to remake the cookies because the [[00:05:57](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=357.28000000000003s)]
+*  batch was subpar, according to three people. [[00:06:02](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=362.16s)]
+*  The Atlantic has three sources on the Interior Department staff member being told to remake [[00:06:06](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=366.8s)]
+*  the cookies for the secretary. [[00:06:12](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=372.08s)]
+*  What did they do with the old cookies? [[00:06:13](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=373.92s)]
+*  What was wrong with them? [[00:06:17](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=377.04s)]
+*  Is there anything you could do to cookies that would be that bad? [[00:06:18](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=378.72s)]
+*  Now there are sources from the Department of Interior that are defending Secretary Burgum [[00:06:24](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=384.36s)]
+*  here noting explicitly in their push back to the Atlantic that staff members are not [[00:06:29](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=389.36s)]
+*  required to make this cookie dough themselves. [[00:06:34](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=394.92s)]
+*  It is store-bought cookie dough that they only need to bake. [[00:06:38](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=398.24s)]
+*  So ease up people. [[00:06:43](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=403.12s)]
+*  Quote, Burgum has also used the political appointees in his department for another purpose [[00:06:45](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=405.84s)]
+*  in recent days, stacking firewood in his office's fireplace. [[00:06:49](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=409.8s)]
+*  Burgum also reportedly demands, quote, that any labels get removed from water bottles [[00:06:54](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=414.12s)]
+*  before they are delivered to him. [[00:06:59](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=419.4s)]
+*  Or else. [[00:07:03](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=423.36s)]
+*  I mean, the man obviously cannot remove the labels from his own water bottles. [[00:07:04](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=424.36s)]
+*  That must be done by other government employees, people on the payroll paid by the taxpayers [[00:07:09](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=429.08s)]
+*  because I mean, think about it. [[00:07:13](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=433.96s)]
+*  Honestly, if the secretary himself was occupied removing his own water bottle labels, he might [[00:07:15](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=435.47999999999996s)]
+*  not get to the cookies in time. [[00:07:22](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=442.52s)]
+*  And then who would send them back demanding that they were not warm enough and they must [[00:07:24](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=444.23999999999995s)]
+*  be rebaked? [[00:07:28](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=448.32s)]
+*  The secretary is in charge of some really specific stuff. [[00:07:30](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=450.88s)]
+*  Tell me more about your Department of Government Efficiency. [[00:07:35](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=455.32s)]
+*  I mean, at the National Park Service, they're firing the Rangers and the maintenance crews [[00:07:40](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=460.04s)]
+*  and scientists by the thousands. [[00:07:46](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=466.6s)]
+*  But Park Service helicopters, including the staff that fly them and maintain them, they're [[00:07:50](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=470.12s)]
+*  being diverted to pop secretary warm cookies around town when he's in a rush. [[00:07:55](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=475.56s)]
+*  You know, honestly, it's so much nicer than sitting in traffic. [[00:08:00](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=480.08s)]
+*  Quote, the aviation unit of the US Park Police, a division of the Department of the Interior, [[00:08:03](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=483.04s)]
+*  does not routinely handle VIP transport, according to a US Park Police fact sheet. [[00:08:07](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=487.44s)]
+*  The blue and white helicopters launched to provide additional aerial surveillance during [[00:08:12](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=492.08s)]
+*  presidential and other dignitary movements and are used for medevac search and rescue [[00:08:15](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=495.32s)]
+*  high risk prisoner transport and to support law enforcement operations. [[00:08:19](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=499.52s)]
+*  And also to make sure he is there in time for the cookies to still be warm or they're [[00:08:25](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=505.04s)]
+*  going back. [[00:08:29](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=509.8s)]
+*  Do it again! [[00:08:30](https://www.youtube.com/watch?v=5pEc8KG5ZeA&t=510.8s)]

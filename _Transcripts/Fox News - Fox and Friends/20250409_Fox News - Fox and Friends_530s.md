@@ -1,0 +1,158 @@
+---
+Date Generated: April 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 530s
+Video Keywords: ['china tariffs', 'trump tariffs', 'china us tariffs', 'trump tariff', 'trump tariffs on china', 'trump on china tariffs', 'trade war', 'donald trump', 'us china tariff war', 'donald trump tariffs', 'reciprocal tariffs', 'trump administration', 'trump tariffs news', 'china us tariff', 'trump china tariff', 'world news', 'global trade', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'fox & friends', 'white house', 'peter doocy', 'peter doocy fox news']
+Video Views: 72504
+Video Rating: None
+Video Description: Fox News' Peter Doocy reports the latest on the escalation from the White House. The 'Fox & Friends' co-hosts also weigh in. #FoxNews #trump #trade #donaldtrump 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# US-China trade war escalates as Beijing retaliates on US goods
+**Fox News - Fox and Friends:** [April 09, 2025](https://www.youtube.com/watch?v=nMjf6uwGk7Q)
+*  This is a Fox News alert. New tariffs are going into effect just after midnight, including a 104% duty on China. [[00:00:00](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=0.0s)]
+*  That's 20% over fentanyl trafficking, 34% in reciprocal tariffs from last week, and an additional 50% added on Monday [[00:00:10](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=10.0s)]
+*  after Beijing announced a 34% counter-tariff on U.S. goods. [[00:00:20](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=20.0s)]
+*  Yeah, right now it doesn't look like they're backing down, and the U.S. is also now enforcing reciprocal tariffs on imports from dozens of countries. [[00:00:24](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=24.0s)]
+*  The president says America is in the driver's seat, and the Japanese and South Korean officials are set to fly in to try to cut trade deals. [[00:00:31](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=31.0s)]
+*  By the way, I think Italy's coming in next week. [[00:00:39](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=39.0s)]
+*  And the president says that the U.S. is taking in $2 billion a day from the highly tailored reciprocal tariff deals. [[00:00:41](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=41.0s)]
+*  All right, senior White House correspondent, the highly tailored Peter Ducey joins us right now from the North Lawn. [[00:00:48](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=48.0s)]
+*  Very bespoke. [[00:00:54](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=54.0s)]
+*  Hello, Peter. [[00:00:55](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=55.0s)]
+*  Good morning, and promise made, promise kept, right? [[00:00:56](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=56.0s)]
+*  President Trump dared China to keep their reciprocal tariffs up, and they did. [[00:00:59](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=59.0s)]
+*  And now, as of midnight, the new tariff on China, the biggest in the world, is 104%. [[00:01:05](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=65.0s)]
+*  Additional tariffs on Chinese goods are in place effective midnight tonight at 104%. [[00:01:13](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=73.0s)]
+*  Until they make a deal with us, that's what it's going to be. [[00:01:20](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=80.0s)]
+*  I think they'll make a deal at some point. [[00:01:24](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=84.0s)]
+*  And don't let some of these politicians go around saying, you know, because I'm telling you, these countries are calling us up, kissing my a**. [[00:01:26](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=86.0s)]
+*  They are dying to make a deal. Please, please make a deal. [[00:01:34](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=94.0s)]
+*  The president continues putting out the word that he and Xi of China have a good relationship, as the Chinese are still warning they'll fight this to the end. [[00:01:39](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=99.0s)]
+*  He believes China has to make a deal with the United States. It was a mistake for China to retaliate. [[00:01:50](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=110.0s)]
+*  The president, when America is punched, he punches back harder. [[00:01:55](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=115.0s)]
+*  Vulnerable Republican lawmakers are worrying this is putting them in a tough spot, to the point that for the first time in U.S. history, [[00:02:00](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=120.0s)]
+*  in a congressional hearing, there have been threats made to the U.S. trade rep. [[00:02:08](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=128.0s)]
+*  Whose throat do I get to choke if this proves to be wrong? [[00:02:14](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=134.0s)]
+*  Well, Senator, you can certainly always talk to me, but I... [[00:02:17](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=137.0s)]
+*  But are you at the tip of the spear? [[00:02:20](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=140.0s)]
+*  Well, I'm at the tip of the spear for certain. [[00:02:22](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=142.0s)]
+*  I'm just trying to answer a question that I have several people in North Carolina asking. [[00:02:24](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=144.0s)]
+*  So the president, again, is the final decision maker on all of these things. [[00:02:27](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=147.0s)]
+*  The mood here at the White House is more upbeat than what you just saw there on Capitol Hill. [[00:02:33](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=153.0s)]
+*  Staffers are happily carrying out the president's orders without much worry about the markets in the meantime. [[00:02:38](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=158.0s)]
+*  Back to you. [[00:02:44](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=164.0s)]
+*  So, Peter, I saw the secretary of agriculture last night say, you know, the deals are imminent. [[00:02:45](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=165.0s)]
+*  We see that from Besant. [[00:02:49](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=169.0s)]
+*  Do you think that's going to be backed up by or do you sense that's going to be backed up by the president today? [[00:02:50](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=170.0s)]
+*  I mean, we got a few queued up, ready to go, Vietnam. [[00:02:55](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=175.0s)]
+*  Japan. [[00:02:59](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=179.0s)]
+*  We know that Japan, we got one of the first to call was Cambodia. [[00:03:00](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=180.0s)]
+*  South Korea came through. [[00:03:04](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=184.0s)]
+*  The EU has a plan on the table. [[00:03:06](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=186.0s)]
+*  Do you sense that the president will start saying something more positive about doing deals today? [[00:03:07](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=187.0s)]
+*  It's possible because it's been a week since Liberation Day. [[00:03:13](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=193.0s)]
+*  And so at some point they do want to show progress from these astronomical tariffs that have been put in place. [[00:03:16](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=196.0s)]
+*  But they are giving themselves some time. [[00:03:24](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=204.0s)]
+*  Besant, Scott Besant said that they had April, May and June to get some of these things done. [[00:03:26](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=206.0s)]
+*  And even just saying that giving that two month window, the markets like to see that. [[00:03:31](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=211.0s)]
+*  And that is what drove the rally yesterday. [[00:03:37](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=217.0s)]
+*  And so it's possible today, but also very, very hard to predict. [[00:03:39](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=219.0s)]
+*  So, Peter, you know, for the most part, over the last 72 hours, there have been conflicting statements from the White House. [[00:03:44](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=224.0s)]
+*  Some people like Peter Navarro has said that the tariffs are going to be permanent. [[00:03:52](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=232.0s)]
+*  Other people, Scott Besant said we're going to make a deal and stuff like that. [[00:03:57](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=237.0s)]
+*  And then things started working around. [[00:04:00](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=240.0s)]
+*  The one exception to the rule is Elon Musk, the world's smartest guy. [[00:04:02](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=242.0s)]
+*  We've heard the president say he said that the tariffs are a dumb idea, essentially. [[00:04:06](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=246.0s)]
+*  And yesterday he tweeted out that Peter Navarro was a moron and dumber than a bag of bricks. [[00:04:12](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=252.0s)]
+*  I know that that comment on X was then circulated to members of the press by people on the president's staff. [[00:04:19](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=259.0s)]
+*  So it looks like people are doing some backstabbing. [[00:04:26](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=266.0s)]
+*  Yeah, we were out and about yesterday and I did have the Musk, one of the Musk tweets dissing Navarro sent to me by a couple of different people who work at the White House. [[00:04:30](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=270.0s)]
+*  And it's unclear if that is a bad sign for Navarro or if they just thought that it was funny. [[00:04:40](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=280.0s)]
+*  Because when Caroline Levitt got asked about this, she said, boys will be boys and we'll let this play out in public because we're so transparent. [[00:04:46](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=286.0s)]
+*  I saw, I believe it was an Axios this morning in their newsletter. [[00:04:54](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=294.0s)]
+*  They said in the first Trump administration, there was a lot of backstabbing. [[00:04:57](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=297.0s)]
+*  Now in this administration, there's a lot of frontstabbing. [[00:05:00](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=300.0s)]
+*  Yeah. [[00:05:03](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=303.0s)]
+*  Not a lot, just the really, really sharp knives with the Musk and Navarro. [[00:05:04](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=304.0s)]
+*  That whole transparency thing, you could circle that word every day. [[00:05:10](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=310.0s)]
+*  Thanks, Peter. [[00:05:13](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=313.0s)]
+*  Yep. [[00:05:14](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=314.0s)]
+*  Well, Ainsley, you and I have kind of been saying the same thing about a balanced view on this. [[00:05:15](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=315.0s)]
+*  And I think someone that our audience respects is Maria Bartiromo. [[00:05:19](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=319.0s)]
+*  She respects the president's agenda. [[00:05:23](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=323.0s)]
+*  She understands the market. [[00:05:25](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=325.0s)]
+*  She understands the working class. [[00:05:27](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=327.0s)]
+*  She has some thoughts on Jesse Waters. [[00:05:29](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=329.0s)]
+*  I think our audience would love to hear. [[00:05:31](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=331.0s)]
+*  Let's watch it. [[00:05:32](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=332.0s)]
+*  It takes about three years for a company to fire up their supply chain in America, move it, the supply chain from Mexico, from Vietnam, from China, whatever. [[00:05:33](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=333.0s)]
+*  Into the United States. [[00:05:43](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=343.0s)]
+*  The midterm elections are next year. [[00:05:44](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=344.0s)]
+*  So if the Republicans lose next year and then the White House is lost, then the Republicans are no longer directing policy. [[00:05:46](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=346.0s)]
+*  So timing is of the essence. [[00:05:54](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=354.0s)]
+*  We actually need somebody with a spine of steel, a tough man, to actually get companies to recognize these are not just economic issues. [[00:05:57](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=357.0s)]
+*  These are national security issues. [[00:06:06](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=366.0s)]
+*  However, timing is tight and he needs a deal. [[00:06:08](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=368.0s)]
+*  At this point, we need to hear some win from Japan, from South Korea, from the European Union. [[00:06:12](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=372.0s)]
+*  The stock market going down is not going to be helpful. [[00:06:19](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=379.0s)]
+*  It's going to be a big issue, a barrier for President Trump getting the agenda through. [[00:06:23](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=383.0s)]
+*  I think this is why Donald Trump is doing all of this in the very beginning of the administration so that we can see the benefits coming up in the next few months before the midterm elections, [[00:06:28](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=388.0s)]
+*  before his term is over. [[00:06:40](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=400.0s)]
+*  Because once his term is over, if another Republican doesn't win, this all goes away. [[00:06:41](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=401.0s)]
+*  Right. But her point is that if this doesn't work out well, the Republicans are going to lose in the midterms. [[00:06:46](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=406.0s)]
+*  Somebody who said something similar yesterday was Dave Portnoy. [[00:06:53](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=413.0s)]
+*  He revealed 48 hours ago he has lost in the stock market route 20 percent of his entire vast wealth. [[00:06:56](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=416.0s)]
+*  And he's somebody who is completely behind President Trump. [[00:07:06](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=426.0s)]
+*  He predicts, he hopes that the markets recover. [[00:07:10](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=430.0s)]
+*  And if they don't, he says there's going to be a giant blue wave and the Democrats are going to be swept into power in the House and the Senate. [[00:07:14](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=434.0s)]
+*  There's just no way the markets aren't going to recover. [[00:07:21](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=441.0s)]
+*  They already showed you when there was rumors of a deal from our show the other day. [[00:07:24](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=444.0s)]
+*  It shot up. [[00:07:28](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=448.0s)]
+*  And then we heard that China was going to make a call. [[00:07:29](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=449.0s)]
+*  It shot up. [[00:07:32](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=452.0s)]
+*  And then at the last minute we lost about 300 points. [[00:07:33](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=453.0s)]
+*  And then when Peter Navarro said there won't be any deals, it went down. [[00:07:36](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=456.0s)]
+*  And that's the problem. [[00:07:41](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=461.0s)]
+*  He's speaking for the White House. [[00:07:42](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=462.0s)]
+*  And many people don't think he's speaking for the White House. [[00:07:43](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=463.0s)]
+*  He should be saying that. [[00:07:46](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=466.0s)]
+*  Can I just say, I think, is it next week when taxes are due? [[00:07:47](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=467.0s)]
+*  The 15th? [[00:07:51](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=471.0s)]
+*  It's the 15th. [[00:07:52](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=472.0s)]
+*  I think that's next week. [[00:07:53](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=473.0s)]
+*  Everyone's left the IRS so it doesn't matter. [[00:07:54](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=474.0s)]
+*  Exactly. [[00:07:55](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=475.0s)]
+*  I think Congress could help the president if they really got a deal done when it comes to tax reform. [[00:07:57](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=477.0s)]
+*  The big beautiful bill is on the top of everybody's mind. [[00:08:04](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=484.0s)]
+*  If you want to impact the markets, if you want to impact how the American people look at it, [[00:08:08](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=488.0s)]
+*  they're getting ready to pay the taxes, it's going to hit them. [[00:08:13](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=493.0s)]
+*  Get that bill done. [[00:08:16](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=496.0s)]
+*  And it just seems like there's some back and forth with a few holdouts. [[00:08:19](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=499.0s)]
+*  It's going to be a while. [[00:08:22](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=502.0s)]
+*  It's going to be a while. [[00:08:23](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=503.0s)]
+*  It's going to be about a couple of months, three months. [[00:08:24](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=504.0s)]
+*  Right now it looks like there are dozens of Republicans who are against it. [[00:08:25](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=505.0s)]
+*  And so it's not going to be until the middle of the summer until the tax bill, that big beautiful bill. [[00:08:29](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=509.0s)]
+*  But if people have a chance to vote on it. [[00:08:34](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=514.0s)]
+*  If you do that, it's turbo speed in the fall. [[00:08:36](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=516.0s)]
+*  Exactly. [[00:08:38](https://www.youtube.com/watch?v=nMjf6uwGk7Q&t=518.0s)]
