@@ -1,0 +1,413 @@
+---
+Date Generated: April 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 824s
+Video Keywords: ['250407__BE02_Mayhem_At_Minecraft', 'News', 'Politics', 'TYT', 'The Young Turks', 'Cenk Uygur', 'Progressive', 'TYT Network', 'Ana Kasparian', 'political establishment', 'John Iadarola', 'Breaking News', 'Donald Trump', 'Trump', '2024 election', '2024', 'Rebel HQ', 'Election', 'Trump 2024', 'Republican', 'Democrat', 'Congress', 'Senate', 'A Minecraft Movie', 'teens', 'chicken jockey']
+Video Views: 31718
+Video Rating: None
+Video Description: Teens are reportedly causing chaos during the appearance of a chicken jockey during A Minecraft Movie. 
+
+Cenk Uygur and Ana Kasparian discuss on The Young Turks. Do you agree with TYT's take? Tell us what you think in the comments below. SUBSCRIBE today: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+
+Help support our mission and get perks https://www.youtube.com/TheYoungTurks/join
+
+Read more HERE:  https://www.ign.com/articles/a-minecraft-movie-sparks-chaos-in-theaters-chicken-jockey-screams-and-even-reports-of-cops-being-called
+
+"A Minecraft Movie had a massive opening weekend at the box office and sparked pandemonium inside theaters, with popcorn being thrown, wild "CHICKEN JOCKEY!" screams, and even reports of police being called. But some are saying their experience was ruined by the chaos.
+
+Social media was flooded with videos showing overly enthusiastic cinemagoers screaming lines from the movie, openly filming with their phones, throwing popcorn, and clapping rowdily."
+
+*** 
+
+Your Support is Crucial to the Show: https://go.tyt.com/jointoday
+
+The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live
+
+Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: ▶ https://www.youtube.com/TheYoungTurks/join
+
+TYT is the largest online news network in the country. It presents news, context and analysis. We have dozens of on-air hosts on half a dozen major channels on almost all the platforms. We also have a live 24-hour news channel that features all our shows.
+
+The Young Turks is the flagship show of the TYY Network. The Young Turks is the longest running daily show in internet history. We’re about to celebrate our 20th anniversary as a digital native show. We are also the first ever YouTube partner channel. So, we are the original YouTubers.
+
+On the network, we do things a little differently than other places. We present the news first, with all of the facts and context you need, which is a rarity in commentary-heavy online shows. We then also give analysis and perspective, which is rare in traditional news.
+
+Our commentary and perspective are almost always on the left, but we have an enormous range of opinions on the network. Hosts are allowed to think and say whatever they like. Perspectives usually range from the far left to the center of the political spectrum.
+
+Now, our presence and range is large enough that we are adopting the tagline The Online News Network. Our longevity, our 27 million subscribers and 30 billion lifetime views allows us to make this claim confidently.
+
+TYT emphasizes open-minds and open-hearts. We believe in fighting for the average American. We believe in challenging the powerful. We are vigilant about pursuing the truth to the best of our abilities and for always being honest with our audience. We’ve been proud to serve the internet for longer than any other news show or network. As one of the founding fathers and mothers of online media, we have always believed that digital media would become the dominant news source for all Americans. We’re thrilled that day is here and that TYT is where everyone can come to see The Online News Network.
+
+TYT includes owned and operated and partner shows such as The Young Turks, The Damage Report, Indisputable, and more.
+
+TYT’s 24/7 programming is available on YouTube TV, Samsung TV, Plus, Roku, Xumo, TCLtv+, Fubo, and more.
+
+TYT is also available as a podcast on Spotify, Apple Podcasts, TuneIn, Amazon Music, and more.
+
+SUBSCRIBE on YOUTUBE: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+FACEBOOK: ☞ http://www.facebook.com/TheYoungTurks
+TWITTER: ☞ http://www.twitter.com/TheYoungTurks
+INSTAGRAM: ☞ http://www.instagram.com/TheYoungTurks
+TWITCH: ☞ http://www.twitch.com/tyt
+
+👕 Merch: http://shoptyt.com
+
+❤ Donate: http://www.tyt.com/go
+
+🔗 Website: https://www.tyt.com
+
+
+If you want to watch more videos from TYT, consider subscribing to other channels in our network:
+
+The Watchlist https://www.youtube.com/watchlisttyt
+
+Indisputable with Dr. Rashad Richey https://www.youtube.com/indisputabletyt
+
+The Damage Report ▶ https://www.youtube.com/thedamagereport
+
+TYT Sports ▶ https://www.youtube.com/tytsports
+
+The Conversation ▶ https://www.youtube.com/tytconversation
+
+Rebel HQ ▶ https://www.youtube.com/rebelhq
+
+TYT Investigates ▶ https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA
+
+
+#TYT #TheYoungTurks #BreakingNews
+
+250407__BE02_Mayhem_At_Minecraft
+---
+
+# Cenk, Ana BATTLE Over Minecraft's Chicken Jockey Trend
+**The Young Turks - Hour 2:** [April 07, 2025](https://www.youtube.com/watch?v=fL_ieKu2fNM)
+*  Yes, yes, yes. [[00:00:00](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=0.0s)]
+*  Mayhem, teenagers are causing [[00:00:03](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=3.42s)]
+*  mayhem at movie theaters. [[00:00:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=9.52s)]
+*  I'm in favor of it. [[00:00:13](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=13.58s)]
+*  No, I'm not, okay? [[00:00:14](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=14.5s)]
+*  Cenk likes mayhem, [[00:00:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=16.92s)]
+*  he creates mayhem. [[00:00:18](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=18.6s)]
+*  Mayhem merchant, okay? [[00:00:19](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=19.98s)]
+*  I think it's mayhem, but [[00:00:22](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=22.740000000000002s)]
+*  I like the way that you're [[00:00:24](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=24.060000000000002s)]
+*  pronouncing it. [[00:00:25](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=25.36s)]
+*  I'm going mayhem. [[00:00:26](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=26.060000000000002s)]
+*  How, wait, how do you say it? [[00:00:27](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=27.14s)]
+*  It's very close, I'm just- [[00:00:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=28.4s)]
+*  Eggcorn, acorn, [[00:00:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=30.5s)]
+*  what difference does it make? [[00:00:31](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=31.58s)]
+*  Okay? [[00:00:33](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=33.339999999999996s)]
+*  All right, so- [[00:00:33](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=33.839999999999996s)]
+*  I'll tell you why I'm in favor of [[00:00:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=34.54s)]
+*  it in a second, and yes, [[00:00:36](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=36.22s)]
+*  we do have a live poll on it. [[00:00:37](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=37.42s)]
+*  All right, so teenagers are causing [[00:00:38](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=38.58s)]
+*  mayhem? [[00:00:41](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=41.42s)]
+*  Mayhem. [[00:00:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=42.019999999999996s)]
+*  Mayhem in movie theaters across [[00:00:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=42.54s)]
+*  the country during screenings of [[00:00:45](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=45.18s)]
+*  this new movie. [[00:00:47](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=47.78s)]
+*  It's the Minecraft movie because of [[00:00:49](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=49.22s)]
+*  the chicken jockey. [[00:00:52](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=52.14s)]
+*  And it begs the question, [[00:00:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=53.94s)]
+*  let them live? [[00:00:55](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=55.94s)]
+*  Or is this too much? [[00:00:57](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=57.06s)]
+*  I don't know what any of this [[00:00:58](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=58.46s)]
+*  means, so first- [[00:00:59](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=59.86s)]
+*  I can tell you. [[00:01:00](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=60.580000000000005s)]
+*  For those unfamiliar, okay, [[00:01:01](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=61.34s)]
+*  a Minecraft movie is based off of [[00:01:03](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=63.74s)]
+*  the very popular game with [[00:01:06](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=66.06s)]
+*  the same name, which has created [[00:01:07](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=67.9s)]
+*  a massive online community since [[00:01:10](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=70.38s)]
+*  its creation in 2011. [[00:01:13](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=73.1s)]
+*  So Minecraft is the world's best [[00:01:15](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=75.02000000000001s)]
+*  selling video game with over 200 [[00:01:17](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=77.34s)]
+*  million monthly active players. [[00:01:19](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=79.74000000000001s)]
+*  So look, there was a lot of [[00:01:22](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=82.34s)]
+*  anticipation for this film, okay? [[00:01:23](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=83.78s)]
+*  A lot of teenage boys getting real [[00:01:26](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=86.18s)]
+*  rowdy, looking forward to it. [[00:01:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=88.38000000000001s)]
+*  And the movie includes a ton of [[00:01:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=90.82000000000001s)]
+*  Minecraft lore that makes sense to [[00:01:32](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=92.74000000000001s)]
+*  those specific fans, [[00:01:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=94.94s)]
+*  including chicken jockey. [[00:01:36](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=96.3s)]
+*  So according to the- [[00:01:38](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=98.26s)]
+*  All right, according to the [[00:01:39](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=99.26s)]
+*  Minecraft Wiki, chicken jockeys are [[00:01:41](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=101.02000000000001s)]
+*  simply baby zombies riding a chicken. [[00:01:43](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=103.74000000000001s)]
+*  Fun, okay. [[00:01:49](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=109.02000000000001s)]
+*  So now in regards to the film's [[00:01:50](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=110.5s)]
+*  adaptation of the game, [[00:01:52](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=112.54s)]
+*  the film follows Garrett the [[00:01:54](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=114.30000000000001s)]
+*  garbage man Garrison, [[00:01:56](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=116.34s)]
+*  played by Jason Momoa, [[00:01:58](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=118.22s)]
+*  Natalie, Emma Myers, Henry, [[00:02:00](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=120.02000000000001s)]
+*  Sebastian Hansen, and Don, [[00:02:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=122.42s)]
+*  who's played by Danielle Brooks as [[00:02:04](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=124.66000000000001s)]
+*  they try to save the overworld from [[00:02:07](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=127.38000000000001s)]
+*  Malgosha, an evil pig sorceress. [[00:02:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=129.98000000000002s)]
+*  They're joined in their quest by [[00:02:12](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=132.5s)]
+*  Minecraft- [[00:02:15](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=135.3s)]
+*  Mega fan. [[00:02:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=136.26s)]
+*  Minecraft mega fan, all one word, [[00:02:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=136.82s)]
+*  Steve, who's played by [[00:02:19](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=139.46s)]
+*  Jack Black, okay. [[00:02:21](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=141.46s)]
+*  All right, regarding the line in [[00:02:27](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=147.22s)]
+*  question, the line is said during [[00:02:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=148.94s)]
+*  a scene in which Black and [[00:02:31](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=151.5s)]
+*  Jason Momoa face a cuboid [[00:02:33](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=153.38s)]
+*  Minecraft chicken who is written by [[00:02:35](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=155.58s)]
+*  a baby zombie in a boxing ring. [[00:02:38](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=158.78s)]
+*  Black's Steve declares chicken [[00:02:41](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=161.14000000000001s)]
+*  jockey after the baby zombie falls [[00:02:43](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=163.54000000000002s)]
+*  from a crate into the chest of [[00:02:46](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=166.26000000000002s)]
+*  chicken. [[00:02:48](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=168.7s)]
+*  Maybe zombie falls from a crate [[00:02:49](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=169.22s)]
+*  into the chicken. [[00:02:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=171.06s)]
+*  Onto the chicken. [[00:02:52](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=172.46s)]
+*  Or onto the chicken, okay. [[00:02:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=173.06s)]
+*  So that one line sends audiences [[00:02:54](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=174.82s)]
+*  into a frenzy clearly and to the [[00:02:56](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=176.62s)]
+*  point where police have to be called. [[00:02:58](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=178.26s)]
+*  Take a look. [[00:03:00](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=180.1s)]
+*  Goodbye. [[00:03:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=182.04s)]
+*  Okay. [[00:03:04](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=184.62s)]
+*  Snitch. [[00:03:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=189.22s)]
+*  Okay, snitch. [[00:03:15](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=195.52s)]
+*  Just a word of advice to teenage boys who want to partake in these activities. [[00:03:33](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=213.92000000000002s)]
+*  If you're going to partake in these activities, make sure you're at a movie theater in the [[00:03:38](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=218.02s)]
+*  state of California, namely Los Angeles, where the police would never show up. [[00:03:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=222.14s)]
+*  Go ahead, Jimmy. [[00:03:46](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=226.61999999999998s)]
+*  I don't know whether that actually looked like, Ellie. [[00:03:47](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=227.61999999999998s)]
+*  So all right, first of all, let me weigh into this chicken jockey. [[00:03:50](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=230.82s)]
+*  Stop, please stop. [[00:03:55](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=235.01999999999998s)]
+*  Okay, so listen, I love this. [[00:03:59](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=239.66s)]
+*  Who's Minecraft for? [[00:04:04](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=244.06s)]
+*  Is it for stuffy old people boomers like us? [[00:04:05](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=245.5s)]
+*  I was trying to enjoy the Minecraft movie when a bunch of kids who actually care about [[00:04:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=249.82s)]
+*  it showed up and got very excited. [[00:04:14](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=254.22s)]
+*  Yeah, that's who's going to see Minecraft and they're having a great time. [[00:04:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=256.06s)]
+*  How about get excited instead of, but you don't have to throw your popcorn, make a giant [[00:04:20](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=260.74s)]
+*  mess that the movie theater workers are gonna have to pick up. [[00:04:26](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=266.58s)]
+*  How about parents parent their teenage boys for once in their lives? [[00:04:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=270.42s)]
+*  No, don't do it. [[00:04:33](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=273.54s)]
+*  Just try it. [[00:04:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=274.54s)]
+*  Teach them how to behave decently in public, like be excited, yell, scream, do whatever. [[00:04:36](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=276.02000000000004s)]
+*  That's fine, but creating a massive mess that other people are gonna have to pick up is [[00:04:41](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=281.3s)]
+*  not okay. [[00:04:46](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=286.06s)]
+*  I hear you, but you guys are, you're just not 14 years old, okay? [[00:04:47](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=287.06s)]
+*  No, I was 14 years old at one time. [[00:04:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=291.78000000000003s)]
+*  And you, I don't know if you would have done it, I probably would have done it. [[00:04:54](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=294.26s)]
+*  No, because my parents raised me right. [[00:04:56](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=296.98s)]
+*  Get out of here, my parents raised me right too, but I was immature. [[00:04:58](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=298.90000000000003s)]
+*  I loved getting excited and have I done things like that? [[00:05:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=302.7s)]
+*  Probably worse, to be honest, okay? [[00:05:07](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=307.42s)]
+*  And so look guys, my son went to go see the movie. [[00:05:10](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=310.02s)]
+*  Yeah, did he cause a mess for other people to come out? [[00:05:13](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=313.3s)]
+*  No, but he was bitter about it. [[00:05:15](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=315.54s)]
+*  He found out afterwards that people were having fun in the bigger theaters and he saw it in [[00:05:17](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=317.65999999999997s)]
+*  a smaller theater. [[00:05:21](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=321.78s)]
+*  And he's like, all of his friends were like, damn, we wish we went to the bigger theater. [[00:05:22](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=322.78s)]
+*  Because it's an event, they're having fun with it. [[00:05:27](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=327.56s)]
+*  Do I agree with throwing the popcorn? [[00:05:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=330.44s)]
+*  No, but that's because I'm an old man, okay? [[00:05:32](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=332.3s)]
+*  I don't want you to throw the popcorn and get it on other people. [[00:05:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=334.90000000000003s)]
+*  They're gonna be mad, I get it. [[00:05:37](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=337.78000000000003s)]
+*  But at the same time, I live on this planet and I know that teenage boys are going to [[00:05:39](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=339.2s)]
+*  do that. [[00:05:43](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=343.7s)]
+*  And if you went to the Minecraft movie and got some popcorn in your hair, get over it. [[00:05:44](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=344.7s)]
+*  I don't give a about people getting popcorn in their hair, Cenk. [[00:05:48](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=348.62s)]
+*  I care about a movie theater being destroyed with crap everywhere that the workers are [[00:05:52](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=352.02s)]
+*  gonna have to pick up for $7 an hour. [[00:05:56](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=356.86s)]
+*  I got you, but that's a giant problem that has to be fixed on an institutional level [[00:05:59](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=359.7s)]
+*  about what pay those folks get. [[00:06:04](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=364.62s)]
+*  But is part of the fun, like for example, Mardi Gras, you better not spill any beer. [[00:06:07](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=367.42s)]
+*  You better be no beads on the ground, because workers have to come clean that up. [[00:06:13](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=373.14s)]
+*  That's the point of Mardi Gras. [[00:06:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=376.66s)]
+*  And by the way, that's why we pay those folks good money, I hope. [[00:06:18](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=378.38s)]
+*  And we should pay them better money to go pick that up. [[00:06:21](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=381.26s)]
+*  Same thing in this particular movie theater, at this particular show. [[00:06:24](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=384.14s)]
+*  So they're having fun, that's how they're having fun, that's why they went to the movie. [[00:06:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=388.16s)]
+*  I don't know the movies, by the way- [[00:06:32](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=392.24s)]
+*  Why do you have to make a mess when you're having fun? [[00:06:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=394.0s)]
+*  I have fun all the time. [[00:06:36](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=396.72s)]
+*  I don't make a mess when I'm having fun. [[00:06:37](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=397.84000000000003s)]
+*  Yeah, but- [[00:06:39](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=399.32000000000005s)]
+*  I get excited all the time. [[00:06:40](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=400.32000000000005s)]
+*  But Ana, tell a bunch of teenagers, why are you having fun in unsanctioned, inappropriate [[00:06:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=402.16s)]
+*  ways? [[00:06:47](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=407.88s)]
+*  If we're gonna do that, they better be really hurting someone. [[00:06:48](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=408.88s)]
+*  Wow, wow. [[00:06:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=411.40000000000003s)]
+*  Right. [[00:06:52](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=412.40000000000003s)]
+*  I didn't know it was unreasonable to expect, not just teenage boys, just people in general, [[00:06:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=413.40000000000003s)]
+*  to not cause a massive mess. [[00:06:57](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=417.56s)]
+*  By the way, if they picked up after themselves, that's fine, have at it, enjoy. [[00:06:59](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=419.16s)]
+*  But they're not gonna pick up after themselves. [[00:07:05](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=425.0s)]
+*  Of course they're not gonna pick up after themselves. [[00:07:06](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=426.0s)]
+*  Yeah, exactly. [[00:07:07](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=427.48s)]
+*  Right? [[00:07:08](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=428.48s)]
+*  So look, I'm curious how you guys are gonna vote on this. [[00:07:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=429.48s)]
+*  I mean, this is a good reason to watch the live show to be in with, 6 to 8 PM Eastern [[00:07:11](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=431.92s)]
+*  every day. [[00:07:15](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=435.28s)]
+*  But for me, no man, Mardi Gras, this type of events, these special events, New Year's [[00:07:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=436.92s)]
+*  Eve in New York. [[00:07:23](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=443.28s)]
+*  Yeah, let them go. [[00:07:24](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=444.76s)]
+*  Let them go. [[00:07:26](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=446.72s)]
+*  Let them have a little bit of fun, they're teenagers. [[00:07:27](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=447.72s)]
+*  No, no, I'm real excited, guys. [[00:07:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=450.0s)]
+*  I feel real excited. [[00:07:31](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=451.84000000000003s)]
+*  I'm gonna show up to your house. [[00:07:32](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=452.84000000000003s)]
+*  I'm gonna show you how excited I am. [[00:07:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=454.40000000000003s)]
+*  But- But- [[00:07:36](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=456.44000000000005s)]
+*  I'm gonna wrestle with you a little bit, okay? [[00:07:37](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=457.44000000000005s)]
+*  Some of those guys might be- [[00:07:38](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=458.44000000000005s)]
+*  Well, actually, okay, a lot of folks might sign up for that, but okay. [[00:07:39](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=459.44000000000005s)]
+*  But- I'm gonna go into the kitchen, start throwing [[00:07:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=462.72s)]
+*  your dishes on the floor. [[00:07:44](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=464.96000000000004s)]
+*  But that's not a thing. [[00:07:45](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=465.96000000000004s)]
+*  I'm excited, everybody. [[00:07:46](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=466.96000000000004s)]
+*  That's not a thing, okay? [[00:07:48](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=468.20000000000005s)]
+*  It's not, why? [[00:07:50](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=470.28000000000003s)]
+*  Okay. [[00:07:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=471.28000000000003s)]
+*  Who are you to tell me that's not a thing? [[00:07:52](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=472.28000000000003s)]
+*  I'm excited. [[00:07:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=473.28000000000003s)]
+*  How dare you- Look, look, look. [[00:07:54](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=474.28000000000003s)]
+*  Stop on my excitement, James. [[00:07:55](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=475.44s)]
+*  Okay, I can be a stick in the mud too. [[00:07:57](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=477.23999999999995s)]
+*  When Jackass came out and all the pranks in the original, in YouTube, there was a huge [[00:07:59](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=479.88s)]
+*  prank era, which is almost all of it, YouTube. [[00:08:05](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=485.23999999999995s)]
+*  But much more so a little bit a couple of years back, right? [[00:08:08](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=488.67999999999995s)]
+*  In all those things, when someone else gets hurt, I hate it, right? [[00:08:12](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=492.32s)]
+*  So I'm happy to draw the line when someone's actually gonna get hurt by it. [[00:08:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=496.67999999999995s)]
+*  But if we can't have a little fun and create a little mess, then sometimes other people [[00:08:22](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=502.04s)]
+*  get picked up because they, and they get paid to pick that up, okay? [[00:08:26](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=506.76s)]
+*  They should be paid more, they should be paid more. [[00:08:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=510.12s)]
+*  That's a different issue, totally different issue, right? [[00:08:32](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=512.28s)]
+*  I'm gonna let folks have a wee bit of fun, okay? [[00:08:35](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=515.08s)]
+*  Unless they're really hurting someone, just let them go, man. [[00:08:40](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=520.32s)]
+*  Let them just have a little bit of fun. [[00:08:43](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=523.88s)]
+*  Okay, I can give you a thousand examples. [[00:08:45](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=525.44s)]
+*  Okay, we played on football fields when it was raining or it was snowing. [[00:08:47](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=527.76s)]
+*  My god, it ripped up the field a little bit. [[00:08:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=531.5600000000001s)]
+*  Well, somebody has to clean up that field at some point. [[00:08:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=533.12s)]
+*  That's true. [[00:08:55](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=535.2800000000001s)]
+*  Okay, never play in the mud, never play in the snow. [[00:08:55](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=535.96s)]
+*  Are you being serious right now? [[00:08:58](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=538.0s)]
+*  You're comparing those two. [[00:08:59](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=539.48s)]
+*  Are you kidding me? [[00:09:01](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=541.4000000000001s)]
+*  You know how obsessed schools are when you play on their field, okay? [[00:09:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=542.08s)]
+*  And I guarantee you, there's a whole bunch of people right now going, wow, [[00:09:05](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=545.12s)]
+*  you better not do that, and that's terrible. [[00:09:07](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=547.6s)]
+*  That's the worst of this. [[00:09:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=549.36s)]
+*  Wait, wait, wait, hold on, hold on. [[00:09:10](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=550.24s)]
+*  I didn't realize. [[00:09:10](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=550.96s)]
+*  I'm like on a practice field, right? [[00:09:11](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=551.88s)]
+*  But still. [[00:09:13](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=553.5600000000001s)]
+*  Yeah, I missed that important detail. [[00:09:14](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=554.08s)]
+*  Right, but or in a park and you ripped up the grass. [[00:09:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=556.0400000000001s)]
+*  You know what? You ripped up the grass? [[00:09:19](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=559.5200000000001s)]
+*  Because it's a park and we're playing there, right? [[00:09:20](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=560.52s)]
+*  That's what movie theaters are for, to create a big mess and throw your popcorn. [[00:09:23](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=563.16s)]
+*  If you're having fun. [[00:09:26](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=566.24s)]
+*  And drinks all over the place. [[00:09:27](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=567.0799999999999s)]
+*  Or you can just go to a boring movie. [[00:09:27](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=567.96s)]
+*  I'm going to have fun in your office in just a few minutes. [[00:09:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=570.0799999999999s)]
+*  Okay? [[00:09:32](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=572.68s)]
+*  As long as I'm there. [[00:09:33](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=573.1999999999999s)]
+*  Okay, I mean. [[00:09:35](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=575.0s)]
+*  You're there, you're not there, who cares? [[00:09:35](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=575.8s)]
+*  I'm excited. [[00:09:37](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=577.0799999999999s)]
+*  I'm excited. [[00:09:38](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=578.52s)]
+*  Everyone needs to bow to me and my excitement, okay? [[00:09:39](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=579.68s)]
+*  No, bounds of reason. [[00:09:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=582.8s)]
+*  Let them have a little bit of fun. [[00:09:44](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=584.24s)]
+*  All right, Bart, last word. [[00:09:45](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=585.4s)]
+*  Okay, you know why it's not a good idea to have the popcorn mess in the movie [[00:09:46](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=586.8399999999999s)]
+*  theater besides the movie itself, which I'm not going to get into. [[00:09:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=591.7199999999999s)]
+*  It's because maybe for fans who want to actually see the movie, [[00:09:57](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=597.12s)]
+*  they're going to have to wait longer than they normally have to wait for [[00:10:01](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=601.8s)]
+*  that theater to be cleaned up and ready to go for the next screening. [[00:10:05](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=605.12s)]
+*  Who cares? [[00:10:08](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=608.1999999999999s)]
+*  Who cares? [[00:10:08](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=608.88s)]
+*  There's teenage boys who are excited. [[00:10:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=609.52s)]
+*  Exactly, but you know what it's like, okay, [[00:10:11](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=611.5999999999999s)]
+*  like Marty Gra on the movie theater? [[00:10:14](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=614.3199999999999s)]
+*  All right, fine. [[00:10:16](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=616.64s)]
+*  But if I was a fan of watching the movie and having to wait, [[00:10:18](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=618.0s)]
+*  because the previous people were messing up the theater. [[00:10:21](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=621.4s)]
+*  You guys are slowing the roll, Jakes. [[00:10:24](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=624.28s)]
+*  We're not getting it. [[00:10:26](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=626.04s)]
+*  We're not getting it. [[00:10:27](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=627.3199999999999s)]
+*  You're not getting it. [[00:10:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=628.04s)]
+*  The teens are excited, Bart. [[00:10:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=628.64s)]
+*  Yeah, okay, all right, listen, last thing, last thing. [[00:10:30](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=630.24s)]
+*  So Bart's my name, Bart Wade, he's our audio guy, he's Wade's name, [[00:10:32](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=632.9599999999999s)]
+*  he loves movies, and so he's our movie expert in a sense. [[00:10:35](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=635.92s)]
+*  Okay, look, the people waiting for that next movie, to Bart's point, [[00:10:39](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=639.68s)]
+*  are also 14-year-old boys, okay? [[00:10:45](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=645.3599999999999s)]
+*  And would they rather wait a little longer and [[00:10:48](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=648.4s)]
+*  be able to have fun when they go inside? [[00:10:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=651.0799999999999s)]
+*  Or are they going to be a stick in the mud like all of us older people are going, [[00:10:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=653.16s)]
+*  no, I had went to wait seven extra minutes and [[00:10:57](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=657.5999999999999s)]
+*  look at all this popcorn on the ground. [[00:11:00](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=660.64s)]
+*  I'm so mad at those earlier teenagers that were in here. [[00:11:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=662.4s)]
+*  No, they're going to be excited and they're going to do the same thing and [[00:11:06](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=666.8399999999999s)]
+*  they're going to have a lot more fun at that movie. [[00:11:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=669.9599999999999s)]
+*  And by the way, people might show up to the movies. [[00:11:11](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=671.64s)]
+*  Or we could have 48-year-olds who are never going to go to that movie [[00:11:14](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=674.56s)]
+*  rain on their parade and go, you can cut that out. [[00:11:19](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=679.64s)]
+*  May you forever sit on seats that are laden with popcorn and [[00:11:24](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=684.0s)]
+*  sticky soda that has been spilt by teenage boys, Cenk. [[00:11:29](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=689.4s)]
+*  Okay. [[00:11:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=694.4399999999999s)]
+*  Okay? [[00:11:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=694.9599999999999s)]
+*  And don't complain about it. [[00:11:35](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=695.64s)]
+*  I don't want to hear any funny duddiness from you. [[00:11:37](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=697.16s)]
+*  Okay, all right, no problem. [[00:11:39](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=699.4s)]
+*  I'll end on this last fun story that's not really overly related to the story. [[00:11:41](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=701.88s)]
+*  So when I was in contact, not a big deal. [[00:11:45](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=705.9200000000001s)]
+*  It's not. [[00:11:49](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=709.4s)]
+*  Okay, it really isn't. [[00:11:50](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=710.0s)]
+*  I was a background actor, but it was fun. [[00:11:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=711.76s)]
+*  We went to this huge theater in Arlington, Virginia, right outside of DC. [[00:11:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=713.76s)]
+*  And at the time, I did a public access show in Arlington, but only in Arlington. [[00:11:57](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=717.88s)]
+*  It was a local community access show, right? [[00:12:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=722.48s)]
+*  But I was big in Arlington, which is hilarious, I know, right? [[00:12:05](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=725.76s)]
+*  So when it got to the point where I showed up on screen, a whole bunch of, [[00:12:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=729.48s)]
+*  back then it was singular, young Turk fans started chanting Turk, Turk, Turk, Turk. [[00:12:14](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=734.88s)]
+*  And it was such a disturbance to the other people in the movie theater. [[00:12:21](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=741.2s)]
+*  And I was saying the whole time, tis, tis, tis. [[00:12:24](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=744.44s)]
+*  Every time. [[00:12:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=748.7199999999999s)]
+*  Let him go, let him go. [[00:12:31](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=751.7199999999999s)]
+*  Clip it, I'm going to keep it for my documents, my archives. [[00:12:35](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=755.4399999999999s)]
+*  Your receipts. [[00:12:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=762.68s)]
+*  My receipts. [[00:12:43](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=763.56s)]
+*  And anytime I'm excited, Cenk, I'm just going to walk into your office, [[00:12:44](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=764.1999999999999s)]
+*  just throw popcorn at your face. [[00:12:47](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=767.64s)]
+*  I'm excited, what? [[00:12:49](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=769.8s)]
+*  What? [[00:12:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=771.24s)]
+*  I think people would pay to see that. [[00:12:51](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=771.76s)]
+*  Hey everybody, it's Marty Graung, Cenk's office. [[00:12:53](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=773.48s)]
+*  Look, you know what my office used to be called. [[00:12:58](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=778.04s)]
+*  He's thinking about his son, that's what it is, Cenk. [[00:13:00](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=780.36s)]
+*  You're thinking about your son. [[00:13:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=782.3199999999999s)]
+*  No, I'm thinking about when I was that old. [[00:13:02](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=782.92s)]
+*  And that's the thing, I think you guys forget what it was to be a teenager. [[00:13:04](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=784.5999999999999s)]
+*  I remember what it was to be a teenager. [[00:13:09](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=789.28s)]
+*  Yeah, you were out of control. [[00:13:10](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=790.9599999999999s)]
+*  What? [[00:13:13](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=793.56s)]
+*  You don't remember? [[00:13:14](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=794.68s)]
+*  No, I wasn't out of control. [[00:13:15](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=795.68s)]
+*  I was a good girl. [[00:13:17](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=797.48s)]
+*  Sometimes good girl got bad. [[00:13:19](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=799.4s)]
+*  See, see. [[00:13:20](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=800.88s)]
+*  I wasn't throwing popcorn around. [[00:13:23](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=803.0s)]
+*  I told you. [[00:13:24](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=804.04s)]
+*  Yeah, that's the least of your problems. [[00:13:25](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=805.7199999999999s)]
+*  All right, okay, it ended up being fun. [[00:13:28](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=808.4s)]
+*  See, we crossed the ruckus, I threw paper and we had fun. [[00:13:31](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=811.0799999999999s)]
+*  We did. [[00:13:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=814.4s)]
+*  And don't worry, I'll pick it up. [[00:13:34](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=814.92s)]
+*  Every time you ring the bell below, an angel gets his swings. [[00:13:37](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=817.92s)]
+*  Totally not true, but [[00:13:41](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=821.04s)]
+*  it does keep you updated on our live shows. [[00:13:42](https://www.youtube.com/watch?v=fL_ieKu2fNM&t=822.1999999999999s)]
