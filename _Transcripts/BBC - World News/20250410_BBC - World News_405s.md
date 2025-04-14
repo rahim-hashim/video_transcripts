@@ -1,0 +1,121 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 405s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news', 'Israel', 'Gaza']
+Video Views: 100729
+Video Rating: None
+Video Description: The Israeli military says it is creating a military corridor in Gaza by seizing territory between the city of Rafah and neighbouring Khan Younis.
+ 
+During a visit to the area on Wednesday, Israeli Defence Minister Israel Katz said: "All of Rafah will be evacuated and turned into a security area.”
+ 
+Up to 390,000 people have been displaced over the past three weeks, with two-thirds of Gaza's territory now designated by the Israeli military as "no-go" zones or placed under evacuation orders, according to the UN.
+ 
+On Tuesday, UN Secretary General António Guterres condemned the Israeli blockade, saying it violated international law and had opened "the floodgates of horror".
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#Israel #Gaza #BBCNews
+---
+
+# Israel seizing ‘large areas’ of Gaza as thousands of people left displaced | BBC News
+**BBC - World News:** [April 10, 2025](https://www.youtube.com/watch?v=kGwAjCe5WNM)
+*  The Israeli army is seizing large areas of the Gaza Strip, expanding what it describes [[00:00:00](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=0.0s)]
+*  as buffer zones. [[00:00:06](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=6.32s)]
+*  That's according to Israel's Defense Minister Israel Katz. [[00:00:08](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=8.08s)]
+*  He posted a video message from inside Gaza at the newly announced Marag Corridor, which [[00:00:11](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=11.040000000000001s)]
+*  has split Gaza between the southern cities of Ra'far and Yomunis. [[00:00:16](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=16.6s)]
+*  It follows Israeli media reporting that the Israel Defense Forces is planning to seize [[00:00:21](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=21.12s)]
+*  and keep the entire city of Ra'far. [[00:00:25](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=25.98s)]
+*  It's estimated a land grab this large could consume around one-fifth of the Gaza Strip. [[00:00:28](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=28.32s)]
+*  Here's the Defense Minister speaking from Gaza. [[00:00:33](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=33.4s)]
+*  The population of Gaza is evacuating from the fighting zones, and large areas are being [[00:00:39](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=39.52s)]
+*  seized and added to Israel's security zones, leaving Gaza smaller and more isolated. [[00:00:43](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=43.76s)]
+*  We are working to advance the voluntary immigration plan for Gaza residents in accordance with [[00:00:49](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=49.480000000000004s)]
+*  the U.S. president's vision, which we are working to realize. [[00:00:54](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=54.64s)]
+*  Meanwhile, an Israeli airstrike on a residential building east of Gaza City killed at least [[00:00:58](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=58.08s)]
+*  29 Palestinians early on Tuesday. [[00:01:04](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=64.4s)]
+*  Those figures coming from the local hospital, images reviewed by the BBC, confirm children [[00:01:07](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=67.12s)]
+*  were among those killed in the attack on the neighborhood. [[00:01:12](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=72.44s)]
+*  The Israeli military said it struck a senior Hamas terrorist whom it did not identify and [[00:01:15](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=75.78s)]
+*  said it was to minimize civilian harm. [[00:01:21](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=81.68s)]
+*  A man who lived in that home paused rescue efforts for a moment to give this message [[00:01:24](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=84.52000000000001s)]
+*  to a journalist from Reuters. [[00:01:29](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=89.88000000000001s)]
+*  They have nothing to do with the fighting. [[00:01:35](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=95.2s)]
+*  They are children. [[00:01:37](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=97.12s)]
+*  They are innocent. [[00:01:38](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=98.12s)]
+*  They are women staying at their homes. [[00:01:39](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=99.2s)]
+*  They have nothing to do with it. [[00:01:41](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=101.44s)]
+*  Why would they hit them? [[00:01:42](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=102.96000000000001s)]
+*  What does it take to get these people from under the rubble? [[00:01:44](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=104.2s)]
+*  There are no resources, no tractors, no machines. [[00:01:46](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=106.68s)]
+*  There is nothing. [[00:01:49](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=109.98s)]
+*  What do we do? [[00:01:51](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=111.18s)]
+*  This guy is trapped under the ceiling and we cannot reach him. [[00:01:52](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=112.2s)]
+*  Earlier, I spoke to Miriam Laroussi, emergency coordinator in Gaza for Doctors Without Borders. [[00:01:55](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=115.48s)]
+*  Israel says that it has a new strategy in its war against Hamas to divide up Gaza and [[00:02:02](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=122.64s)]
+*  seize more territory there. [[00:02:07](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=127.62s)]
+*  There's been military strikes. [[00:02:09](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=129.52s)]
+*  But what does that mean and look like on the ground? [[00:02:11](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=131.44s)]
+*  What it means on the ground is receiving a phone call from a colleague telling you, I [[00:02:15](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=135.56s)]
+*  have to leave my place right now with all my family because the Israelis are going [[00:02:19](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=139.8s)]
+*  to target my building and waiting to receive a phone call back to know if he's alive or [[00:02:23](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=143.56s)]
+*  not. [[00:02:29](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=149.0s)]
+*  It's also learning the same day that the whole family of one of your colleagues passed away [[00:02:30](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=150.0s)]
+*  after an Israeli shelling. [[00:02:37](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=157.04000000000002s)]
+*  It's also what happened exactly yesterday night, a shelling 300 meters away from our [[00:02:39](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=159.76000000000002s)]
+*  in El Mawasi that caused the deaths of dozens of people. [[00:02:46](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=166.2s)]
+*  And we received about seven wounded persons, like really badly wounded and two dead people, [[00:02:50](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=170.51999999999998s)]
+*  including a child, two years old. [[00:02:58](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=178.44s)]
+*  This is what we call the reality in Gaza. [[00:03:01](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=181.51999999999998s)]
+*  We're talking about that kind of level of violence. [[00:03:03](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=183.83999999999997s)]
+*  And this is just the last 24 hours. [[00:03:07](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=187.39999999999998s)]
+*  The shelling is day and night. [[00:03:10](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=190.79999999999998s)]
+*  It's all through Gaza. [[00:03:15](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=195.44s)]
+*  It also means evacuation notice for a large number of population that being possibly displaced [[00:03:17](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=197.35999999999999s)]
+*  from one minute to the other. [[00:03:24](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=204.23999999999998s)]
+*  How does it reduce? [[00:03:27](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=207.35999999999999s)]
+*  It means taking all your belongings, all your family, and you have to leave to wherever [[00:03:28](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=208.72s)]
+*  you can under a tent and see what's going to happen. [[00:03:34](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=214.44s)]
+*  Maybe that place will be safer. [[00:03:40](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=220.23999999999998s)]
+*  Maybe not. [[00:03:42](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=222.0s)]
+*  The Gazans today have been displaced like for nine out of 10 of them, more than 10 times. [[00:03:43](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=223.6s)]
+*  This is unprecedented. [[00:03:51](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=231.48s)]
+*  This is strongly illegal. [[00:03:53](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=233.32s)]
+*  Israel is not respecting the international humanitarian law. [[00:03:56](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=236.04s)]
+*  And his allies have to force them in a way or another to abide by the law. [[00:04:00](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=240.4s)]
+*  And, Miriam, what is the biggest need for your teams on the ground? [[00:04:06](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=246.0s)]
+*  Look, it's been now one month that the blockade is ongoing when it comes to all humanitarian [[00:04:12](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=252.32s)]
+*  aid entering inside of Gaza, as well as all the commercial goods. [[00:04:18](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=258.52s)]
+*  It means that right now there is a strong lack of food inside of all Gaza Strip. [[00:04:24](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=264.08s)]
+*  The food distribution are scarce. [[00:04:30](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=270.2s)]
+*  And this provokes already a loss of weight in our patients. [[00:04:32](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=272.92s)]
+*  When it comes to medical supplies, we're already lacking medical supply. [[00:04:37](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=277.0s)]
+*  We have to change courses of treatment and get to the point of having courses of treatment [[00:04:41](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=281.96s)]
+*  that are not the best for our patients because we don't have all the molecules that we would need. [[00:04:47](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=287.84s)]
+*  We have had a hard time treating non-communicable disease such as diabetes, as epilepsy, [[00:04:53](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=293.91999999999996s)]
+*  due to lack of stock. [[00:05:01](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=301.59999999999997s)]
+*  Also, we're lacking painkillers. [[00:05:03](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=303.12s)]
+*  So we have to do dressing to our patients without painkillers. [[00:05:05](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=305.71999999999997s)]
+*  So it's really all through the scope. [[00:05:10](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=310.12s)]
+*  On the top of it, you know that Israel decided also on the 9th of March to cut the electricity [[00:05:13](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=313.2s)]
+*  coming from Israel to Gaza and therefore reducing very strongly the access to water inside of Gaza. [[00:05:20](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=320.2s)]
+*  So right now, hygiene is also an issue. [[00:05:27](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=327.76s)]
+*  There is no potable water, not enough to cover the need of older population, which leads [[00:05:31](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=331.36s)]
+*  also to the lack of water and hygiene issues. [[00:05:36](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=336.64s)]
+*  We're seeing now more and more cases of scabies. [[00:05:41](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=341.12s)]
+*  And this goes increasing by the day because there is no water, but also a lack of hygiene [[00:05:44](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=344.96s)]
+*  product on the market. [[00:05:51](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=351.04s)]
+*  So the border has to reopen. [[00:05:52](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=352.8s)]
+*  And Israel is the occupant power in all this conflict. [[00:05:54](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=354.88s)]
+*  And they have right now to let the humanitarian aid and commercial goods enter back into Gaza. [[00:06:01](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=361.91999999999996s)]
+*  And, Mariam, in terms of getting a ceasefire back, what are you hoping for to get these [[00:06:08](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=368.56s)]
+*  negotiations back on track? [[00:06:14](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=374.79999999999995s)]
+*  We can only hope for that. [[00:06:18](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=378.15999999999997s)]
+*  We can only call for the respect of the humanitarian law on both sides. [[00:06:19](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=379.84s)]
+*  And there's no other way than a ceasefire to go back to resume the humanitarian aid at [[00:06:24](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=384.4s)]
+*  the scale that it should be. [[00:06:30](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=390.96s)]
+*  And we're so far from the scale that it needs, that the Gaza need today to go back to what [[00:06:32](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=392.88s)]
+*  we can call eventually at some point maybe a normality. [[00:06:40](https://www.youtube.com/watch?v=kGwAjCe5WNM&t=400.71999999999997s)]

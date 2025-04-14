@@ -1,0 +1,122 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 513s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news', 'US', 'Trade', 'Trump', 'Markets', 'Stocks', 'Tariffs']
+Video Views: 284811
+Video Rating: None
+Video Description: Financial markets have soared after US President Donald Trump announced a 90-day "pause" on the tariffs against countries who have not retaliated against the US.
+ 
+The pause means a "universal 10%" tariff will be in place for all countries, other than China, White House Press Secretary Karoline Leavitt confirmed.
+ 
+The White House also said it was introducing a 125% tariff on China "effective immediately”.
+ 
+The NASDAQ index went up 9% and the S&P 500 index rose 8% following the news.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#US #China #BBCNews
+---
+
+# Markets soar after Trump announces tariffs pause | BBC News
+**BBC - World News:** [April 09, 2025](https://www.youtube.com/watch?v=pxEn978HJso)
+*  We begin with breaking news. US stocks have surged on Wall Street after Donald Trump announced [[00:00:00](https://www.youtube.com/watch?v=pxEn978HJso&t=0.0s)]
+*  a 90-day pause on tariffs for non-retaliating countries, effective immediately. Now that [[00:00:05](https://www.youtube.com/watch?v=pxEn978HJso&t=5.2s)]
+*  prompted the S&P 500 index, one of the stock markets in the US, to jump at one point by [[00:00:12](https://www.youtube.com/watch?v=pxEn978HJso&t=12.200000000000001s)]
+*  as much as 8%, with the tech-heavy Nasdaq index up by as much as 9% and the Nasdaq currently [[00:00:16](https://www.youtube.com/watch?v=pxEn978HJso&t=16.9s)]
+*  up nearly 7%. In the posts which the President put on the Truth Social platform, he wrote [[00:00:23](https://www.youtube.com/watch?v=pxEn978HJso&t=23.92s)]
+*  that he is raising tariffs on China to 125%. He said this, based on the lack of respect [[00:00:29](https://www.youtube.com/watch?v=pxEn978HJso&t=29.96s)]
+*  that China has shown to the world markets, I am hereby raising the tariff charged to [[00:00:37](https://www.youtube.com/watch?v=pxEn978HJso&t=37.8s)]
+*  China by the United States of America to 125% effective immediately. At some point, hopefully [[00:00:42](https://www.youtube.com/watch?v=pxEn978HJso&t=42.56s)]
+*  in the near future, China will realise the days of ripping off the USA and other countries [[00:00:49](https://www.youtube.com/watch?v=pxEn978HJso&t=49.64s)]
+*  is no longer sustainable or acceptable. We are expecting to hear from the President shortly [[00:00:55](https://www.youtube.com/watch?v=pxEn978HJso&t=55.92s)]
+*  and we will try our best of course to bring you that live. But a little earlier, the US [[00:01:01](https://www.youtube.com/watch?v=pxEn978HJso&t=61.52s)]
+*  Treasury Secretary, Scott Bessent, was speaking outside the White House on this announcement [[00:01:07](https://www.youtube.com/watch?v=pxEn978HJso&t=67.4s)]
+*  and he said China is the most imbalanced economy in the history of the world. Have a listen. [[00:01:12](https://www.youtube.com/watch?v=pxEn978HJso&t=72.68s)]
+*  They are the biggest source of US trade problems and indeed they are problems for the rest [[00:01:18](https://www.youtube.com/watch?v=pxEn978HJso&t=78.0s)]
+*  of the world because what we have seen is that as the US announced the tariff wall last [[00:01:24](https://www.youtube.com/watch?v=pxEn978HJso&t=84.2s)]
+*  week, many of those goods have already started flooding into Europe. Well, I am not calling [[00:01:30](https://www.youtube.com/watch?v=pxEn978HJso&t=90.36s)]
+*  it a trade war, but I am saying that China has escalated and President Trump responded [[00:01:36](https://www.youtube.com/watch?v=pxEn978HJso&t=96.32000000000001s)]
+*  very courageously to that and we are going to work on a solution with our trading partners. [[00:01:43](https://www.youtube.com/watch?v=pxEn978HJso&t=103.16s)]
+*  The President had a level in mind to raise the China tariffs and then he had the three [[00:01:50](https://www.youtube.com/watch?v=pxEn978HJso&t=110.96s)]
+*  month pause in mind and we were discussing the exact wording. [[00:01:59](https://www.youtube.com/watch?v=pxEn978HJso&t=119.28s)]
+*  What was the President's decision? [[00:02:05](https://www.youtube.com/watch?v=pxEn978HJso&t=125.28s)]
+*  Sorry? [[00:02:08](https://www.youtube.com/watch?v=pxEn978HJso&t=128.28s)]
+*  The President's decision. [[00:02:09](https://www.youtube.com/watch?v=pxEn978HJso&t=129.28s)]
+*  Of course. [[00:02:10](https://www.youtube.com/watch?v=pxEn978HJso&t=130.28s)]
+*  The President's decision. [[00:02:11](https://www.youtube.com/watch?v=pxEn978HJso&t=131.28s)]
+*  The President's decision. It was the President's decision to wait until today and again, as [[00:02:12](https://www.youtube.com/watch?v=pxEn978HJso&t=132.28s)]
+*  I have said in the past, no one creates leverage for himself like President Trump. [[00:02:18](https://www.youtube.com/watch?v=pxEn978HJso&t=138.28s)]
+*  Let's cross live now to New York and speak to our North America business correspondent [[00:02:24](https://www.youtube.com/watch?v=pxEn978HJso&t=144.28s)]
+*  Erin Dalmore. Erin, talk me through the reaction on the markets. [[00:02:27](https://www.youtube.com/watch?v=pxEn978HJso&t=147.48s)]
+*  An explosion of growth is probably how I would put it. We are seeing the NASDAQ up at the [[00:02:32](https://www.youtube.com/watch?v=pxEn978HJso&t=152.98s)]
+*  10.16%, the S&P up 8%, the Dow up 6.8%, 2,550 points up is the Dow right now. Astounding. [[00:02:38](https://www.youtube.com/watch?v=pxEn978HJso&t=158.12s)]
+*  An astounding reversal for a market that was in turmoil all day, really dropped this morning [[00:02:50](https://www.youtube.com/watch?v=pxEn978HJso&t=170.36s)]
+*  on the news of China's retaliatory moves and on the EU and Canadian retaliatory moves and [[00:02:55](https://www.youtube.com/watch?v=pxEn978HJso&t=175.4s)]
+*  now just exploding into the green. [[00:03:00](https://www.youtube.com/watch?v=pxEn978HJso&t=180.44s)]
+*  To hear Treasury Secretary Scott Besson say it, this 90-day pause is what he's calling [[00:03:02](https://www.youtube.com/watch?v=pxEn978HJso&t=182.94s)]
+*  a temporary floor. He's saying that it gives more certainty, that's certainly how the markets [[00:03:06](https://www.youtube.com/watch?v=pxEn978HJso&t=186.94s)]
+*  is interpreting this right now, and he's saying that the U.S. is going to negotiate in good [[00:03:11](https://www.youtube.com/watch?v=pxEn978HJso&t=191.54s)]
+*  faith. That is music to investors' ears. They want negotiation instead of retaliation and [[00:03:15](https://www.youtube.com/watch?v=pxEn978HJso&t=195.42s)]
+*  investors want to know that there's more certainty around the peak. [[00:03:20](https://www.youtube.com/watch?v=pxEn978HJso&t=200.2s)]
+*  But as Simon Jack said to you in the last hour, there's going to be conversation now [[00:03:24](https://www.youtube.com/watch?v=pxEn978HJso&t=204.36s)]
+*  over who blinked, whether President Trump had been playing this hand all along looking [[00:03:27](https://www.youtube.com/watch?v=pxEn978HJso&t=207.86s)]
+*  to negotiate better deals for the U.S., having negotiating partners come and beg for an [[00:03:31](https://www.youtube.com/watch?v=pxEn978HJso&t=211.92s)]
+*  agreement, as he says it, or whether pressure from the markets, from investors, from [[00:03:37](https://www.youtube.com/watch?v=pxEn978HJso&t=217.48s)]
+*  constituents of members of Congress and those elected officials themselves finally weighed the [[00:03:42](https://www.youtube.com/watch?v=pxEn978HJso&t=222.88s)]
+*  White House into this 90-day pause. [[00:03:47](https://www.youtube.com/watch?v=pxEn978HJso&t=227.44s)]
+*  One thing that Besson said is that what China is doing will affect their economy more than [[00:03:49](https://www.youtube.com/watch?v=pxEn978HJso&t=229.83999999999997s)]
+*  ours, and he criticized China for what he called flooding the economy with cheap goods. [[00:03:54](https://www.youtube.com/watch?v=pxEn978HJso&t=234.44s)]
+*  That is core in President Trump's stance. It seems like after that list of many dozens of [[00:03:59](https://www.youtube.com/watch?v=pxEn978HJso&t=239.08s)]
+*  countries, President Trump has now narrowed his vision and set his sights on only one, China. [[00:04:04](https://www.youtube.com/watch?v=pxEn978HJso&t=244.08s)]
+*  Erin, good to talk to you. Thanks for that update, Erin Delmore there. [[00:04:08](https://www.youtube.com/watch?v=pxEn978HJso&t=248.8s)]
+*  Well, let's cross live to New York again and this time speak to Thomas Hayes, chairman at [[00:04:11](https://www.youtube.com/watch?v=pxEn978HJso&t=251.8s)]
+*  Great Hill Capital. Thomas, it's so good to talk to you. [[00:04:17](https://www.youtube.com/watch?v=pxEn978HJso&t=257.36s)]
+*  I'm guessing you're seeing what the markets are doing. [[00:04:20](https://www.youtube.com/watch?v=pxEn978HJso&t=260.72s)]
+*  You've seen what President Trump has said. Give me your reaction. [[00:04:23](https://www.youtube.com/watch?v=pxEn978HJso&t=263.24s)]
+*  Well, this is an absolute game changer, Miriam. And, you know, there had been a lot of fear in the [[00:04:27](https://www.youtube.com/watch?v=pxEn978HJso&t=267.32s)]
+*  market the last few days. People were comparing this to the great financial crisis, to the tech [[00:04:32](https://www.youtube.com/watch?v=pxEn978HJso&t=272.2s)]
+*  wreck. And the difference between this and those two crises that took years to work out was this was [[00:04:37](https://www.youtube.com/watch?v=pxEn978HJso&t=277.08s)]
+*  manmade. So it could be fixed in a day. And that's exactly what we're seeing today. [[00:04:43](https://www.youtube.com/watch?v=pxEn978HJso&t=283.88s)]
+*  And the beauty of President Trump's strategy and what he's done throughout his years is he [[00:04:49](https://www.youtube.com/watch?v=pxEn978HJso&t=289.32s)]
+*  escalates in order to de-escalate. So now we had a big ask and now we're down to 10 percent. [[00:04:54](https://www.youtube.com/watch?v=pxEn978HJso&t=294.72s)]
+*  The 10 percent across the board looks like nothing and everyone is relieved. [[00:05:02](https://www.youtube.com/watch?v=pxEn978HJso&t=302.24s)]
+*  And in effect, that is a big accomplishment and goes a long way to balancing trade. [[00:05:06](https://www.youtube.com/watch?v=pxEn978HJso&t=306.48s)]
+*  And people now look at that as a very, very low bar. So they'll negotiate over the next 90 days. [[00:05:12](https://www.youtube.com/watch?v=pxEn978HJso&t=312.40000000000003s)]
+*  The key that the markets love is there's some rationality in the room. [[00:05:18](https://www.youtube.com/watch?v=pxEn978HJso&t=318.40000000000003s)]
+*  People people generally believe the concept makes sense. Maybe they weren't in accordance with the [[00:05:23](https://www.youtube.com/watch?v=pxEn978HJso&t=323.2s)]
+*  execution. However, now we have have the relief valve and when it rains gold, pull out the bucket, [[00:05:29](https://www.youtube.com/watch?v=pxEn978HJso&t=329.03999999999996s)]
+*  not the thimble. There are things to buy. Yeah, that's absolutely. Thomas, tell me this, [[00:05:36](https://www.youtube.com/watch?v=pxEn978HJso&t=336.71999999999997s)]
+*  though. You know, some people are saying that this is America blinking. We've heard in the last [[00:05:41](https://www.youtube.com/watch?v=pxEn978HJso&t=341.2s)]
+*  hour or so from the Treasury Secretary, Mr. Besant, who said this was his strategy all along. [[00:05:47](https://www.youtube.com/watch?v=pxEn978HJso&t=347.91999999999996s)]
+*  You kind of feel to me like you're saying possibly this is what the states, the America wanted [[00:05:53](https://www.youtube.com/watch?v=pxEn978HJso&t=353.67999999999995s)]
+*  from the outset. But even if this is an amazing, clever ploy to get that 10 percent running along [[00:05:59](https://www.youtube.com/watch?v=pxEn978HJso&t=359.52s)]
+*  all those countries, surely the markets don't like this level of kind of, you know, going up, [[00:06:05](https://www.youtube.com/watch?v=pxEn978HJso&t=365.59999999999997s)]
+*  going down, pushing, pulling, not knowing where you stand. That can't be good for anyone or anything [[00:06:11](https://www.youtube.com/watch?v=pxEn978HJso&t=371.84s)]
+*  out there. Yeah, I've had more fun weeks in my investing career. I could tell you that right [[00:06:16](https://www.youtube.com/watch?v=pxEn978HJso&t=376.24s)]
+*  now. But I can say one thing. It shows a level of good faith. We've got a win that we're getting [[00:06:21](https://www.youtube.com/watch?v=pxEn978HJso&t=381.92s)]
+*  some imbalances fixed. The negotiations will probably go on longer than 90 days and hopefully [[00:06:27](https://www.youtube.com/watch?v=pxEn978HJso&t=387.52s)]
+*  at some point we'll get get them on the phone between the U.S. and China and start to chip away [[00:06:33](https://www.youtube.com/watch?v=pxEn978HJso&t=393.2s)]
+*  at some level of balance. And then the market can go back to focusing on what? Focusing on earnings, [[00:06:39](https://www.youtube.com/watch?v=pxEn978HJso&t=399.68s)]
+*  focusing on cash flow, focusing on growth, focusing on employment. And all those things have been [[00:06:46](https://www.youtube.com/watch?v=pxEn978HJso&t=406.32s)]
+*  pretty good. People were just starting to extrapolate if we stayed in this frozen period for too long, [[00:06:51](https://www.youtube.com/watch?v=pxEn978HJso&t=411.28000000000003s)]
+*  would it put us into a recession? And now that we've unfrozen it and we're going back to good [[00:06:57](https://www.youtube.com/watch?v=pxEn978HJso&t=417.92s)]
+*  faith negotiations, I think the market likes it. And now companies can start to make decisions again. [[00:07:02](https://www.youtube.com/watch?v=pxEn978HJso&t=422.8s)]
+*  We just had some reaction from the future German Chancellor, German Chancellor Designate [[00:07:07](https://www.youtube.com/watch?v=pxEn978HJso&t=427.6s)]
+*  Mertz, who said Europeans are united on defending ourselves and this shows that approach works [[00:07:12](https://www.youtube.com/watch?v=pxEn978HJso&t=432.56s)]
+*  best. Everyone's going to be claiming victory tonight, aren't they? Well, that's the whole thing. [[00:07:17](https://www.youtube.com/watch?v=pxEn978HJso&t=437.84000000000003s)]
+*  If everyone can save face and you know, a great deal is when no one is perfectly happy and [[00:07:22](https://www.youtube.com/watch?v=pxEn978HJso&t=442.96s)]
+*  everyone saves face. And if that's the case today, then today is a celebration. Let's get back to [[00:07:28](https://www.youtube.com/watch?v=pxEn978HJso&t=448.08s)]
+*  business. Let's get back to trade. If there's some imbalances that are going to be normalized [[00:07:32](https://www.youtube.com/watch?v=pxEn978HJso&t=452.96s)]
+*  over the next 90 days, let's get that done and let's focus on growing and prosperity. [[00:07:37](https://www.youtube.com/watch?v=pxEn978HJso&t=457.76s)]
+*  But what about the 125 percent tariffs on China? That's kind of a fly in your ointment there. And [[00:07:42](https://www.youtube.com/watch?v=pxEn978HJso&t=462.0s)]
+*  you know, China has backed itself into a corner, Thomas, right? How does it get out? [[00:07:46](https://www.youtube.com/watch?v=pxEn978HJso&t=466.32s)]
+*  Well, there is that. But I think at some point, cooler heads will prevail. The signal is that [[00:07:51](https://www.youtube.com/watch?v=pxEn978HJso&t=471.52s)]
+*  if you're willing to come to the table, we have a rational administration that is willing to talk [[00:07:58](https://www.youtube.com/watch?v=pxEn978HJso&t=478.96s)]
+*  and there will be some way for both sides to save face and begin a dialogue. Will it be tonight? [[00:08:04](https://www.youtube.com/watch?v=pxEn978HJso&t=484.96s)]
+*  Probably not. Will it be a week from now? We don't know. But I would assume within the next [[00:08:10](https://www.youtube.com/watch?v=pxEn978HJso&t=490.88s)]
+*  couple of weeks, three, four weeks, the dialogue will begin and no one will be happy with the [[00:08:16](https://www.youtube.com/watch?v=pxEn978HJso&t=496.32s)]
+*  ultimate outcome. They'll meet somewhere in the middle and things will progress as planned. [[00:08:23](https://www.youtube.com/watch?v=pxEn978HJso&t=503.2s)]
+*  OK, well, Thomas, it's great to talk to you. Thanks so much for taking the time to speak to us on BBC News. [[00:08:28](https://www.youtube.com/watch?v=pxEn978HJso&t=508.24s)]

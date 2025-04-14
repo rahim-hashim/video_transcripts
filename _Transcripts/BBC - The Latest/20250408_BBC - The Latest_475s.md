@@ -1,0 +1,112 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 475s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news', 'Prince Harry', 'Harry', 'UK', 'Royal Family']
+Video Views: 137925
+Video Rating: None
+Video Description: Prince Harry has arrived at court in London to contest a decision to downgrade his security protection while he is in the UK.
+ 
+In 2020, his taxpayer-funded protection was changed after he stopped being a working member of the Royal Family.
+ 
+The High Court upheld the decision in 2024, and Harry was initially denied the right to appeal, but he later won the right to appeal - leading to today's hearing.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#UK #BBCNews
+---
+
+# Prince Harry arrives at court for appeal over downgraded UK security | BBC News
+**BBC - The Latest:** [April 08, 2025](https://www.youtube.com/watch?v=jRGwhYXU6YE)
+*  Let's take you straight to the Royal Courts of Justice, where you can see Harry arriving, [[00:00:00](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=0.0s)]
+*  Prince Harry arriving there, ahead of his court challenge. So he's trying to fight [[00:00:04](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=4.68s)]
+*  a decision which was made to downgrade his personal security when he comes over to Britain. [[00:00:08](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=8.96s)]
+*  He obviously lives, as people will know, in the United States with his family. After that [[00:00:15](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=15.0s)]
+*  split with the royal family in 2020, he moved to North America, and then when he was back, [[00:00:20](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=20.04s)]
+*  the UK government said he would no longer be given the same degree of publicly funded [[00:00:25](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=25.400000000000002s)]
+*  protection when he was in the UK on visits. So that's him heading, he's just headed into [[00:00:29](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=29.2s)]
+*  the Royal Court, but he's now appealing against a decision that was made in the court, and [[00:00:35](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=35.32s)]
+*  I think we can join Helena, who's therefore monitoring this story. So, Helena, he's actually [[00:00:40](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=40.24s)]
+*  in court now, and it's quite a big moment for him, isn't it? [[00:00:47](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=47.28s)]
+*  Yeah, I don't think it's a surprise that Prince Harry has turned up here to the Royal [[00:00:51](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=51.239999999999995s)]
+*  Court of Justice. Just to give you the background you mentioned there, this is a two-day hearing [[00:00:57](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=57.16s)]
+*  at the Court of Appeal, and this is all to do with Prince Harry's level of security when [[00:01:02](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=62.599999999999994s)]
+*  he comes to visit the UK, like he has done here today. So not a surprise that he's come [[00:01:08](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=68.36s)]
+*  to the UK, but a big moment for him, of course. We don't see Prince Harry that often here [[00:01:14](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=74.52s)]
+*  in the UK. He rarely travels here, and he has stressed it is because of the security, [[00:01:21](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=81.24s)]
+*  that level of security, he was afforded when he was a working member of the royal family, [[00:01:28](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=88.11999999999999s)]
+*  but that was downgraded when he stopped being a working member of the royal family and moved [[00:01:34](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=94.36s)]
+*  with his family to America. But we've seen there in the last few moments Prince Harry [[00:01:39](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=99.47999999999999s)]
+*  arriving for the start of the two-day Court of Appeal hearing where he's continuing to [[00:01:44](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=104.68s)]
+*  challenge a Home Office decision about downgrading the level of security. Let me bring in my [[00:01:51](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=111.24000000000001s)]
+*  colleague Charlotte Gallagher, who is with me here outside the Royal Courts of Justice. [[00:01:57](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=117.48s)]
+*  And Charlotte, we've just seen Prince Harry arriving here at the Court of Appeal in the [[00:02:02](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=122.60000000000001s)]
+*  UK. The last time he was here, I think it was back in September when he was here for [[00:02:07](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=127.76s)]
+*  a charity event. He's come into the Royal Courts of Justice, not through the front entrance, [[00:02:12](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=132.92000000000002s)]
+*  we think through a side entrance, but a significant moment for him. It's really significant. He rarely [[00:02:18](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=138.12s)]
+*  comes back to the UK now, and part of the reason he says for that is because of his security [[00:02:23](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=143.32s)]
+*  arrangements. He doesn't have the same security level that other members of the royal family have [[00:02:28](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=148.36s)]
+*  here in the UK, other working members of the royal family. He lost that in 2020 when him and his wife [[00:02:33](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=153.48000000000002s)]
+*  Meghan decided to move to the United States, and that is what he's fighting here today. He wants [[00:02:39](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=159.16s)]
+*  more security, more police protecting him when he's in Britain. He says that he's still under [[00:02:44](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=164.28s)]
+*  an immense risk because, of course, he's the son of the King. He was, of course, as well in the [[00:02:50](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=170.28s)]
+*  British Army and he was serving in Afghanistan, and he says that's an additional threat to him as well. [[00:02:54](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=174.84s)]
+*  But that security was taken away. He does still have some police protection, though, Helena. It's [[00:02:59](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=179.96s)]
+*  not like he's a normal person when he comes to this country. There would have been police with [[00:03:04](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=184.44s)]
+*  him today when he came to the Court of Appeal. Basically, every time he comes to the UK, his [[00:03:07](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=187.96s)]
+*  situation is assessed on a case-by-case basis of how much security he does need when he's here in [[00:03:12](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=192.68s)]
+*  Britain. So it would never be that he would just be walking around the streets on his own. What he [[00:03:18](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=198.04000000000002s)]
+*  says is that he is willing to pay to have police protection, full police protection in the United [[00:03:22](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=202.04000000000002s)]
+*  Kingdom. However, the committee which decides essentially what kind of protection the royals [[00:03:27](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=207.32s)]
+*  and other VIPs get, like the Prime Minister, they say you can't do that. It's not rent-a-police. [[00:03:32](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=212.12s)]
+*  It's either coming from central funding or not at all. And he says as well that his private [[00:03:37](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=217.08s)]
+*  security, so the people that are with him in America and that will travel with him to the UK, [[00:03:41](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=221.96s)]
+*  they obviously can't access home office databases, MI5 databases and know about threats against him. [[00:03:46](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=226.04000000000002s)]
+*  So he says they're kind of working in the dark essentially because they don't know the level of [[00:03:53](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=233.56s)]
+*  threats that he is facing. So that is what he's going to be fighting in court today. Interesting [[00:03:57](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=237.64000000000001s)]
+*  that he's come here in person. He didn't have to be here in person. He could have done it by video [[00:04:02](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=242.44s)]
+*  link or have lawyers essentially argue his case. But he feels incredibly strongly about this. He [[00:04:06](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=246.6s)]
+*  says the UK is his home and it's a part of his children's heritage, a really important part of [[00:04:11](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=251.32s)]
+*  his children's heritage. But he says he doesn't feel comfortable bringing them here because of [[00:04:15](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=255.95999999999998s)]
+*  the security situation and not having the highest level of police protection. But it'll be interesting [[00:04:20](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=260.44s)]
+*  to hear what happens in court over the next two days. Some of it will be done behind the scenes. [[00:04:25](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=265.96s)]
+*  There are cameras in court that will be streaming essentially what's going on. But some of the [[00:04:31](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=271.08s)]
+*  evidence will be confidential, essentially the kind of threats that he could be facing. We won't [[00:04:35](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=275.0s)]
+*  know the detail of those threats for obvious reasons. But there is a stream, there are cameras [[00:04:39](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=279.8s)]
+*  in court that will be filming what's going on. I mean probably the one thing we should say is that [[00:04:44](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=284.84s)]
+*  even though there are cameras, court of appeal hearings can be quite complicated. There can be [[00:04:49](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=289.0s)]
+*  a lot of legal jargon. They can take quite a long time. So it's not going to be like watching a [[00:04:53](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=293.8s)]
+*  courtroom TV drama with lots of kind of dramatic scenes. It's going to be quite dull in many cases [[00:04:58](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=298.84s)]
+*  as they kind of process exactly what's going to happen with this situation. So he's either going [[00:05:04](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=304.6s)]
+*  to come out after the two days and potentially get his full level security back or he's going to [[00:05:09](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=309.64000000000004s)]
+*  lose another court case. But he's certainly a man that's not a stranger to the British court system [[00:05:14](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=314.44s)]
+*  at the moment, is he Helena? Exactly. Let's just remind our viewers what's happened in the last [[00:05:20](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=320.12s)]
+*  few moments Charlotte. So Prince Harry has flown in from America and he is here at the Royal Courts [[00:05:24](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=324.68s)]
+*  of Justice in the building just behind us and he is here for at the start of that two-day court of [[00:05:30](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=330.92s)]
+*  appeal hearing. What we're going to see when it starts, it gets underway at 10.30 this morning [[00:05:36](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=336.28000000000003s)]
+*  and the parties what happens or tends to happen at court of appeal hearings is you'll hear [[00:05:43](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=343.40000000000003s)]
+*  the parties with that opening submission. So we'll hear first from Prince Harry's barrister [[00:05:48](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=348.20000000000005s)]
+*  who will lay out the arguments as to why they are appealing against a high court decision [[00:05:53](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=353.8s)]
+*  when Prince Harry tried to challenge the Home Office decision to downgrade his security when [[00:06:00](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=360.12s)]
+*  he's when he comes to the UK. He didn't go through the front entrance, we think he went through one [[00:06:07](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=367.08000000000004s)]
+*  of the side entrances to get into the courtroom. Interesting time though, he's here in the UK, [[00:06:12](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=372.76s)]
+*  he's decided to come. His father is not in the UK, he is with the Queen, they will be celebrating [[00:06:19](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=379.8s)]
+*  their 20th wedding anniversary tomorrow in Italy. So we don't know whether he flew in to the UK [[00:06:26](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=386.04s)]
+*  before they flew out and saw his father or whether he might stay after this hearing or go back to [[00:06:32](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=392.84000000000003s)]
+*  back straight back to America after it finishes. Yeah I mean there was only a few hours really of [[00:06:38](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=398.44s)]
+*  him arriving and then King Charles and Queen Camilla departing for Rome and we don't think [[00:06:42](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=402.6s)]
+*  he's seen his father in person since February last year when the King was diagnosed with cancer [[00:06:47](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=407.96000000000004s)]
+*  and Prince Harry flew to the UK and had about a 45 minute meeting with his father. I mean they don't [[00:06:55](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=415.0s)]
+*  see each other like they used to. I mean this is a family like a lot of families with quite a strange [[00:07:01](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=421.32s)]
+*  relationship apart from the fact that it's played out in public, it's not behind the scenes but [[00:07:06](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=426.84s)]
+*  we don't know for example as you said if he met his father last night or if he's going to stay on [[00:07:11](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=431.8s)]
+*  and then meet him afterwards but yes he slipped into the country, he's at the Court of Appeal. I [[00:07:16](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=436.92s)]
+*  mean we say he went into the side entrance but I mean there were cameras there and he will have [[00:07:21](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=441.8s)]
+*  known wouldn't you Helena that whichever entrance he comes into the Court of Appeal there are going [[00:07:25](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=445.0s)]
+*  to be cameras that are going to capture him going in and out. All right Charlotte Gallagher thank [[00:07:29](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=449.24s)]
+*  you very much indeed. So Prince Harry here in the UK at the Royal Courts of Justice arrived in the last [[00:07:33](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=453.40000000000003s)]
+*  15 minutes or so for the start of that two-day Court of Appeal hearing. We've got our correspondent [[00:07:40](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=460.12s)]
+*  colleague Tom Simons who is in the courtroom and as Charlotte was mentioning there there will be a [[00:07:45](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=465.96000000000004s)]
+*  live stream of the hearing over the next two days. [[00:07:51](https://www.youtube.com/watch?v=jRGwhYXU6YE&t=471.48s)]
