@@ -1,0 +1,100 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 494s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 290896
+Video Rating: None
+Video Description: The US and Russia have been holding high-level talks in Saudi Arabia for the first time in years.
+ 
+General Sir Richard Shirreff, a former Nato commander, said that US President Trump’s plans for Ukraine are “in cloud cuckoo land”.
+ 
+Listen to the full episode here: https://www.bbc.co.uk/sounds/play/p0ks1tmd 
+ 
+For more news, analysis and features visit: www.bbc.com/news 
+ 
+#Ukrainecast #BBCNews
+---
+
+# US-Russia talks: Ex-Nato commander criticises US President Trump’s Ukraine plans | BBC News
+**BBC - World News:** [February 19, 2025](https://www.youtube.com/watch?v=VKvxf6PUqpk)
+*  I don't believe Trump has any understanding of the real nature of Russia. [[00:00:00](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=0.0s)]
+*  Ukraine cast from BBC News. [[00:00:09](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=9.52s)]
+*  Let's get some immediate reaction from you to some of the lines coming out of this meeting [[00:00:12](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=12.48s)]
+*  in Saudi Arabia. This is what the US Secretary of State has said. Today's meeting is the [[00:00:16](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=16.76s)]
+*  first step of a long and difficult journey. Everyone involved in the Ukraine conflict [[00:00:22](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=22.04s)]
+*  has to be OK with the solution to end it. And our goal, meaning the US's goal, is a [[00:00:25](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=25.8s)]
+*  fair, enduring, sustainable end to the Ukraine war. How do you respond to those? [[00:00:30](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=30.64s)]
+*  I think it's Clyde Cookieland. [[00:00:37](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=37.120000000000005s)]
+*  I think that it shows a failure to understand what Russia is about. And what Russia is about [[00:00:39](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=39.56s)]
+*  removing Ukraine from the map as a sovereign state, about incorporating Ukraine, either [[00:00:50](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=50.63999999999999s)]
+*  physically annexing it in terms of the eastern and southern regions of Ukraine, and installing [[00:00:57](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=57.599999999999994s)]
+*  a puppet government in Kiev so Ukraine becomes a sort of client state rather like Belarus. [[00:01:04](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=64.2s)]
+*  Because that's deep in the Russian DNA. And I think any American negotiator who doesn't [[00:01:11](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=71.44s)]
+*  understand that and thinks there can be a durable, lasting solution with a sovereign [[00:01:17](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=77.4s)]
+*  Ukraine and that Russia will accept that is deluding themselves. [[00:01:26](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=86.24s)]
+*  What does this all mean for Europe, NATO and the rest of the Western alliance? [[00:01:31](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=91.96s)]
+*  Well, what it means after last week's pronouncements in Munich, firstly Trump's announcement that [[00:01:38](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=98.08s)]
+*  he'd had the 90-minute call with Putin, that he was setting up peace talks over the heads [[00:01:45](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=105.32000000000001s)]
+*  of the Ukrainian government. And then we heard Hegseth and Vance's pretty strident words. [[00:01:50](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=110.16s)]
+*  What this means is the Pax Americana is finished, that America has effectively abdicated its [[00:01:58](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=118.12s)]
+*  leadership of the free world because with leadership comes the responsibilities. It [[00:02:04](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=124.16s)]
+*  has made it very clear that it is not going to be the security guarantor for Europe and [[00:02:09](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=129.0s)]
+*  so what out of all that is that Europe has to, and Canada, and we shouldn't forget that [[00:02:14](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=134.8s)]
+*  Canadians are part of this equation too, Europe and Canada, if they want the sort of collective [[00:02:20](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=140.8s)]
+*  security need to forge a new form of alliance, perhaps on the back of NATO, but effectively [[00:02:28](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=148.20000000000002s)]
+*  NATO is now in danger of being held below the waterline by what the Americans have said. [[00:02:36](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=156.96s)]
+*  So the absolute overriding principle now is European unity. That's a big ask. We saw yesterday [[00:02:45](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=165.28s)]
+*  in Paris, yes, the European leaders who were present are saying, yes, of course, we need [[00:02:54](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=174.08s)]
+*  to spend more on defence. And many European countries are, I particularly highlight Poland, [[00:02:59](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=179.8s)]
+*  for example, plus of 4% the Baltic states, but where are the Western Europeans of Britain [[00:03:05](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=185.8s)]
+*  and France and Germany? And then any talk of a Europe, a united front as far as, and it's a [[00:03:12](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=192.0s)]
+*  long way off, but if there were to be some form of peace implementation force, I mean, the Germans [[00:03:20](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=200.07999999999998s)]
+*  have made it pretty clear that, as Mr. Schott said, he's irritated by that conversation. So I think [[00:03:26](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=206.23999999999998s)]
+*  there's a real risk of Europe falling at the first fence, but the only solution to the challenge [[00:03:34](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=214.6s)]
+*  that Europe faces long term. And that we have to understand that Russia is not going to go away [[00:03:40](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=220.64s)]
+*  here, that Russia is wedded to, has maintained forward momentum by incorporating Ukraine, [[00:03:44](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=224.6s)]
+*  and then it'll move on. And so that brings it potentially into confrontation with the rest [[00:03:52](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=232.44s)]
+*  of Europe. Physically? If it sees NATO in disarray, if it sees that, and it's already seeing the [[00:03:59](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=239.88s)]
+*  American guarantee effectively null and void, if it believes that it'll get a chance, it could [[00:04:07](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=247.32s)]
+*  so easily decide to have a go at all of, or some of the Baltic states, which brings it directly into [[00:04:16](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=256.92s)]
+*  confrontation with the rest of NATO. [[00:04:23](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=263.96s)]
+*  Can I push back a little bit? Why would President Trump want to allow Moscow, President Putin, [[00:04:27](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=267.71999999999997s)]
+*  to continue with its campaign against Ukraine, to bring it into Russia's orbit? Because everybody [[00:04:35](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=275.4s)]
+*  who watches President Trump says, he's a winner, he likes to win. He's not going to want President [[00:04:42](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=282.59999999999997s)]
+*  Putin to be able to go back to his people and say, yeah, we've won? [[00:04:48](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=288.2s)]
+*  Let's just scotch this idea of Trump being a winner. Trump did the deal with the Taliban in [[00:04:51](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=291.71999999999997s)]
+*  2020 over the head of the Afghan government, which resulted in the complete collapse of the [[00:04:57](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=297.0s)]
+*  NATO mission in August 2022. [[00:05:02](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=302.76s)]
+*  So maybe he's learned from that. [[00:05:07](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=307.48s)]
+*  I think it's highly unlikely. And the second point I'd make is that I don't believe Trump has [[00:05:09](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=309.32s)]
+*  any understanding of the real nature of Russia. And he's kidding himself if he believes that he, [[00:05:13](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=313.8s)]
+*  the master of the deal, can sort this one out. The only way there will be peace long term [[00:05:19](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=319.32s)]
+*  in Ukraine, in Europe, and against a revanchist Russia determined to rebuild another Russian [[00:05:26](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=326.76s)]
+*  empire is through a strong NATO deterrent presence from the Baltic to the Black Sea, [[00:05:34](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=334.28s)]
+*  incorporating Ukraine as a NATO member, which requires every NATO member, America included, [[00:05:41](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=341.4s)]
+*  to lean in and as a start, put together a strategy to support the Ukrainians in defeating Russia, [[00:05:48](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=348.59999999999997s)]
+*  because that's the only way Russia is going to be stopped. [[00:05:55](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=355.0s)]
+*  Anything less than that, which is what we're seeing now in spade loads, is merely starting [[00:05:58](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=358.36s)]
+*  the unraveling of European security, which could so easily end in catastrophe. [[00:06:04](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=364.28s)]
+*  OK. So you said a few moments ago, perhaps there has to be a new NATO minus the US, [[00:06:09](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=369.8s)]
+*  a new kind of alliance. Why would Russia take that seriously? [[00:06:17](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=377.32s)]
+*  It will only take it seriously if it is strong, if it is capable. [[00:06:23](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=383.0s)]
+*  It can't be strong without the US, though, can it? [[00:06:27](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=387.71999999999997s)]
+*  It cannot be as strong without the US. And this is where Europe, and I appreciate all this sounds [[00:06:29](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=389.71999999999997s)]
+*  like cloud cuckoo land, but Europe have got to say, right, we've got to start somewhere now. [[00:06:37](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=397.48s)]
+*  We, through our failure to spend more on defence, our willingness to freeload off American largesse [[00:06:43](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=403.64s)]
+*  for the last umpteen decades, have now got to dig deep, because we've now got to replace the [[00:06:52](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=412.12s)]
+*  capabilities that America brought to the alliance. Now that is one massive ask. Of course it is. [[00:06:58](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=418.36s)]
+*  And the only way that the alliance will continue to be respected is through a demonstration by [[00:07:04](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=424.28000000000003s)]
+*  Europe that it's prepared to do so. And do you think European leaders [[00:07:11](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=431.24s)]
+*  really get that now? I don't think they do. [[00:07:15](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=435.08s)]
+*  Really? I don't think they do. [[00:07:17](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=437.16s)]
+*  Well, I mean, where? Let's look at this country. At the moment, we see no clear commitment [[00:07:18](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=438.91999999999996s)]
+*  to spending more than, at the moment, 2.3% of GDP on defence. Oh yes, there's an intention to move [[00:07:27](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=447.4s)]
+*  to 2.5, quote, when conditions allow. Where has been the action this day? We are now going to put [[00:07:33](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=453.55999999999995s)]
+*  together a clear strategy to achieve 3% of GDP on defence as soon as is possible, with a clear [[00:07:41](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=461.72s)]
+*  understanding of what sacrifices need to be made, what tax rises have to be put in place, [[00:07:50](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=470.6s)]
+*  what ministries have got to be cut, because that is what is needed. And that requires huge [[00:07:57](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=477.08000000000004s)]
+*  leadership. And frankly, unless there's some clear commitment, nothing else, there's going [[00:08:02](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=482.20000000000005s)]
+*  to be no credibility. Ukraine, Kost, from BBC News. [[00:08:08](https://www.youtube.com/watch?v=VKvxf6PUqpk&t=488.52s)]

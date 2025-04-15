@@ -1,0 +1,121 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 452s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 439107
+Video Rating: None
+Video Description: UK Prime Minister Sir Keir Starmer and Ukrainian President Volodymyr Zelensky will meet in Downing Street on Saturday afternoon, Downing Street has said.
+ 
+Zelensky arrived at Stansted Airport earlier today in the wake of a White House meeting with US President Donald Trump on Friday, that descended into a row between the two leaders over the war in Ukraine.
+ 
+It comes a day before Starmer hosts a summit of European leaders to discuss bringing the war between Ukraine and Russia to an end, as well as wider European defence.
+ 
+That meeting will now be overshadowed by recent events in Washington and concerns about a hardening of relations with the US.
+
+Subscribe here: http://bit.ly/1rbfUog
+
+For more news, analysis and features visit: www.bbc.com/news 
+
+#Ukraine #BBCNews
+---
+
+# Ukraine's President Zelensky and UK Prime Minister Starmer to meet in Downing Street | BBC News
+**BBC - World News:** [March 01, 2025](https://www.youtube.com/watch?v=9Bd1Aro72Gg)
+*  British Prime Minister Keir Starmer will host Ukrainian President Zelensky at [[00:00:00](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=0.0s)]
+*  Downing Street in just a few hours time. The Ukrainian delegation is now in London [[00:00:04](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=4.48s)]
+*  after flying in from the US. This was the moment playing touchdown ahead of [[00:00:09](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=9.8s)]
+*  tomorrow's meeting of European leaders in London for that security summit. [[00:00:14](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=14.56s)]
+*  Meeting between the two leaders follows President Zelensky's clash of course [[00:00:18](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=18.38s)]
+*  with President Trump and Vice President JD Vance in the Oval Office yesterday. [[00:00:22](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=22.76s)]
+*  President Trump accused the Ukrainian leader of gambling with World War III [[00:00:28](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=28.2s)]
+*  and have not been grateful for the support of the US. President Zelensky [[00:00:32](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=32.48s)]
+*  made it clear there should be no compromises with President Putin. [[00:00:37](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=37.28s)]
+*  Following those exchanges the President of Ukraine was ordered to leave the [[00:00:41](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=41.96s)]
+*  White House. The American minerals deal was not signed. US President later said [[00:00:46](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=46.36s)]
+*  President Zelensky could return when he was ready for peace. Our diplomatic [[00:00:52](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=52.08s)]
+*  correspondent James Landell reports. President Zelensky arriving in the UK [[00:00:56](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=56.68s)]
+*  this morning ahead of a meeting with the Prime Minister and European leaders [[00:01:02](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=62.4s)]
+*  hoping perhaps for a warmer welcome than the intemperate shouting match he got at [[00:01:06](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=66.08s)]
+*  the White House. In extraordinary furious exchanges Donald Trump and his number two [[00:01:10](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=70.96000000000001s)]
+*  angrily railed at Ukraine's president accusing him of being disrespectful for [[00:01:17](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=77.08s)]
+*  resisting a ceasefire deal without security guarantees. Mr. President with [[00:01:22](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=82.64s)]
+*  respect I think it's disrespectful for you to come into the Oval Office to try [[00:01:27](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=87.68s)]
+*  to litigate this in front of the American media. Don't tell us what we're [[00:01:30](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=90.96000000000001s)]
+*  gonna feel we're trying to solve a problem don't tell us what we're gonna [[00:01:33](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=93.88s)]
+*  feel. I'm not telling you. Because you're in no position to dictate that. Remember that. [[00:01:37](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=97.4s)]
+*  You're in no position to dictate what we're gonna feel. It was rude it was [[00:01:41](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=101.36s)]
+*  brutal and unrelenting but was it deliberate? You're right now not in a [[00:01:48](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=108.24s)]
+*  very good position. They accused him of being ungrateful for US support. Have you [[00:01:53](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=113.32s)]
+*  said thank you once? No in this entire meeting you said thank you. You went to Pennsylvania and [[00:01:59](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=119.19999999999999s)]
+*  campaigned for the opposition in October offer some words of appreciation for the [[00:02:05](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=125.75999999999999s)]
+*  United States of America and the president who's trying to save your [[00:02:10](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=130.51999999999998s)]
+*  country. And with that Ukraine's president was shown the White House door [[00:02:14](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=134.6s)]
+*  with no press conference no minerals deal and something more than a flea in [[00:02:19](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=139.16s)]
+*  his ear. In Russia the exchanges were played out in full the news presenters [[00:02:23](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=143.64s)]
+*  talking of a diplomatic train wreck and public political execution. No word yet [[00:02:31](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=151.04s)]
+*  from President Putin who may have enjoyed what Mr. Trump called great [[00:02:36](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=156.48s)]
+*  television. The row made headlines too across Europe whose leaders will gather [[00:02:40](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=160.64s)]
+*  in London tomorrow to discuss the crisis and what can be done if anything to calm [[00:02:47](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=167.92s)]
+*  the row and secure Ukraine's future. Overnight on social media allies from [[00:02:53](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=173.0s)]
+*  across the world posted words of comfort for President Zelensky who replied to [[00:02:58](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=178.48s)]
+*  everyone saying simply thank you for your support. Is that support enough? As [[00:03:03](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=183.16s)]
+*  the war continues Russian drones striking a hospital overnight in [[00:03:10](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=190.12s)]
+*  Kharkiv Ukraine and Europe now face a tough question. How long could they [[00:03:14](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=194.24s)]
+*  resist Russian forces if Donald Trump pulled the plug on US military aid? [[00:03:19](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=199.84s)]
+*  James Landell BBC News. Well as we mentioned President Zelensky is meeting [[00:03:25](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=205.12s)]
+*  Kirstama ahead of tomorrow's summit in London. Let's bring in our political [[00:03:31](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=211.72s)]
+*  correspondent Helen Katz. Just a few hours away this meeting in Downing [[00:03:36](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=216.12s)]
+*  Street between the two men. What's the significance of it now? This is going to [[00:03:41](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=221.08s)]
+*  be a very tense, delicate situation diplomatically this weekend. It has [[00:03:45](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=225.24s)]
+*  always been the case that Vladimir Zelensky was supposed to have a meeting [[00:03:51](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=231.72s)]
+*  with Kirstama. It's the UK that has convened this summit that you heard [[00:03:55](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=235.4s)]
+*  James talking about of European leaders. It's happening tomorrow. Vladimir Zelensky [[00:03:58](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=238.88s)]
+*  was always coming and there was always an intention that he was going to have a [[00:04:02](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=242.36s)]
+*  one-on-one meeting in Downing Street with Sir Kirstama. But obviously since [[00:04:05](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=245.08s)]
+*  the the events of yesterday and what we saw in the Oval Office that will have [[00:04:09](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=249.96s)]
+*  very much changed the conversation and the tone of this whole weekend. And it [[00:04:14](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=254.72000000000003s)]
+*  also does actually really put the spotlight on the UK. You know Vladimir [[00:04:18](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=258.2s)]
+*  Zelensky is here on British soil now it's very much Kirstama's hot potato to [[00:04:22](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=262.28000000000003s)]
+*  handle this weekend. And this meeting that we're going to see in a few hours [[00:04:26](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=266.32s)]
+*  time at Downing Street, obviously it's going to be very different in tone to [[00:04:31](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=271.16s)]
+*  the meeting and the pictures we're seeing here in in the White House. Do we [[00:04:36](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=276.36s)]
+*  have any sense of what the two men will be discussing? What points Kirstama will [[00:04:40](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=280.12s)]
+*  want to be emphasizing to the leader of Ukraine? So we don't to be honest. We [[00:04:45](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=285.52000000000004s)]
+*  don't know what they're going to talk about apart from we know that it's [[00:04:50](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=290.04s)]
+*  obviously going to be around support for Ukraine and Kirstama has mentioned his [[00:04:52](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=292.92s)]
+*  unwavering support as he puts it for Ukraine and how to improve their [[00:04:57](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=297.64s)]
+*  position. I think what's interesting though is that Vladimir Zelensky since he [[00:05:01](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=301.15999999999997s)]
+*  landed President Zelensky has this afternoon put out a series of posts on [[00:05:05](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=305.03999999999996s)]
+*  social media in which he does talk about being truly thankful for US support and [[00:05:09](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=309.12s)]
+*  says that it is crucial that he has US support. But he reiterates this core [[00:05:13](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=313.32s)]
+*  point where there is a bit of division which is that he is saying that [[00:05:16](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=316.76s)]
+*  that he will not sign up to a ceasefire if there are no security guarantees and [[00:05:22](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=322.36s)]
+*  he wants those backed by the US whereas President Trump sees it the other way [[00:05:27](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=327.24s)]
+*  round and in recent days Kirstama has been more echoing the Trump view that [[00:05:30](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=330.76s)]
+*  you can have a ceasefire first and then put the security guarantees in later. [[00:05:35](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=335.15999999999997s)]
+*  We'll have to see whether that is still his position when he meets Zelensky later [[00:05:38](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=338.68s)]
+*  or what comes out of that because that is the sort of the heart of this that [[00:05:42](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=342.03999999999996s)]
+*  where there is that real division or difference in opinion. Okay let's look [[00:05:45](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=345.71999999999997s)]
+*  ahead to the summit in a bit more detail tomorrow. Clearly agendas top of the list. [[00:05:49](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=349.64s)]
+*  Things will have been ripped up and rewritten now. What should we be looking [[00:05:56](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=356.12s)]
+*  out for at the end of this summit tomorrow? Well there is going to be pressure for [[00:06:00](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=360.52s)]
+*  something to come out of this summit because having sort of spoken to people [[00:06:05](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=365.56s)]
+*  over the weekend it's not entirely clear that there is what the end result would [[00:06:10](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=370.2s)]
+*  be after. It's not like for example when you have a formalized summit and there's [[00:06:14](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=374.76s)]
+*  going to be an agreed communique or something like that at the end of it. [[00:06:17](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=377.8s)]
+*  I'm not sure that there was a necessarily that sort of thing envisaged from it but [[00:06:20](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=380.44s)]
+*  the point of it is to drive forward Downing Street has said the European [[00:06:24](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=384.52s)]
+*  efforts towards getting towards a lasting peace deal and we know that they're going [[00:06:29](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=389.15999999999997s)]
+*  to talk about things like ongoing military support and things like sanctions on Russia. [[00:06:34](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=394.35999999999996s)]
+*  The context though in which they're having these discussions is completely different [[00:06:39](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=399.79999999999995s)]
+*  from what they were expecting. There's been this very carefully choreographed week from [[00:06:42](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=402.84s)]
+*  Downing Street where you had the UK announcing it was going to raise its defence spending [[00:06:47](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=407.24s)]
+*  earlier in the week then that visit to Washington from Sikorsky-Stammer on Thursday which went [[00:06:51](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=411.32s)]
+*  very well with Donald Trump. The expectation was they'd be going into this this weekend [[00:06:55](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=415.48s)]
+*  with the US brought a little bit further onside having signed a minerals deal with Ukraine, [[00:06:59](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=419.88s)]
+*  having met Zelensky in the White House and that having gone well obviously that is very [[00:07:05](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=425.88s)]
+*  much not the case and so now what they're looking at is talking about European contributions and [[00:07:10](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=430.76s)]
+*  European support but in the context of far shakier American support and that's quite a [[00:07:16](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=436.28s)]
+*  different context to be discussing so I think there will be increased scrutiny on what does [[00:07:21](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=441.71999999999997s)]
+*  come out of that meeting tomorrow you know what can the Europeans alone offer towards this. [[00:07:26](https://www.youtube.com/watch?v=9Bd1Aro72Gg&t=446.11999999999995s)]

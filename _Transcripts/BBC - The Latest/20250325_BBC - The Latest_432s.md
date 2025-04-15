@@ -1,0 +1,120 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 432s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 78097
+Video Rating: None
+Video Description: The White House has said Russia and Ukraine have agreed to ensure safe passage for commercial shipping in the Black Sea and stop military strikes.
+ 
+Washington released separate statements after American officials met representatives from both countries in Saudi Arabia.
+ 
+Ukraine agrees to stop military force in the Black Sea, but says any movement of Russian naval vessels would be a violation of the agreement.
+ 
+Meanwhile, Russia says certain sanctions on banks, insurers, and food exporters must be lifted before the ceasefire comes into force.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#Russia #Ukraine #BBCNews
+---
+
+# Russia and Ukraine agree to ceasefire in Black Sea, White House says | BBC News
+**BBC - The Latest:** [March 25, 2025](https://www.youtube.com/watch?v=hWqUJvCPCF8)
+*  Now, Russia has set out its terms for a partial ceasefire with Ukraine. [[00:00:00](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=0.0s)]
+*  The White House says Russia and Ukraine have agreed to ensure safe passage for commercial [[00:00:04](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=4.4s)]
+*  shipping and to stop military strikes in the Black Sea. [[00:00:08](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=8.74s)]
+*  But in a statement in the last few minutes, the Kremlin has said the agreement will only [[00:00:12](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=12.18s)]
+*  come into force after sanctions are lifted on Russian banks involved in international [[00:00:15](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=15.94s)]
+*  trade in food and fertilizers, and they are fully reconnected to SWIFT, the network that [[00:00:20](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=20.26s)]
+*  facilitates secure financial messaging between banks. [[00:00:25](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=25.6s)]
+*  That means that Russia is effectively saying sanctions must be lifted from its banks, food [[00:00:28](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=28.62s)]
+*  producers and exporters, as well as insurers, before a ceasefire in the Black Sea comes [[00:00:32](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=32.18s)]
+*  into effect. [[00:00:36](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=36.18s)]
+*  Both sides would also end strikes on each other's energy facilities. [[00:00:37](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=37.18s)]
+*  The US has been in talks with Ukraine and Russia and Saudi Arabia for the last three [[00:00:41](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=41.34s)]
+*  days or so. [[00:00:44](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=44.980000000000004s)]
+*  The White House has also released a statement on the talks between the US and Ukrainian [[00:00:46](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=46.900000000000006s)]
+*  delegations held in Riyadh, saying, the United States and Ukraine have agreed to ensure the [[00:00:50](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=50.620000000000005s)]
+*  ships by eliminating the use of force in the Black Sea and stop the use of commercial vessels [[00:00:56](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=56.06s)]
+*  for military purposes. [[00:01:00](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=60.78s)]
+*  The two countries have agreed that the United States remains committed to helping achieve [[00:01:01](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=61.78s)]
+*  the exchange of prisoners of war and return forcibly transferred Ukrainian children. [[00:01:05](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=65.62s)]
+*  They've also agreed to start developing measures to implement a ban on strikes against energy [[00:01:10](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=70.86s)]
+*  facilities of Russia and Ukraine, and will continue to work towards achieving a durable [[00:01:15](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=75.22s)]
+*  and lasting peace. [[00:01:19](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=79.26s)]
+*  Joining me is our Russia Monitoring Editor, Vitaly Shevchenko. [[00:01:20](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=80.26s)]
+*  We've got a lot of detail in all those statements, but overall, Vitaly, we heard from the Ukrainian [[00:01:23](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=83.46000000000001s)]
+*  President, President Zelensky, saying that they were ready for this sort of partial pause, [[00:01:29](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=89.7s)]
+*  at least, stoppage in the Black Sea to start immediately, but we then, a few minutes later, [[00:01:34](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=94.02000000000001s)]
+*  got a statement from the Kremlin saying no, only if sanctions are lifted. [[00:01:38](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=98.54s)]
+*  So yet again, caveats and conditions. [[00:01:42](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=102.5s)]
+*  After three days of talks in Saudi Arabia, we have three separate statements, and while [[00:01:45](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=105.7s)]
+*  the statements issued by Washington, they unequivocally say that Russia has agreed to [[00:01:52](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=112.38s)]
+*  ensure safe navigation in the Black Sea. [[00:01:58](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=118.7s)]
+*  The statement from the Kremlin says yes, but, and goes on to list a number of sanctions, [[00:02:01](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=121.66s)]
+*  conditions which basically boil down to lift sanctions from our banks, insurers, food producers [[00:02:07](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=127.38s)]
+*  involved in international trade in food and fertilizers, and then this ban on fighting [[00:02:15](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=135.26s)]
+*  in the Black Sea will go into effect. [[00:02:21](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=141.78s)]
+*  Now several scenarios are possible. [[00:02:24](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=144.58s)]
+*  The big question is, will America lift its sanctions first and Russia will follow with [[00:02:27](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=147.78s)]
+*  stopping attacks on shipping in the Black Sea? [[00:02:35](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=155.66s)]
+*  Or will concerns that Russia will use this as a loophole, i.e. by using these banks and [[00:02:39](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=159.42000000000002s)]
+*  insurers for other purposes, will this overpower the desire to implement this ceasefire in [[00:02:46](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=166.8s)]
+*  the Black Sea? [[00:02:54](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=174.44s)]
+*  So this is a very complicated situation, and it's a situation that, well, we've been in [[00:02:55](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=175.52s)]
+*  for a while now. [[00:03:01](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=181.60000000000002s)]
+*  We've been watching these talks between America and Russia and separately between America [[00:03:02](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=182.8s)]
+*  and Ukraine, and while the Americans and the Ukrainians are saying, well, look, okay, let's [[00:03:07](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=187.88000000000002s)]
+*  ceasefire, Russia says we are okay with the idea, but, and then goes on to list various [[00:03:13](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=193.16s)]
+*  caveats that stop this idea from being implemented immediately. [[00:03:19](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=199.79999999999998s)]
+*  President Zelensky has said on the deal to hold strikes in the Black Sea that it's too [[00:03:26](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=206.16s)]
+*  early to say where it'll work, but these are the right meetings, the right decisions, the [[00:03:31](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=211.28s)]
+*  right steps. [[00:03:34](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=214.56s)]
+*  Why have we got these slightly different emphases in the statements that we've had in the last [[00:03:36](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=216.88s)]
+*  couple of hours? [[00:03:41](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=221.88s)]
+*  And are we talking about sanctions just from the US or from Europe too on Russia? [[00:03:43](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=223.16s)]
+*  Well, looking at these statements, they only mention what America can impose or lift, so [[00:03:48](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=228.88s)]
+*  presumably these are sanctions imposed by America. [[00:03:53](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=233.44s)]
+*  Whether or not Europe will follow is another issue. [[00:03:57](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=237.12s)]
+*  If we were to take a step back from the immediate negotiations, Geeta, I think the rhetoric [[00:04:00](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=240.68s)]
+*  and the actions by Russia in Ukraine, they suggest that its appetites, as far as Ukraine [[00:04:08](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=248.24s)]
+*  goes, are not really diminished. [[00:04:16](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=256.6s)]
+*  Just yesterday the Russian Foreign Minister said that Russia still pursues the objective [[00:04:19](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=259.28000000000003s)]
+*  of denazifying, quote unquote, Ukraine, which is the original objective of the so-called [[00:04:23](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=263.72s)]
+*  special military operation. [[00:04:28](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=268.52s)]
+*  So they're saying that they intend to do that and also capture more Ukrainian territory, [[00:04:30](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=270.12s)]
+*  and of course it doesn't really suggest in very practical terms a desire to stop the [[00:04:35](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=275.48s)]
+*  fighting right now. [[00:04:41](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=281.44s)]
+*  The caveats that we've been hearing from Moscow, they also suggest that Russia is more willing [[00:04:44](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=284.48s)]
+*  to look after its interests of whatever nature rather than stop fighting immediately. [[00:04:51](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=291.08000000000004s)]
+*  And so it's still not clear when this is going to happen? [[00:04:59](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=299.84000000000003s)]
+*  No. [[00:05:02](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=302.72s)]
+*  No. [[00:05:03](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=303.72s)]
+*  In terms of what it actually means if it happens, can you just explain the importance of the [[00:05:04](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=304.12s)]
+*  Black Sea and the grain shipments? [[00:05:08](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=308.16s)]
+*  Well, the Black Sea is important for Ukraine because before the war it used the Black Sea [[00:05:10](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=310.08s)]
+*  to export huge amounts of grain, which also means that after the war started, customers [[00:05:16](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=316.16s)]
+*  of Ukrainian grain across the globe, they were hit by this as well because shipping [[00:05:23](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=323.64s)]
+*  became very dangerous, the Black Sea. [[00:05:29](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=329.64s)]
+*  Russia wants to be able to use the Black Sea to export its own products, including fertilizers. [[00:05:31](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=331.92s)]
+*  So the Black Sea matters to a lot of countries, not just Ukraine, not just Russia, but also [[00:05:37](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=337.84000000000003s)]
+*  customers of grain and fertilizer across the world, in Africa in particular. [[00:05:43](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=343.0s)]
+*  And that's why they spent the whole of yesterday really, 12 hours talking about this apparently. [[00:05:48](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=348.8s)]
+*  And that's why this first step, the ceasefire, if it ever happens, it can be seen as the [[00:05:55](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=355.8s)]
+*  first step towards a more comprehensive ceasefire. However optimistic this might look, but there's [[00:06:02](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=362.44s)]
+*  hope. [[00:06:10](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=370.2s)]
+*  And Vitaly, just on SWIFT, to try to understand what Russia wants, they're saying they want [[00:06:10](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=370.96000000000004s)]
+*  to be fully reconnected to SWIFT, which is a network that allows financial messaging [[00:06:15](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=375.52s)]
+*  between banks. But for them to be readmitted to SWIFT, do they not need European countries [[00:06:19](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=379.62s)]
+*  as well to agree to all this? [[00:06:24](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=384.86s)]
+*  Well this is a very complicated system of course, but America with its economic cloud [[00:06:27](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=387.22s)]
+*  and financial cloud, of course it can set the tone to what's going on. If America says [[00:06:33](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=393.86s)]
+*  it's okay to work with Russia, then of course other players in the market will probably [[00:06:39](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=399.06s)]
+*  listen to that and adjust their policy accordingly. [[00:06:44](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=404.74s)]
+*  So why is it so important to Moscow to get that? [[00:06:49](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=409.66s)]
+*  Well because it can't receive payments, it can't make payments via that crucial economic [[00:06:52](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=412.41999999999996s)]
+*  system, SWIFT, which essentially is used to move money. And if you can't work with payments, [[00:06:59](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=419.71999999999997s)]
+*  you can't export goods. [[00:07:07](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=427.06s)]
+*  Vitaly Shevchenko, thank you so much for coming down. Thank you. [[00:07:08](https://www.youtube.com/watch?v=hWqUJvCPCF8&t=428.46s)]

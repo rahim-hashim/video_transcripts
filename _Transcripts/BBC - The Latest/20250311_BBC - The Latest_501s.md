@@ -1,0 +1,113 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 501s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 115777
+Video Rating: None
+Video Description: Ukraine has said it is ready to accept a US proposal for an initial 30-day ceasefire with Russia, in a joint statement.
+ 
+Washington will also immediately restore intelligence sharing and "security assistance" to Ukraine.
+ 
+US Secretary of State Marco Rubio said "the ball is in the [Russians'] court", and he will take the offer to Moscow.
+
+Subscribe here: http://bit.ly/1rbfUog
+
+For more news, analysis and features visit: www.bbc.com/news 
+
+#Ukraine #Russia #BBCNews
+---
+
+# Ukraine says it is ready to accept 30-day ceasefire with Russia | BBC News
+**BBC - The Latest:** [March 11, 2025](https://www.youtube.com/watch?v=iuQGetTq_Nk)
+*  In the last half an hour, the United States has agreed to immediately lift its paws on [[00:00:00](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=0.0s)]
+*  intelligence sharing with Kiev and resume security assistance. The announcement came [[00:00:05](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=5.04s)]
+*  after eight hours of talks between senior American and Ukrainian officials in Saudi [[00:00:10](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=10.120000000000001s)]
+*  Arabia. In a joint statement, Ukraine backed a U.S. proposal for an immediate 30-day ceasefire [[00:00:15](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=15.24s)]
+*  subject to the agreement of Russia. The U.S. Secretary of State Marco Rubio told journalists [[00:00:22](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=22.44s)]
+*  in Jeddah that the ball is now in Russia's court. [[00:00:27](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=27.68s)]
+*  It's a terrible war, a costly war, a bloody war, and his number one interest is ending [[00:00:30](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=30.72s)]
+*  this war once and for all. Today we made an offer that the Ukrainians have accepted, which [[00:00:39](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=39.44s)]
+*  is to enter into a ceasefire and into immediate negotiations to end this conflict in a way [[00:00:44](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=44.72s)]
+*  that's enduring and sustainable and accounts for their interests, their security, their [[00:00:50](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=50.4s)]
+*  ability to prosper as a nation. I want to personally thank, we both want to thank the [[00:00:54](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=54.88s)]
+*  Kingdom of Saudi Arabia, His Majesty, for hosting us, for making this possible. They've been [[00:00:59](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=59.24s)]
+*  instrumental in this process and we're very grateful to them for hosting us here today. [[00:01:02](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=62.88s)]
+*  And hopefully we'll take this offer now to the Russians. And we hope that they'll say [[00:01:06](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=66.80000000000001s)]
+*  yes, that they'll say yes to peace. The ball is now in their court. But again, the President's [[00:01:10](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=70.80000000000001s)]
+*  objective here is, number one, above everything else, he wants the war to end. And I think [[00:01:16](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=76.0s)]
+*  today Ukraine has taken a concrete step in that regard. We hope the Russians will reciprocate. [[00:01:20](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=80.84s)]
+*  Well, just to add to the Secretary's comments, the Ukrainian delegation today made something [[00:01:27](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=87.32000000000001s)]
+*  very clear, that they share President Trump's vision for peace. They share his determination [[00:01:33](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=93.80000000000001s)]
+*  to end the fighting, to end the killing, to end the tragic meat grinder of people and [[00:01:41](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=101.16s)]
+*  national treasure that's happening on the front end in Ukraine, number one. Number two, [[00:01:49](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=109.56s)]
+*  they made concrete steps and concrete proposals, not only accepting our proposal for a full [[00:01:58](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=118.12s)]
+*  ceasefire, which you can see the details of which are in our joint statement that we released [[00:02:06](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=126.9s)]
+*  together, but we also got into substantive details on how this war is going to permanently [[00:02:13](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=133.24s)]
+*  end, what type of guarantees they're going to have for their long-term security and prosperity, [[00:02:19](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=139.8s)]
+*  but also really looking at what it's going to take to finally end this horrific fighting. [[00:02:28](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=148.44s)]
+*  And our State Department correspondent, Tom Bateman, is in Jeddah and gave me his first [[00:02:37](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=157.68s)]
+*  reaction to the news. [[00:02:42](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=162.36s)]
+*  Well, I think there's two really striking things out of this joint statement between [[00:02:43](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=163.96s)]
+*  the Ukrainians and the Americans. The first is about the proposal for a ceasefire itself, [[00:02:48](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=168.84s)]
+*  because what we had been hearing in the run-up to these discussions was the idea of a Ukrainian [[00:02:54](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=174.04000000000002s)]
+*  proposition for a limited, partial, early truce that would mean a halt to long-range [[00:02:59](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=179.20000000000002s)]
+*  missile fire and a cessation of hostilities at sea. But what we're seeing in this statement [[00:03:06](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=186.72s)]
+*  is what's described as an American proposal and something much broader, basically a complete [[00:03:12](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=192.07999999999998s)]
+*  ceasefire to the war, describing it as this, Ukraine expressed its readiness to accept [[00:03:17](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=197.32s)]
+*  the U.S. proposal to enact an immediate, interim, 30-day ceasefire, which could then be extended. [[00:03:23](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=203.56s)]
+*  But of course, the key point is you've only got one side agreeing to that in terms of [[00:03:29](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=209.28s)]
+*  Ukraine. It has to be taken to the Russians to see if they would sign up to that as well. [[00:03:35](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=215.0s)]
+*  So that's a critical next step. And the other really important thing in this, of course, [[00:03:39](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=219.8s)]
+*  is that the United States, it says, will immediately lift the pause on intelligence sharing and [[00:03:45](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=225.32s)]
+*  resume security assistance to Ukraine. So that was that fundamental moment last week [[00:03:50](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=230.04s)]
+*  where President Trump ordered a halt to assistance to Ukraine, to, in Mr. Rubio's words, tried [[00:03:54](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=234.92000000000002s)]
+*  to use all the tools at his disposal to get a peace process, as they describe it, going. [[00:04:02](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=242.39999999999998s)]
+*  But that basically meant trying to sort of arm wrench the Ukrainians to get them to the [[00:04:08](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=248.39999999999998s)]
+*  table and do this. And just one other thing in the joint statement that I think is interesting [[00:04:11](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=251.76s)]
+*  and important is that there's a line about the gratitude of the Ukrainians, talking about [[00:04:15](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=255.92s)]
+*  the Ukrainian people's strong gratitude to President Trump, the U.S. Congress, and the [[00:04:23](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=263.2s)]
+*  people of the United States for making possible meaningful progress towards peace. Remember [[00:04:27](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=267.0s)]
+*  that moment in the Oval Office? Remember JD Vance saying, you haven't said thank you? [[00:04:31](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=271.32s)]
+*  Well, of course, Mr. Zelensky has said thank you dozens and dozens of times to the Americans. [[00:04:35](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=275.04s)]
+*  That became a moment which symbolized the profound fracture in this relationship, the [[00:04:41](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=281.56s)]
+*  dressing down of Mr. Zelensky by the Trump administration, his ejection from the White [[00:04:47](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=287.68s)]
+*  House. And what we're seeing here is a very clear desire by the Ukrainians to try and [[00:04:52](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=292.56s)]
+*  get that relationship back on track, and they're saying thank you. [[00:04:58](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=298.64s)]
+*  And Tom, interestingly, Mr. Rubio also reiterating the fact that there is no deadline, there's [[00:05:04](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=304.03999999999996s)]
+*  no kind of plan in that sense. The main point really of what he wanted to underline was [[00:05:09](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=309.56s)]
+*  that the shooting stops. He literally said, didn't he, that I just want the shooting to [[00:05:15](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=315.56s)]
+*  stop and for us move forward from that point. [[00:05:19](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=319.24s)]
+*  Yeah, I mean, remember President Trump, in terms of his foreign policy, was elected on [[00:05:23](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=323.92s)]
+*  a pledge to end this war. He said one day he would do it. He wants to be seen as a dealmaker, [[00:05:28](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=328.32s)]
+*  as a peacemaker. And that's what we're seeing reflected there by his Secretary of State [[00:05:35](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=335.96000000000004s)]
+*  and his national security advisors, a very strong desire to do that. The problem is, [[00:05:40](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=340.44s)]
+*  and this is where the Europeans have been very and increasingly vocal over the last [[00:05:45](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=345.92s)]
+*  week or two, is that what they're really worried about is that by going to the Russians, [[00:05:50](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=350.32s)]
+*  re-engaging them, normalizing diplomatic relations with them, and trying to get a ceasefire before [[00:05:55](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=355.36s)]
+*  you negotiate a mechanism to enforce it is only going to empower and embolden the Russians. [[00:06:02](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=362.2s)]
+*  And that's been the big concern of the Ukrainians. If you move towards just say, OK, you know, [[00:06:07](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=367.92s)]
+*  the sort of American arm-wrenching pushes a very quick truce, but without a security [[00:06:12](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=372.56s)]
+*  guarantee for the Ukrainians. That's what they've always said they feel extremely vulnerable [[00:06:18](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=378.36s)]
+*  about because their theory is that Vladimir Putin would simply use that time to rearm, [[00:06:23](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=383.08000000000004s)]
+*  to reconstitute his forces, perhaps wait a bit of time, a year or two, maybe until after [[00:06:29](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=389.68s)]
+*  the American midterms, maybe until President Trump has less political capital, and then [[00:06:36](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=396.8s)]
+*  you have a strengthened Russia, no meaningful way to police a ceasefire. And the European [[00:06:41](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=401.04s)]
+*  fear is that Vladimir Putin comes back in and tries perhaps to go even further. But [[00:06:46](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=406.28s)]
+*  we are seeing the American desire to get to, they call it an immediate ceasefire, 30-day [[00:06:50](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=410.91999999999996s)]
+*  ceasefire, very quickly. And it's reported that Steve Wicoff, President Trump's envoy, [[00:06:55](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=415.76s)]
+*  will travel to Moscow this week for the second time in a month, potentially to meet Vladimir [[00:07:01](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=421.84s)]
+*  Putin. They want to put all of this now to the Russians and see if they will engage on [[00:07:05](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=425.96s)]
+*  this process too. [[00:07:10](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=430.96s)]
+*  Well, that's Tom Bateman, who is there in Jeddah. He's been covering the talks there. [[00:07:13](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=433.08s)]
+*  And in the last few moments, we've had some reaction from President Trump through the [[00:07:18](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=438.2s)]
+*  Reuters news agency. And he has said this. He said, we want to get the Ukraine war over [[00:07:22](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=442.64s)]
+*  with. He's gone on to say, we're going to meet with Russia later on today or tomorrow. [[00:07:28](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=448.03999999999996s)]
+*  And he's also said that hopefully Russia will agree to a ceasefire. And in the last few [[00:07:33](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=453.44s)]
+*  minutes, also, we've heard from Ukraine saying that the Ukraine and US have taken an important [[00:07:40](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=460.15999999999997s)]
+*  step towards peace. But President Zelensky is saying it's up to the US to convince Russia [[00:07:46](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=466.28s)]
+*  to agree to a ceasefire. Remember, Marco Rubio very clearly saying to reporters in that [[00:07:53](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=473.68s)]
+*  press briefing that the ceasefire is about stopping the shooting, but the ball is in [[00:08:01](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=481.08s)]
+*  the Russians court and that he will take this offer to Moscow. And that is one of the [[00:08:08](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=488.12s)]
+*  main takeaways from this is will the Russians accept this offer in the same way that the [[00:08:14](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=494.56s)]
+*  Ukrainians have? [[00:08:19](https://www.youtube.com/watch?v=iuQGetTq_Nk&t=499.88s)]

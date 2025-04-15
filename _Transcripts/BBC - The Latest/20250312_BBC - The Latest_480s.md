@@ -1,0 +1,107 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 480s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news', 'US', 'United', 'States', 'tariffs', 'Trump', 'President', 'drug', 'fentanyl', 'opiod', 'heroin', 'Mexico', 'cartels', 'killings', 'murder', 'violence', 'gangs', 'vice', 'police', 'border', 'smuggled', 'smugglers', 'smuggling', 'addicts', 'American', 'overdose', 'deaths', 'misery', 'addiction', 'money', 'died', 'sick', 'desperate', 'deadly', 'trade', 'sale', 'illegal', 'criminal', 'crime', 'profits', 'Quentin', 'Sommerville', 'Darren', 'Conway', 'greed', 'guilt', 'protection', 'bribery', 'corruption', 'buy', 'steal', 'Canada', 'China']
+Video Views: 159929
+Video Rating: None
+Video Description: President Trump says he’s imposing tariffs on Mexico, Canada and China in part because they’re failing to prevent the smuggling of the synthetic opioid fentanyl into the United States.
+
+Fentanyl is used in medical settings for pain relief but when it’s abused the drug is deadly.  Fentanyl killed more than 70,000 Americans in 2023 alone.   Most of it is made in Mexico and smuggled across the border into the US.
+
+Reeta Chakrabarti presents BBC News at Ten reporting by Quentin Sommerville and camera-journalist Darren Conway.
+
+
+Subscribe here: http://bit.ly/1rbfUog
+
+For more news, analysis and features visit: www.bbc.com/news 
+
+#BBCNews
+---
+
+# From Mexico's drug cartels to US streets - the deadly Fentanyl  trade killing thousands | BBC News
+**BBC - The Latest:** [March 12, 2025](https://www.youtube.com/watch?v=efQrvq_ZQxk)
+*  Tariffs are part of the president's ambitions to make America richer, but also to force [[00:00:00](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=0.0s)]
+*  China, Mexico and Canada to step up efforts to stop the flow of illegal immigrants and [[00:00:05](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=5.28s)]
+*  illegal drugs into the US. Fentanyl killed more than 70,000 Americans in 2023 alone. [[00:00:11](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=11.24s)]
+*  Most of it is made in Mexico and smuggled across the border. Our correspondent Quentin [[00:00:19](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=19.48s)]
+*  Somerville and camera journalist Darren Conway have spoken to members of the drugs gangs [[00:00:24](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=24.04s)]
+*  in Mexico and seen close up the impact that Fentanyl is having in the US. [[00:00:29](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=29.26s)]
+*  Where Mexico and the United States meet, the ground is shifting. It's Saturday night and [[00:00:35](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=35.7s)]
+*  every drug, every vice is served on the streets of Tijuana. Here it's dangerous being a cop, [[00:00:43](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=43.82s)]
+*  so for their own safety, they keep their faces covered when they're on patrol. This small [[00:00:52](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=52.540000000000006s)]
+*  time dealer is caught with a dozen wraps of coke and some meth. These are still good [[00:00:59](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=59.06s)]
+*  business for the cartels, but nothing makes them money like Fentanyl. But this deadly [[00:01:05](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=65.14s)]
+*  business and the cartels are now attracting attention like never before. If Mexico can't [[00:01:11](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=71.74000000000001s)]
+*  get a grip on its criminals, America says it will do it for them. [[00:01:18](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=78.82000000000001s)]
+*  This is cartel country, the heart of the Fentanyl trade. The drug is 50 times more [[00:01:24](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=84.92s)]
+*  potent than heroin, 100 times more powerful than morphine. Tonight we're going to meet [[00:01:31](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=91.16s)]
+*  the men behind the trade, which is killing tens of thousands of Americans every year. [[00:01:37](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=97.32000000000001s)]
+*  We're just coming up to their neighborhood and you can't be seen filming around here. [[00:01:44](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=104.16s)]
+*  Obviously they don't want us to give away their location. [[00:01:50](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=110.16s)]
+*  The US has these men in its sights. Their cartel has just been declared a terrorist [[00:01:54](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=114.48s)]
+*  organization. But despite the threats, they say it's business as usual. This one batch [[00:02:01](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=121.24000000000001s)]
+*  could possibly kill thousands. At their request, their voices have been altered. [[00:02:09](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=129.04s)]
+*  Yeah, it's a very dangerous drug. It's very deadly. More than that, if you don't know [[00:02:15](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=135.56s)]
+*  how to use it, yeah, you're going to be in big trouble. [[00:02:23](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=143.11999999999998s)]
+*  Why do you sell Fentanyl? [[00:02:26](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=146.6s)]
+*  It's not that I want to do it. People ask for that, you know. And I know it's bad. But [[00:02:31](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=151.39999999999998s)]
+*  that's what they're asking. That's what they want. [[00:02:37](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=157.23999999999998s)]
+*  Do you ever feel guilty about all the people that it's killing? [[00:02:40](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=160.23999999999998s)]
+*  Yeah, yeah. But if I don't do it, anybody's going to do it. I don't feel guilty for all [[00:02:47](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=167.56s)]
+*  the people, you know. That's the truth. Yeah. I feel guilty because we have family too, [[00:02:54](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=174.24s)]
+*  like you, like everybody, you know. Of course we feel guilty, but if I stop, it's going [[00:03:03](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=183.24s)]
+*  to continue. It's not my problem, you know. [[00:03:08](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=188.68s)]
+*  This shipment will go through a legal border crossing in the fuel tank of this car, right [[00:03:13](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=193.12s)]
+*  under the noses of US Customs officers. [[00:03:21](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=201.44s)]
+*  This is just one car, one driver, 5,000 pills. The same thing is happening in hundreds of [[00:03:27](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=207.0s)]
+*  safe houses all across this border, ready to flood America with more Fentanyl. And the [[00:03:35](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=215.04000000000002s)]
+*  men here tell us that this trade is unstoppable. Mr Trump, he's determined to stop the drugs [[00:03:41](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=221.92s)]
+*  trade. [[00:03:50](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=230.92s)]
+*  Yeah. Well, last time he was in office, he tried to do the same thing and never happened. [[00:03:51](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=231.92s)]
+*  So I think it's never going to end. There's always going to be a demand. Where's the biggest [[00:03:58](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=238.6s)]
+*  demand? The United States. [[00:04:04](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=244.23999999999998s)]
+*  And there is no greater demand in the United States than in Philadelphia's Kensington Avenue. [[00:04:07](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=247.48000000000002s)]
+*  Here, Roz Pichardo refuses to be a bystander in America's opioid crisis. [[00:04:13](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=253.28s)]
+*  Hey, mom. You good? You got to pull your pants up. [[00:04:19](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=259.0s)]
+*  She was laid out. Well, it's a drug. Like, once you take it, you're going to fall out [[00:04:22](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=262.92s)]
+*  wherever. And that's kind of where she ended up, on a sidewalk like that. That shouldn't [[00:04:30](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=270.0s)]
+*  be normal. That shouldn't be normal at all. We can keep walking. I'm going to get off [[00:04:37](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=277.12s)]
+*  this block right here. [[00:04:43](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=283.48s)]
+*  She runs a drop-in center for addicts. She's literally part of the fabric of the neighborhood. [[00:04:45](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=285.02s)]
+*  She says she'll never leave. [[00:04:51](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=291.66s)]
+*  I still got my bun on. It's kind of cool, right? [[00:04:53](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=293.2s)]
+*  The war on drugs is being lost on America's streets. There are casualties on every corner. [[00:04:59](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=299.16s)]
+*  The fentanyl and the tranquilizer xylazine are used openly. [[00:05:06](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=306.40000000000003s)]
+*  Sir, you got to get up. You got the turnstile. Yo. He's OK. [[00:05:10](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=310.48s)]
+*  This stuff is so deadly. And if you're not used to this supply, it can be very, very [[00:05:22](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=322.48s)]
+*  addictive, dangerous and stuff. [[00:05:28](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=328.52000000000004s)]
+*  So here at Sunshine House, where users are at their most desperate, most vulnerable, [[00:05:31](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=331.6s)]
+*  Rose dispenses hugs. [[00:05:39](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=339.88s)]
+*  I don't know how to do that. That was so much. This is so much helpful for us. I really appreciate [[00:05:41](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=341.88s)]
+*  this place being here. I do. [[00:05:49](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=349.04s)]
+*  It's somewhere safe for those trapped in addiction. [[00:05:52](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=352.32s)]
+*  Treat us like we're human beings. [[00:05:55](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=355.92s)]
+*  For John, it's been a lifeline. [[00:05:58](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=358.44s)]
+*  I've been in this city all my life. The fentanyl, the opioid epidemic, is the worst I've ever [[00:06:01](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=361.08s)]
+*  seen. And this fentanyl will get you so hooked on it. In fact, you have to get more. So they [[00:06:09](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=369.76s)]
+*  put it in everything. [[00:06:18](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=378.08s)]
+*  Fentanyl has cost them so much. [[00:06:21](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=381.15999999999997s)]
+*  I get really emotional when I talk about some stuff. [[00:06:22](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=382.88s)]
+*  But here, when they collapse, there's someone around to pick them back up again. [[00:06:28](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=388.2s)]
+*  It's just a chair. Everyone's good. She didn't bump her head. We're good. [[00:06:33](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=393.28s)]
+*  This disease is going to be the death of me if I don't get it together because I sink [[00:06:38](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=398.47999999999996s)]
+*  deeper and deeper into a pit. [[00:06:45](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=405.44s)]
+*  John's whole life is in the suitcase he drags through the streets. He's survived one fentanyl [[00:06:48](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=408.76s)]
+*  overdose already, but at 56, he doesn't think he'll survive another. [[00:06:55](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=415.44s)]
+*  The problem that we have with the war on drugs is it didn't work then. I don't believe it's [[00:07:00](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=420.76s)]
+*  going to work now. [[00:07:06](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=426.64s)]
+*  Roz battles on the streets every day against fentanyl overdoses. And despite America's [[00:07:09](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=429.08s)]
+*  pressure on Mexico, she doesn't expect that to change any time soon. [[00:07:15](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=435.54s)]
+*  When there's one substance taken away, there's another substance that will replace it. So [[00:07:21](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=441.24s)]
+*  when there was heroin, now there's no more. Now there's fentanyl. When there's no fentanyl, [[00:07:26](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=446.64s)]
+*  now it's going to be xylosing. So it's like they'll find a way to keep people addicted [[00:07:33](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=453.88s)]
+*  so that people can make money off of people, off of the suffering of people. [[00:07:39](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=459.08s)]
+*  This young woman found overdosed was later revived. The grim reality is though that [[00:07:45](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=465.64s)]
+*  America's opioid dependency is just as dangerous as Mexico's cartels. [[00:07:51](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=471.59999999999997s)]
+*  Quentin Somerville, BBC News. [[00:07:58](https://www.youtube.com/watch?v=efQrvq_ZQxk&t=478.03999999999996s)]

@@ -1,0 +1,133 @@
+---
+Date Generated: April 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 436s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news', 'Goma', 'DR Congo', 'Congo', 'M23 Rebels']
+Video Views: 205859
+Video Rating: None
+Video Description: Rebels have reportedly taken over much of the key city of Goma in the east of the Democratic Republic of Congo, following three days of intense fighting between M23 rebels and the army and its allies.
+ 
+Rwanda has been accused of backing the Tutsi-led M23 rebel group in recent months, but the neighbouring country has denied giving the rebels any direct military support.
+ 
+Kenyan leader William Ruto had invited DR Congo President Félix Tshisekedi and his Rwandan counterpart Paul Kagame to a virtual summit aimed at ending the fighting, later on Wednesday.
+ 
+But state media said Tshisekedi will not take part in the regionally brokered talks.
+ 
+Rwandan government spokeswoman Yolande Makolo said Rwanda would take part in the summit, but did not say whether Kagame would attend.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#DRCongo #BBCNews
+---
+
+# DR Congo rebels reportedly capture most of Goma | BBC News
+**BBC - World News:** [January 29, 2025](https://www.youtube.com/watch?v=1nnVTmbQKK8)
+*  Hello, I'm Anita McVeigh. [[00:00:00](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=0.0s)]
+*  And let's continue with our look at the fighting in the Democratic Republic of Congo, where [[00:00:02](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=2.36s)]
+*  M23 rebels appear to have captured almost all of its largest city, Goma. [[00:00:07](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=7.96s)]
+*  Rwanda's ambassador has said the armed group will continue beyond the city. [[00:00:13](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=13.32s)]
+*  This is the scene at the Rwandan border, where thousands are seeking safety, closely guarded [[00:00:17](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=17.86s)]
+*  by rebel forces. [[00:00:23](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=23.56s)]
+*  It follows three days of intense fighting. [[00:00:25](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=25.16s)]
+*  More than 100 people have been killed and nearly 1,000 wounded in the clashes. [[00:00:27](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=27.6s)]
+*  As thousands of displaced people head to the border, there are growing calls worldwide [[00:00:32](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=32.6s)]
+*  for a ceasefire. [[00:00:36](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=36.44s)]
+*  But despite this, there has been no confirmation from the leaders of the DRC or Rwanda as to [[00:00:37](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=37.96s)]
+*  whether they will attend an emergency meeting hosted by the Kenyan president. [[00:00:43](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=43.36s)]
+*  State media in the Democratic Republic of Congo is reporting that President Felix Chisake [[00:00:48](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=48.120000000000005s)]
+*  will not attend. [[00:00:53](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=53.28s)]
+*  Our senior Africa correspondent, Anne Soi, has been telling me to what extent the rebel [[00:00:55](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=55.96s)]
+*  fighters have seized control. [[00:00:59](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=59.82s)]
+*  To a large extent, when you look at the city of Goma, they appear to be controlling much [[00:01:01](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=61.76s)]
+*  of it, including the airport. [[00:01:08](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=68.32s)]
+*  This is a city of 2 million people. [[00:01:10](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=70.28s)]
+*  It's the largest city in eastern Congo, and therefore it is a significant step. [[00:01:12](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=72.88s)]
+*  It's a significant step for them. [[00:01:18](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=78.36s)]
+*  seen pictures from the other side of the border in Rwanda of European military contractors. [[00:01:21](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=81.4s)]
+*  We are told they are from Romania, who are being disarmed and being processed by Rwandese [[00:01:28](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=88.76s)]
+*  security. [[00:01:34](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=94.08000000000001s)]
+*  And we are told that they are being sent back home. [[00:01:35](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=95.88000000000001s)]
+*  The allegation is that they have been fighting along the Congolese army in support of President [[00:01:39](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=99.12s)]
+*  Chisake in the east of the country. [[00:01:44](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=104.48s)]
+*  When you speak to the ambassador that you quoted, the Rwandese ambassador to the Great [[00:01:47](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=107.52s)]
+*  Lakes, Vincent Kagera, he did confirm that he thinks the M23 will push on beyond Goma. [[00:01:53](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=113.88s)]
+*  He called it a stopover for them, probably towards Kinshasa. [[00:02:01](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=121.63999999999999s)]
+*  And as for those proposed talks between the DRC president and his Rwandan counterpart, [[00:02:07](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=127.03999999999999s)]
+*  There's been a lot of confusing information coming out so far today. [[00:02:12](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=132.56s)]
+*  What can you tell us about whether those talks will go ahead or not? [[00:02:18](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=138.96s)]
+*  The short answer is that we do not know. [[00:02:24](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=144.36s)]
+*  What we have heard from the Congolese side is that President Chisake is not keen to take [[00:02:27](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=147.16000000000003s)]
+*  part, is not going to take part in that effort by the Kenyan president, William Ruto, who [[00:02:33](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=153.20000000000002s)]
+*  is himself in Cairo for a two-day state visit. [[00:02:38](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=158.76000000000002s)]
+*  We also heard from the Rwandan side, though, that they were prepared to take part in those [[00:02:43](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=163.20000000000002s)]
+*  talks. [[00:02:48](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=168.32s)]
+*  So they seem to be in disarray at the moment. [[00:02:49](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=169.32s)]
+*  So it is not clear at all if they will happen today. [[00:02:51](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=171.32s)]
+*  There was a slight chance that they could, because we understood that there was a possibility [[00:02:54](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=174.96s)]
+*  they could happen virtually. [[00:03:00](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=180.60000000000002s)]
+*  But if President Chisake is not taking part, then we've heard that the Rwandans, his Rwandan [[00:03:01](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=181.84s)]
+*  counterpart will not. [[00:03:06](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=186.60000000000002s)]
+*  Anne, we've seen some pictures, which we understand to be pictures of private fighters, private [[00:03:09](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=189.51999999999998s)]
+*  soldiers going from the DRC into Rwanda. [[00:03:14](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=194.64s)]
+*  What can you tell us about that? [[00:03:18](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=198.35999999999999s)]
+*  Those are what we understand to be private military contractors, allegedly from Romania, [[00:03:22](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=202.6s)]
+*  who had been backing up the FARDC, the Congolese National Forces, who then surrendered. [[00:03:29](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=209.72s)]
+*  After they surrendered, then all these groups that were supporting them, including the UN [[00:03:37](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=217.56s)]
+*  peacekeepers and the South African force, which took heavy casualties from this advancement [[00:03:42](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=222.92000000000002s)]
+*  of the M23, they then had to step back, because they said, if the people that we have come [[00:03:50](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=230.0s)]
+*  to support, the soldiers who have come to support have surrendered, then this is not [[00:03:56](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=236.44s)]
+*  our fight. [[00:04:00](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=240.48000000000002s)]
+*  We have seen those pictures. [[00:04:02](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=242.16000000000003s)]
+*  They are said to be from Romania, and so they are going into Rwanda and then being sent [[00:04:03](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=243.88s)]
+*  back home. [[00:04:09](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=249.72s)]
+*  Anne, Soy reporting. [[00:04:10](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=250.72s)]
+*  Well, let's speak now to Greg Ram, who is country director for Save the Children for [[00:04:12](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=252.04s)]
+*  the Democratic Republic of Congo. [[00:04:16](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=256.68s)]
+*  He joins us now from Kinshasa. [[00:04:18](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=258.56s)]
+*  Greg, thank you very much for your time today. [[00:04:20](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=260.28s)]
+*  Around three million people live in Goma, and about half of those are children. [[00:04:23](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=263.71999999999997s)]
+*  What are conditions like for them right now? [[00:04:29](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=269.15999999999997s)]
+*  Good afternoon, Anita, and thanks for talking with us. [[00:04:32](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=272.52s)]
+*  The conditions are absolutely horrific. [[00:04:36](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=276.48s)]
+*  Of those 1.5 million children in and around Goma, about 500,000 had fled from other places, [[00:04:39](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=279.68s)]
+*  seeking safe, what they thought was a safe place in Goma, and seeking humanitarian assistance. [[00:04:46](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=286.08s)]
+*  Now they have witnessed some of the most horrific fighting that Eastern Congo has seen in many [[00:04:51](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=291.96s)]
+*  years, heavy weapons, machine gun fire, shooting everywhere. [[00:04:57](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=297.96000000000004s)]
+*  It is a horrific situation. [[00:05:02](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=302.8s)]
+*  Many children lacking shelter, lacking food, water, the basics they need to survive. [[00:05:05](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=305.20000000000005s)]
+*  And also you have huge concerns about violence against children, assaults against children, [[00:05:11](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=311.24s)]
+*  and Save the Children saying there actually isn't anywhere safe for them to go. [[00:05:17](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=317.28000000000003s)]
+*  I mean, that is the huge problem. [[00:05:20](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=320.92s)]
+*  What is the charity trying to do to create some sort of safe places for these children? [[00:05:22](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=322.84s)]
+*  Greg? [[00:05:33](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=333.15999999999997s)]
+*  Well, that's what we have been doing in and around Goma, in the campus. [[00:05:34](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=334.15999999999997s)]
+*  Yep. [[00:05:38](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=338.59999999999997s)]
+*  Sorry, Greg. [[00:05:39](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=339.59999999999997s)]
+*  We thought we'd lost the sound, which is why it started to speak again. [[00:05:40](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=340.59999999999997s)]
+*  So please continue. [[00:05:43](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=343.2s)]
+*  Sorry, we have a bit of internet challenges here. [[00:05:48](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=348.2s)]
+*  That's what we've been doing, is establishing safe places for children in the displacement [[00:05:53](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=353.15999999999997s)]
+*  camps, places to regain a bit of childhood. [[00:05:56](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=356.84s)]
+*  At the moment, what is needed most in Goma is for the conflict to end, for there to be [[00:05:59](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=359.47999999999996s)]
+*  peace, for there to be humanitarian access. [[00:06:03](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=363.2s)]
+*  So Save the Children and other humanitarian organizations can get back to doing their [[00:06:06](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=366.03999999999996s)]
+*  work to helping protect children in Goma and throughout Eastern Congo. [[00:06:10](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=370.28s)]
+*  And obviously as a charity, you are appealing to all of those with political power to take [[00:06:15](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=375.52s)]
+*  part in talks to do whatever it needs to bring some semblance of stability and peace [[00:06:20](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=380.56s)]
+*  to the situation. [[00:06:25](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=385.92s)]
+*  Yes, I only got the last bit of that. [[00:06:30](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=390.92s)]
+*  Sorry that cut out. [[00:06:32](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=392.32s)]
+*  But yes, what we need, what we need is everybody involved to fight on behalf of the children [[00:06:33](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=393.32s)]
+*  in Goma caught in the fighting. [[00:06:38](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=398.12s)]
+*  We need peace. [[00:06:39](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=399.4s)]
+*  We need international community. [[00:06:40](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=400.4s)]
+*  There have been multiple now Security Council meetings asking the warring parties to stop [[00:06:41](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=401.4s)]
+*  the fighting to find another solution. [[00:06:48](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=408.92s)]
+*  And we need the children and their families that need electricity back on, they need water, [[00:06:52](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=412.12s)]
+*  they need to be able to get food, they need to be able to get health care. [[00:06:58](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=418.44s)]
+*  That's what Save the Children has been doing in Goma and in the surrounding areas and we [[00:07:02](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=422.28s)]
+*  need to get back to that work. [[00:07:05](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=425.88s)]
+*  Okay, Greg, I appreciate you getting through those connectivity issues for us. [[00:07:07](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=427.52s)]
+*  Greg Ram, Country Director at Save the Children for the Democratic Republic of Congo. [[00:07:11](https://www.youtube.com/watch?v=1nnVTmbQKK8&t=431.96s)]
