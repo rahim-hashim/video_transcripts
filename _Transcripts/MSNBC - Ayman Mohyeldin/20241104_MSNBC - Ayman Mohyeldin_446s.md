@@ -1,0 +1,147 @@
+---
+Date Generated: April 15, 2025
+Transcription Model: whisper medium 20231117
+Length: 446s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 215287
+Video Rating: None
+Video Description: Donald Trump's nephew, Fred Trump III, has a message about his uncle in the days leading up to the election. MSNBC's Ayman Mohyeldin speaks with Trump about the former president's comments about his disabled son, his insights into the former president's violent rhetoric, and concerns about another Trump presidency.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #KamalaHarris #Politics
+---
+
+# Trump's nephew, Fred Trump III, says he’s voting for Kamala Harris
+**MSNBC - Ayman Mohyeldin:** [November 04, 2024](https://www.youtube.com/watch?v=CXcw2IDxdrE)
+*  The Harris campaign has decided to keep it fully positive until the end. [[00:00:00](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=0.0s)]
+*  A senior campaign official tells NBC News that Harris's East Lansing rally today at [[00:00:05](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=5.0s)]
+*  Michigan State is the first since Harris became the nominee that she did not mention Trump [[00:00:09](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=9.120000000000001s)]
+*  by name. [[00:00:13](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=13.88s)]
+*  What a statement about the moment we are in, about the toxic form of politics that Donald [[00:00:15](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=15.16s)]
+*  Trump has normalized in this country. [[00:00:19](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=19.68s)]
+*  And someone who has seen Trump's vile nature firsthand is my next guest, his nephew, Fred [[00:00:22](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=22.080000000000002s)]
+*  Trump III. [[00:00:27](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=27.04s)]
+*  He's featured in a new ad put out by a disability rights group. [[00:00:28](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=28.48s)]
+*  Watch. [[00:00:31](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=31.68s)]
+*  This is my uncle Donald and this is my son William. [[00:00:32](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=32.68s)]
+*  My dad died in 1981. [[00:00:40](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=40.28s)]
+*  Donald was named my trustee. [[00:00:42](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=42.760000000000005s)]
+*  I needed to talk to him about William's son. [[00:00:44](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=44.72s)]
+*  He said, your son doesn't recognize you. [[00:00:46](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=46.760000000000005s)]
+*  Let him die and move down to Florida. [[00:00:49](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=49.519999999999996s)]
+*  William loves music. [[00:00:53](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=53.2s)]
+*  He loves to swim. [[00:00:54](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=54.46s)]
+*  He loves to eat. [[00:00:55](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=55.64s)]
+*  If Donald knew William, maybe you would have a different appreciation for those who have [[00:00:57](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=57.04s)]
+*  disabilities. [[00:01:01](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=61.92s)]
+*  With me now is Fred Trump, the third nephew of former president Donald Trump. [[00:01:04](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=64.48s)]
+*  He is also author of All in the Family, the Trumps and How We Got This Way. [[00:01:08](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=68.0s)]
+*  Fred, it's great to have you on the show. [[00:01:12](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=72.16s)]
+*  I'm sorry it has to be under these circumstances, but that was such a powerful ad. [[00:01:14](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=74.56s)]
+*  And I'm just kind of, how did it feel hearing that from your uncle about your son in 2020 [[00:01:18](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=78.6s)]
+*  when you met him? [[00:01:26](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=86.4s)]
+*  Well, as I say, and thank you again for having me, my first reaction was, no, Donald, he [[00:01:27](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=87.4s)]
+*  does recognize me. [[00:01:34](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=94.4s)]
+*  And what I think your viewers would, I'd like them to understand is Donald never met William, [[00:01:36](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=96.68s)]
+*  never asked to meet William. [[00:01:42](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=102.48s)]
+*  So how we could make a comment like that? [[00:01:43](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=103.76s)]
+*  How one person could say that about another human being, but about your grand nephew is [[00:01:45](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=105.76s)]
+*  beyond me. [[00:01:51](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=111.52000000000001s)]
+*  But it's not the first time. [[00:01:52](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=112.52000000000001s)]
+*  He said something to me in the Oval Office when I was with a group of advocates called [[00:01:53](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=113.88s)]
+*  Equally Alive. [[00:01:59](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=119.28s)]
+*  And when they all left the Oval Office I was with, Donald only said, the cause of those [[00:02:00](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=120.5s)]
+*  people, they should just die. [[00:02:07](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=127.03999999999999s)]
+*  Talking about a group of people that are human beings that need our help and our support, [[00:02:10](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=130.28s)]
+*  which is why whoever wins this election, I've in progress of starting a nonprofit called [[00:02:15](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=135.76s)]
+*  which I think will be impactful for such a large group of people, 60, 70 million strong. [[00:02:22](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=142.52s)]
+*  You certainly know Donald Trump more than most of us will ever know, certainly on a [[00:02:29](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=149.52s)]
+*  kind of more intimate level as a relative. [[00:02:34](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=154.0s)]
+*  But when you hear what he said to you and when you hear the rhetoric that has come out [[00:02:36](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=156.76s)]
+*  of him in recent days, even today about not wanting to leave the White House or the comments [[00:02:41](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=161.24s)]
+*  he has made about shooting through journalists or even comments against Liz Cheney, what [[00:02:46](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=166.24s)]
+*  do all of those points, from the stuff that you've personally experienced and the stuff [[00:02:51](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=171.16s)]
+*  that you're publicly hearing, what do they reveal to you about your uncle? [[00:02:55](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=175.35999999999999s)]
+*  You know, he always wants to win. [[00:03:01](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=181.96s)]
+*  There's no doubt. [[00:03:04](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=184.44s)]
+*  Look, I like to win too. [[00:03:05](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=185.44s)]
+*  As I mentioned to somebody, I'm an athlete, I'm a business guy, I love to win. [[00:03:06](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=186.44s)]
+*  But there's a point where giving up your character for the sake of winning and to turn [[00:03:13](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=193.0s)]
+*  to such vile comments and thoughts is just, well, it's embarrassing to me personally as [[00:03:22](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=202.32s)]
+*  a relative. [[00:03:29](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=209.48s)]
+*  You have said in the past that January 6th, and you've certainly met with him many times, [[00:03:31](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=211.2s)]
+*  that you said January 6th was a real turning point for you, as it was for many Americans [[00:03:34](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=214.92000000000002s)]
+*  who saw that and attribute what happened that day to the rhetoric of Donald Trump. [[00:03:39](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=219.64000000000001s)]
+*  But what scares you the most about a potentially second Trump presidency? [[00:03:44](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=224.8s)]
+*  I think what scares a lot of people, there are no, to use the word in vogue, guardrails [[00:03:51](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=231.04s)]
+*  anymore. [[00:03:58](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=238.72s)]
+*  Just think of the people that he is now surrounding himself with. [[00:04:00](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=240.2s)]
+*  There's no General Kelly. [[00:04:02](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=242.92000000000002s)]
+*  There's no General Mattis. [[00:04:04](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=244.72s)]
+*  There's Stephen Miller, Tom Hornman, and Rudy Giuliani coming back. [[00:04:07](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=247.64s)]
+*  Should scare anybody. [[00:04:15](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=255.35999999999999s)]
+*  This is the kind of debate I think a lot of Americans have, which is some are trying to [[00:04:18](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=258.36s)]
+*  say he's not as bad as he is portrayed in the media, the people that talk about his [[00:04:22](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=262.56s)]
+*  fascistic tendencies, the people who served under him who say he is a fascist to his core. [[00:04:28](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=268.32s)]
+*  They're either vengeful, they hate him, they don't know him, they don't like him. [[00:04:33](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=273.28s)]
+*  They're part of the swamp. [[00:04:37](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=277.24s)]
+*  You're saying to those people, no, these are all true descriptions of your uncle. [[00:04:38](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=278.76s)]
+*  I think they're true descriptions. [[00:04:45](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=285.6s)]
+*  I'm sorry to have to say that. [[00:04:47](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=287.12s)]
+*  And as I was quoted in an article, is it really worth the risk to think that he's just saying [[00:04:50](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=290.24s)]
+*  this to ramp up his base and that he's not going to go forward with it? [[00:04:57](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=297.16s)]
+*  I don't think it is. [[00:05:00](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=300.96000000000004s)]
+*  And you were mentioning in the lead up about Kamala Harris. [[00:05:02](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=302.72s)]
+*  I watched that Saturday live thing last night a couple of times with her and Maya Rudolph. [[00:05:05](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=305.6s)]
+*  And I actually smiled for the first time, maybe through this entire election cycle. [[00:05:10](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=310.64000000000004s)]
+*  It was just a happy thing. [[00:05:16](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=316.48s)]
+*  It made me laugh. [[00:05:18](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=318.72s)]
+*  I don't think anyone can laugh with Donald around. [[00:05:20](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=320.52000000000004s)]
+*  Yeah. [[00:05:23](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=323.40000000000003s)]
+*  So what is at stake, I guess, in this final 48 hours? [[00:05:24](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=324.40000000000003s)]
+*  What is the message that you would say to American people, to someone who might be out [[00:05:28](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=328.08000000000004s)]
+*  there undecided watching this right now, trying to weigh whether or not Donald Trump is someone [[00:05:31](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=331.68s)]
+*  they should entrust with their vote? [[00:05:38](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=338.84000000000003s)]
+*  I'll have to give a shout out to my mom, who was born and raised in Kalamazoo, Michigan. [[00:05:40](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=340.96s)]
+*  So I know Michael Moore was on before. [[00:05:45](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=345.04s)]
+*  She left me a message. [[00:05:47](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=347.16s)]
+*  And other than Donald's sister, Elizabeth, my mom has known Donald longer than anybody. [[00:05:48](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=348.48s)]
+*  She was there when Donald demeaned my father, when he hatched a plan to take my sister and [[00:05:53](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=353.6s)]
+*  me out of my grandfather's will, when he said what he did about William. [[00:06:00](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=360.08000000000004s)]
+*  She left me a message saying, I was talking to an old friend of mine from Wisconsin. [[00:06:04](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=364.24s)]
+*  Now, great Midwestern values. [[00:06:07](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=367.84000000000003s)]
+*  Please do whatever you can, Fred, to ensure, to let the people know the real Donald and [[00:06:11](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=371.0s)]
+*  the danger that really does exist. [[00:06:16](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=376.88s)]
+*  And what is that real Donald, if you had to describe it in one word? [[00:06:19](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=379.68s)]
+*  To me, I'm tired of it. [[00:06:24](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=384.88s)]
+*  I think the country is tired of it now. [[00:06:27](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=387.2s)]
+*  I will disagree with Michael. [[00:06:30](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=390.15999999999997s)]
+*  I don't think it's going to be a landslide popular vote difference. [[00:06:31](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=391.84s)]
+*  He's not going anywhere for a while. [[00:06:35](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=395.68s)]
+*  You think even if he loses Donald Trump and Trumpism will still be a presence in our country? [[00:06:38](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=398.03999999999996s)]
+*  Yeah, I do. [[00:06:42](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=402.48s)]
+*  Fred Trump III, thank you so much. [[00:06:45](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=405.24s)]
+*  I really appreciate having you on the show and sharing your insights with us. [[00:06:46](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=406.76s)]
+*  It's a historic moment. [[00:06:50](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=410.48s)]
+*  I think a lot of people need to just have some kind of insight in these final couple [[00:06:51](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=411.48s)]
+*  of days before they have to make this life-altering decision. [[00:06:58](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=418.04s)]
+*  I'm sorry I have to say that about a relative, but the country is more important. [[00:07:00](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=420.52000000000004s)]
+*  Sure is. [[00:07:03](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=423.88s)]
+*  Thank you so much. [[00:07:04](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=424.88s)]
+*  I really appreciate it. [[00:07:05](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=425.88s)]
+*  My pleasure. [[00:07:06](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=426.88s)]
+*  Thank you. [[00:07:21](https://www.youtube.com/watch?v=CXcw2IDxdrE&t=441.48s)]

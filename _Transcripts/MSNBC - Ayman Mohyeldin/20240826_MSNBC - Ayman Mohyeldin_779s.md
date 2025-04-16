@@ -1,0 +1,158 @@
+---
+Date Generated: April 15, 2025
+Transcription Model: whisper medium 20231117
+Length: 779s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 466791
+Video Rating: None
+Video Description: As poll after poll shows Kamala Harris ahead of Donald Trump nationally, Republicans are getting ready to build a pathway to challenge a potential Harris victory. MSNBC's Ayman Mohyeldin lays out how Georgia's Republican-controlled state election board approved a new rule that could throw the vote count into chaos this fall - and how the threat to democracy is not exclusive to Georgia.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#Trump #KamalaHarris #Politics
+---
+
+# The GOP's plan to challenge a Harris victory
+**MSNBC - Ayman Mohyeldin:** [August 26, 2024](https://www.youtube.com/watch?v=zbvVPEm52VY)
+*  Republicans are in a full state of panic. With each passing day, poll after poll shows Vice [[00:00:00](https://www.youtube.com/watch?v=zbvVPEm52VY&t=0.0s)]
+*  President Kamala Harris ahead of Trump nationally, 49 percent to his 46 percent. Harris managing to [[00:00:05](https://www.youtube.com/watch?v=zbvVPEm52VY&t=5.5200000000000005s)]
+*  lead Trump in swing states like Michigan and Wisconsin while narrowing his lead in Georgia. [[00:00:11](https://www.youtube.com/watch?v=zbvVPEm52VY&t=11.52s)]
+*  And we know what Trump leans on when faced with that polling. [[00:00:16](https://www.youtube.com/watch?v=zbvVPEm52VY&t=16.8s)]
+*  Our primary focus is not to get out the vote. It's to make sure they don't cheat, [[00:00:23](https://www.youtube.com/watch?v=zbvVPEm52VY&t=23.04s)]
+*  because we have all the votes you need. They are going to cheat like hell to win the election. [[00:00:27](https://www.youtube.com/watch?v=zbvVPEm52VY&t=27.36s)]
+*  The Republicans, however, are listening and building a pathway to challenge a potential [[00:00:34](https://www.youtube.com/watch?v=zbvVPEm52VY&t=34.96s)]
+*  Harris victory. In Georgia, the GOP-controlled state election board approved a new rule [[00:00:39](https://www.youtube.com/watch?v=zbvVPEm52VY&t=39.68s)]
+*  that could throw the state's vote count into chaos this fall, providing an additional avenue [[00:00:44](https://www.youtube.com/watch?v=zbvVPEm52VY&t=44.64s)]
+*  for election officials to delay certification of results should they choose to. As ProPublica [[00:00:49](https://www.youtube.com/watch?v=zbvVPEm52VY&t=49.6s)]
+*  reports, the rule was secretly pushed by the board, which consists of pro-Trump election deniers. [[00:00:55](https://www.youtube.com/watch?v=zbvVPEm52VY&t=55.2s)]
+*  And before the board approved it last week, nationally prominent conservative activists [[00:01:00](https://www.youtube.com/watch?v=zbvVPEm52VY&t=60.88s)]
+*  reportedly spoke in support of the rule, including a representative from, you guessed it, the Heritage [[00:01:05](https://www.youtube.com/watch?v=zbvVPEm52VY&t=65.68s)]
+*  Foundation. Now, this threat to democracy is not exclusive to Georgia. Over in Wisconsin, a Texas-based [[00:01:12](https://www.youtube.com/watch?v=zbvVPEm52VY&t=72.0s)]
+*  group called True the Vote is teaming up with sympathetic sheriffs to monitor polling locations [[00:01:18](https://www.youtube.com/watch?v=zbvVPEm52VY&t=78.08s)]
+*  and drop boxes. The group is known for peddling false claims of voter fraud in 2020. The group's [[00:01:23](https://www.youtube.com/watch?v=zbvVPEm52VY&t=83.84s)]
+*  co-founder says the program is, quote, mainly focused in Wisconsin, but we do have a scalable [[00:01:29](https://www.youtube.com/watch?v=zbvVPEm52VY&t=89.52000000000001s)]
+*  program. Trump is also getting help from a key ally, Matt Schlapp, head of the American [[00:01:35](https://www.youtube.com/watch?v=zbvVPEm52VY&t=95.04s)]
+*  Conservative Union Group and organizer of the annual CPAC conference. Last week, Schlapp sent [[00:01:39](https://www.youtube.com/watch?v=zbvVPEm52VY&t=99.52000000000001s)]
+*  a letter to officials in at least three states, Arizona, Georgia, and Wisconsin, laying out plans [[00:01:45](https://www.youtube.com/watch?v=zbvVPEm52VY&t=105.04s)]
+*  to monitor ballot drop boxes. In the letter obtained by the Washington Post, Schlapp warns [[00:01:50](https://www.youtube.com/watch?v=zbvVPEm52VY&t=110.32s)]
+*  Georgia Secretary of State Brad Raffensperger and Attorney General Chris Carr that, quote, [[00:01:55](https://www.youtube.com/watch?v=zbvVPEm52VY&t=115.27999999999999s)]
+*  failure to do so risks that the results of the November elections will be questioned by those [[00:02:00](https://www.youtube.com/watch?v=zbvVPEm52VY&t=120.39999999999999s)]
+*  who did not support the winning candidate. In case it is not obvious, Republicans are parting [[00:02:05](https://www.youtube.com/watch?v=zbvVPEm52VY&t=125.75999999999999s)]
+*  like it's 2020. Trump's efforts to overturn the election thankfully failed back then, despite all [[00:02:10](https://www.youtube.com/watch?v=zbvVPEm52VY&t=130.95999999999998s)]
+*  his efforts, including that infamous phone call for Georgia's Secretary of State to find the votes. [[00:02:17](https://www.youtube.com/watch?v=zbvVPEm52VY&t=137.12s)]
+*  Let's not forget the attempted coup on our Capitol. Since then, Trump's election denialism has only [[00:02:23](https://www.youtube.com/watch?v=zbvVPEm52VY&t=143.84s)]
+*  ramped up. He spent his time out of office primming his supporters for a loss in November. [[00:02:29](https://www.youtube.com/watch?v=zbvVPEm52VY&t=149.04s)]
+*  And don't forget key figures that saved democracy the last time around. They're now gone, like Mike [[00:02:35](https://www.youtube.com/watch?v=zbvVPEm52VY&t=155.6s)]
+*  Pence. Trump's allies are no doubt watching and ready to act. Listen to how Trump praised members [[00:02:40](https://www.youtube.com/watch?v=zbvVPEm52VY&t=160.48000000000002s)]
+*  of Georgia's election board earlier this month. The Georgia state election board is in a very [[00:02:46](https://www.youtube.com/watch?v=zbvVPEm52VY&t=166.96s)]
+*  positive way. This is a very positive thing, Marjorie. They're doing a great job. Three members, [[00:02:53](https://www.youtube.com/watch?v=zbvVPEm52VY&t=173.76000000000002s)]
+*  Janice Johnson, Rick Jeffries, and Janelle King, three people, are all pit bulls fighting for [[00:03:00](https://www.youtube.com/watch?v=zbvVPEm52VY&t=180.4s)]
+*  honesty, transparency, and victory. They're fighting. Joining me now, Anna Bauer, Fulton County [[00:03:09](https://www.youtube.com/watch?v=zbvVPEm52VY&t=189.04000000000002s)]
+*  correspondent at Lawfare, and Dave Ehrenberg, state attorney for Palm Beach County, Florida. [[00:03:14](https://www.youtube.com/watch?v=zbvVPEm52VY&t=194.88s)]
+*  It's great to have both of you with us. Anna, talk to us about this Georgia election board. [[00:03:19](https://www.youtube.com/watch?v=zbvVPEm52VY&t=199.35999999999999s)]
+*  It really went under the radar nationally. Now it's full blown. People are seeing it's too little, [[00:03:24](https://www.youtube.com/watch?v=zbvVPEm52VY&t=204.07999999999998s)]
+*  too late now to do anything about it. But Trump, as we just saw in that clip, referred to the board [[00:03:28](https://www.youtube.com/watch?v=zbvVPEm52VY&t=208.72s)]
+*  members as his, quote, pit bulls. What do we know about them and how far they are willing to go for [[00:03:32](https://www.youtube.com/watch?v=zbvVPEm52VY&t=212.88s)]
+*  him, so to speak, now that he's nationalized them and platformed them by calling them out, as we just [[00:03:40](https://www.youtube.com/watch?v=zbvVPEm52VY&t=220.07999999999998s)]
+*  saw in that clip? Right. So the state election board is an administrative body of unelected [[00:03:44](https://www.youtube.com/watch?v=zbvVPEm52VY&t=224.64s)]
+*  officials. They are able to set rules for elections within the state. However, they are somewhat [[00:03:51](https://www.youtube.com/watch?v=zbvVPEm52VY&t=231.51999999999998s)]
+*  limited in their ability to set those rules in that they have to be consistent with Georgia's [[00:03:58](https://www.youtube.com/watch?v=zbvVPEm52VY&t=238.95999999999998s)]
+*  statutes and what has been passed by the General Assembly, as well as Georgia case law. But we've [[00:04:04](https://www.youtube.com/watch?v=zbvVPEm52VY&t=244.79999999999998s)]
+*  recently had an interesting change within the state election board. It used to be controlled [[00:04:10](https://www.youtube.com/watch?v=zbvVPEm52VY&t=250.88s)]
+*  by a mix of a Democrat and then some more moderate Republicans, people who have policy positions [[00:04:16](https://www.youtube.com/watch?v=zbvVPEm52VY&t=256.4s)]
+*  around elections that are more akin to Brad Raffensperger, the Secretary of State of Georgia, [[00:04:24](https://www.youtube.com/watch?v=zbvVPEm52VY&t=264.08s)]
+*  who famously was on the phone call and the subject of many of Trump's attacks in 2020. [[00:04:29](https://www.youtube.com/watch?v=zbvVPEm52VY&t=269.92s)]
+*  But recently in the spring, there were changes to that board so that we now have three Trump-backed [[00:04:36](https://www.youtube.com/watch?v=zbvVPEm52VY&t=276.64000000000004s)]
+*  and Trump-praised, as you saw at that rally, election board members who have taken steps [[00:04:42](https://www.youtube.com/watch?v=zbvVPEm52VY&t=282.8s)]
+*  in recent weeks to change some of these election rules in ways that are consistent with policy [[00:04:49](https://www.youtube.com/watch?v=zbvVPEm52VY&t=289.04s)]
+*  positions that Trump and MAGA affiliates have wanted to move in terms of their so-called [[00:04:55](https://www.youtube.com/watch?v=zbvVPEm52VY&t=295.28000000000003s)]
+*  election integrity efforts. Dave, walk us through the chaos that something like this could create [[00:05:02](https://www.youtube.com/watch?v=zbvVPEm52VY&t=302.48s)]
+*  for the election if Vice President Harris does win in Georgia and then they push to delay [[00:05:08](https://www.youtube.com/watch?v=zbvVPEm52VY&t=308.48s)]
+*  certifying the vote. What does that sense of chaos do to the outcome? [[00:05:14](https://www.youtube.com/watch?v=zbvVPEm52VY&t=314.96000000000004s)]
+*  Eamon, that's really what they could do. It's chaos. It's a gum up the works. They're trying [[00:05:20](https://www.youtube.com/watch?v=zbvVPEm52VY&t=320.88s)]
+*  to delay things into so doubts in the minds of Georgians and Americans that there is somehow [[00:05:25](https://www.youtube.com/watch?v=zbvVPEm52VY&t=325.44s)]
+*  some ballot fraud. They're hoping eventually to cause Congress to jump in and to try to [[00:05:31](https://www.youtube.com/watch?v=zbvVPEm52VY&t=331.36s)]
+*  overturn the election. This is their plan. And the way we know this is that, as you and Anna pointed [[00:05:36](https://www.youtube.com/watch?v=zbvVPEm52VY&t=336.64s)]
+*  out, you saw that rally and Trump called out the three members of the board who were on his side. [[00:05:43](https://www.youtube.com/watch?v=zbvVPEm52VY&t=343.2s)]
+*  One of them was there at the rally taking a bow, living it up. I mean, that doesn't sound like [[00:05:51](https://www.youtube.com/watch?v=zbvVPEm52VY&t=351.2s)]
+*  nonpartisan, fair, objective election officials to me. So their whole intent is to help Donald [[00:05:56](https://www.youtube.com/watch?v=zbvVPEm52VY&t=356.72s)]
+*  Trump. Now, the good news is, is that the final say really is up to the governor and the secretary [[00:06:04](https://www.youtube.com/watch?v=zbvVPEm52VY&t=364.0s)]
+*  of state, Brad Raftesberger. They have proven based on the last election that they have no [[00:06:09](https://www.youtube.com/watch?v=zbvVPEm52VY&t=369.36s)]
+*  tolerance for Republican election shenanigans. But these local officials now are empowered to [[00:06:15](https://www.youtube.com/watch?v=zbvVPEm52VY&t=375.04s)]
+*  delay matters. And that could throw a wrench in the plans to get the certification in on time. [[00:06:20](https://www.youtube.com/watch?v=zbvVPEm52VY&t=380.72s)]
+*  You know, and according to the Washington Post, the Georgia election board has signaled, [[00:06:27](https://www.youtube.com/watch?v=zbvVPEm52VY&t=387.92s)]
+*  as I understand it, plans to adopt nearly a dozen additional rules in coming weeks, [[00:06:32](https://www.youtube.com/watch?v=zbvVPEm52VY&t=392.88000000000005s)]
+*  despite the warnings from state and local officials that the lateness of the calendar in which they're [[00:06:38](https://www.youtube.com/watch?v=zbvVPEm52VY&t=398.24s)]
+*  trying to do all of this, all but guarantees confusion and mistakes. It is the point in all [[00:06:44](https://www.youtube.com/watch?v=zbvVPEm52VY&t=404.47999999999996s)]
+*  of this, right, is to create and sow this confusion part of the MAGA strategy. [[00:06:52](https://www.youtube.com/watch?v=zbvVPEm52VY&t=412.71999999999997s)]
+*  I do think that that is part of the strategy here. I will point out that some of the recent [[00:07:00](https://www.youtube.com/watch?v=zbvVPEm52VY&t=420.4s)]
+*  rule changes, for example, use incredibly vague or ambiguous terms. They create confusion and that [[00:07:05](https://www.youtube.com/watch?v=zbvVPEm52VY&t=425.76s)]
+*  they seem to be inconsistent with Georgia statutes. They seem to invite litigation. [[00:07:13](https://www.youtube.com/watch?v=zbvVPEm52VY&t=433.44s)]
+*  I think that it's likely that we could see some litigation around the recent rule changes related [[00:07:19](https://www.youtube.com/watch?v=zbvVPEm52VY&t=439.36s)]
+*  to certification, as well as the rule changes that relate to the tabulation of votes. One of the [[00:07:24](https://www.youtube.com/watch?v=zbvVPEm52VY&t=444.4s)]
+*  more concerning rule changes that we've recently seen is a rule change in which it is [[00:07:31](https://www.youtube.com/watch?v=zbvVPEm52VY&t=451.6s)]
+*  stated in this rule that if a local elections board finds fraud in an investigation of the [[00:07:38](https://www.youtube.com/watch?v=zbvVPEm52VY&t=458.56s)]
+*  precinct returns, then they must find a just method of tabulating those votes. People and sources [[00:07:50](https://www.youtube.com/watch?v=zbvVPEm52VY&t=470.64s)]
+*  that I've talked to close to the matter in the past week have indicated that proponents of this [[00:07:58](https://www.youtube.com/watch?v=zbvVPEm52VY&t=478.88s)]
+*  rule think that that gives local election officials the ability to potentially disregard votes [[00:08:06](https://www.youtube.com/watch?v=zbvVPEm52VY&t=486.48s)]
+*  if they believe that there has been fraud within the precinct returns. That is very concerning [[00:08:13](https://www.youtube.com/watch?v=zbvVPEm52VY&t=493.12s)]
+*  because it's not just a delay of certification that Dave was talking about, but it is fully [[00:08:19](https://www.youtube.com/watch?v=zbvVPEm52VY&t=499.92s)]
+*  disregarding and changing tabulation of the votes, which is not at all consistent with what Georgia [[00:08:25](https://www.youtube.com/watch?v=zbvVPEm52VY&t=505.76s)]
+*  courts have said is the duty of local officials when they are certifying the election results. [[00:08:31](https://www.youtube.com/watch?v=zbvVPEm52VY&t=511.68s)]
+*  They have a very limited discretion to just look at mathematical errors to tabulate the votes. [[00:08:37](https://www.youtube.com/watch?v=zbvVPEm52VY&t=517.6800000000001s)]
+*  They don't have the ability to make qualitative decisions about whether or not there has been [[00:08:44](https://www.youtube.com/watch?v=zbvVPEm52VY&t=524.64s)]
+*  election fraud. That is for the courts to decide. Dave, let's talk about the group True the Vote, [[00:08:49](https://www.youtube.com/watch?v=zbvVPEm52VY&t=529.44s)]
+*  and it seems like they're teaming up with sheriffs in swing states, as we mentioned, like Wisconsin [[00:08:55](https://www.youtube.com/watch?v=zbvVPEm52VY&t=535.52s)]
+*  and elsewhere, to monitor polling locations and drop boxes. From a legal point of view, [[00:09:01](https://www.youtube.com/watch?v=zbvVPEm52VY&t=541.04s)]
+*  where is the line when it comes to voter intimidation? It's one thing to monitor [[00:09:08](https://www.youtube.com/watch?v=zbvVPEm52VY&t=548.16s)]
+*  elections generally. We have a pretty robust system in which candidates and their parties [[00:09:12](https://www.youtube.com/watch?v=zbvVPEm52VY&t=552.8s)]
+*  are allowed to do that. It's another thing to shop around for sympathetic organizations to be [[00:09:17](https://www.youtube.com/watch?v=zbvVPEm52VY&t=557.4399999999999s)]
+*  outside on the streets seeing people as they cast their ballots. Yeah, it's going to take strong [[00:09:23](https://www.youtube.com/watch?v=zbvVPEm52VY&t=563.52s)]
+*  leadership from local and state election officials to avoid the shenanigans by True the Vote. See, [[00:09:30](https://www.youtube.com/watch?v=zbvVPEm52VY&t=570.96s)]
+*  True the Vote is a Texas-based group, and they have tried to cast out about elections in various [[00:09:37](https://www.youtube.com/watch?v=zbvVPEm52VY&t=577.36s)]
+*  states. They tried to do so in Georgia in the last election. In fact, they filed suit against [[00:09:43](https://www.youtube.com/watch?v=zbvVPEm52VY&t=583.44s)]
+*  Brad Rapsburg. They said they had affidavits and evidence that there was fraud, and then a judge [[00:09:48](https://www.youtube.com/watch?v=zbvVPEm52VY&t=588.16s)]
+*  did something amazing. The judge compelled True the Vote to turn over the evidence, and guess what, [[00:09:53](https://www.youtube.com/watch?v=zbvVPEm52VY&t=593.6s)]
+*  they had nothing. They were lies. They were a bunch of phonies. And when it comes down to it, [[00:09:59](https://www.youtube.com/watch?v=zbvVPEm52VY&t=599.04s)]
+*  they're just a hollow shell themselves. They just have a lot of show and no go. But they can do [[00:10:05](https://www.youtube.com/watch?v=zbvVPEm52VY&t=605.92s)]
+*  damage if they have a sympathetic election official on their side. That's why it's important [[00:10:11](https://www.youtube.com/watch?v=zbvVPEm52VY&t=611.92s)]
+*  who the secretaries of states are in swing states and the governors. Fortunately, it looks like, [[00:10:16](https://www.youtube.com/watch?v=zbvVPEm52VY&t=616.88s)]
+*  at least in the swing states, the secretaries of states, election officials at the top level who [[00:10:22](https://www.youtube.com/watch?v=zbvVPEm52VY&t=622.32s)]
+*  actually have power, are there to protect elections rather than prevent people from voting. [[00:10:26](https://www.youtube.com/watch?v=zbvVPEm52VY&t=626.8s)]
+*  Amanda, the reason Trump failed to overturn the election in 2020 was obviously because [[00:10:32](https://www.youtube.com/watch?v=zbvVPEm52VY&t=632.7199999999999s)]
+*  we had proper guardrails to block him, perhaps even Mike Pence having that moment of clarity [[00:10:37](https://www.youtube.com/watch?v=zbvVPEm52VY&t=637.92s)]
+*  and sanity to not overturn the election. You had at the DNC election officials assessing the threat [[00:10:43](https://www.youtube.com/watch?v=zbvVPEm52VY&t=643.3599999999999s)]
+*  at an event hosted by the Brennan Center, and actually their greatest worry, according to [[00:10:49](https://www.youtube.com/watch?v=zbvVPEm52VY&t=649.04s)]
+*  The Washington Post, was, quote, the possibility of civil unrest. Even if efforts to subvert [[00:10:53](https://www.youtube.com/watch?v=zbvVPEm52VY&t=653.28s)]
+*  election results fail, an army of angry Trump supporters could resort to violence just as they [[00:10:59](https://www.youtube.com/watch?v=zbvVPEm52VY&t=659.04s)]
+*  did at the U.S. Capitol on January 6, 2021. If that is true, I'm curious, based on officials that [[00:11:04](https://www.youtube.com/watch?v=zbvVPEm52VY&t=664.9599999999999s)]
+*  you have spoken to across the Atlanta metro area, perhaps even on the state level, are they at all [[00:11:11](https://www.youtube.com/watch?v=zbvVPEm52VY&t=671.68s)]
+*  concerned with the possibility of unrest, given what happened in 2020, excuse me, 2021, [[00:11:18](https://www.youtube.com/watch?v=zbvVPEm52VY&t=678.08s)]
+*  and the scenario that we now find ourselves in? You're damned if you do, damned if you don't. [[00:11:25](https://www.youtube.com/watch?v=zbvVPEm52VY&t=685.76s)]
+*  Election officials are very much concerned about the possibility of unrest and potential violence. [[00:11:31](https://www.youtube.com/watch?v=zbvVPEm52VY&t=691.6800000000001s)]
+*  Keep in mind, it's not just on January 6 that there were examples of civil unrest and violence. [[00:11:37](https://www.youtube.com/watch?v=zbvVPEm52VY&t=697.5200000000001s)]
+*  It's also in the wake of the 2020 elections, there were precincts that had demonstrators [[00:11:44](https://www.youtube.com/watch?v=zbvVPEm52VY&t=704.4000000000001s)]
+*  go to the precincts. There were threats of violence at various election places. I recently [[00:11:51](https://www.youtube.com/watch?v=zbvVPEm52VY&t=711.12s)]
+*  saw a presentation at an election security conference by officials in Arizona in Maricopa [[00:11:57](https://www.youtube.com/watch?v=zbvVPEm52VY&t=717.12s)]
+*  County who talked about a perimeter, a security perimeter that they've had to include in the [[00:12:03](https://www.youtube.com/watch?v=zbvVPEm52VY&t=723.44s)]
+*  precinct because of what happened in 2020 with pro-Trump demonstrators showing up at the polling [[00:12:10](https://www.youtube.com/watch?v=zbvVPEm52VY&t=730.4s)]
+*  place and threatening violence. And so certainly this is something that election officials are [[00:12:17](https://www.youtube.com/watch?v=zbvVPEm52VY&t=737.52s)]
+*  concerned about. They are gearing up to protect election security both within the polling place [[00:12:23](https://www.youtube.com/watch?v=zbvVPEm52VY&t=743.1999999999999s)]
+*  and then also on the outside from individuals who may be threatening violence. All right, [[00:12:31](https://www.youtube.com/watch?v=zbvVPEm52VY&t=751.92s)]
+*  Anna Bauer, thank you so much. [[00:12:37](https://www.youtube.com/watch?v=zbvVPEm52VY&t=757.4399999999999s)]
+*  you [[00:12:40](https://www.youtube.com/watch?v=zbvVPEm52VY&t=760.4s)]

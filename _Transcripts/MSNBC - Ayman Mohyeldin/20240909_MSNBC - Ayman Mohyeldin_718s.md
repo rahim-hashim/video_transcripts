@@ -1,0 +1,157 @@
+---
+Date Generated: April 15, 2025
+Transcription Model: whisper medium 20231117
+Length: 718s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 1112510
+Video Rating: None
+Video Description: As Vice President Kamala Harris prepares for the upcoming debate, Donald Trump's rambling incoherence is on full display - and his voters are starting to notice. MSNBC's Ayman Mohyeldin speaks with MSNBC Political Analyst Molly Jong-Fast, The Seneca Project CEO Tara Setmayer and The Atlantic's Tom Nichols about Trump's inability to speak coherently and the media's failure in covering his decline.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+ 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+Find MSNBC on Facebook: https://www.facebook.com/msnbc/
+Follow MSNBC on Twitter: https://twitter.com/MSNBC
+Follow MSNBC on Instagram: https://www.instagram.com/msnbc
+
+#Trump #KamalaHarris #Election
+---
+
+# 'The ramblings of an absolute lunatic': Trump's incoherent behavior on display for the world to see
+**MSNBC - Ayman Mohyeldin:** [September 09, 2024](https://www.youtube.com/watch?v=yQUkJQBRBQY)
+*  We are 48 hours from the first debate between Vice President Kamala Harris and Donald Trump. [[00:00:00](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=0.0s)]
+*  And while Harris and her team have been preparing, Trump's incoherence has only gotten worse [[00:00:04](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=4.8s)]
+*  by the day, and that is not a good sign for Tuesday. [[00:00:09](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=9.44s)]
+*  They're going to say Leon's going to send up a rocket. Can you imagine your apparent [[00:00:13](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=13.84s)]
+*  and your son leaves the house and you say, Jimmy, I love you so much, go have a good day in school, [[00:00:18](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=18.32s)]
+*  and your son comes back with a brutal operation? [[00:00:25](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=25.6s)]
+*  You take a look at bacon and some of these products and some people don't eat bacon anymore. [[00:00:29](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=29.68s)]
+*  This was caused by their horrible energy wind. [[00:00:34](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=34.4s)]
+*  Wind. Trump's ramblings have gotten so tiresome and so meandering that it's no surprise his [[00:00:40](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=40.32s)]
+*  own supporters are literally leaving his rallies early. It is clear at this point that Trump, [[00:00:46](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=46.64s)]
+*  who has long prided himself as a showman, is losing the room. MSNBC columnist Zeeshan [[00:00:52](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=52.8s)]
+*  Aleem summed it up well, saying Trump has been embedded in the public consciousness [[00:00:58](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=58.48s)]
+*  as a rule breaker for so long that it can be easy to forget how far he is from fulfilling the basic [[00:01:03](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=63.04s)]
+*  requirement of a politician to speak clearly. Last week, we saw what was arguably the most [[00:01:08](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=68.88s)]
+*  egregious example when Trump did a Q&A session at the Economic Club of New York. Watch. [[00:01:14](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=74.56s)]
+*  If you win in November, can you commit to prioritizing legislation to make child care [[00:01:20](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=80.48s)]
+*  affordable? And if so, what specific piece of legislation will you advance? [[00:01:28](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=88.56s)]
+*  Well, I would do that. And we're sitting down, you know, I was somebody we had Senator Marco [[00:01:34](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=94.64s)]
+*  Rubio and my daughter Ivanka was so impactful on that issue. It's a very important issue. [[00:01:41](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=101.04s)]
+*  But I think when you talk about the kind of numbers that I'm talking about, [[00:01:47](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=107.60000000000001s)]
+*  that because the child care is child care, it's couldn't, you know, there's something you have [[00:01:52](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=112.08s)]
+*  to have it in this country, you have to have it. But when you talk about those numbers compared [[00:01:57](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=117.60000000000001s)]
+*  to the kind of numbers that I'm talking about by taxing foreign nations at levels that they're [[00:02:02](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=122.4s)]
+*  not used to, but they'll get used to it very quickly. And it's not going to stop them from [[00:02:07](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=127.92s)]
+*  doing business with us, but they'll have a very substantial tax when they send product into our [[00:02:11](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=131.36s)]
+*  country. Those numbers are so much bigger than any numbers that we're talking about, [[00:02:16](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=136.64s)]
+*  including child care, that it's going to take care. We're going to have, I look forward to having [[00:02:20](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=140.88s)]
+*  no deficits within a fairly short period of time, coupled with the reductions that I told you about [[00:02:25](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=145.6s)]
+*  on waste and fraud and all of the other things that are going on in our country, because I have [[00:02:31](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=151.67999999999998s)]
+*  to stay with child care. I want to stay with child care, but those numbers are small relative to the [[00:02:36](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=156.95999999999998s)]
+*  kind of economic numbers that I'm talking about, including growth, but growth also headed up by [[00:02:41](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=161.36s)]
+*  what the plan is that I just told you about. We're going to be taking in trillions of dollars, [[00:02:47](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=167.92000000000002s)]
+*  and as much as child care is talked about as being expensive, it's relatively speaking, [[00:02:54](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=174.0s)]
+*  not very expensive compared to the kind of numbers we'll be taking in. [[00:03:00](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=180.24s)]
+*  So we wanted to play that in its entirety so that you see it all for yourself and that no one says [[00:03:03](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=183.36s)]
+*  you edited it or manipulated it or cut it. You heard the question, you heard the answer. In case [[00:03:10](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=190.4s)]
+*  you got lost there, the original question was about what specific piece of child care legislation [[00:03:14](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=194.24s)]
+*  would Trump advance? Something a politician, a presidential candidate should be able to answer [[00:03:20](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=200.8s)]
+*  pretty easily if he had a piece of legislation that he was aware of. This wasn't a rally filled [[00:03:27](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=207.68s)]
+*  with his diehard supporters. This was a room of economic experts wanting to hear him explain [[00:03:34](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=214.08s)]
+*  his policies and legislation. Since then, top economic thinkers, including the woman who asked [[00:03:39](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=219.52s)]
+*  him that very same question, have blasted Trump's incoherent word salad. So once again, he's lost the [[00:03:45](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=225.68s)]
+*  room. But if you didn't watch that with your own eyes and instead relied on legacy media outlets [[00:03:52](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=232.8s)]
+*  for the interpretation, for the story, you might have been left with a totally different perspective. [[00:03:58](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=238.48000000000002s)]
+*  Instead of focusing on Trump's non-answer outlets like the New York Times, Politico, [[00:04:04](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=244.8s)]
+*  the Associated Press, all presented the bizarre spectacle as if it was a normal [[00:04:09](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=249.20000000000002s)]
+*  policy-driven speech focused on tariffs, low taxes, and supposed explosive economic growth. [[00:04:14](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=254.96s)]
+*  We are now nearly 10 years into covering Donald Trump, and the media is still choosing to sanitize [[00:04:22](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=262.16s)]
+*  Trump's nonsensical ramblings to make them more palatable for the voter. The same media that [[00:04:29](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=269.44s)]
+*  rightfully did not shy away from covering President Biden's age and mental acuity at every turn, [[00:04:36](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=276.88s)]
+*  I mean, there cannot be a pass for the man exhibiting the same obvious decline [[00:04:42](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=282.64s)]
+*  and be given a free pass. The stakes are simply too high. Let's bring in my panel for the hour, [[00:04:47](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=287.84s)]
+*  Molly Jung-Fast, MSNBC political analyst, Vanity Fair special correspondent and host of the Fast [[00:04:53](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=293.2s)]
+*  Politics podcast. Tara Sattemeyer, co-founder and CEO of the Seneca Project and former GOP [[00:04:57](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=297.52s)]
+*  communications director. Tom Nichols, staff writer for The Atlantic. It's great to have all three of [[00:05:02](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=302.4s)]
+*  you with us. Molly, I'll start with you. Your reaction to that stunning failure, both from [[00:05:07](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=307.2s)]
+*  Trump to answer the specific question about legislation, and then what I would argue, [[00:05:12](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=312.71999999999997s)]
+*  the more egregious violation, the failure of the media to just reduce it to say Trump will pay for [[00:05:19](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=319.2s)]
+*  child care by raising tariffs or making money off tariffs. Right. No, very interesting. So this is [[00:05:25](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=325.2s)]
+*  this Aaron Rupar, maybe Parker Malloy idea of sane washing, right? That the mainstream media [[00:05:30](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=330.64s)]
+*  cannot report Trump as he is because they'll seem partisan. So instead, because whenever you quote [[00:05:36](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=336.56s)]
+*  Trump and you look at the actual transcript, I'm always like, wait, that can't really be it. [[00:05:43](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=343.12s)]
+*  Those are not sentences. And so they sort of put them together to appear nonpartisan. But [[00:05:48](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=348.24s)]
+*  unfortunately, appearing nonpartisan makes Trump seem like a completely different person. [[00:05:54](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=354.16s)]
+*  And I would say what was very good about that moment was she asked a very clear question, [[00:05:59](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=359.6s)]
+*  and then she really kind of snuck in a follow-up question. So she was like, you know, what's your [[00:06:04](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=364.72s)]
+*  policy and how are you going to implement it? Right. Because the way Trump really gets in trouble, [[00:06:09](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=369.28000000000003s)]
+*  I mean, he gets into trouble, a lot of trouble, and he's constantly lying and, you know, he's [[00:06:13](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=373.68s)]
+*  meandering. But where he really gets into trouble is when you ask him like, how? Yeah. Right. So, [[00:06:18](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=378.08000000000004s)]
+*  it was like build the wall. How? Mexico's going to pay for it. Didn't happen. Right. And so this is [[00:06:24](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=384.16s)]
+*  how. Tariffs, Ivanka, childcare is childcare. Rubio. Yeah. Rubio. Yeah. Trump loves to boast [[00:06:28](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=388.32s)]
+*  about his rallies, but as we showed, even his supporters have started to tire of him. They're [[00:06:36](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=396.0s)]
+*  leaving early. You saw the flatlining of the RNC when he took the stage for, I guess, close to two [[00:06:41](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=401.12s)]
+*  hours. He recently held a rally in Pennsylvania, and by the end of it, a large number of the arenas, [[00:06:46](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=406.96000000000004s)]
+*  8,000 seats were empty. Is the rambling turning them off or is it just because it's the same old [[00:06:51](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=411.68s)]
+*  tired playbook? I think it's a bit of all of the above. I think that everyone has a bit of fatigue, [[00:06:58](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=418.40000000000003s)]
+*  even some of the Trump supporters. Now, not the culty Trump supporters, but the Trump supporters [[00:07:06](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=426.32s)]
+*  who go and they're like, OK, we've kind of seen this. It's almost like the, you know, you're a fan [[00:07:12](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=432.4s)]
+*  of a certain entertainer or a comedian, and then they give a performance where you're like, [[00:07:17](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=437.44s)]
+*  hmm, that wasn't the greatest. People are just tired of it because he doesn't have any new [[00:07:23](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=443.12s)]
+*  material. That's the bottom line. He keeps repeating the same things over and over and over again, [[00:07:26](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=446.88s)]
+*  and they're looking for more. And there is, and when he tries to give more, then we hear the [[00:07:31](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=451.52000000000004s)]
+*  absolute insanity. Trump has been off the rails more so than usual lately, not only in these [[00:07:37](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=457.04s)]
+*  rallies, but in his social media posts, the ramblings of an absolute lunatic every single day. [[00:07:44](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=464.4s)]
+*  And the media does, to Molly's point, try some media. They try to report it in a way that [[00:07:52](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=472.08s)]
+*  normalizes it. There's no normalization of Donald Trump putting out these threads where he's [[00:07:58](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=478.64s)]
+*  threatening to jail donors, jail people who, election officials, people he's threatening, [[00:08:05](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=485.12s)]
+*  mass deportations. He's threatening cease and desist to do what? I don't know. You don't get [[00:08:12](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=492.56s)]
+*  to just cease and desist people because you don't like what they're doing or you're mad at them. [[00:08:18](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=498.48s)]
+*  I mean, it's insane. And yet there's very little coverage of it. It's almost, it's, [[00:08:22](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=502.64s)]
+*  well, that's just Trump being Trump. No, that would be fine if he were still the reality show host on [[00:08:28](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=508.64s)]
+*  The Apprentice. But he's not. [[00:08:35](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=515.84s)]
+*  Yeah, not 10 years into it. [[00:08:37](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=517.04s)]
+*  Right. He's running for president of the United States again. He will have control of the new [[00:08:38](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=518.8s)]
+*  nuclear codes. This is a problem. And it's why people are able to say, well, I might not like [[00:08:42](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=522.48s)]
+*  him, but I like his policies. Well, what policies are those? And you don't get to excuse the fact [[00:08:48](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=528.5600000000001s)]
+*  that you did, he's a horrible person and think that that separates his ability to govern. They [[00:08:53](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=533.44s)]
+*  are interconnected. So stop giving people a pass for still supporting someone that is this dangerous [[00:08:58](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=538.24s)]
+*  to our country. That's why you saw a woman, a Republican woman was interviewed recently and [[00:09:04](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=544.8000000000001s)]
+*  asked why she was supporting Kamala Harris. And she said, you know, because she's a normal human [[00:09:09](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=549.92s)]
+*  being. That normalcy is refreshing to so many people. That woman that cried tears at Pentsies [[00:09:13](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=553.8399999999999s)]
+*  in Pittsburgh hit hard for so many of us because that woman is just, I think she represents a lot [[00:09:19](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=559.92s)]
+*  of America just saying, are we going to be okay? And Kamala Harris showed empathy and compassion, [[00:09:24](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=564.9599999999999s)]
+*  things that a normal, well-adjusted human being demonstrates. Donald Trump is none of those things. [[00:09:31](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=571.52s)]
+*  Incapable of it, yeah. [[00:09:36](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=576.64s)]
+*  Not anywhere near power, correct? So stop normalizing it. [[00:09:37](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=577.36s)]
+*  Tom, you think a childcare question would be a simple question to answer. So give me your [[00:09:40](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=580.88s)]
+*  thoughts on how revealing was this moment, or is it not revealing at all in the sense that his base, [[00:09:47](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=587.76s)]
+*  people who are probably not diehard followers of politics wouldn't have watched it, even though [[00:09:53](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=593.28s)]
+*  that clip did go viral, they're probably just reading the headlines as I mentioned, whether [[00:09:58](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=598.96s)]
+*  it's in the New York Times or other news sites that just kind of, you know, sane-washed it, as [[00:10:03](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=603.6s)]
+*  Molly said. What's revealed is he doesn't care about policy. His followers don't care about [[00:10:10](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=610.4s)]
+*  policy. You know, something both Molly and Tara brought up, Tara's point about people saying, [[00:10:19](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=619.9200000000001s)]
+*  well, I like his policies. That's nonsense. That's top cover for them saying, I just like the fact [[00:10:26](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=626.0s)]
+*  that he makes people mad and he hates the people I hate because his policies change [[00:10:32](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=632.24s)]
+*  insofar as he has any every 30 seconds. And that notion that, well, you know, we have to talk about [[00:10:36](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=636.88s)]
+*  Trump's policies goes to Molly's point that a lot of reporters, I think, they find themselves saying, [[00:10:43](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=643.76s)]
+*  well, I can't write this. I can't write that the GOP nominee is this unhinged, emotionally [[00:10:49](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=649.12s)]
+*  unstable, deeply messed up person. I'm a serious person and serious people write about policy. [[00:10:56](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=656.88s)]
+*  So therefore I have to write about policy, which means I have to ignore Donald Trump and write [[00:11:04](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=664.88s)]
+*  about Democrats because they're the only ones putting forward policy. And the Republicans [[00:11:09](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=669.2s)]
+*  are making hay out of that. They are constantly saying, you have to go, you know, you have to [[00:11:13](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=673.2s)]
+*  drill down deep on Kamala Harris's policies. And then when they turn to Donald Trump, [[00:11:18](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=678.08s)]
+*  to what's your policy? And he says, well, it's something so it's important looking at it strongly [[00:11:23](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=683.5200000000001s)]
+*  more is coming. Marco Rubio, sharks, batteries, stuff. Two weeks. We'll be here in two weeks, [[00:11:29](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=689.0400000000001s)]
+*  right? Yeah. [[00:11:36](https://www.youtube.com/watch?v=yQUkJQBRBQY&t=696.48s)]

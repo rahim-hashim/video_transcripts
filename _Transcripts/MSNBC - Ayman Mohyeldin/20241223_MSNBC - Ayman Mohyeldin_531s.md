@@ -1,0 +1,148 @@
+---
+Date Generated: April 15, 2025
+Transcription Model: whisper medium 20231117
+Length: 531s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 43013
+Video Rating: None
+Video Description: As the international legal consensus builds that Israel is committing genocide against Palestinians in Gaza, some Palestinians around the world are using legal means to hold it responsible for alleged war crimes. MSNBC’s Ayman Mohyeldin is joined by Ahmed Moor, a Palestinian-American who is one of the plaintiffs in a newly-filed lawsuit against the U.S. State Department, and Sarah Leah Whitson, the Executive Director of DAWN, a group supporting that lawsuit.
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup 
+
+#Israel #Gaza #Palestine
+---
+
+# Palestinian-American explains why he is suing the State Department over U.S. support for Israel
+**MSNBC - Ayman Mohyeldin:** [December 23, 2024](https://www.youtube.com/watch?v=xi46LuZPGEs)
+*  Joining me now is one of the Palestinian-American plaintiffs in this new lawsuit against the [[00:00:00](https://www.youtube.com/watch?v=xi46LuZPGEs&t=0.0s)]
+*  Secretary of State, Ahmed Moore. [[00:00:05](https://www.youtube.com/watch?v=xi46LuZPGEs&t=5.0200000000000005s)]
+*  He's a fellow at the Foundation for Middle East Peace. [[00:00:07](https://www.youtube.com/watch?v=xi46LuZPGEs&t=7.26s)]
+*  We're also joined by Sarah Lee Whitson, the executive director of Dawn, a human rights [[00:00:09](https://www.youtube.com/watch?v=xi46LuZPGEs&t=9.36s)]
+*  NGO supporting this lawsuit. [[00:00:14](https://www.youtube.com/watch?v=xi46LuZPGEs&t=14.42s)]
+*  It's great to have both of you with us. [[00:00:16](https://www.youtube.com/watch?v=xi46LuZPGEs&t=16.3s)]
+*  So, Ahmed, tell us a little bit, first of all, before we get into the details of it, [[00:00:17](https://www.youtube.com/watch?v=xi46LuZPGEs&t=17.98s)]
+*  how's your family doing and what prompted this case? [[00:00:21](https://www.youtube.com/watch?v=xi46LuZPGEs&t=21.1s)]
+*  What prompted you to be involved in this case? [[00:00:23](https://www.youtube.com/watch?v=xi46LuZPGEs&t=23.98s)]
+*  So, it's a daily struggle for survival, as you've reported, as others have reported, [[00:00:26](https://www.youtube.com/watch?v=xi46LuZPGEs&t=26.0s)]
+*  as I've reported. [[00:00:30](https://www.youtube.com/watch?v=xi46LuZPGEs&t=30.2s)]
+*  The fact of getting up every day and just securing clean water to drink, somewhere safe [[00:00:32](https://www.youtube.com/watch?v=xi46LuZPGEs&t=32.56s)]
+*  to sleep, food, which is edible, is a struggle which defies the imagination. [[00:00:37](https://www.youtube.com/watch?v=xi46LuZPGEs&t=37.46s)]
+*  And that's been true for about 14 months now. [[00:00:44](https://www.youtube.com/watch?v=xi46LuZPGEs&t=44.400000000000006s)]
+*  When the genocide began, I and many other people in the country who were affected began [[00:00:46](https://www.youtube.com/watch?v=xi46LuZPGEs&t=46.8s)]
+*  to reach out to our congressional representatives to seek some kind of relief. [[00:00:51](https://www.youtube.com/watch?v=xi46LuZPGEs&t=51.66s)]
+*  And that was a dead end, frankly. [[00:00:55](https://www.youtube.com/watch?v=xi46LuZPGEs&t=55.699999999999996s)]
+*  This lawsuit is designed, hopefully, to get the people who are able to make decisions [[00:00:59](https://www.youtube.com/watch?v=xi46LuZPGEs&t=59.099999999999994s)]
+*  on these matters to comply with U.S. law. [[00:01:06](https://www.youtube.com/watch?v=xi46LuZPGEs&t=66.1s)]
+*  And that means practically ending military aid to Israeli units which are involved in [[00:01:08](https://www.youtube.com/watch?v=xi46LuZPGEs&t=68.58s)]
+*  human rights abuses. [[00:01:14](https://www.youtube.com/watch?v=xi46LuZPGEs&t=74.18s)]
+*  Practically 14 months into a genocide. [[00:01:16](https://www.youtube.com/watch?v=xi46LuZPGEs&t=76.34s)]
+*  I would be surprised if that didn't mean most of the Israeli units which are operating in [[00:01:19](https://www.youtube.com/watch?v=xi46LuZPGEs&t=79.39999999999999s)]
+*  Gaza. [[00:01:22](https://www.youtube.com/watch?v=xi46LuZPGEs&t=82.72s)]
+*  Sarah, and I want to be clear here, this is not about the U.S. violating international. [[00:01:23](https://www.youtube.com/watch?v=xi46LuZPGEs&t=83.72s)]
+*  This is about the United States violating our own laws that are on our own books, so [[00:01:28](https://www.youtube.com/watch?v=xi46LuZPGEs&t=88.11999999999999s)]
+*  to speak, right, including specifically the Leahy law. [[00:01:34](https://www.youtube.com/watch?v=xi46LuZPGEs&t=94.44s)]
+*  Explain to us how and what the United States is doing is in violation of the Leahy law. [[00:01:38](https://www.youtube.com/watch?v=xi46LuZPGEs&t=98.32s)]
+*  Sure. [[00:01:44](https://www.youtube.com/watch?v=xi46LuZPGEs&t=104.08s)]
+*  The Leahy law effectively requires the State Department to vet all Israeli security forces [[00:01:45](https://www.youtube.com/watch?v=xi46LuZPGEs&t=105.42s)]
+*  and to ascertain whether any of them have committed gross violations of human rights [[00:01:51](https://www.youtube.com/watch?v=xi46LuZPGEs&t=111.98s)]
+*  and to ensure that U.S. military assistance does not go to such units. [[00:01:56](https://www.youtube.com/watch?v=xi46LuZPGEs&t=116.98s)]
+*  The United States has never once identified a single Israeli unit as responsible for unmediated [[00:02:02](https://www.youtube.com/watch?v=xi46LuZPGEs&t=122.58s)]
+*  human rights violations. [[00:02:10](https://www.youtube.com/watch?v=xi46LuZPGEs&t=130.18s)]
+*  It has never blocked assistance to one single Israeli military unit since passage of the [[00:02:11](https://www.youtube.com/watch?v=xi46LuZPGEs&t=131.28s)]
+*  law in 1997, since even when the law was amended in 2019, specifically because the law had [[00:02:19](https://www.youtube.com/watch?v=xi46LuZPGEs&t=139.08s)]
+*  not been applied to Israel and a few other countries where the aid is supposedly untraceable. [[00:02:25](https://www.youtube.com/watch?v=xi46LuZPGEs&t=145.98000000000002s)]
+*  And even despite the amendment to the law, the State Department has never once identified [[00:02:31](https://www.youtube.com/watch?v=xi46LuZPGEs&t=151.98000000000002s)]
+*  a single Israeli unit as ineligible for U.S. assistance, despite the overwhelming evidence, [[00:02:37](https://www.youtube.com/watch?v=xi46LuZPGEs&t=157.84s)]
+*  including in the State Department's own annual human rights reports of hundreds and thousands [[00:02:44](https://www.youtube.com/watch?v=xi46LuZPGEs&t=164.45999999999998s)]
+*  of cases of gross violations of human rights. [[00:02:49](https://www.youtube.com/watch?v=xi46LuZPGEs&t=169.56s)]
+*  Tell us about the case that is being built right now with the evidence that you have [[00:02:52](https://www.youtube.com/watch?v=xi46LuZPGEs&t=172.26s)]
+*  been able to gather, because on the outside of it, you have these reports, these Amnesty [[00:02:56](https://www.youtube.com/watch?v=xi46LuZPGEs&t=176.35999999999999s)]
+*  International reports, the Human Rights Watch reports, Doctors Without Borders saying there's [[00:03:03](https://www.youtube.com/watch?v=xi46LuZPGEs&t=183.22s)]
+*  clear signs that ethnic cleansing is being committed. [[00:03:07](https://www.youtube.com/watch?v=xi46LuZPGEs&t=187.56s)]
+*  You've got ICC, ICJ, all of these things that the world is seeing and is being documented, [[00:03:09](https://www.youtube.com/watch?v=xi46LuZPGEs&t=189.35999999999999s)]
+*  in some cases really supported with evidence that has been gathered in the public domain. [[00:03:17](https://www.youtube.com/watch?v=xi46LuZPGEs&t=197.06s)]
+*  And yet somehow our own government, our own State Department, our own Department of Defense, [[00:03:22](https://www.youtube.com/watch?v=xi46LuZPGEs&t=202.35999999999999s)]
+*  which has much more robust capabilities of tracking this information, is somehow ambivalent. [[00:03:26](https://www.youtube.com/watch?v=xi46LuZPGEs&t=206.16s)]
+*  So whenever you ask the State Department about it, you get a response that's, well, we haven't [[00:03:31](https://www.youtube.com/watch?v=xi46LuZPGEs&t=211.26s)]
+*  come to any conclusions yet. [[00:03:35](https://www.youtube.com/watch?v=xi46LuZPGEs&t=215.86s)]
+*  We haven't made any determinations yet. [[00:03:37](https://www.youtube.com/watch?v=xi46LuZPGEs&t=217.06s)]
+*  And here we are 14 months into this and still no clarity, no insight from the government. [[00:03:38](https://www.youtube.com/watch?v=xi46LuZPGEs&t=218.56s)]
+*  What do you have that would perhaps change their calculation? [[00:03:43](https://www.youtube.com/watch?v=xi46LuZPGEs&t=223.26000000000002s)]
+*  Well, yeah, I mean, the assertion of the State Department that effectively not one single [[00:03:46](https://www.youtube.com/watch?v=xi46LuZPGEs&t=226.86s)]
+*  unit of the Israeli security forces has committed a single gross human rights violation that [[00:03:53](https://www.youtube.com/watch?v=xi46LuZPGEs&t=233.26000000000002s)]
+*  qualifies to ban them from receiving U.S. assistance is so preposterous in the face [[00:04:00](https://www.youtube.com/watch?v=xi46LuZPGEs&t=240.16000000000003s)]
+*  of the evidence that really we don't need to do much more other than show that they [[00:04:05](https://www.youtube.com/watch?v=xi46LuZPGEs&t=245.06s)]
+*  have failed to ever hold one single unit ineligible for aid. [[00:04:10](https://www.youtube.com/watch?v=xi46LuZPGEs&t=250.36s)]
+*  But we also have members of the State Department, former officials of the State Department, [[00:04:14](https://www.youtube.com/watch?v=xi46LuZPGEs&t=254.86s)]
+*  whose job it was to oversee implementation of the Leahy Law, including with respect to Israel. [[00:04:19](https://www.youtube.com/watch?v=xi46LuZPGEs&t=259.66s)]
+*  And they are now part of our lawsuit. [[00:04:25](https://www.youtube.com/watch?v=xi46LuZPGEs&t=265.26s)]
+*  They are part of our efforts to say no. [[00:04:27](https://www.youtube.com/watch?v=xi46LuZPGEs&t=267.06s)]
+*  In fact, the State Department deliberately built a system of bureaucracy designed to [[00:04:30](https://www.youtube.com/watch?v=xi46LuZPGEs&t=270.06s)]
+*  avoid ever finding a single military unit ineligible for aid if it's an Israeli military unit. [[00:04:35](https://www.youtube.com/watch?v=xi46LuZPGEs&t=275.36s)]
+*  Now, you know, our government sanctions thousands of security forces around the world every year. [[00:04:42](https://www.youtube.com/watch?v=xi46LuZPGEs&t=282.46000000000004s)]
+*  This is not a law that they don't apply. [[00:04:48](https://www.youtube.com/watch?v=xi46LuZPGEs&t=288.46000000000004s)]
+*  They apply it all the time. [[00:04:50](https://www.youtube.com/watch?v=xi46LuZPGEs&t=290.56s)]
+*  They vet hundreds of thousands of security forces around the world, except for one country. [[00:04:52](https://www.youtube.com/watch?v=xi46LuZPGEs&t=292.56s)]
+*  In one country, they have deliberately built a bureaucracy and an infrastructure to avoid [[00:04:58](https://www.youtube.com/watch?v=xi46LuZPGEs&t=298.86s)]
+*  ever prohibiting aid to a single Israeli military force. [[00:05:05](https://www.youtube.com/watch?v=xi46LuZPGEs&t=305.16s)]
+*  So the law we're suing them under is called the Administrative Procedure Act. [[00:05:09](https://www.youtube.com/watch?v=xi46LuZPGEs&t=309.16s)]
+*  That is the law that allows plaintiffs who've been harmed, like Ahmed and his family, for [[00:05:12](https://www.youtube.com/watch?v=xi46LuZPGEs&t=312.66s)]
+*  the failure of the government to enforce its law to look to the judiciary to force the [[00:05:17](https://www.youtube.com/watch?v=xi46LuZPGEs&t=317.76s)]
+*  government to obey the law. [[00:05:22](https://www.youtube.com/watch?v=xi46LuZPGEs&t=322.96000000000004s)]
+*  This lawsuit only demands one thing. [[00:05:24](https://www.youtube.com/watch?v=xi46LuZPGEs&t=324.76s)]
+*  It demands that the State Department obey the law and stop creating an Israel exception [[00:05:26](https://www.youtube.com/watch?v=xi46LuZPGEs&t=326.96s)]
+*  to an American law. [[00:05:32](https://www.youtube.com/watch?v=xi46LuZPGEs&t=332.56s)]
+*  Stop putting Israel above U.S. laws. [[00:05:33](https://www.youtube.com/watch?v=xi46LuZPGEs&t=333.56s)]
+*  Ahmed, tell me what you are hoping this lawsuit will actually accomplish. [[00:05:36](https://www.youtube.com/watch?v=xi46LuZPGEs&t=336.56s)]
+*  Obviously, the death and destruction in Gaza over the last 14 months, you can't bring these [[00:05:40](https://www.youtube.com/watch?v=xi46LuZPGEs&t=340.76s)]
+*  lives back. [[00:05:45](https://www.youtube.com/watch?v=xi46LuZPGEs&t=345.65999999999997s)]
+*  You almost can't even rebuild the lives of the people that have been lost there. [[00:05:46](https://www.youtube.com/watch?v=xi46LuZPGEs&t=346.65999999999997s)]
+*  But what are you hoping to accomplish legally with this law? [[00:05:49](https://www.youtube.com/watch?v=xi46LuZPGEs&t=349.96s)]
+*  Well, so, Justice. [[00:05:54](https://www.youtube.com/watch?v=xi46LuZPGEs&t=354.26s)]
+*  Or with this lawsuit, excuse me. [[00:05:55](https://www.youtube.com/watch?v=xi46LuZPGEs&t=355.26s)]
+*  Justice is a hard thing to wrap your head around at this point with 20,000 dead kids [[00:05:56](https://www.youtube.com/watch?v=xi46LuZPGEs&t=356.76s)]
+*  in Gaza. [[00:06:02](https://www.youtube.com/watch?v=xi46LuZPGEs&t=362.56s)]
+*  I interviewed a mother this morning to describe how she watched her 12-day-old infant draw [[00:06:03](https://www.youtube.com/watch?v=xi46LuZPGEs&t=363.56s)]
+*  his last breath as she pulled two other children out of the rubble. [[00:06:09](https://www.youtube.com/watch?v=xi46LuZPGEs&t=369.15999999999997s)]
+*  I don't expect a whole lot of relief from this lawsuit. [[00:06:14](https://www.youtube.com/watch?v=xi46LuZPGEs&t=374.36s)]
+*  I don't think anybody involved in this process is naive. [[00:06:17](https://www.youtube.com/watch?v=xi46LuZPGEs&t=377.06s)]
+*  We'd like the U.S. [[00:06:19](https://www.youtube.com/watch?v=xi46LuZPGEs&t=379.8s)]
+*  government to obey U.S. government law. [[00:06:20](https://www.youtube.com/watch?v=xi46LuZPGEs&t=380.8s)]
+*  At the same time, I'm hoping that we're establishing a trail of evidence. [[00:06:24](https://www.youtube.com/watch?v=xi46LuZPGEs&t=384.0s)]
+*  Who did what, when, which decisions were made, by whom, for posterity, really. [[00:06:31](https://www.youtube.com/watch?v=xi46LuZPGEs&t=391.96s)]
+*  I don't draw any hope that we're going to arrest this genocide. [[00:06:37](https://www.youtube.com/watch?v=xi46LuZPGEs&t=397.68s)]
+*  I don't think we're going to stop it. [[00:06:41](https://www.youtube.com/watch?v=xi46LuZPGEs&t=401.56s)]
+*  I think it's a done deal and Gaza is unlivable. [[00:06:43](https://www.youtube.com/watch?v=xi46LuZPGEs&t=403.16s)]
+*  Tell me your thoughts on the end goal here. [[00:06:48](https://www.youtube.com/watch?v=xi46LuZPGEs&t=408.92s)]
+*  What does a successful lawsuit look like from your point of view? [[00:06:52](https://www.youtube.com/watch?v=xi46LuZPGEs&t=412.2s)]
+*  It seems like there's a little bit of, I don't want to say despair, but maybe realism on [[00:06:58](https://www.youtube.com/watch?v=xi46LuZPGEs&t=418.24s)]
+*  your part, seeing that America has been able to dodge accountability for what is believed [[00:07:03](https://www.youtube.com/watch?v=xi46LuZPGEs&t=423.08s)]
+*  to be its complicitness in this genocide in Gaza. [[00:07:08](https://www.youtube.com/watch?v=xi46LuZPGEs&t=428.71999999999997s)]
+*  Yet here we are trying every way possible to bring an end to this war. [[00:07:11](https://www.youtube.com/watch?v=xi46LuZPGEs&t=431.03999999999996s)]
+*  If the State Department were to fully and faithfully enforce the law, as the Constitution [[00:07:16](https://www.youtube.com/watch?v=xi46LuZPGEs&t=436.4s)]
+*  obliges them to do, we believe that many, if not most, if not every Israeli military [[00:07:21](https://www.youtube.com/watch?v=xi46LuZPGEs&t=441.84s)]
+*  unit would be suspended from receiving U.S. military assistance. [[00:07:27](https://www.youtube.com/watch?v=xi46LuZPGEs&t=447.91999999999996s)]
+*  And that is because the evidence of their gross violations of human rights is so overwhelming, [[00:07:32](https://www.youtube.com/watch?v=xi46LuZPGEs&t=452.91999999999996s)]
+*  is so unprecedentedly horrible, and has orders coming from the senior-most leadership of [[00:07:38](https://www.youtube.com/watch?v=xi46LuZPGEs&t=458.44s)]
+*  the country, which in normal circumstances of Leahy law enforcement, if a commander gives [[00:07:44](https://www.youtube.com/watch?v=xi46LuZPGEs&t=464.44s)]
+*  an order to a unit, all of the unit is banned from aid. [[00:07:49](https://www.youtube.com/watch?v=xi46LuZPGEs&t=469.79999999999995s)]
+*  It taints the entire unit. [[00:07:53](https://www.youtube.com/watch?v=xi46LuZPGEs&t=473.88s)]
+*  And so when you have Netanyahu, the Prime Minister of the country, who's the commander [[00:07:55](https://www.youtube.com/watch?v=xi46LuZPGEs&t=475.79999999999995s)]
+*  of all the country's forces, and the defense minister, Yoav Golan, who've now both been [[00:07:59](https://www.youtube.com/watch?v=xi46LuZPGEs&t=479.56s)]
+*  indicted for war crimes and crimes against humanity, that should taint all Israeli military [[00:08:05](https://www.youtube.com/watch?v=xi46LuZPGEs&t=485.64s)]
+*  units. [[00:08:11](https://www.youtube.com/watch?v=xi46LuZPGEs&t=491.56s)]
+*  And we believe that if they did, it would make a big difference because of the extent [[00:08:12](https://www.youtube.com/watch?v=xi46LuZPGEs&t=492.64s)]
+*  to which Israel is dependent on U.S. military assistance. [[00:08:17](https://www.youtube.com/watch?v=xi46LuZPGEs&t=497.16s)]

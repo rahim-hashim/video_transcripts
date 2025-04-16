@@ -1,0 +1,90 @@
+---
+Date Generated: April 15, 2025
+Transcription Model: whisper medium 20231117
+Length: 332s
+Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
+Video Views: 5508
+Video Rating: None
+Video Description: Support our work: https://democracynow.org/donate/sm-desc-yt
+
+As Ecuador’s President Daniel Noboa claims victory in a contested election, Noboa’s leftist rival Luisa González is challenging the results, calling Noboa a “dictator” who committed election fraud to be reelected. The widow of former candidate Fernando Villavicencio also released a new video seemingly confirming allegations that Noboa had been involved in an attempt to frame a third candidate for Villavicencio’s assassination during the 2023 presidential election. Journalist José Olivares, who reported on the allegations for Drop Site News, responds to the new video and the Noboa administration’s “cozying up” to Donald Trump and his allies, including the notorious private military contractor Erik Prince.
+
+Democracy Now! is an independent global news hour that airs on over 1,500 TV and radio stations Monday through Friday. Watch our livestream at democracynow.org Mondays to Fridays 8-9 a.m. ET.
+
+Subscribe to our Daily Email Digest: https://democracynow.org/subscribe
+---
+
+# Cover-Up in Ecuador? Disputed Presidential Election Rocked by New Allegation from 2023 Assassination
+**Democracy Now Headlines:** [April 15, 2025](https://www.youtube.com/watch?v=GWyCBzdyz5Q)
+*  This is Democracy Now! [[00:00:00](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=0.0s)]
+*  I'm Amy Goodman, with Juan González. [[00:00:02](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=2.06s)]
+*  As we turn to Ecuador, where President Daniel Naboah won reelection in a runoff vote Sunday, [[00:00:04](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=4.58s)]
+*  according to preliminary results. [[00:00:10](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=10.42s)]
+*  This event has been historic. [[00:00:16](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=16.06s)]
+*  The victory has also been historic, a victory of more than 10 points, a victory of more [[00:00:18](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=18.16s)]
+*  than 1 million votes, where there is no doubt who the winner is. [[00:00:23](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=23.98s)]
+*  And it is based on perseverance, struggle, work of each of the members of this team, [[00:00:28](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=28.82s)]
+*  of this team that seeks this new Ecuador. [[00:00:34](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=34.7s)]
+*  But Naboah's leftist rival, Luis González, the successor of former President Rafael Correa, [[00:00:38](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=38.22s)]
+*  is challenging the official results. [[00:00:43](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=43.4s)]
+*  One of the exit polls gave us victory. [[00:00:49](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=49.019999999999996s)]
+*  None showed a difference like the one we are seeing at the Electoral Council. [[00:00:51](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=51.5s)]
+*  None. [[00:00:55](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=55.260000000000005s)]
+*  Therefore, I report, before my people, before the media, before the world, that Ecuador [[00:00:56](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=56.26s)]
+*  is experiencing a dictatorship. [[00:01:01](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=61.9s)]
+*  We are facing the worst and most grotesque electoral fraud in the history of the Republic [[00:01:04](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=64.25999999999999s)]
+*  of Ecuador. [[00:01:08](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=68.94s)]
+*  Daniel Naboah is a business magnate, heir to a banana industry fortune, who's made [[00:01:09](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=69.94s)]
+*  cracking down on crime as main priority, has been condemned for skirting legal norms in [[00:01:14](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=74.4s)]
+*  the process, including declaring a state of internal armed conflict to more easily deploy [[00:01:18](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=78.86s)]
+*  the military. [[00:01:23](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=83.5s)]
+*  On the eve of the election, he declared another state of emergency, barring protests and authorizing [[00:01:24](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=84.82s)]
+*  warrantless searches. [[00:01:29](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=89.86s)]
+*  For more, we're still joined by José Álvarez, investigative journalist and dropsite news [[00:01:31](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=91.69999999999999s)]
+*  contributor, where he had a recent piece headline dramatic video from widow of slain candidate [[00:01:36](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=96.39999999999999s)]
+*  Roxx presidential race in Ecuador, Confirmed Dropsite Investigation, in which he shared [[00:01:42](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=102.61999999999999s)]
+*  posted on X by Veronica Zaraos, the widow of Fernando Villavicencio. [[00:01:49](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=109.78s)]
+*  She talks about her husband's assassination in the subsequent attempt to frame the political [[00:01:56](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=116.88s)]
+*  party of the former president Rafael Correa for the murder. [[00:02:01](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=121.02s)]
+*  I am Veronica Zaraos. [[00:02:04](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=124.22s)]
+*  I want to denounce to the country and the international community an act of cover-up [[00:02:06](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=126.94s)]
+*  between the Attorney General Diana Salazar and the president Daniel Naboah, who are allowing [[00:02:13](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=133.18s)]
+*  complete impunity for the assassination and magnicide of my husband Fernando Villavicencio [[00:02:18](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=138.7s)]
+*  in August 2023, just days before the first round of elections in the last elections. [[00:02:24](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=144.38s)]
+*  I cannot and must not remain silent. [[00:02:29](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=149.94s)]
+*  For more, we're going to José Álvarez, who's joining us from Mexico City, to discuss [[00:02:32](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=152.82s)]
+*  this dramatic video and the presidential race in Ecuador. [[00:02:37](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=157.5s)]
+*  José, if you can respond. [[00:02:40](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=160.89999999999998s)]
+*  Yes, just very briefly. [[00:02:43](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=163.17999999999998s)]
+*  So in 2023, Fernando Villavicencio, this anti-corruption candidate who vowed to take [[00:02:46](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=166.1s)]
+*  on the drug and criminal organizations in Ecuador, was assassinated in the lead-up to [[00:02:52](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=172.18s)]
+*  the elections. [[00:02:57](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=177.74s)]
+*  And following after that, we saw people, supporters of Villavicencio come out and blame and essentially [[00:02:59](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=179.5s)]
+*  say that Rafael Correa and his political party were responsible for the assassination. [[00:03:05](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=185.54s)]
+*  Last year, Ryan Graham and I, at Dropsite News, we received over 1,500 leaked chats [[00:03:11](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=191.85999999999999s)]
+*  showing, from within the Attorney General's office, showing that essentially the Attorney [[00:03:17](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=197.42s)]
+*  General knew exactly probably who was responsible for the assassination of Fernando Villavicencio. [[00:03:22](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=202.66s)]
+*  However, she let this lie, this rumor, run that Correa was responsible for the assassination, [[00:03:28](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=208.98s)]
+*  and it was done with political motives, right? [[00:03:36](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=216.85999999999999s)]
+*  And so now we're seeing the widow of Fernando Villavicencio come out publicly days before [[00:03:38](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=218.98s)]
+*  this election, saying, listen, the Attorney General, Diana Salazar and Daniel Novoa, are [[00:03:43](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=223.7s)]
+*  conspiring, they're politicizing my husband's death, and essentially blaming Correa and [[00:03:49](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=229.33999999999997s)]
+*  delaying the investigation so that Daniel Novoa could have some sort of benefit in the [[00:03:55](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=235.62s)]
+*  lead-up to his election, which he won on Sunday. [[00:04:01](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=241.06s)]
+*  Jose, we only have about a minute left, but could you talk about the visit recently of [[00:04:06](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=246.34s)]
+*  Eric Prince, a Trump ally who founded a mercenary company, Blackwater, to Ecuador, where supposedly [[00:04:11](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=251.73999999999998s)]
+*  he was providing law enforcement and the military the tools and tactics to combat narco gangs? [[00:04:19](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=259.09999999999997s)]
+*  That's right. [[00:04:26](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=266.94s)]
+*  I mean, Eric Prince's visit to Ecuador was not just to sort of provide some sort of security [[00:04:27](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=267.94s)]
+*  structure or infrastructure or training to Daniel Novoa's armed forces. [[00:04:33](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=273.98s)]
+*  He was also there actively campaigning in favor of Daniel Novoa. [[00:04:38](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=278.7s)]
+*  Now, what's interesting is that we're seeing how Daniel Novoa is cozying up to the Trump [[00:04:41](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=281.94s)]
+*  administration. [[00:04:46](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=286.14s)]
+*  He was there front and center when Trump took power during his inauguration. [[00:04:47](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=287.14s)]
+*  And we're also seeing how Daniel Novoa is requesting that the U.S. government send special [[00:04:53](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=293.06s)]
+*  forces, send the U.S. military into Ecuador to also help fight in this drug war that Daniel [[00:04:57](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=297.9s)]
+*  Novoa launched last year. [[00:05:05](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=305.9s)]
+*  And we're seeing also how Eric Prince is very happy to make a deal with Daniel Novoa, to [[00:05:07](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=307.42s)]
+*  provide training, to provide services to the armed forces as they engage in this drug war [[00:05:13](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=313.62s)]
+*  that has been plagued with allegations of human rights abuses by the armed forces. [[00:05:20](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=320.46s)]
+*  Thank you. [[00:05:27](https://www.youtube.com/watch?v=GWyCBzdyz5Q&t=327.26s)]

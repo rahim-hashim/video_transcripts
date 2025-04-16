@@ -1,0 +1,156 @@
+---
+Date Generated: April 15, 2025
+Transcription Model: whisper medium 20231117
+Length: 631s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 45187
+Video Rating: None
+Video Description: Mahmoud Khalil’s legal team filed a motion seeking his release on bail so he can be with his wife for the birth of their first child. MSNBC’s Ayman Mohyeldin is joined Ramzi Kassem, attorney for Mahmoud Khalil, to discuss how Khalil is doing in detention, the real reason why he was abducted, and how dangerous this is for the future of the First Amendment and American democracy.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+
+#Ayman #MahmoudKhalil #Trump
+---
+
+# Mahmoud Khalil's lawyer: his arrest is 'test case' for how far Trump will go to repress enemies
+**MSNBC - Ayman Mohyeldin:** [March 17, 2025](https://www.youtube.com/watch?v=FUAEJg2gVOE)
+*  Before the break, I spoke about the abduction of Mahmoud Khalil. [[00:00:00](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=0.0s)]
+*  He was detained one week ago tonight by DHS agents in plain clothes. [[00:00:03](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=3.3200000000000003s)]
+*  And there's a new development that we are among the first to report on tonight. [[00:00:07](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=7.96s)]
+*  Khalil's lawyers filed a motion for bail today, arguing that their client is not a [[00:00:11](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=11.64s)]
+*  flight risk and should be allowed to return home for the birth of their first child. [[00:00:16](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=16.52s)]
+*  The filing includes this declaration submitted by Khalil's wife, who is an American citizen [[00:00:21](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=21.400000000000002s)]
+*  and is eight months pregnant, pleading to the court to allow for her husband to be granted that bail. [[00:00:26](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=26.04s)]
+*  She states, in part, [[00:00:31](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=31.88s)]
+*  But I know that this stress and all that comes with it is not good for him. [[00:00:56](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=56.04s)]
+*  Joining me now is Ramzi Qasem, professor of law at the City University of New York and co-director of CLEAR, [[00:01:02](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=62.64s)]
+*  a legal nonprofit and clinic that represents Mr. Khalil. [[00:01:08](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=68.32s)]
+*  Ramzi, it's great to have you on the show. [[00:01:12](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=72.56s)]
+*  I'm so sorry it's under these circumstances. [[00:01:13](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=73.96000000000001s)]
+*  Let me just start kind of with some basics. [[00:01:16](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=76.88s)]
+*  First of all, how is the communication with Mahmoud? [[00:01:18](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=78.36s)]
+*  Have you been able to speak to him? [[00:01:20](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=80.52s)]
+*  What can you tell us just about his overall state and the condition that he's being held in? [[00:01:21](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=81.6s)]
+*  Yeah, so thanks to a court order that we were able to obtain in court on Wednesday during the first hearing in this case, [[00:01:26](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=86.04s)]
+*  the judge ordered the government to allow us to have our first attorney-client privileged conversations with Mahmoud [[00:01:33](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=93.28s)]
+*  since he was taken by U.S. government agents from his wife off the streets of New York City. [[00:01:37](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=97.88s)]
+*  And so I was able to have two privileged calls with him, one audio, one video with some of my colleagues. [[00:01:42](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=102.64s)]
+*  Look, he's in fighting spirits, all things considered. [[00:01:50](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=110.4s)]
+*  He's extremely worried primarily about his wife, who's pregnant and expecting their first child next month. [[00:01:53](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=113.32000000000001s)]
+*  He wants to get back to her as soon as possible. [[00:01:58](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=118.52s)]
+*  That's first and foremost on his mind. [[00:02:00](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=120.88s)]
+*  And, you know, he and we will fight for as long as it takes in court to get him back home. [[00:02:03](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=123.52s)]
+*  And what can you tell us about Noor really quickly, how her conditions are? [[00:02:08](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=128.6s)]
+*  I mean, I know we mentioned a little bit of this submission that was entered into court today, [[00:02:11](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=131.4s)]
+*  but what can you tell us about how she's doing and holding up? [[00:02:17](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=137.08s)]
+*  Well, I think the declaration says it all. [[00:02:19](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=139.52s)]
+*  I mean, she's been stripped of her primary support at a very critical stage in her pregnancy. [[00:02:21](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=141.12s)]
+*  So it's ups and downs for her. [[00:02:27](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=147.12s)]
+*  Some days, some hours are better than others. [[00:02:29](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=149.60000000000002s)]
+*  But overall, she's also, she intends to persevere and support Mahmoud for as long as it takes until he comes home. [[00:02:32](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=152.08s)]
+*  We'll get into the legalities of the case in just a moment. [[00:02:37](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=157.56s)]
+*  But just tell me, what's your takeaway of how he was abducted, the way he was kind of taken by plainclothes police officers, [[00:02:39](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=159.64000000000001s)]
+*  then transferred, I think there was some back and forth between New York, New Jersey, New York, [[00:02:46](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=166.72000000000003s)]
+*  and then ultimately Louisiana. [[00:02:50](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=170.48s)]
+*  What do you make of just that whole process? [[00:02:51](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=171.76s)]
+*  Everything about this case, including that, his abduction, has been extraordinary. [[00:02:54](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=174.67999999999998s)]
+*  These were ICE agents, Homeland Security Investigations, which is a part of ICE. [[00:03:00](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=180.92s)]
+*  They showed up at his home. [[00:03:06](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=186.48s)]
+*  Two of them were already actually inside the vestibule when he walked in. [[00:03:08](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=188.2s)]
+*  Two walked in with him and his wife. [[00:03:10](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=190.92s)]
+*  They refused to show a warrant. [[00:03:13](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=193.07999999999998s)]
+*  Even when one of his attorneys was on the phone talking to one of the agents, the agents still refused to produce a warrant. [[00:03:14](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=194.6s)]
+*  And then the fact that you would take a green card holder, a U.S. person, a lawful permanent resident, [[00:03:21](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=201.44s)]
+*  who has not been convicted or charged or accused of any crime, take him into detention, would be highly unusual. [[00:03:26](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=206.32s)]
+*  But that you would take him into detention and move him to Louisiana, there are some shenanigans going on here. [[00:03:33](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=213.64s)]
+*  And before he was abducted, I understand he was also concerned for his safety. [[00:03:39](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=219.51999999999998s)]
+*  There's been some reporting by colleagues of ours at Zateo and elsewhere that he was worried for an escalation, if you will. [[00:03:44](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=224.35999999999999s)]
+*  Is that correct? Is that safe to say? [[00:03:51](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=231.79999999999998s)]
+*  That's absolutely correct, Iman. [[00:03:53](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=233.16s)]
+*  I mean, Friday night, so the night before he was taken by government agents, [[00:03:54](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=234.32s)]
+*  he sent an email to the president of the current president of Columbia University, [[00:03:59](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=239.04s)]
+*  complaining that he was feeling unsafe, that he was worried for his own safety and the safety of his wife. [[00:04:04](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=244.16s)]
+*  What was that based on? [[00:04:09](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=249.35999999999999s)]
+*  He was worried that ICE was going to come and get him because of all the rhetoric out of the government. [[00:04:10](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=250.4s)]
+*  And he was asking for the university's protection and for a university that spent the better part of the last year and a half talking about student safety. [[00:04:15](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=255.36s)]
+*  Columbia has been remarkably silent and absent as ICE has run rampant on campus. [[00:04:21](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=261.68s)]
+*  About Columbia's role in this, do they have an obligation to cooperate with the government? [[00:04:27](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=267.48s)]
+*  Had they seen a warrant? [[00:04:32](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=272.48s)]
+*  Do you know if any of that was presented to them as to why ICE agents were inside this building [[00:04:33](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=273.56s)]
+*  while a student or ex-student, former student was returning to his university sanctioned housing? [[00:04:39](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=279.0s)]
+*  That is a really good question for Columbia. [[00:04:45](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=285.72s)]
+*  It's one that we would like to get to the bottom of. [[00:04:48](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=288.28s)]
+*  We don't know exactly what Columbia's role was in Mahmoud's abduction. [[00:04:50](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=290.52s)]
+*  We hope that Columbia was not complicit, but we would like to get to the bottom of that. [[00:04:55](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=295.6s)]
+*  Are you worried that he can be deported before the legal process plays out? [[00:04:59](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=299.92s)]
+*  Do you feel it has gotten to a point right now where with the attention, with the spotlight, with all the legal machinations that are taking place, that won't happen yet? [[00:05:03](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=303.88s)]
+*  It's hard to say what this administration will do in any circumstance, but the combination of the pressure from the street, the attention appropriately from the media, [[00:05:13](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=313.84s)]
+*  and the fact that the court also quite appropriately ordered the government not to remove him from the United States until further order gives me some reassurance. [[00:05:21](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=321.84s)]
+*  But not complete reassurance. [[00:05:29](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=329.84s)]
+*  We're fighting hard on every front. [[00:05:31](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=331.56s)]
+*  We filed multiple motions to try to get him out and to try to bring him back home to New York City. [[00:05:32](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=332.88s)]
+*  So let's talk about what this case kind of boils down to and what the two sides are saying on the legal side. [[00:05:37](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=337.68s)]
+*  There are some that are saying, and this was what was actually highlighted in the letter that I believe was given to him in his instruction to appear in front of a judge, [[00:05:42](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=342.84s)]
+*  which was he was a threat to American foreign policy and that the secretary of state retains or has the right to deport him just being a threat to national security. [[00:05:50](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=350.71999999999997s)]
+*  More specifically to foreign policy, as I understood it. [[00:06:02](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=362.48s)]
+*  It's not even national security, right? [[00:06:04](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=364.6s)]
+*  That's exactly right. It is not national security. [[00:06:05](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=365.71999999999997s)]
+*  I just want to be clear. It's not national security. It's foreign policy. [[00:06:07](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=367.71999999999997s)]
+*  That's right. It is foreign policy. [[00:06:09](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=369.92s)]
+*  And actually, I mean, if we're being completely honest, it's about his First Amendment rights. [[00:06:10](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=370.96s)]
+*  It's the fact that he exercised his rights in support of the Palestinian people and their dignity and their right to live. [[00:06:15](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=375.0s)]
+*  I mean, that's fundamentally what's at issue here. [[00:06:21](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=381.15999999999997s)]
+*  But what they've put on paper has nothing to do with terrorism, has nothing to do with national security. [[00:06:23](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=383.15999999999997s)]
+*  As you appropriately pointed out, it's quite absurd, like this notion that students somehow have the power through their speech to harm foreign policy when they can't even influence it. [[00:06:28](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=388.47999999999996s)]
+*  And it's a rare provision of immigration law. [[00:06:37](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=397.12s)]
+*  It is esoteric, actually, very rarely used, never used actually for punishing students' speech. [[00:06:39](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=399.52s)]
+*  I mean, it's used to deport people who interfered with democracy in their home countries. [[00:06:46](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=406.64s)]
+*  But really, the notion that you would use that to stifle speech that the government happens to disagree with is shocking. [[00:06:51](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=411.04s)]
+*  So, Steve, can you set the record straight for us? [[00:06:58](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=418.56s)]
+*  I mean, do permanent residents have First Amendment rights? [[00:07:01](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=421.76s)]
+*  There's always this kind of like debate as to whether American citizens have certain rights, like American citizens have the right to vote so they have more rights per the Constitution. [[00:07:05](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=425.2s)]
+*  Do permanent residents have First Amendment rights? [[00:07:13](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=433.36s)]
+*  The Supreme Court has been unequivocal about this. [[00:07:16](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=436.16s)]
+*  Permanent residents have the same First Amendment rights as U.S. citizens inside the country. [[00:07:19](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=439.44s)]
+*  And in fact, any person inside the country, whether they are a citizen or not, whether they're a permanent resident or not, even if they're here on a visa, they have First Amendment rights. [[00:07:24](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=444.23999999999995s)]
+*  They have due process rights, which extend to every person. [[00:07:32](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=452.88s)]
+*  And Mr. Khalil has been deprived of all of those constitutional rights. [[00:07:35](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=455.44s)]
+*  And that should be a cause for concern, not just for people who care about Palestinians or care about Mr. Khalil. [[00:07:38](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=458.88s)]
+*  That should be a cause for concern for any American who believes in free speech, who believes in due process. [[00:07:44](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=464.32s)]
+*  And it seems that this case is one of many—I mean, certainly the beginning of what I believe and what others believe is a potential crackdown on other students and other First Amendment rights in this country. [[00:07:49](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=469.52s)]
+*  Was I incorrect in my characterization that this is a defining moment for America for generations to come, depending on how this case plays out? [[00:08:01](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=481.2s)]
+*  You are absolutely correct. This is a test case. [[00:08:09](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=489.52s)]
+*  From the government's perspective, it's a test case. [[00:08:13](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=493.03999999999996s)]
+*  They want to see how this goes, because if it works out for them, it'll be the template that they apply to every other issue that they ideologically disagree with. [[00:08:16](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=496.0s)]
+*  It's not about pro-Palestine speech. [[00:08:24](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=504.0s)]
+*  You can disagree with what Mr. Khalil believes and still believe that he should have a right to say it and remain in this country as a lawful permanent resident. [[00:08:25](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=505.92s)]
+*  Believe you me, if they get away with this in Mr. Khalil's case, they will apply this model, they will apply this template to every other issue set that they happen to disagree with. [[00:08:33](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=513.6800000000001s)]
+*  The second part of the legal part of the arguments that people have been making for his deportation is whether or not what he was participating in or engaging in was in support of a terrorist organization. [[00:08:42](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=522.5600000000001s)]
+*  And again, I come back to this point is, if you were verbally supporting a terrorist organization, is that enough for you to have your First Amendment rights revoked in this country? [[00:08:54](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=534.32s)]
+*  So, let me just be very— [[00:09:03](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=543.9200000000001s)]
+*  We had a rally in this country in support of Nazism with people chanting, neo-Nazis chanting, the Jews will not replace us, and the president of the United States came out at the time and said, very fine people on both sides. [[00:09:06](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=546.0s)]
+*  Yeah, I mean, look, so let me just say, first of all, to be very clear, Mr. Khalil did not distribute any flyers. [[00:09:16](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=556.64s)]
+*  He disagrees with the content of those flyers. He denies all of that. [[00:09:23](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=563.8399999999999s)]
+*  And his role really was to mediate between protesters and the administration. [[00:09:27](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=567.44s)]
+*  And his only goal as a student activist was for Colombia to divest from the ongoing atrocities that Israel is perpetrating in Gaza and beyond. [[00:09:31](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=571.44s)]
+*  Now, as a legal matter, you know, the Supreme Court has also spoken quite clearly in a seminal case that you can even express support for a terrorist organization in the United States, [[00:09:38](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=578.96s)]
+*  as long as it's not in coordination or at the direction or at the behest of that organization. [[00:09:50](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=590.24s)]
+*  That is considered free speech, and it's not punishable under the criminal law. [[00:09:54](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=594.9599999999999s)]
+*  Under immigration law, that's a different matter. The standards are lower. [[00:09:58](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=598.7199999999999s)]
+*  But in any event, again, Mr. Khalil has no ties to Hamas. He never distributed any such flyers. [[00:10:02](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=602.24s)]
+*  His only goal was for Colombia to divest from the Israeli government. [[00:10:07](https://www.youtube.com/watch?v=FUAEJg2gVOE&t=607.4399999999999s)]
