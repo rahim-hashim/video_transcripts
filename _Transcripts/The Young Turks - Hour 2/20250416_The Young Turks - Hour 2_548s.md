@@ -1,0 +1,410 @@
+---
+Date Generated: April 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 548s
+Video Keywords: ['250416__BE01_Jesse_Waters', 'News', 'Politics', 'TYT', 'The Young Turks', 'Cenk Uygur', 'Progressive', 'TYT Network', 'Ana Kasparian', 'political establishment', 'John Iadarola', 'Breaking News', 'Donald Trump', 'Trump', '2024 election', '2024', 'Rebel HQ', 'Election', 'Trump 2024', 'Republican', 'Democrat', 'Congress', 'Senate', 'Brett Erlich', 'Jesse Watters', 'Fox News', 'Kilmar Abrego Garcia', 'Chicago Bulls']
+Video Views: 10457
+Video Rating: None
+Video Description: Fox News host Jesse Watters argue that there is now way deported Maryland man Kilmar Abrego Garcia was actually a Chicago Bulls fan.
+
+John Iadarola and Brett Erlich discuss on The Young Turks. Do you agree with TYT's take? Tell us what you think in the comments below. SUBSCRIBE today: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+
+Help support our mission and get perks https://www.youtube.com/TheYoungTurks/join
+
+Read more HERE:  https://www.mediaite.com/tv/jesse-watters-argues-everyone-knows-deportees-chicago-bulls-hat-was-gang-identifier/
+
+"Fox News host Jesse Watters argued that “everyone knows” in El Salvador knows that Chicago Bulls merchandise is an MS-13 gang signifier as he mocked the idea that deported Maryland man Kilmar Abrego Garcia was really a fan of the team.
+
+Garcia, born in El Salvador, fled to the U.S. after his family became a target of gang extortion. According to his legal filings, a local gang had begun threatening his grandmother’s small tortilla shop, demanding money and issuing death threats. Fearing for his life, Garcia crossed the border as a teen and eventually settled in Maryland, with a wife and children, where he has lived for years while seeking asylum."
+
+*** 
+
+Your Support is Crucial to the Show: https://go.tyt.com/jointoday
+
+The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live
+
+Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: ▶ https://www.youtube.com/TheYoungTurks/join
+
+TYT is the largest online news network in the country. It presents news, context and analysis. We have dozens of on-air hosts on half a dozen major channels on almost all the platforms. We also have a live 24-hour news channel that features all our shows.
+
+The Young Turks is the flagship show of the TYY Network. The Young Turks is the longest running daily show in internet history. We’re about to celebrate our 20th anniversary as a digital native show. We are also the first ever YouTube partner channel. So, we are the original YouTubers.
+
+On the network, we do things a little differently than other places. We present the news first, with all of the facts and context you need, which is a rarity in commentary-heavy online shows. We then also give analysis and perspective, which is rare in traditional news.
+
+Our commentary and perspective are almost always on the left, but we have an enormous range of opinions on the network. Hosts are allowed to think and say whatever they like. Perspectives usually range from the far left to the center of the political spectrum.
+
+Now, our presence and range is large enough that we are adopting the tagline The Online News Network. Our longevity, our 27 million subscribers and 30 billion lifetime views allows us to make this claim confidently.
+
+TYT emphasizes open-minds and open-hearts. We believe in fighting for the average American. We believe in challenging the powerful. We are vigilant about pursuing the truth to the best of our abilities and for always being honest with our audience. We’ve been proud to serve the internet for longer than any other news show or network. As one of the founding fathers and mothers of online media, we have always believed that digital media would become the dominant news source for all Americans. We’re thrilled that day is here and that TYT is where everyone can come to see The Online News Network.
+
+TYT includes owned and operated and partner shows such as The Young Turks, The Damage Report, Indisputable, and more.
+
+TYT’s 24/7 programming is available on YouTube TV, Samsung TV, Plus, Roku, Xumo, TCLtv+, Fubo, and more.
+
+TYT is also available as a podcast on Spotify, Apple Podcasts, TuneIn, Amazon Music, and more.
+
+SUBSCRIBE on YOUTUBE: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+FACEBOOK: ☞ http://www.facebook.com/TheYoungTurks
+TWITTER: ☞ http://www.twitter.com/TheYoungTurks
+INSTAGRAM: ☞ http://www.instagram.com/TheYoungTurks
+TWITCH: ☞ http://www.twitch.com/tyt
+
+👕 Merch: http://shoptyt.com
+
+❤ Donate: http://www.tyt.com/go
+
+🔗 Website: https://www.tyt.com
+
+
+If you want to watch more videos from TYT, consider subscribing to other channels in our network:
+
+The Watchlist https://www.youtube.com/watchlisttyt
+
+Indisputable with Dr. Rashad Richey https://www.youtube.com/indisputabletyt
+
+The Damage Report ▶ https://www.youtube.com/thedamagereport
+
+TYT Sports ▶ https://www.youtube.com/tytsports
+
+The Conversation ▶ https://www.youtube.com/tytconversation
+
+Rebel HQ ▶ https://www.youtube.com/rebelhq
+
+TYT Investigates ▶ https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA
+
+
+#TYT #TheYoungTurks #BreakingNews
+
+250416__BE01_Jesse_Waters
+---
+
+# Jesse Watters' IDIOTIC Argument Against Kilmar Abrego Garcia
+**The Young Turks - Hour 2:** [April 16, 2025](https://www.youtube.com/watch?v=x13wbrVV7SE)
+*  A local gang in El Salvador was [[00:00:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=0.0s)]
+*  shaking down his grandma's tortilla [[00:00:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=2.22s)]
+*  shop. [[00:00:04](https://www.youtube.com/watch?v=x13wbrVV7SE&t=4.78s)]
+*  It's a tortilla blood vendetta, [[00:00:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=5.44s)]
+*  seriously. [[00:00:07](https://www.youtube.com/watch?v=x13wbrVV7SE&t=7.54s)]
+*  I love that Jesse Waters is having [[00:00:09](https://www.youtube.com/watch?v=x13wbrVV7SE&t=9.02s)]
+*  fun as everyone here, especially [[00:00:10](https://www.youtube.com/watch?v=x13wbrVV7SE&t=10.92s)]
+*  the family of Kilmar and [[00:00:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=12.88s)]
+*  Breger Garcia, waits to find out if [[00:00:14](https://www.youtube.com/watch?v=x13wbrVV7SE&t=14.16s)]
+*  he's still alive. [[00:00:16](https://www.youtube.com/watch?v=x13wbrVV7SE&t=16.04s)]
+*  We were told that he was, [[00:00:17](https://www.youtube.com/watch?v=x13wbrVV7SE&t=17.48s)]
+*  no evidence has been provided of [[00:00:18](https://www.youtube.com/watch?v=x13wbrVV7SE&t=18.900000000000002s)]
+*  that. [[00:00:20](https://www.youtube.com/watch?v=x13wbrVV7SE&t=20.7s)]
+*  Nobody in the US government cares [[00:00:21](https://www.youtube.com/watch?v=x13wbrVV7SE&t=21.2s)]
+*  to bring back this 100% innocent [[00:00:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=23.12s)]
+*  man who a court had already ordered [[00:00:24](https://www.youtube.com/watch?v=x13wbrVV7SE&t=24.92s)]
+*  could not be deported there for [[00:00:26](https://www.youtube.com/watch?v=x13wbrVV7SE&t=26.96s)]
+*  Jesse Waters. [[00:00:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=28.9s)]
+*  It's a joke, it's fun. [[00:00:29](https://www.youtube.com/watch?v=x13wbrVV7SE&t=29.979999999999997s)]
+*  It's a tortilla blood bath. [[00:00:31](https://www.youtube.com/watch?v=x13wbrVV7SE&t=31.979999999999997s)]
+*  But no, that's really, [[00:00:33](https://www.youtube.com/watch?v=x13wbrVV7SE&t=33.98s)]
+*  it was bad what was happening [[00:00:35](https://www.youtube.com/watch?v=x13wbrVV7SE&t=35.3s)]
+*  there. [[00:00:36](https://www.youtube.com/watch?v=x13wbrVV7SE&t=36.78s)]
+*  Having gang violence targeting [[00:00:37](https://www.youtube.com/watch?v=x13wbrVV7SE&t=37.3s)]
+*  perfectly innocent people just [[00:00:39](https://www.youtube.com/watch?v=x13wbrVV7SE&t=39.14s)]
+*  trying to operate a business. [[00:00:40](https://www.youtube.com/watch?v=x13wbrVV7SE&t=40.98s)]
+*  See, when it's Americans that are [[00:00:42](https://www.youtube.com/watch?v=x13wbrVV7SE&t=42.94s)]
+*  being victimized by a gang, [[00:00:44](https://www.youtube.com/watch?v=x13wbrVV7SE&t=44.94s)]
+*  that's justification for [[00:00:46](https://www.youtube.com/watch?v=x13wbrVV7SE&t=46.56s)]
+*  setting aside the Constitution, [[00:00:48](https://www.youtube.com/watch?v=x13wbrVV7SE&t=48.019999999999996s)]
+*  deporting millions of people. [[00:00:49](https://www.youtube.com/watch?v=x13wbrVV7SE&t=49.82s)]
+*  But it's a joke when it happens in [[00:00:51](https://www.youtube.com/watch?v=x13wbrVV7SE&t=51.5s)]
+*  El Salvador, I guess. [[00:00:53](https://www.youtube.com/watch?v=x13wbrVV7SE&t=53.099999999999994s)]
+*  Well, it was not for [[00:00:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=54.06s)]
+*  this family, actually. [[00:00:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=54.980000000000004s)]
+*  They did have to flee trying [[00:00:56](https://www.youtube.com/watch?v=x13wbrVV7SE&t=56.5s)]
+*  desperately to not die. [[00:00:58](https://www.youtube.com/watch?v=x13wbrVV7SE&t=58.18s)]
+*  In any event, I want to go through [[00:00:59](https://www.youtube.com/watch?v=x13wbrVV7SE&t=59.94s)]
+*  a little bit more of what Jesse [[00:01:01](https://www.youtube.com/watch?v=x13wbrVV7SE&t=61.7s)]
+*  Waters is saying, [[00:01:03](https://www.youtube.com/watch?v=x13wbrVV7SE&t=63.22s)]
+*  some of the misinformation he's [[00:01:04](https://www.youtube.com/watch?v=x13wbrVV7SE&t=64.14s)]
+*  willingly spreading about Garcia. [[00:01:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=65.82s)]
+*  Let's jump into this. [[00:01:07](https://www.youtube.com/watch?v=x13wbrVV7SE&t=67.74s)]
+*  According to court documents, [[00:01:09](https://www.youtube.com/watch?v=x13wbrVV7SE&t=69.66s)]
+*  Garcia and three other men were [[00:01:11](https://www.youtube.com/watch?v=x13wbrVV7SE&t=71.22s)]
+*  arrested in 2019. [[00:01:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=72.7s)]
+*  He was asked if he was a gang [[00:01:14](https://www.youtube.com/watch?v=x13wbrVV7SE&t=74.3s)]
+*  member, he said no. [[00:01:15](https://www.youtube.com/watch?v=x13wbrVV7SE&t=75.46000000000001s)]
+*  Garcia had been deemed a gang [[00:01:16](https://www.youtube.com/watch?v=x13wbrVV7SE&t=76.78s)]
+*  member by the Prince George's [[00:01:18](https://www.youtube.com/watch?v=x13wbrVV7SE&t=78.14s)]
+*  County Police Department in part, [[00:01:19](https://www.youtube.com/watch?v=x13wbrVV7SE&t=79.7s)]
+*  because he was at the time wearing [[00:01:21](https://www.youtube.com/watch?v=x13wbrVV7SE&t=81.5s)]
+*  a Chicago Bulls hat and a hoodie. [[00:01:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=83.3s)]
+*  Garcia is a Bulls fan, but [[00:01:25](https://www.youtube.com/watch?v=x13wbrVV7SE&t=85.82s)]
+*  he's from El Salvador, and [[00:01:27](https://www.youtube.com/watch?v=x13wbrVV7SE&t=87.5s)]
+*  he lives in Maryland, not Chicago. [[00:01:29](https://www.youtube.com/watch?v=x13wbrVV7SE&t=89.3s)]
+*  The Bulls lost 60 games in 2019, [[00:01:31](https://www.youtube.com/watch?v=x13wbrVV7SE&t=91.94s)]
+*  so why the hat? [[00:01:34](https://www.youtube.com/watch?v=x13wbrVV7SE&t=94.28s)]
+*  Can Garcia name anyone on the team, [[00:01:36](https://www.youtube.com/watch?v=x13wbrVV7SE&t=96.34s)]
+*  anyone on any Bulls team besides [[00:01:38](https://www.youtube.com/watch?v=x13wbrVV7SE&t=98.46s)]
+*  Jordan? [[00:01:40](https://www.youtube.com/watch?v=x13wbrVV7SE&t=100.38s)]
+*  Everyone from El Salvador knows [[00:01:40](https://www.youtube.com/watch?v=x13wbrVV7SE&t=100.94s)]
+*  what it means when you wear [[00:01:42](https://www.youtube.com/watch?v=x13wbrVV7SE&t=102.98s)]
+*  a Bulls hat. [[00:01:44](https://www.youtube.com/watch?v=x13wbrVV7SE&t=104.58s)]
+*  It means you're MS-13. [[00:01:45](https://www.youtube.com/watch?v=x13wbrVV7SE&t=105.62s)]
+*  When you're in Compton, [[00:01:47](https://www.youtube.com/watch?v=x13wbrVV7SE&t=107.98s)]
+*  you don't accidentally wear red and [[00:01:49](https://www.youtube.com/watch?v=x13wbrVV7SE&t=109.46000000000001s)]
+*  say, I didn't know red was bloods. [[00:01:51](https://www.youtube.com/watch?v=x13wbrVV7SE&t=111.5s)]
+*  I'm glad that this is so convincing [[00:01:55](https://www.youtube.com/watch?v=x13wbrVV7SE&t=115.26s)]
+*  to Jesse Waters that he no longer [[00:01:57](https://www.youtube.com/watch?v=x13wbrVV7SE&t=117.1s)]
+*  has to pretend to give a damn about [[00:01:58](https://www.youtube.com/watch?v=x13wbrVV7SE&t=118.82s)]
+*  innocence versus guilt, [[00:02:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=120.58s)]
+*  the Constitution, life, [[00:02:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=122.1s)]
+*  anything like that. [[00:02:03](https://www.youtube.com/watch?v=x13wbrVV7SE&t=123.78s)]
+*  No, it's done, [[00:02:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=125.38s)]
+*  you're from El Salvador. [[00:02:06](https://www.youtube.com/watch?v=x13wbrVV7SE&t=126.1s)]
+*  How the hell could you possibly [[00:02:07](https://www.youtube.com/watch?v=x13wbrVV7SE&t=127.1s)]
+*  care about the Bulls? [[00:02:08](https://www.youtube.com/watch?v=x13wbrVV7SE&t=128.54s)]
+*  Name a player. [[00:02:09](https://www.youtube.com/watch?v=x13wbrVV7SE&t=129.82s)]
+*  If you can't name a player, [[00:02:10](https://www.youtube.com/watch?v=x13wbrVV7SE&t=130.9s)]
+*  you can't possibly actually care [[00:02:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=132.34s)]
+*  about it. [[00:02:13](https://www.youtube.com/watch?v=x13wbrVV7SE&t=133.98s)]
+*  Okay, Jesse Waters, [[00:02:14](https://www.youtube.com/watch?v=x13wbrVV7SE&t=134.82s)]
+*  name 10 trans NCAA competitors. [[00:02:16](https://www.youtube.com/watch?v=x13wbrVV7SE&t=136.14s)]
+*  Five, two, name two of them. [[00:02:19](https://www.youtube.com/watch?v=x13wbrVV7SE&t=139.46s)]
+*  You certainly talk about [[00:02:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=143.02s)]
+*  women's football, [[00:02:24](https://www.youtube.com/watch?v=x13wbrVV7SE&t=144.26s)]
+*  but you don't talk about women's [[00:02:25](https://www.youtube.com/watch?v=x13wbrVV7SE&t=145.26s)]
+*  football topic enough. [[00:02:26](https://www.youtube.com/watch?v=x13wbrVV7SE&t=146.89999999999998s)]
+*  Do you actually care about female [[00:02:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=148.34s)]
+*  athletes or are you actually [[00:02:30](https://www.youtube.com/watch?v=x13wbrVV7SE&t=150.1s)]
+*  a member of MS-13? [[00:02:31](https://www.youtube.com/watch?v=x13wbrVV7SE&t=151.62s)]
+*  So look, all of this, [[00:02:32](https://www.youtube.com/watch?v=x13wbrVV7SE&t=152.85999999999999s)]
+*  the specifics don't matter. [[00:02:34](https://www.youtube.com/watch?v=x13wbrVV7SE&t=154.14s)]
+*  I mean, the specifics of what [[00:02:36](https://www.youtube.com/watch?v=x13wbrVV7SE&t=156.06s)]
+*  Jesse Waters has to say about this. [[00:02:37](https://www.youtube.com/watch?v=x13wbrVV7SE&t=157.45999999999998s)]
+*  Why he's talking about it [[00:02:39](https://www.youtube.com/watch?v=x13wbrVV7SE&t=159.22s)]
+*  is what matters. [[00:02:41](https://www.youtube.com/watch?v=x13wbrVV7SE&t=161.26s)]
+*  So Jesse Waters is seeing that [[00:02:42](https://www.youtube.com/watch?v=x13wbrVV7SE&t=162.73999999999998s)]
+*  America is turning against Donald [[00:02:44](https://www.youtube.com/watch?v=x13wbrVV7SE&t=164.57999999999998s)]
+*  Trump and his administration on [[00:02:46](https://www.youtube.com/watch?v=x13wbrVV7SE&t=166.45999999999998s)]
+*  the topic of immigration. [[00:02:48](https://www.youtube.com/watch?v=x13wbrVV7SE&t=168.26s)]
+*  More Americans now disagree with [[00:02:49](https://www.youtube.com/watch?v=x13wbrVV7SE&t=169.57999999999998s)]
+*  Trump and his administration on [[00:02:51](https://www.youtube.com/watch?v=x13wbrVV7SE&t=171.26s)]
+*  the number one topic. [[00:02:52](https://www.youtube.com/watch?v=x13wbrVV7SE&t=172.9s)]
+*  If he loses that, [[00:02:53](https://www.youtube.com/watch?v=x13wbrVV7SE&t=173.82000000000002s)]
+*  he basically has nothing. [[00:02:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=174.82000000000002s)]
+*  And the reason he's losing it is [[00:02:56](https://www.youtube.com/watch?v=x13wbrVV7SE&t=176.74s)]
+*  because of all of this cruelty, [[00:02:58](https://www.youtube.com/watch?v=x13wbrVV7SE&t=178.66000000000003s)]
+*  evil and incompetence. [[00:03:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=180.5s)]
+*  Not just with Garcia, you have [[00:03:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=182.10000000000002s)]
+*  the hairdresser that was deported. [[00:03:03](https://www.youtube.com/watch?v=x13wbrVV7SE&t=183.70000000000002s)]
+*  You have all of these just good [[00:03:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=185.42000000000002s)]
+*  people being locked up. [[00:03:06](https://www.youtube.com/watch?v=x13wbrVV7SE&t=186.94000000000003s)]
+*  Not because they've committed any [[00:03:08](https://www.youtube.com/watch?v=x13wbrVV7SE&t=188.58s)]
+*  crime, they haven't. [[00:03:10](https://www.youtube.com/watch?v=x13wbrVV7SE&t=190.14000000000001s)]
+*  But because they happen to be [[00:03:11](https://www.youtube.com/watch?v=x13wbrVV7SE&t=191.14000000000001s)]
+*  brown or they happen to have [[00:03:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=192.66000000000003s)]
+*  an opinion that Donald Trump [[00:03:14](https://www.youtube.com/watch?v=x13wbrVV7SE&t=194.18s)]
+*  doesn't agree with. [[00:03:15](https://www.youtube.com/watch?v=x13wbrVV7SE&t=195.86s)]
+*  All of this goes directly against [[00:03:17](https://www.youtube.com/watch?v=x13wbrVV7SE&t=197.5s)]
+*  so many of the values that Fox News [[00:03:19](https://www.youtube.com/watch?v=x13wbrVV7SE&t=199.06s)]
+*  hosts used to pretend to have, [[00:03:20](https://www.youtube.com/watch?v=x13wbrVV7SE&t=200.66000000000003s)]
+*  particularly around freedom of [[00:03:22](https://www.youtube.com/watch?v=x13wbrVV7SE&t=202.14s)]
+*  speech. [[00:03:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=203.82s)]
+*  And so they see their control of [[00:03:24](https://www.youtube.com/watch?v=x13wbrVV7SE&t=204.7s)]
+*  this narrative slipping away. [[00:03:26](https://www.youtube.com/watch?v=x13wbrVV7SE&t=206.5s)]
+*  And that's why he's fighting back [[00:03:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=208.42s)]
+*  by spreading willful lies about [[00:03:30](https://www.youtube.com/watch?v=x13wbrVV7SE&t=210.38s)]
+*  Garcia, trying to get people to [[00:03:32](https://www.youtube.com/watch?v=x13wbrVV7SE&t=212.22s)]
+*  root for the continued suffering [[00:03:34](https://www.youtube.com/watch?v=x13wbrVV7SE&t=214.22s)]
+*  of this family. [[00:03:36](https://www.youtube.com/watch?v=x13wbrVV7SE&t=216.34s)]
+*  To be fine if it inevitably turns [[00:03:38](https://www.youtube.com/watch?v=x13wbrVV7SE&t=218.01999999999998s)]
+*  out that this guy has actually been [[00:03:39](https://www.youtube.com/watch?v=x13wbrVV7SE&t=219.7s)]
+*  killed in prison. [[00:03:41](https://www.youtube.com/watch?v=x13wbrVV7SE&t=221.57999999999998s)]
+*  That's the point of all this. [[00:03:42](https://www.youtube.com/watch?v=x13wbrVV7SE&t=222.42s)]
+*  By the way, the Bulls has 45 [[00:03:43](https://www.youtube.com/watch?v=x13wbrVV7SE&t=223.78s)]
+*  million followers across all [[00:03:45](https://www.youtube.com/watch?v=x13wbrVV7SE&t=225.82s)]
+*  channels, more than 70% of their [[00:03:48](https://www.youtube.com/watch?v=x13wbrVV7SE&t=228.06s)]
+*  followers hail from outside of [[00:03:50](https://www.youtube.com/watch?v=x13wbrVV7SE&t=230.94s)]
+*  the US. [[00:03:53](https://www.youtube.com/watch?v=x13wbrVV7SE&t=233.1s)]
+*  According to YouGov, the Bulls have [[00:03:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=234.17999999999998s)]
+*  nearly 22 million fans across [[00:03:55](https://www.youtube.com/watch?v=x13wbrVV7SE&t=235.98s)]
+*  Latin America, Spain, and [[00:03:57](https://www.youtube.com/watch?v=x13wbrVV7SE&t=237.54s)]
+*  the US who speak Spanish. [[00:03:58](https://www.youtube.com/watch?v=x13wbrVV7SE&t=238.94s)]
+*  12% of Bulls social media followers [[00:04:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=240.45999999999998s)]
+*  identify as Spanish speaking. [[00:04:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=242.61999999999998s)]
+*  So either you can actually be [[00:04:04](https://www.youtube.com/watch?v=x13wbrVV7SE&t=244.45999999999998s)]
+*  a fan of the Bulls without being [[00:04:06](https://www.youtube.com/watch?v=x13wbrVV7SE&t=246.14s)]
+*  a member of MS-13. [[00:04:08](https://www.youtube.com/watch?v=x13wbrVV7SE&t=248.14s)]
+*  And again, that's the only [[00:04:09](https://www.youtube.com/watch?v=x13wbrVV7SE&t=249.45999999999998s)]
+*  evidence they had. [[00:04:10](https://www.youtube.com/watch?v=x13wbrVV7SE&t=250.98s)]
+*  It's not like he was gang banging [[00:04:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=252.38s)]
+*  and he had a hat. [[00:04:13](https://www.youtube.com/watch?v=x13wbrVV7SE&t=253.98s)]
+*  He just had the hat. [[00:04:15](https://www.youtube.com/watch?v=x13wbrVV7SE&t=255.1s)]
+*  Or maybe all of those people are [[00:04:17](https://www.youtube.com/watch?v=x13wbrVV7SE&t=257.02s)]
+*  gang members. [[00:04:18](https://www.youtube.com/watch?v=x13wbrVV7SE&t=258.26s)]
+*  I don't know, Brett, [[00:04:19](https://www.youtube.com/watch?v=x13wbrVV7SE&t=259.06s)]
+*  listen, it might mean that he's in [[00:04:20](https://www.youtube.com/watch?v=x13wbrVV7SE&t=260.3s)]
+*  the gang. [[00:04:22](https://www.youtube.com/watch?v=x13wbrVV7SE&t=262.94s)]
+*  How about some due process to [[00:04:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=263.98s)]
+*  figure that out? [[00:04:26](https://www.youtube.com/watch?v=x13wbrVV7SE&t=266.3s)]
+*  Yeah, that's an insane statement. [[00:04:27](https://www.youtube.com/watch?v=x13wbrVV7SE&t=267.98s)]
+*  But I understand they don't like [[00:04:34](https://www.youtube.com/watch?v=x13wbrVV7SE&t=274.1s)]
+*  due process. [[00:04:36](https://www.youtube.com/watch?v=x13wbrVV7SE&t=276.22s)]
+*  Donald Trump went through due [[00:04:37](https://www.youtube.com/watch?v=x13wbrVV7SE&t=277.18s)]
+*  process. [[00:04:38](https://www.youtube.com/watch?v=x13wbrVV7SE&t=278.66s)]
+*  He had a trial. [[00:04:39](https://www.youtube.com/watch?v=x13wbrVV7SE&t=279.38s)]
+*  He was convicted of many, [[00:04:40](https://www.youtube.com/watch?v=x13wbrVV7SE&t=280.62s)]
+*  many felonies. [[00:04:42](https://www.youtube.com/watch?v=x13wbrVV7SE&t=282.5s)]
+*  The Supreme Court heard a case [[00:04:44](https://www.youtube.com/watch?v=x13wbrVV7SE&t=284.38s)]
+*  saying should we bring people back [[00:04:46](https://www.youtube.com/watch?v=x13wbrVV7SE&t=286.42s)]
+*  that we have deported? [[00:04:48](https://www.youtube.com/watch?v=x13wbrVV7SE&t=288.82s)]
+*  They said you should facilitate [[00:04:50](https://www.youtube.com/watch?v=x13wbrVV7SE&t=290.09999999999997s)]
+*  that, yes. [[00:04:51](https://www.youtube.com/watch?v=x13wbrVV7SE&t=291.9s)]
+*  They don't care about that. [[00:04:52](https://www.youtube.com/watch?v=x13wbrVV7SE&t=292.5s)]
+*  They don't want it. [[00:04:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=294.82s)]
+*  And this is the central thing you [[00:04:56](https://www.youtube.com/watch?v=x13wbrVV7SE&t=296.09999999999997s)]
+*  need to focus on. [[00:04:58](https://www.youtube.com/watch?v=x13wbrVV7SE&t=298.5s)]
+*  Is to what they're trying to see [[00:04:59](https://www.youtube.com/watch?v=x13wbrVV7SE&t=299.82s)]
+*  what they can get away with. [[00:05:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=302.1s)]
+*  And I understand that. [[00:05:04](https://www.youtube.com/watch?v=x13wbrVV7SE&t=304.46s)]
+*  That's very American. [[00:05:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=305.3s)]
+*  It's a very American thing. [[00:05:07](https://www.youtube.com/watch?v=x13wbrVV7SE&t=307.1s)]
+*  What can I get away with? [[00:05:08](https://www.youtube.com/watch?v=x13wbrVV7SE&t=308.74s)]
+*  Under the, I know what the rules [[00:05:11](https://www.youtube.com/watch?v=x13wbrVV7SE&t=311.06s)]
+*  are, but can I go five over [[00:05:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=312.86s)]
+*  the speed limit, ten over [[00:05:14](https://www.youtube.com/watch?v=x13wbrVV7SE&t=314.21999999999997s)]
+*  the speed limit? [[00:05:15](https://www.youtube.com/watch?v=x13wbrVV7SE&t=315.53999999999996s)]
+*  Those kinds of things are fine, [[00:05:16](https://www.youtube.com/watch?v=x13wbrVV7SE&t=316.7s)]
+*  Americans can get away with isms. [[00:05:18](https://www.youtube.com/watch?v=x13wbrVV7SE&t=318.42s)]
+*  But eliminating due process and [[00:05:20](https://www.youtube.com/watch?v=x13wbrVV7SE&t=320.42s)]
+*  ignoring the Supreme Court of [[00:05:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=323.14000000000004s)]
+*  the United States of America, [[00:05:25](https://www.youtube.com/watch?v=x13wbrVV7SE&t=325.82s)]
+*  these are no-nos. [[00:05:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=328.46000000000004s)]
+*  And this is why we're all freaked [[00:05:30](https://www.youtube.com/watch?v=x13wbrVV7SE&t=330.18s)]
+*  out. [[00:05:31](https://www.youtube.com/watch?v=x13wbrVV7SE&t=331.94s)]
+*  It's not that we're freaked out [[00:05:33](https://www.youtube.com/watch?v=x13wbrVV7SE&t=333.06s)]
+*  because he went five miles over [[00:05:34](https://www.youtube.com/watch?v=x13wbrVV7SE&t=334.70000000000005s)]
+*  the speed limit and got a ticket. [[00:05:36](https://www.youtube.com/watch?v=x13wbrVV7SE&t=336.3s)]
+*  It's because they're ignoring [[00:05:38](https://www.youtube.com/watch?v=x13wbrVV7SE&t=338.3s)]
+*  the Supreme Court and [[00:05:40](https://www.youtube.com/watch?v=x13wbrVV7SE&t=340.78000000000003s)]
+*  then state media aka Fox News in [[00:05:42](https://www.youtube.com/watch?v=x13wbrVV7SE&t=342.40000000000003s)]
+*  a desperate attempt to stay [[00:05:44](https://www.youtube.com/watch?v=x13wbrVV7SE&t=344.86s)]
+*  relevant. [[00:05:47](https://www.youtube.com/watch?v=x13wbrVV7SE&t=347.14s)]
+*  He's showing you a picture of [[00:05:50](https://www.youtube.com/watch?v=x13wbrVV7SE&t=350.02s)]
+*  a guy in a hat and saying that [[00:05:51](https://www.youtube.com/watch?v=x13wbrVV7SE&t=351.62s)]
+*  means he's in a gang. [[00:05:53](https://www.youtube.com/watch?v=x13wbrVV7SE&t=353.16s)]
+*  Yeah. [[00:05:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=354.94s)]
+*  Also, I've been told this as [[00:05:55](https://www.youtube.com/watch?v=x13wbrVV7SE&t=355.58s)]
+*  a sports fan and a white. [[00:05:57](https://www.youtube.com/watch?v=x13wbrVV7SE&t=357.9s)]
+*  It's like the whitest thing ever [[00:06:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=360.1s)]
+*  to just be like, [[00:06:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=362.5s)]
+*  the hat you wear indicates what [[00:06:03](https://www.youtube.com/watch?v=x13wbrVV7SE&t=363.98s)]
+*  team you're a fan of. [[00:06:06](https://www.youtube.com/watch?v=x13wbrVV7SE&t=366.34000000000003s)]
+*  Tell that to Jerry Jackson with [[00:06:08](https://www.youtube.com/watch?v=x13wbrVV7SE&t=368.1s)]
+*  his question. [[00:06:10](https://www.youtube.com/watch?v=x13wbrVV7SE&t=370.82s)]
+*  It's like white multiple people [[00:06:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=372.18s)]
+*  have been like, [[00:06:14](https://www.youtube.com/watch?v=x13wbrVV7SE&t=374.02s)]
+*  white people are like, [[00:06:15](https://www.youtube.com/watch?v=x13wbrVV7SE&t=375.22s)]
+*  how are you wearing a giant's hat? [[00:06:16](https://www.youtube.com/watch?v=x13wbrVV7SE&t=376.70000000000005s)]
+*  I thought you were a Dodgers fan. [[00:06:19](https://www.youtube.com/watch?v=x13wbrVV7SE&t=379.38000000000005s)]
+*  They're like, get over it, dude. [[00:06:20](https://www.youtube.com/watch?v=x13wbrVV7SE&t=380.86s)]
+*  It's just a hat. [[00:06:21](https://www.youtube.com/watch?v=x13wbrVV7SE&t=381.90000000000003s)]
+*  Yeah, I like the Patriots if I [[00:06:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=383.5s)]
+*  want to watch football. [[00:06:25](https://www.youtube.com/watch?v=x13wbrVV7SE&t=385.1s)]
+*  I like the Bearleys, I did. [[00:06:26](https://www.youtube.com/watch?v=x13wbrVV7SE&t=386.42s)]
+*  A long time ago. [[00:06:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=388.26000000000005s)]
+*  I like the Minnesota Lynx. [[00:06:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=388.82000000000005s)]
+*  I don't live in Minnesota. [[00:06:29](https://www.youtube.com/watch?v=x13wbrVV7SE&t=389.98s)]
+*  I literally never have. [[00:06:30](https://www.youtube.com/watch?v=x13wbrVV7SE&t=390.90000000000003s)]
+*  That's just not how fandom works. [[00:06:31](https://www.youtube.com/watch?v=x13wbrVV7SE&t=391.74s)]
+*  Wait a minute. [[00:06:33](https://www.youtube.com/watch?v=x13wbrVV7SE&t=393.26000000000005s)]
+*  He's such a fake guy. [[00:06:33](https://www.youtube.com/watch?v=x13wbrVV7SE&t=393.78000000000003s)]
+*  He's the worst. [[00:06:37](https://www.youtube.com/watch?v=x13wbrVV7SE&t=397.34000000000003s)]
+*  He's a goddamn fake guy. [[00:06:37](https://www.youtube.com/watch?v=x13wbrVV7SE&t=397.98s)]
+*  He does such a bad job of [[00:06:39](https://www.youtube.com/watch?v=x13wbrVV7SE&t=399.3s)]
+*  pretending to be masculine. [[00:06:41](https://www.youtube.com/watch?v=x13wbrVV7SE&t=401.06s)]
+*  And I really do pity him more than [[00:06:43](https://www.youtube.com/watch?v=x13wbrVV7SE&t=403.42s)]
+*  most. [[00:06:45](https://www.youtube.com/watch?v=x13wbrVV7SE&t=405.78000000000003s)]
+*  I understand that he tries to, [[00:06:46](https://www.youtube.com/watch?v=x13wbrVV7SE&t=406.62s)]
+*  I think it's like a defensive [[00:06:48](https://www.youtube.com/watch?v=x13wbrVV7SE&t=408.3s)]
+*  mechanism for Jesse Waters that he [[00:06:49](https://www.youtube.com/watch?v=x13wbrVV7SE&t=409.82s)]
+*  plays even dumber than he is, [[00:06:51](https://www.youtube.com/watch?v=x13wbrVV7SE&t=411.66s)]
+*  which is dumb. [[00:06:53](https://www.youtube.com/watch?v=x13wbrVV7SE&t=413.22s)]
+*  That it's supposed to all this is [[00:06:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=414.5s)]
+*  supposed to be a lark. [[00:06:55](https://www.youtube.com/watch?v=x13wbrVV7SE&t=415.86s)]
+*  So he can say stupid things that [[00:06:56](https://www.youtube.com/watch?v=x13wbrVV7SE&t=416.58000000000004s)]
+*  reflect so poorly on him. [[00:06:58](https://www.youtube.com/watch?v=x13wbrVV7SE&t=418.34000000000003s)]
+*  And it's not supposed to really [[00:07:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=420.34000000000003s)]
+*  because he's joking or whatever, [[00:07:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=422.1s)]
+*  except that he's not. [[00:07:03](https://www.youtube.com/watch?v=x13wbrVV7SE&t=423.94s)]
+*  So here, he is advocating for [[00:07:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=425.02000000000004s)]
+*  effectively our fascist regime to [[00:07:07](https://www.youtube.com/watch?v=x13wbrVV7SE&t=427.5s)]
+*  deport people who are here [[00:07:10](https://www.youtube.com/watch?v=x13wbrVV7SE&t=430.42s)]
+*  undocumented or whatever or [[00:07:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=432.58000000000004s)]
+*  legal residents, whatever. [[00:07:14](https://www.youtube.com/watch?v=x13wbrVV7SE&t=434.14000000000004s)]
+*  You'd be fine with that. [[00:07:15](https://www.youtube.com/watch?v=x13wbrVV7SE&t=435.46000000000004s)]
+*  That's what he's doing today. [[00:07:16](https://www.youtube.com/watch?v=x13wbrVV7SE&t=436.58000000000004s)]
+*  Jesse Waters, let me read your [[00:07:18](https://www.youtube.com/watch?v=x13wbrVV7SE&t=438.38s)]
+*  future for you, okay? [[00:07:20](https://www.youtube.com/watch?v=x13wbrVV7SE&t=440.06s)]
+*  Let me tell you what you're going [[00:07:21](https://www.youtube.com/watch?v=x13wbrVV7SE&t=441.62s)]
+*  to be doing in a month. [[00:07:22](https://www.youtube.com/watch?v=x13wbrVV7SE&t=442.98s)]
+*  You're going to be defending US [[00:07:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=443.78000000000003s)]
+*  citizens being deported to CICOT. [[00:07:25](https://www.youtube.com/watch?v=x13wbrVV7SE&t=445.66s)]
+*  I mean, you're already starting to [[00:07:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=448.18s)]
+*  do that. [[00:07:29](https://www.youtube.com/watch?v=x13wbrVV7SE&t=449.26s)]
+*  I mean specific ones. [[00:07:29](https://www.youtube.com/watch?v=x13wbrVV7SE&t=449.78000000000003s)]
+*  We're going to have a US citizen [[00:07:30](https://www.youtube.com/watch?v=x13wbrVV7SE&t=450.98s)]
+*  that posted stop killing [[00:07:32](https://www.youtube.com/watch?v=x13wbrVV7SE&t=452.74s)]
+*  Palestinians on Instagram in [[00:07:34](https://www.youtube.com/watch?v=x13wbrVV7SE&t=454.06s)]
+*  a little meme. [[00:07:35](https://www.youtube.com/watch?v=x13wbrVV7SE&t=455.78000000000003s)]
+*  And they're going to be in a jail [[00:07:37](https://www.youtube.com/watch?v=x13wbrVV7SE&t=457.06s)]
+*  in El Salvador. [[00:07:38](https://www.youtube.com/watch?v=x13wbrVV7SE&t=458.82000000000005s)]
+*  And you're going to be doing [[00:07:40](https://www.youtube.com/watch?v=x13wbrVV7SE&t=460.22s)]
+*  it right now. [[00:07:41](https://www.youtube.com/watch?v=x13wbrVV7SE&t=461.70000000000005s)]
+*  It's awesome that our fascist [[00:07:42](https://www.youtube.com/watch?v=x13wbrVV7SE&t=462.38000000000005s)]
+*  government is shipping people they [[00:07:43](https://www.youtube.com/watch?v=x13wbrVV7SE&t=463.86s)]
+*  disagree with to foreign countries. [[00:07:45](https://www.youtube.com/watch?v=x13wbrVV7SE&t=465.62s)]
+*  That's what they're going to do. [[00:07:47](https://www.youtube.com/watch?v=x13wbrVV7SE&t=467.78000000000003s)]
+*  And a lot of right wingers are going [[00:07:48](https://www.youtube.com/watch?v=x13wbrVV7SE&t=468.82000000000005s)]
+*  to be big fans of it. [[00:07:49](https://www.youtube.com/watch?v=x13wbrVV7SE&t=469.94s)]
+*  Your ratings are going to go up as [[00:07:50](https://www.youtube.com/watch?v=x13wbrVV7SE&t=470.78000000000003s)]
+*  you're saying anybody that [[00:07:52](https://www.youtube.com/watch?v=x13wbrVV7SE&t=472.18s)]
+*  disagrees with you should be [[00:07:53](https://www.youtube.com/watch?v=x13wbrVV7SE&t=473.38000000000005s)]
+*  shipped to a foreign country. [[00:07:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=474.54s)]
+*  While you will be laying [[00:07:56](https://www.youtube.com/watch?v=x13wbrVV7SE&t=476.02000000000004s)]
+*  the groundwork by the way, [[00:07:57](https://www.youtube.com/watch?v=x13wbrVV7SE&t=477.1s)]
+*  for similar sorts of groups to be [[00:07:58](https://www.youtube.com/watch?v=x13wbrVV7SE&t=478.5s)]
+*  potentially shipped under [[00:08:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=480.14000000000004s)]
+*  a Democrat abroad. [[00:08:01](https://www.youtube.com/watch?v=x13wbrVV7SE&t=481.5s)]
+*  So members of violent militias, [[00:08:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=482.86s)]
+*  get them out of here. [[00:08:04](https://www.youtube.com/watch?v=x13wbrVV7SE&t=484.42s)]
+*  El Salvador, gone, KKK, CICOT, [[00:08:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=485.22s)]
+*  obviously. [[00:08:07](https://www.youtube.com/watch?v=x13wbrVV7SE&t=487.38s)]
+*  Apparently anti-Semitism, [[00:08:09](https://www.youtube.com/watch?v=x13wbrVV7SE&t=489.02000000000004s)]
+*  if you're spreading anti-Semitism, [[00:08:10](https://www.youtube.com/watch?v=x13wbrVV7SE&t=490.26000000000005s)]
+*  that's enough. [[00:08:11](https://www.youtube.com/watch?v=x13wbrVV7SE&t=491.62s)]
+*  The Gropers, gone, get rid of [[00:08:12](https://www.youtube.com/watch?v=x13wbrVV7SE&t=492.38s)]
+*  literally all of them. [[00:08:13](https://www.youtube.com/watch?v=x13wbrVV7SE&t=493.98s)]
+*  They can languish in CICOT too. [[00:08:15](https://www.youtube.com/watch?v=x13wbrVV7SE&t=495.18s)]
+*  And so for the right wingers that [[00:08:17](https://www.youtube.com/watch?v=x13wbrVV7SE&t=497.14s)]
+*  are super excited about this, [[00:08:18](https://www.youtube.com/watch?v=x13wbrVV7SE&t=498.14s)]
+*  I just want you to understand [[00:08:19](https://www.youtube.com/watch?v=x13wbrVV7SE&t=499.26s)]
+*  the precedent that Jesse Waters and [[00:08:20](https://www.youtube.com/watch?v=x13wbrVV7SE&t=500.42s)]
+*  Fox News and Donald Trump are [[00:08:22](https://www.youtube.com/watch?v=x13wbrVV7SE&t=502.02s)]
+*  setting every day that they [[00:08:23](https://www.youtube.com/watch?v=x13wbrVV7SE&t=503.38s)]
+*  continue to just applaud [[00:08:24](https://www.youtube.com/watch?v=x13wbrVV7SE&t=504.82s)]
+*  the evil that we're seeing. [[00:08:26](https://www.youtube.com/watch?v=x13wbrVV7SE&t=506.34000000000003s)]
+*  So Jesse Waters shows a picture of [[00:08:28](https://www.youtube.com/watch?v=x13wbrVV7SE&t=508.22s)]
+*  a guy wearing a hat and says that [[00:08:30](https://www.youtube.com/watch?v=x13wbrVV7SE&t=510.26s)]
+*  that guy is in a gang. [[00:08:32](https://www.youtube.com/watch?v=x13wbrVV7SE&t=512.42s)]
+*  And then Jesse rattles off so [[00:08:34](https://www.youtube.com/watch?v=x13wbrVV7SE&t=514.58s)]
+*  much knowledge of what hat or [[00:08:36](https://www.youtube.com/watch?v=x13wbrVV7SE&t=516.98s)]
+*  outfit or color indicates what gang [[00:08:40](https://www.youtube.com/watch?v=x13wbrVV7SE&t=520.0600000000001s)]
+*  you're in. [[00:08:43](https://www.youtube.com/watch?v=x13wbrVV7SE&t=523.34s)]
+*  Seems like Jesse Waters knows an [[00:08:45](https://www.youtube.com/watch?v=x13wbrVV7SE&t=525.2600000000001s)]
+*  awful lot about gangs. [[00:08:46](https://www.youtube.com/watch?v=x13wbrVV7SE&t=526.98s)]
+*  That is more evidence to deport [[00:08:48](https://www.youtube.com/watch?v=x13wbrVV7SE&t=528.6600000000001s)]
+*  Jesse Waters than it is this guy. [[00:08:51](https://www.youtube.com/watch?v=x13wbrVV7SE&t=531.0600000000001s)]
+*  Yeah. [[00:08:54](https://www.youtube.com/watch?v=x13wbrVV7SE&t=534.2600000000001s)]
+*  I think we should hashtag [[00:08:55](https://www.youtube.com/watch?v=x13wbrVV7SE&t=535.94s)]
+*  deport Jesse Waters. [[00:08:57](https://www.youtube.com/watch?v=x13wbrVV7SE&t=537.4200000000001s)]
+*  I'll sign on to that. [[00:09:00](https://www.youtube.com/watch?v=x13wbrVV7SE&t=540.1s)]
+*  Every time you ring the bell below [[00:09:01](https://www.youtube.com/watch?v=x13wbrVV7SE&t=541.3000000000001s)]
+*  an angel gets his wings. [[00:09:02](https://www.youtube.com/watch?v=x13wbrVV7SE&t=542.86s)]
+*  Totally not true, but it does keep [[00:09:04](https://www.youtube.com/watch?v=x13wbrVV7SE&t=544.3800000000001s)]
+*  you updated on our live shows. [[00:09:05](https://www.youtube.com/watch?v=x13wbrVV7SE&t=545.94s)]
