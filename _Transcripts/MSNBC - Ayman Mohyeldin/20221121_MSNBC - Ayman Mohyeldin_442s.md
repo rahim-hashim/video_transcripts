@@ -1,0 +1,145 @@
+---
+Date Generated: April 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 442s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 34443
+Video Rating: None
+Video Description: The most vocal, most high-profile proponents of the Big Lie like Kari Lake and Doug Mastriano lost their races this midterm cycle. However, analysis from NBC news shows 62% of candidates who denied or cast doubt on Biden’s 2020 election victory actually won their races for governor, Senate, House, or secretary of state. MSNBC’s Ayman Mohyeldin spoke to Steve Simon, the newly re-elected Minnesota Secretary of State and Vice Chair of the Democratic Association of Secretaries of State, about how concerned Americans should be looking ahead to 2024.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#midterms #election #msnbc
+---
+
+# Election Deniers May Have Lost, But Election Denialism Is Far From Dead
+**MSNBC - Ayman Mohyeldin:** [November 21, 2022](https://www.youtube.com/watch?v=-3sVZd9aSvc)
+*  At this hour, talk about politics. [[00:00:00](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=0.0s)]
+*  Failed gubernatorial candidate Carrie Lake stands alone as the last battleground state [[00:00:05](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=5.28s)]
+*  Republican refusing to concede her race. [[00:00:09](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=9.92s)]
+*  In fact, late this week, according to The Washington Post, Lake flew down to Trump's [[00:00:12](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=12.84s)]
+*  Florida club to work with Trump and his team to quote unquote collect evidence in order [[00:00:17](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=17.6s)]
+*  to contest their, to contest her defeat. [[00:00:22](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=22.76s)]
+*  She will not find that evidence though. [[00:00:25](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=25.740000000000002s)]
+*  We can tell her that for free. [[00:00:27](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=27.28s)]
+*  And while Carrie Lake lost and many swing state election deniers lost in the midterms, [[00:00:29](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=29.08s)]
+*  we need to issue a warning here to our viewers and to this country. [[00:00:33](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=33.64s)]
+*  Election denialism is not dead. [[00:00:36](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=36.78s)]
+*  We should all celebrate the big lie advocates who went down on election night. [[00:00:38](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=38.599999999999994s)]
+*  But here is the harsh reality that everyone should hear clearly. [[00:00:42](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=42.519999999999996s)]
+*  62% of candidates who denied or cast doubt on Biden's 2020 election victory actually [[00:00:46](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=46.44s)]
+*  won their races for governor, Senate, House or secretary of state. [[00:00:51](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=51.980000000000004s)]
+*  Out of the 268 total candidates, 166 won and will soon hold incredible political power. [[00:00:56](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=56.879999999999995s)]
+*  Crafting laws, overseeing elections, spewing misinformation. [[00:01:03](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=63.879999999999995s)]
+*  Now they'll be able to do so with official government titles in front of their names. [[00:01:07](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=67.84s)]
+*  And that's not even counting lower level officials who also supported the big lie. [[00:01:12](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=72.47999999999999s)]
+*  And just hours ago on his social platform, Trump himself continued to spread misinformation [[00:01:15](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=75.8s)]
+*  about the midterms. [[00:01:21](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=81.64s)]
+*  As Elaine Gottfried writes in The Atlantic, it would be foolish to pronounce stop the [[00:01:23](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=83.06s)]
+*  steal dead. [[00:01:27](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=87.26s)]
+*  An entire swath of the Republican Party is now open to the idea that any narrow loss [[00:01:28](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=88.74000000000001s)]
+*  can be blamed on fraud. [[00:01:33](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=93.94s)]
+*  So let me be clear here. [[00:01:37](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=97.02000000000001s)]
+*  The big lie didn't die on election night. [[00:01:39](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=99.22s)]
+*  We'll need to keep fighting it in the Georgia runoff in 2024 and likely beyond. [[00:01:42](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=102.46000000000001s)]
+*  Because if repeated audits and cold hard evidence haven't done enough to deter conspiracists, [[00:01:47](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=107.28s)]
+*  these past two years, then a disappointing midterm cycle won't dissuade them either. [[00:01:54](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=114.64s)]
+*  Joining me now is Steve Simon, the newly re-elected Minnesota secretary of state and vice chair [[00:02:00](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=120.56s)]
+*  of the Democratic Association of Secretaries of State. [[00:02:04](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=124.64s)]
+*  Secretary Simon, thank you so much for coming back on the program. [[00:02:08](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=128.76s)]
+*  We had you on the show just before the election. [[00:02:11](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=131.32s)]
+*  Warning about these election deniers. [[00:02:14](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=134.36s)]
+*  It is great that so many went down in defeat, but as I just said, 62% of major big lie candidates [[00:02:16](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=136.28s)]
+*  won their races. [[00:02:23](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=143.48s)]
+*  Your reaction to that troubling number? [[00:02:25](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=145.68s)]
+*  It is troubling. [[00:02:29](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=149.12s)]
+*  All I can say is that we have not yet broken the fever. [[00:02:30](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=150.12s)]
+*  I think we are a step closer since the election 11 days ago. [[00:02:32](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=152.4s)]
+*  I think the American people in state after state resoundingly said that they were on [[00:02:36](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=156.08s)]
+*  team normal, not on team extreme. [[00:02:39](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=159.72s)]
+*  And that if anything is what managed to at least slow down this stop the steal movement. [[00:02:42](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=162.88s)]
+*  But I am under no illusion, like you, and that is that we are headed to a presidential [[00:02:46](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=166.64s)]
+*  election in 2022 if anything was a dress rehearsal for that. [[00:02:51](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=171.44s)]
+*  And I think we can count on some of the same old arguments, the really poisonous arguments [[00:02:55](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=175.16s)]
+*  to come back at us. [[00:02:59](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=179.3s)]
+*  And it is not just about what happens after the election, it is what happens in the lead [[00:03:00](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=180.3s)]
+*  up to the election. [[00:03:04](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=184.28s)]
+*  And that starts now for the 2024 cycle. [[00:03:05](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=185.32s)]
+*  Are you at all concerned, sir, that these election deniers who will soon be holding [[00:03:07](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=187.76s)]
+*  elected office could spread misinformation or even worse, use that in their positions [[00:03:11](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=191.64s)]
+*  and God knows what they can do with it? [[00:03:20](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=200.23999999999998s)]
+*  Yeah, I am very concerned about that. [[00:03:22](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=202.84s)]
+*  Sort of poisoning the well in advance of the 2024 election. [[00:03:25](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=205.44s)]
+*  The other thing I am really worried about when you look to that election, which is not [[00:03:28](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=208.6s)]
+*  as far away as you think, is this idea of not just questioning the result afterwards. [[00:03:33](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=213.28s)]
+*  We have seen a lot of that and we are probably going to still see that in states like Arizona. [[00:03:38](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=218.48000000000002s)]
+*  But what I am worried about is people using their position or people who don't even have [[00:03:41](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=221.84s)]
+*  a position trying to throw sand in the gears and delay or slow down or adversely impact [[00:03:45](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=225.96s)]
+*  the process as we are gearing up for the election. [[00:03:52](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=232.8s)]
+*  Let me just give you a quick example. [[00:03:55](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=235.44s)]
+*  In Minnesota and several other states, we have had outside political forces recruiting [[00:03:56](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=236.76000000000002s)]
+*  election judges. [[00:04:01](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=241.04000000000002s)]
+*  And that is fine. [[00:04:02](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=242.28s)]
+*  I absolutely think anyone who recruits an election judge from any point on the political [[00:04:03](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=243.28s)]
+*  spectrum, any political party is okay. [[00:04:06](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=246.44s)]
+*  But in Minnesota and every state, you have to leave your politics at the door. [[00:04:08](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=248.64s)]
+*  In fact, in many states, people who work the polls swear an oath. [[00:04:12](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=252.64s)]
+*  They literally raise their hand and swear an oath to be fair and neutral and nonpartisan [[00:04:15](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=255.79999999999998s)]
+*  and impartial. [[00:04:20](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=260.56s)]
+*  And my worry is that outside groups increasingly are telling people to ignore that. [[00:04:21](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=261.56s)]
+*  And in Minnesota and other states, counseling them to do things that are just not impartial, [[00:04:25](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=265.92s)]
+*  not just things that put their thumb on the scale, but things that are actually potentially [[00:04:31](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=271.16s)]
+*  illegal and possibly criminal. [[00:04:34](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=274.04s)]
+*  We saw some of those reports in Minnesota and in other states. [[00:04:36](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=276.6s)]
+*  That's my worry. [[00:04:39](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=279.52000000000004s)]
+*  Disinformation, not just people saying things that don't make sense and aren't borne out [[00:04:40](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=280.72s)]
+*  by the facts, but doing things that could sabotage elections beforehand. [[00:04:45](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=285.16s)]
+*  Let me ask you about your state, if I can, and the elections in Minnesota. [[00:04:48](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=288.88s)]
+*  Were you pleased with how things went on election day? [[00:04:52](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=292.6s)]
+*  Very. [[00:04:55](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=295.48s)]
+*  I mean, it was almost trouble-free. [[00:04:56](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=296.48s)]
+*  There were a few kind of normal glitches. [[00:04:59](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=299.2s)]
+*  But overwhelmingly, when it came to the machines, when it came to the poll workers, when it [[00:05:02](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=302.44s)]
+*  came to the noted absence of any threats or intimidation against voters, this was really [[00:05:05](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=305.8s)]
+*  almost a pitch perfect election from an administrative standpoint. [[00:05:11](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=311.76s)]
+*  As I mentioned, you're the vice president of the Democratic Association of Secretaries [[00:05:16](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=316.21999999999997s)]
+*  of States. [[00:05:19](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=319.38s)]
+*  What did you learn from the wins against election deniers in these battleground states, including [[00:05:20](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=320.38s)]
+*  that you can use or how are you planning on using what you've learned going forward into [[00:05:26](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=326.5s)]
+*  2024? [[00:05:33](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=333.9s)]
+*  Two things stand out to me in terms of looking back in what was successful, not just in Minnesota, [[00:05:34](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=334.9s)]
+*  but in most states where we had these struggles and these battles. [[00:05:40](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=340.02s)]
+*  One is to always lead with the truth. [[00:05:43](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=343.6s)]
+*  Wherever possible, lead with the truth. [[00:05:47](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=347.06s)]
+*  Say what the truth is in the face of the lies and in the face of the disinformation and [[00:05:49](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=349.62s)]
+*  propaganda. [[00:05:53](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=353.94s)]
+*  I'm not saying that neither are you or your viewers. [[00:05:54](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=354.94s)]
+*  I'm not saying that simply saying what the truth is is going to make the lies go away [[00:05:56](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=356.58s)]
+*  or that the people who peddle them are just going to shrivel up and leave. [[00:06:00](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=360.28s)]
+*  Not everyone has to make a 180. [[00:06:04](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=364.06s)]
+*  Sometimes people can make a 17 or a 23 or a 38, and over time that can have an effect. [[00:06:06](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=366.9s)]
+*  And then the second thing that I think was a great lesson going forward, and this extends [[00:06:11](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=371.78s)]
+*  beyond 2024, is that transparency is our friend. [[00:06:15](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=375.96s)]
+*  I think that in state after state after state, when voters come to understand or become acquainted [[00:06:22](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=382.5s)]
+*  or reacquainted with the election system as it is, as it really functions in the real [[00:06:27](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=387.34s)]
+*  world, not as it's been explained or distorted on a social media feed or by a national political [[00:06:32](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=392.3s)]
+*  figure, when people come into contact with the system as it really is, they come away [[00:06:38](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=398.7s)]
+*  with a ton of confidence. [[00:06:42](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=402.14s)]
+*  Because in state after state, the system is fair, accurate, honest, and secure. [[00:06:43](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=403.38s)]
+*  Never perfect, but very much sound and honest. [[00:06:46](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=406.86s)]
+*  Mr. Secretary of State, sir, always a pleasure. [[00:06:49](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=409.66s)]
+*  Thank you for coming back on the show, and I look forward to continuing this conversation. [[00:06:51](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=411.5s)]
+*  Thanks for having me. [[00:06:55](https://www.youtube.com/watch?v=-3sVZd9aSvc&t=415.86s)]

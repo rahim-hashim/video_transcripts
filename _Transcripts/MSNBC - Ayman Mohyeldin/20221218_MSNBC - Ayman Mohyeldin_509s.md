@@ -1,0 +1,146 @@
+---
+Date Generated: April 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 509s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 261478
+Video Rating: None
+Video Description: Republican House Leader Kevin McCarthy’s speakership bid is in peril. A group of his own party are joining together to keep him from taking the gavel, and it’s tearing the GOP apart. MSNBC’s Michael Steele spoke with Democratic Rep. Ted Lieu about this Republican disarray.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#KevinMcCarthy #TedLieu #Republicans
+---
+
+# Kevin McCarthy’s Path To Speaker Is In Peril
+**MSNBC - Ayman Mohyeldin:** [December 18, 2022](https://www.youtube.com/watch?v=V2DtBQRnM4U)
+*  This hour, we're continuing our focus on the January 6th committee's final report. [[00:00:00](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=0.0s)]
+*  NBC News reports that the panel has yet to make a final decision on criminal referrals [[00:00:10](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=10.08s)]
+*  for Donald Trump, but is actively considering recommending charges for insurrection, obstructing [[00:00:14](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=14.64s)]
+*  unofficial proceeding and conspiracy. [[00:00:20](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=20.5s)]
+*  All three recommendations are possible, but three different sources involved in the January [[00:00:24](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=24.46s)]
+*  6th committee's deliberations tell NBC News that a final call has not been made yet. [[00:00:29](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=29.740000000000002s)]
+*  More on that in just a moment. [[00:00:37](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=37.54s)]
+*  But first, we have to talk about Republican House Leader Kevin McCarthy. [[00:00:39](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=39.5s)]
+*  Yes, we have to talk about Kevin. [[00:00:43](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=43.660000000000004s)]
+*  You've heard never Trumpers? [[00:00:46](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=46.46s)]
+*  Well, what about never Kevins? [[00:00:47](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=47.94s)]
+*  A group of five members of McCarthy's own party are vowing to stick together against [[00:00:50](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=50.5s)]
+*  threatening his candidacy for House Speaker while simultaneously tearing the GOP apart. [[00:00:56](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=56.260000000000005s)]
+*  Republican Congressmen Andy Biggs, Matt Gaetz, Bob Good, Matt Rosendale and Ralph Norman [[00:01:02](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=62.660000000000004s)]
+*  have made a pledge, so goes one, so goes all, meaning McCarthy will have to flip all five [[00:01:08](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=68.54s)]
+*  of these never Kevins in order to become Speaker. [[00:01:14](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=74.98s)]
+*  That's because Republicans have a slim House majority. [[00:01:18](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=78.86s)]
+*  McCarthy can only lose four Republicans if he wants the votes for the Speaker's gavel, [[00:01:22](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=82.58s)]
+*  meaning he won't get it without their support. [[00:01:27](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=87.74s)]
+*  It's no surprise then that McCarthy is getting increasingly desperate. [[00:01:31](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=91.53999999999999s)]
+*  This week, he made the unusual move of pushing the races for committee leadership spots until [[00:01:35](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=95.82s)]
+*  after the Speaker's elections on January 3rd. [[00:01:41](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=101.2s)]
+*  The thinking is that McCarthy could use that as leverage to lock down support from disgruntled [[00:01:45](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=105.5s)]
+*  members. [[00:01:50](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=110.86s)]
+*  McCarthy has been on a year's long quest to become House Speaker, and now, less than [[00:01:52](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=112.34s)]
+*  three weeks before the vote that would seal the deal for him, he can't get his own party [[00:01:57](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=117.66s)]
+*  on his side. [[00:02:02](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=122.6s)]
+*  The Wall Street Journal editorial board put it best, quote, Republicans are the gang that [[00:02:04](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=124.18s)]
+*  couldn't shoot straight except at one another. [[00:02:09](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=129.5s)]
+*  They can't even find the votes to elect the GOP Speaker, much less agree on budget strategy [[00:02:12](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=132.38s)]
+*  or much of anything else. [[00:02:18](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=138.3s)]
+*  Joining me now is Democratic Congressman Ted Lew of California. [[00:02:20](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=140.38s)]
+*  He is a member of the House Judiciary and Foreign Relations Committees. [[00:02:23](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=143.86s)]
+*  Congressman, it's good to see you again. [[00:02:28](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=148.18s)]
+*  Let's start with that Speaker vote. [[00:02:30](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=150.98000000000002s)]
+*  What's your reaction to the GOP disarray at this point? [[00:02:33](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=153.78s)]
+*  Thank you, Michael, for your question. [[00:02:38](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=158.46s)]
+*  Right now, we have Democrats in array and GOP in disarray. [[00:02:40](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=160.46s)]
+*  One reason I think is because of Kevin McCarthy himself. [[00:02:45](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=165.48000000000002s)]
+*  I served with Kevin McCarthy when we were both in the California state legislature. [[00:02:48](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=168.67999999999998s)]
+*  I've known him for many years, and many of us actually don't know what he stands for. [[00:02:52](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=172.79999999999998s)]
+*  So for example, right after the insurrection, he spoke the truth about what happened and [[00:02:58](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=178.04s)]
+*  that Donald Trump was responsible. [[00:03:02](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=182.95999999999998s)]
+*  And then a few days later, he completely reversed his course and bends the knee to Donald Trump. [[00:03:05](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=185.0s)]
+*  So I think his own members are seeing that, and they have difficulty understanding what [[00:03:09](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=189.92s)]
+*  his principles are. [[00:03:14](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=194.67999999999998s)]
+*  Your colleague Congresswoman Nancy May said this week that she wouldn't support removing [[00:03:17](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=197.12s)]
+*  Democrats from committees, a step that Kevin McCarthy heads vile to take if he gets the [[00:03:21](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=201.16s)]
+*  Speaker's gavel. [[00:03:26](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=206.72s)]
+*  What do you make of that dissension, especially from a more moderate voice inside the Republican [[00:03:28](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=208.04s)]
+*  Party? [[00:03:33](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=213.44s)]
+*  So Democrats are focused on putting people for politics and on safer communities, lower [[00:03:35](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=215.6s)]
+*  costs and better paying jobs. [[00:03:41](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=221.04000000000002s)]
+*  And what is Kevin McCarthy focused on? [[00:03:43](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=223.1s)]
+*  Revenge. [[00:03:45](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=225.68s)]
+*  And if you look at his Twitter account, he's pinned to the top of his Twitter account what [[00:03:46](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=226.68s)]
+*  he thinks is the most important thing for Republicans next term, and it's Hunter Biden's [[00:03:51](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=231.96s)]
+*  laptop. [[00:03:55](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=235.96s)]
+*  Actually, he's even more stupid than that. [[00:03:56](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=236.96s)]
+*  It's what Twitter said about Hunter Biden's laptop. [[00:03:58](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=238.84s)]
+*  So that's where the Republican Party is. [[00:04:02](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=242.74s)]
+*  Revenge and what Twitter said about Hunter Biden's laptop. [[00:04:05](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=245.12s)]
+*  So Congressman, the GOP barely holds the majority that they need to try to get anything done. [[00:04:08](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=248.64000000000001s)]
+*  So how can the Democrats use this opportunity, and certainly the infighting that we see among [[00:04:14](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=254.4s)]
+*  Republicans, to their advantage in the next Congress to try to shift the way things flow? [[00:04:20](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=260.96s)]
+*  Democrats had the best performance in midterm since FDR, and as a result, the Republicans [[00:04:28](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=268.4s)]
+*  in their majority only have essentially a five-seat advantage. [[00:04:34](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=274.64s)]
+*  That's a very slim majority. [[00:04:40](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=280.48s)]
+*  And if they cannot be unified, which we're seeing they're not unified right now because [[00:04:43](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=283.0s)]
+*  they can't even get a speaker, then it's going to be very hard for Republicans to pass anything [[00:04:46](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=286.71999999999997s)]
+*  off the House floor without Democratic support, which means Democrats will have a lot more [[00:04:52](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=292.52s)]
+*  leverage in these next two years than we normally would have. [[00:04:57](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=297.56s)]
+*  I want to get your reaction to the goings on down in Mar-a-Lago, because this week a [[00:05:00](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=300.59999999999997s)]
+*  New York Times investigation showed visitors of Mar-a-Lago were partying within feet of [[00:05:05](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=305.4s)]
+*  where top-secret government materials were stored after Trump left office. [[00:05:11](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=311.34000000000003s)]
+*  This is, as the Washington Post reported just last week, that an outside team working with [[00:05:16](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=316.22s)]
+*  Trump's lawyers in a court-ordered search had found two additional documents marked [[00:05:22](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=322.3s)]
+*  classified in a Florida storage unit. [[00:05:27](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=327.3s)]
+*  So from your perspective, how concerning is all of this? [[00:05:29](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=329.98s)]
+*  Not only am I concerned, I'm angry. [[00:05:33](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=333.22s)]
+*  I had a security clearance before Congress. [[00:05:37](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=337.06s)]
+*  I served in active duty in the United States military. [[00:05:39](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=339.94s)]
+*  Anyone who had security clearance that came even close to doing what Donald Trump did [[00:05:42](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=342.7s)]
+*  would be in prison. [[00:05:47](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=347.21999999999997s)]
+*  And in fact, we sent a federal employee to prison earlier this year because she brought [[00:05:48](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=348.62s)]
+*  some secret documents to her hotel room. [[00:05:54](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=354.02s)]
+*  Donald Trump's actions are far worse. [[00:05:57](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=357.38s)]
+*  He had documents way above the secret level at the SCI top-secret level, and they were [[00:05:59](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=359.09999999999997s)]
+*  all over the place at Mar-a-Lago. [[00:06:05](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=365.66s)]
+*  It is an embarrassment to the United States of America, of Donald Trump, when he can't [[00:06:08](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=368.78000000000003s)]
+*  even get his act together and keep these documents in a classified location at a SCIF. [[00:06:14](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=374.02s)]
+*  But to have it all over Mar-a-Lago is a federal crime. [[00:06:19](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=379.58s)]
+*  So talking about federal crimes, the NBC News is reporting that the January 6th committee [[00:06:23](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=383.34000000000003s)]
+*  is actively considering recommending three potential criminal charges against Trump, [[00:06:28](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=388.46s)]
+*  including insurrection and others. [[00:06:33](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=393.46000000000004s)]
+*  Do you support those recommendations if they go forward with them? [[00:06:35](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=395.90000000000003s)]
+*  I do. [[00:06:40](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=400.26s)]
+*  I was a house impeachment manager for the second impeachment. [[00:06:42](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=402.62s)]
+*  And by the way, I think it's hilarious that we still have to identify which impeachment [[00:06:45](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=405.74s)]
+*  because a former president was just that bad. [[00:06:49](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=409.86s)]
+*  But it's very clear that in that proceeding that Donald Trump got people to come to Washington, [[00:06:52](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=412.70000000000005s)]
+*  on January 6th for the purpose of stopping the certification of the election for Joe Biden by Congress. [[00:07:00](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=420.62s)]
+*  And so that is a federal crime. [[00:07:08](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=428.74s)]
+*  Essentially, conspiracy to defraud the United States government is an action that interferes [[00:07:10](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=430.98s)]
+*  with legitimate governmental activity. [[00:07:16](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=436.26s)]
+*  And Congress certifying the Electoral College results was a legitimate governmental activity [[00:07:18](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=438.58000000000004s)]
+*  and also obstructing an official act, which in this case was that certification is also a federal crime. [[00:07:23](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=443.5s)]
+*  So, Congressman, before I let you go, what would you like to see from the final January [[00:07:30](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=450.74s)]
+*  6th committee hearing and the final report? [[00:07:35](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=455.14000000000004s)]
+*  How do you think all of this should be packaged? [[00:07:37](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=457.38s)]
+*  So the committee members are doing a fantastic job on the January 6th committee. [[00:07:41](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=461.34000000000003s)]
+*  Because I'm not on the committee, I'm not going to speak for them as to how they should [[00:07:45](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=465.62s)]
+*  vote or not vote. [[00:07:49](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=469.06s)]
+*  But I do know that whatever vote they take is going to be based on the best interests [[00:07:50](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=470.06s)]
+*  of the United States of America in contrast to what Donald Trump ever does. [[00:07:54](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=474.54s)]
+*  Congressman Ted Lew of California, thank you very much. [[00:07:59](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=479.82s)]
+*  Appreciate you. [[00:08:02](https://www.youtube.com/watch?v=V2DtBQRnM4U&t=482.42s)]

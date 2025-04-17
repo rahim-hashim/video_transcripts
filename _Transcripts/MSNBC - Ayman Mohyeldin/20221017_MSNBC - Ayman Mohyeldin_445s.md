@@ -1,0 +1,161 @@
+---
+Date Generated: April 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 445s
+Video Keywords: ['Ayman Mohyeldin', 'MSNBC', 'NBC News', 'news coverage', 'breaking news', 'us news', 'world news', 'politics', 'current events', 'top stories', 'pop culture', 'business', 'health', 'liberal', 'progressive', 'MSNBC LIVE', 'Me Too', 'Me Too movement', 'Tarana Burke Me Too', 'Tarana Burke interview', 'sexual harassment']
+Video Views: 5445
+Video Rating: None
+Video Description: Five years ago, our culture began a seismic shift when millions worldwide shared their experience with sexual violence using #MeToo. MSNBC’s Ayman Mohyeldin spoke with the movement’s founder, Tarana Burke, about the progress that's been made, and what work still needs to be done.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Follow the MSNBC Midterms Elections guide to the important races across the United States as Americans prepare to cast their votes. 
+Countdown to the Midterms: https://on.msnbc.com/3KlULq8
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+Reflecting On #MeToo, Five Years After The Movement Went Viral
+---
+
+# Reflecting On #MeToo, Five Years After The Movement Went Viral
+**MSNBC - Ayman Mohyeldin:** [October 17, 2022](https://www.youtube.com/watch?v=-0Ng9UiEClA)
+*  Five years ago this week, the Me Too movement went viral. [[00:00:00](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=0.0s)]
+*  It brought light to millions of cases of sexual harassment and harassment around the world. [[00:00:06](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=6.5600000000000005s)]
+*  And joining me now is the founder of that movement, Tarana Burke. [[00:00:11](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=11.22s)]
+*  Tarana, it's great to have you in the studio. [[00:00:14](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=14.08s)]
+*  It's great to see you and meet you in person. [[00:00:15](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=15.84s)]
+*  I've finally been following your work for so many years. [[00:00:17](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=17.6s)]
+*  As we mentioned, it's been five years since this movement was launched. [[00:00:21](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=21.12s)]
+*  How do you – it's been a remarkable journey. [[00:00:25](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=25.1s)]
+*  How do you take it all in? [[00:00:28](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=28.64s)]
+*  How do you evaluate what these past five years have been? [[00:00:29](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=29.68s)]
+*  Well, you know, the way I've been framing it and trying to help people frame it is that [[00:00:32](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=32.2s)]
+*  when five-year marks happen in civil rights movements or any kind of social justice movements, [[00:00:36](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=36.68s)]
+*  people tend to want to talk about all the things that have happened and, you know, how [[00:00:41](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=41.36s)]
+*  do you feel. [[00:00:45](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=45.36s)]
+*  But what I've been talking about lately is what Me Too has made possible. [[00:00:46](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=46.36s)]
+*  Because it's easy to codify, like you talked about, the laws and the policies and the cases. [[00:00:51](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=51.040000000000006s)]
+*  I think it's really important to think about what the last five years have made possible. [[00:00:55](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=55.68s)]
+*  Because just five and a half years ago, we couldn't have a sustained conversation about [[00:01:00](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=60.6s)]
+*  sexual violence in this country. [[00:01:04](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=64.72s)]
+*  And now we can. [[00:01:06](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=66.7s)]
+*  Five and a half years ago, survivors of sexual violence, no matter how they identified, couldn't [[00:01:08](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=68.03999999999999s)]
+*  feel comfortable to talk about the things that they experienced. [[00:01:12](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=72.56s)]
+*  And now we can. [[00:01:15](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=75.52s)]
+*  So we have made so much more possible in the last five years. [[00:01:16](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=76.8s)]
+*  In fact, we've probably made more possible in the last five years than we could have [[00:01:19](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=79.96000000000001s)]
+*  in the next 20 years. [[00:01:23](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=83.8s)]
+*  What do you attribute that to? [[00:01:25](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=85.44s)]
+*  Is it simply a cultural shift? [[00:01:27](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=87.12s)]
+*  Or is it simply the fact that everybody realized, hey, you are not alone, and that the sheer [[00:01:29](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=89.52000000000001s)]
+*  volume of people who had survived sexual abuse was so compelling that it could no longer [[00:01:33](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=93.74000000000001s)]
+*  be ignored? [[00:01:39](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=99.88s)]
+*  You couldn't look away. [[00:01:40](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=100.88s)]
+*  Yeah. [[00:01:41](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=101.88s)]
+*  I think that when it went viral, for the sheer number of people that came forward, I think, [[00:01:42](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=102.88s)]
+*  you know, of course you had the celebrities and people like that who came out. [[00:01:47](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=107.28s)]
+*  But you cannot take away from the labor of survivors who came forward, right? [[00:01:50](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=110.48s)]
+*  Every day people who decided to put the hashtag online or tell a friend or just to disclose [[00:01:54](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=114.64s)]
+*  for the first time. [[00:01:59](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=119.68s)]
+*  It was so many people. [[00:02:00](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=120.84s)]
+*  You're talking about in the first 24 hours, there were 12 billion disclosures across social [[00:02:02](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=122.32s)]
+*  media. [[00:02:06](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=126.96000000000001s)]
+*  You cannot ignore that. [[00:02:07](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=127.96000000000001s)]
+*  And I think once that happened, it created a community. [[00:02:09](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=129.56s)]
+*  And one of the places that we don't even find to be safe a lot of times for survivors, it [[00:02:13](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=133.04s)]
+*  created community on the internet. [[00:02:17](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=137.04s)]
+*  And that spilled over into real life. [[00:02:19](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=139.28s)]
+*  And once people couldn't look away, then we started building from there. [[00:02:21](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=141.44s)]
+*  As I mentioned, you started working with young brown and black girls in Alabama. [[00:02:25](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=145.2s)]
+*  That's where this began. [[00:02:29](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=149.28s)]
+*  But since then, this movement has evolved. [[00:02:30](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=150.28s)]
+*  And I want to just know, how has your work evolved from what you were doing in Alabama [[00:02:32](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=152.68s)]
+*  to what you are doing now? [[00:02:36](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=156.68s)]
+*  How has that informed the way that you organize and the way that you collectively mobilize [[00:02:38](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=158.86s)]
+*  your team and the organization? [[00:02:46](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=166.2s)]
+*  Well, first of all, our work evolved from girls from the very beginning, even before [[00:02:48](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=168.24s)]
+*  2017. [[00:02:53](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=173.88s)]
+*  I started with black and brown girls in Alabama. [[00:02:54](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=174.88s)]
+*  We started including more and more people even before 2017 came. [[00:02:56](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=176.76s)]
+*  But one of the biggest things that I think I learned in the last five years is that we [[00:03:01](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=181.44s)]
+*  have to focus on culture shift and narrative change. [[00:03:04](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=184.4s)]
+*  We can change as many laws and policies if we want to. [[00:03:08](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=188.42000000000002s)]
+*  But if we don't change the way people understand sexual violence, if we don't undermine the [[00:03:10](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=190.88s)]
+*  roots of rape culture in this country, then it won't matter what kind of laws we pass. [[00:03:15](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=195.86s)]
+*  In fact, we've had laws in the books to say these things are illegal for years, but people [[00:03:20](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=200.5s)]
+*  ignore them. [[00:03:24](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=204.62s)]
+*  It's the culture that we have that makes the space for the violence. [[00:03:25](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=205.78s)]
+*  Once we undermine that, then we will have people engaging differently with sexual violence, [[00:03:29](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=209.46s)]
+*  understand it as a public health crisis and a social justice issue. [[00:03:35](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=215.06s)]
+*  I was moved by a piece that you wrote in Time Magazine this week, and I want to read a little [[00:03:37](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=217.98s)]
+*  bit of it, because you wrote that you referenced a woman you encountered during the Christine [[00:03:41](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=221.58s)]
+*  Blasey Ford testimony. [[00:03:46](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=226.58s)]
+*  She told you that she wished Ford could remember more. [[00:03:48](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=228.14000000000001s)]
+*  We see often that survivors are easily dismissed when they can't recount exactly every detail [[00:03:51](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=231.98000000000002s)]
+*  of what they survived and what they endured. [[00:03:58](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=238.3s)]
+*  Somehow, because they can't remember every single detail, they are not the perfect victim. [[00:04:00](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=240.70000000000002s)]
+*  Talk to me a little bit about this idea. [[00:04:07](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=247.74s)]
+*  When you talk about the cultural shift that needs to happen, about what we need to do [[00:04:08](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=248.98s)]
+*  to simply believe women. [[00:04:13](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=253.45999999999998s)]
+*  This is what I call the life cycle of a survivor. [[00:04:15](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=255.54s)]
+*  I think it's a misconception we have because of all the television shows. [[00:04:18](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=258.02s)]
+*  I'm a survivor myself, and that's why I use that story to explain. [[00:04:21](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=261.74s)]
+*  People think there are some people who remember every single detail and every single moment, [[00:04:25](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=265.76s)]
+*  and then you have to understand this is some of the worst things that have ever happened [[00:04:29](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=269.74s)]
+*  to us. [[00:04:33](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=273.08s)]
+*  I don't want to remember. [[00:04:34](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=274.08s)]
+*  I do remember a lot of the details, and because I don't want to remember, I would rather [[00:04:35](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=275.5s)]
+*  lose all of my memory than to remember that moment in my life. [[00:04:39](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=279.94s)]
+*  I think it's things like that that people don't get about what sexual violence is. [[00:04:44](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=284.26s)]
+*  You have to compare it as a type of death for so many people. [[00:04:48](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=288.54s)]
+*  You've taken a part of us that we can never get back. [[00:04:52](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=292.46s)]
+*  We can only try to get something new in its place and try to be whole again. [[00:04:55](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=295.26s)]
+*  When people understand what sexual violence does to a person, then I think they will engage [[00:04:59](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=299.48s)]
+*  with it differently and engage. [[00:05:04](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=304.24s)]
+*  It's not about individuals. [[00:05:06](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=306.04s)]
+*  It's about our collective safety. [[00:05:07](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=307.40000000000003s)]
+*  If you care about gun violence, you should care about sexual violence because it's about [[00:05:10](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=310.08s)]
+*  our safety, about community safety. [[00:05:13](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=313.92s)]
+*  I want to ask you about men in this. [[00:05:16](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=316.32s)]
+*  What role do men play in this movement? [[00:05:21](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=321.24s)]
+*  When you talk about a cultural shift and a change of the system, men are obviously a [[00:05:24](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=324.12s)]
+*  big part of that reality. [[00:05:28](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=328.54s)]
+*  How do we change it? [[00:05:31](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=331.48s)]
+*  What is incumbent on men to do in this system change that you're talking about? [[00:05:32](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=332.88s)]
+*  Well, one, it's incumbent on all of us to know that men are survivors, too. [[00:05:36](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=336.04s)]
+*  The first role of men in the Me Too movement is as survivors. [[00:05:40](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=340.52s)]
+*  We have to stop thinking about this as a woman's movement, and we have to stop thinking about [[00:05:43](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=343.92s)]
+*  sexual violence as something that only happens to women. [[00:05:47](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=347.5s)]
+*  Once we understand this happens to all of us, then maybe all of us will engage in this [[00:05:50](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=350.56s)]
+*  as something that we have to all attack together. [[00:05:55](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=355.0s)]
+*  I also think that we have to talk about power and privilege, and we have to understand that [[00:05:58](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=358.36s)]
+*  people don't ever want to relinquish their power and privilege. [[00:06:02](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=362.68s)]
+*  When you think about power and privilege, you think about people who are the most vulnerable. [[00:06:06](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=366.84000000000003s)]
+*  Those are the people who are always going to be attacked, and people don't ever want [[00:06:10](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=370.8s)]
+*  to relinquish their power and privilege. [[00:06:14](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=374.84000000000003s)]
+*  Men who have a lot of power and privilege have to do some self-analysis. [[00:06:16](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=376.8s)]
+*  People who have a lot of power and privilege have to do self-analysis about how they use [[00:06:21](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=381.52s)]
+*  that power and privilege. [[00:06:26](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=386.96000000000004s)]
+*  Sexual violence is not about sex, and it's not about desire. [[00:06:30](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=390.96s)]
+*  It's about power and privilege. [[00:06:34](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=394.59999999999997s)]
+*  Once we rethink the way we've been engaging with that and understand that, then we can [[00:06:36](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=396.68s)]
+*  understand how we fight this issue differently. [[00:06:42](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=402.08s)]
+*  Tyronne Burke, it's been five years longer since the beginning of this movement, but [[00:06:44](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=404.32s)]
+*  thank you for the incredible work you and everyone else is doing. [[00:06:48](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=408.76s)]
+*  We have a long way to go to make it right, but it is an important milestone nonetheless. [[00:06:51](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=411.15999999999997s)]
+*  Thank you so much. [[00:06:57](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=417.0s)]
+*  It's great to see you. [[00:06:58](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=418.0s)]
+*  Thank you for having me. [[00:06:59](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=419.0s)]
+*  Thank you. [[00:07:00](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=420.0s)]
+*  Thank you. [[00:07:00](https://www.youtube.com/watch?v=-0Ng9UiEClA&t=420.96s)]

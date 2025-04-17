@@ -1,0 +1,158 @@
+---
+Date Generated: April 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 577s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 52950
+Video Rating: None
+Video Description: This week, a jury found Oath Keepers’ founder Stewart Rhodes guilty of seditious conspiracy for his involvement in the January 6th attack at the Capitol. It’s the first conviction of its kind in decades. And, the white gunman who killed 10 Black people at a Buffalo, New York supermarket earlier this year pleaded guilty to domestic terrorism charges. MSNBC’s Ayman Mohyeldin unpacked the significance of these charges amid the rise in white nationalism with New York Times contributor Katherine Stewart and cultural critic Rich Benjamin.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Republicans have won control of the House by a slim margin. With Democrats gaining control of the Senate, President Biden will now need to work with a divided congress. See all the Midterms results here: https://on.msnbc.com/3KlULq8  
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#OathKeepers #StewartRhodes #Jan6
+---
+
+# Jury Finds Oath Keepers’ Stewart Rhodes Guilty Of Seditious Conspiracy
+**MSNBC - Ayman Mohyeldin:** [December 04, 2022](https://www.youtube.com/watch?v=R3zuD5L8U_Q)
+*  This week, a jury found Oath Keepers founder Stuart Rhodes guilty of seditious conspiracy [[00:00:00](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=0.0s)]
+*  in connection with the January 6th attack on the Capitol. [[00:00:08](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=8.4s)]
+*  Rhodes' conviction is now the most significant to emerge from the Justice Department's sprawling [[00:00:11](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=11.6s)]
+*  investigation into the insurrection. [[00:00:15](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=15.8s)]
+*  Just one day earlier in a courtroom in New York, the white gunman who killed 10 black [[00:00:18](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=18.32s)]
+*  people in a mass shooting at a Buffalo supermarket back in May pleaded guilty to state charges, [[00:00:21](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=21.98s)]
+*  including domestic terrorism. [[00:00:28](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=28.2s)]
+*  And both of these high-profile events came on the heels of Donald Trump's dinner with [[00:00:30](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=30.439999999999998s)]
+*  white supremacist Nick Fuentes. [[00:00:35](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=35.24s)]
+*  Historian Kathleen Ballew argues that these events are all connected. [[00:00:38](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=38.2s)]
+*  She calls them, quote, part of the same story about a rising and militant white power movement [[00:00:42](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=42.519999999999996s)]
+*  right here at home. [[00:00:48](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=48.56s)]
+*  Joining me now to discuss this, Richard Benjamin, a cultural critic and author of Searching [[00:00:50](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=50.72s)]
+*  for White-topia, An Improbable Journey to the Heart of White America, and also with [[00:00:54](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=54.46s)]
+*  us, Katherine Stewart, New York Times contributor and author of The Power Worshippers Inside [[00:00:59](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=59.5s)]
+*  the Dangerous Rise of Religious Nationalism. [[00:01:04](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=64.82s)]
+*  It's great to have both of you with us. [[00:01:07](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=67.86s)]
+*  Rich, I'll start with you. [[00:01:09](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=69.14s)]
+*  Stuart Rhodes, the first person to be found guilty of seditious conspiracy in decades, [[00:01:11](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=71.58s)]
+*  that just the charge of seditious conspiracy on itself is significant. [[00:01:16](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=76.7s)]
+*  Talk to us about the importance of this conviction. [[00:01:20](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=80.74s)]
+*  Great to be here. [[00:01:26](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=86.78s)]
+*  It's very important because that's the most serious charge and with the most serious penalty [[00:01:27](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=87.78s)]
+*  consequences for any of the January 6th insurrectionists who've been acquitted. [[00:01:33](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=93.33999999999999s)]
+*  And so hopefully it sends a signal to the legal system and to the Republican Party just [[00:01:40](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=100.25999999999999s)]
+*  the degree and depth of evidence that has been collected and the consequences will [[00:01:46](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=106.1s)]
+*  be had for the insurrection, even though many politicians still to this day are not denouncing [[00:01:52](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=112.38s)]
+*  it with the degree of seriousness that it deserves. [[00:01:59](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=119.38s)]
+*  So I think that's good news generally for the country. [[00:02:02](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=122.78s)]
+*  Katherine, what message does it send to other extremist groups when someone like Rhodes [[00:02:05](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=125.74s)]
+*  is held accountable on this seditious conspiracy charge? [[00:02:11](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=131.34s)]
+*  Because I think the broader question maybe most Americans would have as well, who did [[00:02:14](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=134.7s)]
+*  he conspire with? [[00:02:18](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=138.1s)]
+*  Why is this not going to perhaps somebody higher than Stuart Rhodes? [[00:02:19](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=139.1s)]
+*  It's really important to hold these violent extremists accountable. [[00:02:24](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=144.29999999999998s)]
+*  But frankly, they're not the only ones who are responsible for the disgraceful events [[00:02:29](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=149.38s)]
+*  of January 6th. [[00:02:35](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=155.29999999999998s)]
+*  the attack on our Capitol, we had a whole number of folks, including many religious [[00:02:38](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=158.74s)]
+*  right leaders who are spreading election lies, spreading Trump's election lies. [[00:02:45](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=165.42000000000002s)]
+*  And so there was sort of that kind of conspiracism is something that Trump cultivated and many [[00:02:51](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=171.74s)]
+*  people either promoted themselves or tacitly went along with. [[00:02:57](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=177.74s)]
+*  Rich, you know, testimony during the trial outlined how people were drawn into the group. [[00:03:02](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=182.74s)]
+*  Many cited the prevalence of election fraud claims, spending too much time online, and [[00:03:09](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=189.54000000000002s)]
+*  a quote of sense of both desperation and hopelessness. [[00:03:15](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=195.5s)]
+*  Can this kind of testimony offer us clues on how to stop future indoctrination or perhaps [[00:03:20](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=200.78s)]
+*  even future radicalization into this movement? [[00:03:25](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=205.94s)]
+*  But here's the problem with this radicalization is when you have a party that doesn't literally [[00:03:30](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=210.14s)]
+*  have a political platform, that doesn't literally have policy or solutions to the country's [[00:03:36](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=216.23999999999998s)]
+*  problems, in the absence of that lack of policy or solutions, what you do have is demagoguery, [[00:03:43](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=223.1s)]
+*  hate and conspiracy theories, which are fed into people. [[00:03:49](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=229.14s)]
+*  And so that is, I think, the tie that's binding them in. [[00:03:53](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=233.85999999999999s)]
+*  And so the deeper question is, what would the Republican party do to what's on people's [[00:03:58](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=238.46s)]
+*  minds before, during and after the recent elections? [[00:04:04](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=244.34s)]
+*  I think to me that's the more salient question, is what do you do with a party that doesn't [[00:04:08](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=248.7s)]
+*  believe in smart, effective government? [[00:04:13](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=253.7s)]
+*  And how are they feeding into these conspiracy theories, which then also lead to violence? [[00:04:16](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=256.02s)]
+*  Catherine, historian Kathleen Belew connected the Rhodes Conviction, the Buffalo Shooter [[00:04:22](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=262.02s)]
+*  and Trump's Dinner with Nick Fuentes. [[00:04:29](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=269.9s)]
+*  She sees a common theme, perhaps, in all of these different events. [[00:04:32](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=272.14s)]
+*  What's your take? [[00:04:37](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=277.26s)]
+*  Do you see a thread between them? [[00:04:38](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=278.26s)]
+*  Absolutely. [[00:04:41](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=281.26s)]
+*  Look, and this isn't just about Trump. [[00:04:42](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=282.26s)]
+*  I think it's really important to step back and see just how much the Republican party [[00:04:45](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=285.7s)]
+*  has changed in the past, say, 15 or 20 years. [[00:04:50](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=290.74s)]
+*  I think the Republican party in the age of Bush and McCain might have had flaws, but [[00:04:54](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=294.3s)]
+*  it's hard to imagine they would have made room for this kind of domestic extremism and [[00:04:58](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=298.42s)]
+*  hate and conspiracism. [[00:05:03](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=303.62s)]
+*  And yet that kind of conspiracism and hate now represents a very significant part of [[00:05:06](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=306.86s)]
+*  the Republican party. [[00:05:12](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=312.38s)]
+*  He really enabled that because he violated a lot of the rules, the sort of tacit rules [[00:05:14](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=314.86s)]
+*  that tend to hold a pluralistic democracy together. [[00:05:20](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=320.98s)]
+*  And that's how he represented the lawlessness of the authoritarian. [[00:05:27](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=327.06s)]
+*  He operated for four years with a sort of performative cruelty, and that appealed to [[00:05:32](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=332.42s)]
+*  the grievances of a lot of his supporters. [[00:05:38](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=338.02s)]
+*  And it's not just about him anymore. [[00:05:41](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=341.38s)]
+*  Now a lot of sort of narcissists and celebrities have seen that and want to be politicians [[00:05:44](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=344.3s)]
+*  are seeing that that's the key to his appeal. [[00:05:50](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=350.21999999999997s)]
+*  And they're emulating a lot of that type of behavior. [[00:05:53](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=353.9s)]
+*  And Rich, of course, the biggest fear is violence, right? [[00:05:57](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=357.38s)]
+*  It's one thing to hear white nationalist rhetoric. [[00:05:59](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=359.94s)]
+*  It's another to see the violence. [[00:06:01](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=361.94s)]
+*  On Wednesday, you had the Department of Homeland Security warning of domestic terror threats [[00:06:03](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=363.18s)]
+*  to the LGBTQ Jewish and migrant communities. [[00:06:06](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=366.94s)]
+*  One official told reporters that Americans motivated by violent ideologies pose a, quote, [[00:06:10](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=370.7s)]
+*  persistent and lethal threat. [[00:06:16](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=376.46s)]
+*  Do you think that enough is being done to counter that threat when you see the level [[00:06:19](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=379.14s)]
+*  of violence that we've seen targeting various communities and with different motivations, [[00:06:24](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=384.78s)]
+*  sorry, with the same motivation in different areas? [[00:06:30](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=390.02s)]
+*  It's improving. [[00:06:33](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=393.82s)]
+*  So in the last administration for four years, we saw an administration that explicitly tried [[00:06:34](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=394.94s)]
+*  to excise white nationalism from domestic terrorist threat assessments. [[00:06:41](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=401.94s)]
+*  So that has changed, and that's cause for some cautious optimism. [[00:06:48](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=408.14s)]
+*  So things might improve, but the question remains to what extent these white nationalists, [[00:06:54](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=414.18s)]
+*  the kind of tacit green light from above, are infiltrating local police departments [[00:07:00](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=420.06s)]
+*  and state police forces. [[00:07:05](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=425.06s)]
+*  And so this is something that the DHS is keeping its eye on. [[00:07:06](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=426.66s)]
+*  It must keep its eye on. [[00:07:11](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=431.82s)]
+*  But as Catherine said, it's all very related between the narcissism of these certain celebrities, [[00:07:13](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=433.7s)]
+*  the availability of gun violence, a culture of violence that's propagated. [[00:07:20](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=440.14s)]
+*  So my hope is one of cautious optimism that things might improve. [[00:07:25](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=445.5s)]
+*  Catherine, where do you come down on this? [[00:07:32](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=452.5s)]
+*  Final thought from you, where do you think this trend of white nationalism is heading? [[00:07:34](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=454.90000000000003s)]
+*  Do you share Marich's optimism? [[00:07:38](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=458.82000000000005s)]
+*  Well, unfortunately, I think there's been a sort of proliferation of a kind of language [[00:07:41](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=461.94000000000005s)]
+*  of exclusionary nationalism, as sort of who gets to properly belong in the country and [[00:07:48](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=468.58s)]
+*  who doesn't. [[00:07:55](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=475.58s)]
+*  There's a kind of mainstreaming of a certain type of extremism that provides this narrative [[00:07:56](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=476.58s)]
+*  that the supposedly right kind of Americans are engaged in spiritual warfare. [[00:08:03](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=483.58s)]
+*  And many of them have a stated goal, as Fuentes does, of creating a kind of theocracy. [[00:08:11](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=491.26s)]
+*  And this kind of ideology used to be, frankly, quite fringe in America. [[00:08:18](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=498.26s)]
+*  It's pretty dominant now among militia groups, but you can see it elsewhere. [[00:08:22](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=502.82s)]
+*  You can see echoes of it or even expressions of it throughout different factions of the [[00:08:28](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=508.62s)]
+*  Republican Party. [[00:08:35](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=515.62s)]
+*  So I think that this is something that we have to be aware of and be very concerned [[00:08:37](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=517.18s)]
+*  about. [[00:08:41](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=521.7399999999999s)]
+*  I'm sorry. [[00:08:42](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=522.7399999999999s)]
+*  Quick clarification. [[00:08:43](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=523.7399999999999s)]
+*  My cautious optimism is with the exercise of law enforcement, not with the general culture [[00:08:46](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=526.7399999999999s)]
+*  that Catherine is describing. [[00:08:52](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=532.8199999999999s)]
+*  No, I'm glad that you made that distinction. [[00:08:54](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=534.8199999999999s)]
+*  I felt that that's what you were trying to say, and I apologize if in any way shape I [[00:08:57](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=537.8199999999999s)]
+*  was mischaracterizing, but I'm glad that you clarified that. [[00:09:03](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=543.26s)]
+*  Thank you, Rich. [[00:09:06](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=546.7s)]
+*  Benjamin, Catherine, Stuart, thanks to the both of you. [[00:09:07](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=547.7s)]
+*  Greatly appreciated this conversation, an important one that I'm sure we'll continue to have. [[00:09:08](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=548.7s)]
+*  Thank you. [[00:09:35](https://www.youtube.com/watch?v=R3zuD5L8U_Q&t=575.94s)]

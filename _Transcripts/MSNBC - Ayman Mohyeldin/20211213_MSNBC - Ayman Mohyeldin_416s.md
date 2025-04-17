@@ -1,0 +1,126 @@
+---
+Date Generated: April 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 416s
+Video Keywords: ['MSNBC', 'NBC News', 'news coverage', 'breaking news', 'us news', 'world news', 'politics', 'current events', 'top stories', 'pop culture', 'business', 'health', 'liberal', 'progressive', 'Ayman Mohyeldin', 'MSNBC LIVE', 'Jullian Assange', 'Joe Biden', 'President Biden', 'Biden Administration', 'Wikileaks', 'Jullian Assange Wikileaks', 'Assange extradition', 'Jullian Assange extradition', 'government leaks']
+Video Views: 21905
+Video Rating: None
+Video Description: Wikileaks founder Julian Assange looks set to be extradited to the U.S. following a ruling by the U.K.'s high court. The repercussions of this decision could fall much farther than just with Assange himself. Free press advocates also warn it sets a dangerous precedent for the safety and security of journalists' right to report freely. Jameel Jaffer, Executive Director of the Knight First Amendment Institute at Columbia University, says it’s in the hands of the U.S. Government to protect the freedom of the press.
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+
+MSNBC delivers breaking news and in-depth analysis of the headlines, as well as informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, Hardball, All In, Last Word, 11th Hour, and more.
+
+Connect with MSNBC Online
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to MSNBC Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+Calls For Biden Administration To Put A Stop To Assange Extradition
+---
+
+# Calls For Biden Administration To Put A Stop To Assange Extradition
+**MSNBC - Ayman Mohyeldin:** [December 13, 2021](https://www.youtube.com/watch?v=WNR9zNFZYPw)
+*  WikiLeaks founder Julian Assange looks set to be extradited to the U.S. following a ruling [[00:00:00](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=0.0s)]
+*  by the U.K.'s high court. [[00:00:05](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=5.5600000000000005s)]
+*  The Australian whistleblower faces an array of criminal charges over the publication of [[00:00:07](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=7.12s)]
+*  hundreds of thousands of classified military documents. [[00:00:11](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=11.64s)]
+*  If convicted of espionage, he faces a 175-year prison sentence. [[00:00:14](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=14.64s)]
+*  Now, Assange, along with his lawyers and advocates, have been locked in a court battle to try [[00:00:20](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=20.400000000000002s)]
+*  to avoid his extradition to the United States, fearing for his safety in a U.S. prison as [[00:00:26](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=26.04s)]
+*  well as his mental health. [[00:00:30](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=30.04s)]
+*  The repercussions of this decision could fall much farther, though, than just with Assange [[00:00:31](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=31.759999999999998s)]
+*  himself. [[00:00:37](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=37.0s)]
+*  Free press advocates also warn that it sets a dangerous precedent for the safety and security [[00:00:38](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=38.0s)]
+*  of journalists' rights to report freely. [[00:00:42](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=42.5s)]
+*  My next guest has reigned extensively on this case back in February, imploring the newly [[00:00:45](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=45.32s)]
+*  inaugurated President Biden to drop the charges against Assange. [[00:00:50](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=50.22s)]
+*  He also gave testimony in Julian Assange's extradition proceedings. [[00:00:55](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=55.14s)]
+*  Jamil Jaff, our executive director of the Knight First Amendment Institute at Columbia [[00:00:59](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=59.019999999999996s)]
+*  University, joins me now. [[00:01:02](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=62.58s)]
+*  Jamil, it's great to have you with us. [[00:01:04](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=64.3s)]
+*  First, I just want to start by getting your reaction to this news and what you see as [[00:01:05](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=65.98s)]
+*  being the greater implication for this extradition and charges against Julian Assange. [[00:01:11](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=71.46000000000001s)]
+*  Yeah, I mean, I think it's a really discouraging development. [[00:01:18](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=78.62s)]
+*  The real issue is the underlying indictment. [[00:01:22](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=82.62s)]
+*  The indictment charges Assange with—it's an 18-count indictment. [[00:01:25](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=85.7s)]
+*  Most of the activity that is described in the indictment involves the kinds of activities [[00:01:32](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=92.86s)]
+*  that journalists engage in all the time. [[00:01:38](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=98.10000000000001s)]
+*  National security journalists all the time communicate with government sources confidentially, [[00:01:42](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=102.46s)]
+*  take steps to protect the confidentiality of their sources' identities, and publish [[00:01:50](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=110.05999999999999s)]
+*  classified information. [[00:01:55](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=115.05999999999999s)]
+*  And those are the kinds of things that the indictment spends most of its time describing. [[00:01:56](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=116.38s)]
+*  And so the concern is that the indictment itself has a kind of chilling effect on national [[00:02:02](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=122.5s)]
+*  security journalism, and a conviction, I think, would require media organizations [[00:02:10](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=130.26s)]
+*  to significantly curtail their newsgathering activities, because the kinds of activities [[00:02:16](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=136.26s)]
+*  that journalists engage in all the time will suddenly be considered criminal. [[00:02:21](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=141.54s)]
+*  Yeah, and the troubling thing in this is, aside from what you think of Julian Assange [[00:02:24](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=144.78s)]
+*  as the person and all the other legal challenges he's had to deal with, this is about a very [[00:02:28](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=148.89999999999998s)]
+*  specific incident going back to 2010. [[00:02:33](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=153.01999999999998s)]
+*  And you've pointed out that much of the war on journalists actually stemmed from former [[00:02:35](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=155.66s)]
+*  President Trump. [[00:02:39](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=159.9s)]
+*  And there was a Yahoo! [[00:02:41](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=161.74s)]
+*  News report that alleged there was discussions with inside the Trump White House about having [[00:02:43](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=163.14s)]
+*  Assange assassinated while he was still inside the Ecuadorian embassy. [[00:02:47](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=167.62s)]
+*  You made a plea to President Biden earlier this year asking him to intervene. [[00:02:52](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=172.16s)]
+*  He obviously has not done that. [[00:02:57](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=177.1s)]
+*  Your thoughts on—and how disappointed are you that the Biden administration is actually [[00:02:59](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=179.42s)]
+*  following suit with what the Trump administration pursued? [[00:03:03](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=183.9s)]
+*  Yeah, I mean, I think one thing that's important to note is that the Espionage Act has been [[00:03:07](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=187.5s)]
+*  used very, very aggressively since 9-11, predating the Trump administration, obviously predating [[00:03:12](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=192.46s)]
+*  Biden. [[00:03:18](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=198.3s)]
+*  The Bush administration, the Obama administration used the Espionage Act very, very aggressively [[00:03:19](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=199.58s)]
+*  to go after journalists' sources. [[00:03:24](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=204.22s)]
+*  But this particular prosecution is the first one in which the government has tried to use [[00:03:26](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=206.58s)]
+*  the Espionage Act against a publisher. [[00:03:31](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=211.74s)]
+*  So it really does represent a very significant extension of this pattern that we've seen [[00:03:34](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=214.74s)]
+*  since 9-11. [[00:03:40](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=220.57999999999998s)]
+*  And the Obama administration actually considered filing charges against Assange, but ultimately [[00:03:42](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=222.42s)]
+*  decided not to because of what it called the New York Times problem. [[00:03:49](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=229.7s)]
+*  It just couldn't satisfy itself that there was a meaningful legal distinction between [[00:03:52](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=232.9s)]
+*  it was alleging Assange had done and what organizations like the New York Times do every [[00:03:58](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=238.06s)]
+*  day. [[00:04:03](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=243.46s)]
+*  Now, obviously, that didn't deter the Trump administration. [[00:04:04](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=244.46s)]
+*  The Trump administration saw that as a kind of feature rather than a bug of this particular [[00:04:06](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=246.82s)]
+*  situation. [[00:04:11](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=251.46s)]
+*  And it went after Assange, knowing full well that the prosecution of Assange would have [[00:04:12](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=252.46s)]
+*  implications, broad implications, not just for WikiLeaks, but for organizations like [[00:04:17](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=257.9s)]
+*  the New York Times or the Washington Post or virtually any organization, media organization [[00:04:22](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=262.78s)]
+*  in the United States that engages in national security journalism. [[00:04:26](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=266.9s)]
+*  So it's a Trump administration indictment, the first one under the Espionage Act to charge [[00:04:31](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=271.09999999999997s)]
+*  a publisher with violations of that particular act. [[00:04:37](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=277.09999999999997s)]
+*  And as you mentioned, press freedom organizations, not only my own, but virtually every press [[00:04:41](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=281.34s)]
+*  freedom organization in the United States has called on President Biden to drop the [[00:04:45](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=285.65999999999997s)]
+*  prosecution. [[00:04:51](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=291.85999999999996s)]
+*  Thus far, obviously, he hasn't done it, but it's not too late. [[00:04:52](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=292.85999999999996s)]
+*  And it's incredible when you think of all the wrongdoings that WikiLeaks has exposed [[00:04:56](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=296.70000000000005s)]
+*  in terms of U.S. military activities overseas. [[00:05:00](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=300.06s)]
+*  Those individuals weren't prosecuted. [[00:05:03](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=303.22s)]
+*  And yet here is Julian Assange being prosecuted for publishing that through WikiLeaks. [[00:05:05](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=305.66s)]
+*  I do want to ask you really quickly, are you, do you have any confidence at all in the remainder [[00:05:10](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=310.5s)]
+*  of the process in the UK? [[00:05:16](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=316.0s)]
+*  I believe there is a right of appeal for Assange to the UK Supreme Court based on what you've [[00:05:17](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=317.78000000000003s)]
+*  seen play out over the last two hearings or the last two decisions, to be more precise. [[00:05:24](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=324.5s)]
+*  Is there any chance that this one will be reversed and that he would not be extradited? [[00:05:29](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=329.65999999999997s)]
+*  Yeah, I just don't know the answer to that question. [[00:05:33](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=333.97999999999996s)]
+*  It seems to me that they shouldn't turn on the actions of British courts, that this is [[00:05:39](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=339.21999999999997s)]
+*  actually in the hands of the U.S. [[00:05:43](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=343.9s)]
+*  government. [[00:05:45](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=345.78s)]
+*  The U.S. [[00:05:46](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=346.78s)]
+*  government could decide today that this prosecution isn't going to go any further. [[00:05:47](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=347.78s)]
+*  It could drop this indictment. [[00:05:52](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=352.02s)]
+*  If it wants to pursue Assange under some other set of charges not involving the publication [[00:05:53](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=353.66s)]
+*  of classified information, it can do that. [[00:05:59](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=359.14000000000004s)]
+*  If it believes that he is an agent of a foreign power, it can charge him with that and prosecute [[00:06:01](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=361.3s)]
+*  him and no press organization is going to complain about that if the government has [[00:06:05](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=365.18s)]
+*  the evidence to back it up. [[00:06:09](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=369.42s)]
+*  The problem with this particular prosecution is that they are charging him for publishing [[00:06:10](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=370.96000000000004s)]
+*  classified secrets and that is something that news organizations do all the time and that [[00:06:14](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=374.98s)]
+*  we need news organizations to do all the time. [[00:06:19](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=379.62s)]
+*  Yeah, it'll definitely have a chilling effect on our democracy and first speech if in fact [[00:06:22](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=382.38s)]
+*  he is prosecuted here. [[00:06:26](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=386.74s)]
+*  It's certainly something I personally don't agree with. [[00:06:28](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=388.34s)]
+*  Jamil Jaffer, thank you so much for your analysis and context. [[00:06:31](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=391.5s)]
+*  Greatly appreciate it. [[00:06:34](https://www.youtube.com/watch?v=WNR9zNFZYPw&t=394.53999999999996s)]

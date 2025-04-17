@@ -1,0 +1,157 @@
+---
+Date Generated: April 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 527s
+Video Keywords: ['Ayman Mohyeldin']
+Video Views: 301315
+Video Rating: None
+Video Description: In a move that defied history and expectations, NBC News projects Democrats will retain control of the U.S. Senate. But these national wins shouldn’t distract from the historical gains Democrats have made in state legislatures races across the country. MSNBC’s Ayman Mohyeldin broke down the results with Ben Wikler, chair of Wisconsin's Democratic Party, and Molly Jong-Fast, host of the “Fast Politics” podcast. 
+
+» Subscribe to MSNBC: http://on.msnbc.com/SubscribeTomsnbc
+ 
+Voters casted their ballots and results of the 2022 midterm elections are still trickling in. MSNBC is following the most important races across the United States: https://on.msnbc.com/3KlULq8
+ 
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. Watch “Alex Wagner Tonight” Tuesday through Friday at 9pm Eastern. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: http://on.msnbc.com/Readmsnbc
+Subscribe to the MSNBC Daily Newsletter: MSNBC.com/NewslettersYouTube
+Find MSNBC on Facebook: http://on.msnbc.com/Likemsnbc
+Follow MSNBC on Twitter: http://on.msnbc.com/Followmsnbc
+Follow MSNBC on Instagram: http://on.msnbc.com/Instamsnbc
+
+#midterms #election #democrats
+---
+
+# Democrats Defy Midterm Expectations, Make Historic Gains In State Legislatures
+**MSNBC - Ayman Mohyeldin:** [November 14, 2022](https://www.youtube.com/watch?v=jyemZILVhd4)
+*  I know what you're thinking. [[00:00:00](https://www.youtube.com/watch?v=jyemZILVhd4&t=0.0s)]
+*  Now if all of this sounds familiar, that's because it is exactly what Trump and his cronies [[00:00:04](https://www.youtube.com/watch?v=jyemZILVhd4&t=4.32s)]
+*  tried to do in the 2020 election. [[00:00:09](https://www.youtube.com/watch?v=jyemZILVhd4&t=9.36s)]
+*  So although national racists tend to steal the spotlight, yes we get that, these state-level [[00:00:11](https://www.youtube.com/watch?v=jyemZILVhd4&t=11.92s)]
+*  wins are important and they will have major implications, not only on policy, like abortion [[00:00:16](https://www.youtube.com/watch?v=jyemZILVhd4&t=16.8s)]
+*  rights and legislation, but also for the foundation and the future of our democracy. [[00:00:23](https://www.youtube.com/watch?v=jyemZILVhd4&t=23.080000000000002s)]
+*  Let's bring in someone who knows the ins and outs of the state-level politics, Ben Wickler. [[00:00:29](https://www.youtube.com/watch?v=jyemZILVhd4&t=29.96s)]
+*  He's the chairman of the Wisconsin Democratic Party. [[00:00:34](https://www.youtube.com/watch?v=jyemZILVhd4&t=34.36s)]
+*  Also joining us is Molly Jung-Fast, host of the Fast Politics podcast. [[00:00:37](https://www.youtube.com/watch?v=jyemZILVhd4&t=37.56s)]
+*  It's great to have both of you with us. [[00:00:42](https://www.youtube.com/watch?v=jyemZILVhd4&t=42.24s)]
+*  Molly, I'll start with you. [[00:00:43](https://www.youtube.com/watch?v=jyemZILVhd4&t=43.480000000000004s)]
+*  Your reaction to the Democrats, not just holding the Senate majority, as I outlined, which [[00:00:44](https://www.youtube.com/watch?v=jyemZILVhd4&t=44.760000000000005s)]
+*  is extremely important and very significant, but what they were able to do on a state level. [[00:00:50](https://www.youtube.com/watch?v=jyemZILVhd4&t=50.08s)]
+*  I think that we in the pundit class did not give the American voters enough credit, right? [[00:00:57](https://www.youtube.com/watch?v=jyemZILVhd4&t=57.64s)]
+*  I mean they rejected authoritarianism, they rejected Trumpism, they rejected racism and [[00:01:04](https://www.youtube.com/watch?v=jyemZILVhd4&t=64.56s)]
+*  division, and they voted for the, you know, the good guys won democracy. [[00:01:11](https://www.youtube.com/watch?v=jyemZILVhd4&t=71.72s)]
+*  You know, these swing state candidates who were anti-democratic, election deniers, almost [[00:01:17](https://www.youtube.com/watch?v=jyemZILVhd4&t=77.64s)]
+*  all of them have lost. [[00:01:24](https://www.youtube.com/watch?v=jyemZILVhd4&t=84.28s)]
+*  We still have another gubernatorial that's waiting to be called. [[00:01:26](https://www.youtube.com/watch?v=jyemZILVhd4&t=86.64s)]
+*  But I mean, I think the American people did not give them enough credit. [[00:01:31](https://www.youtube.com/watch?v=jyemZILVhd4&t=91.56s)]
+*  They saw through it and they voted for, you know, people who believed in democracy and [[00:01:35](https://www.youtube.com/watch?v=jyemZILVhd4&t=95.04s)]
+*  the rule of law. [[00:01:40](https://www.youtube.com/watch?v=jyemZILVhd4&t=100.44s)]
+*  So I think it was a really good night for Democrats, but more importantly, a good night [[00:01:41](https://www.youtube.com/watch?v=jyemZILVhd4&t=101.44s)]
+*  for democracy. [[00:01:46](https://www.youtube.com/watch?v=jyemZILVhd4&t=106.0s)]
+*  Ben, you know, although Democrats like Mandela Barnes wasn't able to beat out the incumbent [[00:01:47](https://www.youtube.com/watch?v=jyemZILVhd4&t=107.0s)]
+*  Senator Ron Johnson, you did reelect the governor, Tony Evers. [[00:01:54](https://www.youtube.com/watch?v=jyemZILVhd4&t=114.36s)]
+*  What do you think voters did in splitting their tickets? [[00:01:59](https://www.youtube.com/watch?v=jyemZILVhd4&t=119.44s)]
+*  I mean, why do you think that happened in a place like Wisconsin? [[00:02:02](https://www.youtube.com/watch?v=jyemZILVhd4&t=122.92s)]
+*  The striking context here is that Wisconsin almost always goes against the party of the [[00:02:07](https://www.youtube.com/watch?v=jyemZILVhd4&t=127.32s)]
+*  president in a midterm. [[00:02:12](https://www.youtube.com/watch?v=jyemZILVhd4&t=132.16s)]
+*  The last time Wisconsin voted for a governor of the same party as the president was 30 [[00:02:13](https://www.youtube.com/watch?v=jyemZILVhd4&t=133.8s)]
+*  years ago. [[00:02:20](https://www.youtube.com/watch?v=jyemZILVhd4&t=140.68s)]
+*  The last time it was a Democrat was in 1962. [[00:02:21](https://www.youtube.com/watch?v=jyemZILVhd4&t=141.84s)]
+*  1962 was also the last year when an incumbent Republican in the Senate was defeated during [[00:02:24](https://www.youtube.com/watch?v=jyemZILVhd4&t=144.52s)]
+*  a Democratic presidency. [[00:02:30](https://www.youtube.com/watch?v=jyemZILVhd4&t=150.0s)]
+*  So the fact that we came within one point is a testament to Mandela Barnes's strength. [[00:02:31](https://www.youtube.com/watch?v=jyemZILVhd4&t=151.6s)]
+*  And the fact that Governor Evers won a 3.4 percentage point victory, that's triple his [[00:02:36](https://www.youtube.com/watch?v=jyemZILVhd4&t=156.32s)]
+*  2018 margin during the blue wave year. [[00:02:41](https://www.youtube.com/watch?v=jyemZILVhd4&t=161.32s)]
+*  It's an extraordinary thing. [[00:02:44](https://www.youtube.com/watch?v=jyemZILVhd4&t=164.20000000000002s)]
+*  The other piece of this is that Republicans have gerrymandered Wisconsin so badly that [[00:02:45](https://www.youtube.com/watch?v=jyemZILVhd4&t=165.92000000000002s)]
+*  they could very well have gotten supermajorities in both chambers of the state legislature. [[00:02:50](https://www.youtube.com/watch?v=jyemZILVhd4&t=170.88s)]
+*  They were 2,499 votes short. [[00:02:54](https://www.youtube.com/watch?v=jyemZILVhd4&t=174.84s)]
+*  But voters said no to having a unilateral Republican control go to a party that didn't [[00:02:58](https://www.youtube.com/watch?v=jyemZILVhd4&t=178.16s)]
+*  even win statewide in the governor's race. [[00:03:04](https://www.youtube.com/watch?v=jyemZILVhd4&t=184.79999999999998s)]
+*  So it really is, as Molly was saying, an extraordinary night in a midterm election. [[00:03:07](https://www.youtube.com/watch?v=jyemZILVhd4&t=187.0s)]
+*  It goes against the pattern of history and it represents a triumph for democracy and [[00:03:11](https://www.youtube.com/watch?v=jyemZILVhd4&t=191.68s)]
+*  for freedom in a moment when a basic freedom was being taken away from half the population. [[00:03:16](https://www.youtube.com/watch?v=jyemZILVhd4&t=196.04s)]
+*  Ben, I'm so glad you provided that context, Molly, because as Ben was just saying there, [[00:03:20](https://www.youtube.com/watch?v=jyemZILVhd4&t=200.12s)]
+*  when you see it, you know, we kind of sometimes just look at the W's and the L's and we think [[00:03:23](https://www.youtube.com/watch?v=jyemZILVhd4&t=203.88s)]
+*  of only about it in that. [[00:03:27](https://www.youtube.com/watch?v=jyemZILVhd4&t=207.64s)]
+*  But having that context really shows us what the message that was behind all these votes. [[00:03:29](https://www.youtube.com/watch?v=jyemZILVhd4&t=209.12s)]
+*  How critical are these now, Democratic blue wall victories ahead of 2024? [[00:03:34](https://www.youtube.com/watch?v=jyemZILVhd4&t=214.36s)]
+*  When you look at the momentum that the Democrats can build on, if you take something that Ben [[00:03:39](https://www.youtube.com/watch?v=jyemZILVhd4&t=219.32s)]
+*  just said with Mandela Barnes and with the Democrats were able to do in a very gerrymandered [[00:03:43](https://www.youtube.com/watch?v=jyemZILVhd4&t=223.08s)]
+*  How do they reinforce or shore up that blue wall in Pennsylvania, in Michigan and in Wisconsin [[00:03:48](https://www.youtube.com/watch?v=jyemZILVhd4&t=228.83999999999997s)]
+*  ahead of 2024? [[00:03:55](https://www.youtube.com/watch?v=jyemZILVhd4&t=235.51999999999998s)]
+*  Well, the state houses are really critical. [[00:03:57](https://www.youtube.com/watch?v=jyemZILVhd4&t=237.51999999999998s)]
+*  And I think Democrats have sort of gotten interested in them again, remember, because [[00:03:59](https://www.youtube.com/watch?v=jyemZILVhd4&t=239.83999999999997s)]
+*  there was a period during Obama when they, you know, Democrats sort of took their eye [[00:04:04](https://www.youtube.com/watch?v=jyemZILVhd4&t=244.67999999999998s)]
+*  off the ball with the state houses and they become very committed to working on the state [[00:04:10](https://www.youtube.com/watch?v=jyemZILVhd4&t=250.27999999999997s)]
+*  I mean, just like what's happened in Wisconsin, which is really, really great. [[00:04:15](https://www.youtube.com/watch?v=jyemZILVhd4&t=255.12s)]
+*  And when Democrats do that, I think, you know, it helps the it helps the up party, you know, [[00:04:19](https://www.youtube.com/watch?v=jyemZILVhd4&t=259.12s)]
+*  the different candidates on the ballot. [[00:04:24](https://www.youtube.com/watch?v=jyemZILVhd4&t=264.44s)]
+*  I would say that the hope is that next time Republicans won't try to dismantle democracy [[00:04:27](https://www.youtube.com/watch?v=jyemZILVhd4&t=267.0s)]
+*  in 2024. [[00:04:34](https://www.youtube.com/watch?v=jyemZILVhd4&t=274.6s)]
+*  I mean, what they did this time was really rebuked by voters. [[00:04:35](https://www.youtube.com/watch?v=jyemZILVhd4&t=275.6s)]
+*  You know, and it's very scary to have just one party that believes in the central tenet [[00:04:41](https://www.youtube.com/watch?v=jyemZILVhd4&t=281.28000000000003s)]
+*  of our entire governmental system. [[00:04:46](https://www.youtube.com/watch?v=jyemZILVhd4&t=286.44s)]
+*  So I think that the hope is that Republicans will not do this again. [[00:04:48](https://www.youtube.com/watch?v=jyemZILVhd4&t=288.8s)]
+*  But I think there's a good framework here for Democrats to be able to protect our freedom. [[00:04:54](https://www.youtube.com/watch?v=jyemZILVhd4&t=294.28000000000003s)]
+*  Ben, you mentioned the fact that Democratic voters were able to prevent the GOP from reaching [[00:05:00](https://www.youtube.com/watch?v=jyemZILVhd4&t=300.32s)]
+*  a veto proof supermajority. [[00:05:06](https://www.youtube.com/watch?v=jyemZILVhd4&t=306.72s)]
+*  I just talked about the significance of what state legislators will be doing if this decision, [[00:05:08](https://www.youtube.com/watch?v=jyemZILVhd4&t=308.72s)]
+*  Harper versus Moore at the Supreme Court, goes the way that perhaps some would like [[00:05:15](https://www.youtube.com/watch?v=jyemZILVhd4&t=315.40000000000003s)]
+*  it. [[00:05:19](https://www.youtube.com/watch?v=jyemZILVhd4&t=319.28000000000003s)]
+*  Do you believe that folks in your state and elsewhere are beginning to understand just [[00:05:20](https://www.youtube.com/watch?v=jyemZILVhd4&t=320.68s)]
+*  how crucial state level elections are to our democracy? [[00:05:25](https://www.youtube.com/watch?v=jyemZILVhd4&t=325.8s)]
+*  I keep saying this. [[00:05:29](https://www.youtube.com/watch?v=jyemZILVhd4&t=329.48s)]
+*  I was talking about it with Ali Veltchi last night. [[00:05:30](https://www.youtube.com/watch?v=jyemZILVhd4&t=330.6s)]
+*  I don't think any of us four years ago, five years ago, knew a single name of a secretary [[00:05:32](https://www.youtube.com/watch?v=jyemZILVhd4&t=332.28000000000003s)]
+*  of state in this country. [[00:05:38](https://www.youtube.com/watch?v=jyemZILVhd4&t=338.44s)]
+*  Absolutely. [[00:05:40](https://www.youtube.com/watch?v=jyemZILVhd4&t=340.52s)]
+*  This really is a sea change moment for Democrats. [[00:05:41](https://www.youtube.com/watch?v=jyemZILVhd4&t=341.8s)]
+*  And there are so many people, especially local activists, committed Democratic Party members, [[00:05:44](https://www.youtube.com/watch?v=jyemZILVhd4&t=344.84s)]
+*  members of grassroots groups who've poured themselves into winning state legislative [[00:05:49](https://www.youtube.com/watch?v=jyemZILVhd4&t=349.64s)]
+*  races, secretary of state's races, attorney generals, governor's races, that work revitalizing [[00:05:53](https://www.youtube.com/watch?v=jyemZILVhd4&t=353.68s)]
+*  state parties, building grassroots networks that can turn out voters for offices that [[00:05:59](https://www.youtube.com/watch?v=jyemZILVhd4&t=359.46s)]
+*  are far from the national news. [[00:06:04](https://www.youtube.com/watch?v=jyemZILVhd4&t=364.76s)]
+*  That makes all the difference in the times of the greatest peril. [[00:06:07](https://www.youtube.com/watch?v=jyemZILVhd4&t=367.06s)]
+*  What Molly was referring to, we saw Donald Trump go state by state and try to pressure [[00:06:10](https://www.youtube.com/watch?v=jyemZILVhd4&t=370.58s)]
+*  state officials to overturn election results. [[00:06:15](https://www.youtube.com/watch?v=jyemZILVhd4&t=375.06s)]
+*  And in Wisconsin and these other states, there were people running for offices who wanted [[00:06:17](https://www.youtube.com/watch?v=jyemZILVhd4&t=377.97999999999996s)]
+*  to do that in 2024. [[00:06:22](https://www.youtube.com/watch?v=jyemZILVhd4&t=382.03999999999996s)]
+*  There's a bill in our state legislature that Republicans introduced that would allow statewide [[00:06:23](https://www.youtube.com/watch?v=jyemZILVhd4&t=383.9s)]
+*  elections to be nullified if the margin of victory is less than the number of absentee [[00:06:28](https://www.youtube.com/watch?v=jyemZILVhd4&t=388.02s)]
+*  ballots cast, which is true of the last four presidential elections here. [[00:06:32](https://www.youtube.com/watch?v=jyemZILVhd4&t=392.62s)]
+*  So, or three, excuse me, not a, four of the last six. [[00:06:36](https://www.youtube.com/watch?v=jyemZILVhd4&t=396.58s)]
+*  That means that if Republicans got their way, they could throw out the will of the people [[00:06:41](https://www.youtube.com/watch?v=jyemZILVhd4&t=401.53999999999996s)]
+*  and basically pull off a legal coup. [[00:06:45](https://www.youtube.com/watch?v=jyemZILVhd4&t=405.53999999999996s)]
+*  That path is now closed. [[00:06:48](https://www.youtube.com/watch?v=jyemZILVhd4&t=408.86s)]
+*  Voters have said no, they've rejected that risk. [[00:06:50](https://www.youtube.com/watch?v=jyemZILVhd4&t=410.97999999999996s)]
+*  Speaking of a legal coup, I got to ask you about this, Ben, before we go. [[00:06:53](https://www.youtube.com/watch?v=jyemZILVhd4&t=413.62s)]
+*  And it's, again, something that you brought up, which is the gerrymandering. [[00:06:56](https://www.youtube.com/watch?v=jyemZILVhd4&t=416.34s)]
+*  There was this new piece in Esquire titled, No One Can Pretend That Wisconsin Is a Republic. [[00:06:59](https://www.youtube.com/watch?v=jyemZILVhd4&t=419.62s)]
+*  And I just want to note this from Tuesday. [[00:07:04](https://www.youtube.com/watch?v=jyemZILVhd4&t=424.78s)]
+*  The Democratic Party, as you mentioned, they got 51 percent of the votes statewide in Wisconsin. [[00:07:06](https://www.youtube.com/watch?v=jyemZILVhd4&t=426.38s)]
+*  They have the electoral majority. [[00:07:11](https://www.youtube.com/watch?v=jyemZILVhd4&t=431.73999999999995s)]
+*  That only translated to 30 percent of the state's legislator seats. [[00:07:14](https://www.youtube.com/watch?v=jyemZILVhd4&t=434.65999999999997s)]
+*  What do you make of that assessment? [[00:07:20](https://www.youtube.com/watch?v=jyemZILVhd4&t=440.78s)]
+*  Can you say that Wisconsin is a functioning democracy when you have 51 percent of the [[00:07:22](https://www.youtube.com/watch?v=jyemZILVhd4&t=442.26s)]
+*  will reflected in only 30 percent of the political power? [[00:07:27](https://www.youtube.com/watch?v=jyemZILVhd4&t=447.5s)]
+*  So it means there is something fundamentally broken. [[00:07:32](https://www.youtube.com/watch?v=jyemZILVhd4&t=452.5s)]
+*  And I will say that we got up to 35 seats. [[00:07:35](https://www.youtube.com/watch?v=jyemZILVhd4&t=455.26s)]
+*  So we, excuse me, 34 seats. [[00:07:38](https://www.youtube.com/watch?v=jyemZILVhd4&t=458.3s)]
+*  So we stopped Republicans from getting the supermajority that they wanted. [[00:07:40](https://www.youtube.com/watch?v=jyemZILVhd4&t=460.42s)]
+*  The 35 seats mean that we can sustain the governor's veto. [[00:07:44](https://www.youtube.com/watch?v=jyemZILVhd4&t=464.5s)]
+*  But there's an opportunity for something better. [[00:07:49](https://www.youtube.com/watch?v=jyemZILVhd4&t=469.5s)]
+*  This April 4th in 2023, we have a state Supreme Court race that will determine the majority [[00:07:51](https://www.youtube.com/watch?v=jyemZILVhd4&t=471.86s)]
+*  on our state Supreme Court. [[00:07:56](https://www.youtube.com/watch?v=jyemZILVhd4&t=476.78s)]
+*  If the non-Republican candidate wins that race, it means that we could have a state [[00:07:58](https://www.youtube.com/watch?v=jyemZILVhd4&t=478.3s)]
+*  Supreme Court that strikes down gerrymandered maps based exactly on that argument, that [[00:08:03](https://www.youtube.com/watch?v=jyemZILVhd4&t=483.34s)]
+*  the constitutional requirement is that people's votes count equally. [[00:08:07](https://www.youtube.com/watch?v=jyemZILVhd4&t=487.94s)]
+*  And with that, Wisconsin could become a democracy like Michigan and Minnesota next to us. [[00:08:12](https://www.youtube.com/watch?v=jyemZILVhd4&t=492.14s)]
+*  Ben Wickler, Molly Junkfast, thank you to the both of you. [[00:08:16](https://www.youtube.com/watch?v=jyemZILVhd4&t=496.9s)]
+*  Greatly appreciate it, as always. [[00:08:19](https://www.youtube.com/watch?v=jyemZILVhd4&t=499.38s)]
+*  Next up, all... [[00:08:21](https://www.youtube.com/watch?v=jyemZILVhd4&t=501.98s)]
