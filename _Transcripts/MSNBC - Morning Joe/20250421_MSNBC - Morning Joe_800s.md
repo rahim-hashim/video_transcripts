@@ -1,0 +1,153 @@
+---
+Date Generated: April 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 800s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 416955
+Video Rating: None
+Video Description: Defense Secretary Pete Hegseth used his personal phone to send information about U.S. military operations in Yemen to a 13-person Signal group chat, including his wife and his brother, two sources with knowledge of the matter confirmed to NBC News.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#PeteHegseth #Trump #Politics
+---
+
+# 'Reckless and dangerous': Hegseth slammed for sharing plans with wife, brother in Signal chat
+**MSNBC - Morning Joe:** [April 21, 2025](https://www.youtube.com/watch?v=niAy1e8hW7U)
+*  This morning, Defense Secretary Pete Hegseth reportedly used his personal phone to disclose [[00:00:00](https://www.youtube.com/watch?v=niAy1e8hW7U&t=0.0s)]
+*  information about U.S. military operations in Yemen. This is a different group chat situation. [[00:00:06](https://www.youtube.com/watch?v=niAy1e8hW7U&t=6.5600000000000005s)]
+*  This is another signal group chat where he shared sensitive information to sources with [[00:00:13](https://www.youtube.com/watch?v=niAy1e8hW7U&t=13.76s)]
+*  knowledge of the matter. Tell NBC News 13 people were in the chat, including Hegseth's wife and [[00:00:21](https://www.youtube.com/watch?v=niAy1e8hW7U&t=21.04s)]
+*  brother. The sources say Hegseth sent the messages after an aide warned him to not share sensitive [[00:00:29](https://www.youtube.com/watch?v=niAy1e8hW7U&t=29.6s)]
+*  information on signal. Okay, this comes a month after the editor-in-chief of The Atlantic, [[00:00:37](https://www.youtube.com/watch?v=niAy1e8hW7U&t=37.84s)]
+*  Jeffrey Goldberg, revealed the Trump administration accidentally added him to a signal group chat [[00:00:44](https://www.youtube.com/watch?v=niAy1e8hW7U&t=44.24s)]
+*  about Yemen attack plans. National Security Advisor Mike Walz has taken responsibility for [[00:00:50](https://www.youtube.com/watch?v=niAy1e8hW7U&t=50.400000000000006s)]
+*  creating that message chain. According to The New York Times, the other group chat was started by [[00:00:56](https://www.youtube.com/watch?v=niAy1e8hW7U&t=56.0s)]
+*  Hegseth. The secretary shared essentially the same information in both groups, including [[00:01:01](https://www.youtube.com/watch?v=niAy1e8hW7U&t=61.76s)]
+*  the flight schedules for the military jets that targeted the Houthis. The information was [[00:01:09](https://www.youtube.com/watch?v=niAy1e8hW7U&t=69.92s)]
+*  reportedly sent to both chats at roughly the same time. What's going on here? Four people familiar [[00:01:16](https://www.youtube.com/watch?v=niAy1e8hW7U&t=76.4s)]
+*  with the chat tell The New York Times that Hegseth's chat was named Defense Team Huddle, [[00:01:23](https://www.youtube.com/watch?v=niAy1e8hW7U&t=83.68s)]
+*  and it did not include any other cabinet-level officials. It was initially created as a forum [[00:01:30](https://www.youtube.com/watch?v=niAy1e8hW7U&t=90.96000000000001s)]
+*  for discussing routine administrative or scheduling information. Sources tell the paper Hegseth did not [[00:01:38](https://www.youtube.com/watch?v=niAy1e8hW7U&t=98.16000000000001s)]
+*  usually discuss sensitive military operations. Hegseth's chat included his wife, who is a former [[00:01:45](https://www.youtube.com/watch?v=niAy1e8hW7U&t=105.6s)]
+*  Fox News producer and not a Defense Department employee. His brother and personal lawyer were [[00:01:53](https://www.youtube.com/watch?v=niAy1e8hW7U&t=113.83999999999999s)]
+*  also in the chat. They both have jobs in the Pentagon, but it's not known why they would need [[00:02:01](https://www.youtube.com/watch?v=niAy1e8hW7U&t=121.91999999999999s)]
+*  to know anything about attack plans in Yemen. In a statement, the chief Pentagon spokesperson [[00:02:08](https://www.youtube.com/watch?v=niAy1e8hW7U&t=128.07999999999998s)]
+*  denied any classified information was shared in either of the signal chats. Let's bring in one of [[00:02:15](https://www.youtube.com/watch?v=niAy1e8hW7U&t=135.12s)]
+*  the reporters of that piece, New York Times reporter Greg Jaffe. Also with us, retired U.S. Army [[00:02:21](https://www.youtube.com/watch?v=niAy1e8hW7U&t=141.6s)]
+*  Lieutenant General Mark Hurtling. His military career spans more than three decades of service, [[00:02:30](https://www.youtube.com/watch?v=niAy1e8hW7U&t=150.16s)]
+*  including as the commanding general of the U.S. Army Europe and the Seventh Army. So we'll get to [[00:02:37](https://www.youtube.com/watch?v=niAy1e8hW7U&t=157.44s)]
+*  that in a moment. But first, Mr. Jaffe, more on your reporting. I almost felt like we were reporting [[00:02:44](https://www.youtube.com/watch?v=niAy1e8hW7U&t=164.24s)]
+*  on the first signal scandal. It seems so similar. Tell us more about who he included in this chat [[00:02:51](https://www.youtube.com/watch?v=niAy1e8hW7U&t=171.28s)]
+*  and why perhaps this is the same thing happening all over again. [[00:02:59](https://www.youtube.com/watch?v=niAy1e8hW7U&t=179.20000000000002s)]
+*  Yeah, the chat as you noted included his wife, his brother, his personal attorney, and most of his [[00:03:05](https://www.youtube.com/watch?v=niAy1e8hW7U&t=185.60000000000002s)]
+*  inner circle, which has been in a pretty, it's been in a state of tumult these last couple of [[00:03:12](https://www.youtube.com/watch?v=niAy1e8hW7U&t=192.08s)]
+*  weeks. And I think it's worth noting it's a very inexperienced inner circle and he's a very [[00:03:18](https://www.youtube.com/watch?v=niAy1e8hW7U&t=198.24s)]
+*  inexperienced secretary. So it's a group of people who hadn't been used to operating at this level of [[00:03:23](https://www.youtube.com/watch?v=niAy1e8hW7U&t=203.44s)]
+*  government. And I think that's the other kind of key point here. He doesn't have a lot of experience [[00:03:30](https://www.youtube.com/watch?v=niAy1e8hW7U&t=210.24s)]
+*  at senior officials and he's surrounding himself with people who also kind of lack experience. [[00:03:36](https://www.youtube.com/watch?v=niAy1e8hW7U&t=216.24s)]
+*  You know, General, I was just a little congressman, one of 435. So Norm serves this committee. [[00:03:41](https://www.youtube.com/watch?v=niAy1e8hW7U&t=221.52s)]
+*  We would get information and we understood we didn't tell a soul. It didn't tell a soul, nobody. [[00:03:51](https://www.youtube.com/watch?v=niAy1e8hW7U&t=231.76s)]
+*  Not even staff members, certainly not family members. I'm just curious, you've operated [[00:04:00](https://www.youtube.com/watch?v=niAy1e8hW7U&t=240.8s)]
+*  actually on such a higher level where the lives of our men and women in uniform [[00:04:09](https://www.youtube.com/watch?v=niAy1e8hW7U&t=249.36s)]
+*  were at risk if information got out. I just, I mean, even on my small level, this is just [[00:04:17](https://www.youtube.com/watch?v=niAy1e8hW7U&t=257.04s)]
+*  really, this is so hard to comprehend. I wonder how shocking it must be for you who understands [[00:04:24](https://www.youtube.com/watch?v=niAy1e8hW7U&t=264.08s)]
+*  this sort of recklessness could lead to lost American lives. It is pretty shocking, Joe. [[00:04:30](https://www.youtube.com/watch?v=niAy1e8hW7U&t=270.24s)]
+*  What I'll say to you, yes, I've been given information from confidential all the way up [[00:04:36](https://www.youtube.com/watch?v=niAy1e8hW7U&t=276.8s)]
+*  to top secret code word. And the rules are when individuals are given access to national security [[00:04:42](https://www.youtube.com/watch?v=niAy1e8hW7U&t=282.96000000000004s)]
+*  information, intelligence, there are two ironclad standards. You protect classified, critical, [[00:04:49](https://www.youtube.com/watch?v=niAy1e8hW7U&t=289.44s)]
+*  and sensitive information and you only share it with those who have a clearance and with a [[00:04:56](https://www.youtube.com/watch?v=niAy1e8hW7U&t=296.64s)]
+*  legitimate need to know. And you certainly don't share it with your wife, your family members, [[00:05:02](https://www.youtube.com/watch?v=niAy1e8hW7U&t=302.08s)]
+*  or those you're trying to impress. Doing anything else betrays trust and it violates the standards [[00:05:07](https://www.youtube.com/watch?v=niAy1e8hW7U&t=307.44s)]
+*  that all military personnel and most government officials learn. When someone with access to [[00:05:13](https://www.youtube.com/watch?v=niAy1e8hW7U&t=313.35999999999996s)]
+*  sensitive information passes it to a favored journalist, a friendly voice in the media, [[00:05:19](https://www.youtube.com/watch?v=niAy1e8hW7U&t=319.59999999999997s)]
+*  spouse or a family member, someone without clearance, without a key role in the operations, [[00:05:25](https://www.youtube.com/watch?v=niAy1e8hW7U&t=325.84s)]
+*  and without a need to know, that's not patriotism, that's performance politics. [[00:05:31](https://www.youtube.com/watch?v=niAy1e8hW7U&t=331.12s)]
+*  It's reckless and it's dangerous. It risks operations, it endangers lives, and it weakens [[00:05:36](https://www.youtube.com/watch?v=niAy1e8hW7U&t=336.08s)]
+*  U.S. credibility around the world. It also sends the key message that keeping our nation secure [[00:05:41](https://www.youtube.com/watch?v=niAy1e8hW7U&t=341.76s)]
+*  is optional. And the people that are doing this truly, fully don't understand what our enemies [[00:05:47](https://www.youtube.com/watch?v=niAy1e8hW7U&t=347.84000000000003s)]
+*  can collect from a resource like a signals app on a private phone. It's just amazing to me. It's [[00:05:53](https://www.youtube.com/watch?v=niAy1e8hW7U&t=353.84s)]
+*  infuriating and I think most people who have clearances understand the same thing. [[00:06:02](https://www.youtube.com/watch?v=niAy1e8hW7U&t=362.47999999999996s)]
+*  Well, in general here we're starting with the semantics game again with the initial statements [[00:06:07](https://www.youtube.com/watch?v=niAy1e8hW7U&t=367.2s)]
+*  from the DOD that this is not classified information. Have you ever known the scheduling [[00:06:14](https://www.youtube.com/watch?v=niAy1e8hW7U&t=374.4s)]
+*  of an operation when fighter jets are going to be taking off, when they're going to be making [[00:06:20](https://www.youtube.com/watch?v=niAy1e8hW7U&t=380.72s)]
+*  their strikes? Have you ever known that in all of your years of not being the most highly classified [[00:06:28](https://www.youtube.com/watch?v=niAy1e8hW7U&t=388.40000000000003s)]
+*  information that a sec def would hold? Yeah, they're playing word games with this, Joe. It [[00:06:34](https://www.youtube.com/watch?v=niAy1e8hW7U&t=394.96000000000004s)]
+*  may not have a classification stamp on the top that says secret or top secret or classified, [[00:06:42](https://www.youtube.com/watch?v=niAy1e8hW7U&t=402.0s)]
+*  but it's critical and sensitive information. And that falls under the category of the Department [[00:06:49](https://www.youtube.com/watch?v=niAy1e8hW7U&t=409.52000000000004s)]
+*  of Defense regulations too. You don't have to have a stamp on the top of a piece of paper to [[00:06:55](https://www.youtube.com/watch?v=niAy1e8hW7U&t=415.68s)]
+*  understand that anything like this could fall into the hands of our enemies or even forces on [[00:07:01](https://www.youtube.com/watch?v=niAy1e8hW7U&t=421.36s)]
+*  the ground and they can put pieces of a puzzle together. That's what intelligence folks do. [[00:07:08](https://www.youtube.com/watch?v=niAy1e8hW7U&t=428.40000000000003s)]
+*  It's fascinating to me. We have such tremendous people in our intelligence communities and all [[00:07:15](https://www.youtube.com/watch?v=niAy1e8hW7U&t=435.2s)]
+*  of the agencies, from the military agencies all the way up to the CIA. And it's fascinating to [[00:07:21](https://www.youtube.com/watch?v=niAy1e8hW7U&t=441.28s)]
+*  me that every single one of them would tell you that our enemies can take these pieces of a puzzle, [[00:07:26](https://www.youtube.com/watch?v=niAy1e8hW7U&t=446.88s)]
+*  put them together, and determine things like just the way people talk, the way they act. [[00:07:34](https://www.youtube.com/watch?v=niAy1e8hW7U&t=454.08s)]
+*  When I was in Europe, or when I was in many jobs, we used to give commanders, [[00:07:40](https://www.youtube.com/watch?v=niAy1e8hW7U&t=460.4s)]
+*  one of my intelligence folks would give me a black book before I went to have an engagement [[00:07:46](https://www.youtube.com/watch?v=niAy1e8hW7U&t=466.32s)]
+*  with a foreign dignitary or a foreign army. It was collections on those individuals to give me a [[00:07:50](https://www.youtube.com/watch?v=niAy1e8hW7U&t=470.23999999999995s)]
+*  better advantage. So we can talk about the art of the deal, but when you're talking about the art [[00:07:56](https://www.youtube.com/watch?v=niAy1e8hW7U&t=476.64s)]
+*  of engagement, it gives you an advantage when you have intelligence about what people are doing, [[00:08:02](https://www.youtube.com/watch?v=niAy1e8hW7U&t=482.15999999999997s)]
+*  about their personal habits, about their ego and their hubris. And I've got to tell you, [[00:08:07](https://www.youtube.com/watch?v=niAy1e8hW7U&t=487.52s)]
+*  the information on these chats that are being shown by Jeff Goldberg and others are just [[00:08:12](https://www.youtube.com/watch?v=niAy1e8hW7U&t=492.88s)]
+*  staggering. It's jaw-dropping to me that anybody can say that's not important information that our [[00:08:19](https://www.youtube.com/watch?v=niAy1e8hW7U&t=499.2s)]
+*  enemies can gain a lot from. So to broaden this out a little bit, Jonathan Lemire, I know you're [[00:08:25](https://www.youtube.com/watch?v=niAy1e8hW7U&t=505.35999999999996s)]
+*  going to go to Greg on his reporting, but to add to this, the Secretary of Defense's wife and brother, [[00:08:30](https://www.youtube.com/watch?v=niAy1e8hW7U&t=510.08s)]
+*  I believe there's been reporting that they have been included on some meetings as well. So the [[00:08:40](https://www.youtube.com/watch?v=niAy1e8hW7U&t=520.64s)]
+*  question is, what is their role? Yeah, there's been questions about just the set up at the Pentagon [[00:08:45](https://www.youtube.com/watch?v=niAy1e8hW7U&t=525.36s)]
+*  surrounding the Secretary of Defense, who appears to be very isolated in the building. His wife is [[00:08:50](https://www.youtube.com/watch?v=niAy1e8hW7U&t=530.56s)]
+*  there, his brother is there, other close confidants nearby at all times. Why these eyebrows raise about [[00:08:54](https://www.youtube.com/watch?v=niAy1e8hW7U&t=534.4s)]
+*  how his wife has been in very sensitive meetings with foreign governments. We should note though, [[00:08:59](https://www.youtube.com/watch?v=niAy1e8hW7U&t=539.84s)]
+*  the Pentagon put out a statement about this. We haven't heard from the Secretary of Defense himself [[00:09:05](https://www.youtube.com/watch?v=niAy1e8hW7U&t=545.2s)]
+*  except a Twitter reply to the Democrats, like the political organization. He attacked them simply [[00:09:09](https://www.youtube.com/watch?v=niAy1e8hW7U&t=549.6800000000001s)]
+*  saying, your agenda is illegals, trans and DEI. That's his comment. He made a political swipe at [[00:09:16](https://www.youtube.com/watch?v=niAy1e8hW7U&t=556.0s)]
+*  the Democratic Party as opposed to addressing the matter at hand. That's all we've heard from the [[00:09:23](https://www.youtube.com/watch?v=niAy1e8hW7U&t=563.36s)]
+*  Secretary of Defense. So Greg, terrific reporting. Tell us more also about this moment at the Pentagon [[00:09:27](https://www.youtube.com/watch?v=niAy1e8hW7U&t=567.68s)]
+*  where there's been a wave of high profile resignations, people working with the Secretary, [[00:09:32](https://www.youtube.com/watch?v=niAy1e8hW7U&t=572.64s)]
+*  one of whom wrote an op-ed for Politico last night saying that the building is in chaos, [[00:09:37](https://www.youtube.com/watch?v=niAy1e8hW7U&t=577.68s)]
+*  suggesting that President Trump push out the Secretary of Defense. We haven't heard anything [[00:09:42](https://www.youtube.com/watch?v=niAy1e8hW7U&t=582.8s)]
+*  from the President just yet, but talk to us about this moment there at DOD. Yeah, it's really unlike [[00:09:46](https://www.youtube.com/watch?v=niAy1e8hW7U&t=586.4799999999999s)]
+*  anything I've seen in the kind of 20 years that I've been following the building to have the [[00:09:53](https://www.youtube.com/watch?v=niAy1e8hW7U&t=593.68s)]
+*  Secretary's inner circle kind of turn on each other this way. That's really, really unprecedented. [[00:09:57](https://www.youtube.com/watch?v=niAy1e8hW7U&t=597.68s)]
+*  And as far as I can tell, the infighting is not really over policy or anything like that. [[00:10:03](https://www.youtube.com/watch?v=niAy1e8hW7U&t=603.4399999999999s)]
+*  I think who has the Secretary's ear, how meetings should be run. It's just a really, [[00:10:10](https://www.youtube.com/watch?v=niAy1e8hW7U&t=610.64s)]
+*  really chaotic environment. And you get the sense that there's just a lack of process around [[00:10:16](https://www.youtube.com/watch?v=niAy1e8hW7U&t=616.2399999999999s)]
+*  the Secretary in terms of just how to run the office on a day to day basis, just basic function [[00:10:21](https://www.youtube.com/watch?v=niAy1e8hW7U&t=621.28s)]
+*  is not happening. This doesn't happen without a context. You've had a purge of the Chairman [[00:10:27](https://www.youtube.com/watch?v=niAy1e8hW7U&t=627.28s)]
+*  and Joint Chiefs of Staff, any number of other four stars. Now you've had this. Mark, I was really [[00:10:33](https://www.youtube.com/watch?v=niAy1e8hW7U&t=633.36s)]
+*  curious. Two things come to mind. One is, what is morale like now? You've got obviously civilian [[00:10:39](https://www.youtube.com/watch?v=niAy1e8hW7U&t=639.04s)]
+*  primacy, but you have a civilian running the Pentagon who's violating rules that if any of [[00:10:45](https://www.youtube.com/watch?v=niAy1e8hW7U&t=645.04s)]
+*  the people under his command did, they would be stripped of rank and they'd be out of their jobs [[00:10:52](https://www.youtube.com/watch?v=niAy1e8hW7U&t=652.0s)]
+*  or worse. So to what extent does this matter in a sense? Do you actually think readiness is being [[00:10:58](https://www.youtube.com/watch?v=niAy1e8hW7U&t=658.8s)]
+*  affected by this, that recruitment's being affected by this, discipline? What is your sense of, [[00:11:06](https://www.youtube.com/watch?v=niAy1e8hW7U&t=666.56s)]
+*  because what's going on is so unprecedented and so wrong. What do you see as the consequences? [[00:11:12](https://www.youtube.com/watch?v=niAy1e8hW7U&t=672.16s)]
+*  Well, a couple of things. First of all, it's certainly going to affect our alliances, [[00:11:17](https://www.youtube.com/watch?v=niAy1e8hW7U&t=677.68s)]
+*  because when you see this kind of leakage and just a lack of responsibility and a lack of adherence [[00:11:22](https://www.youtube.com/watch?v=niAy1e8hW7U&t=682.48s)]
+*  to standards on what you share or don't share with intelligence, alliances are going to stop [[00:11:29](https://www.youtube.com/watch?v=niAy1e8hW7U&t=689.4399999999999s)]
+*  sharing things with us. They have already done that. In terms of the morale, I can't [[00:11:35](https://www.youtube.com/watch?v=niAy1e8hW7U&t=695.1999999999999s)]
+*  comment on that because I'm not in the Pentagon, but I have talked to others in the force who are [[00:11:41](https://www.youtube.com/watch?v=niAy1e8hW7U&t=701.84s)]
+*  in the operational army and they're shaking their head. They're saying, you know, this is ridiculous. [[00:11:47](https://www.youtube.com/watch?v=niAy1e8hW7U&t=707.0400000000001s)]
+*  Everyone should know this. Why is this individual doing these kind of things? And most, even the [[00:11:52](https://www.youtube.com/watch?v=niAy1e8hW7U&t=712.08s)]
+*  younger members of our military understand the implications of these kind of things being leaked. [[00:11:58](https://www.youtube.com/watch?v=niAy1e8hW7U&t=718.88s)]
+*  They are repeatedly told, don't use your personal cell phone when you're in a government building. [[00:12:06](https://www.youtube.com/watch?v=niAy1e8hW7U&t=726.24s)]
+*  Don't pass information that could be sensitive on your personal cell phone. The other thing that I'd [[00:12:12](https://www.youtube.com/watch?v=niAy1e8hW7U&t=732.64s)]
+*  comment that, you know, the military or the government pays a lot of money for encrypted [[00:12:18](https://www.youtube.com/watch?v=niAy1e8hW7U&t=738.16s)]
+*  devices and things that can pass this kind of information from super net computers to [[00:12:25](https://www.youtube.com/watch?v=niAy1e8hW7U&t=745.12s)]
+*  the kinds of cell phones that are encrypted. And even though, you know, the signals act [[00:12:33](https://www.youtube.com/watch?v=niAy1e8hW7U&t=753.68s)]
+*  app is allegedly encrypted, I will tell you for sure because I've seen it. Any government in the [[00:12:39](https://www.youtube.com/watch?v=niAy1e8hW7U&t=759.04s)]
+*  world can break into that encryption and find out information from it. So people who think they're [[00:12:44](https://www.youtube.com/watch?v=niAy1e8hW7U&t=764.9599999999999s)]
+*  smart and say, hey, I'm just going to use signals and it'll be encrypted and it'll disappear in a [[00:12:50](https://www.youtube.com/watch?v=niAy1e8hW7U&t=770.0799999999999s)]
+*  week. That's great, but it can still be hacked by government sources. [[00:12:54](https://www.youtube.com/watch?v=niAy1e8hW7U&t=774.64s)]

@@ -1,0 +1,152 @@
+---
+Date Generated: April 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 735s
+Video Keywords: ['MSNBC']
+Video Views: 17653
+Video Rating: None
+Video Description: Catholics around the world are mourning the death of Pope Francis, who passed away today at 88 years old. NBC News' Erin McLaughlin reports more. MSNBC Vatican Analyst Deborah Lubov and Vatican Correspondent for the National Catholic Reporter Christopher White join Chris Jansing to share more on Pope Francis' life and lasting legacy.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#popefrancis #vatican #rome #breakingnews
+---
+
+# ‘Heartbroken’: Faithful around the world mourn the death of Pope Francis
+**MSNBC - The Latest:** [April 21, 2025](https://www.youtube.com/watch?v=-ocVjVhSJWg)
+*  Good day. I'm Chris Jansing live at MSNBC headquarters in New York City and we begin [[00:00:00](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=0.0s)]
+*  with the death of Pope Francis, the 88 year old Pontiff passing away early this morning, [[00:00:08](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=8.88s)]
+*  just hours after delivering a plea for peace and human kindness. That Easter message turned out to [[00:00:14](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=14.16s)]
+*  be his last. These are live pictures from St. Peter's Square. It is seven o'clock at night. [[00:00:20](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=20.72s)]
+*  It was just yesterday there that the pope electrified a crowd wishing the nearly 1.4 [[00:00:27](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=27.2s)]
+*  billion Catholics worldwide his quote brothers and sisters a happy Easter. Those cheers now [[00:00:32](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=32.879999999999995s)]
+*  replaced by hushed tones of prayer and mourning. While he had been hospitalized for more than five [[00:00:39](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=39.84s)]
+*  weeks recently, there had also been hope, particularly after his appearance yesterday on [[00:00:46](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=46.4s)]
+*  Easter that the pope may have been on the road to recovery from a near fatal case of pneumonia, [[00:00:51](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=51.76s)]
+*  but it was not to be today mourners immediately streaming into St. Peter's Square where we heard [[00:00:57](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=57.36s)]
+*  the bells toll in Pope Francis's memory. We have learned that the Vatican will lead a rosary there [[00:01:02](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=62.56s)]
+*  in St. Peter's Square just minutes from now and next hour the pope's chamberlain, Cardinal Kevin [[00:01:17](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=77.76s)]
+*  Farrell, the same man who announced the pope's death this morning, will certify his passing [[00:01:23](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=83.36s)]
+*  and oversee the placing of his body into his coffin. On Wednesday the pope's body will be [[00:01:28](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=88.32000000000001s)]
+*  moved to St. Peter's Basilica where he will lie in state ahead of his funeral. Christopher White [[00:01:33](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=93.12s)]
+*  is Vatican correspondent for the National Catholic Reporter and an MSNBC contributor. [[00:01:38](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=98.48s)]
+*  Deborah Luboff is an MSNBC Vatican analyst and contributor who is joining us from Vatican City. [[00:01:43](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=103.44s)]
+*  I know you are on the roof Deborah overlooking St. Peter's Square, but have you been able to [[00:01:50](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=110.0s)]
+*  talk to some of the faithful there and what are you hearing and what are you feeling out on the square? [[00:01:56](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=116.0s)]
+*  Certainly around St. Peter's Square what we hear are many faithful who have expressed they are [[00:02:03](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=123.84s)]
+*  heartbroken because they really loved Pope Francis and they really had wished and thought [[00:02:08](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=128.32s)]
+*  that having seen various positive signs since he was discharged from the hospital that he was [[00:02:13](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=133.84s)]
+*  rebounding like he's always done. Certainly this time had been more serious in the hospital with [[00:02:20](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=140.79999999999998s)]
+*  the pneumonia, but he hadn't been on his oxygen and he had been showing signs of hope with some [[00:02:25](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=145.6s)]
+*  of his public appearances yesterday in St. Peter's Square, Easter Sunday, his blessing the crowd, [[00:02:33](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=153.04s)]
+*  his blessing the baby circling through the crowd, the unexpected surprise made so many just feel [[00:02:39](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=159.84s)]
+*  such a sense of delight, but today they are heartbroken. Chris, we know that this was a pope [[00:02:46](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=166.32s)]
+*  that was beloved by many. He among Catholics, they do the kind of polls we do for American [[00:02:55](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=175.04s)]
+*  presidents here. A vast majority of Catholics felt favorably about this pope. Explain the loss as [[00:03:02](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=182.56s)]
+*  you've talked to people and I know you've been on the ground over the last 24 hours or so, [[00:03:10](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=190.0s)]
+*  but also what we're hearing from Vatican officials. I think it's fair to say that [[00:03:14](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=194.16s)]
+*  Pope Francis had approval ratings that any American politician would kill for [[00:03:19](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=199.2s)]
+*  and that certainly felt here. Both yesterday being in St. Peter's Square, you could just [[00:03:24](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=204.0s)]
+*  sense the joy of so many people who weren't quite sure if Pope Francis was going to be able to make [[00:03:28](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=208.56s)]
+*  it to then sort of see him come out on the balcony and give the Easter blessing and then go out on [[00:03:33](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=213.6s)]
+*  the Pope mobile. I think it shocked a lot of people. At the same time, you know, it's fair to say that [[00:03:38](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=218.8s)]
+*  Pope, you know, while he was making an effort to connect with young children yesterday and greet and [[00:03:42](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=222.88s)]
+*  bless people, he also looked at times disoriented and really to be suffering. And last night I spoke [[00:03:48](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=228.32s)]
+*  with a senior Vatican official who said, you know, he's had good days and bad days since [[00:03:54](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=234.64s)]
+*  recovering and today was one of his worst days. I think that was a sense that, you know, he was [[00:03:58](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=238.64s)]
+*  going to push through and that he was going to ultimately recover. So I think today's death comes [[00:04:04](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=244.16s)]
+*  to the shock to even those who had been close to the pope in his final days. Yeah, and Chris, of [[00:04:09](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=249.2s)]
+*  course, everyone knew that the pope was sick. His doctors reportedly told him to stay isolated in his [[00:04:13](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=253.76s)]
+*  Vatican residence to get better. He did not do that. He did greet the faithful at St. Peter's [[00:04:18](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=258.64s)]
+*  Square on Palm Sunday. He visited a prison last Thursday. He was at St. Peter's Basilica on [[00:04:23](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=263.68s)]
+*  Saturday. We saw the Easter message yesterday. The New York Times put it this way, Chris. He said, [[00:04:29](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=269.44s)]
+*  it said, looking back, those seem like farewell gestures. It's like he was powering through for [[00:04:35](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=275.52s)]
+*  Easter. Is that how you see it? I do. I think that's fair. I mean, if we go back to 2013 when [[00:04:41](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=281.76s)]
+*  Pope Francis was elected, I mean, he came in as a maverick who he shocked the Catholic church by, [[00:04:47](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=287.44s)]
+*  you know, doing away with all the formal vestments and not living in the apostolic palace. [[00:04:53](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=293.52s)]
+*  And he went out as a maverick. He bucked his doctor's orders to stay at home and rest for two [[00:04:58](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=298.8s)]
+*  months. He wanted to be close to the people. I think, I think he has, you know, to the very end, [[00:05:03](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=303.52s)]
+*  he had a pastor's heart and he didn't want anyone to separate him from being with his people. [[00:05:08](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=308.08s)]
+*  And so, yes, perhaps he was well aware that his time was short and he was going to go out in his [[00:05:13](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=313.28s)]
+*  own way. And Deborah, I know you wrote a couple of days ago about the Pope's recent appearances [[00:05:18](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=318.71999999999997s)]
+*  in public calling him, quote, the Pope of surprises. And he did seem to surprise a lot of people just by [[00:05:23](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=323.68s)]
+*  fighting through what doctors said were two near death experiences when he was hospitalized. And [[00:05:30](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=330.64s)]
+*  here's what one woman had to say about it. It's just very sad day. It's honestly, [[00:05:36](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=336.32s)]
+*  I think, impressive that he made it to Easter. I think that's almost like a miracle for Italy. [[00:05:45](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=345.28s)]
+*  She used the word miracle that somehow he willed or prayed himself into making it until Easter, [[00:05:51](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=351.44s)]
+*  which of course is the Christian day of resurrection and allowed him that final Easter message. Fair to [[00:05:57](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=357.12s)]
+*  say that he lived as he died as he lived, I guess, defying expectations. [[00:06:04](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=364.0s)]
+*  Right. Indeed. I certainly agree with that. And I think it defied what people were expecting, [[00:06:11](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=371.92s)]
+*  because if you remember this week, he also held his largest group meeting with physicians and staff [[00:06:18](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=378.0s)]
+*  and representatives associated with Rome's Jamelli Hospital, including his surgeons. [[00:06:25](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=385.84s)]
+*  One of the individuals speaking had even said, Holy Father, we hope that you come back to Jamelli, [[00:06:30](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=390.64s)]
+*  but not as a patient, because so many were really not just rooting for him, but objectively, [[00:06:36](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=396.47999999999996s)]
+*  scientifically seemed like certain things were really moving in the right direction, even though [[00:06:42](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=402.71999999999997s)]
+*  his frailty was obviously rather visible. But every other time he has rebounded. And I think [[00:06:47](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=407.76s)]
+*  it was certainly a surprising for many people. If you remember with John Paul II, [[00:06:54](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=414.56s)]
+*  when he had passed away, that was actually right after Easter and Holy Week as well. [[00:07:01](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=421.44s)]
+*  So there does seem to be something in the universe that makes this moment in the liturgical year [[00:07:06](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=426.32s)]
+*  kind of poetic from this point of view. But regardless, it doesn't change [[00:07:12](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=432.88s)]
+*  the sadness that people feel. But at the same time, everyone, I think, has been very grateful [[00:07:18](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=438.15999999999997s)]
+*  for the fact that Pope Francis has been able to defy odds so many times throughout the pandemic, [[00:07:22](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=442.24s)]
+*  and not throughout the pandemic, but throughout the pontificate. After he had various bouts of [[00:07:27](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=447.52s)]
+*  hospitalizations, et cetera, he bounced back and he had made appeals for the wars that would—the [[00:07:31](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=451.92s)]
+*  war in Ukraine and the Holy Land. He would become the pope of the pandemic. He managed to make that [[00:07:38](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=458.56s)]
+*  whirlwind papal travel to Asia and Oceania and go to Mongolia, et cetera. So he's just every single [[00:07:42](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=462.88s)]
+*  time kind of had these miracles, as you had said. But now those miracles are [[00:07:50](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=470.08s)]
+*  going to have to be happening from above. And Chris, the last active pope to die was, [[00:07:57](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=477.2s)]
+*  of course, John Paul, because Benedict had long been retired when he died. [[00:08:02](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=482.56s)]
+*  The outpouring back then for John Paul was extraordinary and estimated, I think, [[00:08:07](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=487.12s)]
+*  four million people from all over the world poured into Rome. And in spite of lines for St. Peter's [[00:08:11](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=491.12s)]
+*  that went on for a mile or more, it was, and I was there, remarkable and remarkably well organized. [[00:08:16](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=496.24s)]
+*  Are you seeing any signs or hearing of any signs of preparations for the influx of pilgrims who are [[00:08:23](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=503.12s)]
+*  certainly going to come to Rome to say their goodbyes? [[00:08:29](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=509.04s)]
+*  This is a Jubilee year in Rome, which means that Rome is already expecting a surge of tourists. [[00:08:33](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=513.52s)]
+*  And I think it's equipped to handle them for the Jubilee, so I think they'll be equipped to [[00:08:38](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=518.96s)]
+*  handle them for a papal funeral. And of course, we'll have high level security. I mean, we've had [[00:08:43](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=523.76s)]
+*  the likes of Viktor Orban and Putin praising Pope Francis today and also Barack Obama and Joe Biden [[00:08:48](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=528.3199999999999s)]
+*  and Donald Trump. So we can expect many heads of state. I think this will be a closely watched [[00:08:54](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=534.16s)]
+*  event where the eyes of the world will really be on Rome in the coming weeks. [[00:08:59](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=539.2s)]
+*  I want to bring in NBC's Erin McLaughlin at St. Patrick's Cathedral in New York City. And Erin, [[00:09:03](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=543.12s)]
+*  I know that people around the world are marking the death of Pope Francis and people have been [[00:09:09](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=549.12s)]
+*  streaming into St. Patrick's Cathedral all day long. What are you seeing and hearing in New York? [[00:09:14](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=554.0799999999999s)]
+*  Well, you know, Chris, the Archbishop of New York, Cardinal Dolan, released a statement earlier [[00:09:22](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=562.48s)]
+*  today making the point that people around the world, people of all faiths, people of no faith [[00:09:27](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=567.36s)]
+*  are mourning the loss of Pope Francis. And that's very much reflected in some of the conversations [[00:09:32](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=572.8s)]
+*  that I've been having with folks here outside St. Patrick's Cathedral. People around the world [[00:09:37](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=577.6s)]
+*  telling me that he will be remembered as a man of kindness, a man of peace. Take a listen. [[00:09:42](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=582.88s)]
+*  What do you think he means to the world? The world? I think it's just this one word, kindness. [[00:09:50](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=590.08s)]
+*  Good heart. Kindness and like peace, inner peace. I like his compassion. I liked what he stood for. [[00:09:58](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=598.5600000000001s)]
+*  Understood what he was trying to practice and what he was trying to preach. [[00:10:04](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=604.88s)]
+*  And not being a religious person, it's just the fact that when you have a decent human being, [[00:10:09](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=609.28s)]
+*  they deserve recognition. New Yorkers will remember his visit to New York City back in 2015. [[00:10:14](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=614.16s)]
+*  Thousands lined this street as he pulled up in the Pope Mobile to St. Patrick's Cathedral behind [[00:10:22](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=622.4799999999999s)]
+*  me. You can see today the funeral bunting there over the main entrance, purple and black, [[00:10:28](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=628.4000000000001s)]
+*  symbols of mourning within the Catholic faith. And then inside the cathedral prominently displayed [[00:10:34](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=634.4000000000001s)]
+*  a portrait of Pope Francis amidst the Easter flowers there on the main altar. We understand [[00:10:40](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=640.24s)]
+*  that the New York City Mayor Eric Adams has announced that all flags will fly at half staff [[00:10:45](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=645.9200000000001s)]
+*  in the Pope's memory. And there'll be a special service to remember Pope Francis here at St. [[00:10:50](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=650.32s)]
+*  Patrick's Cathedral tomorrow. Chris. Thank you for that. So Deborah, there are masses, [[00:10:55](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=655.44s)]
+*  there are memorials being held worldwide from Bethlehem to Moscow to South America, Southeast [[00:11:00](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=660.5600000000001s)]
+*  Asia to remember the man who earned the nickname the People's Pope. There is though already debate [[00:11:06](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=666.0s)]
+*  about his influence on the church and the world and that will go on. But how would Francis want [[00:11:12](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=672.72s)]
+*  to be remembered? I think as the Pope of Mercy, he wanted to show all people that they were loved [[00:11:19](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=679.92s)]
+*  by God no matter what point in their lives they were, no matter what had happened as we saw with [[00:11:29](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=689.28s)]
+*  his numerous visits to prisoners. He just wanted all people to realize that nothing holds them back [[00:11:34](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=694.56s)]
+*  from God's love for them. He spoke frequently about the prodigal son and we think that he will [[00:11:40](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=700.4s)]
+*  always want to show the church as a field hospital who wants to save everyone and show [[00:11:47](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=707.36s)]
+*  its love, the love of Christ for them. [[00:11:52](https://www.youtube.com/watch?v=-ocVjVhSJWg&t=712.72s)]

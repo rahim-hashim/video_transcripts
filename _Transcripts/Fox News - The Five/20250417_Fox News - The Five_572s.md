@@ -1,0 +1,155 @@
+---
+Date Generated: April 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 572s
+Video Keywords: ['dana perino', 'fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news the five', 'fox news voices', 'greg gutfeld', 'gutfeld', 'gutfeld reacts', 'harold ford jr', 'jeanine pirro', 'jesse watters', 'perino', 'the five', 'the five dana perino', 'the five fox news', 'the five greg gutfeld', 'the five jeanine pirro', 'the five jesse watters', 'trade war', 'world', 'world trade', 'trump', 'trump tariffs', 'tariffs', 'trump trade', 'trump negotiation', 'italy', 'italian prime minister', 'china', 'president trump', 'wto']
+Video Views: 357934
+Video Rating: None
+Video Description: 'The Five' co-hosts discuss President Donald Trump's 'trade charm' as he negotiates with the Italian prime minister. #trump #world #trade #tariffs #foxnews #fox #news #thefive 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# 'TRADE CHARM'? 'The Five' discusses Trump's tariff deals
+**Fox News - The Five:** [April 17, 2025](https://www.youtube.com/watch?v=fQKIoDTfOjs)
+*  We're gonna have very little problem making a deal with Europe or anybody [[00:00:00](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=0.0s)]
+*  else because we have something that everybody wants you know what that [[00:00:04](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=4.12s)]
+*  means right yeah everybody wants a piece of the Trump tariff pie President Trump [[00:00:08](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=8.48s)]
+*  putting his trade charm on while hosting Italy's Prime Minister Maloney at the [[00:00:13](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=13.32s)]
+*  White House earlier 47 sure knows how to butter them up she has taken Europe by [[00:00:17](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=17.32s)]
+*  storm and highly respected everybody loves her and respects her and I can't [[00:00:23](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=23.64s)]
+*  say that about many people and she's become a friend and we really have a [[00:00:29](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=29.8s)]
+*  great relationship you have a great Prime Minister you're so lucky one of [[00:00:36](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=36.160000000000004s)]
+*  our great allies not just in Europe anyway she's a fantastic person and [[00:00:42](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=42.480000000000004s)]
+*  doing a great job and our relationship is is great and we have a lot of [[00:00:47](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=47.8s)]
+*  Italians in this country I tell you and they like Trump yes they do Trump's [[00:00:53](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=53.400000000000006s)]
+*  charm play might be a way to isolate China according to the Wall Street [[00:00:58](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=58.04s)]
+*  Journal the administration is urging trading partners to limit the commies [[00:01:01](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=61.12s)]
+*  involvement in their economies in exchange for concessions on reciprocal [[00:01:04](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=64.88s)]
+*  tariffs but Trump's still open to a deal they have reached out a number of times [[00:01:09](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=69.2s)]
+*  you give us a sense of how far along these negotiations are with China in [[00:01:16](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=76.12s)]
+*  the early stages or are you inching closer now to actually making a deal on [[00:01:19](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=79.56s)]
+*  tariffs I think that we will make a deal with China I think we've had some very [[00:01:23](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=83.2s)]
+*  good talks but we will have some very good talks remaining and you know I view [[00:01:27](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=87.2s)]
+*  it and some people say oh rush I think we have a lot of time [[00:01:32](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=92.56s)]
+*  Jesse let me give you some advice on negotiations because I notice you need [[00:01:38](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=98.32000000000001s)]
+*  it but every negotiation requires directing the attention to you and there [[00:01:41](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=101.8s)]
+*  was no attention paid to this this issue until they made this audacious move at [[00:01:46](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=106.46000000000001s)]
+*  the beginning you have to start the process now you see the process unfold [[00:01:52](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=112.4s)]
+*  am I right where were you when my contract was up I was trying to get you [[00:01:55](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=115.96000000000001s)]
+*  fired I spread that rumor about you going to Newsmax always have to have a [[00:01:59](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=119.36s)]
+*  backup plan Greg Trump if this is pulled off could go down in the history as the [[00:02:08](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=128.12s)]
+*  guy who broke China now the question is what kind of collateral damage is that [[00:02:15](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=135.68s)]
+*  gonna cause are we gonna be able to re-industrialize at the same time as we [[00:02:20](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=140.32s)]
+*  collapse the Chinese system I don't know he's got to stick the landing [[00:02:25](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=145.48s)]
+*  perfectly we have to get deals with Mexico and Canada that is the most [[00:02:29](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=149.56s)]
+*  important and I'm sure we'll get a deal with the Europeans the Europeans need [[00:02:33](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=153.16s)]
+*  our energy we need to sell them cars we're gonna have them drop their tariffs [[00:02:38](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=158.12s)]
+*  but mostly we need them for basing they're basically one big beautiful [[00:02:42](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=162.28s)]
+*  military base and we get it cheap especially Italy you project power [[00:02:46](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=166.83999999999997s)]
+*  throughout the Mediterranean the Mideast North Africa you need it in [[00:02:51](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=171.6s)]
+*  Poland you need it in Great Britain and we love those Nordics yes we do we love [[00:02:56](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=176.76s)]
+*  those Nordics especially as global warming picks up and we're gonna play [[00:03:00](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=180.6s)]
+*  some games in the Arctic I see this going well and again I have not looked [[00:03:03](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=183.84s)]
+*  at my investment account good for you Jesse and that's probably a smart move [[00:03:09](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=189.35999999999999s)]
+*  for your mental health you know Harold we talked a lot about equality and [[00:03:13](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=193.12s)]
+*  equity you're an outspoken defender of such concepts and yet you find that [[00:03:16](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=196.6s)]
+*  trade equality is not a worthy topic you know you call it a trade war but isn't [[00:03:22](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=202.04s)]
+*  it just trade equality one country wanting to be treated the same way but [[00:03:27](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=207.95999999999998s)]
+*  they treat other countries why are you a trade racist I mean what a loaded [[00:03:32](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=212.84s)]
+*  question from my dear father so a couple of things this approach I think the [[00:03:37](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=217.79999999999998s)]
+*  president hopes will yield more jobs being here in America manufacturing [[00:03:43](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=223.88s)]
+*  jobs he hopes that we're going to have a better and trade or playing field it was [[00:03:48](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=228.4s)]
+*  with our trading partners around the globe and he wants to try to reduce the [[00:03:53](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=233.96s)]
+*  world's dependence on China now I think all of those goals are laudable goals [[00:03:59](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=239.28s)]
+*  but the problem is I don't know which one is first second or third what I do [[00:04:03](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=243.56s)]
+*  know is this whatever his goals are since April since April 2nd the stock [[00:04:08](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=248.64s)]
+*  market which at the time was about a 51 trillion dollar market cap meaning all [[00:04:15](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=255.16s)]
+*  the take all the public companies in Nasdaq New York Stock Exchange add them [[00:04:19](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=259.64s)]
+*  all up there 51 trillion dollars we've lost 11 trillion dollar sentence so [[00:04:22](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=262.8s)]
+*  we're not about we're not a 51 trillion was at 62 before that's number one [[00:04:26](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=266.71999999999997s)]
+*  people want to break China not break them but reduce their I think you said [[00:04:31](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=271.12s)]
+*  it well Jesse reduce our dependence on them and their role in the global [[00:04:35](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=275.08s)]
+*  economy but if we break ourselves in the process it's not it's not necessarily [[00:04:38](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=278.91999999999996s)]
+*  the best thing when you think about the 11 trillion that had that been lost [[00:04:42](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=282.88s)]
+*  Greg that money didn't go into the bank accounts of veterans retirees working [[00:04:46](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=286.64s)]
+*  people teachers the very people that put the president in office working-class [[00:04:50](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=290.76s)]
+*  union families across the country in fact these people are hurting the most [[00:04:54](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=294.32s)]
+*  so I want trade equality but I got to tell you I just don't understand why [[00:04:59](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=299.76s)]
+*  trying to get a few billion dollars in tariffs from Honduras Vietnam and Canada [[00:05:04](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=304.48s)]
+*  is worth an 11 trillion dollar loss of market cap which our dollars and cents [[00:05:08](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=308.04s)]
+*  lost out of 401ks and retirement accounts and aspirations for families all [[00:05:13](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=313.71999999999997s)]
+*  across our country at some point the president will have to answer this and [[00:05:17](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=317.88s)]
+*  again this is why I started the first segment off like I did come back from [[00:05:21](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=321.0s)]
+*  El Salvador Democrats and focus on the needs aspirations and concerns of the [[00:05:24](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=324.6s)]
+*  American people half half the country doesn't have any money any investments [[00:05:30](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=330.28s)]
+*  in stock it's like 10% owns 88% and also you when you talk about the loss you act [[00:05:35](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=335.55999999999995s)]
+*  like you're like a weatherman who says oh it's 12 degrees outside it's never [[00:05:40](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=340.52s)]
+*  going to go back up it always goes back up in 20 times it's dropped it comes [[00:05:45](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=345.67999999999995s)]
+*  back up and I don't even work at the Fox Business Channel Harold but I tell you [[00:05:50](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=350.67999999999995s)]
+*  this no one in their right mind ever says you know what the best way to get [[00:05:54](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=354.55999999999995s)]
+*  from 50 to 80 is to go to 20 then let's try to get to 80 yeah unless you have a [[00:05:58](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=358.28s)]
+*  plan that's my only point I don't think the president had well unless you're [[00:06:02](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=362.28s)]
+*  a hedge fund well his plan his plan is not clear to me it does it I don't think [[00:06:04](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=364.67999999999995s)]
+*  and not only that the people who are losing who wake up every day some people [[00:06:08](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=368.35999999999996s)]
+*  are looking at their 401ks because they have to and 170 million Americans are [[00:06:12](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=372.32s)]
+*  invested in all right Kennedy hi Greg good to see you I wish I had Jesse's [[00:06:15](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=375.76s)]
+*  money so I didn't have to look at my 401k that would be amazing I think it's [[00:06:20](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=380.15999999999997s)]
+*  really interesting because you know I don't agree that you are just going to [[00:06:25](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=385.6s)]
+*  cleave the world into two halves like the China half and the US half because [[00:06:29](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=389.08000000000004s)]
+*  China can manufacture a lot and Americans have benefited from that in a [[00:06:33](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=393.68s)]
+*  lot of ways because we love cheap crap yeah may buy slave labor well I mean [[00:06:37](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=397.32000000000005s)]
+*  Greg you know if we're splitting hairs here which I don't think we necessarily [[00:06:41](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=401.84000000000003s)]
+*  have to but you know that's that's what you find on Amazon and it's sheen it's [[00:06:44](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=404.8s)]
+*  cheap it's plentiful and that's what American consumers have gotten used to [[00:06:51](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=411.24s)]
+*  so trying to make stuff America consume stuff that is much more useful and that [[00:06:55](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=415.48s)]
+*  is where the president is right because we have something that everybody wants [[00:07:01](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=421.16s)]
+*  we have buyers we have the younger generation of workers who were set to be [[00:07:05](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=425.20000000000005s)]
+*  more wealthy than the generations three generations ahead of them because of [[00:07:10](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=430.44s)]
+*  their new saving patterns and the way they're spending money and you know the [[00:07:16](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=436.24s)]
+*  the trajectory of their lifetime finances that's what people want they [[00:07:20](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=440.84000000000003s)]
+*  want to be able to sell stuff here so the hope is that if we do move the [[00:07:25](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=445.0s)]
+*  manufacturing part out of China and we offload it to Vietnam and Honduras and [[00:07:30](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=450.44s)]
+*  Canada and wherever else then we won't need China for anything and they will be [[00:07:36](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=456.04s)]
+*  completely dependent on our consumers and that is what will give the United [[00:07:40](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=460.88s)]
+*  States the leverage the question is whether or not this country and our [[00:07:45](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=465.6s)]
+*  consumers have the backbone to wait that long. She's a brainy broad Dana that was [[00:07:50](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=470.08s)]
+*  like there was new stuff that she said that I didn't even think about. Well [[00:07:54](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=474.0s)]
+*  China isn't waiting either right so they're going around saying oh you know [[00:07:57](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=477.32s)]
+*  what we can give you this deal or that deal and using their might and they have [[00:08:01](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=481.0s)]
+*  a say because they have some power. I do think their economy it just based on [[00:08:04](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=484.72s)]
+*  reading is weaker than they try to make out they've got a lot of problems we've [[00:08:08](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=488.6s)]
+*  talked about them especially demographically but there are two clocks [[00:08:14](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=494.64s)]
+*  there's our clock and their clock and they're moving along at a pace that [[00:08:17](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=497.52s)]
+*  their clock might be a little faster than ours. Maloney is an interesting [[00:08:22](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=502.44s)]
+*  person to come to America first because she are her country has already gone [[00:08:26](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=506.6s)]
+*  through a kind of a populous stage anyway so she was the winner of that [[00:08:32](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=512.16s)]
+*  contest they're very upset about immigration there she's trying to fix [[00:08:36](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=516.04s)]
+*  all of that. The EU doesn't like her that much but they know that she has the best [[00:08:39](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=519.72s)]
+*  relationship with them I don't think it is in America's interests to like do [[00:08:43](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=523.72s)]
+*  individual deals with each country because it would be good to put the EU [[00:08:46](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=526.9200000000001s)]
+*  in one block and try to do this in a smart and efficient way and so it's [[00:08:50](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=530.0s)]
+*  interesting because the EU is now going to have to rely on her to try to get [[00:08:55](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=535.2s)]
+*  there. I liken this to JFK on a really busy Saturday and they're trying to [[00:08:59](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=539.04s)]
+*  land all the planes at once and they're all up in the air you got to figure out [[00:09:03](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=543.76s)]
+*  which ones are going to come in a sequence first you don't want China's to [[00:09:06](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=546.68s)]
+*  be the first down. Interesting analogy Dana up next what are you looking at [[00:09:09](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=549.6s)]
+*  George Clooney is coming out in support of a rising Democrat star will tell you [[00:09:16](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=556.2s)]
+*  who it is next. [[00:09:21](https://www.youtube.com/watch?v=fQKIoDTfOjs&t=561.9200000000001s)]

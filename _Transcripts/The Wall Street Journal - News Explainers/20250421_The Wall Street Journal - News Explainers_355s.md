@@ -1,0 +1,133 @@
+---
+Date Generated: April 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 355s
+Video Keywords: ['trade deficit', 'us trade deficit', 'trade deficit explained', 'trade surplus', 'global trade', 'trump trade war', 'tariffs', 'tariffs and trade barriers', 'president trump', 'trump news', 'imports', 'exports', 'how trade works', 'ports', 'economics', 'bilateral trade', 'trade deficits', 'goods and services', 'economists', 'trump trade policy', 'trump trade deficit', 'trump policies', 'recession', 'recession fears', 'us securities', 'imports vs domestics', 'exports and imports', 'equity shares', 'investment', 'shareholders', 'gdp', 'bonds', 'usnews']
+Video Views: 312417
+Video Rating: None
+Video Description: President Trump’s broad tariff rollout takes aim at the U.S. trade deficit, which he calls a policy of “economic surrender.” As Trump’s global trade war carries on, it raises the question: is a trade deficit necessarily a bad thing for the economy?
+
+WSJ explores how the trade deficit works, why economists say it can be good and how tariffs affect it. 
+
+Chapters:
+0:00 U.S. trade deficit
+0:30 Trade with foreign countries, explained
+1:56 The deficit
+2:24 Is the trade deficit bad?
+4:21 Tariffs impact on trade deficit
+
+News Explainers
+Some days the high-speed news cycle can bring more questions than answers. WSJ’s news explainers break down the day's biggest stories into bite-size pieces to help you make sense of the news.
+
+#Trump #Trade #WSJ
+---
+
+# Trump Tariffs Are Attacking the U.S. Trade Deficit—Does It Need Fixing? | WSJ
+**The Wall Street Journal - News Explainers:** [April 21, 2025](https://www.youtube.com/watch?v=CygrmYdJOXg)
+*  President Donald Trump thinks the U.S. trade deficit is [[00:00:00](https://www.youtube.com/watch?v=CygrmYdJOXg&t=0.0s)]
+*  the policy of unilateral economic surrender [[00:00:03](https://www.youtube.com/watch?v=CygrmYdJOXg&t=3.12s)]
+*  and that his latest tariff policy will fix it. [[00:00:06](https://www.youtube.com/watch?v=CygrmYdJOXg&t=6.72s)]
+*  For decades our country has been looted, pillaged, raped, and plundered by nations near and far, [[00:00:09](https://www.youtube.com/watch?v=CygrmYdJOXg&t=9.120000000000001s)]
+*  both friend and foe alike. [[00:00:14](https://www.youtube.com/watch?v=CygrmYdJOXg&t=14.8s)]
+*  The U.S. trade deficit is nothing new. [[00:00:17](https://www.youtube.com/watch?v=CygrmYdJOXg&t=17.12s)]
+*  We've run one every year since the 70s. [[00:00:19](https://www.youtube.com/watch?v=CygrmYdJOXg&t=19.36s)]
+*  Can it be that bad? [[00:00:22](https://www.youtube.com/watch?v=CygrmYdJOXg&t=22.080000000000002s)]
+*  Here's how the trade deficit works, [[00:00:23](https://www.youtube.com/watch?v=CygrmYdJOXg&t=23.68s)]
+*  why economists say it can be good or bad, [[00:00:25](https://www.youtube.com/watch?v=CygrmYdJOXg&t=25.44s)]
+*  and how tariffs affect it. [[00:00:28](https://www.youtube.com/watch?v=CygrmYdJOXg&t=28.16s)]
+*  Trade with foreign countries is, well, it's complicated, [[00:00:30](https://www.youtube.com/watch?v=CygrmYdJOXg&t=30.96s)]
+*  especially how we measure it. [[00:00:33](https://www.youtube.com/watch?v=CygrmYdJOXg&t=33.76s)]
+*  For one, with some countries, like Madagascar, [[00:00:35](https://www.youtube.com/watch?v=CygrmYdJOXg&t=35.36s)]
+*  we want more of their vanilla beans, [[00:00:37](https://www.youtube.com/watch?v=CygrmYdJOXg&t=37.76s)]
+*  which we don't really grow, [[00:00:39](https://www.youtube.com/watch?v=CygrmYdJOXg&t=39.36s)]
+*  than they could ever want in stuff from us. [[00:00:40](https://www.youtube.com/watch?v=CygrmYdJOXg&t=40.88s)]
+*  So there's an imbalance there. [[00:00:43](https://www.youtube.com/watch?v=CygrmYdJOXg&t=43.120000000000005s)]
+*  There's one with the Netherlands too, [[00:00:44](https://www.youtube.com/watch?v=CygrmYdJOXg&t=44.8s)]
+*  but just because that's where Europe's largest port is, [[00:00:46](https://www.youtube.com/watch?v=CygrmYdJOXg&t=46.4s)]
+*  not because the Dutch are using 11 billion in medical equipment each year. [[00:00:49](https://www.youtube.com/watch?v=CygrmYdJOXg&t=49.68s)]
+*  There's lots of movement in this global economy. [[00:00:53](https://www.youtube.com/watch?v=CygrmYdJOXg&t=53.84s)]
+*  A single item could have its parts imported and exported a dozen times. [[00:00:56](https://www.youtube.com/watch?v=CygrmYdJOXg&t=56.24s)]
+*  So economists say it's best not to look at country-by-country bilateral trade, [[00:01:00](https://www.youtube.com/watch?v=CygrmYdJOXg&t=60.160000000000004s)]
+*  but overall total trade when talking about the trade deficit. [[00:01:04](https://www.youtube.com/watch?v=CygrmYdJOXg&t=64.8s)]
+*  So here's how much we imported last year, [[00:01:08](https://www.youtube.com/watch?v=CygrmYdJOXg&t=68.64s)]
+*  and here's how much we exported. [[00:01:11](https://www.youtube.com/watch?v=CygrmYdJOXg&t=71.68s)]
+*  This difference here is our trade deficit. [[00:01:14](https://www.youtube.com/watch?v=CygrmYdJOXg&t=74.08s)]
+*  And we've been importing more than we've been exporting for a long time. [[00:01:16](https://www.youtube.com/watch?v=CygrmYdJOXg&t=76.96000000000001s)]
+*  And these overall numbers include two types of trade, goods and services. [[00:01:21](https://www.youtube.com/watch?v=CygrmYdJOXg&t=81.12s)]
+*  Services are things like tourism and consulting, people-based trade. [[00:01:25](https://www.youtube.com/watch?v=CygrmYdJOXg&t=85.92s)]
+*  And we actually have run a surplus for a long time, [[00:01:29](https://www.youtube.com/watch?v=CygrmYdJOXg&t=89.92s)]
+*  exporting more than we're importing, when it comes to services. [[00:01:32](https://www.youtube.com/watch?v=CygrmYdJOXg&t=92.4s)]
+*  But when President Trump talks about [[00:01:35](https://www.youtube.com/watch?v=CygrmYdJOXg&t=95.6s)]
+*  "...tronic trade deficits." [[00:01:37](https://www.youtube.com/watch?v=CygrmYdJOXg&t=97.2s)]
+*  He's talking about the goods deficit, physical things like [[00:01:38](https://www.youtube.com/watch?v=CygrmYdJOXg&t=98.72s)]
+*  "...computers, phones, televisions, and electronics." [[00:01:42](https://www.youtube.com/watch?v=CygrmYdJOXg&t=102.48s)]
+*  This is where we've really run a deficit for a long time. [[00:01:45](https://www.youtube.com/watch?v=CygrmYdJOXg&t=105.68s)]
+*  And it's why our overall trade does too. [[00:01:49](https://www.youtube.com/watch?v=CygrmYdJOXg&t=109.04s)]
+*  Here it is in line form again. [[00:01:51](https://www.youtube.com/watch?v=CygrmYdJOXg&t=111.84s)]
+*  We've had one even in good economic times. [[00:01:54](https://www.youtube.com/watch?v=CygrmYdJOXg&t=114.16s)]
+*  Growth is generating wealth, so we're spending more. [[00:01:56](https://www.youtube.com/watch?v=CygrmYdJOXg&t=116.96s)]
+*  More than can be satisfied solely with domestic things. [[00:01:59](https://www.youtube.com/watch?v=CygrmYdJOXg&t=119.92s)]
+*  So we import more, adding to the trade deficit. [[00:02:03](https://www.youtube.com/watch?v=CygrmYdJOXg&t=123.03999999999999s)]
+*  If you look at when there's a recession, that's often when the deficit shrinks. [[00:02:06](https://www.youtube.com/watch?v=CygrmYdJOXg&t=126.48s)]
+*  We're spending less, so we're importing less. [[00:02:10](https://www.youtube.com/watch?v=CygrmYdJOXg&t=130.96s)]
+*  That's actually a better way to look at this trade deficit, [[00:02:13](https://www.youtube.com/watch?v=CygrmYdJOXg&t=133.76s)]
+*  is that we spend more than we bring in as revenue. [[00:02:16](https://www.youtube.com/watch?v=CygrmYdJOXg&t=136.24s)]
+*  For a household, it can be bad. [[00:02:19](https://www.youtube.com/watch?v=CygrmYdJOXg&t=139.92000000000002s)]
+*  But for a country, it's more complicated. [[00:02:21](https://www.youtube.com/watch?v=CygrmYdJOXg&t=141.44s)]
+*  So let's ask an important economist who has spent decades working on this. [[00:02:24](https://www.youtube.com/watch?v=CygrmYdJOXg&t=144.64s)]
+*  Now is it good or bad to have a trade deficit? [[00:02:28](https://www.youtube.com/watch?v=CygrmYdJOXg&t=148.56s)]
+*  It's really neither, and it depends on the circumstances. [[00:02:32](https://www.youtube.com/watch?v=CygrmYdJOXg&t=152.48s)]
+*  Typical economist answer. [[00:02:37](https://www.youtube.com/watch?v=CygrmYdJOXg&t=157.76s)]
+*  Okay, here's where things get wonky. [[00:02:39](https://www.youtube.com/watch?v=CygrmYdJOXg&t=159.44s)]
+*  When we spend more than we bring back in, [[00:02:41](https://www.youtube.com/watch?v=CygrmYdJOXg&t=161.44s)]
+*  that deficit amount of money is out in the world, in U.S. dollars. [[00:02:43](https://www.youtube.com/watch?v=CygrmYdJOXg&t=163.6s)]
+*  What do these companies do with those U.S. dollars? [[00:02:47](https://www.youtube.com/watch?v=CygrmYdJOXg&t=167.92s)]
+*  Well, they often invest it back into the U.S., into U.S. companies or securities, [[00:02:50](https://www.youtube.com/watch?v=CygrmYdJOXg&t=170.32s)]
+*  which isn't measured as an import. [[00:02:55](https://www.youtube.com/watch?v=CygrmYdJOXg&t=175.6s)]
+*  Whether that's a good thing or not depends on what is driving the deficit. [[00:02:57](https://www.youtube.com/watch?v=CygrmYdJOXg&t=177.68s)]
+*  For example, imagine that you have companies that have [[00:03:02](https://www.youtube.com/watch?v=CygrmYdJOXg&t=182.32s)]
+*  very lucrative investment opportunities. [[00:03:08](https://www.youtube.com/watch?v=CygrmYdJOXg&t=188.07999999999998s)]
+*  They are going to finance these investments in part by selling equity shares. [[00:03:10](https://www.youtube.com/watch?v=CygrmYdJOXg&t=190.64s)]
+*  Foreigners will likely end up buying some of those. [[00:03:16](https://www.youtube.com/watch?v=CygrmYdJOXg&t=196.24s)]
+*  Now, is that a bad thing? [[00:03:19](https://www.youtube.com/watch?v=CygrmYdJOXg&t=199.76s)]
+*  Not necessarily if the investment pays off. [[00:03:22](https://www.youtube.com/watch?v=CygrmYdJOXg&t=202.16s)]
+*  Its U.S. shareholders do well. [[00:03:24](https://www.youtube.com/watch?v=CygrmYdJOXg&t=204.79999999999998s)]
+*  The foreign shareholders do well. [[00:03:26](https://www.youtube.com/watch?v=CygrmYdJOXg&t=206.95999999999998s)]
+*  Everyone gains, and the U.S. grows more quickly. [[00:03:29](https://www.youtube.com/watch?v=CygrmYdJOXg&t=209.6s)]
+*  Many economists point to this investment, fueled by this deficit, [[00:03:32](https://www.youtube.com/watch?v=CygrmYdJOXg&t=212.79999999999998s)]
+*  as one of the things that has made the U.S. so prosperous. [[00:03:36](https://www.youtube.com/watch?v=CygrmYdJOXg&t=216.39999999999998s)]
+*  We're also in a trade deficit in part because we're in a national deficit. [[00:03:39](https://www.youtube.com/watch?v=CygrmYdJOXg&t=219.76s)]
+*  Each year, Congress spends more than it brings in through tax revenue. [[00:03:43](https://www.youtube.com/watch?v=CygrmYdJOXg&t=223.84s)]
+*  It takes on debt by selling bonds, bonds often bought by foreigners [[00:03:47](https://www.youtube.com/watch?v=CygrmYdJOXg&t=227.68s)]
+*  with those U.S. dollars from our trade deficit. [[00:03:51](https://www.youtube.com/watch?v=CygrmYdJOXg&t=231.84s)]
+*  The economic debate over whether the trade deficit is good or bad [[00:03:54](https://www.youtube.com/watch?v=CygrmYdJOXg&t=234.88s)]
+*  depends largely on whether that money is being invested back into the U.S. [[00:03:59](https://www.youtube.com/watch?v=CygrmYdJOXg&t=239.12s)]
+*  But the political debate over whether the trade deficit is good or bad [[00:04:04](https://www.youtube.com/watch?v=CygrmYdJOXg&t=244.08s)]
+*  depends on how much you think the U.S. should be relying on foreign investments. [[00:04:08](https://www.youtube.com/watch?v=CygrmYdJOXg&t=248.08s)]
+*  The globalists, the big globalists have been ripping off the United States. [[00:04:12](https://www.youtube.com/watch?v=CygrmYdJOXg&t=252.16s)]
+*  They've been taking money away from the United States. [[00:04:15](https://www.youtube.com/watch?v=CygrmYdJOXg&t=255.84s)]
+*  And all we're doing is getting some of it back. [[00:04:17](https://www.youtube.com/watch?v=CygrmYdJOXg&t=257.76s)]
+*  So will tariffs make the trade deficit go down? [[00:04:20](https://www.youtube.com/watch?v=CygrmYdJOXg&t=260.96s)]
+*  Again, could be yes or no. [[00:04:24](https://www.youtube.com/watch?v=CygrmYdJOXg&t=264.16s)]
+*  But probably no. [[00:04:26](https://www.youtube.com/watch?v=CygrmYdJOXg&t=266.48s)]
+*  If you think that tariffs are going to affect the trade deficit, [[00:04:27](https://www.youtube.com/watch?v=CygrmYdJOXg&t=267.84000000000003s)]
+*  you have to ask how do they affect overall output [[00:04:32](https://www.youtube.com/watch?v=CygrmYdJOXg&t=272.08s)]
+*  and how do they affect overall spending? [[00:04:35](https://www.youtube.com/watch?v=CygrmYdJOXg&t=275.2s)]
+*  And the answer is probably that because they push us into more inefficient production, [[00:04:37](https://www.youtube.com/watch?v=CygrmYdJOXg&t=277.36s)]
+*  that they're actually negative for output. [[00:04:43](https://www.youtube.com/watch?v=CygrmYdJOXg&t=283.04s)]
+*  Because they raise prices for consumers and prices for firms, [[00:04:45](https://www.youtube.com/watch?v=CygrmYdJOXg&t=285.28s)]
+*  probably negative for overall spending. [[00:04:49](https://www.youtube.com/watch?v=CygrmYdJOXg&t=289.91999999999996s)]
+*  Output may go down, spending may go down. [[00:04:52](https://www.youtube.com/watch?v=CygrmYdJOXg&t=292.88s)]
+*  Notice that all economic activity is going down and that's not good. [[00:04:55](https://www.youtube.com/watch?v=CygrmYdJOXg&t=295.67999999999995s)]
+*  But the effect on the deficit is unclear. [[00:05:00](https://www.youtube.com/watch?v=CygrmYdJOXg&t=300.71999999999997s)]
+*  And I would say that a deficit that falls because you've imposed tariffs [[00:05:04](https://www.youtube.com/watch?v=CygrmYdJOXg&t=304.71999999999997s)]
+*  is probably a deficit that's not falling for the right reasons. [[00:05:10](https://www.youtube.com/watch?v=CygrmYdJOXg&t=310.64s)]
+*  The deficit should fall because people want to save more to provide for the future. [[00:05:14](https://www.youtube.com/watch?v=CygrmYdJOXg&t=314.96s)]
+*  They become more thrifty. [[00:05:21](https://www.youtube.com/watch?v=CygrmYdJOXg&t=321.2s)]
+*  That's great. [[00:05:22](https://www.youtube.com/watch?v=CygrmYdJOXg&t=322.23999999999995s)]
+*  Or the government becomes more thrifty, an even more far-fetched idea. [[00:05:22](https://www.youtube.com/watch?v=CygrmYdJOXg&t=322.96s)]
+*  But all of that is another way of saying that when imports fall, exports tend to fall. [[00:05:27](https://www.youtube.com/watch?v=CygrmYdJOXg&t=327.03999999999996s)]
+*  One extreme case might be if the US actually goes into a recession [[00:05:32](https://www.youtube.com/watch?v=CygrmYdJOXg&t=332.4s)]
+*  as a result of these tariffs. [[00:05:37](https://www.youtube.com/watch?v=CygrmYdJOXg&t=337.67999999999995s)]
+*  In which case, I would expect the deficit to fall [[00:05:40](https://www.youtube.com/watch?v=CygrmYdJOXg&t=340.0s)]
+*  because recession is likely led by cutbacks in investment and consumer spending. [[00:05:43](https://www.youtube.com/watch?v=CygrmYdJOXg&t=343.92s)]
