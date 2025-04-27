@@ -1,0 +1,152 @@
+---
+Date Generated: April 25, 2025
+Transcription Model: whisper medium 20231117
+Length: 549s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 164328
+Video Rating: None
+Video Description: The Atlantic's Anne Applebaum joins Morning Joe to discuss her newest piece 'Kleptocracy, Inc.'
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Politics #WhiteHouse
+---
+
+# 'Profound conflict of interest: Trump dismantles laws put in place to prevent fraud
+**MSNBC - Morning Joe:** [April 24, 2025](https://www.youtube.com/watch?v=zDNtne7fMR4)
+*  And we raise the bar and we go back to the great Ann Applebaum. [[00:00:00](https://www.youtube.com/watch?v=zDNtne7fMR4&t=0.0s)]
+*  You're writing about Trump's hosting of a Saudi-backed golf tournament while the stock [[00:00:03](https://www.youtube.com/watch?v=zDNtne7fMR4&t=3.8000000000000003s)]
+*  market was plummeting earlier this month. [[00:00:08](https://www.youtube.com/watch?v=zDNtne7fMR4&t=8.0s)]
+*  The piece is entitled Kleptocracy, Inc. [[00:00:11](https://www.youtube.com/watch?v=zDNtne7fMR4&t=11.700000000000001s)]
+*  And in it, you write in part, quote, once upon a time, and not even that long ago, blatant [[00:00:14](https://www.youtube.com/watch?v=zDNtne7fMR4&t=14.72s)]
+*  conflicts of interest, especially involving foreign entities, were something presidents [[00:00:21](https://www.youtube.com/watch?v=zDNtne7fMR4&t=21.0s)]
+*  sought to avoid. [[00:00:25](https://www.youtube.com/watch?v=zDNtne7fMR4&t=25.92s)]
+*  No previous inhabitant of the White House would have wanted to be seen doing personal [[00:00:27](https://www.youtube.com/watch?v=zDNtne7fMR4&t=27.76s)]
+*  business with companies from countries that seek to influence American foreign policy. [[00:00:33](https://www.youtube.com/watch?v=zDNtne7fMR4&t=33.44s)]
+*  During Trump's first term, the court system largely blew off his commercial entanglements. [[00:00:39](https://www.youtube.com/watch?v=zDNtne7fMR4&t=39.32s)]
+*  Now, he not only does business with foreign as well as domestic companies that have direct [[00:00:43](https://www.youtube.com/watch?v=zDNtne7fMR4&t=43.68s)]
+*  interest in his policies, he advertises and celebrates them. [[00:00:49](https://www.youtube.com/watch?v=zDNtne7fMR4&t=49.160000000000004s)]
+*  We know the identities of the golf tournament sponsors, not because investigative journalists [[00:00:54](https://www.youtube.com/watch?v=zDNtne7fMR4&t=54.44s)]
+*  burrow deep into secret contracts, but because they appear on official websites and were [[00:00:59](https://www.youtube.com/watch?v=zDNtne7fMR4&t=59.48s)]
+*  displayed on a billboard observed by the New York Times at his golf course. [[00:01:05](https://www.youtube.com/watch?v=zDNtne7fMR4&t=65.94s)]
+*  Both the website and the billboard would have been scandals in any previous administration. [[00:01:11](https://www.youtube.com/watch?v=zDNtne7fMR4&t=71.44s)]
+*  If they are hardly remarked upon now, that's because Trump's behavior is such a symptom [[00:01:17](https://www.youtube.com/watch?v=zDNtne7fMR4&t=77.06s)]
+*  of something much larger. [[00:01:23](https://www.youtube.com/watch?v=zDNtne7fMR4&t=83.7s)]
+*  We are living through a revolutionary change, a broad shift away from the transparency and [[00:01:25](https://www.youtube.com/watch?v=zDNtne7fMR4&t=85.92s)]
+*  accountability mandated by most modern democracies and toward the opaque habits and corrupt practices [[00:01:31](https://www.youtube.com/watch?v=zDNtne7fMR4&t=91.98s)]
+*  of the autocratic world. [[00:01:40](https://www.youtube.com/watch?v=zDNtne7fMR4&t=100.5s)]
+*  So Anne, take us a step further into this, and what are the dangers here? [[00:01:42](https://www.youtube.com/watch?v=zDNtne7fMR4&t=102.54s)]
+*  Because it appears when you have these blaring signs, instead of doing things quietly, you [[00:01:48](https://www.youtube.com/watch?v=zDNtne7fMR4&t=108.1s)]
+*  are also ignoring the American people to the autocracy in the making that is happening [[00:01:54](https://www.youtube.com/watch?v=zDNtne7fMR4&t=114.25999999999999s)]
+*  before their eyes. [[00:02:01](https://www.youtube.com/watch?v=zDNtne7fMR4&t=121.41999999999999s)]
+*  Yeah, you know, Mika, a few minutes ago you asked me about Trump's strange admiration for [[00:02:02](https://www.youtube.com/watch?v=zDNtne7fMR4&t=122.82s)]
+*  Vladimir Putin. [[00:02:09](https://www.youtube.com/watch?v=zDNtne7fMR4&t=129.66s)]
+*  Perhaps the deeper affiliation goes back 30 years into Trump's business practices. [[00:02:13](https://www.youtube.com/watch?v=zDNtne7fMR4&t=133.14000000000001s)]
+*  He's been involved in an industry, the real estate industry, that relied on secret Russian [[00:02:19](https://www.youtube.com/watch?v=zDNtne7fMR4&t=139.82000000000002s)]
+*  money coming through anonymous bank accounts, buying anonymous properties in his businesses [[00:02:26](https://www.youtube.com/watch?v=zDNtne7fMR4&t=146.82s)]
+*  for many years. [[00:02:32](https://www.youtube.com/watch?v=zDNtne7fMR4&t=152.10000000000002s)]
+*  He's been dealing in that world, in the kleptocratic financial world, his whole life. [[00:02:33](https://www.youtube.com/watch?v=zDNtne7fMR4&t=153.10000000000002s)]
+*  In his first term, he was restrained by people around him, perhaps by some ongoing anxiety [[00:02:38](https://www.youtube.com/watch?v=zDNtne7fMR4&t=158.73999999999998s)]
+*  about legality. [[00:02:44](https://www.youtube.com/watch?v=zDNtne7fMR4&t=164.98s)]
+*  He didn't bring all of those practices, some of them, not all of them, but he didn't bring [[00:02:46](https://www.youtube.com/watch?v=zDNtne7fMR4&t=166.33999999999997s)]
+*  all of those practices into the White House. [[00:02:50](https://www.youtube.com/watch?v=zDNtne7fMR4&t=170.92s)]
+*  Now he clearly feels he can do whatever he wants. [[00:02:53](https://www.youtube.com/watch?v=zDNtne7fMR4&t=173.1s)]
+*  He's openly taking money from the Saudi backers of golf tournaments taking place at his golf [[00:02:57](https://www.youtube.com/watch?v=zDNtne7fMR4&t=177.29999999999998s)]
+*  course. [[00:03:04](https://www.youtube.com/watch?v=zDNtne7fMR4&t=184.94s)]
+*  You had earlier in this program a story about how his cryptocurrency money is accepting [[00:03:06](https://www.youtube.com/watch?v=zDNtne7fMR4&t=186.06s)]
+*  so-called investments from people. [[00:03:11](https://www.youtube.com/watch?v=zDNtne7fMR4&t=191.58s)]
+*  He then invites those investors to the White House. [[00:03:13](https://www.youtube.com/watch?v=zDNtne7fMR4&t=193.38s)]
+*  So he's using his position in the government to make money for himself and for his family [[00:03:16](https://www.youtube.com/watch?v=zDNtne7fMR4&t=196.42000000000002s)]
+*  personally. [[00:03:21](https://www.youtube.com/watch?v=zDNtne7fMR4&t=201.22s)]
+*  And, of course, he's set an example that's being followed by a whole legion of people [[00:03:22](https://www.youtube.com/watch?v=zDNtne7fMR4&t=202.22s)]
+*  around him. [[00:03:26](https://www.youtube.com/watch?v=zDNtne7fMR4&t=206.58s)]
+*  I mean, start with Elon Musk. [[00:03:27](https://www.youtube.com/watch?v=zDNtne7fMR4&t=207.58s)]
+*  I mean, Elon Musk is somebody who has been involved in firing people and changing the [[00:03:28](https://www.youtube.com/watch?v=zDNtne7fMR4&t=208.58s)]
+*  policy at government agencies that regulate his own companies or that subsidize his own [[00:03:34](https://www.youtube.com/watch?v=zDNtne7fMR4&t=214.94s)]
+*  companies. [[00:03:41](https://www.youtube.com/watch?v=zDNtne7fMR4&t=221.58s)]
+*  So he has such a profound conflict of interest that it's hard even to know what to call this. [[00:03:42](https://www.youtube.com/watch?v=zDNtne7fMR4&t=222.58s)]
+*  If you run a company and you get to decide what happens to the regulatory agency that [[00:03:50](https://www.youtube.com/watch?v=zDNtne7fMR4&t=230.98000000000002s)]
+*  regulates you, then what are you? [[00:03:55](https://www.youtube.com/watch?v=zDNtne7fMR4&t=235.8s)]
+*  What you are is an oligarch. [[00:03:58](https://www.youtube.com/watch?v=zDNtne7fMR4&t=238.86s)]
+*  Trump himself has sort of been running in the last several months is to clear out any [[00:04:32](https://www.youtube.com/watch?v=zDNtne7fMR4&t=272.3s)]
+*  oversight. [[00:04:36](https://www.youtube.com/watch?v=zDNtne7fMR4&t=276.5s)]
+*  So fire the watchdogs. [[00:04:37](https://www.youtube.com/watch?v=zDNtne7fMR4&t=277.5s)]
+*  Fire the people who typically under a regular administration would be on this stuff and [[00:04:39](https://www.youtube.com/watch?v=zDNtne7fMR4&t=279.3s)]
+*  say, hang on a second, you can't do that. [[00:04:43](https://www.youtube.com/watch?v=zDNtne7fMR4&t=283.5s)]
+*  You can't sell and personally profit from Bitcoin and then invite all the people to [[00:04:45](https://www.youtube.com/watch?v=zDNtne7fMR4&t=285.1s)]
+*  incentivize them, invite them to the White House, to special ceremonies at your golf [[00:04:49](https://www.youtube.com/watch?v=zDNtne7fMR4&t=289.7s)]
+*  clubs and to meet you at VIP events. [[00:04:53](https://www.youtube.com/watch?v=zDNtne7fMR4&t=293.18s)]
+*  So is that not part of what he was doing when he was firing not just the tens of thousands [[00:04:56](https://www.youtube.com/watch?v=zDNtne7fMR4&t=296.14s)]
+*  of government employees, the rank and file, but these people whose job it was to watch [[00:05:02](https://www.youtube.com/watch?v=zDNtne7fMR4&t=302.02s)]
+*  exactly the kind of practices you're talking about? [[00:05:07](https://www.youtube.com/watch?v=zDNtne7fMR4&t=307.38s)]
+*  Yeah. [[00:05:10](https://www.youtube.com/watch?v=zDNtne7fMR4&t=310.65999999999997s)]
+*  In one night of the long knives at the very beginning of the administration, they fired [[00:05:11](https://www.youtube.com/watch?v=zDNtne7fMR4&t=311.65999999999997s)]
+*  17 government inspectors. [[00:05:15](https://www.youtube.com/watch?v=zDNtne7fMR4&t=315.85999999999996s)]
+*  And these are exactly those people. [[00:05:18](https://www.youtube.com/watch?v=zDNtne7fMR4&t=318.46s)]
+*  These are the people whose job it was to make sure there are no conflicts of interest, to [[00:05:20](https://www.youtube.com/watch?v=zDNtne7fMR4&t=320.2s)]
+*  make sure there's no corruption. [[00:05:24](https://www.youtube.com/watch?v=zDNtne7fMR4&t=324.26s)]
+*  They talk a lot about fraud and waste, but there were systems in the government designed [[00:05:26](https://www.youtube.com/watch?v=zDNtne7fMR4&t=326.14s)]
+*  to block fraud, to block exactly this kind of double dealing. [[00:05:30](https://www.youtube.com/watch?v=zDNtne7fMR4&t=330.9s)]
+*  And Trump has dismantled them. [[00:05:35](https://www.youtube.com/watch?v=zDNtne7fMR4&t=335.12s)]
+*  I mean, I would say he's also his administration has also announced that it won't enforce other [[00:05:37](https://www.youtube.com/watch?v=zDNtne7fMR4&t=337.09999999999997s)]
+*  government laws that are designed to block these kinds of practices. [[00:05:42](https://www.youtube.com/watch?v=zDNtne7fMR4&t=342.29999999999995s)]
+*  There's something called the Corporate Transparency Act. [[00:05:45](https://www.youtube.com/watch?v=zDNtne7fMR4&t=345.7s)]
+*  They're not going to enforce that. [[00:05:48](https://www.youtube.com/watch?v=zDNtne7fMR4&t=348.4s)]
+*  There's something called the Foreign Bribery Act that prevents American and other companies [[00:05:50](https://www.youtube.com/watch?v=zDNtne7fMR4&t=350.34s)]
+*  from bribing foreign companies. [[00:05:53](https://www.youtube.com/watch?v=zDNtne7fMR4&t=353.85999999999996s)]
+*  They're from paying bribes and they're not going to enforce that either. [[00:05:56](https://www.youtube.com/watch?v=zDNtne7fMR4&t=356.9s)]
+*  So they're dismantling a whole apparatus of, it's not just regulation, it's the law of [[00:05:59](https://www.youtube.com/watch?v=zDNtne7fMR4&t=359.7s)]
+*  laws that were designed, that were put in place in order to prevent fraud and kleptocracy [[00:06:06](https://www.youtube.com/watch?v=zDNtne7fMR4&t=366.9s)]
+*  from spreading inside our political system. [[00:06:14](https://www.youtube.com/watch?v=zDNtne7fMR4&t=374.8s)]
+*  You can catch more on Anne's argument here about what's happening in the Atlantic. [[00:06:17](https://www.youtube.com/watch?v=zDNtne7fMR4&t=377.5s)]
+*  Her piece is entitled Kleptocracy, Inc. [[00:06:25](https://www.youtube.com/watch?v=zDNtne7fMR4&t=385.09999999999997s)]
+*  And I just want to circle back to the conversation we were having about Ukraine with all the [[00:06:28](https://www.youtube.com/watch?v=zDNtne7fMR4&t=388.42s)]
+*  comments that we have been covering from the president, the vice president, and what is [[00:06:31](https://www.youtube.com/watch?v=zDNtne7fMR4&t=391.82s)]
+*  happening right now in this war. [[00:06:36](https://www.youtube.com/watch?v=zDNtne7fMR4&t=396.78000000000003s)]
+*  My brother mentioned earlier about Trump's approach to Russia. [[00:06:41](https://www.youtube.com/watch?v=zDNtne7fMR4&t=401.34000000000003s)]
+*  And I want to ask you, is it appeasement or how would you describe it? [[00:06:47](https://www.youtube.com/watch?v=zDNtne7fMR4&t=407.22s)]
+*  Because to an extent, Ian was saying that Biden had an approach to this war that obviously [[00:06:54](https://www.youtube.com/watch?v=zDNtne7fMR4&t=414.82s)]
+*  was supporting Ukraine, supporting the people who are fighting for the safety of the world. [[00:07:04](https://www.youtube.com/watch?v=zDNtne7fMR4&t=424.02s)]
+*  And Trump's is very different. [[00:07:10](https://www.youtube.com/watch?v=zDNtne7fMR4&t=430.98s)]
+*  And how would you describe it? [[00:07:13](https://www.youtube.com/watch?v=zDNtne7fMR4&t=433.38s)]
+*  Is it weaker, as Ian contended? [[00:07:15](https://www.youtube.com/watch?v=zDNtne7fMR4&t=435.3s)]
+*  And is it appeasement? [[00:07:18](https://www.youtube.com/watch?v=zDNtne7fMR4&t=438.86s)]
+*  You could use the word appeasement. [[00:07:21](https://www.youtube.com/watch?v=zDNtne7fMR4&t=441.34s)]
+*  You could use weakness. [[00:07:22](https://www.youtube.com/watch?v=zDNtne7fMR4&t=442.65999999999997s)]
+*  You could also begin to ask, is this really about business deals? [[00:07:24](https://www.youtube.com/watch?v=zDNtne7fMR4&t=444.26000000000005s)]
+*  Are there people around Trump who are expecting some kind of financial benefit from a relationship [[00:07:30](https://www.youtube.com/watch?v=zDNtne7fMR4&t=450.90000000000003s)]
+*  with Russia? [[00:07:37](https://www.youtube.com/watch?v=zDNtne7fMR4&t=457.24s)]
+*  Is this really about creating another lawless zone of relationships between America and [[00:07:38](https://www.youtube.com/watch?v=zDNtne7fMR4&t=458.8s)]
+*  Russia? [[00:07:45](https://www.youtube.com/watch?v=zDNtne7fMR4&t=465.42s)]
+*  We don't know. [[00:07:47](https://www.youtube.com/watch?v=zDNtne7fMR4&t=467.02000000000004s)]
+*  And actually, the fact that we don't know, the fact that this is all hidden, the fact [[00:07:48](https://www.youtube.com/watch?v=zDNtne7fMR4&t=468.02000000000004s)]
+*  that it's not clear what Trump's motives are, I mean, that's already a sign of autocratic [[00:07:52](https://www.youtube.com/watch?v=zDNtne7fMR4&t=472.16s)]
+*  behavior. [[00:07:57](https://www.youtube.com/watch?v=zDNtne7fMR4&t=477.72s)]
+*  You know, in democracies, your leadership is transparent. [[00:07:58](https://www.youtube.com/watch?v=zDNtne7fMR4&t=478.72s)]
+*  We knew what Joe Biden wanted in Ukraine. [[00:08:01](https://www.youtube.com/watch?v=zDNtne7fMR4&t=481.48s)]
+*  You know, when he when he said it, we knew we knew what he meant. [[00:08:03](https://www.youtube.com/watch?v=zDNtne7fMR4&t=483.64s)]
+*  You know, in the case of Trump, we don't really know what his motives are. [[00:08:07](https://www.youtube.com/watch?v=zDNtne7fMR4&t=487.4s)]
+*  We don't know even what it means when they say we're going to walk away. [[00:08:10](https://www.youtube.com/watch?v=zDNtne7fMR4&t=490.44s)]
+*  There, you know, there's there's so much opacity and so much lack of clarity. [[00:08:13](https://www.youtube.com/watch?v=zDNtne7fMR4&t=493.6s)]
+*  And the lack of clarity is deeply connected to these practices that we're seeing at home. [[00:08:18](https://www.youtube.com/watch?v=zDNtne7fMR4&t=498.46s)]
+*  This you know, conflicts of interest, double dealing, you know, the relationships between [[00:08:24](https://www.youtube.com/watch?v=zDNtne7fMR4&t=504.09999999999997s)]
+*  people, people in the in the administration and private business. [[00:08:30](https://www.youtube.com/watch?v=zDNtne7fMR4&t=510.02s)]
+*  We don't really know for whom they're acting. [[00:08:34](https://www.youtube.com/watch?v=zDNtne7fMR4&t=514.1999999999999s)]
+*  Are they acting in the interests of the American people or are they acting in their own interests? [[00:08:35](https://www.youtube.com/watch?v=zDNtne7fMR4&t=515.9399999999999s)]
+*  Staff writer for The Atlantic and Applebaum, thank you very much. [[00:08:42](https://www.youtube.com/watch?v=zDNtne7fMR4&t=522.18s)]
+*  It is always great to have you on the show. [[00:08:46](https://www.youtube.com/watch?v=zDNtne7fMR4&t=526.02s)]
+*  We really appreciate it. [[00:08:47](https://www.youtube.com/watch?v=zDNtne7fMR4&t=527.78s)]
