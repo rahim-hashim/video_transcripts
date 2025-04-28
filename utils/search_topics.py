@@ -6,7 +6,7 @@ mena_topics = [
 	'west bank',
 	'syria',
 	'iran',
-	'jordan',
+	# 'jordan',
 	'egypt',
 	'lebanon',
 	'arab',
