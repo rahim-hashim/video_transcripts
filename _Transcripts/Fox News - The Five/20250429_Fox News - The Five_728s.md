@@ -1,0 +1,158 @@
+---
+Date Generated: April 30, 2025
+Transcription Model: whisper medium 20231117
+Length: 728s
+Video Keywords: ['fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'president donald trump', 'trump administration', 'white house', '100 days of trump', 'politics', 'oval office', 'the five fox news', 'illegal immigration', 'tariffs', 'economy', 'foreign policy', 'election', 'jesse watters', 'greg gutfeld', 'highlights', 'video', 'recap', 'new', 'washington dc', 'world', 'us', 'usa', 'america']
+Video Views: 390243
+Video Rating: None
+Video Description: ‘The Five’ co-hosts discuss the first 100 days of President Donald Trump’s second term. #foxnews #news #fox #thefive #politics #jessewatters #trump #gutfeld #politics #new #highlights #recap #video #world
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# ‘The Five’: Trump 2.0 is off to a hot start
+**Fox News - The Five:** [April 29, 2025](https://www.youtube.com/watch?v=7QmGGrIt46k)
+*  We have the big, beautiful deal. It's moving along. And I think we're going to have it [[00:00:00](https://www.youtube.com/watch?v=7QmGGrIt46k&t=0.0s)]
+*  taken care of. [[00:00:05](https://www.youtube.com/watch?v=7QmGGrIt46k&t=5.22s)]
+*  Well, I think we're either we've done everything, or it's in the process of being done. For [[00:00:06](https://www.youtube.com/watch?v=7QmGGrIt46k&t=6.22s)]
+*  instance, the border is in great shape. I would say that was my number one thing. We [[00:00:11](https://www.youtube.com/watch?v=7QmGGrIt46k&t=11.92s)]
+*  were losing billions and billions of dollars a day with trade. And now I have that down [[00:00:16](https://www.youtube.com/watch?v=7QmGGrIt46k&t=16.42s)]
+*  to a very low level. And soon we're going to be making a lot of money. We're going to [[00:00:22](https://www.youtube.com/watch?v=7QmGGrIt46k&t=22.22s)]
+*  be reducing people's taxes. [[00:00:25](https://www.youtube.com/watch?v=7QmGGrIt46k&t=25.82s)]
+*  Taxes as Pope? I'd like to be Pope. That would be my number one choice. [[00:00:27](https://www.youtube.com/watch?v=7QmGGrIt46k&t=27.42s)]
+*  President Trump wheeling and dealing on his way to Michigan for a huge rally to mark 100 [[00:00:36](https://www.youtube.com/watch?v=7QmGGrIt46k&t=36.78s)]
+*  days in office, which means only 1361 days to go for you, Jessica. And the Trump dozer [[00:00:41](https://www.youtube.com/watch?v=7QmGGrIt46k&t=41.34s)]
+*  isn't letting up, plowing ahead with border winds, cutting government waste and driving [[00:00:48](https://www.youtube.com/watch?v=7QmGGrIt46k&t=48.74s)]
+*  inflation down. But it hasn't been a cakewalk. According to a new study, ABC, CBS and NBC [[00:00:52](https://www.youtube.com/watch?v=7QmGGrIt46k&t=52.86s)]
+*  have slapped Donald Trump with 92 percent negative coverage. And yet, despite the nonstop [[00:00:59](https://www.youtube.com/watch?v=7QmGGrIt46k&t=59.14s)]
+*  hit jobs, Trump voters are sticking with their guy. [[00:01:04](https://www.youtube.com/watch?v=7QmGGrIt46k&t=64.7s)]
+*  My biggest issue is at the border and he's killing it. Well, absolutely everybody that's [[00:01:08](https://www.youtube.com/watch?v=7QmGGrIt46k&t=68.9s)]
+*  here illegally should go. I'm not one of these that, oh, the poor person. [[00:01:14](https://www.youtube.com/watch?v=7QmGGrIt46k&t=74.06s)]
+*  I'm really very optimistic. And I know that right now with the tariffs, that there's a [[00:01:18](https://www.youtube.com/watch?v=7QmGGrIt46k&t=78.02s)]
+*  little bit of pain. Sometimes you have to go through a little bit of the fire to get [[00:01:24](https://www.youtube.com/watch?v=7QmGGrIt46k&t=84.1s)]
+*  to the end of the rainbow. [[00:01:29](https://www.youtube.com/watch?v=7QmGGrIt46k&t=89.38s)]
+*  Haters will always hate. The American people are not fools. And they saw what the first [[00:01:31](https://www.youtube.com/watch?v=7QmGGrIt46k&t=91.1s)]
+*  four years of Trump, what he did. [[00:01:36](https://www.youtube.com/watch?v=7QmGGrIt46k&t=96.94s)]
+*  On a scale of one to 10, 20, I feel safer. I feel more confident. I know who's running [[00:01:38](https://www.youtube.com/watch?v=7QmGGrIt46k&t=98.89999999999999s)]
+*  the country. [[00:01:45](https://www.youtube.com/watch?v=7QmGGrIt46k&t=105.06s)]
+*  The fans are pumped, but Whoopi says he left America in the dumps. [[00:01:47](https://www.youtube.com/watch?v=7QmGGrIt46k&t=107.22s)]
+*  We are very fickle in this country. We forget, we forget, you know, you can be mad at one [[00:01:53](https://www.youtube.com/watch?v=7QmGGrIt46k&t=113.14s)]
+*  side or the other, but you have to stick with facts. And the facts are he left, we left [[00:01:58](https://www.youtube.com/watch?v=7QmGGrIt46k&t=118.58s)]
+*  good stuff. He has pooped on it. [[00:02:04](https://www.youtube.com/watch?v=7QmGGrIt46k&t=124.98s)]
+*  President Trump also revealing a phone call he had with Jeff Bezos this morning, getting [[00:02:09](https://www.youtube.com/watch?v=7QmGGrIt46k&t=129.06s)]
+*  them to back down on a plan to display tariff prices on Amazon. [[00:02:12](https://www.youtube.com/watch?v=7QmGGrIt46k&t=132.86s)]
+*  Great. Jeff Bezos was very nice. He was terrific. He solved the problem very quickly and he [[00:02:16](https://www.youtube.com/watch?v=7QmGGrIt46k&t=136.5s)]
+*  did the right thing. And he's a good guy. [[00:02:24](https://www.youtube.com/watch?v=7QmGGrIt46k&t=144.86s)]
+*  All right, Judge, you need 100 days. Is Whoopi's analysis accurate? [[00:02:27](https://www.youtube.com/watch?v=7QmGGrIt46k&t=147.42000000000002s)]
+*  No, Whoopi's analysis is not accurate and neither is the mainstream media. I mean, the [[00:02:33](https://www.youtube.com/watch?v=7QmGGrIt46k&t=153.26000000000002s)]
+*  fact that you've got 92% negative coverage and I don't recall what the negative coverage [[00:02:38](https://www.youtube.com/watch?v=7QmGGrIt46k&t=158.1s)]
+*  was when the president was when Donald Trump was running for his second term, but I'm sure [[00:02:44](https://www.youtube.com/watch?v=7QmGGrIt46k&t=164.42s)]
+*  it was at least that negative and the American people didn't buy it and he won. He won by [[00:02:49](https://www.youtube.com/watch?v=7QmGGrIt46k&t=169.34s)]
+*  the popular vote. And now Americans are savvy enough to know that they're not going to buy [[00:02:56](https://www.youtube.com/watch?v=7QmGGrIt46k&t=176.45999999999998s)]
+*  what the press is selling them because they've seen what it's like when they don't even know [[00:03:01](https://www.youtube.com/watch?v=7QmGGrIt46k&t=181.66s)]
+*  who the president is. So I think that the American people, as we heard from those few people, [[00:03:06](https://www.youtube.com/watch?v=7QmGGrIt46k&t=186.82000000000002s)]
+*  they trust the vision of the president. They are willing to have some short term pain for [[00:03:12](https://www.youtube.com/watch?v=7QmGGrIt46k&t=192.38s)]
+*  long term gain. But the big issue was the border and the president has a 55% approval [[00:03:17](https://www.youtube.com/watch?v=7QmGGrIt46k&t=197.5s)]
+*  rating on the border. And he is also moving the criminals out. And, you know, seven out of [[00:03:23](https://www.youtube.com/watch?v=7QmGGrIt46k&t=203.98000000000002s)]
+*  America, as 10 Americans say, the Democrats are out of touch. So while President Trump is [[00:03:29](https://www.youtube.com/watch?v=7QmGGrIt46k&t=209.66000000000003s)]
+*  doing all that he's done, which is like 140 executive orders, I mean, Joe Biden wasn't even [[00:03:35](https://www.youtube.com/watch?v=7QmGGrIt46k&t=215.1s)]
+*  out of bed at the end of 100 days. And so what we're seeing now is a president who's very [[00:03:40](https://www.youtube.com/watch?v=7QmGGrIt46k&t=220.86s)]
+*  focused. And this whole thing about the tariff increase in Amazon, you know, I thought that was [[00:03:46](https://www.youtube.com/watch?v=7QmGGrIt46k&t=226.42000000000002s)]
+*  very interesting because when you look at the tariff issue and you know, you want to buy [[00:03:51](https://www.youtube.com/watch?v=7QmGGrIt46k&t=231.62s)]
+*  something and then there's a tariff added to it. I as a purchaser don't want to buy that. I want [[00:03:57](https://www.youtube.com/watch?v=7QmGGrIt46k&t=237.82s)]
+*  to say to myself, because I've already done this with clothing, I say to myself, I'd rather [[00:04:04](https://www.youtube.com/watch?v=7QmGGrIt46k&t=244.86s)]
+*  buy what's made in America now. If you're going to put a tariff on it, and then you're going to [[00:04:09](https://www.youtube.com/watch?v=7QmGGrIt46k&t=249.58s)]
+*  charge me whatever tax you charge me from Europe, I don't want it. So I think that's almost a good [[00:04:15](https://www.youtube.com/watch?v=7QmGGrIt46k&t=255.5s)]
+*  thing. And finally, when the media pounces, it's not it doesn't have the sting that it used to [[00:04:20](https://www.youtube.com/watch?v=7QmGGrIt46k&t=260.58000000000004s)]
+*  have, because people aren't buying it. And finally, I think that when you hear about the good [[00:04:26](https://www.youtube.com/watch?v=7QmGGrIt46k&t=266.66s)]
+*  stuff that he's done, and I know Rick Rennell was just on about a half hour ago talking about [[00:04:32](https://www.youtube.com/watch?v=7QmGGrIt46k&t=272.3s)]
+*  all the Americans that have been returned that have been held as hostages, it's something that [[00:04:36](https://www.youtube.com/watch?v=7QmGGrIt46k&t=276.5s)]
+*  gets no press. But he's done some huge things for us. [[00:04:41](https://www.youtube.com/watch?v=7QmGGrIt46k&t=281.34000000000003s)]
+*  Do they make Manolo Blahniks in America? [[00:04:45](https://www.youtube.com/watch?v=7QmGGrIt46k&t=285.02000000000004s)]
+*  No, I don't think so. [[00:04:48](https://www.youtube.com/watch?v=7QmGGrIt46k&t=288.26s)]
+*  No, you're gonna be paying out the nose. Jessica Tarlov. Do you disagree with anything, Judge? [[00:04:49](https://www.youtube.com/watch?v=7QmGGrIt46k&t=289.90000000000003s)]
+*  I do. I do. I do a lot. The American public knows exactly what's going on. And that's why they're [[00:04:55](https://www.youtube.com/watch?v=7QmGGrIt46k&t=295.54s)]
+*  soundly rejecting this administration. He has the lowest approval rating of any president in the [[00:05:05](https://www.youtube.com/watch?v=7QmGGrIt46k&t=305.86s)]
+*  last 70 years for the first 100 days. His stock market for the first 100 days is the lowest since [[00:05:11](https://www.youtube.com/watch?v=7QmGGrIt46k&t=311.06s)]
+*  Nixon, unprecedentedly low foreign policy approval rating and economic approval rating. The American [[00:05:16](https://www.youtube.com/watch?v=7QmGGrIt46k&t=316.86s)]
+*  public is smart enough to know that their shelves, if they're not already empty, are going to be [[00:05:23](https://www.youtube.com/watch?v=7QmGGrIt46k&t=323.38s)]
+*  empty because of tariffs. 69% say he's not focused enough on lowering prices. 62% focus too much on [[00:05:27](https://www.youtube.com/watch?v=7QmGGrIt46k&t=327.82s)]
+*  tariffs. 72% think his policies will cause a recession. 64% disapprove of how he's handling [[00:05:34](https://www.youtube.com/watch?v=7QmGGrIt46k&t=334.86s)]
+*  inflation. He continues to beat a drum that is making the absolute worst economic music I have ever [[00:05:40](https://www.youtube.com/watch?v=7QmGGrIt46k&t=340.58s)]
+*  heard in my entire life. And yes, he's still above water on deportations, but he's underwater in terms of [[00:05:49](https://www.youtube.com/watch?v=7QmGGrIt46k&t=349.02s)]
+*  immigration overall because the American people also know that due process matters and that when you [[00:05:54](https://www.youtube.com/watch?v=7QmGGrIt46k&t=354.38s)]
+*  have an administration that is acting lawlessly because people who are undocumented do actually have a [[00:05:59](https://www.youtube.com/watch?v=7QmGGrIt46k&t=359.94s)]
+*  right to go in front of a judge and to have their case heard that Abrego Garcia should be returned. And [[00:06:06](https://www.youtube.com/watch?v=7QmGGrIt46k&t=366.26s)]
+*  then if you want to deport him right back out, that is your prerogative. But when I'm listening to the [[00:06:12](https://www.youtube.com/watch?v=7QmGGrIt46k&t=372.5s)]
+*  spin about this, 92% negative coverage, and then I think back to how you guys were talking about the [[00:06:17](https://www.youtube.com/watch?v=7QmGGrIt46k&t=377.58s)]
+*  Democrats before when Biden used to get up there and say, no, everything's great, right? And you said, [[00:06:23](https://www.youtube.com/watch?v=7QmGGrIt46k&t=383.65999999999997s)]
+*  how could he possibly do that? He's saying egg prices are great. Gas is great. Take a lesson out of your [[00:06:28](https://www.youtube.com/watch?v=7QmGGrIt46k&t=388.06s)]
+*  own playbook and admit that this is going badly. Take the L. The Democrats are up four to seven points on [[00:06:33](https://www.youtube.com/watch?v=7QmGGrIt46k&t=393.56s)]
+*  the generic ballot. Do you think that that means that Donald Trump is doing a good job? [[00:06:39](https://www.youtube.com/watch?v=7QmGGrIt46k&t=399.53999999999996s)]
+*  Oh, that was a rhetorical question. I just so I was I was trying to think of things that are not on the [[00:06:43](https://www.youtube.com/watch?v=7QmGGrIt46k&t=403.02s)]
+*  shelves. You say there's empty shelves. What are you talking about? What's not on the shelves that you [[00:06:50](https://www.youtube.com/watch?v=7QmGGrIt46k&t=410.74s)]
+*  say is not there? Well, have you gone into a drugstore? Yeah, I have, Jessica. Everything's locked up [[00:06:56](https://www.youtube.com/watch?v=7QmGGrIt46k&t=416.34s)]
+*  because of you. No, baby formula. I remember that wasn't on the shelves. That was a good one. So I look at [[00:07:02](https://www.youtube.com/watch?v=7QmGGrIt46k&t=422.41999999999996s)]
+*  another metric, and that is right track, wrong track. And so I go the polls are the polls and they are what [[00:07:09](https://www.youtube.com/watch?v=7QmGGrIt46k&t=429.74s)]
+*  they are. And I think the economy is one of the reasons bringing it down. But if you think of right track, [[00:07:16](https://www.youtube.com/watch?v=7QmGGrIt46k&t=436.78000000000003s)]
+*  wrong track, and where do Americans think the country is compared to a year ago under Biden? President Trump [[00:07:21](https://www.youtube.com/watch?v=7QmGGrIt46k&t=441.28000000000003s)]
+*  definitely still doing better there. So that is I would say that is probably one of his best accomplishments of [[00:07:27](https://www.youtube.com/watch?v=7QmGGrIt46k&t=447.1s)]
+*  the past 100 days is showing the stark contrast between what he wants to do and where he wants to take the country [[00:07:32](https://www.youtube.com/watch?v=7QmGGrIt46k&t=452.3s)]
+*  compared to the last four years. And nothing more stark than that on immigration. Indeed, the next 100 days is [[00:07:38](https://www.youtube.com/watch?v=7QmGGrIt46k&t=458.1s)]
+*  what is really key. So one thing that might help him is that he unleashed the energy world. But that takes some [[00:07:44](https://www.youtube.com/watch?v=7QmGGrIt46k&t=464.46000000000004s)]
+*  time to get going. And within the next 100 days, you might be able to see that some gas prices have started to come [[00:07:51](https://www.youtube.com/watch?v=7QmGGrIt46k&t=471.90000000000003s)]
+*  down, inflation has started to come down, grocery prices started to come down. But the energy piece of that is [[00:07:56](https://www.youtube.com/watch?v=7QmGGrIt46k&t=476.58000000000004s)]
+*  super important. Then what he was just talking about when he was in Michigan, is that the tax bill is what's coming [[00:08:01](https://www.youtube.com/watch?v=7QmGGrIt46k&t=481.62s)]
+*  next. And that's where they're going to have to focus because people want clarity on the taxes. The Democrats right now, I [[00:08:08](https://www.youtube.com/watch?v=7QmGGrIt46k&t=488.86s)]
+*  actually think that there will be several Democrats that vote for this with the president. And I'm looking at like, for [[00:08:15](https://www.youtube.com/watch?v=7QmGGrIt46k&t=495.02s)]
+*  example, Senator Fetterman, right, and you might find a few other congressional Democrats who are willing to go that way. [[00:08:20](https://www.youtube.com/watch?v=7QmGGrIt46k&t=500.3s)]
+*  Because if you do not pass this tax cut bill, you will have an increase in taxes on the middle class. And nothing pulls [[00:08:25](https://www.youtube.com/watch?v=7QmGGrIt46k&t=505.98s)]
+*  worse if you care about polling, nothing pulls worse than raising taxes on the middle class right now. So I think he will get [[00:08:33](https://www.youtube.com/watch?v=7QmGGrIt46k&t=513.98s)]
+*  that done. And maybe he will be able to call it the big, beautiful bill and sign it. Besant says he wants it by July 4th. [[00:08:39](https://www.youtube.com/watch?v=7QmGGrIt46k&t=519.62s)]
+*  That's super ambitious, but maybe they'll get it done. [[00:08:45](https://www.youtube.com/watch?v=7QmGGrIt46k&t=525.82s)]
+*  Greg, I have to say your first 100 days have been great. [[00:08:48](https://www.youtube.com/watch?v=7QmGGrIt46k&t=528.58s)]
+*  They've been amazing, haven't they? [[00:08:51](https://www.youtube.com/watch?v=7QmGGrIt46k&t=531.94s)]
+*  They really have. [[00:08:53](https://www.youtube.com/watch?v=7QmGGrIt46k&t=533.1800000000001s)]
+*  I fulfilled all my promises. [[00:08:53](https://www.youtube.com/watch?v=7QmGGrIt46k&t=533.7s)]
+*  You have. [[00:08:55](https://www.youtube.com/watch?v=7QmGGrIt46k&t=535.02s)]
+*  That's why I'm wearing white. [[00:08:55](https://www.youtube.com/watch?v=7QmGGrIt46k&t=535.4599999999999s)]
+*  Before Labor Day. [[00:08:57](https://www.youtube.com/watch?v=7QmGGrIt46k&t=537.5s)]
+*  Exactly. You know, I'm wearing white because I'm a good guy. And I'm going to do the Democrats a solid today. Because what [[00:08:58](https://www.youtube.com/watch?v=7QmGGrIt46k&t=538.3399999999999s)]
+*  they're doing is understandable. 100 days of a president does things, 100 days of the opposition complains about it. That's [[00:09:04](https://www.youtube.com/watch?v=7QmGGrIt46k&t=544.42s)]
+*  the process. But I think you can learn. Forget all of the issues. You could learn from how Trump does things as a Democrat. [[00:09:09](https://www.youtube.com/watch?v=7QmGGrIt46k&t=549.9799999999999s)]
+*  Democrats have a huge problem right now. It's an orientation problem. So when you watch Trump, what do you see about him [[00:09:18](https://www.youtube.com/watch?v=7QmGGrIt46k&t=558.4599999999999s)]
+*  that's different than Democrats? He's always looking outward and he's looking up. The Democrats, they're looking inward. [[00:09:25](https://www.youtube.com/watch?v=7QmGGrIt46k&t=565.22s)]
+*  They're looking backward and they're looking around. And that leaves the self-obsession and envy driven politics. [[00:09:30](https://www.youtube.com/watch?v=7QmGGrIt46k&t=570.7s)]
+*  This is why they always choose virtue signaling over practical solutions, because that gives you the dopamine hit for the ego. [[00:09:37](https://www.youtube.com/watch?v=7QmGGrIt46k&t=577.26s)]
+*  But when you look at Trump and you look at everything he's doing, he's not a politician. He's an adventurer. [[00:09:44](https://www.youtube.com/watch?v=7QmGGrIt46k&t=584.14s)]
+*  He wakes up every morning and he wonders, what beast am I going to slay? You know, he's oriented outward. He's a man in the world. [[00:09:49](https://www.youtube.com/watch?v=7QmGGrIt46k&t=589.9s)]
+*  He's more likely to engage in the world, take and share risks with other people, meets with people that maybe he's not friends with, [[00:09:57](https://www.youtube.com/watch?v=7QmGGrIt46k&t=597.62s)]
+*  willing to solve problems, see what happens. He's never even considered his pronoun. He's never met his inner child. And if you're [[00:10:05](https://www.youtube.com/watch?v=7QmGGrIt46k&t=605.4599999999999s)]
+*  only his enemy, if you want him to be your enemy, but if you put your hand out, he'll take it. He also looks forward and not backward. [[00:10:12](https://www.youtube.com/watch?v=7QmGGrIt46k&t=612.74s)]
+*  Problem with the Dems, they're living in the past, obsessing over ancestral oppression and cosplaying 1960s radicals with horrible folk music. [[00:10:21](https://www.youtube.com/watch?v=7QmGGrIt46k&t=621.54s)]
+*  They should be thinking about their future selves and do things today that will benefit people later. Treat yourself as a different person. [[00:10:31](https://www.youtube.com/watch?v=7QmGGrIt46k&t=631.42s)]
+*  This is why the debt crisis, you know, when you talk about tariffs and all that stuff, it's going to hurt Trump, but he's working for the future self. [[00:10:40](https://www.youtube.com/watch?v=7QmGGrIt46k&t=640.5s)]
+*  That may be five years or 10 years from now. We will not have financial ruin. That's the future, not the obsession over the past. [[00:10:49](https://www.youtube.com/watch?v=7QmGGrIt46k&t=649.46s)]
+*  The obsession over the past combined with the obsession over identity prevents a path forward. It even like demonizes self improvement. [[00:10:57](https://www.youtube.com/watch?v=7QmGGrIt46k&t=657.46s)]
+*  It's like you're seeing articles about how exercise is somehow part of the MAGA culture or maybe being prompt at a meeting is somehow white privilege. [[00:11:05](https://www.youtube.com/watch?v=7QmGGrIt46k&t=665.42s)]
+*  What's funny and ironic is that MAGA, people think it's about the past, make America great again. No, it's about recapturing the sense of adventure and optimism that America is known for. [[00:11:15](https://www.youtube.com/watch?v=7QmGGrIt46k&t=675.42s)]
+*  The embracing of the future with the emotions of the past. It's not about going back to the past. It's about remembering the good things that makes your future self happy. [[00:11:28](https://www.youtube.com/watch?v=7QmGGrIt46k&t=688.5400000000001s)]
+*  Can I ask you a follow up question? Sure. With that sweater, are you trying to be the pope? Yes, I am. I am still Catholic, by the way. Oh, that's breaking news. Yeah. And I used to be an altar boy. So that should count for something. [[00:11:39](https://www.youtube.com/watch?v=7QmGGrIt46k&t=699.02s)]
+*  All right, Jessica, are you reoriented? Yes. Yeah, that's the best advice you're ever going to get. The reorientation. Reorient yourself, Jessica. A block. We'll see you next block. [[00:11:50](https://www.youtube.com/watch?v=7QmGGrIt46k&t=710.02s)]
