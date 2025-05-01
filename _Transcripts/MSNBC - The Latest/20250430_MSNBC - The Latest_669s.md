@@ -1,0 +1,151 @@
+---
+Date Generated: April 30, 2025
+Transcription Model: whisper medium 20231117
+Length: 669s
+Video Keywords: ['MSNBC']
+Video Views: 140489
+Video Rating: None
+Video Description: U.S. GDP declined 0.3% in the first quarter of 2025, raising fears of a recession. This is the first time the U.S. economy has not grown since the Covid-19 pandemic. This comes amid turmoil over President Trump's tariffs. NBC News' Christine Romans and Gabe Gutierrez, Republican strategist Susan Del Percio and New York Times Chief White House Correspondent Peter Baker join Ana Cabrera to weigh in.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Tariffs #Economy
+---
+
+# 'BE PATIENT!!!': Trump downplays tariff turmoil despite U.S. economy shrinking in Q1
+**MSNBC - The Latest:** [April 30, 2025](https://www.youtube.com/watch?v=jr4RIUjqLbQ)
+*  Economic alarm bells are going off this morning. The latest GDP report shows the US economy [[00:00:00](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=0.0s)]
+*  shrank in the first three months of the year, contracting by 0.3 percent. [[00:00:06](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=6.16s)]
+*  We haven't seen a contraction since the pandemic. Now, keep in mind, this is a snapshot of the [[00:00:11](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=11.040000000000001s)]
+*  economy before Trump's tariff rollout this month. And those tariffs were already causing major [[00:00:16](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=16.240000000000002s)]
+*  industries to sound the alarm about a potential downturn, driving a dip in public support for the [[00:00:21](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=21.44s)]
+*  president's economic agenda. And as you can see, the stock market reacting this morning already in [[00:00:27](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=27.04s)]
+*  negative territory. With all this pressure mounting next hour, Trump hosts another cabinet meeting [[00:00:32](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=32.08s)]
+*  following last night's campaign-style rally in Michigan to mark his 100th day in office, [[00:00:37](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=37.36s)]
+*  full of his usual barrage of grand claims and grievances. [[00:00:42](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=42.64s)]
+*  I hope for the sake of our country that the Supreme Court is going to save this because [[00:00:48](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=48.56s)]
+*  we have to do something. These people are just looking to destroy our country. [[00:00:54](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=54.24s)]
+*  Nothing will stop me and the mission to keep America safe again. It's very simple. [[00:00:59](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=59.28s)]
+*  After a lifetime of unelected bureaucrats stealing your paychecks, attacking your values, [[00:01:05](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=65.68s)]
+*  and trampling your freedoms, we are stopping their gravy train. We cannot allow a handful [[00:01:11](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=71.12s)]
+*  of communist radical-left judges to obstruct the enforcement of our laws. You're not supposed to [[00:01:16](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=76.72s)]
+*  criticize the Fed. You're supposed to let him do his own thing. But I know much more than he does [[00:01:21](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=81.68s)]
+*  about interest rates. They're signing left and right because of my taxation and tariff policies, [[00:01:25](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=85.84s)]
+*  which are policies of common sense and genius. We are covering every angle this morning with NBC [[00:01:32](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=92.08000000000001s)]
+*  News senior White House correspondent Gabe Gutierrez, NBC News senior business correspondent [[00:01:38](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=98.80000000000001s)]
+*  Christine Romans, Republican strategist and MSNBC political analyst Susan DelPercio, [[00:01:43](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=103.28s)]
+*  and New York Times chief White House correspondent and MSNBC political analyst Peter Baker. [[00:01:48](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=108.16s)]
+*  Christine, GDP shrank in the first quarter of this year. What is the significance of that, [[00:01:53](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=113.75999999999999s)]
+*  and how does that impact everyday America? It's the first time the economy didn't grow [[00:01:59](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=119.52s)]
+*  since the pandemic. That is remarkable for its timing. It was growing strongly at the end of [[00:02:03](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=123.6s)]
+*  last year. This is hitting the brakes on the American economy. When you look in the formula [[00:02:08](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=128.48s)]
+*  that you use to figure out gross domestic product, all of these imports ahead of his tariffs, [[00:02:14](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=134.0s)]
+*  record amounts of imports in some categories coming in here as people were stockpiling ahead [[00:02:21](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=141.2s)]
+*  of tariffs, that distorted this number. And so that's why it's so negative. You also had [[00:02:25](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=145.28s)]
+*  government spending fall because of Doge and they're cutting government spending. And remember, [[00:02:29](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=149.44s)]
+*  this is a rear view mirror picture. This is the first three months of the year. So this is before [[00:02:33](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=153.68s)]
+*  the biggest of the Trump tariffs started to bite. So does that mean it could get even worse? It [[00:02:37](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=157.92000000000002s)]
+*  could, or it could bounce back. We really don't know what's going to happen. I mean, this trade [[00:02:42](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=162.56s)]
+*  policy is so upsetting of the apple cart. You know, it's unclear what's going to happen next. [[00:02:46](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=166.8s)]
+*  We did see a private sector payroll number today that was very, very weak. There's a government [[00:02:53](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=173.2s)]
+*  jobs number on Friday. Every one of these numbers we're going to be parsing to see just what are the [[00:02:58](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=178.48s)]
+*  effects on the economy of this very big, different trade change from the president. Gabe, how is the [[00:03:03](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=183.28s)]
+*  White House framing this economic news? Well, hi, there on it. Well, the Trump administration [[00:03:09](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=189.2s)]
+*  has repeatedly tried to look backwards in many ways when the stock market is not as high as they [[00:03:14](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=194.72s)]
+*  would like it to be. They've been blaming the Biden administration for leaving them with [[00:03:21](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=201.76s)]
+*  poor economic conditions, even though inflation had already started to cool. Now, just a few [[00:03:26](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=206.23999999999998s)]
+*  moments ago, President Trump posting on social media that quote, this is Biden's stock market, [[00:03:31](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=211.35999999999999s)]
+*  not Trump's. I didn't take over until January 20th. Tariffs will soon start kicking in and [[00:03:37](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=217.28s)]
+*  companies are starting to move into the U.S. And then further down, this will take a while. This [[00:03:41](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=221.52s)]
+*  has nothing to do with tariffs, only that he left us with bad numbers. Be patient, he tells his [[00:03:45](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=225.12s)]
+*  supporters. However, if you look to January of 2024, the president posted on social media that [[00:03:50](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=230.96s)]
+*  this is the Trump stock market because my polls against Biden are so good. So again, that makes [[00:03:58](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=238.08s)]
+*  the point that the president has a long history of taking credit for the stock market when it is up [[00:04:03](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=243.44s)]
+*  and trying to deflect blame for it when it's lower than he'd like. OK, so Gabe just did the [[00:04:09](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=249.44s)]
+*  fact check there for us. Susan, can Trump really get away with saying this isn't my economy, [[00:04:16](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=256.16s)]
+*  this has nothing to do with my tariffs? Well, Trump's been very good at getting away with those [[00:04:22](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=262.88s)]
+*  statements for eight years now. But the difference is now, Anna, for four years before he took the [[00:04:28](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=268.64s)]
+*  presidency back, he was able to say anything without accountability. He wasn't president. [[00:04:34](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=274.96000000000004s)]
+*  Now as president, people will hold him accountable. His words matter more, whether it's to CEOs [[00:04:40](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=280.72s)]
+*  or people just planning their mom and pop stores, like if they have to worry about what's coming [[00:04:47](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=287.28000000000003s)]
+*  into the country and tariffs. So his words matter more and people will hold him accountable. As [[00:04:52](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=292.0s)]
+*  we've seen, frankly, in a whole spate of different polling recently. And Christine, bottom line, [[00:04:57](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=297.36s)]
+*  this is his economy, no? Yeah, I mean, he says he wants to remake it and this is what happens when [[00:05:02](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=302.48s)]
+*  you want to remake it. I mean, it's remarkable, the collapse in container traffic coming from [[00:05:07](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=307.28000000000003s)]
+*  China to the United States. These are the two world's biggest economies that will have ripple [[00:05:14](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=314.16s)]
+*  effects. I've been doing, you know, checks of freight companies and trucking companies and the [[00:05:18](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=318.56s)]
+*  layoffs have already started to have already begun there. And you've got a lot of small companies, [[00:05:24](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=324.4s)]
+*  especially small retailers, independent retailers who are not ordering for back to school and not [[00:05:28](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=328.71999999999997s)]
+*  ordering for the fall season. And they don't know if they'll be in business for Christmas. [[00:05:33](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=333.28s)]
+*  Those are main street jobs with all kinds of other attendant jobs that go with them. So there's a [[00:05:36](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=336.96s)]
+*  lot of economic activity that we're going to see how this plays out. And the president has [[00:05:42](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=342.71999999999997s)]
+*  determined that tariffs are a good thing and he is going to remake sort of this balance of global [[00:05:47](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=347.35999999999996s)]
+*  trade. He was talking a lot about the tariffs last night at that rally. He's about to sit down [[00:05:52](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=352.48s)]
+*  next hour with his cabinet. This is day 101, Gabe. How does this news impact their agenda? [[00:05:57](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=357.44s)]
+*  Well, look, a lot of what we'll be focusing on during this cabinet meeting in the next hour or [[00:06:04](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=364.0s)]
+*  so is whether Elon Musk will be there. Of course, Elon Musk heading up Doge, his time within the [[00:06:09](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=369.52000000000004s)]
+*  government is supposedly coming to an end. Chief of Staff Suzy Wiles in an interview with the New [[00:06:16](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=376.88s)]
+*  York Post that was published yesterday said that Elon Musk is no longer regularly working physically [[00:06:22](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=382.71999999999997s)]
+*  inside the White House, that he's been doing some of his work from by phone. So it is unclear right [[00:06:28](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=388.15999999999997s)]
+*  now whether he will be at this cabinet meeting today, but that's something we'll be watching. [[00:06:34](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=394.0s)]
+*  We're also hoping to get more information on this discussion of trade deals with other countries [[00:06:37](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=397.84s)]
+*  who've been hearing different accounts of the last several days about how far along they are. [[00:06:44](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=404.0s)]
+*  Several Trump administration officials saying they may be close to a deal with India, perhaps Japan. [[00:06:49](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=409.36s)]
+*  So that's something that we hope to learn more about as the day progresses and as we're getting [[00:06:55](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=415.04s)]
+*  this new economic news that you just referenced. Gabe, thanks so much. Keep us posted. [[00:07:00](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=420.08s)]
+*  Peter, what are you hearing about Trump's mindset as he is exiting the honeymoon phase of his [[00:07:05](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=425.2s)]
+*  final term in office? Are the economic realities starting to sink in? [[00:07:11](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=431.04s)]
+*  Well, look, I think he is counseling patients, which I think is a particularly unusual advice [[00:07:15](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=435.84000000000003s)]
+*  from the most impatient person we can think of, right? This is a man who lives very short term, [[00:07:22](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=442.72s)]
+*  lives, as my colleague Maggie Havenman once put it, from five minutes to five minutes. [[00:07:27](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=447.28000000000003s)]
+*  And now he's trying to tell the country, yeah, okay, there's some short term pain here, but we're [[00:07:31](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=451.52000000000004s)]
+*  going to get to this golden age that he promised in the inauguration. And the question is whether [[00:07:35](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=455.76s)]
+*  or not the country is willing to go along with that. The country, you know, elected him with the [[00:07:40](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=460.24s)]
+*  idea that he was a master steward of the economy, that he was going to make prices go down. That [[00:07:46](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=466.08s)]
+*  obviously hasn't happened. I think the people thought that when he came in, the economy would [[00:07:52](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=472.48s)]
+*  get better, not worse for a while. He certainly didn't prepare the ground for this idea that [[00:07:57](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=477.04s)]
+*  the transition to this non-globalized version of the economy that he has in mind would involve any [[00:08:02](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=482.0s)]
+*  kind of adjustment period. So he didn't lay that groundwork. A lot of Americans might be surprised [[00:08:08](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=488.72s)]
+*  at what's happened so far. And the question is how long this current turmoil continues. If it's [[00:08:14](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=494.8s)]
+*  sustained, it becomes, I think, a bigger problem for him. If it's short term, if he manages to kind [[00:08:19](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=499.20000000000005s)]
+*  of pull back and create some trade deals that he calls a victory and everything kind of returns [[00:08:23](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=503.84000000000003s)]
+*  to some sort of stable situation, he'll probably be okay. We know in the past, at least, trade deals [[00:08:28](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=508.8s)]
+*  can take a long time. And we have seen in latest polling at least high prices are very much top of [[00:08:34](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=514.24s)]
+*  mind for voters. Here's what President Trump said on ABC when he was asked if his tariffs will raise [[00:08:41](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=521.92s)]
+*  prices and make this worse. Hard times? Hard times are ahead? I don't think so. I think great [[00:08:48](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=528.4s)]
+*  times are ahead. Look, since I came in, gasoline is down, groceries are down, egg prices are down, [[00:08:55](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=535.6800000000001s)]
+*  many things are down, just about everything. Quick fact check here. Since Trump took office, [[00:09:03](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=543.2s)]
+*  gas prices, grocery prices, egg prices, look at this, they are all up. In fact, eggs are at a [[00:09:10](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=550.8s)]
+*  record high for the consumer. Susan, we have seen this over and over again with Trump as a candidate, [[00:09:16](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=556.72s)]
+*  as president before, as president now, where he says the same thing over and over and over again [[00:09:23](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=563.04s)]
+*  repeatedly, in effect, trying to get his supporters to believe it's true that it is now their reality. [[00:09:27](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=567.12s)]
+*  Do you see it working this time? I don't. And here's one reason why. Because now Americans are [[00:09:35](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=575.2s)]
+*  going to the supermarket and they're putting their groceries on credit card. They are accumulating [[00:09:40](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=580.32s)]
+*  credit card debt, which will cost them more because they can't afford the groceries at the [[00:09:45](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=585.28s)]
+*  store. So people know what the prices are. They can't escape the reality. You can't escape that reality. [[00:09:51](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=591.44s)]
+*  Perhaps, I'm not of this camp, but there is a camp that said that Trump's tariff plans could work out, [[00:09:57](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=597.12s)]
+*  but it's a five to 10-year proposition. Now, China can hold on maybe for five to 10 years because they [[00:10:04](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=604.32s)]
+*  don't care about what they do to their public and the public can't rise up. Americans are not going [[00:10:10](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=610.08s)]
+*  to tolerate that for five or 10 months. And none of this is addressing the cost of college, student [[00:10:15](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=615.04s)]
+*  loan debt, the cost of daycare, the cost of housing. I mean, there are some really big pain [[00:10:19](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=619.6800000000001s)]
+*  points for households right now that when we were covering this election and the run up to [[00:10:24](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=624.64s)]
+*  this election, that's what people really cared about. And I feel like the grocery bill was the [[00:10:29](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=629.04s)]
+*  thing that was kind of like, and our grocery bills hire on top of all these other things that are [[00:10:34](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=634.0s)]
+*  still these problems, this sort of undoing of globalization and decoupling from China, [[00:10:38](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=638.56s)]
+*  not addressing in the near term, at least any of these other issues that really worried American [[00:10:43](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=643.92s)]
+*  voters. [[00:10:48](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=648.0s)]
+*  you [[00:10:54](https://www.youtube.com/watch?v=jr4RIUjqLbQ&t=654.64s)]
