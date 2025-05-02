@@ -1,0 +1,91 @@
+---
+Date Generated: May 02, 2025
+Transcription Model: whisper medium 20231117
+Length: 433s
+Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
+Video Views: 6073
+Video Rating: None
+Video Description: Support our work: https://democracynow.org/donate/sm-desc-yt
+
+A ship carrying humanitarian aid for the Gaza Strip sent out a distress signal overnight after it was bombed by drones in international waters near Malta. The Freedom Flotilla Coalition, the organizer of the voyage, is blaming Israel for the attack, which set the ship on fire, punched a substantial breach in its hull and cut off communication with those aboard. “We are dealing with a brutal attack on an innocent ship,” retired U.S. Army Colonel Ann Wright, who was in Malta waiting to board the flotilla, tells Democracy Now! “While we cannot yet identify the source of the drones, there is no doubt in my mind that there is a history of violence that has been directed toward the flotillas from the state of Israel.” The climate activist Greta Thunberg was also set to join the flotilla and said in an online video that activists would “continue to do everything in our power to do our part to demand a free Palestine and demand the opening of a humanitarian corridor.”
+
+Democracy Now! is an independent global news hour that airs on over 1,500 TV and radio stations Monday through Friday. Watch our livestream at democracynow.org Mondays to Fridays 8-9 a.m. ET.
+
+Subscribe to our Daily Email Digest: https://democracynow.org/subscribe
+---
+
+# Gaza Aid Flotilla Attacked by Drones in International Waters; Organizers Blame Israel
+**Democracy Now Headlines:** [May 02, 2025](https://www.youtube.com/watch?v=V3wgUbUOSCw)
+*  This is Democracy Now!, democracynow.org, The War and Peace Report. [[00:00:00](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=0.0s)]
+*  I'm Nermeen Shaikh in New York with Amy Goodman in Baltimore. [[00:00:03](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=3.84s)]
+*  Hi, Amy. [[00:00:07](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=7.44s)]
+*  AMY GOODMAN, The War and Peace Report, New York, July 1, 2019 [[00:00:08](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=8.44s)]
+*  Hi, Nermeen. [[00:00:09](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=9.44s)]
+*  And welcome to all our listeners, readers and viewers around the country and around [[00:00:11](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=11.4s)]
+*  the world. [[00:00:17](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=17.400000000000002s)]
+*  I'm here in Baltimore, where thousands are attending the national meeting of Jewish Voice [[00:00:18](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=18.400000000000002s)]
+*  for Peace. [[00:00:23](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=23.88s)]
+*  Last night, among those who spoke, was the Detroit congressmember Rashida Tlaib, the [[00:00:25](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=25.439999999999998s)]
+*  only Palestinian American congressmember, and also the civil rights legend Angela Davis, [[00:00:32](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=32.519999999999996s)]
+*  who will be joining us live on the broadcast later. [[00:00:39](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=39.96s)]
+*  In the Mediterranean, a ship carrying humanitarian aid for Gaza sent out a distress signal overnight [[00:00:44](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=44.599999999999994s)]
+*  after it was bombed by drones in international waters near Malta. [[00:00:49](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=49.92s)]
+*  The Freedom Flotilla Coalition, which organized the voyage, is blaming Israel for the attack, [[00:00:53](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=53.8s)]
+*  which set the ship on fire, punched a substantial breach in the hull and cut off communication [[00:00:58](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=58.28s)]
+*  with those aboard. [[00:01:03](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=63.44s)]
+*  The Maltese government said 12 crew members and four civilians were confirmed safe after [[00:01:05](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=65.12s)]
+*  a nearby tug helped put out the flames. [[00:01:10](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=70.0s)]
+*  Dozens of international activists were preparing to board the boat and head to Gaza. [[00:01:13](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=73.36s)]
+*  Just before the broadcast, Democracy Now! reached retired U.S. Colonel and former State [[00:01:17](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=77.7s)]
+*  Department official Anne Wright, who was in Malta waiting to board the flotilla. [[00:01:21](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=81.92s)]
+*  My name is Anne Wright, retired Army Colonel, former U.S. diplomat, and I'm here in Malta [[00:01:27](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=87.44s)]
+*  with the Gaza Freedom Flotilla. [[00:01:34](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=94.11999999999999s)]
+*  And this morning, early, just after midnight, two drones struck our Gaza Freedom ship called [[00:01:36](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=96.44s)]
+*  the Conscience that was in international waters off Malta. [[00:01:44](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=104.32s)]
+*  And if you remember, we've been sending ships to challenge the Israeli illegal naval blockade [[00:01:48](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=108.48s)]
+*  of Gaza since 2008. [[00:01:54](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=114.96s)]
+*  And actually, 15 years ago in 2010 was when the Marvy Marmara was attacked by the Israelis [[00:01:57](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=117.67999999999999s)]
+*  and 10 people killed and 50 wounded. [[00:02:05](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=125.4s)]
+*  I was on one of the smaller boats that were part of that flotilla. [[00:02:08](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=128.4s)]
+*  And since then, we've sent over 35 boats to challenge the Israeli blockade of Gaza. [[00:02:11](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=131.76s)]
+*  And now our flotilla is challenging not only that blockade that has kept all of the food [[00:02:17](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=137.84s)]
+*  and water and everything out of Gaza now for almost a month and a half on the genocide [[00:02:24](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=144.32000000000002s)]
+*  that the U.S. is complicit of, the Israeli genocide of at least 55, 60,000 Palestinians [[00:02:31](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=151.76000000000002s)]
+*  in Gaza and then the ethnic cleansing of the West Bank. [[00:02:38](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=158.88000000000002s)]
+*  But right here, we are in Malta dealing with a brutal attack on an innocent ship, a ship [[00:02:42](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=162.72s)]
+*  that was at anchor or outside in territorial waters, waiting for us, the activists, to [[00:02:51](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=171.52s)]
+*  come on board so that we could then head toward Gaza to say to the world that here are some [[00:02:56](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=176.92000000000002s)]
+*  citizens that are willing to take action, where our governments fail to act, we the [[00:03:03](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=183.68s)]
+*  citizens are trying to act to bring international attention to what is happening to the Palestinians [[00:03:08](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=188.24s)]
+*  in Gaza and the West Bank and to be attacked by two drones that cause massive damage to [[00:03:14](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=194.96s)]
+*  our ship called the Conscience to see that while we cannot yet identify the source of [[00:03:21](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=201.84s)]
+*  the drones, there is no doubt in my mind that there is a history of violence that has been [[00:03:30](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=210.84s)]
+*  directed toward the flotillas from the state of Israel and probably the complicity of the [[00:03:38](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=218.64000000000001s)]
+*  United States in it and probably part of NATO too. [[00:03:44](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=224.32s)]
+*  So we are here to stand up for the people of Gaza, for the people of the West Bank as [[00:03:47](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=227.96s)]
+*  international humanitarians and human rights defenders when we see a genocide going on [[00:03:52](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=232.88s)]
+*  in Gaza. We have people from 22 nations. We've got young and old and we've got people of note. [[00:04:00](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=240.28s)]
+*  We have Yvonne Redley, who's one of the great authors. We have a very young person, Greta [[00:04:09](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=249.24s)]
+*  Thunberg, and two of her friends from Sweden who have been doing Palestine solidarity work in Sweden [[00:04:14](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=254.68s)]
+*  and wanted to be a part of this. So we have the very young and we have the older folks too. [[00:04:20](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=260.84s)]
+*  We have people that are from the global South, from Argentina, from Chile, from Venezuela, [[00:04:27](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=267.96s)]
+*  from Colombia, from Brazil. We have people that are all over Europe, all over North America. [[00:04:34](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=274.28s)]
+*  So it's a good crew that we have here. Our Malaysian contingent has been here and we've got [[00:04:42](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=282.12s)]
+*  great heart and great spirit for the people of Palestine, which is the focus of these flotillas [[00:04:50](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=290.6s)]
+*  to bring attention to the illegal criminal acts that the state of Israel is doing on Palestine. [[00:04:57](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=297.08s)]
+*  That was retired U.S. Colonel Anne Wright speaking in Malta about the Gaza aid flotilla [[00:05:05](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=305.08s)]
+*  that was just attacked by drones last night. The Swedish activist Greta Thunberg, [[00:05:13](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=313.4s)]
+*  who she mentioned, also was preparing to join that flotilla in Malta. [[00:05:20](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=320.76s)]
+*  For two months now, not a single bottle of water has entered Gaza and it's a systematic [[00:05:27](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=327.08s)]
+*  starvation of two million people and Palestinians have been resisting the [[00:05:34](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=334.52s)]
+*  unimaginable oppression for decades. And the silence and the passivity, [[00:05:44](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=344.03999999999996s)]
+*  largely from the outside world, is completely deadly and we all have a moral responsibility [[00:05:50](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=350.04s)]
+*  to act against that and to do our part to demand accountability for war criminals and [[00:05:57](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=357.56s)]
+*  and our own government's complicity in this genocide and illegal occupation and siege. [[00:06:04](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=364.92s)]
+*  The ship is currently still, as far as I know, at the location where it was attacked [[00:06:12](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=372.44s)]
+*  because if it would move too much water would come in and it would sink. So that is where we [[00:06:21](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=381.64s)]
+*  are right now. What happens now is uncertain, but what is certain is that us human rights [[00:06:29](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=389.40000000000003s)]
+*  activists will continue to do everything in our power to do our part to demand a free Palestine [[00:06:37](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=397.96s)]
+*  and demand the opening of a humanitarian corridor the coming days and the coming months and years. [[00:06:48](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=408.03999999999996s)]
+*  That was Swedish activist Greta Thunberg speaking in Malta where she was preparing to join the Gaza [[00:06:58](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=418.2s)]
+*  Freedom Flotilla which was attacked by drones last night. [[00:07:02](https://www.youtube.com/watch?v=V3wgUbUOSCw&t=422.76s)]

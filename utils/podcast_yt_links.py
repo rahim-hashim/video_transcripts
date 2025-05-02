@@ -64,6 +64,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLYa964dzJh1J545AyFlLepb2Prert15te': 'The Tucker Carlson Show',
   'https://www.youtube.com/playlist?list=PLq24DlPvfmfpToRu177SwhggAiI8J3dh_': 'Piers Morgan - Israel Palestine',
   'https://www.youtube.com/playlist?list=PLq24DlPvfmfrmuUKXe1yXhiwPhU7TP8Yx': 'Piers Morgan - Big Debates',
+  'https://www.youtube.com/playlist?list=PLxQKTUDVHEbSTt5cXhMZtWl5tyR7H5ofT': 'The Megyn Kelly Show',
   'https://www.youtube.com/playlist?list=PL4THPMjF2nCKloPNv7HI-xKRdmH0o_iS1': 'Council on Foreign Relations - The World Next Week',
   'https://www.youtube.com/playlist?list=PL-FNnyGuM4IwUeIltpVHnNQHN6azeVUrN': 'Tarek Masoud - Middle East Dialogue',
   'https://www.youtube.com/playlist?list=PLY155lJX6_wcTzyjW2sGB4sTT5ZkivwnN': 'Theo Von - This Past Weekend',

@@ -1,0 +1,150 @@
+---
+Date Generated: May 02, 2025
+Transcription Model: whisper medium 20231117
+Length: 557s
+Video Keywords: ['José Díaz-Balart']
+Video Views: 9634
+Video Rating: None
+Video Description: President Trump removed Mike Waltz as National Security Adviser and nominated him to be the U.S. Ambassador to the United Nations. NBC News’ Vaughn Hillyard reports more details about Waltz’s potential replacements. Former Rep. Carlos Curbelo and retired Gen. Barry McCaffrey join José Díaz-Balart to share their reactions to the change.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #MikeWaltz #Politics
+---
+
+# ‘Bizarre situation’: Trump removes Waltz as National Security Adviser, nominates him for U.N. Amb.
+**MSNBC - The Latest:** [May 02, 2025](https://www.youtube.com/watch?v=UZHUnkK_KdU)
+*  With us now, NBC News White House correspondent Vaughn Hilliard, MSNBC military analyst, retired [[00:00:00](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=0.0s)]
+*  general Barry McCaffrey, and former Florida Congressman Carlos Curbelo, who is also an [[00:00:05](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=5.78s)]
+*  MSNBC political analyst. [[00:00:09](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=9.6s)]
+*  So Vaughn, what do we know on what made the president decide to do this now? [[00:00:11](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=11.28s)]
+*  Well, we have heard far from a full throat a defense of Michael Waltz, his national security [[00:00:17](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=17.48s)]
+*  advisor over the last weeks since the initial Signalgate debacle took place. [[00:00:23](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=23.44s)]
+*  And we saw in images during his cabinet meeting just 48 hours ago inside of the White House, [[00:00:29](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=29.08s)]
+*  Mike Waltz using Signal to communicate with Tulsi Gabbard, Vice President Vance. [[00:00:35](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=35.64s)]
+*  And we know that Michael Waltz was somebody who was always perceived quite skeptically [[00:00:42](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=42.16s)]
+*  by some more MAGA anti-interventionist foreign policy allies of the president, not only during [[00:00:48](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=48.239999999999995s)]
+*  the 2024 campaign, but during the transition. [[00:00:55](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=55.4s)]
+*  But we saw the former Green Beret and the former Florida Congressman Mike Waltz continually [[00:00:58](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=58.16s)]
+*  hit the road with the president and ultimately earn his confidence. [[00:01:03](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=63.36s)]
+*  But just over three months in, losing his job notably during the first Trump administration, [[00:01:07](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=67.92s)]
+*  Jose, he went through four national security advisors. [[00:01:12](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=72.96s)]
+*  And in fact, this go around, he's lasting longer than his first one back in 2017, Michael [[00:01:16](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=76.36s)]
+*  Flynn, who only lasted three weeks. [[00:01:21](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=81.06s)]
+*  But that said, this does not appear to be an outsized firing per se, but he has been [[00:01:22](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=82.8s)]
+*  promoted in the words of J.D. Vance, given a what will be Senate confirmed position to [[00:01:28](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=88.0s)]
+*  be the ambassador to the United Nations. [[00:01:33](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=93.0s)]
+*  And so, Carlos, do you see this as a promotion? [[00:01:36](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=96.44s)]
+*  I mean, the fact that Waltz stepped aside from his congressional seat in Florida, so [[00:01:38](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=98.84s)]
+*  many things. [[00:01:45](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=105.36s)]
+*  How do you see this? [[00:01:46](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=106.96s)]
+*  Jose, at best, this is a lateral move. [[00:01:47](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=107.96s)]
+*  Look, any time you're getting kicked out of the West Wing, you're going from a place [[00:01:50](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=110.6s)]
+*  where you're making policy in the West Wing, that's what they do, to somewhere where you're [[00:01:55](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=115.16s)]
+*  implementing policy. [[00:02:00](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=120.0s)]
+*  So this is an important role, UN ambassador. [[00:02:01](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=121.36s)]
+*  I mean, this is not necessarily a demotion, but certainly Mike Waltz will now be more [[00:02:03](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=123.44s)]
+*  removed from the center of power in this administration and he won't be making policy. [[00:02:09](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=129.2s)]
+*  He will be implementing the policies made by the president, Marco Rubio and others. [[00:02:14](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=134.56s)]
+*  And I guess he could use the Signal app a lot easier. [[00:02:20](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=140.0s)]
+*  Less scrutiny, for sure. [[00:02:24](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=144.84s)]
+*  Less scrutiny. [[00:02:25](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=145.84s)]
+*  General McAfee, President Biden's National Security Advisor, Jake Sullivan, reacted to [[00:02:26](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=146.84s)]
+*  the news this morning. [[00:02:30](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=150.44s)]
+*  Here's part of what he said. [[00:02:31](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=151.44s)]
+*  We have a very competitive world out there and we need a full team on the field. [[00:02:32](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=152.44s)]
+*  So we need somebody in that National Security Advisor job, frankly, who has the trust of [[00:02:37](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=157.92000000000002s)]
+*  the president, but also who can step up and deal with this array of challenges. [[00:02:42](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=162.96s)]
+*  General, what's the time, the focus, the study commitment for a National Security Advisor [[00:02:48](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=168.92000000000002s)]
+*  to the president? [[00:02:54](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=174.96s)]
+*  Well, look, Jose, I've been to dozens and dozens of national security meetings, either [[00:02:57](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=177.6s)]
+*  as the principal or as a backup to the chairman of the JCS. [[00:03:02](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=182.12s)]
+*  The coordination of the NFC by the actual senior advisor and his deputy is vitally important. [[00:03:07](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=187.72s)]
+*  It's not just when the secretary of defense and state and treasury are in the room. [[00:03:15](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=195.96s)]
+*  It's when the three stars and their equivalent and the various departments of government [[00:03:21](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=201.44s)]
+*  come together to hash out the hundred or more vital national security concerns, foreign [[00:03:26](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=206.64000000000001s)]
+*  policy, that are facing us on any given day or week. [[00:03:33](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=213.32s)]
+*  So this is a bizarre situation. [[00:03:38](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=218.64000000000001s)]
+*  Trump basically conducts all foreign policy by whim himself. [[00:03:40](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=220.92s)]
+*  He's got separate envoys to Russia, to North Korea, to Ukraine. [[00:03:47](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=227.2s)]
+*  So it's an odd situation. [[00:03:52](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=232.67999999999998s)]
+*  And certainly sending the U.N. [[00:03:55](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=235.0s)]
+*  ambassador as somebody you fired in the White House is also an unusual signal. [[00:03:57](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=237.72s)]
+*  Yeah, General Marco Rubio apparently now has four jobs. [[00:04:04](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=244.48s)]
+*  Secretary of State, the acting National Security Advisor, acting administrator of USAID and [[00:04:09](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=249.72s)]
+*  also in charge of the archives of the United States. [[00:04:16](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=256.2s)]
+*  What are some of the major challenges Secretary Rubio could face doing all of these jobs? [[00:04:19](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=259.0s)]
+*  Well, it's not doable. [[00:04:23](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=263.88s)]
+*  I mean, look, you have an NFC meeting. [[00:04:26](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=266.68s)]
+*  Somebody's got to chair the meeting. [[00:04:29](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=269.68s)]
+*  The Secretary of State is the guy and then gets on a plane and goes to Japan that afternoon. [[00:04:31](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=271.08000000000004s)]
+*  There's simply no way to pull together a whole of government effort. [[00:04:37](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=277.96000000000004s)]
+*  And by the way, Mike Walsh had a terrific reputation. [[00:04:42](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=282.56s)]
+*  He was a genuine combat, decorated for valor, special forces colonel, congressman, successful [[00:04:47](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=287.04s)]
+*  businessman who's actually quite good up until the moment where he embarrassed Trump. [[00:04:55](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=295.56s)]
+*  And by the way, I think this entire Trump government has zero attention to operational [[00:05:03](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=303.0s)]
+*  security, the nation's most precious secrets. [[00:05:09](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=309.28000000000003s)]
+*  So somebody had to go and they pay. [[00:05:12](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=312.96s)]
+*  Yeah, I mean, the fact that these operational secrets and, you know, I guess basic 101 [[00:05:16](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=316.28s)]
+*  operational secrets handling general, the fact that Walsh, although he didn't create [[00:05:21](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=321.28s)]
+*  that signal chat, he was a part of it. [[00:05:27](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=327.88s)]
+*  And now we see as long as telling us that just 48 hours ago in the cabinet meeting, [[00:05:31](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=331.84s)]
+*  he was in the White House cabinet room, you know, using that that signal app. [[00:05:36](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=336.44s)]
+*  And it looks as though he's having conversations who knows what about but with Secretary State [[00:05:44](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=344.28s)]
+*  Rubio, with with Gabbard, with with the vice president. [[00:05:48](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=348.92s)]
+*  I mean, what do you see as the just concerns about that basic part? [[00:05:52](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=352.44s)]
+*  Well, I think it's government is such a good deal for foreign intelligence operations [[00:06:00](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=360.12s)]
+*  beyond belief. There's no question they were using signal across government. [[00:06:04](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=364.28s)]
+*  There weren't just two conversations without question. [[00:06:09](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=369.52s)]
+*  And the biggest offender, by the way, is the secretary of defense, who has in his office [[00:06:13](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=373.32s)]
+*  a secured skiff area, has his personal computer, a separate dirty line, and he's using [[00:06:17](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=377.88s)]
+*  his cell phone, which is widely known that the SEC has telephone number all over the [[00:06:25](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=385.8s)]
+*  world. So they're they're treating this thing in a cavalier manner. [[00:06:30](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=390.92s)]
+*  You know, if you can listen to the innermost secrets of an administration, your ability [[00:06:37](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=397.4s)]
+*  to negotiate, to make plans is transparent. [[00:06:43](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=403.64s)]
+*  It's an outrageous situation. [[00:06:47](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=407.71999999999997s)]
+*  But the biggest offender was the secretary of defense, not the NSA. [[00:06:49](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=409.8s)]
+*  And neither. [[00:06:54](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=414.28s)]
+*  Yeah, I mean, God, Mike Waltz could face a brutal Senate confirmation process. [[00:06:56](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=416.32s)]
+*  Why put him up for a Senate confirmed position, you think? [[00:07:00](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=420.76s)]
+*  Yeah, also, I think after a controversy of the nature that Mike Waltz just went through [[00:07:03](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=423.56s)]
+*  to have to go and face United States Senator now, that is going to be a tall task. [[00:07:09](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=429.32000000000005s)]
+*  Some people say, well, they tried to make this elegant. [[00:07:14](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=434.20000000000005s)]
+*  Well, sure, they did not fire Mike Waltz. [[00:07:17](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=437.16s)]
+*  They moved him to a different position, but they set him up for some very difficult [[00:07:19](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=439.64000000000004s)]
+*  hearings in the United States Senate. [[00:07:25](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=445.72s)]
+*  So that's going to be a big challenge for him. [[00:07:27](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=447.56s)]
+*  And by the way, I don't think we should just assume that he is going to be confirmed. [[00:07:29](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=449.12s)]
+*  And Vaughn, is there a list or an understanding of some of the people the president is [[00:07:34](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=454.0s)]
+*  considering to fill that role permanently? [[00:07:38](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=458.36s)]
+*  Right. Well, potentially Marco Rubio could stay in this capacity for a period of time. [[00:07:41](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=461.24s)]
+*  But also you would have to look at Steve Witkoff, somebody that the president is keenly [[00:07:46](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=466.2s)]
+*  trusting of, somebody who does not have national security experience, to be clear. [[00:07:52](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=472.04s)]
+*  But somebody I was talking with, a diplomat from a Middle Eastern country here. [[00:07:57](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=477.08000000000004s)]
+*  And the way that they told me was if they know if they want to get the ear of the [[00:08:01](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=481.56s)]
+*  president of the United States, they go to Suzy Wiles or Steve Witkoff. [[00:08:05](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=485.0s)]
+*  It wasn't Marco Rubio or Michael Waltz, but it's Steve Witkoff. [[00:08:09](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=489.72s)]
+*  And that goes a long ways inside of a White House that is run by Donald Trump. [[00:08:13](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=493.56s)]
+*  But also you're looking at Rick Grinnell, who is the one time acting director of [[00:08:18](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=498.36s)]
+*  national intelligence in the first Trump administration, former ambassador to Germany, [[00:08:22](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=502.12s)]
+*  somebody who is a special envoy for different interest matters that arise to the level of [[00:08:26](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=506.28s)]
+*  interest from the president, including, for example, getting some hostages out of Venezuela [[00:08:33](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=513.0s)]
+*  that he was engaged in. He's a much more brash figure. He's somebody that's close to Cash [[00:08:38](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=518.04s)]
+*  Patel. Of course, Lee Stefanik at a point in time in which the House is more comfortable with the [[00:08:41](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=521.96s)]
+*  Republican majority. She is now just down the hill. She is no longer the nominee to be a UN [[00:08:46](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=526.28s)]
+*  ambassador. So she could potentially be tapped for that role. So there are a lot of different [[00:08:51](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=531.56s)]
+*  directions that the president could go. [[00:08:55](https://www.youtube.com/watch?v=UZHUnkK_KdU&t=535.8s)]
