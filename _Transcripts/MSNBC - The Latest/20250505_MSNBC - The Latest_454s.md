@@ -1,0 +1,152 @@
+---
+Date Generated: May 06, 2025
+Transcription Model: whisper medium 20231117
+Length: 454s
+Video Keywords: ['Nicolle Wallace']
+Video Views: 1236761
+Video Rating: None
+Video Description: Mario Cordero, CEO of the Port of Long Beach joins Nicolle Wallace on Deadline White House to discuss the impact that tariff policy initiated by Donald Trump have had on imports to his port which is one of the largest container ports in the United States and the impact that it will have on jobs that depend on an active flow of shipping and the price increases it will have on all American consumers. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#trump #tariffs #china
+---
+
+# ‘The first dire signs of trouble are here’: American imports from China plunge due to Trump’s tariff
+**MSNBC - The Latest:** [May 05, 2025](https://www.youtube.com/watch?v=5ay77fNTRDQ)
+*  I'm guessing it's how Wiley Coyote felt, having vaulted over the cliff edge, suspended in [[00:00:00](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=0.0s)]
+*  midair, aware of what was about to happen, but unable to stop it from happening. [[00:00:06](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=6.1000000000000005s)]
+*  This afternoon, the American economy, like our friend Mr. Coyote, is in that spot, in [[00:00:11](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=11.94s)]
+*  stasis, hovering before a likely plunge. [[00:00:17](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=17.7s)]
+*  How far or how fast will fall is a matter of some debate. [[00:00:20](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=20.56s)]
+*  The people involved in shipping, imports and supply chain planning and economics are making [[00:00:24](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=24.56s)]
+*  themselves very loud and very clear today that the first dire signs of trouble are already [[00:00:30](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=30.419999999999998s)]
+*  here. [[00:00:35](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=35.8s)]
+*  Consider the sheer drop in volume among imports this afternoon, stuff coming into our country. [[00:00:36](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=36.8s)]
+*  Jean Soroka, executive director of the Port of Los Angeles, suggesting arrivals could [[00:00:43](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=43.0s)]
+*  drop by 35% this week or next, as shipments out of China have, quote, essentially ceased. [[00:00:47](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=47.96s)]
+*  Beyond the effect this will inevitably have on the price and availability of lots of things, [[00:00:55](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=55.160000000000004s)]
+*  there are downstream effects on the entire economy as well. [[00:01:00](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=60.96s)]
+*  Watch. [[00:01:04](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=64.52s)]
+*  How much are you going to see a real decline in dock workers if this goes on? [[00:01:05](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=65.52s)]
+*  Yeah, this is the question. [[00:01:11](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=71.4s)]
+*  So the trucker hauling four or five containers today. [[00:01:12](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=72.44s)]
+*  She probably hauls two or three. [[00:01:15](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=75.72s)]
+*  The dock workers are no longer going to see overtime and double shifts. [[00:01:17](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=77.96000000000001s)]
+*  They're going to probably work less than a traditional work week, starting right off [[00:01:21](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=81.48s)]
+*  the bat. [[00:01:25](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=85.16s)]
+*  Every four containers need a job. [[00:01:26](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=86.52000000000001s)]
+*  So when we start dialing this back, it's less job opportunities. [[00:01:28](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=88.2s)]
+*  And what happens if we get a deal? [[00:01:31](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=91.68s)]
+*  If we get a deal, it's going to take about a month. [[00:01:33](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=93.52000000000001s)]
+*  Let me walk you through that real quick. [[00:01:35](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=95.68s)]
+*  About two weeks to get the ships repositioned around these major ports, from Qingdao to [[00:01:37](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=97.56s)]
+*  Shanghai to Xiamen, load up all those containers and then another two weeks to steam across [[00:01:42](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=102.4s)]
+*  the Pacific to get to us. [[00:01:47](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=107.52000000000001s)]
+*  This is important because now we're talking about spring and summer fashion. [[00:01:49](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=109.68s)]
+*  So we're kind of at a crux here that we've got to have something pretty quick. [[00:01:53](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=113.08000000000001s)]
+*  This is where we are. [[00:01:58](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=118.28s)]
+*  And as the American people prepare for that scenario, best case scenario, if we have a [[00:01:59](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=119.28s)]
+*  deal right now is a month. [[00:02:03](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=123.2s)]
+*  Donald Trump's approach appears to be, what are you complaining about? [[00:02:06](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=126.12s)]
+*  No big deal. [[00:02:09](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=129.6s)]
+*  He said so much in an interview with our colleague Kristen Walker on Meet the Press, [[00:02:10](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=130.72s)]
+*  where Trump dismissed a number of concerns. [[00:02:15](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=135.52s)]
+*  Some prices are going up. [[00:02:19](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=139.76s)]
+*  Tires, strollers, some clothing in the wake of your tariffs. [[00:02:21](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=141.28s)]
+*  That's peanuts compared to energy. [[00:02:25](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=145.56s)]
+*  Energy is 60 percent of the cost. [[00:02:28](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=148.3s)]
+*  But sir, you campaigned on a promise to bring prices down on day one. [[00:02:30](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=150.92s)]
+*  Well I don't know when you say strollers are going up. [[00:02:35](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=155.68s)]
+*  What kind of a thing? [[00:02:38](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=158.6s)]
+*  I'm saying that gasoline is going down. [[00:02:39](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=159.68s)]
+*  Gasoline is thousands of times more important than a stroller someplace. [[00:02:42](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=162.23999999999998s)]
+*  But what do you say to Americans who say they voted for you because they want and they need [[00:02:46](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=166.07999999999998s)]
+*  relief right now? [[00:02:50](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=170.34s)]
+*  And they're getting it. [[00:02:51](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=171.72s)]
+*  Right now? [[00:02:53](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=173.0s)]
+*  What about those different items I just mentioned? [[00:02:54](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=174.0s)]
+*  Mortgage rates are going down despite the fact that we have a stubborn Fed. [[00:02:56](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=176.79999999999998s)]
+*  You said dolls, even dolls could cost a couple bucks more. [[00:03:00](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=180.0s)]
+*  Maybe they might, but you don't need to have, as I said, 35 dolls. [[00:03:02](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=182.68s)]
+*  You can have two, three, four and save a lot of money. [[00:03:06](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=186.9s)]
+*  We don't need to feed the beast. [[00:03:10](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=190.20000000000002s)]
+*  I guess you're talking about this transition cost. [[00:03:12](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=192.18s)]
+*  How long should people expect that transition to last, Mr. President? [[00:03:14](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=194.98000000000002s)]
+*  I can't tell you that. [[00:03:19](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=199.1s)]
+*  I can tell you that we're making a lot of money. [[00:03:20](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=200.18s)]
+*  We're doing great. [[00:03:23](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=203.02s)]
+*  Donald Trump's war on toddlers, especially those who want dolls and strollers, continues. [[00:03:24](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=204.02s)]
+*  It's where we start today. [[00:03:30](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=210.22s)]
+*  Joining us now is the CEO of the Port of Long Beach, Mario Cordero. [[00:03:31](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=211.66s)]
+*  Also joining us, former Democratic Senator, MSNBC political analyst Claire McCaskill. [[00:03:36](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=216.07999999999998s)]
+*  And with me at the table, New York Times editorial board member, MSNBC political analyst, Marge. [[00:03:41](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=221.2s)]
+*  Mario, if you could just take me through. [[00:03:46](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=226.64s)]
+*  I'm from California. [[00:03:48](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=228.95999999999998s)]
+*  I was born in Newport Beach. [[00:03:49](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=229.95999999999998s)]
+*  I'm familiar with Long Beach and how central to the whole country's economy your business [[00:03:50](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=230.95999999999998s)]
+*  is. [[00:03:57](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=237.92s)]
+*  But just tell the story of what happens there and why it matters. [[00:03:58](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=238.92s)]
+*  Well, thank you for having me. [[00:04:02](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=242.68s)]
+*  So, as you are aware, this is the largest container gateway in the United States. [[00:04:04](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=244.44s)]
+*  So whatever happens here is going to be a reflection on what happens to the country. [[00:04:09](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=249.72s)]
+*  So what is happening now, after Long Beach being the number one port and containerized [[00:04:14](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=254.26s)]
+*  cargo for the first quarter of 2025, we are looking to a 35 or even a 40 percent reduction. [[00:04:18](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=258.5s)]
+*  And let me give you a number to support that. [[00:04:25](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=265.8s)]
+*  This week, ordinarily, we would have expected 17 vessel calls. [[00:04:28](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=268.64s)]
+*  Right now, the number looks like three. [[00:04:32](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=272.78000000000003s)]
+*  So it's more than a 50 percent reduction. [[00:04:35](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=275.1s)]
+*  So we've seen the impact. [[00:04:37](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=277.58s)]
+*  We've seen the impact on Wall Street the last several weeks. [[00:04:39](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=279.06s)]
+*  Now we're going to start seeing the impact on Main Street. [[00:04:42](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=282.14s)]
+*  Will you be able to sort of have top of mind the sorts of numbers that Gene had, that truckers, [[00:04:45](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=285.5s)]
+*  dock workers, every four containers is a job? [[00:04:53](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=293.26s)]
+*  Are those numbers the same for you? [[00:04:57](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=297.38s)]
+*  That's correct. [[00:05:01](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=301.08s)]
+*  Less container volumes, less jobs for the dock workers, less truckers and overall in [[00:05:02](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=302.12s)]
+*  the logistics supply chain. [[00:05:07](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=307.32s)]
+*  And let me ask you the same question that he fielded there. [[00:05:09](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=309.32s)]
+*  If a deal were had this week, just talk about how quickly that means the economy would bounce [[00:05:11](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=311.59999999999997s)]
+*  back in terms of bringing things here, unloading them and putting them back onto store shelves [[00:05:20](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=320.24s)]
+*  for Americans. [[00:05:26](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=326.47999999999996s)]
+*  Well, we are in this globalized supply chain. [[00:05:27](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=327.47999999999996s)]
+*  So it's going to take a few weeks to bounce back. [[00:05:30](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=330.44s)]
+*  I mean, the good news is there appears to be a consultatory tones both with regard to [[00:05:33](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=333.04s)]
+*  Washington and Beijing. [[00:05:36](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=336.88s)]
+*  So for now, we are now seeing that imports are being held in China. [[00:05:39](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=339.52s)]
+*  Bookings are about almost a 50 percent reduction. [[00:05:44](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=344.96s)]
+*  So if you're an importer, you're not going to send your goods to the United States until [[00:05:47](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=347.76s)]
+*  you have some clarity and clarity on the tariffs. [[00:05:51](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=351.96s)]
+*  Because right now, if you're shipping goods from China, you're subject to a 145 percent [[00:05:55](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=355.42s)]
+*  tax. [[00:05:59](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=359.62s)]
+*  Now, we start seeing as of May 2nd, Friday, that if you ordered to an e-commerce company [[00:06:00](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=360.62s)]
+*  in China a pair of tennis shoes for about $175, the de minimis rule is no longer applicable. [[00:06:06](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=366.3s)]
+*  So that shoe now has gone up from $175 to approximately $350. [[00:06:13](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=373.42s)]
+*  That gives you the magnitude of the price increase that we're talking about. [[00:06:18](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=378.66s)]
+*  Let me just throw some more numbers out to you while we have you. [[00:06:23](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=383.7s)]
+*  So there were 34 canceled sailings from Ocean Carriers to Long Beach with another 36 cancellations [[00:06:27](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=387.5s)]
+*  heading into the Port of Los Angeles. [[00:06:35](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=395.06s)]
+*  Do these numbers, we have it here that they already exceed the supply chain crisis that [[00:06:37](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=397.62s)]
+*  you experienced during COVID? [[00:06:43](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=403.02s)]
+*  Absolutely. [[00:06:44](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=404.98s)]
+*  Between the two ports at this complex, we've had 70 canceled sailings, and that number [[00:06:45](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=405.98s)]
+*  exceeds the worst scenario in the COVID crisis. [[00:06:51](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=411.18s)]
+*  Do your goods make their way, you know, how far across the country? [[00:06:55](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=415.46s)]
+*  I mean, how many consumers are impacted by that drop off? [[00:06:59](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=419.41999999999996s)]
+*  The goods that come to the Port of Long Beach, every congressional district in the mainland [[00:07:04](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=424.09999999999997s)]
+*  receives some sort of goods and cargo from the Port of Long Beach, all the way east to [[00:07:08](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=428.46s)]
+*  Atlanta. [[00:07:13](https://www.youtube.com/watch?v=5ay77fNTRDQ&t=433.46s)]

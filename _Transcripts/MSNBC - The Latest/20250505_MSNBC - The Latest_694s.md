@@ -1,0 +1,152 @@
+---
+Date Generated: May 06, 2025
+Transcription Model: whisper medium 20231117
+Length: 694s
+Video Keywords: ['Alicia Menendez', 'Michael Steele', 'Symone Sanders-Townsend']
+Video Views: 56548
+Video Rating: None
+Video Description: Congressman Jamie Raskin joins The Weeknight to discuss Trump's remarks about due process. 
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#JamieRaskin #Trump #Constitution
+---
+
+# ‘Deliberate ignorance’: Raskin on Trump’s comments about upholding the Constitution, due process
+**MSNBC - The Latest:** [May 05, 2025](https://www.youtube.com/watch?v=NTsnxq7rIWE)
+*  Congressman Jamie Raskin of Maryland joins us now. He is the ranking member of the House Judiciary Committee. [[00:00:00](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=0.0s)]
+*  Congressman, thanks for being here. [[00:00:05](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=5.44s)]
+*  It's a pleasure to be here. [[00:00:06](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=6.640000000000001s)]
+*  So in the last hour we had a little civics lesson about the Constitution and in particular [[00:00:07](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=7.68s)]
+*  Donald Trump's lack of understanding about the Fifth Amendment and due process. [[00:00:16](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=16.56s)]
+*  So we, just as Alicia led us in with the words of the oath of office, [[00:00:21](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=21.36s)]
+*  we had a conversation about what those words in the Fifth Amendment say to those that we elect [[00:00:25](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=25.52s)]
+*  about their duties and their responsibility when it comes to a little thing called due process. [[00:00:34](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=34.16s)]
+*  You know a little bit about that as a constitutional lawyer. Help frame for us why does [[00:00:38](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=38.96s)]
+*  Donald Trump seemingly get away with a higher degree of ignorance about the Constitution to [[00:00:46](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=46.64s)]
+*  which he swore an oath not once but twice and sits there and looks a reporter in the eye and [[00:00:55](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=55.28s)]
+*  goes well I don't know if I have to follow the Constitution. Help Americans understand what we're [[00:01:02](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=62.32s)]
+*  seeing in that moment and why they should be concerned. [[00:01:08](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=68.72s)]
+*  Well I think it's deliberate ignorance. I think it's feigned ignorance because [[00:01:12](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=72.24s)]
+*  nobody knows due process better than Donald Trump. When he sat there in criminal trial in New York [[00:01:16](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=76.39999999999999s)]
+*  leading up to his 34 criminal felony convictions, he made sure he had the best lawyers in the [[00:01:21](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=81.91999999999999s)]
+*  country. He made sure he saw all the evidence against him. He decided whether or not to exercise [[00:01:27](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=87.83999999999999s)]
+*  his privilege against self-incrimination. He decided not to take the stand. He brought up [[00:01:32](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=92.88s)]
+*  all the evidence that they could on their side. He had a unanimous jury deciding. Unfortunately for [[00:01:37](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=97.52s)]
+*  him he lost but he knows exactly what due process is about. He just doesn't think it goes for [[00:01:43](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=103.03999999999999s)]
+*  everybody. Now in the immigration system it's not a full-blown criminal trial. It's just you have [[00:01:48](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=108.32s)]
+*  the right to hear the charges against you. You have the right to put evidence on. It's a different [[00:01:53](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=113.28s)]
+*  standard of proof. It's easier to deport somebody than it is to convict somebody but he understands [[00:01:58](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=118.16s)]
+*  the concept of due process. He knows that the tens of thousands of workers including thousands [[00:02:04](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=124.0s)]
+*  of my constituents who've been sacked from their jobs have not gotten one minute of due process [[00:02:08](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=128.56s)]
+*  from Doge and from Elon Musk. The whole point of being in the civil service is you're supposed to [[00:02:14](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=134.08s)]
+*  be judged on the merits of your own job performance but they just ran right over that and they said on [[00:02:18](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=138.72s)]
+*  February 14th the Valentine's Day massacre they're just going to fire, sack thousands of federal [[00:02:24](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=144.64s)]
+*  workers because they're on probation. They made it sound like that was something bad. They were on [[00:02:30](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=150.56s)]
+*  probation because most of them had been promoted and had done excellent work in their prior position [[00:02:34](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=154.64000000000001s)]
+*  and they were promoted or else they had just been hired. In any event the denial of due process is [[00:02:40](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=160.88s)]
+*  something that runs through everything they're doing and this is why Donald Trump he says he [[00:02:45](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=165.68s)]
+*  doesn't know whether or not he's got to comply with the constitution. Well he should know by now [[00:02:51](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=171.28s)]
+*  because more than a hundred courts have entered preliminary injunctions or temporary restraining [[00:02:55](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=175.52s)]
+*  orders against all of the lawlessness that they've unleashed on the people of America. [[00:03:00](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=180.4s)]
+*  I was reminded today that in in 2022 Donald Trump actually called for the termination of the [[00:03:05](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=185.04000000000002s)]
+*  constitution over the 2020 election results and was you know rebuked by some of the Republican Party [[00:03:10](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=190.08s)]
+*  other people dodged it but I guess it shouldn't have been a surprise that he said what he said [[00:03:17](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=197.76000000000002s)]
+*  to Kristen Welker and to others frankly since then about the constitution. Here's the rub here [[00:03:23](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=203.36s)]
+*  I guess as Michael Steele would say. The constitution is not a suggestion right you're a [[00:03:32](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=212.32000000000002s)]
+*  constitutional law expert. It is not a suggestion it is in fact the foundational document that [[00:03:38](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=218.8s)]
+*  governs how we operate as a country as a people to the point where without the 13th, 14th, 15th [[00:03:45](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=225.68s)]
+*  amendments in the constitution we wouldn't be sitting up in here you know without the 19th [[00:03:52](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=232.96s)]
+*  amendment there are things that the constitution as it has been amended it has allowed for and [[00:03:58](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=238.64000000000001s)]
+*  I think it should be really concerning to folks that the president of the United States [[00:04:06](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=246.88s)]
+*  doesn't seems to not believe in that. Is that accurate? He wants to treat it like some fancy [[00:04:11](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=251.76000000000002s)]
+*  words like it's the Declaration of Independence so that some high-minded ideals or it's a beautiful [[00:04:16](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=256.40000000000003s)]
+*  document. It's Emma Lazarus's poem on the Statue of Liberty where it's Walt Whitman's [[00:04:21](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=261.6s)]
+*  Leaves of Grass. No this is our operating manual as a country and to get high-minded about it would [[00:04:26](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=266.08000000000004s)]
+*  be just to say and it is the covenant that we all agree to because it has meaning you know if you [[00:04:32](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=272.56s)]
+*  look at our constitution it's gotten more democratic over time the vast majority of the [[00:04:38](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=278.56s)]
+*  amendments we've added since the original Bill of Rights are democratizing amendments like [[00:04:42](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=282.96000000000004s)]
+*  abolishing slavery, equal protection, no discrimination in voting, direct election of [[00:04:47](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=287.76s)]
+*  U.S. senators, 19th amendment women's suffrage, 23rd amendment people in D.C. can vote for [[00:04:54](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=294.88s)]
+*  president, 24th amendment ban on poll taxes and so on there's a direction to it but even if you [[00:05:01](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=301.2s)]
+*  don't believe in the dynamics of the constitution at least believe in the set of rules that are [[00:05:06](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=306.64s)]
+*  in it today and that includes due process, freedom of speech, equal protection, all those [[00:05:13](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=313.04s)]
+*  things that he wants to toss out the window. So we're in the middle of a constitutional crisis [[00:05:18](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=318.32000000000005s)]
+*  you have the president of the United States giving interviews where he says he doesn't know if it's [[00:05:22](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=322.08000000000004s)]
+*  his job to uphold the constitution meanwhile your colleagues house GOP judiciary members are sending [[00:05:25](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=325.44000000000005s)]
+*  a letter to the D.C. clerk asking for information related to judicial assignment process and why [[00:05:30](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=330.24s)]
+*  Boasberg was assigned for Trump cases why is this their priority? Because as usual they're [[00:05:35](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=335.52s)]
+*  attacking the messenger look Judge Boasberg is was appointed by President Bush to the bench he's the [[00:05:42](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=342.32s)]
+*  chief judge of the D.C. district court he's seen as a pillar of the conservative legal establishment [[00:05:49](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=349.36s)]
+*  he was Justice Kavanaugh's roommate back at Yale but it's not just him we've got lots of Republican [[00:05:54](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=354.88s)]
+*  appointees even Trump appointees who are striking down the actions of Doge and Elon Musk and [[00:06:01](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=361.52s)]
+*  striking down Donald Trump's executive orders the most there were four judges two Democratic [[00:06:08](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=368.15999999999997s)]
+*  appointees two Republican who struck down Donald Trump's attempt to repeal birthright citizenship [[00:06:13](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=373.35999999999996s)]
+*  in America the most eloquent one I thought came from a Reagan appointed judge who said I've sat [[00:06:19](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=379.76s)]
+*  on the bench for four decades and I've never seen anything more unconstitutional than this because [[00:06:25](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=385.12s)]
+*  it tries to overturn the first sentence of the 14th amendment which says all persons born or [[00:06:30](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=390.08s)]
+*  naturalized the United States and subject to the jurisdiction thereof are citizens of the United [[00:06:35](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=395.03999999999996s)]
+*  States even what we saw on Friday where you had a Trump appointed judge out of Texas saying you [[00:06:39](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=399.2s)]
+*  can't use the alien enemies act to deport people without due process the you know fascist and [[00:06:43](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=403.36s)]
+*  authoritarian leaders always love to step outside of the constitution and describe an emergency so [[00:06:49](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=409.28s)]
+*  he did that in that case in the alien enemies act 1798 and his own appointee said no you can't do [[00:06:54](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=414.64s)]
+*  that we're not at war with Venezuela if anybody's going to declare war in Venezuela it's Congress [[00:07:02](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=422.24s)]
+*  which is the power under article one to do it no we've not been invaded by Venezuela anybody [[00:07:07](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=427.12s)]
+*  can see that and therefore it doesn't apply so you use the regular immigration process which means [[00:07:12](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=432.64s)]
+*  due process right but he's done the same thing with the tariffs I mean it's Congress has the power [[00:07:17](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=437.52s)]
+*  to regulate international commerce not the president but he invoked a federal statute [[00:07:23](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=443.76s)]
+*  IEPA the international emergency economic powers act right for the first time he uses it for [[00:07:29](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=449.04s)]
+*  tariffs and he says there's an emergency and how do you know there's an emergency he said because [[00:07:34](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=454.88s)]
+*  this has been going on for four decades and nobody's done anything about it that doesn't [[00:07:38](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=458.48s)]
+*  sound much like an emergency to me that's the longest emergency history it's 40 years yeah so [[00:07:42](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=462.64s)]
+*  so you know you you said something that's very important I think because it it really kind of [[00:07:48](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=468.4s)]
+*  moves into the next area of the constitution that Donald Trump seemingly has wild abandon about [[00:07:53](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=473.36s)]
+*  when you talk about the fascist dictator kind of mindset to sort of step outside the constitution [[00:07:59](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=479.12s)]
+*  it goes to the heart of what both Simone and Vice President Pence in the in the clip we heard coming [[00:08:05](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=485.92s)]
+*  in said that the foundational aspects of that so Donald Trump was at a recent national day of prayer [[00:08:10](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=490.64s)]
+*  and he had this to say about that other little pesky thing in the constitution called separation [[00:08:18](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=498.8s)]
+*  of church and state let's take a quick listen to that little ditty they say separation between [[00:08:25](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=505.04s)]
+*  church and state they told me I said all right let's forget about that for one time we said [[00:08:31](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=511.28000000000003s)]
+*  really the separation I don't know is that a good thing or a bad thing I'm not sure [[00:08:37](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=517.2s)]
+*  but whether there's separation or not you guys are in the White House where you should be and [[00:08:41](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=521.76s)]
+*  you're representing our country and we're bringing religion back to our country I just I just I just [[00:08:47](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=527.36s)]
+*  like sometimes it's like to drop stuff in the middle of the table and anybody wants to feast on [[00:08:54](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=534.72s)]
+*  it I just want to note this is they said that they would do this yes this has been a movement I think [[00:08:59](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=539.28s)]
+*  I heard it was Vice President Harris I heard her say last week that when she addressed emerged part [[00:09:05](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=545.52s)]
+*  of her speech and I'm going to paraphrase but she noted that you have to remember that Donald Trump [[00:09:10](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=550.48s)]
+*  is a vessel for the chaos but a plan that has been actively trying to be worked for decades and he [[00:09:14](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=554.24s)]
+*  is just the vessel through which this plan is coming into fruition but what what what Donald [[00:09:20](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=560.88s)]
+*  Trump is talking about there is a nod to this institutionalization of Christian nationalism [[00:09:25](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=565.6s)]
+*  like in making putting the bibles in schools in Oklahoma putting the 10 commandments up that's [[00:09:33](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=573.76s)]
+*  what he's talking about well first of all just because you say you're and I love the Lord I want [[00:09:38](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=578.88s)]
+*  to preface it with that you know I love Jesus I grew up Baptist a and me now but come on we will [[00:09:43](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=583.04s)]
+*  all stipulate he said give to Caesar what is Caesar and give to God what is God he just wants to give [[00:09:47](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=587.4399999999999s)]
+*  to God well look just because you say you're going to do something unconstitutional campaign and I [[00:09:52](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=592.4s)]
+*  don't remember him saying that but in any event just because you say that doesn't make it [[00:09:58](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=598.88s)]
+*  constitutional I mean he was talking about in the campaign that oh well I'm going to have three terms [[00:10:02](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=602.64s)]
+*  or four terms or whatever that doesn't mean it's constitutional the job of the courts is to figure [[00:10:07](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=607.4399999999999s)]
+*  out what the constitution means not what somebody said during the campaign or not but in any event [[00:10:11](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=611.84s)]
+*  on this point there are too many people who are following him in this absolute constitutional [[00:10:17](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=617.36s)]
+*  nihilism I mean Louisiana and Texas have now voted to endorse the 10 commandments and to post the 10 [[00:10:24](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=624.5600000000001s)]
+*  commandments I had mega colleagues coming in and saying we should endorse the 10 commandments we [[00:10:30](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=630.96s)]
+*  should post the 10 commandments I said you know the the 10 commandments have been yeah and I said [[00:10:35](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=635.52s)]
+*  the 10 amendments have been doing fine for millennia without an endorsement by the U.S. House of Representatives [[00:10:41](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=641.6s)]
+*  so they they insist they want to throw it away I just tipped over my cup throw it away I get an African they said they wanted to vote on it I said you know what [[00:10:47](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=647.36s)]
+*  if we're going to vote on the 10 commandments in 2025 we should vote on each commandment separately [[00:10:55](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=655.12s)]
+*  not the omnibus package and they shouldn't and you shouldn't be allowed to vote for any commandment [[00:11:00](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=660.64s)]
+*  you've ever violated yourself because then you'll be taking the name of the Lord [[00:11:05](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=665.52s)]
+*  that's a whole different kind of bill now [[00:11:12](https://www.youtube.com/watch?v=NTsnxq7rIWE&t=672.16s)]

@@ -1,0 +1,183 @@
+---
+Date Generated: May 06, 2025
+Transcription Model: whisper medium 20231117
+Length: 593s
+Video Keywords: []
+Video Views: 42601
+Video Rating: None
+Video Description: Catch up on today’s top news stories, all in about 10 minutes. Listen every weekday morning, with insight and analysis from New York Times reporters all over the world.
+
+For more on this episode: https://www.nytimes.com/2025/05/05/podcasts/the-headlines/trump-business-chatbots-wrong-snakes.html
+
+What we're covering:
+A Trump Family Push for Profit on Three Continents Breaks Historical Norms (https://www.nytimes.com/2025/05/05/us/politics/eric-donald-jr-trump-family-deals.html) , by Eric Lipton and David Yaffe-Bellany
+
+Trump Says ‘I Don’t Know’ When Asked About Due Process and Upholding Constitution (https://www.nytimes.com/2025/05/04/us/politics/trump-meet-the-press-interview-due-process.html) , by Jonathan Swan
+
+Trump Says He Wants Alcatraz Restored as a Prison (https://www.nytimes.com/2025/05/04/us/politics/trump-alcatraz-prison.html) , by Devlin Barrett and Shawn Hubler
+
+Student Debt Collections Restart on May 5. Here’s What to Know (https://www.nytimes.com/2025/04/29/business/student-loans-collections.html) , by Tara Siegel Bernard
+
+As Gaza Siege Grinds On, Gazan Children Go Hungry and Patients Die (https://www.nytimes.com/2025/05/04/world/europe/israel-gaza-blockade-humanitarian-crisis.html) , by Erika Solomon and Rawan Sheikh Ahmad
+
+Sean Combs Jury to Decide if He Led an Entourage or a Criminal Enterprise (https://www.nytimes.com/2025/05/05/arts/music/sean-combs-jury-to-decide-if-he-led-an-entourage-or-a-criminal-enterprise.html) , by Julia Jacobs
+
+A.I. Is Getting More Powerful, but Its Hallucinations Are Getting Worse (https://www.nytimes.com/2025/05/05/technology/ai-hallucinations-chatgpt-google.html) , by Cade Metz and Karen Weise
+
+Universal Antivenom May Grow Out of Man Who Let Snakes Bite Him 200 Times (https://www.nytimes.com/2025/05/02/health/snakes-universal-antivenom-tim-friede.html) , by Apoorva Mandavilli
+
+Tune in every weekday morning. To get our full audio journalism and storytelling experience, download (https://apps.apple.com/us/app/nyt-audio/id1549293936)  the New York Times Audio app — available to Times news subscribers on iOS — and sign up (https://www.nytimes.com/newsletters/audio)  for our weekly newsletter.
+
+
+Tell us what you think at: theheadlines@nytimes.com.
+---
+
+# Trump Family Cashes In, Latest on Sean ‘Diddy’ Combs Trial, and A.I. Errors Increase | The Headlines
+**New York Times - The Headlines:** [May 05, 2025](https://www.youtube.com/watch?v=zGWbZSavFus)
+*  From the New York Times, it's the headlines. [[00:00:00](https://www.youtube.com/watch?v=zGWbZSavFus&t=0.0s)]
+*  I'm Tracy Mumford. [[00:00:04](https://www.youtube.com/watch?v=zGWbZSavFus&t=4.84s)]
+*  Today's Monday, May 5th. [[00:00:05](https://www.youtube.com/watch?v=zGWbZSavFus&t=5.84s)]
+*  Here's what we're covering. [[00:00:07](https://www.youtube.com/watch?v=zGWbZSavFus&t=7.68s)]
+*  The Times has been looking at how President Trump's sons, Eric and Donald Jr., have been [[00:00:13](https://www.youtube.com/watch?v=zGWbZSavFus&t=13.96s)]
+*  on a blitz of foreign trips and high-profile business deals. [[00:00:18](https://www.youtube.com/watch?v=zGWbZSavFus&t=18.64s)]
+*  Just in the past 10 days, Donald Trump Jr. has been on a paid speaking tour called Trump [[00:00:26](https://www.youtube.com/watch?v=zGWbZSavFus&t=26.14s)]
+*  Business Vision 2025 that had stops in Hungary, Romania, Serbia and Bulgaria and included [[00:00:31](https://www.youtube.com/watch?v=zGWbZSavFus&t=31.34s)]
+*  meetings with government leaders. [[00:00:37](https://www.youtube.com/watch?v=zGWbZSavFus&t=37.74s)]
+*  At the same time, on behalf of myself, on behalf of my family, we love Dubai, we love [[00:00:39](https://www.youtube.com/watch?v=zGWbZSavFus&t=39.980000000000004s)]
+*  the Gulf, we love the people. [[00:00:45](https://www.youtube.com/watch?v=zGWbZSavFus&t=45.86s)]
+*  Eric Trump, who the president put in charge of the Maine family business, has been racing [[00:00:48](https://www.youtube.com/watch?v=zGWbZSavFus&t=48.06s)]
+*  around the Middle East celebrating a $2 billion cryptocurrency investment and multiple real [[00:00:52](https://www.youtube.com/watch?v=zGWbZSavFus&t=52.5s)]
+*  estate deals that included a luxury hotel in Dubai and a golf course in Qatar. [[00:00:58](https://www.youtube.com/watch?v=zGWbZSavFus&t=58.18s)]
+*  The moves are a 180 from Trump's first term when his family refrained from signing international [[00:01:03](https://www.youtube.com/watch?v=zGWbZSavFus&t=63.540000000000006s)]
+*  business deals because of the potential for conflicts of interest. [[00:01:08](https://www.youtube.com/watch?v=zGWbZSavFus&t=68.96000000000001s)]
+*  Now the family is going full steam ahead. [[00:01:12](https://www.youtube.com/watch?v=zGWbZSavFus&t=72.9s)]
+*  Some of the deals have even directly involved foreign governments. [[00:01:15](https://www.youtube.com/watch?v=zGWbZSavFus&t=75.7s)]
+*  The White House has said there are no ethics issues because Trump's sons run the businesses. [[00:01:19](https://www.youtube.com/watch?v=zGWbZSavFus&t=79.26s)]
+*  But President Trump's financial disclosure report, which he's legally required to file, [[00:01:24](https://www.youtube.com/watch?v=zGWbZSavFus&t=84.22s)]
+*  shows that he benefits financially from many of the projects. [[00:01:28](https://www.youtube.com/watch?v=zGWbZSavFus&t=88.98s)]
+*  And while the relatives of other presidents, including Hunter Biden and the brothers of [[00:01:32](https://www.youtube.com/watch?v=zGWbZSavFus&t=92.98s)]
+*  Jimmy Carter and George W. Bush, also had business dealings that raised ethical questions, [[00:01:36](https://www.youtube.com/watch?v=zGWbZSavFus&t=96.84s)]
+*  Trump's personal stake is what sets these apart. [[00:01:42](https://www.youtube.com/watch?v=zGWbZSavFus&t=102.78s)]
+*  One presidential historian said, looking at the Trump family's recent business dealings, [[00:01:46](https://www.youtube.com/watch?v=zGWbZSavFus&t=106.22s)]
+*  that when it comes to the conflicts of interest, quote, there's nothing like it. [[00:01:50](https://www.youtube.com/watch?v=zGWbZSavFus&t=110.78s)]
+*  There is just nothing like it. [[00:01:55](https://www.youtube.com/watch?v=zGWbZSavFus&t=115.18s)]
+*  Beyond the foreign ventures, Donald Trump Jr. is also pushing forward with a new project [[00:02:00](https://www.youtube.com/watch?v=zGWbZSavFus&t=120.54s)]
+*  in Washington, D.C. that will cash in on his father's presidency. [[00:02:04](https://www.youtube.com/watch?v=zGWbZSavFus&t=124.9s)]
+*  It's a sprawling private club in Georgetown called Executive Branch that costs $500,000 [[00:02:09](https://www.youtube.com/watch?v=zGWbZSavFus&t=129.34s)]
+*  to join. [[00:02:15](https://www.youtube.com/watch?v=zGWbZSavFus&t=135.94s)]
+*  It's expected to open this summer, and they've already sold many of the membership slots. [[00:02:17](https://www.youtube.com/watch?v=zGWbZSavFus&t=137.5s)]
+*  In response to questions from the Times, Donald Jr. rejected any suggestion he's trading [[00:02:21](https://www.youtube.com/watch?v=zGWbZSavFus&t=141.26s)]
+*  on his father's name. [[00:02:26](https://www.youtube.com/watch?v=zGWbZSavFus&t=146.14s)]
+*  Now, three more quick updates on the Trump administration. [[00:02:31](https://www.youtube.com/watch?v=zGWbZSavFus&t=151.46s)]
+*  Your secretary of state says everyone who's here, citizens and non-citizens, deserve due [[00:02:36](https://www.youtube.com/watch?v=zGWbZSavFus&t=156.38s)]
+*  process. [[00:02:40](https://www.youtube.com/watch?v=zGWbZSavFus&t=160.34s)]
+*  Do you agree, Mr. President? [[00:02:41](https://www.youtube.com/watch?v=zGWbZSavFus&t=161.34s)]
+*  I don't know. [[00:02:42](https://www.youtube.com/watch?v=zGWbZSavFus&t=162.34s)]
+*  I'm not a lawyer. [[00:02:43](https://www.youtube.com/watch?v=zGWbZSavFus&t=163.34s)]
+*  In an interview on NBC this weekend, President Trump repeatedly said he didn't know whether [[00:02:44](https://www.youtube.com/watch?v=zGWbZSavFus&t=164.58s)]
+*  every person in the U.S. is entitled to due process, despite the fact that it's explicitly [[00:02:49](https://www.youtube.com/watch?v=zGWbZSavFus&t=169.18s)]
+*  spelled out in the Fifth Amendment. [[00:02:54](https://www.youtube.com/watch?v=zGWbZSavFus&t=174.18s)]
+*  He also said that allowing people their full legal rights would slow down his push for [[00:02:56](https://www.youtube.com/watch?v=zGWbZSavFus&t=176.46s)]
+*  mass deportations. [[00:03:01](https://www.youtube.com/watch?v=zGWbZSavFus&t=181.1s)]
+*  It might say that, but if you're talking about that, then we'd have to have a million [[00:03:02](https://www.youtube.com/watch?v=zGWbZSavFus&t=182.98000000000002s)]
+*  or two million or three million trials. [[00:03:06](https://www.youtube.com/watch?v=zGWbZSavFus&t=186.86s)]
+*  When asked if, as president, he needs to uphold the Constitution of the United States, [[00:03:09](https://www.youtube.com/watch?v=zGWbZSavFus&t=189.7s)]
+*  Trump replied again, I don't know. [[00:03:15](https://www.youtube.com/watch?v=zGWbZSavFus&t=195.01999999999998s)]
+*  Also yesterday, the president said he had instructed federal law enforcement authorities [[00:03:18](https://www.youtube.com/watch?v=zGWbZSavFus&t=198.66s)]
+*  to renovate and reopen Alcatraz, the island prison in the San Francisco Bay. [[00:03:22](https://www.youtube.com/watch?v=zGWbZSavFus&t=202.38s)]
+*  He said it would become a maximum security facility for people convicted of violent crimes. [[00:03:27](https://www.youtube.com/watch?v=zGWbZSavFus&t=207.85999999999999s)]
+*  It wasn't immediately clear how realistic that is, since the prison has been closed [[00:03:32](https://www.youtube.com/watch?v=zGWbZSavFus&t=212.73999999999998s)]
+*  since the early 60s and the administration plans to cut billions of dollars from the [[00:03:36](https://www.youtube.com/watch?v=zGWbZSavFus&t=216.86s)]
+*  Justice Department's budget. [[00:03:41](https://www.youtube.com/watch?v=zGWbZSavFus&t=221.3s)]
+*  And as of today, the last bit of pandemic-era relief for student loan debt is going away. [[00:03:43](https://www.youtube.com/watch?v=zGWbZSavFus&t=223.82000000000002s)]
+*  Administration says it will now restart forced collections on the five million people whose [[00:03:50](https://www.youtube.com/watch?v=zGWbZSavFus&t=230.02s)]
+*  loans are in default. [[00:03:54](https://www.youtube.com/watch?v=zGWbZSavFus&t=234.58s)]
+*  For the moment, that will mean borrowers could have their tax refunds withheld. [[00:03:56](https://www.youtube.com/watch?v=zGWbZSavFus&t=236.42000000000002s)]
+*  Starting next month, the government will also seize money from Social Security benefits, [[00:04:00](https://www.youtube.com/watch?v=zGWbZSavFus&t=240.26000000000002s)]
+*  and it's expected to eventually start taking portions of people's paychecks, too. [[00:04:04](https://www.youtube.com/watch?v=zGWbZSavFus&t=244.34s)]
+*  In Gaza, it has now been more than 60 days since Israel halted all humanitarian aid from [[00:04:13](https://www.youtube.com/watch?v=zGWbZSavFus&t=253.26s)]
+*  entering the territory. [[00:04:18](https://www.youtube.com/watch?v=zGWbZSavFus&t=258.36s)]
+*  No food, fuel or medicine. [[00:04:19](https://www.youtube.com/watch?v=zGWbZSavFus&t=259.98s)]
+*  Israel says it will not relent until Hamas releases the hostages it still holds. [[00:04:22](https://www.youtube.com/watch?v=zGWbZSavFus&t=262.62s)]
+*  But humanitarian groups warn that the total blockade violates international law and has [[00:04:27](https://www.youtube.com/watch?v=zGWbZSavFus&t=267.74s)]
+*  created catastrophic conditions. [[00:04:32](https://www.youtube.com/watch?v=zGWbZSavFus&t=272.86s)]
+*  Inside Gaza, stockpiles are dwindling. [[00:04:35](https://www.youtube.com/watch?v=zGWbZSavFus&t=275.74s)]
+*  The Times spoke with a man who says his family now eats once a day to try and stretch out [[00:04:38](https://www.youtube.com/watch?v=zGWbZSavFus&t=278.54s)]
+*  what they have left, and they cook on a fire fueled by torn-up shoes because there's no [[00:04:43](https://www.youtube.com/watch?v=zGWbZSavFus&t=283.04s)]
+*  gas. [[00:04:48](https://www.youtube.com/watch?v=zGWbZSavFus&t=288.02000000000004s)]
+*  Videos from the territory show sickly, skeletal children, and doctors tell the Times that [[00:04:49](https://www.youtube.com/watch?v=zGWbZSavFus&t=289.46000000000004s)]
+*  the lack of food is having devastating ripple effects. [[00:04:54](https://www.youtube.com/watch?v=zGWbZSavFus&t=294.22s)]
+*  For example, burn victims hit in Israeli strikes aren't getting enough nutrition for their [[00:04:57](https://www.youtube.com/watch?v=zGWbZSavFus&t=297.62s)]
+*  skin grafts to heal. [[00:05:02](https://www.youtube.com/watch?v=zGWbZSavFus&t=302.36s)]
+*  Israeli authorities say that the United Nations, aid groups and private businesses brought [[00:05:04](https://www.youtube.com/watch?v=zGWbZSavFus&t=304.68s)]
+*  enough supplies in during the ceasefire to provide for the population, and they accuse [[00:05:09](https://www.youtube.com/watch?v=zGWbZSavFus&t=309.18s)]
+*  Hamas of hoarding and depriving Gazans. [[00:05:13](https://www.youtube.com/watch?v=zGWbZSavFus&t=313.52000000000004s)]
+*  But aid groups tell the Times a lot has simply run out, and while there are some warehouses [[00:05:16](https://www.youtube.com/watch?v=zGWbZSavFus&t=316.8s)]
+*  still stocked, aid groups say they can't reach them. [[00:05:21](https://www.youtube.com/watch?v=zGWbZSavFus&t=321.84000000000003s)]
+*  The UN estimates that Israel's new evacuation and no-go zones in Gaza have cut off access [[00:05:25](https://www.youtube.com/watch?v=zGWbZSavFus&t=325.0s)]
+*  to about 70% of the territory. [[00:05:30](https://www.youtube.com/watch?v=zGWbZSavFus&t=330.02s)]
+*  Today at a federal courthouse in Manhattan, jury selection will begin in the sex trafficking [[00:05:40](https://www.youtube.com/watch?v=zGWbZSavFus&t=340.58s)]
+*  and racketeering case against Sean Combs, known as Diddy and Puff Daddy. [[00:05:45](https://www.youtube.com/watch?v=zGWbZSavFus&t=345.17999999999995s)]
+*  Prosecutors allege that for years, the music mogul used his employees, including security [[00:05:50](https://www.youtube.com/watch?v=zGWbZSavFus&t=350.64s)]
+*  guards and personal assistants, to arrange days-long, drug-fueled gatherings where Combs [[00:05:55](https://www.youtube.com/watch?v=zGWbZSavFus&t=355.42s)]
+*  assaulted women. [[00:06:00](https://www.youtube.com/watch?v=zGWbZSavFus&t=360.82s)]
+*  They say Combs had his team then deal with the aftermath, bribing witnesses and keeping [[00:06:02](https://www.youtube.com/watch?v=zGWbZSavFus&t=362.42s)]
+*  victims hidden from the public until their injuries healed. [[00:06:06](https://www.youtube.com/watch?v=zGWbZSavFus&t=366.82s)]
+*  Prosecutors say his actions amount to running a criminal enterprise, which could earn him [[00:06:10](https://www.youtube.com/watch?v=zGWbZSavFus&t=370.70000000000005s)]
+*  a sentence of up to life in prison. [[00:06:15](https://www.youtube.com/watch?v=zGWbZSavFus&t=375.14s)]
+*  Combs has pleaded not guilty to all of the charges, and his lawyers say the sexual encounters [[00:06:17](https://www.youtube.com/watch?v=zGWbZSavFus&t=377.86s)]
+*  at the heart of the government's case were entirely consensual. [[00:06:22](https://www.youtube.com/watch?v=zGWbZSavFus&t=382.26s)]
+*  He's been held in a New York jail since he was arrested in September. [[00:06:25](https://www.youtube.com/watch?v=zGWbZSavFus&t=385.94s)]
+*  Multiple judges ruled he couldn't be released on bail since they thought he might intimidate [[00:06:29](https://www.youtube.com/watch?v=zGWbZSavFus&t=389.46s)]
+*  witnesses and be a threat to the community. [[00:06:33](https://www.youtube.com/watch?v=zGWbZSavFus&t=393.53999999999996s)]
+*  In the two years since AI tools like ChatGPT were released and seemed to kind of take over [[00:06:42](https://www.youtube.com/watch?v=zGWbZSavFus&t=402.21999999999997s)]
+*  the world, the companies behind them had been steadily improving their products and making [[00:06:48](https://www.youtube.com/watch?v=zGWbZSavFus&t=408.22s)]
+*  them more and more accurate. [[00:06:52](https://www.youtube.com/watch?v=zGWbZSavFus&t=412.42s)]
+*  But with a wave of recent updates, as they've rolled out what are known as reasoning systems, [[00:06:54](https://www.youtube.com/watch?v=zGWbZSavFus&t=414.54s)]
+*  the number of mistakes the tools make has skyrocketed. [[00:06:59](https://www.youtube.com/watch?v=zGWbZSavFus&t=419.5s)]
+*  The reasoning systems seem to have made the tools better at math, but worse at facts. [[00:07:03](https://www.youtube.com/watch?v=zGWbZSavFus&t=423.62s)]
+*  They're now generating more so-called hallucinations in response to what seem like basic questions. [[00:07:09](https://www.youtube.com/watch?v=zGWbZSavFus&t=429.18s)]
+*  For example, ask a chatbot, what's a good marathon on the West Coast? [[00:07:15](https://www.youtube.com/watch?v=zGWbZSavFus&t=435.32s)]
+*  And it might suggest a race in Philadelphia. [[00:07:19](https://www.youtube.com/watch?v=zGWbZSavFus&t=439.64s)]
+*  The problem is widespread. [[00:07:22](https://www.youtube.com/watch?v=zGWbZSavFus&t=442.32s)]
+*  Reasoning models from Google, DeepSeek, and OpenAI, the company behind ChatGPT, are all [[00:07:24](https://www.youtube.com/watch?v=zGWbZSavFus&t=444.65999999999997s)]
+*  hallucinating at higher rates than they were before. [[00:07:29](https://www.youtube.com/watch?v=zGWbZSavFus&t=449.6s)]
+*  On one test of a new chatbot system, it made answers up 79% of the time. [[00:07:32](https://www.youtube.com/watch?v=zGWbZSavFus&t=452.88s)]
+*  Why is that? [[00:07:39](https://www.youtube.com/watch?v=zGWbZSavFus&t=459.1s)]
+*  No one has a clear answer. [[00:07:40](https://www.youtube.com/watch?v=zGWbZSavFus&t=460.15999999999997s)]
+*  But some experts say it could be because of how the new reasoning systems are designed [[00:07:42](https://www.youtube.com/watch?v=zGWbZSavFus&t=462.08s)]
+*  to work. [[00:07:45](https://www.youtube.com/watch?v=zGWbZSavFus&t=465.91999999999996s)]
+*  They take a little extra time to answer a question by basically breaking it down step [[00:07:46](https://www.youtube.com/watch?v=zGWbZSavFus&t=466.91999999999996s)]
+*  by step behind the scenes. [[00:07:50](https://www.youtube.com/watch?v=zGWbZSavFus&t=470.78s)]
+*  That process, though, could mean that small errors along the way compound, leading to [[00:07:53](https://www.youtube.com/watch?v=zGWbZSavFus&t=473.12s)]
+*  a final answer that's just wrong. [[00:07:58](https://www.youtube.com/watch?v=zGWbZSavFus&t=478.08s)]
+*  And finally, scientists say they've taken a significant step forward in creating a universal [[00:08:00](https://www.youtube.com/watch?v=zGWbZSavFus&t=480.12s)]
+*  anti-venom for poisonous snake bites. [[00:08:12](https://www.youtube.com/watch?v=zGWbZSavFus&t=492.64s)]
+*  And a big part of that breakthrough comes from... [[00:08:15](https://www.youtube.com/watch?v=zGWbZSavFus&t=495.46s)]
+*  Very nasty snake. [[00:08:18](https://www.youtube.com/watch?v=zGWbZSavFus&t=498.4s)]
+*  A basement in Wisconsin. [[00:08:19](https://www.youtube.com/watch?v=zGWbZSavFus&t=499.7s)]
+*  Very very hot venom. [[00:08:21](https://www.youtube.com/watch?v=zGWbZSavFus&t=501.88s)]
+*  That's where a man named Tim Friede built up his venomous snake collection. [[00:08:23](https://www.youtube.com/watch?v=zGWbZSavFus&t=503.6s)]
+*  For the course of nearly two decades, Friede amassed dozens of venomous snakes and allowed [[00:08:27](https://www.youtube.com/watch?v=zGWbZSavFus&t=507.68s)]
+*  the snakes to bite him about 200 times. [[00:08:33](https://www.youtube.com/watch?v=zGWbZSavFus&t=513.5600000000001s)]
+*  Arms very swollen. [[00:08:37](https://www.youtube.com/watch?v=zGWbZSavFus&t=517.8s)]
+*  It's killing me. [[00:08:39](https://www.youtube.com/watch?v=zGWbZSavFus&t=519.52s)]
+*  Over the years, he also injected himself with more than 600 calibrated doses of venom to [[00:08:41](https://www.youtube.com/watch?v=zGWbZSavFus&t=521.2s)]
+*  build up his immunity to snake bites. [[00:08:46](https://www.youtube.com/watch?v=zGWbZSavFus&t=526.32s)]
+*  His personal experimentation came with blackouts, anaphylactic shock, and at least one coma. [[00:08:48](https://www.youtube.com/watch?v=zGWbZSavFus&t=528.9s)]
+*  But scientists have now identified antibodies in his blood that neutralize the poison of [[00:08:55](https://www.youtube.com/watch?v=zGWbZSavFus&t=535.12s)]
+*  cobras, mambas, and other deadly species. [[00:09:00](https://www.youtube.com/watch?v=zGWbZSavFus&t=540.5600000000001s)]
+*  The research could help solve a global health problem. [[00:09:03](https://www.youtube.com/watch?v=zGWbZSavFus&t=543.72s)]
+*  Snake bites kill an estimated 120,000 people a year, and the danger's only increasing. [[00:09:07](https://www.youtube.com/watch?v=zGWbZSavFus&t=547.16s)]
+*  People are encountering snakes more often these days because of deforestation and changing [[00:09:13](https://www.youtube.com/watch?v=zGWbZSavFus&t=553.6s)]
+*  climates. [[00:09:18](https://www.youtube.com/watch?v=zGWbZSavFus&t=558.28s)]
+*  The researchers say they've been able to use what they've found in Friede's blood so far [[00:09:19](https://www.youtube.com/watch?v=zGWbZSavFus&t=559.36s)]
+*  to protect mice. [[00:09:23](https://www.youtube.com/watch?v=zGWbZSavFus&t=563.08s)]
+*  The next step, they're going to try it in Australia for dogs that are brought into vet [[00:09:24](https://www.youtube.com/watch?v=zGWbZSavFus&t=564.76s)]
+*  clinics with snake bites. [[00:09:28](https://www.youtube.com/watch?v=zGWbZSavFus&t=568.62s)]
+*  Those are the headlines. [[00:09:33](https://www.youtube.com/watch?v=zGWbZSavFus&t=573.76s)]
+*  Today on The Daily, Times Chief Economics correspondent Ben Casleman answers listeners' [[00:09:35](https://www.youtube.com/watch?v=zGWbZSavFus&t=575.12s)]
+*  questions about the economy. [[00:09:40](https://www.youtube.com/watch?v=zGWbZSavFus&t=580.72s)]
+*  That's next in the New York Times audio app, or you can listen wherever you get your podcasts. [[00:09:43](https://www.youtube.com/watch?v=zGWbZSavFus&t=583.08s)]
+*  I'm Tracy Mumford. [[00:09:47](https://www.youtube.com/watch?v=zGWbZSavFus&t=587.4399999999999s)]
+*  We'll be back tomorrow. [[00:09:48](https://www.youtube.com/watch?v=zGWbZSavFus&t=588.4399999999999s)]

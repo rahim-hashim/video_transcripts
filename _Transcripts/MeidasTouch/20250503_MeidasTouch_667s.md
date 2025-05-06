@@ -1,0 +1,125 @@
+---
+Date Generated: May 04, 2025
+Transcription Model: whisper medium 20231117
+Length: 667s
+Video Keywords: ['meidastouch', 'meidas touch', 'politics', 'political videos', 'political advertising', 'breaking news', 'ben meiselas', 'midas touch', 'midastouch', 'donald trump', 'trump', 'joe biden', 'biden', 'president', 'elections', 'republicans', 'democrats', 'democratic party', 'republican party', 'trump indictments', 'legal news', 'michael popok', 'gop', 'current events', 'department of justice', 'justice department', 'political news', 'msnbc', 'cnn', 'cable news', 'independent media', 'united states', 'us news']
+Video Views: 580625
+Video Rating: None
+Video Description: MeidasTouch host Ben Meiselas reports on Donald Trump rapidly declining in all respects as his trade deals fail to materialize and all his plans backfire.
+
+Visit https://meidasplus.com for more!
+
+MeidasTouch relies on SnapStream to record, watch, monitor, and clip the news. Get a FREE TRIAL of SnapStream by clicking here: https://go.snapstream.com/affiliate/meidastouch/meidasnews?utm_campaign=4490308-affiliate2025&utm_content=customerpartner
+
+Support the MeidasTouch Network: https://patreon.com/meidastouch
+Add the MeidasTouch Podcast: https://podcasts.apple.com/us/podcast/the-meidastouch-podcast/id1510240831
+Buy MeidasTouch Merch: https://store.meidastouch.com
+
+Follow MeidasTouch on Twitter: https://twitter.com/meidastouch
+Follow MeidasTouch on Facebook: https://facebook.com/meidastouch
+Follow MeidasTouch on Instagram: https://instagram.com/meidastouch
+Follow MeidasTouch on TikTok: https://tiktok.com/@meidastouch
+---
+
+# Trump Quickly UNRAVELS as Catastrophe APPROACHES
+**MeidasTouch:** [May 03, 2025](https://www.youtube.com/watch?v=9jvvHp9BEqc)
+*  Donald Trump is posting AI images of himself as the Pope. This is a very [[00:00:00](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=0.0s)]
+*  unserious, unstable, vile individual. Meanwhile, the Defense Secretary Pete Hegsup is posting AI [[00:00:06](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=6.48s)]
+*  cartoon images of himself holding a sword that says, budget cuts, and looking at a dog that says, [[00:00:16](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=16.88s)]
+*  wow, and posting cartoon AI images of himself that say, 100% operational control. And when you zoom in [[00:00:26](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=26.0s)]
+*  on his hands, his sleeve is part of his hands. Why does his finger look like that? Then you have [[00:00:36](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=36.24s)]
+*  Donald Trump giving an interview with Kristen Welker of Meet the Press, and Donald Trump says [[00:00:43](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=43.519999999999996s)]
+*  that he is okay with a recession. He'd be fine with it. He doesn't care. Here, play this clip. [[00:00:48](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=48.72s)]
+*  And that's my question. Long term. Is it okay in the short term to have a recession? [[00:00:54](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=54.4s)]
+*  Look, yes, everything's okay. What we are, I said, this is a transition period. I think we're going [[00:01:01](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=61.04s)]
+*  to do fantastic. As former Transportation Secretary Pete Buttigieg says, post this image from CNN, [[00:01:07](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=67.76s)]
+*  which is now finally reporting on this, the last boats without crippling tariffs from China [[00:01:15](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=75.28s)]
+*  are arriving to the US. The countdown to shortages and higher prices has begun. [[00:01:22](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=82.24000000000001s)]
+*  No, it's begun three weeks ago, CNN. But as Pete Buttigieg says, this isn't hypothetical. The [[00:01:29](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=89.12s)]
+*  coming days are bringing higher prices and disrupted supply chains. This time not because [[00:01:35](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=95.60000000000001s)]
+*  of a pandemic or a war, but self-inflicted by our country's government under this president. [[00:01:41](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=101.92000000000002s)]
+*  How long have we been talking about freight volumes and trucking volumes and showing you [[00:01:50](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=110.24s)]
+*  photos of the ports here on the Midas Touch Network? As Senator Bernie Sanders told me, [[00:01:55](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=115.36s)]
+*  sometimes the most important issues are what news isn't talking about. It's why I talk about these [[00:02:02](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=122.56s)]
+*  things here over and over again, because we can follow the data where these things are headed [[00:02:06](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=126.96s)]
+*  so it doesn't hit us like a shock. That's why we report on this stuff weeks in advance [[00:02:12](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=132.95999999999998s)]
+*  on the Midas Touch Network. We also learned yesterday that the Trump administration will [[00:02:18](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=138.8s)]
+*  not renew Biden-era grants worth $1 billion that were aimed at boosting mental health services in [[00:02:24](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=144.72s)]
+*  schools, a Department of Education spokesperson confirmed to ABC. As Travis Aker says, I do not [[00:02:32](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=152.8s)]
+*  understand why mental health programs are being defunded by President Trump when every school [[00:02:40](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=160.64000000000001s)]
+*  shooting is blamed on mental health by MAGA Republicans. I just want you to think about that. [[00:02:48](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=168.16s)]
+*  Every time there's a school shooting, the MAGA Republicans say, it's not because of the guns, [[00:02:55](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=175.28s)]
+*  it's because of mental health. Okay, well now you're defunding mental health services to schools? [[00:03:00](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=180.0s)]
+*  Cruelty is the point, folks. This shouldn't be a political issue. I'm just giving you the data [[00:03:07](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=187.2s)]
+*  points. I'm not speculating what they're doing. I'm reading you statements that the Trump MAGA [[00:03:12](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=192.96s)]
+*  regime is confirming. Oh, another post by Donald Trump. Oh, he's doing the cartoon image of himself [[00:03:18](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=198.24s)]
+*  right now. Oh, what's he saying in this post? Oh, that he ended inflation and made America [[00:03:24](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=204.16s)]
+*  affordable again. Wow, I guess it must be done. So it's been said it must be done. [[00:03:29](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=209.36s)]
+*  Donald Trump says that he promised Americans that he would rapidly drive the prices down, [[00:03:35](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=215.12s)]
+*  and he says, promise kept on this image that he posts, White House delivering emergency [[00:03:40](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=220.72s)]
+*  price relief for American families and they defeated the cost of living crisis. Folks, [[00:03:46](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=226.24s)]
+*  mission accomplished. The cost of living crisis has been defeated. Donald Trump, thank you. [[00:03:51](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=231.84s)]
+*  Thank you for doing that. Yes, I go to the get my gas prices $1.98. Egg prices down 87%. [[00:03:58](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=238.32s)]
+*  Whoa, you tell me that my MAGA mush brain says, OK, Donald Donald, I understand you have MAGA [[00:04:07](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=247.68s)]
+*  mush brain cult followers who watch Fox. The rest of us, we can we can go to stores. We can see it. [[00:04:13](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=253.51999999999998s)]
+*  We know that prices are not going down. We know housing is less affordable, not more affordable. [[00:04:20](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=260.48s)]
+*  We see what you're doing to the economy. It's not good. It's very bad. Oh, Charlie Kirk, [[00:04:26](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=266.08s)]
+*  someone who's in Donald Trump's inner circle, also potentially saying that more firings are [[00:04:32](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=272.56s)]
+*  coming at the CIA. We'll see about that. One thing over here to Ryan Cummings [[00:04:39](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=279.92s)]
+*  said he did an analysis. Oh, my God. I think Garrett is correct. Garrett Golden goes, Oh, man, [[00:04:47](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=287.44s)]
+*  I think someone is showing the president the RBOB charts and telling him that that's the price of [[00:04:54](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=294.56s)]
+*  gasoline. POTUS's team is showing him the cost of wholesale unfinished gasoline, which does not [[00:05:01](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=301.12s)]
+*  include the cost of oxygenates, ethanol and all distribution marketing costs and telling him this [[00:05:07](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=307.28000000000003s)]
+*  is the price of gasoline you are paying at the pump. So I guess the same way Donald Trump's [[00:05:13](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=313.04s)]
+*  people told him that he won at the Supreme Court with the Brago Garcia 9 to 0, that he won and he [[00:05:19](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=319.52s)]
+*  does not have to facilitate the return when the order was the exact opposite. I guess they're [[00:05:25](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=325.12s)]
+*  telling Donald Trump that the price of gas at the pump is 198 because they're showing him [[00:05:30](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=330.24s)]
+*  the cost of without oxygenates. That's really what they're doing. By the way, what are we on? What [[00:05:37](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=337.52s)]
+*  day are we on? Day 21, 22, 23, no trade deals, no deal Donald. That's his nickname. Now we're learning [[00:05:43](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=343.6s)]
+*  that Japan, an ally of the United States, should be easy to make a deal with Japan. Since Trump made [[00:05:51](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=351.12s)]
+*  a deal with Japan in 2018, Trump made the Japan deal in 2018 and now he hates his own deal. [[00:05:55](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=355.68s)]
+*  The same way Trump made the United States-Mexico-Canada agreement, the USMCA, and he hates [[00:06:04](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=364.16s)]
+*  that agreement. He goes, whoever made this deal is the stupidest. You made the deal with Japan, [[00:06:09](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=369.84000000000003s)]
+*  you made the deal with Canada and Mexico, so you're the stupid one. Japan is preparing to [[00:06:14](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=374.64s)]
+*  use its role as America's largest creditor, holds 1.1 trillion in treasuries as leverage in Trump [[00:06:20](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=380.08s)]
+*  trade talks. This, as Tmoo halts shipping direct from China as the de minimis tariff loophole is [[00:06:28](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=388.0s)]
+*  cut off. You will now see if you were to buy at Tmoo or any of these stores in China, 145% [[00:06:36](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=396.15999999999997s)]
+*  basically added to the cost. Tmoo is just saying, all right, we're not going to send anything [[00:06:43](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=403.59999999999997s)]
+*  to the United States anymore. By the way, when I think about Tmoo now, I think about Tmoo Trump [[00:06:48](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=408.16s)]
+*  in Australia, Peter Dutton in Australia, the leader of the Liberal Party there, which is their [[00:06:54](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=414.24s)]
+*  right-wing party. Peter Dutton, the Trump effect is real in Australia as Anthony Albanese soaring [[00:07:00](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=420.32000000000005s)]
+*  ahead, the Labour Party doing well in Australia. That's their Liberal Party there. It's confusing. [[00:07:08](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=428.72s)]
+*  Their left party is the Labour Party. On his way potentially to another three-year term there, [[00:07:14](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=434.96s)]
+*  shout out Mitus Down Under, Mitus Mate, tell me which one you like better. More Donald Trump [[00:07:19](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=439.68s)]
+*  posting that the price of gasoline is 198 and egg prices are down, which is a lie. [[00:07:25](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=445.91999999999996s)]
+*  JD Vance saying Russia's war in Ukraine is not going to end anytime soon, where Donald Trump [[00:07:32](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=452.4s)]
+*  said earlier in the week that it was a joke when he said that there would be peace in 24 hours. He [[00:07:39](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=459.28s)]
+*  said in a Donald Trump way, I was joking. I was joking. I know it's only the fake news that took [[00:07:45](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=465.03999999999996s)]
+*  me seriously. You're fake news if you thought I really meant there would be peace. Only the [[00:07:51](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=471.2s)]
+*  fake news. You're so dishonest. I was joking about making peace in 24 hours. Now JD Vance saying, [[00:07:55](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=475.2s)]
+*  not going to end anytime soon. Okay, JD. Okay, JD. Also a new poll from The Hill. Majority of [[00:08:02](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=482.64000000000004s)]
+*  US Latino voters believe the country is headed in the wrong direction. Really? I mean, the [[00:08:11](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=491.28000000000003s)]
+*  Venezuelans for Trump aren't happy that he's deporting family members back to Maduro and [[00:08:17](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=497.12s)]
+*  sending Venezuelans to concentration camps in El Salvador when he said he got your back. [[00:08:24](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=504.88s)]
+*  The Cubans for Trump, you're unhappy that Donald Trump is taking away family members [[00:08:30](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=510.56s)]
+*  and sending them back to the Castro regime, sending them back to Cuba, separating mothers [[00:08:37](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=517.76s)]
+*  in Miami who are still breastfeeding their children to be homeless in Cuba, even taking [[00:08:42](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=522.88s)]
+*  away temporary protected status from 500,000 Latinos. He told you he wasn't going to do that, [[00:08:49](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=529.36s)]
+*  right? You thought it was only the criminals. He thinks you're criminal. He thinks you're the [[00:08:56](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=536.4s)]
+*  criminal. We told you we tried to warn you. Okay, but don't get me wrong. Trump's been focused on [[00:09:01](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=541.52s)]
+*  making deals this week. Not deals that benefit America. Don Jr. starting the Executive Branch [[00:09:07](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=547.36s)]
+*  Club, $500,000 to join his exclusive club called the Executive Branch. Imagine if Hunter Biden [[00:09:12](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=552.88s)]
+*  did that. Donald Trump making a deal with Qatar to have a new Trump resort in Qatar. [[00:09:19](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=559.4399999999999s)]
+*  UAE's minister met with Donald Trump. Trump gave them some AI chip exemptions. [[00:09:26](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=566.3199999999999s)]
+*  And Abu Dhabi then agreed to use Trump's crypto as part of their transactions. All in a week. [[00:09:34](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=574.3199999999999s)]
+*  And by the way, while Donald Trump was gutting mental health services at schools, [[00:09:42](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=582.96s)]
+*  gutting PBS and NPR, he was focused on spending $92 million, maybe even more, to throw himself [[00:09:47](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=587.76s)]
+*  a military theme parade in Washington, D.C. in the coming months where he wants to have 6,000 [[00:09:57](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=597.1999999999999s)]
+*  soldiers, 50 helicopters, fighter jets, as he stands there like a Kim Jong-un-style dictator [[00:10:04](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=604.8s)]
+*  as troops march in front of him. Can we talk about that he's posting AI images of himself [[00:10:15](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=615.2s)]
+*  dressed as the pope? This is an unwell individual, but I don't want to use that as a way for him to [[00:10:22](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=622.24s)]
+*  duck accountability. Let's just call him what he is. He's a vile piece of trash. He's a felon. [[00:10:28](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=628.1600000000001s)]
+*  He's a fraud. He's a criminal. He's a sexual abuser. He's trash. I have zero respect for him. [[00:10:34](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=634.1600000000001s)]
+*  Period. Full stop. Zero. You shouldn't either. Hit subscribe. Let's get to 5 million subscribers. [[00:10:42](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=642.08s)]
+*  Thanks for watching. The truth is more important than ever. Check out our new Truth Over Lies [[00:10:48](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=648.24s)]
+*  collection at store.mitustouch.com. All 100% USA Union made. [[00:10:53](https://www.youtube.com/watch?v=9jvvHp9BEqc&t=653.2800000000001s)]
