@@ -1,0 +1,126 @@
+---
+Date Generated: May 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 347s
+Video Keywords: ['Chris Hayes']
+Video Views: 31260
+Video Rating: None
+Video Description: “It would be a fundamental change. It will mean, frankly, that Trump and the MAGA world can do whatever they want to do with 50 votes,” says Sen. Adam Schiff on Republicans considering overriding the filibuster over California's pollution rules. “It will change the Senate for good. And I think they rue the day they do.”
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Senate #Republicans #California
+---
+
+# Schiff warns GOP may ‘go nuclear’ and end filibuster over this one policy
+**MSNBC - The Latest:** [May 06, 2025](https://www.youtube.com/watch?v=5ql_o5p3n0w)
+*  I have you here as a senator from California. [[00:00:00](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=0.0s)]
+*  I want to ask you about a story I've been tracking, [[00:00:03](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=3.36s)]
+*  which is a little complicated, a little technical, [[00:00:05](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=5.64s)]
+*  but concerns California in an important way. [[00:00:07](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=7.96s)]
+*  And I guess my top line way I would articulate this is, [[00:00:11](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=11.44s)]
+*  Senate Republicans are basically breaking the rules of [[00:00:15](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=15.120000000000001s)]
+*  the Senate so as to [[00:00:18](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=18.68s)]
+*  force California to make its air dirtier. [[00:00:20](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=20.8s)]
+*  This is how I understand it. [[00:00:24](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=24.36s)]
+*  Is that a fair characterization? [[00:00:26](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=26.44s)]
+*  How would you explain what's happening? [[00:00:28](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=28.64s)]
+*  That's a totally fair characterization. [[00:00:32](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=32.68s)]
+*  So the Republicans hate California because we impose [[00:00:34](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=34.480000000000004s)]
+*  these clean air and clean water rules and because we're such a [[00:00:38](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=38.8s)]
+*  big and influential state, a lot of other states follow suit [[00:00:42](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=42.120000000000005s)]
+*  as indeed they have our clean air rules. [[00:00:46](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=46.24s)]
+*  So in a way, California is leading the nation on [[00:00:49](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=49.16s)]
+*  environmental policy, particularly in years where we [[00:00:52](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=52.400000000000006s)]
+*  have a Republican presidency that is trying to push the [[00:00:56](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=56.040000000000006s)]
+*  country in the opposite direction. [[00:00:58](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=58.04s)]
+*  So they want to overturn California's clean air rules. [[00:00:59](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=59.64s)]
+*  But the parliamentarian says you need 60 votes to do that. [[00:01:03](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=63.6s)]
+*  And they are poised to overrule the parliamentarian to basically [[00:01:07](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=67.16s)]
+*  go nuclear is what it's called. [[00:01:12](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=72.28s)]
+*  So end the filibuster effectively as it pertains to [[00:01:14](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=74.36s)]
+*  environmental laws. [[00:01:18](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=78.03999999999999s)]
+*  If they go down that road, that same process will be used [[00:01:19](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=79.75999999999999s)]
+*  against them. [[00:01:23](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=83.2s)]
+*  I don't think they want to go down that road, but at this [[00:01:24](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=84.6s)]
+*  moment, they are so determined to help polluters pollute more, [[00:01:26](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=86.68s)]
+*  they seem ready to do it. [[00:01:31](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=91.52000000000001s)]
+*  Yeah. And this is a really key point. [[00:01:33](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=93.44000000000001s)]
+*  Like it sounds technical and overrule the parliamentarian, [[00:01:34](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=94.96000000000001s)]
+*  but fundamentally it's we're going to change the threshold [[00:01:37](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=97.72000000000001s)]
+*  unilaterally to 50 votes. [[00:01:39](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=99.96000000000001s)]
+*  And this has been a huge fight on a bunch of things. [[00:01:41](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=101.72000000000001s)]
+*  I personally think the filibuster in both directions [[00:01:44](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=104.12s)]
+*  is overly invoked and used. [[00:01:46](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=106.96000000000001s)]
+*  But this would be something seismic, even though they're kind [[00:01:48](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=108.64000000000001s)]
+*  of cloaking it in the sort of technical language of overruling [[00:01:52](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=112.08000000000001s)]
+*  the parliamentarian. [[00:01:56](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=116.28s)]
+*  I think that's exactly right. [[00:01:59](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=119.56s)]
+*  And in a way, because they're choosing something that in the [[00:02:00](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=120.84s)]
+*  bigger scheme of things is smaller than some of their other priorities, [[00:02:04](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=124.88s)]
+*  if they're going to go nuclear on this, it means they're going to go [[00:02:11](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=131.32s)]
+*  nuclear on everything else or anything else. [[00:02:13](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=133.72s)]
+*  So it would be a fundamental change. [[00:02:16](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=136.52s)]
+*  It will mean, frankly, that, you know, Trump and the Maggard world can do [[00:02:21](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=141.68s)]
+*  whatever they want to do with 50 votes. [[00:02:26](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=146.04s)]
+*  And that will very much change the character not only of this [[00:02:28](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=148.88s)]
+*  Congress and this Senate, but it will change the Senate for good. [[00:02:31](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=151.76s)]
+*  And I think they may ruin the day they do. [[00:02:36](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=156.32s)]
+*  Part of this has to do with California law that would phase out the sale [[00:02:39](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=159.23999999999998s)]
+*  of gas powered cars, which is crucial to hitting those Paris climate goals [[00:02:42](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=162.12s)]
+*  and also crucial to moving the auto industry in that direction. [[00:02:46](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=166.76s)]
+*  Speaking of industry in California, you are at the front lines of the [[00:02:49](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=169.35999999999999s)]
+*  impending tariff produced economic disruption. [[00:02:54](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=174.16s)]
+*  And I want to play for you the L.A. [[00:02:59](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=179.0s)]
+*  ports chief, Gene Sirica, who was not really on my radar screen until [[00:03:00](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=180.56s)]
+*  recently, but has been a fascinating voice to listen to because he's sort [[00:03:04](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=184.6s)]
+*  of sitting there watching all this happen. [[00:03:08](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=188.52s)]
+*  Just talk a little bit about what what has been happening in your home state [[00:03:10](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=190.6s)]
+*  as it gets to the kind of first wave of the tariff disruption. [[00:03:15](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=195.04000000000002s)]
+*  Take a listen. [[00:03:19](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=199.4s)]
+*  If we get a deal, it's going to take about a month. [[00:03:21](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=201.56s)]
+*  Let me walk you through that real quick. [[00:03:24](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=204.0s)]
+*  About two weeks to get the ships repositioned around these major ports [[00:03:25](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=205.52s)]
+*  from Qingdao to Shanghai to Xiamen, load up all those containers and then [[00:03:29](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=209.44s)]
+*  another two weeks to steam across the Pacific to get to us. [[00:03:34](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=214.32000000000002s)]
+*  This is important because now we're talking about spring and summer fashion. [[00:03:37](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=217.60000000000002s)]
+*  So we're kind of at a crux here that we've got to have something pretty quick. [[00:03:41](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=221.12s)]
+*  How concerned are you about the impacts for your state? [[00:03:46](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=226.04000000000002s)]
+*  I'm very concerned. I was at one of California's ports just a week or so ago, [[00:03:51](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=231.2s)]
+*  and they were talking about the real declines in traffic they're seeing into [[00:03:55](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=235.76s)]
+*  the port, which they can see across the horizon because you can see when ships [[00:04:00](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=240.28s)]
+*  leave from overseas, when they're going to arrive. [[00:04:05](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=245.11999999999998s)]
+*  You can see the fall off in cargo containers. [[00:04:07](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=247.92s)]
+*  I think they're expecting within the next couple of weeks to see a third of [[00:04:11](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=251.32s)]
+*  their traffic disappear and maybe even more in terms of the number of cargo containers. [[00:04:15](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=255.8s)]
+*  So it's going to have a huge impact on the economy of our state, but it's going to [[00:04:22](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=262.6s)]
+*  have a huge impact on the country's economy. [[00:04:26](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=266.08s)]
+*  And I think even if the president reverses course and Chris, frankly, I think the [[00:04:28](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=268.8s)]
+*  president is going to cave probably within the next couple of weeks. [[00:04:34](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=274.0s)]
+*  He'll find some face saving claim of a non-existent deal to justify it. [[00:04:37](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=277.96000000000004s)]
+*  But even then, the damage in the near term is irreversible. [[00:04:42](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=282.68s)]
+*  And I think a lot of the damage he's done is irreversible in the long term. [[00:04:47](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=287.76s)]
+*  He's already caused the economy to contract. [[00:04:52](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=292.68s)]
+*  And we need to be doing everything we can to improve the economy, doing things that [[00:04:55](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=295.71999999999997s)]
+*  are counterproductive like these tariffs and like other body blows to the economy, [[00:05:00](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=300.59999999999997s)]
+*  I think are pushing the country towards a recession, which would be tragic. [[00:05:05](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=305.8s)]
+*  And Donald Trump will own it. [[00:05:11](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=311.32s)]
+*  It will be the Trump recession if it happens. [[00:05:12](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=312.59999999999997s)]
+*  And some of these, I think, body blows are going to be hard to recover from. [[00:05:15](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=315.48s)]
+*  Yeah, a face saving climb down at this point is the best case scenario. [[00:05:19](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=319.76s)]
+*  We may not even get that, Senator Adam Schiff of California. [[00:05:23](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=323.12s)]
+*  Thank you for your time. [[00:05:25](https://www.youtube.com/watch?v=5ql_o5p3n0w&t=325.2s)]

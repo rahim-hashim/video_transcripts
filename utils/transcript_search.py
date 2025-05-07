@@ -97,7 +97,7 @@ def find_transcripts(author_names, transcript_dir_path='_Transcripts'):
 		# check if dir and if author_name is in dir
 		for author_name in author_names:
 			author_path_dir = os.path.join(transcript_dir_path, dir)
-			if os.path.isdir(author_path_dir) and author_name in dir:
+			if os.path.isdir(author_path_dir) and author_name.lower() in dir.lower():
 				print(f'Loading {author_path_dir}.')
 				for file in sorted(os.listdir(author_path_dir), reverse=True):
 					transcript_paths_dict[author_name].append(os.path.join(author_path_dir, file))
