@@ -1,0 +1,152 @@
+---
+Date Generated: May 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 482s
+Video Keywords: ['MSNBC']
+Video Views: 15376
+Video Rating: None
+Video Description: A source says air traffic controllers at Newark Liberty International Airport lost radar and radio contact with pilots at least two other times before the most recent incident. NBC News’ Marquise Francis reports more from Newark. Archer Chief Safety Officer and former FAA Acting Administrator Billy Nolen joins Chris Jansing to share his reaction to the travel chaos.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#NewarkAirport #UnitedAirlines #FAA
+---
+
+# 'How can that continually happen?’ United CEO calls out FAA amid Newark chaos
+**MSNBC - The Latest:** [May 07, 2025](https://www.youtube.com/watch?v=lvRXpEc99Mc)
+*  NBC's Marquise Francis is live at Newark International, also with me, former acting FAA administrator [[00:00:00](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=0.0s)]
+*  and Archer Chief Safety Officer Billy Nolan. [[00:00:06](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=6.2s)]
+*  Marquise, for nine straight days now, travelers have faced massive delays at Newark. [[00:00:09](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=9.4s)]
+*  I just got a text from a friend who said her flight today was canceled. [[00:00:14](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=14.120000000000001s)]
+*  What's it like there right now? [[00:00:18](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=18.56s)]
+*  Yeah, Chris, I mean, what's been the epicenter of an aviation nightmare, as you mentioned, [[00:00:20](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=20.56s)]
+*  over the last two weeks with hundreds of canceled flights, as well as delays that extended hours [[00:00:25](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=25.96s)]
+*  and more. [[00:00:31](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=31.200000000000003s)]
+*  Today, it's fairly pleasant. [[00:00:32](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=32.2s)]
+*  You know, similar to Maggie in Chicago, as I turn around, the lines to go through security [[00:00:34](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=34.24s)]
+*  are actually fairly short. [[00:00:38](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=38.32s)]
+*  And I just looked behind me just a minute ago, and you can get through in about five [[00:00:39](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=39.32s)]
+*  minutes. [[00:00:43](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=43.120000000000005s)]
+*  Now, this pales to comparison to the last few days, where there's been hundreds or even [[00:00:44](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=44.120000000000005s)]
+*  thousands of cancellations and delays all over the country, but especially here in Newark. [[00:00:48](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=48.32s)]
+*  And of course, this coincides with that Real ID requirement today, where people have to [[00:00:54](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=54.72s)]
+*  have that Real ID enhanced license. [[00:00:59](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=59.8s)]
+*  But so far, so good here in Newark this afternoon. [[00:01:01](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=61.96s)]
+*  Marquise, thank you. [[00:01:05](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=65.56s)]
+*  So Billy, let's start with the question on everyone's mind. [[00:01:07](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=67.12s)]
+*  Is it still safe to fly into and out of Newark right now? [[00:01:09](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=69.68s)]
+*  Absolutely. [[00:01:12](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=72.8s)]
+*  So, Chris, thanks for having me on. [[00:01:13](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=73.8s)]
+*  Bottom line up front, it is absolutely safe to fly. [[00:01:15](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=75.24s)]
+*  Yet our system could be more resilient than it is today. [[00:01:19](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=79.0s)]
+*  We've got a legacy air transportation system. [[00:01:23](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=83.39999999999999s)]
+*  In some cases, we're kind of running three different ones with some legacy equipment, [[00:01:26](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=86.28s)]
+*  copper wiring, so paper strips in some places. [[00:01:31](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=91.84s)]
+*  So this is one where I just tip my hat to Secretary Duffy for the work he's done and [[00:01:36](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=96.56s)]
+*  the leadership that he is exhibiting to FAA Administrator Chris Rosalau and the team. [[00:01:42](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=102.96s)]
+*  There's much work to be done. [[00:01:48](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=108.8s)]
+*  It's recognized by the industry, it's recognized by the Congress. [[00:01:50](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=110.4s)]
+*  I was in a luncheon with Senator Cruz earlier in the year, just after the horrific crash [[00:01:54](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=114.2s)]
+*  in January. [[00:02:00](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=120.2s)]
+*  And he's committed and the Senate Commerce Committee is committed to getting the funding [[00:02:01](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=121.72s)]
+*  that the FAA needs. [[00:02:06](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=126.16s)]
+*  On the House side, House TNI, Sam Gray, Rick Larson are equally committed. [[00:02:07](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=127.68s)]
+*  So now's the time to really lean in and give America the best air traffic control system [[00:02:11](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=131.88s)]
+*  that it deserves. [[00:02:19](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=139.07999999999998s)]
+*  Understood, but we're looking at a process that could take not days, not weeks, not months, [[00:02:20](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=140.44s)]
+*  but years. [[00:02:25](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=145.28s)]
+*  And in the meantime, let's take safety off of the table. [[00:02:26](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=146.84s)]
+*  And I think that's a some people have have said they just not going to fly into and out [[00:02:30](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=150.44s)]
+*  of Newark. [[00:02:35](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=155.64s)]
+*  But if you need to get somewhere, if you're going to your sister's wedding, if you have [[00:02:36](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=156.56s)]
+*  a vacation, whatever the need is and you don't have any flexibility at all, is it smart to [[00:02:41](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=161.23999999999998s)]
+*  fly out of Newark right now? [[00:02:48](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=168.48s)]
+*  Let me just say, look, you know, the biggest airline in Europe, of course, is United. [[00:02:50](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=170.96s)]
+*  I know Scott Kirby very well, the CEO. [[00:02:56](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=176.04s)]
+*  He and his team run a phenomenal airline. [[00:02:58](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=178.84s)]
+*  Is it an opportunity for us to go take a look at how, you know, Newark is a, you know, it's [[00:03:01](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=181.24s)]
+*  a category three, I'm sorry, category two airport where those slots are voluntary. [[00:03:07](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=187.4s)]
+*  And so sometimes does everyone adhere to them as they should? [[00:03:13](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=193.52s)]
+*  Sometimes they do. Sometimes they don't, to be quite honest. [[00:03:17](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=197.32s)]
+*  Is it time to take that to a higher level where that is a more rigid process and that [[00:03:20](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=200.04s)]
+*  the slots that are there are the slots that you must use? [[00:03:26](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=206.28s)]
+*  Now, this reduces the level of the amount of traffic into and out of Newark, but it could [[00:03:29](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=209.76s)]
+*  also free up some of the congestion that we're seeing. [[00:03:36](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=216.32s)]
+*  Newark's a good airport. [[00:03:39](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=219.28s)]
+*  It's got some structural issues. [[00:03:40](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=220.72s)]
+*  It's got runway construction and all of those just sort of come together. [[00:03:42](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=222.44s)]
+*  It just means that more and more Americans are flying and we've just got to do better [[00:03:46](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=226.84s)]
+*  in terms of this. [[00:03:51](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=231.32s)]
+*  Now, there are some near term things you can do. [[00:03:52](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=232.32s)]
+*  Can I interrupt you for just a second? [[00:03:54](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=234.20000000000002s)]
+*  And I'm sorry that the guy you just talked about, the president of United Airlines, just [[00:03:55](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=235.8s)]
+*  put out a letter that is more than a page long. [[00:04:02](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=242.4s)]
+*  I'm going to read you a key part of it. [[00:04:06](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=246.8s)]
+*  In ideal weather, he says, with full staffing and with perfectly functioning technology, [[00:04:09](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=249.28s)]
+*  The FAA tells us that the airport can only handle 77 flights per hour. [[00:04:14](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=254.92s)]
+*  And yet the FAA regularly approves schedules of 80 plus flights per hour almost every day [[00:04:20](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=260.76s)]
+*  between 3 and 8 p.m. [[00:04:26](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=266.59999999999997s)]
+*  This math doesn't work, especially when there is weather, staffing issues or technology [[00:04:28](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=268.96s)]
+*  breakdowns. [[00:04:34](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=274.88s)]
+*  The airspace, taxiways and runways get back up and gridlock occurs. [[00:04:35](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=275.88s)]
+*  And then he asked the question, how can this continually happen at EWR Newark? [[00:04:42](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=282.2s)]
+*  Is there an answer for that? [[00:04:48](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=288.28s)]
+*  There is an answer in that it cannot continue at this rate. [[00:04:49](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=289.92s)]
+*  Otherwise we will continue to suffer the kind of delays that you're seeing. [[00:04:52](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=292.96s)]
+*  Now some of this, of course, is, you know, can be attributed to some equipment breakdown, [[00:04:57](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=297.28s)]
+*  that level of redundancy that we need that Secretary Duffy is working on. [[00:05:01](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=301.71999999999997s)]
+*  But Scott makes an excellent point and it's something for certainly for DOT and FAA to [[00:05:05](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=305.64s)]
+*  look at that says, are we, you know, what is that number? [[00:05:10](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=310.6s)]
+*  Is it time to be again more controlling there? [[00:05:15](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=315.20000000000005s)]
+*  That sometimes means less choice, but it improves the level of efficiency there. [[00:05:18](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=318.44s)]
+*  So I'm not the point person, but I do think that that's a valid argument being made and [[00:05:23](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=323.88s)]
+*  it's something worth looking into. [[00:05:28](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=328.68s)]
+*  So he talks about something specifically. [[00:05:30](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=330.34000000000003s)]
+*  And so I want you to explain it to folks because he said one of the things that has to be done [[00:05:32](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=332.58000000000004s)]
+*  to make sure that EWR, that Newark functions well between now and the time when everyone [[00:05:37](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=337.88s)]
+*  hopes that the shortages and these technical problems get fixed, return EWR to a level [[00:05:44](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=344.2s)]
+*  three slot controlled airport. [[00:05:50](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=350.46s)]
+*  This is the only way to achieve 77 flights per hour. [[00:05:53](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=353.62s)]
+*  What does that mean? [[00:05:58](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=358.32s)]
+*  What that means is that today, as I stated earlier, what that means is that it's a category [[00:05:59](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=359.84s)]
+*  two today. [[00:06:05](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=365.47999999999996s)]
+*  So that means that while there are some level controls that the carriers there, they do [[00:06:06](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=366.82s)]
+*  that on a voluntary basis. [[00:06:11](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=371.02s)]
+*  So someone decides to fudge, if you will, and do more than their allocated number. [[00:06:12](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=372.92s)]
+*  There's no, there's no, there's no penalty for that. [[00:06:19](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=379.52s)]
+*  So I think what's been argued here is should that the FAA and the DOT, should they take [[00:06:23](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=383.82s)]
+*  a look? [[00:06:28](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=388.65999999999997s)]
+*  Is it time to say, while we get through this construction, this phase until we just got [[00:06:29](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=389.65999999999997s)]
+*  better efficiency to go to a category three, which then has an absolute number of slots [[00:06:34](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=394.46s)]
+*  and that you can't go above that. [[00:06:41](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=401.06s)]
+*  And so I did, this is, this is really what, and what Scott is advocating for. [[00:06:43](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=403.02s)]
+*  Now you put that on top of what is being called out. [[00:06:47](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=407.82s)]
+*  15 billions we're hearing, we're hearing some different numbers. [[00:06:50](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=410.78s)]
+*  Could be 15, could be $30 billion. [[00:06:53](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=413.21999999999997s)]
+*  It's an opportunity to work on the controllers, work on infrastructure, work on that, work [[00:06:55](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=415.47999999999996s)]
+*  on efficiency. [[00:07:00](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=420.58s)]
+*  There's some great minds out there doing AI, you know, that could help AI decision making. [[00:07:01](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=421.7s)]
+*  So all of these things are things that we could and should be looking at. [[00:07:07](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=427.5s)]
+*  We'll certainly hear from the secretary tomorrow and see where his thoughts are. [[00:07:12](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=432.5s)]
+*  But this is truly a moment where we should come together and give America the best air [[00:07:16](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=436.97999999999996s)]
+*  or traffic control system in the world. [[00:07:22](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=442.14s)]
+*  And I should say that one of the things that Scott Kirby writes, and they're drastically [[00:07:24](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=444.26s)]
+*  reducing, or at least seriously reducing the number of flights that they are flying. [[00:07:28](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=448.82s)]
+*  He says in short, neither the FAA nor United Pilots will ever compromise on safety. [[00:07:33](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=453.18s)]
+*  Billy Nolan, thank you for helping us work through this. [[00:07:38](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=458.34s)]
+*  Appreciate it. [[00:07:40](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=460.86s)]
+*  Thank you. [[00:07:58](https://www.youtube.com/watch?v=lvRXpEc99Mc&t=478.7s)]
