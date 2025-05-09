@@ -1,0 +1,151 @@
+---
+Date Generated: May 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 729s
+Video Keywords: ['Ari Melber']
+Video Views: 67276
+Video Rating: None
+Video Description: President Trump’s ongoing trade war and tariffs continue to spark concern, with roughly half of Americans worried about their impact. MSNBC’s Ari Melber reports and is joined by MSNBC's Catherine Rampell and Reverend Al Sharpton, host of PoliticsNation. (The Beat's YouTube playlist: https://msnbc.com/ari Beat merch: www.msnbc.com/Beat5)
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #tariffs #tradewar
+---
+
+# ‘Buyer’s remorse’: Trump rejected by voters and markets as tariff chaos deepens slump
+**MSNBC - The Latest:** [May 08, 2025](https://www.youtube.com/watch?v=-t3IGT8RtnU)
+*  The markets. We've had these recession fears. We have a lot of Americans concerned about [[00:00:00](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=0.0s)]
+*  what they're living through, what they're feeling in the problems with Donald Trump's [[00:00:04](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=4.8s)]
+*  trade war and tariffs. There's new polling that actually shows this is not a left-right [[00:00:09](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=9.28s)]
+*  issue anymore, not one that goes half and half. This is 75 percent, a big majority of [[00:00:14](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=14.48s)]
+*  Americans, concerned that the tariffs will juice prices. Sixty-one percent want businesses [[00:00:20](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=20.88s)]
+*  to actually say when the tariffs are affecting prices. Again, that's something the Trump [[00:00:26](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=26.159999999999997s)]
+*  administration has opposed. There was some back and forth with different retailers about it. [[00:00:30](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=30.88s)]
+*  Trump was angry and posting specifically about Amazon and Jeff Bezos about it. [[00:00:35](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=35.76s)]
+*  Ford raising prices on three different cars today and saying that the trade war will cut [[00:00:42](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=42.4s)]
+*  into their profits by over a billion dollars. These are the examples of what's been going. [[00:00:50](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=50.0s)]
+*  If you follow the news, some days it's the top story, some days there's other things going on. [[00:00:55](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=55.6s)]
+*  If you turn on the financial news or read the Wall Street press, it's every day. Toyota says [[00:00:59](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=59.2s)]
+*  the decline is not going to be a couple points here, but rather 20 percent, a fifth of their [[00:01:05](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=65.2s)]
+*  total profits, all because of Donald Trump's decision to stick to these tariffs. So it's not [[00:01:10](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=70.24000000000001s)]
+*  going well by all of those measurable ways to look at it. The American businesses that we hear from, [[00:01:16](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=76.08s)]
+*  small, medium, and large, say the tariffs are bad. Most governments view this as a kind of a [[00:01:23](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=83.12s)]
+*  very Trumpian specific escalation, not something that was inevitable or the normal course of [[00:01:28](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=88.24000000000001s)]
+*  trade this year, just something that Trump barreled right into. In fact, when I show you [[00:01:34](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=94.4s)]
+*  75 percent of Americans concerned about the tariffs, you have to look around to find people [[00:01:40](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=100.64s)]
+*  who still think this might be a good idea. Here's Fox News' Laura Ingraham. [[00:01:44](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=104.96000000000001s)]
+*  No one wants what Trump is doing except, you know, the MAGA crowd, the reset [[00:01:50](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=110.24s)]
+*  crowd. Wall Street doesn't want to do this. That's part of how she was teeing up the issues to, [[00:01:58](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=118.8s)]
+*  of course, one of the Trump officials who's involved in all this. Trump is trying to sell [[00:02:05](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=125.75999999999999s)]
+*  austerity, but that's at odds with everything that he said during the campaign, right, that we would [[00:02:11](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=131.12s)]
+*  get prosperity and right away. Trump's Treasury Secretary says kids might have fewer dolls, [[00:02:15](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=135.52s)]
+*  but they'll get in exchange economic freedom, which has become a national punchline. [[00:02:20](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=140.56s)]
+*  Yes, if there's one thing children love, it's the concept of economic freedom. [[00:02:28](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=148.88s)]
+*  They're raising prices on Barbie. Even she has to cut back. She had to move out of Barbie's [[00:02:33](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=153.52s)]
+*  Dream House and into Barbie's dream studio apartment with two roommates. [[00:02:38](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=158.72s)]
+*  Her pink convertible is now a 2007 Toyota Tercel. It's very sad. Come on, [[00:02:42](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=162.4s)]
+*  don't make Barbie tighten her belt even more. She only has a one-inch waist. [[00:02:48](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=168.96s)]
+*  The Barbie jokes can kind of give us all a little, little moment to exhale, but the punchline there [[00:02:54](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=174.96s)]
+*  that works, and it works regardless of who you voted for, or people who wanted a change from Biden, [[00:03:00](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=180.96s)]
+*  or people who thought Trump would bring prosperity like he said he would, this isn't really about the [[00:03:05](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=185.76000000000002s)]
+*  partisan imprint from last year's election. This is now about the governing of President Trump and [[00:03:10](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=190.64s)]
+*  how it's actually going, and people don't think it's going well. The punchline is there isn't [[00:03:16](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=196.95999999999998s)]
+*  really a good other side of this debate. MAGA figures are looking at the trade deficits, and [[00:03:21](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=201.92s)]
+*  remember, it's complicated. We've heard from economists, but by the Trump plan, meaning what [[00:03:27](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=207.67999999999998s)]
+*  he said this was about was dealing with the trade deficit countries, China, Mexico, Vietnam. Those [[00:03:34](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=214.08s)]
+*  are the big countries you see there where he says we're getting the raw end of the deal. That's what [[00:03:41](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=221.28s)]
+*  he and his allies have fixated on. With respect, are you overstating the reach and significance of [[00:03:46](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=226.4s)]
+*  this deal because you're a president who needs a result at a difficult time? I think that it's a [[00:03:53](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=233.44s)]
+*  great deal for both parties. Now, the world has been coming to the U.S. and China has been the missing [[00:03:59](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=239.04s)]
+*  piece. China wants to do something, and look, they have to at this point. You know, essentially, [[00:04:07](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=247.44s)]
+*  they made a trillion dollars a year. You know, we almost had a deal with China, [[00:04:14](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=254.07999999999998s)]
+*  where we were going to open up China. It was almost done. China has taken over 60,000 of our [[00:04:18](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=258.56s)]
+*  factories, over 5 million manufacturing jobs. The conflict we're having with them cannot be [[00:04:23](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=263.6s)]
+*  understated, and we have to be clear-eyed about that. All right, so as far as Trump aides are [[00:04:30](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=270.0s)]
+*  concerned, including Peter Navarro, who's been on this program, can't be understated or overstated. [[00:04:36](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=276.88s)]
+*  It is just the biggest deal to go after China and those other countries I showed you where you have [[00:04:42](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=282.88s)]
+*  this gap. So that's the whole priority. If you hear Donald Trump pop up today, tomorrow, or next [[00:04:47](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=287.6s)]
+*  week talking about other countries and other stuff, by his measure, forget anyone else, by his measure, [[00:04:53](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=293.84000000000003s)]
+*  that is not what the trade war is about. It's not why he started the tariffs, because again, he wanted [[00:04:59](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=299.92s)]
+*  to make up for the big deficit countries where basically he says America's getting a raw deal [[00:05:05](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=305.04s)]
+*  because we're buying more than we're selling, yada, yada, yada. That's his metric. Now, in addition, [[00:05:11](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=311.28000000000003s)]
+*  I can tell you, if you want to get into sort of the economics of fact-checking, and it's not black [[00:05:16](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=316.96s)]
+*  and white, but most mainstream economists have said, economic experts, economists, professors, [[00:05:20](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=320.96s)]
+*  and people in the markets who do this day by day, they say that you actually don't think of trade [[00:05:26](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=326.79999999999995s)]
+*  deficits as automatically bad. Indeed, there are many occasions where you want to run trade deficits. [[00:05:31](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=331.76s)]
+*  To pick a very simple example, if you're a country that doesn't have the weather to make [[00:05:37](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=337.35999999999996s)]
+*  bananas, then you're going to have a banana deficit because you want to ship them into your country. [[00:05:43](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=343.92s)]
+*  That deficit isn't good or bad. It's just a product of reality. You don't make bananas. You [[00:05:49](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=349.28000000000003s)]
+*  can't grow them here. People want them. You buy them. Add 100 other products, and you get the idea. [[00:05:55](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=355.52000000000004s)]
+*  But again, Trump says these tariffs will deal with what he calls these concerning trade deficits with [[00:06:01](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=361.52000000000004s)]
+*  those countries like China and other countries in Asia. So keep that in mind when you learn that [[00:06:07](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=367.52000000000004s)]
+*  this week, you may have seen this if you've been on your phone or the internet today, [[00:06:13](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=373.12s)]
+*  Trump has announced a relatively small partial agreement, but it's not with China. It's not with [[00:06:16](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=376.56s)]
+*  Vietnam. It's with the United Kingdom. And the United States, if you're using the Trump measure, [[00:06:24](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=384.16s)]
+*  runs a trade surplus with them to about 12 billion last year. This kind of handshake trade deal does [[00:06:31](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=391.92s)]
+*  not end all the tariffs. Bloomberg reports the framework basically leaves many key details for [[00:06:39](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=399.76s)]
+*  later. Key issues unresolved. Apparently, the goal is to get some sort of claim of a deal or a partial [[00:06:45](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=405.76s)]
+*  deal headline out there and save the hard stuff for later. Paul Krugman, the Nobel-winning economist, [[00:06:53](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=413.76s)]
+*  says that pretending to fix what's broke seems to be the order of the day, and it may or may not happen. [[00:06:59](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=419.52s)]
+*  He also calls this the tariff equivalent of concepts of a plan, one of the Trump campaign [[00:07:04](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=424.4s)]
+*  gaps when he couldn't really say what the health care plan was last year. Now, in this new framework, [[00:07:10](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=430.64s)]
+*  10% tariffs on many UK products remain. So as I'm telling you, it's a deal but not a deal that ends [[00:07:16](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=436.15999999999997s)]
+*  the ramping up of his trade war with that and other countries. The tariffs would be reduced, [[00:07:23](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=443.12s)]
+*  they say, for cars and steel. No final UK deal. No agreements with the priority countries. [[00:07:27](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=447.68s)]
+*  And obviously not only no deal, but not even the concepts of the step of an initial [[00:07:33](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=453.84000000000003s)]
+*  set of negotiations with China where the big Trump tariffs are at 145%, [[00:07:39](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=459.76s)]
+*  where supply chains are disrupted, where we've had experts say the shelves in America may run bare. [[00:07:45](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=465.92s)]
+*  And no amount of Bloomberg headlines about partial deals with England are going to change that [[00:07:51](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=471.84000000000003s)]
+*  reality that is barreling at American consumers and voters. We are joined by the Reverend Al [[00:07:57](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=477.92s)]
+*  Sharpton, the host of Politics Nation, president of the National Action Network, a man who's known [[00:08:03](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=483.84000000000003s)]
+*  Donald Trump for a long time and is fresh off the Met Gala, Catherine Rampel, host of MSNBC's The [[00:08:07](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=487.44s)]
+*  Weekend, and a Washington Post columnist. Welcome to both of you. We'll get to the economics because [[00:08:13](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=493.6s)]
+*  I walked through why this wasn't the deal that they had promised. But what do you think of what [[00:08:20](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=500.24s)]
+*  they're selling? Because, Rev, this is Trumpian politics first. You want headlines about some [[00:08:25](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=505.36s)]
+*  kind of deal before the actual trade negotiators reach a deal. And to say that you want some kind [[00:08:32](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=512.24s)]
+*  of deal is absurd. I mean, he promised on day one many things he hasn't delivered. And now, [[00:08:39](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=519.2s)]
+*  I think you said it best to sell austerity rather than prosperity is something that is [[00:08:47](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=527.52s)]
+*  miles away from what he told his own constituents, but I think all his own supporters. [[00:08:54](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=534.96s)]
+*  I think what is even more important is that he does not have a deal. There is no deal. He's [[00:09:00](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=540.48s)]
+*  announced something with England today that we really don't know what that really means. [[00:09:07](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=547.68s)]
+*  We don't know what's going on with China. They can't even agree with who called the meeting. [[00:09:11](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=551.84s)]
+*  And in the interim, we have Mother's Day coming up Sunday. Flowers are up. He's telling kids [[00:09:16](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=556.48s)]
+*  that they can't have dolls. I mean, this is the worst of the worst of Trump fumbling the ball. [[00:09:22](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=562.88s)]
+*  And I think that a lot of voters that supported him are starting to get voters' remorse or buyers' [[00:09:29](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=569.4399999999999s)]
+*  remorse. Buyers' remorse, yeah. Because I think that he clearly has not only not did what he said, [[00:09:36](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=576.72s)]
+*  he's doing the opposite. He's causing inflation. He's causing it to stay where it is or rise. [[00:09:42](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=582.88s)]
+*  And it's going to cause a lot to his base, farmers and others that depend on a lot of the things that [[00:09:49](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=589.52s)]
+*  he's putting tariffs on. Yeah. And Catherine, we've seen that in the new polling that the tariffs are [[00:09:56](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=596.4s)]
+*  getting less popular the more people hear about them. We all cover stuff, right? There aren't a [[00:10:01](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=601.36s)]
+*  lot of 75% issues in American politics. Really. I mean, you tell people, well, Biden did it or Trump [[00:10:08](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=608.0s)]
+*  did it. Right away, you start to get a fissure. 75% and growing is the concern. And I want to be [[00:10:12](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=612.88s)]
+*  clear, that doesn't mean that those Republicans are turning Democrat in the midterms. It just means [[00:10:17](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=617.84s)]
+*  they were rooting for Trump. They do like him. And they're still mad and concerned about tariffs. [[00:10:23](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=623.2800000000001s)]
+*  Where does the deal fit into that? Well, Trump is essentially demanding wartime sacrifices from the [[00:10:28](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=628.4s)]
+*  American people, even as he's giving himself a military parade that will cost tens of millions [[00:10:34](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=634.48s)]
+*  of dollars. He's saying that we're going to have higher prices not only on dolls. He's acknowledging [[00:10:41](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=641.52s)]
+*  higher prices on all sorts of baby goods, strollers. He was asked about that explicitly in the NBC Meet [[00:10:47](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=647.6s)]
+*  the Press interview over the weekend. Today, he even said maybe we'll raise the tariffs on [[00:10:53](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=653.84s)]
+*  Mattel even higher. Mattel, which is the company that makes Barbie and Hot Wheels and a lot of [[00:10:59](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=659.6s)]
+*  other popular kids' toys, which he mistakenly thought was a country somehow. Yeah. You know [[00:11:04](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=664.48s)]
+*  what? We'll play that. Yeah. I'd love that. Mattel, I don't know. I'm not so sure. They also said [[00:11:09](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=669.84s)]
+*  they're the only country I've heard. They said, well, we're going to go counter. We're going to [[00:11:17](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=677.52s)]
+*  try going someplace else. That's OK. Let him go. And we'll put 100 percent tariff on his toys. [[00:11:20](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=680.4s)]
+*  And he won't sell one toy in the United States. And that's their biggest market. [[00:11:26](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=686.3199999999999s)]
+*  I heard that. I mean, I watched this guy talking about how I'm going to go counter. I said, well, [[00:11:30](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=690.48s)]
+*  I wouldn't want to have him as an executive too long. I have no idea what any of that means, [[00:11:34](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=694.48s)]
+*  except that it's going to raise prices even higher. [[00:11:40](https://www.youtube.com/watch?v=-t3IGT8RtnU&t=700.4s)]
