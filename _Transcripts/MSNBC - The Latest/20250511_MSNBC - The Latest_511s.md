@@ -1,0 +1,151 @@
+---
+Date Generated: May 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 511s
+Video Keywords: ['MSNBC']
+Video Views: 28733
+Video Rating: None
+Video Description: Rep. Jasmine Crockett (D-TX) gave a look behind the scenes of things as she said in an interview Democratic donors were “lining up” behind one specific candidate, but chose not to name that person. Vice President of Political Strategy at Crooked Media Shaniqua McClendon and former Rep. Carlos Curbelo discuss the politics of a female candidate leading the Democrats in four years time and more.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#politics #democrats #msnbc
+---
+
+# Is a female candidate at the top of the 2028 ticket ‘radioactive’ for Democrats?
+**MSNBC - The Latest:** [May 11, 2025](https://www.youtube.com/watch?v=xwgNNxq0VFU)
+*  New alarms today. The Trump administration may pursue criminal charges against three Democrats in Congress who visited a New Jersey ICE facility. [[00:00:00](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=0.0s)]
+*  The administration accusing the House members of assaulting ICE officers, but the lawmakers say they were the ones attacked. [[00:00:08](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=8.5s)]
+*  It comes after ICE arrested the mayor of Newark, New Jersey, alleging he trespassed while trying to hold a news conference. [[00:00:15](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=15.200000000000001s)]
+*  There's no video that supports me body slamming anyone. [[00:00:21](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=21.5s)]
+*  As Congresswoman Bonnie Watson Coleman said, we were simply there to do our job. [[00:00:27](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=27.6s)]
+*  Therefore oversight visit and what you what you're watching in a video when we don't have all of the body cam and we hope that all of the body cam is released. [[00:00:33](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=33.2s)]
+*  It was a very tense situation. It unfortunately did not have to be like that. [[00:00:42](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=42.1s)]
+*  They created that confrontation. They created that chaos. [[00:00:46](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=46.900000000000006s)]
+*  Joining me now is Shaniqua McClendon, vice president of political strategy at Crooked Media, along with former Florida representative and MSNBC political analyst Carlos Cabello. [[00:00:51](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=51.4s)]
+*  So welcome to you both. Shaniqua, there have been a number of aggressive ICE actions and now the arrest of Newark's mayor and the administration threatening charges against members of Congress. [[00:01:00](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=60.0s)]
+*  Are Americans, even those who support Trump's immigration agenda, on board with this? [[00:01:10](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=70.2s)]
+*  Can you open up your mic? You have it turned off. [[00:01:15](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=75.4s)]
+*  So sorry. No, I don't think Americans want to see this. Donald Trump. [[00:01:21](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=81.10000000000001s)]
+*  There were two issues that got him elected immigration and the economy. [[00:01:27](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=87.60000000000001s)]
+*  And it's the two issues that he is just overstepped on. [[00:01:31](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=91.4s)]
+*  He seems to think he was elected with a mandate to do whatever he wants. [[00:01:34](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=94.4s)]
+*  But as we've seen, people are reacting negatively to this. [[00:01:38](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=98.4s)]
+*  This is why a lot of people are protesting in the streets. [[00:01:42](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=102.10000000000001s)]
+*  They are overstepping. So I think he's only going to make more and more Americans angry with the decisions he's making to be so aggressive and, you know, honestly defy the Constitution in the courts with some of his immigration decisions, but also with the economy. [[00:01:44](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=104.2s)]
+*  And, you know, I think Republicans in the House and Senate are going to be the ones who ultimately pay for that. [[00:01:59](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=119.0s)]
+*  You know, Carlos, you told me two weeks ago that you give Trump an eight out of ten on how he's handled immigration in his first 100 days. [[00:02:05](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=125.2s)]
+*  So what is your response to what happened in New Jersey and to White House adviser Stephen Miller saying they're looking at suspending habeas corpus for migrants? [[00:02:12](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=132.2s)]
+*  I mean, is the administration going too far? [[00:02:20](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=140.4s)]
+*  So we know that the administration has had a lot of public support and patience on the immigration issue. [[00:02:24](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=144.2s)]
+*  A lot of Americans were frustrated with the previous administration on it. [[00:02:31](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=151.79999999999998s)]
+*  So they have given Donald Trump and his team a lot of latitude to work on this issue. [[00:02:35](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=155.1s)]
+*  However, there is such a thing as going too far. [[00:02:39](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=159.8s)]
+*  We saw this under the first Trump administration with the child separation policy. [[00:02:43](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=163.20000000000002s)]
+*  That's when the administration lost the public on the immigration issue. [[00:02:48](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=168.3s)]
+*  We're seeing them get a little too aggressive here. [[00:02:53](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=173.5s)]
+*  And I do think that eventually this can start backfiring, especially with those swing voters who will determine who controls Congress in the fall of next year. [[00:02:56](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=176.8s)]
+*  Congressional Republicans are particularly worried, Alex, about the Trump administration overreaching on immigration. [[00:03:07](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=187.7s)]
+*  Shaniqua, I want to play some of what Congresswoman Jasmine Crockett said yesterday, [[00:03:15](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=195.89999999999998s)]
+*  alleging that Democrats are afraid of voting for a woman president because they believe a woman can't win. [[00:03:20](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=200.79999999999998s)]
+*  Let's take a listen to that. [[00:03:27](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=207.1s)]
+*  And I think that that's a natural fear because we just want to win. [[00:03:30](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=210.0s)]
+*  So there's a lot of people that are like, you know what? [[00:03:33](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=213.5s)]
+*  Like, let's go find the safest white boy we can find. [[00:03:36](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=216.1s)]
+*  I mean, I'm just saying. [[00:03:38](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=218.8s)]
+*  Those are the callers that we're hearing. [[00:03:39](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=219.8s)]
+*  We're hearing people. [[00:03:41](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=221.0s)]
+*  No, for real. [[00:03:41](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=221.70000000000002s)]
+*  A white man's got to do it. [[00:03:42](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=222.4s)]
+*  No, no, no, no. [[00:03:43](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=223.20000000000002s)]
+*  For real. [[00:03:44](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=224.4s)]
+*  And to be clear, when we talk about them, I can tell you that there is one specific candidate. [[00:03:45](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=225.20000000000002s)]
+*  I had a donor on the phones with me telling me that all the donors are lining up behind that candidate. [[00:03:51](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=231.3s)]
+*  Big picture what she said there, Shaniqua. [[00:03:58](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=238.4s)]
+*  Is she right? [[00:04:00](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=240.1s)]
+*  And would you care to speculate on who the candidate that she's referring to is? [[00:04:01](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=241.2s)]
+*  Is it a white male? [[00:04:04](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=244.7s)]
+*  I will say that it is probably a white man that she is talking about, but won't speculate on exactly who. [[00:04:08](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=248.0s)]
+*  I do think Democrats have a lot of fear. [[00:04:14](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=254.0s)]
+*  But the thing that we have to remember is the two times that we've had a woman seriously run at the top of the ticket, [[00:04:16](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=256.2s)]
+*  Donald Trump was the opponent. [[00:04:23](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=263.0s)]
+*  And for whatever reason, he is a rare political talent, unfortunately. [[00:04:24](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=264.8s)]
+*  And so he was able to win. [[00:04:28](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=268.5s)]
+*  And so I don't think we can put all of our beliefs about whether or not a woman can win in the last two elections, [[00:04:29](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=269.9s)]
+*  especially the 2024 one when Kamala Harris had 90 days to run. [[00:04:36](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=276.7s)]
+*  I think there's a lot of voters probably who think this way. [[00:04:42](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=282.4s)]
+*  But I really hope one day voters can get out of this punditry. [[00:04:47](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=287.09999999999997s)]
+*  We should be electing the best leaders. [[00:04:51](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=291.29999999999995s)]
+*  And in 2004, after George W. Bush won again, everyone said the same thing. [[00:04:53](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=293.70000000000005s)]
+*  And we got Barack Obama. [[00:04:58](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=298.5s)]
+*  So I think we should be hesitant about that and wait to see. [[00:04:59](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=299.90000000000003s)]
+*  There might be some people we haven't even heard of yet who will be on the ticket in 2028. [[00:05:03](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=303.0s)]
+*  Carlos, I mean, after the losses of Hillary Clinton and Kamala Harris, [[00:05:07](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=307.3s)]
+*  do Democrats see a female presidential candidate as potentially radioactive? [[00:05:11](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=311.3s)]
+*  Or to Shaniqua's point, is it the Donald Trump factor that was so unique in both of those elections? [[00:05:16](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=316.40000000000003s)]
+*  And also, who's your guess on the lawmaker that Crockett was referring to as the party's choice? [[00:05:22](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=322.3s)]
+*  Alex, I have no idea who that could be. [[00:05:28](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=328.2s)]
+*  What I can tell you is that I think Democrats should stop obsessing over race and gender. [[00:05:30](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=330.40000000000003s)]
+*  They have to find the best candidate, the candidate who can win. [[00:05:35](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=335.8s)]
+*  Maybe it's a woman. Maybe it's a man. Maybe it's an African American. [[00:05:39](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=339.2s)]
+*  Maybe it's someone white. Maybe it's an Asian American. [[00:05:42](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=342.2s)]
+*  Who knows? But this obsession over race, gender, what type of candidate we want, [[00:05:44](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=344.1s)]
+*  the best candidate in politics is the type of candidate who can win. [[00:05:49](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=349.7s)]
+*  I think that means someone who can win the center of the American electorate. [[00:05:53](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=353.09999999999997s)]
+*  We know Donald Trump has a very powerful base. [[00:05:58](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=358.2s)]
+*  Okay, this MAGA base is big. [[00:06:00](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=360.5s)]
+*  If you're going to go for another base-on-base competition, [[00:06:02](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=362.3s)]
+*  you might lose the party that can really win the center of the country [[00:06:06](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=366.09999999999997s)]
+*  is the one that will set itself best up for not permanent majorities [[00:06:10](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=370.9s)]
+*  because that doesn't exist anymore, [[00:06:14](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=374.3s)]
+*  but to hold on to power for more than one election cycle. [[00:06:15](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=375.7s)]
+*  So let me get to this, Shaniqua. [[00:06:19](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=379.9s)]
+*  A close ally of Congresswoman Alexandria Ocasio-Cortez [[00:06:21](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=381.59999999999997s)]
+*  told the Wall Street Journal she hasn't made a decision about her future, [[00:06:24](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=384.8s)]
+*  but isn't ruling anything out, including primarying Senate Minority Leader Chuck Schumer. [[00:06:27](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=387.59999999999997s)]
+*  Is the Senate a safer bet for her? [[00:06:32](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=392.9s)]
+*  Is AOC's reputation as a progressive, to Carlos's point, [[00:06:35](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=395.59999999999997s)]
+*  too ingrained to her to appeal to centrist voters? [[00:06:40](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=400.0s)]
+*  I think right now Americans are not so much responding to right and left. [[00:06:44](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=404.8s)]
+*  They want to know that someone is focused on them. [[00:06:49](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=409.1s)]
+*  Donald Trump said that he would be when he ran for election, [[00:06:51](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=411.40000000000003s)]
+*  and now we're seeing right now that he's not, [[00:06:54](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=414.0s)]
+*  and a lot of voters feel that way. [[00:06:55](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=415.5s)]
+*  I think Representative Ocasio-Cortez and this tour that she's doing with Bernie Sanders, [[00:06:57](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=417.1s)]
+*  it's really reaching people. [[00:07:02](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=422.1s)]
+*  You are seeing thousands of people show up in really small towns [[00:07:03](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=423.7s)]
+*  and then tens of thousands of people showing up in these big cities. [[00:07:07](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=427.3s)]
+*  Even after the election, she shared some, you know, [[00:07:11](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=431.9s)]
+*  asked me any things, or she was doing a Q&A with her audience on Instagram, [[00:07:15](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=435.9s)]
+*  and there were voters in her district who said they voted for her and Donald Trump, [[00:07:19](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=439.1s)]
+*  because they felt like she was authentic. [[00:07:22](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=442.5s)]
+*  So I think she has a chance, [[00:07:24](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=444.0s)]
+*  but given the kind of nature of the political machine in New York, [[00:07:26](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=446.0s)]
+*  and they already know she's a threat, [[00:07:29](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=449.8s)]
+*  she might have a better chance nationwide. [[00:07:31](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=451.6s)]
+*  A quick question then to you, Carlos. [[00:07:34](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=454.1s)]
+*  I mean, look, Democrats didn't particularly fear Donald Trump first time around. [[00:07:35](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=455.9s)]
+*  Should Republicans fear AOC if she runs? [[00:07:40](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=460.20000000000005s)]
+*  I think what Republicans fear most is a candidate [[00:07:44](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=464.5s)]
+*  that can occupy that center lane in the country, Alex, [[00:07:48](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=468.1s)]
+*  because they know Donald Trump and his movement are wonderful at turning out their base. [[00:07:52](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=472.3s)]
+*  But the reason Donald Trump lost in 2020 is because Joe Biden was able to convince [[00:07:57](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=477.1s)]
+*  the center of the country that he was a better candidate. [[00:08:02](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=482.5s)]
+*  Okay. [[00:08:05](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=485.8s)]
+*  Well, you guys, nobody beats the two of you, [[00:08:06](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=486.8s)]
+*  so I'll have you back next weekend. [[00:08:08](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=488.4s)]
+*  Shaniqua and Carlos, thank you much. [[00:08:09](https://www.youtube.com/watch?v=xwgNNxq0VFU&t=489.59999999999997s)]

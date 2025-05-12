@@ -1,0 +1,152 @@
+---
+Date Generated: May 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 551s
+Video Keywords: ['Al Sharpton']
+Video Views: 37679
+Video Rating: None
+Video Description: Some right-wing figures, including Ben Shapiro, are calling on President Trump to pardon Derek Chauvin, the former Minnesota police officer who was convicted of killing George Floyd in 2020. Minnesota Attorney General Keith Ellison reaffirms on "PoliticsNation" that regardless of whether Chauvin receives a pardon, "he still owes Minnesota twenty-two-and-a-half years."
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#trump #derekchauvin #georgefloyd
+---
+
+# 'He is not getting out': AG Keith Ellison reacts to MAGA's push for Derek Chauvin pardon
+**MSNBC - The Latest:** [May 11, 2025](https://www.youtube.com/watch?v=VXEyrXLD40U)
+*  We are just two weeks away from the fifth anniversary of the murder of George Floyd. [[00:00:00](https://www.youtube.com/watch?v=VXEyrXLD40U&t=0.0s)]
+*  A half a decade later, some in Magoworl are trying to rewrite the history of that tragedy, [[00:00:05](https://www.youtube.com/watch?v=VXEyrXLD40U&t=5.92s)]
+*  calling on President Trump to pardon Derek Chauvin, the police officer convicted in Floyd's [[00:00:13](https://www.youtube.com/watch?v=VXEyrXLD40U&t=13.200000000000001s)]
+*  murder. [[00:00:20](https://www.youtube.com/watch?v=VXEyrXLD40U&t=20.6s)]
+*  Joining me now to talk about this and other topics is Minnesota Attorney General Keith [[00:00:21](https://www.youtube.com/watch?v=VXEyrXLD40U&t=21.76s)]
+*  Ellison, who led the prosecutions in that trial successfully. [[00:00:27](https://www.youtube.com/watch?v=VXEyrXLD40U&t=27.56s)]
+*  Thank you for being on the show today, Attorney General Ellison. [[00:00:32](https://www.youtube.com/watch?v=VXEyrXLD40U&t=32.12s)]
+*  Thank you, Reverend. [[00:00:35](https://www.youtube.com/watch?v=VXEyrXLD40U&t=35.0s)]
+*  Let me go right to it. [[00:00:37](https://www.youtube.com/watch?v=VXEyrXLD40U&t=37.36s)]
+*  A federal pardon wouldn't have any impact on Chauvin's 23-year sentence on state murder [[00:00:38](https://www.youtube.com/watch?v=VXEyrXLD40U&t=38.36s)]
+*  charges that you won. [[00:00:45](https://www.youtube.com/watch?v=VXEyrXLD40U&t=45.480000000000004s)]
+*  So why do you think voices on the right like Ben Shapiro are pushing for a federal pardon? [[00:00:47](https://www.youtube.com/watch?v=VXEyrXLD40U&t=47.519999999999996s)]
+*  I think they're pushing for it because they want to agitate and outrage people. [[00:00:55](https://www.youtube.com/watch?v=VXEyrXLD40U&t=55.06s)]
+*  But as you just pointed out, Rev, for those who may not know, I don't know if Trump's [[00:01:00](https://www.youtube.com/watch?v=VXEyrXLD40U&t=60.580000000000005s)]
+*  going to pardon Chauvin or not, but if he does, it doesn't change his prison sentence. [[00:01:05](https://www.youtube.com/watch?v=VXEyrXLD40U&t=65.62s)]
+*  He still owes Minnesota 22 and a half years, and he's going to do it either in Minnesota [[00:01:10](https://www.youtube.com/watch?v=VXEyrXLD40U&t=70.78s)]
+*  or somewhere, but he's not getting out. [[00:01:17](https://www.youtube.com/watch?v=VXEyrXLD40U&t=77.98s)]
+*  Why would they want to do this? [[00:01:20](https://www.youtube.com/watch?v=VXEyrXLD40U&t=80.62s)]
+*  I don't know. [[00:01:22](https://www.youtube.com/watch?v=VXEyrXLD40U&t=82.38s)]
+*  That's interesting because they might want to signal that they are pro-police officer. [[00:01:23](https://www.youtube.com/watch?v=VXEyrXLD40U&t=83.74s)]
+*  But the fact is that they're the ones who pardoned 1,500 people who attacked police [[00:01:28](https://www.youtube.com/watch?v=VXEyrXLD40U&t=88.82s)]
+*  officers and caused 140 officers to be injured on J-6. [[00:01:34](https://www.youtube.com/watch?v=VXEyrXLD40U&t=94.17999999999999s)]
+*  So that is a strange thing. [[00:01:38](https://www.youtube.com/watch?v=VXEyrXLD40U&t=98.94s)]
+*  They might want to provoke people to go into the streets so that they can, I don't know, [[00:01:41](https://www.youtube.com/watch?v=VXEyrXLD40U&t=101.5s)]
+*  invoke the Insurrection Act or something like that. [[00:01:45](https://www.youtube.com/watch?v=VXEyrXLD40U&t=105.82s)]
+*  But in no case is it sensible and good for America. [[00:01:49](https://www.youtube.com/watch?v=VXEyrXLD40U&t=109.03999999999999s)]
+*  In fact, what we need is to really double down and improve police-community relations. [[00:01:52](https://www.youtube.com/watch?v=VXEyrXLD40U&t=112.64s)]
+*  As you know, Rev, we really have not reduced police-involved deadly incidents since George Floyd. [[00:01:58](https://www.youtube.com/watch?v=VXEyrXLD40U&t=118.96s)]
+*  We've done a lot of good things on the local level, but at the federal level, we have not [[00:02:07](https://www.youtube.com/watch?v=VXEyrXLD40U&t=127.16s)]
+*  taken up the George Floyd Justice and Policing Act. [[00:02:11](https://www.youtube.com/watch?v=VXEyrXLD40U&t=131.76s)]
+*  So there's a lot of work that remains to be done. [[00:02:14](https://www.youtube.com/watch?v=VXEyrXLD40U&t=134.98s)]
+*  I wish that Trump would work on those things. [[00:02:16](https://www.youtube.com/watch?v=VXEyrXLD40U&t=136.92s)]
+*  Now, so far, the White House has denied President Trump has any plans to pardon Chauvin, maybe [[00:02:19](https://www.youtube.com/watch?v=VXEyrXLD40U&t=139.83999999999997s)]
+*  because he's doing plenty to undermine Floyd's legacy without a pardon. [[00:02:26](https://www.youtube.com/watch?v=VXEyrXLD40U&t=146.23999999999998s)]
+*  The Justice Department Civil Rights Division has been gutted. [[00:02:32](https://www.youtube.com/watch?v=VXEyrXLD40U&t=152.39999999999998s)]
+*  Black Lives Matter Plaza in Washington, D.C. has been painted over. [[00:02:36](https://www.youtube.com/watch?v=VXEyrXLD40U&t=156.76s)]
+*  Anti-discrimination measures throughout government are being dismantled. [[00:02:41](https://www.youtube.com/watch?v=VXEyrXLD40U&t=161.6s)]
+*  Do you think those efforts to reduce George Floyd's impact on America have succeeded? [[00:02:46](https://www.youtube.com/watch?v=VXEyrXLD40U&t=166.04s)]
+*  No, I don't. [[00:02:52](https://www.youtube.com/watch?v=VXEyrXLD40U&t=172.28s)]
+*  I think that the spirit of the moment that George Floyd was taken from us and the way [[00:02:54](https://www.youtube.com/watch?v=VXEyrXLD40U&t=174.12s)]
+*  he was and the inspiration that he provided burns bright in the hearts of all Americans [[00:03:01](https://www.youtube.com/watch?v=VXEyrXLD40U&t=181.16s)]
+*  who care about justice. [[00:03:08](https://www.youtube.com/watch?v=VXEyrXLD40U&t=188.04s)]
+*  And so I think that you're not going to ever stop the people who went out to peacefully [[00:03:10](https://www.youtube.com/watch?v=VXEyrXLD40U&t=190.04s)]
+*  protest to raise their voices. [[00:03:14](https://www.youtube.com/watch?v=VXEyrXLD40U&t=194.48s)]
+*  As you know, Rev, you are one of the leading lights among them. [[00:03:17](https://www.youtube.com/watch?v=VXEyrXLD40U&t=197.16s)]
+*  We're not going to stop pulling for justice, standing up for members of law enforcement [[00:03:21](https://www.youtube.com/watch?v=VXEyrXLD40U&t=201.67999999999998s)]
+*  who do the job right. [[00:03:27](https://www.youtube.com/watch?v=VXEyrXLD40U&t=207.2s)]
+*  We're going to continue to keep that battle going. [[00:03:29](https://www.youtube.com/watch?v=VXEyrXLD40U&t=209.67999999999998s)]
+*  And I'll tell you this. [[00:03:33](https://www.youtube.com/watch?v=VXEyrXLD40U&t=213.6s)]
+*  We in Minnesota have our own consent decree with the Minneapolis Police Department. [[00:03:35](https://www.youtube.com/watch?v=VXEyrXLD40U&t=215.72s)]
+*  So no matter what they do with the Justice Department, with the federal consent decree, [[00:03:41](https://www.youtube.com/watch?v=VXEyrXLD40U&t=221.2s)]
+*  we still have a state one. [[00:03:45](https://www.youtube.com/watch?v=VXEyrXLD40U&t=225.88s)]
+*  So this is an important thing to keep in mind. [[00:03:47](https://www.youtube.com/watch?v=VXEyrXLD40U&t=227.51999999999998s)]
+*  Now staying with that, I was disappointed last week to see that three of the former [[00:03:49](https://www.youtube.com/watch?v=VXEyrXLD40U&t=229.51999999999998s)]
+*  Memphis police, police officers who participated in the beating of Tyree Nichols in 2023 were [[00:03:54](https://www.youtube.com/watch?v=VXEyrXLD40U&t=234.79999999999998s)]
+*  acquitted of all state charges by an out of town jury. [[00:04:06](https://www.youtube.com/watch?v=VXEyrXLD40U&t=246.23999999999998s)]
+*  Those officers still face federal convictions. [[00:04:11](https://www.youtube.com/watch?v=VXEyrXLD40U&t=251.16s)]
+*  Now those sentences come down next month. [[00:04:13](https://www.youtube.com/watch?v=VXEyrXLD40U&t=253.52s)]
+*  But I and other civil rights community leaders are concerned about whether this Justice Department [[00:04:16](https://www.youtube.com/watch?v=VXEyrXLD40U&t=256.6s)]
+*  can be trusted. [[00:04:24](https://www.youtube.com/watch?v=VXEyrXLD40U&t=264.32s)]
+*  And the president has already pardoned some Washington, D.C. police officers convicted [[00:04:25](https://www.youtube.com/watch?v=VXEyrXLD40U&t=265.88s)]
+*  in connection with the unauthorized chase and murder of a black man in 2020. [[00:04:31](https://www.youtube.com/watch?v=VXEyrXLD40U&t=271.54s)]
+*  What do you expect to happen with this new Justice Department? [[00:04:37](https://www.youtube.com/watch?v=VXEyrXLD40U&t=277.56s)]
+*  They've changed the emphasis saying that they're going against hate crimes against Christians [[00:04:41](https://www.youtube.com/watch?v=VXEyrXLD40U&t=281.0s)]
+*  and whites. [[00:04:46](https://www.youtube.com/watch?v=VXEyrXLD40U&t=286.32s)]
+*  And not focusing on things like policing, like basis of race and anti-Semitism and LGBTQ. [[00:04:49](https://www.youtube.com/watch?v=VXEyrXLD40U&t=289.44s)]
+*  What do you expect? [[00:04:57](https://www.youtube.com/watch?v=VXEyrXLD40U&t=297.92s)]
+*  Well, Rev, I always expect justice. [[00:04:59](https://www.youtube.com/watch?v=VXEyrXLD40U&t=299.28s)]
+*  I expect people to do the right thing and to live by the rule of law. [[00:05:03](https://www.youtube.com/watch?v=VXEyrXLD40U&t=303.2s)]
+*  I'm not naive. [[00:05:07](https://www.youtube.com/watch?v=VXEyrXLD40U&t=307.32s)]
+*  I do know that this particular Justice Department has taken a very bizarre turn away from justice, [[00:05:08](https://www.youtube.com/watch?v=VXEyrXLD40U&t=308.72s)]
+*  but I still expect it. [[00:05:16](https://www.youtube.com/watch?v=VXEyrXLD40U&t=316.04s)]
+*  And I urge people to lift up their voices and demand it. [[00:05:17](https://www.youtube.com/watch?v=VXEyrXLD40U&t=317.72s)]
+*  I think that if we have the power as an American people to shape what our government does, [[00:05:21](https://www.youtube.com/watch?v=VXEyrXLD40U&t=321.78000000000003s)]
+*  and there's no more time, more important than now, to insist that this Justice Department [[00:05:28](https://www.youtube.com/watch?v=VXEyrXLD40U&t=328.6s)]
+*  operate on the basis of justice. [[00:05:34](https://www.youtube.com/watch?v=VXEyrXLD40U&t=334.86s)]
+*  And that means police-community relationships, justice and policing. [[00:05:36](https://www.youtube.com/watch?v=VXEyrXLD40U&t=336.64s)]
+*  It means that we must insist upon it. [[00:05:42](https://www.youtube.com/watch?v=VXEyrXLD40U&t=342.18s)]
+*  And as we approach the anniversary of George Floyd's death, this is a good time to raise [[00:05:45](https://www.youtube.com/watch?v=VXEyrXLD40U&t=345.28s)]
+*  up your voice, write letters to the editor, peacefully protest, and remember George Floyd. [[00:05:51](https://www.youtube.com/watch?v=VXEyrXLD40U&t=351.12s)]
+*  And remember all of the people who stood at that corner calling for his life, stood there [[00:05:57](https://www.youtube.com/watch?v=VXEyrXLD40U&t=357.12s)]
+*  As he was calling for his mother and to breathe, citizens who didn't know him came forward [[00:06:02](https://www.youtube.com/watch?v=VXEyrXLD40U&t=362.72s)]
+*  and insisted that justice be done. [[00:06:07](https://www.youtube.com/watch?v=VXEyrXLD40U&t=367.64000000000004s)]
+*  And they came back a year later to testify. [[00:06:10](https://www.youtube.com/watch?v=VXEyrXLD40U&t=370.76000000000005s)]
+*  And you know that because you were ministering to them when they were about to testify. [[00:06:12](https://www.youtube.com/watch?v=VXEyrXLD40U&t=372.84000000000003s)]
+*  And we're forever grateful for that. [[00:06:17](https://www.youtube.com/watch?v=VXEyrXLD40U&t=377.68s)]
+*  And a lot of things changed around that time. [[00:06:20](https://www.youtube.com/watch?v=VXEyrXLD40U&t=380.24s)]
+*  And I remind people, Donald Trump was the president then. [[00:06:24](https://www.youtube.com/watch?v=VXEyrXLD40U&t=384.12s)]
+*  And we mobilized and got a lot done on the state levels around the country. [[00:06:28](https://www.youtube.com/watch?v=VXEyrXLD40U&t=388.28s)]
+*  Let me go to this issue. [[00:06:33](https://www.youtube.com/watch?v=VXEyrXLD40U&t=393.47999999999996s)]
+*  Democratic State Attorney General have mobilized against many of the Trump administration's actions. [[00:06:35](https://www.youtube.com/watch?v=VXEyrXLD40U&t=395.28s)]
+*  On Friday, 15 Democratic state AGs sued the administration over the president's National [[00:06:41](https://www.youtube.com/watch?v=VXEyrXLD40U&t=401.52s)]
+*  Energy Emergency Declaration, citing the harm posed by his efforts to remove environmental [[00:06:48](https://www.youtube.com/watch?v=VXEyrXLD40U&t=408.15999999999997s)]
+*  regulations and fast track approvals for fossil fuel projects, cutting review times [[00:06:54](https://www.youtube.com/watch?v=VXEyrXLD40U&t=414.84s)]
+*  from months to just a couple of weeks. [[00:07:01](https://www.youtube.com/watch?v=VXEyrXLD40U&t=421.4s)]
+*  You joined that lawsuit as Minnesota's Attorney General. [[00:07:04](https://www.youtube.com/watch?v=VXEyrXLD40U&t=424.32s)]
+*  What's at risk here? [[00:07:08](https://www.youtube.com/watch?v=VXEyrXLD40U&t=428.47999999999996s)]
+*  Well, what's at risk is our climate. [[00:07:10](https://www.youtube.com/watch?v=VXEyrXLD40U&t=430.28s)]
+*  I mean, if it's not wildfires in LA or storms in Florida or drought and lack of water in [[00:07:13](https://www.youtube.com/watch?v=VXEyrXLD40U&t=433.32s)]
+*  the Midwest, it's something. [[00:07:21](https://www.youtube.com/watch?v=VXEyrXLD40U&t=441.40000000000003s)]
+*  We see environmental catastrophe happening all the time. [[00:07:24](https://www.youtube.com/watch?v=VXEyrXLD40U&t=444.04s)]
+*  It's regular. [[00:07:27](https://www.youtube.com/watch?v=VXEyrXLD40U&t=447.2s)]
+*  It's expected. [[00:07:28](https://www.youtube.com/watch?v=VXEyrXLD40U&t=448.2s)]
+*  And yet this president is acting like it doesn't exist. [[00:07:29](https://www.youtube.com/watch?v=VXEyrXLD40U&t=449.40000000000003s)]
+*  It's incredibly irresponsible and bad. [[00:07:33](https://www.youtube.com/watch?v=VXEyrXLD40U&t=453.0s)]
+*  And may I add that the price for wind and solar keeps on dropping is actually cheaper. [[00:07:36](https://www.youtube.com/watch?v=VXEyrXLD40U&t=456.84000000000003s)]
+*  And so it's a good value no matter what you see, no matter what. [[00:07:44](https://www.youtube.com/watch?v=VXEyrXLD40U&t=464.94s)]
+*  So why the president would try to dismantle the electric vehicle infrastructure, why he [[00:07:48](https://www.youtube.com/watch?v=VXEyrXLD40U&t=468.36s)]
+*  would try to undermine the progress we've been making, is I can think can only be explained [[00:07:54](https://www.youtube.com/watch?v=VXEyrXLD40U&t=474.44s)]
+*  by whoever his donors may be. [[00:08:00](https://www.youtube.com/watch?v=VXEyrXLD40U&t=480.71999999999997s)]
+*  He's trying to attract fossil fuel interests to look after him. [[00:08:03](https://www.youtube.com/watch?v=VXEyrXLD40U&t=483.64s)]
+*  And that's what is going on. [[00:08:09](https://www.youtube.com/watch?v=VXEyrXLD40U&t=489.48s)]
+*  But again, the people of the United States can stand up. [[00:08:10](https://www.youtube.com/watch?v=VXEyrXLD40U&t=490.88s)]
+*  That First Amendment remains solid. [[00:08:14](https://www.youtube.com/watch?v=VXEyrXLD40U&t=494.52s)]
+*  I can tell you this, Rev. [[00:08:18](https://www.youtube.com/watch?v=VXEyrXLD40U&t=498.08s)]
+*  Us 23 AGs are going to continue to sue Donald Trump every time he breaks the law. [[00:08:19](https://www.youtube.com/watch?v=VXEyrXLD40U&t=499.84s)]
+*  I don't wake up in the morning wanting to sue Donald Trump, but I'm willing to hold [[00:08:25](https://www.youtube.com/watch?v=VXEyrXLD40U&t=505.52s)]
+*  him accountable every single time that he is in violation of the law, whether it's attacking [[00:08:29](https://www.youtube.com/watch?v=VXEyrXLD40U&t=509.24s)]
+*  AmeriCorps, whether it's trying to attack birthright citizenship, or whether it's attacking [[00:08:35](https://www.youtube.com/watch?v=VXEyrXLD40U&t=515.08s)]
+*  federal spending. [[00:08:40](https://www.youtube.com/watch?v=VXEyrXLD40U&t=520.52s)]
+*  We're not going to let him get away with it. [[00:08:42](https://www.youtube.com/watch?v=VXEyrXLD40U&t=522.28s)]
+*  You can count on that. [[00:08:43](https://www.youtube.com/watch?v=VXEyrXLD40U&t=523.88s)]
