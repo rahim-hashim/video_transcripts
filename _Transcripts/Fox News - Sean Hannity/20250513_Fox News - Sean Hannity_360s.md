@@ -1,0 +1,157 @@
+---
+Date Generated: May 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 360s
+Video Keywords: ['fox news', 'news', 'politics', 'illegal immigration', 'crackdown on illegal immigration', 'migrants in the us', 'sanctuary cities', 'katie britt', 'katie pavlich', 'fox news channel', 'sean hannity', 'president donald trump', 'border', 'world', 'us', 'tom homan', 'aoc', 'chuck schumer', 'ice']
+Video Views: 82289
+Video Rating: None
+Video Description: Sen. Katie Britt, R-Ala., discusses the Democratic protestors that were outside of an ICE facility in New Jersey on ‘Hannity.’ #foxnews #news #usnews #politics #donaldtrump #democrats #illegalimmigration #border #hannity #world #gop #aoc #schumer 
+
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/ 
+ 
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+ 
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night 
+ 
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# It’s clear whose side Democrats are on, says Sen. Katie Britt
+**Fox News - Sean Hannity:** [May 13, 2025](https://www.youtube.com/watch?v=MLuC3Rqt7iU)
+*  Here with reaction now is Alabama Senator Katie Brick. [[00:00:00](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=0.0s)]
+*  Great to see you. [[00:00:03](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=3.7s)]
+*  So where should we start? [[00:00:04](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=4.7s)]
+*  Should we start with the Democrats protesting in New Jersey? [[00:00:05](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=5.7s)]
+*  I think there are too many things to talk about, honestly. [[00:00:08](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=8.700000000000001s)]
+*  I mean, why is it that they're outside this ICE facility demanding, you know, they said [[00:00:10](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=10.82s)]
+*  they were on a tour, they were just there to do oversight. [[00:00:15](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=15.42s)]
+*  But this facility, of course, houses the worst of the worst convicted murderers, child predators, [[00:00:18](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=18.46s)]
+*  child pornographers. [[00:00:23](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=23.3s)]
+*  The list goes on and on. [[00:00:24](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=24.3s)]
+*  And yet these are the people Democrats are taking the time to try and go protect and [[00:00:25](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=25.5s)]
+*  getting arrested for. [[00:00:30](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=30.2s)]
+*  It's clear whose side Democrats are on. [[00:00:32](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=32.36s)]
+*  They're on the side of child molesters, on gang members, on those who are preying on [[00:00:34](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=34.8s)]
+*  the most vulnerable and here illegally. [[00:00:39](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=39.72s)]
+*  And Republicans have the backs of the American people. [[00:00:42](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=42.480000000000004s)]
+*  I don't know where this passion was from the Democrats over the last four years as we saw [[00:00:46](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=46.04s)]
+*  our border be invaded day after day after day. [[00:00:50](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=50.92s)]
+*  As we saw the heartbreaking stories of people like Laken Reilly losing her life or Rachel [[00:00:54](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=54.900000000000006s)]
+*  Moran or Jocelyn Nungery. [[00:01:00](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=60.34s)]
+*  Or as you talk to parents from coast to coast, Katie, who lost their children to fentanyl poisoning. [[00:01:02](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=62.540000000000006s)]
+*  Where was this energy? [[00:01:07](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=67.88s)]
+*  Where was this fight? [[00:01:09](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=69.10000000000001s)]
+*  Unfortunately, they don't have that fight for the American people. [[00:01:10](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=70.26s)]
+*  But President Trump made a commitment over the last four years. [[00:01:12](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=72.74000000000001s)]
+*  There was no more litigated issue, Katie, than this. [[00:01:16](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=76.02000000000001s)]
+*  Our wide open borders and the failed policies of the Biden administration and of Democrats [[00:01:18](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=78.94s)]
+*  who were in charge. [[00:01:24](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=84.25999999999999s)]
+*  And he has said, enough's enough. [[00:01:25](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=85.74s)]
+*  We are securing our border and we are making sure that Americans are safe in their communities [[00:01:27](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=87.58s)]
+*  and in their homes. [[00:01:32](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=92.06s)]
+*  But that number of the 93 percent drop in border crossings is incredible. [[00:01:33](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=93.06s)]
+*  Oh, it's incredible. [[00:01:37](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=97.25999999999999s)]
+*  It just proves that where there was a will, there was a way. [[00:01:38](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=98.25999999999999s)]
+*  And Democrats didn't have it. [[00:01:40](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=100.86s)]
+*  And Katie, do you not remember Democrats told us the only way that they could close the [[00:01:42](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=102.22s)]
+*  wide open border was through legislation, a bipartisan piece of legislation that was [[00:01:46](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=106.06s)]
+*  simply false. [[00:01:51](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=111.02s)]
+*  It was all about will. [[00:01:52](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=112.74s)]
+*  It was all about purpose. [[00:01:54](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=114.14s)]
+*  And it was whose back do you have? [[00:01:55](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=115.7s)]
+*  It's clear Republicans and President Trump have the backs of the American people. [[00:01:57](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=117.06s)]
+*  And Senate Democrats continue to have the backs of those here illegally. [[00:02:00](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=120.66000000000001s)]
+*  Well, it wasn't just any legislation. [[00:02:04](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=124.22s)]
+*  They demanded these big pieces of legislation that gave amnesty to the millions of people [[00:02:06](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=126.2s)]
+*  who came into the country illegally, including criminal aliens who had criminal histories [[00:02:10](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=130.88s)]
+*  in their home countries. [[00:02:15](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=135.86s)]
+*  So there was an agenda there. [[00:02:17](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=137.06s)]
+*  It wasn't just a matter of getting something done. [[00:02:18](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=138.66s)]
+*  And Katie, also think about those who have preyed on the most vulnerable. [[00:02:20](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=140.86s)]
+*  So you mentioned the numbers about the border being down 93 percent. [[00:02:24](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=144.0s)]
+*  Let's talk about unaccompanied children who were allowed to come here under the Biden [[00:02:26](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=146.92s)]
+*  administration. [[00:02:30](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=150.04s)]
+*  You go back to March of 21, 18,000 unaccompanied children in March of 21. [[00:02:31](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=151.04s)]
+*  This past March, we had 600, just over 600 unaccompanied children. [[00:02:36](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=156.95999999999998s)]
+*  Those numbers have gone down dramatically. [[00:02:41](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=161.72s)]
+*  But also, what did Democrats do for those unaccompanied children who were being trafficked [[00:02:44](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=164.06s)]
+*  or abused throughout our interior? [[00:02:48](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=168.44s)]
+*  And the answer is they didn't ask for questions. [[00:02:51](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=171.32s)]
+*  They didn't ask for hearings. [[00:02:53](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=173.22s)]
+*  They didn't they didn't fight for those kids in the way that they're fighting for these [[00:02:54](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=174.89999999999998s)]
+*  illegal criminal aliens now. [[00:02:58](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=178.38s)]
+*  So when the unaccompanied minor number goes down, that means that the human trafficking [[00:03:00](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=180.98s)]
+*  numbers are also going down. [[00:03:04](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=184.85999999999999s)]
+*  So on Capitol Hill, you're still dealing with this issue. [[00:03:06](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=186.73999999999998s)]
+*  The president has tried to implement a number of policies that allow people to self deport. [[00:03:09](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=189.28s)]
+*  As you saw, FBI Deputy Director Dan Bond, you know, is warning people if you're here, [[00:03:14](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=194.39999999999998s)]
+*  get out. [[00:03:18](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=198.57999999999998s)]
+*  Chris, you know, the DHS secretary has also said that while they argue that we're playing [[00:03:19](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=199.64000000000001s)]
+*  Russian roulette with people's lives, these Democrats who are defending, keeping these [[00:03:23](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=203.8s)]
+*  criminal aliens who have murdered in communities before here and not wanting them to be deported. [[00:03:27](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=207.28s)]
+*  Democrats trying to turn around deportation planes. [[00:03:33](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=213.4s)]
+*  The list goes on and on. [[00:03:35](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=215.76000000000002s)]
+*  You know, Senator Chris Van Hollen, Democrat, flying down to El Salvador, meeting with a [[00:03:37](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=217.0s)]
+*  wife-beating gang member who was deported out of the country. [[00:03:41](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=221.88000000000002s)]
+*  So where do you guys go from here to try and get this underway? [[00:03:46](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=226.6s)]
+*  Because there were millions of people let into the country, mostly all of them unvetted. [[00:03:49](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=229.84s)]
+*  And when you talk to a lot of these Border Patrol, HSI ICE officials, they will tell [[00:03:54](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=234.54s)]
+*  you, look, there's a lot of bad people who are in the country and we're going out every [[00:03:59](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=239.5s)]
+*  day trying to get them out. [[00:04:03](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=243.26s)]
+*  But we're getting pushback from Democrats and the numbers are just so overwhelming. [[00:04:04](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=244.42s)]
+*  Yeah. [[00:04:08](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=248.42s)]
+*  Well, first off, it is a new day in America with President Trump in charge and with Republicans [[00:04:09](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=249.42s)]
+*  in charge of the House and the Senate. [[00:04:12](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=252.95999999999998s)]
+*  We have the backs of our law enforcement officers. [[00:04:14](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=254.58s)]
+*  We appreciate the work that CBP does. [[00:04:17](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=257.16s)]
+*  We appreciate the work that the men and women of ICE does. [[00:04:19](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=259.22s)]
+*  And we're going to support that not only with our words, but making sure they have the proper [[00:04:22](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=262.04s)]
+*  funding to do the job that they took an oath to do and keep Americans safe. [[00:04:25](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=265.34000000000003s)]
+*  So we're about to go through reconciliation. [[00:04:30](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=270.48s)]
+*  One of the things that we'll be looking to do is to make sure those resources are in [[00:04:32](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=272.8s)]
+*  the right place. [[00:04:36](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=276.2s)]
+*  I mean, you look at something like our non-detained docket. [[00:04:37](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=277.2s)]
+*  This is yet another mismanagement of Joe Biden. [[00:04:39](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=279.34000000000003s)]
+*  He had what? [[00:04:41](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=281.9s)]
+*  Over three million non-detained by the time President Trump came back in. [[00:04:42](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=282.9s)]
+*  It's over 7.8 million in the non-detained docket. [[00:04:46](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=286.35999999999996s)]
+*  Over 105 percent increase. [[00:04:50](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=290.15999999999997s)]
+*  There are people, about 1.5 million of those, who have been given their due process and [[00:04:52](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=292.53999999999996s)]
+*  have their final orders of removal. [[00:04:56](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=296.14s)]
+*  And they want them to stay. [[00:04:57](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=297.64s)]
+*  Yes. [[00:04:58](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=298.64s)]
+*  And removing those individuals is going to be a priority. [[00:04:59](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=299.64s)]
+*  We made a commitment to the American people. [[00:05:01](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=301.7s)]
+*  And the Democrats seem to be lost back into the America last policies that actually lost [[00:05:04](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=304.08s)]
+*  them this election. [[00:05:09](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=309.28s)]
+*  Yeah. [[00:05:10](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=310.28s)]
+*  We're committed to making sure that Americans are safe and secure. [[00:05:11](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=311.65999999999997s)]
+*  We're going to make sure law enforcement and we only not only have their back, but they [[00:05:13](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=313.9s)]
+*  have their resources. [[00:05:16](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=316.4s)]
+*  And we're going to use every tool in our toolbox to make the interior of the United States [[00:05:17](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=317.78s)]
+*  of America safe again. [[00:05:21](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=321.5s)]
+*  And it's an honor to be a part of it. [[00:05:23](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=323.29999999999995s)]
+*  Well, it seems to be that Democrats aren't lost, that they actually have an anti-American [[00:05:24](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=324.9s)]
+*  agenda to keep these criminal aliens here. [[00:05:28](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=328.46s)]
+*  And when they're being detained and put into ICE immigration centers, they want to break [[00:05:31](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=331.26s)]
+*  in and then cause a scene for political reasons. [[00:05:34](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=334.76s)]
+*  So we will see if another protest breaks out. [[00:05:36](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=336.97999999999996s)]
+*  And we will see if the mayor receives charges for the things that were alleged against him [[00:05:40](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=340.32s)]
+*  at that facility. [[00:05:45](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=345.16s)]
+*  So we will be watching. [[00:05:46](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=346.16s)]
+*  Good to see you. [[00:05:47](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=347.16s)]
+*  Hey, Sean Hannity here. [[00:05:48](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=348.16s)]
+*  Hey, click here to subscribe to Fox News YouTube page and catch our hottest interviews and [[00:05:49](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=349.16s)]
+*  most compelling analysis. [[00:05:54](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=354.56s)]
+*  You will not get it anywhere else. [[00:05:56](https://www.youtube.com/watch?v=MLuC3Rqt7iU&t=356.46000000000004s)]
