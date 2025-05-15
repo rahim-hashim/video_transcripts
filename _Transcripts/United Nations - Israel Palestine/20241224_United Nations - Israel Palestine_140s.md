@@ -1,0 +1,61 @@
+---
+Date Generated: May 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 140s
+Video Keywords: ['UN', 'United Nations', 'UNGA', 'UN General Assembly', 'General Debate', 'Naciones Unidas', 'Организация Объединенных Наций', 'OOH', 'Nations Unies', '联合国', 'الأمم المتحدة', 'The Global Goals', 'Sustainable Development Goals', 'Human Rights', 'UN Peacekeepers', 'Security Council', 'World Leaders', "l'Assemblée générale", 'Генеральной Ассамблеи', 'La Asamblea General', 'War', 'Gaza', 'Christimas', 'Xmas', 'Celebrations', 'Crisis']
+Video Views: 2803
+Video Rating: None
+Video Description: For displaced Palestinians in Gaza, traditional Christmas celebrations with food and family have been lost to war amid the struggle to survive. Tony Al-Masri looks back on attending church with neighbours and celebrating with his children and grandchildren. Now, alone with his wife in their tent, he says he can only wish for 2025 to bring peace to all nations, especially the Palestinian people.
+---
+
+# Recalling Christmas celebrations lost to war, Gaza’s Christians wish for peace
+**United Nations - Israel Palestine:** [December 24, 2024](https://www.youtube.com/watch?v=EwTnhzcHKAA)
+*  كنا نحتفل المبسوطين [[00:00:00](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=0.0s)]
+*  نحتفل بأيدي الميلاد [[00:00:01](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=1.72s)]
+*  منذ عام سنوات نقدر تخوص الديني بالكنيسة [[00:00:03](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=3.92s)]
+*  نحتفل عيد أبعضنا بأيدي ساحة كنيسة [[00:00:07](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=7.04s)]
+*  وكون الملخوري والراعي الطائفة موجود [[00:00:10](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=10.36s)]
+*  يزل الجراني بغزة عيدوا عليه كل سنة [[00:00:13](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=13.96s)]
+*  أصلا كل سنة عبيت لحيم أزوري ولدي وأزور أحفادي [[00:00:17](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=17.92s)]
+*  لكن حلمنا إلا سنتين [[00:00:22](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=22.44s)]
+*  هاي تاني السنة محرومين من العياد من العيد [[00:00:24](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=24.88s)]
+*  هاي سنة أبيك وهي سنة تاني محرومين من العيد [[00:00:28](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=28.52s)]
+*  أتذكر كل شي فأتذكر كيف كنا أقعد أساوي السجرات [[00:00:34](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=34.2s)]
+*  كيف كنا أحضر معنا أسعد [[00:00:37](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=37.24s)]
+*  أزقامة أولاً شغرات اللي بتلعب [[00:00:39](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=39.92s)]
+*  الكاعي كل معمول نشويها [[00:00:42](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=42.0s)]
+*  أنزل أسل الأغراض وقعدوا يعني نساوي الكاعي [[00:00:44](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=44.36s)]
+*  وننبشط ونزهر مع بعض بليلة العيد [[00:00:47](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=47.4s)]
+*  لتعيدها الساعة 12 بالليل [[00:00:52](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=52.96s)]
+*  الساعة 12 بالليل بتبلج اللي بيحتفلها 12 بالليل بتبلج [[00:00:56](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=56.24s)]
+*  بتبلجها أنها [[00:01:01](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=61.04s)]
+*  نكون بجاهزين لعجة نقعد نتعجس أنا ويهي مع بعضنا [[00:01:02](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=62.160000000000004s)]
+*  أنا أولادي يعني [[00:01:05](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=65.2s)]
+*  كنت أقعد أنا أولادي وبناتي لكن هلأ فيش حد إلي يعني [[00:01:06](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=66.64s)]
+*  أنا ومرتي لحالنا بس نقعد نحكي فيك [[00:01:10](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=70.04s)]
+*  بيش إلي حد أنا [[00:01:12](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=72.68s)]
+*  هاي أكبر أكبر أكبر أكبر أكبر شغلي [[00:01:14](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=74.4s)]
+*  بل هذا يا صديقي عندي يعني [[00:01:16](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=76.84s)]
+*  تحديات اللي عم نوجهها الآن [[00:01:18](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=78.96000000000001s)]
+*  لا في فرحة ولا في بصنية ولا في عياد ولا في إشي [[00:01:22](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=82.36s)]
+*  التحديات إحنا منتحدى قعدين الزمان [[00:01:25](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=85.72s)]
+*  إنت بتكون نايم بالليل ما بتسمع إلا [[00:01:29](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=89.32s)]
+*  بتنطبت بتقوم مثل المصروق [[00:01:32](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=92.32s)]
+*  إش تعمل [[00:01:35](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=95.56s)]
+*  ترجع بتقلم نحالك بتتكي بتعشي تنام [[00:01:37](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=97.04s)]
+*  بيش منامي مثل الخليق بيش حياة [[00:01:41](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=101.08s)]
+*  بيش إشي خليك تكون مبسوط ومرتاح [[00:01:43](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=103.68s)]
+*  أميتي الوحيدة إنه يعمل سلام [[00:01:47](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=107.36s)]
+*  وتوقف الحرب ويعمل سلام [[00:01:49](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=109.76s)]
+*  وتكون سنة 2025 [[00:01:51](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=111.64s)]
+*  تكون سنة خير على السواب كلها [[00:01:54](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=114.36s)]
+*  وعشعب الفلسطيني [[00:01:56](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=116.19999999999999s)]
+*  وتوقف الحروب ويقف صفك الدماء [[00:01:57](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=117.8s)]
+*  وترجع الناس وتفرح وتعيد وكل شي [[00:02:00](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=120.36s)]
+*  الله يرحم اللي ماتوا [[00:02:03](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=123.36s)]
+*  نترحم عليهم [[00:02:04](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=124.67999999999999s)]
+*  لكن أنا أمنيتي إنه ترجع [[00:02:05](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=125.52s)]
+*  ترجع الأيام هذه الحلوة اللي كنا عايشينها [[00:02:07](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=127.88s)]
+*  وأمنيتي إنه أنا أسافر وأشوف أحبادي [[00:02:09](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=129.95999999999998s)]
+*  وبناتي وأولادي يا أمنيتي [[00:02:13](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=133.88s)]
+*  أكبر أمني يعني [[00:02:15](https://www.youtube.com/watch?v=EwTnhzcHKAA&t=135.84s)]

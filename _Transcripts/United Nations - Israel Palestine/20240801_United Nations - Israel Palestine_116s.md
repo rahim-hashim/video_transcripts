@@ -1,0 +1,63 @@
+---
+Date Generated: May 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 116s
+Video Keywords: ['UN', 'United Nations', 'UNGA', 'UN General Assembly', 'General Debate', 'Naciones Unidas', 'Организация Объединенных Наций', 'OOH', 'Nations Unies', '联合国', 'الأمم المتحدة', 'The Global Goals', 'Sustainable Development Goals', 'Human Rights', 'UN Peacekeepers', 'Security Council', 'World Leaders', "l'Assemblée générale", 'Генеральной Ассамблеи', 'La Asamblea General']
+Video Views: 1050
+Video Rating: None
+Video Description: 85 sick and severely injured patients from Gaza were evacuated to Abu Dhabi, United Arab Emirates (UAE), for specialized care. This extremely complex joint evacuation was supported by the the World Health Organization (WHO) in partnership with the Government of the UAE and other partners. The WHO team organized and managed the transfer of patients from various areas in Gaza to the Kerem Shalom crossing under extremely challenging conditions.
+---
+
+# WHO Evacuates Severely Injured Patients from Gaza
+**United Nations - Israel Palestine:** [August 01, 2024](https://www.youtube.com/watch?v=UvtuiQ7w8o8)
+*  جميع الأ gente التي يجب عليهم المفاي ожидائية المبادغة من جزовать الزينيات المزيدة هي أكثر من جزني 可以 [[00:00:00](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=0.0s)]
+*  مبسوط كثير [[00:00:30](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=30.0s)]
+*  عشان ننسافر ونبكي بطراف [[00:00:32](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=32.0s)]
+*  نرجع نجر [[00:00:34](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=34.0s)]
+*  أنا صوات في غزة [[00:00:38](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=38.0s)]
+*  وروحت على المستشفى عشان أخذ علاجة [[00:00:40](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=40.0s)]
+*  وجابونا منظبة الصحة العالمية هنا [[00:00:42](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=42.0s)]
+*  عشان أسافر [[00:00:44](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=44.0s)]
+*  بحمد الله بقى طول انتظار [[00:00:46](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=46.0s)]
+*  ومثلنا [[00:00:48](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=48.0s)]
+*  ونحن نتجهد [[00:00:50](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=50.0s)]
+*  ونحن نتجهد [[00:00:52](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=52.0s)]
+*  ونحن نتجهد [[00:00:54](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=54.0s)]
+*  ونحن نتجهد [[00:00:56](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=56.0s)]
+*  بقرأة [[00:00:58](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=58.0s)]
+*  بقرأة [[00:01:00](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=60.0s)]
+*  ننسافر [[00:01:02](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=62.0s)]
+*  إنه 3 أمي [[00:01:14](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=74.0s)]
+*  نحن هنا في مستشفى أغوستا فيكتوريا [[00:01:16](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=76.0s)]
+*  تحضير المساعدات [[00:01:18](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=78.0s)]
+*  لنذهب قريبا إلى كارم شلوم كروسين [[00:01:20](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=80.0s)]
+*  نحن ندعم [[00:01:22](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=82.0s)]
+*  ونحن ندعم المساعدات [[00:01:24](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=84.0s)]
+*  ونحن ندعم المساعدات [[00:01:26](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=86.0s)]
+*  ونحن ندعم المساعدات [[00:01:28](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=88.0s)]
+*  ونحن ندعم المساعدات [[00:01:30](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=90.0s)]
+*  ونحن ندعم المساعدات [[00:01:32](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=92.0s)]
+*  ونحن ندعم المساعدات [[00:01:34](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=94.0s)]
+*  ونحن ندعم المساعدات [[00:01:36](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=96.0s)]
+*  ونحن ندعم المساعدات [[00:01:38](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=98.0s)]
+*  ونحن ندعم المساعدات [[00:01:40](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=100.0s)]
+*  ونحن ندعم المساعدات [[00:01:42](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=102.0s)]
+*  ونحن ندعم المساعدات [[00:01:44](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=104.0s)]
+*  ونحن ندعم المساعدات [[00:01:46](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=106.0s)]
+*  ونحن ندعم المساعدات [[00:01:48](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=108.0s)]
+*  ونحن ندعم المساعدات [[00:01:50](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=110.0s)]
+*  ونحن ندعم المساعدات [[00:01:52](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=112.0s)]
+*  ونحن ندعم المساعدات [[00:01:54](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=114.0s)]
+*  ونحن ندعم المساعدات [[00:01:56](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=116.0s)]
+*  ونحن ندعم المساعدات [[00:01:58](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=118.0s)]
+*  ونحن ندعم المساعدات [[00:02:00](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=120.0s)]
+*  ونحن ندعم المساعدات [[00:02:02](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=122.0s)]
+*  ونحن ندعم المساعدات [[00:02:04](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=124.0s)]
+*  ونحن ندعم المساعدات [[00:02:06](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=126.0s)]
+*  ونحن ندعم المساعدات [[00:02:08](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=128.0s)]
+*  ونحن ندعم المساعدات [[00:02:10](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=130.0s)]
+*  ونحن ندعم المساعدات [[00:02:12](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=132.0s)]
+*  ونحن ندعم المساعدات [[00:02:14](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=134.0s)]
+*  ونحن ندعم المساعدات [[00:02:16](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=136.0s)]
+*  ونحن ندعم المساعدات [[00:02:18](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=138.0s)]
+*  ونحن ندعم المساعدات [[00:02:20](https://www.youtube.com/watch?v=UvtuiQ7w8o8&t=140.0s)]

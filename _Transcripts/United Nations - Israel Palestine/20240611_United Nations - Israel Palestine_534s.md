@@ -1,0 +1,121 @@
+---
+Date Generated: May 14, 2025
+Transcription Model: whisper medium 20231117
+Length: 534s
+Video Keywords: ['UN', 'United Nations', 'UNGA', 'UN General Assembly', 'General Debate', 'Naciones Unidas', 'Организация Объединенных Наций', 'OOH', 'Nations Unies', '联合国', 'الأمم المتحدة', 'The Global Goals', 'Sustainable Development Goals', 'Human Rights', 'UN Peacekeepers', 'Security Council', 'World Leaders', "l'Assemblée générale", 'Генеральной Ассамблеи', 'La Asamblea General']
+Video Views: 10106
+Video Rating: None
+Video Description: UN Secretary-General António Guterres addresses the plenary session of the High-Level Conference "Call for Action: Urgent Humanitarian Response for Gaza" in Amman, Jordan.
+
+A comprehensive ceasefire in Gaza linked to the release of all remaining hostages cannot come too soon, UN Secretary-General António Guterres said on Tuesday, as he welcomed the Security Council resolution adopted a day earlier seeking an end to the war there.
+
+Speaking in Jordan at an international conference prompted by the catastrophic humanitarian situation in Gaza, Mr. Guterres insisted that after more than eight months of intense hostilities, “the horror must stop”.
+
+“I welcome the peace initiative recently outlined by President Biden and urge all parties to seize this opportunity and come to an agreement,” the UN chief said. “And I call on all parties to respect their obligations under international humanitarian law. This includes facilitating the delivery of humanitarian aid both into and inside Gaza, as they have committed. All available routes into Gaza must be operational – and the land routes are absolutely crucial.”
+
+On Monday, the United States-drafted text urged Hamas to accept a ceasefire proposal announced on 31 May by President Joe Biden that has already been accepted by Israel, according to the White House.
+
+The text urges both parties to fully implement the terms of the proposal “without delay and without condition”. It was adopted by a large majority with 14 votes in favour and Russia abstaining – choosing not to exercise its veto power.
+
+Read More: https://news.un.org/en/story/2024/06/1150901
+---
+
+# Gaza: ‘high time’ for ceasefire and hostage release, says Guterres | United Nations
+**United Nations - Israel Palestine:** [June 11, 2024](https://www.youtube.com/watch?v=Uqtn0rX3n3w)
+*  Thank you, Your Excellency. [[00:00:00](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=0.0s)]
+*  United Nations Secretary General, Mr. Antonio Guterres. [[00:00:04](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=4.32s)]
+*  Your Majesty, King Abdullah, Your Excellency, President El Sisi, Your Highnesses, Excellencies, [[00:00:10](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=10.32s)]
+*  distinguished guests, ladies and gentlemen. [[00:00:17](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=17.88s)]
+*  Thank you for coming together for this urgent call to action for life-saving relief to the [[00:00:21](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=21.44s)]
+*  people of Gaza that are under fire in the most dramatic circumstances. [[00:00:27](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=27.28s)]
+*  It's now eight months since the horrific Hamas terror attacks on 7 October and the abduction [[00:00:34](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=34.24s)]
+*  of Israeli men, women and children to Gaza. [[00:00:40](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=40.0s)]
+*  But eight months of relentless suffering for Palestinian civilians in Gaza. [[00:00:44](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=44.040000000000006s)]
+*  The speed and scale of the carnage and killing in Gaza is beyond anything in my ears as Secretary-General. [[00:00:50](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=50.12s)]
+*  At least 1.7 million people, 75% of Gaza's population, have been displaced many times [[00:01:00](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=60.36s)]
+*  over by Israel military attacks. [[00:01:09](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=69.28s)]
+*  Nowhere is safe. [[00:01:14](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=74.68s)]
+*  Conditions are deplorable. [[00:01:17](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=77.32000000000001s)]
+*  The public health situation is beyond crisis level. [[00:01:20](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=80.44s)]
+*  Gaza's hospitals lie in ruins. [[00:01:24](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=84.0s)]
+*  Medical supplies and fuel are scarce or non-existent. [[00:01:27](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=87.88s)]
+*  More than 1 million Palestinians in Gaza do not have enough clean drinking water and face [[00:01:33](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=93.64s)]
+*  desperate levels of hunger. [[00:01:40](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=100.36s)]
+*  Over 50,000 children require treatment for acute malnutrition. [[00:01:43](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=103.68s)]
+*  And despite the ocean of needs, at least half of all humanitarian aid missions are denied [[00:01:50](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=110.36000000000001s)]
+*  access, impeded or cancelled due to operational or security reasons. [[00:01:56](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=116.16000000000001s)]
+*  On top of all these, since the attack on the Rafah border crossing one month ago, the flow [[00:02:05](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=125.48s)]
+*  of critical humanitarian assistance to the people of Gaza, which was already woefully [[00:02:12](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=132.88s)]
+*  inadequate, has plummeted by two-thirds. [[00:02:18](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=138.48s)]
+*  Excellencies, in the face of this calamity, the world has tried its best to save lives. [[00:02:23](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=143.51999999999998s)]
+*  And I want to express my gratitude to Egypt and Jordan for all their efforts. [[00:02:31](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=151.12s)]
+*  Your Majesty, through you, allow me to thank the people of Jordan for the relief provided, [[00:02:37](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=157.92s)]
+*  including through aid convoys, air drops and field hospitals. [[00:02:45](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=165.67999999999998s)]
+*  We all appreciate immensely your personal commitment to mobilize the international community [[00:02:51](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=171.2s)]
+*  and your persistent call for a robust coordination mechanism for the unimpeded and safe flow [[00:02:58](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=178.2s)]
+*  of sufficient aid to the people of Gaza. [[00:03:05](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=185.2s)]
+*  I urge the international community to support Jordan's efforts as it undertakes its critical [[00:03:08](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=188.88s)]
+*  role assisting the people of Gaza and serving as a key regional humanitarian hub. [[00:03:14](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=194.92s)]
+*  President Al Sisi, I also want to commend your critical leadership and that of the government [[00:03:21](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=201.92s)]
+*  and people of Egypt, not only in supporting humanitarian relief to the people of Gaza [[00:03:29](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=209.68s)]
+*  in so many ways, but also for your pivotal role in seeking an end to this tragic conflict [[00:03:35](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=215.28s)]
+*  and building a foundation for sustainable peace. [[00:03:42](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=222.28s)]
+*  And of course, we all salute the brave humanitarians in Gaza working in nightmare conditions to [[00:03:46](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=226.48s)]
+*  stem the suffering. [[00:03:52](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=232.56s)]
+*  Our Palestinian humanitarian colleagues in particular are working against enormous obstacles [[00:03:55](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=235.44s)]
+*  and near impossible conditions. [[00:04:01](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=241.24s)]
+*  Imagine their lives and circumstances. [[00:04:04](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=244.72s)]
+*  Showing up for work when their homes are destroyed and their loved ones killed. [[00:04:07](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=247.72s)]
+*  Putting themselves in humanitarian convoys even when they have been fired upon. [[00:04:14](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=254.2s)]
+*  Without those courageous individuals, the aid operations in Gaza would collapse. [[00:04:20](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=260.88s)]
+*  And UNRWA is the backbone of this humanitarian response and it has suffered intolerably alongside [[00:04:27](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=267.64s)]
+*  the people it supports. [[00:04:35](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=275.12s)]
+*  I express my deepest condolences to the families and friends of the 193 UNRWA staff members [[00:04:38](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=278.12s)]
+*  who have been killed. [[00:04:45](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=285.96s)]
+*  There must be full accountability for each and every one of these deaths. [[00:04:48](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=288.48s)]
+*  Attacks on UN personnel and premises are unacceptable. [[00:04:55](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=295.64000000000004s)]
+*  Excellencies, the horror must stop. [[00:05:00](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=300.64000000000004s)]
+*  It's high time for a ceasefire along with the unconditional release of hostages. [[00:05:05](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=305.32s)]
+*  I welcome the peace initiative recently outlined by President Biden and urge all parties to [[00:05:11](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=311.72s)]
+*  seize this opportunity and come to an agreement. [[00:05:18](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=318.48s)]
+*  And I call on all parties to respect their obligations and their international humanitarian [[00:05:23](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=323.48s)]
+*  law. [[00:05:27](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=327.92s)]
+*  This includes facilitating the delivery of humanitarian aid both into and inside Gaza [[00:05:29](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=329.84s)]
+*  as they have committed. [[00:05:36](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=336.04s)]
+*  All available routes into Gaza must be operational. [[00:05:38](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=338.64s)]
+*  And the land routes are absolutely crucial. [[00:05:44](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=344.24s)]
+*  I also welcome all coordinated efforts to fully operationalize the mechanism to facilitate [[00:05:48](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=348.68s)]
+*  aid into Gaza as mandated by Security Council Resolution 2720. [[00:05:54](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=354.4s)]
+*  The work of the Senior Humanitarian and Reconstruction Coordinator to accelerate and expand the [[00:06:02](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=362.36s)]
+*  rouralt of the mechanism remains critical. [[00:06:08](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=368.44s)]
+*  I commend governments and people across the region and the world for supporting it. [[00:06:11](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=371.96s)]
+*  The security of UNRWA and our humanitarian partners is vital to moving life-saving aid [[00:06:18](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=378.04s)]
+*  over the border and where it needs to go within Gaza. [[00:06:24](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=384.76s)]
+*  Deliverers require safe routes and effective deconfliction mechanisms to ensure their security. [[00:06:30](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=390.2s)]
+*  They require unimpeded access for security and communications equipment commensurate [[00:06:37](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=397.28s)]
+*  with the risks of working in a war zone. [[00:06:42](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=402.36s)]
+*  They require immediate efforts to clear routes inside Gaza which are littered with mines [[00:06:45](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=405.96s)]
+*  and unexploded ordnance. [[00:06:51](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=411.15999999999997s)]
+*  Civilians must be allowed to seek safety and civilians and the infrastructure they rely [[00:06:54](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=414.88s)]
+*  on must never be militarized or targeted. [[00:07:00](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=420.52s)]
+*  Excellencies. [[00:07:05](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=425.84s)]
+*  I also call for the world to stand united to safeguard UNRWA in the face of outrageous [[00:07:07](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=427.44s)]
+*  and relentless attacks. [[00:07:13](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=433.12s)]
+*  UNRWA's role will remain critical not only during the conflict but afterwards. [[00:07:15](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=435.15999999999997s)]
+*  Over a million deeply traumatized children in Gaza need psychosocial support and the [[00:07:22](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=442.28s)]
+*  safety and hope that schools use to provide. [[00:07:27](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=447.71999999999997s)]
+*  Around 60% of all residential buildings and at least 80% of commercial facilities have [[00:07:32](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=452.4s)]
+*  been damaged by Israeli bombardment. [[00:07:38](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=458.96s)]
+*  Health facilities and educational institutions are in rubble. [[00:07:42](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=462.32s)]
+*  Only UNRWA has the capacity, skills and networks needed to support the Palestinian people to [[00:07:47](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=467.24s)]
+*  face the immense challenge on health, on education and so much more. [[00:07:53](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=473.32s)]
+*  Excellencies. [[00:08:00](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=480.4s)]
+*  Ultimately, the solution to the humanitarian crisis in Gaza is political. [[00:08:01](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=481.4s)]
+*  The only way forward is through a political solution that opens a path to sustained peace [[00:08:06](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=486.92s)]
+*  based on two states, Palestine and Israel, living side by side in peace and security [[00:08:12](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=492.8s)]
+*  on the basis of the pre-97 lines and the relevant United Nations resolutions, previous agreements [[00:08:20](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=500.32s)]
+*  and international law with Jerusalem as capital of both states. [[00:08:27](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=507.04s)]
+*  Let us keep working to make that a reality as we work to answer today's call to action [[00:08:32](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=512.04s)]
+*  for Palestinians in Gaza in such profound and immediate need. [[00:08:38](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=518.76s)]
+*  And I thank you. [[00:08:44](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=524.76s)]
+*  Thank you, Mr. Secretary General. [[00:08:45](https://www.youtube.com/watch?v=Uqtn0rX3n3w&t=525.76s)]
