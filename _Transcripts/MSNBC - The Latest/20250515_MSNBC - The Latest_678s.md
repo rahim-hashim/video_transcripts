@@ -1,0 +1,152 @@
+---
+Date Generated: May 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 678s
+Video Keywords: ['Chris Hayes']
+Video Views: 149388
+Video Rating: None
+Video Description: “It is not too much to say that birthright citizenship is one of the pillars of the American dream,” says Chris Hayes. “And of course, Donald Trump is not just trying to detonate it, he is trying to do it in a way that will give him even more latitude to ignore courts that rule against him. What we don’t know just yet is whether the Supreme Court’s conservative majority will have his back.” Jamal Greene and Maya Wiley join Chris Hayes to discuss.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#SupremeCourt #14thAmendment #birthrightcitizenship
+---
+
+# 'The Constitution's pretty plain and clear': Supreme Court hears birthright citizenship challenge
+**MSNBC - The Latest:** [May 15, 2025](https://www.youtube.com/watch?v=HVrdxCBjzxU)
+*  You know, on his very first day in office this year, Donald Trump attempted to unilaterally rewrite [[00:00:00](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=0.0s)]
+*  one of the core features of the American Constitution, one that was put into that document [[00:00:05](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=5.44s)]
+*  after the bloody horror of slavery and the Civil War. And today, the question of whether he has [[00:00:11](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=11.28s)]
+*  the ability to do that and what the courts are going to do about it landed before the Supreme [[00:00:17](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=17.04s)]
+*  Court. There are hundreds of protesters gathered outside as the justices listen to oral arguments [[00:00:22](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=22.0s)]
+*  about whether birthright citizenship, the law of the land for 157 years, could be undone by Trump's [[00:00:27](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=27.92s)]
+*  authoritarian wins. Now, the first line of the 14th Amendment to the Constitution reads, [[00:00:35](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=35.2s)]
+*  all persons born or naturalized in the United States, subject to the jurisdiction thereof, [[00:00:40](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=40.56s)]
+*  are citizens of the United States and of the state wherein they reside. [[00:00:45](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=45.36s)]
+*  It was written very precisely and consciously by a group of lawmakers as the first of their [[00:00:49](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=49.28s)]
+*  Reconstruction-era constitutional reforms after banning slavery, an effort to refound the nation [[00:00:54](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=54.8s)]
+*  on the principles of true multiracial democracy. Today, Trump and his lawyers took a stab at [[00:01:01](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=61.28s)]
+*  undoing that. Some justices were not having it. You're losing a bunch of cases, this guy over here, [[00:01:09](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=69.03999999999999s)]
+*  this woman over here, you know, they'll have to be treated as citizens, but nobody else will. [[00:01:16](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=76.4s)]
+*  Why would you ever take this case to us? In a case in which the government is losing constantly, [[00:01:21](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=81.6s)]
+*  there's nobody else who's going to appeal, they're winning, it's up to you to decide whether to take [[00:01:28](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=88.47999999999999s)]
+*  this case to us. If I were in your shoes, there is no way I'd approach the Supreme Court with this [[00:01:34](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=94.88s)]
+*  case. This is not a hypothetical, this is happening out there, right? Every court has ruled against you. [[00:01:40](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=100.47999999999999s)]
+*  She's not wrong, Justice Lana Kagan was referring to Trump's Inauguration Day executive order, [[00:01:46](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=106.39999999999999s)]
+*  which essentially seeks to deny citizenship to anyone born in the U.S. to parents who aren't [[00:01:51](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=111.84s)]
+*  already citizens or permanent residents. Now enforcement of that order has been halted by [[00:01:56](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=116.8s)]
+*  the federal courts in at least four separate lawsuits against the Trump administration because [[00:02:02](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=122.64s)]
+*  it's so blatantly unconstitutional, anti-constitutional even. And so they appealed to the Supreme Court and [[00:02:06](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=126.8s)]
+*  it's easy to see why, right? Here's the math. Trump thinks the justices are made men and made women, [[00:02:13](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=133.84s)]
+*  that they're his people, at least the three he personally appointed, the three other conservatives [[00:02:20](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=140.56s)]
+*  he inherited. And I think his takeaway from another Supreme Court case last year, the one that [[00:02:24](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=144.64000000000001s)]
+*  granted him broad immunity for crimes he committed in official acts as president, was that if you have [[00:02:29](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=149.12s)]
+*  a solid majority of justices in the high court, you can amend the Constitution, you can add a new [[00:02:34](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=154.72s)]
+*  immunity provision or just delete birthright citizenship simply by going to the court and [[00:02:42](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=162.4s)]
+*  basically rewriting the document. It's that easy. Get five votes and the U.S. Constitution can say [[00:02:46](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=166.88s)]
+*  whatever you want it to say. But today in oral arguments, Trump's lawyers did not ask the justices [[00:02:52](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=172.56s)]
+*  to rule on the merits of their bizarre fringe order ending birthright citizenship. Instead, [[00:02:58](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=178.08s)]
+*  what they were arguing today, that none of the federal judges, these are the lowest level judges, [[00:03:04](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=184.72s)]
+*  district court judges who halted the order, had the power to issue nationwide injunctions. They [[00:03:08](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=188.56s)]
+*  said the judges relief should only apply to the plaintiffs, the individual parties who sued the [[00:03:14](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=194.48s)]
+*  administration. And some of the justices, including one of the conservatives, Amy Coney Barrett, [[00:03:19](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=199.2s)]
+*  seemed to say, whoa, not so fast. That makes no sense. Look, there are all kinds of abuses of [[00:03:23](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=203.6s)]
+*  nationwide injunctions. But I think that the question that this case presents is that if one [[00:03:30](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=210.56s)]
+*  thinks that it's quite clear that the EO is illegal, how does one get to that result? In what [[00:03:36](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=216.16s)]
+*  timeframe on your set of rules without the possibility of a nationwide injunction? [[00:03:42](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=222.72s)]
+*  On this case and on many similar cases, the appropriate way to do it is for there to be [[00:03:49](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=229.12s)]
+*  multiple lower courts considering it, the appropriate percolation that goes to the lower [[00:03:53](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=233.44s)]
+*  courts. And then ultimately, this court decides the merits in a nationwide binding precedent. [[00:03:57](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=237.84s)]
+*  You have a complete inversion of that through the nationwide injunctions with a district court. [[00:04:02](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=242.8s)]
+*  So, General Sauer, are you really going to answer Justice Kagan by saying there's no way to do this [[00:04:06](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=246.16000000000003s)]
+*  expeditiously? Notice the Trump lawyers, they like when things percolate. Yeah, they like when things [[00:04:10](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=250.08s)]
+*  take a little while, when they're not in a hurry. When they're in a hurry, they wanted to go fast. [[00:04:16](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=256.72s)]
+*  Now, suddenly, the Trump White House was compounding one gross abuse of power, ending [[00:04:21](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=261.44s)]
+*  birthright citizenship, with another one, arguing that even if federal court rules their executive [[00:04:25](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=265.04s)]
+*  or unconstitutional, the administration can keep carrying it out against anyone who wasn't [[00:04:29](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=269.36s)]
+*  expressly named as a plaintiff in that ruling, which is a dodge. And they're only saying that [[00:04:33](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=273.52000000000004s)]
+*  because they keep getting shredded by lower courts. So today, it fell to the courts' liberals to call [[00:04:38](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=278.8s)]
+*  out just how unequal and unjust that dodge was. Your argument seems to turn our justice system, [[00:04:43](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=283.84000000000003s)]
+*  in my view at least, into a catch-me-if-you-can kind of regime from the standpoint of the executive, [[00:04:51](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=291.52000000000004s)]
+*  where everybody has to have a lawyer and file a lawsuit in order for the government to stop [[00:04:58](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=298.48s)]
+*  violating people's rights. Justice Kagan says, let's assume for the purpose of this, that you're [[00:05:04](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=304.24s)]
+*  wrong about the merits, that the government is not allowed to do this under the Constitution, [[00:05:10](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=310.08000000000004s)]
+*  and yet it seems to me that your argument says we get to keep on doing it until everyone who is [[00:05:15](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=315.28000000000003s)]
+*  potentially harmed by it figures out how to file a lawsuit, hire a lawyer, etc. And I don't understand [[00:05:21](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=321.36s)]
+*  how that is remotely consistent with the rule of law. It's not remotely consistent with the rule of [[00:05:29](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=329.52000000000004s)]
+*  law, in my humble opinion. It's a rule bought by blood in the Civil War and enshrined by the [[00:05:36](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=336.96000000000004s)]
+*  framers of the 14th Amendment. They knew fully what they were doing. They debated it. Their core [[00:05:42](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=342.56s)]
+*  vision was equality under the law, no matter people's races or ethnic origin, even if they [[00:05:49](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=349.35999999999996s)]
+*  had been born to parents brought here in slave bondage or to parents who came from foreign land [[00:05:54](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=354.32s)]
+*  of their own volition, so that everyone born here was equal to everyone else born here, full stop. [[00:05:59](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=359.2s)]
+*  That part of the 14th Amendment, the 14th Amendment in its fullness, is a cherished part of the [[00:06:08](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=368.79999999999995s)]
+*  American experiment. Congress has even incorporated its language into U.S. code to put birthright [[00:06:13](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=373.35999999999996s)]
+*  citizenship beyond any doubt. Now plenty of other countries don't have such guarantees, [[00:06:18](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=378.48s)]
+*  countries that have produced entire caste systems and multiple generations of second-class citizens, [[00:06:24](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=384.0s)]
+*  and it is not too much to say that birthright citizenship is one of the pillars of the American [[00:06:29](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=389.20000000000005s)]
+*  dream. And of course Donald Trump is not just trying to detonate it, he's trying to do it in [[00:06:34](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=394.32s)]
+*  a way that will give him even more latitude to ignore courts that rule against him. What we [[00:06:39](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=399.6s)]
+*  don't know just yet is whether the Supreme Court's conservative majority will have his back. [[00:06:44](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=404.32s)]
+*  Jamal Green is professor of constitutional law at Columbia, he's a deputy assistant attorney general [[00:06:49](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=409.04s)]
+*  in the Biden DOJ. Maya Wiley is president of the Leadership Conference for Civil Rights. [[00:06:53](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=413.28000000000003s)]
+*  She served in the U.S. Attorney's Office for the Southern District of New York, and they both join [[00:06:57](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=417.04s)]
+*  me now. It's good to have you here. Let me just first start, I'll start with you Jamal, and then [[00:07:00](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=420.48s)]
+*  go to you Maya, in terms of what your broad takeaways from the arguments this morning were. [[00:07:04](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=424.72s)]
+*  Well I think the really important point here is what you led with, which is he's going to lose on [[00:07:09](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=429.92s)]
+*  the merits. He's already lost several times, he's very very likely to lose at the Supreme Court, [[00:07:15](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=435.76s)]
+*  and what he's really trying to do here is kind of get another bite at the apple to try to get [[00:07:21](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=441.52s)]
+*  himself a win. His lawyers are setting up a case over an issue that some of the justices have been [[00:07:26](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=446.0s)]
+*  concerned about in the past, which is a single district court issuing a nationwide injunction, [[00:07:32](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=452.24s)]
+*  but this is the absolute wrong case for that, and that's what you kind of saw getting teased out [[00:07:37](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=457.59999999999997s)]
+*  by a lot of the justices today. Did you feel the same way that the losing on the merits hung over [[00:07:42](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=462.0s)]
+*  the arguments? Well I felt both those things, right, that the losing of the merits. This is a [[00:07:47](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=467.04s)]
+*  case where Trump appointed judges in lower courts ruled against them. You had it in your setup, [[00:07:52](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=472.08s)]
+*  Chris. The Constitution's pretty plain and clear, and the history is clear, and as Justice Sotomayor [[00:07:58](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=478.72s)]
+*  said, she started counting the Supreme Court precedents over 100 years that they'd have to [[00:08:05](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=485.52s)]
+*  overlook and bypass to hold it up, but the nationwide injunction is not a small thing. [[00:08:10](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=490.64s)]
+*  Right. I mean what Justice Katanji Brown Jackson was saying was absolutely right. [[00:08:16](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=496.8s)]
+*  So what you're trying to do is abuse your power, but weaken the court's ability to be that check [[00:08:22](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=502.96s)]
+*  and balance that says this is going to harm way too many people for us to just apply it to the [[00:08:29](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=509.68s)]
+*  plaintiffs, and that's the part to understand. If there are 28 states where there are not lawsuits, [[00:08:37](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=517.28s)]
+*  babies are still getting born. Yeah, I mean every day. Who aren't going to get social security numbers? [[00:08:43](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=523.52s)]
+*  There are people giving birth to children here who are on student visas, on work visas, don't have [[00:08:48](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=528.88s)]
+*  papers. I mean there's a million different ways you could be here. Born in the United States. [[00:08:55](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=535.28s)]
+*  And I think you said it absolutely right. There was a clear constitutional decision, [[00:08:59](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=539.92s)]
+*  to say born here you're one of us. Yes. And what they're really saying, and we're not going to talk [[00:09:06](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=546.88s)]
+*  about South Africans right now, but Donald Trump in the 1990s who said we're not going to be South [[00:09:14](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=554.32s)]
+*  Africa. This is all about race. So at a time when we're talking about the 14th Amendment of the [[00:09:19](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=559.68s)]
+*  Constitution, we should remember it was to create a more perfect union that was diverse, [[00:09:26](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=566.56s)]
+*  not to be afraid of that diversity and start denying rights across the board to not perfect it. [[00:09:30](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=570.88s)]
+*  Your point about the merits, which I think we all agree, it's ludicrous. Let's just say they're [[00:09:39](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=579.04s)]
+*  going to lose for the argument here. Now the procedural stuff can get wheezy, but it seems to [[00:09:45](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=585.68s)]
+*  me there's two ways to really understand it. I'll start with what you're saying, which is that the [[00:09:50](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=590.8s)]
+*  burden on the people impacted here is insane. You're talking about thousands of people, [[00:09:56](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=596.24s)]
+*  and then there are more and more and more, and every single one. Literally, in the hospital, [[00:10:01](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=601.12s)]
+*  you're taking home your baby. Do they get a birth certificate? Do they get a social security? [[00:10:04](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=604.88s)]
+*  I mean, all of that hung up while the court decides it. That's a crazy burden to put on people. [[00:10:08](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=608.72s)]
+*  I think it even goes further than that because any baby that's born in the United States, [[00:10:14](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=614.16s)]
+*  under the laws it's been for more than 100 years, all you need is your birth certificate. [[00:10:19](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=619.04s)]
+*  Right, right, right. [[00:10:23](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=623.6s)]
+*  Now it's everyone. It's not just people who- [[00:10:25](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=625.04s)]
+*  That's a great point. You now have to introduce a kind of sorting hat, [[00:10:27](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=627.04s)]
+*  right? Exactly. [[00:10:30](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=630.96s)]
+*  To the delivery room that has never existed before. [[00:10:31](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=631.68s)]
+*  At a time when this is the same administration trying to say, [[00:10:35](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=635.92s)]
+*  you better have a birth certificate, you better have a passport, that we will deny you if you [[00:10:39](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=639.6s)]
+*  want to vote. Right. [[00:10:45](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=645.6s)]
+*  I mean, that is the complete confluence of the way in which they're trying to control [[00:10:47](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=647.36s)]
+*  us, we the people, rather than letting we the people be the people. [[00:10:53](https://www.youtube.com/watch?v=HVrdxCBjzxU&t=653.04s)]
