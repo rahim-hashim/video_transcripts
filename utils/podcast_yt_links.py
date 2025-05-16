@@ -76,7 +76,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLTpcK80irdQgz9WLvn1yxFWLXbZw20aV7': 'The Young Turks - Hour 1',
   'https://www.youtube.com/playlist?list=PLTpcK80irdQjwxSkQkLHTvGy2abINHRym': 'The Young Turks - Hour 2',
   'https://www.youtube.com/playlist?list=PLsnSWTCV9wc5nV9PVgeDQ_zFar8jN0nve': 'Dropsite News',
-  'https://www.youtube.com/playlist?list=PLS_48r7yuHnsRSghHtImrz-VEAl4hmUKE': 'Glenn Greenwald - System Update',
+  'https://www.youtube.com/playlist?list=PLS_48r7yuHnspwTJpNignae0cSY_b1cL5': 'Glenn Greenwald - System Update',
   # US Congressmen
   # https://www.youtube.com/@RepAlGreen/videos # Al Green
 }

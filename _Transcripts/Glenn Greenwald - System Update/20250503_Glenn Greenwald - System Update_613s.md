@@ -1,0 +1,147 @@
+---
+Date Generated: May 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 613s
+Video Keywords: ['politics', 'us politics', 'politics today', 'civil liberties', 'civil rights and civil liberties', 'independent media', 'independent journalism', 'journalism', 'journalist', 'investigative journalism', 'free speech', 'freedom of speech', 'free speech rights', 'internet free speech']
+Video Views: 23328
+Video Rating: None
+Video Description: This is a clip from our show SYSTEM UPDATE, now airing every weeknight at 7pm ET on Rumble. You can watch the full episode for FREE here: https://rumble.com/v6svq33-system-update-show-448.html
+
+Now available as a podcast! Find full episodes here: https://linktr.ee/systemupdate_
+
+Join us LIVE on Rumble, weeknights at 7pm ET: https://rumble.com/c/GGreenwald
+
+Become part of our Locals community: https://greenwald.locals.com/
+
+Follow Glenn:
+Twitter: https://twitter.com/ggreenwald
+Instagram: https://www.instagram.com/glenn.11.greenwald/
+
+Follow System Update: 
+Twitter: https://twitter.com/SystemUpdate_
+Instagram: https://www.instagram.com/systemupdate__/
+TikTok: https://www.tiktok.com/@systemupdate__
+Facebook: https://www.facebook.com/systemupdate.tv/
+LinkedIn: https://www.linkedin.com/company/systemupdate/
+---
+
+# MAGA Influencers SHOCKED That Anyone Would Rebuke Reporters
+**Glenn Greenwald - System Update:** [May 03, 2025](https://www.youtube.com/watch?v=T7HRKRccgjA)
+*  Last question is from Mark Johnson 125 who says, what do you think about [[00:00:00](https://www.youtube.com/watch?v=T7HRKRccgjA&t=0.0s)]
+*  representative Omar cursing that reporter? I'm not a fan of it but it [[00:00:11](https://www.youtube.com/watch?v=T7HRKRccgjA&t=11.8s)]
+*  seems like people are overreacting a bit. Alright so just to set the stage for [[00:00:15](https://www.youtube.com/watch?v=T7HRKRccgjA&t=15.36s)]
+*  this so you can see what happened for those of you haven't. Congresswoman Omar [[00:00:21](https://www.youtube.com/watch?v=T7HRKRccgjA&t=21.240000000000002s)]
+*  was walking on the street toward the Capitol and it's very common for [[00:00:26](https://www.youtube.com/watch?v=T7HRKRccgjA&t=26.52s)]
+*  journalists to work there. That's one of the places you can ask members of [[00:00:30](https://www.youtube.com/watch?v=T7HRKRccgjA&t=30.439999999999998s)]
+*  Congress questions even if they don't invite you into their office or agree to [[00:00:35](https://www.youtube.com/watch?v=T7HRKRccgjA&t=35.2s)]
+*  an interview. It's very often done so the reporter is not doing anything wrong [[00:00:38](https://www.youtube.com/watch?v=T7HRKRccgjA&t=38.84s)]
+*  here at all. I don't think but this is how Congresswoman Omar reacted. [[00:00:43](https://www.youtube.com/watch?v=T7HRKRccgjA&t=43.6s)]
+*  Congresswoman Omar, I'm Miles Morrell with the Daily Caller News Foundation. Do you [[00:00:49](https://www.youtube.com/watch?v=T7HRKRccgjA&t=49.68s)]
+*  think more of your Democratic colleagues should be traveling to El [[00:00:53](https://www.youtube.com/watch?v=T7HRKRccgjA&t=53.64s)]
+*  Salvador to advocate on behalf of Abrigo Garcia? I think you should fuck off. I'm sorry what? [[00:00:56](https://www.youtube.com/watch?v=T7HRKRccgjA&t=56.12s)]
+*  Congresswoman? You should fuck off. Who should? You. Why me? I'm not taking any of my questions right now but here you go. Yeah thanks. [[00:01:01](https://www.youtube.com/watch?v=T7HRKRccgjA&t=61.64s)]
+*  Okay it was a little bit of a snarky question. Hey hey should more of your [[00:01:11](https://www.youtube.com/watch?v=T7HRKRccgjA&t=71.0s)]
+*  Democrats go to El Salvador and advocate for Abrigo Garcia? You know that's okay [[00:01:15](https://www.youtube.com/watch?v=T7HRKRccgjA&t=75.68s)]
+*  reporters can be snarky they don't have to be like super deferential, super like [[00:01:21](https://www.youtube.com/watch?v=T7HRKRccgjA&t=81.96s)]
+*  respectful. He didn't assault her, he didn't do anything but in return yes she used a [[00:01:27](https://www.youtube.com/watch?v=T7HRKRccgjA&t=87.16s)]
+*  naughty word. It's like a word you tell your nine-year-old kid not to use but [[00:01:33](https://www.youtube.com/watch?v=T7HRKRccgjA&t=93.11999999999999s)]
+*  adults use that word and she wasn't aggressive about it. She wasn't violent. [[00:01:38](https://www.youtube.com/watch?v=T7HRKRccgjA&t=98.0s)]
+*  She didn't like attack him. She didn't threaten him. He asked this question. She [[00:01:44](https://www.youtube.com/watch?v=T7HRKRccgjA&t=104.16s)]
+*  was bothered by it. Probably doesn't like the deli caller either and she said he [[00:01:49](https://www.youtube.com/watch?v=T7HRKRccgjA&t=109.84s)]
+*  said do you think they should go visit El Salvador and she said I think you [[00:01:54](https://www.youtube.com/watch?v=T7HRKRccgjA&t=114.32000000000001s)]
+*  should fuck off and then he said excuse me what? She didn't backtrack at all. She [[00:01:57](https://www.youtube.com/watch?v=T7HRKRccgjA&t=117.16s)]
+*  didn't get embarrassed and try and pretend she didn't say it. She said yeah [[00:02:01](https://www.youtube.com/watch?v=T7HRKRccgjA&t=121.88000000000001s)]
+*  I think you should fuck off and he said who should and she said you should and [[00:02:05](https://www.youtube.com/watch?v=T7HRKRccgjA&t=125.56s)]
+*  that was it. Maybe not the best way to handle a journalist. I'll certainly [[00:02:10](https://www.youtube.com/watch?v=T7HRKRccgjA&t=130.16s)]
+*  accept that. Maybe a member of Congress should conduct themselves with more I [[00:02:15](https://www.youtube.com/watch?v=T7HRKRccgjA&t=135.56s)]
+*  don't know whatever decorum if you want to say that. I mean Trump campaigned all [[00:02:18](https://www.youtube.com/watch?v=T7HRKRccgjA&t=138.68s)]
+*  throughout 2024 using every curse word he could think of in his rallies so [[00:02:24](https://www.youtube.com/watch?v=T7HRKRccgjA&t=144.92000000000002s)]
+*  let's not like invoke decorum unless the politicians you most admire are actually [[00:02:33](https://www.youtube.com/watch?v=T7HRKRccgjA&t=153.8s)]
+*  adhering to it as well. Here was Nancy Mace who was questioned by a [[00:02:40](https://www.youtube.com/watch?v=T7HRKRccgjA&t=160.64s)]
+*  constituent not a journalist even but a constituent in her home district when [[00:02:49](https://www.youtube.com/watch?v=T7HRKRccgjA&t=169.55999999999997s)]
+*  she was at some sort of drugstore and here's what happened. [[00:02:54](https://www.youtube.com/watch?v=T7HRKRccgjA&t=174.2s)]
+*  I do them every year. You want to keep going? So the question that he [[00:02:58](https://www.youtube.com/watch?v=T7HRKRccgjA&t=178.35999999999999s)]
+*  asked before you this started was oh hi Congresswoman are you going to hold any [[00:03:04](https://www.youtube.com/watch?v=T7HRKRccgjA&t=184.56s)]
+*  town halls for your constituents like me to come and ask you a question? [[00:03:09](https://www.youtube.com/watch?v=T7HRKRccgjA&t=189.08s)]
+*  I do them every year. You want to keep going? You want to keep going? [[00:03:12](https://www.youtube.com/watch?v=T7HRKRccgjA&t=192.8s)]
+*  Keep harassing me? You could have gone to a dozen town halls last year. [[00:03:17](https://www.youtube.com/watch?v=T7HRKRccgjA&t=197.84s)]
+*  Yeah I've already done one I'll do plenty more. You're always invited. [[00:03:23](https://www.youtube.com/watch?v=T7HRKRccgjA&t=203.68s)]
+*  By the way I voted for gay marriage twice so I'm just saying it has to [[00:03:29](https://www.youtube.com/watch?v=T7HRKRccgjA&t=209.16000000000003s)]
+*  everything to do with you. You think everything about me has to do with gay marriage? [[00:03:35](https://www.youtube.com/watch?v=T7HRKRccgjA&t=215.88s)]
+*  I do. Absolutely. That's your first stance when you speak with me? [[00:03:38](https://www.youtube.com/watch?v=T7HRKRccgjA&t=218.92s)]
+*  Absolutely. There's no other who may conversation you have about me. If you want to get in my face about town halls you should have shown up to one last year. [[00:03:41](https://www.youtube.com/watch?v=T7HRKRccgjA&t=221.2s)]
+*  There's no other who may thing you can talk about me just saying oh I support gay marriage. [[00:03:46](https://www.youtube.com/watch?v=T7HRKRccgjA&t=226.2s)]
+*  Because you're getting in my face about a town hall you could have done last year. [[00:03:49](https://www.youtube.com/watch?v=T7HRKRccgjA&t=229.92s)]
+*  The question from right over here is if you have any plans to have more towns hall this year. [[00:03:53](https://www.youtube.com/watch?v=T7HRKRccgjA&t=233.4s)]
+*  I have town halls every year. I have over a dozen every year. Great that was my entire question. [[00:03:57](https://www.youtube.com/watch?v=T7HRKRccgjA&t=237.48s)]
+*  You didn't have to go into this. You could have come to any of them last year. [[00:04:01](https://www.youtube.com/watch?v=T7HRKRccgjA&t=241.48s)]
+*  I had over a dozen. Where were you the year before that? [[00:04:05](https://www.youtube.com/watch?v=T7HRKRccgjA&t=245.68s)]
+*  Oh because you know what? Because you people on the left are crazy. [[00:04:10](https://www.youtube.com/watch?v=T7HRKRccgjA&t=250.68s)]
+*  You're absolutely fucking crazy. You are. Get out of my face. Goodbye. Fuck you. [[00:04:15](https://www.youtube.com/watch?v=T7HRKRccgjA&t=255.68s)]
+*  You're going to fuck me? You're going to be voted out so fast this year? I can't wait for you to fucking go into this. [[00:04:22](https://www.youtube.com/watch?v=T7HRKRccgjA&t=262.68s)]
+*  I'm not. I won by so much. You're a disgrace to this state. That's what you are. You're a disgrace. [[00:04:27](https://www.youtube.com/watch?v=T7HRKRccgjA&t=267.68s)]
+*  I'm going to ask you a simple question and you just go on this tirade and tell me fuck you. [[00:04:31](https://www.youtube.com/watch?v=T7HRKRccgjA&t=271.68s)]
+*  Yeah fuck you. Disgusting. Get out of my face. Fuck you. Get out of my face. [[00:04:34](https://www.youtube.com/watch?v=T7HRKRccgjA&t=274.68s)]
+*  Try it again. What's your name? What's your name? What's your name? [[00:04:37](https://www.youtube.com/watch?v=T7HRKRccgjA&t=277.68s)]
+*  Did you say fuck me? Yep I sure did. The first thing you're going to say to me is fuck me for asking you a question? [[00:04:42](https://www.youtube.com/watch?v=T7HRKRccgjA&t=282.68s)]
+*  Get the fuck out of my face. Fuck you. Now. Fuck you. Fuck you. [[00:04:46](https://www.youtube.com/watch?v=T7HRKRccgjA&t=286.68s)]
+*  You couldn't take me on baby. Say the fuck away from me. [[00:04:49](https://www.youtube.com/watch?v=T7HRKRccgjA&t=289.68s)]
+*  Alright so that seems unhinged to me to be honest. [[00:04:54](https://www.youtube.com/watch?v=T7HRKRccgjA&t=294.68s)]
+*  He was very polite. He kept his distance. He didn't get up in our face at all. [[00:05:00](https://www.youtube.com/watch?v=T7HRKRccgjA&t=300.68s)]
+*  He was like she was in the middle of the row. He was just like entered the row a tiny bit. [[00:05:04](https://www.youtube.com/watch?v=T7HRKRccgjA&t=304.68s)]
+*  He wasn't the slightest bit aggressive. [[00:05:08](https://www.youtube.com/watch?v=T7HRKRccgjA&t=308.68s)]
+*  He's like hey Congresswoman are you going to have a town hall this year? [[00:05:10](https://www.youtube.com/watch?v=T7HRKRccgjA&t=310.68s)]
+*  Super legitimate question for a constituent to ask. [[00:05:15](https://www.youtube.com/watch?v=T7HRKRccgjA&t=315.68s)]
+*  It's like part of the duty of members of Congress. [[00:05:19](https://www.youtube.com/watch?v=T7HRKRccgjA&t=319.68s)]
+*  And she's like very aggressive right from the beginning. Very hostile. [[00:05:22](https://www.youtube.com/watch?v=T7HRKRccgjA&t=322.68s)]
+*  And out of nowhere she just brings up she's like and by the way I voted for gay marriage twice. [[00:05:25](https://www.youtube.com/watch?v=T7HRKRccgjA&t=325.68s)]
+*  Why would you say that? I mean yeah he is pretty clearly gay but like why would you bring that up? [[00:05:30](https://www.youtube.com/watch?v=T7HRKRccgjA&t=330.68s)]
+*  Like why does that even enter your brain? [[00:05:38](https://www.youtube.com/watch?v=T7HRKRccgjA&t=338.68s)]
+*  She's always like okay he's gay. I want to tell him that I voted for gay marriage twice. [[00:05:41](https://www.youtube.com/watch?v=T7HRKRccgjA&t=341.68s)]
+*  I'll probably love that. [[00:05:45](https://www.youtube.com/watch?v=T7HRKRccgjA&t=345.68s)]
+*  And he was like who cares? [[00:05:46](https://www.youtube.com/watch?v=T7HRKRccgjA&t=346.68s)]
+*  Like everything I think about and care about isn't just about being gay. [[00:05:48](https://www.youtube.com/watch?v=T7HRKRccgjA&t=348.68s)]
+*  Like gay marriage. [[00:05:54](https://www.youtube.com/watch?v=T7HRKRccgjA&t=354.68s)]
+*  And then by the end of it she used the F word I don't know ten times maybe probably. [[00:05:56](https://www.youtube.com/watch?v=T7HRKRccgjA&t=356.68s)]
+*  And said other things as well. [[00:06:01](https://www.youtube.com/watch?v=T7HRKRccgjA&t=361.68s)]
+*  So you know if you're going to be very upset by Ilion Omar using an F word with a journalist. [[00:06:05](https://www.youtube.com/watch?v=T7HRKRccgjA&t=365.68s)]
+*  We all know journalists deserve the greatest deference the highest amount of respect. [[00:06:16](https://www.youtube.com/watch?v=T7HRKRccgjA&t=376.68s)]
+*  Then if that's the sort of thing that you really want to hold politicians to like no naughty words. [[00:06:21](https://www.youtube.com/watch?v=T7HRKRccgjA&t=381.68s)]
+*  Then you ought to be complaining about Trump who curses more than any politician I've ever seen. [[00:06:28](https://www.youtube.com/watch?v=T7HRKRccgjA&t=388.68s)]
+*  Which isn't I've ever seen and it doesn't bother me by the way. [[00:06:33](https://www.youtube.com/watch?v=T7HRKRccgjA&t=393.68s)]
+*  Or what Nancy Mase did which is of all those things like the most unhinged. [[00:06:37](https://www.youtube.com/watch?v=T7HRKRccgjA&t=397.68s)]
+*  Here's Charlie Kirk. [[00:06:43](https://www.youtube.com/watch?v=T7HRKRccgjA&t=403.68s)]
+*  Yesterday after he saw the video Ilion Omar just told a daily caller video reporter to F off. [[00:06:45](https://www.youtube.com/watch?v=T7HRKRccgjA&t=405.68s)]
+*  When he attempted to ask her a simple question about Kilmar Arbrogato Garcia the woman has no class. [[00:06:52](https://www.youtube.com/watch?v=T7HRKRccgjA&t=412.68s)]
+*  No gratitude to America and no honor. [[00:06:57](https://www.youtube.com/watch?v=T7HRKRccgjA&t=417.68s)]
+*  Truly a disgrace to the US Congress. [[00:07:00](https://www.youtube.com/watch?v=T7HRKRccgjA&t=420.68s)]
+*  Piers Morgan the British subject who loves to spend his time commenting on American politics. [[00:07:05](https://www.youtube.com/watch?v=T7HRKRccgjA&t=425.68s)]
+*  Reminder Democrats say Donald Trump has lowered the tone of political rhetoric. [[00:07:12](https://www.youtube.com/watch?v=T7HRKRccgjA&t=432.68s)]
+*  And then links to that video here's lips of TikTok always the beacon of perfect politeness and civility. [[00:07:16](https://www.youtube.com/watch?v=T7HRKRccgjA&t=436.68s)]
+*  And respect for others. [[00:07:24](https://www.youtube.com/watch?v=T7HRKRccgjA&t=444.68s)]
+*  She says wow in all caps Democratic Representative Ilion Omar tells journalists to F off. [[00:07:27](https://www.youtube.com/watch?v=T7HRKRccgjA&t=447.68s)]
+*  When asked if more of her colleagues would travel to visit a deported MS 13 gang member. [[00:07:33](https://www.youtube.com/watch?v=T7HRKRccgjA&t=453.68s)]
+*  That wasn't the question. [[00:07:38](https://www.youtube.com/watch?v=T7HRKRccgjA&t=458.68s)]
+*  Whether they're going to she said he said should they. [[00:07:40](https://www.youtube.com/watch?v=T7HRKRccgjA&t=460.68s)]
+*  Do you think that more should go as I said it was a like snippy question. [[00:07:43](https://www.youtube.com/watch?v=T7HRKRccgjA&t=463.68s)]
+*  But who cares. [[00:07:49](https://www.youtube.com/watch?v=T7HRKRccgjA&t=469.68s)]
+*  But please please stop that. [[00:07:51](https://www.youtube.com/watch?v=T7HRKRccgjA&t=471.68s)]
+*  These are the people the Trump movement the American right Trump himself who spent 10 years calling journalists the enemy of the people. [[00:07:54](https://www.youtube.com/watch?v=T7HRKRccgjA&t=474.68s)]
+*  The enemy of the people. [[00:08:02](https://www.youtube.com/watch?v=T7HRKRccgjA&t=482.68s)]
+*  Which I don't disagree with and never bothered me and in fact I can make an argument about why that's legitimate but still that's some very aggressive hostile rhetoric to use about journalists. [[00:08:05](https://www.youtube.com/watch?v=T7HRKRccgjA&t=485.68s)]
+*  And a public politician of the last 10 years were frequently. [[00:08:19](https://www.youtube.com/watch?v=T7HRKRccgjA&t=499.68s)]
+*  Scorning and insulting journalist Trump insults every journalist who asked him a question everyone. [[00:08:23](https://www.youtube.com/watch?v=T7HRKRccgjA&t=503.68s)]
+*  And now Trump's going to turn around and be like a politician should not speak to a journalist in this manner journalists deserve the highest respect. [[00:08:31](https://www.youtube.com/watch?v=T7HRKRccgjA&t=511.68s)]
+*  She has no class. [[00:08:43](https://www.youtube.com/watch?v=T7HRKRccgjA&t=523.6800000000001s)]
+*  How Nancy Mase does she have class as Donald Trump have class. [[00:08:46](https://www.youtube.com/watch?v=T7HRKRccgjA&t=526.68s)]
+*  This is the kind of thing I really can't stand I really can't stand it. [[00:08:50](https://www.youtube.com/watch?v=T7HRKRccgjA&t=530.68s)]
+*  I just have some consistent standards especially on these kind of trivial issues and to act like Ilya Omar is some kind of like he then. [[00:08:55](https://www.youtube.com/watch?v=T7HRKRccgjA&t=535.68s)]
+*  Some kind of like threat to society she doesn't have gratitude toward America she's American citizen. [[00:09:05](https://www.youtube.com/watch?v=T7HRKRccgjA&t=545.68s)]
+*  Yeah she was born in another country and became an American citizen the same is true of Elon Musk and Melania Trump and a lot of other people. [[00:09:11](https://www.youtube.com/watch?v=T7HRKRccgjA&t=551.68s)]
+*  She's still a full citizen like anybody else's. [[00:09:17](https://www.youtube.com/watch?v=T7HRKRccgjA&t=557.68s)]
+*  And to be honest I thought what Ilya did was funny. [[00:09:21](https://www.youtube.com/watch?v=T7HRKRccgjA&t=561.68s)]
+*  I mean I kind of thought that whole thing with Nancy Mase was sort of funny. [[00:09:25](https://www.youtube.com/watch?v=T7HRKRccgjA&t=565.68s)]
+*  I think Trump is funny. [[00:09:28](https://www.youtube.com/watch?v=T7HRKRccgjA&t=568.68s)]
+*  You know like loosen up the rectum doesn't always have to be like so tightly closed when you're pretending to be offended by things. [[00:09:31](https://www.youtube.com/watch?v=T7HRKRccgjA&t=571.68s)]
+*  I think we want our politicians to be more human and this is how people speak. [[00:09:40](https://www.youtube.com/watch?v=T7HRKRccgjA&t=580.68s)]
+*  We hope to see you there. [[00:10:10](https://www.youtube.com/watch?v=T7HRKRccgjA&t=610.68s)]

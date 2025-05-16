@@ -171,11 +171,11 @@ class Video:
 
 	def transcribe_video(self, video, model):
 		'''Transcribe the video using the whisper model'''
-		print('Transcribing Video')
+		print('  Transcribing Video')
 		start_time = time.time()
 		output = model.transcribe(video.video_path, fp16=False)
 		transcription_time = round((time.time() - start_time)/60, 2)
-		print(f'  Transcription Time: {transcription_time} min')
+		print(f'    Transcription Time: {transcription_time} min')
 		# print('Output Keys:', output.keys())
 		# print('  Segment Keys:', output['segments'][0].keys())
 		segments = [text['text'] for text in output['segments']]
@@ -207,7 +207,7 @@ class Video:
 
 	def write_transcript(self, no_timestamps=False):
 		'''Write the transcript to a markdown file'''
-		print('Writing transcript to file')
+		print('  Writing transcript to file')
 		# if file does not exist, write the transcript
 		with open(self.transcript_path, 'w', encoding='utf-8') as f:
 			# write yaml front matter
@@ -231,7 +231,7 @@ class Video:
 	def delete_video(self):
 		'''Delete the video file'''
 		os.remove(self.video_path)
-		print(f'Video file deleted: {self.video_path}')
+		print(f'  Video file deleted: {self.video_path}')
 
 def extract_playlist_urls(args, playlists):
 	url_dict = defaultdict(list)
@@ -242,7 +242,7 @@ def extract_playlist_urls(args, playlists):
 		try:
 			print(f'Transcribing Playlist: {playlist.title}')
 		except Exception as e:
-			print(f'  Error: {e}')
+			print(f'  Title Error: {e}')
 			continue
 		print(f'  Number of Total Videos: {len(playlist_url_list)}')
 		if args.refresh and args.max_load == None:

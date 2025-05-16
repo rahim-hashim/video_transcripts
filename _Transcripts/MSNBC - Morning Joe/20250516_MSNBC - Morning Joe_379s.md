@@ -1,0 +1,151 @@
+---
+Date Generated: May 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 379s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 6241
+Video Rating: None
+Video Description: 'Way Too Early' host Ali Vitali reports on how the Washington D.C.-based School for Ethics and Global Leadership is training the next generation in healthy political debates.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#trump #politics #WhiteHouse
+---
+
+# Civil political debate in D.C.? You can find it at a high school blocks from the White House
+**MSNBC - Morning Joe:** [May 16, 2025](https://www.youtube.com/watch?v=WAXZ81_Fe3Y)
+*  Ali, with political temperature across the United States running hot, to say the least, [[00:00:00](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=0.0s)]
+*  for the last decade or so, especially hot, one high school there in Washington is placing [[00:00:05](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=5.2s)]
+*  a premium on teaching students not just politics and history, but the art of respectful political [[00:00:10](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=10.540000000000001s)]
+*  debate. [[00:00:15](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=15.98s)]
+*  And Ali, you visited that school. [[00:00:16](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=16.98s)]
+*  What did you see there? [[00:00:18](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=18.52s)]
+*  Look, constructive, nuanced, and civil are not words we typically use to describe this [[00:00:19](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=19.52s)]
+*  current political climate. [[00:00:24](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=24.44s)]
+*  But a school right here in Washington, D.C., as you mentioned, Willie, is training the [[00:00:25](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=25.96s)]
+*  next generation to change the conversation and the way they have it. [[00:00:29](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=29.880000000000003s)]
+*  Watch. [[00:00:34](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=34.120000000000005s)]
+*  You may think you've heard this conversation before. [[00:00:35](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=35.120000000000005s)]
+*  How would you describe politics right now? [[00:00:36](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=36.84s)]
+*  I would say that politics are sort of a mess. [[00:00:38](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=38.480000000000004s)]
+*  Either you're one side, like you support one side, or you're the enemy. [[00:00:40](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=40.84s)]
+*  Demolition derby. [[00:00:44](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=44.88s)]
+*  But the students here at the School for Ethics and Global Leadership are doing it differently. [[00:00:46](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=46.2s)]
+*  How would you then describe the political environment here? [[00:00:50](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=50.34s)]
+*  It is room-leaving and it's inspiring, honestly. [[00:00:53](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=53.68s)]
+*  Being here, like I've gotten to hear a lot of different perspectives. [[00:00:57](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=57.44s)]
+*  We come from a place, like in the school, of mutual vulnerability. [[00:01:00](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=60.519999999999996s)]
+*  The school, just blocks from the White House and Capitol Hill, brings together high schoolers [[00:01:04](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=64.76s)]
+*  from all over the country. [[00:01:08](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=68.26s)]
+*  The facts still are very important and can be a very powerful tool to use. [[00:01:09](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=69.6s)]
+*  And directly engages with the most complex issues of the day, from the Israel-Gaza war [[00:01:14](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=74.6s)]
+*  to abortion rights. [[00:01:18](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=78.9s)]
+*  I wanted to note how often you referred to each other's points. [[00:01:20](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=80.60000000000001s)]
+*  It's the brainchild of teacher Noah Baab. [[00:01:25](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=85.84s)]
+*  The central insight of founding the school is that in a post-9-11 world, we need American [[00:01:27](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=87.8s)]
+*  leaders who are ethically strong and internationally aware. [[00:01:33](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=93.06s)]
+*  Awareness drawn from across the political spectrum, with guest speakers like Tucker [[00:01:37](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=97.96000000000001s)]
+*  Carlson and former President Barack Obama. [[00:01:41](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=101.52000000000001s)]
+*  They've all spoken here. [[00:01:44](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=104.84s)]
+*  Yeah. [[00:01:45](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=105.84s)]
+*  No, that's part of our model. [[00:01:46](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=106.84s)]
+*  It's at the core of our model. [[00:01:48](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=108.84s)]
+*  All ideas shared in good faith are welcome here. [[00:01:51](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=111.08s)]
+*  It's hard, I think, for people who might watch this piece and say, I yearn for a civil political [[00:01:54](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=114.64s)]
+*  debate where I can engage with the nuance. [[00:01:59](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=119.76s)]
+*  And yet, the stakes seem so high and the good faith seems like it's gone. [[00:02:02](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=122.80000000000001s)]
+*  It's because the stakes are high that we do need to show as much grace as we can. [[00:02:07](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=127.16s)]
+*  Back in the classroom, a chance to learn firsthand, playing the part of lobbyists across from actual [[00:02:12](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=132.48000000000002s)]
+*  lobbyists, defending assigned positions. [[00:02:18](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=138.23999999999998s)]
+*  Why are you trying to get rid of the tax breaks? [[00:02:20](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=140.23999999999998s)]
+*  I don't believe that tax credits are the best use of government federal funding. [[00:02:22](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=142.2s)]
+*  I have the research right here and I also have a graph. [[00:02:26](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=146.0s)]
+*  You can see the- [[00:02:28](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=148.79999999999998s)]
+*  All right, that's good. [[00:02:29](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=149.79999999999998s)]
+*  Never mind. [[00:02:30](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=150.79999999999998s)]
+*  You may also notice no distractions. [[00:02:31](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=151.79999999999998s)]
+*  It strikes me that here you guys don't have your phones. [[00:02:37](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=157.35999999999999s)]
+*  So I think like not having my phone has kind of led me to have a lot more of a healthy [[00:02:39](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=159.92s)]
+*  relationship with politics. [[00:02:44](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=164.79999999999998s)]
+*  We stay up till early hours of the morning, even if we shouldn't be talking about issues [[00:02:46](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=166.28s)]
+*  that do exist in our society. [[00:02:51](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=171.2s)]
+*  I can tell you, they've got their phones in Congress and they certainly have social media. [[00:02:53](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=173.92000000000002s)]
+*  But how could they do a little bit more of what you're doing? [[00:02:57](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=177.64s)]
+*  Talk to someone genuinely. [[00:03:00](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=180.04s)]
+*  Like, if you're in Congress, go to another Congress member and talk to them about their [[00:03:01](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=181.04s)]
+*  opinions. [[00:03:05](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=185.88s)]
+*  Come from a place of willingness and openness instead of a place from combativeness. [[00:03:06](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=186.88s)]
+*  They make it sound so simple. [[00:03:12](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=192.96s)]
+*  But look, students at SEGL apply to leave their so-called home school to come here for [[00:03:15](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=195.83999999999997s)]
+*  either half or all of the year. [[00:03:20](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=200.48s)]
+*  And they come from across the country, places like Texas, California, and New York, just [[00:03:22](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=202.51999999999998s)]
+*  to name a few of the states. [[00:03:26](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=206.0s)]
+*  And the students do have different stances on political issues, but they told me some [[00:03:27](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=207.72s)]
+*  of the discussions that they've had there have changed the ideas and biases that they [[00:03:31](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=211.67999999999998s)]
+*  came in with. [[00:03:35](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=215.62s)]
+*  And what was most fascinating to me was when I asked them about the issue that they're [[00:03:37](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=217.17999999999998s)]
+*  most motivated around right now, they all said some version of social justice. [[00:03:40](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=220.24s)]
+*  It evoked this larger theme that the institutions as they exist right now don't seem to them [[00:03:45](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=225.52s)]
+*  like they're working. [[00:03:50](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=230.92000000000002s)]
+*  And they want to change that, both in tone and substance, Eugene. [[00:03:52](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=232.3s)]
+*  Well, good luck to them. [[00:03:55](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=235.68s)]
+*  Yeah. [[00:03:57](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=237.56s)]
+*  You know, Ali, is this school, is it a private school or a public school, charter school? [[00:03:58](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=238.56s)]
+*  How does it set up? [[00:04:03](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=243.72s)]
+*  Yeah, this is a private school. [[00:04:05](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=245.04000000000002s)]
+*  I think that the way that they take these students out of their homeschool, they all [[00:04:06](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=246.8s)]
+*  live here then in Washington, D.C. [[00:04:10](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=250.88s)]
+*  They've got other campuses set up, one in Johannesburg, I believe, and then one in another [[00:04:13](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=253.04s)]
+*  place here in the states. [[00:04:16](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=256.96s)]
+*  But they've got these students for either half a year or a year, and they're able to [[00:04:18](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=258.44s)]
+*  really mold their minds. [[00:04:21](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=261.86s)]
+*  And I think the way that they're trying to do that is urging them to have constructive [[00:04:23](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=263.62s)]
+*  conversations, ask questions about issues that maybe other schools might feel the pressure [[00:04:27](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=267.68s)]
+*  to shy away from. [[00:04:31](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=271.52s)]
+*  These places are tackling them head on. [[00:04:33](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=273.16s)]
+*  And the other piece of this that I think is really important, we touched on it here. [[00:04:35](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=275.96s)]
+*  They don't have their phones. [[00:04:39](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=279.12s)]
+*  Isn't that amazing? [[00:04:40](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=280.12s)]
+*  I mean, look, I can't imagine trying to run a classroom where students do have their phones. [[00:04:41](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=281.12s)]
+*  So that seems like a no- Why is it so difficult to work across the country? [[00:04:47](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=287.0s)]
+*  Public schools are grappling with this too, right? [[00:04:53](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=293.28s)]
+*  The idea that you can take students' phones, it's less distractions. [[00:04:55](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=295.03999999999996s)]
+*  But when you think about it through the political lens, what some of these students told me [[00:04:58](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=298.15999999999997s)]
+*  is they came in feeling so energized by what one of them called slacktivism. [[00:05:01](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=301.0s)]
+*  The idea that you could repost someone and show that you're engaged on an issue, but [[00:05:05](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=305.68s)]
+*  maybe you don't understand the nuance of it. [[00:05:10](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=310.0s)]
+*  Or maybe you're alienating people who see you post about it and think, okay, maybe that [[00:05:11](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=311.68s)]
+*  person's not going to want to be my friend. [[00:05:15](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=315.32s)]
+*  What one of them said here, Willie, is that they are able to forge more friendships across [[00:05:17](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=317.48s)]
+*  biases and across party lines because they're not being motivated or hyperpartisanized by [[00:05:22](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=322.42s)]
+*  their phones. [[00:05:28](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=328.24s)]
+*  And I think that's a really important piece of this. [[00:05:29](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=329.24s)]
+*  Absolutely. [[00:05:31](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=331.68s)]
+*  Thoughtful civil debate, no phones. [[00:05:32](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=332.68s)]
+*  It's a real throwback. [[00:05:34](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=334.2s)]
+*  And you're right, Allie, that other schools are doing this. [[00:05:35](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=335.66s)]
+*  I think there is a real reaction to what we've seen in the country over the last decade or [[00:05:38](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=338.34000000000003s)]
+*  so and what to do about it starting at the school level. [[00:05:41](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=341.98s)]
+*  Public schools, private schools, colleges and universities encouraging debate instead [[00:05:45](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=345.42s)]
+*  of screaming at each other and name calling. [[00:05:48](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=348.90000000000003s)]
+*  So let's hope this is the start of a new era. [[00:05:51](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=351.78000000000003s)]
+*  Fascinating look at that, Allie. [[00:05:54](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=354.46000000000004s)]
+*  Thanks so much. [[00:05:56](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=356.14000000000004s)]
+*  Enjoy the weekend. [[00:05:57](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=357.14000000000004s)]
+*  We'll see you Monday. [[00:05:58](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=358.14000000000004s)]
+*  Still ahead. [[00:05:59](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=359.14000000000004s)]
+*  Thank you. [[00:06:05](https://www.youtube.com/watch?v=WAXZ81_Fe3Y&t=365.66s)]
