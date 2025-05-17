@@ -1,0 +1,153 @@
+---
+Date Generated: May 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 449s
+Video Keywords: ['Jen Psaki']
+Video Views: 21206
+Video Rating: None
+Video Description: A shift in the political valence of young, white men has driven an increase in attention to influential "manosphere" online media figures and how they're shaping the views of a generation of young men. Co-host and contributor for The Daily Show, Jordan Klepper, talks with Jen Psaki about his new special, "MAGA: The next generation" and what motivates the manosphere.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#MAGA #DailyShow #JordanKlepper
+---
+
+# How the MAGA 'manosphere' exploits attention to attract eager, young voters
+**MSNBC - The Latest:** [May 16, 2025](https://www.youtube.com/watch?v=uDEiclvvvzA)
+*  What's the vibe like right now with young Republicans? [[00:00:00](https://www.youtube.com/watch?v=uDEiclvvvzA&t=0.0s)]
+*  Oh, we are feeling victorious. [[00:00:03](https://www.youtube.com/watch?v=uDEiclvvvzA&t=3.2s)]
+*  I think it's going to go down in the history books. [[00:00:05](https://www.youtube.com/watch?v=uDEiclvvvzA&t=5.5s)]
+*  It's going to be up there with like the fall of Rome. [[00:00:07](https://www.youtube.com/watch?v=uDEiclvvvzA&t=7.0s)]
+*  Maybe we, you know, us guys, we do like talking about the Roman Empire. [[00:00:09](https://www.youtube.com/watch?v=uDEiclvvvzA&t=9.3s)]
+*  Love talking about the Roman Empire, like doing the salute too, apparently. [[00:00:11](https://www.youtube.com/watch?v=uDEiclvvvzA&t=11.6s)]
+*  Oh, Jesus. [[00:00:13](https://www.youtube.com/watch?v=uDEiclvvvzA&t=13.9s)]
+*  Okay, no one speaks MAGA quite like Jordan Klepper. [[00:00:17](https://www.youtube.com/watch?v=uDEiclvvvzA&t=17.400000000000002s)]
+*  And recently he's become especially fluent in the language of young MAGA men in particular. [[00:00:20](https://www.youtube.com/watch?v=uDEiclvvvzA&t=20.7s)]
+*  And it's an important time to do that. [[00:00:25](https://www.youtube.com/watch?v=uDEiclvvvzA&t=25.5s)]
+*  I mean in 2024, young men turned out in droves for Donald Trump. [[00:00:27](https://www.youtube.com/watch?v=uDEiclvvvzA&t=27.400000000000002s)]
+*  He gained a whopping 15% with males under 30, flipping the once blue demographic to red. [[00:00:31](https://www.youtube.com/watch?v=uDEiclvvvzA&t=31.4s)]
+*  And what changes? [[00:00:36](https://www.youtube.com/watch?v=uDEiclvvvzA&t=36.9s)]
+*  Obviously a big question lots of people are talking about. [[00:00:38](https://www.youtube.com/watch?v=uDEiclvvvzA&t=38.1s)]
+*  Now in his new special, let me take a breath here. [[00:00:40](https://www.youtube.com/watch?v=uDEiclvvvzA&t=40.2s)]
+*  The Daily Show presents Jordan Klepper Fingers the Pulse MAGA the Next Generation. [[00:00:42](https://www.youtube.com/watch?v=uDEiclvvvzA&t=42.6s)]
+*  Okay, I made it through. [[00:00:47](https://www.youtube.com/watch?v=uDEiclvvvzA&t=47.0s)]
+*  Klepper dives into the world of young MAGA men to try to find the answer to that question. [[00:00:48](https://www.youtube.com/watch?v=uDEiclvvvzA&t=48.3s)]
+*  And what he found might just surprise you. [[00:00:53](https://www.youtube.com/watch?v=uDEiclvvvzA&t=53.2s)]
+*  Joining me now is co-host and contributor for The Daily Show Jordan Klepper. [[00:00:55](https://www.youtube.com/watch?v=uDEiclvvvzA&t=55.8s)]
+*  Jordan, as you know, we've talked about this. [[00:00:59](https://www.youtube.com/watch?v=uDEiclvvvzA&t=59.5s)]
+*  I'm always amazed people talk to you, but it is so fantastic. [[00:01:01](https://www.youtube.com/watch?v=uDEiclvvvzA&t=61.0s)]
+*  I love all of the stuff you do. [[00:01:04](https://www.youtube.com/watch?v=uDEiclvvvzA&t=64.5s)]
+*  It's so interesting. [[00:01:06](https://www.youtube.com/watch?v=uDEiclvvvzA&t=66.39999999999999s)]
+*  So let me start by asking you this. [[00:01:07](https://www.youtube.com/watch?v=uDEiclvvvzA&t=67.7s)]
+*  I mean you've spent so much time over the last couple of years interviewing Trump supporters. [[00:01:09](https://www.youtube.com/watch?v=uDEiclvvvzA&t=69.1s)]
+*  What did you expect when you went out and interviewed Gen Z MAGA members? [[00:01:14](https://www.youtube.com/watch?v=uDEiclvvvzA&t=74.0s)]
+*  Well, I'll tell you my expectations were pretty low. [[00:01:21](https://www.youtube.com/watch?v=uDEiclvvvzA&t=81.9s)]
+*  If I'm being completely honest, I've talked with a lot of people at MAGA rallies [[00:01:24](https://www.youtube.com/watch?v=uDEiclvvvzA&t=84.8s)]
+*  and they go from the right to the far right to the JFK Jr. is still alive and running the government right. [[00:01:29](https://www.youtube.com/watch?v=uDEiclvvvzA&t=89.5s)]
+*  And so I expected sort of a smaller version of that, maybe a little bit more swole. [[00:01:36](https://www.youtube.com/watch?v=uDEiclvvvzA&t=96.3s)]
+*  But when I got out there and I started talking to folks, I went to a UFC fight. [[00:01:42](https://www.youtube.com/watch?v=uDEiclvvvzA&t=102.5s)]
+*  I went to a college campus. [[00:01:46](https://www.youtube.com/watch?v=uDEiclvvvzA&t=106.0s)]
+*  I was surprised by how open and curious some of these conservatives were. [[00:01:48](https://www.youtube.com/watch?v=uDEiclvvvzA&t=108.19999999999999s)]
+*  It begs a larger question as to like what is politics to them? [[00:01:54](https://www.youtube.com/watch?v=uDEiclvvvzA&t=114.8s)]
+*  What is the GOP? [[00:01:58](https://www.youtube.com/watch?v=uDEiclvvvzA&t=118.39999999999999s)]
+*  What is MAGA? [[00:01:59](https://www.youtube.com/watch?v=uDEiclvvvzA&t=119.5s)]
+*  But for the most part, the people I talked to were surprisingly open. [[00:02:01](https://www.youtube.com/watch?v=uDEiclvvvzA&t=121.0s)]
+*  And you can point out the fact I'm surprised that they come and talk to me. [[00:02:04](https://www.youtube.com/watch?v=uDEiclvvvzA&t=124.5s)]
+*  They wanted to talk to me. [[00:02:07](https://www.youtube.com/watch?v=uDEiclvvvzA&t=127.39999999999999s)]
+*  They were open to talk to me. [[00:02:08](https://www.youtube.com/watch?v=uDEiclvvvzA&t=128.29999999999998s)]
+*  So we started at a good place with those conversations. [[00:02:09](https://www.youtube.com/watch?v=uDEiclvvvzA&t=129.79999999999998s)]
+*  Yeah, it's really interesting. [[00:02:12](https://www.youtube.com/watch?v=uDEiclvvvzA&t=132.79999999999998s)]
+*  I mean, this is sort of the question so many people are asking. [[00:02:14](https://www.youtube.com/watch?v=uDEiclvvvzA&t=134.79999999999998s)]
+*  There's so many theories out there, including on cable news, as I'm sure you've seen. [[00:02:17](https://www.youtube.com/watch?v=uDEiclvvvzA&t=137.2s)]
+*  Now, I'm old enough to remember when Democrats were the ones perceived as cool by young people, [[00:02:20](https://www.youtube.com/watch?v=uDEiclvvvzA&t=140.7s)]
+*  perhaps because I was one of them working on the Obama campaign, you know, back in the day. [[00:02:26](https://www.youtube.com/watch?v=uDEiclvvvzA&t=146.7s)]
+*  That was cool. [[00:02:31](https://www.youtube.com/watch?v=uDEiclvvvzA&t=151.39999999999998s)]
+*  But now it feels like it's sort of flipped a little bit culturally. [[00:02:32](https://www.youtube.com/watch?v=uDEiclvvvzA&t=152.6s)]
+*  Why do you think that is to the degree you have a theory on that? [[00:02:36](https://www.youtube.com/watch?v=uDEiclvvvzA&t=156.79999999999998s)]
+*  I mean, it's strange out there. [[00:02:41](https://www.youtube.com/watch?v=uDEiclvvvzA&t=161.7s)]
+*  Free love used to be cool. [[00:02:43](https://www.youtube.com/watch?v=uDEiclvvvzA&t=163.7s)]
+*  I don't know how old people now apparently tradwives are in. [[00:02:45](https://www.youtube.com/watch?v=uDEiclvvvzA&t=165.2s)]
+*  I don't know. [[00:02:48](https://www.youtube.com/watch?v=uDEiclvvvzA&t=168.2s)]
+*  It makes me feel very old and yet young at the same time. [[00:02:48](https://www.youtube.com/watch?v=uDEiclvvvzA&t=168.7s)]
+*  I'm not sure. [[00:02:52](https://www.youtube.com/watch?v=uDEiclvvvzA&t=172.7s)]
+*  I went to a college campus. [[00:02:54](https://www.youtube.com/watch?v=uDEiclvvvzA&t=174.2s)]
+*  And like what I did when I was on college campuses, I asked what was cool because I desperately wanted to know. [[00:02:56](https://www.youtube.com/watch?v=uDEiclvvvzA&t=176.2s)]
+*  And quite frankly, it's not as if Donald Trump is cool. [[00:03:02](https://www.youtube.com/watch?v=uDEiclvvvzA&t=182.2s)]
+*  To some people, it was. [[00:03:05](https://www.youtube.com/watch?v=uDEiclvvvzA&t=185.2s)]
+*  These are people who are looking for identities. [[00:03:07](https://www.youtube.com/watch?v=uDEiclvvvzA&t=187.2s)]
+*  Now I think attention is cool. [[00:03:09](https://www.youtube.com/watch?v=uDEiclvvvzA&t=189.2s)]
+*  I think when I came to Texas A&M and Charlie Kirk is famous and he has attention and people saw attention and they equated that with cool. [[00:03:12](https://www.youtube.com/watch?v=uDEiclvvvzA&t=192.2s)]
+*  And so I think when you have this younger generation that is pulled to the MAGA movement, [[00:03:20](https://www.youtube.com/watch?v=uDEiclvvvzA&t=200.2s)]
+*  first and foremost, what they're pulled to is what is getting attention online. [[00:03:26](https://www.youtube.com/watch?v=uDEiclvvvzA&t=206.2s)]
+*  It's not necessarily kids who wanted to grow up to become lawyers and doctors. [[00:03:29](https://www.youtube.com/watch?v=uDEiclvvvzA&t=209.2s)]
+*  These are kids who want to grow up to become influencers. [[00:03:33](https://www.youtube.com/watch?v=uDEiclvvvzA&t=213.2s)]
+*  And attention is the number one thing in the influencer economy. [[00:03:36](https://www.youtube.com/watch?v=uDEiclvvvzA&t=216.2s)]
+*  They see that in the right and they see Donald Trump coming on podcasts they pay attention to. [[00:03:40](https://www.youtube.com/watch?v=uDEiclvvvzA&t=220.2s)]
+*  They see short clips of Charlie Kirk owning people online and they start to develop an identity around what seems to work in their minds. [[00:03:45](https://www.youtube.com/watch?v=uDEiclvvvzA&t=225.2s)]
+*  It's interesting. [[00:03:54](https://www.youtube.com/watch?v=uDEiclvvvzA&t=234.2s)]
+*  I mean, the attention piece is such an interesting part of it. [[00:03:55](https://www.youtube.com/watch?v=uDEiclvvvzA&t=235.2s)]
+*  It's one that obviously Democrats are trying to capture. [[00:03:57](https://www.youtube.com/watch?v=uDEiclvvvzA&t=237.2s)]
+*  They're trying to capture that online. [[00:04:00](https://www.youtube.com/watch?v=uDEiclvvvzA&t=240.2s)]
+*  Some of the things they're doing are admittedly a little cringy, but at least they're trying. [[00:04:02](https://www.youtube.com/watch?v=uDEiclvvvzA&t=242.2s)]
+*  But one of the things that seems challenging to me at least is that the successful attention grabbers are often more aggressive. [[00:04:05](https://www.youtube.com/watch?v=uDEiclvvvzA&t=245.2s)]
+*  Sometimes they're very deeply negative. [[00:04:13](https://www.youtube.com/watch?v=uDEiclvvvzA&t=253.2s)]
+*  I mean, sometimes they're crude. [[00:04:16](https://www.youtube.com/watch?v=uDEiclvvvzA&t=256.2s)]
+*  How do you overcome that? [[00:04:18](https://www.youtube.com/watch?v=uDEiclvvvzA&t=258.2s)]
+*  Well, I think go to where the kids are. [[00:04:22](https://www.youtube.com/watch?v=uDEiclvvvzA&t=262.2s)]
+*  I mentioned turning point and Charlie Kirk arrives and he throws out hundreds of hats to kids. [[00:04:26](https://www.youtube.com/watch?v=uDEiclvvvzA&t=266.2s)]
+*  I remember in college you show up and credit card companies would arrive on campus and they'd offer you a free t-shirt. [[00:04:31](https://www.youtube.com/watch?v=uDEiclvvvzA&t=271.2s)]
+*  And for a free t-shirt you would sign up for a credit card and you'd get a lifetime of debt. [[00:04:38](https://www.youtube.com/watch?v=uDEiclvvvzA&t=278.2s)]
+*  Now, Republicans are doing this on college campus and it's working. [[00:04:42](https://www.youtube.com/watch?v=uDEiclvvvzA&t=282.2s)]
+*  Kids are buying into that thing. [[00:04:46](https://www.youtube.com/watch?v=uDEiclvvvzA&t=286.2s)]
+*  I think there's a much less cynical way of approaching kids. [[00:04:48](https://www.youtube.com/watch?v=uDEiclvvvzA&t=288.2s)]
+*  But looking at this moment where kids are, they're eager. [[00:04:51](https://www.youtube.com/watch?v=uDEiclvvvzA&t=291.2s)]
+*  They're eager to find an identity. [[00:04:53](https://www.youtube.com/watch?v=uDEiclvvvzA&t=293.2s)]
+*  They're eager to know. [[00:04:55](https://www.youtube.com/watch?v=uDEiclvvvzA&t=295.2s)]
+*  They're looking for answers. [[00:04:56](https://www.youtube.com/watch?v=uDEiclvvvzA&t=296.2s)]
+*  And I think if you authentically enter some of these spheres, you don't have to enter from a space of negativity, but you also don't have to enter from a space of judgment. [[00:04:57](https://www.youtube.com/watch?v=uDEiclvvvzA&t=297.2s)]
+*  Donald Trump sitting down with Theo Vaughn, I think a lot of people saw that as Donald Trump as an authentic person. [[00:05:05](https://www.youtube.com/watch?v=uDEiclvvvzA&t=305.2s)]
+*  Say what you will about that. [[00:05:11](https://www.youtube.com/watch?v=uDEiclvvvzA&t=311.2s)]
+*  I don't know if I agree with that assessment, but it's a connection to people. [[00:05:12](https://www.youtube.com/watch?v=uDEiclvvvzA&t=312.2s)]
+*  You don't have to connect with negative. [[00:05:16](https://www.youtube.com/watch?v=uDEiclvvvzA&t=316.2s)]
+*  It gets you there faster. [[00:05:18](https://www.youtube.com/watch?v=uDEiclvvvzA&t=318.2s)]
+*  But seeing Buddha Judge, for example, hop on Andrew Schultz's podcast, I think it's a step towards actually trying to meet kids where they are. [[00:05:19](https://www.youtube.com/watch?v=uDEiclvvvzA&t=319.2s)]
+*  Yeah, no question. [[00:05:26](https://www.youtube.com/watch?v=uDEiclvvvzA&t=326.2s)]
+*  I listened to the whole interview and he was great. [[00:05:27](https://www.youtube.com/watch?v=uDEiclvvvzA&t=327.2s)]
+*  Everybody can't pull that off, but it certainly is certainly a good example. [[00:05:29](https://www.youtube.com/watch?v=uDEiclvvvzA&t=329.2s)]
+*  One of the things some of the amazing producers I get to work with who are in this younger generation raised this morning, which I think is an important point, is that Donald Trump has been a presence in the political world for most of their adult lives, if not longer. [[00:05:33](https://www.youtube.com/watch?v=uDEiclvvvzA&t=333.2s)]
+*  I mean, this is sort of what they know. [[00:05:49](https://www.youtube.com/watch?v=uDEiclvvvzA&t=349.2s)]
+*  This pursuit of celebrity and this being something that is important. [[00:05:50](https://www.youtube.com/watch?v=uDEiclvvvzA&t=350.2s)]
+*  How do you think that impacts at least the people you've been talking to and you talk to for this special? [[00:05:55](https://www.youtube.com/watch?v=uDEiclvvvzA&t=355.2s)]
+*  Yeah, this is just something that he's been the number one story of their lives for most of their lives. [[00:06:02](https://www.youtube.com/watch?v=uDEiclvvvzA&t=362.2s)]
+*  You know, I went to a UFC fight and Donald Trump goes to these fights. [[00:06:08](https://www.youtube.com/watch?v=uDEiclvvvzA&t=368.2s)]
+*  We were in Miami. He showed up. [[00:06:12](https://www.youtube.com/watch?v=uDEiclvvvzA&t=372.2s)]
+*  He brought R.F.K. Jr. to these fights. [[00:06:13](https://www.youtube.com/watch?v=uDEiclvvvzA&t=373.2s)]
+*  When you talk to the 20 year old kid who's going to that fight because he's culturally interested in the UFC world, he thinks, oh yeah, Donald Trump, he's there. [[00:06:15](https://www.youtube.com/watch?v=uDEiclvvvzA&t=375.2s)]
+*  He's cool. There's a connection there. [[00:06:22](https://www.youtube.com/watch?v=uDEiclvvvzA&t=382.2s)]
+*  I can I can connect to him in some in some way. [[00:06:24](https://www.youtube.com/watch?v=uDEiclvvvzA&t=384.2s)]
+*  I think his his presence in these spaces like resonates with these kids just because it's what they see. [[00:06:27](https://www.youtube.com/watch?v=uDEiclvvvzA&t=387.2s)]
+*  I think more often than not, Democrats see this as like a political conversation and to a degree it is. [[00:06:32](https://www.youtube.com/watch?v=uDEiclvvvzA&t=392.2s)]
+*  But what Republicans have found is is the cultural conversation that they're able to jump in on. [[00:06:39](https://www.youtube.com/watch?v=uDEiclvvvzA&t=399.2s)]
+*  And when I'm talking to a 19 year old or a 23 year old, more often than not, they're interested in the cultural thing. [[00:06:44](https://www.youtube.com/watch?v=uDEiclvvvzA&t=404.2s)]
+*  They're not tied to the politics. [[00:06:50](https://www.youtube.com/watch?v=uDEiclvvvzA&t=410.2s)]
+*  It's very tertiary in their life. [[00:06:53](https://www.youtube.com/watch?v=uDEiclvvvzA&t=413.2s)]
+*  They're focused on the culture. [[00:06:55](https://www.youtube.com/watch?v=uDEiclvvvzA&t=415.2s)]
+*  And right now, the conservative culture is finding a way in that's affecting these kids. [[00:06:57](https://www.youtube.com/watch?v=uDEiclvvvzA&t=417.2s)]
+*  Jordan Klepper, always enjoy talking to you. [[00:07:01](https://www.youtube.com/watch?v=uDEiclvvvzA&t=421.2s)]
+*  Thank you so much. [[00:07:04](https://www.youtube.com/watch?v=uDEiclvvvzA&t=424.2s)]
+*  And we'll be watching your new special, of course, on Monday night. [[00:07:05](https://www.youtube.com/watch?v=uDEiclvvvzA&t=425.2s)]
+*  Thanks so much for joining me. [[00:07:07](https://www.youtube.com/watch?v=uDEiclvvvzA&t=427.2s)]
