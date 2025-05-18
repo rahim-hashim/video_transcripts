@@ -1,0 +1,150 @@
+---
+Date Generated: May 18, 2025
+Transcription Model: whisper medium 20231117
+Length: 526s
+Video Keywords: ['Ayman Mohyeldin', 'Catherine Rampell', 'Antonia Hylton', 'Elise Jordan']
+Video Views: 248
+Video Rating: None
+Video Description: A new book examines the stories of highly successful families and the underappreciated role that siblings play in influencing each other's lives. Susan Dominus, a staff writer for The New York Times Magazine, spent eight years diving into familial and sibling dynamics. MSNBC's Ayman Mohyeldin, Antonia Hylton, Catherine Rampell, and Elise Jordan speak with Dominus about her findings.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#siblings #family #familydynamics
+---
+
+# The underappreciated influence of siblings in our lives
+**MSNBC - The Latest:** [May 18, 2025](https://www.youtube.com/watch?v=U2ObBqFQJNE)
+*  When we talk about families and how those dynamics inform our lives, we often zero in on parents, [[00:00:00](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=0.0s)]
+*  whether we're talking about bragging rights or therapy for that matter. [[00:00:07](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=7.0s)]
+*  But a new book puts the focus on siblings and dives into how they're an overlooked, enormous influence on each other's success. [[00:00:11](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=11.0s)]
+*  The author writes, quote, siblings at their best can urge one another on competing and collaborating, [[00:00:19](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=19.0s)]
+*  whether intentionally or not, they help chart the course of one another's lives. [[00:00:25](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=25.0s)]
+*  Joining us now to discuss all of this is Susan Dominus, staff writer at the New York Times Magazine and author of The Family Dynamic, [[00:00:30](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=30.0s)]
+*  a journey into the mystery of sibling success. Sue, thank you so much for joining us tonight. [[00:00:38](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=38.0s)]
+*  I'm very eager to pick your brain. In your book, you profiled, I think, six different families that had broods of very successful children, [[00:00:44](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=44.0s)]
+*  one of whom was the Groffs, which if I remember correctly, they included a successful novelist, an Olympic athlete and an entrepreneur. [[00:00:53](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=53.0s)]
+*  What patterns did you see in these families in doing your research? [[00:01:03](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=63.0s)]
+*  I think there were some themes that did come up over time that I noticed after spending a lot of time with these families. [[00:01:08](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=68.0s)]
+*  And one of them for sure was that they were all very optimistic people. [[00:01:15](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=75.0s)]
+*  A lot of the parents themselves had overcome something very difficult and therefore had reason to believe that great things could happen if you just believed you could get it done and put in the work. [[00:01:20](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=80.0s)]
+*  And I think that their kids picked up on that. And that helps them. [[00:01:29](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=89.0s)]
+*  I was really interested in families where the kids dreamed big. [[00:01:33](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=93.0s)]
+*  And so that was something that I think was a very important message that they got from their parents. [[00:01:36](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=96.0s)]
+*  Messages like all things possible. [[00:01:42](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=102.0s)]
+*  There was a civil rights family from Tallahassee that their mom's unspoken motto was all things possible. [[00:01:44](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=104.0s)]
+*  Or the Mergias, this wonderful Mexican-American family from Kansas City. [[00:01:50](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=110.0s)]
+*  And their mother used to say, with God's help, all things possible. [[00:01:55](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=115.0s)]
+*  So that was one of the really important ideas. [[00:01:58](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=118.0s)]
+*  So Antonia is our case study here. [[00:02:00](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=120.0s)]
+*  She has six super successful siblings. [[00:02:03](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=123.0s)]
+*  And she's super successful herself. [[00:02:07](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=127.0s)]
+*  Obviously. [[00:02:10](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=130.0s)]
+*  You know, she's doing OK. [[00:02:11](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=131.0s)]
+*  What do you think of the thesis? [[00:02:13](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=133.0s)]
+*  How does it compare to your own experience growing up in a super family? [[00:02:15](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=135.0s)]
+*  You know, I guess I hadn't really sat and thought about it. [[00:02:19](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=139.0s)]
+*  But so much of your work resonated with me. [[00:02:23](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=143.0s)]
+*  Your description of this idea of parents kind of shooting an arrow and then the sibling actually guiding the arrow. [[00:02:26](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=146.0s)]
+*  That really struck me, I guess. [[00:02:32](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=152.0s)]
+*  No pun intended. [[00:02:35](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=155.0s)]
+*  Because I was thinking about the way in which... [[00:02:36](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=156.0s)]
+*  So I'm the third. [[00:02:38](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=158.0s)]
+*  My two older sisters, they are the guide that sort of moved the arrow for me. [[00:02:39](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=159.0s)]
+*  In many ways, they were supplemental parents for me. [[00:02:44](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=164.0s)]
+*  And then I learned from them that it was my responsibility to be supplemental parents to the four who came after me. [[00:02:47](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=167.0s)]
+*  And so that kind of support and reinforcement of family values and the role that your siblings play in the decisions that you make, [[00:02:53](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=173.0s)]
+*  the sort of undergirding of your self-confidence and self-understanding, [[00:03:00](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=180.0s)]
+*  I hadn't, I guess, sat with it that much, but it absolutely resonated for me. [[00:03:06](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=186.0s)]
+*  And I love your work. [[00:03:11](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=191.0s)]
+*  And I can't wait to send a copy of your book to my mom, like, tomorrow. [[00:03:12](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=192.0s)]
+*  That means so much to me. [[00:03:16](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=196.0s)]
+*  I really appreciate it. [[00:03:17](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=197.0s)]
+*  And thank you so much for having me on tonight also. [[00:03:18](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=198.0s)]
+*  I mean, I think what's... [[00:03:20](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=200.0s)]
+*  Yeah, siblings can be this tremendous resource. [[00:03:21](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=201.0s)]
+*  And the other thing that I think people underappreciate is that siblings are more likely to take advice, [[00:03:24](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=204.0s)]
+*  especially during adolescence, from older siblings whom they admire and look up to. [[00:03:30](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=210.0s)]
+*  There's some research, then their parents, for example, [[00:03:35](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=215.0s)]
+*  because there's some research that suggests that in adolescence, young people want to take advice from people who understand the task at hand. [[00:03:37](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=217.0s)]
+*  That's likely to be the sibling who just went through the class or the competition or the club, [[00:03:44](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=224.0s)]
+*  and also who they think really get them. [[00:03:48](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=228.0s)]
+*  And for adolescents in particular, that's often their friends and their siblings, less so their parents. [[00:03:51](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=231.0s)]
+*  My friend Lisa DeMore calls advice from parents the kiss of death advice, which, yeah, that's a thing. [[00:03:57](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=237.0s)]
+*  Oh, to this day, my siblings will call me if they have a problem to figure out how to tell mom and dad about the problem. [[00:04:04](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=244.0s)]
+*  Like, what's the PR message here? [[00:04:11](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=251.0s)]
+*  How do I communicate this to them? [[00:04:14](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=254.0s)]
+*  Do you have our back, right? [[00:04:16](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=256.0s)]
+*  Yeah, basically. [[00:04:17](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=257.0s)]
+*  Do you have our back? [[00:04:18](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=258.0s)]
+*  And I've also heard stories of parents who are savvy enough to get a sibling on board with some advice that they want the younger sibling to have. [[00:04:19](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=259.0s)]
+*  So they'll tell the older sibling, you know... [[00:04:28](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=268.0s)]
+*  I think the older sibling has to buy in for this advice to be delivered in a way that's persuasive, [[00:04:30](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=270.0s)]
+*  but it's just a little strategy parents might want to consider. [[00:04:35](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=275.0s)]
+*  Susan, I was wondering if you had come across, even if it's anecdotal, like differences between an immigrant experience and people born in the U.S.? [[00:04:38](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=278.0s)]
+*  I mean, I certainly come from an immigrant background. [[00:04:46](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=286.0s)]
+*  Me and my brother were born overseas, but when we immigrated to the U.S., we had a sense of drive that was instilled in us just by watching how hard our parents work. [[00:04:48](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=288.0s)]
+*  And that also fostered in both him and myself, I would argue, the same sense of drive. [[00:04:56](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=296.0s)]
+*  He's like Antonia's family, very successful. [[00:05:02](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=302.0s)]
+*  He's a neurosurgeon, PhD, MD. [[00:05:04](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=304.0s)]
+*  So my parents, till this day, still introduce him as the neurosurgeon and me as his younger brother. [[00:05:06](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=306.0s)]
+*  But I was wondering if you came across that. [[00:05:11](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=311.0s)]
+*  I think there are a couple of things going on, and you probably know better than I do, but I think the children of immigrants, first of all, they've seen their parents do something extraordinary. [[00:05:15](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=315.0s)]
+*  Integrating is not easy, especially for some families where the language is foreign to them. [[00:05:23](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=323.0s)]
+*  I mean, it's such an undertaking. [[00:05:27](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=327.0s)]
+*  But also they want to honor the work that their parents did, sometimes the sacrifice that they made so that they themselves could have a better lives. [[00:05:29](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=329.0s)]
+*  And then the third thing that I think happens, and this is a little bit less discussed, you know, sometimes you're an immigrant family in a new town and you might be the only family of that background in the town. [[00:05:37](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=337.0s)]
+*  And I think that further bonds the siblings. [[00:05:46](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=346.0s)]
+*  And I saw this in one of the families I wrote about, the Chen family. [[00:05:48](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=348.0s)]
+*  They immigrated from China and they really were the only Chinese family in their high school and they felt different from everybody else. [[00:05:51](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=351.0s)]
+*  And that bonded them together as a team. [[00:05:57](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=357.0s)]
+*  And they really saw each other as each other's responsibility. [[00:05:59](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=359.0s)]
+*  And they coached each other and they even picked extracurriculars that they thought would serve them well and found mentors for them. [[00:06:03](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=363.0s)]
+*  So and partly, by the way, because their parents were also working so hard at the restaurant that they were running. [[00:06:10](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=370.0s)]
+*  So there are many things going on and I really came to appreciate how much that immigrant experience informed the siblings collaboration and their collective ambition. [[00:06:15](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=375.0s)]
+*  So in cases like Antonia's family where the siblings take on sort of quasi parental roles for each other, first of all, is that common? [[00:06:25](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=385.0s)]
+*  And second of all, is that something that usually the parents instill in the kids? [[00:06:33](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=393.0s)]
+*  Like, does it just happen organically? [[00:06:38](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=398.0s)]
+*  I think it happens both ways. [[00:06:40](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=400.0s)]
+*  It sounds like in your family, it was very deliberate on the part of your mother. [[00:06:42](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=402.0s)]
+*  And in the Hollifield family, to the civil rights pioneers from Tallahassee, Bishop Hollifield said he remembered the one time that his parents ever really punished him was when he'd forgotten to take his little sister home from school. [[00:06:45](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=405.0s)]
+*  And he did take that responsibility really seriously. [[00:06:56](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=416.0s)]
+*  And other times I think it does happen organically just because the parents are so busy themselves or there's a natural affinity among the student among the siblings. [[00:06:59](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=419.0s)]
+*  But when it does happen, it can really be a juggernaut. [[00:07:08](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=428.0s)]
+*  I mean, the thing that's interesting to me about you is you don't just have so many high achieving siblings, but so many of them are sisters. [[00:07:11](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=431.0s)]
+*  And six girls, one boy, yes. [[00:07:16](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=436.0s)]
+*  Right. [[00:07:18](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=438.0s)]
+*  And all of them are, you know, crushing it professionally. [[00:07:19](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=439.0s)]
+*  And there's really fascinating research that finds that when I think your youngest sibling is a brother. [[00:07:23](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=443.0s)]
+*  So he came late. [[00:07:31](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=451.0s)]
+*  But when a sister has just a younger brother that directly follows, they're more likely to go into female oriented professions. [[00:07:32](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=452.0s)]
+*  And there's something about the sort of role playing that happens. [[00:07:40](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=460.0s)]
+*  Maybe the father naturally takes the son under his wing in some way. [[00:07:44](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=464.0s)]
+*  But I think there is a reason why you see families like the Wicheskis, you know, where there are these three siblings, three daughters, one founded 23andMe, the gene testing company. [[00:07:48](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=468.0s)]
+*  One was the CEO of YouTube. [[00:07:57](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=477.0s)]
+*  One's an epidemiologist. [[00:07:59](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=479.0s)]
+*  They're all in STEM. [[00:08:00](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=480.0s)]
+*  And they said there was a lot of that in Silicon Valley. [[00:08:01](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=481.0s)]
+*  These sister siblings who had all gone into tech. [[00:08:05](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=485.0s)]
+*  And maybe it would have been different if there had been a brother in the family. [[00:08:08](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=488.0s)]
+*  Well, we're going to have to bring back Antonia's mom. [[00:08:10](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=490.0s)]
+*  I think that is the segment. [[00:08:13](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=493.0s)]
+*  I'll give you her email. [[00:08:16](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=496.0s)]
+*  Susan, thanks so much for being with us. [[00:08:18](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=498.0s)]
+*  Thank you, Susan. [[00:08:20](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=500.0s)]
+*  Congrats on the book. [[00:08:21](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=501.0s)]
+*  Thank you so much for having me. [[00:08:22](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=502.0s)]
+*  Thank you. [[00:08:38](https://www.youtube.com/watch?v=U2ObBqFQJNE&t=518.0s)]
