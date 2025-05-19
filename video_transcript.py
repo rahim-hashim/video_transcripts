@@ -142,13 +142,13 @@ class Video:
 			self.length = None
 			self.transcript_exists = self.check_transcript()
 
-		print(f'Video Title: {self.title}')
-		print(f'  Author: {self.author}')
-		print(f'  Date:   {self.date}')
+		print(f'  Video Title: {self.title}')
+		print(f'    Author: {self.author}')
+		print(f'    Date:   {self.date}')
 		if self.length:
-			print(f'  Length: {round(self.length/60, 2)}m')
+			print(f'    Length: {round(self.length/60, 2)}m')
 		if self.views:
-			print(f'  Views:  {self.views}')
+			print(f'    Views:  {self.views}')
 		return True
 
 	def check_transcript(self):

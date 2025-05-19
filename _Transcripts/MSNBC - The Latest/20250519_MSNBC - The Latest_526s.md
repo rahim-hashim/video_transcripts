@@ -1,0 +1,151 @@
+---
+Date Generated: May 19, 2025
+Transcription Model: whisper medium 20231117
+Length: 526s
+Video Keywords: ['MSNBC']
+Video Views: 20127
+Video Rating: None
+Video Description: President Trump spoke with Russian President Putin today about the war in Ukraine during a phone call that lasted over two hours. NBC News’ Keir Simmons reports more. Former Undersecretary of State for Public Diplomacy & Public Affairs Richard Stengel joins Chris Jansing to react to what we know so far about the call.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Putin #Ukraine
+---
+
+# Putin: Call with Trump was 'informative and useful'
+**MSNBC - The Latest:** [May 19, 2025](https://www.youtube.com/watch?v=UnpRx3UqqiA)
+*  Joining me now is NBC's Keir Simmons and Richard Stengel, former undersecretary of state for [[00:00:00](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=0.0s)]
+*  public diplomacy and public affairs and an MSNBC political analyst. [[00:00:05](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=5.44s)]
+*  Let's start with Ukraine, Keir. [[00:00:10](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=10.28s)]
+*  Trump says nothing was going to happen until he and Putin spoke. [[00:00:11](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=11.98s)]
+*  Now they have. [[00:00:15](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=15.200000000000001s)]
+*  What can we say about what might have been said? [[00:00:16](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=16.8s)]
+*  Well, what we have at this point, Chris, is President Putin speaking to Russian state [[00:00:19](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=19.400000000000002s)]
+*  media. [[00:00:26](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=26.2s)]
+*  He's just been talking to them. [[00:00:27](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=27.2s)]
+*  Of course, he's been speaking to them in Russian. [[00:00:28](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=28.4s)]
+*  But I'll just give you some excerpts from that, because this is the first news we have [[00:00:30](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=30.68s)]
+*  of how the call went. [[00:00:35](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=35.36s)]
+*  It's President Putin's version, obviously. [[00:00:36](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=36.64s)]
+*  He says the conversation with Trump was very informative and useful. [[00:00:38](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=38.519999999999996s)]
+*  And then he later says that President Trump expressed his position on the ceasefire during [[00:00:42](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=42.64s)]
+*  the conversation, so suggesting that President Trump did say something to the Russian leader [[00:00:49](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=49.0s)]
+*  about there needing to be a ceasefire, which is what we know President Trump has said that [[00:00:55](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=55.96s)]
+*  he wants, that that really is his first priority. [[00:01:01](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=61.68s)]
+*  We do have some quotes, direct quotes from Putin from that interview. [[00:01:05](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=65.6s)]
+*  I'll just read you a little bit. [[00:01:11](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=71.12s)]
+*  This conversation took place and lasted more than two hours. [[00:01:12](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=72.82s)]
+*  I would like to note that it was very informative and very open and overall, in my opinion, [[00:01:15](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=75.88s)]
+*  very useful in this regard. [[00:01:20](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=80.4s)]
+*  It goes on to say, first of all, I talked to, and I'm just paraphrasing now, first of [[00:01:22](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=82.88s)]
+*  all, I spoke to President Trump, this is President Putin describing it, about the reasons that [[00:01:28](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=88.72s)]
+*  the talks in 2022 failed, that Ukraine walked away. [[00:01:34](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=94.8s)]
+*  So the important thing about that is that that is President Putin's version of what [[00:01:40](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=100.28s)]
+*  happened. [[00:01:44](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=104.67999999999999s)]
+*  What actually really happened was that the Russians had impossible demands of the Ukrainians [[00:01:45](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=105.67999999999999s)]
+*  back three years ago that left the Ukrainians unable to agree, understandably, many would [[00:01:50](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=110.68s)]
+*  say. [[00:01:56](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=116.44000000000001s)]
+*  So what that tells us, at least by President Putin's account, is that he used a call to [[00:01:57](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=117.44000000000001s)]
+*  try to impress upon the Trump administration his version of what has happened. [[00:02:03](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=123.48s)]
+*  Now, we do not yet know from the U.S. side what the readout of the call is from the Trump [[00:02:10](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=130.68s)]
+*  administration. [[00:02:17](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=137.44s)]
+*  I was told by one official that it was long, and as you heard, President Putin says that [[00:02:18](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=138.72s)]
+*  it lasted around two hours. [[00:02:22](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=142.6s)]
+*  So certainly, even with, you can imagine, with translation, that does lengthen these [[00:02:24](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=144.96s)]
+*  conversations, but it still is a long conversation. [[00:02:28](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=148.92000000000002s)]
+*  We also know that the vice president prior to the call told the press that the Trump [[00:02:32](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=152.56s)]
+*  administration would be absolutely prepared to walk away if this call did not go the way [[00:02:40](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=160.4s)]
+*  that the Trump administration wanted. [[00:02:46](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=166.92s)]
+*  And again, the priority has been for a ceasefire. [[00:02:49](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=169.51999999999998s)]
+*  So I guess the big question here is whether President Trump, in this moment of direct [[00:02:52](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=172.0s)]
+*  talks with President Putin, is able to get Putin to compromise in a way that, frankly, [[00:02:59](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=179.64s)]
+*  no one else has, despite three years of war, or whether Putin is able to get President [[00:03:05](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=185.16s)]
+*  Trump to shift in some way to compromise. [[00:03:11](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=191.0s)]
+*  We know, too, that President Trump has been very clear that he would like a face-to-face [[00:03:14](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=194.48s)]
+*  meeting, to the point of saying, once we can set it up, we're going to do it. [[00:03:18](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=198.72s)]
+*  He'd like a face-to-face meeting because he believes the strength of his argument, if [[00:03:22](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=202.32s)]
+*  you like, will shift the Russians again in a way that no one else has been able to. [[00:03:26](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=206.8s)]
+*  The backdrop, though, of course, and I'll just finish here, is that there are, aside [[00:03:33](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=213.48s)]
+*  from the carrot issue, there are sticks that the U.S. is wielding, not least a congressional [[00:03:38](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=218.88s)]
+*  legislation that would really, really punish the Russians, sanctions and sanctions enforcement [[00:03:44](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=224.12s)]
+*  in a much more strong way, and that over the weekend the secretary of state said that the [[00:03:50](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=230.96s)]
+*  Trump administration is not able to stop the progress of that legislation. [[00:03:56](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=236.52s)]
+*  So there's a lot going on here. [[00:04:02](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=242.08s)]
+*  It's fast-moving. [[00:04:04](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=244.0s)]
+*  It's complex. [[00:04:04](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=244.76000000000002s)]
+*  And I think we're going to need to see everyone's version before we know exactly what really [[00:04:05](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=245.64000000000001s)]
+*  has happened today and what's likely to happen next. [[00:04:09](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=249.8s)]
+*  Kier Simmons, thank you for that. [[00:04:13](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=253.44s)]
+*  So, Rick, do you see anything in Putin's world, either domestically, politically or on the [[00:04:14](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=254.84s)]
+*  ground in the battlefield that suggests to you he's willing to compromise? [[00:04:21](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=261.92s)]
+*  Not, Chris. [[00:04:28](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=268.6s)]
+*  And I just want to say about the conversation. [[00:04:29](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=269.44s)]
+*  I mean, the Russians have become very, very nimble at handling media. [[00:04:31](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=271.92s)]
+*  The fact that Putin himself spoke after the call to the press and characterized it and [[00:04:37](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=277.72s)]
+*  described it and quoted from it gives him an advantage. [[00:04:44](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=284.2s)]
+*  He can characterize the call the way he wants. [[00:04:49](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=289.2s)]
+*  Let's say there was some kind of upheaval or fight during it. [[00:04:52](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=292.40000000000003s)]
+*  He's leveling the playing field. [[00:04:56](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=296.32s)]
+*  It gives him a big advantage. [[00:04:59](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=299.32s)]
+*  He also is trying to ingratiate himself with Trump by talking about how useful the call [[00:05:01](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=301.72s)]
+*  was and maybe it wasn't. [[00:05:06](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=306.68s)]
+*  As Kier noted, it was two hours long, even though there's translation, that's a long [[00:05:09](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=309.72s)]
+*  call. Having once spent three hours interviewing Putin, he's very didactic. [[00:05:13](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=313.32s)]
+*  You ask him what time it is and he'll give you the history of the clock. [[00:05:18](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=318.92s)]
+*  He will lecture Trump. [[00:05:22](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=322.24s)]
+*  He has a view of the world that Trump doesn't understand. [[00:05:24](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=324.92s)]
+*  He has a view of the origins of Russia, of the relationship between Ukraine and Russia [[00:05:28](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=328.68s)]
+*  that President Trump doesn't understand. [[00:05:33](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=333.15999999999997s)]
+*  And he will tell President Trump about that. [[00:05:35](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=335.71999999999997s)]
+*  So I think the term that I've seen the last few days is that Putin is stringing Trump [[00:05:38](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=338.67999999999995s)]
+*  along. I would say that is probably true. [[00:05:45](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=345.71999999999997s)]
+*  Again, we have to hear the administration side of it. [[00:05:48](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=348.71999999999997s)]
+*  But it's come out with just a kind of win for Trump. [[00:05:52](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=352.35999999999996s)]
+*  There's no unconditional ceasefire, which Trump was suggesting might happen. [[00:05:56](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=356.64s)]
+*  So I would say advantage Putin. [[00:06:03](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=363.0s)]
+*  All right, let's talk about the other big issue out there. [[00:06:05](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=365.91999999999996s)]
+*  What options does Trump have at this point in terms of the war in in Gaza? [[00:06:09](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=369.0s)]
+*  Palestinian authorities say 375 people have been killed in the days since, making this [[00:06:16](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=376.64s)]
+*  one of the deadliest chapters in this war a lot more injured and displaced. [[00:06:24](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=384.47999999999996s)]
+*  This morning, the IDF ordered people who live in communists to evacuate ahead of what [[00:06:29](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=389.48s)]
+*  they say is an unprecedented attack. [[00:06:34](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=394.96s)]
+*  And not for nothing, the president was in the Middle East. [[00:06:37](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=397.24s)]
+*  He did not go to Israel. [[00:06:40](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=400.2s)]
+*  Where does this relationship stand and what influence, if anything, do you think Trump [[00:06:42](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=402.28s)]
+*  has on any of this? [[00:06:47](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=407.28s)]
+*  You know, it's tragic, Chris. [[00:06:49](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=409.96s)]
+*  And, you know, I'd say something similar about Netanyahu, as I said about Putin. [[00:06:51](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=411.88s)]
+*  I mean, he's been at this game for a very long time. [[00:06:56](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=416.92s)]
+*  Trump is not his first American president. [[00:07:01](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=421.28000000000003s)]
+*  It's probably his fourth American president. [[00:07:03](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=423.44s)]
+*  And as dependent as Israel is on the United States, and they are, Netanyahu's first [[00:07:05](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=425.76s)]
+*  audience is his domestic one, trying to stay in power, trying to prevent the prosecution [[00:07:13](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=433.72s)]
+*  of him, which is going on, trying to preserve his control over Israeli politics. [[00:07:19](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=439.92s)]
+*  That is number one for Netanyahu. [[00:07:27](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=447.20000000000005s)]
+*  Number two is how the U.S. [[00:07:29](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=449.68s)]
+*  perceives it. [[00:07:31](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=451.32s)]
+*  Again, Trump doesn't have as much leverage over Netanyahu as he probably should. [[00:07:32](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=452.96000000000004s)]
+*  President Biden tried to deal with Netanyahu, potentially withdrawing aid, suspending aid. [[00:07:40](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=460.68s)]
+*  There are different things that the U.S. [[00:07:47](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=467.08s)]
+*  president can do, and thus far he hasn't attempted them. [[00:07:49](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=469.32s)]
+*  And insofar as he's frustrated about this, insofar as he would like to end the killing, [[00:07:54](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=474.08s)]
+*  which I completely agree with, President Trump has to flex some muscle vis-à-vis Bibi [[00:07:59](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=479.03999999999996s)]
+*  Netanyahu. [[00:08:05](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=485.64s)]
+*  Can I ask you really quickly if you think Pope Leo can have any influence of this? [[00:08:06](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=486.79999999999995s)]
+*  We think about the picture of President Trump and Zelensky in the aftermath of the funeral [[00:08:10](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=490.32s)]
+*  of Pope Francis, and now we know that a letter was delivered by J.D. [[00:08:17](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=497.0s)]
+*  Vance to Pope Leo, inviting him to the White House. [[00:08:21](https://www.youtube.com/watch?v=UnpRx3UqqiA&t=501.56s)]
