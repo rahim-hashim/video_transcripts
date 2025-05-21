@@ -173,7 +173,7 @@ class Video:
 		'''Transcribe the video using the whisper model'''
 		print('  Transcribing Video')
 		start_time = time.time()
-		output = model.transcribe(video.video_path, fp16=False)
+		output = model.transcribe(video.video_path, fp16=False, language='en')
 		transcription_time = round((time.time() - start_time)/60, 2)
 		print(f'    Transcription Time: {transcription_time} min')
 		# print('Output Keys:', output.keys())

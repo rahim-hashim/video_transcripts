@@ -77,7 +77,9 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLTpcK80irdQjwxSkQkLHTvGy2abINHRym': 'The Young Turks - Hour 2',
   'https://www.youtube.com/playlist?list=PLsnSWTCV9wc5nV9PVgeDQ_zFar8jN0nve': 'Dropsite News',
   'https://www.youtube.com/playlist?list=PLS_48r7yuHnspwTJpNignae0cSY_b1cL5': 'Glenn Greenwald - System Update',
-  'https://www.youtube.com/playlist?list=PL1JULMhsLAypfSsBputK5dah9WKASIo-v', 'Flagrant - Andrew Schulz'
+  'https://www.youtube.com/playlist?list=PL1JULMhsLAypfSsBputK5dah9WKASIo-v': 'Flagrant - Andrew Schulz',
+  # Shawn Fantasy Football team
+  # 'https://www.youtube.com/playlist?list=PLI4CojGEzLMfaMTaQdfoTg0Bu7N_Gf_gB': 'FantasyPros - Dynasty Podcast'
   # US Congressmen
   # https://www.youtube.com/@RepAlGreen/videos # Al Green
 }
