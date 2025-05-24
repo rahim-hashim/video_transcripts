@@ -1,0 +1,162 @@
+---
+Date Generated: May 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 583s
+Video Keywords: []
+Video Views: 5289
+Video Rating: None
+Video Description: Today’s top news stories, all in about 10 minutes. Listen every weekday morning, with insight and analysis from New York Times reporters all over the world.
+
+For more on this episode: https://www.nytimes.com/2025/05/22/podcasts/the-headlines/dc-shooting-jewish-museum-trump.html
+
+What we're covering:
+
+2 Israeli Embassy Aides Are Fatally Shot Outside Event in Washington (https://www.nytimes.com/2025/05/21/us/politics/israel-embassy-staffers-killed.html) , by Maggie Haberman, Glenn Thrush and Chris Cameron
+
+Trump Lectures South African President in Televised Oval Office Confrontation (https://www.nytimes.com/2025/05/21/us/politics/trump-ramaphosa-south-africa-visit.html) , by Erica L. Green and Zolan Kanno-Youngs
+
+House Passes Trump’s Domestic Policy Bill, Overcoming Last-Minute Resistance (https://www.nytimes.com/2025/05/22/us/politics/trump-bill-house-vote-passes.html), by Catie Edmondson
+
+U.S. Formally Accepts Luxury Jet From Qatar for Trump (https://www.nytimes.com/2025/05/21/us/politics/qatar-plane-trump-air-force-one.html) , by Eric Lipton and Eric Schmitt
+
+Justice Dept. to End Oversight of Local Police Accused of Abuses (https://www.nytimes.com/2025/05/21/us/trump-police-consent-decrees.html) , by Jacey Fortin, Devlin Barrett, Ernesto Londoño and Shaila Dewan
+
+American Breakfast Cereals Are Becoming Less Healthy, Study Finds (https://www.nytimes.com/2025/05/21/health/cereal-nutrients-unhealthy.html) , by Andrew Jacobs
+
+Tune in every weekday morning. To get our full audio journalism and storytelling experience, download (https://apps.apple.com/us/app/nyt-audio/id1549293936)  the New York Times Audio app — available to Times news subscribers on iOS — and sign up (https://www.nytimes.com/newsletters/audio)  for our weekly newsletter.
+
+Tell us what you think at: theheadlines@nytimes.com.
+---
+
+# DC Shooting Kills 2, House Passes ‘Beautiful’ Bill, Trump Falsehoods on South Africa | The Headlines
+**New York Times - The Headlines:** [May 22, 2025](https://www.youtube.com/watch?v=VtrhOdAPqCs)
+*  From the New York Times, it's the headlines. I'm Tracy Mumford. Today's Thursday, May [[00:00:00](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=0.0s)]
+*  22nd, here's what we're covering. [[00:00:07](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=7.5600000000000005s)]
+*  At approximately 9 or 8 p.m. tonight, we received multiple calls for a shooting in the area [[00:00:11](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=11.76s)]
+*  of 3rd Street and F Street Northwest. [[00:00:18](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=18.84s)]
+*  Officials in Washington, D.C., say that two people who worked at the Israeli embassy were [[00:00:22](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=22.12s)]
+*  shot and killed last night outside an event at the Capital Jewish Museum. [[00:00:26](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=26.06s)]
+*  We believe the shooting was committed by a single suspect who is now in custody. Prior [[00:00:30](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=30.54s)]
+*  to the shooting, the suspect was observed pacing back and forth outside of the museum. [[00:00:35](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=35.86s)]
+*  According to law enforcement, a suspect was detained shortly after the shooting. He told [[00:00:40](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=40.739999999999995s)]
+*  police where the gun was and shouted pro-Palestinian slogans. [[00:00:45](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=45.34s)]
+*  The suspect chanted, free, free Palestine while in custody. The suspect has been tentatively [[00:00:49](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=49.62s)]
+*  identified as Elias Rodriguez of Chicago, Illinois. [[00:00:57](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=57.94s)]
+*  The event at the museum was a gathering for young Jewish professionals. The Israeli ambassador [[00:01:02](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=62.379999999999995s)]
+*  to the U.S. said the victims were a couple who were about to get engaged next week in [[00:01:07](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=67.03999999999999s)]
+*  Jerusalem. The Israeli embassy, where the victims worked, has been a particular focus [[00:01:11](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=71.38s)]
+*  of protests amid heightened tensions over Israel's military campaign in Gaza after the [[00:01:16](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=76.18s)]
+*  October 7th attack by Hamas. [[00:01:21](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=81.5s)]
+*  What I do know is that the horrific incident is going to frighten a lot of people and I [[00:01:23](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=83.7s)]
+*  want to be clear that we will not tolerate this violence or hate in our city. [[00:01:29](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=89.42s)]
+*  D.C.'s Mayor Muriel Bowser denounced the shooting as terrorism and said the community would [[00:01:35](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=95.78s)]
+*  stand together against anti-Semitism. [[00:01:40](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=100.84s)]
+*  President Trump also posted on social media, quote, hatred and radicalism have no place [[00:01:44](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=104.22s)]
+*  in the USA. In response to the shooting, the Prime Minister of Israel, Benjamin Netanyahu, [[00:01:49](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=109.02s)]
+*  has ordered increased security for Israeli diplomatic missions around the world. [[00:01:54](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=114.7s)]
+*  At the White House yesterday. [[00:02:07](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=127.78s)]
+*  We're going to be discussing some of the things that are taking place in South Africa and [[00:02:09](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=129.22s)]
+*  see if we can help. [[00:02:14](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=134.54s)]
+*  President Trump hosted the president of South Africa, Cyril Ramaphosa, for a meeting that [[00:02:16](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=136.66s)]
+*  started cordially. [[00:02:21](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=141.22s)]
+*  Well, thank you very much for welcoming us to this reformed White House. [[00:02:22](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=142.7s)]
+*  Ramaphosa brought two prominent South African golfers along with him, a nod to Trump's favorite [[00:02:29](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=149.18s)]
+*  sport, and said he hoped to talk trade, among other things. [[00:02:34](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=154.5s)]
+*  But hanging over his visit were Trump's recent repeated claims that white farmers are being [[00:02:38](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=158.58s)]
+*  discriminated against in South Africa. [[00:02:43](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=163.42s)]
+*  Trump's even fast-tracked, allowing some Afrikaners to enter the U.S. as refugees. [[00:02:46](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=166.18s)]
+*  The president has insisted that there are mass killings of Afrikaner farmers in South [[00:02:51](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=171.1s)]
+*  Africa and that the government is seizing their land. [[00:02:56](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=176.02s)]
+*  Both of those claims are not supported by any evidence that President Trump has presented, [[00:02:59](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=179.18s)]
+*  and he has insisted on those over and over. [[00:03:04](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=184.06s)]
+*  My colleague John Eligo covers South Africa and was in the Oval Office for the meeting. [[00:03:06](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=186.38s)]
+*  He says Ramaphosa tried to refute Trump's claims of white genocide. [[00:03:10](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=190.86s)]
+*  And then right after that is when sort of like, no, no, wait, things completely change. [[00:03:15](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=195.48s)]
+*  We have thousands of stories talking about it. [[00:03:20](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=200.86s)]
+*  We have documentaries, we have news stories. [[00:03:23](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=203.78s)]
+*  Is Natalie here? [[00:03:28](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=208.98000000000002s)]
+*  Somebody here to turn that? [[00:03:30](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=210.06s)]
+*  I could show you a couple of things. [[00:03:31](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=211.06s)]
+*  President Trump said, turn down the lights. [[00:03:33](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=213.86s)]
+*  And I looked over my shoulder and there was a White House aide, she was opening up a laptop [[00:03:35](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=215.78s)]
+*  right there and about to cue something up. [[00:03:39](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=219.74s)]
+*  The lights dim and all of a sudden you hear the TV start to play. [[00:03:42](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=222.0s)]
+*  A video mashup then played in the Oval Office, including footage of people calling for violence [[00:03:47](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=227.94000000000003s)]
+*  against white farmers. [[00:03:52](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=232.98000000000002s)]
+*  One of the clips showed a row of white crosses that Trump said, incorrectly, was a burial [[00:03:54](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=234.98000000000002s)]
+*  site for white farmers. [[00:04:00](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=240.26000000000002s)]
+*  So it was this very provocative video. [[00:04:02](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=242.05999999999997s)]
+*  And then after the video went off, Trump had a stack of papers next to him. [[00:04:03](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=243.78s)]
+*  And he said, look, all of these news articles are about people who were killed recently. [[00:04:08](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=248.26s)]
+*  And he kept on saying, you know, this one is recent, it's death, death, death. [[00:04:13](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=253.23999999999998s)]
+*  But in fact, when you look closely at those articles, a lot of them were not about farmers [[00:04:16](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=256.94s)]
+*  or Africanas who were killed. [[00:04:21](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=261.0s)]
+*  They were just news stories about them in general. [[00:04:22](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=262.53999999999996s)]
+*  And at that point, you can see Ramaphosa, he has sort of like a very exasperated look [[00:04:25](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=265.53999999999996s)]
+*  on his face. [[00:04:30](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=270.21999999999997s)]
+*  He's trying to interject, but Trump is sort of speaking over him. [[00:04:31](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=271.22s)]
+*  Trump is now completely controlling the meeting. [[00:04:34](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=274.46000000000004s)]
+*  So it was just an extraordinary session and the spectacle that I certainly did not expect. [[00:04:36](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=276.62s)]
+*  After Trump's comments, Ramaphosa did acknowledge his country has a crime problem. [[00:04:43](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=283.46000000000004s)]
+*  And there have been killings of white South Africans. [[00:04:48](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=288.3s)]
+*  But police statistics show they're not more vulnerable to violence there than other people. [[00:04:51](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=291.18s)]
+*  Overall, the meeting underscored Trump's selective concern about human rights in other countries. [[00:04:56](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=296.21999999999997s)]
+*  On his recent tour of the Middle East, he met with the leaders of several repressive [[00:05:02](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=302.34s)]
+*  regimes but said he would not lecture them about how they treat their citizens. [[00:05:05](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=305.94s)]
+*  Now, three other updates on the Trump administration. [[00:05:18](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=318.7s)]
+*  Early this morning, after days of intense negotiations and pressure from President Trump [[00:05:21](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=321.74s)]
+*  himself, the House of Representatives passed what President Trump has called the Big Beautiful [[00:05:26](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=326.3s)]
+*  Bill, the legislation that's key to fulfilling many of his campaign promises. [[00:05:31](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=331.58s)]
+*  The vote was 215 to 214. [[00:05:36](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=336.38s)]
+*  Two Republicans voted against it. [[00:05:40](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=340.14s)]
+*  Another Republican voted present as a protest vote. [[00:05:42](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=342.38s)]
+*  Still, the bill, which includes increased spending on the military and on immigration [[00:05:45](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=345.53999999999996s)]
+*  along with tax cuts, has a long and challenging road ahead. [[00:05:50](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=350.46s)]
+*  It's expected to face substantial changes in the Senate. [[00:05:54](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=354.78s)]
+*  Also, they're giving the United States Air Force a jet. [[00:06:01](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=361.06s)]
+*  OK, and it's a great thing. [[00:06:04](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=364.58s)]
+*  President Trump in the Pentagon said yesterday that the U.S. [[00:06:07](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=367.1s)]
+*  has officially accepted a luxury Boeing 747 from Qatar that will be turned into a new [[00:06:09](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=369.78s)]
+*  Air Force One. [[00:06:15](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=375.62s)]
+*  Trump has made clear that he wants the civilian jet retrofitted as soon as possible, an upgrade [[00:06:17](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=377.1s)]
+*  that could cost a billion dollars. [[00:06:22](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=382.5s)]
+*  But lawmakers from both parties have raised concerns about the plane, saying it could [[00:06:25](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=385.02000000000004s)]
+*  pose a security risk. [[00:06:29](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=389.26000000000005s)]
+*  For example, it could have secret listening devices installed and that Qatar might have [[00:06:30](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=390.86s)]
+*  gifted the plane to try and influence the president. [[00:06:35](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=395.02000000000004s)]
+*  And the Justice Department is stepping back from its efforts to reform nearly two dozen [[00:06:40](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=400.18s)]
+*  police departments across the country that have been accused of civil rights violations. [[00:06:45](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=405.18s)]
+*  Those efforts, known as consent decrees, came in the wake of high profile police killings [[00:06:50](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=410.58s)]
+*  and set requirements for how police should be trained and disciplined. [[00:06:56](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=416.14s)]
+*  The head of the DOJ's Civil Rights Division now says the agreements are ineffectual and [[00:07:00](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=420.38s)]
+*  a, quote, injustice against the police. [[00:07:05](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=425.18s)]
+*  The decision to roll them back was announced nearly five years to the day after the murder [[00:07:08](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=428.41999999999996s)]
+*  of George Floyd in Minneapolis. [[00:07:12](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=432.90000000000003s)]
+*  In Minneapolis, residents and activists called the news a slap in the face. [[00:07:15](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=435.14s)]
+*  They see it as a sign that the Trump administration is not interested in the kind of changes and [[00:07:20](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=440.78000000000003s)]
+*  reforms that people clamored for during big protests just years ago. [[00:07:27](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=447.54s)]
+*  My colleague Ernesto Lundonio is based in Minnesota, where the DOJ has been working [[00:07:34](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=454.18s)]
+*  on a consent decree with the Minneapolis Police Department after a federal report found [[00:07:37](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=457.98s)]
+*  officers there routinely discriminated against Black and Native American people and used [[00:07:42](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=462.66s)]
+*  deadly force without justification. [[00:07:47](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=467.70000000000005s)]
+*  So where this leaves us now is that the city says it remains committed to the changes outlined [[00:07:50](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=470.1s)]
+*  in the Department of Justice agreement. [[00:07:56](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=476.66s)]
+*  But there's no question that as the Department of Justice takes a step back, there's one [[00:07:58](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=478.78000000000003s)]
+*  less lever hovering over the city of Minneapolis to make sure that it does, in fact, continue [[00:08:03](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=483.74s)]
+*  the hard, expensive and labor intensive work of reforming a police department. [[00:08:11](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=491.1s)]
+*  And finally, every morning across the country, nearly a third of kids eat cereal for breakfast. [[00:08:25](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=505.38s)]
+*  They're new Food Loop super loopers. [[00:08:31](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=511.26s)]
+*  It's actually the most commonly consumed food product for children aged five to 12. [[00:08:34](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=514.7s)]
+*  But a new study has found that breakfast cereals have been getting less and less healthy. [[00:08:39](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=519.06s)]
+*  Researchers studied 1200 new and reformulated cereals that were launched between 2010 and [[00:08:47](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=527.5s)]
+*  2023 and found that their average fat, sodium and sugar content increased significantly [[00:08:53](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=533.26s)]
+*  over that time. [[00:08:59](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=539.06s)]
+*  The findings were published yesterday in the journal JAMA Open Network. [[00:09:00](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=540.54s)]
+*  One of the study's authors told the Times he was surprised by what they found since [[00:09:04](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=544.54s)]
+*  consumers have become increasingly health conscious and more aware of the links between [[00:09:08](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=548.5s)]
+*  eating too much sugar, salt and fat and serious health conditions like diabetes and cancer. [[00:09:13](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=553.22s)]
+*  He said, quote, the healthy claims made on the front of these products and the nutritional [[00:09:18](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=558.9s)]
+*  facts on the back are actually going in the opposite direction. [[00:09:23](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=563.62s)]
+*  Those are the headlines. [[00:09:31](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=571.26s)]
+*  I'm Tracy Mumford. [[00:09:32](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=572.26s)]
+*  We'll be back tomorrow. [[00:09:33](https://www.youtube.com/watch?v=VtrhOdAPqCs&t=573.26s)]

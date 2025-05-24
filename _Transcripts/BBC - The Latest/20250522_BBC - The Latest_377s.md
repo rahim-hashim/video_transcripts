@@ -1,0 +1,133 @@
+---
+Date Generated: May 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 377s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 75977
+Video Rating: None
+Video Description: Net migration to the UK fell to 431,000 in 2024, down almost 50% on the total in 2023.
+
+The Office for National Statistics says the drop is "driven by falling numbers of people coming to work and study, particularly student dependants".
+
+The big fall is believed to be down to restrictions introduced by the previous UK Conservative government, and a delayed effect of the pandemic.
+
+Net migration is the difference between the number of people arriving and leaving - 948,000 people moved to the UK in 2024, while 517,000 left.
+
+Before last year's election, Labour pledged to reduce net migration, and recently introduced new stricter rules for some visas.
+
+Subscribe here: http://bit.ly/1rbfUog
+
+For more news, analysis and features visit: www.bbc.com/news 
+
+#BBCNews
+---
+
+# UK net migration almost halves in 2024 to 431,000, ONS says | BBC News
+**BBC - The Latest:** [May 22, 2025](https://www.youtube.com/watch?v=KmkkfwHWKy4)
+*  The latest figures for migration to and from the UK have just been released by the Office for National Statistics. [[00:00:00](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=0.0s)]
+*  They show that net migration to the UK is estimated to have halved from 860,000 in the year ending December 23 [[00:00:07](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=7.0s)]
+*  to 431,000 in the year ending December 2024. [[00:00:15](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=15.0s)]
+*  Robert Cuff is the BBC's Head of Statistics and he explained the significance of the drop. [[00:00:21](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=21.0s)]
+*  Halving in one year down from near record levels in 2023 down to, as you said, around 430,000 last year is absolutely huge [[00:00:26](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=26.0s)]
+*  and it will probably be welcomed by the government who promised in their manifesto to bring migration down [[00:00:35](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=35.0s)]
+*  but of course many will point out at the same time that the wheels for these falls were set in motion a long time ago [[00:00:41](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=41.0s)]
+*  and you can really see that when you start to break into the figures of who's coming, who's going [[00:00:47](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=47.0s)]
+*  because remember this is a combination of the people who come to the UK to stay for a year, which has fallen [[00:00:51](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=51.0s)]
+*  and the people who leave the UK for more than a year, which has also risen [[00:00:57](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=57.0s)]
+*  so that double whack, if you want, has contributed to this really, really massive fall in migration. [[00:01:02](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=62.0s)]
+*  So just to be clear, this is all legal migration, this is people coming here to work or what exactly does this constitute? [[00:01:08](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=68.0s)]
+*  So this covers everyone who's coming to the UK, so the immigration part, everyone who's coming to the UK for more than a year [[00:01:15](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=75.0s)]
+*  so if you're doing a nine month course, it doesn't count, if you get a job and stay on for an extra four months then you're in [[00:01:21](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=81.0s)]
+*  and that could be for study, for work, it could be for asylum, it could be for humanitarian reasons, you could be coming on a small boat [[00:01:26](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=86.0s)]
+*  but the biggest reason by a mile that people come to the UK is to study or to work. [[00:01:32](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=92.0s)]
+*  Those are the big drivers and we've seen big falls in those numbers last year. [[00:01:36](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=96.0s)]
+*  That's Robert Cuff there, there's more on that story of course on the BBC News website. [[00:01:41](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=101.0s)]
+*  Well, whatever the precise figures, some towns and cities have undergone changes as a result of immigration. [[00:01:46](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=106.0s)]
+*  Dan Johnson sent us this report from Coventry. [[00:01:52](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=112.0s)]
+*  In a multicultural city, here's one street showcasing how Britons welcomed people from around the world. [[00:01:56](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=116.0s)]
+*  You've got Afghans, Ghanians, Nigerians, Indians, you name any person in the world, you can find it here. [[00:02:03](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=123.0s)]
+*  Daniel's part of the Polish wave arriving two decades ago. [[00:02:11](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=131.0s)]
+*  Immigration is always good, you know why? Because it gives the blood in the system. [[00:02:15](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=135.0s)]
+*  You'd say people still need to be allowed to come here? [[00:02:20](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=140.0s)]
+*  Of course, of course, of course. Not maybe the big numbers but controlling that. [[00:02:22](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=142.0s)]
+*  You don't want to have the dinghies coming over and you don't know who's coming. [[00:02:27](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=147.0s)]
+*  Coventry's grown faster than most cities and now more than a quarter of residents here were born overseas. [[00:02:32](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=152.0s)]
+*  But not everyone is thriving. [[00:02:38](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=158.0s)]
+*  I mean, I've, take today, £7.50. [[00:02:40](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=160.0s)]
+*  Jane is considering closing down. [[00:02:45](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=165.0s)]
+*  It's all different nationalities but some of them are not getting on with each other. [[00:02:47](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=167.0s)]
+*  Really? [[00:02:52](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=172.0s)]
+*  Yeah, a couple of shops up the road, they've been raided a couple of times. [[00:02:53](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=173.0s)]
+*  By the police? [[00:02:56](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=176.0s)]
+*  It's just not a nice street anymore. [[00:02:57](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=177.0s)]
+*  Born and raised in Australia. [[00:03:00](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=180.0s)]
+*  Sarah moved here 25 years ago. [[00:03:02](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=182.0s)]
+*  I feel like England is known for just being the handout society. [[00:03:05](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=185.0s)]
+*  The NHS and everything is just under strain or broken already. [[00:03:10](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=190.0s)]
+*  And it's not the NHS' fault, I just feel like there's just too many people. [[00:03:15](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=195.0s)]
+*  Too many people. [[00:03:19](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=199.0s)]
+*  So would you support stricter controls? [[00:03:21](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=201.0s)]
+*  Yes, definitely. [[00:03:23](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=203.0s)]
+*  Make it harder for people to come here? [[00:03:24](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=204.0s)]
+*  Definitely. [[00:03:25](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=205.0s)]
+*  Even though you can? [[00:03:26](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=206.0s)]
+*  Yeah. [[00:03:27](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=207.0s)]
+*  You were allowed in? [[00:03:28](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=208.0s)]
+*  Yeah, sometimes I feel a bit like, oh. [[00:03:29](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=209.0s)]
+*  Some choose Coventry, others get placed here, often in hotels. [[00:03:33](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=213.0s)]
+*  There's one asylum seeker for every 170 residents. [[00:03:37](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=217.0s)]
+*  That's one of the highest ratios in the country. [[00:03:41](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=221.0s)]
+*  Just down the street we found Paul. [[00:03:45](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=225.0s)]
+*  I was going to be homeless, yeah, I got an eviction notice. [[00:03:47](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=227.0s)]
+*  Struggling to keep a roof over his head. [[00:03:50](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=230.0s)]
+*  I got off nothing, just hit a blank wall. [[00:03:52](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=232.0s)]
+*  There was no help? [[00:03:54](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=234.0s)]
+*  There was no help, no. [[00:03:55](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=235.0s)]
+*  How do you feel about that? [[00:03:56](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=236.0s)]
+*  I feel really angry at the time, really angry. [[00:03:58](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=238.0s)]
+*  I thought, well, why are other people being prioritised? [[00:04:01](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=241.0s)]
+*  And I've worked 40 years of my life, paid my taxes, paid my national insurance. [[00:04:04](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=244.0s)]
+*  Then we met Mohamed. [[00:04:09](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=249.0s)]
+*  Me myself, I was an asylum seeker. [[00:04:11](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=251.0s)]
+*  Oh really? [[00:04:13](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=253.0s)]
+*  Yes, yeah. [[00:04:14](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=254.0s)]
+*  Where from? [[00:04:15](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=255.0s)]
+*  I'm from Sudan. [[00:04:16](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=256.0s)]
+*  Settled here for 20 years, but aware of others who are cheating the system. [[00:04:17](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=257.0s)]
+*  There are some people from different countries, I need their countries, they are good. [[00:04:21](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=261.0s)]
+*  So there's no problem in their countries. [[00:04:24](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=264.0s)]
+*  They come and they ask asylum as a different nation. [[00:04:26](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=266.0s)]
+*  Those kind of people, I think that's like your line to the system. [[00:04:30](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=270.0s)]
+*  Coventry's been proud to offer refugees sanctuary. [[00:04:35](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=275.0s)]
+*  Lorraine came from Malawi initially as a student. [[00:04:38](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=278.0s)]
+*  And I got five years refugee status. [[00:04:42](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=282.0s)]
+*  That was October 2022. [[00:04:44](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=284.0s)]
+*  And Gloria left Ghana and was granted asylum here eventually. [[00:04:46](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=286.0s)]
+*  I was refused four times. [[00:04:51](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=291.0s)]
+*  Why were you so determined to stay here? [[00:04:55](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=295.0s)]
+*  Because I want to rebuild my life. [[00:04:58](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=298.0s)]
+*  Even though I was in that asylum process, I was helping the people of this country. [[00:05:01](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=301.0s)]
+*  I was volunteering because I'm a very hardworking person. [[00:05:09](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=309.0s)]
+*  They've confronted prejudice and misinformation. [[00:05:15](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=315.0s)]
+*  A woman just started, oh, you know what? [[00:05:19](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=319.0s)]
+*  I work every day. [[00:05:22](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=322.0s)]
+*  But asylum seekers are given a house, are given a car, are they given on benefit? [[00:05:23](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=323.0s)]
+*  I said, what? [[00:05:28](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=328.0s)]
+*  I was an asylum seeker. [[00:05:29](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=329.0s)]
+*  I work. [[00:05:31](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=331.0s)]
+*  I'm not on benefit. [[00:05:32](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=332.0s)]
+*  I've not been given a car. [[00:05:33](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=333.0s)]
+*  I've not even been given a house. [[00:05:35](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=335.0s)]
+*  I rent, I pay now. [[00:05:36](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=336.0s)]
+*  So it is based on politics that people exaggerate. [[00:05:38](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=338.0s)]
+*  And they say migrants are your enemy. [[00:05:43](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=343.0s)]
+*  I don't have anything. [[00:05:47](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=347.0s)]
+*  Even if you get rid of me, it will not change your life. [[00:05:48](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=348.0s)]
+*  Thumbs up, thumbs up. [[00:05:51](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=351.0s)]
+*  Schools are a front line of integration. [[00:05:53](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=353.0s)]
+*  And more than half the pupils in this city are from ethnic minority families. [[00:05:56](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=356.0s)]
+*  There's a challenge of language and growing numbers. [[00:06:01](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=361.0s)]
+*  Here, a temporary classroom is helping. [[00:06:04](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=364.0s)]
+*  But they're not alone in trying to work out how many more will need to be accommodated in future. [[00:06:07](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=367.0s)]
+*  Dan Johnson, BBC News, Coventry. [[00:06:13](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=373.0s)]
+*  Thank you. [[00:06:17](https://www.youtube.com/watch?v=KmkkfwHWKy4&t=377.0s)]

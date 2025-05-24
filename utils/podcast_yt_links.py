@@ -79,9 +79,13 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLS_48r7yuHnspwTJpNignae0cSY_b1cL5': 'Glenn Greenwald - System Update',
   'https://www.youtube.com/playlist?list=PL1JULMhsLAypfSsBputK5dah9WKASIo-v': 'Flagrant - Andrew Schulz',
   # Shawn Fantasy Football team
-  # 'https://www.youtube.com/playlist?list=PLI4CojGEzLMfaMTaQdfoTg0Bu7N_Gf_gB': 'FantasyPros - Dynasty Podcast'
-  # US Congressmen
-  # https://www.youtube.com/@RepAlGreen/videos # Al Green
+  # 'https://www.youtube.com/playlist?list=PLI4CojGEzLMfaMTaQdfoTg0Bu7N_Gf_gB': 'FantasyPros - Dynshams Podcast'
+  # Biotechnology
+  'https://www.youtube.com/playlist?list=PLc72brZeU9-qT6WrU2JleEIGM-HgQFt9k': 'Beyond Biotech',
+  'https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb': 'Life Science Connect - Business of Biotech',
+  'https://www.youtube.com/playlist?list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ': 'The a16z Podcast',
+  'https://www.youtube.com/playlist?list=PLR132NlB9VMCZQ3p-6sgZo1BOtVvn_Wf_': 'The RTW Podcast'
+
 }
 
 podcast_channel_names = {

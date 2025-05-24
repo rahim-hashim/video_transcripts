@@ -1,0 +1,152 @@
+---
+Date Generated: May 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 455s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 23782
+Video Rating: None
+Video Description: The Trump administration on Thursday halted Harvard’s ability to enroll international students amid an ongoing standoff between the government and the Ivy League school. Harvard has refused to adhere to a set of demands issued by the Trump administration’s Task Force to Combat Anti-Semitism that included sweeping reforms to whom the university can hire and admit, and subjecting the ideology of faculty members to an audit approved by the government. The National Urban League's Marc Morial calls the move 'another smear campaign' by Trump.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Harvard #Politics
+---
+
+# 'Another smear campaign': Why Trump's latest action against Harvard is 'retaliatory politics'
+**MSNBC - Morning Joe:** [May 23, 2025](https://www.youtube.com/watch?v=uSOrIXQdhbk)
+*  We'll begin this hour with the Trump administration escalating its fight with Harvard University [[00:00:00](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=0.0s)]
+*  and now blocking the school's ability to enroll international students. [[00:00:05](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=5.84s)]
+*  NBC News senior White House correspondent Garrett Haake has the details. [[00:00:10](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=10.4s)]
+*  Trump administration escalating its battle with Harvard University, barring the school [[00:00:15](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=15.44s)]
+*  from enrolling foreign students and ordering the more than 6,700 currently enrolled to [[00:00:19](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=19.6s)]
+*  transfer or lose their legal status. [[00:00:24](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=24.72s)]
+*  27% of their students are foreign students and they will have to find some other university [[00:00:27](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=27.52s)]
+*  to go to and hopefully they find one that cares about them and provides a safe environment. [[00:00:33](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=33.120000000000005s)]
+*  The White House saying Harvard has become a quote, hotbed of anti-American, anti-Semitic, [[00:00:37](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=37.88s)]
+*  pro-terrorist agitators, adding the university now must face the consequences of their actions. [[00:00:42](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=42.6s)]
+*  This should be a warning to every other university to get your act together. [[00:00:48](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=48.36s)]
+*  Harvard calling the government's action unlawful, adding we are fully committed to maintaining [[00:00:51](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=51.96s)]
+*  Harvard's ability to host our international students and scholars. [[00:00:57](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=57.0s)]
+*  Karl Molden is a Harvard student from Austria studying government. [[00:01:02](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=62.32s)]
+*  Do you think you'll be back at Harvard in the fall? [[00:01:05](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=65.68s)]
+*  It's hard to make a call, I hope. [[00:01:07](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=67.4s)]
+*  I'm uncertain. [[00:01:09](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=69.88s)]
+*  I think with this administration anything can happen. [[00:01:10](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=70.88s)]
+*  In April, the administration froze more than $2 billion in federal grants to Harvard over [[00:01:13](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=73.24000000000001s)]
+*  what the White House said were concerns about unchecked anti-Semitism on campus and demands [[00:01:18](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=78.16s)]
+*  to change hiring and admissions processes. [[00:01:23](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=83.02s)]
+*  The university's president pressed by Lester last month. [[00:01:25](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=85.72000000000001s)]
+*  Is this really about anti-Semitism? [[00:01:28](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=88.96000000000001s)]
+*  I would say that at Harvard we have a real problem with anti-Semitism. [[00:01:31](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=91.88000000000001s)]
+*  We take it very seriously and we're trying to address it. [[00:01:36](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=96.72000000000001s)]
+*  We don't really see the relationship to research funding at Harvard and other universities. [[00:01:41](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=101.44000000000001s)]
+*  They are two different issues. [[00:01:48](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=108.76s)]
+*  Pablo, a quick beat to you first. [[00:01:50](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=110.96000000000001s)]
+*  You went to Harvard. [[00:01:53](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=113.24s)]
+*  Speak to us about what international students bring to that school and that community. [[00:01:54](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=114.83999999999999s)]
+*  Harvard for many people is a euphemism for the American dream. [[00:02:00](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=120.19999999999999s)]
+*  From their perspective, you go to America to be among the most rigorous practitioners [[00:02:03](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=123.52s)]
+*  of academic freedom and tradition. [[00:02:10](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=130.04s)]
+*  You do it, by the way, inside of a place that I think has been so deeply distorted by this [[00:02:13](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=133.72s)]
+*  administration. [[00:02:18](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=138.26s)]
+*  Coming back to the letter that Linda McMahon, secretary of education, wrote, in which I [[00:02:19](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=139.6s)]
+*  just want to quote this because she said, quote, it's free market system. [[00:02:23](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=143.28s)]
+*  You teach your students to despise, is one of the problems she has with Harvard. [[00:02:27](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=147.85999999999999s)]
+*  I just want to point this out. [[00:02:32](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=152.04s)]
+*  The most popular course at Harvard forever has been intro to economics. [[00:02:34](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=154.2s)]
+*  It's called EC10. [[00:02:37](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=157.84s)]
+*  I took it. [[00:02:39](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=159.07999999999998s)]
+*  Thousands of kids take it. [[00:02:40](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=160.07999999999998s)]
+*  The professor forever, my professor, was a guy named Martin Feldstein. [[00:02:42](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=162.4s)]
+*  He was the chief economist to Ronald Reagan, Mr. Mayor. [[00:02:47](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=167.28s)]
+*  Right? [[00:02:50](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=170.8s)]
+*  John, when I think about this, when I think about what graduates of Harvard go on to do [[00:02:51](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=171.8s)]
+*  every year, you look at the chart. [[00:02:56](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=176.92000000000002s)]
+*  It's finance, it's consulting, and now it's tech. [[00:02:58](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=178.72s)]
+*  It's not socialism and activism and organizing as much as there are some people who resemble [[00:03:02](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=182.22s)]
+*  that. [[00:03:08](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=188.6s)]
+*  It's just what they're risking now is disrupting a pipeline of actual conventional conservative [[00:03:09](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=189.6s)]
+*  capitalism, if nothing else, ironically. [[00:03:18](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=198.20000000000002s)]
+*  Think about the precedent. [[00:03:19](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=199.52s)]
+*  A new president comes in and doesn't like Texas A&M, doesn't like Baylor, doesn't like [[00:03:22](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=202.32000000000002s)]
+*  Liberty University, doesn't like universities because of the state they were in and they [[00:03:27](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=207.76000000000002s)]
+*  didn't vote for him. [[00:03:33](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=213.9s)]
+*  Think about the precedent. [[00:03:35](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=215.52s)]
+*  This is bad. [[00:03:36](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=216.76000000000002s)]
+*  It's awful. [[00:03:38](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=218.32000000000002s)]
+*  And it's another smear campaign. [[00:03:39](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=219.32000000000002s)]
+*  Just smear the reputation of the university. [[00:03:42](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=222.52s)]
+*  There's been no findings. [[00:03:44](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=224.84s)]
+*  There's been no investigation. [[00:03:47](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=227.36s)]
+*  It's just retaliatory politics. [[00:03:48](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=228.76000000000002s)]
+*  And I think people who may not like Harvard need to understand the precedent that you [[00:03:51](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=231.68s)]
+*  set in terms of the power you give to the president of the United States with respect [[00:03:58](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=238.4s)]
+*  to any and all academic institutions. [[00:04:03](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=243.04000000000002s)]
+*  Let's bring in to this important conversation, Democratic Senator Amy Klobuchar of Minnesota. [[00:04:05](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=245.08s)]
+*  She serves on the Judiciary and Rules Committee and joins us this morning from Ottawa, where [[00:04:09](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=249.32000000000002s)]
+*  she is part of the first U.S. delegation to go to Canada since Prime Minister Carney's [[00:04:14](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=254.48s)]
+*  election. [[00:04:18](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=258.84s)]
+*  Senator, thank you for being with us. [[00:04:19](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=259.84s)]
+*  We'll talk about your visit to Canada in a moment. [[00:04:20](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=260.84s)]
+*  But first, here on Harvard, I mean, an unprecedented step by this administration. [[00:04:22](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=262.16s)]
+*  Folks have laid out well why this is so troubling. [[00:04:28](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=268.36s)]
+*  It also just continues. [[00:04:30](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=270.76s)]
+*  It will be a real brain drain for the United States because these international students, [[00:04:31](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=271.76s)]
+*  if they can't go here, well, they'll happily set up shops somewhere else. [[00:04:36](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=276.6s)]
+*  Completely. [[00:04:40](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=280.2s)]
+*  First of all, I'm sure they're going to bring this to court or it's going to be [[00:04:42](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=282.59999999999997s)]
+*  dealt with in some way, because you can't, as was just pointed out. [[00:04:47](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=287.03999999999996s)]
+*  You cannot just single out one college and say they can't bring in students when this [[00:04:51](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=291.03999999999996s)]
+*  has been working well for so many years for so many schools. [[00:04:56](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=296.24s)]
+*  In this case, when you look at immigrants, immigrants don't diminish America. [[00:05:00](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=300.79999999999995s)]
+*  They are America. [[00:05:04](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=304.56s)]
+*  And so many of these students go on to stay in the U.S. [[00:05:05](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=305.96s)]
+*  Some of them bring their skills back to their home countries, but we actually encourage [[00:05:10](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=310.76s)]
+*  them to stay. [[00:05:14](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=314.76s)]
+*  Something like 40 percent of our Fortune 500 companies were founded by immigrants or kids [[00:05:16](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=316.26s)]
+*  of immigrants. [[00:05:22](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=322.28s)]
+*  They are major leaders in medicine. [[00:05:23](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=323.28s)]
+*  They are major leaders. [[00:05:25](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=325.64s)]
+*  They get medical degrees. [[00:05:26](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=326.8s)]
+*  We want them to stay here. [[00:05:28](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=328.48s)]
+*  We don't have enough doctors, particularly in our rural hospitals. [[00:05:29](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=329.68s)]
+*  And we actually have incentives that are supported by Democrats and Republicans to get medical [[00:05:33](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=333.96s)]
+*  doctors to stay in rural areas once they graduate from an American medical school. [[00:05:40](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=340.08s)]
+*  So this action is just the antithesis of what we've been doing to try to get good talent [[00:05:45](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=345.8s)]
+*  to stay and try to get immigrants to be part of our economy because we actually need their [[00:05:51](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=351.68s)]
+*  skills. [[00:05:57](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=357.24s)]
+*  Senator, the Trump administration has used anti-Semitism as justification for this move [[00:05:58](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=358.24s)]
+*  and as well as crackdowns at other colleges. [[00:06:03](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=363.4s)]
+*  Now I think many have argued that they're exaggerating the issue. [[00:06:06](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=366.68s)]
+*  They're using this cover to do what they just really want to do, which is a campaign of [[00:06:10](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=370.20000000000005s)]
+*  retribution. [[00:06:13](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=373.08000000000004s)]
+*  But anti-Semitism certainly has become a real problem or persists as a problem on some of [[00:06:14](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=374.08000000000004s)]
+*  these campuses. [[00:06:17](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=377.72s)]
+*  What should these schools do about that? [[00:06:18](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=378.72s)]
+*  Every school has to work on anti-Semitism because we know it's there. [[00:06:22](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=382.8s)]
+*  We know it exists. [[00:06:26](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=386.84000000000003s)]
+*  And this should be a priority. [[00:06:28](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=388.40000000000003s)]
+*  At times we know this, when they don't like a school or a journalist or they don't like [[00:06:32](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=392.56s)]
+*  a law firm and someone has pushed back at them, then that's where they go. [[00:06:38](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=398.92s)]
+*  And to me, anti-Semitism is so real, as we just saw in the horrific assassination in [[00:06:43](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=403.72s)]
+*  Washington, D.C., outside of the museum. [[00:06:50](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=410.72s)]
+*  We know that. [[00:06:53](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=413.48s)]
+*  But to use this here in certain schools who are working to bring down anti-Semitism is [[00:06:54](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=414.56s)]
+*  just wrong. [[00:07:02](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=422.84000000000003s)]
+*  And they have gone way too far with this. [[00:07:03](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=423.84000000000003s)]
+*  And the point is that one of the reasons that they're winning in court, whoever they go [[00:07:06](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=426.6s)]
+*  after, is because they're applying this in unfair ways. [[00:07:10](https://www.youtube.com/watch?v=uSOrIXQdhbk&t=430.92s)]
