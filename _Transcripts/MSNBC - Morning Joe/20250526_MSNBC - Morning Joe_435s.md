@@ -1,0 +1,152 @@
+---
+Date Generated: May 26, 2025
+Transcription Model: whisper medium 20231117
+Length: 435s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 8398
+Video Rating: None
+Video Description: President Donald Trump said Sunday that he agreed to an extension on the 50 percent tariff deadline on the European Union until July 9.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Tariffs #EuropeanUnion
+---
+
+# Trump delays 50 percent tariffs on E.U. to July 9
+**MSNBC - Morning Joe:** [May 26, 2025](https://www.youtube.com/watch?v=k0cHvoi9dtk)
+*  Here at home, President Trump is making a series of statements on tariffs over the weekend [[00:00:00](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=0.0s)]
+*  and this morning, saying he will delay a 50% tariff on the European Union until July, but [[00:00:04](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=4.8s)]
+*  still threatening a 25% tariff on Apple and potentially other smartphone companies if [[00:00:11](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=11.9s)]
+*  they don't start making their phones here in the United States. [[00:00:18](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=18.36s)]
+*  For more, let's bring in NBC's senior White House correspondent, Garrett Haake, who joins [[00:00:21](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=21.42s)]
+*  us live from the White House. [[00:00:25](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=25.26s)]
+*  Mr. Garrett, the president has been very busy this morning with his phone on Truth Social. [[00:00:26](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=26.52s)]
+*  What's the latest? [[00:00:32](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=32.36s)]
+*  Yeah, we've covered the world this morning on the phone this morning, Jonathan, but a [[00:00:33](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=33.36s)]
+*  big focus on Harvard. [[00:00:37](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=37.28s)]
+*  But over the weekend, it was this latest thread and walk back by the president that puts the [[00:00:38](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=38.519999999999996s)]
+*  European Union, which is our second largest trading partner after China, now back on the [[00:00:42](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=42.6s)]
+*  same 90-day deadline as every other nation to strike a trade deal with the U.S. or risk [[00:00:47](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=47.04s)]
+*  still higher tariffs. [[00:00:52](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=52.44s)]
+*  Now, the EU welcomed this delay, which gives them more time to negotiate, but the decision [[00:00:53](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=53.8s)]
+*  by Trump to pause this tariff increase that he only rolled out two days prior becomes [[00:00:58](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=58.559999999999995s)]
+*  the latest example of an economic policy made seemingly on the fly, rattling markets, businesses [[00:01:03](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=63.199999999999996s)]
+*  and consumers. [[00:01:08](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=68.84s)]
+*  It's another tariff reversal from President Trump, announcing his 50% tariff on the EU [[00:01:12](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=72.03999999999999s)]
+*  will be delayed by a month from June 1st to July 9th after his phone call with the European [[00:01:17](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=77.16s)]
+*  Commission president, whom he says asked him for an extension. [[00:01:22](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=82.4s)]
+*  I agreed to do that and that she said we will rapidly get together and see if we can work [[00:01:25](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=85.92s)]
+*  something out. [[00:01:31](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=91.08s)]
+*  The announcement coming just two days after President Trump threatened that new import [[00:01:32](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=92.08s)]
+*  tax. [[00:01:36](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=96.2s)]
+*  The president also taking aim at Apple, threatening to impose a 25% tariff on iPhones, urging [[00:01:37](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=97.2s)]
+*  the company to shift production to the U.S. [[00:01:43](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=103.03999999999999s)]
+*  Analysts say U.S.-made iPhones could cost $1500 to $3500, far higher than current prices, [[00:01:46](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=106.28s)]
+*  and moving production to this country would take years. [[00:01:53](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=113.28s)]
+*  And the president acknowledging Sunday that even his most punishing tariffs won't bring [[00:01:56](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=116.44s)]
+*  back all types of manufacturing once done in the U.S. [[00:02:00](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=120.68s)]
+*  I'm not looking to make t-shirts, to be honest. [[00:02:04](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=124.28s)]
+*  I'm not looking to make socks. [[00:02:06](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=126.52000000000001s)]
+*  We could do that very well at other locations. [[00:02:08](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=128.4s)]
+*  We are looking to do chips and computers and lots of other things. [[00:02:10](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=130.84s)]
+*  It all follows the president's controversial commencement address at West Point, delivering [[00:02:14](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=134.79999999999998s)]
+*  a politically charged speech to an apolitical audience. [[00:02:19](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=139.28s)]
+*  The president boasted about his administration's efforts to end diversity programs, reshaping [[00:02:23](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=143.0s)]
+*  the military to reflect his worldview. [[00:02:27](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=147.67999999999998s)]
+*  The job of the U.S. armed forces is not to host drag shows, to transform foreign cultures, [[00:02:30](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=150.35999999999999s)]
+*  or to spread democracy to everybody around the world at the point of a gun. [[00:02:39](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=159.56s)]
+*  The military's job is to dominate any foe and annihilate any threat to America. [[00:02:46](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=166.0s)]
+*  And mused about marriage while discussing a real estate developer. [[00:02:52](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=172.20000000000002s)]
+*  He ended up getting a divorce, found a new wife. [[00:02:56](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=176.16000000000003s)]
+*  Could you say a trophy wife? [[00:03:01](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=181.0s)]
+*  I guess we can say a trophy wife. [[00:03:02](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=182.20000000000002s)]
+*  It didn't work out too well. [[00:03:04](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=184.64000000000001s)]
+*  But it doesn't, and that doesn't work out too well. [[00:03:06](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=186.8s)]
+*  The president rounds out his Memorial Day weekend with a visit and a wreath laying [[00:03:10](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=190.68s)]
+*  at Arlington National Cemetery later this morning. [[00:03:13](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=193.96s)]
+*  He just posted that he will also be making a speech at 11 a.m. and then he spends the [[00:03:16](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=196.32000000000002s)]
+*  rest of the afternoon in his golf course in Virginia. [[00:03:20](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=200.72s)]
+*  Jonathan? [[00:03:23](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=203.48000000000002s)]
+*  Delivering a speech at perhaps the most somber site in the United States. [[00:03:24](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=204.48000000000002s)]
+*  He finished that post by all cap saying, enjoy. [[00:03:27](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=207.8s)]
+*  Not quite sure what he meant by that. [[00:03:31](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=211.08s)]
+*  But Gary, you mentioned. [[00:03:32](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=212.60000000000002s)]
+*  I'll leave that to you, Jonathan. [[00:03:33](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=213.60000000000002s)]
+*  Yeah, you mentioned a few moments ago about how Harvard in particular has been the target [[00:03:34](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=214.6s)]
+*  at his ire over the weekend. [[00:03:39](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=219.2s)]
+*  Give us the latest there. [[00:03:42](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=222.88s)]
+*  Harvard did win in court on Friday, got an injunction, but there's a long way to go in [[00:03:44](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=224.44s)]
+*  this battle. [[00:03:49](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=229.2s)]
+*  Yeah, the next hearing in this case will be on the 29th. [[00:03:50](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=230.2s)]
+*  The president continues to post things that are frankly confusing about what he wants [[00:03:53](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=233.44s)]
+*  from Harvard. [[00:03:57](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=237.04s)]
+*  He continues to suggest that they need to hand over a list of foreign students to the [[00:03:58](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=238.04s)]
+*  government. [[00:04:01](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=241.51999999999998s)]
+*  If you're a foreign student in Harvard, it is because you are on a visa that Harvard [[00:04:02](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=242.52s)]
+*  sponsors so the government would have that information. [[00:04:06](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=246.12s)]
+*  Now, the Trump administration has asked for things like disciplinary records, protest [[00:04:08](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=248.92000000000002s)]
+*  records for all Harvard students going back five years. [[00:04:13](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=253.52s)]
+*  Harvard says it has been in compliance with those requests. [[00:04:17](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=257.56s)]
+*  So it's not at all clear to me what the president is actually asking for there. [[00:04:19](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=259.88s)]
+*  He also accuses the University of Forum shopping in this lawsuit. [[00:04:23](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=263.48s)]
+*  But the university simply filed in federal district court for Massachusetts where you [[00:04:27](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=267.1s)]
+*  would file a case like this for a university based in Massachusetts. [[00:04:32](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=272.12s)]
+*  So the president's been all over the map on this this morning, Jonathan, and I think this [[00:04:36](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=276.76s)]
+*  is one of those issues that clearly is sort of sticking with him personally. [[00:04:40](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=280.76s)]
+*  I expect we'll hear probably a lot more from him about this in the days between now and [[00:04:44](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=284.12s)]
+*  that hearing. [[00:04:48](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=288.24s)]
+*  Yeah, and certainly he's also but on one about judges trying to block his immigration policy. [[00:04:49](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=289.24s)]
+*  Gary, before we let you go, let's talk about the tariffs for a moment and the trade war. [[00:04:55](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=295.28000000000003s)]
+*  It seemed like Trump had backed off this a little bit. [[00:05:00](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=300.28000000000003s)]
+*  The markets rallied in response. [[00:05:02](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=302.92s)]
+*  But as soon as last week, he reignited the issue with the EU, which I know he has since [[00:05:04](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=304.78000000000003s)]
+*  paused, but suddenly bring tariffs to the forefront again, rattle the markets over the [[00:05:10](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=310.44s)]
+*  weekend. [[00:05:15](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=315.12s)]
+*  And certainly this uncertainty is going to be so hard for business leaders for Wall Street [[00:05:16](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=316.12s)]
+*  to get their hands around. [[00:05:22](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=322.52s)]
+*  Yeah, I mean, look, if you extend the timeline long enough with Donald Trump, there is no [[00:05:24](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=324.08000000000004s)]
+*  policy he believes in more than tariffs. [[00:05:28](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=328.94s)]
+*  It's for the length of his public career. [[00:05:31](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=331.21999999999997s)]
+*  I'm talking about going back into the 1980s. [[00:05:33](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=333.26s)]
+*  This is always something he's believed in. [[00:05:35](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=335.41999999999996s)]
+*  And you want to look a little bit shorter timeline. [[00:05:36](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=336.97999999999996s)]
+*  He also has always believed the EU in particular is like a political entity designed to hurt [[00:05:39](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=339.06s)]
+*  the United States. [[00:05:44](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=344.34s)]
+*  So the idea that he would bring back his favorite policy and one of his favorite targets shouldn't [[00:05:45](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=345.34s)]
+*  have been all that surprising. [[00:05:50](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=350.5s)]
+*  But the fact that he pulled back after just 24 hours, I think, or excuse me, 72 hours, [[00:05:52](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=352.06s)]
+*  really one working day essentially from Friday to Sunday night is a little bit surprising. [[00:05:57](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=357.1s)]
+*  And Jonathan, I've done so many stories about the tariffs. [[00:06:02](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=362.62s)]
+*  When you talk to business leaders, both big, you know, big companies, small businesses, [[00:06:04](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=364.9s)]
+*  this kind of thing is making doing business impossible if you have to import anything [[00:06:09](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=369.7s)]
+*  into this country. [[00:06:14](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=374.14s)]
+*  On the one hand, Trump argues that's the point. [[00:06:15](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=375.18s)]
+*  He wants to remake the U.S. economy. [[00:06:17](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=377.56s)]
+*  But we included a line in that piece that I thought was really telling this idea that [[00:06:19](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=379.18s)]
+*  the president concedes we're not going to make socks and t-shirts in this country. [[00:06:22](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=382.58s)]
+*  We want to make computer chips and weapons and more advanced things. [[00:06:26](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=386.78000000000003s)]
+*  Well, right now the tariffs are largely focused on the kind of countries that make socks [[00:06:29](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=389.62s)]
+*  and t-shirts and not on chips and expensive equipment. [[00:06:33](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=393.74s)]
+*  Those things are carved out from the tariffs. [[00:06:37](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=397.86s)]
+*  So there is a fundamental disconnect in his actual economic policy and the way he's talking [[00:06:39](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=399.5s)]
+*  about his economic policy. [[00:06:43](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=403.94s)]
+*  And most economists think that very little of this makes a whole lot of sense. [[00:06:45](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=405.72s)]
+*  NBC's Garrett Haake. [[00:06:49](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=409.74s)]
+*  Garrett, covering a lot of ground for us this morning. [[00:06:51](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=411.26s)]
+*  Thank you so much. [[00:06:52](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=412.98s)]
+*  Garrett there at the White House. [[00:06:53](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=413.98s)]
+*  Thank you. [[00:06:56](https://www.youtube.com/watch?v=k0cHvoi9dtk&t=416.74s)]
