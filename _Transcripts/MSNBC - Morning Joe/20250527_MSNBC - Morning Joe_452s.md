@@ -1,0 +1,151 @@
+---
+Date Generated: May 27, 2025
+Transcription Model: whisper medium 20231117
+Length: 452s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 21036
+Video Rating: None
+Video Description: The New York Times reviewed a guest list and social media posts to identify who was invited to President Trump’s private event for customers of his cryptocurrency business and a White House tour last week. Times Reporter David Fahrenthold and CNBC's MacKenzie Sigalos discuss.
+
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#Trump #Politics #Crypto
+---
+
+# 'A way to get the president's ear': Trump's private crypto dinner raises ethics concerns
+**MSNBC - Morning Joe:** [May 27, 2025](https://www.youtube.com/watch?v=zT66Z5J8voY)
+*  So, President Trump held a private dinner last week for more than 200 investors who [[00:00:00](https://www.youtube.com/watch?v=zT66Z5J8voY&t=0.0s)]
+*  bought into his meme coin, raising ethics concerns about buying access to the president. [[00:00:06](https://www.youtube.com/watch?v=zT66Z5J8voY&t=6.44s)]
+*  NBC News has learned the guests paid between $55,000 and $37.7 million for the Trump coin, [[00:00:14](https://www.youtube.com/watch?v=zT66Z5J8voY&t=14.0s)]
+*  making the average cost of a seat at the dinner over $1 million. [[00:00:24](https://www.youtube.com/watch?v=zT66Z5J8voY&t=24.12s)]
+*  Joining us now, New York Times investigative reporter David Farenthold and CNBC reporter [[00:00:29](https://www.youtube.com/watch?v=zT66Z5J8voY&t=29.240000000000002s)]
+*  Mackenzie Segalos. [[00:00:34](https://www.youtube.com/watch?v=zT66Z5J8voY&t=34.480000000000004s)]
+*  Both have been covering Trump's meme coin dinner extensively. [[00:00:35](https://www.youtube.com/watch?v=zT66Z5J8voY&t=35.480000000000004s)]
+*  Mackenzie, I'll start with you. [[00:00:40](https://www.youtube.com/watch?v=zT66Z5J8voY&t=40.36s)]
+*  What's the latest that you know? [[00:00:43](https://www.youtube.com/watch?v=zT66Z5J8voY&t=43.120000000000005s)]
+*  What's going on? [[00:00:44](https://www.youtube.com/watch?v=zT66Z5J8voY&t=44.2s)]
+*  Well, what we're looking at now is stable coin legislation in Congress hitting a standstill [[00:00:45](https://www.youtube.com/watch?v=zT66Z5J8voY&t=45.2s)]
+*  as a direct result of this dinner. [[00:00:51](https://www.youtube.com/watch?v=zT66Z5J8voY&t=51.540000000000006s)]
+*  And part of the concern comes from the list of attendees. [[00:00:53](https://www.youtube.com/watch?v=zT66Z5J8voY&t=53.44s)]
+*  We've got the number one token holder, Justin Sun, a Chinese-born crypto mogul who owns [[00:00:58](https://www.youtube.com/watch?v=zT66Z5J8voY&t=58.160000000000004s)]
+*  $97 million worth of two Trump-related tokens. [[00:01:02](https://www.youtube.com/watch?v=zT66Z5J8voY&t=62.64s)]
+*  He won this contest, and he is one of a long list of names that are related to foreign [[00:01:07](https://www.youtube.com/watch?v=zT66Z5J8voY&t=67.04s)]
+*  capital. [[00:01:13](https://www.youtube.com/watch?v=zT66Z5J8voY&t=73.2s)]
+*  You've got a lot of blockchain analytics firms dissecting who made this top leaderboard, [[00:01:14](https://www.youtube.com/watch?v=zT66Z5J8voY&t=74.2s)]
+*  220 guests at that dinner. [[00:01:18](https://www.youtube.com/watch?v=zT66Z5J8voY&t=78.2s)]
+*  If you look at the top 25 token holders who had a special VIP reception with the president, [[00:01:19](https://www.youtube.com/watch?v=zT66Z5J8voY&t=79.84s)]
+*  all but six of them are tied to foreign exchanges that aren't open to American users. [[00:01:25](https://www.youtube.com/watch?v=zT66Z5J8voY&t=85.6s)]
+*  And that's part of where the concern is and why you're seeing a lot of Senate Democrats [[00:01:30](https://www.youtube.com/watch?v=zT66Z5J8voY&t=90.11999999999999s)]
+*  now pull back on the Genius Act. [[00:01:33](https://www.youtube.com/watch?v=zT66Z5J8voY&t=93.55999999999999s)]
+*  So David, you've got a great piece in the New York Times about this dinner, who was [[00:01:36](https://www.youtube.com/watch?v=zT66Z5J8voY&t=96.39999999999999s)]
+*  there, why they were there. [[00:01:40](https://www.youtube.com/watch?v=zT66Z5J8voY&t=100.8s)]
+*  Justin Sun, who was just invoked there under investigation by the SEC. [[00:01:42](https://www.youtube.com/watch?v=zT66Z5J8voY&t=102.28s)]
+*  Lamar Odom, former NBA player, was among the invited guests there. [[00:01:47](https://www.youtube.com/watch?v=zT66Z5J8voY&t=107.24s)]
+*  A 25-year-old named Nicholas Pinto was there. [[00:01:52](https://www.youtube.com/watch?v=zT66Z5J8voY&t=112.32s)]
+*  He was dropped off by his father in a Lamborghini. [[00:01:55](https://www.youtube.com/watch?v=zT66Z5J8voY&t=115.48s)]
+*  His takeaway from the night, Pinto, quote, the food sucked. [[00:01:58](https://www.youtube.com/watch?v=zT66Z5J8voY&t=118.88000000000001s)]
+*  Wasn't given any drinks other than water or Trump's wine. [[00:02:03](https://www.youtube.com/watch?v=zT66Z5J8voY&t=123.08s)]
+*  My glass was only filled once. [[00:02:05](https://www.youtube.com/watch?v=zT66Z5J8voY&t=125.96000000000001s)]
+*  He said Trump didn't even talk to most of the guests. [[00:02:07](https://www.youtube.com/watch?v=zT66Z5J8voY&t=127.80000000000001s)]
+*  So if you can just take a step back, paint for our viewers a picture of what was going [[00:02:10](https://www.youtube.com/watch?v=zT66Z5J8voY&t=130.04s)]
+*  on that night and what exactly this Trump coin even is. [[00:02:14](https://www.youtube.com/watch?v=zT66Z5J8voY&t=134.64000000000001s)]
+*  It is a strange concept, what the coin is. [[00:02:18](https://www.youtube.com/watch?v=zT66Z5J8voY&t=138.52s)]
+*  You think it sounds like Bitcoin or something like that that could be used as currency, [[00:02:23](https://www.youtube.com/watch?v=zT66Z5J8voY&t=143.0s)]
+*  but this is not meant to be used as currency. [[00:02:26](https://www.youtube.com/watch?v=zT66Z5J8voY&t=146.68s)]
+*  It's basically just something fun to speculate in. [[00:02:28](https://www.youtube.com/watch?v=zT66Z5J8voY&t=148.44s)]
+*  And the problem was that people weren't that interested in speculating in it until the [[00:02:30](https://www.youtube.com/watch?v=zT66Z5J8voY&t=150.8s)]
+*  Trump folks announced this dinner, where if you paid a certain amount, you invested a [[00:02:34](https://www.youtube.com/watch?v=zT66Z5J8voY&t=154.48000000000002s)]
+*  certain amount, you got to come to a dinner with President Trump. [[00:02:38](https://www.youtube.com/watch?v=zT66Z5J8voY&t=158.20000000000002s)]
+*  It seems like there were sort of two different experiences at this dinner, talking with the [[00:02:42](https://www.youtube.com/watch?v=zT66Z5J8voY&t=162.56s)]
+*  people that were there. [[00:02:45](https://www.youtube.com/watch?v=zT66Z5J8voY&t=165.68s)]
+*  The lower tier folks, the folks that weren't VIPs, they basically got to go to a dinner. [[00:02:47](https://www.youtube.com/watch?v=zT66Z5J8voY&t=167.28s)]
+*  They went to Trump's golf club. [[00:02:52](https://www.youtube.com/watch?v=zT66Z5J8voY&t=172.04s)]
+*  They didn't get to meet him. [[00:02:53](https://www.youtube.com/watch?v=zT66Z5J8voY&t=173.04s)]
+*  He showed up, made a little speech that was partly about the golf club, and then left [[00:02:54](https://www.youtube.com/watch?v=zT66Z5J8voY&t=174.23999999999998s)]
+*  without having dinner. [[00:02:58](https://www.youtube.com/watch?v=zT66Z5J8voY&t=178.23999999999998s)]
+*  So for them, they were like, either they were disappointed either with the food or the lack [[00:02:59](https://www.youtube.com/watch?v=zT66Z5J8voY&t=179.23999999999998s)]
+*  of access to the president, or if they had a good time, it was just because they got [[00:03:03](https://www.youtube.com/watch?v=zT66Z5J8voY&t=183.2s)]
+*  to meet each other. [[00:03:06](https://www.youtube.com/watch?v=zT66Z5J8voY&t=186.48s)]
+*  It wasn't because of their access to Mr. Trump. [[00:03:07](https://www.youtube.com/watch?v=zT66Z5J8voY&t=187.48s)]
+*  There's a different experience for the VIPs, the top 25 holders of this coin. [[00:03:10](https://www.youtube.com/watch?v=zT66Z5J8voY&t=190.0s)]
+*  And again, buying this coin means money goes to President Trump. [[00:03:14](https://www.youtube.com/watch?v=zT66Z5J8voY&t=194.48s)]
+*  They got to meet the president. [[00:03:18](https://www.youtube.com/watch?v=zT66Z5J8voY&t=198.04s)]
+*  They got a VIP reception with them, and they got a tour of the White House the next day. [[00:03:19](https://www.youtube.com/watch?v=zT66Z5J8voY&t=199.04s)]
+*  So they had a very different experiences, and those folks came away happier, I would [[00:03:23](https://www.youtube.com/watch?v=zT66Z5J8voY&t=203.07999999999998s)]
+*  say. [[00:03:26](https://www.youtube.com/watch?v=zT66Z5J8voY&t=206.92s)]
+*  Yeah, and certainly the tour of the White House has, for many, raised the ethical concerns [[00:03:27](https://www.youtube.com/watch?v=zT66Z5J8voY&t=207.92s)]
+*  here. [[00:03:31](https://www.youtube.com/watch?v=zT66Z5J8voY&t=211.76s)]
+*  That is the people's house, and it's part, Mackenzie, of this scheme for Donald Trump [[00:03:32](https://www.youtube.com/watch?v=zT66Z5J8voY&t=212.76s)]
+*  and his family to enrich themselves. [[00:03:37](https://www.youtube.com/watch?v=zT66Z5J8voY&t=217.35999999999999s)]
+*  So talk to us a little bit more, if you will, if there's any estimate as to how much Trump, [[00:03:39](https://www.youtube.com/watch?v=zT66Z5J8voY&t=219.04s)]
+*  his family, Trump org, is profiting off of this. [[00:03:43](https://www.youtube.com/watch?v=zT66Z5J8voY&t=223.68s)]
+*  And what sort of, if any, like watchdog or investigation could be launched by Democrats [[00:03:47](https://www.youtube.com/watch?v=zT66Z5J8voY&t=227.84s)]
+*  or lawsuits by good government groups? [[00:03:55](https://www.youtube.com/watch?v=zT66Z5J8voY&t=235.48000000000002s)]
+*  Walk us through it. [[00:03:57](https://www.youtube.com/watch?v=zT66Z5J8voY&t=237.64000000000001s)]
+*  So the Trump family is now tied to three different crypto tokens. [[00:03:59](https://www.youtube.com/watch?v=zT66Z5J8voY&t=239.44s)]
+*  You've got the meme coin that we're talking about that's related to that contest dinner, [[00:04:02](https://www.youtube.com/watch?v=zT66Z5J8voY&t=242.48000000000002s)]
+*  where Trump-related entities take 80% of profits. [[00:04:06](https://www.youtube.com/watch?v=zT66Z5J8voY&t=246.48000000000002s)]
+*  And separately, you've got two other tokens through World Liberty Financial, a crypto [[00:04:10](https://www.youtube.com/watch?v=zT66Z5J8voY&t=250.72000000000003s)]
+*  bank that the family was talking about on the campaign trail. [[00:04:15](https://www.youtube.com/watch?v=zT66Z5J8voY&t=255.48s)]
+*  They've sold $550 million worth of tokens. [[00:04:18](https://www.youtube.com/watch?v=zT66Z5J8voY&t=258.8s)]
+*  75% of profits go to the family there. [[00:04:21](https://www.youtube.com/watch?v=zT66Z5J8voY&t=261.52s)]
+*  On paper, they've got $1.1 billion in World Liberty's token. [[00:04:24](https://www.youtube.com/watch?v=zT66Z5J8voY&t=264.48s)]
+*  And then that third token is a U.S. dollar peg stablecoin called USD1. [[00:04:28](https://www.youtube.com/watch?v=zT66Z5J8voY&t=268.56s)]
+*  You just had an Emirati fund, MGX, invest $2 billion into that token. [[00:04:33](https://www.youtube.com/watch?v=zT66Z5J8voY&t=273.32s)]
+*  And so some of these profits are just on paper at this point. [[00:04:39](https://www.youtube.com/watch?v=zT66Z5J8voY&t=279.04s)]
+*  They're not a liquid stake that you can immediately sell with that meme coin in particular, even [[00:04:41](https://www.youtube.com/watch?v=zT66Z5J8voY&t=281.88s)]
+*  though the founders of it hold a certain cash, there is a lockup window. [[00:04:48](https://www.youtube.com/watch?v=zT66Z5J8voY&t=288.23999999999995s)]
+*  But in the interim, a lot of the trading activity that we've seen tied to this exuberance over [[00:04:52](https://www.youtube.com/watch?v=zT66Z5J8voY&t=292.56s)]
+*  a contest dinner or any sort of announcement that the president makes, there are trading [[00:04:59](https://www.youtube.com/watch?v=zT66Z5J8voY&t=299.35999999999996s)]
+*  fees that are earned for insiders. [[00:05:03](https://www.youtube.com/watch?v=zT66Z5J8voY&t=303.91999999999996s)]
+*  So we've seen north of $320 million just in trading fees on that Trump meme token so far. [[00:05:06](https://www.youtube.com/watch?v=zT66Z5J8voY&t=306.04s)]
+*  And going to your second point there, concerns and whether there might be inquiries, yes, [[00:05:12](https://www.youtube.com/watch?v=zT66Z5J8voY&t=312.84000000000003s)]
+*  we've heard Democrats on both from the Senate and the House looking to open probes. [[00:05:18](https://www.youtube.com/watch?v=zT66Z5J8voY&t=318.44s)]
+*  Representative Maxine Waters has been talking about this. [[00:05:24](https://www.youtube.com/watch?v=zT66Z5J8voY&t=324.44s)]
+*  But separately, you've got a block of Senate Democrats who are now saying that they want [[00:05:27](https://www.youtube.com/watch?v=zT66Z5J8voY&t=327.12s)]
+*  to add an amendment to the Genius Act, a bill designed to regulate stablecoins that would [[00:05:30](https://www.youtube.com/watch?v=zT66Z5J8voY&t=330.72s)]
+*  bar the president and other senior officials from either directly or indirectly profiting [[00:05:34](https://www.youtube.com/watch?v=zT66Z5J8voY&t=334.76s)]
+*  from stablecoin ventures while in office, which is a direct shot at that dollar peg [[00:05:40](https://www.youtube.com/watch?v=zT66Z5J8voY&t=340.2s)]
+*  stablecoin that the Trump family just launched. [[00:05:44](https://www.youtube.com/watch?v=zT66Z5J8voY&t=344.59999999999997s)]
+*  So David, this is a direct access, is it not, for people who can afford it to the president [[00:05:46](https://www.youtube.com/watch?v=zT66Z5J8voY&t=346.96s)]
+*  of the United States, whether you're Mr. Sun, who's trying to get an SEC investigation [[00:05:51](https://www.youtube.com/watch?v=zT66Z5J8voY&t=351.71999999999997s)]
+*  dropped on him, whether you're a foreign government who wants to have influence over President [[00:05:55](https://www.youtube.com/watch?v=zT66Z5J8voY&t=355.92s)]
+*  Trump, or I guess if you're a former NBA player trying to launch his own coin, this is a way [[00:06:00](https://www.youtube.com/watch?v=zT66Z5J8voY&t=360.76s)]
+*  to get to this president, is it not? [[00:06:05](https://www.youtube.com/watch?v=zT66Z5J8voY&t=365.4s)]
+*  It is. [[00:06:09](https://www.youtube.com/watch?v=zT66Z5J8voY&t=369.03999999999996s)]
+*  And that's both physical, like this is the easiest access we can see because they had [[00:06:10](https://www.youtube.com/watch?v=zT66Z5J8voY&t=370.03999999999996s)]
+*  to come to the Trump golf course in person. [[00:06:14](https://www.youtube.com/watch?v=zT66Z5J8voY&t=374.55999999999995s)]
+*  We got to see them when they signed in. [[00:06:16](https://www.youtube.com/watch?v=zT66Z5J8voY&t=376.44s)]
+*  We can't really measure the way that other folks who are buying into these currencies [[00:06:18](https://www.youtube.com/watch?v=zT66Z5J8voY&t=378.2s)]
+*  are getting access to the president behind closed doors. [[00:06:22](https://www.youtube.com/watch?v=zT66Z5J8voY&t=382.2s)]
+*  One of the things that the White House has said is, oh, this, the president is doing [[00:06:25](https://www.youtube.com/watch?v=zT66Z5J8voY&t=385.64s)]
+*  this on his private time. [[00:06:28](https://www.youtube.com/watch?v=zT66Z5J8voY&t=388.32s)]
+*  This is outside his work duties. [[00:06:29](https://www.youtube.com/watch?v=zT66Z5J8voY&t=389.8s)]
+*  But what we know from the law and experience is that the president is never off. [[00:06:32](https://www.youtube.com/watch?v=zT66Z5J8voY&t=392.28000000000003s)]
+*  He's never not the president. [[00:06:35](https://www.youtube.com/watch?v=zT66Z5J8voY&t=395.8s)]
+*  He's always the president. [[00:06:36](https://www.youtube.com/watch?v=zT66Z5J8voY&t=396.84000000000003s)]
+*  And so there's no such thing as a presidential side hustle. [[00:06:38](https://www.youtube.com/watch?v=zT66Z5J8voY&t=398.2s)]
+*  In this case, when he spoke to these folks at his golf club, he was speaking from the [[00:06:41](https://www.youtube.com/watch?v=zT66Z5J8voY&t=401.40000000000003s)]
+*  presidential lectern. [[00:06:44](https://www.youtube.com/watch?v=zT66Z5J8voY&t=404.6s)]
+*  And certainly folks see this as a way to access the president. [[00:06:46](https://www.youtube.com/watch?v=zT66Z5J8voY&t=406.16s)]
+*  They said that explicitly, buying these coins, getting into these businesses is a way to [[00:06:49](https://www.youtube.com/watch?v=zT66Z5J8voY&t=409.08000000000004s)]
+*  get the presidency or it's a way to influence him. [[00:06:53](https://www.youtube.com/watch?v=zT66Z5J8voY&t=413.24s)]
+*  And I think we're just seeing a little bit of it because this thinner actually happened [[00:06:55](https://www.youtube.com/watch?v=zT66Z5J8voY&t=415.92s)]
+*  in person. [[00:06:59](https://www.youtube.com/watch?v=zT66Z5J8voY&t=419.68s)]
+*  The rest is a lot harder to see. [[00:07:00](https://www.youtube.com/watch?v=zT66Z5J8voY&t=420.68s)]
+*  New York Times investigative reporter David Farenthold and CNBC's Mackenzie Segalos. [[00:07:03](https://www.youtube.com/watch?v=zT66Z5J8voY&t=423.48s)]
+*  Thank you both very much for being on this morning. [[00:07:09](https://www.youtube.com/watch?v=zT66Z5J8voY&t=429.36s)]
