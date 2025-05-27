@@ -202,6 +202,10 @@ class Video:
 		if self.description == None:
 			f.write('Video Description: None\n')
 		else:
+			# convert '---' to *** for markdown to not interpret it as a header
+			self.description = self.description.replace('---', '***')
+			# also replace double newlines with single newlines
+			self.description = self.description.replace('\n\n', '\n')
 			f.write(f'Video Description: {self.description}\n')
 		f.write('---\n\n')
 
