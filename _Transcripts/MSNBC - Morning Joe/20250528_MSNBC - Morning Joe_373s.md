@@ -1,0 +1,121 @@
+---
+Date Generated: May 28, 2025
+Transcription Model: whisper medium 20231117
+Length: 373s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 1818
+Video Rating: None
+Video Description: The Atlanta Journal-Constitution ran a short profile on State Rep. Kasey Carpenter, R-Ga., this week on his push for practical immigration reform that isn't in lockstep with the hardline Republican stance. State Rep. Carpenter joins Morning Joe to discuss.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Georgia #Immigration #Politics
+---
+
+# 'Good people are getting caught up': Georgia Republican calls for 'turn' on immigration
+**MSNBC - Morning Joe:** [May 28, 2025](https://www.youtube.com/watch?v=gLbSkdCU26I)
+*  The Atlanta Journal Constitution is highlighting a Republican state representative in a deep [[00:00:00](https://www.youtube.com/watch?v=gLbSkdCU26I&t=0.0s)]
+*  red district who's fighting for immigration reform that sometimes puts him at odds with [[00:00:04](https://www.youtube.com/watch?v=gLbSkdCU26I&t=4.84s)]
+*  his own party. [[00:00:09](https://www.youtube.com/watch?v=gLbSkdCU26I&t=9.8s)]
+*  The paper profiles Republican Casey Carpenter of Dalton, Georgia, and his advocacy for a [[00:00:11](https://www.youtube.com/watch?v=gLbSkdCU26I&t=11.14s)]
+*  Mexican-born college student who was arrested in the lawmaker's hometown for a traffic violation [[00:00:17](https://www.youtube.com/watch?v=gLbSkdCU26I&t=17.44s)]
+*  and spent more than two weeks at an ICE detention center. [[00:00:22](https://www.youtube.com/watch?v=gLbSkdCU26I&t=22.56s)]
+*  Let's bring in right now Republican state representative Casey Carpenter of Georgia. [[00:00:26](https://www.youtube.com/watch?v=gLbSkdCU26I&t=26.72s)]
+*  He joins us now. [[00:00:31](https://www.youtube.com/watch?v=gLbSkdCU26I&t=31.2s)]
+*  Hey, Representative, it's great to have you here. [[00:00:32](https://www.youtube.com/watch?v=gLbSkdCU26I&t=32.48s)]
+*  The story popped out at me for a couple of reasons. [[00:00:36](https://www.youtube.com/watch?v=gLbSkdCU26I&t=36.519999999999996s)]
+*  One is because I spent summers in Dalton, Georgia with my grandmom. [[00:00:39](https://www.youtube.com/watch?v=gLbSkdCU26I&t=39.36s)]
+*  I spent a lot of summers there with her. [[00:00:42](https://www.youtube.com/watch?v=gLbSkdCU26I&t=42.72s)]
+*  And also because I have an uncle who worked in the carpet business up there. [[00:00:45](https://www.youtube.com/watch?v=gLbSkdCU26I&t=45.2s)]
+*  Anybody who knows Dalton knows it's all about that industry. [[00:00:49](https://www.youtube.com/watch?v=gLbSkdCU26I&t=49.96s)]
+*  Talk about the importance of immigrants and keeping the economy in Dalton, Georgia and [[00:00:56](https://www.youtube.com/watch?v=gLbSkdCU26I&t=56.08s)]
+*  the surrounding areas vital. [[00:01:02](https://www.youtube.com/watch?v=gLbSkdCU26I&t=62.0s)]
+*  And again, we're talking about legal immigration here. [[00:01:05](https://www.youtube.com/watch?v=gLbSkdCU26I&t=65.08s)]
+*  You're talking about legal immigration. [[00:01:07](https://www.youtube.com/watch?v=gLbSkdCU26I&t=67.14s)]
+*  But again, you've taken what a lot of people are calling a very reasonable stance. [[00:01:09](https://www.youtube.com/watch?v=gLbSkdCU26I&t=69.08s)]
+*  Talk about it. [[00:01:16](https://www.youtube.com/watch?v=gLbSkdCU26I&t=76.44s)]
+*  Yeah. [[00:01:17](https://www.youtube.com/watch?v=gLbSkdCU26I&t=77.44s)]
+*  I mean, I actually represent a 54% minority district, but it's a deep red district. [[00:01:18](https://www.youtube.com/watch?v=gLbSkdCU26I&t=78.44s)]
+*  In our industry, it's got to have immigrants. [[00:01:24](https://www.youtube.com/watch?v=gLbSkdCU26I&t=84.96s)]
+*  I mean, there's no way around it. [[00:01:28](https://www.youtube.com/watch?v=gLbSkdCU26I&t=88.24s)]
+*  And so what I've said the whole time is, look, nobody wants people to flow into the border. [[00:01:30](https://www.youtube.com/watch?v=gLbSkdCU26I&t=90.55999999999999s)]
+*  Nobody wants all these criminals here. [[00:01:37](https://www.youtube.com/watch?v=gLbSkdCU26I&t=97.11999999999999s)]
+*  But we have to find a pathway for the people that are here that are, you know, been here [[00:01:38](https://www.youtube.com/watch?v=gLbSkdCU26I&t=98.83999999999999s)]
+*  20 years, that are of value to our community, that have citizen kids. [[00:01:45](https://www.youtube.com/watch?v=gLbSkdCU26I&t=105.52s)]
+*  I mean, it's a very complex issue and it's not black and white. [[00:01:51](https://www.youtube.com/watch?v=gLbSkdCU26I&t=111.52s)]
+*  And I'm just asking Congress and the federal government to do a holistic approach on immigration [[00:01:54](https://www.youtube.com/watch?v=gLbSkdCU26I&t=114.84s)]
+*  and try to solve this. [[00:02:01](https://www.youtube.com/watch?v=gLbSkdCU26I&t=121.44s)]
+*  Well, and talk about, if you will, because a lot of people that may have just got involved [[00:02:03](https://www.youtube.com/watch?v=gLbSkdCU26I&t=123.2s)]
+*  in politics recently may think this is a black and white issue. [[00:02:08](https://www.youtube.com/watch?v=gLbSkdCU26I&t=128.4s)]
+*  This is a partisan issue. [[00:02:12](https://www.youtube.com/watch?v=gLbSkdCU26I&t=132.16s)]
+*  But I'll tell you, I served in Congress in the deep red district and small business owners [[00:02:13](https://www.youtube.com/watch?v=gLbSkdCU26I&t=133.44s)]
+*  understood the importance of immigration for small business owners, for midsize business [[00:02:19](https://www.youtube.com/watch?v=gLbSkdCU26I&t=139.12s)]
+*  owners. [[00:02:25](https://www.youtube.com/watch?v=gLbSkdCU26I&t=145.20000000000002s)]
+*  Talk about that and what you hear from your constituents and how, again, in a deep red [[00:02:26](https://www.youtube.com/watch?v=gLbSkdCU26I&t=146.20000000000002s)]
+*  district, people that voted Republican, people that voted for Donald Trump, people that run [[00:02:31](https://www.youtube.com/watch?v=gLbSkdCU26I&t=151.36s)]
+*  small businesses, small restaurants, family businesses, they need immigrants working. [[00:02:36](https://www.youtube.com/watch?v=gLbSkdCU26I&t=156.56s)]
+*  Yeah, I mean, the reality is there's industries, construction, manufacturing, hospitality, [[00:02:45](https://www.youtube.com/watch?v=gLbSkdCU26I&t=165.04s)]
+*  industries that require these immigrants. [[00:02:53](https://www.youtube.com/watch?v=gLbSkdCU26I&t=173.16s)]
+*  They're not taking American jobs. [[00:02:56](https://www.youtube.com/watch?v=gLbSkdCU26I&t=176.28s)]
+*  They're doing jobs a lot of times that Americans don't want to do. [[00:02:57](https://www.youtube.com/watch?v=gLbSkdCU26I&t=177.79999999999998s)]
+*  And so, you know, we all supported electing Donald Trump with the idea that he was going [[00:03:00](https://www.youtube.com/watch?v=gLbSkdCU26I&t=180.88s)]
+*  to get rid of all the criminals. [[00:03:07](https://www.youtube.com/watch?v=gLbSkdCU26I&t=187.56s)]
+*  And unfortunately, these good people are getting caught up in the wash, if you will. [[00:03:09](https://www.youtube.com/watch?v=gLbSkdCU26I&t=189.2s)]
+*  And I think if we don't make a turn on this issue, we're going to be in problem not only [[00:03:14](https://www.youtube.com/watch?v=gLbSkdCU26I&t=194.95999999999998s)]
+*  in elections but just moving forward as a country. [[00:03:20](https://www.youtube.com/watch?v=gLbSkdCU26I&t=200.67999999999998s)]
+*  Representative Carpenter, talk to us about how your constituents are viewing all this. [[00:03:24](https://www.youtube.com/watch?v=gLbSkdCU26I&t=204.23999999999998s)]
+*  You know, Donald Trump, of course, all three of his presidential campaigns took a real [[00:03:27](https://www.youtube.com/watch?v=gLbSkdCU26I&t=207.83999999999997s)]
+*  hard line against immigration. [[00:03:32](https://www.youtube.com/watch?v=gLbSkdCU26I&t=212.39999999999998s)]
+*  That's sort of his calling card in many ways. [[00:03:34](https://www.youtube.com/watch?v=gLbSkdCU26I&t=214.39999999999998s)]
+*  And polls suggest that a lot of Republicans really agree with him. [[00:03:36](https://www.youtube.com/watch?v=gLbSkdCU26I&t=216.56s)]
+*  You're outlining right now why that's more complicated than many think. [[00:03:39](https://www.youtube.com/watch?v=gLbSkdCU26I&t=219.6s)]
+*  But as you each and every day talk to people in your district, what are they saying? [[00:03:42](https://www.youtube.com/watch?v=gLbSkdCU26I&t=222.96s)]
+*  You know, people are heartbroken because a lot of these people that are getting detained [[00:03:47](https://www.youtube.com/watch?v=gLbSkdCU26I&t=227.56s)]
+*  are good people. [[00:03:50](https://www.youtube.com/watch?v=gLbSkdCU26I&t=230.56s)]
+*  Like I said, these are kids that have gone to high school, that we've educated, that [[00:03:51](https://www.youtube.com/watch?v=gLbSkdCU26I&t=231.56s)]
+*  everybody else's kids know that play sports with them. [[00:03:57](https://www.youtube.com/watch?v=gLbSkdCU26I&t=237.32s)]
+*  I mean, these are not people that you want to see leave your community. [[00:04:00](https://www.youtube.com/watch?v=gLbSkdCU26I&t=240.0s)]
+*  And so I get it. [[00:04:03](https://www.youtube.com/watch?v=gLbSkdCU26I&t=243.44s)]
+*  It's a complicated issue. [[00:04:05](https://www.youtube.com/watch?v=gLbSkdCU26I&t=245.44s)]
+*  But if we don't look at a solution that allows these people to have a pathway, I just think [[00:04:06](https://www.youtube.com/watch?v=gLbSkdCU26I&t=246.72s)]
+*  we're in trouble. [[00:04:14](https://www.youtube.com/watch?v=gLbSkdCU26I&t=254.2s)]
+*  I mean, my community is heartbroken over the situation. [[00:04:15](https://www.youtube.com/watch?v=gLbSkdCU26I&t=255.2s)]
+*  I'm sure you guys followed the news on Yamena and all the things that she went through. [[00:04:17](https://www.youtube.com/watch?v=gLbSkdCU26I&t=257.4s)]
+*  But she is just an illustration of what's going on. [[00:04:22](https://www.youtube.com/watch?v=gLbSkdCU26I&t=262.0s)]
+*  It's just the tip of the iceberg, if you will. [[00:04:25](https://www.youtube.com/watch?v=gLbSkdCU26I&t=265.52s)]
+*  This is happening all over the United States. [[00:04:27](https://www.youtube.com/watch?v=gLbSkdCU26I&t=267.14s)]
+*  And these are people that, you know, at the end of the day, you don't really want to haul [[00:04:28](https://www.youtube.com/watch?v=gLbSkdCU26I&t=268.88s)]
+*  off. [[00:04:32](https://www.youtube.com/watch?v=gLbSkdCU26I&t=272.0s)]
+*  Right. [[00:04:33](https://www.youtube.com/watch?v=gLbSkdCU26I&t=273.0s)]
+*  So Representative Carpenter, tell me in the Georgia legislature, are you finding any Republicans [[00:04:34](https://www.youtube.com/watch?v=gLbSkdCU26I&t=274.32s)]
+*  that support reasonable pro-business immigration policies like yourself? [[00:04:39](https://www.youtube.com/watch?v=gLbSkdCU26I&t=279.56s)]
+*  Yeah, I think so. [[00:04:45](https://www.youtube.com/watch?v=gLbSkdCU26I&t=285.28s)]
+*  I think the issue is we were making progress on this issue, you know, four or five years [[00:04:46](https://www.youtube.com/watch?v=gLbSkdCU26I&t=286.84s)]
+*  ago. [[00:04:52](https://www.youtube.com/watch?v=gLbSkdCU26I&t=292.44s)]
+*  I think Trump had some stuff on the table if the Democrats would have provided funding [[00:04:53](https://www.youtube.com/watch?v=gLbSkdCU26I&t=293.44s)]
+*  for the wall back in his first presidency that was going to expand DACA and also make [[00:04:57](https://www.youtube.com/watch?v=gLbSkdCU26I&t=297.32s)]
+*  it permanent. [[00:05:02](https://www.youtube.com/watch?v=gLbSkdCU26I&t=302.68s)]
+*  But nobody wants to deal. [[00:05:04](https://www.youtube.com/watch?v=gLbSkdCU26I&t=304.03999999999996s)]
+*  And so both sides of the aisle, Democrat and Republican, use this as a fundraising and [[00:05:05](https://www.youtube.com/watch?v=gLbSkdCU26I&t=305.28s)]
+*  a fear-mongering mechanism instead of just trying to solve it. [[00:05:09](https://www.youtube.com/watch?v=gLbSkdCU26I&t=309.68s)]
+*  And unfortunately, these good people are getting caught up in it. [[00:05:13](https://www.youtube.com/watch?v=gLbSkdCU26I&t=313.44s)]
+*  And every election cycle, they become a fodder for who's going to get elected. [[00:05:16](https://www.youtube.com/watch?v=gLbSkdCU26I&t=316.4s)]
+*  Republican State Representative Casey Carpenter of Georgia, thank you very much for coming [[00:05:22](https://www.youtube.com/watch?v=gLbSkdCU26I&t=322.76s)]
+*  on the show this morning. [[00:05:27](https://www.youtube.com/watch?v=gLbSkdCU26I&t=327.47999999999996s)]
+*  Just a quick question. [[00:05:29](https://www.youtube.com/watch?v=gLbSkdCU26I&t=329.36s)]
+*  What's the name of the carpet mill that your uncle works with? [[00:05:30](https://www.youtube.com/watch?v=gLbSkdCU26I&t=330.36s)]
+*  Oh, well, he actually worked up in Dalton, but then he actually ran a carpet place down [[00:05:33](https://www.youtube.com/watch?v=gLbSkdCU26I&t=333.8s)]
+*  in Pensacola, Florida. [[00:05:41](https://www.youtube.com/watch?v=gLbSkdCU26I&t=341.32s)]
+*  Oh, good for him, man. [[00:05:42](https://www.youtube.com/watch?v=gLbSkdCU26I&t=342.72s)]
+*  Awesome. [[00:05:44](https://www.youtube.com/watch?v=gLbSkdCU26I&t=344.28000000000003s)]
+*  Well, thank you. [[00:05:45](https://www.youtube.com/watch?v=gLbSkdCU26I&t=345.28000000000003s)]
+*  I appreciate you having me on. [[00:05:46](https://www.youtube.com/watch?v=gLbSkdCU26I&t=346.28000000000003s)]
+*  It's great having you on and hope to see you next time I come up to Dalton. [[00:05:47](https://www.youtube.com/watch?v=gLbSkdCU26I&t=347.28000000000003s)]
