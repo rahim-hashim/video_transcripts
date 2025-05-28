@@ -1,0 +1,135 @@
+---
+Date Generated: May 28, 2025
+Transcription Model: whisper medium 20231117
+Length: 593s
+Video Keywords: ['democratic party', 'democrats', 'elections', 'former president joe biden', 'fox news channel', 'original sin book on biden presidency', 'president donald trump', 'the five youtube', 'us politics']
+Video Views: 215217
+Video Rating: None
+Video Description: ‘The Five’ co-hosts discuss revelations from 'Original Sin' about an alleged plan for a second Biden term and the characterization of then-candidate Donald Trump. #foxnews #usa #news #thefive #politics #biden #trump 
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Gutfeld dispels Dems' ‘GREATER EVIL HOAX’
+**Fox News - The Five:** [May 27, 2025](https://www.youtube.com/watch?v=VqzHnr8Pgg4)
+*  So who's the real threat to democracy? Well, according to the author of a new book, a longtime [[00:00:00](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=0.0s)]
+*  aid for Joe Biden said the plan was for the former president to quote show proof of life [[00:00:04](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=4.8s)]
+*  every once in a while and a second term. Well, his advisors mostly ran the country because that's [[00:00:10](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=10.56s)]
+*  what the founders intended. And here's why they felt justified. These are a White House aides. [[00:00:15](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=15.84s)]
+*  These were unelected people. And one of the things that really I think comes out in our reporting [[00:00:21](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=21.6s)]
+*  here is that if you believe and I think a lot of these people do sincerely believe that Donald [[00:00:26](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=26.56s)]
+*  Trump was and is an existential threat to democracy, you can rationalize anything, [[00:00:30](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=30.48s)]
+*  including sometimes doing undemocratic things, which I think is what this person is talking about. [[00:00:35](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=35.04s)]
+*  And now famed intellectual Sam Harris admits he's okay with a comatose president [[00:00:40](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=40.32s)]
+*  if Trump was the alternative. That's what I assumed was true. [[00:00:45](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=45.36s)]
+*  The because of how effective this cover up was, I no longer, I no longer believe that to have been [[00:00:49](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=49.92s)]
+*  true, any Democrats than having someone who we consider to be genuinely evil, do a genuinely, [[00:00:55](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=55.92s)]
+*  100% purposed to serving himself in the office of the presidency. I would rather have a president, [[00:01:04](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=64.56s)]
+*  I would rather have a president in a coma where the duties of the presidency are executed by a [[00:01:10](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=70.32s)]
+*  committee of just normal people. Right. So that that's the and that's the choice that many of us [[00:01:16](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=76.8s)]
+*  believe was before us. And so therefore, not much materially changes. [[00:01:23](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=83.12s)]
+*  Okay, Greg, because I'm pretty sure the founding fathers wanted George Washington and not Medusa [[00:01:30](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=90.24s)]
+*  with five or six heads. Yeah, well, Sam's kind of in a downward spiral. [[00:01:35](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=95.12s)]
+*  Somehow he can see without evidence that Trump is genuinely evil. But what is really evil to Sam [[00:01:40](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=100.32s)]
+*  Harris is admitting that he is wrong. And this has been driving him crazy on COVID on Trump, [[00:01:48](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=108.32s)]
+*  probably some other things. But how does this seemingly moral intelligentsia justify evil, [[00:01:55](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=115.36s)]
+*  whether it's totalitarianism or pedophilia, they create in their heads an evil that is [[00:02:01](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=121.19999999999999s)]
+*  They don't even need evidence for that. So they can justify the cover up of a non functioning [[00:02:07](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=127.84s)]
+*  president, because they will say, well, the alternative is worse. Trump, he's evil. I don't [[00:02:17](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=137.28s)]
+*  have proof. I just know it. He is his words genuinely evil, though. That's something you [[00:02:23](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=143.2s)]
+*  would say about somebody you would murder. So it raises the obvious question, if you could justify [[00:02:28](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=148.88s)]
+*  a brain dead president in the context of a greater artificial evil, is there a limit [[00:02:33](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=153.92s)]
+*  to the evil that you can justify on your side? If I say no over there, it's worse. There is no [[00:02:39](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=159.76s)]
+*  limit that the Democrats or Sam Harris, Sam Harris could protect a pedophile in this framework. [[00:02:46](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=166.79999999999998s)]
+*  He famously said he didn't care if they found a dead body in Hunter Biden's basement didn't matter [[00:02:53](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=173.76s)]
+*  to him. So he set the bar to accept all evil. And I think this is it's it's it's a problem with ego. [[00:02:58](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=178.88s)]
+*  He cannot accept that he is wrong. This great I call it the greater evil hoax. It is allowed [[00:03:06](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=186.0s)]
+*  to hold costs a great leap forward. You can go down to smaller things like the Manson family, [[00:03:12](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=192.16s)]
+*  Jonestown, Rwanda, all of these things you can go to you can take COVID lockdowns, punishment of [[00:03:16](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=196.64s)]
+*  COVID descent, the post Floyd riots, all these things happen because they say the alternative [[00:03:22](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=202.64s)]
+*  is way worse. Yeah. And here's what we got and said, Harold, this is what gets me in this Alex [[00:03:27](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=207.92s)]
+*  Thompson book, anonymous cabinet secretary on the issue of immigration. If you had a 20 years [[00:03:32](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=212.39999999999998s)]
+*  younger Joe Biden, I think he would have been more on top of the issue. We all know 11 million [[00:03:36](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=216.72s)]
+*  legal immigrants made their way in on the Gitmo release of 11. Senator Warren said he had a [[00:03:40](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=220.16s)]
+*  conversation with Biden who was clearly not up to speed, wondered if Biden's aging issue had something [[00:03:45](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=225.83999999999997s)]
+*  to do with it on the economy. I've never seen a situation like this. A cabinet secretary with so [[00:03:50](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=230.88s)]
+*  few people having so much power, they didn't even tell Janet Yellen what they were doing. [[00:03:55](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=235.68s)]
+*  That's a problem. Those are issues that were affected. Yeah, they were. I don't just we've, [[00:04:00](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=240.32s)]
+*  as I've said many times, this is this is this story is not getting any better for those around [[00:04:05](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=245.44s)]
+*  President Biden, for his family or for him. But I'm not I'm not I'm not stuck here. I think [[00:04:10](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=250.24s)]
+*  they going forward is the midterm elections. And you can't win a midterm election by reminding [[00:04:16](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=256.32s)]
+*  people that they did the right thing by voting the other guy out. They knew that he was wrong on [[00:04:22](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=262.48s)]
+*  the border. They knew he was wrong on immigration. They knew he was wrong on things that were dear [[00:04:27](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=267.20000000000005s)]
+*  to them. I happen to think that for Republicans, I sometimes give advice to Democrats. If I were [[00:04:32](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=272.0s)]
+*  Republicans, I'd stop with him because at the end of the day, the midterm is going to be won. And [[00:04:37](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=277.20000000000005s)]
+*  usually, as we all know, the midterm is a referendum on the incumbent in the White House. [[00:04:42](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=282.64000000000004s)]
+*  The amount of whom the incumbent is Democrat or Republican, it's been that way for a long, long time. [[00:04:48](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=288.48s)]
+*  And I happen to think two things. One, if the tariffs don't produce more good manufacturing jobs, [[00:04:53](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=293.68s)]
+*  if the tariffs don't produce a great amount of revenue for the country, or if the tariffs don't [[00:05:00](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=300.16s)]
+*  produce new trade deals that are beneficial to the country, President Trump will have a lot of [[00:05:05](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=305.68s)]
+*  explaining to do. And so will so will Republicans. Secondarily, and I think equally important, if [[00:05:10](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=310.0s)]
+*  Putin is as strong as he is today, if he continues, I'm going to use President Trump's words, [[00:05:14](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=314.96s)]
+*  tag him along. If we're here having this conversation three to six months from now, [[00:05:19](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=319.44s)]
+*  Kayleigh, and or if she is continuing to make deals in South America and Africa and Europe and Asia [[00:05:23](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=323.91999999999996s)]
+*  because he thinks that we are weaker, then I think it doesn't matter if his name is Trump or Biden, [[00:05:30](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=330.24s)]
+*  whomever the incumbent is, it happens to be President Trump, his party will be disadvantaged [[00:05:35](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=335.28s)]
+*  as we head into the fall. The one thing you have working in your favor is that Democrats suck. [[00:05:39](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=339.28s)]
+*  And we have no real alternative. The things we've been trying to address around the table, [[00:05:44](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=344.08s)]
+*  there's an opening if we are willing to get the substance and the purpose and the reasons right. [[00:05:47](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=347.84s)]
+*  And then, and then you focus on the language. But an opening is there if Democrats are willing [[00:05:53](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=353.44s)]
+*  to take it. That's quite an admission. Democrats suck. Just you put it bluntly. You guys do too. [[00:05:58](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=358.24s)]
+*  Here's where I, we do too a little bit, at least only a little bit. Jesse, Democrats always said [[00:06:03](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=363.12s)]
+*  we can do two things at once. And they did. They did the January 6th committee and then they [[00:06:09](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=369.52s)]
+*  governed and they actually overperformed in the midterms by historical standards. So I don't [[00:06:13](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=373.03999999999996s)]
+*  believe this like leave this in the rear view. I believe in getting to the bottom of it. [[00:06:16](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=376.96s)]
+*  Yeah, we're going to have hearings. We had Comer on the other night and he said he's already [[00:06:20](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=380.96s)]
+*  subpoenaed several Biden insiders and he's going to bring them in and he's going to have them do [[00:06:24](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=384.64s)]
+*  depositions and then they'll go to hearings. And if they dodge the subpoena, then he can refer [[00:06:29](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=389.2s)]
+*  to the Department of Justice. I have a feeling Pam Bondi might take action against those people. [[00:06:35](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=395.36s)]
+*  But the Biden aides are admitting to crimes we charged them with years ago. [[00:06:40](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=400.72s)]
+*  This book tour is like the five, five years ago. How many times has Greg and I and everybody around [[00:06:45](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=405.52000000000004s)]
+*  the table said, if you call him Hitler, it justifies anything. They can get away with murder if he's [[00:06:52](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=412.48s)]
+*  Hitler. And they almost did, Harold. They almost did. If it wasn't for that big, beautiful chart, [[00:06:59](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=419.2s)]
+*  they lied to themselves about Trump being Hitler. They knew he wasn't Hitler. His whole agenda was [[00:07:06](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=426.0s)]
+*  stuff that the whole country agreed upon just a few years ago that men and women are different [[00:07:11](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=431.52s)]
+*  and China is a threat and the border should be secure. Those aren't radical ideas. That's [[00:07:16](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=436.4s)]
+*  everyone knows that stuff. They just said it so they could justify anything they could do to break [[00:07:22](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=442.32s)]
+*  the rules because he was a political threat. After Obama, they thought they had this coalition [[00:07:28](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=448.4s)]
+*  that was going to put the Republican Party out the pasture and they were going to be permanently [[00:07:34](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=454.23999999999995s)]
+*  in power. And Trump upset everything and then ripped their base right out from under him. [[00:07:39](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=459.52s)]
+*  And now they're just staring into the wilderness. The media is admitting we were right about [[00:07:44](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=464.47999999999996s)]
+*  everything. I mean, if we were right about the biggest story of this century, we were probably [[00:07:50](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=470.56s)]
+*  right about pretty much everything else. We were like the lab top and the lab leak and inflation [[00:07:55](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=475.36s)]
+*  and the border. They think this book's like great and they're going to sell a couple copies. [[00:08:02](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=482.64s)]
+*  Big whoop. This book is like the legacy media stabbing themselves in the heart and admitting [[00:08:07](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=487.84000000000003s)]
+*  Fox and everybody else on the right was right. We should do a book on things we were wrong on. [[00:08:14](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=494.72s)]
+*  I think they have the 25th amendment there for a reason. It was put in place in 1967. You can [[00:08:20](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=500.24s)]
+*  remove a president. They didn't use it. The Democrats and the media demanded they use it on Trump [[00:08:27](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=507.12s)]
+*  at the end of that term, you remember? But I'm going to steal a line from Abe Greenwald from [[00:08:33](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=513.76s)]
+*  Commentary Magazine who on their podcast always says, oh guys, it's worse than that. Because this [[00:08:38](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=518.72s)]
+*  is what my mind went to. I think I agree with everything that's been said so I won't rehash that. [[00:08:44](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=524.08s)]
+*  They're saying that the alternative was way worse. And it was. Because if you have a comatose [[00:08:48](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=528.3199999999999s)]
+*  president, the alternative is Kamala Harris. And that was way worse. Not only to the country at [[00:08:54](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=534.0799999999999s)]
+*  large which voted against her, but for the Democrats and for the Bidens in particular who [[00:09:01](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=541.28s)]
+*  believe she was so bad that he couldn't get out, that she couldn't win a primary on her own, [[00:09:07](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=547.8399999999999s)]
+*  that she wasn't going to be able to win even if he dropped out. And to this day, [[00:09:13](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=553.76s)]
+*  they are going to try to wait this out. And Harold's got a great point. I'm trying to remember [[00:09:17](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=557.12s)]
+*  a story where nothing got better with time. The story continues to get worse. So there's a thing. [[00:09:21](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=561.68s)]
+*  If you're going to have to eat crow, it's best to eat it early. Because you're going to have to eat [[00:09:28](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=568.72s)]
+*  it and it's going to taste like crap. My dad always says that too and he says eat it while it's hot. [[00:09:33](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=573.28s)]
+*  Exactly. It was better. Now they're eating cold crow. Cold crow, yum. Click here to subscribe to [[00:09:37](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=577.6s)]
+*  the Fox News YouTube page to catch our hottest interviews and most compelling analysis. You [[00:09:44](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=584.0s)]
+*  won't get it anywhere else. [[00:09:49](https://www.youtube.com/watch?v=VqzHnr8Pgg4&t=589.12s)]
