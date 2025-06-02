@@ -1,23 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3170s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 462
+Video Views: 482
 Video Rating: None
 Video Description: This past spring, Xaira Therapeutics launched with $1 billion in backing, a who's-who mashup of Silicon Valley and biopharma stars led by Marc Tessier-Lavigne in the C-suite, and a mission to develop AI-generated drugs. On this week's episode of the Business of Biotech, we're digging into the company's origin story and its place on the greater techbio landscape with one of the men bearing responsibility for Xaira's launch. Vik Bajaj is Managing Director at Foresite Capital Management (which led Xaira's funding) and Cofounder and CEO at Foresite Labs (which helped incubate it, along with ARCH Venture Partners). He takes us behind the scenes, and shares his worldview on the role of advanced computing technology in drug development.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

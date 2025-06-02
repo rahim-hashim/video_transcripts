@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2438s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery', 'Regulatory Affairs', 'Biotech Finance']
 Video Views: 108
 Video Rating: None
 Video Description: Multimodal approaches to the delivery of radiologically active compounds have created a fertile environment to for players in the space to put on a precision medicine clinic, so to speak. What’s more, Radiopharmaceuticals create a unique business opportunity given the closely-related and necessary companion diagnostic arena. On today’s episode of the Business of Biotech, recorded in San Francisco, we sit down with Dr. Mark Hoppin, CEO of Ratio Therapeutics, a company that’s well-positioned in the space with a fresh Series B and the foundation of a tunable radiotherapeutic that Dr. Hoppin says addresses the delivery, safety and efficacy challenges long associated with radiopharmaceuticals in the treatment of solid cancers. We also discuss how this mathemetician-turned biotech CEO has navigated the leadership of boards, employees, and investors on his journey.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at www.bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

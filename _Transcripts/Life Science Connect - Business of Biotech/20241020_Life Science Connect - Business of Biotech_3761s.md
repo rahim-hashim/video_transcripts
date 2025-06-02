@@ -1,22 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3761s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
-Video Views: 235
+Video Views: 237
 Video Rating: None
 Video Description: While the trend toward CB1 inhibition for obesity took a small hit with the release of Novo Nordisk's small molecule oral cannabinoid receptor (CB1) inverse agonist monlunabant last month, Skye Bioscience Chairman and CEO Punit Dhillon is shaking it off. He's confident that his company's antibody-based approach to CB1 inhibition will make a moot point of the neuropsychiatric side effects that put a damper on Novo's data. On this episode of the Business of Biotech, we're digging into the uber-hot business of weight loss therapeutics and going deep with Dhillon on why Skye's blood/brain barrier-obeying antibody might turn the GLP-1 and small molecule approaches to obesity on their ears. Over the course of the conversation, we explore the ins-and-outs of the business of metabolic health, a space that's churning out one blockbuster after another. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

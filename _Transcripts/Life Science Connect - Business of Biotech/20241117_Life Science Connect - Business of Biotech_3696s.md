@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3696s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
-Video Views: 198
+Video Views: 200
 Video Rating: None
 Video Description: In August of this year, the first TCR cell therapy to be approved for use in the U.S. was greenlighted by the FDA for patients with resectable or metastatic synovial sarcoma who have previously received chemotherapy. It marked the first new treatment for those patients in more than a decade; a win for those patients, and a win for Adrian Rawcliffe, who’s had a hand on the wheel at Adaptimmune, the therapy’s developer and manufacturer, since he joined the company as CFO in 2015. Today, Rawcliffe is CEO there, and on this episode of the Business of Biotech, we’re going to get to know him, why he’s all-in on cell therapies, and how he’s applying a solid track record in finance and business development to make good on the promise they offer. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

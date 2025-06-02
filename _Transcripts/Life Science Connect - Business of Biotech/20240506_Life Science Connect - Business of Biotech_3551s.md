@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3551s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery']
 Video Views: 272
 Video Rating: None
 Video Description: From San Francisco’s Silicon Valley to Tel Aviv’s Silicon Wadi, software business entrepreneur Yochi Slonim made a name for himself in tech hubs around the globe. Notably, he was co-founder of billion-dollar Mercury Interactive, which HP acquired for $4.5 billion, and previous to that a leader at Tecnomatix, which sold to UGS and was acquired by Siemens. Those big deals that came on the heels of several other Yochi Slonim software startups. But Slonim's not in software development anymore. Not for the software industry, anyway. He's now leveraging his tech chops to develop something with far more potential impact: drugs. On this epsiode of the Business of Biotech, we'll learn about his foray into biopharmaceuticals with Anima Biotech, a company he’s been building for the past ten years and which boasts pipeline partnerships with heavyweights Abbvie, Takeda, and Lilly.
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

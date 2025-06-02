@@ -1,25 +1,18 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2581s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 183
+Video Views: 185
 Video Rating: None
 Video Description: From the JP Morgan Healthcare Conference in San Francisco, Dr. Stefan Scherer shares insight from 3T Bioscience's transition from clinical medicine to drug development, and his experiences in biotech leadership along the way. Dr. Scherer discusses the balance between promising advances in T-cell therapy and the challenges associated with navigating a biotech from platform development to lead candidate status -- including staffing up for and funding the journey. Don't miss this episode, recorded in-person in San Francisco. 
-
 The 2025 BoB@JPM series is supported by Alston & Bird, whose national health care and life sciences practice has more than 100 attorneys actively involved and integrated across the full spectrum of legal disciplines including regulatory, compliance, public policy, transactional, corporate governance, securities, FDA, biotechnology, intellectual property, government investigations, and litigation practice areas. Learn more at www.alston.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

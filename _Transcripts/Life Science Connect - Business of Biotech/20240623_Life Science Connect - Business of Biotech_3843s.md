@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3843s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Regulatory Affairs']
-Video Views: 281
+Video Views: 283
 Video Rating: None
 Video Description: When we last caught up with Brian Culley, CEO of Lineage Cell Therapeutics, it was January, 2021. A pandemic was raging. His company was moving mountains to keep its OpRegen dry AMD clinical trial together, and did so despite lockdowns that kept a largely aged patient population from setting foot anywhere near a healthcare clinic. Lineage emerged stronger, signing a collaboration and license agreement with Roche and Genentech later that year. In May of this year, it doubled down on the commitment with a new services agreement with Genentech to support the OpRegen program. All this, while simultaneously progressing its OPC1 spinal cord injury program into Phase 2 and laying the clinical groundwork for programs in hearing loss, vision loss, and neurologic indications. On his long-overdue return to the Business of Biotech, Culley opens up on how the company addressed struggling programs, wrestled manufacturing control issues and delivery inefficiencies in its spinal cord program to the ground, and maintained control of its regulatory progress along the way.
-
 Register for Bioprocess Online’s Bio Expo Live, being held July 30th through August 1st . This inaugural expo is a fantastic opportunity for biopharma companies and contract manufacturers to evaluate the latest and greatest from the comfort of your desktop or mobile device. Conveniently, we’ve broken down the lineup into Upstream Solutions July 30th, Downstream Solutions July 31st, and Quality, Analytical, and Data Solutions August 1st. It’s absolutely free to register for this series of short, digestible, and interactive sessions -- just hit the links above to register for Bio Expo Live today!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

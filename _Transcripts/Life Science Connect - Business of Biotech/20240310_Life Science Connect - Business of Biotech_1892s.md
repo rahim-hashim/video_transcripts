@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 1892s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Regulatory Affairs']
 Video Views: 91
 Video Rating: None
 Video Description: Rob Williamson's mind and hands have shaped more than 20 biotech startups, leading some to IPO and landing others firmly in Big Bio through acquisition by companies like Merck. Hanging around as many successful exits as Williamson has seen, one might become an expert via osmosis. But Williamson isn't passive about honing his vision for progressive therapeutic dealmaking. He's an active leader, and for this episode of the Business of Biotech, he took a breather from a hectic agenda at the J.P. Morgan Healthcare Conference to share some introspection on the work he's done, the work he's doing at Triumvira with T-cell therapeutics in oncology, the big opportunities in cancer therapeutics, and what's coming next.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

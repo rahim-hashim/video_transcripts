@@ -1,20 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3163s
 Video Keywords: []
 Video Views: 270
 Video Rating: None
 Video Description: Vaxxinity CEO Mei Mei Hu, J.D. leads a company with some lofty ambitions. The democratization of healthcare, interplanetary colonization, and development of accessible therapeutic vaccines to serve and enable both. Those big-picture visions have helped the company establish itself as a pioneer of the "third biologics revolution." On this week's Business of Biotech podcast, Mei Mei joins me to share Vaxxinity's strategy, what "democratization" and "revolution" really_mean, why traditional vaccines and biologic therapies are converging to form the "third biologic revolution," and a whole lot more.
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/what-s-a-biologic-revolution-with-vaxxinity-s-mei-mei-hu-j-d-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3415s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Manufacturing']
-Video Views: 3520
+Video Views: 3523
 Video Rating: None
 Video Description: This episode of the Business of Biotech begins with a personal story about my dad and the standard of care in bladder cancer, before shifting to the work that Dr. Bobby Reddy and his team at ImmunityBio are doing to change that standard of care. They're painfully close. Dr. Reddy, Chief Medical Officer at ImmunityBio, gives us a long look behind the curtain at the commercial preparations the company is making as its lead Phase 3 candidate, Anktiva, nears the goal line in non-muscle invasive bladder cancer (NMIBC). From grassroots engagement with physicians and urologists to making a global press to share clinical results, Dr. Reddy offers plenty of insight into biopharma commercial readiness, and good reason to hope for nearly a million NMIBC patients in the U.S. alone. 
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

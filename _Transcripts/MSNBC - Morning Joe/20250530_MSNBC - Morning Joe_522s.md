@@ -1,0 +1,121 @@
+---
+Date Generated: May 31, 2025
+Transcription Model: whisper medium 20231117
+Length: 522s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 29552
+Video Rating: None
+Video Description: One year ago, a Manhattan jury convicted Donald Trump on 34 felony counts. New York Times reporter Jonah Bromwich, who was inside the courtroom each day, joins Morning Joe to mark the anniversary and discuss his new book 'Dragon on Centre Street: New York vs. Donald J. Trump.' 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #Trial #Politics
+---
+
+# ‘Tagged as a convicted felon’: What Trump’s trial revealed about power and accountability
+**MSNBC - Morning Joe:** [May 30, 2025](https://www.youtube.com/watch?v=MCkzCHtCB88)
+*  This was a trial by a conflicted judge who was corrupt. [[00:00:00](https://www.youtube.com/watch?v=MCkzCHtCB88&t=0.0s)]
+*  It's a rigged trial of disgrace. [[00:00:05](https://www.youtube.com/watch?v=MCkzCHtCB88&t=5.0s)]
+*  They wouldn't give us a venue change. [[00:00:08](https://www.youtube.com/watch?v=MCkzCHtCB88&t=8.0s)]
+*  We were at 5% or 6% in this district, in this area. [[00:00:10](https://www.youtube.com/watch?v=MCkzCHtCB88&t=10.0s)]
+*  This was a rigged, disgraceful trial. [[00:00:17](https://www.youtube.com/watch?v=MCkzCHtCB88&t=17.0s)]
+*  The real verdict is going to be November 5th by the people. [[00:00:21](https://www.youtube.com/watch?v=MCkzCHtCB88&t=21.0s)]
+*  That was Donald Trump exactly one year ago today. [[00:00:26](https://www.youtube.com/watch?v=MCkzCHtCB88&t=26.0s)]
+*  Just moments after a Manhattan jury convicted him of 34 felony counts of falsifying business records. [[00:00:30](https://www.youtube.com/watch?v=MCkzCHtCB88&t=30.0s)]
+*  Despite at one point being indicted on 91 felonies in Florida, Georgia, Washington, D.C., and New York, [[00:00:37](https://www.youtube.com/watch?v=MCkzCHtCB88&t=37.0s)]
+*  Trump only went to trial once, this time in his original home state. [[00:00:44](https://www.youtube.com/watch?v=MCkzCHtCB88&t=44.0s)]
+*  Judge Juan Marchand declined to sentence Trump before the election. [[00:00:49](https://www.youtube.com/watch?v=MCkzCHtCB88&t=49.0s)]
+*  He ultimately handed down a punishment of unconditional discharge in January, [[00:00:53](https://www.youtube.com/watch?v=MCkzCHtCB88&t=53.0s)]
+*  just days before the start of Trump's second term. [[00:00:58](https://www.youtube.com/watch?v=MCkzCHtCB88&t=58.0s)]
+*  Joining us now, criminal justice reporter for the New York Times, Jonah Bromwich. [[00:01:02](https://www.youtube.com/watch?v=MCkzCHtCB88&t=62.0s)]
+*  He was inside the courtroom for Trump's criminal trial and is now out with a new book that recounts it, [[00:01:06](https://www.youtube.com/watch?v=MCkzCHtCB88&t=66.0s)]
+*  titled Dragon on Center Street, New York versus Donald J. Trump. [[00:01:12](https://www.youtube.com/watch?v=MCkzCHtCB88&t=72.0s)]
+*  Jonah, congratulations on the book. [[00:01:17](https://www.youtube.com/watch?v=MCkzCHtCB88&t=77.0s)]
+*  Thank you for being here. [[00:01:19](https://www.youtube.com/watch?v=MCkzCHtCB88&t=79.0s)]
+*  We'll get to the politics of the trial in a moment, but let's just start with that day to day. [[00:01:21](https://www.youtube.com/watch?v=MCkzCHtCB88&t=81.0s)]
+*  The day to day of being in that courtroom, a courtroom that I as a Metro reporter used to cover. [[00:01:27](https://www.youtube.com/watch?v=MCkzCHtCB88&t=87.0s)]
+*  So many people have seen so much history, but none like this. [[00:01:33](https://www.youtube.com/watch?v=MCkzCHtCB88&t=93.0s)]
+*  This was a former and future president of the United States sitting on trial. [[00:01:37](https://www.youtube.com/watch?v=MCkzCHtCB88&t=97.0s)]
+*  It was just an unbelievable, extraordinary thing to go into this courtroom every day [[00:01:43](https://www.youtube.com/watch?v=MCkzCHtCB88&t=103.0s)]
+*  because Donald Trump, as we know, as we see every day now, is so used to being the center of attention in command of a room. [[00:01:48](https://www.youtube.com/watch?v=MCkzCHtCB88&t=108.0s)]
+*  And what we saw for seven weeks in Manhattan was really the opposite of that. [[00:01:54](https://www.youtube.com/watch?v=MCkzCHtCB88&t=114.0s)]
+*  He would go into this courtroom on 100 Center Street and he would sit down in the defendant's chair [[00:01:58](https://www.youtube.com/watch?v=MCkzCHtCB88&t=118.0s)]
+*  and the attention would not be on him. [[00:02:03](https://www.youtube.com/watch?v=MCkzCHtCB88&t=123.0s)]
+*  It would be on the prosecution making this complicated case, not just about hush money paid to one person or two people, [[00:02:05](https://www.youtube.com/watch?v=MCkzCHtCB88&t=125.0s)]
+*  but three people, and they said that that corrupted the 2016 election, [[00:02:11](https://www.youtube.com/watch?v=MCkzCHtCB88&t=131.0s)]
+*  the only election at that point, the time that the trial was running, that Donald Trump had ever won. [[00:02:16](https://www.youtube.com/watch?v=MCkzCHtCB88&t=136.0s)]
+*  So this was an extraordinary scene to see Donald Trump sit silently as his adversaries and allies came in [[00:02:20](https://www.youtube.com/watch?v=MCkzCHtCB88&t=140.0s)]
+*  and testified about that first election win. [[00:02:27](https://www.youtube.com/watch?v=MCkzCHtCB88&t=147.0s)]
+*  And it was kind of an amazing thing to behold and not something that many people got to see, unfortunately. [[00:02:30](https://www.youtube.com/watch?v=MCkzCHtCB88&t=150.0s)]
+*  I will say that feels like a lot longer ago than just one year. [[00:02:37](https://www.youtube.com/watch?v=MCkzCHtCB88&t=157.0s)]
+*  There's been so much history between now and then. [[00:02:42](https://www.youtube.com/watch?v=MCkzCHtCB88&t=162.0s)]
+*  It also is just striking, of course, there was a thought that that case and the three others, [[00:02:44](https://www.youtube.com/watch?v=MCkzCHtCB88&t=164.0s)]
+*  four, would imperil him, would finish off his political chances. [[00:02:48](https://www.youtube.com/watch?v=MCkzCHtCB88&t=168.0s)]
+*  But we heard Trump there, that sound we just played a second ago, [[00:02:52](https://www.youtube.com/watch?v=MCkzCHtCB88&t=172.0s)]
+*  saying that it would be the voters that November who would render ultimately the verdict. [[00:02:54](https://www.youtube.com/watch?v=MCkzCHtCB88&t=174.0s)]
+*  And that's what happened. He won. [[00:02:59](https://www.youtube.com/watch?v=MCkzCHtCB88&t=179.0s)]
+*  So while you were in there day in, day out, did you have that, was there a sense of a wait, if you will, [[00:03:02](https://www.youtube.com/watch?v=MCkzCHtCB88&t=182.0s)]
+*  about the election on the horizon that that was colored what you were seeing each and every day? [[00:03:08](https://www.youtube.com/watch?v=MCkzCHtCB88&t=188.0s)]
+*  You know, for me, not so much because I'm a legal reporter, I'm a courts reporter. [[00:03:13](https://www.youtube.com/watch?v=MCkzCHtCB88&t=193.0s)]
+*  I covered this trial as kind of an adversarial contest between the prosecution and the defense. [[00:03:18](https://www.youtube.com/watch?v=MCkzCHtCB88&t=198.0s)]
+*  And I was thinking a little less about the political consequences. [[00:03:22](https://www.youtube.com/watch?v=MCkzCHtCB88&t=202.0s)]
+*  But the people who were thinking, and I think a lot about the political consequences, were Trump and his team, [[00:03:26](https://www.youtube.com/watch?v=MCkzCHtCB88&t=206.0s)]
+*  including his defense team. [[00:03:31](https://www.youtube.com/watch?v=MCkzCHtCB88&t=211.0s)]
+*  And one of the bets that I think Donald Trump has made and certainly made during the 2024 election [[00:03:32](https://www.youtube.com/watch?v=MCkzCHtCB88&t=212.0s)]
+*  was that the political was paramount, that if he were only to win [[00:03:38](https://www.youtube.com/watch?v=MCkzCHtCB88&t=218.0s)]
+*  and put all his focus into winning the election, his legal problems would kind of fade away, would fall away. [[00:03:41](https://www.youtube.com/watch?v=MCkzCHtCB88&t=221.0s)]
+*  And that ended up happening. [[00:03:47](https://www.youtube.com/watch?v=MCkzCHtCB88&t=227.0s)]
+*  It was a gamble, but it was a gamble that worked. [[00:03:49](https://www.youtube.com/watch?v=MCkzCHtCB88&t=229.0s)]
+*  And it informed their strategy at this trial, as well as their strategy as they fought the federal indictments against him. [[00:03:51](https://www.youtube.com/watch?v=MCkzCHtCB88&t=231.0s)]
+*  Jonah, congrats on the book. [[00:03:57](https://www.youtube.com/watch?v=MCkzCHtCB88&t=237.0s)]
+*  You know, despite all of the legal trouble that Donald Trump faced in recent years, [[00:03:59](https://www.youtube.com/watch?v=MCkzCHtCB88&t=239.0s)]
+*  he really only was, we only saw accountability in some way in New York, his former home state. [[00:04:06](https://www.youtube.com/watch?v=MCkzCHtCB88&t=246.0s)]
+*  Can you talk to us a little bit about what that legacy means in the context of the district attorney who actually decided to bring that case? [[00:04:13](https://www.youtube.com/watch?v=MCkzCHtCB88&t=253.0s)]
+*  I mean, it's a very unusual situation. [[00:04:22](https://www.youtube.com/watch?v=MCkzCHtCB88&t=262.0s)]
+*  You have the first black Manhattan DA who really is camera shy, as you note. [[00:04:24](https://www.youtube.com/watch?v=MCkzCHtCB88&t=264.0s)]
+*  He's not someone who is known as an activist prosecutor, really doesn't even like the spotlight. [[00:04:30](https://www.youtube.com/watch?v=MCkzCHtCB88&t=270.0s)]
+*  And he ultimately is the one who ended up bringing this successful case against the former and now current president. [[00:04:37](https://www.youtube.com/watch?v=MCkzCHtCB88&t=277.0s)]
+*  Talk to us a little bit about how to think about that legacy. [[00:04:45](https://www.youtube.com/watch?v=MCkzCHtCB88&t=285.0s)]
+*  Sure. So what you have in this Manhattan case is this extraordinary collision of two separate but related movements. [[00:04:49](https://www.youtube.com/watch?v=MCkzCHtCB88&t=289.0s)]
+*  So Alvin Bragg, the Manhattan district attorney who brought this case, came up as part of this progressive prosecutor moment as people worth rethinking the criminal justice system, saying it was unfair, it was racist, it needed to be re-envisioned as something that could be more fair. [[00:04:56](https://www.youtube.com/watch?v=MCkzCHtCB88&t=296.0s)]
+*  And Alvin Bragg ran specifically on treating people who had committed petty crimes or were accused of petty crimes less harshly and going after people who had committed very serious crimes. [[00:05:11](https://www.youtube.com/watch?v=MCkzCHtCB88&t=311.0s)]
+*  And so I think that his thinking about the criminal justice system led him to this case against Donald Trump, which is again a more complicated case than is often acknowledged. [[00:05:23](https://www.youtube.com/watch?v=MCkzCHtCB88&t=323.0s)]
+*  It's not just about a single hush money payment, but is rather about the corruption of the 2016 election as Bragg and his prosecutors envisioned it. [[00:05:31](https://www.youtube.com/watch?v=MCkzCHtCB88&t=331.0s)]
+*  So this case really meant something there. [[00:05:40](https://www.youtube.com/watch?v=MCkzCHtCB88&t=340.0s)]
+*  But I think Trump is so dominant in our media atmosphere, on television, on social media, in a way that institutionalists like Bragg really haven't found themselves comfortable with. [[00:05:43](https://www.youtube.com/watch?v=MCkzCHtCB88&t=343.0s)]
+*  And so this collision didn't advantage Trump in the courtroom. [[00:05:53](https://www.youtube.com/watch?v=MCkzCHtCB88&t=353.0s)]
+*  He really struggled there. [[00:05:58](https://www.youtube.com/watch?v=MCkzCHtCB88&t=358.0s)]
+*  Obviously, he was convicted, but it did advantage him outside of it. [[00:05:59](https://www.youtube.com/watch?v=MCkzCHtCB88&t=359.0s)]
+*  And that's where we saw his most major win, his political win. [[00:06:02](https://www.youtube.com/watch?v=MCkzCHtCB88&t=362.0s)]
+*  And the reason that this has really seemed not to matter in the way that I think his liberal critics had hoped it would. [[00:06:05](https://www.youtube.com/watch?v=MCkzCHtCB88&t=365.0s)]
+*  Jonah, hi, it's Peter Baker. [[00:06:12](https://www.youtube.com/watch?v=MCkzCHtCB88&t=372.0s)]
+*  Thank you for doing this. [[00:06:14](https://www.youtube.com/watch?v=MCkzCHtCB88&t=374.0s)]
+*  Congratulations on the book. [[00:06:15](https://www.youtube.com/watch?v=MCkzCHtCB88&t=375.0s)]
+*  Very excited about it. [[00:06:16](https://www.youtube.com/watch?v=MCkzCHtCB88&t=376.0s)]
+*  Talk a little bit about the notion of accountability, right? [[00:06:18](https://www.youtube.com/watch?v=MCkzCHtCB88&t=378.0s)]
+*  The judge in the end gives him a sentence, let's say, that wouldn't be very consequential other than the fact that he was convicted, right? [[00:06:22](https://www.youtube.com/watch?v=MCkzCHtCB88&t=382.0s)]
+*  So if in fact, you know, you don't pay a price, you don't have a penalty, you don't have a fine, you don't go to prison, you don't have a probationary, you know, status. [[00:06:30](https://www.youtube.com/watch?v=MCkzCHtCB88&t=390.0s)]
+*  If none of these things apply, then what does that say about the trial in the first place? [[00:06:39](https://www.youtube.com/watch?v=MCkzCHtCB88&t=399.0s)]
+*  I mean, why have a trial if you're going to convict but then not have a punishment at the end of the day? [[00:06:45](https://www.youtube.com/watch?v=MCkzCHtCB88&t=405.0s)]
+*  Or is the fact of the conviction enough of a punishment in a case like this? [[00:06:52](https://www.youtube.com/watch?v=MCkzCHtCB88&t=412.0s)]
+*  Yeah, no, I think this is a really important question. [[00:06:56](https://www.youtube.com/watch?v=MCkzCHtCB88&t=416.0s)]
+*  I see the trial is really a hinge between Trump 1 and Trump 2 in the sense that during Trump 1, there were so many investigations into Trump. [[00:06:59](https://www.youtube.com/watch?v=MCkzCHtCB88&t=419.0s)]
+*  And I really think his critics had hoped that they would find a legal solution to a political problem. [[00:07:08](https://www.youtube.com/watch?v=MCkzCHtCB88&t=428.0s)]
+*  So first, Mueller and then the Manhattan DA's investigation, Cy Vance, originally running it. [[00:07:13](https://www.youtube.com/watch?v=MCkzCHtCB88&t=433.0s)]
+*  And so then once Trump was out of office, those critics got their wish in the sense that there was a trial. [[00:07:18](https://www.youtube.com/watch?v=MCkzCHtCB88&t=438.0s)]
+*  And one of the things that I saw, certainly from a lot of the commentary, a lot of the discussion around this, was that people thought they didn't want necessarily to see justice carried out per se. [[00:07:24](https://www.youtube.com/watch?v=MCkzCHtCB88&t=444.0s)]
+*  What they wanted was a legal problem that would prove insurmountable for Donald Trump, such to erase him from the map. [[00:07:34](https://www.youtube.com/watch?v=MCkzCHtCB88&t=454.0s)]
+*  And I think it says a lot about where we are and where the rule of law is, both that that didn't work, that he was kind of tagged as a convicted felon, but that didn't seem to matter to voters as much as people might have thought. [[00:07:40](https://www.youtube.com/watch?v=MCkzCHtCB88&t=460.0s)]
+*  And now what we're seeing from the rule of law in his second term and his complete comfort, seemingly, with attacking it straight on, with making really aggressive movements, with being an energetic executive, [[00:07:52](https://www.youtube.com/watch?v=MCkzCHtCB88&t=472.0s)]
+*  and daring the courts to keep up. [[00:08:03](https://www.youtube.com/watch?v=MCkzCHtCB88&t=483.0s)]
+*  Wow. The new book, Dragon on Center Street, New York versus Donald J. Trump, is on sale now. [[00:08:06](https://www.youtube.com/watch?v=MCkzCHtCB88&t=486.0s)]
+*  Author and New York Times criminal justice reporter Jonah Bromwich. [[00:08:12](https://www.youtube.com/watch?v=MCkzCHtCB88&t=492.0s)]
+*  Thank you. [[00:08:33](https://www.youtube.com/watch?v=MCkzCHtCB88&t=513.0s)]

@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3487s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery']
 Video Views: 650
 Video Rating: None
 Video Description: Built on the back of hepatocyte growth factor discoveries by Harvard Drs. Reza Dana and Sunil Chauhan, Claris Bio is rewriting the ophthalmology rulebook. CEO Clarke Atwell acknowledges that it's not the first to bring topically-administered biologic therapies to the front of the eye, but if successful in the clinic, its Neurotrophic Keratitis candidate will vastly improve the patient experience. It will also prove unequivocally that there's biotech business value in front-of-the-eye therapeutics, as opposed to just parenterally-administered back-of-the-eye biologics. On this episode of the Business of Biotech podcast, Atwell shares the stories of his career focus on the cornea, Claris' founding and funding progress, and why there's big, multi-indication opportunity for the company's novel HGF therapeutics in corneal diseases.
-
 Register for Bioprocess Online’s Bio Expo Live, being held July 30th through August 1st . This inaugural expo is a fantastic opportunity for biopharma companies and contract manufacturers to evaluate the latest and greatest from the comfort of your desktop or mobile device. Conveniently, we’ve broken down the lineup into Upstream Solutions July 30th, Downstream Solutions July 31st, and Quality, Analytical, and Data Solutions August 1st. It’s absolutely free to register for this series of short, digestible, and interactive sessions -- just hit the links above to register for Bio Expo Live today!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

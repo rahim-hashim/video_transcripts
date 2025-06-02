@@ -1,29 +1,20 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3820s
 Video Keywords: ['Bioprocess Manufacturing Controls', 'Biotech Regulatory', 'Biotech Finance', 'Business of Biotech', 'Bioprocess Online', 'Cytiva', 'Biotech', 'Biopharma']
 Video Views: 216
 Video Rating: None
 Video Description: During his leadership of the President's Emergency Plan for AIDS Relief during the George W. Bush administration, Dr. Mark Dybul, M.D. shepherded programs credited with saving more than 25 million lives. For many years after that public service drew to a close, he continued the mission as executive director of The Global Fund to Fight AIDS, Tuberculosis, and Malaria--working in lockstep with not only the world's leading scientists, but the likes of Bono and Sir Elton John along the way. 
-
 But, it wasn't all glamor and heroics. Dybul had to influence some decidedly conservative global political machines on the importance of addressing the AIDS epidemic, particularly, at the time, in Africa. He had to fight through federal and global bureaucracies for every dime of funding earned. His leadership required resolve in the face of complexity and adversity. 
-
 Nothing could have better prepared him for biotech leadership, which has dealt Dr. Dybul an unfair share of unique adversity that's, quite frankly, the stuff of a Dateline NBC episode. On this episode of the Business of Biotech podcast, Dybul, CEO at Renovaro BioSciences, gets introspective on leadership forged in the fires of public service and battle-tested in the private sector.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at https://www.bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/public-sector-forged-private-sector-tested-with-renovaro-biosciences-mark-dybul-m-d-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

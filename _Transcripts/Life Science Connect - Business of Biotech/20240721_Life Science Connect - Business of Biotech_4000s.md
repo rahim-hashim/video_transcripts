@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4000s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Manufacturing']
 Video Views: 381
 Video Rating: None
 Video Description: While organic chemistry lectures caused many of his peers at NYU to wring their hands, gnash their teeth, and question life choices, then-19-year-old Enrique Diloné ate those classes for lunch. They inspired him to earn a Seton Hall Ph.D. in chemistry and to go to work as a big bio research scientist. Along the way, Dr. Diloné got bit by the biotech business bug. It wasn’t easy. A whole bunch of MBA and executive learning programs at Rutgers, MIT, and Harvard, and many years of experience later, he’s Chief Technology Officer at ImmunityBio, which he joined in advance of the company winning FDA approval of ANKTIVA, its IL-15 Receptor Agonist for BCG-Unresponsive Non-Muscle Invasive Bladder Cancer, in April '24. On this episode of the Business of Biotech, we follow Dr. Diloné’s path from the bench to the boardroom, and learn how valuable that rare bridge between CMC and the executive offices really is. 
-
 Register for Bioprocess Online’s Bio Expo Live, being held July 30th through August 1st . This inaugural expo is a fantastic opportunity for biopharma companies and contract manufacturers to evaluate the latest and greatest from the comfort of your desktop or mobile device. Conveniently, we’ve broken down the lineup into Upstream Solutions July 30th, Downstream Solutions July 31st, and Quality, Analytical, and Data Solutions August 1st. It’s absolutely free to register for this series of short, digestible, and interactive sessions -- just hit the links above to register for Bio Expo Live today!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

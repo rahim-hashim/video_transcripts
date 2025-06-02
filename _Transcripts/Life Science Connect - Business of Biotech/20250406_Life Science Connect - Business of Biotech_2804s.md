@@ -1,21 +1,16 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2804s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech', 'finance', 'chinesebiotech']
-Video Views: 160
+Video Views: 165
 Video Rating: None
 Video Description: Today we're talking life sciences investment trends and risks with David Sans, an investment banker with an academic background in chemical engineering and molecular modeling, and a professional background that began in Big Pharma and shifted to investing over 15 years ago. This Business of Biotech podcast conversation covers patent cliff implications, hot therapeutic areas and delivery mechanisms, geopolitical risks, alternative funding strategies, and private equity's move upstream to pre-clinical and pre-revenue biotech.
-
 Subscribe to the podcast on your preferred platform and watch the videocast at lifescienceleader.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb
@@ -337,25 +332,36 @@ YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28
 *  I think that is very important for CEOs to understand where they are, understand what is the landscape and have a reality check on their compatibles on the valuations. [[00:43:23](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2603.0s)]
 *  And I think that this will be more and more the case that we will need to look at the compatibles. [[00:43:33](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2613.0s)]
 *  We need to look at the valuation and for companies to have a reality check in terms of where to continue investing and where to, when to give up, when to basically not abandon an asset, but to have the courage not to continue with a certain set of standards. [[00:43:42](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2622.0s)]
-*  Whether it be a certain asset or certain type of therapeutic areas. [[00:44:03](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2643.0s)]
+*  But to have certain assets or certain type of therapeutic areas. [[00:44:03](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2643.0s)]
 *  Your question was mostly about what type of structures to avoid. [[00:44:07](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2647.0s)]
-*  I think that an early stage, you want to avoid any type of debt. [[00:44:12](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2652.0s)]
-*  In other words, debt most of the times becomes a spiral death. [[00:44:18](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2658.0s)]
-*  And if you are an early stage company, phase one, phase two, you will have opportunities to issue debt. [[00:44:23](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2663.0s)]
-*  But then the question is how are we going to repay six months, nine months, twelve months after the debt has been issued? [[00:44:35](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2675.0s)]
-*  There are instruments that we call that a spiral. [[00:44:42](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2682.0s)]
-*  That is the last resource. [[00:44:47](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2687.0s)]
-*  But I would say this is probably where you need to be more careful. [[00:44:50](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2690.0s)]
-*  Excellent. [[00:44:54](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2694.0s)]
-*  David, it's been a real pleasure speaking with you. [[00:44:56](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2696.0s)]
-*  Are there any final thoughts that you would like to share that perhaps you think are important for our listeners to think about and that maybe I haven't asked you about? [[00:44:58](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2698.0s)]
-*  Yes, I think that moving forward, I think that what we're going to see is more collaboration among different banks. [[00:45:08](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2708.0s)]
-*  I think that we see in the financial industry where we collaborate and you see more and more transactions where you have two, three, four, even five banks involved. [[00:45:16](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2716.0s)]
-*  So I think that moving forward, we are going to see more and more of these collaborative type of efforts, more than sharp elbows to basically hold on to your own transaction. [[00:45:26](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2726.0s)]
-*  I think that we all benefit from working together. [[00:45:41](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2741.0s)]
-*  The more collaborative we are, the more we can do well for our clients, for investors, and we can do more transactions. [[00:45:45](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2745.0s)]
-*  So I look forward to 2025 to do more collaborative type of transactions and to meet as many new technologies as we can. [[00:45:54](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2754.0s)]
-*  That's David Sands, head of healthcare and life sciences investment banking at D Borough Capital. [[00:46:05](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2765.0s)]
-*  I'm Ben Comer, and you've just listened to the business of biotech. [[00:46:11](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2771.0s)]
-*  Find us and subscribe anywhere you listen to podcasts and be sure to check out new weekly video casts of these conversations every Monday under the listen and watch tab at LifeScienceLeader.com. [[00:46:15](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2775.0s)]
-*  We'll see you next week and thank you for listening. [[00:46:27](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2787.0s)]
+*  I think that an early stage you want to avoid every type of debt. [[00:44:12](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2652.0s)]
+*  In other words, a debt most of the times becomes a spike death. [[00:44:18](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2658.0s)]
+*  And if you are an early stage company, phase one, phase two, you will have opportunities [[00:44:23](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2663.0s)]
+*  to issue debt. [[00:44:34](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2674.12s)]
+*  But then the question is how are we going to repay six months, nine months, 12 months [[00:44:35](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2675.48s)]
+*  after the debt has been issued? [[00:44:40](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2680.12s)]
+*  There are instruments that we call that a spiral. [[00:44:43](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2683.48s)]
+*  That is the last resource. [[00:44:47](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2687.32s)]
+*  But I would say this is probably where you need to be more careful. [[00:44:51](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2691.24s)]
+*  Excellent. [[00:44:54](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2694.8399999999997s)]
+*  David, it's been a real pleasure speaking with you. [[00:44:55](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2695.8399999999997s)]
+*  Are there any final thoughts that you would like to share that perhaps you think are important [[00:44:58](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2698.9199999999996s)]
+*  for our listeners to think about and that maybe I haven't asked you about? [[00:45:04](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2704.6s)]
+*  Yes, I think that moving forward, I think that what we're going to see is more collaboration [[00:45:07](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2707.9599999999996s)]
+*  among different banks. [[00:45:14](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2714.64s)]
+*  I think that we see in the financial industry where we collaborate and you see more and [[00:45:17](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2717.2s)]
+*  more transactions where you have two, three, four, even five banks involved. [[00:45:21](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2721.6s)]
+*  So I think that moving forward, we are going to see more and more of these collaborative [[00:45:26](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2726.7200000000003s)]
+*  type of efforts, more than sharp elbows to basically hold on to your own transaction. [[00:45:34](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2734.08s)]
+*  I think that we all benefit from working together. [[00:45:41](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2741.84s)]
+*  The more collaborative we are, the more we can do well for our clients, for our investors, [[00:45:45](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2745.48s)]
+*  we can do more transactions. [[00:45:52](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2752.84s)]
+*  So I look forward to 2025 to do more collaborative type of transactions and to meet as many new [[00:45:54](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2754.28s)]
+*  technologies as we can. [[00:46:03](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2763.48s)]
+*  That's David Sands, head of healthcare and life sciences investment banking at dBoral [[00:46:06](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2766.56s)]
+*  Capital. [[00:46:11](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2771.2400000000002s)]
+*  I've been Comer and you've just listened to the business of biotech. [[00:46:12](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2772.24s)]
+*  Find us and subscribe anywhere you listen to podcasts and be sure to check out new weekly [[00:46:15](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2775.7599999999998s)]
+*  video casts of these conversations every Monday under the listen and watch tab at life science [[00:46:20](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2780.2799999999997s)]
+*  leader.com. [[00:46:26](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2786.3599999999997s)]
+*  We'll see you next week and thank you for listening. [[00:46:27](https://www.youtube.com/watch?v=dy-IxnrWY2M&t=2787.3599999999997s)]

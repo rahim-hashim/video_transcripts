@@ -65,6 +65,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLewmWXyJAGJGTh1O76Aqcazg8oEy9k3Ej': 'The Chris Hedges Report',
   'https://www.youtube.com/playlist?list=PLYa964dzJh1J545AyFlLepb2Prert15te': 'The Tucker Carlson Show',
   'https://www.youtube.com/playlist?list=PLPWmUi7FxO4-xBWMrQfjI11vFqFgZN5WC': 'Pod Save the World',
+  'https://www.youtube.com/playlist?list=PLOOwEPgFWm_NHcQd9aCi5JXWASHO_n5uR': 'Pod Save America',
   'https://www.youtube.com/playlist?list=PLq24DlPvfmfpToRu177SwhggAiI8J3dh_': 'Piers Morgan - Israel Palestine',
   'https://www.youtube.com/playlist?list=PLq24DlPvfmfrmuUKXe1yXhiwPhU7TP8Yx': 'Piers Morgan - Big Debates',
   'https://www.youtube.com/playlist?list=PLxQKTUDVHEbSTt5cXhMZtWl5tyR7H5ofT': 'The Megyn Kelly Show',
@@ -78,18 +79,21 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLsnSWTCV9wc5nV9PVgeDQ_zFar8jN0nve': 'Dropsite News',
   'https://www.youtube.com/playlist?list=PLS_48r7yuHnspwTJpNignae0cSY_b1cL5': 'Glenn Greenwald - System Update',
   'https://www.youtube.com/playlist?list=PL1JULMhsLAypfSsBputK5dah9WKASIo-v': 'Flagrant - Andrew Schulz',
+  'https://www.youtube.com/playlist?list=PLHEvpbppx_4oee80gW8A6aMXjKsq5-ECH': 'The Electronic Intifada',
   # Shawn Fantasy Football team
   # 'https://www.youtube.com/playlist?list=PLI4CojGEzLMfaMTaQdfoTg0Bu7N_Gf_gB': 'FantasyPros - Dynshams Podcast'
   # Biotechnology
   'https://www.youtube.com/playlist?list=PLc72brZeU9-qT6WrU2JleEIGM-HgQFt9k': 'Beyond Biotech',
   'https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb': 'Life Science Connect - Business of Biotech',
   'https://www.youtube.com/playlist?list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ': 'The a16z Podcast',
-  'https://www.youtube.com/playlist?list=PLR132NlB9VMCZQ3p-6sgZo1BOtVvn_Wf_': 'The RTW Podcast'
-
+  'https://www.youtube.com/playlist?list=PLR132NlB9VMCZQ3p-6sgZo1BOtVvn_Wf_': 'The RTW Podcast',
+  'https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU': 'Moonshots - Peter Diamandis'
 }
 
 podcast_channel_names = {
   'https://www.youtube.com/@RalphNaderRadioHour/videos': 'Ralph Nader Radio Hour',
   'https://www.youtube.com/@breakingpoints/videos':      'Breaking Points',
   'https://www.youtube.com/@breitbartnews92/videos':     'Breitbart News',
+  'https://www.youtube.com/@judgingfreedom/videos':      'Andrew Napolitano - Judging Freedom',
+  'https://www.youtube.com/@CurrentAffairsMag/videos' :  'Current Affairs - Nathan Robinson',
 }

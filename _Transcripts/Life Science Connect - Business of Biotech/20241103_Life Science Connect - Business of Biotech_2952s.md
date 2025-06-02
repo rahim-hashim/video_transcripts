@@ -1,27 +1,19 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2952s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 167
 Video Rating: None
 Video Description: Becoming a biotech CEO wasn't on Paul Romness' bingo card. He'd forged his place in the biopharma industry as a foremost public and policy affairs expert. Thirteen years at J&J, more than 5 at Amgen, and half a dozen at Boehringer Ingelheim had earned him the right to coast into a consulting gig that would enable him to finish out his career on his terms. 
-
 Then his daughter's best friend Olivia, a teenage girl and neighbor he'd watched grow up, was diagnosed with osteosarcoma. 
-
 The ensuing journey, now in its seventh year, put Romness in the position of CEO and Chair of OS Therapies. It's a company formed through a combination of circumstance, determination, and ingenuity that's now shepherding its HER2 and tunable ADC therapeutics through mid-late-stage clinical trials. On this episode of the Business of Biotech, we dig into the building blocks of an unanticipated biotech startup. We'll learn how Romness leaned into his personal and professional communities to build a company that's now addressing unmet patient need in osteosarcoma and cancers of the breast, esophagus, lung, and pancreas. And we'll get an update on Olivia, who's now in med school at Columbia University and serving on the OS Therapies Board of Directors. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

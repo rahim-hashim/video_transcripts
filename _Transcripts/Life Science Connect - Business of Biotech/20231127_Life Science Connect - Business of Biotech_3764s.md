@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3764s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Cytiva', 'Biotech', 'Biopharma', 'Biotech Finance']
-Video Views: 528
+Video Views: 529
 Video Rating: None
 Video Description: When it comes to landing and executing strategic partnerships, Regeneron puts on a clinic. Partnerships, acquisitions, licensing agreements, and other deals large and small with Intellia, Decibel Therapeutics, BARDA, Alnylam, and Sonoma Therapeutics are just a sampling of those making news this year alone. The man behind much of that dealmaking is none other than Nouhad Husseini, SVP and Head of Business Development and Corporate Strategy at Regeneron. He’s a guy who’s deftly married the art and science of biopharma dealmaking, and on this episode of the Business of Biotech podcast, we’re getting introspective with this legend in the making, who our friend Allan Shaw says “turns the deals he touches into gold.” Strategic dealmaking is central to the biotech business, and today’s episode offers a master class.
-
----
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/biotech-dealmaking-with-regeneron-s-nouhad-husseini-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

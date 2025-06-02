@@ -1,23 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3245s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 436
+Video Views: 438
 Video Rating: None
 Video Description: Dr. Tal Zaks is back, along with Advancing RNA's Anna Rose Welch, for part 2 of "Story Time With Tal." On this week's episode, we turn from his time navigating medical affairs as CMO at Moderna during the COVID 19 pandemic to learn about his latest venture, an mRNA startup called Exsilio Therapeutics. We cover the foundational aspects of the company's start, from the science it's developing, who's been recruited to the team, and how Exsilio charted its way to an $82 million Series A co-led by Novartis Venture Fund and Delos Capital, with participation from OrbiMed, Insight Partners, J.P. Morgan Life Sciences Private Capital, CRISPR Therapeutics, Innovation Endeavors, Invus, Arc Ventures, and Deep Insight.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

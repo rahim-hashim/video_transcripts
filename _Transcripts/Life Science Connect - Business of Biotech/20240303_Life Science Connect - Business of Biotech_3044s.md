@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3044s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery', 'Biotech Finance', 'Upstream Cell Line Development']
 Video Views: 190
 Video Rating: None
 Video Description: In biotech, when "one of these things doesn't look like the other one," it can be a blessing or a curse. On one hand, scientific novelty is praised and rewarded. On the other, unfamiliarity breeds skepticism from the investment community. Brian Finrow, J.D. embraces that reality and the challenges that come with it. Despite an approach to developing antibodies and other biologics that looks decidedly different--they're developed from spirulina cell lines and, in some cases, designed for oral administration (gasp!)--Lumen Biosciences has won hard-fought funding from some nontraditional sources to continue its mission to democratize biologics. Finrow is Co-Founder & CEO at Lumen, and now a two-time guest of the Business of Biotech. He's a Harvard J.D., but don't hold that against him. He's one of the most approachable and transparent founders we've enjoyed the pleasure of hosting, and he didn't disappoint when we sat down for this talk in San Francisco.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

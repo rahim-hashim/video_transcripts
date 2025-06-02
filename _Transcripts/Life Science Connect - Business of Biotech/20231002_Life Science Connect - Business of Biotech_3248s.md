@@ -1,24 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3248s
 Video Keywords: ['Biologics', 'Biotech', 'Cytiva', 'Bioprocess Online', 'Clinical Trials', 'Business of Biotech']
-Video Views: 195
+Video Views: 196
 Video Rating: None
 Video Description: Don't be offended by the title of today's Business of Biotech podcast. Dr. Quin Wills' application of what's become known as "Wheaton's Law" (look it up) is central to the ambitious goals his company, Ochre Bio, is pursuing: pioneering the value of computational biology in large mol discovery and development, putting an end to the global liver disease epidemic, and changing the costly, high-risk approach to clinical trials. On this week's episode, Dr. Wills and I explore how those goals are being addressed despite the challenges they present, and how the company's three guiding principles, don't be a dick being one of them, align the Ochre team with the mission at hand.
-
----
-
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/don-t-be-a-d-k-with-ochre-bio-s-dr-quin-wills-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

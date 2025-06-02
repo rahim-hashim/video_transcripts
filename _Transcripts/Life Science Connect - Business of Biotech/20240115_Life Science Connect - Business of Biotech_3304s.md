@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3304s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Biotech Discovery', 'AAV Viral Vector']
-Video Views: 1195
+Video Views: 1200
 Video Rating: None
 Video Description: We spend a lot of time talking with our guests about building biotech companies. That’s true of this episode too, but today we’re taking a step further with John Leonard, M.D., longtime CEO at Intellia Therapeutics. In addition to how he’s built late-clinical stage Intellia, Dr. Leonard shares the foundational elements of a biotech community, particularly around rapidly-advancing technologies such as CRISPR, and what biotech ecosystems offer emerging biotechs in terms of resources, intellectual property, and support. Turns out that despite his proximity, Boston isn’t the prerequisite it used to be. This is an instructive conversation with an industry vet who’s happy to share the wealth of his knowledge.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/building-a-biotech-hub-with-intellia-therapeutics-john-leonard-m-d-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

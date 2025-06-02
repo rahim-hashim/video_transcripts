@@ -1,25 +1,18 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4123s
 Video Keywords: ['Bioprocess Manufacturing Controls', 'Biotech Finance', 'Business of Biotech', 'Bioprocess Online', 'Cytiva', 'Biotech', 'Biopharma']
 Video Views: 146
 Video Rating: None
 Video Description: On this week's episode of the Business of Biotech, we welcome two extraordinary guests - Dr. Neela Patel, a molecular biologist-turned-Chief Business Officer, and Dr. John Mulligan, an academic-turned-founder of newly-formed Bonum Therapeutics. Together, Neela and John will pull back the curtain on Bonum's transition from its predecessor, Good Therapeutics, which was fueled by a high-profile asset sale to Roche. The asset, a PD-1-regulated IL-2 program, was a product of a platform that the new Bonum retains, and its sale to Roche was orchestrated by Dr. Patel. You've seen the terms of the deal in the news, but on this episode, you'll get the inside scoop on how the deal was done, how it set Bonum up for future platform-driven success, and how these two leaders retained its IP and its people through a fast, unique, and disruptive acquisition.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at https://www.bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/il-platform-profits-with-bonum-s-drs-john-mulligan-and-neela-patel-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

@@ -1,25 +1,18 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3974s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Cytiva', 'Biotech', 'Biopharma', 'Bioprocess Security Supply', 'Biotech Regulatory Affairs', 'Bioprocess Logistics', 'Biotech Discovery']
-Video Views: 127
+Video Views: 128
 Video Rating: None
 Video Description: Merry Christmas, Business of Biotechers! On this Christmas Day release, we’re taking a trip to the land down under to visit with Dr. Sam Costello, managing director and co-founder at Adelaide, Australia-based BiomeBank. We covered some ground on this one, most notably the unique path BiomeBank took to chalking up the first donor-derived microbiome therapeutic approval of its kind, anywhere in the world. In a segment of biotech that’s been particularly battered of late, that’s a big, big win. We also talked about what’s behind Australia’s foray onto the global biotech scene, the public/private partnerships supporting that growth, why U.S. biotechs, in particular, are flocking there to conduct clinical trials, and whether Foster’s is really Australian for beer. Don’t miss it!
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at https://www.bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/biotech-down-under-with-biomebank-s-dr-sam-costello-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

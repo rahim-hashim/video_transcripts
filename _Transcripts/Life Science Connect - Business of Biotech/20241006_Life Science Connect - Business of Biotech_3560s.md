@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3560s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
-Video Views: 1482
+Video Views: 1490
 Video Rating: None
 Video Description: Mike Kelly faced a self-reckoning before he took the job as CEO at NervGen, a company developing peptide therapeutics targeted specifically at central nervous system repair. The veteran of life sciences business development knew the ropes of the biotech C-suite. He’d been a CEO twice before. He knew how to launch drugs, having seen commercial success several times before. He even knew how to sell them—he’d started his career carrying the bag for TAP Pharmaceuticals. But all he knew about peptides was that they were challenging to manufacture consistently and purify. And he knew that manufacturing is where a lot of biopharma companies fall down. On this episode of the Business of Biotech, we learn how Kelly reconciled that truth, and how NervGen is now leading the way for peptide therapeutics in spinal cord injury and beyond. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

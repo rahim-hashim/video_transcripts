@@ -1,20 +1,15 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3060s
 Video Keywords: []
 Video Views: 123
 Video Rating: None
 Video Description: As biotech capital markets continue to restrict access to funding for emerging biopharmas, you might be surprised by how many federal dollars get left on the negotiating table. To that end, James Thomas Coates, Ph.D. and his team at Decisive Point have carved out a niche in the venture capital space. The firm specializes in helping biotech startups realize direct routes to millions of dollars in federal funding from a host of not-so-intuitive federal institutions—NASA, and the US Navy, Air Force, and Army, for instance—and helping them optimize funding from more obvious federal agencies such as DARPA and the NIH. On this episode of the Business of Biotech, Dr. Coates shares strategies and resources for tapping into biopharma capital that's ripe for the taking.
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/oligonucleotide-opportunities-in-dmd-with-pepgen-s-james-mcarthur-ph-d-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

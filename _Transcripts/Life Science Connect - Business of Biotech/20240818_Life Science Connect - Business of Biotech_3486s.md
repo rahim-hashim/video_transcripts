@@ -1,17 +1,14 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3486s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 123
 Video Rating: None
 Video Description: For all the drug commercialization successes he's played a leading hand in during his tenures at GSK, Genentech, and ImClone—Androderm, Augmentin, necitumumab, and Erbitux among them—Michael Bailey concedes that he's likely better known for his failures. After hearing his stories on this episode of the Business of Biotech, I tend to disagree. While he offers a transparent and instructive look at the failures themselves, I'd contend it's what he's done with those setbacks that defines his biopharma and biotech leadership legacy. Today, Bailey is CEO at Aveo Oncology, a company that saw its own set of challenges during the clinical development of now-commercial FOTIVDA (tivozanib) and ficlatuzumab. Tune in for Bailey's straight-shooting insight on how to turn biotech setbacks on their ear.
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

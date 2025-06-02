@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3346s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance']
 Video Views: 161
 Video Rating: None
 Video Description: If there's anyone qualified to analyze an early-stage therapeutic technology and place bets with other people's money, it's scientist-turned-venture capitalist Jonathan Behr, Ph.D. He built a distinguished venture capital career on the back of an MIT Ph.D. in biological engineering, having co-founded no fewer than 7 life sciences companies, served on or observed the boards of at least 17, and led investments at Pure Tech Ventures, the JDRF T1D Fund, SV Health investors, and now, the Dementia Discovery Fund, where he's a partner. Drawing from all that experience, this episode of the Business of Biotech delivers a trove of knowledge on biotech corporate finance and entrepreneurship, as well as the interplay between business strategy and influences like regulatory and scientific trends. We focus on the spirited neurodegenerative space, where case studies in investment and regulatory success and missteps abound. Tune in here and subscribe wherever you listen to podcasts!
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

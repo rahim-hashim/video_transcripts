@@ -1,22 +1,17 @@
 ---
-Date Generated: May 26, 2025
+Date Generated: May 28, 2025
 Transcription Model: whisper medium 20231117
 Length: 3388s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech', 'Avantor']
-Video Views: 0
+Video Views: 71
 Video Rating: None
 Video Description: On this week's episode, Yaniv Sneor, founder of the Mid Atlantic Bio Angels and CEO at Native State Therapeutics, explains how life science angel investors evaluate biotech startups, and offers tips for young drug developers in search of funding. Our conversation covers how to create a successful pitch, red flags for potential investors, the importance of angel investing syndicates, the sweet spots for exit timelines and funding amounts, and why it still makes sense to invest in biotech over other industry sectors.  
-
 This episode of the Business of Biotech is brought to you by Avantor. For more information, visit avantorsciences.com
-
 Subscribe to the podcast on your preferred platform or watch the videocast at lifescienceleader.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast at lifescienceleader.com
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

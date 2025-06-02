@@ -1,25 +1,18 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2708s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
 Video Views: 208
 Video Rating: None
 Video Description: From the JP Morgan Healthcare Conference in San Francisco, Peter Anastasiou, CEO of Capsida Biotherapeutics, discusses his journey from big pharma to biotech and the challenges he's faces on the leading edge of first-gneration gene therapies. Anastasiou discusses the in-house manufacturing quality advantage, how building that capacity opened the door to important partnering opportunities, the company's preparation for clinical trials and IND submissions, and more. From mastering in-house manufacturing to forging strategic partnerships, Capsida aims to redefine genetic medicine.
-
 The 2025 BoB@JPM series is supported by Alston & Bird, whose national health care and life sciences practice has more than 100 attorneys actively involved and integrated across the full spectrum of legal disciplines including regulatory, compliance, public policy, transactional, corporate governance, securities, FDA, biotechnology, intellectual property, government investigations, and litigation practice areas. Learn more at www.alston.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb
@@ -230,55 +223,56 @@ YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28
 *  medicines more broadly. And we've seen some of those successes, but we've also seen a lot [[00:15:40](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=940.3599999999999s)]
 *  of failures. And so I do think genetic medicines in some ways have fallen out of favor in the [[00:15:45](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=945.0s)]
 *  marketplace. And people are certainly excited about things like obesity and immunology. [[00:15:53](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=953.3199999999999s)]
-*  But we exist to solve the challenges that led to this falling out of favor. So I think what's [[00:15:58](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=958.6s)]
-*  fallen out of favor is some of those Generation 1 therapies that are using AAV9 and can't be [[00:16:07](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=967.48s)]
-*  delivered IV without accumulating the liver. Or you have to do direct brain injection. And so [[00:16:14](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=974.52s)]
-*  all the things that have made genetic medicines, at least in our space and gene therapy fall out [[00:16:20](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=980.2800000000001s)]
-*  out of favor is why we exist to solve those challenges. So sometimes it's a little frustrated [[00:16:25](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=985.16s)]
-*  that we get swept up in that broad view. But the important part is that the progress that we're [[00:16:29](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=989.8s)]
-*  making and its tangible progress, I think will certainly help continue to differentiate us out [[00:16:36](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=996.28s)]
-*  of the pack of the group that has kind of been a little bit laggards. But I also hope we're going [[00:16:42](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1002.6s)]
-*  to be at the forefront or the tip of the spear of helping bring a new set of enthusiasm and [[00:16:48](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1008.8399999999999s)]
-*  a new era of enthusiasm to what we're doing. Yeah. I get the sense that some of the enthusiasm around [[00:16:55](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1015.64s)]
-*  cell and gene therapies, most cell and gene therapies, some of that enthusiasm gets quelled [[00:17:04](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1024.52s)]
-*  by the complexity of manufacturing, supply chain, last mile supply chain, if you will, [[00:17:11](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1031.32s)]
-*  delivery patients, big challenges there. How does Capsida approach or address some of those [[00:17:18](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1038.36s)]
-*  kind of backend challenges? That's a super important point. So in addition to what I was [[00:17:26](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1046.52s)]
-*  describing about our differentiation around Capsida engineering and getting to where you [[00:17:31](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1051.8s)]
-*  want to go and not going to where you don't want to go, one of the other challenges that has set [[00:17:37](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1057.3999999999999s)]
-*  back a lot of gene therapies is quality of manufacturing. So thanks to our investors, [[00:17:41](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1061.96s)]
-*  again, Westlake and Burson, who understood that and were willing to make an investment in our own [[00:17:48](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1068.1200000000001s)]
-*  manufacturing facility. So we have a 15,000 square foot manufacturing facility that's in [[00:17:55](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1075.16s)]
-*  same building where our research labs are in Thousand Oaks. And so we have complete control [[00:18:00](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1080.8400000000001s)]
-*  over timelines, cost, quality through that manufacturing facility. And on top of that, [[00:18:08](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1088.84s)]
-*  we build in manufacturing screen room, that screening process that I talked about going [[00:18:14](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1094.6s)]
-*  from the billions down to the one. Not only are we looking in that screening process for capsids that [[00:18:18](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1098.36s)]
-*  meet the profile that we're looking for, but we're also looking for capsids that are manufacturable, [[00:18:23](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1103.56s)]
-*  at least in as much quantity and scale and ease as AAV9. So that's one of the early screens that [[00:18:29](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1109.1599999999999s)]
-*  we do to help us select the capsid. And that wouldn't be possible if we were using a CDMO [[00:18:37](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1117.0s)]
-*  or if we didn't have that capability. And I'm sure there's great CDMOs out there, no criticism, [[00:18:42](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1122.6s)]
-*  but you lose control. And anytime you do a tech transfer, you introduce risks and you can't have [[00:18:47](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1127.64s)]
-*  the screening as early in the process as you would like. And you don't have that collaboration [[00:18:55](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1135.08s)]
-*  of being in the same building between the research team and the manufacturing. [[00:19:00](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1140.28s)]
-*  For all those reasons, we made the decision to invest in that facility and it's been a [[00:19:03](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1143.96s)]
-*  wonderful decision. And not only has it enabled our programs, but quite frankly, [[00:19:09](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1149.08s)]
-*  we're enabling our partners' programs. So I mentioned the partnerships that we, [[00:19:14](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1154.28s)]
-*  and Appy and Lily, we also have a partnership with CRISPR and Stally, but we just got an option as an [[00:19:17](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1157.8s)]
-*  example opt-in for one of the lead programs from the AAV9 collaboration in neurodegeneration. [[00:19:25](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1165.0s)]
-*  We are going to be the manufacturer for that program. So that's great validation, [[00:19:30](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1170.84s)]
-*  but not only did building that facility enable our programs, but it's enabling the Appy program to [[00:19:36](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1176.1999999999998s)]
-*  go forward. We have a relationship with a sister portfolio company in the West Lake and Burson [[00:19:41](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1181.6399999999999s)]
-*  portfolio called Gate Therapeutics. And they don't have a manufacturing facility, and we do. [[00:19:49](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1189.6399999999999s)]
-*  So we've created a relationship in 2023 where we would be a manufacturer for them. Novartis bought [[00:19:55](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1195.64s)]
-*  them and now they're a Novartis company and they're going to continue to use us as the [[00:20:01](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1201.88s)]
-*  manufacturer. So that capability has been gold for Capsida, but it's proving to be that for the [[00:20:07](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1207.4s)]
-*  Appy program and hopefully other programs from Appy and for these now Novartis programs. [[00:20:15](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1215.8000000000002s)]
-*  Did that manufacturing facility come online under your watch or did that come online? [[00:20:23](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1223.0s)]
-*  It was built, it came online just as I was joining. So I joined in January of 2022 and that's when it [[00:20:28](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1228.1999999999998s)]
-*  was coming online. But the decision to make that investment was made just prior to when I, well, [[00:20:36](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1236.52s)]
-*  about a year prior to when I came and the great manufacturing team that we had built that out. [[00:20:42](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1242.6799999999998s)]
+*  But we exist to solve the challenges that led to this falling out of favor. So I think what's [[00:15:58](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=958.76s)]
+*  falling out of favor is some of those generation one therapies that are using, you know, [[00:16:07](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=967.1600000000001s)]
+*  AAV9 and can't be delivered IV without accumulating the liver or you have to do [[00:16:12](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=972.52s)]
+*  direct brain injection. And so all the things that have made genetic medicines, at least in [[00:16:17](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=977.5600000000001s)]
+*  our space and gene therapy fall out of favor is why we exist to solve those challenges. [[00:16:23](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=983.72s)]
+*  So sometimes it's a little frustrating that we get swept up in that broad view. But the important [[00:16:28](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=988.4399999999999s)]
+*  part is that the progress that we're making and its tangible progress, I think will certainly help [[00:16:34](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=994.6s)]
+*  continue to differentiate us out of the pack of the group that has kind of been a little bit laggards. [[00:16:40](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1000.12s)]
+*  But I also hope we're going to be at the forefront or the tip of the spear of helping bring a new set [[00:16:47](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1007.72s)]
+*  of enthusiasm and a new era of enthusiasm to what we're doing. [[00:16:53](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1013.32s)]
+*  Yeah. I get the sense that some of the enthusiasm around cell and gene therapies, [[00:16:59](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1019.48s)]
+*  most cell and gene therapies, some of that enthusiasm gets quelled by the complexity [[00:17:06](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1026.84s)]
+*  of manufacturing supply chain, last mile supply chain, if you will, delivery [[00:17:12](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1032.76s)]
+*  patients, big challenges there. How does Capsida approach or address some of those kind of back end [[00:17:19](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1039.96s)]
+*  challenges? That's a super important point. So in addition to what I was describing about our [[00:17:27](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1047.48s)]
+*  differentiation around Capsida engineering and getting to where you want to go and not going to [[00:17:33](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1053.0s)]
+*  where you don't want to go, one of the other challenges that has set back a lot of gene [[00:17:38](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1058.68s)]
+*  therapies is quality of manufacturing. So thanks to our investors, again, Westlake and Burson, [[00:17:43](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1063.64s)]
+*  who understood that and were willing to make an investment in our own manufacturing facility. [[00:17:49](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1069.8000000000002s)]
+*  So we have a 15,000 square foot manufacturing facility that's in our same building where our [[00:17:56](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1076.2s)]
+*  research labs are in Thousand Oaks. And so we have complete control over timelines, cost, quality [[00:18:01](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1081.8000000000002s)]
+*  through that manufacturing facility. And on top of that, we build in manufacturing screen room, [[00:18:11](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1091.96s)]
+*  that screening process that I talked about going from the billions down to the one. Not only are [[00:18:16](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1096.6s)]
+*  we looking in that screening process for capsids that meet the profile that we're looking for, [[00:18:20](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1100.6s)]
+*  but we're also looking for capsids that are manufacturable, at least in as much quantity [[00:18:25](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1105.0s)]
+*  and scale and ease as AAV9. So that's one of the early screens that we do to help us select the [[00:18:31](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1111.56s)]
+*  capsid. And that wouldn't be possible if we were using a CDMO or if we didn't have that capability. [[00:18:38](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1118.84s)]
+*  We would, and I'm sure there's great CDMOs out there, no criticism, but you lose control. And [[00:18:44](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1124.04s)]
+*  anytime you do a tech transfer, you introduce risks and you can't have the screening as early [[00:18:49](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1129.48s)]
+*  in the process as you would like. And you don't have that collaboration of being in the same [[00:18:56](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1136.84s)]
+*  building between the research team and the manufacturer. For all those reasons, we made [[00:19:01](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1141.08s)]
+*  the decision to invest in that facility and it's been a wonderful decision. And not only has it [[00:19:06](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1146.36s)]
+*  enabled our programs, but quite frankly, we're enabling our partners' programs. So I mentioned [[00:19:12](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1152.4399999999998s)]
+*  the partnerships that we have, Appy and Lily. We also have a partnership with CRISPR and Stally, [[00:19:16](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1156.52s)]
+*  but we just got an option as an example opt-in for one of the lead programs from the AAV collaboration [[00:19:21](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1161.9599999999998s)]
+*  in neurodegeneration. We are going to be the manufacturer for that program. So that's great [[00:19:29](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1169.32s)]
+*  validation. But not only did that building that facility enable our programs, but it's enabling [[00:19:34](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1174.92s)]
+*  the AAV program to go forward. We have a relationship with a sister portfolio company [[00:19:40](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1180.52s)]
+*  in the Westlake and Burson portfolio called Gate Therapeutics. And they don't have a manufacturing [[00:19:48](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1188.6000000000001s)]
+*  facility and we do. So we created a relationship in 2023 where we would be a manufacturer for them. [[00:19:54](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1194.28s)]
+*  Novartis bought them and now they're a Novartis company and they're going to continue to use us [[00:20:01](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1201.0s)]
+*  as the manufacturer. So that capability has been [[00:20:07](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1207.16s)]
+*  gold for Capsida, but it's proving to be that for the AAV program and hopefully other programs from [[00:20:11](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1211.72s)]
+*  AAV and for these now Novartis programs. Yeah. Did that manufacturing facility come online [[00:20:18](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1218.1200000000001s)]
+*  under your watch or does that pay? It was built, it came online just as I was joining. [[00:20:25](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1225.72s)]
+*  So I joined in January of 2022 and that's when it was coming online. But the decision to make [[00:20:33](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1233.16s)]
+*  that investment was made just prior to when I, well, about a year prior to when I came. [[00:20:38](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1238.76s)]
+*  And the great manufacturing team that we had built that out. [[00:20:45](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1245.0s)]
 *  Our friends at Alston and Bird set us up with some amazing space to record during JPM week. [[00:20:49](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1249.0s)]
-*  The firm's National Healthcare and Life Sciences practice has more than a hundred attorneys [[00:20:56](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1256.3600000000001s)]
+*  The firm's national healthcare and life sciences practice has more than a hundred attorneys [[00:20:56](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1256.3600000000001s)]
 *  actively involved in the healthcare industry across the full spectrum of legal disciplines. [[00:21:01](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1261.16s)]
 *  The signature strength of this practice is its ability to master complex representations [[00:21:07](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1267.48s)]
 *  that draw on the coordinated expertise of its regulatory, compliance, public policy, [[00:21:13](https://www.youtube.com/watch?v=aPnAyhGgfvU&t=1273.0s)]

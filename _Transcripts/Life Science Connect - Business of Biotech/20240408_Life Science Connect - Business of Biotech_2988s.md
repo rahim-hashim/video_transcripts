@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2988s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery']
-Video Views: 312
+Video Views: 313
 Video Rating: None
 Video Description: Ampersand Biomedicines CEO Jason Gardner, Ph.D. first took the leap from a global pharmaceutical giant to a startup at the forefront of transplant medicine innovation. Since that time, he's seen most of the ups and the downs that come with biotech leadership, and in his latest venture with the Flagship Pioneering-backed Ampersand, he's putting all those hard-fought lessons to good use. On this episode of the Business of Biotech -- the final (finally!) of several recorded at the JPM Healthcare Conference in January -- Gardner shares how and why he's applying his experience to the buildout of a precision medicine platform company, his thoughts on how big data and AI are influencing the precision medicine space and putting the "tech" in "techbio," his company's acquisition strategy, most recently demonstrated by Ampersand's acquisition of AbCheck, why "paranoid optimism" is central to his company's culture, and much, much more. 
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

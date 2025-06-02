@@ -1,20 +1,16 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2661s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech', 'finance']
-Video Views: 245
+Video Views: 247
 Video Rating: None
 Video Description: On today's episode we're speaking with Sara Bonstein, Chief Financial Officer at Insmed, about what it takes to be a successful CFO. Sara provides useful insights on how to lead teams, especially when those teams have deeper subject matter expertise. Other topics discussed include when to make at-risk investments ahead of clinical data, how to balance commercial growth with pipeline investment, the importance of financial planning during early product development stages, and how to manage expectations with a potential blockbuster product in the pipeline.
-
 Subscribe to the podcast on your preferred platform or watch the videocast at lifescienceleader.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast at lifescienceleader.com
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

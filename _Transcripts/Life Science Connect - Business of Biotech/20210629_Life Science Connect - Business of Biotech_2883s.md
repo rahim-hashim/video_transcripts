@@ -1,20 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2883s
 Video Keywords: []
 Video Views: 136
 Video Rating: None
 Video Description: When the pandemic hit, Solis Biodyne found its manufacturing capacity stretched to the limit. In short order, it doubled, and then tripled, its manufacturing capacity. Then it doubled, and then tripled, its workforce. Meanwhile, it adopted a host of new platforms to serve the demand of its clients. Drs. Kadri Artma and Angela Vaasa join this episode of the Business of Biotech to take us behind the scenes and tell us the scale up story that's allowing the renowned producer of reagents to the life sciences industry to meet market demands.
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/a-scale-up-story-with-solis-biodyne-drs-kadri-artma-and-angela-vaasa-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

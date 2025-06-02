@@ -1,20 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2959s
 Video Keywords: []
 Video Views: 93
 Video Rating: None
 Video Description: Elevation Oncology is taking a new approach to leveraging the genome to guide development of its precision therapeutic development efforts. Its first step is improving both the accuracy of and accessibility to genomic testing for cancer patients. In tandem, the company is in the clinic with its lead candidate seribantumab for cancer patients with a solid tumor of any origin that expresses a genomic change called an NRG1 fusion. On this episode of the Business of Biotech, Founder & CEO Shawn Leland, PharmD, RPh takes us inside the company's unique approach. 
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/genomically-guided-medicine-with-elevation-oncology-s-shawn-leland-pharmd-rph-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

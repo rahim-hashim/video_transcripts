@@ -1,21 +1,16 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3031s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Biotech Discovery', 'Bioprocess Facility Design', 'Biotech Regulatory Affairs']
 Video Views: 123
 Video Rating: None
 Video Description: Success at multimodal, multi-indication, deep-pipelined Incyte—where commercial operations are as familiar as pre-discovery activity is—begins at the earliest opportunity to achieve research and discovery efficiencies. The company’s a bit larger than those we typically cover on the Business of Biotech, and that’s okay! Sometimes, the smartest approach to creating your own masterpiece is to study the masters. On this episode of the podcast, we sit down with Incyte’s Group Vice President and head of its Inflammation and AutoImmunity Group, Jim Lee, M.D., Ph.D. for a dissection of the company’s approach to the comprehensive and efficient R&D that leads to repeated clinical and commercial success.
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/multimodal-r-d-management-with-incyte-s-jim-lee-m-d-ph-d-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

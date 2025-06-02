@@ -1,0 +1,136 @@
+---
+Date Generated: May 31, 2025
+Transcription Model: whisper medium 20231117
+Length: 364s
+Video Keywords: ['Fox news channel', 'fnc', 'fox', 'fox news', 'jack keane', 'keane', 'news', 'putin', 'putin news', 'putin ukraine', 'russia', 'russia war', 'russia war in ukraine', 'trump', 'trump putin', 'trump russia', 'trump russia war', 'trump ukraine', 'ukraine', 'ukraine war', 'zelenskyy', 'vladimir putin', 'russia ukraine', 'gen. jack keane']
+Video Views: 93128
+Video Rating: None
+Video Description: Senior strategic analyst Gen. Jack Keane weighs in after White House press secretary Karoline Leavitt said President Trump is 'hopeful' ahead of planned peace talks between Russia and Ukraine. #FoxNews #Russia #Putin #Ukraine #war 
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on X: https://x.com/foxnews
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Gen. Keane: It would shock me if Putin does this
+**Fox News - Fox and Friends:** [May 30, 2025](https://www.youtube.com/watch?v=MNyjCdH3JMY)
+*  Well, it is my understanding and it is our hope that Russia and Ukraine will engage in [[00:00:00](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=0.0s)]
+*  direct talks and negotiations next week in Istanbul. [[00:00:04](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=4.62s)]
+*  And we believe that meeting is going to take place. [[00:00:08](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=8.68s)]
+*  And that is a meeting the president encouraged and urged for these two sides to come together [[00:00:11](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=11.0s)]
+*  and negotiate directly. [[00:00:15](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=15.08s)]
+*  The White House appearing optimistic as Ukrainian officials submit to a ceasefire proposal to [[00:00:16](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=16.080000000000002s)]
+*  their Russian counterparts ahead of a second round of direct peace talks. [[00:00:21](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=21.84s)]
+*  But despite the talks, Russia has sent more than 50,000 troops to the Ukrainian northern [[00:00:25](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=25.44s)]
+*  border in recent days. [[00:00:30](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=30.080000000000002s)]
+*  We believe there's going to be a summer surge. [[00:00:31](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=31.5s)]
+*  Here to discuss is retired four-star general Jack Keane. [[00:00:33](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=33.64s)]
+*  General, your thoughts about what we can expect on Tuesday judging by the actions of the Russians [[00:00:37](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=37.400000000000006s)]
+*  to this point. [[00:00:42](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=42.68000000000001s)]
+*  Well, I'd be shocked if the Russians change their maximalist demands, which is they want [[00:00:43](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=43.68000000000001s)]
+*  more territory than they occupy. [[00:00:50](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=50.68000000000001s)]
+*  They want to demilitarize Ukrainian military. [[00:00:52](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=52.76s)]
+*  They want a regime change in Ukraine. [[00:00:56](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=56.46s)]
+*  They want signatures by everybody involved that there be no NATO expansion. [[00:00:58](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=58.96s)]
+*  And the list goes on. [[00:01:04](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=64.24s)]
+*  All of those demands are really quite unreasonable. [[00:01:06](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=66.03999999999999s)]
+*  What Putin has been counting on is that he believes the United States and Ukraine want [[00:01:09](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=69.2s)]
+*  a peace agreement and a ceasefire much more than they do. [[00:01:14](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=74.88s)]
+*  And I think that evidence is pretty clear now after many weeks. [[00:01:19](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=79.0s)]
+*  They're willing to talk, but they're not willing to negotiate anything that's realistic. [[00:01:22](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=82.08s)]
+*  And that's where we stand. [[00:01:26](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=86.88s)]
+*  I know your communication. [[00:01:29](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=89.56s)]
+*  You're very well respected at the White House. [[00:01:31](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=91.96s)]
+*  Do you believe the president is beginning to realize that, that Putin is not the guy [[00:01:33](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=93.48s)]
+*  that he was and is not interested at all in peace? [[00:01:38](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=98.47999999999999s)]
+*  And at one point, he's going to elect Congress and their massive sanctions, work their way [[00:01:42](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=102.84s)]
+*  through with a veto-proof vote? [[00:01:47](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=107.8s)]
+*  Well, I think the president so many understands that Putin has been playing this and dragging [[00:01:52](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=112.84s)]
+*  this out as long as it possibly can. [[00:01:57](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=117.8s)]
+*  I think where the president is, he wants to hold on to this relationship. [[00:01:59](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=119.6s)]
+*  He believes in personal diplomas. [[00:02:03](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=123.32s)]
+*  He knows once he cracks down with crippling sanctions and hopefully what Putin will really [[00:02:04](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=124.88s)]
+*  pay attention to is continued military assistance to Ukraine. [[00:02:10](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=130.56s)]
+*  Once that happens, I think the president believes that relationship is likely significantly [[00:02:16](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=136.32s)]
+*  tarnished. [[00:02:20](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=140.8s)]
+*  So he wants to see if this is going to work. [[00:02:22](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=142.04000000000002s)]
+*  Certainly he knows full well that Putin has been dragging this out for his own interest. [[00:02:25](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=145.28s)]
+*  Where I think Putin really is, is that he wants to continue this war. [[00:02:30](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=150.72s)]
+*  He's 39 months into the war and he hasn't toppled Ukraine, which he said he was going [[00:02:34](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=154.4s)]
+*  to do in a week. [[00:02:39](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=159.48000000000002s)]
+*  That is enormous pressure. [[00:02:41](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=161.16000000000003s)]
+*  That's the same amount of time the United States went into Europe and Africa and toppled [[00:02:42](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=162.32000000000002s)]
+*  the Nazi regime, 39 months. [[00:02:47](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=167.60000000000002s)]
+*  And Putin is at this and look at it. [[00:02:50](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=170.48s)]
+*  He's failed and he's still failing in terms of what his objective is. [[00:02:52](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=172.72s)]
+*  He wants to continue this fight on his terms. [[00:02:56](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=176.79999999999998s)]
+*  And the reason is his presidency is at stake. [[00:03:01](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=181.07999999999998s)]
+*  He can't fail in front of his people, he believes. [[00:03:03](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=183.5s)]
+*  And a result of that, he would be significantly diminished. [[00:03:06](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=186.67999999999998s)]
+*  They may push for another leader and likely he could be assassinated once he came out [[00:03:10](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=190.0s)]
+*  of office. [[00:03:15](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=195.39999999999998s)]
+*  He knows all of that is the playbook that he's dealing with. [[00:03:16](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=196.39999999999998s)]
+*  And they almost blew his helicopter out of the sky over the last weekend. [[00:03:19](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=199.56s)]
+*  So let's switch over to Iran. [[00:03:22](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=202.64000000000001s)]
+*  There's optimism that they might have a framework for talks going forward. [[00:03:24](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=204.56s)]
+*  I'm not optimistic anything will ever come out of this of substance, nothing better than [[00:03:27](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=207.68s)]
+*  what Obama did. [[00:03:32](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=212.08s)]
+*  But here's what the Iranian foreign minister posted. [[00:03:33](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=213.44s)]
+*  Said, media is speculating about an imminent Iran-U.S. deal. [[00:03:35](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=215.8s)]
+*  Not sure if we're there yet. [[00:03:39](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=219.56s)]
+*  Iran is sincere about a diplomatic solution that will serve the interests on both sides. [[00:03:40](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=220.88s)]
+*  But getting there requires an agreement that will fully terminate all sanctions, uphold [[00:03:45](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=225.48s)]
+*  Iran's nuclear rights, including enrichment. [[00:03:49](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=229.44s)]
+*  Really? [[00:03:52](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=232.04s)]
+*  Those last two lines showed you were just spinning our wheels. [[00:03:53](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=233.04s)]
+*  Yeah, I mean, the Iranians entered into a framework deal in 2013 with the Obama administration [[00:03:56](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=236.6s)]
+*  to stall these negotiations. [[00:04:04](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=244.72s)]
+*  And it took two years before they finally came up with the JCPOA. [[00:04:06](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=246.84s)]
+*  And the Obama administration moved completely away from dismantling the program, which is [[00:04:12](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=252.44s)]
+*  what our position is today, from taking down their ballistic missiles. [[00:04:17](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=257.16s)]
+*  They moved away from all of that and they permitted them to have enrichment facilities [[00:04:20](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=260.92s)]
+*  and to enrich. [[00:04:25](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=265.52s)]
+*  And the Iranians want another framework deal, drag out the negotiations. [[00:04:27](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=267.2s)]
+*  Why? [[00:04:31](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=271.56s)]
+*  Because they believe that will stall the Israeli attack and certainly the United States attack [[00:04:32](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=272.56s)]
+*  if they're involved in these negotiations. [[00:04:37](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=277.68s)]
+*  That's their game plan here, as far as I understand, and just looking at the play of the Iranians. [[00:04:39](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=279.96s)]
+*  Just like the Russians, these guys have a playbook. [[00:04:46](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=286.64s)]
+*  They're predictable because they're consistent. [[00:04:49](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=289.2s)]
+*  And you can counter this playbook pretty effectively. [[00:04:51](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=291.96s)]
+*  The president has said unequivocally, total dismantling, anything else is unacceptable. [[00:04:55](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=295.12s)]
+*  Total dismantling of the enrichment facilities themselves. [[00:05:02](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=302.35999999999996s)]
+*  But to guarantee that, Brian, you have to have anywhere, anytime inspections or else [[00:05:07](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=307.76s)]
+*  the Iranians will have another facility with those enrichment capabilities and do it secretly. [[00:05:11](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=311.52000000000004s)]
+*  They have never granted anywhere, anytime inspections. [[00:05:18](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=318.2s)]
+*  That has to be on the table as a red line for us or what? [[00:05:21](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=321.48s)]
+*  They will cheat. [[00:05:24](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=324.88s)]
+*  We know that. [[00:05:25](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=325.88s)]
+*  And then they'll take their money that they're getting because there's no sanctions and they'll [[00:05:26](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=326.88s)]
+*  go Hezbollah and Hamas will get money again and the Houthi rebels. [[00:05:29](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=329.44s)]
+*  That's my big worry. [[00:05:33](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=333.12s)]
+*  They'll cheat their lie and they'll continue with their proxies, which keeps the Middle [[00:05:34](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=334.36s)]
+*  East in turmoil. [[00:05:38](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=338.0s)]
+*  I just hope we, I hope Steve Witkoff holds to what you just said. [[00:05:39](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=339.16s)]
+*  General, thanks so much. [[00:05:43](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=343.64s)]
+*  Yeah, great talking to you, Brian. [[00:05:45](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=345.64s)]
+*  Have a wonderful weekend, you and a team. [[00:05:48](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=348.08000000000004s)]
+*  Absolutely. [[00:05:50](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=350.04s)]
+*  For the latest, go to the Institute of Study Award. [[00:05:51](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=351.04s)]
+*  They've got great information. [[00:05:52](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=352.04s)]
+*  I'm Steve Ducey. [[00:05:53](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=353.32s)]
+*  I'm Brian Kilmeade. [[00:05:54](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=354.32s)]
+*  And I'm Ainsley Earhart. [[00:05:55](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=355.32s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:05:56](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=356.32s)]
+*  and most compelling analysis. [[00:06:00](https://www.youtube.com/watch?v=MNyjCdH3JMY&t=360.64s)]

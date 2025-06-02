@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3577s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 128
 Video Rating: None
 Video Description: He's been a big pharma executive. He's a multi-time biotech founder and current biotech CEO. He was once a regulator. He's a physician. He serves on multiple boards. And as of this summer, he's president of one of the most influential global organizations dedicated to the advance of cell and gene therapies (ISCT), and an executive member of another (ARM). Miguel Forte, M.D. simply can't stop finding places to apply his talents and energy to influence the advanced therapies landscape. The experiences he's amassed give him a unique perspective on the industry's path forward, how to navigate the regulatory gauntlet, the role of industry associations and alliances in a biotech's success, balancing the demands of multi-point leadership, changing the ATMP accessibility paradigm, and more. On this episode of the Business of Biotech, Dr. Forte shares generously on all of it. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at www.bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

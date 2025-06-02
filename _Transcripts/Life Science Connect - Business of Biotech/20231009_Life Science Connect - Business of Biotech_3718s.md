@@ -1,24 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3718s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Cytiva', 'Biotech', 'Biopharma', 'Citius Pharmaceuticals']
-Video Views: 222
+Video Views: 223
 Video Rating: None
 Video Description: Leonard Mazur has been in the business of biotech for a long, long time, and having tasted the thrill of victory despite the agony of defeat biopharma so commonly doles, he has no intention of stopping now. He’s faced challenges won, lost, and ongoing, and he’s willing to share a host of his experiences—from winning FDA approvals to bootstrapping his current effort at Citius Pharmaceuticals to overcoming a CRL and more—with the transparent confidence of an industry veteran. Don’t miss the solid dose of life sciences business wisdom on display on this episode of the Business of Biotech.
-
----
-
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/veteran-advice-from-the-c-suite-with-citius-leonard-mazur-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4636s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 247
 Video Rating: None
 Video Description: It wouldn't be accurate to say that surgeon-turned-healthcare investment banker and consultant Dr. Ali Pashazadeh traded his scalpels for spreadsheets. In fact, he still wields a scalpel quite frequently, and on this episode of the Business of Biotech podcast, he offers a fantastic reason why. Yes, it's a bit of a departure from our normal routine of biotech founders occupying the guest chair. But, Pashazadeh's no-holds-barred reflections on and analysis of biotech breaking points, drawn from more than 2 decades of troubleshooting broken bipharmaceutical businesses and correcting courses, makes for some great programming. Whether you're a biotech builder in the throes of disruption, or feeling lucky that you've been threading scientific, clinical, capital, and regulatory needles all along, this episode offers a ton of insight from the unwritten textbooks on the business of biotech.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

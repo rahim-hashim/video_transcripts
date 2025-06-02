@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2809s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 139
 Video Rating: None
 Video Description: On this episode of the Business of Biotech, Bill and Melinda Gates Medical Research Institute's Dr. Claire Wagner joins us to share insights into her work as head of Corporate Strategy and Market Access there. She shares the development of her North Star while working with the incomparable Dr. Paul Farmer in Rwanda, and how that experience translates to the growth of a biopharmaceutical company taking big swings for grossly underserved populations. We discuss the nuances associated with setting strategy and enabling product access in a unique not-for-profit setting, and how, perhaps counterintuitively, the Institute's work fits synergistically into an ultra-competitive for-profit biopharma landscape. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

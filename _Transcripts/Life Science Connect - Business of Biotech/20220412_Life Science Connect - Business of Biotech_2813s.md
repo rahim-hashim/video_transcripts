@@ -1,20 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2813s
 Video Keywords: []
-Video Views: 256
+Video Views: 257
 Video Rating: None
 Video Description: When Tuyen Ong was a child, he and his family escaped Vietnam by boat in the dead of the night, bound for an Indonesian refugee camp. They spent a year in that camp before emigrating to the U.K., where Ong’s underprivileged adolescence found him growing up in the projects of London. Against the odds, Ong worked his way to UCL for an education that culminated with an M.D. Today, he’s CEO of Ring Therapeutics, a promising emerging biotech backed by Flagship Pioneering, the kingmaker behind the rise of Moderna. On this episode of the Business of Biotech, Ong shares on his challenging formative years, the unspoken love between a father and son, facing down racism as a poor Chinese kid in Vietnam and London, and how those experiences shape his leadership at Ring. Oh, and we talk about some pretty cool science, too.
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/commensal-virus-vectors-with-ring-therapeutics-tuyen-ong-m-d-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

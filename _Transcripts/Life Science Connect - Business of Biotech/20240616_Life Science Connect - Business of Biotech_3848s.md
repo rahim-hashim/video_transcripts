@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3848s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance']
-Video Views: 297
+Video Views: 301
 Video Rating: None
 Video Description: The cell therapy company Arcellx has, by any and every measure, been outperforming its peers. Its stock has rallied on the back of the strong performance of its multiple myeloma candidate, and the promise of its AML, MDS, and solid tumor pipelines is attracting the kind of interest it takes to be in it for the long run. Asked about his company’s rapid rise since taking the helm in 2021, CEO Rami Elghandour cites a few critical and risky decisions, the execution of some specific people on his all-star team, and a relentless commitment to diversity, equity, and inclusion. Before you skepticize, let me assure you: the man brings receipts.
-
 As we head into Juneteenth celebrations, and as pride month comes to a crescendo, we’re all seeing plenty of companies putting a DEI foot forward. Much of this is hollow noise. It’s diversity-washing, the DEI equivalent to greenwashing, whereby organizations misrepresent their environmental practices to create the perception of a commitment to sustainability. Arcellx, and Rami Elghandour, are not that. On this episode of the Business of Biotech, Rami shares vivid lessons from the rise of Arcellx and gets specific on how his steadfast commitment to diversity has fueled its takeoff.
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

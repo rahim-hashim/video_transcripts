@@ -1,0 +1,121 @@
+---
+Date Generated: June 01, 2025
+Transcription Model: whisper medium 20231117
+Length: 393s
+Video Keywords: ['Chris Hayes']
+Video Views: 42735
+Video Rating: None
+Video Description: NBC News National and Political correspondent Jacob Soboroff shares his latest reporting on the fight behind the scenes to keep FEMA alive ahead of hurricane season. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#trump #fema #politics
+---
+
+# 'Ticking clock': Scrambling to save Trump's FEMA before disaster strikes
+**MSNBC - The Latest:** [May 31, 2025](https://www.youtube.com/watch?v=27RSO26C-RA)
+*  Donald Trump and members of administration have been talking about getting rid of FEMA [[00:00:00](https://www.youtube.com/watch?v=27RSO26C-RA&t=0.0s)]
+*  since just days after he started his second term. [[00:00:06](https://www.youtube.com/watch?v=27RSO26C-RA&t=6.24s)]
+*  FEMA just hasn't done the job. [[00:00:09](https://www.youtube.com/watch?v=27RSO26C-RA&t=9.52s)]
+*  And we're looking at the whole concept of FEMA. [[00:00:12](https://www.youtube.com/watch?v=27RSO26C-RA&t=12.8s)]
+*  We're going to be doing something on FEMA that I think most people agree. [[00:00:14](https://www.youtube.com/watch?v=27RSO26C-RA&t=14.84s)]
+*  I'd like to see the states take care of disasters. [[00:00:19](https://www.youtube.com/watch?v=27RSO26C-RA&t=19.64s)]
+*  Let the state take care of the tornadoes and the hurricanes and all of the other things [[00:00:22](https://www.youtube.com/watch?v=27RSO26C-RA&t=22.36s)]
+*  that happen. [[00:00:26](https://www.youtube.com/watch?v=27RSO26C-RA&t=26.8s)]
+*  We're going to eliminate FEMA. [[00:00:27](https://www.youtube.com/watch?v=27RSO26C-RA&t=27.8s)]
+*  Four months later, we are seeing how they are working to do what they said, eliminate [[00:00:30](https://www.youtube.com/watch?v=27RSO26C-RA&t=30.080000000000002s)]
+*  the agency without a backup even in place. [[00:00:33](https://www.youtube.com/watch?v=27RSO26C-RA&t=33.76s)]
+*  With hurricane season officially kicking off on Sunday, the National Oceanic and Atmosphere [[00:00:37](https://www.youtube.com/watch?v=27RSO26C-RA&t=37.36s)]
+*  Administration is predicting a higher than average number of storms, including three [[00:00:41](https://www.youtube.com/watch?v=27RSO26C-RA&t=41.260000000000005s)]
+*  to five major hurricanes. [[00:00:45](https://www.youtube.com/watch?v=27RSO26C-RA&t=45.400000000000006s)]
+*  Now NBC has new reporting on the scramble inside the agency to keep FEMA alive ahead [[00:00:47](https://www.youtube.com/watch?v=27RSO26C-RA&t=47.32s)]
+*  of hurricane season. [[00:00:53](https://www.youtube.com/watch?v=27RSO26C-RA&t=53.42s)]
+*  Jacob Soveroff is a national political correspondent for NBC News, one of the reporters on that [[00:00:55](https://www.youtube.com/watch?v=27RSO26C-RA&t=55.16s)]
+*  story. [[00:00:59](https://www.youtube.com/watch?v=27RSO26C-RA&t=59.8s)]
+*  Jacob, tell me what you've found about what is going inside this agency that seems to [[00:01:00](https://www.youtube.com/watch?v=27RSO26C-RA&t=60.8s)]
+*  be pretty clearly targeted for destruction. [[00:01:05](https://www.youtube.com/watch?v=27RSO26C-RA&t=65.75999999999999s)]
+*  Yeah, that's right, Chris. [[00:01:08](https://www.youtube.com/watch?v=27RSO26C-RA&t=68.67999999999999s)]
+*  You heard what the president said and what Kristi Noem said. [[00:01:11](https://www.youtube.com/watch?v=27RSO26C-RA&t=71.08s)]
+*  That's very publicly stated opposition to keeping this agency going. [[00:01:13](https://www.youtube.com/watch?v=27RSO26C-RA&t=73.52s)]
+*  But I think that they realized, it is fair to say, that getting rid of FEMA two days [[00:01:17](https://www.youtube.com/watch?v=27RSO26C-RA&t=77.88s)]
+*  before hurricane season, where we are today, would be a very, very, very bad idea. [[00:01:24](https://www.youtube.com/watch?v=27RSO26C-RA&t=84.08s)]
+*  And so the career professionals inside this agency, who first pushed the original acting [[00:01:29](https://www.youtube.com/watch?v=27RSO26C-RA&t=89.64s)]
+*  director of the Federal Emergency Management Administration, Cameron Hamilton, who was [[00:01:35](https://www.youtube.com/watch?v=27RSO26C-RA&t=95.52s)]
+*  promptly fired a day after he went up to the hill and said that he ultimately believed [[00:01:41](https://www.youtube.com/watch?v=27RSO26C-RA&t=101.44s)]
+*  that FEMA was in the best interest of the American people, now David Richardson, the [[00:01:45](https://www.youtube.com/watch?v=27RSO26C-RA&t=105.44s)]
+*  new acting director of FEMA, to essentially put a memo in front of Kristi Noem that says [[00:01:49](https://www.youtube.com/watch?v=27RSO26C-RA&t=109.12s)]
+*  there are over 2,600 core employees, that's the acronym they use for the people who lead [[00:01:54](https://www.youtube.com/watch?v=27RSO26C-RA&t=114.36s)]
+*  the rapid response and recovery on the back end of disasters, whether it's a hurricane [[00:01:58](https://www.youtube.com/watch?v=27RSO26C-RA&t=118.84s)]
+*  or a fire or any other mass casualty event. [[00:02:03](https://www.youtube.com/watch?v=27RSO26C-RA&t=123.08000000000001s)]
+*  And they're basically signing these people back up, whereas two weeks ago those people [[00:02:05](https://www.youtube.com/watch?v=27RSO26C-RA&t=125.76s)]
+*  may not have been at FEMA or inside this agency at this point. [[00:02:10](https://www.youtube.com/watch?v=27RSO26C-RA&t=130.04000000000002s)]
+*  It doesn't mean they've had a full 180 and they're now supporting FEMA. [[00:02:13](https://www.youtube.com/watch?v=27RSO26C-RA&t=133.6s)]
+*  They rejected, as you pointed out, that North Carolina disaster declaration from the White [[00:02:17](https://www.youtube.com/watch?v=27RSO26C-RA&t=137.16s)]
+*  House just a couple of days ago, President Trump did. [[00:02:21](https://www.youtube.com/watch?v=27RSO26C-RA&t=141.0s)]
+*  But some of the key functions, the core functions of this agency are going to remain in place [[00:02:23](https://www.youtube.com/watch?v=27RSO26C-RA&t=143.36s)]
+*  for now. [[00:02:27](https://www.youtube.com/watch?v=27RSO26C-RA&t=147.76s)]
+*  And that is because of pressure from careers inside on the politicals to say if something [[00:02:28](https://www.youtube.com/watch?v=27RSO26C-RA&t=148.88s)]
+*  goes wrong during hurricane season effectively, it will be on you, President Trump and Kristi [[00:02:32](https://www.youtube.com/watch?v=27RSO26C-RA&t=152.98000000000002s)]
+*  Noem. [[00:02:37](https://www.youtube.com/watch?v=27RSO26C-RA&t=157.28s)]
+*  So I have to confess. [[00:02:38](https://www.youtube.com/watch?v=27RSO26C-RA&t=158.28s)]
+*  I know a little bit, I've reported on emergency management and disasters a bit, and I know [[00:02:40](https://www.youtube.com/watch?v=27RSO26C-RA&t=160.72s)]
+*  that there's been a lot of, through the years, critiques of FEMA reforms for it. [[00:02:45](https://www.youtube.com/watch?v=27RSO26C-RA&t=165.52s)]
+*  I mean, because it's such a fraught undertaking and it's such an important thing to do and [[00:02:51](https://www.youtube.com/watch?v=27RSO26C-RA&t=171.4s)]
+*  it's often very, very messy, there's lots of folks that have beefs with FEMA one way [[00:02:58](https://www.youtube.com/watch?v=27RSO26C-RA&t=178.88s)]
+*  or the other. [[00:03:02](https://www.youtube.com/watch?v=27RSO26C-RA&t=182.72s)]
+*  I don't think I quite understand why they're so obsessed with getting rid of it altogether. [[00:03:03](https://www.youtube.com/watch?v=27RSO26C-RA&t=183.72s)]
+*  Yeah, nor do the people inside. [[00:03:10](https://www.youtube.com/watch?v=27RSO26C-RA&t=190.88s)]
+*  I think if you talk to people at FEMA, Chris, they'll tell you FEMA is in need of reforms [[00:03:12](https://www.youtube.com/watch?v=27RSO26C-RA&t=192.24s)]
+*  to the bureaucracy. [[00:03:16](https://www.youtube.com/watch?v=27RSO26C-RA&t=196.84s)]
+*  The way that FEMA, in these major disaster declarations that the president will approve, [[00:03:18](https://www.youtube.com/watch?v=27RSO26C-RA&t=198.44s)]
+*  whether it was Joe Biden approving 100 percent reimbursement for the L.A. wildfires of the [[00:03:22](https://www.youtube.com/watch?v=27RSO26C-RA&t=202.60000000000002s)]
+*  North Carolina hurricanes or a bunch of them that President Trump has approved over the [[00:03:26](https://www.youtube.com/watch?v=27RSO26C-RA&t=206.24s)]
+*  course of just the last couple of days, and they were sort of backlogged since the beginning [[00:03:30](https://www.youtube.com/watch?v=27RSO26C-RA&t=210.84s)]
+*  of the administration, perhaps yet another recognition that this agency is necessary. [[00:03:34](https://www.youtube.com/watch?v=27RSO26C-RA&t=214.8s)]
+*  This happens, the formula is determined because of the Stafford Act and it is by statute. [[00:03:39](https://www.youtube.com/watch?v=27RSO26C-RA&t=219.76s)]
+*  Localities are entitled to 75 percent reimbursement of all of the money that they spend on these [[00:03:45](https://www.youtube.com/watch?v=27RSO26C-RA&t=225.95999999999998s)]
+*  disasters by FEMA. [[00:03:50](https://www.youtube.com/watch?v=27RSO26C-RA&t=230.64s)]
+*  Anything above that, up to 90 percent, is determined by a formula that's in place. [[00:03:52](https://www.youtube.com/watch?v=27RSO26C-RA&t=232.51999999999998s)]
+*  If these states don't meet the formula, it's up to the discretion of the president of the [[00:03:57](https://www.youtube.com/watch?v=27RSO26C-RA&t=237.16s)]
+*  United States. [[00:04:00](https://www.youtube.com/watch?v=27RSO26C-RA&t=240.12s)]
+*  There's an ongoing conversation inside of FEMA as to what the right percentage is for [[00:04:02](https://www.youtube.com/watch?v=27RSO26C-RA&t=242.35999999999999s)]
+*  states and localities to shoulder on their own because some in Washington, D.C. feel [[00:04:06](https://www.youtube.com/watch?v=27RSO26C-RA&t=246.44s)]
+*  like it creates more efficiencies on the ground in these localities to move faster, to get [[00:04:11](https://www.youtube.com/watch?v=27RSO26C-RA&t=251.24s)]
+*  the job done quicker. [[00:04:15](https://www.youtube.com/watch?v=27RSO26C-RA&t=255.07999999999998s)]
+*  But doing it this way could literally bankrupt states, according to the Biden administration's [[00:04:17](https://www.youtube.com/watch?v=27RSO26C-RA&t=257.4s)]
+*  FEMA chief of staff, Michael Cohen, who I talked to as we reported this article. [[00:04:22](https://www.youtube.com/watch?v=27RSO26C-RA&t=262.32s)]
+*  He said there are states, particularly in the South, that if they don't budget for this, [[00:04:25](https://www.youtube.com/watch?v=27RSO26C-RA&t=265.52s)]
+*  if they don't put this in their state budget, if they don't take out a bond, if they don't [[00:04:29](https://www.youtube.com/watch?v=27RSO26C-RA&t=269.88s)]
+*  increase tax revenue, a major disaster without the supplemental income from the federal government [[00:04:33](https://www.youtube.com/watch?v=27RSO26C-RA&t=273.48s)]
+*  could actually put these states upside down entirely financially, which creates a whole [[00:04:38](https://www.youtube.com/watch?v=27RSO26C-RA&t=278.72s)]
+*  other disaster of a manmade variety. [[00:04:42](https://www.youtube.com/watch?v=27RSO26C-RA&t=282.44s)]
+*  You report that Nome has been quietly pushing behind the scenes to keep key employees in [[00:04:46](https://www.youtube.com/watch?v=27RSO26C-RA&t=286.72s)]
+*  place to approve reimbursements to states previously hit by disaster. [[00:04:50](https://www.youtube.com/watch?v=27RSO26C-RA&t=290.76s)]
+*  There were a bunch, quite notably, that were just sort of getting no response. [[00:04:57](https://www.youtube.com/watch?v=27RSO26C-RA&t=297.04s)]
+*  Missouri, which had tornadoes, if I'm not mistaken, around the St. Louis metro area, [[00:05:01](https://www.youtube.com/watch?v=27RSO26C-RA&t=301.88s)]
+*  Josh Hawley, sort of pleading with Nome in a hearing. [[00:05:05](https://www.youtube.com/watch?v=27RSO26C-RA&t=305.56s)]
+*  It looks like some things have moved there, but again, I've got to imagine the people [[00:05:10](https://www.youtube.com/watch?v=27RSO26C-RA&t=310.96s)]
+*  inside the agency, it must be hard to do the normal work you have to do with the amount [[00:05:14](https://www.youtube.com/watch?v=27RSO26C-RA&t=314.28s)]
+*  of chaos and disruption happening inside there. [[00:05:19](https://www.youtube.com/watch?v=27RSO26C-RA&t=319.71999999999997s)]
+*  The analogy that one, and it's in the story, one current FEMA employee gave me is it's [[00:05:23](https://www.youtube.com/watch?v=27RSO26C-RA&t=323.24s)]
+*  like running a relay race that you are supposed to have six people with, with four people. [[00:05:27](https://www.youtube.com/watch?v=27RSO26C-RA&t=327.98s)]
+*  Yes, they will make it to the finish line, but getting all the way there and doing it [[00:05:32](https://www.youtube.com/watch?v=27RSO26C-RA&t=332.58000000000004s)]
+*  in a timely manner is a lot more difficult and a lot more complicated. [[00:05:36](https://www.youtube.com/watch?v=27RSO26C-RA&t=336.62s)]
+*  And that's the situation the Trump administration now has created for disaster response and [[00:05:40](https://www.youtube.com/watch?v=27RSO26C-RA&t=340.3s)]
+*  recovery in the United States of America. [[00:05:44](https://www.youtube.com/watch?v=27RSO26C-RA&t=344.14000000000004s)]
+*  It could be a lot easier than it's going to be this hurricane season, but because of what [[00:05:46](https://www.youtube.com/watch?v=27RSO26C-RA&t=346.34000000000003s)]
+*  they have done, not only to FEMA, but to NOAA, they got rid of the billion-dollar disaster [[00:05:50](https://www.youtube.com/watch?v=27RSO26C-RA&t=350.78000000000003s)]
+*  registry. [[00:05:55](https://www.youtube.com/watch?v=27RSO26C-RA&t=355.22s)]
+*  And they got rid of all kinds of these National Weather Service meteorologists. [[00:05:57](https://www.youtube.com/watch?v=27RSO26C-RA&t=357.04s)]
+*  It's going to be a whole lot more difficult this season. [[00:06:00](https://www.youtube.com/watch?v=27RSO26C-RA&t=360.24s)]
+*  Oh, well, fingers crossed here. [[00:06:02](https://www.youtube.com/watch?v=27RSO26C-RA&t=362.36s)]
+*  Jacob Soboroff, thank you. [[00:06:04](https://www.youtube.com/watch?v=27RSO26C-RA&t=364.48s)]
+*  Great reporting. [[00:06:05](https://www.youtube.com/watch?v=27RSO26C-RA&t=365.48s)]

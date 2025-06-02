@@ -1,25 +1,18 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3248s
 Video Keywords: ['Biotech Discovery', 'Biotech Finance']
 Video Views: 174
 Video Rating: None
 Video Description: From his vantage point as an independent biotech journalist, Luke Timmerman has been watching the expansions and retractions of the industry for a couple of decades now. His unique perspective is hard to equal, and that perspective is, despite tough markets and tepid public sentiment, decidedly bullish. Luke's optimism is fed by sound logic gained from a career spent in observation mode, watching the development of purpose-built tools matched to address the fragility of human biology. 
-
 Luke's tireless advocacy for the industry also stretches well beyond his professional coverage and punditry. Through his Timmerman Traverse initiative, he's figured out a way to weave his personal and professional passions into a tapestry that serves some of the philanthropic initiatives our industry cares about most. On this episode of the Business of Biotech, we'll get to know Luke personally, we'll learn about his philanthropic work, and we'll give you a healthy dose of optimism as we look ahead to the next decade in biotech.
-
----
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/backpacks-and-biotech-with-luke-timmerman-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

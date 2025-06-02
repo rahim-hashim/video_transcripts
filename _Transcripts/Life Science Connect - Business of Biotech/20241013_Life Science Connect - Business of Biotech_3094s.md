@@ -1,5 +1,5 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3094s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
@@ -7,15 +7,11 @@ Video Views: 207
 Video Rating: None
 Video Description: Allan Shaw is back with us this week to dig into the complexities of strategic hiring in biotech. We cover strategies for the step-wise assembly of effective executive teams, the importance of aligning key hires with clinical and regulatory milestones, managing salaries in line with cash runways, the pros and cons of fractional/consultative leadership, when it's time to turn fractional into full-time, and a whole lot more. If you're growing a biotech in these volatile times, this episode of the Business of Biotech offers veteran insight you won't want to miss. 
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

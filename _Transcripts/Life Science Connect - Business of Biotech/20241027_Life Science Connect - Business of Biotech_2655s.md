@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2655s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 106
 Video Rating: None
 Video Description: It might just be coincidence, but it sure seems like Bill Enright has a knack for making big moves at inopportune times, then turning the expected outcome on its ear. For example, he signed on as CEO at Altimmune when the company was struggling mightily. Enright had a turnaround plan in hand, but as he was in the thick of a non-deal road show to execute said plan, Lehmen Brothers collapsed. On this episode of the Business of Biotech, we'll learn in great detail how Altimmune escaped that death knell. Later, he joined his current company, Barinthus Biotherapeutics, mere months before the Covid pandemic. That was shaky for a hot minute, but it turned out fortuitous when, against his better judgment, he enabled a pivot that became foundational to the company's go-forward plan. We'll learn how he flipped the script on that crisis, too. Tune in for these, and other harrowing tales from the trenches. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

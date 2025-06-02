@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2414s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance']
 Video Views: 92
 Video Rating: None
 Video Description: Back by popular demand, biopharma industry opinionator extraordinaire Allan Shaw rejoins the Business of Biotech to expose the murky role Pharmacy Benefit Managers (PBMs) play in the last, costly mile of the drug distribution supply chain. Allan pulls no punches in his criticism of the current rebate structure and shares why the model leaves patients and manufacturers stuck with the spiraling tab. He also explains why an election year, all-time lows in public perception of the pharmaceutical industry, and inflation might create the perfect storm for real change. More than a gripe session, Allan offers up advice for biotech leaders entering the fray, shares his own ideas for systemic reform that would reward patients, not PBMs, and waxes on what, and who, it might take to change the broken paradigm. 
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

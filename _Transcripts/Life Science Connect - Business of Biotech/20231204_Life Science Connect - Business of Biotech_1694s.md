@@ -1,25 +1,18 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 1694s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Cytiva', 'Biotech', 'Biopharma']
 Video Views: 248
 Video Rating: None
 Video Description: Combined Therapeutics President & CEO Dr. Romain Micol is operating his company in a very noisy space, where hundreds of new biotechs have popped up on the coattails of a COVID-driven renewal of interest in mRNA vaccines. Micol recognizes that noise and the competition it brings for capital and mindshare. He's not only aware of it — he welcomes it. On this quick episode of the Business of Biotech podcast, Micol shares the unique approach Combined Tx is taking to distinguish itself in the mRNA infectious disease and cancer vaccine space, from the delivery, safety, efficacy, and business perspectives.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at https://www.bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/mrna-vaccine-platforms-with-combined-therapeutics-dr-romain-micol-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

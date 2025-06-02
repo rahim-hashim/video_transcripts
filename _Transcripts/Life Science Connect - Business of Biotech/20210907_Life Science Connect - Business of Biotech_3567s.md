@@ -1,20 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3567s
 Video Keywords: []
 Video Views: 189
 Video Rating: None
 Video Description: Aruvant Chief Technology Officer Palani Palaniappan, Ph.D. joins the Business of Biotech with special guest Tony Khoury, EVP at Project Farma to discuss recent advances in gene therapy manufacturing. We cover the role of artificial intelligence in the discovery of AAV capsids that can avoid the immune system, the growth of non-viral vectors, the scale up advantages of suspension technologies versus adherence, the evolution of the regulatory environment, manufacturing capacity and talent constraints, and much, much more.
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/gene-therapy-manufacturing-advances-with-aruvant-cto-dr-palani-palaniappan-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

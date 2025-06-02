@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3846s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Bioprocess Manufacturing Services']
-Video Views: 708
+Video Views: 710
 Video Rating: None
 Video Description: Just a few years ago, Daiichi Sankyo wasn't considered a player in the oncology therapeutics space, and it certainly wasn't a player in ADCs. But then, just a few years ago, who was? Fast forward to 2023, and we see an ADC arena that drove nearly $100 billion in M&A, licensing, and partnership deals, and a Daiichi Sankyo that can rightfully lay claim to lighting that fire. In fact, it was our guest on this episode of the Business of Biotech, Ken Keller, Chairman of the Board, President, and CEO at Daiichi Sankyo, who made the bold move to jump headlong into oncology armed with ADCs that, at the time, weren't exactly the darling of biotech. On this episode, Ken shares the story of his climb from "carrying the bag" all the way to the Big Biotech C-Suite, how and why Daiichi Sankyo pivoted from its roots in cardiovascular therapeutics into Oncology and ADCs, his reflections on the antibody-drug conjugate market, and a whole lot more. 
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

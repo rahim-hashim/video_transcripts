@@ -1,23 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3326s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 898
+Video Views: 920
 Video Rating: None
 Video Description: Tal Zaks, M.D. was Chief Medical Officer at Moderna before, during, and immediately following the company's headline role during the COVID pandemic. If that doesn't pique your interest about the stories he can tell, this episode of the Business of Biotech surely will. Tal is now leading a new mRNA-centric startup called Exsilio Therapeutics, which Advancing RNA's Anna Rose Welch and I dig into in part two of our talk with Tal, slated for release in early January. Yep, Story Time With Tal is so good, we doubled up the episodes with him. Tune in for insight from the early days of mRNA that you probably haven't heard before, and stay for a glimpse of its future role in therapeutics at Exsilio with one of the foremost thinkers in the space.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

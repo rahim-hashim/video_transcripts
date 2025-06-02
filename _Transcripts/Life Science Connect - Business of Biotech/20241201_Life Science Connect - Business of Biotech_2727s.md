@@ -1,23 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2727s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
-Video Views: 136
+Video Views: 137
 Video Rating: None
 Video Description: Revolo Biotherapeutics President and CEO Woody Bryan, Ph.D. is pushing the boundaries of peptide therapeutic delivery. On this episode of the Business of Biotech, we dig into Dr. Bryan’s transition to the CEO chair at the company and how that coincided with an aggressive strategic decision to alter the course of administration of its peptide candidates in allergic and autoimmune diseases. That decision didn’t come lightly and its execution wasn’t easy, but it was an important one for the future of the business. Tune in as Dr. Bryan tells us why they did it, how they did it, and the foundation that decision laid for the company’s growth. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

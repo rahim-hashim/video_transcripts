@@ -1,26 +1,18 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3643s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Cytiva', 'Biotech', 'Biopharma', 'Biopharma Regulatory', 'Cue Biopharma']
 Video Views: 168
 Video Rating: None
 Video Description: On a road trip to Boston, the Business of Biotech caught up with podcast alum Dan Passeri, J.D., CEO at Cue Biopharma, and enjoyed a two-for-one with CSO and President Anish Suri, Ph.D. at Cue's headquarters just feet below the Auerbach Center. Among other things, we discussed the duo's complementary leadership approach as the company takes multiple candidates into the clinic, why Passeri leans into his biotech legal background almost every day he's at work, why Cue's discretely targeted IL-2 approach eliminates the absurdity of early IL-2 failures, and a whole lot more.
-
 Speaking of Dan's legal background, before you jump into today's episode, REGISTER for the first-ever, interactive Business of Biotech Live! Legal & IP Protection For New Biotechs here - https://event.on24.com/wcc/r/4376909/58114AA2A39F50879AE1B6F0CD1F5B11?partnerref=Pod171
-
----
-
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/clinical-leadership-with-cue-biopharma-s-anish-suri-ph-d-dan-passeri-j-d-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

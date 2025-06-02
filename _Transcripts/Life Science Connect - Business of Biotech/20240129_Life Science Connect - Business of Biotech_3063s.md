@@ -1,21 +1,16 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3063s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Biotech Discovery', 'Biotech Regulatory Affairs']
 Video Views: 123
 Video Rating: None
 Video Description: The Business of Biotech took a trip to San Francisco for the JP Morgan Healthcare Conference, that most target-richest of environments for those of us who like talking shop with biotech builders. The results of that trip will feed the next several weeks of Business of Biotech podcast programming, and we're kicking things off with everyone's favorite life sciences CFO, Allan Shaw. On this episode, Allan shares what's driving the cautious optimism for biotech's return, pointing to factors like December's flurry of M&A activity, interest rate reductions, and easing inflation as just cause for the bullish sentiment that was palpable at the conference. We also discuss what could shift the tailwinds, namely the election year wildcard, and why biotech could benefit from a metered comeback. Come for the facts, stay for the Shawisms!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/biotech-is-back-with-allan-shaw-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

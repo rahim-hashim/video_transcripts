@@ -130,7 +130,7 @@ class Video:
 				print(f'  Error: {e}')
 				self.delete_video()
 				return
-			print(f'  Video downloaded to {video_path}')
+			print(f'  Video File: {video_path}')
 		elif source=='local':
 			if local_path == None:
 				raise ValueError('Local Path must be provided for local videos')
@@ -184,7 +184,7 @@ class Video:
 		video.timestamps = timestamps
 		# format value 100000 -> 100.000
 		num_words = "{:,}".format(len(segments))
-		print(f'  Segments Transcribed: {num_words}')
+		print(f'    Segments Transcribed: {num_words}')
 
 	def write_yaml(self, f):
 		f.write('---\n')
@@ -235,7 +235,7 @@ class Video:
 	def delete_video(self):
 		'''Delete the video file'''
 		os.remove(self.video_path)
-		print(f'  Video file deleted: {self.video_path}')
+		print(f'  Video File Deleted: {self.video_path}')
 
 def extract_playlist_urls(args, playlists):
 	url_dict = defaultdict(list)
@@ -370,11 +370,15 @@ if __name__ == '__main__':
 				playlist_url = url_playlist_map[url]
 			else:
 				playlist_url = None
-			status = video.get_video(
-				source=args.source, 
-				playlist_url=playlist_url, 
-				url=url
-			)
+			try:
+				status = video.get_video(
+					source=args.source, 
+					playlist_url=playlist_url, 
+					url=url
+				)
+			except Exception as e:
+				print(f'  Error: {e}')
+				continue
 			# Transcribe the video
 			if not video.transcript_exists and status != None:
 				video.transcribe_video(video, model)

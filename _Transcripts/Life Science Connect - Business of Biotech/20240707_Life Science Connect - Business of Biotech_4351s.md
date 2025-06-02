@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4351s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Regulatory Affairs']
 Video Views: 179
 Video Rating: None
 Video Description: Syncromune's Sync-T solid tumor therapeutic platform is, in a word, complex. The company's three phase 1 programs combine T-cell science with a proprietary drug delivery device to target solid tumors, specifically metastatic breast, non-small-cell lung, and castrate-resistant prostate cancers. But, while orchestrating a successful drug/device combination therapy presents unique regulatory challenges and requires a diverse array of in-house skillsets, President and CEO Eamonn Hobbs is confident. He's done this before, and Syncromune's lead candidate has just been fast-tracked by the FDA. On this episode of the Business of Biotech, Hobbs shares his perspectives on bringing novel drug/device combination therapies to market, and reflects on a career dedicated to the drug delivery craft and demonstrated by his leadership at Antares Pharma, Delcath Systems, AngioDynamics. 
-
 Register for Bioprocess Online’s Bio Expo Live, being held July 30th through August 1st . This inaugural expo is a fantastic opportunity for biopharma companies and contract manufacturers to evaluate the latest and greatest from the comfort of your desktop or mobile device. Conveniently, we’ve broken down the lineup into Upstream Solutions July 30th, Downstream Solutions July 31st, and Quality, Analytical, and Data Solutions August 1st. It’s absolutely free to register for this series of short, digestible, and interactive sessions -- just hit the links above to register for Bio Expo Live today!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

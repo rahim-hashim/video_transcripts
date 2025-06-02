@@ -1,20 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2910s
 Video Keywords: []
 Video Views: 242
 Video Rating: None
 Video Description: Dr. Ian Walters' company, Portage Biotech, is focused on addressing the 75% of cancer patients who show no, or limited, response to existing therapies such as checkpoint inhibitors. Leading that charge are the company's invariant natural killer T cell agonists, designed to activate the innate and adaptive immune system, as well as a growing portfolio of proteins, antibodies, and small molecules. On this episode of the Business of Biotech, Dr. Walters shares what's fueling the company's progress, including its unique financing strategy and its approach to de-risking platform development for novel immuno-oncology therapies.
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/ink-t-cell-immuno-oncology-for-solid-tumors-with-dr-ian-walters-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

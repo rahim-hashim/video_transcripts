@@ -1,25 +1,18 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3387s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
 Video Views: 156
 Video Rating: None
 Video Description: On this episode of the Business of Biotech, recorded on-site at the 2025 JP Morgan Healthcare Conference, we explore a new approach to biotech financing with XOMA Royalty's Owen Hughes and Brad Sitko. The CEO and CIO, respectively, share an innovative royalty aggregation model that mitigates risk while enabling immediate capital access to biotech firms. We learn the differences between royalty financing and equity-based funding, how the model addresses traditional risk in biotech financing, the evolution of XOMA's business model, and much more. 
-
 The 2025 BoB@JPM series is supported by Alston & Bird, whose national health care and life sciences practice has more than 100 attorneys actively involved and integrated across the full spectrum of legal disciplines including regulatory, compliance, public policy, transactional, corporate governance, securities, FDA, biotechnology, intellectual property, government investigations, and litigation practice areas. Learn more at www.alston.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

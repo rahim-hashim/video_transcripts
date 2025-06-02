@@ -1,22 +1,16 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3655s
 Video Keywords: []
 Video Views: 88
 Video Rating: None
 Video Description: Raman Sehgal has made a career out of putting his energy— and he's got a lot of it— into building biotech outsourcing companies and the people who make them run. After years spent supporting several from within, he launched ramarketing, a firm dedicated to helping CROs, CDMOs, CPOs, and other providers to the biotech ecosystem build their businesses, in 2009. He's also an international best-selling author (The Floundering Founder), co-founder of life sciences recruitment firm Lead Candidate, and founder & host of the Molecule to Market podcast. 
-
 On this week's episode of the Business of Biotech, Raman brings us his unique and multifaceted perspectives on the biopharma outsourcing space, the bear biotech markets, and how both are impacting the work of early- and clinical-stage biopharma leaders. 
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/observations-on-outsourcing-with-molecule-to-market-s-raman-sehgal-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

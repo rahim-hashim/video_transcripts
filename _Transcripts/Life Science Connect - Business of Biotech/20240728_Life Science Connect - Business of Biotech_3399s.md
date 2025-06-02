@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3399s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 208
 Video Rating: None
 Video Description: Flagship Pioneering’s ProFound Therapeutics is on to something, and it could be something big. It began with a simple question:  What if more RNAs were being translated into proteins? Answering that question took ProFound deep into the translatome, where it’s now studying the full compendium of RNA sequences that are being translated into proteins. Along the way, the young company is gaining confidence that its research will reveal important insight into potential therapeutic protein targets and medicines. On this episode of the Business of Biotech, ProFound CEO and Flagship Pioneering CEO-Partner John Lepore, M.D. shares the company’s journey—and his—as a physician scientist-turned-founder.
-
 Register for Bioprocess Online’s Bio Expo Live, being held July 30th through August 1st . This inaugural expo is a fantastic opportunity for biopharma companies and contract manufacturers to evaluate the latest and greatest from the comfort of your desktop or mobile device. Conveniently, we’ve broken down the lineup into Upstream Solutions July 30th, Downstream Solutions July 31st, and Quality, Analytical, and Data Solutions August 1st. It’s absolutely free to register for this series of short, digestible, and interactive sessions -- just hit the links above to register for Bio Expo Live today!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

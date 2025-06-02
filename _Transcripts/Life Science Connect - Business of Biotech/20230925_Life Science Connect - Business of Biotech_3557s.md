@@ -1,24 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3557s
 Video Keywords: ['Bioprocess Online', 'Cytiva', 'Business of Biotech', 'Biotech', 'Bioprocess Manufacturing Controls', 'Biopharma']
-Video Views: 169
+Video Views: 171
 Video Rating: None
 Video Description: This week's guest on the Business of Biotech, EVQLV's Andrew Satz, says AI and ML in biopharma are like sex in high school. "Many of the people who say they're doing it really aren't, and the one who really are aren't talking about it," he says. So, when it comes to the computational biology buzz, what’s real? What’s hype? What’s yielding benefit and what’s merely vaporware? In our talks with the leaders of new and emerging biotechs over the past 12 to 18 months, we've seen a steep increase in the application of – or at the very least, interest in – machine learning, AI, and computational biology tools for drug discovery, development, and beyond. Even those who are using some "ultra-light" application of new computational technology are eager to talk about it, as it’s clearly become as en-vogue as tacking “bio” onto your moniker was a few years back – even among companies who aren’t actually developing biologics. On this episode, Satz offers his take on the reality of adoption and shares advice on the fundamentals of AI and ML in biotech.
-
----
-
+***
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/pragmatic-computational-biology-with-andrew-satz-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

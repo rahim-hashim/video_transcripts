@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3552s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery']
-Video Views: 543
+Video Views: 544
 Video Rating: None
 Video Description: As if Orna Therapeutics' CEO, Thomas Barnes, isn't enough to draw you in to the Business of Biotech, we teamed up with Advancing RNA Editorial & Community Director Anna Rose Welch to co-host this week's episode. Together, Anna Rose and I press Dr. Barnes on his transition from academia to biotech, the therapeutic proposition of circular, or "O", RNA and why it holds great potential to best linear RNA constructs, the novel, platform- and partnership-based approaches Orna is taking to address B-cell lymphomas and Duchenne Muscular Dystrophy, viral vector and lipid nanoparticle complexity, and a whole lot more.
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

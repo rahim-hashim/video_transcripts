@@ -1,25 +1,18 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3788s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
-Video Views: 314
+Video Views: 319
 Video Rating: None
 Video Description: Guest co-host Anna Rose Welch of Advancing RNA fame joins us on this week’s Business of Biotech podcast for a conversation with the leaders of RNA upstart Radar Therapeutics. The company’s co-founders, Eerik Kaseniit, Ph.D. (CSO & President) and Sophia Lugo (CEO), are making waves in the mRNA therapeutics space on the heels of the invention of a precision-expressed mRNA technology that laid bare the path to Radar’s inception. On this episode, we dig into that science, why it’s timely, and how it fits into today’s mRNA therapeutics landscape. We also go deep on how Kaseniit and Lugo went about navigating the complexities of biotech formation, leaning into their networks andbuilding up a team—and each other—along the way. Their work is paying off, as the fast-growing company is attracting gobs of investor and big bio attention. For more on the technology Radar is bringing to bear, read Kaseniit and Lugo’s recent byline at Cell & Gene. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Subscribe to our monthly Business of Biotech newsletter.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

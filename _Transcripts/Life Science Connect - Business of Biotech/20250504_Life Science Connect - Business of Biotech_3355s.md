@@ -1,22 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3355s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech', 'Avantor']
-Video Views: 219
+Video Views: 234
 Video Rating: None
 Video Description: On today's episode, Tolga Tanguler, EVP and Chief Commercial Officer at Alnylam Pharmaceuticals, talks about commercializing RNAi therapies, how they fit into health insurance reimbursement systems, the company's use of value-based contracts, and building therapeutic franchise "skyscrapers." Tanguler also shares his thoughts on commercializing RNAi therapies for larger patient populations, compared with rare disease populations, and reflects on changes in the biopharmaceutical sales and promotion model.
-
 This episode is brought to you by Avantor. For more information, visit avantorsciences.com
-
 Subscribe to the podcast on your preferred platform or watch the videocast at lifescienceleader.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast at lifescienceleader.com
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

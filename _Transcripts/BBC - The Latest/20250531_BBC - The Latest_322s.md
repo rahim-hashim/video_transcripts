@@ -1,0 +1,88 @@
+---
+Date Generated: June 01, 2025
+Transcription Model: whisper medium 20231117
+Length: 322s
+Video Keywords: []
+Video Views: 137899
+Video Rating: None
+Video Description: After nine months in space, Nasa astronauts Butch Wilmore and Suni Williams arrived back on Earth.
+They were taking part in the first crewed test flight of the Starliner spacecraft, developed by aerospace company Boeing.
+But the capsule suffered several technical problems during its journey to the space station, and it was deemed too risky to take the astronauts home.
+Two months after their return to Earth, BBC's Reagan Morris spoke to them and looked back at their extraordinary mission.
+Subscribe here: http://bit.ly/1rbfUog
+#Nasa #BBCNews
+---
+
+# Butch Wilmore and Suni Williams: Didn't know if they would 'make it back' | BBC News
+**BBC - The Latest:** [May 31, 2025](https://www.youtube.com/watch?v=cYXL33GB0is)
+*  You probably remember the NASA astronauts Butch Wilmore and Sonny Williams. [[00:00:00](https://www.youtube.com/watch?v=cYXL33GB0is&t=0.0s)]
+*  They spent 286 days in space after their eight-day test flight on the Boeing Starliner experienced technical problems. [[00:00:04](https://www.youtube.com/watch?v=cYXL33GB0is&t=4.7s)]
+*  Well, two months after their return to Earth, finally, BBC's Reagan Morris spoke to them and looked back at their extraordinary mission. [[00:00:13](https://www.youtube.com/watch?v=cYXL33GB0is&t=13.700000000000001s)]
+*  Now, you were meant to spend just over a week in space and it ended up being almost nine months. [[00:00:22](https://www.youtube.com/watch?v=cYXL33GB0is&t=22.4s)]
+*  Almost ten months. Go shorter some months. [[00:00:34](https://www.youtube.com/watch?v=cYXL33GB0is&t=34.4s)]
+*  Almost ten months. I understand that can be quite hard on the human body. [[00:00:38](https://www.youtube.com/watch?v=cYXL33GB0is&t=38.4s)]
+*  How are you now that you've been back for two months? How are you feeling? Are you having any challenges? [[00:00:45](https://www.youtube.com/watch?v=cYXL33GB0is&t=45.4s)]
+*  Feeling pretty good. Honestly, it was interesting that you said about the eight days because both of us like to work out. [[00:00:51](https://www.youtube.com/watch?v=cYXL33GB0is&t=51.1s)]
+*  As soon as we got there, we had made arrangements with everybody that we were going to start working out right from the get-go. [[00:00:58](https://www.youtube.com/watch?v=cYXL33GB0is&t=58.1s)]
+*  I think that really paid dividends in the end. [[00:01:03](https://www.youtube.com/watch?v=cYXL33GB0is&t=63.1s)]
+*  There are some trials and tribulations with coming back to gravity. It's a little bit painful. [[00:01:06](https://www.youtube.com/watch?v=cYXL33GB0is&t=66.1s)]
+*  There are neurovestibular effects. There's just getting gravity back on your head and your back and all that kind of stuff. [[00:01:11](https://www.youtube.com/watch?v=cYXL33GB0is&t=71.1s)]
+*  It's a little bit painful and you're working through all of those issues for a little while with our strength and conditioning coaches. [[00:01:17](https://www.youtube.com/watch?v=cYXL33GB0is&t=77.8s)]
+*  It's been a little bit, but I think both of us were better off because we started working out really right away because we were thinking we were only going to be up there for eight days and just kept it up for a good nine months. [[00:01:24](https://www.youtube.com/watch?v=cYXL33GB0is&t=84.8s)]
+*  Ten months. Sorry. [[00:01:35](https://www.youtube.com/watch?v=cYXL33GB0is&t=95.8s)]
+*  Yeah, ten months. If you think about it, you work out here on Earth and you fatigue your muscles and you need a day or two, sometimes three, to recoup that muscle. [[00:01:36](https://www.youtube.com/watch?v=cYXL33GB0is&t=96.8s)]
+*  Fatigue, right? And then go ahead again. [[00:01:47](https://www.youtube.com/watch?v=cYXL33GB0is&t=107.5s)]
+*  Well, up in space, you're not stressed at all. [[00:01:49](https://www.youtube.com/watch?v=cYXL33GB0is&t=109.5s)]
+*  Twenty three hours a day, only that one hour you're working out. [[00:01:52](https://www.youtube.com/watch?v=cYXL33GB0is&t=112.5s)]
+*  So your body recuperates within a day. [[00:01:55](https://www.youtube.com/watch?v=cYXL33GB0is&t=115.0s)]
+*  So we worked out every single day. [[00:01:57](https://www.youtube.com/watch?v=cYXL33GB0is&t=117.0s)]
+*  I mean, squats and deadlifts every single day for almost ten months. [[00:01:59](https://www.youtube.com/watch?v=cYXL33GB0is&t=119.7s)]
+*  So we're getting three years worth of workout in ten months. [[00:02:03](https://www.youtube.com/watch?v=cYXL33GB0is&t=123.19999999999999s)]
+*  If you think about it. [[00:02:07](https://www.youtube.com/watch?v=cYXL33GB0is&t=127.7s)]
+*  And I came back literally stronger than I've ever been in my life. [[00:02:08](https://www.youtube.com/watch?v=cYXL33GB0is&t=128.7s)]
+*  Can you take us back to the moments when you were first approaching the International Space Station? [[00:02:13](https://www.youtube.com/watch?v=cYXL33GB0is&t=133.8s)]
+*  I've read a bit about it. [[00:02:20](https://www.youtube.com/watch?v=cYXL33GB0is&t=140.8s)]
+*  It sounds like it was really a bit more terrifying than you let on the maybe or maybe that we understood in those moments when it was a bit maybe too dangerous to dock, too dangerous to go back to Earth. [[00:02:22](https://www.youtube.com/watch?v=cYXL33GB0is&t=142.8s)]
+*  Was there a moment where you thought maybe you're not going to make it back to Earth? [[00:02:35](https://www.youtube.com/watch?v=cYXL33GB0is&t=155.8s)]
+*  Not completely. [[00:02:39](https://www.youtube.com/watch?v=cYXL33GB0is&t=159.8s)]
+*  Obviously, we had failures that no one could have conceived of six degrees of freedom pitch rolling yaw. [[00:02:42](https://www.youtube.com/watch?v=cYXL33GB0is&t=162.3s)]
+*  And then you move translate up, forward, back up, down, left and right. [[00:02:48](https://www.youtube.com/watch?v=cYXL33GB0is&t=168.3s)]
+*  So you got six degrees of freedom, right? [[00:02:51](https://www.youtube.com/watch?v=cYXL33GB0is&t=171.8s)]
+*  We lost the ability to go in the forward direction and which really limited all of our other accesses of freedom or axes of freedom as well because of the failures that we encountered. [[00:02:53](https://www.youtube.com/watch?v=cYXL33GB0is&t=173.8s)]
+*  So when you're in that position, fortunately, we were on right in front of the station on that final approach to rendezvous to dock. [[00:03:05](https://www.youtube.com/watch?v=cYXL33GB0is&t=185.8s)]
+*  Fortunately, we were there and it was realizing the situation we were in that we had to dock. [[00:03:12](https://www.youtube.com/watch?v=cYXL33GB0is&t=192.8s)]
+*  It was because we weren't sure that what our other capabilities were. [[00:03:20](https://www.youtube.com/watch?v=cYXL33GB0is&t=200.8s)]
+*  We learned a lot about our thrusters in the months that followed. [[00:03:24](https://www.youtube.com/watch?v=cYXL33GB0is&t=204.8s)]
+*  But at that time, we didn't know why we're dropping thrusters. [[00:03:27](https://www.youtube.com/watch?v=cYXL33GB0is&t=207.8s)]
+*  We had no idea. [[00:03:29](https://www.youtube.com/watch?v=cYXL33GB0is&t=209.8s)]
+*  So we realized that docking was imperative and that the possibility if we weren't able to dock, would we be able to make it back? [[00:03:30](https://www.youtube.com/watch?v=cYXL33GB0is&t=210.8s)]
+*  We didn't know. [[00:03:38](https://www.youtube.com/watch?v=cYXL33GB0is&t=218.8s)]
+*  And so that definitely went through our minds. [[00:03:39](https://www.youtube.com/watch?v=cYXL33GB0is&t=219.8s)]
+*  Were you communicating that to each other in the moment or was it? [[00:03:41](https://www.youtube.com/watch?v=cYXL33GB0is&t=221.8s)]
+*  No, didn't have to. [[00:03:44](https://www.youtube.com/watch?v=cYXL33GB0is&t=224.8s)]
+*  Yeah, we trained many, many years together. [[00:03:46](https://www.youtube.com/watch?v=cYXL33GB0is&t=226.8s)]
+*  We worked through a lot of other failures. [[00:03:49](https://www.youtube.com/watch?v=cYXL33GB0is&t=229.8s)]
+*  And so we sort of read each other's mind and know where we're going with all the failures that are coming up. [[00:03:53](https://www.youtube.com/watch?v=cYXL33GB0is&t=233.8s)]
+*  These were not expected. [[00:03:58](https://www.youtube.com/watch?v=cYXL33GB0is&t=238.8s)]
+*  But at the same time, we are like, what do we have? [[00:04:00](https://www.youtube.com/watch?v=cYXL33GB0is&t=240.8s)]
+*  What can we do? [[00:04:03](https://www.youtube.com/watch?v=cYXL33GB0is&t=243.8s)]
+*  And we're also talking, communicating with the ground. [[00:04:04](https://www.youtube.com/watch?v=cYXL33GB0is&t=244.8s)]
+*  And there's an army of people down on the ground who are helping us with restarting our thrusters to make sure that we could get that one degree back, one degree of freedom back again. [[00:04:07](https://www.youtube.com/watch?v=cYXL33GB0is&t=247.8s)]
+*  As you know, when you were up there to hear down on Earth, your mission became quite political. [[00:04:17](https://www.youtube.com/watch?v=cYXL33GB0is&t=257.8s)]
+*  President Trump was saying that you were abandoned in space by President Biden and that he had to come rescue you with the help of SpaceX. [[00:04:23](https://www.youtube.com/watch?v=cYXL33GB0is&t=263.8s)]
+*  Is that how it felt? [[00:04:31](https://www.youtube.com/watch?v=cYXL33GB0is&t=271.8s)]
+*  Did you feel abandoned in space? [[00:04:33](https://www.youtube.com/watch?v=cYXL33GB0is&t=273.8s)]
+*  You know, I think we tried to articulate as best we could while we were there on this topic. [[00:04:35](https://www.youtube.com/watch?v=cYXL33GB0is&t=275.8s)]
+*  We got no reason to doubt what our national leaders say. [[00:04:40](https://www.youtube.com/watch?v=cYXL33GB0is&t=280.8s)]
+*  They've given us no reason to doubt. [[00:04:43](https://www.youtube.com/watch?v=cYXL33GB0is&t=283.8s)]
+*  But I don't live in that world. [[00:04:45](https://www.youtube.com/watch?v=cYXL33GB0is&t=285.8s)]
+*  We can't speak to that at all. [[00:04:47](https://www.youtube.com/watch?v=cYXL33GB0is&t=287.8s)]
+*  We knew that not only our families who are supporting us, but there's an army of people down here at mission control, both for Boeing and NASA, that were working the problem, trying to understand what were the technical problems. [[00:04:50](https://www.youtube.com/watch?v=cYXL33GB0is&t=290.8s)]
+*  What is the best way to get us back? [[00:05:02](https://www.youtube.com/watch?v=cYXL33GB0is&t=302.8s)]
+*  What is the manifest for space station? [[00:05:04](https://www.youtube.com/watch?v=cYXL33GB0is&t=304.8s)]
+*  And so all of those, there's a lot of factors that go into that. [[00:05:06](https://www.youtube.com/watch?v=cYXL33GB0is&t=306.8s)]
+*  So, you know, we've worked this. [[00:05:09](https://www.youtube.com/watch?v=cYXL33GB0is&t=309.8s)]
+*  Both of us have been here for quite some time. [[00:05:11](https://www.youtube.com/watch?v=cYXL33GB0is&t=311.8s)]
+*  We know a lot of these people who are working here. [[00:05:13](https://www.youtube.com/watch?v=cYXL33GB0is&t=313.8s)]
+*  And we knew nobody was going to just let us down. [[00:05:15](https://www.youtube.com/watch?v=cYXL33GB0is&t=315.8s)]
+*  We knew everybody had our back and was looking out for us. [[00:05:17](https://www.youtube.com/watch?v=cYXL33GB0is&t=317.8s)]

@@ -1,0 +1,123 @@
+---
+Date Generated: May 31, 2025
+Transcription Model: whisper medium 20231117
+Length: 351s
+Video Keywords: ['MSNBC']
+Video Views: 10015
+Video Rating: None
+Video Description: A four-year-old Mexican girl is facing deportation and is at risk of losing lifesaving medical treatment due to President Trump's immigration crackdown. Rep. Rob Menendez (D-NJ) joins Ana Cabrera to discuss the policies, saying "no one is safe in Trump's America."
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #Immigration #Politics
+---
+
+# 'Just inhumane': Lawmaker reacts to 4-year-old in need of lifesaving treatment facing deportation
+**MSNBC - The Latest:** [May 30, 2025](https://www.youtube.com/watch?v=s6J-Y4dsUng)
+*  And here with us now is Democratic Congressman Robin Endez of New Jersey. [[00:00:00](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=0.0s)]
+*  Congressman, you've been here listening to all of that. [[00:00:04](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=4.66s)]
+*  What's your reaction? [[00:00:06](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=6.96s)]
+*  It's heartbreaking. [[00:00:07](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=7.96s)]
+*  I mean, just thinking about being her parents, you know, I have two young kids. [[00:00:08](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=8.96s)]
+*  So thinking about Sophia's story, it's happening too often across this country. [[00:00:12](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=12.32s)]
+*  And it's completely separate from what the president said he would do upon taking office. [[00:00:17](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=17.240000000000002s)]
+*  He had spoken only about criminals that were dangerous to our community. [[00:00:23](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=23.0s)]
+*  Sophia's not dangerous to anyone. [[00:00:26](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=26.080000000000002s)]
+*  And if we believe in each individual life, then we should give her the opportunity to [[00:00:28](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=28.38s)]
+*  have the medical care that she needs here, to give her parents the opportunity to raise [[00:00:32](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=32.94s)]
+*  a healthy child. [[00:00:36](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=36.98s)]
+*  That's what this country is about, and that's what we should be focused on. [[00:00:37](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=37.98s)]
+*  We've been covering individual stories here on this show the last couple of days that [[00:00:41](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=41.22s)]
+*  each have its own little, I think, element that tugs at the human heartstrings. [[00:00:45](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=45.3s)]
+*  You've heard of families being deported, parents being kind of ripped apart away from [[00:00:52](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=52.34s)]
+*  their families, or seeing these increasing cases of people showing up to their court [[00:00:59](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=59.300000000000004s)]
+*  appointments only to be then having their cases immediately dismissed and then be greeted [[00:01:04](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=64.34s)]
+*  by ICE officials to have immediate deportation. [[00:01:08](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=68.54s)]
+*  These are immigrants or migrants who are trying to follow the rules, who thought that they [[00:01:12](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=72.82000000000001s)]
+*  came into the country and are working their way legally through the immigration system. [[00:01:17](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=77.26s)]
+*  Is doing it the right way now making them easy targets? [[00:01:23](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=83.58000000000001s)]
+*  We're putting them in an impossible situation. [[00:01:27](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=87.22s)]
+*  Like you said, doing what they're required to do, showing up for their appointments just [[00:01:29](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=89.18s)]
+*  to find out those cases have been dismissed and now they're subject to immediate deportation. [[00:01:33](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=93.38000000000001s)]
+*  But these stories are important because I do think the American people, this is not [[00:01:38](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=98.62s)]
+*  what they signed up for. [[00:01:41](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=101.7s)]
+*  This is not what they wanted when they perhaps voted for Donald Trump. [[00:01:42](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=102.98s)]
+*  This is a very different story that's happening. [[00:01:47](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=107.1s)]
+*  These stories are just a small number of what's happening on a daily basis. [[00:01:49](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=109.05999999999999s)]
+*  We see it from New Jersey to California. [[00:01:53](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=113.14s)]
+*  And we're ripping communities apart. [[00:01:55](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=115.86s)]
+*  We're ripping families apart. [[00:01:57](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=117.17999999999999s)]
+*  And I don't think that's what Americans want or believe we should be doing in this moment. [[00:01:58](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=118.86s)]
+*  We have a broken immigration system. [[00:02:02](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=122.69999999999999s)]
+*  We need to fix it. [[00:02:04](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=124.47999999999999s)]
+*  But these stories, these individuals, people like Sophia should not be the consequence [[00:02:06](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=126.02s)]
+*  of us having failed to take action at the federal level and watching this administration [[00:02:09](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=129.94s)]
+*  doing what it's doing to just far too many individuals. [[00:02:14](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=134.54s)]
+*  Is there anything that you think would be a tipping point that would change the administration's [[00:02:17](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=137.46s)]
+*  approach? [[00:02:21](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=141.62s)]
+*  I mean, it's just inhumane at this point. [[00:02:22](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=142.62s)]
+*  There's just too many stories that we've heard. [[00:02:24](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=144.78s)]
+*  This is a purposeful decision that they've made, and they're making these types of decisions [[00:02:26](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=146.78s)]
+*  on a daily basis across the country. [[00:02:30](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=150.5s)]
+*  And the American people need to step forward and make their voices heard because we're [[00:02:33](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=153.3s)]
+*  doing it in Congress. [[00:02:37](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=157.34s)]
+*  The representatives who represent that area of California have signed a letter and sent [[00:02:38](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=158.82s)]
+*  it to the administration highlighting this case. [[00:02:43](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=163.58s)]
+*  But collectively, we have to say that this is not reflective of our American values and [[00:02:45](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=165.94s)]
+*  that we can do better. [[00:02:51](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=171.7s)]
+*  We can enforce our immigration laws without having things like taking Sophia away from [[00:02:52](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=172.78s)]
+*  her medical providers. [[00:02:57](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=177.46s)]
+*  So we need people to speak up and say that this isn't right and that we need to do better. [[00:02:58](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=178.98s)]
+*  You have a fairly large migrant population within the district that you serve in New [[00:03:03](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=183.66s)]
+*  Jersey. [[00:03:07](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=187.14s)]
+*  What's your reaction to the Supreme Court ruling that just came down this hour that [[00:03:08](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=188.26s)]
+*  is going to allow the Trump administration to revoke the status, the protected status [[00:03:11](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=191.9s)]
+*  of about half a million people? [[00:03:17](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=197.18s)]
+*  Yes. When you look at the parole program, it's important for people to know that these [[00:03:18](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=198.98000000000002s)]
+*  people were screened, that they have a sponsor here in the United States, right? [[00:03:21](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=201.54000000000002s)]
+*  And they largely go into these communities and immediately contribute and start laying [[00:03:24](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=204.82s)]
+*  their roots there. [[00:03:29](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=209.70000000000002s)]
+*  And they were given an assurance by the Biden administration that they would have two years, [[00:03:30](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=210.58s)]
+*  right, because of what's happening in their home countries. [[00:03:34](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=214.98000000000002s)]
+*  To take that away so quickly is not just upends their lives, but upends all the communities [[00:03:37](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=217.34s)]
+*  that they're a part of. [[00:03:43](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=223.17999999999998s)]
+*  And people need to really think about what it would be like for these individuals to [[00:03:44](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=224.57999999999998s)]
+*  find out on one day they have protected status here in the country and the next day they [[00:03:47](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=227.98s)]
+*  don't. [[00:03:52](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=232.22s)]
+*  It's an impossible situation that is not reflective of our American values being a country of [[00:03:53](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=233.22s)]
+*  immigrants. [[00:04:00](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=240.7s)]
+*  And it's going to be immensely problematic, not just for those individuals, but the communities [[00:04:01](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=241.7s)]
+*  that they're a part of. [[00:04:05](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=245.5s)]
+*  You went to an ICE facility in Newark, New Jersey, and by now it's video that's been [[00:04:06](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=246.82s)]
+*  probably seen around the world, the confrontation with some ICE officials. [[00:04:11](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=251.5s)]
+*  Now one of your colleagues, Congresswoman Monica McGyver, is facing actual charges. [[00:04:14](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=254.94s)]
+*  DOJ, I know, has threatened you and another congresswoman who was there, Bonnie Watson [[00:04:20](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=260.86s)]
+*  Coleman, of possible charges as well. [[00:04:27](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=267.14s)]
+*  What more can you tell us about that situation? [[00:04:32](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=272.06s)]
+*  Have you had additional conversations with the DOJ since that moment? [[00:04:34](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=274.3s)]
+*  Yeah, I mean, the lawns of communication have been open. [[00:04:39](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=279.06s)]
+*  They've clearly moved forward with charging Congresswoman McGyver. [[00:04:41](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=281.86s)]
+*  But what's important for the American people to know is that this was a clear act of intimidation. [[00:04:44](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=284.66s)]
+*  We had done these types of unannounced oversight visits twice before at the Elizabeth Detention [[00:04:48](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=288.90000000000003s)]
+*  Center. [[00:04:53](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=293.94s)]
+*  It was our first time doing it at Delaney Hall. [[00:04:54](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=294.94s)]
+*  But we have a legal right to do so. [[00:04:56](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=296.06s)]
+*  Both Republican and Democratic members do these types of oversight visits. [[00:04:58](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=298.38s)]
+*  Over 20 armed ICE HSI officers come confront us, was meant to intimidate us, was meant [[00:05:03](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=303.26s)]
+*  to silence us. [[00:05:10](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=310.29999999999995s)]
+*  I think what's important for the American people to think about is if they can do that [[00:05:11](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=311.29999999999995s)]
+*  to members of Congress, what are they doing on a daily basis in all of our communities? [[00:05:14](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=314.85999999999996s)]
+*  Because when they ask themselves that question, I think people will come to the conclusion [[00:05:20](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=320.65999999999997s)]
+*  that no one is safe in Trump's America. [[00:05:24](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=324.02s)]
+*  Congressman Robin Endes, thank you very much for coming in. [[00:05:26](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=326.7s)]
+*  Thank you. [[00:05:29](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=329.78s)]
+*  Appreciate it. [[00:05:30](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=330.78s)]
+*  Thank you. [[00:05:33](https://www.youtube.com/watch?v=s6J-Y4dsUng&t=333.02s)]

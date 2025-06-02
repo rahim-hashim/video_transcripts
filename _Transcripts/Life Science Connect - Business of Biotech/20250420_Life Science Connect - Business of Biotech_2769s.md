@@ -1,20 +1,16 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2769s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech', 'finance']
-Video Views: 253
+Video Views: 281
 Video Rating: None
 Video Description: Business of Biotech MVP Allan Shaw is back to talk about the rise of China's biotech sector, and its evolution from fast follower to global innovation powerhouse. Increased deal activity with Chinese biopharmaceutical companies is injecting new risk into traditional development models in the West, despite an uncertain policy environment in the U.S. vis-à-vis China. Will faster trial starts, cheaper asset upfronts, and a growing talent base slingshot Shanghai's biotech hub into an innovation destination on par with Boston and San Francisco?
-
 Subscribe to the podcast on your preferred platform or watch the videocast at lifescienceleader.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast at lifescienceleader.com
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

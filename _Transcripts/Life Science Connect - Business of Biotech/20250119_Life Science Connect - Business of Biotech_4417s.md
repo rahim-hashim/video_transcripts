@@ -1,23 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4417s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 1902
+Video Views: 1903
 Video Rating: None
 Video Description: Andrey Doronichev, known to many simply as Dobry, is perhaps best known for taking YouTube mobile. You heard that right. If it weren't for him and the teams he led, YouTube might still be a desktop experience. He went on to lead product strategy at Google before launching the startup Optic in 2022. What's that got to do with biotech, you ask? Well, it's Optic where he feels his greatest contributions are to come, and his sights are set squarely on disrupting the way we discover therapeutic targets. On this episode of the Business of Biotech, Dobry, Life Science Leader Chief Editor Ben Comer, and I explore the intersection of AI and biotech, discuss BIOPTIC's beginnings and its approach to leveraging advanced screening technologies for drug discovery, and address BIOPTIC's biggest challenges -- data access and industry skepticism.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

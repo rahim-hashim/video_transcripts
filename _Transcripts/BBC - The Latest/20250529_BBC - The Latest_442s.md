@@ -1,0 +1,113 @@
+---
+Date Generated: May 29, 2025
+Transcription Model: whisper medium 20231117
+Length: 442s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 123525
+Video Rating: None
+Video Description: Paul Doyle has been charged with seven offences after the car crash in Liverpool, UK, on Monday.
+ 
+The 53-year-old, from West Derby in Liverpool, will appear in Liverpool Magistrates' Court on Friday.
+Police said 79 people were hurt in total; the youngest victim was nine years old, the oldest was 78.
+The incident happened close to the route of a victory parade being held to celebrate Liverpool FC's Premier League title.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#Liverpool #BBCNews
+---
+
+# Paul Doyle charged over Liverpool, UK, parade crash | BBC News
+**BBC - The Latest:** [May 29, 2025](https://www.youtube.com/watch?v=IY9OpvHGgD4)
+*  Apologies to break away from that, but we're going live to that news [[00:00:00](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=0.0s)]
+*  conference that's just getting underway in Liverpool. [[00:00:05](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=5.36s)]
+*  From West Derby, Liverpool, with offences of dangerous driving, [[00:00:08](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=8.0s)]
+*  causing grievous bodily harm with intent, wounding with intent to [[00:00:13](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=13.08s)]
+*  cause grievous bodily harm and attempting to cause grievous bodily [[00:00:16](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=16.92s)]
+*  harm with intent. This is following a complex and ongoing investigation [[00:00:20](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=20.88s)]
+*  into an incident in Water Street, Liverpool, on Monday the 26th of May, [[00:00:25](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=25.96s)]
+*  2025. The defendant will appear before Liverpool Magistrates Court on [[00:00:30](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=30.360000000000003s)]
+*  Friday the 30th of May, 2025. The investigation is at an early stage. [[00:00:36](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=36.08s)]
+*  Prosecutors and police are continuing to work at pace to review a huge [[00:00:43](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=43.52s)]
+*  volume of evidence. This includes multiple pieces of video footage and [[00:00:48](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=48.32000000000001s)]
+*  numerous witness statements. It is important to ensure that every [[00:00:53](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=53.76s)]
+*  victim gets the justice they deserve. The charges will be kept under review [[00:00:58](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=58.2s)]
+*  as the investigation progresses. We know that Monday's shocking scenes [[00:01:03](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=63.96s)]
+*  reverberated around the city of Liverpool and the entire country on [[00:01:09](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=69.24s)]
+*  what should have been a day of celebration for hundreds of thousands [[00:01:14](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=74.48s)]
+*  of Liverpool FC supporters. Our thoughts remain with all of those affected. [[00:01:17](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=77.75999999999999s)]
+*  Criminal proceedings against the defendant are active and he has the [[00:01:24](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=84.56s)]
+*  right to a fair trial. It is extremely important that there should be no [[00:01:28](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=88.44s)]
+*  reporting, commentary or sharing of information or media online, which [[00:01:33](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=93.08s)]
+*  could in any way prejudice these proceedings. Please allow the legal [[00:01:38](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=98.6s)]
+*  process to take its course without undue speculation. Thank you. [[00:01:42](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=102.96000000000001s)]
+*  Good afternoon. I'm Assistant Chief Constable Jenny Sims from Merseyside [[00:01:47](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=107.4s)]
+*  Police. I want to provide an update to you all during what has been a very [[00:01:53](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=113.92s)]
+*  challenging week. As always, our thoughts remain with all of those [[00:01:59](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=119.24000000000001s)]
+*  injured and affected by this appalling incident which took place during the [[00:02:04](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=124.96000000000001s)]
+*  Liverpool Football Club parade on Monday. As you have heard from our [[00:02:09](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=129.6s)]
+*  CPS colleagues, the man arrested by Merseyside Police following the incident [[00:02:14](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=134.64s)]
+*  on Water Street has now been charged with seven serious offences. Paul [[00:02:19](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=139.28s)]
+*  Desmond Sanders Doyle, 53 years of Burkill Road, West Derby, has this [[00:02:25](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=145.76s)]
+*  afternoon been charged with two counts of unlawful and malicious wounding [[00:02:31](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=151.35999999999999s)]
+*  with intent to cause grievous bodily harm. Two counts of causing unlawful [[00:02:35](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=155.92s)]
+*  and malicious grievous bodily harm with intent to cause grievous bodily harm. [[00:02:41](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=161.48s)]
+*  Two counts of attempted unlawful and malicious grievous bodily harm with [[00:02:46](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=166.6s)]
+*  intent to cause grievous bodily harm. All contrary to section 18 of the [[00:02:51](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=171.12s)]
+*  Offences Against the Person Act 1861. He has also been charged with one [[00:02:56](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=176.24s)]
+*  count of dangerous driving, contrary to section two of the Road Traffic Act [[00:03:02](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=182.64s)]
+*  1988. Doyle has been remanded into custody and he will appear at Liverpool [[00:03:07](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=187.96s)]
+*  Magistrates Court in the morning. [[00:03:15](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=195.32s)]
+*  I fully understand how this incident has left us all shocked and saddened, [[00:03:19](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=199.04s)]
+*  and I know many will continue to have concerns and questions. [[00:03:25](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=205.04s)]
+*  Our detectives are working tirelessly with diligence and professionalism to [[00:03:30](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=210.84s)]
+*  seek the answer to all of those questions. When we are able to, we will [[00:03:37](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=217.08s)]
+*  provide further information. [[00:03:43](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=223.4s)]
+*  Merseyside Police is determined to gather as much evidence as possible [[00:03:46](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=226.60000000000002s)]
+*  to ensure that every avenue is explored. [[00:03:51](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=231.32000000000002s)]
+*  Now that Paul Doyle has been charged, we ask that the judicial process be [[00:03:56](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=236.0s)]
+*  allowed to continue without any speculation online or anywhere else that [[00:04:01](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=241.23999999999998s)]
+*  could impede the pursuit of justice for all of those affected. [[00:04:07](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=247.04s)]
+*  A total of 79 people were injured. We continue to be in contact with our [[00:04:12](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=252.76s)]
+*  officers and staff, and seven people remain in hospital, receiving the expert [[00:04:19](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=259.15999999999997s)]
+*  care of our NHS colleagues. [[00:04:25](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=265.24s)]
+*  I hope that all of those who were injured or witnessed in this terrible [[00:04:28](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=268.52s)]
+*  incident are able, given time, to heal and recover. [[00:04:33](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=273.2s)]
+*  This continues to be a large and complex investigation, and detectives are [[00:04:39](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=279.4s)]
+*  reviewing a huge volume of CCTV and mobile phone footage submitted by the [[00:04:44](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=284.76s)]
+*  public and businesses, as well as footage from our own body-worn cameras [[00:04:50](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=290.44s)]
+*  and dash cams. [[00:04:55](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=295.84s)]
+*  I'm extremely grateful for the ongoing cooperation of the public, who have and [[00:04:58](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=298.47999999999996s)]
+*  continue to share their footage and witness accounts with detectives. [[00:05:03](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=303.56s)]
+*  Their input is vital to our ongoing inquiries. [[00:05:09](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=309.35999999999996s)]
+*  I would encourage anyone who has not yet contacted the police, who may have [[00:05:14](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=314.71999999999997s)]
+*  relevant information, to please come forward and contact us. [[00:05:19](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=319.47999999999996s)]
+*  Information, including video footage, can be passed to us via the major [[00:05:24](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=324.64s)]
+*  incident police portal, details of which are available on our Merseyside [[00:05:29](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=329.68s)]
+*  Police website. [[00:05:35](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=335.16s)]
+*  As always, our thoughts remain with victims and everyone impacted. [[00:05:37](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=337.68s)]
+*  Thank you. [[00:05:43](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=343.16s)]
+*  That was the Assistant Chief Constable of Merseyside Police, Jenny Sims, and [[00:05:50](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=350.48s)]
+*  the Chief Crown Prosecutor for the Mersey Cheshire Region, Sarah Hammond, [[00:05:55](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=355.36s)]
+*  giving us an update in this case. [[00:06:00](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=360.28000000000003s)]
+*  They said that nearly 72 hours after he was arrested, 53-year-old Paul Doyle, [[00:06:02](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=362.6s)]
+*  from the West Derby area of Liverpool, is charged with a series of offences, [[00:06:09](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=369.32s)]
+*  including dangerous driving, causing GBH with intent, wounding and several [[00:06:14](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=374.23999999999995s)]
+*  counts of malicious bodily harm. [[00:06:19](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=379.0s)]
+*  He will appear before Liverpool Magistrates Court tomorrow morning, [[00:06:21](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=381.71999999999997s)]
+*  Friday 30 May. [[00:06:26](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=386.11999999999995s)]
+*  They also said that the investigation is still at an early stage and they [[00:06:28](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=388.2s)]
+*  are going through a huge amount of evidence. [[00:06:31](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=391.96s)]
+*  We know they have been trawling through CCTV to understand the route that the [[00:06:33](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=393.84s)]
+*  car involved in this incident took on Monday night. [[00:06:38](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=398.2s)]
+*  Just to remind you, this all happened on Monday evening at the end of the [[00:06:41](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=401.76s)]
+*  Liverpool FC victory parade when thousands of Liverpool fans were making [[00:06:46](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=406.71999999999997s)]
+*  their way back into the city centre and a dark Ford Galaxy ploughed into that [[00:06:51](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=411.24s)]
+*  crowd, causing 79 people to be injured. [[00:06:56](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=416.2s)]
+*  The youngest of those was a nine-year-old, the oldest was 78. [[00:07:00](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=420.2s)]
+*  Seven of those people still remain in hospital, are being treated for their [[00:07:05](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=425.72s)]
+*  injuries. [[00:07:09](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=429.92s)]
+*  But just to repeat, 53-year-old Paul Doyle from the West Derby area of [[00:07:10](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=430.92s)]
+*  Liverpool will appear at Liverpool Magistrates Court tomorrow morning for [[00:07:15](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=435.52s)]
+*  the next stage in the legal process. [[00:07:19](https://www.youtube.com/watch?v=IY9OpvHGgD4&t=439.04s)]

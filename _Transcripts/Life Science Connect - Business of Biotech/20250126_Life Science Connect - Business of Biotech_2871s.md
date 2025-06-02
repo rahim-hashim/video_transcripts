@@ -1,23 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2871s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 210
+Video Views: 211
 Video Rating: None
 Video Description: Life Science Leader's Ben Comer and Acumen Pharmaceuticals' Dr. Jim Doherty join the Business of Biotech to discuss Dr. Doherty's lifelong, singular focus on researching therapeis for CNS diseases. We cover the historical challenges associated with the development of new therapeutics for Alzheimer’s disease, advances in the space, the controversies that have ensued on the heels of recent amlyloid-targeting drug approvals, and where Acumen Pharmaceuticals and its lead candidate, Sabirnetug, fit on the landscape. We also cover the critical and growing role of biomarkers in matching Alzheimer's therapies to specific patients, and assess the growing demand for CNS therapeutics.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

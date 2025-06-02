@@ -1,20 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3378s
 Video Keywords: []
 Video Views: 113
 Video Rating: None
 Video Description: Ampio Pharmaceuticals is currently weaving the gauntlet of a clinical hold triggered by COVID's disruption to clinical studies of its lead candidate Ampion, and recently launched an independent investigation into that trial and others. On this episode. Ampio Pharmaceuticals chairman and CEO Mike Martino joins the Business of Biotech for a candid discussion on the company, the candidate, the disruption, and the go-forward plan. 
-
 #businessofbiotech #biopharma #biotech #cytiva
-
 http://cytiva.com/emergingbiotech
-
 Audio version available here: https://www.bioprocessonline.com/doc/inflammation-antibodies-with-ampio-pharmaceutical-s-mike-martino-ceo-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3068s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery', 'Regulatory Affairs', 'Biotech Finance']
 Video Views: 133
 Video Rating: None
 Video Description: While you might be aware that Sail Biomedicines was just formed up in Q4 of last year, the product of Flagship Pioneering’s decision to merge Senda Biosciences and Laronde, two of its programmable medicine platform companies. What you likely haven’t heard is the inside story on how the merger was executed, how the two companies are integrating their talent, IP, and resources, and what Sail Biomedicines CEO Dr. Guillaume Pfefer and team are currently doing to take the fruits of the company’s platform into the clinic. On this episode of the Business of Biotech, Dr. Pfefer takes us under the hood of Sail Biomedicines and its mission to marry evolution and AI to develop programmable medicines based on eRNA.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at www.bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

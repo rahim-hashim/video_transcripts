@@ -1,23 +1,17 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3993s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 223
+Video Views: 224
 Video Rating: None
 Video Description: In close partnership with Johns Hopkins and TriLink BioTechnologies, Jeff Coller, Ph.D. and Michelle Kim, Ph.D. have built a sandbox for RNA developers and aspirational RNA business builders to play in. On this week's episode of the Business of Biotech, we team up once again with Advancing RNA's Anna Rose Welch to learn about the venture, dubbed the Johns Hopkins University RNA Innovation Center. Anna Rose and I queried Drs. Coller and Kim on how the Center came to be, what it has to offer, and how early-stage RNA explorers can benefit from the resource.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

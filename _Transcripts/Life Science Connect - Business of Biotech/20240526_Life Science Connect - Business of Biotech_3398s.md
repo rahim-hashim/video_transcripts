@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3398s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery']
-Video Views: 283
+Video Views: 284
 Video Rating: None
 Video Description: Mythic Therapeutics Chief Scientific Officer and Co-Founder Brian Fiske, Ph.D. broke some unwritten protocol with his rapid and multifaceted transition from academia to industry. He calls his many, and sometimes concurrent, early experiences as an MIT Ph.D. student, a Flagship Ventures Fellow, a Bain consultant, a hospital researcher, and a biopharma consultant indiciative of a young man who didn't want to make decisions. In retrospect, it looks more like the perfect preparatory mix for a guy who's leading a company with a unique approach to a white-hot ADC (antibody-drug conjugate) therapeutics market. On this epsiode of the Business of Biotech, get to know Brian as we peel back the layers to expose what's fueling the rapid rise of Mythic's ADC candidate in non-small cell lung cancer.
-
 You've listened along for years -- now you can watch along, too! Go to bioprocessonline.com/solution/the-business-of-biotech-podcast, where you can put faces to voices as you watch hundreds of interviews with the world's best biotech builders. While you're there, subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

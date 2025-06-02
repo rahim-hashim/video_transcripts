@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2820s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Biotech Discovery', 'Biotech Regulatory Affairs', 'Bioprocess Manufacturing Services', 'Bioprocess Manufacturing Controls']
 Video Views: 177
 Video Rating: None
 Video Description: Without doubt, the grand and collaborative experiment that was the mRNA COVID vaccine contributed mightily to the pandemic response and continues to save lives untold. It also demonstrated the collective power of public/private partnership in biopharma. Having acknowledged that, no first iteration of a new technology is ever the best iteration of that technology. On this week's episode of the Business of Biotech, we welcome Carsten Rudolph, Ph.D., co-founder and CEO of a company that recognizes this room for improvement. Ethris is developing mRNA-based candidates for the treatment of respiratory viral infections and rare pulmonary diseases, in addition to mucosal, multivalent, and mutation-agnostic prophylactic vaccines. Dr. Rudolph explains the concept, the business case, and how he's navigating Ethris toward a better treatment and vaccine paradigm in the wake of the pandemic.
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

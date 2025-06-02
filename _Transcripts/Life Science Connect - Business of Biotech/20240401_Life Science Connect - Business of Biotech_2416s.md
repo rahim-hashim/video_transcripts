@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2416s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance']
 Video Views: 116
 Video Rating: None
 Video Description: We've really been looking forward to dropping this episode with Karen Harris, Chief Financial Officer and Head of Mission-Related Investing at the Alzheimer's Drug Discovery Foundation. While the markets have warmed a bit since we recorded this episode, Karen's thoughtful perspective on the sometimes tumultuous Alzheimer's therapeutics space is valuable to any drug developer working in the cognitive medicines arena. In this episode of the Business of Biotech podcast, we follow Karen's journey from institutional investment banking to the incredibly gratifying work she does now, helping to fund the novel biopharma companies that are working in earnest to solve an emotionally burdensome and expensive problem. Karen shares ADDF's strategy and offers plenty of insight into the value proposition that venture philathropy offers the biotech community. Tune in!
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

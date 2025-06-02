@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4133s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery']
-Video Views: 319
+Video Views: 321
 Video Rating: None
 Video Description: Data drives decision-making at Aulos Bioscience. It's also driven the career trajectory of its CEO. On this week's episode of the Business of Biotech podcast, we get an introspective walk through Aron Knickerbocker's strategically-orchestrated career path, from his early days in the labs at Bristol-Myers Squibb and Genentech to his leadership of Aulos Bioscience, a company that boasts the first AI-generated antibody in human clinical trials. We explore Aulos' innovative IL-2 antibody and the role AI played in its highly-targeted and toxicity-reducing design, and we do it in pragmatic fashion — Aron's not about the AI hype, he's about the AI data — and in its Phase 1/2 clinical trial, the data is looking pretty good. 
-
 Register for Bioprocess Online’s Bio Expo Live, being held July 30th through August 1st . This inaugural expo is a fantastic opportunity for biopharma companies and contract manufacturers to evaluate the latest and greatest from the comfort of your desktop or mobile device. Conveniently, we’ve broken down the lineup into Upstream Solutions July 30th, Downstream Solutions July 31st, and Quality, Analytical, and Data Solutions August 1st. It’s absolutely free to register for this series of short, digestible, and interactive sessions -- just hit the links above to register for Bio Expo Live today!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

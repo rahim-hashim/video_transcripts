@@ -1,25 +1,18 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3887s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 291
 Video Rating: None
 Video Description: This week, it’s another “Business of Biotech-meets-Business-of-RNA” takeover with Circio CEO Erik Digman Wiklund, Ph.D. and guest co-host Anna Rose Welch of Advancing RNA. While Circio’s legacy is in cancer immunology (it still boasts a cancer vaccine candidate targeting KRAS driver mutations), the company made a bold pivot, of sorts, when it committed headlong to the circular RNA future. Now, it’s in the throes of fine-tuning a platform for the development of novel circRNA medicines for rare disease, vaccines, and cancer. On this episode of the Business of Biotech, we go deep inside the story behind the pivot, we explore the RNA therapeutic platform-versus-product appetite among biotech investors, and Dr. Digman Wiklund shares insights into the challenges his company overcame to enable such a dramatic shift in focus. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Subscribe to our monthly Business of Biotech newsletter.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

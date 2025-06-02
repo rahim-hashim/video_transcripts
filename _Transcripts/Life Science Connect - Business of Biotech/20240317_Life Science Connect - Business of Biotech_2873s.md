@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2873s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Regulatory Affairs']
 Video Views: 138
 Video Rating: None
 Video Description: Gavin Samuels, M.D. found his work as an intensive care physician boring. After earning his M.D., he did that for a few years before moving into intensive care management roles. It wasn't until he left the hospital and entered biopharma that he found his footing, cutting his teeth in business development at places like Merck, Pfizer, Quark Pharma, and Teva. He even headed growth strategy at Lonza for a while. Now, he's Chief Business Officer and General Partner at CinRx Pharma, where a deep pipeline of early- to late-stage candidates keeps him on his dealmaking toes. Within minutes of our conversation, Dr. Samuels' introspective reflections on biotech dealmaking and negotiations planted this episode firmly on the Business of Biotech podcast highlight reel.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

@@ -1,21 +1,16 @@
 ---
-Date Generated: May 22, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2085s
 Video Keywords: ['Business of Biotech', 'Biopharma', 'Biotech']
-Video Views: 150
+Video Views: 151
 Video Rating: None
 Video Description: After nearly five years as host of the Business of Biotech podcast, Matt Pillar is handing the mic over to the voice of the Business of Biotech 2.0, veteran life sciences journalist Ben Comer. On this epsiode, Ben shares his nearly 20-year journey covering the pharmaceutical space, from Haymarket Media to PwC to Pharmaceutical Executive and InVivo magazines, before joining Life Science Connect as Chief Editor at Life Science Leader. He shares stories of the wild ride he's enjoyed along the way, how the stories he's covered have shaped his editorial perspective, and his plans for the next chapter of the Business of Biotech podcast. 
-
 Catch Ben's first episode as host next Monday, and every Monday after that. Subscribe to the podcast on your preferred platform and watch the videocast at lifescienceleader.com.
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

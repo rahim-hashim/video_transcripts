@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4467s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
 Video Views: 843
 Video Rating: None
 Video Description: Hilary Eaton, Ph.D. was a self-described AI skeptic, particularly as it relates to using the tool in drug discovery. Then, a series of professional and deeply personal life events and medical discoveries put her in a position to confront that skepticism head-on. Today, she's Chief Business Officer at ProFluent Bio, a company that's committed to democratizing access to open-source AI gene editing tools that are custom-built for pharmaceutical development. On this episode of the Business of Biotech, Dr. Eaton shares her story and makes a pragmatic case for the transformative value of AI to biotech builders. Whether your bullish or bearish about the intersection of advanced therapeutic development and artificial intelligence, this one's a must-listen. 
-
 Access this and hundreds of episodes of the Business of Biotech videocast under the Listen & Watch tab at bioprocessonline.com.
-
 Get in touch with guest and topic suggestions: matt.pillar@lifescienceconnect.com
-
 Find Matt Pillar on LinkedIn: https://www.linkedin.com/in/matthewpillar/
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb

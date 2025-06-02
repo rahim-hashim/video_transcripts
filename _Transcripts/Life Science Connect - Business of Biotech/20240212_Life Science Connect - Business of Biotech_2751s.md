@@ -1,21 +1,16 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2751s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Discovery', 'Bioprocess Manufacturing Controls']
 Video Views: 214
 Video Rating: None
 Video Description: The concept of programmable biology is fueling a new breed of biotech, one that requires the marriage of computational and traditional science (and both computational and traditional scientists) on the entire journey from discovery to commercial. Bit.bio is exemplary of this new breed. Its CEO, Dr. Mark Kotter doesn’t pull any punches when addressing the complexity involved in building out the company’s capabilities. At the discovery stage alone, bit.bio has hired – and integrated – stem cell biologists, synthetic biologists, genetic engineering experts, cellular biologists, sequencing experts, data scientists, bioinformatics pros, and machine learning experts. 
-
 On this episode of the Business of Biotech, recorded in San Francisco during JPM Week, we catch up with Dr. Kotter on the work bit.bio is doing, how it’s doing it, and how he and his leadership team are recruiting and retaining a new breed of biotech talent to sustain the effort. Let’s give it a listen. 
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

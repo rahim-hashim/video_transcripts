@@ -1,19 +1,15 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 4434s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Regulatory Affairs', 'Biotech Discovery']
 Video Views: 453
 Video Rating: None
 Video Description: Few drug discovery and development concepts are as hyped, and as such, draw as much polarity from drug developers, as machine learning and artificial intelligence. One company on the bullish end of the spectrum is Flagship Pioneering's Generate: Biomedicines, which bills itself at the "intersection of machine learning, biological engineering, and medicine." To get a grip on the "generative biology" work it's doing and the AI/ML impact it anticipates in the discovery and development of therapeutics, as well as clinical trials, we sat down with veteran biotech builder Mike Nally, CEO at Generate and CEO-Partner at Flagship Pioneering.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

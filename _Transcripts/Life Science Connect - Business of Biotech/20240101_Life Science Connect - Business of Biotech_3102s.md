@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3102s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Upstream Cell Line Development', 'Bioprocess Manufacturing Services', 'Bioprocess Manufacturing Controls']
 Video Views: 225
 Video Rating: None
 Video Description: A new year marks a fresh start for biotech partnerships, and to kick off 2024, we're highlighting a good one. Fina Biosolutions' Dr. Andrew Lees recently signed on with Scorpius BioManufacturing to support his company's growth plan. On today's episode of the Business of Biotech, Lees sits down with Scorpius VP of commercial operations Steve Lavezoli for a frank conversation on the ups, downs, and expectations of a biotech + CDMO relationship. In addition to contracts and master service agreements, the pair walk us through the day-to-day execution of the partnership and responsibilities of those involved in it. If you're considering signing on with an outsourced manufacturing partner, or thinking about making a switch, you won't want to miss this episode.
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at https://www.bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/cdmo-collab-with-scorpius-biomanufacturing-s-steve-lavezoli-fina-biosolutions-dr-andrew-lees-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

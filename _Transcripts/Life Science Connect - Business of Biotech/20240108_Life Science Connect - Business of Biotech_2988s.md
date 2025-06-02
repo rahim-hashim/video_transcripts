@@ -1,23 +1,17 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 2988s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma', 'Biotech Finance', 'Biotech Discovery']
 Video Views: 165
 Video Rating: None
 Video Description: Relatively new CEO Joseph Ferra has orchestrated some pretty significant change at Elevation Oncology in the two(ish) years since the Business of Biotech last hosted the company. In that short time, Ferra advanced from CFO to CEO, a move that aligned very closely with the company's difficult decision to shelve the late phase 2 anti-HER3 monoclonal antibody candidate it was founded on. Those big moves set the stage for Elevations' new lead candidate, a phase 1 Claudin18.2 target in the oh-so-hot ADC (antibody drug conjugate) space. On this episode of the Business of Biotech, we go behind the scenes to learn why and how those daring moves were made, and how Elevation navigated the gauntlet of risk it assumed when it embraced disruption in a not-so-shiny biotech market. 
-
 Subscribe to the #BusinessofBiotech newsletter at bioprocessonline.com/bob for more real, honest, transparent interactions with the leaders of emerging biotech. It's a once-per-month dose of insight and intel that you'll actually look forward to receiving! Check it out at bioprocessonline.com/bob!
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Get notified when new episodes come out:  https://www.bioprocessonline.com/bob
-
 Audio version available here: https://www.bioprocessonline.com/doc/art-of-the-pivot-with-elevation-oncology-s-joe-ferra-0001
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 Google - https://podcasts.google.com/?q=business%20of%20biotech

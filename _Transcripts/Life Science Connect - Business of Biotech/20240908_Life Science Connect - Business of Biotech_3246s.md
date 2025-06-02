@@ -1,17 +1,14 @@
 ---
-Date Generated: May 23, 2025
+Date Generated: May 29, 2025
 Transcription Model: whisper medium 20231117
 Length: 3246s
 Video Keywords: ['Business of Biotech', 'Bioprocess Online', 'Biotech', 'Biopharma']
-Video Views: 231
+Video Views: 232
 Video Rating: None
 Video Description: Erik van den Berg is CEO and board member at Memo Therapeutics, and he's a student of biotech chaos. In fact, he's been embracing it with intention for the past 30 years. On this episode of the Business of Biotech, he walks us through the management of that chaos in specific detail. Navigating gluttonous Covid-fueled financial markets. Achieving clinical outcomes during the pandemic. Keeping development on the rails in a protracted financial drought. Creating differentiation in crowded and noisy renal and oncology antibody therapeutic spaces. We cover it all, with van den Berg offering detailed insight into the guiding principles of navigating constant change in biotech.
-
----
+***
 #businessofbiotech #biopharma #biotech
-
 Subscribe to the podcast:
-
 Apple - https://podcasts.apple.com/us/podcast/business-of-biotech/id1508008606?uo=4
 Spotify - https://open.spotify.com/show/5NhjpDeHzVlXPVqT9ezKwA
 YouTube - https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb
