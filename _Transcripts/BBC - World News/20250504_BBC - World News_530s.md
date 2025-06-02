@@ -1,0 +1,110 @@
+---
+Date Generated: June 02, 2025
+Transcription Model: whisper medium 20231117
+Length: 530s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 256157
+Video Rating: None
+Video Description: A missile fired from Yemen landed near the main terminal of Israel's Ben Gurion airport on Sunday morning, Israeli authorities said.
+ 
+Unverified footage posted online appeared to show drivers on a road nearby pulled over to take cover as a projectile lands, creating a plume of black smoke near the airport, which is on the outskirts of Tel Aviv.
+ 
+Four people were injured due to the blast, with another two injured on their way to a shelter, Israeli media reported, citing emergency services.
+ 
+Israel's defence minister, Israel Katz, said in a statement: "Anyone who hits us, we will hit them seven times stronger".
+ 
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#Israel #Gaza #BBCNews
+---
+
+# Houthi missile from Yemen hits near Israel's Ben Gurion airport | BBC News
+**BBC - World News:** [May 04, 2025](https://www.youtube.com/watch?v=_iKalAm19g0)
+*  The Houthis in Yemen have claimed responsibility for a missile attack that struck inside the [[00:00:00](https://www.youtube.com/watch?v=_iKalAm19g0&t=0.0s)]
+*  perimeter of Ben-Gurion Airport in central Israel. According to initial reports, at least two people [[00:00:04](https://www.youtube.com/watch?v=_iKalAm19g0&t=4.8s)]
+*  were hurt. Flights were briefly suspended but have now resumed. The Israeli military says it is [[00:00:10](https://www.youtube.com/watch?v=_iKalAm19g0&t=10.72s)]
+*  investigating why air defence systems failed to intercept the missile. The country's defence [[00:00:16](https://www.youtube.com/watch?v=_iKalAm19g0&t=16.240000000000002s)]
+*  minister has threatened a forceful response. The developments come after Israel issued orders [[00:00:21](https://www.youtube.com/watch?v=_iKalAm19g0&t=21.6s)]
+*  calling up tens of thousands of reservists ahead of an expanded offensive in Gaza, [[00:00:26](https://www.youtube.com/watch?v=_iKalAm19g0&t=26.959999999999997s)]
+*  according to several media outlets in the country. According to Israel's public broadcaster, [[00:00:31](https://www.youtube.com/watch?v=_iKalAm19g0&t=31.759999999999998s)]
+*  the security cabinet is scheduled to meet on Sunday to approve the move. Israeli officials [[00:00:36](https://www.youtube.com/watch?v=_iKalAm19g0&t=36.879999999999995s)]
+*  have repeatedly said they will intensify military operations in the strip if Hamas fails to release [[00:00:42](https://www.youtube.com/watch?v=_iKalAm19g0&t=42.16s)]
+*  the remaining hostages. As well as daily airstrikes, all aid has been blocked from entering [[00:00:47](https://www.youtube.com/watch?v=_iKalAm19g0&t=47.36s)]
+*  the territory for two months despite international pressure on Israel to lift its blockade, [[00:00:52](https://www.youtube.com/watch?v=_iKalAm19g0&t=52.63999999999999s)]
+*  with warnings that intentionally starving civilians is a war crime. [[00:00:57](https://www.youtube.com/watch?v=_iKalAm19g0&t=57.68s)]
+*  Our Middle East correspondent Hugo Bichega gave me the latest from Jerusalem. [[00:01:01](https://www.youtube.com/watch?v=_iKalAm19g0&t=61.76s)]
+*  So this was a missile that was fired by the Houthis in Yemen and we've seen those images from [[00:01:06](https://www.youtube.com/watch?v=_iKalAm19g0&t=66.64s)]
+*  Tel Aviv, an area near Ben-Gurion Airport, which is Israel's main international airport, [[00:01:12](https://www.youtube.com/watch?v=_iKalAm19g0&t=72.56s)]
+*  was hit. We don't know whether this was a direct impact from this missile. [[00:01:19](https://www.youtube.com/watch?v=_iKalAm19g0&t=79.28s)]
+*  And the authorities here are saying that there have been no serious injuries from this attack. [[00:01:23](https://www.youtube.com/watch?v=_iKalAm19g0&t=83.44s)]
+*  The authorities say at least two people have been taken to hospital with minor injuries. And [[00:01:30](https://www.youtube.com/watch?v=_iKalAm19g0&t=90.88s)]
+*  we had a statement from the Israeli military saying that they are investigating why this [[00:01:37](https://www.youtube.com/watch?v=_iKalAm19g0&t=97.44s)]
+*  missile wasn't intercepted. This is obviously a country that has a very sophisticated air [[00:01:42](https://www.youtube.com/watch?v=_iKalAm19g0&t=102.16s)]
+*  defense system with a very high success rate in intercepting missiles and rockets. And we've seen [[00:01:47](https://www.youtube.com/watch?v=_iKalAm19g0&t=107.92s)]
+*  that the Houthis have been firing rockets at Israel saying that they are acting in support of [[00:01:55](https://www.youtube.com/watch?v=_iKalAm19g0&t=115.84s)]
+*  Palestinians in Gaza. The vast majority of those missiles are intercepted by the Israeli military. [[00:02:01](https://www.youtube.com/watch?v=_iKalAm19g0&t=121.28s)]
+*  There has been some reaction from the Israeli defense minister saying that [[00:02:08](https://www.youtube.com/watch?v=_iKalAm19g0&t=128.4s)]
+*  Israel is going to hit back seven times stronger. We've seen that there have been attacks by Israel, [[00:02:12](https://www.youtube.com/watch?v=_iKalAm19g0&t=132.56s)]
+*  also by this coalition led by the United States, trying to strike Houthi targets in Yemen to stop [[00:02:19](https://www.youtube.com/watch?v=_iKalAm19g0&t=139.28s)]
+*  these attacks not only against Israel but also on ships in the Red Sea. [[00:02:27](https://www.youtube.com/watch?v=_iKalAm19g0&t=147.20000000000002s)]
+*  And Hugo, what more do we know about these reported plans to [[00:02:33](https://www.youtube.com/watch?v=_iKalAm19g0&t=153.67999999999998s)]
+*  call up thousands of Israeli reservists to expand their military operation in Gaza? [[00:02:37](https://www.youtube.com/watch?v=_iKalAm19g0&t=157.35999999999999s)]
+*  Yes, so the Israeli security cabinet is expected to meet later today and this measure is expected [[00:02:44](https://www.youtube.com/watch?v=_iKalAm19g0&t=164.07999999999998s)]
+*  to be approved. There has been some speculation that the Israeli military is planning an expansion [[00:02:50](https://www.youtube.com/watch?v=_iKalAm19g0&t=170.07999999999998s)]
+*  of the military offensive of the war against Hamas in Gaza. What the Israeli authorities are [[00:02:58](https://www.youtube.com/watch?v=_iKalAm19g0&t=178.16s)]
+*  saying is that they are putting pressure on Hamas to release the hostages who remain in captivity [[00:03:05](https://www.youtube.com/watch?v=_iKalAm19g0&t=185.04s)]
+*  in Gaza. We've seen that since Israel ended the ceasefire back in March, those negotiations, [[00:03:11](https://www.youtube.com/watch?v=_iKalAm19g0&t=191.6s)]
+*  the international efforts for a new deal not only to guarantee the release of the hostages but also [[00:03:18](https://www.youtube.com/watch?v=_iKalAm19g0&t=198.8s)]
+*  for a ceasefire in Gaza have failed to reach any kind of deal. And also part of this strategy [[00:03:25](https://www.youtube.com/watch?v=_iKalAm19g0&t=205.52s)]
+*  is this blockade on the entry of humanitarian aid into Gaza and we've seen some dramatic [[00:03:33](https://www.youtube.com/watch?v=_iKalAm19g0&t=213.84s)]
+*  reports of the situation in Gaza where aid agencies say that food supplies, water, medicine [[00:03:42](https://www.youtube.com/watch?v=_iKalAm19g0&t=222.48000000000002s)]
+*  are running low and they've been saying that this is a policy of starvation that could amount [[00:03:49](https://www.youtube.com/watch?v=_iKalAm19g0&t=229.76000000000002s)]
+*  to a war crime, something that the Israeli authorities reject. We've seen some protests [[00:03:55](https://www.youtube.com/watch?v=_iKalAm19g0&t=235.20000000000002s)]
+*  here in Israel against the war. We've seen also some former officials, military officials [[00:04:01](https://www.youtube.com/watch?v=_iKalAm19g0&t=241.04000000000002s)]
+*  urging the authorities to end the war in Gaza and there has been this suspicion for quite some time [[00:04:08](https://www.youtube.com/watch?v=_iKalAm19g0&t=248.56s)]
+*  that the Israeli Prime Minister Benjamin Netanyahu is prolonging the conflict to guarantee his [[00:04:13](https://www.youtube.com/watch?v=_iKalAm19g0&t=253.84s)]
+*  political survival. So again, the Israeli Security Cabinet expected to meet later today [[00:04:19](https://www.youtube.com/watch?v=_iKalAm19g0&t=259.91999999999996s)]
+*  and approve this measure. Hugo Bachege there. Well, I also spoke to Dr H.A. Hellier from the [[00:04:27](https://www.youtube.com/watch?v=_iKalAm19g0&t=267.59999999999997s)]
+*  Royal United Services Institute. He began by giving me his analysis on the missile strike. [[00:04:33](https://www.youtube.com/watch?v=_iKalAm19g0&t=273.12s)]
+*  This was a missile that came from the Houthis in Yemen. I don't think it can be disaggregated from [[00:04:39](https://www.youtube.com/watch?v=_iKalAm19g0&t=279.44s)]
+*  the overall conflict of course that's going on in terms of Israel's war in Gaza. The Houthis have [[00:04:46](https://www.youtube.com/watch?v=_iKalAm19g0&t=286.24s)]
+*  made that very clear. Of course, they're a terrible group but they're not striking just out of nowhere. [[00:04:52](https://www.youtube.com/watch?v=_iKalAm19g0&t=292.32s)]
+*  The question is whether or not we will see measures to de-escalate the situation comprehensively [[00:04:58](https://www.youtube.com/watch?v=_iKalAm19g0&t=298.88s)]
+*  so that there wouldn't be further strikes of this nature or if we're going to see escalation, [[00:05:04](https://www.youtube.com/watch?v=_iKalAm19g0&t=304.64s)]
+*  in which case we're going to see more pain and suffering of the Yemenis and [[00:05:09](https://www.youtube.com/watch?v=_iKalAm19g0&t=309.28s)]
+*  frankly for people throughout the region including Israelis and Palestinians. [[00:05:15](https://www.youtube.com/watch?v=_iKalAm19g0&t=315.91999999999996s)]
+*  What's your analysis of this expected move that thousands of reservists are [[00:05:20](https://www.youtube.com/watch?v=_iKalAm19g0&t=320.15999999999997s)]
+*  to be called up in Israel to expand the operation, the Israeli operation in Gaza? [[00:05:24](https://www.youtube.com/watch?v=_iKalAm19g0&t=324.79999999999995s)]
+*  So I think it's been very clear for many months that there isn't an intention from within Tel Aviv, [[00:05:30](https://www.youtube.com/watch?v=_iKalAm19g0&t=330.40000000000003s)]
+*  within the Israeli government, to end the war in Gaza. They've made it abundantly clear as you [[00:05:37](https://www.youtube.com/watch?v=_iKalAm19g0&t=337.2s)]
+*  mentioned Israel ended the ceasefire back in March and Israeli officials and Israeli ministers have [[00:05:42](https://www.youtube.com/watch?v=_iKalAm19g0&t=342.72s)]
+*  said very clearly they do not want to end the war in Gaza until they see the complete end of [[00:05:50](https://www.youtube.com/watch?v=_iKalAm19g0&t=350.24s)]
+*  mass in Gaza, which of course is not something that any military expert thinks is possible. [[00:05:56](https://www.youtube.com/watch?v=_iKalAm19g0&t=356.88s)]
+*  The protests that you've seen over not just the last few days but many months now from Israelis [[00:06:04](https://www.youtube.com/watch?v=_iKalAm19g0&t=364.32s)]
+*  indicate that there's a great deal of public support in Israel among the Israeli public [[00:06:11](https://www.youtube.com/watch?v=_iKalAm19g0&t=371.84s)]
+*  for the notion that this war is being prosecuted not to rescue the hostages but to help the [[00:06:17](https://www.youtube.com/watch?v=_iKalAm19g0&t=377.2s)]
+*  rescue of the hostages but to prolong Benjamin Netanyahu's rule as prime minister. And I don't [[00:06:24](https://www.youtube.com/watch?v=_iKalAm19g0&t=384.8s)]
+*  think that there's really much doubt about that including among I suspect Israeli allies as well. [[00:06:33](https://www.youtube.com/watch?v=_iKalAm19g0&t=393.2s)]
+*  The ceasefire proposal that was put forward by Biden and then finally implemented via a deal [[00:06:40](https://www.youtube.com/watch?v=_iKalAm19g0&t=400.40000000000003s)]
+*  that involved the Biden administration and then the incoming Trump administration had phase one, [[00:06:48](https://www.youtube.com/watch?v=_iKalAm19g0&t=408.0s)]
+*  phase two, phase three. Phase one was never truly implemented then was violated almost from day one [[00:06:52](https://www.youtube.com/watch?v=_iKalAm19g0&t=412.56s)]
+*  and phase two of course we never entered into and there's really no suggestion that that's going to [[00:06:59](https://www.youtube.com/watch?v=_iKalAm19g0&t=419.2s)]
+*  be returned to. There's already been a deal mentioned quite a few times over the last few months [[00:07:03](https://www.youtube.com/watch?v=_iKalAm19g0&t=423.76s)]
+*  for all of the hostages to be released all at once in exchange for an end to the war. Israel has [[00:07:09](https://www.youtube.com/watch?v=_iKalAm19g0&t=429.2s)]
+*  rejected that and I think that that's the stance that is going to persist on taking. So we've seen [[00:07:15](https://www.youtube.com/watch?v=_iKalAm19g0&t=435.44s)]
+*  repeated protests in Israel for the past 18 months calling on the hostages to be returned. [[00:07:20](https://www.youtube.com/watch?v=_iKalAm19g0&t=440.96s)]
+*  We've also increasingly seen over the past few weeks and very unusually some process emerging [[00:07:25](https://www.youtube.com/watch?v=_iKalAm19g0&t=445.2s)]
+*  in Gaza against Hamas and terrible suffering happening in Gaza. They hold more than 50 hostages [[00:07:30](https://www.youtube.com/watch?v=_iKalAm19g0&t=450.4s)]
+*  half of whom it's believed are dead in Gaza. Why won't Hamas hand them back? [[00:07:37](https://www.youtube.com/watch?v=_iKalAm19g0&t=457.12s)]
+*  So first I don't think it's unusual that there are protests against Hamas. [[00:07:45](https://www.youtube.com/watch?v=_iKalAm19g0&t=465.35999999999996s)]
+*  The Palestinians of Gaza have a variety of political stances. I suspect Hamas is actually [[00:07:49](https://www.youtube.com/watch?v=_iKalAm19g0&t=469.28000000000003s)]
+*  incredibly unpopular in Gaza particularly over the past 18 months but even before that. [[00:07:54](https://www.youtube.com/watch?v=_iKalAm19g0&t=474.96s)]
+*  Vis-a-vis why Hamas won't return the hostages. Hamas is a militant group and sees the hostages [[00:08:00](https://www.youtube.com/watch?v=_iKalAm19g0&t=480.4s)]
+*  very clearly as being leverage. The Israeli government has made it very clear that their [[00:08:06](https://www.youtube.com/watch?v=_iKalAm19g0&t=486.88s)]
+*  final goal for Gaza is not simply the removal of Hamas but also the removal of the Palestinian [[00:08:12](https://www.youtube.com/watch?v=_iKalAm19g0&t=492.32s)]
+*  population from Gaza. Its express support for the Riviera Plan has made it very clear that it [[00:08:18](https://www.youtube.com/watch?v=_iKalAm19g0&t=498.24s)]
+*  supports the Riviera Plan. This new department within the Ministry of Defense which is set up [[00:08:23](https://www.youtube.com/watch?v=_iKalAm19g0&t=503.84000000000003s)]
+*  in order to encourage the quote-unquote voluntary migration of Palestinians from Gaza. Of course [[00:08:29](https://www.youtube.com/watch?v=_iKalAm19g0&t=509.44s)]
+*  there's nothing voluntary when you make a territory uninhabitable. So I don't think it's surprising. [[00:08:36](https://www.youtube.com/watch?v=_iKalAm19g0&t=516.5600000000001s)]
+*  I mean Hamas is not a good actor by any means but it's not surprising that they wouldn't release [[00:08:42](https://www.youtube.com/watch?v=_iKalAm19g0&t=522.16s)]
+*  what they see as their leverage. [[00:08:47](https://www.youtube.com/watch?v=_iKalAm19g0&t=527.84s)]

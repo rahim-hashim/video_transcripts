@@ -1,0 +1,76 @@
+---
+Date Generated: June 02, 2025
+Transcription Model: whisper medium 20231117
+Length: 322s
+Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
+Video Views: 3634
+Video Rating: None
+Video Description: Support our work: https://democracynow.org/donate/sm-desc-yt
+A massacre of dozens of starving Palestinians waiting for aid occurred at a site operated by the shadowy Gaza Humanitarian Foundation over the weekend. It is exactly what many observers warned about when they expressed skepticism over the U.S.- and Israel-backed aid scheme. "It's not a real organization," says Eyad Amawi, a coordinator for local NGOs based in Gaza who accuses the Israeli military of using the slow trickle of aid it allows into southern Gaza "as a tool to increase suffering."
+Democracy Now! is an independent global news hour that airs on over 1,500 TV and radio stations Monday through Friday. Watch our livestream at democracynow.org Mondays to Fridays 8-9 a.m. ET.
+Subscribe to our Daily Email Digest: https://democracynow.org/subscribe
+---
+
+# Gaza Aid Worker: Israel’s New Shadowy Humanitarian Aid Scheme Is “Tool to Increase Suffering”
+**Democracy Now Headlines:** [June 02, 2025](https://www.youtube.com/watch?v=5YyTKNc18zw)
+*  Democracy depends on a free press. [[00:00:00](https://www.youtube.com/watch?v=5YyTKNc18zw&t=0.0s)]
+*  Please support our independent journalism at democracynow.org. [[00:00:02](https://www.youtube.com/watch?v=5YyTKNc18zw&t=2.68s)]
+*  We're staying in Gaza with Iyad Amawi, coordinator for local NGOs there. [[00:00:06](https://www.youtube.com/watch?v=5YyTKNc18zw&t=6.5200000000000005s)]
+*  Please be safe, Dr. Rose. [[00:00:13](https://www.youtube.com/watch?v=5YyTKNc18zw&t=13.96s)]
+*  His new piece for The Guardian is headlined, I've seen the reality of the new Israel-backed [[00:00:16](https://www.youtube.com/watch?v=5YyTKNc18zw&t=16.7s)]
+*  aid for Gaza. [[00:00:23](https://www.youtube.com/watch?v=5YyTKNc18zw&t=23.28s)]
+*  It's nothing more than a deadly PR stunt. [[00:00:24](https://www.youtube.com/watch?v=5YyTKNc18zw&t=24.28s)]
+*  I wanted to thank you for being with us and ask you if, Iyad Amawi, if you can start [[00:00:28](https://www.youtube.com/watch?v=5YyTKNc18zw&t=28.32s)]
+*  off by talking about—I mean, the aid organization that has been this shadowy group, Israeli, [[00:00:35](https://www.youtube.com/watch?v=5YyTKNc18zw&t=35.52s)]
+*  U.S., not clear who the mercenaries are, often with their faces covered, have several sites [[00:00:43](https://www.youtube.com/watch?v=5YyTKNc18zw&t=43.28s)]
+*  in Gaza. [[00:00:51](https://www.youtube.com/watch?v=5YyTKNc18zw&t=51.72s)]
+*  Explain what this is, what you wrote in The Guardian. [[00:00:53](https://www.youtube.com/watch?v=5YyTKNc18zw&t=53.52s)]
+*  Yes. [[00:00:56](https://www.youtube.com/watch?v=5YyTKNc18zw&t=56.84s)]
+*  Firstly, thank you for hosting me. [[00:00:57](https://www.youtube.com/watch?v=5YyTKNc18zw&t=57.84s)]
+*  I appreciate your attendance and covering the reality and reflecting the ongoing suffering [[00:01:00](https://www.youtube.com/watch?v=5YyTKNc18zw&t=60.120000000000005s)]
+*  here. [[00:01:06](https://www.youtube.com/watch?v=5YyTKNc18zw&t=66.48s)]
+*  As you mentioned, and I mentioned in my piece in The Guardian, the GHF organization, it's [[00:01:07](https://www.youtube.com/watch?v=5YyTKNc18zw&t=67.48s)]
+*  not a real organization, from my observation as an expert in the NGOs and coordination [[00:01:13](https://www.youtube.com/watch?v=5YyTKNc18zw&t=73.4s)]
+*  here. [[00:01:19](https://www.youtube.com/watch?v=5YyTKNc18zw&t=79.52000000000001s)]
+*  They made chaos, creative chaos, that they use it as a tool to increase the suffering. [[00:01:20](https://www.youtube.com/watch?v=5YyTKNc18zw&t=80.6s)]
+*  What I have seen yesterday, and the casualties that come from the Rafah and from the Nisarim [[00:01:28](https://www.youtube.com/watch?v=5YyTKNc18zw&t=88.52s)]
+*  Access Point also, a lot of casualties, they have served for more than 90 days, and they [[00:01:36](https://www.youtube.com/watch?v=5YyTKNc18zw&t=96.52s)]
+*  went there to seek foods, and they are surprised by the airplanes and the drones and the bombing [[00:01:43](https://www.youtube.com/watch?v=5YyTKNc18zw&t=103.24s)]
+*  of smoking. [[00:01:51](https://www.youtube.com/watch?v=5YyTKNc18zw&t=111.6s)]
+*  That's a horrible time, as I witnessed here with a lot of people. [[00:01:52](https://www.youtube.com/watch?v=5YyTKNc18zw&t=112.6s)]
+*  The testimony is horrible. [[00:01:57](https://www.youtube.com/watch?v=5YyTKNc18zw&t=117.28s)]
+*  Look, they use—nothing exists over the ground. [[00:01:59](https://www.youtube.com/watch?v=5YyTKNc18zw&t=119.08s)]
+*  When we compare their works with another UN organization that is related to the international [[00:02:03](https://www.youtube.com/watch?v=5YyTKNc18zw&t=123.39999999999999s)]
+*  community, nothing here exists over the ground. [[00:02:10](https://www.youtube.com/watch?v=5YyTKNc18zw&t=130.56s)]
+*  From my observation, this is—they use this as a tool to increase suffering. [[00:02:14](https://www.youtube.com/watch?v=5YyTKNc18zw&t=134.16s)]
+*  You can imagine when the elderly people and the child here cannot achieve that long, far [[00:02:21](https://www.youtube.com/watch?v=5YyTKNc18zw&t=141.2s)]
+*  paces and with the danger and the threat in their life to go to get some foods from there. [[00:02:29](https://www.youtube.com/watch?v=5YyTKNc18zw&t=149.36s)]
+*  A lot of—thousands of people here will not get a chance to achieve any amount of foods. [[00:02:38](https://www.youtube.com/watch?v=5YyTKNc18zw&t=158.48000000000002s)]
+*  Even thought what they announce in the media and Facebook pages, our people here have recognized [[00:02:45](https://www.youtube.com/watch?v=5YyTKNc18zw&t=165.52s)]
+*  reality, and there's no choice without the UN organization to intervene directly with [[00:02:54](https://www.youtube.com/watch?v=5YyTKNc18zw&t=174.08s)]
+*  unconditional aid to come into the Gaza. [[00:03:05](https://www.youtube.com/watch?v=5YyTKNc18zw&t=185.2s)]
+*  We have in time. [[00:03:09](https://www.youtube.com/watch?v=5YyTKNc18zw&t=189.51999999999998s)]
+*  From my statistics, I have the indication that more 60,000 children will die by this [[00:03:10](https://www.youtube.com/watch?v=5YyTKNc18zw&t=190.56s)]
+*  increase in suffering and by famine. [[00:03:21](https://www.youtube.com/watch?v=5YyTKNc18zw&t=201.28s)]
+*  There is no sweet-waters here, so there is no time to accept the claimings for the GHF [[00:03:23](https://www.youtube.com/watch?v=5YyTKNc18zw&t=203.76s)]
+*  or other parties that they will distribute the food for 2.5 million people here in Gaza. [[00:03:29](https://www.youtube.com/watch?v=5YyTKNc18zw&t=209.92s)]
+*  The time is maybe ended at any time. [[00:03:36](https://www.youtube.com/watch?v=5YyTKNc18zw&t=216.48s)]
+*  Our children here come to the ER, as Victoria mentioned, with messianated bodies. [[00:03:39](https://www.youtube.com/watch?v=5YyTKNc18zw&t=219.83999999999997s)]
+*  They haven't any ability to walk in the street. [[00:03:47](https://www.youtube.com/watch?v=5YyTKNc18zw&t=227.04s)]
+*  I swear, our children here haven't ability to walk just a few meters. [[00:03:53](https://www.youtube.com/watch?v=5YyTKNc18zw&t=233.44s)]
+*  So from my observation here, we haven't time to still waiting the GHF to establish [[00:03:59](https://www.youtube.com/watch?v=5YyTKNc18zw&t=239.2s)]
+*  another warehouses, and all of our NGOs community refuse to deal with them. [[00:04:07](https://www.youtube.com/watch?v=5YyTKNc18zw&t=247.28s)]
+*  They haven't any database. [[00:04:13](https://www.youtube.com/watch?v=5YyTKNc18zw&t=253.68s)]
+*  They have no system, no rules. [[00:04:15](https://www.youtube.com/watch?v=5YyTKNc18zw&t=255.36s)]
+*  Randomizing the distribution systems cause the chaos that is still happening at their stations. [[00:04:17](https://www.youtube.com/watch?v=5YyTKNc18zw&t=257.6s)]
+*  You can imagine when the GHF bought their warehouses, especially Al-Rafah, [[00:04:25](https://www.youtube.com/watch?v=5YyTKNc18zw&t=265.68s)]
+*  and Nitserim Axis, this is close to the military bases that related to the Israeli occupation [[00:04:30](https://www.youtube.com/watch?v=5YyTKNc18zw&t=270.24s)]
+*  forces, and they protect them. [[00:04:36](https://www.youtube.com/watch?v=5YyTKNc18zw&t=276.48s)]
+*  What's happening yesterday at the mosque, adding to the previous mosque. [[00:04:38](https://www.youtube.com/watch?v=5YyTKNc18zw&t=278.88s)]
+*  This situation must stop now. [[00:04:43](https://www.youtube.com/watch?v=5YyTKNc18zw&t=283.52000000000004s)]
+*  The ceasefire must be implemented to enable us to save our children lives and our people lives. [[00:04:45](https://www.youtube.com/watch?v=5YyTKNc18zw&t=285.84000000000003s)]
+*  AMY GOODMAN, HOST, The New Israel-Backed Aid for Gaza [[00:04:51](https://www.youtube.com/watch?v=5YyTKNc18zw&t=291.92s)]
+*  Eyad Amawi, I want to thank you so much for being with us. [[00:04:54](https://www.youtube.com/watch?v=5YyTKNc18zw&t=294.40000000000003s)]
+*  Coordinator for local NGOs based in Gaza will link to your piece for The Guardian, [[00:04:57](https://www.youtube.com/watch?v=5YyTKNc18zw&t=297.28000000000003s)]
+*  headlined, I've seen the reality of the New Israel-Backed Aid for Gaza. [[00:05:04](https://www.youtube.com/watch?v=5YyTKNc18zw&t=304.72s)]
+*  It's nothing more than a deadly PR stunt. [[00:05:10](https://www.youtube.com/watch?v=5YyTKNc18zw&t=310.0s)]

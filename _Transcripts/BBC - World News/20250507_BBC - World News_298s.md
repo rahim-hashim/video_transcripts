@@ -1,0 +1,96 @@
+---
+Date Generated: June 02, 2025
+Transcription Model: whisper medium 20231117
+Length: 298s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 55544
+Video Rating: None
+Video Description: Thick black smoke rose from the Sistine Chapel chimney on Wednesday evening, signalling that the cardinals meeting in the conclave did not decide on a new pope.
+ 
+Thousands of people gathered in St Peter's Square in the Vatican to wait for the result of the first vote, which lasted about three hours.
+ 
+The 133 cardinals will retire overnight and resume their deliberations tomorrow.
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#BBCNews
+---
+
+# Black smoke from Sistine Chapel meaning pope not elected yet | BBC News
+**BBC - World News:** [May 07, 2025](https://www.youtube.com/watch?v=iDqPREWs0hA)
+*  Our top story this hour, thick black smoke has risen from the Sistine Chapel chimney, [[00:00:00](https://www.youtube.com/watch?v=iDqPREWs0hA&t=0.0s)]
+*  signalling that the Cardinals meeting in the conclave have not yet agreed on a new pope. [[00:00:04](https://www.youtube.com/watch?v=iDqPREWs0hA&t=4.8s)]
+*  Thousands of people gathered in St Peter's Square to wait for the result of the first [[00:00:09](https://www.youtube.com/watch?v=iDqPREWs0hA&t=9.84s)]
+*  vote which lasted about three hours. [[00:00:13](https://www.youtube.com/watch?v=iDqPREWs0hA&t=13.24s)]
+*  Joining us now is our Rome correspondent, Sarah Rainsford. [[00:00:16](https://www.youtube.com/watch?v=iDqPREWs0hA&t=16.4s)]
+*  Sarah, you were at the Vatican to see the smoke and you were lucky to manage to do that [[00:00:19](https://www.youtube.com/watch?v=iDqPREWs0hA&t=19.400000000000002s)]
+*  against the night sky. [[00:00:24](https://www.youtube.com/watch?v=iDqPREWs0hA&t=24.32s)]
+*  Exactly, it was more than three hours after the start of the conclave, the lockdown moment [[00:00:27](https://www.youtube.com/watch?v=iDqPREWs0hA&t=27.32s)]
+*  when the Cardinals had been shut inside the Sistine Chapel, had begun their vote. [[00:00:33](https://www.youtube.com/watch?v=iDqPREWs0hA&t=33.24s)]
+*  We'd been led to believe that by around seven o'clock here in Rome we might see some smoke. [[00:00:37](https://www.youtube.com/watch?v=iDqPREWs0hA&t=37.92s)]
+*  That's when there was a massive crowd started to gather here at the Vatican. [[00:00:43](https://www.youtube.com/watch?v=iDqPREWs0hA&t=43.32s)]
+*  St Peter's Square was pretty full and then all the way down the street just in that direction [[00:00:47](https://www.youtube.com/watch?v=iDqPREWs0hA&t=47.32s)]
+*  there were loads of people. [[00:00:51](https://www.youtube.com/watch?v=iDqPREWs0hA&t=51.08s)]
+*  The police said around about 30,000 at one point. [[00:00:52](https://www.youtube.com/watch?v=iDqPREWs0hA&t=52.24s)]
+*  All of them of course had their eyes really firmly fixed on that skinny chimney on top [[00:00:55](https://www.youtube.com/watch?v=iDqPREWs0hA&t=55.68s)]
+*  of the Sistine Chapel. [[00:01:00](https://www.youtube.com/watch?v=iDqPREWs0hA&t=60.0s)]
+*  All of them looking for smoke and the wait was so long, it went on so long, that people [[00:01:01](https://www.youtube.com/watch?v=iDqPREWs0hA&t=61.6s)]
+*  began to think maybe actually it was going to be white. [[00:01:05](https://www.youtube.com/watch?v=iDqPREWs0hA&t=65.76s)]
+*  Now that would have meant that there had been a pope elected and that would have been pretty, [[00:01:09](https://www.youtube.com/watch?v=iDqPREWs0hA&t=69.16s)]
+*  not unprecedented, but pretty unusual. [[00:01:12](https://www.youtube.com/watch?v=iDqPREWs0hA&t=72.88s)]
+*  I think it hasn't happened for decades, maybe 150 years or so at the very very least. [[00:01:15](https://www.youtube.com/watch?v=iDqPREWs0hA&t=75.6s)]
+*  So it would have been really unusual, very unexpected and that's not what happened. [[00:01:20](https://www.youtube.com/watch?v=iDqPREWs0hA&t=80.08s)]
+*  In the end it was thick black smoke that poured out of the chimney. [[00:01:24](https://www.youtube.com/watch?v=iDqPREWs0hA&t=84.32s)]
+*  We couldn't see it because it was so dark but there were big screens on the square here [[00:01:27](https://www.youtube.com/watch?v=iDqPREWs0hA&t=87.39999999999999s)]
+*  and all the way down the road and that close-up shot gave us the image that everyone here [[00:01:30](https://www.youtube.com/watch?v=iDqPREWs0hA&t=90.96s)]
+*  had been waiting for. [[00:01:35](https://www.youtube.com/watch?v=iDqPREWs0hA&t=95.03999999999999s)]
+*  The crowd surged forward, there was a lot of excitement and when they saw it was black [[00:01:36](https://www.youtube.com/watch?v=iDqPREWs0hA&t=96.16s)]
+*  they all started disappearing from the square pretty quickly. [[00:01:39](https://www.youtube.com/watch?v=iDqPREWs0hA&t=99.39999999999999s)]
+*  So we can stand at ease till tomorrow? [[00:01:42](https://www.youtube.com/watch?v=iDqPREWs0hA&t=102.44s)]
+*  Yeah, not long, not long. [[00:01:47](https://www.youtube.com/watch?v=iDqPREWs0hA&t=107.16s)]
+*  I wonder how many of those people will be back in the morning because the Cardinals [[00:01:48](https://www.youtube.com/watch?v=iDqPREWs0hA&t=108.63999999999999s)]
+*  will be back in the Sistine Chapel tomorrow morning. [[00:01:52](https://www.youtube.com/watch?v=iDqPREWs0hA&t=112.2s)]
+*  It should be a little bit quicker the whole process because they don't have to swear [[00:01:55](https://www.youtube.com/watch?v=iDqPREWs0hA&t=115.16s)]
+*  the oath. [[00:01:58](https://www.youtube.com/watch?v=iDqPREWs0hA&t=118.0s)]
+*  This time every one of those 133 had to walk up, place their hand on the Gospels and swear [[00:01:59](https://www.youtube.com/watch?v=iDqPREWs0hA&t=119.0s)]
+*  an oath including an oath of secrecy that they would never reveal any of the details [[00:02:04](https://www.youtube.com/watch?v=iDqPREWs0hA&t=124.8s)]
+*  of this election. [[00:02:08](https://www.youtube.com/watch?v=iDqPREWs0hA&t=128.96s)]
+*  So that won't happen tomorrow, instead they'll move straight to the voting but it's still [[00:02:09](https://www.youtube.com/watch?v=iDqPREWs0hA&t=129.96s)]
+*  a pretty slow process and if there is no result, so if there is no pope elected in the first [[00:02:13](https://www.youtube.com/watch?v=iDqPREWs0hA&t=133.51999999999998s)]
+*  vote then there will be a second round of voting without any smoke. [[00:02:19](https://www.youtube.com/watch?v=iDqPREWs0hA&t=139.04000000000002s)]
+*  So we could have a result around 10ish in the morning, it could be another few hours [[00:02:23](https://www.youtube.com/watch?v=iDqPREWs0hA&t=143.0s)]
+*  after that but frankly after today I think all the bets are off, we have no idea frankly [[00:02:26](https://www.youtube.com/watch?v=iDqPREWs0hA&t=146.68s)]
+*  how long this is going to take. [[00:02:30](https://www.youtube.com/watch?v=iDqPREWs0hA&t=150.72s)]
+*  Perhaps it could be longer than that. [[00:02:32](https://www.youtube.com/watch?v=iDqPREWs0hA&t=152.36s)]
+*  It was longer than we expected as you say. [[00:02:34](https://www.youtube.com/watch?v=iDqPREWs0hA&t=154.20000000000002s)]
+*  How many times will they vote tomorrow? [[00:02:36](https://www.youtube.com/watch?v=iDqPREWs0hA&t=156.44s)]
+*  Four votes tomorrow, so a two round of voting in the morning potentially, then the Cardinals [[00:02:40](https://www.youtube.com/watch?v=iDqPREWs0hA&t=160.96s)]
+*  head for lunch in the Casa Santa Marta, so the residence inside the Vatican and then [[00:02:46](https://www.youtube.com/watch?v=iDqPREWs0hA&t=166.52s)]
+*  there's another potential for two more rounds of voting in the afternoon. [[00:02:50](https://www.youtube.com/watch?v=iDqPREWs0hA&t=170.28s)]
+*  So potentially multiple moments at which we may see smoke, if it's white smoke in the [[00:02:54](https://www.youtube.com/watch?v=iDqPREWs0hA&t=174.68s)]
+*  morning, if it's black smoke at the end of the morning and then again in the afternoon. [[00:02:59](https://www.youtube.com/watch?v=iDqPREWs0hA&t=179.84s)]
+*  So lots of voting, lots of potential but again lots of question marks because the fact that [[00:03:04](https://www.youtube.com/watch?v=iDqPREWs0hA&t=184.20000000000002s)]
+*  this is so secret, the fact that the lockdown is so total means we just don't know what's [[00:03:11](https://www.youtube.com/watch?v=iDqPREWs0hA&t=191.32000000000002s)]
+*  going on inside the Sistine Chapel so we don't know if they're getting any closer to reaching [[00:03:15](https://www.youtube.com/watch?v=iDqPREWs0hA&t=195.56s)]
+*  a consensus. [[00:03:21](https://www.youtube.com/watch?v=iDqPREWs0hA&t=201.35999999999999s)]
+*  We imagine that in this first round of voting a number of names have emerged, a number of [[00:03:22](https://www.youtube.com/watch?v=iDqPREWs0hA&t=202.35999999999999s)]
+*  people, Cardinals, will have collected votes. [[00:03:28](https://www.youtube.com/watch?v=iDqPREWs0hA&t=208.56s)]
+*  So I guess what happens this evening in the residence here in the Vatican is that the [[00:03:31](https://www.youtube.com/watch?v=iDqPREWs0hA&t=211.23999999999998s)]
+*  Cardinals will begin to discuss the results of today's vote and they'll begin perhaps [[00:03:35](https://www.youtube.com/watch?v=iDqPREWs0hA&t=215.95999999999998s)]
+*  to coalesce around some of the more likely candidates and potentially that means the [[00:03:39](https://www.youtube.com/watch?v=iDqPREWs0hA&t=219.92s)]
+*  process might move a little faster but we just don't know. [[00:03:44](https://www.youtube.com/watch?v=iDqPREWs0hA&t=224.0s)]
+*  Anything could happen, it still is a really open field. [[00:03:47](https://www.youtube.com/watch?v=iDqPREWs0hA&t=227.72s)]
+*  But this is a diverse conclave isn't it? [[00:03:50](https://www.youtube.com/watch?v=iDqPREWs0hA&t=230.28s)]
+*  A lot of these Cardinals were appointed by Pope Francis, they've got to get to know each other. [[00:03:54](https://www.youtube.com/watch?v=iDqPREWs0hA&t=234.32s)]
+*  Yeah although they've had more than two weeks of doing just that. [[00:04:01](https://www.youtube.com/watch?v=iDqPREWs0hA&t=241.84s)]
+*  They've been pretty much every morning here in the Vatican, they've been what's called [[00:04:05](https://www.youtube.com/watch?v=iDqPREWs0hA&t=245.76s)]
+*  so meetings of the Cardinals when they have been discussing exactly what they believe [[00:04:09](https://www.youtube.com/watch?v=iDqPREWs0hA&t=249.88s)]
+*  the priority should be for the Catholic Church, they've all been discussing the particular [[00:04:15](https://www.youtube.com/watch?v=iDqPREWs0hA&t=255.0s)]
+*  issues of the regions of the world that they've come from. [[00:04:19](https://www.youtube.com/watch?v=iDqPREWs0hA&t=259.84s)]
+*  So some of those Cardinals who are in countries that have a Cardinal for the first time bringing [[00:04:23](https://www.youtube.com/watch?v=iDqPREWs0hA&t=263.24s)]
+*  new information perhaps to those congregations and all of that has been thrown into the big [[00:04:27](https://www.youtube.com/watch?v=iDqPREWs0hA&t=267.84s)]
+*  mixing pot and all of that will be on the minds of the Cardinals as they're casting [[00:04:33](https://www.youtube.com/watch?v=iDqPREWs0hA&t=273.2s)]
+*  their vote. [[00:04:37](https://www.youtube.com/watch?v=iDqPREWs0hA&t=277.64s)]
+*  They have had a fair old time to have those discussions, to think about their vote, to [[00:04:39](https://www.youtube.com/watch?v=iDqPREWs0hA&t=279.28s)]
+*  think about what kind of church they want, to think about what kind of Pope they want [[00:04:43](https://www.youtube.com/watch?v=iDqPREWs0hA&t=283.44s)]
+*  and it's all about now seeing how quickly they can come to that majority. [[00:04:46](https://www.youtube.com/watch?v=iDqPREWs0hA&t=286.91999999999996s)]
+*  89 Cardinals need to agree for us to see that white smoke tomorrow at some stage. [[00:04:51](https://www.youtube.com/watch?v=iDqPREWs0hA&t=291.44s)]

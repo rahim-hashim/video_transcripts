@@ -1,0 +1,62 @@
+---
+Date Generated: June 02, 2025
+Transcription Model: whisper medium 20231117
+Length: 545s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 412002
+Video Rating: None
+Video Description: More than 130 cardinals from across the world have gathered in the Vatican to begin the process of electing a new pontiff following the death of Pope Francis.
+ 
+They will walk to the Sistine Chapel this afternoon to cast their votes beneath the famous Renaissance frescoes.
+ 
+Once cardinals enter the chapel, around 17:30 local time (16:30 BST), the conclave begins and they will have no communication with the outside world until a new Pope is elected. 
+ 
+After the first vote later today, smoke will emerge from the Sistine Chapel chimney – black smoke means more voting will take place tomorrow, white means there’s a new pope.
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#Pope #BBCNews
+---
+
+# Conclave to elect new pope to begin in Vatican | BBC News
+**BBC - World News:** [May 07, 2025](https://www.youtube.com/watch?v=I8mkcEuaMbI)
+*  I'm Marianne Mishiri and I'm live at the Vatican. Can you hear behind me the beautiful hymns being sung during a very special mass that's being held inside St Peter's Basilica this morning? [[00:00:00](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=0.0s)]
+*  The mass marks the beginning of a process that will lead to, later on this afternoon, the start of what is arguably one of the most important conclaves in hundreds of years. [[00:00:15](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=15.0s)]
+*  You can see there a Cardinal Zucchetto, the little red cap that they wear in close-up. There are 133 Cardinals from all over the world who are going to be voting, electing the 267th Pope, the Bishop of Rome, the successor to the first Pope, St Peter. [[00:00:26](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=26.0s)]
+*  This is a process that has fascinated people for many, many centuries. It was in 1271 that the conclave became what we know now, cum clave, with key. That's where the word comes from. [[00:00:47](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=47.0s)]
+*  It's the Pope Gregory X who decided at that point that he wanted the conclave to be a process behind locked doors to force the Cardinals to make a quick decision after the last conclave before his took three years. [[00:01:01](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=61.0s)]
+*  So, as I mentioned before, in a few hours' time the doors of the Sistine Chapel will be shut and those 133 Cardinal electors will vote on who they believe should be the next Pope. [[00:01:16](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=76.0s)]
+*  Well, with me now to discuss all things conclave is Father Thomas Rees, who is a Jesuit priest and senior analyst for the Religion News Service. He's also the author of Inside the Vatican. Thank you so much for joining us on this momentous day. How are you feeling? [[00:01:31](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=91.0s)]
+*  Oh, I'm excited. I mean, we saw with Pope Francis what an impact the Pope can have on the world and also on the Church itself. I mean, he was a prophet speaking for peace and justice around the world. He was trying to end wars. [[00:01:48](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=108.0s)]
+*  He was trying to get people to be concerned about refugees and the climate, global warming. So this is a very important job. That's his legacy. That's his legacy. The question is, will the Cardinals who are inside St. Peter's Basilica now want that legacy to continue or will they want someone to take the Catholic Church in a different direction? [[00:02:04](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=124.0s)]
+*  Well, I don't think they are going to elect someone who's going to stand up and say Francis was a disaster. We're going back to the old Church. That's not going to happen. Nor are they going to elect someone who says tomorrow I'm going to ordain women. It's going to be someone who's in his legacy and supports what he has been doing. [[00:02:27](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=147.0s)]
+*  Let's talk about the runners and riders. Obviously, the old adage is he who walks into the conclave, a Pope walks out a Cardinal, meaning that the favorites often don't really make it. But who is the bookies' favorite? [[00:02:48](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=168.0s)]
+*  The bookies are all saying that Cardinal Peralin, who is the Secretary of State. Remember, he's more like a Prime Minister. He's the number two guy in the Vatican under the Pope. So he's worked with the Pope. He would be a vote for continuity, but he's a very different personality. He's a diplomat. He's not charismatic at all. [[00:03:03](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=183.0s)]
+*  And there's another Cardinal as well, an Asian Cardinal, Cardinal Tagli, that people have been talking about. [[00:03:23](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=203.0s)]
+*  Absolutely. And he's almost the opposite. He is very charismatic. He was someone who would excite people when they saw him. He's very pastoral. The people love him. He's a social media meme. So people would be very excited with his election. [[00:03:28](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=208.0s)]
+*  I wonder whether we can take the live shot of the cast iron chimney which sits atop the Sistine Chapel. Just talk me through the black smoke and white smoke. What does the black smoke mean? What does the white smoke mean? [[00:03:46](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=226.0s)]
+*  Well, tonight around 7 or 7.30, we're going to see smoke coming out of that chimney if the Cardinals have a vote during that time this evening. And if it's black smoke, that means no Pope. They're going to have to meet tomorrow to vote again. And if it's white smoke, we're all going to be very surprised because we don't expect white smoke tonight. [[00:03:59](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=239.0s)]
+*  The shortest conclave ever was in 1503, I think, and that was 10 hours. So they did get white smoke on the very first vote, but that was a very, very long time ago. [[00:04:22](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=262.0s)]
+*  That's a long time ago. We haven't had a conclave go over five days since the 19th century when it went for a whole month during the 1830s. So we're pretty sure we're going to have a Pope by Friday, but they can surprise us. [[00:04:31](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=271.0s)]
+*  Father Thomas Rees, it's so lovely to talk to you. Thank you for joining us here on BBC News. So Father Thomas very, very kindly explained there the black smoke, white smoke, but how exactly does the conclave work? Here's a little taster of that process. [[00:04:46](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=286.0s)]
+*  For centuries, a new Pope has been chosen through conclave. These men and so many before them were all elected by their peers in this confidential process steeped in tradition. [[00:05:00](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=300.0s)]
+*  The man chosen to lead the Catholic Church next will, like them, instantly become one of the most influential figures in the world. [[00:05:12](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=312.0s)]
+*  The process is all conducted in secret. Behind locked doors in the Sistine Chapel, with its stunning ceiling painted by Michelangelo, the College of Cardinals gather to make their decision. [[00:05:21](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=321.0s)]
+*  Known as Princes of the Church, Cardinals must be under the age of 80 to vote, but they can select an older Cardinal as Pope. [[00:05:33](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=333.0s)]
+*  133 have the task this time, making this conclave the largest in history. It's also the most diverse. Europe has the most electors, but Pope Francis made it his mission to expand the Church. [[00:05:42](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=342.0s)]
+*  70 countries now represented in the conclave to choose his successor. After a single vote on the first evening, the Cardinals will then vote four times a day, twice in the morning, twice in the evening, until a name achieves a two-thirds majority. [[00:05:57](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=357.0s)]
+*  When they fail to agree, black smoke will rise above the Vatican. It could take days, it could take weeks, but when they succeed, that smoke will be white. [[00:06:15](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=375.0s)]
+*  And then all eyes will turn to the balcony of St Peter's Basilica, where the new Pope will emerge, a new leader for the world's 1.4 billion Catholics. [[00:06:27](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=387.0s)]
+*  Well, the last leader was, of course, the first Latin American Pope, and there's a lot of interest in what's going to happen this time. [[00:06:39](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=399.0s)]
+*  Daniel Galas joins me now from BBC Brazil. Daniel, so good to talk to you. You've been talking to Brazilian pilgrims who've come here for this very special event. What does Brazil want from the next Pope? [[00:06:49](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=409.0s)]
+*  Well, it's interesting. Mostly people are very happy with the last Pope, with Pope Francis, because there's a big connection between Brazil and Argentina, and people from the region like to see the Pope from the region. [[00:07:00](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=420.0s)]
+*  Of course, they're not expecting this to happen once again, so they're just looking for someone who has a sort of a similar profile of Pope Francis, who can help the Catholic Church in Brazil with all the problems that it has in the country as well. [[00:07:11](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=431.0s)]
+*  So they're kind of looking out, say, for Pope Francis II in a way. And the problems you're talking about mainly pertain to a lot of people moving away from Catholicism and into Evangelicalism. That's a huge issue for the Catholic Church in Latin America. [[00:07:24](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=444.0s)]
+*  Yes. So a few decades ago, like more than 90% of people in Brazil were Catholics. Now the latest data, which is still kind of old, it's from 10 years ago, 10, 15 years ago, shows that about 65% of people are Catholics, but that number is dropping and the Evangelical movement is growing. [[00:07:36](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=456.0s)]
+*  So they really look for an inspirational figure, someone who can bring people back to church and talk to them, speak the language of the people and the problems that they have, and sort of modernize the Catholic Church. [[00:07:53](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=473.0s)]
+*  And that's, I think, what people were seeing in France, and that's what they want to see in the next candidate. But I don't think Brazilians are particularly connected, at least to any of the names that they're seeing right now in the polls. [[00:08:05](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=485.0s)]
+*  But people say they're no favorites, so let's see. [[00:08:16](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=496.0s)]
+*  OK, Daniel Gala, it's always good to talk to you. Thank you so much for coming onto this balcony overlooking St. Peter's Square and talking to me. It's beautiful, I know it is indeed. [[00:08:19](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=499.0s)]
+*  And we will leave you with these pictures of the inside of the Mass. It's a momentous occasion. It's an occasion where I sense a lot of excitement, a lot of anticipation here in the Vatican. [[00:08:27](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=507.0s)]
+*  Very different feeling than the last time I was here, of course, at the end of the funeral for Pope Francis. [[00:08:38](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=518.0s)]
+*  There's hope here that whoever becomes the 267th leader of the Catholic Church will take the Church into what many people are hoping is the right direction. [[00:08:45](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=525.0s)]
+*  We'll cover the conclave throughout the day and the next few days here on BBC News, live from the Vatican. [[00:08:56](https://www.youtube.com/watch?v=I8mkcEuaMbI&t=536.0s)]

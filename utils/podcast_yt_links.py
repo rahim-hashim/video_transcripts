@@ -2,7 +2,7 @@ podcast_playlist_names = {
   # mainstream news
   'https://www.youtube.com/playlist?list=PLnwt1fUa-EVhHEHY16Za6nORjkefQpR8_': 'AP News - Israel Palestine',
   'https://www.youtube.com/playlist?list=PLS3XGZxi7cBXnYfJpUas1ud6XATvWATHb': 'BBC - The Latest',
-  # 'https://www.youtube.com/playlist?list=PLS3XGZxi7cBVTzEE4Sim9UuNKnUJq9Vkh': 'BBC - World News',
+  'https://www.youtube.com/playlist?list=PLS3XGZxi7cBVTzEE4Sim9UuNKnUJq9Vkh': 'BBC - World News',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOExDwCvqcjMvaaKPHw-e_3XA': 'NBC - Chris Hayes',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEyETRGoRP9y8zhyu6bHl6iK': 'NBC - Rachel Maddow',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEwfv0LML1BGBlPxZsnoa0xM': 'NBC - Ali Vitali',
@@ -42,13 +42,11 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLneypbodq-jb6iEDCsi5QFKv-ACMdZ86s': 'Democracy Now',
   'https://www.youtube.com/playlist?list=PL19Wqzt3FqEVbBVu4OsZ73logsvgHnf3b': 'Carnegie Endowment - Events',
   'https://www.youtube.com/playlist?list=PL19Wqzt3FqEUoEp8lYVqb06rIqT3jkcZi': 'Carnegie Endowment - Middle East',
-  # 'https://www.youtube.com/playlist?list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k': 'Cognitive Revolution',
   'https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4': 'Lex Fridman',
   'https://www.youtube.com/playlist?list=PL5PjwSaEJGg6A3LBmWDMXO-xTH4CXoNgE': 'Brain Inspired',
   'https://www.youtube.com/playlist?list=PLYHjB_Comy8RhgQ_JNUbVNEQ6gc4iolhN': 'Bill Simmons NBA',
   'https://www.youtube.com/playlist?list=PLYHjB_Comy8SKByVPadM3Xm0WJQV102Ya': 'Bill Simmons NFL',
   'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman',
-  # 'https://www.youtube.com/playlist?list=PLHZGTTZG6HcI2tr4tg8oak8_6Wz5on1jY': 'Chomsky\'s Philosophy - Best of Chomsky',
   'https://www.youtube.com/playlist?list=PLM4u6XbiXf5p7irrx8GfeXslWyGB9DGjg': 'a16z Bio',
   'https://www.youtube.com/playlist?list=PLUiBUNqvsvrgDDM2V7as8tt7PJCF_wM-x': 'HasanAbi',
   'https://www.youtube.com/playlist?list=PLhHpnycGpC8QZZWtiKn35yHjs42DjqllL': 'Zeteo - Mehdi Unfiltered',
@@ -80,14 +78,14 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLS_48r7yuHnspwTJpNignae0cSY_b1cL5': 'Glenn Greenwald - System Update',
   'https://www.youtube.com/playlist?list=PL1JULMhsLAypfSsBputK5dah9WKASIo-v': 'Flagrant - Andrew Schulz',
   'https://www.youtube.com/playlist?list=PLHEvpbppx_4oee80gW8A6aMXjKsq5-ECH': 'The Electronic Intifada',
-  # Shawn Fantasy Football team
-  # 'https://www.youtube.com/playlist?list=PLI4CojGEzLMfaMTaQdfoTg0Bu7N_Gf_gB': 'FantasyPros - Dynshams Podcast'
   # Biotechnology
   'https://www.youtube.com/playlist?list=PLc72brZeU9-qT6WrU2JleEIGM-HgQFt9k': 'Beyond Biotech',
   'https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb': 'Life Science Connect - Business of Biotech',
   'https://www.youtube.com/playlist?list=PLM4u6XbiXf5rnUvH5NLdV_It2QLgbHBDZ': 'The a16z Podcast',
   'https://www.youtube.com/playlist?list=PLR132NlB9VMCZQ3p-6sgZo1BOtVvn_Wf_': 'The RTW Podcast',
-  'https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU': 'Moonshots - Peter Diamandis'
+  'https://www.youtube.com/playlist?list=PL1wpF5k0tdIve4idTp3-FX2ZY7ks_BKeU': 'Moonshots - Peter Diamandis',
+  # Artificial Intelligence
+  # 'https://www.youtube.com/playlist?list=PLVfJCYRuaJIUNqx6puWYmw7Ug_QsTlA5k': 'Cognitive Revolution',
 }
 
 podcast_channel_names = {

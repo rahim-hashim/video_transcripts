@@ -1,0 +1,113 @@
+---
+Date Generated: June 02, 2025
+Transcription Model: whisper medium 20231117
+Length: 493s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 810944
+Video Rating: None
+Video Description: US stocks and the dollar plunged again as President Donald Trump intensified his attacks on the US central bank boss and called him "a major loser".
+ 
+In a social media post, Trump called on Federal Reserve chair Jerome Powell to cut interest rates "pre-emptively" to help boost the economy, and said Powell had been consistently too slow to respond to economic developments.
+ 
+Trump's criticism of Powell's handling of the US economy came as his own plans for tariffs have driven a stock market sell-off and raised fears of economic recession.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#BBCNews
+---
+
+# US stocks and dollar plunge as Donald Trump attacks Fed chair Jerome Powell | BBC News
+**BBC - World News:** [April 22, 2025](https://www.youtube.com/watch?v=uzyuCAnd86Y)
+*  The market in the United States have taken another hit. Investors saw another steep slide [[00:00:00](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=0.0s)]
+*  on Wall Street. US stocks and the dollar plunged again on Monday as President Trump intensified [[00:00:05](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=5.28s)]
+*  his attacks on America's central bank boss, Jerome Powell. In a post on social media, [[00:00:10](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=10.76s)]
+*  he called him, quote, a major loser for not lowering interest rates and called on Mr. [[00:00:16](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=16.46s)]
+*  Powell to make preemptive cuts to help boost the economy. He said that the Fed had been [[00:00:21](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=21.080000000000002s)]
+*  consistently too slow to respond to economic developments. Well, the president's comments [[00:00:26](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=26.52s)]
+*  sent Wall Street sharply lower, with all three major indices down over 2%. Gold, which is [[00:00:31](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=31.88s)]
+*  the traditional safe haven in the time of uncertainty, has hit another record high. [[00:00:37](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=37.8s)]
+*  It's above $3,500. We're also seeing some movement on global currency markets too. The [[00:00:42](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=42.519999999999996s)]
+*  British pound and the Japanese yen jumping to their highest level against the US dollar [[00:00:48](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=48.760000000000005s)]
+*  since September last year. Well, let's make some sense of all this with Jeremy Stretch, [[00:00:53](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=53.6s)]
+*  chief international strategist at CIBC Capital Markets. Jeremy, good to have you here and [[00:00:57](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=57.84s)]
+*  do exactly that, if you will. What is going on here? Because, Mark, it's unsure of a direction [[00:01:02](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=62.64s)]
+*  over recent weeks. And then once again, further attacks on the head of America's independent [[00:01:07](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=67.6s)]
+*  central bank doesn't paint a picture of an economy that's pretty rosy right now. [[00:01:12](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=72.64s)]
+*  Oh, no, that's right. And you hit the nail on the head there when you're talking about [[00:01:18](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=78.32s)]
+*  independence, because, of course, that's been one of the central benchmarks, which has really [[00:01:21](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=81.76s)]
+*  underlined why international investors over decades have invested very heavily in terms of [[00:01:25](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=85.84s)]
+*  US assets, and particularly US treasuries, because of the independence of the central bank as the [[00:01:31](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=91.2s)]
+*  baseline for monetary policy. And that issue or that bastion of independence is now being [[00:01:36](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=96.24000000000001s)]
+*  threatened by Mr. Trump. And, of course, as you've mentioned, the IMF will be downgrading [[00:01:42](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=102.56s)]
+*  their global growth prospects this afternoon because of the influence on the impact of the [[00:01:46](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=106.96000000000001s)]
+*  tariff regime. So there is a real question mark regarding international investment flows going [[00:01:51](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=111.36s)]
+*  into the dollar. And in a sense, what we're seeing is international investors are deciding to keep [[00:01:56](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=116.16s)]
+*  more capital in terms of their own domestic markets. That includes the eurozone, it includes Japan, [[00:02:00](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=120.24s)]
+*  and to an extent also includes the UK. So that is seeing investors moving away from the US dollar [[00:02:05](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=125.03999999999999s)]
+*  and into alternative currencies, and then also seeing that sort of safe haven bid to add it to [[00:02:10](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=130.48s)]
+*  the dollar as well. Yes. And as we said, the pound and the yen jumping to their highest level [[00:02:15](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=135.52s)]
+*  against the dollar since, I think, September. Is that about US dollar weakness or the strength [[00:02:20](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=140.08s)]
+*  of the pound and the yen? I think it's definitely a story of US dollar weakness. So we've seen [[00:02:24](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=144.8s)]
+*  international investors very much averse to holding dollars amidst this uncertainty, which [[00:02:29](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=149.76000000000002s)]
+*  has really writ large, emanating from the US. I think in terms of Japan, it's very much the case [[00:02:35](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=155.20000000000002s)]
+*  that Japanese investors are keeping more money onshore. So I think there is this sort of issue [[00:02:40](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=160.56s)]
+*  regarding concerns in terms of investing in US assets. I think in terms of the UK, I think it's [[00:02:46](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=166.0s)]
+*  interesting that obviously we have seen a slight uptick in terms of some of the economic mood music [[00:02:51](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=171.92s)]
+*  over the course of the last few weeks, despite the broader uncertainties. Now, it may well be the [[00:02:56](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=176.8s)]
+*  case that obviously the UK will see a downgrade to its growth prospects from the IMF later, [[00:03:01](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=181.52s)]
+*  but on a relative basis, the UK is holding in on a broader basis compared to the US. And I think [[00:03:05](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=185.84s)]
+*  that is providing some scope for some resilience in terms of sterling and again, seeing less of [[00:03:11](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=191.92s)]
+*  those outflows, which have really been influenced over the course of the last few years. Jeremy, [[00:03:17](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=197.35999999999999s)]
+*  always good to talk to you. Thanks for your insight on that. Jeremy Stretch, Chief International [[00:03:22](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=202.95999999999998s)]
+*  Strategist at CIBC. Thank you. Well, that impact that tariffs is having on stock markets is raising [[00:03:26](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=206.64s)]
+*  fears of economic recession. And of course, that is top of the agenda at this year's World Bank and [[00:03:32](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=212.64s)]
+*  International Monetary Fund spring meetings. They're both taking place in Washington, DC. [[00:03:37](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=217.92s)]
+*  North America business correspondent is Michelle Fleury and she's there to talk us through what we [[00:03:43](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=223.11999999999998s)]
+*  might expect. President Donald Trump, as is the norm, won't be attending the International [[00:03:47](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=227.51999999999998s)]
+*  Monetary Fund and World Bank spring meetings, but his presence will loom large over the proceedings. [[00:03:53](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=233.6s)]
+*  At the start of this year, the US economy, while it was looking pretty good, plenty of economists [[00:04:00](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=240.39999999999998s)]
+*  were feeling upbeat. Many of them were forecasting growth of around two and a half percent, [[00:04:05](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=245.76s)]
+*  but that optimism, it's starting to cool off. The International Monetary Fund is expected to dial [[00:04:11](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=251.92s)]
+*  down its global growth forecasts in large part because of Trump's trade war, which is being felt [[00:04:17](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=257.76s)]
+*  well beyond US borders. Inflation in the United States, which had been making progress, has started [[00:04:22](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=262.96s)]
+*  to stall out and those tariffs, well, they're not helping. The men and women who run the global [[00:04:29](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=269.44s)]
+*  economy and who are gathering this week for meetings in Washington are likely to try to [[00:04:35](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=275.44s)]
+*  ramp up negotiations with the Trump administration in an attempt to try to evade duties. Adding to all [[00:04:40](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=280.24s)]
+*  of the drama, the United States is considering whether or not to withdraw from both institutions. [[00:04:47](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=287.12s)]
+*  If that were to happen, it could shake things up in a big way. Michelle Fleury for us there in [[00:04:54](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=294.08s)]
+*  Washington, DC. Michelle will have the very latest as those meetings get underway a little later. [[00:05:00](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=300.15999999999997s)]
+*  Let's talk though now to Ariane Curtis, who's Senior Global Economist at Capital Economics. [[00:05:05](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=305.2s)]
+*  Ariane, good to have you here. Talk to me about what we might expect because all the mood music [[00:05:09](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=309.84s)]
+*  suggests they're going to downgrade growth, they're going to warn on the impacts of those tariffs, [[00:05:14](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=314.15999999999997s)]
+*  rising inflation. None of it looks good. Is there any area where there might be optimism? [[00:05:17](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=317.76s)]
+*  Yeah. As you said, the main focus is really going to be on the impact of tariffs and really this [[00:05:22](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=322.88s)]
+*  trade uncertainty, how that can weigh on the global outlook. It's the first set of IMF and [[00:05:29](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=329.12s)]
+*  World Bank meetings since tariffs were started to be announced earlier this year. It's not really [[00:05:35](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=335.44s)]
+*  a secret that there are downgrades ahead. The IMF have already warned of these notable markdowns [[00:05:41](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=341.44s)]
+*  in GDP forecasts for many countries. It's likely that the 3.3% growth forecast they [[00:05:49](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=349.84000000000003s)]
+*  put out in January for this year will be revised significantly. And they're probably, [[00:05:57](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=357.44s)]
+*  while a global recession won't be their base case, they're likely to flag that there will be greater [[00:06:04](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=364.48s)]
+*  risk of this, especially if countries retaliate significantly to US tariffs. So we might see a [[00:06:10](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=370.88s)]
+*  situation where they kind of present this as a worst case scenario. If there was an all out trade [[00:06:17](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=377.68s)]
+*  war, this would knock X% off global GDP. How much influence do these reports have and how [[00:06:23](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=383.36s)]
+*  much should we care about the view of something like the World Bank or the IMF? Because at best, [[00:06:28](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=388.96000000000004s)]
+*  these are educated guesses about what might happen. We just don't know yet what impact these [[00:06:33](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=393.68s)]
+*  tariffs will have, do we? Yes. It's actually something that's really difficult for all [[00:06:38](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=398.56s)]
+*  forecasters, economic forecasters at this point. Almost what is the point of having forecasts when [[00:06:43](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=403.76s)]
+*  there's so much uncertainty? So it's probably more likely that they'll talk a lot in terms of [[00:06:48](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=408.72s)]
+*  scenarios and really kind of an impact of if tariffs were foreign to this way, X%, then this [[00:06:55](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=415.44000000000005s)]
+*  could be the impact on growth and inflation in these countries. But really, it's going to be [[00:07:03](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=423.12s)]
+*  providing a range of estimates based on what just could happen to trade policies. Yeah. And one of [[00:07:07](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=427.6s)]
+*  the things that's hard to quantify as well is sort of the indirect consequences of this and whether [[00:07:13](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=433.36s)]
+*  some countries around the world will think, well, blow the tariffs, we'll just deal with [[00:07:17](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=437.6s)]
+*  different countries instead and sort of cut America out of the picture. And that's quite hard to [[00:07:20](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=440.96000000000004s)]
+*  quantify at this stage. Yes, exactly. Of course, there's direct impacts from higher tariffs, but [[00:07:25](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=445.12s)]
+*  really it's this kind of indirect impact through this higher uncertainty that's going to be a big [[00:07:32](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=452.0s)]
+*  factor. For example, we've already seen business surveys and consumer confidence surveys really [[00:07:38](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=458.16s)]
+*  deteriorate so far this year, especially in the US. We've seen financial market conditions tighten [[00:07:46](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=466.08s)]
+*  a lot. And there could be quite a big hit to business investment, for example, if firms decide [[00:07:51](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=471.59999999999997s)]
+*  to put plans on hold until tariff policies become more clear, if they ever do become more clear. [[00:07:59](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=479.2s)]
+*  So you could think especially in some countries like Canada and Mexico, which are very integrated [[00:08:05](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=485.68s)]
+*  with the US, that that would weigh there. [[00:08:10](https://www.youtube.com/watch?v=uzyuCAnd86Y&t=490.48s)]
