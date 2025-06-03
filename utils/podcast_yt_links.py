@@ -78,6 +78,8 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLS_48r7yuHnspwTJpNignae0cSY_b1cL5': 'Glenn Greenwald - System Update',
   'https://www.youtube.com/playlist?list=PL1JULMhsLAypfSsBputK5dah9WKASIo-v': 'Flagrant - Andrew Schulz',
   'https://www.youtube.com/playlist?list=PLHEvpbppx_4oee80gW8A6aMXjKsq5-ECH': 'The Electronic Intifada',
+  'https://www.youtube.com/playlist?list=PLwZtBKjGSMzWvL_sEh7GoLRh4LdFb5xOr': 'BreakThrough News - Explainers',
+  'https://www.youtube.com/playlist?list=PLwZtBKjGSMzVUN86veUUDrFItAVlXkfBA': 'BreakThrough News - Palestine',
   # Biotechnology
   'https://www.youtube.com/playlist?list=PLc72brZeU9-qT6WrU2JleEIGM-HgQFt9k': 'Beyond Biotech',
   'https://www.youtube.com/playlist?list=PLFXsCNKV78rWNPmqIA8b2dKYLPYYv28wb': 'Life Science Connect - Business of Biotech',
