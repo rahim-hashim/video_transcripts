@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from collections import defaultdict
 
 author_dict = defaultdict(list)
-author_dict['news_author'] = [
+author_dict['news_authors'] = [
   # mainstream
   'ABC',
 	'CBS',
@@ -43,8 +43,16 @@ author_dict['news_author'] = [
 	'Council on Foreign Relations'
 ]
 
-author_dict['sports_author'] = [
+author_dict['sports_authors'] = [
 	'Bill Simmons'
+]
+
+author_dict['biotech_authors'] = [
+	'Beyond Biotech',
+	'Life Science Connect',
+	'a16z',
+	'RTW Podcast',
+	'Peter Diamandis'
 ]
 
 author_dict['all'] = []
@@ -98,7 +106,7 @@ def find_transcripts(author_names, transcript_dir_path='_Transcripts'):
 		for author_name in author_names:
 			author_path_dir = os.path.join(transcript_dir_path, dir)
 			if os.path.isdir(author_path_dir) and author_name.lower() in dir.lower():
-				print(f'Loading {author_path_dir}.')
+				print(f'  Loading {author_path_dir}.')
 				for file in sorted(os.listdir(author_path_dir), reverse=True):
 					transcript_paths_dict[author_name].append(os.path.join(author_path_dir, file))
 				print(f' Found {len(transcript_paths_dict[author_name])} transcripts.')
@@ -308,18 +316,21 @@ def load_transcripts(
 		save_name='transcript_df.pkl', 
 		verbose=False
 	):
-	# author_name = sys.argv[1]
-	# if author_names not in author_dict.keys():
-	# 	print(f'Searching for {author_name} transcripts...')
-	# 	# check if the dataframe exists
-	# 	if dataframe_exists(author_name) and not reload:
-	# 		print(f'Found: transcript_df already exists.')
-	# 		dataframe_dir_path = os.path.join('_Dataframes', f'{author_name}_transcript_df.pickle')
-	# 		print(f'  Loading \'{dataframe_dir_path}\'...')
-	# 		with open(dataframe_dir_path, 'rb') as f:
-	# 			transcript_df = pickle.load(f)
-	# 			print(f'  Number of transcripts: {len(transcript_df)}.')
-	# 			return transcript_df
+	author_name = sys.argv[1]
+	if author_names not in author_dict.keys():
+		print(f'Searching for {author_name} transcripts...')
+		# check if the dataframe exists
+		if dataframe_exists(author_name) and not reload:
+			print(f'Found: transcript_df already exists.')
+			dataframe_dir_path = os.path.join('_Dataframes', f'{author_name}_transcript_df.pickle')
+			print(f'  Loading \'{dataframe_dir_path}\'...')
+			with open(dataframe_dir_path, 'rb') as f:
+				transcript_df = pickle.load(f)
+				print(f'  Number of transcripts: {len(transcript_df)}.')
+				return transcript_df
+	else:
+		author_names = author_dict[author_names]
+		print(f'Loading transcripts for: {author_names}')
 	# if the dataframe does not exist, create it by reading the transcripts
 	transcript_paths_dict = find_transcripts(author_names)
 	transcripts_dict = defaultdict(lambda: defaultdict(list))

@@ -1,0 +1,2 @@
+notion_api_key = "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"
+notion_database_key = "207d33c6baee802a84d8fc1cf3ad3524"
