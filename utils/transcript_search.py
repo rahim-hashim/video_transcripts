@@ -110,8 +110,8 @@ def find_transcripts(author_names, transcript_dir_path='_Transcripts'):
 				for file in sorted(os.listdir(author_path_dir), reverse=True):
 					transcript_paths_dict[author_name].append(os.path.join(author_path_dir, file))
 				print(f' Found {len(transcript_paths_dict[author_name])} transcripts.')
-	if len(transcript_paths_dict[author_name]) == 0:
-		print(f'No transcripts found for {author_name}.')
+	if len(transcript_paths_dict.keys()) == 0:
+		print(f'No transcripts found for {author_names}.')
 		sys.exit(1)
 	else:
 		transcript_paths_all = [transcript for author_name, transcripts in transcript_paths_dict.items() for transcript in transcripts]
