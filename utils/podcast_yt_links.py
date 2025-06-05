@@ -47,7 +47,6 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLYHjB_Comy8RhgQ_JNUbVNEQ6gc4iolhN': 'Bill Simmons NBA',
   'https://www.youtube.com/playlist?list=PLYHjB_Comy8SKByVPadM3Xm0WJQV102Ya': 'Bill Simmons NFL',
   'https://www.youtube.com/playlist?list=PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW': 'Andrew Huberman',
-  'https://www.youtube.com/playlist?list=PLM4u6XbiXf5p7irrx8GfeXslWyGB9DGjg': 'a16z Bio',
   'https://www.youtube.com/playlist?list=PLUiBUNqvsvrgDDM2V7as8tt7PJCF_wM-x': 'HasanAbi',
   'https://www.youtube.com/playlist?list=PLhHpnycGpC8QZZWtiKn35yHjs42DjqllL': 'Zeteo - Mehdi Unfiltered',
   'https://www.youtube.com/playlist?list=PLrxfgDEc2NxY_fRExpDXr87tzRbPCaA5x': 'Mindscape Podcast',
