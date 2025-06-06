@@ -1,0 +1,123 @@
+---
+Date Generated: June 05, 2025
+Transcription Model: whisper medium 20231117
+Length: 520s
+Video Keywords: ['politics', 'us politics', 'politics today', 'civil liberties', 'civil rights and civil liberties', 'independent media', 'independent journalism', 'journalism', 'journalist', 'investigative journalism', 'free speech', 'freedom of speech', 'free speech rights', 'internet free speech']
+Video Views: 10114
+Video Rating: None
+Video Description: This is a clip from our show SYSTEM UPDATE, now airing every weeknight at 7pm ET on Rumble. You can watch the full episode for FREE here: https://rumble.com/v6ub7u7-sen.-rand-paul-on-opposing-trumps-big-beautiful-bill-tariffs-ukraine-system.html
+Now available as a podcast! Find full episodes here: https://linktr.ee/systemupdate_
+Join us LIVE on Rumble, weeknights at 7pm ET: https://rumble.com/c/GGreenwald
+Become part of our Locals community: https://greenwald.locals.com/
+Follow Glenn:
+Twitter: https://twitter.com/ggreenwald
+Instagram: https://www.instagram.com/glenn.11.greenwald/
+Follow System Update: 
+Twitter: https://twitter.com/SystemUpdate_
+Instagram: https://www.instagram.com/systemupdate__/
+TikTok: https://www.tiktok.com/@systemupdate__
+Facebook: https://www.facebook.com/systemupdate.tv/
+LinkedIn: https://www.linkedin.com/company/systemupdate/
+---
+
+# Why Sen. Rand Paul is Fighting the Antisemitism Awareness Act
+**Glenn Greenwald - System Update:** [June 05, 2025](https://www.youtube.com/watch?v=duqYETHN0dk)
+*  All right, the time we have left, I want to ask you about what I think was going to be [[00:00:00](https://www.youtube.com/watch?v=duqYETHN0dk&t=0.0s)]
+*  when we kind of arrange with your staff to have you on a few weeks ago. [[00:00:09](https://www.youtube.com/watch?v=duqYETHN0dk&t=9.56s)]
+*  The first question, I think it was what prompted us to reach out to you or vice versa, was [[00:00:12](https://www.youtube.com/watch?v=duqYETHN0dk&t=12.56s)]
+*  you had given a speech about free speech and the dangers of censorship about a month ago [[00:00:17](https://www.youtube.com/watch?v=duqYETHN0dk&t=17.76s)]
+*  in the Senate, and we had you on our show several times, a lot of other people on the [[00:00:22](https://www.youtube.com/watch?v=duqYETHN0dk&t=22.080000000000002s)]
+*  times during the Biden years where we all talked about the extreme dangers of these new forms of [[00:00:27](https://www.youtube.com/watch?v=duqYETHN0dk&t=27.2s)]
+*  censorship descending from the Biden campaign, certain kind of speech becoming even though [[00:00:31](https://www.youtube.com/watch?v=duqYETHN0dk&t=31.92s)]
+*  way, way far away from being illegal, nonetheless repressed in all sorts of bureaucratic and even [[00:00:36](https://www.youtube.com/watch?v=duqYETHN0dk&t=36.88s)]
+*  legal ways sometimes. You were essentially arguing against a bill that the Trump administration had [[00:00:41](https://www.youtube.com/watch?v=duqYETHN0dk&t=41.52s)]
+*  backed, that members of both parties had backed, that you felt was the same type or strain of [[00:00:47](https://www.youtube.com/watch?v=duqYETHN0dk&t=47.44s)]
+*  censorship, if not a worse kind. Can you talk a little bit about that? And in general, how do [[00:00:51](https://www.youtube.com/watch?v=duqYETHN0dk&t=51.6s)]
+*  you assess the Trump approach thus far to issues of free speech, which he also did center in the [[00:00:56](https://www.youtube.com/watch?v=duqYETHN0dk&t=56.56s)]
+*  campaign? Yeah, I think you're talking about the anti-Semitism bill that came forward. And so the [[00:01:02](https://www.youtube.com/watch?v=duqYETHN0dk&t=62.160000000000004s)]
+*  thing is, is things come forward and most civilized people, mature people would say, well, it's [[00:01:07](https://www.youtube.com/watch?v=duqYETHN0dk&t=67.76s)]
+*  terrible to hate people because of their race. And if there was a sense of the Senate to say, [[00:01:15](https://www.youtube.com/watch?v=duqYETHN0dk&t=75.2s)]
+*  to hate people who are Jewish is wrong and that anti-Semitism wrong, everyone would sign on, [[00:01:20](https://www.youtube.com/watch?v=duqYETHN0dk&t=80.0s)]
+*  including myself. I'm not for judging people according to race. But what they wanted to do [[00:01:24](https://www.youtube.com/watch?v=duqYETHN0dk&t=84.8s)]
+*  was this definition from the International Holocaust Commission. And in it, it lists [[00:01:29](https://www.youtube.com/watch?v=duqYETHN0dk&t=89.84s)]
+*  examples of what might be anti-Semitism. And it says that if you refer to Israel as a racist state, [[00:01:35](https://www.youtube.com/watch?v=duqYETHN0dk&t=95.12s)]
+*  that would be anti-Semitism. And the question I ask, and I don't say it to be funny, but Netanyahu [[00:01:43](https://www.youtube.com/watch?v=duqYETHN0dk&t=103.76s)]
+*  and many people have said that it is a Jewish country. Well, that would be a country based on [[00:01:50](https://www.youtube.com/watch?v=duqYETHN0dk&t=110.48s)]
+*  race. Would that be a racist state? So would we be forbidden from having this discussion right now [[00:01:55](https://www.youtube.com/watch?v=duqYETHN0dk&t=115.12s)]
+*  about what Netanyahu's opinion of whether only Jews would vote or whether Arabs would vote? [[00:02:01](https://www.youtube.com/watch?v=duqYETHN0dk&t=121.60000000000001s)]
+*  I know some Arabs do vote in Israel, but many on the West Bank don't. But some of the settlers on [[00:02:06](https://www.youtube.com/watch?v=duqYETHN0dk&t=126.96000000000001s)]
+*  the West Bank do. But those are discussions of policy and what should happen. And I don't know [[00:02:12](https://www.youtube.com/watch?v=duqYETHN0dk&t=132.32s)]
+*  that they really could be designed as anti-Semitism. One of the other things, and this is what I thought [[00:02:17](https://www.youtube.com/watch?v=duqYETHN0dk&t=137.92s)]
+*  was kind of a little humorous, is they said that generalizations about Jews would be considered to [[00:02:22](https://www.youtube.com/watch?v=duqYETHN0dk&t=142.95999999999998s)]
+*  be anti-Semitism. And I said, well, gosh, have you ever heard a Jewish comedian? Do you know that most [[00:02:30](https://www.youtube.com/watch?v=duqYETHN0dk&t=150.4s)]
+*  of their jokes are about generalizations about Jews? And I said, I know for a fact that not all [[00:02:36](https://www.youtube.com/watch?v=duqYETHN0dk&t=156.4s)]
+*  Jews are funny. And so Bernie Sanders was there, who is Jewish and who agreed with me on this. [[00:02:43](https://www.youtube.com/watch?v=duqYETHN0dk&t=163.92000000000002s)]
+*  And so I said I wanted to enter into the record the names of 479 Jewish American comedians who [[00:02:50](https://www.youtube.com/watch?v=duqYETHN0dk&t=170.08s)]
+*  I believe had made generalizations and remarks about Jews as a class of people. And I was [[00:02:56](https://www.youtube.com/watch?v=duqYETHN0dk&t=176.96s)]
+*  worried that these comedians would someday, you know, no longer be allowed to perform. [[00:03:02](https://www.youtube.com/watch?v=duqYETHN0dk&t=182.72s)]
+*  And this isn't an idle point. I mean, people like Jerry Seinfeld, who just happens to be Jewish, [[00:03:07](https://www.youtube.com/watch?v=duqYETHN0dk&t=187.68s)]
+*  won't perform on college campuses because people have lost their damn sense of humor. [[00:03:12](https://www.youtube.com/watch?v=duqYETHN0dk&t=192.4s)]
+*  And most jokes are about generalizations. They're about making fun of characteristics that don't [[00:03:16](https://www.youtube.com/watch?v=duqYETHN0dk&t=196.64s)]
+*  apply to all people. And you apply them to every person in that category to make a joke, for goodness [[00:03:22](https://www.youtube.com/watch?v=duqYETHN0dk&t=202.16s)]
+*  sakes. But this is a serious business and I don't want to involve the Department of Education and [[00:03:28](https://www.youtube.com/watch?v=duqYETHN0dk&t=208.48s)]
+*  police from the federal government going to colleges and arresting people for things like [[00:03:33](https://www.youtube.com/watch?v=duqYETHN0dk&t=213.68s)]
+*  generalizations. The other one that was ludicrous from it was if you claim that the Jews killed [[00:03:40](https://www.youtube.com/watch?v=duqYETHN0dk&t=220.96s)]
+*  Jesus. And it's like, well, it is a trope and it is anti-Semitism to blame all Jews for killing Jesus. [[00:03:46](https://www.youtube.com/watch?v=duqYETHN0dk&t=226.4s)]
+*  But for goodness sakes, if you read the Bible and you believe it, it does say some Jews killed Jesus. [[00:03:52](https://www.youtube.com/watch?v=duqYETHN0dk&t=232.88s)]
+*  Can we not have a discussion? You know, I mean, it'd be kind of crazy to say, oh, people can't read [[00:03:58](https://www.youtube.com/watch?v=duqYETHN0dk&t=238.4s)]
+*  certain portions. Christians can't read certain portions of the Bible because that would be [[00:04:04](https://www.youtube.com/watch?v=duqYETHN0dk&t=244.0s)]
+*  considered anti-Semitism. But this is not a very mature discussion. It's a bunch of people trying [[00:04:08](https://www.youtube.com/watch?v=duqYETHN0dk&t=248.24s)]
+*  to ingratiate themselves with different groups of people in the voting bloc without being very [[00:04:14](https://www.youtube.com/watch?v=duqYETHN0dk&t=254.24s)]
+*  thoughtful about it and without understanding the risks of what happens to speech and to a free [[00:04:19](https://www.youtube.com/watch?v=duqYETHN0dk&t=259.76s)]
+*  country if we can't have dialogue. Right. And the interesting thing is under these provisions [[00:04:24](https://www.youtube.com/watch?v=duqYETHN0dk&t=264.16s)]
+*  that they want to incorporate into law but also college hate speech rules, and this is the last [[00:04:29](https://www.youtube.com/watch?v=duqYETHN0dk&t=269.44s)]
+*  question for you because we're running out of time, but the irony, of course, is that you can [[00:04:34](https://www.youtube.com/watch?v=duqYETHN0dk&t=274.32000000000005s)]
+*  say the United States is a racist endeavor. You can say Peru or Indonesia or China is. You just [[00:04:38](https://www.youtube.com/watch?v=duqYETHN0dk&t=278.8s)]
+*  can't say that Israel is, or you can generalize about white people under these standards. So it [[00:04:44](https://www.youtube.com/watch?v=duqYETHN0dk&t=284.24s)]
+*  is clearly content based, but beyond the kind of frivolity or the irony of it, [[00:04:51](https://www.youtube.com/watch?v=duqYETHN0dk&t=291.2s)]
+*  and maybe this is something that as a libertarian, it's just part of the life of being a libertarian. [[00:04:57](https://www.youtube.com/watch?v=duqYETHN0dk&t=297.2s)]
+*  I've heard libertarians talk about this for many, many years before I even realized it, is that [[00:05:02](https://www.youtube.com/watch?v=duqYETHN0dk&t=302.16s)]
+*  I've watched conservatives for the last eight years vocally and vehemently object to exactly [[00:05:06](https://www.youtube.com/watch?v=duqYETHN0dk&t=306.56s)]
+*  these sorts of kinds of bills. We have to protect black people from racially insensitive comments [[00:05:12](https://www.youtube.com/watch?v=duqYETHN0dk&t=312.64s)]
+*  through censorship bills, except trans people, immigrants, women, and all of these were rejected [[00:05:17](https://www.youtube.com/watch?v=duqYETHN0dk&t=317.52s)]
+*  outright. Like, yeah, you might find those ideas or those jokes or whatever deeply offensive, [[00:05:23](https://www.youtube.com/watch?v=duqYETHN0dk&t=323.52s)]
+*  but the danger of allowing the government to regulate that speech is so much more dangerous [[00:05:27](https://www.youtube.com/watch?v=duqYETHN0dk&t=327.91999999999996s)]
+*  and contrary to what our country has been standing for. There have been some conservatives, not just [[00:05:31](https://www.youtube.com/watch?v=duqYETHN0dk&t=331.68s)]
+*  you, who objected, but by and large, obviously, a lot of the support is coming from the Trump [[00:05:36](https://www.youtube.com/watch?v=duqYETHN0dk&t=336.96s)]
+*  White House. How is it that you explain that? I mean, because sometimes for me, I think, yes, [[00:05:41](https://www.youtube.com/watch?v=duqYETHN0dk&t=341.2s)]
+*  we're all hypocritical. We're not perfect machines of consistency, but to spend so many years running [[00:05:47](https://www.youtube.com/watch?v=duqYETHN0dk&t=347.12s)]
+*  around vehemently bashing the table about the evils of censorship only to then support bills that, [[00:05:52](https://www.youtube.com/watch?v=duqYETHN0dk&t=352.16s)]
+*  on their face, are designed to restrict certain ideas from being expressed without punishment [[00:05:57](https://www.youtube.com/watch?v=duqYETHN0dk&t=357.84000000000003s)]
+*  seems so hard for me to... How do people reconcile that, I guess, in their brain? Is it just they're [[00:06:02](https://www.youtube.com/watch?v=duqYETHN0dk&t=362.4s)]
+*  trying to curry favor with interest groups or is there something else deeper there? I think many [[00:06:07](https://www.youtube.com/watch?v=duqYETHN0dk&t=367.36s)]
+*  people don't even read the bills. Many of the people up here say, oh, anti-Semitism, I don't [[00:06:12](https://www.youtube.com/watch?v=duqYETHN0dk&t=372.16s)]
+*  want to be on record as being opposed to anti-Semitism. Oh, my goodness. And so they run immediately to sign [[00:06:17](https://www.youtube.com/watch?v=duqYETHN0dk&t=377.20000000000005s)]
+*  up and co-sponsor it. And then I have conversations in the cloakroom with these people and like, oh, [[00:06:23](https://www.youtube.com/watch?v=duqYETHN0dk&t=383.76000000000005s)]
+*  I didn't know that was in there. But then some of them need cover too. And it actually is comforting [[00:06:28](https://www.youtube.com/watch?v=duqYETHN0dk&t=388.88s)]
+*  when I can read of a conservative Christian or a pastor who's read this and also says, well, of [[00:06:34](https://www.youtube.com/watch?v=duqYETHN0dk&t=394.64000000000004s)]
+*  course, we think the Israel and the Jews are the chosen people, but this isn't right to forbid this [[00:06:40](https://www.youtube.com/watch?v=duqYETHN0dk&t=400.72s)]
+*  kind of speech because it might forbid something that we actually read in the Bible. And so, [[00:06:45](https://www.youtube.com/watch?v=duqYETHN0dk&t=405.6s)]
+*  you know, we look for those voices to try to get people to think beyond, you know, I would be [[00:06:51](https://www.youtube.com/watch?v=duqYETHN0dk&t=411.20000000000005s)]
+*  opposed to it because I think it's government overreach, but we look for voices like that that [[00:06:56](https://www.youtube.com/watch?v=duqYETHN0dk&t=416.40000000000003s)]
+*  are reasonable and rational to try to let know conservatives that, yeah, you can. And so what [[00:07:00](https://www.youtube.com/watch?v=duqYETHN0dk&t=420.56s)]
+*  they did to the bill is they heard us and they put a little statement in there saying, nothing [[00:07:05](https://www.youtube.com/watch?v=duqYETHN0dk&t=425.6s)]
+*  in here can be contradictory to the First Amendment. And I said, well, everything in here [[00:07:10](https://www.youtube.com/watch?v=duqYETHN0dk&t=430.64s)]
+*  that is in the definition is contradictory to the First Amendment. You can't just say all this stuff [[00:07:16](https://www.youtube.com/watch?v=duqYETHN0dk&t=436.15999999999997s)]
+*  that contradicts the First Amendment and say, oh, yeah, but we're going to obey the First Amendment. [[00:07:20](https://www.youtube.com/watch?v=duqYETHN0dk&t=440.47999999999996s)]
+*  Thank you very much. And case settled. And then they tried to say, oh, it was only it was just [[00:07:23](https://www.youtube.com/watch?v=duqYETHN0dk&t=443.68s)]
+*  about actions, you know, preventing Jewish students from going across campus. And I say, [[00:07:28](https://www.youtube.com/watch?v=duqYETHN0dk&t=448.15999999999997s)]
+*  I'm not, I'm fine with disciplining people who threaten Jewish students, won't let them go across [[00:07:33](https://www.youtube.com/watch?v=duqYETHN0dk&t=453.12s)]
+*  campus. I'm absolutely fine. You can't do that. I'm fine with removing people, put a tent up in [[00:07:38](https://www.youtube.com/watch?v=duqYETHN0dk&t=458.88s)]
+*  a public area if there's a rule against a tent being there. If you pay and it's a university, [[00:07:43](https://www.youtube.com/watch?v=duqYETHN0dk&t=463.68s)]
+*  the university says no tents, there's no tents, whether, no matter what your issue is. So, [[00:07:47](https://www.youtube.com/watch?v=duqYETHN0dk&t=467.92s)]
+*  but that has nothing to do with speech. And I think we should. And that has nothing to do with [[00:07:52](https://www.youtube.com/watch?v=duqYETHN0dk&t=472.4s)]
+*  the bill as well. You know, I kept hearing, oh, no, we need this bill. These students are rambunctious [[00:07:55](https://www.youtube.com/watch?v=duqYETHN0dk&t=475.92s)]
+*  and you read the bill and you kept trying to tell, no, this bill has nothing to do with protests. [[00:08:00](https://www.youtube.com/watch?v=duqYETHN0dk&t=480.15999999999997s)]
+*  It's purely about political speech. Well, I'm going to have to run, but I appreciate the [[00:08:05](https://www.youtube.com/watch?v=duqYETHN0dk&t=485.12s)]
+*  conversation. Always great to see you. Thanks so much for being here. [[00:08:10](https://www.youtube.com/watch?v=duqYETHN0dk&t=490.16s)]
+*  Thank you. [[00:08:12](https://www.youtube.com/watch?v=duqYETHN0dk&t=492.96s)]
+*  Thanks for watching this clip from System Update, our live show that airs every Monday through [[00:08:16](https://www.youtube.com/watch?v=duqYETHN0dk&t=496.8s)]
+*  Friday at 7 p.m. Eastern, exclusively on Rumble. You can catch the full nightly shows live or view [[00:08:20](https://www.youtube.com/watch?v=duqYETHN0dk&t=500.72s)]
+*  the backlog of episodes for free on our Rumble page. You can also find full episodes the morning [[00:08:26](https://www.youtube.com/watch?v=duqYETHN0dk&t=506.4s)]
+*  after they air across all major podcasting platforms, including Spotify and Apple. [[00:08:31](https://www.youtube.com/watch?v=duqYETHN0dk&t=511.92s)]
+*  All the information you need is linked below. We hope to see you there. [[00:08:36](https://www.youtube.com/watch?v=duqYETHN0dk&t=516.64s)]
