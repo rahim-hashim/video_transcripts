@@ -1,0 +1,135 @@
+---
+Date Generated: June 06, 2025
+Transcription Model: whisper medium 20231117
+Length: 568s
+Video Keywords: ['biden autopen scandal', 'china threat', 'democratic party', 'democrats', 'elon musk', 'former president joe biden', 'fox news channel', 'president donald trump', 'sean hannity youtube', 'us politics', 'white house', 'xi jinping', 'breaking news', 'doge', 'economy', 'business', 'washington dc', 'primetime', 'watch', 'new', 'democracy', 'politics']
+Video Views: 151133
+Video Rating: None
+Video Description: Fox News host Sean Hannity highlights scrutiny on the alleged Biden cover-up, President Donald Trump’s call with Chinese President Xi Jinping, and Trump’s public spat with Elon Musk on ‘Hannity.’  #foxnews #news #usa #politics #trump #elonmusk #hannity #primetime #news #us #doge #business #budget #whitehouse #washington 
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Here's why Trump-Musk rift is ‘not unexpected,’ says Hannity
+**Fox News - Sean Hannity:** [June 05, 2025](https://www.youtube.com/watch?v=aTpt7hzGxsk)
+*  But we begin tonight with a flurry of activity today at 1600, Pennsylvania Avenue. And yes, let not your heart be troubled [[00:00:00](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=0.0s)]
+*  I will address the battle between President Trump and Elon Musk. I know it's of such great [[00:00:07](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=7.16s)]
+*  International importance, but first there is fresh scrutiny surrounding Joe Biden [[00:00:13](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=13.32s)]
+*  In a hard-working AutoPen. Take a look [[00:00:17](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=17.96s)]
+*  Somebody said AutoPen [[00:00:21](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=21.56s)]
+*  Because I think it's the biggest scandal [[00:00:24](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=24.44s)]
+*  Maybe in the last hundred years in this country. So when I hear that word, I think it has to be discussed because [[00:00:27](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=27.080000000000002s)]
+*  The fake news will try and you know hide it and we can't do that [[00:00:34](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=34.24s)]
+*  We can't ever allow that to happen to our country the danger our country is in and I know some of the people that worked [[00:00:37](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=37.78s)]
+*  With him look radical left horrible people and I could give you the name of some of the people that use the AutoPen because I'm here [[00:00:44](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=44.44s)]
+*  And I asked questions about people that were here also [[00:00:51](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=51.3s)]
+*  There are a lot of people that were here when that happened and they're here right now and they'll answer your question very accurately [[00:00:54](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=54.04s)]
+*  But I know some of the people that use that AutoPen and those are not the people that had the same ideology as Joe Biden [[00:01:00](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=60.76s)]
+*  These were radical left lunatics that use that and they didn't get elected. Oh [[00:01:08](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=68.36s)]
+*  We've been saying it and Trump is right [[00:01:14](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=74.56s)]
+*  This is the biggest scandal in White House and presidential history [[00:01:16](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=76.56s)]
+*  Everyone knew that Biden was a cognitive mess [[00:01:20](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=80.75999999999999s)]
+*  Everyone covered it up and then the questions are who knew what when did they know it and who was really making the decisions? [[00:01:23](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=83.47999999999999s)]
+*  We need answers. That is a constitutional crisis of a magnitude [[00:01:30](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=90.8s)]
+*  We've never seen before but this is already humiliating for Democrats and Joe Biden and today the former president or [[00:01:34](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=94.94s)]
+*  Somebody working for him was forced to release a written statement [[00:01:41](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=101.92s)]
+*  Promising that Joe was actually in charge during his time in the White House quote [[00:01:46](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=106.12s)]
+*  I made the decisions about the pardons the executive orders [[00:01:50](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=110.16s)]
+*  Legislation proclamations any suggestion that I didn't is ridiculous. It is false [[00:01:54](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=114.62s)]
+*  I don't even have confidence that he wrote that and nobody should [[00:02:00](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=120.64s)]
+*  Now, of course to most Americans with eyes to see and ears to hear it doesn't seem so ridiculous [[00:02:05](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=125.64s)]
+*  You see Joe couldn't make his way down from a podium without plenty of direction [[00:02:11](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=131.32s)]
+*  So it's kind of hard to believe that he was calling the shots on dozens and thousands in the end pardons other complex [[00:02:16](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=136.51999999999998s)]
+*  Complex executive actions was he even aware that an auto pen was being used to sign so many official actions [[00:02:24](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=144.12s)]
+*  We need answers now the House Oversight Committee Chairman James Comer is now officially subpoenaed Biden's White House doctor [[00:02:31](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=151.26s)]
+*  This [[00:02:38](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=158.6s)]
+*  Investigation is off and running now. Meanwhile back at the White House another high-stakes international call today now yesterday [[00:02:39](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=159.72s)]
+*  It was Putin. Well today it was President Xi of China. Take a look [[00:02:46](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=166.28s)]
+*  we had a very good talk and [[00:02:51](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=171.16s)]
+*  We've straightened out any complexity. This is very complex stuff and we straighten it out [[00:02:53](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=173.92000000000002s)]
+*  The agreement was we're gonna have Scott and Howard and [[00:03:00](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=180.56s)]
+*  Jameson will be going and meeting with their top people and [[00:03:06](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=186.96s)]
+*  Continued forward, but no, I think we have everything. I think we're in very good shape with China and the trade deal [[00:03:11](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=191.12s)]
+*  We have a deal with China as you know, but we were straightening out some of the points having to do mostly with rare earth [[00:03:17](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=197.28s)]
+*  Magnets and some other things [[00:03:26](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=206.84s)]
+*  Now just to compare and contrast Donald Trump is holding China accountable while engaging in tough [[00:03:29](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=209.0s)]
+*  But thoughtful negotiations I predicted from the beginning [[00:03:34](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=214.84s)]
+*  We will come to a resolution because China does need access to our markets and we need things for them like rare earths [[00:03:38](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=218.16s)]
+*  For example, at least temporarily under Biden China [[00:03:44](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=224.76s)]
+*  They were given a free pass to do whatever they wanted and put massive tariffs on our products and prevent American [[00:03:47](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=227.6s)]
+*  Manufacturing from even having a shot at their markets now [[00:03:54](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=234.12s)]
+*  In fact Biden's DOJ even shut down Donald Trump's China initiative now [[00:03:57](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=237.08s)]
+*  That was the China focused espionage program at a time when China's spying was getting worse and worse and worse and Joe even let [[00:04:02](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=242.38s)]
+*  Chinese nationals member big scandal [[00:04:10](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=250.02s)]
+*  It's still a scandal buy up thousands and thousands of acres of farmland ranch land land near our military [[00:04:12](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=252.42000000000002s)]
+*  Installations you think President Xi would allow any American national in China to do that in China [[00:04:20](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=260.38s)]
+*  Can I go into China by farmland or ranch land or land near their military? [[00:04:26](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=266.38s)]
+*  Installation I don't think so just this week a really dumb decision Arizona's Democratic liberal leftist governor Katie Hobbs [[00:04:31](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=271.58000000000004s)]
+*  Inexplicably vetoed a bill banning the Chinese nationals from buying up land near our US military bases [[00:04:40](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=280.62s)]
+*  This is reckless. This is dangerous. The Democratic Party's track record on China is horrific and don't even get me started on the spy balloon [[00:04:47](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=287.20000000000005s)]
+*  I'll lose my mind [[00:04:54](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=294.66s)]
+*  Now of course the legacy media mob they would rather you focus and obsess [[00:04:56](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=296.14s)]
+*  About the current conflict between Elon Musk and President Donald Trump now the rift between these two men [[00:05:01](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=301.78s)]
+*  Be the first to say it's sad. It's unfortunate [[00:05:09](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=309.41999999999996s)]
+*  These are two titans of American industry and culture two very strong-willed heavyweights [[00:05:12](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=312.21999999999997s)]
+*  You have the president of the free world the richest guy on earth one of the smartest guys on earth [[00:05:18](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=318.7s)]
+*  Conflicts they're kind of predictable is it aren't they you know you don't have to be a genius to figure out that is likely to happen [[00:05:23](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=323.86s)]
+*  It's not unexpected to be honest. They disagree on policy. They even said in their last meeting in the White House [[00:05:31](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=331.5s)]
+*  Yeah, we agree about 80% of the time they have disagreements, and they both fight back hard no shock there either [[00:05:38](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=338.06s)]
+*  They wouldn't be where they are if they didn't but when I interviewed them together [[00:05:44](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=344.42s)]
+*  The first thing I said to them and talked about and asked them you know you do know that the media mob [[00:05:48](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=348.86s)]
+*  the legacy media mob desperately wants to tear you guys apart and for you two to fight and to get a divorce and [[00:05:54](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=354.92s)]
+*  now the media mob is predictably they're predictably elated and [[00:06:01](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=361.9s)]
+*  It got personal Elon Musk claiming quote Trump is in the Epstein files. That's the real reason [[00:06:06](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=366.65999999999997s)]
+*  They have not been made public well. It's been well known that Donald Trump said [[00:06:12](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=372.64s)]
+*  That Elon was angry over Trump's decision to end the electric vehicle mandate. I can certainly understand why Elon [[00:06:18](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=378.65999999999997s)]
+*  You know wants that in the one big beautiful bill pretty obvious pretty apparent [[00:06:25](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=385.82s)]
+*  Understandable difference and on the Epstein issue wasn't it Donald Trump he booted Epstein out of Mar-a-Lago nearly 20 [[00:06:30](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=390.98s)]
+*  years ago [[00:06:38](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=398.46s)]
+*  Because he was one of the first people to realize just how horrible Epstein really was and by all accounts [[00:06:39](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=399.54s)]
+*  He was kicked out because of his treatment of young women now Democrats and the media [[00:06:45](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=405.3s)]
+*  I'm just thinking out loud here. I'm just wondering putting two and two together [[00:06:51](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=411.1s)]
+*  I truly wonder if our old friend Bill Clinton. How you doing good to talk to you [[00:06:55](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=415.86s)]
+*  You know he had a relationship with Epstein that's been reported on [[00:07:01](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=421.7s)]
+*  Is he in the are he is Bill Clinton is he in those files also I? [[00:07:05](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=425.98s)]
+*  Can't say for sure I haven't seen them, but if I was a betting man [[00:07:10](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=430.74s)]
+*  I know where I'd put my money now if by some you know chance that Bill Clinton is [[00:07:14](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=434.38s)]
+*  In there. I wonder if he kicked Epstein out of his life as [[00:07:21](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=441.78s)]
+*  Publicly as Donald Trump did I guess if Donald Trump felt that Epstein had something on him [[00:07:27](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=447.18s)]
+*  He probably wouldn't have kicked him out of his club [[00:07:32](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=452.21999999999997s)]
+*  Inquiring minds. I think they'll want to know that so let's be very blunt here big deal [[00:07:35](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=455.02s)]
+*  It's an online public spat between two very powerful men over what is really a policy difference [[00:07:38](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=458.78s)]
+*  It got personal and still despite all the bad blood. I'm gonna make a bold prediction. I could be wrong [[00:07:44](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=464.5s)]
+*  I think that Donald Trump and Elon Musk they'll work it out eventually [[00:07:51](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=471.14s)]
+*  They'll become friends again now after all it was only a week ago that the pair were praising each other in the Oval Office [[00:07:54](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=474.86s)]
+*  Remember Trump gifted Musk a gold key to the White House. I don't know if he's changing the locks or not take a look [[00:08:01](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=481.74s)]
+*  Elon gave an incredible service. Nobody like him and he had to go through the slings and the arrows [[00:08:08](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=488.58s)]
+*  which is a shame because [[00:08:16](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=496.3s)]
+*  He's an incredible patriot [[00:08:18](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=498.3s)]
+*  The good news is that 90% of the country knows that and they appreciate it and they really appreciate what he did [[00:08:19](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=499.9s)]
+*  And I gave a little special something we have here. Thank you a very special [[00:08:26](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=506.53999999999996s)]
+*  That I give to very special people I have given it to some [[00:08:31](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=511.34s)]
+*  But they goes to very special people and I thought I'd give it to Elon as a presentation from our country [[00:08:36](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=516.22s)]
+*  Thank you. Thank you. Thank you [[00:08:43](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=523.26s)]
+*  I [[00:08:46](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=526.66s)]
+*  Think the doors team is doing an incredible job. They're going to continue doing to doing an incredible job and [[00:08:47](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=527.78s)]
+*  And I'll be and I'll continue to be visiting here and be a friend and advisor to [[00:08:53](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=533.9s)]
+*  The president and I look forward to you know times being back in this amazing room [[00:09:00](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=540.34s)]
+*  All right, that was less than a week ago. These are two very talented individuals frankly [[00:09:05](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=545.62s)]
+*  They don't need each other to be successful, but I do hope they work it out and set an example for the rest of the country [[00:09:09](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=549.62s)]
+*  Hey Sean Hannity here [[00:09:15](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=555.78s)]
+*  Hey click here to subscribe to Fox News YouTube page and catch our hottest interviews and most compelling analysis [[00:09:16](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=556.9s)]
+*  You will not get it anywhere else [[00:09:24](https://www.youtube.com/watch?v=aTpt7hzGxsk&t=564.02s)]
