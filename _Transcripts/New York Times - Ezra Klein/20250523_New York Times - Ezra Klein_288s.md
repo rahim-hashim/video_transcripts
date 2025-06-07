@@ -1,0 +1,96 @@
+---
+Date Generated: June 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 288s
+Video Keywords: ['Ezra Klein Show', 'Ezra Klein', 'Trump policies', 'Donald Trump', 'Trump administration', 'American politics', 'US politics', 'political analysis', 'policy podcast', 'news commentary', 'Trump’s big beautiful bill', 'Trump legislation', 'immigration policy', 'Trump 2024', 'Republican strategy', 'political polarization', 'populism in America', 'MAGA movement', 'government spending', 'New York Times podcast', 'political podcast', 'policy debate']
+Video Views: 266300
+Video Rating: None
+Video Description: Trump’s “big, beautiful bill” is the cruelest and most irresponsible piece of domestic legislation to be seriously proposed in my lifetime.
+When you think about this bill, you should think about risk. It would increase our risk of a fiscal crisis by adding a hefty sum to our nation’s debt, at a time when we’re alienating the countries that typically buy our debt. It would slash food stamps and strip health insurance from millions of people, increasing the risk that the safety net won’t be able to catch any of us, at a time when President Trump’s tariffs have increased the risk of a recession.
+It’s what I’m calling the Big Budget Bomb. And if it passes, we’ll all be in the blast radius.
+Editor’s note: This was recorded on May 21, before the House passed Trump’s domestic policy package.
+Read the full transcript here: https://www.nytimes.com/2025/05/23/opinion/ezra-klein-podcast-catherine-rampell.html
+Watch more on @EzraKleinShow 
+Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.
+You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.html
+---
+
+# What Trump’s ‘Big, Beautiful Bill’ Is Really Doing (Part 1) | The Ezra Klein Show
+**New York Times - Ezra Klein:** [May 23, 2025](https://www.youtube.com/watch?v=IAF8vJQeMmQ)
+*  We live, for reasons I won't pretend to understand, in an age when the only truly bipartisan [[00:00:00](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=0.0s)]
+*  idea is that landmark legislation demands triple B alliteration. [[00:00:07](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=7.16s)]
+*  President Joe Biden's signature proposal was build back better. [[00:00:12](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=12.8s)]
+*  Now, President Trump has yoked his presidency, yoked all of us, to his big, beautiful, that [[00:00:15](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=15.8s)]
+*  gorgeous big, beautiful bill. [[00:00:21](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=21.72s)]
+*  Let me suggest another name for it. [[00:00:24](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=24.48s)]
+*  I'll even stay on trend. [[00:00:26](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=26.2s)]
+*  The big budget bomb. [[00:00:28](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=28.6s)]
+*  I'm recording this on Wednesday, May 21st. [[00:00:31](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=31.040000000000003s)]
+*  It's always possible things will change. [[00:00:33](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=33.2s)]
+*  It is Thursday, May 22nd. [[00:00:35](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=35.04s)]
+*  It is 7.01 on the East Coast. [[00:00:36](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=36.64s)]
+*  And we've got breaking news. [[00:00:38](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=38.52s)]
+*  Moments ago, the House just passed President Trump's big, beautiful bill. [[00:00:39](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=39.760000000000005s)]
+*  The bill is passed. [[00:00:44](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=44.2s)]
+*  President Trump with this reaction. [[00:00:46](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=46.64s)]
+*  Now it's time for our friends in the United States Senate to get to work and send the [[00:00:48](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=48.16s)]
+*  bill to my desk as soon as possible. [[00:00:52](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=52.400000000000006s)]
+*  But as of right now, the damage this thing will do to the budget if it detonates is hard [[00:00:55](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=55.599999999999994s)]
+*  to properly convey, in part because the size of this thing is hard to properly convey. [[00:01:01](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=61.48s)]
+*  And the budget, to be honest, is only where the problems this bill would cause begin. [[00:01:07](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=67.36s)]
+*  When you're thinking about the size and cost of legislation, you've got two different sides [[00:01:12](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=72.16s)]
+*  to keep in mind. [[00:01:16](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=76.12s)]
+*  How much the bill costs, either through new spending or tax cuts, and how much of that [[00:01:17](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=77.24s)]
+*  cost is paid for versus added to the debt. [[00:01:21](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=81.64s)]
+*  The Inflation Reduction Act was expected to cost about $500 billion over 10 years. [[00:01:26](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=86.32s)]
+*  And it paid for that spending and more through tax increases. [[00:01:31](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=91.64s)]
+*  The Affordable Care Act was expected to cost about a trillion dollars over 10 years. [[00:01:36](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=96.44s)]
+*  All of that, again, paid for. [[00:01:40](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=100.96000000000001s)]
+*  Trump's 2017 tax reform bill, when you added everything up, left an estimated $1.5 trillion [[00:01:44](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=104.16s)]
+*  of tax cuts unpaid for. [[00:01:50](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=110.67999999999999s)]
+*  The big budget bomb exists in a class unto itself. [[00:01:53](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=113.28s)]
+*  According to the Committee for Responsible Federal Budget, which I think nowadays is [[00:01:57](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=117.83999999999999s)]
+*  Washington's saddest advocacy group, if you take seriously the permanence the Republicans [[00:02:01](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=121.47999999999999s)]
+*  are actually seeking, the big budget bomb will add about $5 trillion to the debt over [[00:02:06](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=126.24s)]
+*  the next decade. [[00:02:11](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=131.84s)]
+*  Five trillion. [[00:02:13](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=133.84s)]
+*  That is an insane number. [[00:02:14](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=134.84s)]
+*  You remember when Trump promised to balance the budget? [[00:02:17](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=137.95999999999998s)]
+*  I want to do what has not been done in 24 years. [[00:02:20](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=140.32000000000002s)]
+*  Balance the federal budget. [[00:02:25](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=145.48000000000002s)]
+*  We're going to balance it. [[00:02:26](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=146.48000000000002s)]
+*  I also remember that. [[00:02:29](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=149.28s)]
+*  That happened in March. [[00:02:30](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=150.92000000000002s)]
+*  I've been talking about what the bill does to the budget. [[00:02:33](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=153.76000000000002s)]
+*  But here's what this bill does in the real world. [[00:02:36](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=156.28s)]
+*  It cuts taxes, mostly for richer people. [[00:02:39](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=159.56s)]
+*  It cuts Medicaid and food stamps. [[00:02:42](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=162.48000000000002s)]
+*  Republicans are also allowing some Obamacare subsidies to expire. [[00:02:45](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=165.64000000000001s)]
+*  And so the estimate is that between all this, 13 million people, 13 million, will lose health [[00:02:49](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=169.2s)]
+*  insurance. [[00:02:54](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=174.84s)]
+*  It's also grimly exact. [[00:02:55](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=175.84s)]
+*  The bill has $1.1 trillion in tax cuts for people who make more than $500,000 a year. [[00:02:58](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=178.48s)]
+*  And it has $1.1 trillion in cuts to Medicaid and food stamps. [[00:03:04](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=184.96s)]
+*  It is a straight transfer from people who cannot afford food and medical care to people [[00:03:10](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=190.8s)]
+*  can afford to fly first class. [[00:03:16](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=196.24s)]
+*  The bill also guts the tax credits that support the wind, solar, electric vehicle and nuclear [[00:03:18](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=198.79999999999998s)]
+*  power industries. [[00:03:25](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=205.0s)]
+*  China will be thrilled by that. [[00:03:26](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=206.0s)]
+*  When you think about this bill, you should think about risk. [[00:03:30](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=210.28s)]
+*  This bill increases our risk of a fiscal crisis. [[00:03:34](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=214.0s)]
+*  What if all these other countries were alienating? [[00:03:37](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=217.32s)]
+*  All these investors who've been scaring, stop buying our debt even as we are creating [[00:03:39](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=219.51999999999998s)]
+*  trillions more in debt we're going to need them to buy. [[00:03:43](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=223.64s)]
+*  This bill increases the risk any of us face if we can't afford health care or food for [[00:03:46](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=226.92s)]
+*  our families. [[00:03:51](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=231.04s)]
+*  If Trump's tariffs cause a recession, this bill gutted the safety net millions of us [[00:03:52](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=232.04s)]
+*  would have relied on for help. [[00:03:56](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=236.39999999999998s)]
+*  It pumps tens of billions of dollars into ICE detention facilities and deportation capacity. [[00:03:59](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=239.44s)]
+*  And so it raises a risk faced by immigrants or anyone else caught up in the administration's [[00:04:03](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=243.92s)]
+*  mass deportation and detention operations. [[00:04:09](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=249.6s)]
+*  Look, I've been a policy journalist for more than 20 years. [[00:04:14](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=254.64s)]
+*  I've covered more bills than I can count. [[00:04:18](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=258.64s)]
+*  I cannot remember a crueler or more irresponsible piece of domestic legislation that has been [[00:04:21](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=261.84s)]
+*  seriously proposed. [[00:04:27](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=267.56s)]
+*  And its sins are compounded by its size. [[00:04:29](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=269.56s)]
+*  If the Republicans' big budget bomb goes off, we are all in the blast radius. [[00:04:33](https://www.youtube.com/watch?v=IAF8vJQeMmQ&t=273.71999999999997s)]
