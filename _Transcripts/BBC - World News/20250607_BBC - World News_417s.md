@@ -1,0 +1,96 @@
+---
+Date Generated: June 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 417s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 1611
+Video Rating: None
+Video Description: At least three people have been killed and another 21 injured in the biggest Russian drone attack on Ukraine's second-largest city of Kharkiv, the mayor has said.
+ 
+Ihor Terekhov said that overnight Russia launched 48 drones, as well as two missiles and four gliding bombs in an attack he described as "open terror".
+ 
+It comes after a massive wave of drone and missile attacks hit targets across Ukraine on Thursday night. Moscow said those strikes were in response to "terrorist attacks by the Kyiv regime", following Ukraine's surprise raids on Russian air bases last Sunday.
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#Russia #Ukraine #BBCNews
+---
+
+# Biggest drone strike hits Ukraine's second city Kharkiv | BBC News
+**BBC - World News:** [June 07, 2025](https://www.youtube.com/watch?v=-hcX3EcVkzA)
+*  Russia has launched a major missile attack on Ukraine's second largest city, with at least three people reported killed. [[00:00:00](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=0.0s)]
+*  The mayor of Kharkiv says it's the biggest attack on the city since the start of Russia's full-scale invasion. [[00:00:07](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=7.76s)]
+*  He said dozens of explosions had been reported. [[00:00:15](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=15.0s)]
+*  Another official said emergency crews were searching for victims trapped in the rubble. [[00:00:18](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=18.36s)]
+*  He said a residential building had been hit. [[00:00:23](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=23.84s)]
+*  Two children, including a young baby, were among those injured. [[00:00:26](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=26.4s)]
+*  It's the second big attack on Kharkiv in the past few days. [[00:00:30](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=30.240000000000002s)]
+*  It comes as President Trump said Ukraine gave Putin a reason to go in and bomb the hell out of them [[00:00:34](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=34.36s)]
+*  after Sunday's massive attack on air bases deep inside Russian territory. [[00:00:41](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=41.92s)]
+*  When I saw it, I said, here we go, now it's going to be a strike. [[00:00:53](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=53.68s)]
+*  Well, let's go live now to Kiev and speak to our correspondent there, Paul Adams. [[00:00:58](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=58.8s)]
+*  Paul, what do you make of what the mayor of Kharkiv had to say, saying that this is the most powerful attack on the region [[00:01:04](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=64.36s)]
+*  since the start of the full-scale invasion? How fair an assessment is that? [[00:01:11](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=71.12s)]
+*  Well, it's not the most deadly. There have been other attacks on Kharkiv that have killed more civilians. [[00:01:18](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=78.12s)]
+*  But it does seem to have been one of the most intense. [[00:01:23](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=83.6s)]
+*  Our understanding is that this all took place within the space of about 90 minutes in the hours before dawn [[00:01:26](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=86.24s)]
+*  and with reports of around 40 explosions, including drones, glide bombs that the Russians use, [[00:01:33](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=93.64s)]
+*  particularly in areas closer to the front lines, and also at least one ballistic missile. [[00:01:40](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=100.88s)]
+*  So for that period of time, that was clearly a very, very intense and terrifying experience for the people of Kharkiv [[00:01:45](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=105.67999999999999s)]
+*  and the pictures that we have seen this morning of apartment blocks and private buildings on fire [[00:01:52](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=112.96s)]
+*  give you some sense of how grim it must have felt. [[00:01:58](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=118.03999999999999s)]
+*  We heard there President Trump saying Ukraine gave President Putin a reason to go in and bomb the hell out of them [[00:02:01](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=121.28s)]
+*  following that spider's web attack on Russia. How are those comments being received in Kiev there? [[00:02:08](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=128.32s)]
+*  You know, Ukrainians are extremely weary of hearing this kind of language that somehow [[00:02:17](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=137.04s)]
+*  things that they do to attack Russia trigger retaliation. [[00:02:22](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=142.32s)]
+*  I mean, after all, the night before Operation Spider's Web, Russia launched 472 drones over Ukraine. [[00:02:27](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=147.0s)]
+*  You know, this has been going on for more than three years. [[00:02:36](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=156.6s)]
+*  What on earth does Donald Trump think that Ukraine has been experiencing night after night for all of this time? [[00:02:39](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=159.4s)]
+*  I think it's clear that when he spoke to Vladimir Putin just a few days ago, [[00:02:47](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=167.28s)]
+*  President Putin bent his ear probably about Operation Spider's Web, which was clearly a massive humiliation for the Russian Air Force, [[00:02:52](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=172.84s)]
+*  but also about an alleged attack on a passenger train inside Russia, [[00:03:02](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=182.12s)]
+*  a train that was heading in the direction of Moscow that that crashed into a bridge that had been blown up, killing seven civilians. [[00:03:07](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=187.72s)]
+*  The Russians say that that was an act of terrorism by Ukraine. [[00:03:15](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=195.92s)]
+*  They have yet to provide any evidence for that, but clearly that's one of the things that President Putin was telling Donald Trump about. [[00:03:20](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=200.64s)]
+*  Paul, thank you. That's the BBC's Paul Adams in Kiev there. [[00:03:28](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=208.39999999999998s)]
+*  Well, let's bring in Mikhail Beliskov, who's a research fellow at Ukraine's National Institute for Strategic Studies, [[00:03:32](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=212.95999999999998s)]
+*  which is part of the Department of Defence Policy. He's in Kiev as well. [[00:03:40](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=220.79999999999998s)]
+*  Thank you for joining us on BBC News. [[00:03:45](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=225.0s)]
+*  So we've seen two days of major Russian strikes on Ukraine. [[00:03:47](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=227.88s)]
+*  Is this Russia's retaliation for that Spider's Web attack on its territory? [[00:03:52](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=232.52s)]
+*  Well, the way people are putting it, as for me, is a justification for the Russian acts. [[00:03:58](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=238.4s)]
+*  There is a saying in Ukraine that demonstrates the absurdity of this justification that says that if Ukraine stopped fighting, there would be no Ukraine. [[00:04:03](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=243.76000000000002s)]
+*  And if Russia stopped fighting, there would be no war. [[00:04:12](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=252.52s)]
+*  So we target everything that is used to terrorise Ukrainian cities, Ukrainian infrastructure, and it is within the right of self-defence. [[00:04:14](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=254.6s)]
+*  So in that regard, what do you make of President Trump's comments that Ukraine had given President Putin a reason to go ahead and bomb the hell out of them? [[00:04:23](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=263.4s)]
+*  And what does that mean in terms of Kiev's relationship with Washington, D.C.? [[00:04:34](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=274.6s)]
+*  Well, that's incredible. And that's a major frustration to equate the aggressor and the countries that suffer from aggression. [[00:04:40](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=280.6s)]
+*  Again, we exercise in the right of self-defence. It is the 51st article of the UN Charter. [[00:04:48](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=288.04s)]
+*  And when someone, even if it's U.S. president, as he sees himself as a mediator, put it in such a way, [[00:04:53](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=293.68s)]
+*  unfortunately, he is not creating conditions for the peace and for sure it's not good for U.S.-Ukrainian relations, which we value. [[00:05:00](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=300.32000000000005s)]
+*  So that's incredible and frustration. [[00:05:08](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=308.16s)]
+*  And what do you make of these missile attacks? [[00:05:10](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=310.6s)]
+*  Is there a strategic value to them in terms of what's happening on the ground in the war? [[00:05:13](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=313.96s)]
+*  Because we keep hearing about a Russian summer offensive. [[00:05:19](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=319.96s)]
+*  What's happening on the front lines at the moment? [[00:05:23](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=323.24s)]
+*  Well, these are two separate attacks. They exist in a parallel. [[00:05:25](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=325.92s)]
+*  So Russia is waging so-called total war. [[00:05:30](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=330.04s)]
+*  With total war, you deliberately target civilians, civilian infrastructure, [[00:05:32](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=332.68s)]
+*  rare areas to undermine the moral, to make life untenable, [[00:05:36](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=336.6s)]
+*  maybe to create the situation when Ukrainian citizens would pressure Ukrainian government to negotiate on Russian terms. [[00:05:40](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=340.44s)]
+*  But it has nothing to do with the front line. [[00:05:46](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=346.72s)]
+*  And within the front line, Russians try to advance and we try to arrest them. [[00:05:49](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=349.12s)]
+*  And these are just two parallel stories. [[00:05:53](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=353.2s)]
+*  And Russian attacks against civilians, it's part of the total war approach that thus far is not delivering to them. [[00:05:55](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=355.6s)]
+*  But unfortunately, Russians still don't come to the conclusions that it's futile to do this total war. [[00:06:01](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=361.56s)]
+*  And we continue to see images coming in from Ukraine. [[00:06:07](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=367.16s)]
+*  And we hear reports of civilians having to take cover when you have these constant, [[00:06:11](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=371.28000000000003s)]
+*  constant missile attacks and, of course, those alerts for Ukrainians to really go into bunkers. [[00:06:17](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=377.16s)]
+*  How does it affect the life of civilians in the country? [[00:06:24](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=384.0s)]
+*  Again, that's a part of Russian approach to make life unbearable. [[00:06:28](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=388.20000000000005s)]
+*  You know, sleep deprivation, it's a major problem and it has a cumulative effect when you do not sleep enough, [[00:06:32](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=392.68s)]
+*  your cognitive and physical abilities decline. [[00:06:38](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=398.08000000000004s)]
+*  And again, it's very vicious intent of the Russians to undermine Ukrainian moral, [[00:06:40](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=400.68s)]
+*  but thus far it proved to be counterproductive. [[00:06:45](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=405.72s)]
+*  Thank you very much. [[00:06:48](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=408.88s)]
+*  That's Mikhaila Beliskov there from Ukraine's National Institute for Strategic Studies. [[00:06:50](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=410.0s)]
+*  Thank you. [[00:06:56](https://www.youtube.com/watch?v=-hcX3EcVkzA&t=416.36s)]
