@@ -1,0 +1,120 @@
+---
+Date Generated: June 07, 2025
+Transcription Model: whisper medium 20231117
+Length: 704s
+Video Keywords: ['Ali Velshi']
+Video Views: 20049
+Video Rating: None
+Video Description: In a major about-face, Donald Trump is turning on the conservative powerhouse that built his judicial legacy, the Federalist Society. Yale Law professor Akhil Reed Amar warns that this break with the very group that helped propel him to power marks a dangerous shift. “He just wants loyalty to himself—thugs and hacks,” Amar says, adding that Federalist Society judges are principled and loyal to the Constitution, not to Trump. “The Senate needs to play a really important role now—especially now that he’s showing his cards.” Trump’s latest nominee, his own defense lawyer Emil Bove, has drawn sharp criticism, including from conservative circles. “It’s one thing to put people in your branch, in your cabinet—but we’re talking about life-appointed judges and justices,” Amar warns.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#trump #constitution #republicans
+---
+
+# Trump dumps the Federalist Society — and even Republicans are shooketh
+**MSNBC - The Latest:** [June 07, 2025](https://www.youtube.com/watch?v=fC7rROz-ByQ)
+*  Good morning to you. It is Saturday, June the 7th. We begin this hour with what is probably the most consequential legal development of Donald Trump's second term, which is that the president is now publicly turning on the Federalist Society, the same conservative legal group which he relied to pick judges during his first term, the same powerful group that helped carry him to power. [[00:00:00](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=0.0s)]
+*  Their picks include a majority of the Supreme Court and hundreds of other federal judges, but this brewing feud could make Trump's next wave of judicial appointments more dangerous. [[00:00:20](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=20.0s)]
+*  From the start, this was a marriage of convenience. Trump leveraged the Federalist Society's credibility to win Republican votes. The fallout spilled into public view this week after Trump lost his tariff case before the U.S. Court of International Trade. [[00:00:29](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=29.0s)]
+*  Although a federal circuit stayed the ruling the very next day, Trump was still fuming, and on Thursday he lashed out on Truth Social, quote, [[00:00:42](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=42.0s)]
+*  I was new to Washington and it was suggested that I use the Federalist Society as a recommending source on judges. I did so openly and freely, but then realized that they were under the thumb of a real sleazebag named Leonard Leo, a bad person who in his own way probably hates America and obviously has his own separate ambitions, end quote. [[00:00:49](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=49.0s)]
+*  Now, Trump owes much of his impact on the federal bench, including on the Supreme Court majority, to the longtime Federalist leader, this man, Leonard Leo. [[00:01:11](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=71.0s)]
+*  So yes, Trump's insults are out there, but even a broken clock is right twice a day. The Federalist Society does have its own ambitions. Their loyalty tends to be to conservative legal doctrine, not necessarily to Trump. [[00:01:21](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=81.0s)]
+*  And on occasion, Federalist Society affiliated judges have stood up to Donald Trump. Case in point, when Trump tried to overturn the 2020 election, many of his handpicked Federalist Society vetted judges refused to rubber stamp that effort. [[00:01:35](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=95.0s)]
+*  One Trump appointee even opened his opinion with a sharp rebuke, quote, free, fair elections are the lifeblood of our democracy, end quote. Since then, Trump's resentment toward the conservative legal establishment has grown, and the feeling appears mutual. [[00:01:48](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=108.0s)]
+*  As Vox's Ian Milhiser has reported, Federalist Society insiders have grown increasingly ambivalent about Trump, a shift that's starting to show at their events, quote. [[00:02:02](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=122.0s)]
+*  At a recent Federalist Society conference on executive power, many of the speakers denounced Trump's incompetence and warned that it would prevent conservatives from achieving lasting policy victories during this administration. [[00:02:10](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=130.0s)]
+*  Some argued that Trump's signature economic policy, his tariffs, are illegal, end quote. [[00:02:22](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=142.0s)]
+*  Now, before you celebrate Trump's break from a movement that brought us the Dobbs decision that weakened voting rights and that scaled back environmental protections, I want you to just think for a moment about the alternative. [[00:02:28](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=148.0s)]
+*  When it comes to Trump, the thing to remember is that things can always get worse. His feud with the one institution that still managed to constrain him is a warning sign. [[00:02:40](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=160.0s)]
+*  It signals that in a second Trump term, Trump isn't looking for ideology in judges, he's looking for fealty, which in fact is measurably worse. [[00:02:49](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=169.0s)]
+*  As my next guest, Akhil Amar, recently noted, without the Federalist Society, Trump, left to his own devices, would have tried to put a whole bunch of thugs on the bench. [[00:03:00](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=180.0s)]
+*  Just look at his latest judicial pick, Amal Bovi, Trump's own criminal defense lawyer, tapped for the Third Circuit Court of Appeals. [[00:03:09](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=189.0s)]
+*  Bovi's part of a growing slate of MAGA reactionaries that Trump is putting forward. [[00:03:16](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=196.0s)]
+*  He currently works at the Justice Department, where he reportedly oversaw a purge of career prosecutors. [[00:03:20](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=200.0s)]
+*  According to a Justice Department memo obtained by the Associated Press, as acting Deputy Attorney General, Amal Bovi directed federal prosecutors in New York to drop a corruption case against Mayor Eric Adams. [[00:03:26](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=206.0s)]
+*  Bovi himself told a court the case was preventing the mayor from communicating with federal authorities responsible for immigration enforcement, a Trump administration priority. [[00:03:38](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=218.0s)]
+*  According to the Associated Press, Bovi also placed the lead prosecutors on administrative leave. [[00:03:47](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=227.0s)]
+*  Several prosecutors, including the prosecutor who'd been leading the case, a Republican, resigned in protest saying they could not carry out Bovi's order and still pursue justice impartially. [[00:03:53](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=233.0s)]
+*  That's a quote. Ed Whalen, former Bush administration lawyer and longtime conservative legal commentator, says he has, quote, [[00:04:03](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=243.0s)]
+*  serious doubts that Bovi has the character and integrity to be worthy of confirmation as a federal judge, end quote. [[00:04:09](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=249.0s)]
+*  Former Republican nominations counsel Greg Nunziata called Bovi's nomination outrageous and unacceptable and urged the Senate to reject it. [[00:04:16](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=256.0s)]
+*  Even the Wall Street Journal is sounding the alarm. [[00:04:24](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=264.0s)]
+*  In a scathing editorial, they warned, quote, [[00:04:27](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=267.0s)]
+*  The president should understand that his attacks on judicial conservatives will hurt his own agenda and legacy. [[00:04:29](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=269.0s)]
+*  Mr. Trump is likely to see fewer judges retire lest they be replaced by partisan hacks. [[00:04:35](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=275.0s)]
+*  That includes Justices Samuel Alito, age 75, and Clarence Thomas, age 76. [[00:04:42](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=282.0s)]
+*  Keep exercising daily, good justices, end quote. [[00:04:48](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=288.0s)]
+*  Keep exercising daily, good justices. [[00:04:52](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=292.0s)]
+*  A reminder of the things could always get worse doctrine of the Trump era in the form of a plea to the most arch conservative justices on the court [[00:04:55](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=295.0s)]
+*  to stay alive, to prevent Trump from filling the bench with unqualified sycophants. [[00:05:03](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=303.0s)]
+*  Trump isn't even hiding the ball anymore. He's signaling exactly what kind of judiciary he wants in a second term, one that rubber stamps his policies. [[00:05:10](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=310.0s)]
+*  And that's probably why we haven't seen a single new federal judicial vacancy announced since March or since mid-April, which is well behind the normal pace. [[00:05:18](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=318.0s)]
+*  In fact, Ed Whalen noted on X that one very conservative appellate judge told him as much that they're staying on the bench because of concerns over who would be picked as a successor. [[00:05:26](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=326.0s)]
+*  Trump's effort to consolidate power is now nearly complete, following Congress, then the executive branch. [[00:05:37](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=337.0s)]
+*  The judiciary is all that remains outside of his reach. [[00:05:42](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=342.0s)]
+*  With me now is Akhil Reed Amar, professor of law and political science at Yale University, host of America's Constitution podcast and author of numerous books, including [[00:05:46](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=346.0s)]
+*  The Words That Made Us, America's Constitutional Conversation. [[00:05:54](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=354.0s)]
+*  Akhil, good to see you. Thank you for being with us. [[00:06:03](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=363.0s)]
+*  Thank you for having me. [[00:06:04](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=364.0s)]
+*  And thank you for coming in for an important conversation, because this is where the viewer, who's not legally trained, needs to divorce themselves from the idea that [[00:06:05](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=365.0s)]
+*  I don't like conservative justices. You may or may not like them, but they work on the basis of ideology and precedent and the Constitution. [[00:06:13](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=373.0s)]
+*  Something different is happening under Trump. [[00:06:20](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=380.0s)]
+*  Under Trump, too. [[00:06:23](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=383.0s)]
+*  Under Trump, too. [[00:06:24](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=384.0s)]
+*  Or at least threatened to happen. [[00:06:25](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=385.0s)]
+*  Yes, so our audience, I'm sure, has heard so much about the Federalist Society, and I think some of what they've heard may not be fair. [[00:06:27](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=387.0s)]
+*  The Federalist Society, yes, they're overwhelmingly conservative. [[00:06:35](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=395.0s)]
+*  They have a view, but it's a very respectable legal view. [[00:06:40](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=400.0s)]
+*  In the main, they are originalists, which means they care actually about what the Constitution itself really says, what it was originally designed to do. [[00:06:44](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=404.0s)]
+*  And we liberals can actually also believe in originalism. [[00:06:54](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=414.0s)]
+*  Our audience has been told sometimes, oh, it's always conservative, not true at all. [[00:06:57](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=417.0s)]
+*  Last time I was here, I waived a copy of the Constitution and said, actually, the Supreme Court is disregarding this when they say presidents or ex-presidents are immune, [[00:07:02](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=422.0s)]
+*  because this doesn't say that. That's originalism. [[00:07:12](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=432.0s)]
+*  Right. [[00:07:16](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=436.0s)]
+*  And we're going to need originalism going forward. The Federalist Society are not Trump acts. [[00:07:17](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=437.0s)]
+*  They are, many of them, very distinguished folks. Our audience may have heard of Leonard Leo. [[00:07:23](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=443.0s)]
+*  He's kind of the money and the power broker. [[00:07:30](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=450.0s)]
+*  And let me mention someone else. He's the co-founder of the Federalist Society. [[00:07:33](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=453.0s)]
+*  He's the co-national chairman of the Federalist Society. Leo is the other one. He's the idea guy. [[00:07:37](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=457.0s)]
+*  He was the founder. His name is Steve Calabresi. He's a law professor. [[00:07:43](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=463.0s)]
+*  He and I co-teach together every year at Yale. [[00:07:48](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=468.0s)]
+*  And he is going to be the leading person or one of the two or three leading people opposing Trump on, for example, birthright citizenship stuff, [[00:07:52](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=472.0s)]
+*  because the Constitution really does say things. It says people born in America, like me, are citizens, even if our parents weren't citizens at the time we were born. [[00:08:02](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=482.0s)]
+*  So that's the Federalist Society. They're principled at their best. They're principled legal thinkers. They care about the Constitution. [[00:08:12](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=492.0s)]
+*  They tend to privilege it a little bit more than precedent. That's the real distinction. [[00:08:20](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=500.0s)]
+*  Right. But whether it's the Constitution or precedent, that's a great legal debate. [[00:08:24](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=504.0s)]
+*  It is. A principled one. [[00:08:29](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=509.0s)]
+*  Neither of those things are fealty to a president. [[00:08:31](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=511.0s)]
+*  Exactly. And this one in particular. And in fact, some of our greatest judicial moments have been overruling precedent, [[00:08:34](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=514.0s)]
+*  like when Brown v. Board of Education says, this really says equal. We're going to do that, even though Plessy just disregarded it. [[00:08:44](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=524.0s)]
+*  In the 1930s, the court actually once again overturned all sorts of precedents. It just made things up to protect corporations and plutocrats. [[00:08:52](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=532.0s)]
+*  So our audience members have been told, I think, two things that I want to push back on. Federalist Society bad? No. [[00:09:02](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=542.0s)]
+*  Originalism bad? No. The greatest originalist, perhaps in history, was not Robert Bork or Anton Scalia or Ed Meese or Clarence Thomas. [[00:09:10](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=550.0s)]
+*  It was actually Abraham Lincoln. And it's hiding there in plain sight. Let me just remind you of the words. [[00:09:20](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=560.0s)]
+*  Four scorned seven years ago, our fathers brought forth upon this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal. [[00:09:25](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=565.0s)]
+*  That's originalism. In 1863, at Gettysburg, he's saying 87 years before, that would be 1776, if you do the math. [[00:09:34](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=574.0s)]
+*  We, our fathers, our founding fathers, originally agreed to something. They agreed to human equality. [[00:09:42](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=582.0s)]
+*  Let's do that, said Lincoln. Let's be faithful to that. He was a great egalitarian and he was a great originalist lawyer. [[00:09:51](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=591.0s)]
+*  And so we liberals actually will do well to actually claim the Constitution rather than to mock it and to actually say we have some things in common with people like Steve Calabrese. [[00:10:01](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=601.0s)]
+*  I'll mention one other person, Peter Keisler, was another co-founder. They were my fellow students at Yale Law School when they co-founded the Federalist Society. [[00:10:14](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=614.0s)]
+*  Peter Keisler was acting attorney general under George W. Bush. He leads the charge against Trump among thoughtful, fair-minded conservatives. [[00:10:23](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=623.0s)]
+*  So part of the thing about the Federalist Society is it was a bit of a movement to get conservatives both in law schools and onto the bench. [[00:10:35](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=635.0s)]
+*  But principled conservatives. [[00:10:43](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=643.0s)]
+*  And that's the distinction here. Your concern and the concern of others is that there are people that Donald Trump would think of appointing and is considering appointing who just don't seem to meet basic qualifications. [[00:10:46](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=646.0s)]
+*  Oh, he wants just loyalty to himself, you know, thugs and hacks, you know, Judge Judy, Rudy Giuliani, John Eastman, left to his own devices and unchecked by his Senate, [[00:10:57](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=657.0s)]
+*  because the Senate needs to play a really important role now, especially now that he's shown his cards. [[00:11:08](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=668.0s)]
+*  Oh, yeah, you'd have the same sort of unqualified people in the judiciary that you have, for example, with RFK Jr. [[00:11:13](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=673.0s)]
+*  OK, and it's one thing to put people in your branch, your cabinet. [[00:11:21](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=681.0s)]
+*  But we're talking about life appointed judges and justices. So you have to be very careful about that. [[00:11:27](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=687.0s)]
+*  In fact, the Senate needs to play a much more vigorous role when confirming judges and justices. [[00:11:32](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=692.0s)]
+*  They tend to be more deferential when allowing the president to have his executive branch team. [[00:11:39](https://www.youtube.com/watch?v=fC7rROz-ByQ&t=699.0s)]
