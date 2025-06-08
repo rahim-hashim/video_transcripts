@@ -167,11 +167,3 @@ def print_topic_segments(
 		
 		if most_recent_dates and d_index > most_recent_dates:
 			return
-
-print_topic_segments(
-	recent_topic_df, 
-	topics, 
-	max_print=10, 
-	most_recent_dates=5,
-	text_field='transcript',
-)

@@ -33,3 +33,16 @@ mena_topics = [
 	'icj',
 	'international court of justice',
 ]
+
+futurism_topics = [
+	'neuro',
+	'brain',
+	'artificial intelligence',
+	' ai ',
+	'machine',
+	'computer',
+	'robot',
+	'quantum',
+	'science',
+	'tech'
+]

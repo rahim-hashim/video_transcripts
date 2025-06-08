@@ -97,7 +97,7 @@ def print_all_authors():
 
 def find_transcripts(author_names, transcript_dir_path='_Transcripts'):
 	transcript_paths_dict = defaultdict(list)
-	if author_names == 'all' or author_names == ['all']:
+	if author_names == [] or author_names == 'all' or author_names == ['all']:
 		author_names = [dir for dir in os.listdir(transcript_dir_path) if os.path.isdir(os.path.join(transcript_dir_path, dir))]
 		print(f'Finding all transcripts for {author_names}.')
 	print(f'Transcript directory: {transcript_dir_path}')
@@ -314,25 +314,37 @@ def load_transcripts(
 		reload=True, 
 		save_df=False, 
 		save_name='transcript_df.pkl', 
-		verbose=False
+		verbose=False,
+		transcript_dir_path='_Transcripts'
 	):
-	author_name = sys.argv[1]
-	if author_names not in author_dict.keys():
-		print(f'Searching for {author_name} transcripts...')
+	# author_name = sys.argv[1]
+	if type(author_names) == list or author_names not in author_dict.keys():
+		print(f'Searching for {author_names} in {transcript_dir_path}...')
 		# check if the dataframe exists
-		if dataframe_exists(author_name) and not reload:
-			print(f'Found: transcript_df already exists.')
-			dataframe_dir_path = os.path.join('_Dataframes', f'{author_name}_transcript_df.pickle')
-			print(f'  Loading \'{dataframe_dir_path}\'...')
-			with open(dataframe_dir_path, 'rb') as f:
-				transcript_df = pickle.load(f)
-				print(f'  Number of transcripts: {len(transcript_df)}.')
-				return transcript_df
+		# if dataframe_exists(author_name) and not reload:
+		# 	print(f'Found: transcript_df already exists.')
+		# 	dataframe_dir_path = os.path.join('_Dataframes', f'{author_name}_transcript_df.pickle')
+		# 	print(f'  Loading \'{dataframe_dir_path}\'...')
+		# 	with open(dataframe_dir_path, 'rb') as f:
+		# 		transcript_df = pickle.load(f)
+		# 		print(f'  Number of transcripts: {len(transcript_df)}.')
+		# 		return transcript_df
+		# look for the author name in the author_dict
+		authors_included = []
+		for author in os.listdir(transcript_dir_path):
+			authors_included.append([search_term for search_term in author_names if search_term.lower() in author.lower()])
+		# flatten the list and remove empty strings
+		authors_included = [author for sublist in authors_included for author in sublist if author != '']
+		if len(authors_included) == 0:
+			print(f'  No transcripts found for {author_names}.')
+			sys.exit(1)
+		else:
+			print(f'  Found transcripts for: {authors_included}')
 	else:
 		author_names = author_dict[author_names]
 		print(f'Loading transcripts for: {author_names}')
 	# if the dataframe does not exist, create it by reading the transcripts
-	transcript_paths_dict = find_transcripts(author_names)
+	transcript_paths_dict = find_transcripts(author_names, transcript_dir_path)
 	transcripts_dict = defaultdict(lambda: defaultdict(list))
 	for author_name, transcript_paths in tqdm(transcript_paths_dict.items()):
 		for transcript_path in transcript_paths:
