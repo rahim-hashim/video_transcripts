@@ -1,0 +1,126 @@
+---
+Date Generated: June 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 384s
+Video Keywords: ['Way Too Early', 'Morning Joe', 'News', 'Ali Vitali']
+Video Views: 4655
+Video Rating: None
+Video Description: Former federal prosecutor Ryan Crosswell announced he is running for Pennsylvania's 7th Congressional District in the 2026 midterms.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+
+#congress #election #pennsylvania
+---
+
+# Former federal prosecutor announces candidacy for Congress
+**MSNBC - Morning Joe:** [June 09, 2025](https://www.youtube.com/watch?v=R2azIlCxo1I)
+*  As you have heard, this case, the judge has dismissed it with prejudice, making it clear [[00:00:00](https://www.youtube.com/watch?v=R2azIlCxo1I&t=0.0s)]
+*  that it never can be brought back. [[00:00:12](https://www.youtube.com/watch?v=R2azIlCxo1I&t=12.72s)]
+*  Let me be clear. [[00:00:15](https://www.youtube.com/watch?v=R2azIlCxo1I&t=15.280000000000001s)]
+*  As I said all along, this case should have never been brought. [[00:00:18](https://www.youtube.com/watch?v=R2azIlCxo1I&t=18.0s)]
+*  And I did nothing wrong. [[00:00:25](https://www.youtube.com/watch?v=R2azIlCxo1I&t=25.44s)]
+*  I was New York City Mayor Eric Adams back in April after a federal judge formally dismissed [[00:00:29](https://www.youtube.com/watch?v=R2azIlCxo1I&t=29.88s)]
+*  the corruption case against him. [[00:00:34](https://www.youtube.com/watch?v=R2azIlCxo1I&t=34.48s)]
+*  Joining us now, former federal prosecutor Ryan Crosswell. [[00:00:36](https://www.youtube.com/watch?v=R2azIlCxo1I&t=36.519999999999996s)]
+*  Earlier this year, he resigned from the Department of Justice's public integrity section after [[00:00:39](https://www.youtube.com/watch?v=R2azIlCxo1I&t=39.4s)]
+*  he says attorneys in his division were asked to sign a motion to help drop the charges [[00:00:43](https://www.youtube.com/watch?v=R2azIlCxo1I&t=43.68s)]
+*  against Adams. [[00:00:48](https://www.youtube.com/watch?v=R2azIlCxo1I&t=48.239999999999995s)]
+*  Ryan, you're joining us today because you have an announcement to make. [[00:00:49](https://www.youtube.com/watch?v=R2azIlCxo1I&t=49.4s)]
+*  What can you tell us and what do you have to do with Eric Adams and the announcement [[00:00:53](https://www.youtube.com/watch?v=R2azIlCxo1I&t=53.44s)]
+*  you're making today? [[00:00:57](https://www.youtube.com/watch?v=R2azIlCxo1I&t=57.32s)]
+*  Draw that line for us. [[00:00:58](https://www.youtube.com/watch?v=R2azIlCxo1I&t=58.32s)]
+*  Morning, Ali. [[00:01:00](https://www.youtube.com/watch?v=R2azIlCxo1I&t=60.32s)]
+*  I'm here to announce that I'm running for Congress in Pennsylvania's 7th District. [[00:01:01](https://www.youtube.com/watch?v=R2azIlCxo1I&t=61.32s)]
+*  I'm excited to launch this campaign. [[00:01:06](https://www.youtube.com/watch?v=R2azIlCxo1I&t=66.32s)]
+*  As you mentioned, just several months ago I was a federal prosecutor. [[00:01:08](https://www.youtube.com/watch?v=R2azIlCxo1I&t=68.6s)]
+*  I did resign because of the Eric Adams case because the Trump administration asked my [[00:01:12](https://www.youtube.com/watch?v=R2azIlCxo1I&t=72.04s)]
+*  section to engage in what I believe was an abuse of power. [[00:01:17](https://www.youtube.com/watch?v=R2azIlCxo1I&t=77.16s)]
+*  So now, you know, I've been a public servant all my life and I want to serve the people [[00:01:21](https://www.youtube.com/watch?v=R2azIlCxo1I&t=81.24000000000001s)]
+*  in Pennsylvania's 7th District. [[00:01:24](https://www.youtube.com/watch?v=R2azIlCxo1I&t=84.8s)]
+*  Talk about what you're hearing from the folks on the ground in Pennsylvania's 7th. [[00:01:26](https://www.youtube.com/watch?v=R2azIlCxo1I&t=86.8s)]
+*  This was a district that flipped from blue to red by very close margins just in November. [[00:01:30](https://www.youtube.com/watch?v=R2azIlCxo1I&t=90.8s)]
+*  What are you hearing on the ground now from folks who may have voted for Trump or your [[00:01:37](https://www.youtube.com/watch?v=R2azIlCxo1I&t=97.03999999999999s)]
+*  Republican counterpart and might be looking for another way now? [[00:01:40](https://www.youtube.com/watch?v=R2azIlCxo1I&t=100.56s)]
+*  Ali, the voters I meet, they're struggling and think they want people in Congress who [[00:01:44](https://www.youtube.com/watch?v=R2azIlCxo1I&t=104.4s)]
+*  are going to put them first. [[00:01:50](https://www.youtube.com/watch?v=R2azIlCxo1I&t=110.52s)]
+*  I've done that my entire career. [[00:01:52](https://www.youtube.com/watch?v=R2azIlCxo1I&t=112.16s)]
+*  I served as the United States Marine officer, joining the Marine Corruptor 9-11. [[00:01:53](https://www.youtube.com/watch?v=R2azIlCxo1I&t=113.72s)]
+*  I served as a federal prosecutor for 10 years. [[00:01:58](https://www.youtube.com/watch?v=R2azIlCxo1I&t=118.76s)]
+*  And I've always put the country first, even when it's come at great personal costs. [[00:02:01](https://www.youtube.com/watch?v=R2azIlCxo1I&t=121.36s)]
+*  And now I want to serve the people of Pennsylvania as well. [[00:02:06](https://www.youtube.com/watch?v=R2azIlCxo1I&t=126.2s)]
+*  I want to fight for the working class families in Pennsylvania's 7th. [[00:02:08](https://www.youtube.com/watch?v=R2azIlCxo1I&t=128.07999999999998s)]
+*  I want to protect our democracy. [[00:02:11](https://www.youtube.com/watch?v=R2azIlCxo1I&t=131.52s)]
+*  I want to bring integrity back to Washington, D.C. [[00:02:12](https://www.youtube.com/watch?v=R2azIlCxo1I&t=132.52s)]
+*  What is the message, Ryan, that you think other Democrats who are already serving in [[00:02:17](https://www.youtube.com/watch?v=R2azIlCxo1I&t=137.3s)]
+*  Congress or who have national profiles should be focusing on right now? [[00:02:21](https://www.youtube.com/watch?v=R2azIlCxo1I&t=141.76s)]
+*  There's so much debate over, oh, it should just be about the economy. [[00:02:26](https://www.youtube.com/watch?v=R2azIlCxo1I&t=146.72s)]
+*  It should just be about Trump and abuses of power. [[00:02:29](https://www.youtube.com/watch?v=R2azIlCxo1I&t=149.64s)]
+*  How do you see this landscape within your party right now? [[00:02:32](https://www.youtube.com/watch?v=R2azIlCxo1I&t=152.56s)]
+*  I think we should start by focusing on continuing to put the working class, middle class Americans [[00:02:36](https://www.youtube.com/watch?v=R2azIlCxo1I&t=156.2s)]
+*  first. [[00:02:42](https://www.youtube.com/watch?v=R2azIlCxo1I&t=162.56s)]
+*  And so my opponent, Ryan McKenzie, he was a deciding vote for this Trump tax bill that's [[00:02:43](https://www.youtube.com/watch?v=R2azIlCxo1I&t=163.56s)]
+*  going to kick millions off the health care coverage. [[00:02:50](https://www.youtube.com/watch?v=R2azIlCxo1I&t=170.2s)]
+*  It's going to add trillions to our debt. [[00:02:52](https://www.youtube.com/watch?v=R2azIlCxo1I&t=172.68s)]
+*  And then the only purpose for it is to give a tax cut to the GOP mega donors. [[00:02:55](https://www.youtube.com/watch?v=R2azIlCxo1I&t=175.07999999999998s)]
+*  So I think the Democratic Party is right to focus on that, but also to offer a better [[00:03:00](https://www.youtube.com/watch?v=R2azIlCxo1I&t=180.68s)]
+*  path. [[00:03:05](https://www.youtube.com/watch?v=R2azIlCxo1I&t=185.16s)]
+*  And that means tax reform that benefits the middle working classes rather than the wealthiest [[00:03:06](https://www.youtube.com/watch?v=R2azIlCxo1I&t=186.16s)]
+*  Americans that makes health care costs cheaper and that helps local students get more affordable [[00:03:10](https://www.youtube.com/watch?v=R2azIlCxo1I&t=190.48s)]
+*  education as well. [[00:03:18](https://www.youtube.com/watch?v=R2azIlCxo1I&t=198.76s)]
+*  So I think we need to just continue to focus on the working middle class in contrast to [[00:03:20](https://www.youtube.com/watch?v=R2azIlCxo1I&t=200.56s)]
+*  people like Ryan McKenzie, who are completely focused on benefiting the wealthiest Americans. [[00:03:26](https://www.youtube.com/watch?v=R2azIlCxo1I&t=206.16s)]
+*  When you think about the profile that you could cut in Congress, are you someone who's [[00:03:31](https://www.youtube.com/watch?v=R2azIlCxo1I&t=211.52s)]
+*  going there to fight or are you someone who's going there to find compromise? [[00:03:35](https://www.youtube.com/watch?v=R2azIlCxo1I&t=215.68s)]
+*  Well, they're not always mutually exclusive. [[00:03:39](https://www.youtube.com/watch?v=R2azIlCxo1I&t=219.92s)]
+*  I'm absolutely someone to fight. [[00:03:43](https://www.youtube.com/watch?v=R2azIlCxo1I&t=223.36s)]
+*  You know, I look, I loved my job as a federal prosecutor. [[00:03:45](https://www.youtube.com/watch?v=R2azIlCxo1I&t=225.16s)]
+*  It was an honor to stand up in court and represent the United States. [[00:03:48](https://www.youtube.com/watch?v=R2azIlCxo1I&t=228.32s)]
+*  But when I was asked to do something that I knew was wrong, I resigned and I fought [[00:03:53](https://www.youtube.com/watch?v=R2azIlCxo1I&t=233.88s)]
+*  back. [[00:03:58](https://www.youtube.com/watch?v=R2azIlCxo1I&t=238.6s)]
+*  I went public. [[00:03:59](https://www.youtube.com/watch?v=R2azIlCxo1I&t=239.6s)]
+*  I testified to Congress about it at great personal risk. [[00:04:00](https://www.youtube.com/watch?v=R2azIlCxo1I&t=240.6s)]
+*  That said, there is time for compromise. [[00:04:03](https://www.youtube.com/watch?v=R2azIlCxo1I&t=243.16s)]
+*  I'll work across the aisle any time it's necessary to pass legislation that benefits our vets, [[00:04:05](https://www.youtube.com/watch?v=R2azIlCxo1I&t=245.0s)]
+*  that lowers the cost of health care, that makes education more affordable. [[00:04:11](https://www.youtube.com/watch?v=R2azIlCxo1I&t=251.96s)]
+*  You know, I'll always be fighting for the people and if that requires compromise, [[00:04:16](https://www.youtube.com/watch?v=R2azIlCxo1I&t=256.92s)]
+*  that's what I'll do. [[00:04:21](https://www.youtube.com/watch?v=R2azIlCxo1I&t=261.24s)]
+*  I wonder while you're here, if I could get your take on the ways that DOJ has changed the [[00:04:22](https://www.youtube.com/watch?v=R2azIlCxo1I&t=262.84s)]
+*  department that you served within on public integrity. [[00:04:28](https://www.youtube.com/watch?v=R2azIlCxo1I&t=268.76s)]
+*  Can you talk a little bit about what you're hearing from folks that may still be there [[00:04:32](https://www.youtube.com/watch?v=R2azIlCxo1I&t=272.12s)]
+*  or who have also left as you did, feeling like they were squeezed to do things that they knew [[00:04:36](https://www.youtube.com/watch?v=R2azIlCxo1I&t=276.2s)]
+*  were wrong, but they still have a deep love and desire to serve within DOJ? [[00:04:41](https://www.youtube.com/watch?v=R2azIlCxo1I&t=281.24s)]
+*  Ali, it's a great question. [[00:04:46](https://www.youtube.com/watch?v=R2azIlCxo1I&t=286.44s)]
+*  The problem with what happened in the Eric Adams case is when we take our prosecutions [[00:04:51](https://www.youtube.com/watch?v=R2azIlCxo1I&t=291.24s)]
+*  away from the facts and the law and we base them on political loyalties, we're getting [[00:04:56](https://www.youtube.com/watch?v=R2azIlCxo1I&t=296.04s)]
+*  off course. [[00:05:01](https://www.youtube.com/watch?v=R2azIlCxo1I&t=301.56s)]
+*  And that's what's happened. [[00:05:02](https://www.youtube.com/watch?v=R2azIlCxo1I&t=302.44s)]
+*  When I testified, I warned that if we are dropping cases against the allies of the Trump [[00:05:04](https://www.youtube.com/watch?v=R2azIlCxo1I&t=304.6s)]
+*  administration, the next step could be that we target opponents of the Trump administration. [[00:05:10](https://www.youtube.com/watch?v=R2azIlCxo1I&t=310.44s)]
+*  That's a dangerous thing for this country and that's exactly what we're seeing. [[00:05:14](https://www.youtube.com/watch?v=R2azIlCxo1I&t=314.84s)]
+*  But what I think Americans need to also understand about this is that when that happens, [[00:05:19](https://www.youtube.com/watch?v=R2azIlCxo1I&t=319.08s)]
+*  it also means that we're taking our eye off the ball and we're less effective at prosecuting [[00:05:23](https://www.youtube.com/watch?v=R2azIlCxo1I&t=323.64s)]
+*  bad guys that need to be put in prison. [[00:05:28](https://www.youtube.com/watch?v=R2azIlCxo1I&t=328.52s)]
+*  It's continued to happen in DOJ. [[00:05:31](https://www.youtube.com/watch?v=R2azIlCxo1I&t=331.55999999999995s)]
+*  A lot of good prosecutors, I think, are leaving. [[00:05:33](https://www.youtube.com/watch?v=R2azIlCxo1I&t=333.0s)]
+*  And in the end, that makes us all less safe. [[00:05:36](https://www.youtube.com/watch?v=R2azIlCxo1I&t=336.35999999999996s)]
+*  We have heard from several former federal prosecutors who say that they have felt the [[00:05:39](https://www.youtube.com/watch?v=R2azIlCxo1I&t=339.55999999999995s)]
+*  need to resign. [[00:05:44](https://www.youtube.com/watch?v=R2azIlCxo1I&t=344.36s)]
+*  But to my mind, you are one of the first to actually turn that into an active political [[00:05:45](https://www.youtube.com/watch?v=R2azIlCxo1I&t=345.32s)]
+*  run for Congress. [[00:05:50](https://www.youtube.com/watch?v=R2azIlCxo1I&t=350.04s)]
+*  So former federal prosecutor now, a congressional candidate, Ryan Croswell, thank you for coming [[00:05:51](https://www.youtube.com/watch?v=R2azIlCxo1I&t=351.0s)]
+*  on the show, announcing it first with us. [[00:05:55](https://www.youtube.com/watch?v=R2azIlCxo1I&t=355.40000000000003s)]
+*  Please come back as the campaign continues. [[00:05:57](https://www.youtube.com/watch?v=R2azIlCxo1I&t=357.56s)]
+*  We appreciate having you. [[00:05:59](https://www.youtube.com/watch?v=R2azIlCxo1I&t=359.56s)]
+*  I would love to do so, Ali. [[00:06:01](https://www.youtube.com/watch?v=R2azIlCxo1I&t=361.32s)]
+*  Thank you. [[00:06:02](https://www.youtube.com/watch?v=R2azIlCxo1I&t=362.36s)]
+*  Thank you. [[00:06:03](https://www.youtube.com/watch?v=R2azIlCxo1I&t=363.0s)]
+*  Thank you. [[00:06:14](https://www.youtube.com/watch?v=R2azIlCxo1I&t=374.36s)]
