@@ -1,0 +1,122 @@
+---
+Date Generated: June 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 558s
+Video Keywords: ['Jonathan Capehart', 'Eugene Daniels', 'Jacqueline Alemany']
+Video Views: 190271
+Video Rating: None
+Video Description: President Trump has ordered National Guard troops to Los Angeles after protesters and federal agents clash over immigration raids. Meanwhile, Defense Secretary Pete Hegseth is threatening to send in the Marines. Anthony Coley, Max Boot and NBC News Correspondent Steve Patterson join The Weekend to discuss. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#immigration #trump #protest
+---
+
+# How Donald Trump’s ‘violent crime’ rhetoric created chaos in California
+**MSNBC - The Latest:** [June 08, 2025](https://www.youtube.com/watch?v=zcAJg-2NG5s)
+*  Joining us now, MSNBC political analyst Anthony Coley. He's the former director for the Office [[00:00:00](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=0.0s)]
+*  of Public Affairs at the Biden DOJ and Max Boot, a senior fellow for national security studies at [[00:00:05](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=5.92s)]
+*  the Council on Foreign Relations and a columnist for The Washington Post. Thank you both for joining [[00:00:11](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=11.6s)]
+*  us as we work on this and think about and talk about this breaking news. Gavin Newsom tweeted out, [[00:00:16](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=16.32s)]
+*  the federal government is sowing chaos so they can have an excuse to escalate. We saw President [[00:00:23](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=23.2s)]
+*  Trump sign this memo yesterday invoking Title 10. Max, talk about that. Is the President, [[00:00:29](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=29.12s)]
+*  do you agree with Governor Newsom sowing chaos so they have an excuse to escalate? [[00:00:36](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=36.56s)]
+*  Well, it sure seems like Governor Newsom is compelling in his analysis. I mean, if you [[00:00:41](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=41.44s)]
+*  kind of zoom out to the 20,000 foot view, I mean, what is provoking this confrontation in LA? It's [[00:00:47](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=47.84s)]
+*  the fact that the Trump administration is sending out these heavily armed federal agents in body, [[00:00:54](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=54.96s)]
+*  armor and face masks, in many cases with assault weapons and tactical gear, to round up construction [[00:01:00](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=60.32s)]
+*  workers, to round up bus boys, to round up hardworking immigrants, some of whom may be [[00:01:07](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=67.28s)]
+*  undocumented but who are contributing to our economy and are in many cases paying sales taxes, [[00:01:12](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=72.96000000000001s)]
+*  paying social security taxes, essentially helping to make America great, to coin a phrase. [[00:01:19](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=79.84s)]
+*  And suddenly the Trump White House has imposed these quotas on ICE to go out and they're demanding [[00:01:27](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=87.92s)]
+*  more and more roundups. And so I think it was kind of inevitable that you would see this kind of [[00:01:33](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=93.68s)]
+*  confrontation and pushback because they're now going to these workplaces and in heavily [[00:01:37](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=97.92s)]
+*  Latino working class communities like Paramount in Southern California. And so [[00:01:43](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=103.28s)]
+*  they're not shying away from the confrontation. They seem to be causing the confrontation. [[00:01:49](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=109.84s)]
+*  And you can just see that President Trump revels in the strongman image of, you know, [[00:01:55](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=115.04s)]
+*  there's chaos on the streets, send out the troops, that is imagery that mobilizes his base and that [[00:01:59](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=119.2s)]
+*  accumulates even more power in the White House. So there's no question that the White House [[00:02:08](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=128.08s)]
+*  is provoking this. And it's a very delicate and very inflammatory situation that could [[00:02:13](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=133.2s)]
+*  very easily spiral out of control. And today, as we've mentioned many times, [[00:02:24](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=144.0s)]
+*  the border czar is in Los Angeles. And NBC's Jacob Soboroff had a chance to talk to him yesterday. [[00:02:29](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=149.28s)]
+*  Let's play a bit of their conversation and talk about it on the other side. Watch this. [[00:02:36](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=156.32s)]
+*  What is the federal military mission in Los Angeles? [[00:02:43](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=163.76s)]
+*  This is a military mission. The president's bringing national guards here to protect the [[00:02:47](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=167.04s)]
+*  public and protect officers. We have officers who have been attacked. We have officers who are injured. [[00:02:50](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=170.16s)]
+*  So he's standing here as a force multiplier for law enforcement here, but not just to protect the [[00:02:54](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=174.95999999999998s)]
+*  law enforcement, but to protect the general public. If Democratic leaders want to turn their back on [[00:02:59](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=179.35999999999999s)]
+*  public safety, they can. President Trump's not going to. [[00:03:03](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=183.83999999999997s)]
+*  You said it's not a military mission, but isn't that what Title X is? Or am I misunderstanding something? [[00:03:06](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=186.56s)]
+*  They're here for a law enforcement mission to protect the public and protect law enforcement. [[00:03:10](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=190.56s)]
+*  That's what it is. Antony, you are the former DOJ official [[00:03:15](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=195.84s)]
+*  at the table. Is the border czar correct? Let me just say for the record, this guy just [[00:03:20](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=200.72s)]
+*  so happens to be on the ground in Southern California at the moment. This is not a [[00:03:26](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=206.88s)]
+*  coincidence. This is carefully orchestrated. And what's striking to me is just these images, [[00:03:32](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=212.0s)]
+*  to Elise's point, these images are bad. The rhetoric coming out of the Trump administration [[00:03:37](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=217.36s)]
+*  is bad, but neither the images or the rhetoric match what's really happening on the ground [[00:03:42](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=222.08s)]
+*  across the country. On this particular issue, 2,000 troops, there have been 12 arrests, [[00:03:47](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=227.12s)]
+*  right? That is completely disproportionate. And Donald Trump says the reason he is cracking down [[00:03:54](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=234.24s)]
+*  on this entire issue in terms of immigration is because violent criminals, undocumented, [[00:04:00](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=240.24s)]
+*  illegal aliens are infiltrating American neighborhoods. The fact of the matter is [[00:04:06](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=246.88s)]
+*  that violent crime in this country is at record lows. That started, you mentioned, in the Biden [[00:04:13](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=253.6s)]
+*  administration, that started in the Biden administration. I was in the room with U.S. [[00:04:18](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=258.48s)]
+*  attorneys across the country when they were announcing their tailored programs, crime [[00:04:23](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=263.2s)]
+*  prevention programs, to bring down, to arrest the curve of violent crime. And we're seeing the [[00:04:30](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=270.64s)]
+*  benefits of that just up the street in Baltimore, right? They have very few homicides at this [[00:04:36](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=276.8s)]
+*  moment. It's like record low homicides. So my point here is that Donald Trump creates all of [[00:04:43](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=283.03999999999996s)]
+*  these, this rhetoric. He's using this rhetoric about an invasion of illegal immigrants when [[00:04:49](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=289.12s)]
+*  the fact of the matter is that violent crime is at a low. Record lows. [[00:04:56](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=296.88s)]
+*  Hi. Let's bring in NBC News correspondent Steve Patterson in Los Angeles. Steve, I hope that you [[00:05:00](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=300.88s)]
+*  managed to get a bit of sleep. The last I saw you last night, you were wearing a gas mask while you [[00:05:07](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=307.04s)]
+*  were reporting because so much tear gas was going on, was coming down around you. Talk about what [[00:05:12](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=312.72s)]
+*  you're seeing and what you're hearing on the ground. Yeah, still suffering from the tear gas [[00:05:18](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=318.96000000000004s)]
+*  this morning, unfortunately. You know, most of the protests that we saw, at least when we were on [[00:05:24](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=324.8s)]
+*  the ground in Paramount, most of them were people peacefully protesting, just sort of standing there. [[00:05:28](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=328.96000000000004s)]
+*  A lot of insults, of course, hurled at police that were obviously trying to push back against [[00:05:34](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=334.32s)]
+*  demonstrators spilling out into the street. And that's really what the source of the conflict was. [[00:05:39](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=339.76s)]
+*  By the time we got there, a lot of these guys are local police. They are sheriff's department. [[00:05:45](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=345.12s)]
+*  They are in an assistant role and they really wanted to make that clear in statements that [[00:05:49](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=349.91999999999996s)]
+*  they offer. Sheriff Luna with the LA County Sheriff's Department really saying that they [[00:05:54](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=354.56s)]
+*  were there just to handle the demonstrations. They were not part of any of these federal raids. [[00:05:58](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=358.88s)]
+*  LAPD sort of echoing the same sentiment. Yet, obviously, these clashes are really tense. We [[00:06:04](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=364.08s)]
+*  saw that last night at the detention center. About nine o'clock last night, another unlawful [[00:06:09](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=369.12s)]
+*  assembly declared. You see the car on fire there. That's Paramount. You know, as these sort of things [[00:06:13](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=373.91999999999996s)]
+*  escalate and then the police line starts forming and start pushing back on people. And then those [[00:06:19](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=379.04s)]
+*  irritants and the nonlethal weaponry fired into the crowd and things get really, really bad. And [[00:06:24](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=384.0s)]
+*  that's what we saw, obviously, all throughout the day yesterday. But as far as the federal raids go, [[00:06:29](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=389.68s)]
+*  you know, the protests really have been a jumping off point at these flashpoint locations. And I [[00:06:35](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=395.04s)]
+*  think, obviously, with the escalation that the National Guard coming in offers, I think a lot [[00:06:40](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=400.0s)]
+*  of people only worry that that is going to worsen the situation is going to make it worse [[00:06:45](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=405.28s)]
+*  and not better. And that's what we've been hearing from, obviously, you know, the elected officials, [[00:06:50](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=410.55999999999995s)]
+*  the Gavin Newsom, Mayor Bass, but certainly from protesters, too, who believe that, you know, [[00:06:56](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=416.08s)]
+*  they're going to fight back against anything that authorities wheel out. And this will only be [[00:07:03](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=423.2s)]
+*  another escalation in that, guys. Steve, Steve, Steve, on that on that point about the protesters, [[00:07:07](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=427.84s)]
+*  I'm wondering how many protesters are we talking about? Are we talking about [[00:07:12](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=432.8s)]
+*  a few dozen, hundreds, thousands? Give us a sense of how many people you saw when you were on the [[00:07:18](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=438.24s)]
+*  ground. Yeah, I mean, look, these these locations are so vast and so split up. Paramount, for example, [[00:07:24](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=444.96000000000004s)]
+*  the place you're looking at right now on screen, right, there's a checkpoint above at sort of the [[00:07:31](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=451.52s)]
+*  light, the intersection where that shot was, where there's kind of a perspective into the sunset, [[00:07:36](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=456.0s)]
+*  a few dozen there, a few dozen near that car, a few dozen outside of the Home Depot. That's where [[00:07:41](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=461.04s)]
+*  you're seeing right there, that black fence and very familiar with that scene right there. And [[00:07:46](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=466.88s)]
+*  then a few dozen at the intersection where again, LA County was sort of stationed trying to push [[00:07:51](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=471.52000000000004s)]
+*  people back from heading to a scene like that, where that cloud of smoke that you're looking at [[00:07:56](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=476.08000000000004s)]
+*  on screen right there, that is tear gas. And if you're in that, you can certainly feel it. So [[00:08:01](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=481.04s)]
+*  certain dozens of protesters all across the scene like that. And then when you head downtown into LA, [[00:08:06](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=486.56s)]
+*  those dozens turn into hundreds, which can be, I think, a little tougher authorities to get a [[00:08:12](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=492.32s)]
+*  handle on, especially when you're spread out in multiple locations. And there are agitators, [[00:08:16](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=496.72s)]
+*  of course, in every crowd. Most of the crowds, again, that I saw that I spoke to, that I was [[00:08:20](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=500.8s)]
+*  interacting with, these are peaceful people that want to get their message across. They brought [[00:08:25](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=505.36s)]
+*  signs. They're out with families in some places. And others are obviously more agitant, have the [[00:08:29](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=509.92s)]
+*  mask on, and reportedly, I didn't see this, but reportedly throwing things back at authorities [[00:08:35](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=515.68s)]
+*  that are trying to do their jobs as well. So it's sort of a varied up and down, sort of a [[00:08:42](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=522.4s)]
+*  back and forth between how many are in the crowd and how many are not. But I would say dozens at [[00:08:48](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=528.16s)]
+*  all the locations that we've seen. Steve, you've been doing great reporting. Thank you. [[00:08:53](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=533.8399999999999s)]
+*  Thank you. [[00:09:05](https://www.youtube.com/watch?v=zcAJg-2NG5s&t=545.68s)]

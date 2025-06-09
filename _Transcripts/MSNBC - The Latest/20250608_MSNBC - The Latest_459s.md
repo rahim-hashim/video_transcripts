@@ -1,0 +1,121 @@
+---
+Date Generated: June 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 459s
+Video Keywords: ['Jonathan Capehart', 'Eugene Daniels', 'Jacqueline Alemany']
+Video Views: 23222
+Video Rating: None
+Video Description: President Donald Trump signed a memo late Saturday night federalizing 2,000 California National Guard troops to address what a White House official called the “lawlessness that has been allowed to fester” in Los Angeles. The move to deploy the National Guard was met with opposition to the move from local leaders, including Gov. Gavin Newsom. The hosts of "The Weekend" report the latest. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#ice #immigration #trump
+---
+
+# Trump deploys 2,000 National Guard troops to Los Angeles in response to anti-ICE protests
+**MSNBC - The Latest:** [June 08, 2025](https://www.youtube.com/watch?v=g0KvBie4Udc)
+*  We begin this morning with the ongoing unrest in California. [[00:00:00](https://www.youtube.com/watch?v=g0KvBie4Udc&t=0.0s)]
+*  For the past two days, protests have erupted in downtown Los Angeles and Paramount, California, [[00:00:04](https://www.youtube.com/watch?v=g0KvBie4Udc&t=4.12s)]
+*  as demonstrators vent their anger over large-scale immigration raids being conducted by the Trump [[00:00:10](https://www.youtube.com/watch?v=g0KvBie4Udc&t=10.02s)]
+*  administration. [[00:00:14](https://www.youtube.com/watch?v=g0KvBie4Udc&t=14.8s)]
+*  There were a number of clashes between demonstrators and law enforcement that included the use [[00:00:16](https://www.youtube.com/watch?v=g0KvBie4Udc&t=16.22s)]
+*  of what appeared to be tear gas in an effort to disperse crowds. [[00:00:21](https://www.youtube.com/watch?v=g0KvBie4Udc&t=21.2s)]
+*  In one incident, a car was even set on fire. [[00:00:25](https://www.youtube.com/watch?v=g0KvBie4Udc&t=25.44s)]
+*  The U.S. attorney for the Central District of California, which includes Los Angeles, [[00:00:28](https://www.youtube.com/watch?v=g0KvBie4Udc&t=28.64s)]
+*  said more than a dozen people were arrested yesterday. [[00:00:32](https://www.youtube.com/watch?v=g0KvBie4Udc&t=32.32s)]
+*  While it appeared that state and local law enforcement officials were handling the situation, [[00:00:36](https://www.youtube.com/watch?v=g0KvBie4Udc&t=36.44s)]
+*  President Donald Trump signed a memo last night to federalize and deploy 2,000 troops [[00:00:41](https://www.youtube.com/watch?v=g0KvBie4Udc&t=41.16s)]
+*  from the National Guard. [[00:00:46](https://www.youtube.com/watch?v=g0KvBie4Udc&t=46.44s)]
+*  The president said it is necessary to combat what the White House says is the, quote, lawlessness [[00:00:48](https://www.youtube.com/watch?v=g0KvBie4Udc&t=48.1s)]
+*  that has been allowed to fester in Los Angeles. [[00:00:53](https://www.youtube.com/watch?v=g0KvBie4Udc&t=53.400000000000006s)]
+*  Now the move comes over the objection of California's Governor Gavin Newsom, who said last night [[00:00:57](https://www.youtube.com/watch?v=g0KvBie4Udc&t=57.08s)]
+*  it will erode trust and only escalate tensions. [[00:01:02](https://www.youtube.com/watch?v=g0KvBie4Udc&t=62.8s)]
+*  He added that it was not being done out of a legitimate need, but because the administration [[00:01:05](https://www.youtube.com/watch?v=g0KvBie4Udc&t=65.68s)]
+*  wants a, quote, spectacle. [[00:01:11](https://www.youtube.com/watch?v=g0KvBie4Udc&t=71.0s)]
+*  According to the Brennan Center for Justice, it is the first time since 1965 that a president [[00:01:13](https://www.youtube.com/watch?v=g0KvBie4Udc&t=73.4s)]
+*  has activated a state's National Guard force without a request from that state's governor. [[00:01:19](https://www.youtube.com/watch?v=g0KvBie4Udc&t=79.48s)]
+*  The last time was when President Lyndon B. Johnson sent troops to Alabama to protect [[00:01:25](https://www.youtube.com/watch?v=g0KvBie4Udc&t=85.62s)]
+*  civil rights demonstrators in 1965. [[00:01:30](https://www.youtube.com/watch?v=g0KvBie4Udc&t=90.36s)]
+*  Raising the tensions even further, Defense Secretary Pete Hecse threatened to involve [[00:01:33](https://www.youtube.com/watch?v=g0KvBie4Udc&t=93.7s)]
+*  active-duty military, writing on X, quote, if violence continues, active-duty Marines [[00:01:38](https://www.youtube.com/watch?v=g0KvBie4Udc&t=98.18s)]
+*  at Camp Pendleton will also be mobilized. [[00:01:44](https://www.youtube.com/watch?v=g0KvBie4Udc&t=104.10000000000001s)]
+*  They are on high alert. [[00:01:47](https://www.youtube.com/watch?v=g0KvBie4Udc&t=107.34s)]
+*  And instead of monitoring the situation that warranted deploying the National Guard, what [[00:01:49](https://www.youtube.com/watch?v=g0KvBie4Udc&t=109.78s)]
+*  was Donald Trump doing last night? [[00:01:54](https://www.youtube.com/watch?v=g0KvBie4Udc&t=114.32s)]
+*  He attended the UFC Championship fight in New Jersey. [[00:01:55](https://www.youtube.com/watch?v=g0KvBie4Udc&t=115.91999999999999s)]
+*  And early this morning, Trump took to social media to shout out that the National Guard [[00:02:00](https://www.youtube.com/watch?v=g0KvBie4Udc&t=120.25999999999999s)]
+*  in Los Angeles did a great job. [[00:02:04](https://www.youtube.com/watch?v=g0KvBie4Udc&t=124.8s)]
+*  But according to the administration's top law enforcement official in Southern California, [[00:02:07](https://www.youtube.com/watch?v=g0KvBie4Udc&t=127.17999999999999s)]
+*  the troops will arrive within the next 24 hours. [[00:02:11](https://www.youtube.com/watch?v=g0KvBie4Udc&t=131.7s)]
+*  So they are not there yet. [[00:02:15](https://www.youtube.com/watch?v=g0KvBie4Udc&t=135.14s)]
+*  You know, it seemed like Karen Bass, Gavin Newsom kind of had things under control. [[00:02:17](https://www.youtube.com/watch?v=g0KvBie4Udc&t=137.57999999999998s)]
+*  They were very explicit with the protesters that anyone who did damage could be arrested. [[00:02:23](https://www.youtube.com/watch?v=g0KvBie4Udc&t=143.12s)]
+*  And now this, this appears to be what feels like an escalation, guys. [[00:02:29](https://www.youtube.com/watch?v=g0KvBie4Udc&t=149.98000000000002s)]
+*  Well, it really is quite convenient and striking how coordinated the messaging is. [[00:02:35](https://www.youtube.com/watch?v=g0KvBie4Udc&t=155.44s)]
+*  That's just what kind of takes me aback because immediately you have so many top officials [[00:02:42](https://www.youtube.com/watch?v=g0KvBie4Udc&t=162.52s)]
+*  calling this an insurrection, wanting to have the pretext to invoke the Insurrection Act. [[00:02:46](https://www.youtube.com/watch?v=g0KvBie4Udc&t=166.94s)]
+*  And so while we have no sense of what the scale of damage being done right now and of [[00:02:53](https://www.youtube.com/watch?v=g0KvBie4Udc&t=173.1s)]
+*  the crowd size, this is still an evolving story. [[00:02:59](https://www.youtube.com/watch?v=g0KvBie4Udc&t=179.6s)]
+*  And, you know, we're going to soon have our correspondents on and talk about what's happening [[00:03:03](https://www.youtube.com/watch?v=g0KvBie4Udc&t=183.57999999999998s)]
+*  on the ground. [[00:03:08](https://www.youtube.com/watch?v=g0KvBie4Udc&t=188.62s)]
+*  But it does seem like Tom Homan was in place in L.A. [[00:03:09](https://www.youtube.com/watch?v=g0KvBie4Udc&t=189.62s)]
+*  And this seemed to all be unveiled quite quickly. [[00:03:14](https://www.youtube.com/watch?v=g0KvBie4Udc&t=194.12s)]
+*  And, you know, on that point, Elise, and to that point, you know, the president did not [[00:03:18](https://www.youtube.com/watch?v=g0KvBie4Udc&t=198.48s)]
+*  invoke the Insurrection Act, but he did invoke a law that is basically a step, excuse me, [[00:03:24](https://www.youtube.com/watch?v=g0KvBie4Udc&t=204.16s)]
+*  a step below that. [[00:03:29](https://www.youtube.com/watch?v=g0KvBie4Udc&t=209.35999999999999s)]
+*  And you know, when I saw when I saw your text to us last night, just before I went to sleep [[00:03:31](https://www.youtube.com/watch?v=g0KvBie4Udc&t=211.4s)]
+*  saying, you know, they're sending in the National Guard, this is getting serious. [[00:03:36](https://www.youtube.com/watch?v=g0KvBie4Udc&t=216.84s)]
+*  In my immediate thought, Elise and Eugene went back to my interview with the attorney [[00:03:41](https://www.youtube.com/watch?v=g0KvBie4Udc&t=221.38000000000002s)]
+*  general of Minnesota, Keith Ellison, my interview with him talking to him about the rumors about [[00:03:46](https://www.youtube.com/watch?v=g0KvBie4Udc&t=226.78s)]
+*  a pardon for Derek Chauvin, the police, a former police officer who murdered George [[00:03:53](https://www.youtube.com/watch?v=g0KvBie4Udc&t=233.66000000000003s)]
+*  Floyd. [[00:03:59](https://www.youtube.com/watch?v=g0KvBie4Udc&t=239.06s)]
+*  And he said that he absolutely thought that the president would be would look for some [[00:04:00](https://www.youtube.com/watch?v=g0KvBie4Udc&t=240.06s)]
+*  kind of distraction to get people, one, away from his grift, but two, to give him an excuse [[00:04:05](https://www.youtube.com/watch?v=g0KvBie4Udc&t=245.9s)]
+*  to invoke the Insurrection Act. [[00:04:13](https://www.youtube.com/watch?v=g0KvBie4Udc&t=253.44s)]
+*  And one of the things he said to me was, while we must not remain silent, and this is what [[00:04:16](https://www.youtube.com/watch?v=g0KvBie4Udc&t=256.8s)]
+*  he was saying in regards to, you know, the rumored Chauvin pardon, but it, you know, [[00:04:22](https://www.youtube.com/watch?v=g0KvBie4Udc&t=262.52s)]
+*  I think is apt here, we must not remain silent. [[00:04:29](https://www.youtube.com/watch?v=g0KvBie4Udc&t=269.04s)]
+*  How do we protest in a way that doesn't play right into his hands? [[00:04:32](https://www.youtube.com/watch?v=g0KvBie4Udc&t=272.92s)]
+*  He is a provocateur. [[00:04:37](https://www.youtube.com/watch?v=g0KvBie4Udc&t=277.38s)]
+*  He's trying to bait you into something, and we can't we cannot take that. [[00:04:39](https://www.youtube.com/watch?v=g0KvBie4Udc&t=279.08000000000004s)]
+*  And so my my concern here is, you know, with these images and whatever images we might [[00:04:44](https://www.youtube.com/watch?v=g0KvBie4Udc&t=284.1s)]
+*  see come out of Los Angeles today, will that move the administration to go beyond what [[00:04:50](https://www.youtube.com/watch?v=g0KvBie4Udc&t=290.68s)]
+*  the president announced last night? [[00:04:57](https://www.youtube.com/watch?v=g0KvBie4Udc&t=297.1s)]
+*  I mean, the question, the biggest question is then what protests would not, right? [[00:04:59](https://www.youtube.com/watch?v=g0KvBie4Udc&t=299.06s)]
+*  But when you when you think about how this administration, how President Trump, whether [[00:05:04](https://www.youtube.com/watch?v=g0KvBie4Udc&t=304.09999999999997s)]
+*  he was a candidate in 2025, 2020, 2024, and as president has over and over talked about [[00:05:08](https://www.youtube.com/watch?v=g0KvBie4Udc&t=308.5s)]
+*  not liking protests in general, right? [[00:05:15](https://www.youtube.com/watch?v=g0KvBie4Udc&t=315.38s)]
+*  Because he takes them personally, right? [[00:05:18](https://www.youtube.com/watch?v=g0KvBie4Udc&t=318.7s)]
+*  And you know, these are obviously about his policies, but he thinks they're about him [[00:05:20](https://www.youtube.com/watch?v=g0KvBie4Udc&t=320.46s)]
+*  as a human being and a person. [[00:05:23](https://www.youtube.com/watch?v=g0KvBie4Udc&t=323.74s)]
+*  And so he doesn't like them. [[00:05:25](https://www.youtube.com/watch?v=g0KvBie4Udc&t=325.34s)]
+*  So it begs the question. [[00:05:26](https://www.youtube.com/watch?v=g0KvBie4Udc&t=326.9s)]
+*  And I don't I've never been able to get an answer from Trump wrote about this, about [[00:05:29](https://www.youtube.com/watch?v=g0KvBie4Udc&t=329.21999999999997s)]
+*  what kind of protest would be OK. [[00:05:33](https://www.youtube.com/watch?v=g0KvBie4Udc&t=333.38s)]
+*  I guess something like January 6th would be OK, I guess. [[00:05:36](https://www.youtube.com/watch?v=g0KvBie4Udc&t=336.14s)]
+*  And you don't have to nationalize the the the federalized National Guard. [[00:05:39](https://www.youtube.com/watch?v=g0KvBie4Udc&t=339.5s)]
+*  That's actually an excellent point here in this city when Washington, when the insurrectionists [[00:05:44](https://www.youtube.com/watch?v=g0KvBie4Udc&t=344.41999999999996s)]
+*  were invading the Capitol and folks were like, where where is the National Guard? [[00:05:51](https://www.youtube.com/watch?v=g0KvBie4Udc&t=351.38s)]
+*  This is the one place in the country where the president has control over the National [[00:05:57](https://www.youtube.com/watch?v=g0KvBie4Udc&t=357.14s)]
+*  Guard and he did not bring them in. [[00:06:02](https://www.youtube.com/watch?v=g0KvBie4Udc&t=362.18s)]
+*  I will say that yesterday when we picked up our coverage at six o'clock and so L.A. [[00:06:06](https://www.youtube.com/watch?v=g0KvBie4Udc&t=366.78s)]
+*  time, I believe it was around three o'clock, there already were just canisters out littered [[00:06:11](https://www.youtube.com/watch?v=g0KvBie4Udc&t=371.38s)]
+*  just hundreds. [[00:06:18](https://www.youtube.com/watch?v=g0KvBie4Udc&t=378.1s)]
+*  And you saw more of that response than at the time of the protesters. [[00:06:20](https://www.youtube.com/watch?v=g0KvBie4Udc&t=380.90000000000003s)]
+*  Now, the images, the footage this morning looks horrible. [[00:06:24](https://www.youtube.com/watch?v=g0KvBie4Udc&t=384.98s)]
+*  And this is a situation that has seemingly escalated instead of de escalated by any measure. [[00:06:28](https://www.youtube.com/watch?v=g0KvBie4Udc&t=388.82s)]
+*  What's also interesting here is and I'm glad you pointed out, Elise, that the borders are [[00:06:40](https://www.youtube.com/watch?v=g0KvBie4Udc&t=400.02000000000004s)]
+*  Tom Homan just so happened to be in Los Angeles as this was going down. [[00:06:45](https://www.youtube.com/watch?v=g0KvBie4Udc&t=405.86s)]
+*  And we should also point out the fact that the mayor of the city of Los Angeles is a [[00:06:52](https://www.youtube.com/watch?v=g0KvBie4Udc&t=412.1s)]
+*  Democrat. The governor of California is a Democrat. [[00:06:57](https://www.youtube.com/watch?v=g0KvBie4Udc&t=417.34000000000003s)]
+*  And those are two officials who the president has not been shy about criticizing and also [[00:07:01](https://www.youtube.com/watch?v=g0KvBie4Udc&t=421.22s)]
+*  making threats of sending in the National Guard and other law enforcement entities [[00:07:07](https://www.youtube.com/watch?v=g0KvBie4Udc&t=427.94s)]
+*  to, quote unquote, bring things under control. [[00:07:15](https://www.youtube.com/watch?v=g0KvBie4Udc&t=435.78s)]
