@@ -1,0 +1,120 @@
+---
+Date Generated: June 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 317s
+Video Keywords: ['MSNBC']
+Video Views: 5858
+Video Rating: None
+Video Description: Health and Human Services Secretary Robert F. Kennedy, Jr. says he has removed all 17 of the independent experts from the CDC's vaccine advisory panel. Former White House Covid-19 Response Coordinator Dr. Ashish Jha joins Christina Ruffini to react to the possible implications.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #RFKJr #Health
+---
+
+# ‘Making up a lot of nonsense’: Doctor slams RFK Jr. removing vaccine experts from CDC panel
+**MSNBC - The Latest:** [June 10, 2025](https://www.youtube.com/watch?v=53_qHNAO6BE)
+*  In one of his more aggressive moves yet to remake the nation's vaccine policy, health [[00:00:00](https://www.youtube.com/watch?v=53_qHNAO6BE&t=0.0s)]
+*  secretary Robert F. Kennedy Jr. announced he's removed, or in his words, retired, all [[00:00:04](https://www.youtube.com/watch?v=53_qHNAO6BE&t=4.5200000000000005s)]
+*  17 of the independent experts on a panel that advises the CDC on who should get what shots. [[00:00:10](https://www.youtube.com/watch?v=53_qHNAO6BE&t=10.200000000000001s)]
+*  In a Wall Street Journal op-ed, Kennedy wrote, the committee has been plagued with persistent [[00:00:16](https://www.youtube.com/watch?v=53_qHNAO6BE&t=16.6s)]
+*  conflicts of interest and has become little more than a rubber stamp for any vaccine. [[00:00:20](https://www.youtube.com/watch?v=53_qHNAO6BE&t=20.72s)]
+*  Who he will pick to replace them, however, and whether they'll share Kennedy's skepticism [[00:00:25](https://www.youtube.com/watch?v=53_qHNAO6BE&t=25.36s)]
+*  is an open question. [[00:00:29](https://www.youtube.com/watch?v=53_qHNAO6BE&t=29.72s)]
+*  I want to bring in Dr. Ashish Jha, former White House COVID-19 response coordinator [[00:00:31](https://www.youtube.com/watch?v=53_qHNAO6BE&t=31.08s)]
+*  and dean of the Brown University School of Public Health. [[00:00:35](https://www.youtube.com/watch?v=53_qHNAO6BE&t=35.16s)]
+*  Doctor, I want to understand, first of all, you know, I'm not in this industry, a lot [[00:00:38](https://www.youtube.com/watch?v=53_qHNAO6BE&t=38.2s)]
+*  of our viewers aren't. [[00:00:41](https://www.youtube.com/watch?v=53_qHNAO6BE&t=41.56s)]
+*  What is this panel? [[00:00:42](https://www.youtube.com/watch?v=53_qHNAO6BE&t=42.7s)]
+*  What did it do? [[00:00:44](https://www.youtube.com/watch?v=53_qHNAO6BE&t=44.12s)]
+*  And what are the implications of this move? [[00:00:45](https://www.youtube.com/watch?v=53_qHNAO6BE&t=45.28s)]
+*  Yeah. [[00:00:46](https://www.youtube.com/watch?v=53_qHNAO6BE&t=46.96s)]
+*  Well, first of all, thanks for having me back. [[00:00:47](https://www.youtube.com/watch?v=53_qHNAO6BE&t=47.96s)]
+*  This is a panel of experts that shapes what vaccines, if any, are going to be available [[00:00:49](https://www.youtube.com/watch?v=53_qHNAO6BE&t=49.72s)]
+*  to the American people. [[00:00:54](https://www.youtube.com/watch?v=53_qHNAO6BE&t=54.64s)]
+*  And what you saw yesterday was Robert F. Kennedy basically making up a lot of nonsense, lying [[00:00:56](https://www.youtube.com/watch?v=53_qHNAO6BE&t=56.28s)]
+*  about this panel saying that it's rife with conflicts. [[00:01:02](https://www.youtube.com/watch?v=53_qHNAO6BE&t=62.32s)]
+*  It's not. [[00:01:05](https://www.youtube.com/watch?v=53_qHNAO6BE&t=65.84s)]
+*  They go through a very vigorous vetting and they are some of our nation's experts on vaccines. [[00:01:06](https://www.youtube.com/watch?v=53_qHNAO6BE&t=66.84s)]
+*  And so this move is very, very concerning in terms of what this means for vaccine availability [[00:01:11](https://www.youtube.com/watch?v=53_qHNAO6BE&t=71.64s)]
+*  moving forward. [[00:01:16](https://www.youtube.com/watch?v=53_qHNAO6BE&t=76.0s)]
+*  But I want to ask you, is there a difference between vaccine skepticism and vaccine denial? [[00:01:17](https://www.youtube.com/watch?v=53_qHNAO6BE&t=77.0s)]
+*  Should there be a healthy dose of skepticism in any of this stuff? [[00:01:23](https://www.youtube.com/watch?v=53_qHNAO6BE&t=83.52000000000001s)]
+*  I mean, Kennedy claims it's about restoring trust in public agencies. [[00:01:27](https://www.youtube.com/watch?v=53_qHNAO6BE&t=87.36s)]
+*  And you know, there's also this concern that there's this revolving door with pharma people [[00:01:31](https://www.youtube.com/watch?v=53_qHNAO6BE&t=91.52000000000001s)]
+*  coming in, being put on this board. [[00:01:35](https://www.youtube.com/watch?v=53_qHNAO6BE&t=95.52000000000001s)]
+*  The optics of it, I think, are a little bit understandable. [[00:01:37](https://www.youtube.com/watch?v=53_qHNAO6BE&t=97.4s)]
+*  Kennedy has said that new members of the committee, quote, won't directly work for the vaccine [[00:01:41](https://www.youtube.com/watch?v=53_qHNAO6BE&t=101.0s)]
+*  industry and will foster a culture of critical inquiry unafraid to ask hard questions. [[00:01:45](https://www.youtube.com/watch?v=53_qHNAO6BE&t=105.48s)]
+*  What is your take on that? [[00:01:51](https://www.youtube.com/watch?v=53_qHNAO6BE&t=111.2s)]
+*  Go ahead. [[00:01:52](https://www.youtube.com/watch?v=53_qHNAO6BE&t=112.64s)]
+*  That all sounds great. [[00:01:53](https://www.youtube.com/watch?v=53_qHNAO6BE&t=113.64s)]
+*  And let me be let's be very clear about actual facts. [[00:01:54](https://www.youtube.com/watch?v=53_qHNAO6BE&t=114.64s)]
+*  So he's removing, for instance, a nurse who has spent her whole life working on vaccines [[00:01:57](https://www.youtube.com/watch?v=53_qHNAO6BE&t=117.12s)]
+*  in Illinois based on all the disclosures has never worked with pharma, has not an employee [[00:02:01](https://www.youtube.com/watch?v=53_qHNAO6BE&t=121.84s)]
+*  of pharma. [[00:02:06](https://www.youtube.com/watch?v=53_qHNAO6BE&t=126.56s)]
+*  So this whole revolving door problem is an FDA problem. [[00:02:07](https://www.youtube.com/watch?v=53_qHNAO6BE&t=127.56s)]
+*  It's not a CDC advisory panel problem. [[00:02:10](https://www.youtube.com/watch?v=53_qHNAO6BE&t=130.76s)]
+*  He is conflating different issues to bring different challenges here. [[00:02:13](https://www.youtube.com/watch?v=53_qHNAO6BE&t=133.72s)]
+*  And all this stuff about all these people are conflicted. [[00:02:18](https://www.youtube.com/watch?v=53_qHNAO6BE&t=138.88s)]
+*  Look, there are very, very vigorous vetting policies that have been around for years. [[00:02:21](https://www.youtube.com/watch?v=53_qHNAO6BE&t=141.72000000000003s)]
+*  They were using the Trump administration in the past. [[00:02:26](https://www.youtube.com/watch?v=53_qHNAO6BE&t=146.68s)]
+*  They were using the Biden administration. [[00:02:28](https://www.youtube.com/watch?v=53_qHNAO6BE&t=148.4s)]
+*  So unless he has specific concerns he's raising about individuals, most of what he's saying [[00:02:30](https://www.youtube.com/watch?v=53_qHNAO6BE&t=150.48000000000002s)]
+*  is just nonsense. [[00:02:35](https://www.youtube.com/watch?v=53_qHNAO6BE&t=155.4s)]
+*  He's making it up. [[00:02:36](https://www.youtube.com/watch?v=53_qHNAO6BE&t=156.4s)]
+*  It's not true. [[00:02:37](https://www.youtube.com/watch?v=53_qHNAO6BE&t=157.4s)]
+*  And he's using it as pretext to fire the people who are going to basically shape what vaccines [[00:02:38](https://www.youtube.com/watch?v=53_qHNAO6BE&t=158.76000000000002s)]
+*  are available. [[00:02:43](https://www.youtube.com/watch?v=53_qHNAO6BE&t=163.88000000000002s)]
+*  Take a step back. [[00:02:44](https://www.youtube.com/watch?v=53_qHNAO6BE&t=164.88000000000002s)]
+*  Look at this. [[00:02:46](https://www.youtube.com/watch?v=53_qHNAO6BE&t=166.48000000000002s)]
+*  The autism stuff that's been debunked that he's now raising again. [[00:02:47](https://www.youtube.com/watch?v=53_qHNAO6BE&t=167.48000000000002s)]
+*  If you look at the way he's been handling the measles outbreak, you can't help but worry [[00:02:51](https://www.youtube.com/watch?v=53_qHNAO6BE&t=171.28s)]
+*  that what R.F.K. [[00:02:56](https://www.youtube.com/watch?v=53_qHNAO6BE&t=176.08s)]
+*  Jr. is doing is he's making it harder and harder for kids to get vaccines in the future [[00:02:57](https://www.youtube.com/watch?v=53_qHNAO6BE&t=177.36s)]
+*  and for the elderly to get vaccines in the future. [[00:03:02](https://www.youtube.com/watch?v=53_qHNAO6BE&t=182.24s)]
+*  That's where this is heading. [[00:03:04](https://www.youtube.com/watch?v=53_qHNAO6BE&t=184.88s)]
+*  This is not about restoring trust. [[00:03:06](https://www.youtube.com/watch?v=53_qHNAO6BE&t=186.44s)]
+*  Also for a lot of people, myself included, if your insurance doesn't cover it, you're [[00:03:08](https://www.youtube.com/watch?v=53_qHNAO6BE&t=188.84s)]
+*  not getting that vaccine. [[00:03:11](https://www.youtube.com/watch?v=53_qHNAO6BE&t=191.76s)]
+*  So if that muddies the water here, that could also prevent access even from people who might [[00:03:13](https://www.youtube.com/watch?v=53_qHNAO6BE&t=193.08s)]
+*  want them. [[00:03:17](https://www.youtube.com/watch?v=53_qHNAO6BE&t=197.24s)]
+*  I also want to ask you, you know, Republican Senator Bill Cassidy, who is a physician that [[00:03:18](https://www.youtube.com/watch?v=53_qHNAO6BE&t=198.32000000000002s)]
+*  Kennedy really had to work hard to win over for his confirmation, said Kennedy had promised [[00:03:22](https://www.youtube.com/watch?v=53_qHNAO6BE&t=202.76000000000002s)]
+*  him he would not do this exact thing. [[00:03:27](https://www.youtube.com/watch?v=53_qHNAO6BE&t=207.52s)]
+*  He wouldn't make changes to this committee. [[00:03:29](https://www.youtube.com/watch?v=53_qHNAO6BE&t=209.72s)]
+*  You know, Kennedy posted online, of course, now the fear is that a SIP will be filled [[00:03:31](https://www.youtube.com/watch?v=53_qHNAO6BE&t=211.8s)]
+*  up with people who know nothing about vaccines except suspicion. [[00:03:36](https://www.youtube.com/watch?v=53_qHNAO6BE&t=216.20000000000002s)]
+*  He said he's spoken with Kennedy and that he'll continue to talk with him to try to [[00:03:39](https://www.youtube.com/watch?v=53_qHNAO6BE&t=219.32000000000002s)]
+*  ensure that this is not the case. [[00:03:42](https://www.youtube.com/watch?v=53_qHNAO6BE&t=222.76000000000002s)]
+*  Is there anything Congress can do to prevent the things Cassidy just laid out from happening? [[00:03:44](https://www.youtube.com/watch?v=53_qHNAO6BE&t=224.94s)]
+*  Should it even try? [[00:03:50](https://www.youtube.com/watch?v=53_qHNAO6BE&t=230.22s)]
+*  Yeah, I mean, I think Senator Cassidy made a valiant effort in trying to get a set of [[00:03:51](https://www.youtube.com/watch?v=53_qHNAO6BE&t=231.22s)]
+*  assurances from RFK Jr. [[00:03:55](https://www.youtube.com/watch?v=53_qHNAO6BE&t=235.46s)]
+*  And it's very clear at this point that the secretary lied to the senator and is going [[00:03:56](https://www.youtube.com/watch?v=53_qHNAO6BE&t=236.85999999999999s)]
+*  back on his word on almost all of his promises that he has made. [[00:04:02](https://www.youtube.com/watch?v=53_qHNAO6BE&t=242.34s)]
+*  So that's very concerning. [[00:04:05](https://www.youtube.com/watch?v=53_qHNAO6BE&t=245.34s)]
+*  And how Senator Cassidy deals with that obviously is up to him. [[00:04:07](https://www.youtube.com/watch?v=53_qHNAO6BE&t=247.02s)]
+*  What I would say at this point for all of us, the main concern is Secretary Kennedy [[00:04:12](https://www.youtube.com/watch?v=53_qHNAO6BE&t=252.54s)]
+*  has implemented a multi-step plan to make it much, much harder for people to get vaccines. [[00:04:16](https://www.youtube.com/watch?v=53_qHNAO6BE&t=256.86s)]
+*  The issue you raise on insurance is critical. [[00:04:21](https://www.youtube.com/watch?v=53_qHNAO6BE&t=261.65999999999997s)]
+*  The way it works in America is that when CDC recommends a vaccine, it gets covered by health [[00:04:24](https://www.youtube.com/watch?v=53_qHNAO6BE&t=264.32s)]
+*  insurance. [[00:04:28](https://www.youtube.com/watch?v=53_qHNAO6BE&t=268.7s)]
+*  If they pull that recommendation, insurance won't cover it. [[00:04:29](https://www.youtube.com/watch?v=53_qHNAO6BE&t=269.9s)]
+*  The other key here is if they don't recommend it, the Vaccines for Children program, which [[00:04:33](https://www.youtube.com/watch?v=53_qHNAO6BE&t=273.42s)]
+*  actually covers half the kids in America, won't give it. [[00:04:38](https://www.youtube.com/watch?v=53_qHNAO6BE&t=278.0s)]
+*  So I'm worried about a future where kids in America won't get the polio vaccine. [[00:04:41](https://www.youtube.com/watch?v=53_qHNAO6BE&t=281.14s)]
+*  They won't get a measles vaccine because our government is no longer going to recommend [[00:04:44](https://www.youtube.com/watch?v=53_qHNAO6BE&t=284.53999999999996s)]
+*  those vaccines. [[00:04:48](https://www.youtube.com/watch?v=53_qHNAO6BE&t=288.34s)]
+*  And that is going to be very harmful for the health and the well-being of the American [[00:04:49](https://www.youtube.com/watch?v=53_qHNAO6BE&t=289.7s)]
+*  people. [[00:04:52](https://www.youtube.com/watch?v=53_qHNAO6BE&t=292.94s)]
+*  All right, Dr. Ashish Shah, thank you so much for taking the time. [[00:04:53](https://www.youtube.com/watch?v=53_qHNAO6BE&t=293.94s)]
+*  Thank you. [[00:05:11](https://www.youtube.com/watch?v=53_qHNAO6BE&t=311.14s)]
