@@ -1,0 +1,122 @@
+---
+Date Generated: June 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 649s
+Video Keywords: ['Alicia Menendez', 'Michael Steele', 'Symone Sanders-Townsend']
+Video Views: 16262
+Video Rating: None
+Video Description: California’s AG sued the Trump administration over deploying the state’s National Guard to subdue protests in Los Angeles. California Attorney General Rob Bonta joins The Weeknight to discuss why he thinks they have a winning case.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#LosAngeles #California #NationalGuard
+---
+
+# 'Repeat offender': California AG Rob Bonta on suing Trump over National Guard deployment
+**MSNBC - The Latest:** [June 09, 2025](https://www.youtube.com/watch?v=8cpHQK3agDY)
+*  Thank you for the real-time images that you're showing of what all appear to be peaceful assemblies, which is what we want. [[00:00:00](https://www.youtube.com/watch?v=8cpHQK3agDY&t=0.0s)]
+*  We want calm. We want peace. We want people to assemble peacefully, lawfully, safely. [[00:00:06](https://www.youtube.com/watch?v=8cpHQK3agDY&t=6.48s)]
+*  And we want the law to be followed. [[00:00:11](https://www.youtube.com/watch?v=8cpHQK3agDY&t=11.44s)]
+*  And yes, that includes the president of the United States, who here has overstepped his authority. [[00:00:14](https://www.youtube.com/watch?v=8cpHQK3agDY&t=14.56s)]
+*  He's trying to exercise authority. He does not have—he has invoked a statute which can only be used to call on the National Guard if there's an invasion, which there is not. [[00:00:20](https://www.youtube.com/watch?v=8cpHQK3agDY&t=20.0s)]
+*  If there's a rebellion, which is nowhere to be seen, or if the regular forces of the federal government cannot—are insufficient to execute the laws of the United States, which is not present here either. [[00:00:29](https://www.youtube.com/watch?v=8cpHQK3agDY&t=29.36s)]
+*  The law also requires that the calling and deployment of the National Guard be issued through the governor, meaning that we need the consent of the governor of the state of California, Governor Newsom, here. [[00:00:42](https://www.youtube.com/watch?v=8cpHQK3agDY&t=42.08s)]
+*  And he not only does not consent, he strenuously objects to the deployment of the National Guard. [[00:00:57](https://www.youtube.com/watch?v=8cpHQK3agDY&t=57.28s)]
+*  So everything you said is right about the National Guard being deployed. It's unnecessary. [[00:01:02](https://www.youtube.com/watch?v=8cpHQK3agDY&t=62.88s)]
+*  It pulls the National Guardsmen and women away from doing critical—being engaged in critical services like tackling fentanyl flow into California at the San Diego border or from tackling wildfires as we are in wildfire season in the summer months here in California. [[00:01:07](https://www.youtube.com/watch?v=8cpHQK3agDY&t=67.92s)]
+*  So what the Trump administration has done here is unnecessary. It's not constructive. It's harmful. [[00:01:27](https://www.youtube.com/watch?v=8cpHQK3agDY&t=87.2s)]
+*  It has only led to inflame tensions and provoke, as opposed to calm and create peace. [[00:01:34](https://www.youtube.com/watch?v=8cpHQK3agDY&t=94.32000000000001s)]
+*  And most importantly, it's unlawful, which is why we brought the Trump administration to court for the 24th time in 20 weeks today for violating the law. [[00:01:41](https://www.youtube.com/watch?v=8cpHQK3agDY&t=101.12s)]
+*  He is a repeat offender when it comes to breaking the law, violating the Constitution, and we will be resolute, immovable and unapologetic in our commitment to ensure that the president of the United States of America only does unlawful things and is not allowed to break the law or violate the Constitution. [[00:01:49](https://www.youtube.com/watch?v=8cpHQK3agDY&t=109.84s)]
+*  He has been advertising that this was his plan and his intent for quite some time. [[00:02:05](https://www.youtube.com/watch?v=8cpHQK3agDY&t=125.12s)]
+*  I want you to take a listen to Donald Trump talking. This is back in March of 2023 in Davenport, Iowa. Take a listen. [[00:02:10](https://www.youtube.com/watch?v=8cpHQK3agDY&t=130.48000000000002s)]
+*  You look at any Democrat run state and it's just not the same. It doesn't work. [[00:02:20](https://www.youtube.com/watch?v=8cpHQK3agDY&t=140.48s)]
+*  You look at these cities, our great cities, our New York City is a crime den. [[00:02:27](https://www.youtube.com/watch?v=8cpHQK3agDY&t=147.12s)]
+*  Chicago is a crime den. You look at these great cities, Los Angeles, San Francisco, you look at what's happening to our country. [[00:02:33](https://www.youtube.com/watch?v=8cpHQK3agDY&t=153.04s)]
+*  We cannot let it happen any longer. And one of the other things I'll do, because you know, you're supposed to not be involved in that. [[00:02:40](https://www.youtube.com/watch?v=8cpHQK3agDY&t=160.96s)]
+*  You have to be asked by the governor or the mayor to come in. The next time I'm not waiting. [[00:02:48](https://www.youtube.com/watch?v=8cpHQK3agDY&t=168.24s)]
+*  So, Secretary, I try to be judicious in the sound that I play of Donald Trump, but I think that is particularly important because that is two years ago. [[00:02:55](https://www.youtube.com/watch?v=8cpHQK3agDY&t=175.76000000000002s)]
+*  Him telling us exactly what he intended to do and what we are seeing play out in Los Angeles today. [[00:03:01](https://www.youtube.com/watch?v=8cpHQK3agDY&t=181.76000000000002s)]
+*  Two questions for you. One, why the fixation with blue cities and blue states? [[00:03:07](https://www.youtube.com/watch?v=8cpHQK3agDY&t=187.36s)]
+*  And two, does it become legally germane that he already was setting a predicate for this before there was, in fact, the invasion or rebellion that he is using? [[00:03:12](https://www.youtube.com/watch?v=8cpHQK3agDY&t=192.4s)]
+*  Does not exist, but he is using to legitimize the use of this statute. [[00:03:22](https://www.youtube.com/watch?v=8cpHQK3agDY&t=202.48s)]
+*  Yeah, you know, I think his prior comments are really important, including his comment in 2020 that said he can't call the National Guard unless the governors ask him to. [[00:03:27](https://www.youtube.com/watch?v=8cpHQK3agDY&t=207.68s)]
+*  So in 2020, he had someone had informed him of the appropriate use of the law and the way it works. [[00:03:37](https://www.youtube.com/watch?v=8cpHQK3agDY&t=217.04000000000002s)]
+*  His sort of premeditation that has been so transparent in that clip that you show, his desire to blow through the law, violate it and invoke and call the National Guard through unlawful authority is also important. [[00:03:44](https://www.youtube.com/watch?v=8cpHQK3agDY&t=224.24s)]
+*  And he's also revealed he's got a very difficult and complicated relationship with both the facts and the law. [[00:04:04](https://www.youtube.com/watch?v=8cpHQK3agDY&t=244.56s)]
+*  He has acknowledged he is not an attorney, which is so, so clear with all these lawsuits in which we're bringing in. [[00:04:10](https://www.youtube.com/watch?v=8cpHQK3agDY&t=250.24s)]
+*  We're winning where he's breaking the law. [[00:04:15](https://www.youtube.com/watch?v=8cpHQK3agDY&t=255.36s)]
+*  His overgeneralized exaggerations that he makes about cities and states, half of the states in the United States, especially California, are just completely inaccurate. [[00:04:18](https://www.youtube.com/watch?v=8cpHQK3agDY&t=258.24s)]
+*  We are the largest state in the nation, the most diverse, the fourth largest economy in the world, the home of dreamers and innovators endures. [[00:04:31](https://www.youtube.com/watch?v=8cpHQK3agDY&t=271.03999999999996s)]
+*  He is fixated on blue states. He is fixated on blue jurisdictions. [[00:04:37](https://www.youtube.com/watch?v=8cpHQK3agDY&t=277.52s)]
+*  His ego cannot accept the fact that he was absolutely thrashed in California in the presidential election and in the prior presidential election that he ran in Trump 1.0. [[00:04:40](https://www.youtube.com/watch?v=8cpHQK3agDY&t=280.56s)]
+*  And so he wants to have political vindication through his official role, which is completely inappropriate and often manifests itself in unlawful actions, [[00:04:50](https://www.youtube.com/watch?v=8cpHQK3agDY&t=290.15999999999997s)]
+*  as is the action of trying to bring the National Guard in when there's no authority to do so. [[00:04:58](https://www.youtube.com/watch?v=8cpHQK3agDY&t=298.24s)]
+*  So he wages the culture wars. He seeks political vindication. [[00:05:03](https://www.youtube.com/watch?v=8cpHQK3agDY&t=303.04s)]
+*  He is not a president for all Americans. He tries to attack blue states and blue jurisdictions. [[00:05:07](https://www.youtube.com/watch?v=8cpHQK3agDY&t=307.84000000000003s)]
+*  California and L.A. is just the latest example. [[00:05:12](https://www.youtube.com/watch?v=8cpHQK3agDY&t=312.72s)]
+*  So, General Bonta, I really appreciate your response to Alicia. [[00:05:15](https://www.youtube.com/watch?v=8cpHQK3agDY&t=315.36s)]
+*  And I want to I think I want to rewrap that a little bit and look at the other side of the of the paper in the sense that you started the conversation noting that the people that we see on the screen, the live shot are people as before or assembling peacefully and lawfully. [[00:05:21](https://www.youtube.com/watch?v=8cpHQK3agDY&t=321.52s)]
+*  They want to bring or have the government address their grievance. [[00:05:42](https://www.youtube.com/watch?v=8cpHQK3agDY&t=342.8s)]
+*  Right. So this part of the of the conversation for me is important because the next piece, the other side of it are the people themselves. [[00:05:48](https://www.youtube.com/watch?v=8cpHQK3agDY&t=348.56s)]
+*  They're assembled. Donald Trump wants the escalation. [[00:05:57](https://www.youtube.com/watch?v=8cpHQK3agDY&t=357.92s)]
+*  The provocation is bringing in the military, sending in the military, nationalizing, federalizing the National Guard so that it provokes a response as as we note it coming in. [[00:06:02](https://www.youtube.com/watch?v=8cpHQK3agDY&t=362.72s)]
+*  Right. To this conversation that is used against the very people who are there that are used against the law abiding citizens and the legal structure that you oversee is used against them to to justify bringing the military and other forces to bear. [[00:06:17](https://www.youtube.com/watch?v=8cpHQK3agDY&t=377.04s)]
+*  How how are the officials of Los Angeles talking to the people to help them understand protest but don't provoke back because that's what they want. [[00:06:39](https://www.youtube.com/watch?v=8cpHQK3agDY&t=399.84s)]
+*  They want to justify their initial action by saying, see, see, look, they're burning cards and they're blowing up buildings and they're doing all this bad stuff. [[00:06:54](https://www.youtube.com/watch?v=8cpHQK3agDY&t=414.96s)]
+*  That's why we sent the the guard in. [[00:07:04](https://www.youtube.com/watch?v=8cpHQK3agDY&t=424.8s)]
+*  That's why we want the Marines there. [[00:07:07](https://www.youtube.com/watch?v=8cpHQK3agDY&t=427.68s)]
+*  Donald Trump in the clip we just played made that very clear. [[00:07:09](https://www.youtube.com/watch?v=8cpHQK3agDY&t=429.6s)]
+*  I'm not waiting until that happens. [[00:07:12](https://www.youtube.com/watch?v=8cpHQK3agDY&t=432.8s)]
+*  But when it happens, I will be justified in taking the steps I've taken. [[00:07:15](https://www.youtube.com/watch?v=8cpHQK3agDY&t=435.68s)]
+*  The message from California leaders has been loud. [[00:07:23](https://www.youtube.com/watch?v=8cpHQK3agDY&t=443.12s)]
+*  It's been clear. [[00:07:26](https://www.youtube.com/watch?v=8cpHQK3agDY&t=446.48s)]
+*  It's been consistent to peacefully, lawfully and safely exercise your time honored constitutional fundamental right to assemble to speak out and to speak up. [[00:07:27](https://www.youtube.com/watch?v=8cpHQK3agDY&t=447.35999999999996s)]
+*  But do not break the law. [[00:07:39](https://www.youtube.com/watch?v=8cpHQK3agDY&t=459.76s)]
+*  Do not be unsafe. [[00:07:42](https://www.youtube.com/watch?v=8cpHQK3agDY&t=462.64s)]
+*  Do not be violent. [[00:07:43](https://www.youtube.com/watch?v=8cpHQK3agDY&t=463.76s)]
+*  Be peaceful. [[00:07:44](https://www.youtube.com/watch?v=8cpHQK3agDY&t=464.96s)]
+*  The governor has said that I have said that law enforcement on the ground has said that local leaders on the ground have said that that's the appropriate message. [[00:07:45](https://www.youtube.com/watch?v=8cpHQK3agDY&t=465.59999999999997s)]
+*  It's unfortunate that the president of the United States is seemingly intentionally and deliberately provoking the situation, stoking the flames, looking for a fight, trying to create chaos and confusion, potentially even violence. [[00:07:53](https://www.youtube.com/watch?v=8cpHQK3agDY&t=473.2s)]
+*  When everyone in California wants our leaders here are seeking and calling for peace, for calm, for appropriate lawful exercises of constitutional rights. [[00:08:07](https://www.youtube.com/watch?v=8cpHQK3agDY&t=487.68s)]
+*  So it's very clear what he's what the president is doing. [[00:08:19](https://www.youtube.com/watch?v=8cpHQK3agDY&t=499.84s)]
+*  He wants a fight. [[00:08:23](https://www.youtube.com/watch?v=8cpHQK3agDY&t=503.36s)]
+*  He wants this to erupt. [[00:08:24](https://www.youtube.com/watch?v=8cpHQK3agDY&t=504.15999999999997s)]
+*  He's trying to increase the tensions he's trying to provoke. [[00:08:25](https://www.youtube.com/watch?v=8cpHQK3agDY&t=505.44s)]
+*  There's probably nothing more he'd like to see than to see some violence provoked by the unnecessary deployment of military on American soil. [[00:08:28](https://www.youtube.com/watch?v=8cpHQK3agDY&t=508.71999999999997s)]
+*  But we are urging the people of California to remain disciplined, to remain calm, to remain peaceful, lawful and safe. [[00:08:39](https://www.youtube.com/watch?v=8cpHQK3agDY&t=519.2s)]
+*  And that's my hope that that will continue as is reflected right there in the images that you're showing. [[00:08:46](https://www.youtube.com/watch?v=8cpHQK3agDY&t=526.16s)]
+*  Attorney General Bonta, in the time we have left, there are questions about should the National Guard, why are the National Guard's men and women who have been deployed, why would they follow these orders? [[00:08:51](https://www.youtube.com/watch?v=8cpHQK3agDY&t=531.8399999999999s)]
+*  And today on with our colleague, Nicole Wallace, the former acting vice chair of the National Guard Bureau, was asked by Nicole, were these orders legal? [[00:09:02](https://www.youtube.com/watch?v=8cpHQK3agDY&t=542.9599999999999s)]
+*  Is this an illegal order? [[00:09:14](https://www.youtube.com/watch?v=8cpHQK3agDY&t=554.48s)]
+*  And I'll just read to you what he said. [[00:09:15](https://www.youtube.com/watch?v=8cpHQK3agDY&t=555.76s)]
+*  This was Randy Manor. [[00:09:17](https://www.youtube.com/watch?v=8cpHQK3agDY&t=557.76s)]
+*  He said, no, these are not illegal orders to the best of my knowledge. [[00:09:18](https://www.youtube.com/watch?v=8cpHQK3agDY&t=558.72s)]
+*  I've seen the one for the National Guard. [[00:09:22](https://www.youtube.com/watch?v=8cpHQK3agDY&t=562.08s)]
+*  I've not yet seen the one for the Marines, although I read it online. [[00:09:23](https://www.youtube.com/watch?v=8cpHQK3agDY&t=563.92s)]
+*  These are not illegal. [[00:09:26](https://www.youtube.com/watch?v=8cpHQK3agDY&t=566.64s)]
+*  The question is, are they appropriate? [[00:09:27](https://www.youtube.com/watch?v=8cpHQK3agDY&t=567.84s)]
+*  Can you just respond to that, sir? [[00:09:29](https://www.youtube.com/watch?v=8cpHQK3agDY&t=569.28s)]
+*  Yeah, our position is very clear that these are illegal orders. [[00:09:33](https://www.youtube.com/watch?v=8cpHQK3agDY&t=573.04s)]
+*  They're unlawful. [[00:09:36](https://www.youtube.com/watch?v=8cpHQK3agDY&t=576.24s)]
+*  There's no authority for them. [[00:09:36](https://www.youtube.com/watch?v=8cpHQK3agDY&t=576.88s)]
+*  The California National Guard is a joint operation. [[00:09:38](https://www.youtube.com/watch?v=8cpHQK3agDY&t=578.4s)]
+*  The commander in chief most of the time is the governor of California. [[00:09:42](https://www.youtube.com/watch?v=8cpHQK3agDY&t=582.96s)]
+*  And the president can deploy the National Guard if there's specific statutory authority for doing that. [[00:09:49](https://www.youtube.com/watch?v=8cpHQK3agDY&t=589.6s)]
+*  And that's only under conditions that are rare and infrequent, like a rebellion, like an invasion. [[00:09:54](https://www.youtube.com/watch?v=8cpHQK3agDY&t=594.96s)]
+*  And those conditions don't exist here. [[00:10:02](https://www.youtube.com/watch?v=8cpHQK3agDY&t=602.5600000000001s)]
+*  So the president can do many lawful things, but he cannot do unlawful things. [[00:10:04](https://www.youtube.com/watch?v=8cpHQK3agDY&t=604.32s)]
+*  And what he has tried to do here is exercise authority he doesn't have. [[00:10:08](https://www.youtube.com/watch?v=8cpHQK3agDY&t=608.8000000000001s)]
+*  So yes, this is an illegal order. [[00:10:12](https://www.youtube.com/watch?v=8cpHQK3agDY&t=612.48s)]
+*  And we believe it is, so we've made our case to a court. [[00:10:14](https://www.youtube.com/watch?v=8cpHQK3agDY&t=614.88s)]
+*  And the court will decide. [[00:10:18](https://www.youtube.com/watch?v=8cpHQK3agDY&t=618.6400000000001s)]
+*  If we're right, which we believe we will, and that it's not a close case, [[00:10:19](https://www.youtube.com/watch?v=8cpHQK3agDY&t=619.6800000000001s)]
+*  the court will declare that the order is unlawful, and it will no longer be valid. [[00:10:22](https://www.youtube.com/watch?v=8cpHQK3agDY&t=622.72s)]
