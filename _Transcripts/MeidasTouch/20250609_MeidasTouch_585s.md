@@ -1,0 +1,108 @@
+---
+Date Generated: June 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 585s
+Video Keywords: ['meidastouch', 'meidas touch', 'politics', 'political videos', 'political advertising', 'breaking news', 'ben meiselas', 'midas touch', 'midastouch', 'donald trump', 'trump', 'joe biden', 'biden', 'president', 'elections', 'republicans', 'democrats', 'democratic party', 'republican party', 'trump indictments', 'legal news', 'michael popok', 'gop', 'current events', 'department of justice', 'justice department', 'political news', 'msnbc', 'cnn', 'cable news', 'independent media', 'united states', 'us news']
+Video Views: 17946
+Video Rating: None
+Video Description: MeidasTouch host Ben Meiselas reports on Donald Trump not having  the supplied and resources and beds for the National Guard as his stunt backfires and Meiselas interviews Los Angeles Mayor Karen Bass about the latest developments. 
+Visit https://meidasplus.com for more!
+MeidasTouch relies on SnapStream to record, watch, monitor, and clip the news. Get a FREE TRIAL of SnapStream by clicking here: https://go.snapstream.com/affiliate/meidastouch/meidasnews?utm_campaign=4490308-affiliate2025&utm_content=customerpartner
+Support the MeidasTouch Network: https://patreon.com/meidastouch
+Add the MeidasTouch Podcast: https://podcasts.apple.com/us/podcast/the-meidastouch-podcast/id1510240831
+Buy MeidasTouch Merch: https://store.meidastouch.com
+Follow MeidasTouch on Twitter: https://twitter.com/meidastouch
+Follow MeidasTouch on Facebook: https://facebook.com/meidastouch
+Follow MeidasTouch on Instagram: https://instagram.com/meidastouch
+Follow MeidasTouch on TikTok: https://tiktok.com/@meidastouch
+---
+
+# OMG!!! Trump THROWS Troops ON FLOOR as HE SPIRALS
+**MeidasTouch:** [June 09, 2025](https://www.youtube.com/watch?v=nXhoSTsvhPw)
+*  We're now seeing some horrific pictures of National Guard troops sleeping on the floor. [[00:00:00](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=0.0s)]
+*  This was an exclusive from the San Francisco Chronicle. Wildly unprepared, National Guard [[00:00:06](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=6.08s)]
+*  troops seen sleeping on floors in exclusive photos when Donald Trump, in my view, unlawfully [[00:00:12](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=12.0s)]
+*  federalized the National Guard. They were not prepared for it. They didn't go through the [[00:00:18](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=18.88s)]
+*  proper channels, of course. That's the subject of a major lawsuit that was filed by California [[00:00:23](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=23.92s)]
+*  Attorney General's office and the governor's office today. Governor Gavin Newsom posted the [[00:00:31](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=31.040000000000003s)]
+*  following at Donald Trump. You sent your troops here without fuel, without food, without water, [[00:00:35](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=35.760000000000005s)]
+*  or a place to sleep. Here they are being forced to sleep on the floor piled on top of another. [[00:00:42](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=42.160000000000004s)]
+*  If anyone is treating our troops disrespectfully, it is you. Earlier, Donald Trump posted the [[00:00:49](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=49.36s)]
+*  following. We made a great decision in sending the National Guard to deal with the violent, [[00:00:56](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=56.8s)]
+*  instigated riots in California. If we had not done so, Los Angeles would have been completely [[00:01:02](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=62.879999999999995s)]
+*  obliterated. Then he goes on to ad hominem attacks against Governor Newsom and Mayor Bass. He says, [[00:01:08](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=68.56s)]
+*  the very incompetent governor, and he puts that in quotes, Gavin Newsom, and then he says, [[00:01:14](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=74.96s)]
+*  Mayor Karen Bass should be saying, thank you, President Trump. You are so wonderful. [[00:01:21](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=81.11999999999999s)]
+*  We would be nothing without you, sir. He goes on to just say more ridiculous things like that. [[00:01:26](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=86.55999999999999s)]
+*  Then previously he posted, I'm liberating Los Angeles with the National Guard. I'm engaged in [[00:01:32](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=92.72s)]
+*  a liberation operation. As someone who lives in Los Angeles, I can't begin to tell you how offensive [[00:01:39](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=99.03999999999999s)]
+*  it is as someone whose wife grew up in Huntington Park, whose nieces and nephews are graduating [[00:01:44](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=104.56s)]
+*  today, and they're seeing ice roll around their graduation, and I'm getting reports of how scared [[00:01:50](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=110.72s)]
+*  they are. It hits me very, very personally as well. Then there are unconfirmed reports, [[00:01:56](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=116.64s)]
+*  and I want to be very clear. It's unconfirmed as of this recording, but it's been stated in a few [[00:02:02](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=122.48s)]
+*  news outlets. Again, let me be very clear with my language about a Marine battalion, around 500 [[00:02:08](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=128.4s)]
+*  Marines based out of 29 POMs in California being mobilized in the Los Angeles area. We saw at [[00:02:13](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=133.44s)]
+*  least though from 29 POMs battalion that they're in communication at least with Hegsut. We can say [[00:02:21](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=141.12s)]
+*  that because I saw their release on that. Let's bring in Los Angeles Mayor Karen Bass. Can you [[00:02:28](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=148.96s)]
+*  just give us the latest? Let's just start there. What's the latest? What do we know? [[00:02:35](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=155.44s)]
+*  Well, the latest is that right now there is a protest that is going on in solidarity with David [[00:02:40](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=160.79999999999998s)]
+*  Huerta, who was the labor leader that was arrested and is in detention. He was hurt at his arrest [[00:02:47](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=167.68s)]
+*  and was briefly hospitalized. That is what is going on now. It is a peaceful protest. In Los [[00:02:54](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=174.4s)]
+*  Angeles, we have a well-organized, highly sophisticated immigrant rights movement here, [[00:03:00](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=180.64s)]
+*  and they traditionally hold protests. They have all been peaceful. At the end of some of them [[00:03:07](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=187.44s)]
+*  recently, things got completely out of hand, but not to the point that we needed the federalization [[00:03:14](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=194.96s)]
+*  of our National Guard. The way this works normally is that a request would have gone to the [[00:03:22](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=202.16s)]
+*  governor from the local law enforcement authorities requesting assistance. That request never went out. [[00:03:27](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=207.92s)]
+*  To preempt and to take away the governor's power over the National Guard is over the top. It makes [[00:03:35](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=215.84s)]
+*  us feel like we're a case study. What happens if the federal government comes in and takes over the [[00:03:42](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=222.4s)]
+*  city? We saw the press release from Friday, and the press release said that these protests were [[00:03:48](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=228.96s)]
+*  largely all peaceful. They actually thanked the community organizers. I know there's a lot of work [[00:03:57](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=237.68s)]
+*  and effort that goes into also building trust between law enforcement and community organizers, [[00:04:03](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=243.92s)]
+*  but then the language and the rhetoric out of Washington and the Trump regime [[00:04:10](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=250.95999999999998s)]
+*  started escalating things and escalating things. They've always singled out you and Governor [[00:04:15](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=255.44s)]
+*  Newsom and Los Angeles in particular. Do you think that this was always a premeditated plan? He was [[00:04:21](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=261.68s)]
+*  just waiting for the opportunity, Trump, that is, to do this? Well, I think the irony is here is [[00:04:29](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=269.28s)]
+*  that we went through the wildfires, and the Trump administration was very supportive of that effort. [[00:04:37](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=277.28s)]
+*  We're so far along because of that support. This is like a complete change, and it's very frightening [[00:04:43](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=283.03999999999996s)]
+*  to the city. I just can't describe enough how traumatized families are. When people go to work [[00:04:51](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=291.44s)]
+*  and they don't know whether or not they're going to come home, when kids are not sure whether their [[00:04:58](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=298.4s)]
+*  parents are going to come home. I just learned this morning that at my grandson's elementary school, [[00:05:02](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=302.71999999999997s)]
+*  that ICE was nearby. They're worried as to what's going to happen to the city that is 50% Latino, [[00:05:10](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=310.56s)]
+*  about 20% Asian, and there are immigrants from all around the world, the Caribbean countries, [[00:05:18](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=318.96s)]
+*  African countries. When those raids happen, it creates a sense of terror. We don't know how long [[00:05:25](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=325.92s)]
+*  it's going to last. We've been told 30 days. We never know when the raids, where the raids are [[00:05:35](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=335.44s)]
+*  going to take place. Several have happened today already. We're trying to get a handle on the [[00:05:40](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=340.24s)]
+*  details for all of those, but right now there is a rally going on with thousands of people peacefully [[00:05:45](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=345.28000000000003s)]
+*  calling for the release of David Huerta, calling for ICE to stop what they're doing, [[00:05:51](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=351.76s)]
+*  and for the federal troops, essentially that power to be returned to the governor. [[00:05:57](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=357.2s)]
+*  Isn't that very atypical and unusually as well? Isn't there always task force, local and federal, [[00:06:01](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=361.76s)]
+*  working together hand in hand? Because local, you know the community better than the feds often do. [[00:06:08](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=368.48s)]
+*  Feds often have a unique resource set. So whether it's going after the criminals and the bad guys, [[00:06:18](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=378.08s)]
+*  these operations seem to be targeting hard working immigrant populations. But when it actually came [[00:06:26](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=386.15999999999997s)]
+*  to how do we actually get bad guys out, it was always working with local, state, and federal in [[00:06:32](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=392.24s)]
+*  task force. But here it just seems to be federal, not communicating at all, and not going after [[00:06:39](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=399.91999999999996s)]
+*  criminals, going after people working in factories and people who are in home depots and going into [[00:06:46](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=406.08s)]
+*  neighborhoods and schools and courtrooms. How do you go from a drug den, that's what you're [[00:06:53](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=413.2s)]
+*  saying you're going to do, to a home depot and chasing day laborers, people who look for work [[00:06:59](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=419.03999999999996s)]
+*  every single day? What is the reason for that? What is the reason for going into some of the [[00:07:04](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=424.71999999999997s)]
+*  factories and plants? These are working people struggling to try to get ends to meet in our very, [[00:07:10](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=430.96s)]
+*  very expensive city. And so I just don't understand the logic in that. It is not keeping our city safe. [[00:07:17](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=437.92s)]
+*  If you want to go back in time, where was LA on Thursday? Fine, peaceful, nothing was happening. [[00:07:25](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=445.6s)]
+*  The minute ICE rolled into town, that's when the chaos started. And then add to that, bringing in [[00:07:32](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=452.0s)]
+*  federal troops. And so it's just felt like it was a kind of a deliberate situation. We pleaded and [[00:07:37](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=457.6s)]
+*  said, there is no reason to do this right now. The violence that broke out several nights ago, [[00:07:45](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=465.52000000000004s)]
+*  it was with a group that was around 100 people. We are a city of 3.8 million. Our police force can [[00:07:52](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=472.48s)]
+*  take care of 100 people and not all of them were committing violence. 20 of them were arrested. [[00:08:00](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=480.56s)]
+*  So if that was the pretense for bringing in the National Guard, it was a false pretense, [[00:08:06](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=486.64s)]
+*  which makes us feel like it's like deliberate chaos. And that maybe we are a test case as to [[00:08:11](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=491.59999999999997s)]
+*  how this is going to go down in cities. It's so unfortunate. We're getting ready to welcome the [[00:08:18](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=498.0s)]
+*  World Cup in a year. And if anything, we need efforts to show unity in our city, not to try to [[00:08:22](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=502.64s)]
+*  divide us. And now we have vandalism that has to be dealt with. And then there is the collapsing [[00:08:30](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=510.4s)]
+*  of what a few individuals did to the broader immigrant rights movement that have been [[00:08:36](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=516.56s)]
+*  conducting peaceful, lawful protests for decades in the city. [[00:08:41](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=521.84s)]
+*  So what would be your message right now if Trump and Hegseth and Homan are watching this? What's [[00:08:46](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=526.3199999999999s)]
+*  your message to them right now? Stop. Stop. Stop the raids. This is not helping our city. [[00:08:54](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=534.64s)]
+*  It is creating chaos. Withdraw the troops. Give the power back to the governor. And please, [[00:09:03](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=543.52s)]
+*  there is no reason for Marines. There is no reason for this. There is nothing happening here. [[00:09:11](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=551.52s)]
+*  Mayor Karen Bass, thanks for joining us. Thanks for having me on. [[00:09:17](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=557.36s)]
+*  Everybody hit subscribe. Let's get to five million subscribers. [[00:09:20](https://www.youtube.com/watch?v=nXhoSTsvhPw&t=560.8s)]
