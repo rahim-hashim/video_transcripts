@@ -96,4 +96,5 @@ podcast_channel_names = {
   'https://www.youtube.com/@breitbartnews92/videos':     'Breitbart News',
   'https://www.youtube.com/@judgingfreedom/videos':      'Andrew Napolitano - Judging Freedom',
   'https://www.youtube.com/@CurrentAffairsMag/videos' :  'Current Affairs - Nathan Robinson',
+  'https://www.youtube.com/@TheDailyShow/videos':        'The Daily Show',
 }
