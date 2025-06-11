@@ -1,0 +1,123 @@
+---
+Date Generated: June 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 352s
+Video Keywords: ['MSNBC']
+Video Views: 6568
+Video Rating: None
+Video Description: After their very public feud, Elon Musk says he regrets some of his posts about President Trump, saying "they went too far." Trump called Musk’s apology “very nice.” NBC News’ Garrett Haake and New York Times Chief White House Correspondent Peter Baker join Christina Ruffini to discuss the apology, which came at the urging of Vice President Vance and White House Chief of Staff Susie Wiles.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #ElonMusk #Politics
+---
+
+# 'I regret some of my posts': Musk says he 'went too far' in bashing Trump
+**MSNBC - The Latest:** [June 11, 2025](https://www.youtube.com/watch?v=gpnaFIIeRvA)
+*  It's a rare mea culpa from the world's richest man. [[00:00:00](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=0.0s)]
+*  Elon Musk says he now regrets some of the social media posts he made about President [[00:00:03](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=3.04s)]
+*  Trump last week. [[00:00:07](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=7.0200000000000005s)]
+*  Posting on X earlier this morning, quote, they went too far. [[00:00:08](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=8.56s)]
+*  Now it's not clear which post he was referring to specifically, although in one he endorsed [[00:00:11](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=11.42s)]
+*  the idea of Trump's impeachment and in another linked him to the Jeffrey Epstein files. [[00:00:15](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=15.76s)]
+*  Here's President Trump talking today on the feud with his former right-hand man. [[00:00:20](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=20.64s)]
+*  What happened with Elon? [[00:00:25](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=25.560000000000002s)]
+*  Is there anything that you can do to forgive him? [[00:00:27](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=27.5s)]
+*  Could you see that happening? [[00:00:31](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=31.42s)]
+*  Well, look, I have no hard feelings. [[00:00:32](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=32.42s)]
+*  I was really surprised that that happened. [[00:00:35](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=35.26s)]
+*  He went after Bill. [[00:00:39](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=39.74s)]
+*  That's phenomenal. [[00:00:40](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=40.74s)]
+*  When he did that, I was not a happy camper. [[00:00:41](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=41.74s)]
+*  So it's too bad. [[00:00:44](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=44.1s)]
+*  NBC's Garrett Haake is at the White House. [[00:00:46](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=46.78s)]
+*  Peter Baker is also back with us. [[00:00:49](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=49.1s)]
+*  Garrett, what else are you hearing from President Trump? [[00:00:50](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=50.980000000000004s)]
+*  Is there room for the reconciliation? [[00:00:53](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=53.519999999999996s)]
+*  This is banned, getting back together. [[00:00:55](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=55.14s)]
+*  What do you think? [[00:00:57](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=57.1s)]
+*  I think to a certain degree, Christina, it's likely that there will be some kind of reconciliation, [[00:00:58](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=58.1s)]
+*  especially as we're just learning NBC News has just confirmed with two sources familiar [[00:01:02](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=62.660000000000004s)]
+*  that the president's really two top aides, his chief of staff and his vice president [[00:01:06](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=66.5s)]
+*  spoke with Elon Musk late last week and urged this reproachment that we saw in the form [[00:01:12](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=72.0s)]
+*  of that overnight apology, such as it was from Elon Musk and other social media activity [[00:01:17](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=77.3s)]
+*  we saw from Elon Musk over the weekend, basically cheering on the administration's approach [[00:01:22](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=82.38s)]
+*  to the situation in Los Angeles. [[00:01:26](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=86.84s)]
+*  All of it suggests that at least one half of this split is moving back towards the other [[00:01:29](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=89.12s)]
+*  here. [[00:01:35](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=95.16000000000001s)]
+*  The president himself has also kind of lowered the temperature in some of his remarks about [[00:01:36](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=96.16000000000001s)]
+*  Elon Musk. [[00:01:39](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=99.60000000000001s)]
+*  Listen to the way he's been talking about it recently. [[00:01:40](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=100.60000000000001s)]
+*  The bill is so good when he went after the bill. [[00:01:45](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=105.12s)]
+*  This bill is going to turn around this country so fast your head will spin. [[00:01:47](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=107.88000000000001s)]
+*  Now, I think a bill is great. [[00:01:51](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=111.32000000000001s)]
+*  And he just didn't think that. [[00:01:53](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=113.12s)]
+*  I think he feels very badly that he said that, actually. [[00:01:54](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=114.52000000000001s)]
+*  Could you reconcile with him? [[00:01:57](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=117.60000000000001s)]
+*  Do you think? [[00:01:58](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=118.60000000000001s)]
+*  Could you forgive him? [[00:01:59](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=119.60000000000001s)]
+*  I guess I could. [[00:02:00](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=120.60000000000001s)]
+*  What I think we might be headed towards here, Christina, is something more like the Steve [[00:02:01](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=121.60000000000001s)]
+*  Bannon model, where you have another top adviser to the president, someone almost inseparable [[00:02:05](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=125.48s)]
+*  from him for a period of time, who had a falling out, was kind of on the outside for a while [[00:02:09](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=129.84s)]
+*  and now is back, if not in the inner circle, but kind of orbiting President Trump. [[00:02:14](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=134.16s)]
+*  I could imagine a scenario in which we see a similar future for Elon Musk. [[00:02:18](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=138.79999999999998s)]
+*  But a total rekindling of their relationship, I think, is unlikely, at least while Musk's [[00:02:23](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=143.12s)]
+*  opposition to the president's signature piece of legislation is still out there. [[00:02:29](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=149.39999999999998s)]
+*  And Peter, I mean, you heard Garrett just talking about this new reporting that this [[00:02:36](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=156.12s)]
+*  apology came after Vice President Vance and she's staff Susie Wiles reached out to Musk [[00:02:38](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=158.88s)]
+*  and urged him to do so. [[00:02:44](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=164.04s)]
+*  But we've also talked about who has the most to lose in this relationship. [[00:02:45](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=165.66s)]
+*  And it seems to be that perhaps it was Musk. [[00:02:50](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=170.1s)]
+*  Was there just too big of a risk for him to allow this rift to continue? [[00:02:52](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=172.62s)]
+*  Well, look, the president made very clear he was willing to use the power of his office [[00:02:56](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=176.74s)]
+*  to punish Elon Musk, who has billions of dollars worth of federal contracts. [[00:03:01](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=181.3s)]
+*  Trump very openly said, maybe we should cut these contracts and save the billions of dollars [[00:03:07](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=187.38s)]
+*  in money. [[00:03:11](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=191.42s)]
+*  The federal government regulates Elon Musk's businesses. [[00:03:12](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=192.78s)]
+*  In fact, he had, I think, I forgot the number, more than a dozen different regulatory disputes [[00:03:15](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=195.58s)]
+*  or lawsuits with the federal government before Trump came in office. [[00:03:20](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=200.78s)]
+*  Some of those have been kind of pulled back under Trump. [[00:03:24](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=204.34s)]
+*  They could be revived or more could be pursued. [[00:03:28](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=208.3s)]
+*  And so I think that, you know, Trump has made clear, unlike other presidents, that he doesn't [[00:03:33](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=213.82s)]
+*  about using the power of his office to, you know, to carry out his desires or reward friends [[00:03:38](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=218.46s)]
+*  and punish enemies. [[00:03:45](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=225.66s)]
+*  So Elon Musk has a lot at stake here. [[00:03:46](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=226.66s)]
+*  His businesses have already taken a hit because of his association with Donald Trump. [[00:03:49](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=229.3s)]
+*  Tesla stock plummeted over the last few months. [[00:03:53](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=233.10000000000002s)]
+*  It went back up a little bit, I think, after this apology, because I think his shareholders [[00:03:57](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=237.98000000000002s)]
+*  are eager for there to be kind of a rapprochement. [[00:04:01](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=241.54000000000002s)]
+*  They want to avoid the open conflict in which, you know, Trump, who says he likes the word [[00:04:03](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=243.54s)]
+*  retribution, you know, could find ways to exact it. [[00:04:09](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=249.94s)]
+*  That's exactly it, because, I mean, we heard the president just say he guesses he could [[00:04:15](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=255.14s)]
+*  forgive Musk. [[00:04:18](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=258.21999999999997s)]
+*  But this is not this president's favorite thing to do. [[00:04:19](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=259.46s)]
+*  Do you see these two working together in the future in a way that they have in the past? [[00:04:22](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=262.74s)]
+*  Or will it be different? [[00:04:26](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=266.74s)]
+*  I think Gareth's got it right. [[00:04:27](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=267.74s)]
+*  I have a hard time seeing the two of them ever getting back together in quite the same [[00:04:29](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=269.94s)]
+*  way that they were in those 130 days after the inauguration, in which they are seemingly [[00:04:33](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=273.58s)]
+*  inseparable and which Musk basically seemed to be the prime minister under, you know, [[00:04:38](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=278.1s)]
+*  Trump's presidency. [[00:04:42](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=282.78000000000003s)]
+*  But having said that, this isn't, they're both mercurial individuals. [[00:04:43](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=283.78000000000003s)]
+*  They don't, you know, stick closely to a certain path. [[00:04:47](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=287.5s)]
+*  They have a way of getting in and out of relationships and then coming back around to them. [[00:04:51](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=291.54s)]
+*  Remember, the president's own vice president once compared him to Adolf Hitler. [[00:04:55](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=295.94s)]
+*  And yet he named JD Vance to be his running mate. [[00:04:59](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=299.54s)]
+*  The president's secretary of state once, you know, mocked President Trump's private parts. [[00:05:02](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=302.7s)]
+*  And yet he's now the highest officer in the cabinet. [[00:05:08](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=308.18s)]
+*  So President Trump has a way of bringing people back into the fold. [[00:05:11](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=311.1s)]
+*  He may not forgive, he may not forget, but he does sort of, you know, bring people in [[00:05:14](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=314.66s)]
+*  and out again, depending on how things go and how much they tend to, you know, flatter [[00:05:19](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=319.14s)]
+*  him and play to his ego. [[00:05:24](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=324.66s)]
+*  All right, we're going to have to leave it there for now. [[00:05:28](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=328.18s)]
+*  Peter, stick around. [[00:05:29](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=329.82000000000005s)]
+*  Garrett Haig, thank you so much. [[00:05:30](https://www.youtube.com/watch?v=gpnaFIIeRvA&t=330.82000000000005s)]

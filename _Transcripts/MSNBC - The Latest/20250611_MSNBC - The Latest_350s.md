@@ -1,0 +1,122 @@
+---
+Date Generated: June 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 350s
+Video Keywords: ['MSNBC']
+Video Views: 3207
+Video Rating: None
+Video Description: U.S. inflation rose 0.1% in May, less than expected despite concerns about Trump's tariffs. The President also says a trade deal with China is "done" but “subject to final approval.” NBC News Senior Business Correspondent Christine Romans and Axios Senior Economics Reporter Courtenay Brown join Christina Ruffini to break down the implications.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #Inflation #Politics
+---
+
+# ‘Waiting for the other shoe to drop’: Inflation rose less than expected despite tariff turmoil
+**MSNBC - The Latest:** [June 11, 2025](https://www.youtube.com/watch?v=JTr0VK_OMQg)
+*  Well, the May inflation report is out and it shows consumer prices rose less than expected [[00:00:00](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=0.0s)]
+*  last month despite the ongoing fears over President Trump's tariffs. [[00:00:04](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=4.66s)]
+*  We want to bring in NBC senior business correspondent Christine Romans and here with us in the studio, [[00:00:08](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=8.92s)]
+*  Courtney Brown, senior economics reporter for Axios. [[00:00:13](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=13.68s)]
+*  Christine, I want to start with you. [[00:00:16](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=16.48s)]
+*  Can you break down the numbers for us and what this is going to mean for most Americans' [[00:00:18](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=18.16s)]
+*  bottom line? [[00:00:21](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=21.52s)]
+*  So basically we saw inflation, the inflation rate 2.4 percent. [[00:00:22](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=22.6s)]
+*  That means prices rising from year on year 2.4 percent. [[00:00:26](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=26.68s)]
+*  That's really right in line with what a lot of people have been expecting. [[00:00:30](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=30.84s)]
+*  And from April to May, up just 0.1 percent. [[00:00:34](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=34.08s)]
+*  When you look within the numbers, you could see price declines for things like energy, [[00:00:36](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=36.8s)]
+*  gas prices. [[00:00:40](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=40.56s)]
+*  Gas right now is down 30 cents a gallon from where it was last year. [[00:00:41](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=41.56s)]
+*  So that's something that, you know, everyday consumers have probably been noticing. [[00:00:46](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=46.120000000000005s)]
+*  But keeping that number still higher than the Federal Reserve would like and still higher [[00:00:50](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=50.04s)]
+*  than normal is shelter. [[00:00:54](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=54.16s)]
+*  So prices have still been quite high and stayed that way. [[00:00:56](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=56.14s)]
+*  And Courtney, I want to ask you, you just posted a piece and we referenced it earlier, [[00:01:00](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=60.54s)]
+*  Trump's waiting for good dough economy. [[00:01:04](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=64.78s)]
+*  That's too classy for me. [[00:01:06](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=66.94s)]
+*  I'm more like waiting for Goffman. [[00:01:07](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=67.94s)]
+*  But we were talking earlier about how you're saying you're just not seeing the impacts, [[00:01:09](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=69.58s)]
+*  the expected impacts of these policies. [[00:01:13](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=73.46000000000001s)]
+*  Why is that and what else does it tell us? [[00:01:16](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=76.0s)]
+*  All across Wall Street, economists expect that either the economy will slow, inflation [[00:01:18](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=78.02000000000001s)]
+*  will rise or some combination of both. [[00:01:23](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=83.34s)]
+*  And as far as the economic data is concerned, we just haven't seen it yet. [[00:01:26](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=86.86s)]
+*  Today's inflation numbers are mild. [[00:01:31](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=91.10000000000001s)]
+*  I'm sure the Federal Reserve is breathing a sigh of relief. [[00:01:33](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=93.54s)]
+*  And so we're all just waiting for this shoe to drop. [[00:01:37](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=97.02000000000001s)]
+*  And months now we haven't seen it yet. [[00:01:40](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=100.98s)]
+*  So what's going on? [[00:01:44](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=104.94s)]
+*  What's going on is companies have stocked up a bunch of inventory, right? [[00:01:45](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=105.78s)]
+*  They brought in a bunch of stuff from overseas. [[00:01:50](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=110.22s)]
+*  And did they do that when that pause went into effect? [[00:01:52](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=112.82000000000001s)]
+*  Exactly. [[00:01:54](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=114.66s)]
+*  Or even before tariffs were set to take effect. [[00:01:55](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=115.42s)]
+*  So you have all of this pre-tariff inventory, not subject to potential price hikes for consumers. [[00:01:58](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=118.58s)]
+*  But what's happening is businesses are running down that inventory. [[00:02:06](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=126.18s)]
+*  The momentum is kind of running out. [[00:02:10](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=130.5s)]
+*  Well, yeah, and they're just running out of stuff. [[00:02:12](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=132.02s)]
+*  So they're selling through it. [[00:02:14](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=134.38s)]
+*  So the expectation is that eventually in the months ahead, as businesses run down that [[00:02:16](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=136.26s)]
+*  pre-tariff inventory, if you will, we are going to see some price hikes on consumers. [[00:02:21](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=141.98s)]
+*  But haven't seen it yet. [[00:02:27](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=147.94s)]
+*  OK, Christine, the other breaking news I want to ask you about is President Trump says [[00:02:29](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=149.38s)]
+*  the U.S. will keep tariffs high on Chinese goods. [[00:02:33](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=153.62s)]
+*  He's touting this preliminary trade agreement with China that, of course, still needs final [[00:02:36](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=156.98s)]
+*  approval. What is the significance for everyday items we get from China? [[00:02:40](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=160.7s)]
+*  The mixed messages. [[00:02:45](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=165.5s)]
+*  And for businesses here at home, what do they do? [[00:02:46](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=166.7s)]
+*  I mean, look, 55 percent tariffs on things coming in from China. [[00:02:49](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=169.9s)]
+*  That is significant, Christina, and that is going to have a big effect for any importer, [[00:02:53](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=173.45999999999998s)]
+*  any small business that's relying on parts and goods that are coming from China. [[00:02:58](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=178.42s)]
+*  These are still pretty high tariff levels, 55 percent on imports from China. [[00:03:02](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=182.26s)]
+*  And then the Chinese are taxing American goods at 10 percent. [[00:03:06](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=186.57999999999998s)]
+*  You know, the Commerce Secretary was talking about this earlier today. [[00:03:10](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=190.06s)]
+*  And you know, really what we want to know is there going to be certainty where these [[00:03:13](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=193.38s)]
+*  tariff rates are so people, companies can start making plans later this fall. [[00:03:17](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=197.46s)]
+*  This is what he said. [[00:03:21](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=201.5s)]
+*  They've agreed we're going to examine how China can do more business with us. [[00:03:24](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=204.42s)]
+*  You know, we've got a giant trade deficit. [[00:03:28](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=208.9s)]
+*  How about China? You buy more of our agriculture, you buy more of our equipment. [[00:03:31](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=211.01999999999998s)]
+*  And I think they've agreed to that. [[00:03:36](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=216.78s)]
+*  We're going to go through that over the next couple of months. [[00:03:38](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=218.62s)]
+*  But this feels very, very positive. [[00:03:40](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=220.82s)]
+*  Well, Mr. Secretary, it's potentially very good for the markets if they can be convinced [[00:03:44](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=224.66s)]
+*  that these numbers, these tariff levels are not going to change from here. [[00:03:49](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=229.3s)]
+*  Can we say that? [[00:03:52](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=232.9s)]
+*  You can definitely say that. [[00:03:54](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=234.34s)]
+*  OK, so we'll see. It sounds like there's going to be more talking, Christina, in the days [[00:03:56](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=236.9s)]
+*  and months ahead. You know, the president said this deal with China is done. [[00:04:00](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=240.02s)]
+*  This is not done like a traditional deal. [[00:04:02](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=242.9s)]
+*  This is a handshake in Geneva. [[00:04:04](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=244.70000000000002s)]
+*  Now maybe some social media posts about it from the U.S. [[00:04:06](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=246.62s)]
+*  side, some vague language on the Chinese side. [[00:04:10](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=250.22s)]
+*  This isn't this isn't a papered up deal like we're used to. [[00:04:13](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=253.58s)]
+*  And Courtney, the president seized on the new inflation report to once again press [[00:04:16](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=256.94s)]
+*  Fed chair Jerome Powell to slash interest rates. [[00:04:22](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=262.1s)]
+*  Do you think that's going to happen or do you think he's going to stick to his guns [[00:04:25](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=265.94s)]
+*  despite this immense pressure he's getting from the White House? [[00:04:29](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=269.82s)]
+*  The Federal Reserve holds its two day policy meeting next week. [[00:04:32](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=272.1s)]
+*  It ends on Wednesday. No interest rate change is expected. [[00:04:35](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=275.34s)]
+*  But what we do get, which is super important, we get a set of [[00:04:39](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=279.78s)]
+*  new economic projections that show how the Fed sees inflation and employment [[00:04:43](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=283.38s)]
+*  and broader economic growth developing in the months and years ahead. [[00:04:48](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=288.65999999999997s)]
+*  And that will kind of give us a clue of how the Federal Reserve sees adjusting [[00:04:53](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=293.38s)]
+*  interest rates in the near term. [[00:04:58](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=298.3s)]
+*  But for now, they're very much in this wait and see approach. [[00:05:00](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=300.5s)]
+*  They want to see how trade tensions play out. [[00:05:03](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=303.86s)]
+*  They want to see how the economic data is developing. [[00:05:06](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=306.58s)]
+*  But what's interesting today is we didn't just have President Trump calling on the Fed [[00:05:10](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=310.1s)]
+*  to cut rates. We saw Vice President J.D. [[00:05:14](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=314.18s)]
+*  Vance get on the action to pressing Powell to lower interest rates. [[00:05:16](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=316.70000000000005s)]
+*  So a little bit of double teaming in the Fed on the Fed here. [[00:05:21](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=321.62s)]
+*  All right. We'll see if it makes any difference. [[00:05:24](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=324.86s)]
+*  Gartney Brown, Christine Romans, thank you both so much for joining us. [[00:05:26](https://www.youtube.com/watch?v=JTr0VK_OMQg&t=326.90000000000003s)]
