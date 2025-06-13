@@ -1,0 +1,135 @@
+---
+Date Generated: June 13, 2025
+Transcription Model: whisper medium 20231117
+Length: 341s
+Video Keywords: ['FNC', 'Fox', 'Fox News', 'Fox News Channel', 'News', 'donald trump', 'gavin newsom', 'ice', 'ice prostest', 'immigration and customs enforcement', 'los angeles', 'los angeles protests', 'newsom', 'newsom trump', 'president trump', 'trump', 'trump ice', 'trump newsom', 'ice riots', 'la protests', 'ice protests', 'appeals court', 'trump win', 'legal', 'politics', 'us', 'news', 'trump national guard', 'trump news', 'fox news', 'fox news channel', 'california', 'president donald trump', 'breaking news', 'national guard']
+Video Views: 158140
+Video Rating: None
+Video Description: Former acting ICE Director Jonathan Fahey joins 'Fox & Friends’ to break down an appeals court ruling allowing President Donald Trump to retain control of the National Guard in California amid ongoing unrest. #foxnews #news #us #politics #trump #breakingnews #california 
+Subscribe to Fox News! https://bit.ly/2vBUvAS 
+Watch more Fox News Video: http://video.foxnews.com 
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows 
+The Five: https://www.foxnews.com/video/shows/the-five 
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report 
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime 
+Hannity: https://www.foxnews.com/video/shows/hannity 
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle 
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld 
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/ 
+Follow Fox News on Twitter: https://twitter.com/FoxNews/ 
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# BREAKING: Trump celebrates legal win in California National Guard dispute
+**Fox News - Fox and Friends:** [June 13, 2025](https://www.youtube.com/watch?v=3Aw2qqZeyxY)
+*  So, overnight, a legal win for the president's push to restore law and order in LA. [[00:00:00](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=0.0s)]
+*  As the federal court rules, he can keep the National Guard deployed there as protests [[00:00:05](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=5.12s)]
+*  rage across Los Angeles. [[00:00:09](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=9.64s)]
+*  Moments ago, President Trump reacting on Truth Social saying, quote, if I didn't send the [[00:00:11](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=11.4s)]
+*  military into Los Angeles, that city would be burning to the ground right now. [[00:00:15](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=15.76s)]
+*  We saved LA. [[00:00:20](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=20.64s)]
+*  Thank you for the decision. [[00:00:22](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=22.16s)]
+*  Former federal prosecutor Jonathan Fahey served as the acting ICE director under President [[00:00:23](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=23.88s)]
+*  Trump's first term, and he joins us now. [[00:00:28](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=28.28s)]
+*  Jonathan, thanks so much for joining the program this morning. [[00:00:30](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=30.48s)]
+*  Thank you. [[00:00:34](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=34.84s)]
+*  You know, it's really hard to follow the courts on this. [[00:00:35](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=35.84s)]
+*  You had that decision late in the evening and then you got one overnight from the courts. [[00:00:39](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=39.2s)]
+*  But I think when you look at the mayor, they're going to stand with the president on this [[00:00:45](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=45.400000000000006s)]
+*  issue, right? [[00:00:48](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=48.68000000000001s)]
+*  I think you're exactly right. [[00:00:50](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=50.88s)]
+*  And it's certainly not, it's probably not over in the court system. [[00:00:52](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=52.6s)]
+*  This will ultimately be heard by the Ninth Circuit and then possibly the Supreme Court. [[00:00:55](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=55.4s)]
+*  But the merits that President Trump is on are very strong. [[00:00:59](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=59.96s)]
+*  This statute allows him to bring in the National Guard when he decides that there is an interference [[00:01:03](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=63.8s)]
+*  with federal agencies doing their jobs. [[00:01:09](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=69.8s)]
+*  And clearly that was the case here. [[00:01:12](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=72.28s)]
+*  It's not even arguable that these rioters, their whole intent was to prevent the ICE [[00:01:13](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=73.96s)]
+*  from doing their jobs. [[00:01:19](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=79.6s)]
+*  That was their stated purpose. [[00:01:20](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=80.6s)]
+*  And what makes this case even more unique is California wasn't even trying to help. [[00:01:21](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=81.84s)]
+*  It's not like their local law enforcement was trying to help and they were unsuccessful. [[00:01:28](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=88.0s)]
+*  They were at least in spirit with the rioters in this case. [[00:01:32](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=92.28s)]
+*  President Trump was not only right, it was his responsibility to do so and things would [[00:01:36](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=96.64s)]
+*  have gotten a whole lot worse if he didn't. [[00:01:41](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=101.0s)]
+*  Yeah, it's just one of those cases where you see the Democrats continue using the courts [[00:01:43](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=103.2s)]
+*  to delay because they realize that it's really not under real good legal footing, but they [[00:01:49](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=109.08s)]
+*  don't care. [[00:01:54](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=114.4s)]
+*  It's delay delay. [[00:01:55](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=115.4s)]
+*  I want to get your attention to Senator Padilla because yesterday he was removed from the [[00:01:56](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=116.4s)]
+*  Secretary of Homeland Security's presser and this is how he behaved. [[00:02:00](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=120.4s)]
+*  Watch. [[00:02:04](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=124.52s)]
+*  Hands up, hands up. [[00:02:05](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=125.52s)]
+*  I'm Senator Alex Padilla. [[00:02:06](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=126.52s)]
+*  I have questions for the Secretary because the fact of the matter is a half a dozen violent [[00:02:09](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=129.96s)]
+*  criminals that you're rotating on your hands off. [[00:02:15](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=135.96s)]
+*  Hands on your back. [[00:02:22](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=142.0s)]
+*  Hands on your back. [[00:02:26](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=146.0s)]
+*  Let me get up. [[00:02:27](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=147.0s)]
+*  My hands going. [[00:02:28](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=148.0s)]
+*  All right. [[00:02:29](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=149.0s)]
+*  All right. [[00:02:30](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=150.0s)]
+*  Cool. [[00:02:31](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=151.0s)]
+*  Hands. [[00:02:32](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=152.0s)]
+*  Lay flat. [[00:02:33](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=153.0s)]
+*  Lay flat. [[00:02:34](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=154.0s)]
+*  So it was clearly a political stunt, right? [[00:02:35](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=155.0s)]
+*  Clearly a political stunt and really bizarre behavior for a United States senator to act [[00:02:38](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=158.68s)]
+*  like this is somehow legitimate. [[00:02:43](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=163.64s)]
+*  And what makes this even worse is the reaction of other Democrats to this because the other [[00:02:46](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=166.16s)]
+*  Democrats have essentially said that he was in the right here. [[00:02:52](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=172.16s)]
+*  He has every right to go in and disrupt a press conference, lunge towards the stage [[00:02:56](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=176.64s)]
+*  and they act like Donald Trump or somehow behind us. [[00:03:01](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=181.76s)]
+*  These were law enforcement officers there to protect the secretary and they did what [[00:03:05](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=185.04s)]
+*  they were supposed to do. [[00:03:09](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=189.68s)]
+*  This idea that they should have known there would be an unhinged senator there. [[00:03:11](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=191.36s)]
+*  And by the way, nobody outside of maybe the inside inside the Beltway world knows who [[00:03:14](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=194.64000000000001s)]
+*  Senator Padilla even is. [[00:03:21](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=201.12s)]
+*  But this idea that they should have known who he was and somehow if he is an unhinged [[00:03:23](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=203.20000000000002s)]
+*  Democratic senator, he has free reigns to go to the podium. [[00:03:27](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=207.68s)]
+*  It's so unbelievably bizarre. [[00:03:31](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=211.64000000000001s)]
+*  And I think a question for them would be if somebody barges into their office saying they [[00:03:33](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=213.88000000000002s)]
+*  want to ask the senator a question, are they going to stop this person or are they just [[00:03:37](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=217.76s)]
+*  going to let him through? [[00:03:41](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=221.44s)]
+*  Because everything that law enforcement did was appropriate here. [[00:03:42](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=222.23999999999998s)]
+*  There was nothing political about it. [[00:03:47](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=227.12s)]
+*  And the Democrats, again, this kind of goes back to the first topic. [[00:03:49](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=229.12s)]
+*  All they want to do is create chaos because on the merits of their positions, they can't [[00:03:52](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=232.39999999999998s)]
+*  win. [[00:03:58](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=238.79999999999998s)]
+*  So they want to create some chaos and be disruptive. [[00:03:59](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=239.12s)]
+*  But disgraceful performance by him, but even worse by the other Democrats who were supporting [[00:04:02](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=242.39999999999998s)]
+*  him. [[00:04:07](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=247.60000000000002s)]
+*  Well, Jonathan, it also goes to the original sin, which is ICE was trying to do operations [[00:04:07](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=247.76000000000002s)]
+*  and they were prevented from doing that. [[00:04:13](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=253.84s)]
+*  This senator is essentially doing the same thing. [[00:04:16](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=256.0s)]
+*  So he made the argument if they treat me this way, how are they going to treat other Americans? [[00:04:19](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=259.28000000000003s)]
+*  Well, you got if the senator is behaving this way when a government official is trying to [[00:04:24](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=264.08000000000004s)]
+*  do their job, what are the agents supposed to do? [[00:04:29](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=269.04s)]
+*  Right, Jonathan? [[00:04:32](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=272.8s)]
+*  Well, exactly like how are they supposed to treat him? [[00:04:34](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=274.56s)]
+*  It's like, wait, are you supposed to just be able to charge into a press conference [[00:04:37](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=277.36s)]
+*  and go out to the secretary? [[00:04:42](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=282.0s)]
+*  Of course not. [[00:04:43](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=283.6s)]
+*  And you're absolutely right on your point that he's doing what these rioters were doing. [[00:04:44](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=284.56s)]
+*  And these ICE agents, to begin with, were serving judicial warrants, meaning initiated [[00:04:49](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=289.44s)]
+*  by a federal judge to do what they were doing. [[00:04:54](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=294.56s)]
+*  So they've been in the right the entire time. [[00:04:57](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=297.12s)]
+*  The administration's been in the right the entire time. [[00:04:59](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=299.52000000000004s)]
+*  If he truly wanted to talk to the secretary, he should make an appointment or make a phone [[00:05:01](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=301.92s)]
+*  call. [[00:05:06](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=306.96000000000004s)]
+*  The whole thing is nonsense. [[00:05:07](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=307.28000000000003s)]
+*  It's disgraceful. [[00:05:09](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=309.04s)]
+*  But again, they have no leg to stand on on the merits. [[00:05:10](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=310.40000000000003s)]
+*  So they have to resort to these theatrics. [[00:05:13](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=313.52000000000004s)]
+*  And it's just embarrassing for him and the rest of the Democrats. [[00:05:16](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=316.8s)]
+*  He's trying to increase his name ID. [[00:05:20](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=320.88s)]
+*  I guess he's looking for a run to. [[00:05:23](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=323.84000000000003s)]
+*  Jonathan Fahey, we appreciate you coming on the program. [[00:05:25](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=325.68s)]
+*  Thank you. [[00:05:29](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=329.44s)]
+*  Kill me. [[00:05:31](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=331.92s)]
+*  And I'm Ainsley Earhart. [[00:05:32](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=332.32s)]
+*  And click here to subscribe to the Fox News YouTube page to catch our hottest interviews [[00:05:33](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=333.28000000000003s)]
+*  and most compelling analysis. [[00:05:37](https://www.youtube.com/watch?v=3Aw2qqZeyxY&t=337.92s)]
