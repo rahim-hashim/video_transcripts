@@ -36,6 +36,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNC-TM8dJ4EhlTPqD9H6PRD8': 'The Wall Street Journal - World News',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BNBaIXxT-J1hPynuPVyjbmxY': 'The Wall Street Journal - Israel Hamas',
   'https://www.youtube.com/playlist?list=PLqQNt9DP_BND6dwgzxPwouOdQ09A393wP': 'The Wall Street Journal - News Explainers',
+  'https://www.youtube.com/playlist?list=PLH9R6lhyS--Yy9ZjxjYHR-eW0X0yLI8T2': 'The Wall Street Journal - Interviews',
   'https://www.youtube.com/playlist?list=PL8QBkS_wk32VzvsrJrmvqlhT_TqPRTllw': 'Washington Post - Israel Palestine',
   'https://www.youtube.com/playlist?list=PLwoDFQJEq_0aWU2qTpz0H2iPAZxhIZbX4': 'United Nations - Israel Palestine',
   # 'https://www.youtube.com/playlist?list=PLqie7QTkNnMbb6RNDLLJT0adUsTYTGNxo': 'The Economic Times - International News',

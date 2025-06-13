@@ -1,0 +1,120 @@
+---
+Date Generated: June 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 480s
+Video Keywords: ['Alicia Menendez', 'Michael Steele', 'Symone Sanders-Townsend']
+Video Views: 4443
+Video Rating: None
+Video Description: In her first primetime interview since being indicted, Rep. LaMonica McIver speaks out on The Weeknight. She’s facing three counts of “forcibly impeding and interfering with law enforcement officers."
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #Democrats #Republicans
+---
+
+# 'Sold their soul for Donald Trump': Rep. LaMonica McIver on Republicans
+**MSNBC - The Latest:** [June 12, 2025](https://www.youtube.com/watch?v=GiSy5Z-1_Jg)
+*  California Senator Alex Padilla forcibly removed from and handcuffed at a news conference held by Homeland Security Secretary [[00:00:00](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=0.0s)]
+*  Kristi Noem the escalation is eerily reminiscent of the scene outside that ice detention facility in New Jersey [[00:00:06](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=6.92s)]
+*  Just last month that incident [[00:00:14](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=14.200000000000001s)]
+*  Resulted this week in the indictment of Congresswoman LaMonica McIver by a federal grand jury [[00:00:17](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=17.080000000000002s)]
+*  The congresswoman is facing three counts of forcibly impeding and interfering with federal law enforcement officers [[00:00:22](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=22.080000000000002s)]
+*  She says she plans to plead not guilty a Democratic Congresswoman LaMonica McIver of New Jersey joins us now [[00:00:28](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=28.759999999999998s)]
+*  Congresswoman McIver welcome to the table [[00:00:34](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=34.839999999999996s)]
+*  It's so much [[00:00:38](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=38.56s)]
+*  It's been two weeks [[00:00:40](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=40.72s)]
+*  Really it's galling and and I want to get we want to get into the specifics of your case [[00:00:44](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=44.72s)]
+*  Because we all watch that one, too [[00:00:49](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=49.92s)]
+*  We saw that one America as well [[00:00:51](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=51.72s)]
+*  But your initial reaction in response to what happened to Senator Padilla and how it completes not complete [[00:00:53](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=53.839999999999996s)]
+*  But as part of the narrative from your own experience trying to do your oversight. I mean first of all was disgraceful [[00:01:01](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=61.64s)]
+*  I mean to see it honestly brought tears to my eyes someone had dropped it [[00:01:08](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=68.08s)]
+*  I'm in a chat to me and I watched the whole video and just the idea of how they were [[00:01:12](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=72.68s)]
+*  Handling him with no regard just throwing him on the floor his hands up [[00:01:17](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=77.12s)]
+*  I mean it just brought back just a time that you don't want to be brought back to and it's just disgraceful to see [[00:01:21](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=81.24s)]
+*  I think it's a sad day for America each day [[00:01:27](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=87.0s)]
+*  I always say I wake up every day like what the hell today [[00:01:30](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=90.11999999999999s)]
+*  With this administration because they are always doing something escalating each and every day and it was just so just disgraceful to see [[00:01:33](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=93.28s)]
+*  Congresswoman, I'm not sure if you were able to watch it [[00:01:41](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=101.96s)]
+*  But senator Padilla was on with our colleague Jacob Sobroff in the past hour sort of walking through the incident as [[00:01:44](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=104.75999999999999s)]
+*  Unfolded talking a little bit about his response and he specifically spoke about [[00:01:51](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=111.39999999999999s)]
+*  Republicans in Congress and the response we will or won't see from them. Take a list [[00:01:57](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=117.11999999999999s)]
+*  This is a question I've been asking all my Republican colleagues since the beginning of [[00:02:03](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=123.91999999999999s)]
+*  Trump's term when is enough enough the audacity for how this [[00:02:08](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=128.56s)]
+*  Administration has gone after their political agenda [[00:02:14](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=134.28s)]
+*  You know what I hear behind closed doors [[00:02:18](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=138.2s)]
+*  Well, once he gets you know crosses a certain line there we're gonna start to rein him in but they keep saying yes to every [[00:02:20](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=140.07999999999998s)]
+*  Ask he makes every nominee he puts forward. When is enough enough when [[00:02:25](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=145.79999999999998s)]
+*  They feel no repercussions for putting a United States Center in handcuffs [[00:02:31](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=151.56s)]
+*  For the audacity to ask a question and to speak up for fundamental rights and due process. When is enough enough? [[00:02:36](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=156.56s)]
+*  Representative MacIver I am curious. Have you heard from your Republican colleagues either about what has happened to Senator Padilla or what is currently happening to you? [[00:02:44](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=164.56s)]
+*  Absolutely not. I mean Republicans have sold their soul for Donald Trump and that's just the bottom line [[00:02:52](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=172.72s)]
+*  I have no expectations that they will speak out if they can't speak out for the very people who have elected them [[00:02:58](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=178.44s)]
+*  Among these cuts the big ugly bill and the many other things that they've done. They're not gonna speak out on our behalf [[00:03:03](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=183.72s)]
+*  They're just not [[00:03:10](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=190.0s)]
+*  That can't be okay, you know [[00:03:12](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=192.72s)]
+*  I guess I said I'm mad in the open because [[00:03:14](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=194.68s)]
+*  We are seeing these things as Michael so aptly laid out with our own eyes [[00:03:18](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=198.04s)]
+*  We are hearing with our own ears yet [[00:03:22](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=202.72s)]
+*  The government is attempting to tell us to believe something else there [[00:03:25](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=205.12s)]
+*  We we saw what happened in Newark. We watched the video of Governor Padilla. I watched Tom Holman suggests that [[00:03:29](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=209.48s)]
+*  Mayor Bass and Governor Newsom should be arrested [[00:03:36](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=216.82s)]
+*  And your Republican colleagues aren't saying anything I guess the same question that we asked of the senator [[00:03:40](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=220.51999999999998s)]
+*  How are the Democratic members of the House of Representatives? [[00:03:45](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=225.28s)]
+*  Then rallying around you because to be very clear you were the opening salvo in my opinion [[00:03:48](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=228.04s)]
+*  And I don't think the response was force force forceful enough from the Democrats to what happened to you [[00:03:54](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=234.44s)]
+*  Yeah, I mean I think one we should continue to do our oversight, right? [[00:04:01](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=241.56s)]
+*  We should continue to speak out continue to not lay down for this administration [[00:04:05](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=245.12s)]
+*  I think I've gotten a lot of support. I mean, maybe you know folks might not think it's been public [[00:04:09](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=249.4s)]
+*  You know, but at the end of the day people have been supportive my colleagues have reached out [[00:04:14](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=254.20000000000002s)]
+*  I mean once again, this is a very expensive fight, too [[00:04:18](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=258.48s)]
+*  So obviously we have to raise the fight these folks and you know [[00:04:20](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=260.92s)]
+*  We just have to continue to do our jobs but but do it with all of the might that we have we cannot [[00:04:24](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=264.78000000000003s)]
+*  Lay down for them [[00:04:30](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=270.28000000000003s)]
+*  We cannot just roll over and let them scare us out and you know it happened to me and I like I told people it [[00:04:31](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=271.56s)]
+*  Will continue to happen today a United States senator. We're gonna continue to see them doing this [[00:04:37](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=277.72s)]
+*  It's gonna continue to escalate because they're unhinged and they're cruel. This is a cruel administration [[00:04:43](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=283.04s)]
+*  Their agenda is centered around cruelty and this is what they do [[00:04:49](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=289.44000000000005s)]
+*  I mean, I literally it's just disgusting to see this happening and I hope that Americans [[00:04:53](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=293.16s)]
+*  Feel the same way because we should not be governing this way and we should be able to call out what's wrong [[00:04:59](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=299.0s)]
+*  What's wrong and what's right it's what's right and this is just a disgusting place for us to be in in this country [[00:05:04](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=304.32s)]
+*  congressman when the grand jury [[00:05:09](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=309.68s)]
+*  Handed out its indictment on Tuesday [[00:05:12](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=312.71999999999997s)]
+*  The tweet from the US Attorney for New Jersey Alina Habba [[00:05:16](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=316.36s)]
+*  Said this while people are free to express their views for or against particular policies [[00:05:21](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=321.03999999999996s)]
+*  They must not do so in a manner that endangers law enforcement and the communities those officers serve [[00:05:26](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=326.68s)]
+*  When I read that tweet the only thing I thought of was oh miss Habba. What about this little thing called January 6? [[00:05:33](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=333.68s)]
+*  Well, y'all jacked up police officers killed one of them two of them [[00:05:40](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=340.40000000000003s)]
+*  maimed officers jacked them up right so when they say you know [[00:05:46](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=346.64s)]
+*  And then don't forget they let my jail and let and then and then you let them out of jail [[00:05:51](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=351.96000000000004s)]
+*  Yeah, you said that they're Patriots the people so [[00:05:56](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=356.16s)]
+*  congressman [[00:05:59](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=359.88s)]
+*  What what did you do? [[00:06:02](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=362.12s)]
+*  Who'd you jack up because I looked at the video I've seen the video [[00:06:05](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=365.96s)]
+*  I'm just trying to figure out who you which law enforcement officer you endangered and what part of the community that you serve [[00:06:09](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=369.88s)]
+*  Did you serve? [[00:06:18](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=378.76s)]
+*  That you endangered. I mean they forget I mean it their rules only apply to the people that they don't like [[00:06:20](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=380.8s)]
+*  It's a different set of rules for them [[00:06:27](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=387.92s)]
+*  So when she tweets out things like oh, you know, no one is above the law [[00:06:29](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=389.76000000000005s)]
+*  I mean nobody but their friends and them are above the law like it's just it's honestly is once again disgusting [[00:06:33](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=393.24s)]
+*  I was there to do my job along with my colleagues and this is what it gets me a three count indictment [[00:06:40](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=400.40000000000003s)]
+*  It's just once again, I will not roll over [[00:06:46](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=406.40000000000003s)]
+*  I am not going to be intimidated out of serving the people of the 10th congressional district [[00:06:48](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=408.76000000000005s)]
+*  That is what they elected me to do and I refuse to do anything other than that [[00:06:53](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=413.28000000000003s)]
+*  And so I just think this is a time for us to continue to stand up continue to do oversight and continue to push back [[00:06:58](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=418.12s)]
+*  Against the administration and they don't like that and they're going to penalize and weaponize [[00:07:04](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=424.35999999999996s)]
+*  Every department that they are responsible for to make sure that we do not do our jobs to try to make us not do our job [[00:07:09](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=429.35999999999996s)]
+*  I know we got to go. Can I just make one fine point real quick? [[00:07:16](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=436.59999999999997s)]
+*  Alicia just so we can complete the circle here today. We watch the senator [[00:07:19](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=439.0s)]
+*  Be escorted into a room and then manhandled by police [[00:07:24](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=444.36s)]
+*  Just as the congresswoman was escorted into the facility to do the tour, right came out and then was manhandled [[00:07:28](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=448.88s)]
+*  So, you know this this is where we are right now [[00:07:35](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=455.78s)]
+*  You [[00:07:53](https://www.youtube.com/watch?v=GiSy5Z-1_Jg&t=473.64s)]

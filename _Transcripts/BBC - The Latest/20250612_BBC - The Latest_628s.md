@@ -1,0 +1,112 @@
+---
+Date Generated: June 12, 2025
+Transcription Model: whisper medium 20231117
+Length: 628s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news', 'India', 'Air India', 'UK', 'Crash', 'Plane crash']
+Video Views: 403731
+Video Rating: None
+Video Description: Air India has confirmed that 241 passengers and crew have died after a London-bound plane crashed shortly after take-off in Ahmedabad, western India.
+ 
+In a statement the airline said that the "sole survivor" - a British citizen - is being treated in hospital.
+ 
+There were 169 Indian nationals, 53 Britons, seven Portuguese nationals and one Canadian on the flight, according to Air India.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+ 
+For more news, analysis and features visit: www.bbc.com/news
+ 
+#India #UK #BBCNews
+---
+
+# Air India confirms 241 on board plane killed with one survivor in Ahmedabad crash | BBC News
+**BBC - The Latest:** [June 12, 2025](https://www.youtube.com/watch?v=9p4mx2CRzQw)
+*  Let's get more now on our main news and the crash of that Air India plane bound for London [[00:00:00](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=0.0s)]
+*  seconds after it took off from the Indian city of Ahmedabad. [[00:00:05](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=5.5200000000000005s)]
+*  Air India has now confirmed that of the 242 people on board, there's been only a single survivor. [[00:00:08](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=8.56s)]
+*  It's not yet known how many people were killed on the ground as the aircraft came down on a medical college hostel. [[00:00:15](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=15.36s)]
+*  Well, the crash of the Air India jet has led to huge devastation in a residential area of Ahmedabad. [[00:00:22](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=22.72s)]
+*  Firefighters were at the scene not long after the crash, but there was huge damage to a mid-rise building with signs of intense fire. [[00:00:29](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=29.44s)]
+*  The aircraft was due to fly long haul to London and it was likely to have been carrying a significant amount of fuel when it came down. [[00:00:36](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=36.480000000000004s)]
+*  India's Minister of Home Affairs spoke a short time ago after meeting the sole survivor of the crash. [[00:00:43](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=43.92s)]
+*  Well, this was 40-year-old Vishwas Kumar Ramesh, whose family live in Leicester, [[00:00:51](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=51.84s)]
+*  and he apparently walked off the plane. He was sitting near the front of the aircraft [[00:00:56](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=56.8s)]
+*  and has now been in hospital. Let's hear from the Home Minister Amit Shah who met him. [[00:01:02](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=62.879999999999995s)]
+*  Altogether 230 passengers, national and international citizens, and 12 crew members were on board. [[00:01:16](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=76.32s)]
+*  We have had news of one person among them surviving. [[00:01:26](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=86.88s)]
+*  I have gone to meet that person. [[00:01:34](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=94.32s)]
+*  We will give the official death toll after the DNA is taken and their identities have been confirmed by the authorities. [[00:01:39](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=99.6s)]
+*  But I have gone to see the survivor. [[00:01:49](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=109.68s)]
+*  But I have gone to meet the survivor. [[00:01:51](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=111.36s)]
+*  The pilot's shoes that were quite apparent. One thing was the landing gear remained extended and that creates excess drag, [[00:02:22](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=142.0s)]
+*  which can lead to a lower climb rate and stall risk, making altitude recovery a bit difficult. [[00:02:29](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=149.28s)]
+*  Also, one of the pilots who was on ground noticed the flap configurations were at zero degrees, [[00:02:37](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=157.84s)]
+*  where they should have been between 5 to 10 degrees. Now at 37 degrees centigrade temperature in Ahmedabad [[00:02:48](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=168.24s)]
+*  and a full fuel load, this would result in the aircraft unable to climb. [[00:02:57](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=177.04000000000002s)]
+*  We had bird strikes that could have caused engine failure, but it's all left to be seen. [[00:03:05](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=185.04000000000002s)]
+*  Is it likely that the black box recorders will be found, even though we saw that huge fireball? [[00:03:15](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=195.52s)]
+*  God willing, they will be found, given that they are made for very kind of strict, [[00:03:25](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=205.12s)]
+*  they are really well designed, so they generally do encompass fire etc. [[00:03:34](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=214.16s)]
+*  But we'll have to see till they are found. It seemed pretty charred, what we saw on television. [[00:03:42](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=222.4s)]
+*  What is known about the safety record of Air India? [[00:03:51](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=231.52s)]
+*  Because it was taken over obviously in the last few years by the Tata Group. [[00:03:55](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=235.04000000000002s)]
+*  Since the Tata Group has taken over, this has been the first accident and the first, [[00:04:01](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=241.36s)]
+*  unfortunately, of the 787 globally. In 2020, Air India had an accident where about 23 people had died. [[00:04:08](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=248.64s)]
+*  So it's basically in a decade we've seen two accidents. [[00:04:20](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=260.64s)]
+*  What about the record of this particular type of Boeing? [[00:04:25](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=265.84s)]
+*  This Boeing 787 has a pretty good record. It's the first accident to happen in air. [[00:04:29](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=269.12s)]
+*  Once it had happened on land, which brought about the issue of the lithium batteries [[00:04:38](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=278.0s)]
+*  which were causing the fires, which they have tried to fix. [[00:04:45](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=285.44s)]
+*  When we look at airport safety and flying safety in India generally, how do you describe it? [[00:04:51](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=291.76s)]
+*  Because obviously India is a vast country, people perhaps don't realise it's the size of Western Europe [[00:04:59](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=299.35999999999996s)]
+*  and people fly a lot. That airport, the Bud is very, very popular. It's heavily used, isn't it? [[00:05:04](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=304.15999999999997s)]
+*  India, I shouldn't say surprisingly, because the fleet size has been pretty small. [[00:05:13](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=313.12s)]
+*  In all these years, now it's accelerating to the point of no return. [[00:05:19](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=319.12s)]
+*  We do have a good safety record and unfortunately now we'll have to start addressing issues, [[00:05:25](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=325.68s)]
+*  safety concern issues. [[00:05:33](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=333.68s)]
+*  And just finally, we've seen the incredible images of one man who was able to survive this crash. [[00:05:35](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=335.68s)]
+*  Is it possible to work out how one person could have walked out of this? [[00:05:46](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=346.72s)]
+*  I can just say that God had a special place in his heart for him. It was good karma. [[00:05:56](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=356.40000000000003s)]
+*  And he probably realised just on time that things were going wrong and he was sitting near the [[00:06:02](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=362.56s)]
+*  emergency door and he ranged it open and took a chance and just jumped out. [[00:06:08](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=368.8s)]
+*  We don't know obviously the details but perhaps we will hear his account. His brother was also on [[00:06:17](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=377.52000000000004s)]
+*  board so it's a very difficult day for his family and so many others in India and in the UK and [[00:06:22](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=382.96000000000004s)]
+*  around the world watching the events of the day. Neelam Matthews, thank you very much for being [[00:06:30](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=390.40000000000003s)]
+*  with us. Well what more do we know about the plane involved? The aircraft that crashed, [[00:06:34](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=394.72s)]
+*  just to remind you, is a Boeing 787-8 Dreamliner. The model was launched by the US manufacturer [[00:06:41](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=401.12s)]
+*  14 years ago and started flying with Air India in 2014 with 256 seats available on board. This is [[00:06:45](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=405.92s)]
+*  the first time it's been involved in a crash like this. Just six weeks ago, manufacturers Boeing [[00:06:52](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=412.96000000000004s)]
+*  celebrated the craft's carrying 1 billion passengers globally. Air India operates a fleet of more than [[00:06:58](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=418.16s)]
+*  190 planes, 58 of them are Boeing aircraft, 34 of which are believed to be Dreamliners. [[00:07:03](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=423.84s)]
+*  This is library footage of the same plane that crashed today from 2016. In a statement, [[00:07:10](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=430.96s)]
+*  Boeing's CEO said, our deepest condolences go out to the loved ones of the passengers and crew on [[00:07:17](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=437.76s)]
+*  board Air India Flight 171 as well as everyone affected in Ahmedabad. I've spoken with Air [[00:07:23](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=443.52s)]
+*  India's chairman to offer our full support and a Boeing team stands ready to support the investigation [[00:07:29](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=449.28s)]
+*  led by India's Aircraft Accident Investigation Bureau. Well US and British investigators are [[00:07:34](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=454.88s)]
+*  also traveling to India to help the investigation into the crash with specialists from across the [[00:07:40](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=460.08s)]
+*  world expected to assist. Let's speak to our North America business correspondent Michelle [[00:07:44](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=464.64s)]
+*  Fleury. Michelle, we've talked a lot about Boeing over recent months and years in fact. [[00:07:50](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=470.4s)]
+*  Was there any sort of market reaction to what's happened today? [[00:07:58](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=478.24s)]
+*  Yeah, I mean we saw initially when news started to emerge in pre-market trading there was a sharp [[00:08:02](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=482.72s)]
+*  drop in the share price of both Boeing and General Electric which makes the engines used in the 787 [[00:08:09](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=489.12s)]
+*  Dreamliner. Since then they've sort of recovered slightly, General Electric shares down around 2% [[00:08:15](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=495.6s)]
+*  and Boeing shares around 5%. I mean I think part of the concern is this is sort of a natural [[00:08:22](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=502.48s)]
+*  reaction you would expect to see to a tragic event like this from Wall Street but also I think it [[00:08:28](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=508.0s)]
+*  puts the spotlight back on the company for safety issues because of course it has been recovering [[00:08:34](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=514.24s)]
+*  from several incidents over the last couple of years and the airline was seen to have made [[00:08:40](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=520.4s)]
+*  quite a lot of progress but obviously now this will be a setback. [[00:08:45](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=525.68s)]
+*  Yeah and obviously this is a different model to the previous ones involved in previous crashes [[00:08:50](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=530.4s)]
+*  but how much will US investigators now get involved because we've heard that US and UK [[00:08:57](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=537.8399999999999s)]
+*  teams will go to India and will get involved it will be a global investigation to a degree led by [[00:09:04](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=544.64s)]
+*  India? Yeah I mean so there is a protocol here and the investigation will be led by Indian [[00:09:09](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=549.52s)]
+*  authorities by the Government of India but the NTSB here in America is sending a team of [[00:09:17](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=557.52s)]
+*  investigators over. Now that team could include even people from Boeing itself, Boeing has said [[00:09:23](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=563.4399999999999s)]
+*  they were ready to lend whatever assistance was needed. You know they're going to need people who [[00:09:30](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=570.88s)]
+*  have experience not just of complicated crash scenes but also for studying when they eventually [[00:09:37](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=577.2s)]
+*  recover the flight data recorder and the cockpit voice recorder they're going to want people who [[00:09:44](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=584.72s)]
+*  can understand what information that reveals they're going to need people who understand the 787 [[00:09:50](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=590.96s)]
+*  in great detail to try and figure out. I mean there are a lot of questions speaking to people [[00:09:57](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=597.2s)]
+*  today they say look this could be an issue related to poor maintenance, it could be a [[00:10:01](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=601.6s)]
+*  mechanical issue, it could be human error, there are a lot of variables and I think it's going to [[00:10:05](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=605.44s)]
+*  be certainly weeks before we get any answers and for so for now there are simply sort of more [[00:10:11](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=611.12s)]
+*  questions and I think that's why you're going to have so many people involved in this investigation [[00:10:17](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=617.12s)]
+*  but they will take time to kind of find out exactly what happened here. [[00:10:22](https://www.youtube.com/watch?v=9p4mx2CRzQw&t=622.96s)]
