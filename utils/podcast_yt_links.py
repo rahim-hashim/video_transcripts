@@ -25,6 +25,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLlTLHnxSVuIzrARlmz9oCfQEF08UV-v-E': 'Fox News - Tucker Carlson',
   'https://www.youtube.com/playlist?list=PLlTLHnxSVuIzX7sTHBIAEq2ISTvcmhvQJ': 'Fox News - Middle East',
   'https://www.youtube.com/playlist?list=PLlTLHnxSVuIwQgiGlIS9Fd2hUzh4oUqxz': 'Fox News - The Five',
+  'https://www.youtube.com/playlist?list=PLlTLHnxSVuIyCAx4TDbyonXJ_hEVPqT5J': 'Fox News - World News',
   'https://www.youtube.com/playlist?list=PLdMrbgYfVl-s16D_iT2BJCJ90pWtTO1A4': 'New York Times - The Daily',
   'https://www.youtube.com/playlist?list=PLdMrbgYfVl-szepgVpArP0obwYgbKdfvx': 'New York Times - Ezra Klein',
   'https://www.youtube.com/playlist?list=PL4n3AtGdRxJgywUZQYUk3k2-HXIQ_fIHE': 'New York Times - Ezra Klein',
