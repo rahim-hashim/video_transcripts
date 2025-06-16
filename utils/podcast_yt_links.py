@@ -102,4 +102,5 @@ podcast_channel_names = {
   'https://www.youtube.com/@judgingfreedom/videos':      'Andrew Napolitano - Judging Freedom',
   'https://www.youtube.com/@CurrentAffairsMag/videos' :  'Current Affairs - Nathan Robinson',
   'https://www.youtube.com/@TheDailyShow/videos':        'The Daily Show',
+  'https://www.youtube.com/@BannonsWarRoom-b6v/videos':  'Bannons War Room',
 }
