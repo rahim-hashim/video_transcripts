@@ -1,0 +1,136 @@
+---
+Date Generated: June 15, 2025
+Transcription Model: whisper medium 20231117
+Length: 344s
+Video Keywords: ['fnc', 'fox news', 'fox news channel', 'fox news media', 'fox news network', 'fox news today', 'israel strikes iran', 'middle east', 'israel iran war', 'world news', 'united nations', 'israel news', 'danny danon', 'benjamin netanyahu', 'iran attack israel', 'iran nuclear program', 'the big weekend show', 'politics']
+Video Views: 60902
+Video Rating: None
+Video Description: 'The Big Weekend Show' co-hosts and Israeli Ambassador to the U.N. Danny Danon discuss Israel's strikes against Iran's nuclear facilities. #foxnews #news #fox #israel #iran #conflict #middleeast #world #worldnews 
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre. 
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# Israeli ambassador to the UN warns of a ‘hot night’ in Israel
+**Fox News - World News:** [June 15, 2025](https://www.youtube.com/watch?v=vvjHe5Groug)
+*  Joining us now for tonight's big close-up is Israeli Ambassador to the United Nations, [[00:00:00](https://www.youtube.com/watch?v=vvjHe5Groug&t=0.0s)]
+*  Danny Danon. [[00:00:05](https://www.youtube.com/watch?v=vvjHe5Groug&t=5.28s)]
+*  Mr. Ambassador, thank you for being here. [[00:00:06](https://www.youtube.com/watch?v=vvjHe5Groug&t=6.28s)]
+*  Let's pick up where Peter left off. [[00:00:08](https://www.youtube.com/watch?v=vvjHe5Groug&t=8.44s)]
+*  What does Israel hope will be coming out of the G7 meeting, and what's next in this war [[00:00:10](https://www.youtube.com/watch?v=vvjHe5Groug&t=10.36s)]
+*  that seems to have started? [[00:00:17](https://www.youtube.com/watch?v=vvjHe5Groug&t=17.0s)]
+*  Thank you for having me. [[00:00:18](https://www.youtube.com/watch?v=vvjHe5Groug&t=18.64s)]
+*  You know, we expect moral clarity. [[00:00:19](https://www.youtube.com/watch?v=vvjHe5Groug&t=19.64s)]
+*  Moral clarity means that the world will understand that we are actually doing the dirty work [[00:00:21](https://www.youtube.com/watch?v=vvjHe5Groug&t=21.8s)]
+*  for the entire democracies all around the world. [[00:00:25](https://www.youtube.com/watch?v=vvjHe5Groug&t=25.76s)]
+*  For decades, Iran played around, that showed the path of deception, of lies. [[00:00:28](https://www.youtube.com/watch?v=vvjHe5Groug&t=28.8s)]
+*  And we decided that we are not taking the chances. [[00:00:33](https://www.youtube.com/watch?v=vvjHe5Groug&t=33.88s)]
+*  We believe the Iranians. [[00:00:35](https://www.youtube.com/watch?v=vvjHe5Groug&t=35.96s)]
+*  On Friday in the Security Council, I looked at the Iranian ambassador, and I told him, [[00:00:37](https://www.youtube.com/watch?v=vvjHe5Groug&t=37.480000000000004s)]
+*  I believe you. [[00:00:40](https://www.youtube.com/watch?v=vvjHe5Groug&t=40.92s)]
+*  When your leaders say that you want to exterminate the state of Israel, we believe you. [[00:00:42](https://www.youtube.com/watch?v=vvjHe5Groug&t=42.08s)]
+*  When you say you want to build a nuclear bomb, we believe you. [[00:00:46](https://www.youtube.com/watch?v=vvjHe5Groug&t=46.82s)]
+*  So we take it very seriously, the threat of Iran, and what we are doing now, we are eliminating [[00:00:49](https://www.youtube.com/watch?v=vvjHe5Groug&t=49.72s)]
+*  the risk for Israel, but not only for Israel. [[00:00:55](https://www.youtube.com/watch?v=vvjHe5Groug&t=55.36s)]
+*  Today, those ballistic missiles are flying into Tel Aviv and Jerusalem. [[00:00:57](https://www.youtube.com/watch?v=vvjHe5Groug&t=57.76s)]
+*  They can reach New York City and Miami. [[00:01:01](https://www.youtube.com/watch?v=vvjHe5Groug&t=61.599999999999994s)]
+*  Give them a few months, they will have the technology and the ability to do that. [[00:01:04](https://www.youtube.com/watch?v=vvjHe5Groug&t=64.03999999999999s)]
+*  So we are preventing Iran from building not only a nuclear bomb, they are actually building [[00:01:07](https://www.youtube.com/watch?v=vvjHe5Groug&t=67.56s)]
+*  a ballistic missile power which can compete with the U.S. and Russia combined. [[00:01:11](https://www.youtube.com/watch?v=vvjHe5Groug&t=71.88s)]
+*  That's what their intentions. [[00:01:17](https://www.youtube.com/watch?v=vvjHe5Groug&t=77.36s)]
+*  What we are doing now, we are blocking those ambitions. [[00:01:19](https://www.youtube.com/watch?v=vvjHe5Groug&t=79.03999999999999s)]
+*  Are you confident, though, that you're doing enough to make sure that Iran is isolated, [[00:01:22](https://www.youtube.com/watch?v=vvjHe5Groug&t=82.3s)]
+*  especially with the rest of the Middle East, that Iran is here and they're here alone? [[00:01:26](https://www.youtube.com/watch?v=vvjHe5Groug&t=86.72000000000001s)]
+*  Well, I speak with many friends from the Gulf area. [[00:01:30](https://www.youtube.com/watch?v=vvjHe5Groug&t=90.88000000000001s)]
+*  They will not say it publicly, but they are very happy to see what we are doing now. [[00:01:33](https://www.youtube.com/watch?v=vvjHe5Groug&t=93.80000000000001s)]
+*  They feel safer when they see our aircraft flying over Tehran and targeting those military [[00:01:37](https://www.youtube.com/watch?v=vvjHe5Groug&t=97.96000000000001s)]
+*  bases. [[00:01:44](https://www.youtube.com/watch?v=vvjHe5Groug&t=104.0s)]
+*  But look what happened yesterday. [[00:01:45](https://www.youtube.com/watch?v=vvjHe5Groug&t=105.0s)]
+*  We are targeting military bases, infrastructure of ballistic missiles and nuclear reactors, [[00:01:46](https://www.youtube.com/watch?v=vvjHe5Groug&t=106.42000000000002s)]
+*  and they are targeting our cities. [[00:01:51](https://www.youtube.com/watch?v=vvjHe5Groug&t=111.86000000000001s)]
+*  Unfortunately, last night was a very difficult night. [[00:01:54](https://www.youtube.com/watch?v=vvjHe5Groug&t=114.64s)]
+*  Ten people died because of those attacks. [[00:01:57](https://www.youtube.com/watch?v=vvjHe5Groug&t=117.48s)]
+*  And also tonight is going to be a hard night in Israel. [[00:01:59](https://www.youtube.com/watch?v=vvjHe5Groug&t=119.88000000000001s)]
+*  Ambassador, I want to ask you about the United Nations, because obviously you're the ambassador [[00:02:03](https://www.youtube.com/watch?v=vvjHe5Groug&t=123.04s)]
+*  to the United Nations. [[00:02:07](https://www.youtube.com/watch?v=vvjHe5Groug&t=127.36s)]
+*  And that body is criticized by many for being sympathizers of Hamas. [[00:02:09](https://www.youtube.com/watch?v=vvjHe5Groug&t=129.32s)]
+*  They certainly, United Nations, they don't shy away from criticizing Israel. [[00:02:14](https://www.youtube.com/watch?v=vvjHe5Groug&t=134.84s)]
+*  We have something for you to watch. [[00:02:18](https://www.youtube.com/watch?v=vvjHe5Groug&t=138.52s)]
+*  We'll get your reaction. [[00:02:19](https://www.youtube.com/watch?v=vvjHe5Groug&t=139.52s)]
+*  Israel today is supporting war crimes, crimes against humanity, and deliberate undermining [[00:02:22](https://www.youtube.com/watch?v=vvjHe5Groug&t=142.36s)]
+*  of global peace and security. [[00:02:30](https://www.youtube.com/watch?v=vvjHe5Groug&t=150.64000000000001s)]
+*  Dozens of children are dying of starvation. [[00:02:33](https://www.youtube.com/watch?v=vvjHe5Groug&t=153.12s)]
+*  The images of mothers embracing their motionless bodies, caressing their hair, talking to them, [[00:02:42](https://www.youtube.com/watch?v=vvjHe5Groug&t=162.64s)]
+*  apologizing to them. [[00:02:54](https://www.youtube.com/watch?v=vvjHe5Groug&t=174.79999999999998s)]
+*  Ambassador, we were taking a look at some of the resolutions coming out of the United [[00:03:05](https://www.youtube.com/watch?v=vvjHe5Groug&t=185.76s)]
+*  Nations just last year. [[00:03:09](https://www.youtube.com/watch?v=vvjHe5Groug&t=189.04s)]
+*  Seventeen condemning Israel, and collectively only six condemning the rest of the world, [[00:03:10](https://www.youtube.com/watch?v=vvjHe5Groug&t=190.92s)]
+*  including North Korea, Iran, Syria, and others. [[00:03:16](https://www.youtube.com/watch?v=vvjHe5Groug&t=196.88s)]
+*  So what kind of support do you think Israel can expect from the United Nations in this war? [[00:03:20](https://www.youtube.com/watch?v=vvjHe5Groug&t=200.16s)]
+*  Well, we saw a hypocrisy in action. [[00:03:25](https://www.youtube.com/watch?v=vvjHe5Groug&t=205.39999999999998s)]
+*  You know, October 7th happened 20 months ago. [[00:03:27](https://www.youtube.com/watch?v=vvjHe5Groug&t=207.32s)]
+*  The UN was not capable until today to pass one resolution condemning the atrocities of Hamas. [[00:03:30](https://www.youtube.com/watch?v=vvjHe5Groug&t=210.2s)]
+*  And this body was established 80 years ago after the Holocaust. [[00:03:36](https://www.youtube.com/watch?v=vvjHe5Groug&t=216.32s)]
+*  And they saw what happened. [[00:03:40](https://www.youtube.com/watch?v=vvjHe5Groug&t=220.04s)]
+*  They saw the footage of what happened to us on October 7th. [[00:03:41](https://www.youtube.com/watch?v=vvjHe5Groug&t=221.04s)]
+*  They were not capable to pass a resolution condemning Hamas. [[00:03:44](https://www.youtube.com/watch?v=vvjHe5Groug&t=224.07999999999998s)]
+*  It shows that you need leadership. [[00:03:47](https://www.youtube.com/watch?v=vvjHe5Groug&t=227.04s)]
+*  We are waiting for the new U.S. ambassador to come in very soon. [[00:03:49](https://www.youtube.com/watch?v=vvjHe5Groug&t=229.6s)]
+*  And I'm sure that together we will continue to fight back against the hypocrisy of the [[00:03:52](https://www.youtube.com/watch?v=vvjHe5Groug&t=232.79999999999998s)]
+*  UN. [[00:03:56](https://www.youtube.com/watch?v=vvjHe5Groug&t=236.56s)]
+*  Ambassador, follow up on Lydia's question. [[00:03:57](https://www.youtube.com/watch?v=vvjHe5Groug&t=237.56s)]
+*  Iran is taking out civilians. [[00:04:00](https://www.youtube.com/watch?v=vvjHe5Groug&t=240.76s)]
+*  Israel is taking out military leadership and military sites. [[00:04:03](https://www.youtube.com/watch?v=vvjHe5Groug&t=243.32s)]
+*  Inside Israel, Iran is seen as a multi-headed beast, an octopus. [[00:04:08](https://www.youtube.com/watch?v=vvjHe5Groug&t=248.04s)]
+*  Hamas is an arm. [[00:04:12](https://www.youtube.com/watch?v=vvjHe5Groug&t=252.04s)]
+*  Hezbollah is an arm. [[00:04:13](https://www.youtube.com/watch?v=vvjHe5Groug&t=253.28s)]
+*  The head is now fighting civilians in Israel. [[00:04:14](https://www.youtube.com/watch?v=vvjHe5Groug&t=254.35999999999999s)]
+*  How does the United Nations escape that reality? [[00:04:18](https://www.youtube.com/watch?v=vvjHe5Groug&t=258.52s)]
+*  Well, Doctor, you know, the UN, they tend to blame Israel for everything. [[00:04:22](https://www.youtube.com/watch?v=vvjHe5Groug&t=262.36s)]
+*  And that's what's happening now. [[00:04:28](https://www.youtube.com/watch?v=vvjHe5Groug&t=268.08s)]
+*  Instead of telling us, thank you very much for what you are doing now in Iran, taking [[00:04:29](https://www.youtube.com/watch?v=vvjHe5Groug&t=269.32s)]
+*  care of the threat that they are blaming us. [[00:04:34](https://www.youtube.com/watch?v=vvjHe5Groug&t=274.03999999999996s)]
+*  They put an equation between Iran and Israel. [[00:04:36](https://www.youtube.com/watch?v=vvjHe5Groug&t=276.47999999999996s)]
+*  And you cannot make that equation. [[00:04:39](https://www.youtube.com/watch?v=vvjHe5Groug&t=279.23999999999995s)]
+*  That's a false equation. [[00:04:40](https://www.youtube.com/watch?v=vvjHe5Groug&t=280.23999999999995s)]
+*  But we will continue. [[00:04:42](https://www.youtube.com/watch?v=vvjHe5Groug&t=282.44s)]
+*  We are determined to make sure that the threat will not be there. [[00:04:43](https://www.youtube.com/watch?v=vvjHe5Groug&t=283.44s)]
+*  Prime Minister Netanyahu took a very bold decision. [[00:04:46](https://www.youtube.com/watch?v=vvjHe5Groug&t=286.84s)]
+*  You know, it's not easy for a prime minister of a tiny country. [[00:04:48](https://www.youtube.com/watch?v=vvjHe5Groug&t=288.76s)]
+*  Look at Israel. [[00:04:52](https://www.youtube.com/watch?v=vvjHe5Groug&t=292.08s)]
+*  Nine million people. [[00:04:53](https://www.youtube.com/watch?v=vvjHe5Groug&t=293.08s)]
+*  In Iran, you have 90 million people. [[00:04:54](https://www.youtube.com/watch?v=vvjHe5Groug&t=294.08s)]
+*  Look at the map. [[00:04:55](https://www.youtube.com/watch?v=vvjHe5Groug&t=295.71999999999997s)]
+*  Iran is bigger than Israel by 70 times. [[00:04:56](https://www.youtube.com/watch?v=vvjHe5Groug&t=296.71999999999997s)]
+*  But still, we are very determined to make sure that we can live peacefully, even if [[00:05:00](https://www.youtube.com/watch?v=vvjHe5Groug&t=300.64s)]
+*  it means that now we are paying a heavy price. [[00:05:05](https://www.youtube.com/watch?v=vvjHe5Groug&t=305.12s)]
+*  Last question. [[00:05:07](https://www.youtube.com/watch?v=vvjHe5Groug&t=307.8s)]
+*  How does this end? [[00:05:08](https://www.youtube.com/watch?v=vvjHe5Groug&t=308.8s)]
+*  Well, I believe it will end without the threat of Iran. [[00:05:09](https://www.youtube.com/watch?v=vvjHe5Groug&t=309.8s)]
+*  You know, for decades, people spoke about it. [[00:05:13](https://www.youtube.com/watch?v=vvjHe5Groug&t=313.4s)]
+*  The UN had deliberations around it. [[00:05:15](https://www.youtube.com/watch?v=vvjHe5Groug&t=315.08s)]
+*  JCPOA was not successful at the end. [[00:05:17](https://www.youtube.com/watch?v=vvjHe5Groug&t=317.8s)]
+*  We all know what happened with that agreement. [[00:05:20](https://www.youtube.com/watch?v=vvjHe5Groug&t=320.24s)]
+*  At the end of the day, Iran will not have the nuclear capability. [[00:05:22](https://www.youtube.com/watch?v=vvjHe5Groug&t=322.2s)]
+*  Mr. Ambassador, thank you for being here. [[00:05:25](https://www.youtube.com/watch?v=vvjHe5Groug&t=325.32s)]
+*  Israeli Ambassador Danny Danan. [[00:05:27](https://www.youtube.com/watch?v=vvjHe5Groug&t=327.88s)]
+*  We appreciate your time. [[00:05:29](https://www.youtube.com/watch?v=vvjHe5Groug&t=329.32s)]
+*  Thank you. [[00:05:30](https://www.youtube.com/watch?v=vvjHe5Groug&t=330.32s)]
+*  Very insightful. [[00:05:31](https://www.youtube.com/watch?v=vvjHe5Groug&t=331.32s)]
+*  Thank you. [[00:05:32](https://www.youtube.com/watch?v=vvjHe5Groug&t=332.32s)]
+*  Hey, Sean Hannity here. [[00:05:33](https://www.youtube.com/watch?v=vvjHe5Groug&t=333.32s)]
+*  Hey, click here to subscribe to Fox News' YouTube page and catch our hottest interviews [[00:05:34](https://www.youtube.com/watch?v=vvjHe5Groug&t=334.32s)]
+*  and most compelling analysis. [[00:05:38](https://www.youtube.com/watch?v=vvjHe5Groug&t=338.08s)]
+*  You will not get it anywhere else. [[00:05:40](https://www.youtube.com/watch?v=vvjHe5Groug&t=340.15999999999997s)]
