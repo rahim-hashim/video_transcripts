@@ -1,0 +1,107 @@
+---
+Date Generated: June 16, 2025
+Transcription Model: whisper medium 20231117
+Length: 380s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 45819
+Video Rating: None
+Video Description: Israel says it has attacked Iranian state media buildings in Tehran.
+ 
+The air strikes were captured on live TV, with debris falling in the studio and a presenter heading off camera.
+ 
+The Israeli military earlier warned people in parts of Tehran's District 3 to leave as it was targeting "military infrastructure" in the area.
+ 
+Iranian state TV says a "number" of its staff were killed in the strikes.
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#Iran #Israel #BBCNews
+---
+
+# Debris falls in Iranian state TV studio during live broadcast as Israeli strikes continue | BBC News
+**BBC - The Latest:** [June 16, 2025](https://www.youtube.com/watch?v=LGDzWqIeXI8)
+*  Iranian state TV has been hit by an Israeli strike in the last few hours. [[00:00:00](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=0.0s)]
+*  Dramatic pictures. It caused the channel to go off air altogether. [[00:00:04](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=4.4s)]
+*  And in the last half hour, Iran has condemned that attack as a war crime. [[00:00:08](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=8.08s)]
+*  It came shortly after Israel issued an evacuation order for a large part of the Iranian capital, Tehran, [[00:00:12](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=12.0s)]
+*  saying it had plans to strike military infrastructure that would endanger the life of civilians in the area. [[00:00:17](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=17.52s)]
+*  It is the fourth day now of missile strikes between the two countries, [[00:00:22](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=22.8s)]
+*  which started early on Friday when Israel launched a series of surprise attacks, [[00:00:25](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=25.92s)]
+*  targeting nuclear sites and killing Iran's most senior military commanders. [[00:00:30](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=30.64s)]
+*  Now, Iran restricts access to the country for journalists, [[00:00:35](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=35.28s)]
+*  but BBC Verify has been using satellite imagery to confirm those attacks on both nuclear and military sites. [[00:00:38](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=38.160000000000004s)]
+*  So here are some of the locations where strikes have been carried out just in the last few days. [[00:00:45](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=45.2s)]
+*  This is a missile base in Bekhani. Compared with an older image, [[00:00:49](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=49.44s)]
+*  this satellite image taken yesterday clearly shows damage to the roof. [[00:00:53](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=53.519999999999996s)]
+*  And Isfahan is one of Iran's key nuclear sites. [[00:00:57](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=57.76s)]
+*  It was confirmed over the weekend that four critical buildings at this site were damaged, [[00:01:01](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=61.12s)]
+*  including the uranium conversion facility. [[00:01:05](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=65.6s)]
+*  On this satellite image, you can now see visible damage to the buildings there. [[00:01:08](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=68.24s)]
+*  Well, the BBC is not allowed to broadcast from inside Iran, [[00:01:12](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=72.88s)]
+*  but our colleagues at BBC Persian have been keeping across the situation. [[00:01:16](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=76.0s)]
+*  Faham Ghabadi has this report. [[00:01:19](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=79.75999999999999s)]
+*  Iranian state TV came under attack during its live coverage. [[00:01:23](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=83.84s)]
+*  Iran's capital has been under heavy bombardment in recent days. [[00:01:38](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=98.4s)]
+*  This is Tehran only a few hours ago. [[00:01:42](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=102.64s)]
+*  Many residents have tried to flee, especially after Israel [[00:01:47](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=107.03999999999999s)]
+*  asked people to evacuate areas near military facilities. [[00:01:51](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=111.04s)]
+*  But for many, escaping has proven impossible due to paralyzing traffic. [[00:01:55](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=115.12s)]
+*  One man inside Iran told us why he stayed behind. [[00:02:00](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=120.64s)]
+*  I gave up because of the heavy traffic. [[00:02:04](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=124.32000000000001s)]
+*  On the other hand, our entire building has been evacuated [[00:02:06](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=126.48s)]
+*  and someone needs to stay behind to look after the neighbors' belongings. [[00:02:09](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=129.44s)]
+*  Besides, smaller towns don't have the capacity to accommodate such a large population. [[00:02:13](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=133.04000000000002s)]
+*  But it's not just Tehran. [[00:02:18](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=138.56s)]
+*  Strikes are hitting almost every corner of Iran. [[00:02:21](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=141.67999999999998s)]
+*  This is a hospital in the western city of Kermanshah. [[00:02:25](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=145.04s)]
+*  Iran says Israel was behind the strike. [[00:02:28](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=148.48s)]
+*  A human rights group and local sources say a missile launcher was deployed nearby, [[00:02:31](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=151.28s)]
+*  and it may have been the real target. [[00:02:36](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=156.07999999999998s)]
+*  Either way, this is the reality of war. [[00:02:38](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=158.48s)]
+*  Civilians paying the highest price. [[00:02:41](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=161.35999999999999s)]
+*  The historic city of Isfahan was struck multiple times yesterday. [[00:02:43](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=163.52s)]
+*  And in the religious city of Mashhad, [[00:02:49](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=169.60000000000002s)]
+*  the Israeli military says it hit refueling aircraft at the airport, [[00:02:51](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=171.44s)]
+*  some 2,300 kilometers from its borders. [[00:02:56](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=176.16000000000003s)]
+*  Longest-range Israeli strike since the beginning of the conflict. [[00:02:59](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=179.60000000000002s)]
+*  Authorities in Iran say it's not only the fighter jets. [[00:03:04](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=184.96s)]
+*  Israel also has boots on the grounds. [[00:03:08](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=188.4s)]
+*  The most significant blows by the enemy are carried out by local spies. [[00:03:10](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=190.4s)]
+*  Iranian police say they've raided a drone workshop in southern Tehran. [[00:03:18](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=198.08s)]
+*  They say Israeli agents assemble drones inside the country [[00:03:22](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=202.08s)]
+*  and then load them onto pickup trucks to launch them from there. [[00:03:25](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=205.52s)]
+*  Iranians say there are no sirens and no shelters. [[00:03:31](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=211.12s)]
+*  Many feel they are trapped in a war they never chose after decades of repression. [[00:03:34](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=214.8s)]
+*  Parham Brabadi, BBC News. [[00:03:40](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=220.72s)]
+*  Well, here in Israel, Prime Minister Benjamin Netanyahu said the country is on the way [[00:03:44](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=224.32s)]
+*  to achieving victory, claiming that it has full aerial control over Tehran. [[00:03:48](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=228.64000000000001s)]
+*  Overnight, Iranian missiles penetrated Israel's air defenses, [[00:03:53](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=233.36s)]
+*  killing eight people in attacks in Tel Aviv, Haifa and other cities. [[00:03:57](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=237.04000000000002s)]
+*  Our Middle East correspondent Lucy Williamson has the latest from Tel Aviv. [[00:04:01](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=241.36s)]
+*  Israel started this war to make Israelis safer, it said. [[00:04:06](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=246.96s)]
+*  Seeing Iran's ballistic missiles as a separate existential threat. [[00:04:10](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=250.72s)]
+*  Last night, several slipped again through Israel's defenses. [[00:04:16](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=256.08s)]
+*  One landing right in the heart of Tel Aviv. [[00:04:21](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=261.6s)]
+*  The speed of Israel's offensive in Iran is fueled by the knowledge [[00:04:26](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=266.24s)]
+*  that this is what happens when a single missile lands. [[00:04:30](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=270.24s)]
+*  The bar Victoria opened here 25 years ago was a few meters from the impact site. [[00:04:34](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=274.15999999999997s)]
+*  Still in shock, she told me Israel needed to keep up its attacks. [[00:04:40](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=280.88s)]
+*  We need to finish this so it's final, she said, and not postpone it again for another few years. [[00:04:46](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=286.64s)]
+*  Are you scared? I asked her. Yes, very. [[00:04:52](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=292.71999999999997s)]
+*  At an air base today, Israel's Prime Minister praised their achievements. [[00:04:57](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=297.59999999999997s)]
+*  The military said it had destroyed a third of Iran's missile launchers. [[00:05:01](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=301.68s)]
+*  The Israeli air force is in control of the skies of Tehran. [[00:05:08](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=308.96000000000004s)]
+*  This is a change in the entire campaign. [[00:05:12](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=312.56s)]
+*  We are on the way to achieving both of our goals, [[00:05:15](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=315.36s)]
+*  the prevention of nuclear threat and the missile threat. [[00:05:18](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=318.40000000000003s)]
+*  But how much damage can Israel do to Iran's nuclear program, [[00:05:23](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=323.12s)]
+*  some of it buried deep underground in secret sites? [[00:05:26](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=326.96000000000004s)]
+*  We cannot delay it by more than two or three weeks. [[00:05:30](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=330.56s)]
+*  And to the best of my judgment, even the Americans cannot delay it for more than [[00:05:33](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=333.52000000000004s)]
+*  few months. And that's a sensitive issue. [[00:05:37](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=337.84000000000003s)]
+*  It means that if there is a determined, a serious intention to block Iran from turning [[00:05:41](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=341.76s)]
+*  into military nuclear power, the only way is to announce a full-scale war on the regime itself [[00:05:50](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=350.64s)]
+*  and carry it on until they are toppled down. [[00:05:58](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=358.96s)]
+*  Many Israelis remain firmly behind this war as casualties here begin to mount. [[00:06:02](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=362.71999999999997s)]
+*  Israel's army is now pushing hard on Iran's capital city [[00:06:08](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=368.4s)]
+*  without any sign of a clear end or exit plan. [[00:06:12](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=372.96s)]
+*  Lucy Williamson, BBC News, Tel Aviv. [[00:06:17](https://www.youtube.com/watch?v=LGDzWqIeXI8&t=377.2s)]
