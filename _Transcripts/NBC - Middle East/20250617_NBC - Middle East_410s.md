@@ -1,0 +1,120 @@
+---
+Date Generated: June 17, 2025
+Transcription Model: whisper medium 20231117
+Length: 410s
+Video Keywords: ['MSNBC']
+Video Views: 58019
+Video Rating: None
+Video Description: President Trump is calling for Iran's "unconditional surrender" amid an escalating conflict with Israel. Former Deputy National Security Advisor for the Obama Administration Ben Rhodes joins Chris Jansing to explain how dropping a bomb on Iran’s Fordo facility “puts the United States directly involved in offensive, preemptive war.”
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#TrumP #Israel #Iran
+---
+
+# Will Trump follow Israel into war? 'Bunker-buster bomb' drop would make U.S. 'directly involved'
+**NBC - Middle East:** [June 17, 2025](https://www.youtube.com/watch?v=8mHQJVFWQyk)
+*  Let me bring in in the meantime Ben Rhodes, former deputy national security adviser under [[00:00:00](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=0.0s)]
+*  President Obama and an MSNBC contributor. [[00:00:04](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=4.04s)]
+*  Ben, this is a critical moment. [[00:00:07](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=7.28s)]
+*  I don't think either side would disagree with that. [[00:00:08](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=8.96s)]
+*  On one hand, you have what Peter just said. [[00:00:12](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=12.76s)]
+*  You have a president who campaigned and whose position has long been that we stay out of [[00:00:14](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=14.36s)]
+*  conflicts like this. [[00:00:20](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=20.080000000000002s)]
+*  On the other hand, you have the conversations that are going on about Fordo. [[00:00:22](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=22.16s)]
+*  If a bunker buster bomb, which by the way, we should say Benjamin Netanyahu has wanted [[00:00:26](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=26.6s)]
+*  since, I don't know what, going back to the Bush administration and has always been told [[00:00:31](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=31.200000000000003s)]
+*  no, if that is on the table and if indeed it goes forward, how much of a game changer [[00:00:36](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=36.44s)]
+*  would that be? Not for Israel, just, but obviously for what the U.S. [[00:00:42](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=42.6s)]
+*  is willing to do in the world. [[00:00:49](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=49.16s)]
+*  Yeah, I mean, it'd be a massive game changer, Chris. [[00:00:52](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=52.36s)]
+*  I mean, we're already involved in some way. [[00:00:55](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=55.0s)]
+*  I mean, we're obviously helping support Israel to defend itself against Iran's reprisals. [[00:00:57](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=57.96s)]
+*  But the reality here is that dropping a gigantic bunker buster bomb on the Fordo facility [[00:01:05](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=65.12s)]
+*  puts the United States directly involved in offensive preemptive war against Iran, not [[00:01:11](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=71.76s)]
+*  just a war, but a war that was launched preemptively. [[00:01:18](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=78.44s)]
+*  And it raises all kinds of questions. [[00:01:21](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=81.08s)]
+*  What is the legal basis for this? [[00:01:24](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=84.80000000000001s)]
+*  And some Democratic senators have raised this. [[00:01:27](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=87.28s)]
+*  There's not really any legal authorization for Trump to be doing this. [[00:01:28](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=88.72s)]
+*  Now, he probably doesn't care about that, but the rest of the world does. [[00:01:31](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=91.80000000000001s)]
+*  What happens after this if it continues to escalate, if the Iranian regime falls, right? [[00:01:36](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=96.04s)]
+*  Because the Israeli government seems to be escalating towards potentially getting rid of [[00:01:42](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=102.08000000000001s)]
+*  that regime. What takes its place? [[00:01:46](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=106.84s)]
+*  And the last 25 years is full of examples of wars in the Middle East that seemed like [[00:01:49](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=109.0s)]
+*  they were going well at the beginning. [[00:01:55](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=115.44s)]
+*  But particularly if you have the regime fall, we've seen how messy that can get and how [[00:01:57](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=117.19999999999999s)]
+*  much worse that can get. [[00:02:02](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=122.47999999999999s)]
+*  So people don't seem to be thinking two or three moves ahead here, Chris, is what my [[00:02:04](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=124.24s)]
+*  concern is. And Trump, you know, when we used to game out what might happen, it was [[00:02:09](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=129.79999999999998s)]
+*  always a case that Prime Minister Netanyahu was going to want the United States to come into [[00:02:15](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=135.12s)]
+*  this war in part for this precise purpose of blowing up the Fordo facility, which Iran [[00:02:19](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=139.64000000000001s)]
+*  cannot do. The question is, though, once the United States is in this war, where does it [[00:02:24](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=144.92000000000002s)]
+*  go from there? [[00:02:29](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=149.44s)]
+*  Well, if you take the president's tweet at his word, which is that we have complete and [[00:02:31](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=151.0s)]
+*  total control of the skies over Iran and obviously Iran often portrayed as one of the [[00:02:34](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=154.92000000000002s)]
+*  world's most dangerous actors, but appears to be in a more weakened position right now. [[00:02:40](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=160.44s)]
+*  Does Israel have good military options that don't require a deeper U.S. [[00:02:46](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=166.04s)]
+*  involvement? Not if they really want to destroy that Fordo facility. [[00:02:51](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=171.6s)]
+*  It's buried deep underground. [[00:02:56](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=176.95999999999998s)]
+*  And I think the concern has been if the Iranians decide that, you know, they have no recourse [[00:02:58](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=178.51999999999998s)]
+*  for their own security except to try to dash out and weaponize and acquire enough material for [[00:03:03](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=183.67999999999998s)]
+*  a nuclear weapon that they might want to go deep underground, not just at Fordo, but [[00:03:08](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=188.8s)]
+*  maybe even at other places. [[00:03:13](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=193.36s)]
+*  And the reality is, absent this kind of weapon, the only way to otherwise for Israel to get [[00:03:14](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=194.68s)]
+*  at this facility is on the ground to go in themselves. [[00:03:20](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=200.84s)]
+*  They can't they can't blow it up with munitions. [[00:03:23](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=203.32000000000002s)]
+*  That's why the Iranians buried it deep underground. [[00:03:25](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=205.4s)]
+*  So their option is for the United States to do this or for the United States to somehow [[00:03:28](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=208.96s)]
+*  provide them with these weapons to do it, which basically puts us in it in a different kind [[00:03:33](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=213.52s)]
+*  of way. And again, just to voice some caution here, Chris, and we had total dominance over [[00:03:38](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=218.68s)]
+*  the skies of Iraq. We had total dominance over the skies of Afghanistan. [[00:03:44](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=224.88s)]
+*  We told dominance over the skies of Libya. [[00:03:48](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=228.64000000000001s)]
+*  And those consequences negatively didn't manifest for a while, but they did. [[00:03:50](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=230.72s)]
+*  And that's what Donald Trump's been talking about on his campaigns. [[00:03:54](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=234.6s)]
+*  The last three presidential campaigns, he wouldn't do precisely this action because we've [[00:03:58](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=238.4s)]
+*  seen how that turned out in the past. [[00:04:03](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=243.92000000000002s)]
+*  So obviously, Israel sees this as an opportunity. [[00:04:05](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=245.68s)]
+*  They've knocked out their defenses. [[00:04:09](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=249.28s)]
+*  They've taken a bunch of shots at Iranian leadership at Iranian nuclear and military [[00:04:10](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=250.68s)]
+*  facilities. Now they really want to finish what they see as finishing the job against the [[00:04:15](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=255.12s)]
+*  existing current Iranian nuclear program. [[00:04:20](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=260.08s)]
+*  And the ball is in Donald Trump's court here. [[00:04:23](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=263.8s)]
+*  Is he going to follow them into this offensive war with unpredictable consequences that will [[00:04:26](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=266.04s)]
+*  come after whatever takes place here? [[00:04:32](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=272.4s)]
+*  Or is he going to try to pull back and strike some deal with the Iranians to to bring an end [[00:04:35](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=275.96s)]
+*  to this, at least for the time being? [[00:04:41](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=281.48s)]
+*  And I should say in the Middle East, it will only be for the time being. [[00:04:44](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=284.44s)]
+*  And really, this is a pretty huge decision he's got on his plate. [[00:04:47](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=287.71999999999997s)]
+*  Well, what is the fact that the president felt he had to leave the G7, come back to the [[00:04:52](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=292.24s)]
+*  U.S., tell you about the nature of this moment, Trump's approach to it? [[00:04:57](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=297.44s)]
+*  Would it have been helpful, for example, to stay with other world leaders, work through this [[00:05:02](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=302.16s)]
+*  next stage together? [[00:05:06](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=306.64s)]
+*  I think it tells you a lot, Chris, because, yeah, normally it actually be seen as convenient [[00:05:08](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=308.72s)]
+*  to have the G7 together. [[00:05:13](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=313.8s)]
+*  You know, you'd want to sit with your allies and plan out, well, what what what happens if [[00:05:15](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=315.16s)]
+*  we do this or what happens to support diplomacy? [[00:05:20](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=320.32s)]
+*  Either course of action would benefit from those allies who are around that table. [[00:05:23](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=323.0s)]
+*  And a part of whatever played is that the United States chooses to run here. [[00:05:29](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=329.28000000000003s)]
+*  So what it tells you is that Donald Trump doesn't care about allies, that he doesn't really [[00:05:33](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=333.2s)]
+*  want them at the table. [[00:05:37](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=337.36s)]
+*  He doesn't want them involved in his decisions, that this will be a decision made with his [[00:05:39](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=339.0s)]
+*  advisors and with Prime Minister Netanyahu. [[00:05:43](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=343.36s)]
+*  And that is I mean, we've seen a lot of things that are different from the past, Chris. [[00:05:45](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=345.88s)]
+*  I mean, successive American presidents have cautioned against precisely this military [[00:05:49](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=349.76s)]
+*  action that we're seeing unfold in Iran, including Donald Trump, by the way, during his first [[00:05:55](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=355.20000000000005s)]
+*  term, when he didn't take this action, even after Iran fired ballistic missiles at U.S. [[00:05:59](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=359.48s)]
+*  service members in Iraq in response to the assassination of the Iranian Revolutionary [[00:06:05](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=365.88000000000005s)]
+*  Guard commander. So what it tells you is he's going to do this unilaterally. [[00:06:10](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=370.32000000000005s)]
+*  With a very small circle of advisors in the White House, and he's going to do this in [[00:06:16](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=376.32000000000005s)]
+*  consultation with Bibi Netanyahu and not with the traditional American allies that you [[00:06:20](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=380.48s)]
+*  would want to consult with before taking this step. [[00:06:25](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=385.20000000000005s)]
+*  Ben Rhodes, thank you so much. [[00:06:28](https://www.youtube.com/watch?v=8mHQJVFWQyk&t=388.76s)]
