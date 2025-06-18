@@ -1,0 +1,138 @@
+---
+Date Generated: June 18, 2025
+Transcription Model: whisper medium 20231117
+Length: 442s
+Video Keywords: ['donald trump', 'israel news', 'iran israel war news today', 'trump iran', 'iran news', 'iran israel', 'israel news today', 'middle east', 'breaking news', 'world news', 'fox news', 'israel iran', 'fox news media', 'fox news channel', 'fox news network', 'iran', 'iran supreme leader', 'trump iran news', 'trump iran warning', 'trump iran nuclear deal', 'nuclear weapons', 'iran nuclear deal', 'iran nuclear weapons', 'iran nuclear facility', 'ayatollah khamenei', 'ayatollah khomeini', 'ayatollah ali khamenei', 'ayatollah']
+Video Views: 228199
+Video Rating: None
+Video Description: Fox News' Bill Hemmer breaks down Iran's weapons capabilities as it continues to trade strikes with Israel. Former George W. Bush foreign policy advisor Dan Senor also weighs in on the escalation as the Trump administration weighs involvement. #foxnews #trump #iran #israel #world 
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# This is the best shot Trump has to end the Iranian threat, expert reveals
+**Fox News - World News:** [June 18, 2025](https://www.youtube.com/watch?v=B9C0POf9ypw)
+*  Certainly are. Jillian, here is the state of play right now on the board behind me. [[00:00:00](https://www.youtube.com/watch?v=B9C0POf9ypw&t=0.0s)]
+*  This is Iran's ballistic missile estimations. [[00:00:04](https://www.youtube.com/watch?v=B9C0POf9ypw&t=4.0s)]
+*  This is essentially what the regime has to fight at the moment. [[00:00:07](https://www.youtube.com/watch?v=B9C0POf9ypw&t=7.0s)]
+*  About 3,000 total capacity, of which anywhere between 1,000 to 2,000, [[00:00:11](https://www.youtube.com/watch?v=B9C0POf9ypw&t=11.0s)]
+*  have the ability to travel the distance from Tehran to Tel Aviv. [[00:00:16](https://www.youtube.com/watch?v=B9C0POf9ypw&t=16.0s)]
+*  And that's very significant, as we can show through the map here, okay? [[00:00:19](https://www.youtube.com/watch?v=B9C0POf9ypw&t=19.0s)]
+*  Tehran to Israel, Tel Aviv, let's say, is about 1,000 miles, okay? [[00:00:23](https://www.youtube.com/watch?v=B9C0POf9ypw&t=23.0s)]
+*  So not the entire ballistic missile arsenal can get there. [[00:00:29](https://www.youtube.com/watch?v=B9C0POf9ypw&t=29.0s)]
+*  So the Iranians have a decision to make depending on how many can travel this distance, [[00:00:33](https://www.youtube.com/watch?v=B9C0POf9ypw&t=33.0s)]
+*  1,000 miles from Tehran. [[00:00:38](https://www.youtube.com/watch?v=B9C0POf9ypw&t=38.0s)]
+*  In addition now, you have at least 400 that have been fired. [[00:00:41](https://www.youtube.com/watch?v=B9C0POf9ypw&t=41.0s)]
+*  Some estimates say about 450 thus far. [[00:00:45](https://www.youtube.com/watch?v=B9C0POf9ypw&t=45.0s)]
+*  So the Iranian leadership and the military have these decisions to make [[00:00:48](https://www.youtube.com/watch?v=B9C0POf9ypw&t=48.0s)]
+*  as to how long they want to go with this ballistic missile supply. [[00:00:51](https://www.youtube.com/watch?v=B9C0POf9ypw&t=51.0s)]
+*  Also, you've got, according to the IDF, 120 missile launchers that have been taken out. [[00:00:55](https://www.youtube.com/watch?v=B9C0POf9ypw&t=55.0s)]
+*  That is critical if you cannot have the capacity to deliver the missiles toward Iran [[00:01:00](https://www.youtube.com/watch?v=B9C0POf9ypw&t=60.0s)]
+*  and affect the damage on the ground. [[00:01:06](https://www.youtube.com/watch?v=B9C0POf9ypw&t=66.0s)]
+*  Talked about Iran yesterday. [[00:01:08](https://www.youtube.com/watch?v=B9C0POf9ypw&t=68.0s)]
+*  Borders closed with Azerbaijan, borders closed down here with Pakistan. [[00:01:10](https://www.youtube.com/watch?v=B9C0POf9ypw&t=70.0s)]
+*  The airspace is closed as well. [[00:01:14](https://www.youtube.com/watch?v=B9C0POf9ypw&t=74.0s)]
+*  Iran is a massive country. [[00:01:16](https://www.youtube.com/watch?v=B9C0POf9ypw&t=76.0s)]
+*  It's about the size of Alaska. [[00:01:18](https://www.youtube.com/watch?v=B9C0POf9ypw&t=78.0s)]
+*  It's about two times the state of Texas. [[00:01:20](https://www.youtube.com/watch?v=B9C0POf9ypw&t=80.0s)]
+*  You could put 75 Israels inside of Iran, a country of 90 million people. [[00:01:22](https://www.youtube.com/watch?v=B9C0POf9ypw&t=82.0s)]
+*  Tehran's got about 9, 10 million, plus another 8 to 9 million in the metropolitan area of Tehran. [[00:01:28](https://www.youtube.com/watch?v=B9C0POf9ypw&t=88.0s)]
+*  It's highly dense, it's populated, and it's very large. [[00:01:35](https://www.youtube.com/watch?v=B9C0POf9ypw&t=95.0s)]
+*  A big challenge for the Israelis and perhaps the U.S. as well. [[00:01:39](https://www.youtube.com/watch?v=B9C0POf9ypw&t=99.0s)]
+*  One key significant factor we've noticed over the past six days. [[00:01:43](https://www.youtube.com/watch?v=B9C0POf9ypw&t=103.0s)]
+*  Who was supporting Iran? [[00:01:48](https://www.youtube.com/watch?v=B9C0POf9ypw&t=108.0s)]
+*  Well, here are the headlines now from the Jerusalem Post. [[00:01:50](https://www.youtube.com/watch?v=B9C0POf9ypw&t=110.0s)]
+*  Iran remains isolated five days into the strikes. [[00:01:52](https://www.youtube.com/watch?v=B9C0POf9ypw&t=112.0s)]
+*  New York Times, despite close ties with Iran, Russia stands aside as Israel attacks. [[00:01:56](https://www.youtube.com/watch?v=B9C0POf9ypw&t=116.0s)]
+*  In addition to that, what's Beijing doing, right? [[00:02:02](https://www.youtube.com/watch?v=B9C0POf9ypw&t=122.0s)]
+*  China sides with Tehran but wields little influence in the Iran-Israeli war, [[00:02:05](https://www.youtube.com/watch?v=B9C0POf9ypw&t=125.0s)]
+*  which shows you how isolated this regime has become. [[00:02:09](https://www.youtube.com/watch?v=B9C0POf9ypw&t=129.0s)]
+*  I'm going to move over here for a second. [[00:02:13](https://www.youtube.com/watch?v=B9C0POf9ypw&t=133.0s)]
+*  Jimmy D'Ancino is the former foreign policy advisor for President Bush. [[00:02:15](https://www.youtube.com/watch?v=B9C0POf9ypw&t=135.0s)]
+*  Got a great podcast too, called me back. [[00:02:19](https://www.youtube.com/watch?v=B9C0POf9ypw&t=139.0s)]
+*  And Dan, good morning to you. [[00:02:21](https://www.youtube.com/watch?v=B9C0POf9ypw&t=141.0s)]
+*  Good to be with you, Bill. [[00:02:23](https://www.youtube.com/watch?v=B9C0POf9ypw&t=143.0s)]
+*  Welcome to our coverage here. [[00:02:24](https://www.youtube.com/watch?v=B9C0POf9ypw&t=144.0s)]
+*  This comes from the Institute for the Study of War. [[00:02:25](https://www.youtube.com/watch?v=B9C0POf9ypw&t=145.0s)]
+*  Jack Keene and others, they write this. [[00:02:28](https://www.youtube.com/watch?v=B9C0POf9ypw&t=148.0s)]
+*  Iran has used significantly fewer munitions in its response to Israel than originally planned [[00:02:30](https://www.youtube.com/watch?v=B9C0POf9ypw&t=150.0s)]
+*  because the IDF destroyed and damaged missile launchers and silos that Iran planned to use to retaliate against Israel. [[00:02:36](https://www.youtube.com/watch?v=B9C0POf9ypw&t=156.0s)]
+*  We are on day six. [[00:02:43](https://www.youtube.com/watch?v=B9C0POf9ypw&t=163.0s)]
+*  Can Israel manage this alone? [[00:02:45](https://www.youtube.com/watch?v=B9C0POf9ypw&t=165.0s)]
+*  Israel can manage the defense of Israel alone. [[00:02:48](https://www.youtube.com/watch?v=B9C0POf9ypw&t=168.0s)]
+*  Israel can continue to do serious damage to Iran's military assets, its military leadership, [[00:02:52](https://www.youtube.com/watch?v=B9C0POf9ypw&t=172.0s)]
+*  and its nuclear program, with the exception of Fordow. [[00:02:58](https://www.youtube.com/watch?v=B9C0POf9ypw&t=178.0s)]
+*  That is the big question mark. [[00:03:02](https://www.youtube.com/watch?v=B9C0POf9ypw&t=182.0s)]
+*  Fordow, as you know, is this enrichment capability or asset that's deep-hunkered down into bunkers, basically, [[00:03:04](https://www.youtube.com/watch?v=B9C0POf9ypw&t=184.0s)]
+*  very hard to access. [[00:03:12](https://www.youtube.com/watch?v=B9C0POf9ypw&t=192.0s)]
+*  And it's, I mean, the Israelis say they have some capabilities that could tackle Fordow. [[00:03:14](https://www.youtube.com/watch?v=B9C0POf9ypw&t=194.0s)]
+*  They've done Natanz. [[00:03:19](https://www.youtube.com/watch?v=B9C0POf9ypw&t=199.0s)]
+*  The question is, can they do Fordow? [[00:03:21](https://www.youtube.com/watch?v=B9C0POf9ypw&t=201.0s)]
+*  They say they have capabilities to do Fordow. [[00:03:23](https://www.youtube.com/watch?v=B9C0POf9ypw&t=203.0s)]
+*  The Americans, the U.S. definitely has the capacity to do Fordow. [[00:03:25](https://www.youtube.com/watch?v=B9C0POf9ypw&t=205.0s)]
+*  I think Israel's capabilities are probably there, but they will be messy and they will take longer. [[00:03:29](https://www.youtube.com/watch?v=B9C0POf9ypw&t=209.0s)]
+*  And I think the U.S., if the U.S. participated in some way, would be a much cleaner shot. [[00:03:34](https://www.youtube.com/watch?v=B9C0POf9ypw&t=214.0s)]
+*  So we've heard a lot from the president so far today. [[00:03:38](https://www.youtube.com/watch?v=B9C0POf9ypw&t=218.0s)]
+*  I think it was yesterday when he said unconditional surrender, or perhaps that was Monday. [[00:03:41](https://www.youtube.com/watch?v=B9C0POf9ypw&t=221.0s)]
+*  Things are running together. [[00:03:45](https://www.youtube.com/watch?v=B9C0POf9ypw&t=225.0s)]
+*  But significant that J.D. Vance said this yesterday. [[00:03:47](https://www.youtube.com/watch?v=B9C0POf9ypw&t=227.0s)]
+*  People are right to be worried about foreign entanglement after the last 25 years of idiotic foreign policy. [[00:03:49](https://www.youtube.com/watch?v=B9C0POf9ypw&t=229.0s)]
+*  But I believe the president has earned some trust on this issue. [[00:03:55](https://www.youtube.com/watch?v=B9C0POf9ypw&t=235.0s)]
+*  He's only interested in using the American military to accomplish American people's goals. [[00:03:58](https://www.youtube.com/watch?v=B9C0POf9ypw&t=238.0s)]
+*  Is the administration getting warmer to the possibility of war? [[00:04:04](https://www.youtube.com/watch?v=B9C0POf9ypw&t=244.0s)]
+*  Yes. [[00:04:08](https://www.youtube.com/watch?v=B9C0POf9ypw&t=248.0s)]
+*  Well, they've already gotten warm to the possibility of war because there is a war going on that the U.S. supports. [[00:04:09](https://www.youtube.com/watch?v=B9C0POf9ypw&t=249.0s)]
+*  The only question is, as one Republican U.S. senator put it to me the other day, who has been talking to President Trump, [[00:04:15](https://www.youtube.com/watch?v=B9C0POf9ypw&t=255.0s)]
+*  he said, to finish this off, Israel has done all the difficult, dirty work. [[00:04:20](https://www.youtube.com/watch?v=B9C0POf9ypw&t=260.0s)]
+*  It has cleared the path now for the U.S. to come in the end and finish it off. [[00:04:24](https://www.youtube.com/watch?v=B9C0POf9ypw&t=264.0s)]
+*  Israel could probably finish it off, as I said earlier, which is, again, Fordow. [[00:04:28](https://www.youtube.com/watch?v=B9C0POf9ypw&t=268.0s)]
+*  But he said Israel's chance of success, doing it on its own, is much lower. [[00:04:32](https://www.youtube.com/watch?v=B9C0POf9ypw&t=272.0s)]
+*  If the U.S. finishes it off, the success rate is 90% plus. [[00:04:37](https://www.youtube.com/watch?v=B9C0POf9ypw&t=277.0s)]
+*  So on that, what is the calculation on behalf of the commander in chief if this does not go as planned, [[00:04:41](https://www.youtube.com/watch?v=B9C0POf9ypw&t=281.0s)]
+*  if it goes sideways, not just in Iran, but our military installations throughout the Middle East [[00:04:48](https://www.youtube.com/watch?v=B9C0POf9ypw&t=288.0s)]
+*  or perhaps Americans who are living abroad or even here at home? [[00:04:54](https://www.youtube.com/watch?v=B9C0POf9ypw&t=294.0s)]
+*  Keep in mind, we had how many millions of people walk across that border for four years. [[00:04:58](https://www.youtube.com/watch?v=B9C0POf9ypw&t=298.0s)]
+*  I think the big question for the president is, if this doesn't wrap up cleanly and soon, [[00:05:04](https://www.youtube.com/watch?v=B9C0POf9ypw&t=304.0s)]
+*  you will have this war dragging on. [[00:05:12](https://www.youtube.com/watch?v=B9C0POf9ypw&t=312.0s)]
+*  Israel is not going to pull back and presumably Iran is not going to pull back. [[00:05:15](https://www.youtube.com/watch?v=B9C0POf9ypw&t=315.0s)]
+*  What does that look like? What does that look like to Israel? [[00:05:19](https://www.youtube.com/watch?v=B9C0POf9ypw&t=319.0s)]
+*  What does it look like to Iran? And what does it look like to the region? [[00:05:21](https://www.youtube.com/watch?v=B9C0POf9ypw&t=321.0s)]
+*  A. B. Never forget that Iran has been a threat to the United States and the West for decades. [[00:05:23](https://www.youtube.com/watch?v=B9C0POf9ypw&t=323.0s)]
+*  I mean, literally, after al-Qaeda, you can't think of a bigger source of terrorism. [[00:05:32](https://www.youtube.com/watch?v=B9C0POf9ypw&t=332.0s)]
+*  You can't think of an entity or a country that has more American blood on its hands than Iran. [[00:05:36](https://www.youtube.com/watch?v=B9C0POf9ypw&t=336.0s)]
+*  American military, I saw it firsthand in Iraq where they were killed by terrorists supported by Iran, [[00:05:41](https://www.youtube.com/watch?v=B9C0POf9ypw&t=341.0s)]
+*  directly by the Iranian military. [[00:05:47](https://www.youtube.com/watch?v=B9C0POf9ypw&t=347.0s)]
+*  They run rabid all over the world, threatening American interests. [[00:05:49](https://www.youtube.com/watch?v=B9C0POf9ypw&t=349.0s)]
+*  So this is the best shot President Trump has since the revolution in 1979 to put the Iranian threat away. [[00:05:54](https://www.youtube.com/watch?v=B9C0POf9ypw&t=354.0s)]
+*  He would be the president that makes this thing go away. [[00:06:02](https://www.youtube.com/watch?v=B9C0POf9ypw&t=362.0s)]
+*  If he did, the man would deserve the Nobel Peace Prize. [[00:06:04](https://www.youtube.com/watch?v=B9C0POf9ypw&t=364.0s)]
+*  Last question. The Supreme Leader was out three hours ago. [[00:06:07](https://www.youtube.com/watch?v=B9C0POf9ypw&t=367.0s)]
+*  He rejected surrender. He rejected unconditional surrender, whatever the phrase was at the time. [[00:06:11](https://www.youtube.com/watch?v=B9C0POf9ypw&t=371.0s)]
+*  What cards does he have today? [[00:06:17](https://www.youtube.com/watch?v=B9C0POf9ypw&t=377.0s)]
+*  I don't think he has many. [[00:06:21](https://www.youtube.com/watch?v=B9C0POf9ypw&t=381.0s)]
+*  On my podcast this morning, I interviewed an expert who's lived in Iran, who's Kareem Sajipour, who's an expert on Iran. [[00:06:24](https://www.youtube.com/watch?v=B9C0POf9ypw&t=384.0s)]
+*  He says he can't think of many cards, any cards Iran has right now. [[00:06:31](https://www.youtube.com/watch?v=B9C0POf9ypw&t=391.0s)]
+*  And the problem is with the Supreme Leader is he's old, he's dug in, he's deeply ideological, and he's really uncompromising. [[00:06:35](https://www.youtube.com/watch?v=B9C0POf9ypw&t=395.0s)]
+*  The Iran deal he did in 2015 with Obama, which was an enormously generous deal to Iran, [[00:06:42](https://www.youtube.com/watch?v=B9C0POf9ypw&t=402.0s)]
+*  was considered by him a massive capitulation. [[00:06:48](https://www.youtube.com/watch?v=B9C0POf9ypw&t=408.0s)]
+*  This is not a man who wants to make real concessions. [[00:06:51](https://www.youtube.com/watch?v=B9C0POf9ypw&t=411.0s)]
+*  So unfortunately Iran does not have many cards right now. [[00:06:54](https://www.youtube.com/watch?v=B9C0POf9ypw&t=414.0s)]
+*  And for the Iranian people, what's tragic is they have a leader who's in his 80s and does not seem to be prepared to change his ways. [[00:06:58](https://www.youtube.com/watch?v=B9C0POf9ypw&t=418.0s)]
+*  Day six and we push you on. Dan, it's great to get your analysis today. [[00:07:06](https://www.youtube.com/watch?v=B9C0POf9ypw&t=426.0s)]
+*  Thank you. [[00:07:09](https://www.youtube.com/watch?v=B9C0POf9ypw&t=429.0s)]
+*  Dan Sienawer, thanks. [[00:07:10](https://www.youtube.com/watch?v=B9C0POf9ypw&t=430.0s)]
+*  Thanks. [[00:07:11](https://www.youtube.com/watch?v=B9C0POf9ypw&t=431.0s)]
+*  The most modest interviews and most compelling analysis. [[00:07:18](https://www.youtube.com/watch?v=B9C0POf9ypw&t=438.0s)]

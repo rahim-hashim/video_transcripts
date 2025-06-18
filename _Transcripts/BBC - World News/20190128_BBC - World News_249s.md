@@ -1,0 +1,80 @@
+---
+Date Generated: June 18, 2025
+Transcription Model: whisper medium 20231117
+Length: 249s
+Video Keywords: ['bbc', 'bbc news', 'news', 'The secret language politicians', 'The secret language', 'secret language', 'Politicians', 'manipulate', 'manipulate people', 'political message']
+Video Views: 97790
+Video Rating: None
+Video Description: Politicians are using coded language to "manipulate people" into making decisions they wouldn't normally be "morally comfortable with," a political language expert has told the BBC.
+This kind of political message – which only a particular target audience is meant to understand – is known as a "dog whistle," Professor Jennifer says.
+Some have claimed these tactics were used to make people think Barack Obama was a foreigner. Others said UKIP's "Breaking Point" poster was a racist dog whistle.
+So how does it work?
+Please subscribe HERE http://bit.ly/1rbfUog
+---
+
+# The secret language politicians are using - BBC News
+**BBC - World News:** [January 28, 2019](https://www.youtube.com/watch?v=W7P3yFJ-DGM)
+*  It's a major way that politicians are manipulating people into doing something that, [[00:00:00](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=0.0s)]
+*  if they're fully conscious of it, they wouldn't be morally comfortable with. [[00:00:05](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=5.8s)]
+*  What do these things have in common? [[00:00:09](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=9.6s)]
+*  They've all been labelled a dog whistle, [[00:00:12](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=12.200000000000001s)]
+*  an image or phrase with a hidden meaning only certain people are supposed to pick up on. [[00:00:15](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=15.200000000000001s)]
+*  It's pretty much always linked to race, but like a dog whistle, most people won't hear it. [[00:00:20](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=20.2s)]
+*  Antonio Delgado claims he's like us. [[00:00:25](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=25.8s)]
+*  Accusations of dog whistle tactics blighted the 2018 US midterm elections. [[00:00:28](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=28.4s)]
+*  People didn't fail to notice how this Republican advert described Antonio Delgado, [[00:00:33](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=33.6s)]
+*  a black Rhodes scholar and Harvard graduate. [[00:00:38](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=38.2s)]
+*  Big city rapper Antonio Delgado. [[00:00:40](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=40.6s)]
+*  The rapper part was true and the reason they're repeating it over and over again [[00:00:43](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=43.2s)]
+*  is they can say that without saying, he's black. [[00:00:46](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=46.8s)]
+*  Big city rapper is meant to conjure up associations of blackness and criminality. [[00:00:49](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=49.8s)]
+*  And this is nothing new. [[00:00:56](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=56.4s)]
+*  Both Republicans and Democrats seem to have a track record of depicting Obama as something of a foreigner, [[00:00:57](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=57.8s)]
+*  whether talking about his supposed native clothing. [[00:01:03](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=63.599999999999994s)]
+*  I have no shame or no problem with people looking at Barack Obama in his native clothing. [[00:01:07](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=67.0s)]
+*  Or simply pronouncing his full name. [[00:01:13](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=73.39999999999999s)]
+*  Barack Hussein Obama. [[00:01:15](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=75.6s)]
+*  Barack Hussein Obama. [[00:01:17](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=77.0s)]
+*  Barack Hussein Obama. [[00:01:18](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=78.2s)]
+*  I think it was meant to trigger associations of foreignness, non-whiteness, muslimness, [[00:01:20](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=80.4s)]
+*  and association with Saddam Hussein. [[00:01:27](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=87.80000000000001s)]
+*  So where did this tactic come from? [[00:01:29](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=89.80000000000001s)]
+*  It used to be, before the civil rights movement in the US, that politicians could appeal quite openly to voters' racism [[00:01:31](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=91.60000000000001s)]
+*  and say, you know, vote for me because I support segregation of the races. [[00:01:38](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=98.60000000000001s)]
+*  After the civil rights movement, that became unacceptable. [[00:01:42](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=102.0s)]
+*  So they started using language which was acceptable, but which sent the same message. [[00:01:45](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=105.4s)]
+*  And there was one political strategist who took dog whistling to an art form. [[00:01:50](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=110.80000000000001s)]
+*  Lee Atwater was the master of the dog whistle. [[00:01:55](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=115.60000000000001s)]
+*  Atwater's work supporting Bush's 1988 presidential bid led to an advert so infamous [[00:01:58](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=118.4s)]
+*  that even today it casts a shadow over the president's legacy. [[00:02:04](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=124.2s)]
+*  Willie Horton, who murdered a boy in a robbery, stabbing him 19 times. [[00:02:08](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=128.0s)]
+*  Despite a life sentence, Horton received 10 weekend passes from prison. [[00:02:12](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=132.39999999999998s)]
+*  Horton fled, kidnapped a young couple, stabbing the man and repeatedly raping his girlfriend. [[00:02:17](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=137.0s)]
+*  Weekend prison passes. [[00:02:22](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=142.0s)]
+*  Dukakis on crime. [[00:02:23](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=143.79999999999998s)]
+*  It's now taken as a paradigm case of dog whistle politics, but at the time people really thought this idea. [[00:02:25](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=145.2s)]
+*  You can perhaps imagine why they did. [[00:02:30](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=150.6s)]
+*  This was, after all, a true story. [[00:02:32](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=152.6s)]
+*  So what makes the advert a dog whistle? [[00:02:35](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=155.0s)]
+*  Showing his face, of course, because he was very clearly black. [[00:02:37](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=157.2s)]
+*  But also, I think, shortening his name from William to Willie to make it sound more stereotypically black. [[00:02:41](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=161.0s)]
+*  Those things, working together with the crimes that he committed, [[00:02:47](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=167.0s)]
+*  serve to trigger very negative racial attitudes. [[00:02:50](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=170.4s)]
+*  Politics in the UK hasn't been free of dog whistle accusations either. [[00:02:54](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=174.4s)]
+*  The 2005 Tory election campaign famously came under fire for the implicit messaging [[00:02:58](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=178.6s)]
+*  on their Are You Thinking What We're Thinking? posters. [[00:03:03](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=183.8s)]
+*  And speaking of posters… [[00:03:07](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=187.0s)]
+*  It's meant to work quite clearly as a dog whistle and play upon people's racial fears. [[00:03:08](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=188.6s)]
+*  But again, you could argue, as did Nigel Farage, that it reflects a truth. [[00:03:14](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=194.79999999999998s)]
+*  And it's about immigration, not race. [[00:03:19](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=199.6s)]
+*  It doesn't say anything racial. [[00:03:22](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=202.0s)]
+*  There's no singling out of any particular race. [[00:03:25](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=205.4s)]
+*  There's deniability. [[00:03:28](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=208.2s)]
+*  You can insist that this is not racist because it's not saying anything about people of colour. [[00:03:29](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=209.2s)]
+*  But there's a white box on the poster that covers the one white face in the original photograph. [[00:03:35](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=215.6s)]
+*  I think it's a nice example showing that probably this was very deliberate. [[00:03:43](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=223.0s)]
+*  What can we do then about dog whistle politics? [[00:03:47](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=227.0s)]
+*  The question is, is there something racist going on here? [[00:03:49](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=229.79999999999998s)]
+*  In many cases, that will be enough to make the dog whistle not work in the same way anymore. [[00:03:52](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=232.6s)]
+*  So perhaps as more people become aware of them and call them out, [[00:03:58](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=238.0s)]
+*  dog whistles could lose their power and become a thing of the past. [[00:04:01](https://www.youtube.com/watch?v=W7P3yFJ-DGM&t=241.8s)]
