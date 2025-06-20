@@ -1,0 +1,120 @@
+---
+Date Generated: June 20, 2025
+Transcription Model: whisper medium 20231117
+Length: 581s
+Video Keywords: ['Nicolle Wallace']
+Video Views: 109633
+Video Rating: None
+Video Description: David Frum, Staff Writer for The Atlantic and Helene Cooper, New York Times Pentagon Correspondent join Alicia Menendez in for Nicolle Wallace on Deadline White House to discuss the state of play when it comes to the role that the United States is set to play in the conflict between Iran and Israel and how Donald Trump’s indecision is a constant theme to his presidency. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #DonaldTrump #Iran
+---
+
+# ‘Flinching from the consequences of responsibility’: Trump says he needs two weeks to decide on Iran
+**NBC - Middle East:** [June 19, 2025](https://www.youtube.com/watch?v=Ct6CkgMFlXE)
+*  Question of the hour. Will the United States get involved in the conflict between Israel and Iran? [[00:00:00](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=0.0s)]
+*  At the White House today, Team Trump said, in effect, stand by for the next two weeks. [[00:00:06](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=6.4s)]
+*  Here's the press secretary. [[00:00:11](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=11.6s)]
+*  Now, regarding the ongoing situation in Iran, I know there has been a lot of speculation [[00:00:14](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=14.64s)]
+*  amongst all of you in the media regarding the president's decision-making and whether or not [[00:00:19](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=19.6s)]
+*  the United States will be directly involved. In light of that news, I have a message directly [[00:00:23](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=23.92s)]
+*  from the president, and I quote, based on the fact that there's a substantial chance of negotiations [[00:00:28](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=28.88s)]
+*  that may or may not take place with Iran in the near future, I will make my decision whether or [[00:00:35](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=35.2s)]
+*  not to go within the next two weeks. That's a quote directly from the president for all of you today. [[00:00:40](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=40.48s)]
+*  Brand new reporting suggests that the Trump administration is on the precipice of an armed [[00:00:47](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=47.28s)]
+*  intervention. Three people familiar with deliberations tell the Wall Street Journal [[00:00:51](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=51.76s)]
+*  that Donald Trump, quote, told senior aides late Tuesday that he approved of attack plans for Iran [[00:00:56](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=56.0s)]
+*  but was holding off on giving the final order to see if Tehran would abandon its nuclear program. [[00:01:02](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=62.0s)]
+*  Trump is hoping that threatening to join Israel's strikes on Iran will compel Tehran [[00:01:07](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=67.36s)]
+*  to meet his demands. In public, at least, the Iranian regime remains defiant, saying that they [[00:01:11](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=71.68s)]
+*  will not negotiate and will retaliate if the U.S. launches airstrikes. The Pentagon already playing [[00:01:17](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=77.2s)]
+*  out what could happen next. The New York Times reporting, officials are considering all of the [[00:01:23](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=83.92s)]
+*  ways Iran could retaliate. One possibility, according to officials, quote, Iran retains the [[00:01:28](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=88.48s)]
+*  naval assets and other capabilities it would need to shut down the Strait of Hormuz, a move that [[00:01:34](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=94.0s)]
+*  could pin any U.S. Navy ships in the Persian Gulf, American military officials say. In meetings at [[00:01:39](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=99.28s)]
+*  the White House, senior military officials have raised the need to prepare for that possibility [[00:01:45](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=105.44s)]
+*  after Iranian officials threatened to mine the strait if the United States joined Israel attacks [[00:01:50](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=110.96s)]
+*  on the country. And that could have severe economic consequences too. The Times reporting, [[00:01:56](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=116.0s)]
+*  a quarter of the world's oil passes through it, so mining the choke point would cause gas prices to [[00:02:01](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=121.67999999999999s)]
+*  soar. Meanwhile, Israel and Iran continue to trade strikes. A major hospital in southern Israel took [[00:02:08](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=128.07999999999998s)]
+*  a direct hit from an Iranian missile. At least 40 people were injured. Israeli Prime Minister [[00:02:13](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=133.84s)]
+*  Benjamin Netanyahu calling it the work of a, quote, criminal regime. That is where we start [[00:02:18](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=138.8s)]
+*  today with New York Times Pentagon correspondent and MSNBC contributor Helene Cooper. And joining [[00:02:24](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=144.72s)]
+*  me, David Frum, staff writer for The Atlantic and host of the video podcast, The David Frum Show, [[00:02:29](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=149.60000000000002s)]
+*  and former U.S. Senator, MSNBC political analyst Claire McCaskill. All right, Helene, let's start [[00:02:34](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=154.64000000000001s)]
+*  with you. What does your reporting tell you about what Donald Trump is considering? [[00:02:39](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=159.84s)]
+*  Well, he's looking high. And thanks for having me. President Trump is, as we've all been reporting, [[00:02:44](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=164.56s)]
+*  looking at the possibility of dropping a bunker buster, which is sort of the name we use for one [[00:02:53](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=173.44s)]
+*  of those big, really big bombs that only the United States has on the Fordo nuclear plant that is [[00:03:02](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=182.48s)]
+*  buried at more than 250 feet in a mountain in Iran. That is one of the things that Israel [[00:03:11](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=191.2s)]
+*  can't do itself. I'd like to say we're in untrodden territory, but we're not. We kind of have been [[00:03:18](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=198.32s)]
+*  in this place before. And we were here in 2003 when we went into the Iraq War. There seems to be [[00:03:26](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=206.64000000000001s)]
+*  a lot of officials in the Trump administration who seem to appear to think that this is a one drop, [[00:03:34](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=214.8s)]
+*  one and done type deal. We go in and you drop this bomb and that's it. The Iranian regime is, [[00:03:41](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=221.68s)]
+*  the nuclear regime is done for. President Trump appeared to allude to that in his stream of tweets [[00:03:50](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=230.0s)]
+*  this week as well. The Pentagon is more cautious because they believe that the Pentagon officials [[00:03:55](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=235.6s)]
+*  believe that Iran can retaliate. With all of this bombing campaign that Israel has embarked upon, [[00:04:01](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=241.84s)]
+*  they have left Iran's naval assets so far alone. Iran retains the ability to mine the [[00:04:08](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=248.4s)]
+*  Strait of Hormuz. Iran still has enough ballistic missiles at this point to attack American bases [[00:04:16](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=256.4s)]
+*  in the Mideast and attack American troops at those bases. So the Pentagon is preparing for [[00:04:23](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=263.2s)]
+*  the possibility that this could be a far more protracted military engagement back in the same [[00:04:28](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=268.96s)]
+*  region that we just left after 20 years than President Trump seems to be alluding to. [[00:04:35](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=275.84s)]
+*  Helene, you laid out a series of differentials for us. There's also a differential in how different [[00:04:44](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=284.08s)]
+*  members of this administration are assessing the threat. There's reporting that CIA Director John [[00:04:49](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=289.44s)]
+*  Radcliffe has been arguing that Iran is very close to having a nuclear weapon. This is from [[00:04:53](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=293.91999999999996s)]
+*  The Washington Post. Radcliffe used a football analogy in a closed-door Senate Appropriations [[00:04:58](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=298.64s)]
+*  subcommittee hearing Tuesday to argue that the formal U.S. intelligence assessment that Iran has [[00:05:03](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=303.59999999999997s)]
+*  not decided to build a bomb is of limited use. It's like saying a football team marched 99 yards [[00:05:08](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=308.64s)]
+*  down the field, got to the one-yard line, and oh, they don't have the intention to score. One of [[00:05:15](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=315.36s)]
+*  the people quoted him as telling lawmakers. Helene, does that square with Tulsi Gabbard saying back [[00:05:20](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=320.64s)]
+*  in March that Iran has not decided to build a nuclear weapon, which to our understanding [[00:05:26](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=326.0s)]
+*  is still the current assessment of the intelligence community? No, you're absolutely right. That is [[00:05:30](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=330.64s)]
+*  Tulsi Gabbard's assessment is still the assessment of the intelligence community. [[00:05:36](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=336.88s)]
+*  You have that difference of opinion. President Trump has made clear that he is choosing now not [[00:05:43](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=343.68s)]
+*  to believe Tulsi Gabbard. We'll see how long that lasts. I've been covering this issue since 2006, [[00:05:51](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=351.12s)]
+*  and the number of stories and the number of times I have heard officials say that Iran is one month, [[00:06:03](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=363.6s)]
+*  two months, three months, two years, they're right at breakout, is about, for the length of time, [[00:06:10](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=370.32s)]
+*  I've been covering this issue. I've heard this over and over and over again, and I think it becomes [[00:06:17](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=377.52s)]
+*  a case of when does the United States or when does Israel decide that they are ready, they're [[00:06:24](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=384.15999999999997s)]
+*  not willing to wait out or to allow negotiations to play out any longer. You will recall that there [[00:06:30](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=390.15999999999997s)]
+*  was a nuclear deal agreement with Iran that President Obama struck, that President Trump [[00:06:38](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=398.32s)]
+*  turned around and pulled the United States out of. We are where we are, and I think it's going to be [[00:06:46](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=406.8s)]
+*  a decision that will be made by President Trump. He seems to be saying that nobody knows what he's [[00:06:52](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=412.48s)]
+*  going to do. He's going to decide when he's going to do it. I've given up at this point on predicting [[00:06:57](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=417.36s)]
+*  what he's going to do. I'm not sure he knows. Smart move from a smart lady. David, when you [[00:07:02](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=422.32s)]
+*  were in a pivotal moment for a presidency, which I think it is fair to call this moment, and a decision [[00:07:07](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=427.92s)]
+*  of this magnitude arises, what do those conversations normally look like? And then [[00:07:13](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=433.76s)]
+*  compare that to what we are seeing from this administration. Well, I don't think you should [[00:07:18](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=438.4s)]
+*  compare this administration to anything else in American history. This collection of jokers and [[00:07:23](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=443.76s)]
+*  crackpots and crooks. We should not allow the drama of the moment to efface from our minds what we know [[00:07:28](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=448.88s)]
+*  about this administration. It is vacillating. It is weak. When President Trump says he needs two [[00:07:36](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=456.0s)]
+*  weeks, that means he's looking for a way not to make a decision, not for a way to make a decision. [[00:07:41](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=461.04s)]
+*  That he enjoys the feeling of power in his hands, but he flinches from the consequences [[00:07:46](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=466.24s)]
+*  of responsibility. He staffed his administration with people who shouldn't be in positions of [[00:07:51](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=471.52000000000004s)]
+*  public trust. One obvious move that the Iranians would have, for example, if the United States [[00:07:57](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=477.12s)]
+*  struck at them, would be to activate terror networks inside the United States and inside [[00:08:00](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=480.56s)]
+*  America's, what remains of America's networks of allies after Trump's attacks on all the allies. [[00:08:04](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=484.40000000000003s)]
+*  So we've got to... Now, if you're going to defend the country against those, you've got an FBI where [[00:08:09](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=489.68s)]
+*  they've laid off all the counterterrorism professionals, headed by jokers. You've got [[00:08:15](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=495.52s)]
+*  a Department of Homeland Security that has spent millions and millions of dollars on an advertising [[00:08:20](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=500.0s)]
+*  campaign to say, thank you, Trump. Again, with kind of a play-acting director. You've got a [[00:08:25](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=505.28s)]
+*  Defense Department who's under the leadership that no one would put this Defense Department [[00:08:32](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=512.16s)]
+*  under on the way to war. It just doesn't add up. So Trump loves bluster. He loves talk. One of the [[00:08:37](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=517.2s)]
+*  things that the Israelis need to keep in mind, and my friends in the pro-Israel community need [[00:08:42](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=522.48s)]
+*  to keep in mind, Trump betrays everyone who trusts him with one exception, and that is Vladimir Putin, [[00:08:46](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=526.24s)]
+*  not Israel. He's betrayed his creditors. He's betrayed his investors. He's betrayed his wives. [[00:08:52](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=532.48s)]
+*  He's betrayed his children. He will betray you too. Be wary of putting your trust in him. [[00:08:56](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=536.96s)]
+*  And Israel's not a very exposed position. It's got, it's begun a war with magnificent success, [[00:09:02](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=542.0s)]
+*  but it doesn't have an obvious way to bring the war to a successful conclusion. [[00:09:07](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=547.92s)]
+*  It was counting on Trump to help them. They must have relied on [[00:09:11](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=551.5999999999999s)]
+*  indications. But there's two weeks, two weeks. That's what Trump does when he's about to fold his cards. [[00:09:15](https://www.youtube.com/watch?v=Ct6CkgMFlXE&t=555.12s)]
