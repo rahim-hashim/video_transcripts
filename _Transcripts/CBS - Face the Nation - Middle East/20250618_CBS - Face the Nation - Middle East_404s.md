@@ -1,0 +1,117 @@
+---
+Date Generated: June 19, 2025
+Transcription Model: whisper medium 20231117
+Length: 404s
+Video Keywords: ['Donald Trump', 'Iran', 'Israel', 'Middle East', 'Nuclear Weapons', 'Pentagon', 'Pete Hegseth', 'Politics', 'U.S. Army', 'The Takeout Segments', 'U.S.', 'World', 'CBS News']
+Video Views: 11974
+Video Rating: None
+Video Description: In a televised address on Wednesday, Iran's Supreme Leader, Ayatollah Ali Khamenei, responded to President Trump's call for Iran's "unconditional surrender." CBS News' Holly Williams and Charlie D'Agata have the latest.
+#news #iran #trump
+CBS News 24/7 is the premier anchored streaming news service from CBS News and Stations that is available free to everyone with access to the internet and is the destination for breaking news, live events, original reporting and storytelling, and programs from CBS News and Stations' top anchors and correspondents working locally, nationally and around the globe. It is available on more than 30 platforms across mobile, desktop and connected TVs for free, as well as CBSNews.com and Paramount+ and live in 91 countries.
+Subscribe to the CBS News YouTube channel: https://youtube.com/cbsnews
+Watch CBS News 24/7: https://cbsnews.com/live/
+Download the CBS News app: https://cbsnews.com/mobile/
+Follow CBS News on Instagram: https://instagram.com/cbsnews/
+Like CBS News on Facebook: https://facebook.com/cbsnews
+Follow CBS News on X: https://x.com/cbsnews
+Subscribe to our newsletters: https://cbsnews.com/newsletters/
+Try Paramount+ free: https://paramountplus.com/?ftag=PPM-05-10aeh8h
+For video licensing inquiries, contact: licensing@veritone.com
+---
+
+# Iranians do not respond well to threats, Iran's Supreme Leader says in response to Trump
+**CBS - Face the Nation - Middle East:** [June 18, 2025](https://www.youtube.com/watch?v=6iDrgneBpsE)
+*  I told you things in the Middle East remain very newsmaking. [[00:00:00](https://www.youtube.com/watch?v=6iDrgneBpsE&t=0.0s)]
+*  Remarks from the president today saying nobody knows what he's going to do. [[00:00:04](https://www.youtube.com/watch?v=6iDrgneBpsE&t=4.0s)]
+*  There is a sense in the region that the United States might get more involved in the conflict [[00:00:08](https://www.youtube.com/watch?v=6iDrgneBpsE&t=8.4s)]
+*  between Israel and Iran. [[00:00:12](https://www.youtube.com/watch?v=6iDrgneBpsE&t=12.96s)]
+*  For perspective on all that, I want to go to Holly Williams, who comes to us from Northern [[00:00:14](https://www.youtube.com/watch?v=6iDrgneBpsE&t=14.96s)]
+*  Iraq. [[00:00:18](https://www.youtube.com/watch?v=6iDrgneBpsE&t=18.72s)]
+*  President Trump has called for Iran's unconditional surrender. [[00:00:21](https://www.youtube.com/watch?v=6iDrgneBpsE&t=21.2s)]
+*  And today we had a response to that in a televised address by Iran's supreme leader. [[00:00:24](https://www.youtube.com/watch?v=6iDrgneBpsE&t=24.66s)]
+*  The Ayatollah Ali Khamenei. [[00:00:29](https://www.youtube.com/watch?v=6iDrgneBpsE&t=29.9s)]
+*  His tone was bellicose, as you might expect from the Iranian leader with his country under [[00:00:32](https://www.youtube.com/watch?v=6iDrgneBpsE&t=32.14s)]
+*  bombardment. [[00:00:37](https://www.youtube.com/watch?v=6iDrgneBpsE&t=37.339999999999996s)]
+*  He said that Iranians do not respond well to the language of threats. [[00:00:38](https://www.youtube.com/watch?v=6iDrgneBpsE&t=38.379999999999995s)]
+*  He was defiant. [[00:00:42](https://www.youtube.com/watch?v=6iDrgneBpsE&t=42.82s)]
+*  He vowed that Iran would never surrender to coercion. [[00:00:43](https://www.youtube.com/watch?v=6iDrgneBpsE&t=43.94s)]
+*  And perhaps most pertinently for Americans, he said that any US military intervention [[00:00:47](https://www.youtube.com/watch?v=6iDrgneBpsE&t=47.34s)]
+*  will quote, undoubtedly result in irreparable damage to them. [[00:00:52](https://www.youtube.com/watch?v=6iDrgneBpsE&t=52.459999999999994s)]
+*  Now, Iran has already accused the US of being complicit in Israel's attack and has threatened [[00:00:56](https://www.youtube.com/watch?v=6iDrgneBpsE&t=56.98s)]
+*  to retaliate against American military bases. [[00:01:02](https://www.youtube.com/watch?v=6iDrgneBpsE&t=62.26s)]
+*  There are many US bases here in the Middle East, along with around 40,000 American troops. [[00:01:05](https://www.youtube.com/watch?v=6iDrgneBpsE&t=65.46s)]
+*  But perhaps the most obvious target for an Iranian retaliation would be the roughly 2,500 [[00:01:11](https://www.youtube.com/watch?v=6iDrgneBpsE&t=71.12s)]
+*  US troops here in Iraq, simply because they are right next door to Iran. [[00:01:16](https://www.youtube.com/watch?v=6iDrgneBpsE&t=76.34s)]
+*  If the US does get directly involved in this conflict and if Iran then chooses to retaliate, [[00:01:22](https://www.youtube.com/watch?v=6iDrgneBpsE&t=82.44s)]
+*  the question is what Iran is capable of now. [[00:01:28](https://www.youtube.com/watch?v=6iDrgneBpsE&t=88.2s)]
+*  Israel already has air superiority over Iran after just a few days of war. [[00:01:32](https://www.youtube.com/watch?v=6iDrgneBpsE&t=92.16s)]
+*  And while most attention is focused on nuclear targets, just yesterday Israel said it had [[00:01:36](https://www.youtube.com/watch?v=6iDrgneBpsE&t=96.96s)]
+*  hit 12 missile launch and storage sites. [[00:01:42](https://www.youtube.com/watch?v=6iDrgneBpsE&t=102.0s)]
+*  Back in 2020, Iran targeted a US base here in Iraq with ballistic missiles. [[00:01:45](https://www.youtube.com/watch?v=6iDrgneBpsE&t=105.36s)]
+*  But could they still do that? [[00:01:50](https://www.youtube.com/watch?v=6iDrgneBpsE&t=110.47999999999999s)]
+*  We don't know for sure. [[00:01:52](https://www.youtube.com/watch?v=6iDrgneBpsE&t=112.16s)]
+*  Holly Williams, CBS News, our bill in Northern Iraq. [[00:01:53](https://www.youtube.com/watch?v=6iDrgneBpsE&t=113.92s)]
+*  I want to turn now to my CBS colleague, Charlie Daggett, at the Pentagon. [[00:01:58](https://www.youtube.com/watch?v=6iDrgneBpsE&t=118.11999999999999s)]
+*  Charlie, what's the latest there? [[00:02:04](https://www.youtube.com/watch?v=6iDrgneBpsE&t=124.24s)]
+*  Well, you know, you could say that the Pentagon is preparing for war, right? [[00:02:07](https://www.youtube.com/watch?v=6iDrgneBpsE&t=127.16s)]
+*  That sounds like a dramatic statement. [[00:02:13](https://www.youtube.com/watch?v=6iDrgneBpsE&t=133.07999999999998s)]
+*  But when is the Pentagon not preparing for war, Major? [[00:02:14](https://www.youtube.com/watch?v=6iDrgneBpsE&t=134.76s)]
+*  You know, the atmosphere here can be described as a little bit jittery last night. [[00:02:18](https://www.youtube.com/watch?v=6iDrgneBpsE&t=138.44s)]
+*  Quite that feeling today. [[00:02:22](https://www.youtube.com/watch?v=6iDrgneBpsE&t=142.06s)]
+*  But we're told by several sources, defense sources, that they are bracing for any kind [[00:02:24](https://www.youtube.com/watch?v=6iDrgneBpsE&t=144.3s)]
+*  of Iranian retaliation. [[00:02:29](https://www.youtube.com/watch?v=6iDrgneBpsE&t=149.74s)]
+*  As Holly just said, 40,000 troops throughout that area, the Middle East, not just the ones [[00:02:31](https://www.youtube.com/watch?v=6iDrgneBpsE&t=151.86s)]
+*  possibly the most vulnerable at that base in Iraq, 2,500 service members there. [[00:02:38](https://www.youtube.com/watch?v=6iDrgneBpsE&t=158.3s)]
+*  But you've got the Fifth Fleet in Bahrain, you've got Kuwait, you've got the UAE. [[00:02:43](https://www.youtube.com/watch?v=6iDrgneBpsE&t=163.5s)]
+*  There are several potential targets for Iran to aim at. [[00:02:48](https://www.youtube.com/watch?v=6iDrgneBpsE&t=168.34s)]
+*  And we have learned from intelligence service members that the Iranians, as they said, are [[00:02:53](https://www.youtube.com/watch?v=6iDrgneBpsE&t=173.0s)]
+*  aiming some of those missiles and other weapons toward U.S. bases and interests in the region. [[00:02:59](https://www.youtube.com/watch?v=6iDrgneBpsE&t=179.68s)]
+*  So again, Pentagon's a planning organization. [[00:03:06](https://www.youtube.com/watch?v=6iDrgneBpsE&t=186.26s)]
+*  They're planning for what may come. [[00:03:08](https://www.youtube.com/watch?v=6iDrgneBpsE&t=188.86s)]
+*  They're also flooding the entire area with a massive amount of military equipment. [[00:03:10](https://www.youtube.com/watch?v=6iDrgneBpsE&t=190.1s)]
+*  There's a carrier strike group that's been there for a while. [[00:03:15](https://www.youtube.com/watch?v=6iDrgneBpsE&t=195.62s)]
+*  The Carl Vincente, there are several destroyers with it, some in the Red Sea, a few more at [[00:03:18](https://www.youtube.com/watch?v=6iDrgneBpsE&t=198.26s)]
+*  the coast of the Mediterranean, so also in that region. [[00:03:24](https://www.youtube.com/watch?v=6iDrgneBpsE&t=204.73999999999998s)]
+*  And there's also another carrier headed there, the USS Nimitz, that is being redirected there [[00:03:27](https://www.youtube.com/watch?v=6iDrgneBpsE&t=207.82s)]
+*  from the Indo-Opacom region. [[00:03:32](https://www.youtube.com/watch?v=6iDrgneBpsE&t=212.62s)]
+*  And there's also going to be the USS Henry Ford headed to the Europe Theater of Command. [[00:03:35](https://www.youtube.com/watch?v=6iDrgneBpsE&t=215.01999999999998s)]
+*  So a lot of stuff headed in that direction. [[00:03:41](https://www.youtube.com/watch?v=6iDrgneBpsE&t=221.42s)]
+*  The new squadron of F-16s, F-35s, F-22s that are sent there. [[00:03:43](https://www.youtube.com/watch?v=6iDrgneBpsE&t=223.66s)]
+*  Refueling tankers, that's really important because that not only enables some long-range [[00:03:48](https://www.youtube.com/watch?v=6iDrgneBpsE&t=228.01999999999998s)]
+*  bombers to increase their range, should there be a U.S. attack in Iran, but it also gives [[00:03:53](https://www.youtube.com/watch?v=6iDrgneBpsE&t=233.34s)]
+*  fighter jets the opportunity to loiter. [[00:03:59](https://www.youtube.com/watch?v=6iDrgneBpsE&t=239.51999999999998s)]
+*  Because what Secretary Hegseth has referred to time and again, this is about force protection. [[00:04:02](https://www.youtube.com/watch?v=6iDrgneBpsE&t=242.01999999999998s)]
+*  These are defensive measures, and you want to have planes that can loiter over areas, [[00:04:07](https://www.youtube.com/watch?v=6iDrgneBpsE&t=247.28s)]
+*  particularly parts of Iraq, anywhere near that border with Iran, the Red Sea, anywhere [[00:04:11](https://www.youtube.com/watch?v=6iDrgneBpsE&t=251.94s)]
+*  where there are U.S. military assets, you want to have fighters in the air to protect them. [[00:04:17](https://www.youtube.com/watch?v=6iDrgneBpsE&t=257.18s)]
+*  And Charlie, it has been said more than once that there is particular U.S. air power and [[00:04:23](https://www.youtube.com/watch?v=6iDrgneBpsE&t=263.90000000000003s)]
+*  armaments necessary if the president so decides to substantially degrade underground nuclear [[00:04:29](https://www.youtube.com/watch?v=6iDrgneBpsE&t=269.22s)]
+*  facilities in Iran. [[00:04:39](https://www.youtube.com/watch?v=6iDrgneBpsE&t=279.22s)]
+*  And the likely place that those B-2 bombers would leave from is Diego Garcia. [[00:04:41](https://www.youtube.com/watch?v=6iDrgneBpsE&t=281.22s)]
+*  I have read, is that part of the matrix we should be keeping an eye on? [[00:04:46](https://www.youtube.com/watch?v=6iDrgneBpsE&t=286.42s)]
+*  Well, we know that the B-2s were with Diego Garcia. [[00:04:53](https://www.youtube.com/watch?v=6iDrgneBpsE&t=293.42s)]
+*  We can't confirm that they're still there. [[00:04:55](https://www.youtube.com/watch?v=6iDrgneBpsE&t=295.42s)]
+*  We do know that B-52s are there. [[00:04:56](https://www.youtube.com/watch?v=6iDrgneBpsE&t=296.94s)]
+*  Both of those aircraft can carry what you're referring to, the 30,000-pound massive ordnance [[00:04:59](https://www.youtube.com/watch?v=6iDrgneBpsE&t=299.3s)]
+*  penetrator. [[00:05:04](https://www.youtube.com/watch?v=6iDrgneBpsE&t=304.78000000000003s)]
+*  It is a big, heavy bomb, and only a couple of aircraft are able to carry it and deliver [[00:05:05](https://www.youtube.com/watch?v=6iDrgneBpsE&t=305.78000000000003s)]
+*  it to its target. [[00:05:12](https://www.youtube.com/watch?v=6iDrgneBpsE&t=312.18s)]
+*  And yes, that would be the knockout blow. [[00:05:14](https://www.youtube.com/watch?v=6iDrgneBpsE&t=314.78000000000003s)]
+*  The Israelis have their own form of bunker busters, but nothing with the kind of penetrating [[00:05:16](https://www.youtube.com/watch?v=6iDrgneBpsE&t=316.78000000000003s)]
+*  power of that particular weapon. [[00:05:23](https://www.youtube.com/watch?v=6iDrgneBpsE&t=323.78000000000003s)]
+*  So if the United States were to engage and try to take out Iran's nuclear facilities [[00:05:26](https://www.youtube.com/watch?v=6iDrgneBpsE&t=326.06s)]
+*  with a sort of knockout blow, it's very likely that that kind of weapon would be used, because [[00:05:33](https://www.youtube.com/watch?v=6iDrgneBpsE&t=333.38s)]
+*  the Iranians, especially when it comes to their nuclear facilities, are deep underground, [[00:05:40](https://www.youtube.com/watch?v=6iDrgneBpsE&t=340.02000000000004s)]
+*  literally in a sort of mountain, underneath a mountain. [[00:05:44](https://www.youtube.com/watch?v=6iDrgneBpsE&t=344.14s)]
+*  It's got cement and steel reinforced, and there aren't too many weapons that can get [[00:05:47](https://www.youtube.com/watch?v=6iDrgneBpsE&t=347.82s)]
+*  down there. [[00:05:53](https://www.youtube.com/watch?v=6iDrgneBpsE&t=353.18s)]
+*  Certainly, the Israelis don't have it in their arsenal or the delivery to do that. [[00:05:54](https://www.youtube.com/watch?v=6iDrgneBpsE&t=354.18s)]
+*  And I also have to mention here, the Israelis have talked about owning the airspace, and [[00:05:59](https://www.youtube.com/watch?v=6iDrgneBpsE&t=359.09999999999997s)]
+*  I know President Trump said that we own the airspace. [[00:06:02](https://www.youtube.com/watch?v=6iDrgneBpsE&t=362.82s)]
+*  They have all but knocked out most of the air defenses, as we understand it, in Iran, [[00:06:06](https://www.youtube.com/watch?v=6iDrgneBpsE&t=366.34s)]
+*  which enables Israel's fighter jets to fly over with impunity and take out targets, including [[00:06:11](https://www.youtube.com/watch?v=6iDrgneBpsE&t=371.38s)]
+*  Iranian leadership. [[00:06:17](https://www.youtube.com/watch?v=6iDrgneBpsE&t=377.1s)]
+*  So it may be that one of the options that President Trump might be considering is he [[00:06:19](https://www.youtube.com/watch?v=6iDrgneBpsE&t=379.26s)]
+*  doesn't want to imperil U.S. fighters, fighter jets, or bombers, or personnel. [[00:06:25](https://www.youtube.com/watch?v=6iDrgneBpsE&t=385.34000000000003s)]
+*  But if he feels that that area has been cleared of any serious or significant air defenses, [[00:06:31](https://www.youtube.com/watch?v=6iDrgneBpsE&t=391.54s)]
+*  he may be more confident to deploy American fighter jets and bombers over Iran. [[00:06:37](https://www.youtube.com/watch?v=6iDrgneBpsE&t=397.32s)]

@@ -1,0 +1,112 @@
+---
+Date Generated: June 19, 2025
+Transcription Model: whisper medium 20231117
+Length: 705s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 205242
+Video Rating: None
+Video Description: Ali Bahreini, the Iranian ambassador to the United Nations, has said Iran would react without "reluctance" if the US do decide to attack.
+When talking about the strikes from Israel, Bahreini said the US has been “complicit in this crime from the beginning”.
+ 
+Earlier, Donald Trump said "I may do it, I may not do it", when asked whether the US would join Israeli strikes on Iran.
+ 
+The US president added: "Nobody knows what I want to do. But I can say this: Iran's got a lot of trouble and wants to negotiate".
+ 
+Israel and Iran have exchanged numerous deadly strikes since Friday. 
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#BBCNews
+---
+
+# Iran would react without 'reluctance’ to a US attack, country’s ambassador to UN says | BBC News
+**BBC - The Latest:** [June 18, 2025](https://www.youtube.com/watch?v=h4HTfNirAy4)
+*  Well now live on BBC News we can get the perspective of the Iranian authorities because joining us live [[00:00:00](https://www.youtube.com/watch?v=h4HTfNirAy4&t=0.0s)]
+*  is Iran's ambassador and permanent representative to the United Nations in Geneva, that's Ali [[00:00:07](https://www.youtube.com/watch?v=h4HTfNirAy4&t=7.28s)]
+*  Bahraini. Thank you very much indeed for joining us on BBC News. Can I ask you first of all if [[00:00:14](https://www.youtube.com/watch?v=h4HTfNirAy4&t=14.32s)]
+*  President Trump and the United States decide to attack Iran, how will Iran respond? [[00:00:21](https://www.youtube.com/watch?v=h4HTfNirAy4&t=21.52s)]
+*  We believe that the aggression made by Israel against Iran from the beginning has been with [[00:00:32](https://www.youtube.com/watch?v=h4HTfNirAy4&t=32.4s)]
+*  the approval of the United States and the United States is complicit to this crime from the beginning [[00:00:40](https://www.youtube.com/watch?v=h4HTfNirAy4&t=40.32s)]
+*  but we will react in accordance with our assessment. Definitely if United States [[00:00:48](https://www.youtube.com/watch?v=h4HTfNirAy4&t=48.32s)]
+*  is going to involve in the aggression against Iran it will receive firm and resolute response. [[00:00:59](https://www.youtube.com/watch?v=h4HTfNirAy4&t=59.76s)]
+*  Iran will show no any doubt, no any hesitation, no any reluctance in defending the people, [[00:01:08](https://www.youtube.com/watch?v=h4HTfNirAy4&t=68.4s)]
+*  in defending our integrity, in defending our country and in defending the humanity because [[00:01:17](https://www.youtube.com/watch?v=h4HTfNirAy4&t=77.28s)]
+*  what we are doing is to defend international law, to defend humanity. Our military forces [[00:01:24](https://www.youtube.com/watch?v=h4HTfNirAy4&t=84.08000000000001s)]
+*  are monitoring the activities of the United States and there is a red line set for the United States. [[00:01:31](https://www.youtube.com/watch?v=h4HTfNirAy4&t=91.36000000000001s)]
+*  If United States cross that line the response will come. [[00:01:39](https://www.youtube.com/watch?v=h4HTfNirAy4&t=99.92s)]
+*  Well you talk about a response but I mean your military has been devastated by these Israeli [[00:01:45](https://www.youtube.com/watch?v=h4HTfNirAy4&t=105.2s)]
+*  attacks, your air force has been destroyed, your air defences have been destroyed, you're running [[00:01:52](https://www.youtube.com/watch?v=h4HTfNirAy4&t=112.4s)]
+*  out of missiles, so militarily how can you respond, how could you respond to the United States which is [[00:01:58](https://www.youtube.com/watch?v=h4HTfNirAy4&t=118.16s)]
+*  the supreme military superpower in the world? It's not true. If you follow the developments [[00:02:05](https://www.youtube.com/watch?v=h4HTfNirAy4&t=125.04s)]
+*  nowadays, today, yesterday, the day before yesterday you can realize that Iranian military [[00:02:14](https://www.youtube.com/watch?v=h4HTfNirAy4&t=134.4s)]
+*  forces are responding very efficiently. If it is not efficient please ask Israel to stop the [[00:02:22](https://www.youtube.com/watch?v=h4HTfNirAy4&t=142.4s)]
+*  censorship in the land so that the people can witness and can see what has happened to Israel [[00:02:31](https://www.youtube.com/watch?v=h4HTfNirAy4&t=151.52s)]
+*  by the responses given by our military forces. Our military forces have been prepared for this [[00:02:40](https://www.youtube.com/watch?v=h4HTfNirAy4&t=160.96s)]
+*  scenario. It is not a new thing because we have lived with the Israeli threats and our military [[00:02:47](https://www.youtube.com/watch?v=h4HTfNirAy4&t=167.68s)]
+*  forces have been prepared for such a situation. Therefore our military forces have responded [[00:02:54](https://www.youtube.com/watch?v=h4HTfNirAy4&t=174.8s)]
+*  and will continue to respond very efficiently and as far as it is needed and we will come to the [[00:03:03](https://www.youtube.com/watch?v=h4HTfNirAy4&t=183.36s)]
+*  point that we make sure that our people are secure, our land is secure and the aggression is stopped. [[00:03:10](https://www.youtube.com/watch?v=h4HTfNirAy4&t=190.8s)]
+*  We will do it. What about the possibility of negotiating a way out of this? I mean President [[00:03:18](https://www.youtube.com/watch?v=h4HTfNirAy4&t=198.56s)]
+*  Trump has said that Iranian officials have asked to come to the White House for talks. What about [[00:03:24](https://www.youtube.com/watch?v=h4HTfNirAy4&t=204.56s)]
+*  that? Would Iran be prepared to talk to the United States, maybe even go to the White House for talks? [[00:03:30](https://www.youtube.com/watch?v=h4HTfNirAy4&t=210.88s)]
+*  I think it would not be appropriate at the moment to think about anything rather than defending our [[00:03:38](https://www.youtube.com/watch?v=h4HTfNirAy4&t=218.24s)]
+*  people and our country. Now the first priority for us is to defend ourselves and to stop aggression [[00:03:46](https://www.youtube.com/watch?v=h4HTfNirAy4&t=226.08s)]
+*  and to stop attacks. I think it should not be appropriate at this time to talk about these [[00:03:53](https://www.youtube.com/watch?v=h4HTfNirAy4&t=233.04000000000002s)]
+*  initiatives. The first thing which our people are demanding our government, our military forces to do [[00:04:01](https://www.youtube.com/watch?v=h4HTfNirAy4&t=241.52s)]
+*  is best to stop aggression and to punish Israel and that is something that we are focused on now. [[00:04:08](https://www.youtube.com/watch?v=h4HTfNirAy4&t=248.56s)]
+*  This is all about Iran trying to build a nuclear bomb, that's what Israel says. [[00:04:17](https://www.youtube.com/watch?v=h4HTfNirAy4&t=257.03999999999996s)]
+*  Are you trying to build a nuclear bomb, yes or no? No. But the International Atomic Energy Agency, [[00:04:24](https://www.youtube.com/watch?v=h4HTfNirAy4&t=264.56s)]
+*  you will know this, they said just a few days ago that you were in breach of your [[00:04:35](https://www.youtube.com/watch?v=h4HTfNirAy4&t=275.12s)]
+*  non-proliferation obligations. IAEA reports have not said such a thing. If you follow the statements [[00:04:42](https://www.youtube.com/watch?v=h4HTfNirAy4&t=282.8s)]
+*  made by the Director General of IAEA yesterday, he clearly explained that there is no evidence [[00:04:52](https://www.youtube.com/watch?v=h4HTfNirAy4&t=292.4s)]
+*  that Iran is following a nuclear, a military nuclear program or activity. Different reports [[00:04:59](https://www.youtube.com/watch?v=h4HTfNirAy4&t=299.36s)]
+*  give evidence and show that Iran is following only a peaceful program, a nuclear program. [[00:05:07](https://www.youtube.com/watch?v=h4HTfNirAy4&t=307.04s)]
+*  And there is no evidence that Iran is following a military nuclear program. And I think there is a [[00:05:15](https://www.youtube.com/watch?v=h4HTfNirAy4&t=315.20000000000005s)]
+*  criteria, there is an organization to verify that. There is a mechanism to explain for everybody [[00:05:25](https://www.youtube.com/watch?v=h4HTfNirAy4&t=325.52000000000004s)]
+*  that what Iran is doing. Our nuclear facilities, which have unfortunately been attacked by the [[00:05:34](https://www.youtube.com/watch?v=h4HTfNirAy4&t=334.15999999999997s)]
+*  Israeli regime, are very peaceful. This is a new red line crossed by Israel by attacking our nuclear [[00:05:41](https://www.youtube.com/watch?v=h4HTfNirAy4&t=341.28s)]
+*  facilities. I'm thinking always, I'm asking always myself, is there any new red line that Israel will [[00:05:51](https://www.youtube.com/watch?v=h4HTfNirAy4&t=351.52s)]
+*  cross? And unfortunately, the answer has always been yes. Israel has become an exception, an [[00:05:59](https://www.youtube.com/watch?v=h4HTfNirAy4&t=359.92s)]
+*  exception to the respect of international law. Everybody is requested to respect international [[00:06:08](https://www.youtube.com/watch?v=h4HTfNirAy4&t=368.72s)]
+*  law except Israel. Well, what about when you talk about respecting international law, Iran [[00:06:14](https://www.youtube.com/watch?v=h4HTfNirAy4&t=374.96000000000004s)]
+*  sponsors Hamas, which attacked Israel on October the 7th. We know that with deadly consequences. [[00:06:21](https://www.youtube.com/watch?v=h4HTfNirAy4&t=381.76s)]
+*  Iran sponsors Hezbollah in Lebanon. Iran sponsors the Houthis that's been attacking Israel as well. [[00:06:29](https://www.youtube.com/watch?v=h4HTfNirAy4&t=389.12s)]
+*  You and you have called, you have said death to Israel, death to United States year after year. [[00:06:37](https://www.youtube.com/watch?v=h4HTfNirAy4&t=397.36s)]
+*  Hamas and Hezbollah are protecting their land. They are fighting for the freedom of their land. [[00:06:43](https://www.youtube.com/watch?v=h4HTfNirAy4&t=403.92s)]
+*  Israel is an occupier and Hamas is fighting to end the occupation. It is their right to fight for that [[00:06:55](https://www.youtube.com/watch?v=h4HTfNirAy4&t=415.92s)]
+*  and it is our responsibility and the responsibility of everybody to support them in order to end the [[00:07:05](https://www.youtube.com/watch?v=h4HTfNirAy4&t=425.12s)]
+*  occupation. Israel should end the occupation and Israeli supporters should make it to end the [[00:07:12](https://www.youtube.com/watch?v=h4HTfNirAy4&t=432.64s)]
+*  occupation. And we believe that Israel is a criminal, is the source of insecurity in other [[00:07:20](https://www.youtube.com/watch?v=h4HTfNirAy4&t=440.56s)]
+*  regions, is an absolute enemy in other regions and it should be stopped from committing crimes again [[00:07:31](https://www.youtube.com/watch?v=h4HTfNirAy4&t=451.28s)]
+*  and again. Do you understand though why Israel doesn't want you to have the nuclear bomb when [[00:07:41](https://www.youtube.com/watch?v=h4HTfNirAy4&t=461.2s)]
+*  you say time and again death to Israel, when you sponsor Hamas and its attacks on Israel and the [[00:07:47](https://www.youtube.com/watch?v=h4HTfNirAy4&t=467.36s)]
+*  evidence is that Iran has enriched 400 kilograms of uranium to 60% and that is not far off the 90% [[00:07:54](https://www.youtube.com/watch?v=h4HTfNirAy4&t=474.8s)]
+*  that is needed for a nuclear bomb. So do you understand those concerns? [[00:08:03](https://www.youtube.com/watch?v=h4HTfNirAy4&t=483.84s)]
+*  Wherever and whenever there has been an announcement about a new nuclear activity in Iran, [[00:08:10](https://www.youtube.com/watch?v=h4HTfNirAy4&t=490.15999999999997s)]
+*  there has been a technical explanation by our authorities. There has been enough arguments [[00:08:18](https://www.youtube.com/watch?v=h4HTfNirAy4&t=498.79999999999995s)]
+*  to explain that these activities are necessary for economic, technological and peaceful purposes. [[00:08:25](https://www.youtube.com/watch?v=h4HTfNirAy4&t=505.36s)]
+*  Whatever nuclear activity Iran has conducted has been in line with fulfilling the welfare of our [[00:08:35](https://www.youtube.com/watch?v=h4HTfNirAy4&t=515.04s)]
+*  people and the fact is that we cannot rely on others to be provided with our technological [[00:08:43](https://www.youtube.com/watch?v=h4HTfNirAy4&t=523.92s)]
+*  necessities. The experience, the recent history has shown us that we shouldn't rely on anybody. [[00:08:52](https://www.youtube.com/watch?v=h4HTfNirAy4&t=532.56s)]
+*  The behavior of the aggressors, the supporters of Israel showed us during the war imposed by Saddam [[00:08:59](https://www.youtube.com/watch?v=h4HTfNirAy4&t=539.52s)]
+*  against us that they are competitive to crimes. Their behavior during the COVID-19 showed that [[00:09:08](https://www.youtube.com/watch?v=h4HTfNirAy4&t=548.88s)]
+*  they are avoiding providing health equipments and medicine to other countries. We have them to be [[00:09:17](https://www.youtube.com/watch?v=h4HTfNirAy4&t=557.44s)]
+*  independent, to rely on ourselves and therefore our nuclear activities, peaceful nuclear activities [[00:09:26](https://www.youtube.com/watch?v=h4HTfNirAy4&t=566.8800000000001s)]
+*  are in line with our economic development. You say that you are defending the people of Iran. [[00:09:35](https://www.youtube.com/watch?v=h4HTfNirAy4&t=575.6s)]
+*  The people of Iran hate your government, don't they? Many, many hundreds of thousands of ordinary [[00:09:44](https://www.youtube.com/watch?v=h4HTfNirAy4&t=584.96s)]
+*  Iranians absolutely despise your government. They fear your government but they have been out onto [[00:09:52](https://www.youtube.com/watch?v=h4HTfNirAy4&t=592.1600000000001s)]
+*  the streets. Two years ago we saw mass protests against your government after the arrest and the [[00:09:59](https://www.youtube.com/watch?v=h4HTfNirAy4&t=599.0400000000001s)]
+*  death of Masa Amini for not covering her head properly with a headscarf. [[00:10:05](https://www.youtube.com/watch?v=h4HTfNirAy4&t=605.9200000000001s)]
+*  If you follow the developments in our country you can observe the solidarity shown by our people [[00:10:10](https://www.youtube.com/watch?v=h4HTfNirAy4&t=610.4s)]
+*  nowadays. Even those who do not like the policies of our government, Iranians, they are approaching [[00:10:19](https://www.youtube.com/watch?v=h4HTfNirAy4&t=619.84s)]
+*  to us and telling us that we are ready to support the government, we are ready to do everything [[00:10:29](https://www.youtube.com/watch?v=h4HTfNirAy4&t=629.12s)]
+*  to secure our country, to defend our country. If all that is true, if all that's true, [[00:10:35](https://www.youtube.com/watch?v=h4HTfNirAy4&t=635.44s)]
+*  solidarity and unity shown by our people at this moment is unprecedented and is very strong. [[00:10:43](https://www.youtube.com/watch?v=h4HTfNirAy4&t=643.2800000000001s)]
+*  If all that is true, why don't you let journalists, independent journalists like the BBC, like other [[00:10:50](https://www.youtube.com/watch?v=h4HTfNirAy4&t=650.08s)]
+*  news and organizations come to Iran to see that for themselves? [[00:10:56](https://www.youtube.com/watch?v=h4HTfNirAy4&t=656.1600000000001s)]
+*  Iran is an open society. You talked about journalists. Let me refer to the attack which [[00:11:01](https://www.youtube.com/watch?v=h4HTfNirAy4&t=661.04s)]
+*  was made by Israel against our national broadcasting headquarters the day before yesterday. [[00:11:10](https://www.youtube.com/watch?v=h4HTfNirAy4&t=670.48s)]
+*  They destroyed the headquarters, they killed three Iranian journalists and that is a big [[00:11:18](https://www.youtube.com/watch?v=h4HTfNirAy4&t=678.0799999999999s)]
+*  violation of the freedom of expression committed by Israel and supported by you. [[00:11:24](https://www.youtube.com/watch?v=h4HTfNirAy4&t=684.24s)]
+*  Ali Barani, we're out of time but thank you very much indeed for joining us. That is Iran's [[00:11:31](https://www.youtube.com/watch?v=h4HTfNirAy4&t=691.04s)]
+*  ambassador and permanent representative to the United Nations in Geneva. Thank you for being [[00:11:35](https://www.youtube.com/watch?v=h4HTfNirAy4&t=695.52s)]
+*  with us on BBC News. Thank you for having me. [[00:11:41](https://www.youtube.com/watch?v=h4HTfNirAy4&t=701.28s)]
