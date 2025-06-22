@@ -1,0 +1,268 @@
+---
+Date Generated: June 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 765s
+Video Keywords: ['250620__TB02LauraLoomer', 'News', 'Politics', 'TYT', 'The Young Turks', 'Cenk Uygur', 'Progressive', 'TYT Network', 'Ana Kasparian', 'political establishment', 'John Iadarola', 'Breaking News', 'Donald Trump', 'Trump', '2024 election', '2024', 'Rebel HQ', 'Election', 'Trump 2024', 'Republican', 'Democrat', 'Congress', 'Senate', 'Jordan Uhl', 'Sharon Reed', 'Laura Loomer', 'Tucker Carlson', 'Ted Cruz']
+Video Views: 87585
+Video Rating: None
+Video Description: Laura Loomer threw wild accusations at Tucker Carlson after he criticized President Trump. Cenk Uygur, Jordan Uhl and Sharon Reed discuss on The Young Turks. Do you agree with TYT's take? Tell us what you think in the comments below. SUBSCRIBE today: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+CHAPTERS:
+0:00 Laura Loomer declares war on Tucker Carlson
+8:16 Is Laura Loomer bigoted?
+10:15 Loomer vs. Cenk
+Help support our mission and get perks https://www.youtube.com/TheYoungTurks/join
+Read more HERE:  https://www.mediaite.com/politics/trump-ally-laura-loomer-escalates-maga-civil-war-with-wild-claim-tucker-is-controlled-by-muslims/
+"Trump ally and longtime MAGA conspiracy theorist, Laura Loomer, launched a scathing attack on Tucker Carlson this week, publicly accusing him of being “controlled by Muslims” and therefore staunchly opposing Israel’s ongoing conflict with Iran. Loomer’s attacks on Carlson are just the latest fracture in the MAGA base over the Israel-Iran conflict."
+
+*** 
+Your Support is Crucial to the Show: https://go.tyt.com/jointoday
+The largest online progressive news show in the world. Hosted by Cenk Uygur and Ana Kasparian. LIVE weekdays 6-8 pm ET. http://youtube.com/theyoungturks/live
+Help support our mission and get perks. Membership protects TYT's independence from corporate ownership and allows us to provide free live shows that speak truth to power for people around the world. See Perks: ▶ https://www.youtube.com/TheYoungTurks/join
+TYT is the largest online news network in the country. It presents news, context and analysis. We have dozens of on-air hosts on half a dozen major channels on almost all the platforms. We also have a live 24-hour news channel that features all our shows.
+The Young Turks is the flagship show of the TYY Network. The Young Turks is the longest running daily show in internet history. We’re about to celebrate our 20th anniversary as a digital native show. We are also the first ever YouTube partner channel. So, we are the original YouTubers.
+On the network, we do things a little differently than other places. We present the news first, with all of the facts and context you need, which is a rarity in commentary-heavy online shows. We then also give analysis and perspective, which is rare in traditional news.
+Our commentary and perspective are almost always on the left, but we have an enormous range of opinions on the network. Hosts are allowed to think and say whatever they like. Perspectives usually range from the far left to the center of the political spectrum.
+Now, our presence and range is large enough that we are adopting the tagline The Online News Network. Our longevity, our 27 million subscribers and 30 billion lifetime views allows us to make this claim confidently.
+TYT emphasizes open-minds and open-hearts. We believe in fighting for the average American. We believe in challenging the powerful. We are vigilant about pursuing the truth to the best of our abilities and for always being honest with our audience. We’ve been proud to serve the internet for longer than any other news show or network. As one of the founding fathers and mothers of online media, we have always believed that digital media would become the dominant news source for all Americans. We’re thrilled that day is here and that TYT is where everyone can come to see The Online News Network.
+TYT includes owned and operated and partner shows such as The Young Turks, The Damage Report, Indisputable, and more.
+TYT’s 24/7 programming is available on YouTube TV, Samsung TV, Plus, Roku, Xumo, TCLtv+, Fubo, and more.
+TYT is also available as a podcast on Spotify, Apple Podcasts, TuneIn, Amazon Music, and more.
+SUBSCRIBE on YOUTUBE: ☞ http://www.youtube.com/subscription_center?add_user=theyoungturks
+FACEBOOK: ☞ http://www.facebook.com/TheYoungTurks
+TWITTER: ☞ http://www.twitter.com/TheYoungTurks
+INSTAGRAM: ☞ http://www.instagram.com/TheYoungTurks
+TWITCH: ☞ http://www.twitch.com/tyt
+👕 Merch: http://shoptyt.com
+❤ Donate: http://www.tyt.com/go
+🔗 Website: https://www.tyt.com
+
+If you want to watch more videos from TYT, consider subscribing to other channels in our network:
+The Watchlist https://www.youtube.com/watchlisttyt
+Indisputable with Dr. Rashad Richey https://www.youtube.com/indisputabletyt
+The Damage Report ▶ https://www.youtube.com/thedamagereport
+TYT Sports ▶ https://www.youtube.com/tytsports
+The Conversation ▶ https://www.youtube.com/tytconversation
+Rebel HQ ▶ https://www.youtube.com/rebelhq
+TYT Investigates ▶ https://www.youtube.com/channel/UCwNJt9PYyN1uyw2XhNIQMMA
+
+#TYT #TheYoungTurks #BreakingNews
+250620__TB02LauraLoomer
+---
+
+# Laura Loomer Launches UNHINGED Attack On Tucker Carlson
+**The Young Turks - Hour 1:** [June 20, 2025](https://www.youtube.com/watch?v=DCc8Yvz8_Yc)
+*  It's interesting you're trying to derail my questions by calling me an anti-Semite, which [[00:00:00](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=0.0s)]
+*  you are. [[00:00:03](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=3.16s)]
+*  I did not. [[00:00:04](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=4.16s)]
+*  Of course you are. [[00:00:05](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=5.16s)]
+*  And rather than be honorable enough to say it right to my face, you are in a sleazy feline [[00:00:06](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=6.16s)]
+*  way implying it or just asking questions about the Jews. [[00:00:10](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=10.86s)]
+*  I'm not asking questions about the Jews. [[00:00:13](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=13.280000000000001s)]
+*  There's nothing to do with Jews or Judaism. [[00:00:17](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=17.04s)]
+*  It has to do with a foreign government. [[00:00:18](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=18.28s)]
+*  Isn't Israel controlling our foreign policy? [[00:00:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=19.84s)]
+*  That's not about the Jews. [[00:00:21](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=21.92s)]
+*  As Tucker Carlson continues to fight against the potential of the US intervening in a foreign [[00:00:23](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=23.080000000000002s)]
+*  war with Israel and Iran, he's also gained another enemy. [[00:00:28](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=28.64s)]
+*  Trump's new self-appointed loyalty enforcer, Laura Loomer, has officially declared war [[00:00:33](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=33.64s)]
+*  on Carlson and others in an unhinged social media bender. [[00:00:39](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=39.760000000000005s)]
+*  She's been on a war path, attacking anyone who disagrees with Trump and the idea of going [[00:00:45](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=45.44s)]
+*  to war with Iran, including conservative figures like Candace Owens and Matt Gaetz. [[00:00:50](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=50.64s)]
+*  But she zeroed in on Tucker. [[00:00:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=56.160000000000004s)]
+*  Yesterday, Laura Loomer made a bold claim publicly accusing Carlson of quote, being [[00:00:58](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=58.28s)]
+*  controlled by Muslims and being a propagandist for Qatar. [[00:01:02](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=62.760000000000005s)]
+*  The claim stems from a Washington Examiner piece from last month looking at Qatar's lobbying [[00:01:08](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=68.48s)]
+*  efforts with the US. [[00:01:13](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=73.36s)]
+*  Washington Examiner's Robert Schmad reported on Qatar's big dollar efforts in May writing [[00:01:15](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=75.2s)]
+*  quote, perhaps Qatar's biggest victory in its post-election right wing media campaign [[00:01:21](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=81.0s)]
+*  thus far was securing an interview between Tucker Carlson and the Qatari Prime Minister [[00:01:26](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=86.0s)]
+*  in March. [[00:01:31](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=91.04s)]
+*  The interview, which has raked up nearly six million views across X and YouTube, was [[00:01:32](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=92.04s)]
+*  friendly with Carlson praising the country. [[00:01:38](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=98.56s)]
+*  Schmad added, Qatar paid top dollar to ensure this interview took place. [[00:01:41](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=101.32000000000001s)]
+*  Foreign Agents Registration Act records show that Lumen 8 Advisors LLC, a legal consulting [[00:01:46](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=106.12s)]
+*  company for which very little public information is available, helped facilitate between Carlson [[00:01:52](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=112.36s)]
+*  and the Qatari dignitary. [[00:01:57](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=117.56s)]
+*  The embassy of the state of Qatar pays Lumen 8 Advisors $180,000 per month to quote, provide [[00:01:59](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=119.36s)]
+*  media and communication coaching and consulting services. [[00:02:05](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=125.48s)]
+*  To be clear, the records don't prove that Tucker Carlson himself was directly paid for [[00:02:09](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=129.24s)]
+*  the interview, only the intermediary who set up the interview. [[00:02:15](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=135.44s)]
+*  But here's a condensed version of what Lumer initially stated. [[00:02:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=139.6s)]
+*  This was a paid propaganda piece in which over $200,000 was paid by the embassy of the [[00:02:23](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=143.96s)]
+*  state of Qatar for Tucker to interview a Qatari official, all while knowing Hamas is an Iranian [[00:02:29](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=149.2s)]
+*  proxy funded by Qatar. [[00:02:36](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=156.12s)]
+*  Qatar funds Islamic terror around the world and they think they can just pay everyone [[00:02:39](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=159.12s)]
+*  off to make them turn a blind eye. [[00:02:43](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=163.72s)]
+*  The Qataris are global funders of Islamic terrorism and their money has been used to [[00:02:45](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=165.67999999999998s)]
+*  murder American citizens. [[00:02:50](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=170.79999999999998s)]
+*  Tucker should just be honest that he's a mouthpiece for genocidal Muslims. [[00:02:52](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=172.95999999999998s)]
+*  His media company was literally funded by a Muslim investor who is half Pakistani and [[00:02:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=176.83999999999997s)]
+*  half Iranian and who spends a lot of time in Qatar. [[00:03:02](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=182.27999999999997s)]
+*  And trust me when I say a lot of people in pro-Trump circles are very uncomfortable with [[00:03:06](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=186.76s)]
+*  this. [[00:03:11](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=191.23999999999998s)]
+*  Tucker Carlson disputed this claim on Steve Bannon's war room. [[00:03:12](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=192.36s)]
+*  Take a look. [[00:03:16](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=196.28s)]
+*  I was never mad at Mark Levin or Hannity. [[00:03:17](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=197.28s)]
+*  I like Hannity. [[00:03:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=199.28s)]
+*  A brilliant constitutional guy. [[00:03:20](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=200.28s)]
+*  Yeah, there are great things about all these people. [[00:03:21](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=201.56s)]
+*  I don't think they hate me personally. [[00:03:23](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=203.92000000000002s)]
+*  They know I'm not working for Qatar. [[00:03:25](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=205.12s)]
+*  Though I feel like maybe I should be working for Qatar. [[00:03:26](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=206.84s)]
+*  Like what the hell at this point? [[00:03:30](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=210.48000000000002s)]
+*  I've never taken a dime from any foreign country or anybody actually. [[00:03:31](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=211.48000000000002s)]
+*  In fact, you just bought out, I think it was announced you bought out your investors. [[00:03:35](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=215.16000000000003s)]
+*  Yeah, I'm not a money guy. [[00:03:38](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=218.8s)]
+*  I mean, they're projecting my whole life. [[00:03:39](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=219.8s)]
+*  I'm totally happy to tell you why I'm doing what I'm doing and I wanna be transparent [[00:03:42](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=222.35999999999999s)]
+*  and I think pretty much I am. [[00:03:46](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=226.44s)]
+*  They're the ones who have these weird complex motives and so they project onto everyone [[00:03:48](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=228.64s)]
+*  else the same. [[00:03:53](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=233.38s)]
+*  You're getting paid by somebody. [[00:03:54](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=234.38s)]
+*  You're not sincere. [[00:03:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=236.92s)]
+*  You don't really think that you're saying it in order to get clicks. [[00:03:57](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=237.92s)]
+*  It's also dumb. [[00:04:00](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=240.72s)]
+*  In other posts throughout the day, she posted things like, dear Tucker Carlson, I'm sorry. [[00:04:02](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=242.32s)]
+*  I'm sorry I don't have the opportunity today to tell you to blank off to your face and [[00:04:08](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=248.68s)]
+*  call you out for letting your mouth serve as a blank warmer for Arabs. [[00:04:14](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=254.4s)]
+*  I'm sorry I can't say blank you to your face for the way you undermine President Trump. [[00:04:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=259.96s)]
+*  A large portion of her posts were met with community notes disproving her claims or criticism, [[00:04:26](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=266.04s)]
+*  which of course she responded to with more attacks, accusations of being fake MAGA, etc. [[00:04:31](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=271.76s)]
+*  She's also threatened to tell Daddy Trump about their bad behavior. [[00:04:38](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=278.12s)]
+*  I am screenshotting everyone's posts and I'm going to deliver them in a package to President [[00:04:41](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=281.68s)]
+*  Trump so he sees who is truly with him and who isn't. [[00:04:46](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=286.2s)]
+*  We need to end this culture of people rising to the top after they bash Donald Trump and [[00:04:49](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=289.76s)]
+*  attack his policies. [[00:04:54](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=294.6s)]
+*  We need to stop rewarding disloyalty and set some standards for what is and isn't allowed [[00:04:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=296.14s)]
+*  to be around Donald Trump. [[00:05:01](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=301.6s)]
+*  I am the loyalty enforcer. [[00:05:04](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=304.48s)]
+*  Cenk, have you demonstrated sufficient loyalty to President Trump? [[00:05:08](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=308.04s)]
+*  No, I have not. [[00:05:13](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=313.20000000000005s)]
+*  So or to Laura Loomer or to Israel, and that's why Laura Loomer also attacked me later in [[00:05:15](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=315.36s)]
+*  the day, which we'll get to in a sec. [[00:05:22](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=322.44s)]
+*  She's attacking everyone who's opposed to Israel because she's really worried about [[00:05:25](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=325.36s)]
+*  foreign governments influencing America. [[00:05:30](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=330.20000000000005s)]
+*  Right, it's okay if Israel does it, but she claims she's concerned if Qatar does it. [[00:05:34](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=334.04s)]
+*  I don't know who's taking money from who and I don't care. [[00:05:40](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=340.16s)]
+*  So you want to find that out and you want to reveal things about people, great. [[00:05:43](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=343.46000000000004s)]
+*  I love it. [[00:05:47](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=347.24s)]
+*  Well, let's find out. [[00:05:48](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=348.24s)]
+*  I'm not opposed to that, I'm in favor of it. [[00:05:49](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=349.44s)]
+*  But what I care most about is are we going to war or are we not? [[00:05:51](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=351.94s)]
+*  How is this going to affect policy? [[00:05:55](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=355.16s)]
+*  Okay, and let's just make a note about hypocrisy first before we move on. [[00:05:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=356.88s)]
+*  So 80% of Congress took money from AIPAC in this election cycle if they were up for reelection, [[00:06:03](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=363.02s)]
+*  80%. [[00:06:11](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=371.46s)]
+*  And look at that 80% of Congress says we should do whatever Israel wants. [[00:06:12](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=372.46s)]
+*  What a coincidence. [[00:06:17](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=377.97999999999996s)]
+*  And AIPAC lobbying group that lobbies American politicians on behalf of Israel, they say [[00:06:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=379.78s)]
+*  Israel supporters. [[00:06:26](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=386.9s)]
+*  Okay, it doesn't matter either way. [[00:06:27](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=387.9s)]
+*  The bottom line is they want those politicians to do exactly what Israel orders them to do. [[00:06:30](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=390.08s)]
+*  And then politicians do exactly that, do exactly that. [[00:06:37](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=397.3s)]
+*  But in mainstream media, they say, no, the hundreds of millions of dollars that AIPAC [[00:06:40](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=400.72s)]
+*  has spent on our honorable, honorable politicians has not affected them at all. [[00:06:43](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=403.7s)]
+*  And not at all, it's just total coincidence. [[00:06:49](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=409.82s)]
+*  No, Israel is legally bribing all of our politicians and they totally and utterly control them. [[00:06:52](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=412.22s)]
+*  What's interesting about Trump is that since he screws over all of his creditors, since [[00:07:00](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=420.05999999999995s)]
+*  he already took Mary Madeleine's money and a lot of AIPAC and affiliated lobbying money [[00:07:04](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=424.41999999999996s)]
+*  from different people at different times in his political career, he's a little bit more [[00:07:10](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=430.09999999999997s)]
+*  up in the open. [[00:07:16](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=436.09999999999997s)]
+*  And he's like, well, now Qatar is giving some money and they're buying him a jet and then [[00:07:17](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=437.09999999999997s)]
+*  they're giving money to his sons and his businesses. [[00:07:21](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=441.65999999999997s)]
+*  So he's like, I don't know, I'm getting bribed on both sides. [[00:07:24](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=444.5s)]
+*  So he's up for grabs. [[00:07:27](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=447.24s)]
+*  So Tucker Carlson, Steve Bannon and others, we might hate him on other stuff, but they're [[00:07:30](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=450.16s)]
+*  like, don't go to war with Iran. [[00:07:33](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=453.92s)]
+*  Remember, our whole position was anti-war, right? [[00:07:35](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=455.76s)]
+*  And Laura Loomer saying, how dare you? [[00:07:39](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=459.0s)]
+*  You must obey Israel, okay? [[00:07:43](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=463.18s)]
+*  And if you don't, you serve Muslims and Muslims are dirty and terrible. [[00:07:46](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=466.64s)]
+*  She alluded to in attacking me. [[00:07:52](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=472.6s)]
+*  But then if you say, hey, Israel seems to be bribing all our politicians, anti-Semites, [[00:07:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=476.08s)]
+*  right? [[00:08:01](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=481.78000000000003s)]
+*  So, yeah, yeah, yeah, yeah, yeah, yeah. [[00:08:02](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=482.78000000000003s)]
+*  Laura Loomer is one of the most racist, bigoted agents that Israel has. [[00:08:05](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=485.5s)]
+*  I'm sorry, I don't know that, I don't know that. [[00:08:10](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=490.62s)]
+*  It doesn't matter, she doesn't have to be an agent. [[00:08:12](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=492.66s)]
+*  She could just have a natural affinity to a foreign government. [[00:08:15](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=495.98s)]
+*  Either way, it's plainly obvious she wants all Americans to serve a different country. [[00:08:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=499.5s)]
+*  If anyone else did it, if I came out here and was like, these people are anti-Turkish, [[00:08:26](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=506.06s)]
+*  anti-Turkish, you must do exactly what the Turkish government orders you to do. [[00:08:29](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=509.86s)]
+*  People will be like, that's a freaking joke. [[00:08:34](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=514.6999999999999s)]
+*  If Turkey bribed 80%, I'm sorry, friends of Turkey, bribed 80% of our politicians and [[00:08:35](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=515.86s)]
+*  then all of a sudden we're starting wars on behalf of Turkey. [[00:08:40](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=520.84s)]
+*  Everyone would point it out because it'd be mental not to. [[00:08:44](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=524.18s)]
+*  But when it's Israel, you're not allowed to say it, you're not allowed to say it. [[00:08:46](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=526.92s)]
+*  No, I can say it and so can everyone else and Laura Loomer can go suck it. [[00:08:51](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=531.64s)]
+*  Right, she already has. [[00:08:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=536.7199999999999s)]
+*  All right, Sharon. [[00:08:58](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=538.04s)]
+*  I'm sorry she's being cruel to you, but I think you can handle yourself. [[00:09:00](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=540.56s)]
+*  I think you're right, she's helping. [[00:09:03](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=543.9599999999999s)]
+*  She's helping. [[00:09:05](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=545.7199999999999s)]
+*  This is, she's vile, she's racist, but this is actually great. [[00:09:07](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=547.0799999999999s)]
+*  And she's actually, if I go back to the last segment, making Tucker Carlson and [[00:09:11](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=551.04s)]
+*  Nancy Bannon and Marjorie Taylor Greene look like they have a lot of integrity here, okay? [[00:09:15](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=555.9599999999999s)]
+*  She's just pledging to a king and another country and name calling and [[00:09:20](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=560.12s)]
+*  I think it's very transparent. [[00:09:25](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=565.04s)]
+*  And I don't even know if it's going to weigh heavily with Trump at this point. [[00:09:28](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=568.1999999999999s)]
+*  I mean, she's so loud and so on note all the time with this. [[00:09:33](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=573.28s)]
+*  She's helping the other side, but she's also I think maybe grading and [[00:09:37](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=577.68s)]
+*  when there's that much noise, I don't know if Donald Trump is even listening to her. [[00:09:44](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=584.08s)]
+*  He likes to hear his own voice, not necessarily always hers. [[00:09:47](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=587.84s)]
+*  Well, Cenk, she also went after you. [[00:09:51](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=591.48s)]
+*  She, when you posted this, Guardian is reporting the US is considering dropping [[00:09:54](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=594.0s)]
+*  a tactical nuclear weapon on Iran to destroy their facilities. [[00:09:59](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=599.36s)]
+*  That's the most mental thing I've ever heard. [[00:10:03](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=603.5600000000001s)]
+*  So we would nuke them to make sure they don't get a nuke because nukes are so [[00:10:06](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=606.2s)]
+*  dangerous, so we'll use one, WTF. [[00:10:10](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=610.08s)]
+*  I think it's a reasonable point. [[00:10:12](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=612.96s)]
+*  But Loomer responded with another day another Muslim commentator lying about [[00:10:14](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=614.84s)]
+*  President Trump to sow discord in our community. [[00:10:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=619.6s)]
+*  This is fake news Cenk Uygur. [[00:10:22](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=622.5600000000001s)]
+*  You deliberately lie about President Trump's foreign policy to push for [[00:10:24](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=624.4s)]
+*  chaos and Trump hatred. [[00:10:28](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=628.24s)]
+*  You have been lying all week about a non existing war that the US is not [[00:10:29](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=629.92s)]
+*  involved in. [[00:10:34](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=634.4s)]
+*  What do you say to that? [[00:10:36](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=636.88s)]
+*  How do you respond to that Cenk? [[00:10:38](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=638.36s)]
+*  Imagine if I said another lying Jew commentator. [[00:10:40](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=640.24s)]
+*  Okay, everyone would flip out rightfully so [[00:10:44](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=644.96s)]
+*  because that's deeply anti-Semitic and terrible, etc. [[00:10:47](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=647.72s)]
+*  But I would never do that because I would never ever want to smear or [[00:10:51](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=651.2s)]
+*  associate other Jews with Laura Loomer. [[00:10:55](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=655.28s)]
+*  It got nothing to do with her, they're innocent, okay? [[00:10:58](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=658.96s)]
+*  No, Laura Loomer is the one who's a deranged psychopath who demands that we [[00:11:02](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=662.12s)]
+*  all serve Israel, not anyone else. [[00:11:08](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=668.04s)]
+*  But so she attacks me based on my background. [[00:11:10](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=670.52s)]
+*  Of course she does because she's a deeply dumb racist bigot and [[00:11:13](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=673.1199999999999s)]
+*  that's all she's got in her arsenal. [[00:11:16](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=676.88s)]
+*  I mean, she's talking about how Tucker Carlson is too pro-Muslim. [[00:11:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=679.76s)]
+*  Yeah, the guy who said I don't really care about Iraq because they're a bunch [[00:11:23](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=683.56s)]
+*  of monkeys. [[00:11:26](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=686.8399999999999s)]
+*  He's too pro-Muslim. [[00:11:28](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=688.1999999999999s)]
+*  And so that's all she has. [[00:11:31](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=691.16s)]
+*  She has two tricks in her arsenal. [[00:11:34](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=694.04s)]
+*  One is I hate all Muslims, but by the way, don't ever say anything against me. [[00:11:36](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=696.4399999999999s)]
+*  Otherwise I'll pretend to be offended that you're an anti-Semite because she's so [[00:11:40](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=700.92s)]
+*  concerned about bigotry, she does it nonstop. [[00:11:44](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=704.72s)]
+*  So her and I went back and forth a couple times and all she ever did was just say, [[00:11:47](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=707.12s)]
+*  all Muslim, Muslim, Muslim, Muslim. [[00:11:50](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=710.72s)]
+*  She charged me with being Muslim. [[00:11:53](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=713.0s)]
+*  Okay, so what? [[00:11:54](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=714.88s)]
+*  Why is that a charge? [[00:11:56](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=716.48s)]
+*  Wow, you got me. [[00:11:57](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=717.6s)]
+*  Yes, my background is Muslim. [[00:11:59](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=719.28s)]
+*  That's not a thing that wins the argument for you. [[00:12:00](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=720.88s)]
+*  All right, so look, the jury's in on Laura Loomer. [[00:12:03](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=723.84s)]
+*  Total utter nut job. [[00:12:07](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=727.96s)]
+*  Everyone despises her on the left and the right. [[00:12:10](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=730.1600000000001s)]
+*  And by the way, if you're on the left and you think that Laura Loomer speaks for [[00:12:13](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=733.9200000000001s)]
+*  MAGA or the right, you don't know anything. [[00:12:16](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=736.6s)]
+*  MAGA generally hates Laura Loomer. [[00:12:19](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=739.4s)]
+*  And they're like, no, no, they follow whatever she says. [[00:12:21](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=741.64s)]
+*  You think MAGA hates Tucker Carlson and Steve Bannon? [[00:12:25](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=745.76s)]
+*  Because that's who she's attacking. [[00:12:28](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=748.64s)]
+*  No, they don't, no. [[00:12:31](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=751.44s)]
+*  They think she works for Israel and they don't give a goddamn about her. [[00:12:33](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=753.0s)]
+*  And that's one good thing about MAGA. [[00:12:36](https://www.youtube.com/watch?v=DCc8Yvz8_Yc&t=756.16s)]

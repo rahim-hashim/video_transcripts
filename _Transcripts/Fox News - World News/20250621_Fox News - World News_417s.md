@@ -1,0 +1,135 @@
+---
+Date Generated: June 22, 2025
+Transcription Model: whisper medium 20231117
+Length: 417s
+Video Keywords: ['fox news channel', 'media', 'fnc', 'world', 'usa', 'us news', 'leaders', 'war', 'nuclear weapons', 'nukes', 'president donald trump', 'washington dc', 'situation room', 'iran', 'israel', 'watch', 'breaking news', 'middle east wars', 'tel aviv', 'politics', 'white house', 'Ali Hosseini Khamenei', 'Benjamin Netanyahu', 'missiles', 'weapons', 'army', 'military', 'airstrikes', 'strikes', 'Fighter jets', 'regime', 'defense', 'us', 'new', 'pakistan', 'navy', 'world leaders', 'live']
+Video Views: 247265
+Video Rating: None
+Video Description: 'Special Report' executive editor Bret Baier analyzes the impact of the U.S. strike on Iran's nuclear sites on 'Hannity.' #foxnews #news #usa #us #world #donaldtrump #trump #iran #israel #middleeast #war #nuclear #weapon #ayatollah #khamenei #netanyahu #breakingnews #live #media #telaviv #pakistan #primetime #military #army #navy #washington 
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# HISTORIC night, the Israelis are ecstatic: Bret Baier
+**Fox News - World News:** [June 21, 2025](https://www.youtube.com/watch?v=N7YnYz-6-Uk)
+*  We bring in the host of Special Report, Brett Baier is with us. [[00:00:00](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=0.0s)]
+*  Brett, thank you for being with us. [[00:00:03](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=3.64s)]
+*  I did have a conversation when you were breaking news live right here on Fox. [[00:00:05](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=5.64s)]
+*  I got some details as, again, you got on the air immediately. [[00:00:11](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=11.28s)]
+*  And the fact we had initially discussed at length and in great detail the issue of maybe [[00:00:16](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=16.84s)]
+*  two Bunker Buster bombs being needed for this Fordell facility. [[00:00:23](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=23.12s)]
+*  It ends up six. [[00:00:27](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=27.94s)]
+*  It ends up that the Israelis had only gotten 75% of the other two nuclear sites that they [[00:00:29](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=29.54s)]
+*  had been attacking on a regular basis. [[00:00:35](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=35.14s)]
+*  And Tomahawk missiles, the president reporting tonight, they were totally, all three of them, [[00:00:37](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=37.7s)]
+*  obliterated. [[00:00:42](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=42.94s)]
+*  Incredible news. [[00:00:43](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=43.94s)]
+*  There's history tonight here. [[00:00:44](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=44.94s)]
+*  Yeah, Sean, it's a historic night. [[00:00:46](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=46.94s)]
+*  It is, we'll see what the battle damage assessment is on the ground from Iran. [[00:00:50](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=50.58s)]
+*  But the Israelis are ecstatic. [[00:00:56](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=56.18s)]
+*  You saw that in the prime minister's statement saying that this is a pivot point, he believes, [[00:00:58](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=58.040000000000006s)]
+*  for the Middle East. [[00:01:04](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=64.0s)]
+*  The fact that there were six Bunker Buster bombs from those B-2s, 30 Tomahawk missiles [[00:01:05](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=65.0s)]
+*  from the U.S. submarines hitting the Isfahan site, the Natanz site and Fordow. [[00:01:09](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=69.66s)]
+*  We talk a lot about Fordow being the most protected, and that's where a lot of those [[00:01:16](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=76.02000000000001s)]
+*  Bunker Busters were focused. [[00:01:20](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=80.02000000000001s)]
+*  But the Isfahan site, believe it or not, is also really deep, I'm told from experts who [[00:01:23](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=83.02000000000001s)]
+*  have been looking at it for years, and that's where they stored the highly enriched uranium. [[00:01:27](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=87.82s)]
+*  I think there's going to be a real question about what goes forward, what happens next. [[00:01:33](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=93.13999999999999s)]
+*  I've been in contact with some of our allies, leaders in the region and other countries [[00:01:38](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=98.41999999999999s)]
+*  in the region, and one said this to me, Iran will have to respond. [[00:01:44](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=104.38s)]
+*  They have to save face. [[00:01:50](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=110.53999999999999s)]
+*  Their capabilities have been degraded, but they're not impotent. [[00:01:52](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=112.3s)]
+*  It's important to realize that while the president is saying that this is a tremendous [[00:01:56](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=116.98s)]
+*  success and he believes they have been completely obliterated, the history will show that the [[00:02:01](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=121.18s)]
+*  Iran leadership will not go down without swinging. [[00:02:06](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=126.62s)]
+*  What that swing looks like, you know, we've seen the missus. [[00:02:10](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=130.34s)]
+*  Brett, I can add some color to that. [[00:02:13](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=133.34s)]
+*  Yeah, go ahead. [[00:02:14](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=134.34s)]
+*  You know, no one could argue, I think, by any objective measure that this phase of this [[00:02:15](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=135.34s)]
+*  operation was a complete success. [[00:02:22](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=142.02s)]
+*  But there is a part two, and they did game out all of this. [[00:02:24](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=144.72s)]
+*  And as you and I both know, there have been many, many meetings where these plans have [[00:02:28](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=148.5s)]
+*  been discussed in great detail. [[00:02:34](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=154.38s)]
+*  And part two of this, though, is to protect American assets on the ground in the region. [[00:02:36](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=156.18s)]
+*  And that means people and that means specific locations. [[00:02:41](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=161.98000000000002s)]
+*  They are prepared for any retaliation. [[00:02:45](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=165.54000000000002s)]
+*  And the president was very clear, unambiguous. [[00:02:47](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=167.86s)]
+*  In his statement again tonight to the Iranians, what the consequences will be if they, in [[00:02:50](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=170.66s)]
+*  fact, try to retaliate. [[00:02:56](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=176.02s)]
+*  Yeah. [[00:02:58](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=178.06s)]
+*  And I think that that's really important because in the region, as you and I know, strength [[00:02:59](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=179.06s)]
+*  matters. [[00:03:04](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=184.57999999999998s)]
+*  And that's what talks over there. [[00:03:05](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=185.82s)]
+*  Peace through strength, but strength first. [[00:03:08](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=188.57999999999998s)]
+*  And I think that there, that's the signal the president was sending. [[00:03:11](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=191.54s)]
+*  If any U.S. citizen, any U.S. base, any U.S. facility comes under Iranian attack, all bets [[00:03:16](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=196.34s)]
+*  are off as far as this being a limited type of strike. [[00:03:21](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=201.82s)]
+*  And you're right, they have a lot of plans going forward, if that's the case. [[00:03:26](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=206.66s)]
+*  One of the questions is, what does the opposition on the ground look like? [[00:03:32](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=212.28s)]
+*  How does this all develop? [[00:03:36](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=216.88s)]
+*  That's not something that I've heard that the U.S. is really focused on. [[00:03:38](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=218.02s)]
+*  Regime change, while it may be tangential, is for the Iranians to decide, much like the [[00:03:42](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=222.89999999999998s)]
+*  president delivered that speech, Sean, in Saudi Arabia, which he said, we don't want [[00:03:49](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=229.14s)]
+*  you to be our image. [[00:03:54](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=234.1s)]
+*  We want you to be your own countries, but we want to do deals with you. [[00:03:55](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=235.78s)]
+*  And we want to change the face of the Middle East and how it operates. [[00:03:59](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=239.33999999999997s)]
+*  But I think you are very wise in cautioning people. [[00:04:04](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=244.01999999999998s)]
+*  And I did this all week and remind people that there's no such thing as a military operation [[00:04:07](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=247.78s)]
+*  that does not have great risk associated with it. [[00:04:13](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=253.82s)]
+*  At the end of the president's statement tonight, it was striking when he did thank God for [[00:04:19](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=259.06s)]
+*  the safety and the safe return of our troops and just being appreciative that it was successful. [[00:04:23](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=263.34s)]
+*  There's always risk associated with it. [[00:04:31](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=271.26s)]
+*  There's always risk of retaliation. [[00:04:33](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=273.34s)]
+*  But there is no doubt tonight the Iranians no longer are nuclear power. [[00:04:35](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=275.58000000000004s)]
+*  There is no doubt we can say tonight that the world, I think you can say unequivocally, [[00:04:40](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=280.62s)]
+*  is a safer place. [[00:04:45](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=285.54s)]
+*  It doesn't mean they still don't have their ballistic missiles. [[00:04:47](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=287.22s)]
+*  It doesn't mean that they will retreat. [[00:04:49](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=289.98s)]
+*  It doesn't mean that they will unconditionally surrender. [[00:04:52](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=292.0s)]
+*  It doesn't mean that the American military's job is done. [[00:04:54](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=294.34000000000003s)]
+*  They will protect American assets, interests and people that are in the region. [[00:04:58](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=298.98s)]
+*  That has been made very clear and the president made clear the consequences. [[00:05:03](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=303.46s)]
+*  So they do so at their own peril. [[00:05:07](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=307.29999999999995s)]
+*  They didn't listen to President Trump the first time. [[00:05:09](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=309.06s)]
+*  Let's see if they learn something before they strike back or attempt to. [[00:05:11](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=311.97999999999996s)]
+*  Yeah, I just am really struck by the operational security, Sean, of all of this. [[00:05:15](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=315.85999999999996s)]
+*  The fact that, you know, Iran really, the intelligence said, wanted to strike Israel [[00:05:21](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=321.34s)]
+*  first and then the president came forward and said, let's negotiate, thinking there [[00:05:26](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=326.94s)]
+*  could be a possibility for a path for negotiation. [[00:05:32](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=332.52s)]
+*  But he said 60 days, on day 61, Israel attacks first, changes the dynamic, really hits them [[00:05:35](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=335.71999999999997s)]
+*  hard, takes out the surface air missiles, opens the door to the possibility. [[00:05:42](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=342.84s)]
+*  All the while the president's saying you could get back to the negotiation table. [[00:05:47](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=347.84s)]
+*  Then he says within two weeks, I'll make the decision. [[00:05:52](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=352.52s)]
+*  Well, two days is within two weeks. [[00:05:55](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=355.03999999999996s)]
+*  It wasn't lying, but it was about operational security. [[00:05:57](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=357.56s)]
+*  And when the six B-2 bombers go west, everybody's looking, they're covering it over there. [[00:06:01](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=361.32s)]
+*  It's look at the shiny thing. [[00:06:06](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=366.48s)]
+*  It was already in motion in the east. [[00:06:08](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=368.64s)]
+*  Yeah, no doubt about it. [[00:06:11](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=371.2s)]
+*  And I'm struck by the operational security. [[00:06:12](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=372.2s)]
+*  You know, but you've got to also say the day after the president mentioned within two weeks, [[00:06:13](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=373.2s)]
+*  the next day, the Iranian foreign minister came out and said, nope, no interest in negotiating. [[00:06:18](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=378.2s)]
+*  That could have accelerated the timeline, but that would only be speculation on my part. [[00:06:23](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=383.36s)]
+*  That's right. [[00:06:27](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=387.68s)]
+*  Yeah. [[00:06:29](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=389.12s)]
+*  And they have the opportunity. [[00:06:30](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=390.32s)]
+*  They had it multiple times. [[00:06:31](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=391.32s)]
+*  The foreign minister shut it down in Europe. [[00:06:33](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=393.0s)]
+*  So we'll see what comes next. [[00:06:35](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=395.48s)]
+*  All right, Brett Baer, as always, we appreciate you being with us and special report every [[00:06:37](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=397.08s)]
+*  weeknight, 6 Eastern, right here on the Fox News Channel. [[00:06:41](https://www.youtube.com/watch?v=N7YnYz-6-Uk&t=401.8s)]
