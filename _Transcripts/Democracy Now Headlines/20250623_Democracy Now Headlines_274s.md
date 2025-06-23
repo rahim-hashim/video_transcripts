@@ -1,0 +1,78 @@
+---
+Date Generated: June 23, 2025
+Transcription Model: whisper medium 20231117
+Length: 274s
+Video Keywords: ['Democracy Now', 'Amy Goodman', 'News', 'Politics', 'democracynow', 'Independent Media', 'Breaking News', 'World News']
+Video Views: 5604
+Video Rating: None
+Video Description: Support our work: https://democracynow.org/donate/sm-desc-yt
+“Netanyahu’s purpose was to drag Trump in,” Daniel Levy, a former Israeli peace negotiator, says of the U.S. attack on Iran. Over the weekend, the U.S. directly joined the war between Israel and Iran when it bombed three nuclear facilities at Fordow, Natanz and Isfahan, though it’s unclear how far the strikes have set back the Iranian nuclear program. Israel and the United States accuse Iran of developing nuclear weapons, while Iran says its program is for civilian use. United Nations inspectors and U.S. intelligence assessments have said Iran is not building weapons. “The danger now is that, having brought the U.S. into this, Israel will seek to go further up the escalatory ladder,” says Levy. “It wants the chaos.”
+Democracy Now! is an independent global news hour that airs on over 1,500 TV and radio stations Monday through Friday. Watch our livestream at democracynow.org Mondays to Fridays 8-9 a.m. ET.
+Subscribe to our Daily Email Digest: https://democracynow.org/subscribe
+---
+
+# Ex-Israeli Peace Negotiator Slams U.S. Bombing of Iran, Says Israel Seeks Chaos in Middle East
+**Democracy Now Headlines:** [June 23, 2025](https://www.youtube.com/watch?v=U0BsorJTRsw)
+*  This is Democracy Now!, democracynow.org, The War and Peace Report. [[00:00:00](https://www.youtube.com/watch?v=U0BsorJTRsw&t=0.0s)]
+*  I'm Amy Goodman. [[00:00:03](https://www.youtube.com/watch?v=U0BsorJTRsw&t=3.96s)]
+*  Well, following the U.S. strikes on the Iranian nuclear facilities, the Israeli Prime Minister [[00:00:04](https://www.youtube.com/watch?v=U0BsorJTRsw&t=4.96s)]
+*  Benjamin Netanyahu has spoken glowing terms about President Trump and said all their goals [[00:00:09](https://www.youtube.com/watch?v=U0BsorJTRsw&t=9.52s)]
+*  will be achieved. [[00:00:15](https://www.youtube.com/watch?v=U0BsorJTRsw&t=15.06s)]
+*  Regarding Fordow, I believe we must take our hats off to our great friend, my close friend, [[00:00:19](https://www.youtube.com/watch?v=U0BsorJTRsw&t=19.52s)]
+*  President Trump, for the excellent work done by the U.S. military and the U.S. Air Force. [[00:00:25](https://www.youtube.com/watch?v=U0BsorJTRsw&t=25.0s)]
+*  We commend their achievement. [[00:00:29](https://www.youtube.com/watch?v=U0BsorJTRsw&t=29.88s)]
+*  It caused a very serious blow there, a very significant one. [[00:00:30](https://www.youtube.com/watch?v=U0BsorJTRsw&t=30.88s)]
+*  We will, of course, assess everything. [[00:00:34](https://www.youtube.com/watch?v=U0BsorJTRsw&t=34.8s)]
+*  In any case, we will ensure there is no threat from these nuclear facilities. [[00:00:36](https://www.youtube.com/watch?v=U0BsorJTRsw&t=36.6s)]
+*  We will do whatever is necessary to achieve the goals we set, and we will achieve them all. [[00:00:41](https://www.youtube.com/watch?v=U0BsorJTRsw&t=41.2s)]
+*  For more, we're joined in London by Daniel Levy, president of the U.S. Middle East Project, [[00:00:46](https://www.youtube.com/watch?v=U0BsorJTRsw&t=46.44s)]
+*  former Israeli peace negotiator under Israeli Prime Minister Zahoud Barak and Yitzhak Rabin. [[00:00:50](https://www.youtube.com/watch?v=U0BsorJTRsw&t=50.92s)]
+*  Thank you, Daniel, for being with us. [[00:00:56](https://www.youtube.com/watch?v=U0BsorJTRsw&t=56.84s)]
+*  We only have a few minutes, but if you can respond, as Netanyahu praised President Trump [[00:00:58](https://www.youtube.com/watch?v=U0BsorJTRsw&t=58.2s)]
+*  for being strong and President Trump, up until this point, first said this isn't about [[00:01:03](https://www.youtube.com/watch?v=U0BsorJTRsw&t=63.760000000000005s)]
+*  regime change and very clearly said it is about regime change. [[00:01:10](https://www.youtube.com/watch?v=U0BsorJTRsw&t=70.04s)]
+*  Your response? [[00:01:15](https://www.youtube.com/watch?v=U0BsorJTRsw&t=75.2s)]
+*  Netanyahu's purpose was to drag Trump in. [[00:01:18](https://www.youtube.com/watch?v=U0BsorJTRsw&t=78.2s)]
+*  That was the singular goal, really, to make this America's war. [[00:01:21](https://www.youtube.com/watch?v=U0BsorJTRsw&t=81.16s)]
+*  Israel doesn't care. [[00:01:26](https://www.youtube.com/watch?v=U0BsorJTRsw&t=86.0s)]
+*  In fact, it prefers America to be less popular, more hated in the region, because Israel's [[00:01:27](https://www.youtube.com/watch?v=U0BsorJTRsw&t=87.0s)]
+*  project is to be a regional hegemon that can only happen with America in order not so much [[00:01:32](https://www.youtube.com/watch?v=U0BsorJTRsw&t=92.24s)]
+*  to do what it's doing to Iran, but in order to continue to pursue the ethnic cleansing, [[00:01:40](https://www.youtube.com/watch?v=U0BsorJTRsw&t=100.6s)]
+*  dispossession, displacement, apartheid and genocide against the Palestinian people. [[00:01:45](https://www.youtube.com/watch?v=U0BsorJTRsw&t=105.56s)]
+*  That is not a project that has a soft power component. [[00:01:50](https://www.youtube.com/watch?v=U0BsorJTRsw&t=110.4s)]
+*  It only has hard power. [[00:01:53](https://www.youtube.com/watch?v=U0BsorJTRsw&t=113.4s)]
+*  It's like Elizabeth Warren said, I have a plan for that when confronted with everything. [[00:01:55](https://www.youtube.com/watch?v=U0BsorJTRsw&t=115.52s)]
+*  Israel acts like it has a bomb for that, whatever the question is. [[00:02:00](https://www.youtube.com/watch?v=U0BsorJTRsw&t=120.0s)]
+*  And so the danger now is that having brought the US into this, Israel will seek to go further [[00:02:03](https://www.youtube.com/watch?v=U0BsorJTRsw&t=123.2s)]
+*  up the escalatory ladder, go up the ladder of its objectives and really bring the idea [[00:02:11](https://www.youtube.com/watch?v=U0BsorJTRsw&t=131.28s)]
+*  of regime change, which I don't think even it believes in, some kind of neat change. [[00:02:16](https://www.youtube.com/watch?v=U0BsorJTRsw&t=136.84s)]
+*  It wants the chaos. [[00:02:21](https://www.youtube.com/watch?v=U0BsorJTRsw&t=141.9s)]
+*  It wants the failed state in a country of 90 million. [[00:02:22](https://www.youtube.com/watch?v=U0BsorJTRsw&t=142.9s)]
+*  That's a threat to the region and beyond. [[00:02:25](https://www.youtube.com/watch?v=U0BsorJTRsw&t=145.94000000000003s)]
+*  It hopes it can drag the Americans further in. [[00:02:27](https://www.youtube.com/watch?v=U0BsorJTRsw&t=147.82000000000002s)]
+*  It can get them on this regime change track. [[00:02:30](https://www.youtube.com/watch?v=U0BsorJTRsw&t=150.98000000000002s)]
+*  And at the moment, Israel looks at it and it sees President Trump wearing a made in [[00:02:34](https://www.youtube.com/watch?v=U0BsorJTRsw&t=154.02s)]
+*  Israel gimp suit. [[00:02:39](https://www.youtube.com/watch?v=U0BsorJTRsw&t=159.72000000000003s)]
+*  So why not carry on up that ladder? [[00:02:41](https://www.youtube.com/watch?v=U0BsorJTRsw&t=161.28000000000003s)]
+*  And it also looks at this. [[00:02:44](https://www.youtube.com/watch?v=U0BsorJTRsw&t=164.0s)]
+*  And Netanyahu here is taking something of a risk because he's already got something [[00:02:46](https://www.youtube.com/watch?v=U0BsorJTRsw&t=166.34s)]
+*  of a win. [[00:02:50](https://www.youtube.com/watch?v=U0BsorJTRsw&t=170.58s)]
+*  But I think he looks at it and says, this is the moment I had the previous administration, [[00:02:51](https://www.youtube.com/watch?v=U0BsorJTRsw&t=171.5s)]
+*  President Biden, do something which was optimistic, even by the standards of the peculiarity and [[00:02:57](https://www.youtube.com/watch?v=U0BsorJTRsw&t=177.74s)]
+*  exceptionality of the Israel-U.S. relationship. [[00:03:04](https://www.youtube.com/watch?v=U0BsorJTRsw&t=184.14s)]
+*  I had a Democrat president support my genocidal war. [[00:03:07](https://www.youtube.com/watch?v=U0BsorJTRsw&t=187.34s)]
+*  Now I have a Republican president ready to be part of my war against Iran. [[00:03:11](https://www.youtube.com/watch?v=U0BsorJTRsw&t=191.82s)]
+*  What we're seeing from the Democrats, I think we have to acknowledge, is they seem to be [[00:03:19](https://www.youtube.com/watch?v=U0BsorJTRsw&t=199.3s)]
+*  owning the mantle of the thinking person's war party, which is just so short of what [[00:03:22](https://www.youtube.com/watch?v=U0BsorJTRsw&t=202.66s)]
+*  is needed. [[00:03:28](https://www.youtube.com/watch?v=U0BsorJTRsw&t=208.1s)]
+*  The comments from them have been so little, so late. [[00:03:29](https://www.youtube.com/watch?v=U0BsorJTRsw&t=209.1s)]
+*  But this is a very dangerous escalation to be on. [[00:03:31](https://www.youtube.com/watch?v=U0BsorJTRsw&t=211.96s)]
+*  We've already heard your guest speaking about the dangers of proliferation well beyond this. [[00:03:34](https://www.youtube.com/watch?v=U0BsorJTRsw&t=214.9s)]
+*  We see how dangerous it is in the region. [[00:03:40](https://www.youtube.com/watch?v=U0BsorJTRsw&t=220.12s)]
+*  And the rest of the world is looking at this and saying, what lessons do we learn that [[00:03:42](https://www.youtube.com/watch?v=U0BsorJTRsw&t=222.66s)]
+*  America uses negotiations as a ruse, that America is pulled into a war by an ally? [[00:03:49](https://www.youtube.com/watch?v=U0BsorJTRsw&t=229.22s)]
+*  And people probably didn't hear, but I'm going to tell you what the Chinese representative [[00:03:54](https://www.youtube.com/watch?v=U0BsorJTRsw&t=234.98s)]
+*  said at the UN, because this is how America looks in the world now, and this is how China [[00:03:59](https://www.youtube.com/watch?v=U0BsorJTRsw&t=239.34s)]
+*  is positioning itself. [[00:04:03](https://www.youtube.com/watch?v=U0BsorJTRsw&t=243.46s)]
+*  China stood up as the leader of multilateralism, diplomacy and international law at the Security [[00:04:05](https://www.youtube.com/watch?v=U0BsorJTRsw&t=245.1s)]
+*  Council, and America violated all of those things. [[00:04:10](https://www.youtube.com/watch?v=U0BsorJTRsw&t=250.58s)]
