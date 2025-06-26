@@ -1,0 +1,136 @@
+---
+Date Generated: June 26, 2025
+Transcription Model: whisper medium 20231117
+Length: 419s
+Video Keywords: ['us strikes iran', 'us strikes iran actual footage', 'us strikes iran nuclear sites', 'iran', 'iran nuclear facility attack footage', 'iran nuclear facility', 'iran nuclear sites', 'iran nuclear program', 'iran nuclear weapons', 'nuclear programs', 'fox news', 'fox news media', 'fox news channel', 'fox news network', 'trump', 'donald trump', 'trump iran', 'us iran bomb strikes', 'israel iran ceasefire', 'israel iran conflict', 'israel iran ceasefire update', 'israel iran update', 'israel iran ceasefire trump']
+Video Views: 20432
+Video Rating: None
+Video Description: Fox News' Lucas Tomlinson reports the latest. Former NSC chief of staff under Trump Alex Gray also joins 'Fox & Friends First' to preview Secretary Hegseth's upcoming Pentagon briefing, the president's stance on Iranian relations moving forward and his effort to bolster NATO defense spending. #trump #iran #world #foxnews #news 
+Subscribe to Fox News! https://bit.ly/2vBUvAS
+Watch more Fox News Video: http://video.foxnews.com
+Watch Fox News Channel Live: http://www.foxnewsgo.com/
+FOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available in nearly 90 million homes and dominates the cable news landscape, routinely notching the top ten programs in the genre.
+Watch full episodes of your favorite shows
+The Five: https://www.foxnews.com/video/shows/the-five
+Special Report with Bret Baier: https://www.foxnews.com/video/shows/special-report
+Jesse Watters Primetime: https://www.foxnews.com/video/shows/jesse-watters-primetime
+Hannity: https://www.foxnews.com/video/shows/hannity
+The Ingraham Angle: https://www.foxnews.com/video/shows/ingraham-angle
+Gutfeld!: https://www.foxnews.com/video/shows/gutfeld
+Fox News @ Night: https://www.foxnews.com/video/shows/fox-news-night
+Follow Fox News on Facebook: https://www.facebook.com/FoxNews/
+Follow Fox News on Twitter: https://twitter.com/FoxNews/
+Follow Fox News on Instagram: https://www.instagram.com/foxnews/
+---
+
+# BREAKING: CIA confirms Iran's nuclear sites 'severely damaged'
+**Fox News - World News:** [June 26, 2025](https://www.youtube.com/watch?v=flbppT2491k)
+*  First, let's turn it over to Lucas Tomlinson with all the details on Secretary Hegset's [[00:00:00](https://www.youtube.com/watch?v=flbppT2491k&t=0.0s)]
+*  upcoming press conference this morning. [[00:00:04](https://www.youtube.com/watch?v=flbppT2491k&t=4.92s)]
+*  Hey, Lucas. [[00:00:06](https://www.youtube.com/watch?v=flbppT2491k&t=6.640000000000001s)]
+*  Good early morning, Carly and Todd. [[00:00:07](https://www.youtube.com/watch?v=flbppT2491k&t=7.640000000000001s)]
+*  President Trump returned to the White House late last night from the NATO summit in The [[00:00:10](https://www.youtube.com/watch?v=flbppT2491k&t=10.040000000000001s)]
+*  Hague after ordering the Pentagon to share intelligence with the world about that B-2 [[00:00:13](https://www.youtube.com/watch?v=flbppT2491k&t=13.24s)]
+*  strike on Iran's nuclear sites. [[00:00:18](https://www.youtube.com/watch?v=flbppT2491k&t=18.12s)]
+*  And the CIA director now weighing in with a statement of his own saying, quote, CIA [[00:00:19](https://www.youtube.com/watch?v=flbppT2491k&t=19.52s)]
+*  and confirm that a body of credible intelligence indicates Iran's nuclear program has been [[00:00:25](https://www.youtube.com/watch?v=flbppT2491k&t=25.16s)]
+*  severely damaged by the recent targeted strikes. [[00:00:30](https://www.youtube.com/watch?v=flbppT2491k&t=30.84s)]
+*  During a lengthy press conference following the summit, President Trump and his defense [[00:00:34](https://www.youtube.com/watch?v=flbppT2491k&t=34.480000000000004s)]
+*  secretary Pete Hegseth insist the mission those bombers were sent on was completed. [[00:00:37](https://www.youtube.com/watch?v=flbppT2491k&t=37.519999999999996s)]
+*  There are numerous of those reports and they're coming out fast and furious. [[00:00:43](https://www.youtube.com/watch?v=flbppT2491k&t=43.879999999999995s)]
+*  But the most respected ones we've already seen. [[00:00:48](https://www.youtube.com/watch?v=flbppT2491k&t=48.16s)]
+*  The site was obliterated, just like I said it was. [[00:00:50](https://www.youtube.com/watch?v=flbppT2491k&t=50.64s)]
+*  And just like the pilots should be given credit for. [[00:00:53](https://www.youtube.com/watch?v=flbppT2491k&t=53.72s)]
+*  So if you want to make an assessment of what happened at Fordow, you better get a big shovel [[00:00:56](https://www.youtube.com/watch?v=flbppT2491k&t=56.76s)]
+*  and go really deep because Iran's nuclear program is obliterated. [[00:01:01](https://www.youtube.com/watch?v=flbppT2491k&t=61.84s)]
+*  As the sea fire between Iran and Israel appears to be holding, Trump says he's looking at [[00:01:07](https://www.youtube.com/watch?v=flbppT2491k&t=67.34s)]
+*  talking to Iran next week and perhaps working on a pledge by the Islamic Republic to give [[00:01:11](https://www.youtube.com/watch?v=flbppT2491k&t=71.36s)]
+*  up its nuclear program. [[00:01:16](https://www.youtube.com/watch?v=flbppT2491k&t=76.66s)]
+*  Look, we're going to talk to them next week with Iran. [[00:01:18](https://www.youtube.com/watch?v=flbppT2491k&t=78.6s)]
+*  We may sign an agreement. [[00:01:24](https://www.youtube.com/watch?v=flbppT2491k&t=84.64s)]
+*  I don't know. [[00:01:26](https://www.youtube.com/watch?v=flbppT2491k&t=86.0s)]
+*  To me, I don't think it's that necessary. [[00:01:27](https://www.youtube.com/watch?v=flbppT2491k&t=87.0s)]
+*  I mean, they had a war, they fought. [[00:01:28](https://www.youtube.com/watch?v=flbppT2491k&t=88.24s)]
+*  Now they're going back to their world. [[00:01:30](https://www.youtube.com/watch?v=flbppT2491k&t=90.24s)]
+*  I don't care if I have an agreement or not. [[00:01:31](https://www.youtube.com/watch?v=flbppT2491k&t=91.8s)]
+*  The only thing we'd be asking for is what we were asking for before about we want no [[00:01:34](https://www.youtube.com/watch?v=flbppT2491k&t=94.5s)]
+*  nuclear, but we destroyed the nuclear. [[00:01:38](https://www.youtube.com/watch?v=flbppT2491k&t=98.88s)]
+*  And Carly, that Pentagon briefing scheduled for 8 a.m. Eastern will be carrying it right [[00:01:43](https://www.youtube.com/watch?v=flbppT2491k&t=103.0s)]
+*  here live. [[00:01:46](https://www.youtube.com/watch?v=flbppT2491k&t=106.91999999999999s)]
+*  We'll be watching it right here on the Fox News channel. [[00:01:48](https://www.youtube.com/watch?v=flbppT2491k&t=108.24s)]
+*  We certainly will be watching. [[00:01:50](https://www.youtube.com/watch?v=flbppT2491k&t=110.2s)]
+*  Thank you. [[00:01:51](https://www.youtube.com/watch?v=flbppT2491k&t=111.56s)]
+*  That's an amazing tease. [[00:01:52](https://www.youtube.com/watch?v=flbppT2491k&t=112.56s)]
+*  We will do it more. [[00:01:54](https://www.youtube.com/watch?v=flbppT2491k&t=114.0s)]
+*  So I say keep your station locked to Fox News. [[00:01:55](https://www.youtube.com/watch?v=flbppT2491k&t=115.0s)]
+*  How about that? [[00:01:57](https://www.youtube.com/watch?v=flbppT2491k&t=117.36s)]
+*  We have that doubling down. [[00:01:58](https://www.youtube.com/watch?v=flbppT2491k&t=118.36s)]
+*  Lucas, thank you. [[00:01:59](https://www.youtube.com/watch?v=flbppT2491k&t=119.36s)]
+*  Locked and loaded. [[00:02:00](https://www.youtube.com/watch?v=flbppT2491k&t=120.36s)]
+*  Let's bring in former NSC chief of staff under President Trump, Alex Gray. [[00:02:01](https://www.youtube.com/watch?v=flbppT2491k&t=121.36s)]
+*  Alex, let's start there. [[00:02:05](https://www.youtube.com/watch?v=flbppT2491k&t=125.28s)]
+*  What are you expecting to hear from Secretary of Defense Pete Hegseth in just a few hours? [[00:02:06](https://www.youtube.com/watch?v=flbppT2491k&t=126.4s)]
+*  Well, thanks, Todd. [[00:02:11](https://www.youtube.com/watch?v=flbppT2491k&t=131.48s)]
+*  I expect Secretary Hegseth is going to lay out in more granular detail what we've learned [[00:02:13](https://www.youtube.com/watch?v=flbppT2491k&t=133.88s)]
+*  about the operation since it's ended, what we know about the success, what we've learned [[00:02:18](https://www.youtube.com/watch?v=flbppT2491k&t=138.76000000000002s)]
+*  about the post battle damage assessment. [[00:02:24](https://www.youtube.com/watch?v=flbppT2491k&t=144.36s)]
+*  And I think hopefully what the secretary is going to give us more information on is kind [[00:02:28](https://www.youtube.com/watch?v=flbppT2491k&t=148.28s)]
+*  of a granular readout of what the intelligence agencies have been able to learn in the last [[00:02:33](https://www.youtube.com/watch?v=flbppT2491k&t=153.12s)]
+*  couple of days so we can finally put to rest some of these naysayers who have been openly [[00:02:38](https://www.youtube.com/watch?v=flbppT2491k&t=158.48s)]
+*  contradicting what the president has said, some of the leaking that's gone on, just so [[00:02:44](https://www.youtube.com/watch?v=flbppT2491k&t=164.0s)]
+*  we can have kind of a definitive understanding of the success that the president and his [[00:02:48](https://www.youtube.com/watch?v=flbppT2491k&t=168.44s)]
+*  senior officials have been telling us. [[00:02:54](https://www.youtube.com/watch?v=flbppT2491k&t=174.23999999999998s)]
+*  I think I'd like to get that formally in the record. [[00:02:57](https://www.youtube.com/watch?v=flbppT2491k&t=177.12s)]
+*  That would be helpful. [[00:02:59](https://www.youtube.com/watch?v=flbppT2491k&t=179.76s)]
+*  And those naysayers, to be clear once again, have been calling into question the success [[00:03:00](https://www.youtube.com/watch?v=flbppT2491k&t=180.83999999999997s)]
+*  of this absolutely remarkable mission based off of a non-low confidence intelligence assessment. [[00:03:05](https://www.youtube.com/watch?v=flbppT2491k&t=185.08s)]
+*  Let's keep that clear as well. [[00:03:12](https://www.youtube.com/watch?v=flbppT2491k&t=192.96s)]
+*  Meantime, the president trying to explain what happened during the strike. [[00:03:14](https://www.youtube.com/watch?v=flbppT2491k&t=194.64000000000001s)]
+*  Take a listen. [[00:03:18](https://www.youtube.com/watch?v=flbppT2491k&t=198.0s)]
+*  They call it dust, but it's very, very heavy. [[00:03:19](https://www.youtube.com/watch?v=flbppT2491k&t=199.76000000000002s)]
+*  It's very, very hard to move. [[00:03:22](https://www.youtube.com/watch?v=flbppT2491k&t=202.28s)]
+*  And they were way down, you know, they're 30 stories down. [[00:03:24](https://www.youtube.com/watch?v=flbppT2491k&t=204.44s)]
+*  We think it's covered with granite, concrete, and steel. [[00:03:27](https://www.youtube.com/watch?v=flbppT2491k&t=207.8s)]
+*  OK, in light of that fact that it appears that the Iranian nuclear program is in really [[00:03:33](https://www.youtube.com/watch?v=flbppT2491k&t=213.72s)]
+*  bad shape, I'll just say that before Pete Haystaff speaks in a couple of hours, what [[00:03:39](https://www.youtube.com/watch?v=flbppT2491k&t=219.08s)]
+*  should we expect to come out of this Iran-U.S. meeting? [[00:03:43](https://www.youtube.com/watch?v=flbppT2491k&t=223.4s)]
+*  Well I think that the Iranians saw exactly what happens when you have a president who's [[00:03:48](https://www.youtube.com/watch?v=flbppT2491k&t=228.04s)]
+*  willing to not just talk endlessly for no purpose, but who views negotiations as an [[00:03:53](https://www.youtube.com/watch?v=flbppT2491k&t=233.04s)]
+*  opportunity to advance U.S. interests and who is unafraid if you're on the other side [[00:03:58](https://www.youtube.com/watch?v=flbppT2491k&t=238.28s)]
+*  of the table and you're unwilling to be a good faith negotiator, he's willing to use [[00:04:03](https://www.youtube.com/watch?v=flbppT2491k&t=243.34s)]
+*  the United States military to make sure that our interests are protected. [[00:04:08](https://www.youtube.com/watch?v=flbppT2491k&t=248.1s)]
+*  And the Iranians had their chance, they lost it, and now they have to make a strategic [[00:04:12](https://www.youtube.com/watch?v=flbppT2491k&t=252.62s)]
+*  decision. [[00:04:17](https://www.youtube.com/watch?v=flbppT2491k&t=257.22s)]
+*  Do they want to spend the next 10 years as a global pariah with no nuclear deterrent? [[00:04:18](https://www.youtube.com/watch?v=flbppT2491k&t=258.22s)]
+*  Or do they want to have an opportunity, which I think President Trump is sincere in giving [[00:04:25](https://www.youtube.com/watch?v=flbppT2491k&t=265.18s)]
+*  and re-enter the global community with a good faith effort to try and get back on track [[00:04:31](https://www.youtube.com/watch?v=flbppT2491k&t=271.06s)]
+*  with the United States and our allies. [[00:04:37](https://www.youtube.com/watch?v=flbppT2491k&t=277.9s)]
+*  I think the president is very genuine when he says he wants to have, as he said many [[00:04:40](https://www.youtube.com/watch?v=flbppT2491k&t=280.06s)]
+*  times over the last couple months, he'd like to have negotiations that lead to a detente [[00:04:44](https://www.youtube.com/watch?v=flbppT2491k&t=284.66s)]
+*  in the region so we can have mutual prosperity. [[00:04:49](https://www.youtube.com/watch?v=flbppT2491k&t=289.42s)]
+*  But the choices would be Iranian and Ayatollah's. [[00:04:52](https://www.youtube.com/watch?v=flbppT2491k&t=292.42s)]
+*  We will be watching that with bated breath. [[00:04:54](https://www.youtube.com/watch?v=flbppT2491k&t=294.92s)]
+*  I'm NATO Secretary General Mark Ruda giving praise to President Trump yesterday for his [[00:04:56](https://www.youtube.com/watch?v=flbppT2491k&t=296.78s)]
+*  role in getting NATO members to agree to that 5% total amount of defense spending. [[00:05:00](https://www.youtube.com/watch?v=flbppT2491k&t=300.97999999999996s)]
+*  Listen. [[00:05:06](https://www.youtube.com/watch?v=flbppT2491k&t=306.94s)]
+*  President Trump, dear Donald, you made this change possible. [[00:05:07](https://www.youtube.com/watch?v=flbppT2491k&t=307.94s)]
+*  Your leadership on this has already produced one trillion dollars in extra spending from [[00:05:13](https://www.youtube.com/watch?v=flbppT2491k&t=313.14s)]
+*  European allies since 2016. [[00:05:18](https://www.youtube.com/watch?v=flbppT2491k&t=318.41999999999996s)]
+*  The decisions today will produce trillions more for our common defense to make us stronger [[00:05:21](https://www.youtube.com/watch?v=flbppT2491k&t=321.22s)]
+*  and fairer by equalizing spending between America and America's allies. [[00:05:27](https://www.youtube.com/watch?v=flbppT2491k&t=327.70000000000005s)]
+*  Alex, did Donald Trump just usher in a new era of peace through strength, not just in [[00:05:33](https://www.youtube.com/watch?v=flbppT2491k&t=333.02000000000004s)]
+*  America but throughout the world with both the Iranian strike and this 5% NATO commitment? [[00:05:38](https://www.youtube.com/watch?v=flbppT2491k&t=338.86s)]
+*  Todd, he's done more than any president since Ronald Reagan to build a world that understands [[00:05:47](https://www.youtube.com/watch?v=flbppT2491k&t=347.22s)]
+*  that peace is only possible if the United States has an overwhelming capacity, capability, [[00:05:53](https://www.youtube.com/watch?v=flbppT2491k&t=353.58000000000004s)]
+*  and willingness to use force as needed on the global stage. [[00:06:01](https://www.youtube.com/watch?v=flbppT2491k&t=361.42s)]
+*  And I think we're going to see incredible opportunities for peace because the president [[00:06:05](https://www.youtube.com/watch?v=flbppT2491k&t=365.98s)]
+*  has been so willing to be that dynamic actor on the global stage. [[00:06:10](https://www.youtube.com/watch?v=flbppT2491k&t=370.5s)]
+*  Now, let's be very clear, Todd, about NATO. [[00:06:15](https://www.youtube.com/watch?v=flbppT2491k&t=375.94s)]
+*  Harry Truman may have built NATO when he was president. [[00:06:17](https://www.youtube.com/watch?v=flbppT2491k&t=377.94s)]
+*  Donald Trump saved it by being willing to fight and pressure and cajole and to use every [[00:06:20](https://www.youtube.com/watch?v=flbppT2491k&t=380.94s)]
+*  tool in his kit to make sure that NATO members were willing to finally spend first 2%, now [[00:06:27](https://www.youtube.com/watch?v=flbppT2491k&t=387.06s)]
+*  5% of GDP on defense. [[00:06:32](https://www.youtube.com/watch?v=flbppT2491k&t=392.94s)]
+*  And if he hadn't done that, which every president since Carter had been urging NATO allies to [[00:06:35](https://www.youtube.com/watch?v=flbppT2491k&t=395.38s)]
+*  do, if he hadn't done that, NATO would be a totally toothless alliance today. [[00:06:39](https://www.youtube.com/watch?v=flbppT2491k&t=399.9s)]
+*  Alex Gray, thank you for your insight this morning. [[00:06:45](https://www.youtube.com/watch?v=flbppT2491k&t=405.54s)]
+*  We appreciate it. [[00:06:47](https://www.youtube.com/watch?v=flbppT2491k&t=407.46s)]

@@ -1,0 +1,97 @@
+---
+Date Generated: June 26, 2025
+Transcription Model: whisper medium 20231117
+Length: 428s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 1694
+Video Rating: None
+Video Description: The CIA director has backed US President Donald Trump's view that the US strikes on Iran's nuclear sites caused severe damage.
+John Ratcliffe said his agency has new intelligence that "several key Iranian nuclear facilities were destroyed”.
+The Trump administration had been pushing back against a leaked intelligence assessment that suggested US attacks had only set back Iran's plans by “a few months”.
+Meanwhile, the ceasefire between Israel and Iran seems to be holding and Trump said he doesn't think "they'll be going back at each other”.
+ 
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#Iran #Israel #BBCNews
+---
+
+# Intelligence indicates Iran nuclear programme 'severely damaged’, says CIA | BBC News
+**BBC - The Latest:** [June 26, 2025](https://www.youtube.com/watch?v=UqImGfPbfXI)
+*  The United States top intelligence official, the CIA director John Radcliffe, says new [[00:00:00](https://www.youtube.com/watch?v=UqImGfPbfXI&t=0.0s)]
+*  intelligence suggests that the American strikes on the Iranian nuclear sites had left them [[00:00:05](https://www.youtube.com/watch?v=UqImGfPbfXI&t=5.5200000000000005s)]
+*  severely damaged and that Iran's nuclear programme could take years to rebuild. Several officials [[00:00:11](https://www.youtube.com/watch?v=UqImGfPbfXI&t=11.74s)]
+*  within the Trump administration, including the President himself, have insisted that [[00:00:20](https://www.youtube.com/watch?v=UqImGfPbfXI&t=20.32s)]
+*  the sites were, in his words, totally obliterated. Meanwhile, an Israeli assessment says that [[00:00:24](https://www.youtube.com/watch?v=UqImGfPbfXI&t=24.56s)]
+*  the US strikes on Iran's nuclear facilities, combined with its own attacks, have set back [[00:00:31](https://www.youtube.com/watch?v=UqImGfPbfXI&t=31.68s)]
+*  Iran's ability to develop nuclear weapons by years. It comes off the back of a leaked [[00:00:36](https://www.youtube.com/watch?v=UqImGfPbfXI&t=36.56s)]
+*  Pentagon assessment suggesting Iran's programme had probably only been set back by a few months [[00:00:42](https://www.youtube.com/watch?v=UqImGfPbfXI&t=42.8s)]
+*  rather than years. Well, the US defence secretary, Pete Hegseth, criticised those American media [[00:00:49](https://www.youtube.com/watch?v=UqImGfPbfXI&t=49.08s)]
+*  outlets for carrying that initial assessment by the Pentagon intelligence agency, saying [[00:00:56](https://www.youtube.com/watch?v=UqImGfPbfXI&t=56.199999999999996s)]
+*  that it was preliminary. [[00:01:02](https://www.youtube.com/watch?v=UqImGfPbfXI&t=62.48s)]
+*  So what do leakers do? They have agendas. And what do they do? Do they share the whole [[00:01:04](https://www.youtube.com/watch?v=UqImGfPbfXI&t=64.48s)]
+*  information or just the part that they want to introduce? And when they introduce that [[00:01:09](https://www.youtube.com/watch?v=UqImGfPbfXI&t=69.22s)]
+*  preliminary, a preliminary report that's deemed to be a low assessment, you know what [[00:01:13](https://www.youtube.com/watch?v=UqImGfPbfXI&t=73.52s)]
+*  a low assessment means? Low confidence in the data in that report. And why is there [[00:01:20](https://www.youtube.com/watch?v=UqImGfPbfXI&t=80.75999999999999s)]
+*  low confidence? Because all of the evidence of what was just bombed by 12, 30,000 pound [[00:01:25](https://www.youtube.com/watch?v=UqImGfPbfXI&t=85.24s)]
+*  bombs is buried under a mountain, devastated and obliterated. [[00:01:31](https://www.youtube.com/watch?v=UqImGfPbfXI&t=91.84s)]
+*  A bullish Pete Hegseth there. Well, let's bring in my colleague Dan Johnson, who is [[00:01:37](https://www.youtube.com/watch?v=UqImGfPbfXI&t=97.92s)]
+*  live with us from our Jerusalem bureau. Dan, while the row goes on about the extent of [[00:01:42](https://www.youtube.com/watch?v=UqImGfPbfXI&t=102.0s)]
+*  the American damage on Iran's nuclear sites, Donald Trump has also weighed in on Benjamin [[00:01:48](https://www.youtube.com/watch?v=UqImGfPbfXI&t=108.56s)]
+*  Netanyahu's political and indeed legal woes at the moment. Tell us more. [[00:01:54](https://www.youtube.com/watch?v=UqImGfPbfXI&t=114.0s)]
+*  Yes, this is a posting by the US president on his Truth Social Network. He's written [[00:01:59](https://www.youtube.com/watch?v=UqImGfPbfXI&t=119.0s)]
+*  a huge long post, quite extraordinary, writing there his support for Benjamin Netanyahu. [[00:02:06](https://www.youtube.com/watch?v=UqImGfPbfXI&t=126.72s)]
+*  Donald Trump said that Netanyahu was a great wartime prime minister, a warrior who was [[00:02:12](https://www.youtube.com/watch?v=UqImGfPbfXI&t=132.4s)]
+*  facing a ridiculous witch hunt. He said they'd been through hell together and that Netanyahu [[00:02:17](https://www.youtube.com/watch?v=UqImGfPbfXI&t=137.0s)]
+*  could not have been better, sharper or stronger. The US president again talked about the elimination [[00:02:21](https://www.youtube.com/watch?v=UqImGfPbfXI&t=141.68s)]
+*  of Iran's nuclear weapons and said that they'd been fighting for the survival of Israel. [[00:02:26](https://www.youtube.com/watch?v=UqImGfPbfXI&t=146.72s)]
+*  He said that he just found out Netanyahu would be summoned back to court next week. And that [[00:02:31](https://www.youtube.com/watch?v=UqImGfPbfXI&t=151.88s)]
+*  is the latest stage of a corruption trial that Benjamin Netanyahu has been facing, these [[00:02:36](https://www.youtube.com/watch?v=UqImGfPbfXI&t=156.6s)]
+*  allegations that he's been facing over the last few years. That case has been going through [[00:02:42](https://www.youtube.com/watch?v=UqImGfPbfXI&t=162.04s)]
+*  the courts in recent months. The prime minister's had to give evidence there. Donald Trump says [[00:02:46](https://www.youtube.com/watch?v=UqImGfPbfXI&t=166.6s)]
+*  that that is politically motivated, a horror show, which he says should be cancelled or [[00:02:51](https://www.youtube.com/watch?v=UqImGfPbfXI&t=171.72s)]
+*  Benjamin Netanyahu should be pardoned for. He's called it a travesty of justice and said [[00:02:56](https://www.youtube.com/watch?v=UqImGfPbfXI&t=176.51999999999998s)]
+*  that after saving Israel, the US would now do what it could to save Benjamin Netanyahu. [[00:03:01](https://www.youtube.com/watch?v=UqImGfPbfXI&t=181.02s)]
+*  And Dan, while the focus has been very much on Iran, of course, over the last two weeks, [[00:03:08](https://www.youtube.com/watch?v=UqImGfPbfXI&t=188.78s)]
+*  it is, there are several other hot spots of hostility in the region, not least in the [[00:03:13](https://www.youtube.com/watch?v=UqImGfPbfXI&t=193.42000000000002s)]
+*  West Bank, the occupied West Bank, where there has been renewed violence and indeed fatalities [[00:03:18](https://www.youtube.com/watch?v=UqImGfPbfXI&t=198.14000000000001s)]
+*  there. Give us the latest on that. Yes, all quiet overnight in terms of Israel, Iran, [[00:03:22](https://www.youtube.com/watch?v=UqImGfPbfXI&t=202.94s)]
+*  that ceasefire does seem to be holding, but still there is loss of life in Gaza and also [[00:03:30](https://www.youtube.com/watch?v=UqImGfPbfXI&t=210.44s)]
+*  in the West Bank, something that hasn't had a lot of attention over recent weeks, but [[00:03:34](https://www.youtube.com/watch?v=UqImGfPbfXI&t=214.74s)]
+*  something that has been ramping up ever since the October the seventh attacks, Israeli settlers [[00:03:39](https://www.youtube.com/watch?v=UqImGfPbfXI&t=219.07999999999998s)]
+*  who are raiding Palestinian villages, setting fire to homes and cars. And this is what we [[00:03:43](https://www.youtube.com/watch?v=UqImGfPbfXI&t=223.64s)]
+*  saw last night, dozens of masked figures ransacking a village, a town just to the northeast of [[00:03:48](https://www.youtube.com/watch?v=UqImGfPbfXI&t=228.44s)]
+*  Ramallah in the occupied West Bank. They were carrying sticks, they were setting fire to [[00:03:54](https://www.youtube.com/watch?v=UqImGfPbfXI&t=234.62s)]
+*  vehicles and to Palestinian homes. The Israeli military says that soldiers were called to [[00:03:58](https://www.youtube.com/watch?v=UqImGfPbfXI&t=238.6s)]
+*  respond to a confrontation there, both sides throwing stones at each other. The Israeli [[00:04:03](https://www.youtube.com/watch?v=UqImGfPbfXI&t=243.72s)]
+*  military says its soldiers came under attack and that's why they opened fire. Three Palestinians [[00:04:09](https://www.youtube.com/watch?v=UqImGfPbfXI&t=249.1s)]
+*  were shot dead there, at least seven were injured. It's the sort of thing that we've [[00:04:14](https://www.youtube.com/watch?v=UqImGfPbfXI&t=254.07999999999998s)]
+*  seen repeatedly carried out by Israeli settlers and increasingly over the last few months. [[00:04:18](https://www.youtube.com/watch?v=UqImGfPbfXI&t=258.04s)]
+*  A reminder that Palestinian lives are at risk in the West Bank as much as they are [[00:04:24](https://www.youtube.com/watch?v=UqImGfPbfXI&t=264.0s)]
+*  in Gaza. [[00:04:27](https://www.youtube.com/watch?v=UqImGfPbfXI&t=267.64s)]
+*  Dan Johnson in Jerusalem, thanks very much indeed. As Dan was saying, the ceasefire with [[00:04:30](https://www.youtube.com/watch?v=UqImGfPbfXI&t=270.16s)]
+*  Iran appears to be holding for now. Our chief international correspondent, Liz Doucette, [[00:04:34](https://www.youtube.com/watch?v=UqImGfPbfXI&t=274.6s)]
+*  is in Tehran. She is being allowed to report from there on condition that her reports are [[00:04:39](https://www.youtube.com/watch?v=UqImGfPbfXI&t=279.72s)]
+*  not broadcast on the BBC's Persian service, which broadcasts to the people of Iran. This [[00:04:44](https://www.youtube.com/watch?v=UqImGfPbfXI&t=284.86s)]
+*  law is being applied by the Iranian authorities to all international media outlets in Iran. [[00:04:51](https://www.youtube.com/watch?v=UqImGfPbfXI&t=291.68s)]
+*  She says that on the streets of Tehran there is a growing sense of returning to normality. [[00:04:58](https://www.youtube.com/watch?v=UqImGfPbfXI&t=298.16s)]
+*  Enormous relief that the bombs have stopped falling. You can feel even hour by hour the [[00:05:05](https://www.youtube.com/watch?v=UqImGfPbfXI&t=305.44s)]
+*  rhythms of this city returning, if we can say normal, but that's only on the surface. [[00:05:13](https://www.youtube.com/watch?v=UqImGfPbfXI&t=313.44s)]
+*  Just a short time ago I saw a group of young Iranian men and women, all of them in their [[00:05:18](https://www.youtube.com/watch?v=UqImGfPbfXI&t=318.76000000000005s)]
+*  running gear. It's a beautiful summer's day here. Traffic is starting to return. The first [[00:05:23](https://www.youtube.com/watch?v=UqImGfPbfXI&t=323.04s)]
+*  international flights will happen today. The internet is restored so Iranians can use many [[00:05:30](https://www.youtube.com/watch?v=UqImGfPbfXI&t=330.28000000000003s)]
+*  social media apps. They are banned here at all times, so they use VPNs to get around [[00:05:36](https://www.youtube.com/watch?v=UqImGfPbfXI&t=336.14000000000004s)]
+*  them. So conversations are starting online, some for and some against the governments. [[00:05:41](https://www.youtube.com/watch?v=UqImGfPbfXI&t=341.6s)]
+*  You can see on the streets of Tehran there are still cafes and shops and government [[00:05:46](https://www.youtube.com/watch?v=UqImGfPbfXI&t=346.96s)]
+*  offices which are still shut. So many people left this city when Israel started attacking [[00:05:51](https://www.youtube.com/watch?v=UqImGfPbfXI&t=351.64s)]
+*  and some of them haven't come back yet. They want to be sure that this ceasefire is going [[00:05:58](https://www.youtube.com/watch?v=UqImGfPbfXI&t=358.44s)]
+*  to hold. The officials here are maintaining a very defiant tone. The president, Masoud [[00:06:04](https://www.youtube.com/watch?v=UqImGfPbfXI&t=364.46s)]
+*  Peshishtian, had sent a message to the nation last night, hailing the resilience and the [[00:06:12](https://www.youtube.com/watch?v=UqImGfPbfXI&t=372.12s)]
+*  defiance. Last night we went to a concert in a landmark square here in the city, Asadi [[00:06:17](https://www.youtube.com/watch?v=UqImGfPbfXI&t=377.24s)]
+*  Square, Freedom Square. It's where Iranians often gather at defining moments in history [[00:06:23](https://www.youtube.com/watch?v=UqImGfPbfXI&t=383.88s)]
+*  and underneath this beautiful iconic shrine of the soaring white marble the Tehran Symphony [[00:06:29](https://www.youtube.com/watch?v=UqImGfPbfXI&t=389.6s)]
+*  Orchestra was playing. And Iranians came and talking to them, some supported the government, [[00:06:36](https://www.youtube.com/watch?v=UqImGfPbfXI&t=396.48s)]
+*  some didn't support the government, but they were all there to listen to the patriotic [[00:06:41](https://www.youtube.com/watch?v=UqImGfPbfXI&t=401.76s)]
+*  songs and say, really worrying for this moment. The emotions are still raw, worried most of [[00:06:45](https://www.youtube.com/watch?v=UqImGfPbfXI&t=405.8s)]
+*  all about the future of their country. And yes, the conversations will start in public [[00:06:52](https://www.youtube.com/watch?v=UqImGfPbfXI&t=412.52s)]
+*  and private, but right now Iranians are just trying to come to terms with the enormity [[00:06:59](https://www.youtube.com/watch?v=UqImGfPbfXI&t=419.08s)]
+*  of what has been happening here. [[00:07:03](https://www.youtube.com/watch?v=UqImGfPbfXI&t=423.6s)]
