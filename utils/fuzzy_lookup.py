@@ -103,6 +103,5 @@ def fuzzy_matching(target_word, segments, fuzzy_threshold=0.8):
 			if max_fuzzy[0] >= fuzzy_threshold:
 				break
 	# align the target word, match score and the segment print using fstring
-	target_word_print = '\"" + target_word + "\""'
-	print(f'  {target_word_print:<20} Match Score: {round(max_fuzzy[0], 4):<6} | Match: {max_fuzzy[1]}')
+	print(f'  {target_word:<20} Match Score: {round(max_fuzzy[0], 4):<6} | Match: {max_fuzzy[1]}')
 	return (max_fuzzy[0], max_fuzzy[1])

@@ -9,6 +9,7 @@ mena_topics = [
   'yemen',
 	'egypt',
 	'lebanon',
+	'saudi arabia',
 	'arab',
 	'saudi',
 	'qatar',
