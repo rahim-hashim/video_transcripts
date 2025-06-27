@@ -1,0 +1,96 @@
+---
+Date Generated: June 27, 2025
+Transcription Model: whisper medium 20231117
+Length: 562s
+Video Keywords: ['bbc', 'bbc news', 'news', 'world news', 'breaking news', 'us news', 'world', 'america', 'usa', 'usa news', 'india news']
+Video Views: 81172
+Video Rating: None
+Video Description: Warning: Contains descriptions of sexual exploitation
+This BBC investigation reveals exploitation and abuse in the booming global webcam sex industry, where live sexual performances are streamed to millions of men worldwide. 
+With nearly 15 billion views across major platforms last year, the demand is enormous - and so are the consequences. 
+In countries like Colombia, where webcamming can be a lucrative option amid poverty, models share disturbing experiences: streaming from cramped cubicles, being fined for toilet breaks, coerced into degrading acts, and in some cases, recruited as minors. 
+This story offers rare access and powerful first-hand accounts, exposing the darker realities of one of the fastest-growing sectors of the global sex industry. 
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#Colombia #BBCNews
+---
+
+# Inside Colombia’s booming sexcam industry | BBC News
+**BBC - The Latest:** [June 26, 2025](https://www.youtube.com/watch?v=yyRMus9bouo)
+*  Hi! [[00:00:00](https://www.youtube.com/watch?v=yyRMus9bouo&t=0.0s)]
+*  Adult webcam modelling, a booming industry estimated to be worth billions of dollars. [[00:00:05](https://www.youtube.com/watch?v=yyRMus9bouo&t=5.0s)]
+*  Welcome to my show! Nice to meet you. [[00:00:11](https://www.youtube.com/watch?v=yyRMus9bouo&t=11.0s)]
+*  Now, Colombia has overtaken Romania as the country with the highest number of models. [[00:00:14](https://www.youtube.com/watch?v=yyRMus9bouo&t=14.0s)]
+*  Here, hundreds of thousands of women are streaming live sexual acts to men all over the world. [[00:00:20](https://www.youtube.com/watch?v=yyRMus9bouo&t=20.0s)]
+*  We revolutionise and improve the quality of life of thousands of women. [[00:00:27](https://www.youtube.com/watch?v=yyRMus9bouo&t=27.0s)]
+*  I earn monthly between $5,000 and sometimes even up to $10,000. [[00:00:33](https://www.youtube.com/watch?v=yyRMus9bouo&t=33.0s)]
+*  But at what cost? [[00:00:40](https://www.youtube.com/watch?v=yyRMus9bouo&t=40.0s)]
+*  There are 500,000 girls who are involved in these studies of slavery. [[00:00:42](https://www.youtube.com/watch?v=yyRMus9bouo&t=42.0s)]
+*  Is this a good way for Colombian women to earn money? [[00:00:48](https://www.youtube.com/watch?v=yyRMus9bouo&t=48.0s)]
+*  Or are they being exposed to new forms of digital exploitation? [[00:00:52](https://www.youtube.com/watch?v=yyRMus9bouo&t=52.0s)]
+*  Content can be explicit, it can be bollaristic, it can be about fetishes. [[00:01:23](https://www.youtube.com/watch?v=yyRMus9bouo&t=83.0s)]
+*  I feel that the people who enter there don't have anyone to talk to, so they look for company in us. [[00:01:31](https://www.youtube.com/watch?v=yyRMus9bouo&t=91.0s)]
+*  Most of these people come for content that is clearly explicit and sexual. Others don't. [[00:01:37](https://www.youtube.com/watch?v=yyRMus9bouo&t=97.0s)]
+*  Puky works independently, but many women choose to work in webcam studios, [[00:01:43](https://www.youtube.com/watch?v=yyRMus9bouo&t=103.0s)]
+*  which provide them with everything they need for their performances. [[00:01:49](https://www.youtube.com/watch?v=yyRMus9bouo&t=109.0s)]
+*  This is a webcam studio. There are thousands of them all over Colombia. [[00:01:53](https://www.youtube.com/watch?v=yyRMus9bouo&t=113.0s)]
+*  In each of these rooms, a model is streaming adult content online for hours to men from all over the world. [[00:01:58](https://www.youtube.com/watch?v=yyRMus9bouo&t=118.0s)]
+*  The demand for this kind of content is huge and it's growing. [[00:02:06](https://www.youtube.com/watch?v=yyRMus9bouo&t=126.0s)]
+*  Studios range from small, low-budget operations to large enterprises like this. [[00:02:12](https://www.youtube.com/watch?v=yyRMus9bouo&t=132.0s)]
+*  Father and son Juan Carlos and Anthony Rivera run a webcoming empire. [[00:02:19](https://www.youtube.com/watch?v=yyRMus9bouo&t=139.0s)]
+*  Yeah, so currently Colombia has become the number one country as far as number of models and number of studios. [[00:02:25](https://www.youtube.com/watch?v=yyRMus9bouo&t=145.0s)]
+*  This is an industry that has grown massively in the last few years. [[00:02:33](https://www.youtube.com/watch?v=yyRMus9bouo&t=153.0s)]
+*  And it has transformed how adult content is consumed and monetized. [[00:02:38](https://www.youtube.com/watch?v=yyRMus9bouo&t=158.0s)]
+*  Between 2024 and 2025, the four largest webcam streaming platforms had more than 15 billion views. [[00:02:43](https://www.youtube.com/watch?v=yyRMus9bouo&t=163.0s)]
+*  The key component in our industry is the interaction, the interactivity. That's what really hooks the clients. [[00:02:52](https://www.youtube.com/watch?v=yyRMus9bouo&t=172.0s)]
+*  These financial opportunities are what every model we spoke with is drawn to, [[00:03:09](https://www.youtube.com/watch?v=yyRMus9bouo&t=189.0s)]
+*  in a country where nearly one-third of the population lives in poverty. [[00:03:15](https://www.youtube.com/watch?v=yyRMus9bouo&t=195.0s)]
+*  But we also had accounts of exploitation and abuse. [[00:03:24](https://www.youtube.com/watch?v=yyRMus9bouo&t=204.0s)]
+*  Sophie is among the women who told us about filming for up to 18 hours in cramped cubicles and fines for eating or going to the toilet. [[00:03:38](https://www.youtube.com/watch?v=yyRMus9bouo&t=218.0s)]
+*  Sophie says the studio monitors who assist the models would make agreements with clients on her behalf. [[00:03:57](https://www.youtube.com/watch?v=yyRMus9bouo&t=237.0s)]
+*  One of them was being forced to do a sex act until she vomited. [[00:04:05](https://www.youtube.com/watch?v=yyRMus9bouo&t=245.0s)]
+*  The abuse in the industry is such that even the president of Colombia has recently spoken out. [[00:04:20](https://www.youtube.com/watch?v=yyRMus9bouo&t=260.0s)]
+*  There are studios with bad practice that exploit their models. However, it is not the majority of studios. [[00:04:36](https://www.youtube.com/watch?v=yyRMus9bouo&t=276.0s)]
+*  There are managers who demand a lot from their models to make money, make money, make money. [[00:04:43](https://www.youtube.com/watch?v=yyRMus9bouo&t=283.0s)]
+*  We've heard testimony from women who were hired as children. [[00:04:50](https://www.youtube.com/watch?v=yyRMus9bouo&t=290.0s)]
+*  The studio's sidestepping age checks. [[00:04:54](https://www.youtube.com/watch?v=yyRMus9bouo&t=294.0s)]
+*  Kaynie says she's been webcombing since she was 17. [[00:04:57](https://www.youtube.com/watch?v=yyRMus9bouo&t=297.0s)]
+*  There are times when they ask for very strong things, like hurting yourself. [[00:05:19](https://www.youtube.com/watch?v=yyRMus9bouo&t=319.0s)]
+*  Some people like it and they interpret it as children. [[00:05:24](https://www.youtube.com/watch?v=yyRMus9bouo&t=324.0s)]
+*  If I was a minor, I wouldn't recommend starting in that world. I was too young. [[00:05:31](https://www.youtube.com/watch?v=yyRMus9bouo&t=331.0s)]
+*  To present myself as a studio in front of the platforms, I only have to deliver my work. [[00:05:49](https://www.youtube.com/watch?v=yyRMus9bouo&t=349.0s)]
+*  To present myself as a studio in front of the platforms, I only have to deliver my work. [[00:05:57](https://www.youtube.com/watch?v=yyRMus9bouo&t=357.0s)]
+*  I think they don't do enough in that sense. [[00:06:05](https://www.youtube.com/watch?v=yyRMus9bouo&t=365.0s)]
+*  We've collected evidence of studios operating in 23 countries all over the world. [[00:06:28](https://www.youtube.com/watch?v=yyRMus9bouo&t=388.0s)]
+*  And we've uncovered that these four companies, who have faced accusations of not doing enough to address abusers, [[00:06:35](https://www.youtube.com/watch?v=yyRMus9bouo&t=395.0s)]
+*  have links to webcam studios in at least 11 of these countries, from India to South Africa to the US. [[00:06:43](https://www.youtube.com/watch?v=yyRMus9bouo&t=403.0s)]
+*  Some studios use fake IDs to slot in models. [[00:06:57](https://www.youtube.com/watch?v=yyRMus9bouo&t=417.0s)]
+*  We spoke to a woman who streamed on BongoCamps, your platform, and she was under 18. [[00:07:02](https://www.youtube.com/watch?v=yyRMus9bouo&t=422.0s)]
+*  Do you think that's problematic? [[00:07:07](https://www.youtube.com/watch?v=yyRMus9bouo&t=427.0s)]
+*  Yeah, for sure. [[00:07:09](https://www.youtube.com/watch?v=yyRMus9bouo&t=429.0s)]
+*  So we make sure that on camera she looks like an adult, and she looks like a teenager. [[00:07:10](https://www.youtube.com/watch?v=yyRMus9bouo&t=430.0s)]
+*  And then we make sure that she looks like a teenager. [[00:07:15](https://www.youtube.com/watch?v=yyRMus9bouo&t=435.0s)]
+*  And then we make sure that she looks like a teenager. [[00:07:18](https://www.youtube.com/watch?v=yyRMus9bouo&t=438.0s)]
+*  And then we make sure that she looks like a teenager. [[00:07:21](https://www.youtube.com/watch?v=yyRMus9bouo&t=441.0s)]
+*  So we make sure that on camera she looks like an adult. [[00:07:24](https://www.youtube.com/watch?v=yyRMus9bouo&t=444.0s)]
+*  That's really hard though, right? [[00:07:27](https://www.youtube.com/watch?v=yyRMus9bouo&t=447.0s)]
+*  Yeah, it's pretty hard, but we check IDs. [[00:07:29](https://www.youtube.com/watch?v=yyRMus9bouo&t=449.0s)]
+*  Even before approving the account, we still check IDs. [[00:07:31](https://www.youtube.com/watch?v=yyRMus9bouo&t=451.0s)]
+*  Chattabait and StripChat told us they are committed to a safe working environment. [[00:07:34](https://www.youtube.com/watch?v=yyRMus9bouo&t=454.0s)]
+*  Chattabait says they have categorically stopped efforts to use fake IDs, [[00:07:40](https://www.youtube.com/watch?v=yyRMus9bouo&t=460.0s)]
+*  and models are required to regularly submit live images of themselves for verification. [[00:07:45](https://www.youtube.com/watch?v=yyRMus9bouo&t=465.0s)]
+*  StripChat told us they have a dedicated in-house moderation team that operates 24-7 [[00:07:53](https://www.youtube.com/watch?v=yyRMus9bouo&t=473.0s)]
+*  to prevent underage models broadcasting. [[00:07:59](https://www.youtube.com/watch?v=yyRMus9bouo&t=479.0s)]
+*  They also told us they've updated key rules, including obligations for studios [[00:08:02](https://www.youtube.com/watch?v=yyRMus9bouo&t=482.0s)]
+*  to ensure safe and comfortable working conditions for models. [[00:08:08](https://www.youtube.com/watch?v=yyRMus9bouo&t=488.0s)]
+*  Chattabait, StripChat and BongoCamps told us they are not direct employers, [[00:08:12](https://www.youtube.com/watch?v=yyRMus9bouo&t=492.0s)]
+*  and therefore don't intervene in the terms set between studios and models. [[00:08:18](https://www.youtube.com/watch?v=yyRMus9bouo&t=498.0s)]
+*  And Live Jasmine did not respond to us. [[00:08:23](https://www.youtube.com/watch?v=yyRMus9bouo&t=503.0s)]
+*  The reality is that the demand for webcam content is enormous, [[00:08:28](https://www.youtube.com/watch?v=yyRMus9bouo&t=508.0s)]
+*  and attempts to shut it down are unlikely to succeed. [[00:08:33](https://www.youtube.com/watch?v=yyRMus9bouo&t=513.0s)]
+*  The solution of that would not be to shut down the industry or to shut down these platforms. [[00:08:37](https://www.youtube.com/watch?v=yyRMus9bouo&t=517.0s)]
+*  It would be addressing potential responsibilities that a platform could take, [[00:08:42](https://www.youtube.com/watch?v=yyRMus9bouo&t=522.0s)]
+*  potential ways in which they can work in fairer ways. [[00:08:48](https://www.youtube.com/watch?v=yyRMus9bouo&t=528.0s)]
+*  This is a complex industry. For some women, it brings independence, income, even empowerment. [[00:08:51](https://www.youtube.com/watch?v=yyRMus9bouo&t=531.0s)]
+*  For others, the money they earn comes at a heavy emotional cost. [[00:09:03](https://www.youtube.com/watch?v=yyRMus9bouo&t=543.0s)]
+*  I don't see myself in that. [[00:09:12](https://www.youtube.com/watch?v=yyRMus9bouo&t=552.0s)]
