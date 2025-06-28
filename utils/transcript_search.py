@@ -339,7 +339,7 @@ def load_transcripts(
 			print(f'  No transcripts found for {author_names}.')
 			sys.exit(1)
 		else:
-			print(f'  Found transcripts for: {authors_included}')
+			print(f'  Found transcripts for: {list(set(authors_included))}')
 	else:
 		author_names = author_dict[author_names]
 		print(f'Loading transcripts for: {author_names}')
