@@ -99,7 +99,7 @@ class Video:
 				youtube_obj.check_availability()
 				streams = youtube_obj.streams.filter(only_audio=True)
 			except Exception as e:
-				print(f'  Error: {e}')
+				print(f'  Youtube Stream Error: {e}')
 				return
 			stream = streams.first()
 			current_time_str = datetime.now().strftime('%Y%m%d_%H%M%S')
@@ -127,7 +127,7 @@ class Video:
 			try:
 				stream.download(filename=video_path)
 			except Exception as e:
-				print(f'  Error: {e}')
+				print(f'  Youtube Download Error: {e}')
 				self.delete_video()
 				return
 			print(f'  Video File: {video_path}')
@@ -377,7 +377,7 @@ if __name__ == '__main__':
 					url=url
 				)
 			except Exception as e:
-				print(f'  Error: {e}')
+				print(f'  Youtube URL Error: {e}')
 				continue
 			# Transcribe the video
 			if not video.transcript_exists and status != None:

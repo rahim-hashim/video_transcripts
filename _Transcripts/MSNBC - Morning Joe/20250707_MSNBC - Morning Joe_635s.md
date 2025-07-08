@@ -1,0 +1,120 @@
+---
+Date Generated: July 08, 2025
+Transcription Model: whisper medium 20231117
+Length: 635s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 80315
+Video Rating: None
+Video Description: Fatal floods in Texas that left thousands scrambling for safety with little warning have sparked a fresh round of scrutiny of Trump administration cuts to the National Weather Service. The Morning Joe panel discusses.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Texas #Flood #JoeScarborough
+---
+
+# Joe: Hopefully we find there was nothing anyone could do but officials shouldn't brush off questions
+**MSNBC - Morning Joe:** [July 07, 2025](https://www.youtube.com/watch?v=vHk9JGQ5CTI)
+*  Let's talk about Texas and flood country there, and specifically just on government staffing. [[00:00:00](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=0.0s)]
+*  It is far, far too early to draw any lines between a lack of government staffing, [[00:00:09](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=9.200000000000001s)]
+*  cuts, and what happened here. But much like after the plane accident, the plane crash [[00:00:16](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=16.72s)]
+*  in Washington, D.C. in January this year, people are going to look. Why was there only one person [[00:00:24](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=24.32s)]
+*  here? I'm sure people are going to be asking why was the person who coordinated the emergency [[00:00:30](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=30.080000000000002s)]
+*  response not on. But it seems to me, David, there's just a bigger question as we move forward [[00:00:34](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=34.64s)]
+*  for the next flood, the next storm, the next hurricane. And we've been talking about this [[00:00:42](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=42.64s)]
+*  an awful lot over the last six months. The group of people that put together Project 2025, the [[00:00:48](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=48.0s)]
+*  group of people in Washington that have talked about cuts, cuts, cuts, cuts. Well, they're talking [[00:00:55](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=55.04s)]
+*  about cutting 8, 9 percent of the budget. We've always said this, the 8 or 9 percent of the budget [[00:01:01](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=61.28s)]
+*  that is actually what government does to help people, to save people's lives beyond [[00:01:07](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=67.2s)]
+*  defense, Medicare, Medicaid, Social Security, and interest on the debt. [[00:01:15](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=75.12s)]
+*  There was one story I read this weekend about a county commissioner. They wanted to get [[00:01:20](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=80.0s)]
+*  sirens and first alert systems for the area most affected. And the county commissioner just said, [[00:01:29](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=89.11999999999999s)]
+*  we, on a local level, we don't have $50,000 to have an early emergency system. We didn't get [[00:01:36](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=96.08s)]
+*  grants from Washington, D.C. And we can't do that ourselves. [[00:01:43](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=103.36s)]
+*  Just talk about generally, again, looking past this specific flood and looking to the next flood, [[00:01:49](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=109.44s)]
+*  the next hurricane, the next earthquake. How important it is that we actually staff up this [[00:01:55](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=115.2s)]
+*  8, 9, 10 percent of our federal government that is so responsible for saving people's lives day in, [[00:02:01](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=121.12s)]
+*  day out. So, Joe, my feeling is that among those who are so eager to cut government at every level, [[00:02:10](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=130.0s)]
+*  there's almost a contempt, a dismissal of the services that government provides to citizens. [[00:02:18](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=138.16s)]
+*  And it's only in moments like this that we realize, remember, that we require [[00:02:25](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=145.12s)]
+*  absolute commitment and excellence from the people we often don't see. We're, you know, [[00:02:33](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=153.20000000000002s)]
+*  sitting in buildings, monitoring the weather and preparing plans that we never hear about. [[00:02:40](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=160.64000000000001s)]
+*  I think just the simple idea that restoring pride that we have as citizens in the work that our [[00:02:46](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=166.72s)]
+*  government does and restoring pride among the people who work for government at the state, [[00:02:54](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=174.16000000000003s)]
+*  federal, state, local, and federal level is the best single thing we could do. [[00:02:59](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=179.92000000000002s)]
+*  Money's tight. There's a lot of fat in the federal budget. Everybody knows that. [[00:03:06](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=186.72s)]
+*  But it's essential, and we see it right now in front of us, that the quality of response [[00:03:11](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=191.2s)]
+*  from federal workers, state workers, has to be absolutely at the top level or many, many people [[00:03:17](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=197.6s)]
+*  will die. And so here's a moment to think about that and then think, how do we want to make the [[00:03:24](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=204.96s)]
+*  political choices? So the editorial board of the San Antonio Express News says the fatal Texas [[00:03:29](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=209.44s)]
+*  flooding demand search for answers along with the missing. The board writes in part, quote, [[00:03:37](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=217.52s)]
+*  was there anything that could have indeed, should have been done to move people away from the raging [[00:03:43](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=223.6s)]
+*  water and avert tragedy? While hundreds of people continue to search for missing adults and children, [[00:03:50](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=230.56s)]
+*  there's no reason other people can't or shouldn't be searching for answers. We have the wherewithal [[00:03:57](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=237.68s)]
+*  to do both. One of the differences between those two searches is that with the former, [[00:04:04](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=244.56s)]
+*  the people engaged in it are completely aligned in what they are seeking. With the latter, [[00:04:10](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=250.0s)]
+*  we're not as assured that federal, state, and regional leaders are eager to dig for information [[00:04:15](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=255.28s)]
+*  that might reveal truths they don't want to find, or rather that they don't want the public to learn. [[00:04:20](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=260.40000000000003s)]
+*  What matters is that the urgency with which we search for the missing is not allowed to wane [[00:04:27](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=267.44s)]
+*  after they are found. It must be maintained and applied to the search for answers that those who [[00:04:33](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=273.52s)]
+*  survived and the memories of those who perished deserve. And the Dallas Morning News editorial [[00:04:38](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=278.88s)]
+*  board has a piece entitled, So Many What Ifs Haunt Guadalupe River Flood. And it reads in part this, [[00:04:45](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=285.91999999999996s)]
+*  Once this initial response has ended and recovery begins, state and local officials need to wrestle [[00:04:53](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=293.52000000000004s)]
+*  with improved warning systems. We need to understand whether improved staffing or technology [[00:04:59](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=299.20000000000005s)]
+*  at either the National Weather Service or the National Oceanic and Atmospheric Administration [[00:05:05](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=305.04s)]
+*  could give more accurate advance warning. Local officials, meanwhile, must review their own [[00:05:11](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=311.92s)]
+*  practices and policies. Should they have acted to require people to move away from the Guadalupe [[00:05:17](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=317.84s)]
+*  River as the rain began to fall? Should people be permitted to live in camps so close to the [[00:05:25](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=325.11999999999995s)]
+*  riverbanks? Those are haunting questions now of what if we could have done a thousand things [[00:05:30](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=330.96s)]
+*  differently and perhaps spared our state this terrible tragedy? We need to understand those [[00:05:37](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=337.84s)]
+*  things and do whatever can be done to ensure that this doesn't happen again. You know, it's [[00:05:43](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=343.44s)]
+*  the stories that we read. Oh. Just so unspeakable. The young girls lost, the families lost, [[00:05:52](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=352.96s)]
+*  the grandparents lost, parents desperately, desperately seeking to save their young daughters, [[00:06:02](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=362.24s)]
+*  to save their mother and father, only to have them swept away. These are questions that are [[00:06:09](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=369.76s)]
+*  going to be asked. It's what we do as Americans. It's questions we asked after Uvalde. [[00:06:16](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=376.15999999999997s)]
+*  It's questions that we asked after the DC plane crash and after every plane crash. And I'll tell [[00:06:21](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=381.76s)]
+*  you, Cady K, it's a question as I was driving over to Mississippi and Louisiana every day in the month [[00:06:28](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=388.48s)]
+*  following Hurricane Katrina and just seeing the most deplorable, pathetic emergency response on [[00:06:34](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=394.96s)]
+*  the local, state and national level I've ever seen, those were the hard questions that were [[00:06:41](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=401.2s)]
+*  asked after that point. Now we're again far too early to say this is anything to do to Hurricane [[00:06:47](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=407.44s)]
+*  Katrina. I'm just saying when there are people who are dead and there are going to be questions [[00:06:57](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=417.92s)]
+*  about what could have been done to save their lives, whether it's in a school, whether it's in [[00:07:06](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=426.48s)]
+*  an airplane or whether it's on a river bank. And of course, those are the questions that are going [[00:07:12](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=432.40000000000003s)]
+*  to have to be asked that people just can't wave away. And hopefully we will find that there was [[00:07:18](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=438.56s)]
+*  nothing anybody could do and that this was a hundred year flood and the water just rose too [[00:07:26](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=446.48s)]
+*  quickly. But state officials and national officials just brushing away any questions. It's only going [[00:07:31](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=451.44s)]
+*  to make matters worse. Yeah, I mean, there is a tendency, isn't there, Joe, and we've spoken about [[00:07:37](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=457.44s)]
+*  this before after a great tragedy, whether it is a fire, whether it is a school shooting for [[00:07:42](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=462.24s)]
+*  to hear that response. Well, this is too soon to ask the question, but this is exactly the time [[00:07:48](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=468.96000000000004s)]
+*  to ask the question. And in a world where we know that one tragedy is followed by another tragedy is [[00:07:53](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=473.44s)]
+*  followed by another tragedy. Actually, we have to ask the questions as soon as possible and launch [[00:07:58](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=478.56s)]
+*  the investigation as soon as possible and try to get the answers as soon as possible to try to [[00:08:03](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=483.2s)]
+*  prevent this. One thing that we do all know is that ask any American insurance industry. We know [[00:08:07](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=487.76s)]
+*  that we're going to get more of these tragedies. There's as the world heats up, there is more [[00:08:14](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=494.32s)]
+*  moisture in the planet. There is more moisture in the air and the rains are getting more torrential. [[00:08:19](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=499.12s)]
+*  The fires are getting more frequent out in California and linking the dots there. I think [[00:08:23](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=503.12s)]
+*  it has to be done. And we're trying to pretend that this is something that is never going to [[00:08:28](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=508.16s)]
+*  happen again. It doesn't serve the people who live in these communities very well. And one thing I [[00:08:32](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=512.8s)]
+*  think it does suggest is whatever we find about the staffing in this particular incident, whether [[00:08:39](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=519.68s)]
+*  there were three people missing, whether the numbers were lower than they were during the [[00:08:43](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=523.92s)]
+*  Biden administration going forward, again, ask the insurance industries in America. We need more [[00:08:48](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=528.0s)]
+*  research on these kind of catastrophic events and more work on these kind of catastrophic [[00:08:53](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=533.84s)]
+*  events if we're going to keep Americans safe. Well, and of course, funding for climate change [[00:08:58](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=538.88s)]
+*  has been absolutely slashed. I saw the story of my rock ribbed Republican friend who, who's probably [[00:09:03](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=543.84s)]
+*  never voted for a Democrat in his life, but told me years ago because he was an insurance. He helped [[00:09:10](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=550.56s)]
+*  run an insurance company and he's I asked him, I said, okay, you're Republican, you're conservative. [[00:09:17](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=557.28s)]
+*  Tell me about global warming. Tell me about climate change. Is it real? He goes, is it real? [[00:09:21](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=561.36s)]
+*  He goes, let me show you my balance sheets, Joe. Well, you know, we are, we are paying 10 times as [[00:09:27](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=567.04s)]
+*  much out for natural disasters as we've ever paid. The pace is quickening. Things are getting worse. [[00:09:33](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=573.92s)]
+*  Climate change is a disaster that's coming from a Republican helping to lead [[00:09:39](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=579.84s)]
+*  an insurance company looking at his bottom line, not, not hugging trees, looking at his bottom line. [[00:09:47](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=587.76s)]
+*  It's real. It's there. And I'm not exactly sure what Republicans in Congress think they're doing [[00:09:54](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=594.48s)]
+*  by sticking their head in the sand, but it's not good. Again, had nothing to do with this. [[00:09:59](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=599.84s)]
+*  We're just, again, projecting forward because we don't want to see this happening again. [[00:10:04](https://www.youtube.com/watch?v=vHk9JGQ5CTI&t=604.72s)]
