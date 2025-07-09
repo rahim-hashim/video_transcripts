@@ -3,6 +3,7 @@ podcast_playlist_names = {
   'https://www.youtube.com/playlist?list=PLnwt1fUa-EVhHEHY16Za6nORjkefQpR8_': 'AP News - Israel Palestine',
   'https://www.youtube.com/playlist?list=PLS3XGZxi7cBXnYfJpUas1ud6XATvWATHb': 'BBC - The Latest',
   'https://www.youtube.com/playlist?list=PLS3XGZxi7cBVTzEE4Sim9UuNKnUJq9Vkh': 'BBC - World News',
+  'https://www.youtube.com/playlist?list=PLS3XGZxi7cBU87tKXg-mdmTihEDfhblZj': 'BBC - Middle East',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOExDwCvqcjMvaaKPHw-e_3XA': 'NBC - Chris Hayes',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEyETRGoRP9y8zhyu6bHl6iK': 'NBC - Rachel Maddow',
   'https://www.youtube.com/playlist?list=PLDIVi-vBsOEwfv0LML1BGBlPxZsnoa0xM': 'NBC - Ali Vitali',

@@ -1,0 +1,121 @@
+---
+Date Generated: July 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 451s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 13719
+Video Rating: None
+Video Description: NBC Nightly News' Tom Llamas reports from Texas on the lives lost and some of the remarkable stories of survival.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Texas #Flood #Weather
+---
+
+# 'I said a prayer': Victims fled homes as floodwaters rose rapidly
+**MSNBC - Morning Joe:** [July 08, 2025](https://www.youtube.com/watch?v=u0BC9QSAGrU)
+*  NBC News nightly news anchor Tom Yamas is down in central Texas and has more now on [[00:00:00](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=0.0s)]
+*  the lives lost and some of the remarkable stories of survival there. [[00:00:06](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=6.32s)]
+*  Battling the heat, mud and misery, they're looking for any signs of life. [[00:00:13](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=13.52s)]
+*  Search and rescue teams on the Guadalupe River furiously combing through massive mountains [[00:00:18](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=18.240000000000002s)]
+*  of debris. [[00:00:23](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=23.16s)]
+*  We're in the middle of the river right now and just behind me you can see why this search [[00:00:24](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=24.16s)]
+*  and recovery is so complicated. [[00:00:27](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=27.44s)]
+*  There are mounds of this mangled steel and tree branches and tree trunks. [[00:00:29](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=29.74s)]
+*  This team is trying to figure out a way inside to see what if anything or anyone is still [[00:00:34](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=34.04s)]
+*  trapped. [[00:00:38](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=38.66s)]
+*  An all out search for survivors by water, air and horseback. [[00:00:40](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=40.66s)]
+*  All over this area you see homes and trailers and RVs with this giant orange X. [[00:00:46](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=46.0s)]
+*  It means they've been searched. [[00:00:50](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=50.5s)]
+*  We hope whoever lived in here got out because you can see what the river water did to this. [[00:00:51](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=51.980000000000004s)]
+*  Flipping this entire RV over, destroying everything inside. [[00:00:56](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=56.3s)]
+*  Volunteer firefighter Wyatt Kelly has been at this for days. [[00:01:00](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=60.18s)]
+*  What kind of things have you seen out here? [[00:01:04](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=64.42s)]
+*  Unthinkable things. [[00:01:07](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=67.38s)]
+*  There's things that no one ever would have thought they've seen in their lifetime. [[00:01:08](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=68.38s)]
+*  So many people were in their beds fast asleep when the flood waters began to rapidly rise [[00:01:12](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=72.06s)]
+*  early on the 4th of July. [[00:01:17](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=77.66s)]
+*  The catastrophic flooding killing at least 104 people in six counties including Julian [[00:01:19](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=79.86s)]
+*  Ryan who was with his mother, kids and wife Christina in their trailer home as the water [[00:01:26](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=86.26s)]
+*  began to rise. [[00:01:31](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=91.98s)]
+*  My husband started panicking because there was no way for us to get out. [[00:01:33](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=93.3s)]
+*  There was no way for us to get up and so he tried to bust out the window and slice his [[00:01:37](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=97.66s)]
+*  arm almost off. [[00:01:43](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=103.26s)]
+*  Christina says he quickly began to bleed out. [[00:01:44](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=104.26s)]
+*  What do you remember? [[00:01:47](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=107.34s)]
+*  I'm sorry you had to see your son go through that. [[00:01:48](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=108.82000000000001s)]
+*  I just remember holding him so he wouldn't get swept in the flood. [[00:01:50](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=110.82000000000001s)]
+*  Blood going everywhere. [[00:01:57](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=117.82000000000001s)]
+*  His last words to me was, mama, I love you and you make sure you tell everybody else [[00:02:02](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=122.82000000000001s)]
+*  I love you. [[00:02:12](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=132.82s)]
+*  Love them. [[00:02:13](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=133.82s)]
+*  The tragedy also playing out at Camp Mystic which says 27 of its campers and counselors [[00:02:15](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=135.29999999999998s)]
+*  are among the dead and missing. [[00:02:20](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=140.45999999999998s)]
+*  Hallie Thompson's 10-year-old daughter somehow managed to escape from her cabin. [[00:02:22](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=142.82s)]
+*  My daughter grabbed onto a tree and grabbed the hand of her friend and put it on the tree. [[00:02:27](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=147.7s)]
+*  And so one by one those girls came out and found anything they could cling to. [[00:02:36](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=156.01999999999998s)]
+*  Hallie and four other family members were nearby. [[00:02:40](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=160.45999999999998s)]
+*  While their cabin was also surrounded by water, she says their neighbors saved their lives. [[00:02:43](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=163.18s)]
+*  It feels wrong or strange to feel how grateful that I am that we're all alive while we are [[00:02:48](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=168.18s)]
+*  still waiting for word about friends' daughters and while we have received word of friends' [[00:02:55](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=175.18s)]
+*  daughters who have died. [[00:03:02](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=182.1s)]
+*  Lila Bonner, Sarah Marsh, Janie Hunt, Eloise Peck, and twins Hannah and Rebecca Lawrence [[00:03:04](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=184.68s)]
+*  just some of the young campers whose lives were cut tragically short. [[00:03:13](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=193.36s)]
+*  Kellyanne LaTalle is still missing. [[00:03:17](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=197.36s)]
+*  What do all the reindeer do? [[00:03:20](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=200.36s)]
+*  Her dad posting this video of her solo at a Christmas pageant asking prayers for a miracle. [[00:03:25](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=205.36s)]
+*  You can see the flood's devastating toll on the century-old all-girls camp in these images. [[00:03:31](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=211.36s)]
+*  Look at how high the water came into the cabin. [[00:03:36](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=216.36s)]
+*  The flood water's tossing muddy mattresses from bunk beds. [[00:03:40](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=220.04000000000002s)]
+*  This pink trunk with the name L flipped on its side. [[00:03:43](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=223.04000000000002s)]
+*  A stuffed animal left behind. [[00:03:47](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=227.04000000000002s)]
+*  A camp nurse posting this haunting video of some of the little girls singing as they evacuated. [[00:03:52](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=232.04000000000002s)]
+*  The Fourth of July holiday brought many families to the cabins that dot the river's edge. [[00:04:02](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=242.04000000000002s)]
+*  We don't know everybody who was here. So we don't know everybody who's missing. [[00:04:06](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=246.72s)]
+*  Could be even worse you're saying? [[00:04:11](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=251.72s)]
+*  Yeah, it will be worse because we don't know everybody who's missing. [[00:04:13](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=253.72s)]
+*  Joe Heron Jr. is the mayor of Kerrville. [[00:04:18](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=258.71999999999997s)]
+*  It put me completely by surprise. I'm sad to say I didn't know. [[00:04:21](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=261.71999999999997s)]
+*  If there was any way on God's green earth that we could have warned people we would have done it. [[00:04:25](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=265.71999999999997s)]
+*  But we did not know. [[00:04:32](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=272.71999999999997s)]
+*  13-year-old Blair Harbor and 11-year-old sister Brooke were there spending the holiday in a cabin with their parents and grandparents. [[00:04:34](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=274.40000000000003s)]
+*  Their bodies were found 15 miles down the river together. [[00:04:41](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=281.40000000000003s)]
+*  Their school wrote a quote powerful symbol of their lasting bond. [[00:04:45](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=285.40000000000003s)]
+*  Their parents survived but their grandparents are still missing. [[00:04:49](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=289.40000000000003s)]
+*  Amid the heartbreaking loss of life there are also remarkable stories of survival. [[00:04:53](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=293.40000000000003s)]
+*  After this woman was swept 20 miles down the river she clung to a tree for hours until rescuers and boats were able to come and save her. [[00:05:00](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=300.08s)]
+*  In Hunt, Texas, Diana Smith says she woke up to find her house surrounded by water. [[00:05:08](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=308.08s)]
+*  Opened the front door and it sweeps both my dogs different directions and I'm panicking thinking now what the hell am I going to do? [[00:05:13](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=313.08s)]
+*  She says she called 911 but no one came. [[00:05:20](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=320.08s)]
+*  I said a prayer when I was standing on my porch. [[00:05:23](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=323.08s)]
+*  Both my parents are deceased and I said mom, dad, god, help. [[00:05:26](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=326.76s)]
+*  She managed to jump into a kayak with her dogs paddling to safety. [[00:05:31](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=331.76s)]
+*  11-year-old Kaylin Cubina was at Camp La Junta six miles from Camp Mystic. [[00:05:36](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=336.76s)]
+*  We looked outside and we saw like an ocean out there just like completely destroying everything. [[00:05:41](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=341.76s)]
+*  There's people in it. [[00:05:46](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=346.76s)]
+*  There's so many people in it. [[00:05:48](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=348.76s)]
+*  This cabin appeared to float away in the flood waters. [[00:05:49](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=349.76s)]
+*  Still, the camp says everyone was able to evacuate to safety. [[00:05:53](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=353.44s)]
+*  We saw like a whole cabin just floating down and that's when we knew like things were getting actually real out there. [[00:05:56](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=356.44s)]
+*  Like we were starting to realize that this was a real natural disaster crisis. [[00:06:04](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=364.44s)]
+*  We were with the Alvarado family as the reality set in. [[00:06:10](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=370.44s)]
+*  Their two daughters were in this RV when the river surrounded them. [[00:06:13](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=373.44s)]
+*  These are the images of what they saw outside of their windows. [[00:06:17](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=377.44s)]
+*  We couldn't see through the water but we could see the currents moving and it just kept going. [[00:06:21](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=381.12s)]
+*  There was no end to it. [[00:06:26](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=386.12s)]
+*  Their dad came to their rescue along with a neighbor, pulling the girls to safety. [[00:06:28](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=388.12s)]
+*  Brooke, the oldest of the two, looking down at the river and realizing how some girls just like her weren't as lucky. [[00:06:32](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=392.12s)]
+*  When you guys heard about all the people that didn't make it, what was that like? [[00:06:39](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=399.12s)]
+*  You were right here. [[00:06:43](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=403.12s)]
+*  It hurt. [[00:06:45](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=405.8s)]
+*  I'm sorry. [[00:06:51](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=411.8s)]
+*  It just sucks that a lot of people just lost their lives but it's really good to hear about the people that are getting out and stuff. [[00:06:53](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=413.8s)]
+*  You [[00:07:15](https://www.youtube.com/watch?v=u0BC9QSAGrU&t=435.12s)]

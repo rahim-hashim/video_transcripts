@@ -1,0 +1,116 @@
+---
+Date Generated: July 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 453s
+Video Keywords: ['Katy Tur']
+Video Views: 17103
+Video Rating: None
+Video Description: The New York Times reports new access roads, construction equipment and vehicles have been spotted at Iran’s Fordo nuclear site, thanks to new satellite images. This comes after President Trump claimed to have “obliterated” the Fordo site, along with two other sites just days ago. MSNBC Political Analyst Rick Stengel and Staff Writer at The Atlantic Michael Scherer join Katy Tur to weigh in.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+---
+
+# New access roads, equipment, vehicles spotted at Iran’s Fordo nuclear complex: NYT
+**NBC - Middle East:** [July 01, 2025](https://www.youtube.com/watch?v=Or9ap8_ESpk)
+*  New satellite images taken in the days after the US strikes in Iran show new [[00:00:00](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=0.0s)]
+*  activity at the site of one of the attacks new access roads construction equipment and vehicles [[00:00:05](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=5.48s)]
+*  Have been seen at the Forto nuclear site [[00:00:10](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=10.8s)]
+*  That is the one the president insisted was obliterated joining us now staff writer for the Atlantic Michael Shearer and Rick Stengel [[00:00:13](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=13.64s)]
+*  Who's still with us Rick? [[00:00:20](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=20.68s)]
+*  Can we put that much stock into [[00:00:23](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=23.48s)]
+*  access roads and trucks and [[00:00:26](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=26.28s)]
+*  Engagement with that site from satellite images [[00:00:29](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=29.48s)]
+*  You can't really but it's useful to see it [[00:00:32](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=32.44s)]
+*  I mean the problem Katie is the word obliterated which was used by the president [[00:00:35](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=35.3s)]
+*  You know a more reasonable person would have said this was a very successful mission [[00:00:40](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=40.32s)]
+*  We've destroyed a lot of what we were seeking to destroy the accuracy was [[00:00:44](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=44.92s)]
+*  You know unimpeachable [[00:00:50](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=50.8s)]
+*  We will now do a battlefield assessment to find out what what has really been accomplished [[00:00:52](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=52.96s)]
+*  I mean nobody ever beforehand said we're gonna completely obliterate their nuclear threat [[00:00:58](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=58.24s)]
+*  I mean there was a lot of reporting by the IAEA that [[00:01:02](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=62.84s)]
+*  Small amounts of enriched uranium and tubes were transported before the bombing [[00:01:06](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=66.48s)]
+*  You know again a reasonable president would say you know we did an excellent job [[00:01:11](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=71.48s)]
+*  Under the circumstances there are still some things that escaped our notice that is now something that we will negotiate over [[00:01:16](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=76.76s)]
+*  But we've we put way off their ability to produce a nuclear device all right, so there are [[00:01:23](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=83.76s)]
+*  There's no real time frame Michael on talks with Iran in order to to get somewhere [[00:01:32](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=92.0s)]
+*  diplomatically after these strikes, and it's being complicated by some reporting that you've been doing and that is the [[00:01:37](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=97.76s)]
+*  Looming threat of assassination Donald Trump is living with this looming threat of assassination from Iran [[00:01:44](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=104.44s)]
+*  The Washington Post reports that Iran nearly succeeded in orchestrating an assassination of Mike Pompeo in [[00:01:50](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=110.44s)]
+*  Europe in 2022 [[00:01:57](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=117.67999999999999s)]
+*  So it's it's it's a real thing [[00:01:59](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=119.92s)]
+*  That's right [[00:02:04](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=124.28s)]
+*  You know and we've kind of gotten used to it at this point [[00:02:04](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=124.92s)]
+*  Which is a real contrast from how it used to be if you remember back in the early 90s George HW Bush [[00:02:07](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=127.47999999999999s)]
+*  Went to Kuwait, and there was an assassination attempt on him [[00:02:12](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=132.44s)]
+*  by a [[00:02:16](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=136.72s)]
+*  What the US government later identified as Iraqi intelligence services and Bill Clinton the president followed George HW Bush [[00:02:18](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=138.48s)]
+*  Ordered missile strikes in Iraq in in response to that you know just the attempt it wasn't successful the bomb never went off [[00:02:25](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=145.92s)]
+*  You know in this case Trump and a number of other former US officials have been the targets of Iranian [[00:02:33](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=153.0s)]
+*  assassination plots for years ever since the Suleimani assassination during Trump's first term [[00:02:40](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=160.79999999999998s)]
+*  You know the Iranian leaders have spoken openly about wanting this they've had a number of [[00:02:46](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=166.73999999999998s)]
+*  people according to [[00:02:53](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=173.42s)]
+*  indictments [[00:02:55](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=175.26s)]
+*  Sort of concoct kind of harebrained schemes. They're not very sophisticated schemes of [[00:02:56](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=176.98s)]
+*  Sending people over to the US or having people operate from overseas to recruit local criminals to come up with plans to assassinate [[00:03:02](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=182.33999999999997s)]
+*  the [[00:03:10](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=190.14s)]
+*  president [[00:03:11](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=191.57999999999998s)]
+*  You know former NS [[00:03:12](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=192.54s)]
+*  Now [[00:03:14](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=194.94s)]
+*  Security adviser John Bolton the former secretary of state and [[00:03:16](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=196.14000000000001s)]
+*  President Trump the Friday before he launched these attacks the day before he launched these attacks [[00:03:20](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=200.26s)]
+*  He was on the tarmac up in New Jersey, and he made reference to them [[00:03:25](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=205.22s)]
+*  He told the reporters with him you're in danger even right now, so this is an ever-present [[00:03:28](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=208.34s)]
+*  Thing now what the White House says and what his advisors say is that the threat against the president did not factor in this decision [[00:03:32](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=212.3s)]
+*  that this decision was made only because of the nuclear sites, but [[00:03:40](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=220.34s)]
+*  You know the reality of having to live with this threat is something that that you know has clearly taken a toll on those [[00:03:44](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=224.42s)]
+*  Yeah, I wonder though does it also factor into [[00:03:51](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=231.14s)]
+*  negotiations [[00:03:54](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=234.62s)]
+*  Michael shot Michael shot just froze all right the other question. I want to ask you Rick [[00:04:00](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=240.73999999999998s)]
+*  Was on the visit from Benjamin Netanyahu to the White House next week [[00:04:06](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=246.82s)]
+*  The war in Gaza is ongoing the suffering there is is unimaginable. It's awful [[00:04:11](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=251.66s)]
+*  We're seeing it every day on our social media feeds a lot of op-eds right now are [[00:04:16](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=256.94s)]
+*  Urging the Israelis to wind it down warning that their reputation and Jews around the world [[00:04:22](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=262.14s)]
+*  Will be irreparably harmed because of this war [[00:04:29](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=269.1s)]
+*  Do we have a sense of what the White House? [[00:04:32](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=272.78s)]
+*  Wants to do in terms of pressing that's in Yahoo to end this [[00:04:35](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=275.7s)]
+*  It does seem like I don't want to speak for the White House or President Trump [[00:04:39](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=279.97999999999996s)]
+*  But it does feel like there is a kind of unified field theory of how to solve the Middle East problems that that now that [[00:04:44](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=284.34s)]
+*  Iran has been pushed away from [[00:04:51](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=291.65999999999997s)]
+*  Closeness to a nuclear weapon instigated by the Israelis that should give the Israelis some sense of [[00:04:54](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=294.53999999999996s)]
+*  Safety that they don't have I mean the Iranian surrogates have been diminished Hamas [[00:05:02](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=302.14s)]
+*  Lebanon [[00:05:07](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=307.53999999999996s)]
+*  So now Trump seems to be pressing for the Israelis to say let's halt this. Let's make a deal. Let's get back to the [[00:05:09](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=309.38s)]
+*  Abraham Accords and have the Gulf nations come and make deals with you that would be a great thing [[00:05:16](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=316.74s)]
+*  What sort of pressure should he be putting on Netanyahu? Well, I think he should be you know to end the war in Gaza. It's a [[00:05:22](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=322.06s)]
+*  catastrophic unimaginable tragedy and disaster [[00:05:28](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=328.94s)]
+*  There's no winning it the way that you know, you would obliterate nuclear weapons in Iran that there you creating new [[00:05:32](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=332.94s)]
+*  Members of Hamas that are 10 12 years old [[00:05:39](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=339.18s)]
+*  Let's get back to negotiations and I do think I know it I sound like an old-fashioned person here [[00:05:43](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=343.06s)]
+*  But but the problem is now that without a two-state solution. You're not going to get everybody to the table [[00:05:47](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=347.9s)]
+*  Again, I've always thought you know, they used to say this about the Palestinians. They never miss an opportunity to miss an opportunity [[00:05:54](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=354.98s)]
+*  I would say that about Bibi Netanyahu [[00:06:00](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=360.62s)]
+*  He had so many opportunities to make a deal with the Palestinians to set up a state that Israel could live with [[00:06:02](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=362.62s)]
+*  And have a democracy and have some and have have the Palestinians have have some independence [[00:06:08](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=368.06s)]
+*  I would say he has that opportunity now happen though with him. Can he get anywhere? [[00:06:13](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=373.02s)]
+*  Does he have do are there any other Arab nations that have the desire to negotiate with him? [[00:06:18](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=378.34000000000003s)]
+*  Is there any Palestinian leader that would have the desire to negotiate with him? [[00:06:24](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=384.94s)]
+*  I mean, he's not gonna negotiate with Hamas and rightly so but I mean, how do you get anywhere? [[00:06:29](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=389.7s)]
+*  When he is still in charge. Well, that's a good question [[00:06:36](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=396.02s)]
+*  I do think that the Gulf states the Saudis the Emiratis they would continue to talk to Netanyahu [[00:06:38](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=398.9s)]
+*  I think they probably are still talking, you know [[00:06:45](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=405.62s)]
+*  Does that mean Netanyahu could change the last 25 years of him being opposed to a two-state solution? [[00:06:48](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=408.78s)]
+*  I don't know would it take a new Israeli leader? [[00:06:54](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=414.14s)]
+*  I mean his popularity has gone up with the bombing of Iran, but it's still very low [[00:06:57](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=417.02s)]
+*  He probably wouldn't win a re-election [[00:07:01](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=421.26s)]
+*  And of course remember that the parties united with him are these you know, very very conservative Orthodox parties [[00:07:03](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=423.18s)]
+*  They're against, you know, even mentioning the Palestinians [[00:07:09](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=429.54s)]
+*  You [[00:07:26](https://www.youtube.com/watch?v=Or9ap8_ESpk&t=446.82s)]
