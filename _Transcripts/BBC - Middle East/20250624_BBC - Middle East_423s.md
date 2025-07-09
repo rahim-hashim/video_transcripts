@@ -1,0 +1,106 @@
+---
+Date Generated: July 09, 2025
+Transcription Model: whisper medium 20231117
+Length: 423s
+Video Keywords: ['bbc', 'bbc news', 'news', 'breaking news', 'world', 'america', 'usa', 'usa news', 'india news', 'Israel', 'Iran', 'nuclear', 'intel', 'intelligence', 'leak', 'leaked', 'plans', 'program', 'programme', 'months', 'obliterated', 'Fordo', 'Fordow', 'Isfahan', 'Natanz', 'bunker', 'buster', 'risk', 'threat', 'danger', 'attacks', 'uranium', 'enrichment', 'enriched', 'centrifuges', 'moved', 'relocated', 'White', 'House', 'Leavitt', 'press', 'Agency', 'pilots', 'classified', 'fuck', 'top', 'secret', 'Netanyahu', 'Khamenei', 'stockpile', 'war', 'missiles', 'bomb', 'Trump', 'President', 'ceasefire', 'truce', 'US', 'United', 'States', 'region', 'regime', 'defense', 'Pentagon', 'anger']
+Video Views: 2894408
+Video Rating: None
+Video Description: A leaked Pentagon intelligence report says the US strikes on Iran’s key nuclear facilities has probably only set back its enrichment programme by months.
+President Trump claimed after the bombing that the US attack had “completely obliterated” Iran’s nuclear programme.
+The White House press secretary Karoline Leavitt called the report “flat out wrong” and said “the leaking of this alleged assessment is a clear attempt to demean President Trump, and discredit the brave fighter pilots who conducted a perfectly executed mission to obliterate Iran’s nuclear program”.
+The initial classified assessment by the US Defence Intelligence Agency said two of the sites were not destroyed and concludes that key elements of the programme to enrich uranium may soon restart. 
+It says  that much of Iran’s stockpile of highly enriched uranium, which could possibly be used to make a nuclear weapon, was moved before the strikes took place. 
+The development came as a ceasefire between Israel and Iran appeared to be holding, after President Trump lashed out at Israel for its failure to abide by the terms of the truce.
+Sophie Raworth presents BBC News at Ten reporting by Sarah Smith and Lucy Williamson.
+Subscribe here: http://bit.ly/1rbfUog
+For more news, analysis and features visit: www.bbc.com/news 
+#BBCNews
+---
+
+# BREAKING: Leaked US intelligence says Iran’s nuclear plans “likely only set back months” | BBC News
+**BBC - Middle East:** [June 24, 2025](https://www.youtube.com/watch?v=QjdEHFULexI)
+*  The truce between Israel and Iran appears to be holding for now, hours after President [[00:00:00](https://www.youtube.com/watch?v=QjdEHFULexI&t=0.0s)]
+*  Trump accused both sides of violating the fragile ceasefire that he announced overnight. [[00:00:05](https://www.youtube.com/watch?v=QjdEHFULexI&t=5.84s)]
+*  As he set off for the NATO summit this morning, the president swore in front of reporters [[00:00:11](https://www.youtube.com/watch?v=QjdEHFULexI&t=11.200000000000001s)]
+*  as his frustration, particularly at Israel, boiled over. [[00:00:15](https://www.youtube.com/watch?v=QjdEHFULexI&t=15.96s)]
+*  You'll hear in full what he had to say in a moment. [[00:00:19](https://www.youtube.com/watch?v=QjdEHFULexI&t=19.84s)]
+*  Tonight, Donald Trump has been warmly welcomed in The Hague, where NATO leaders have sat [[00:00:22](https://www.youtube.com/watch?v=QjdEHFULexI&t=22.6s)]
+*  at the start of the two-day summit on defence. [[00:00:27](https://www.youtube.com/watch?v=QjdEHFULexI&t=27.240000000000002s)]
+*  It comes though as questions are now being raised in the United States about just how [[00:00:30](https://www.youtube.com/watch?v=QjdEHFULexI&t=30.16s)]
+*  successful the American airstrikes were on Iran's nuclear facilities. [[00:00:34](https://www.youtube.com/watch?v=QjdEHFULexI&t=34.160000000000004s)]
+*  Here's our North America editor, Sarah Smith. [[00:00:38](https://www.youtube.com/watch?v=QjdEHFULexI&t=38.6s)]
+*  Israel launched a barrage of airstrikes on Tehran as the ceasefire deadline approached, [[00:00:42](https://www.youtube.com/watch?v=QjdEHFULexI&t=42.84s)]
+*  also striking Iranian missile launchers in a last-minute all-out assault. [[00:00:50](https://www.youtube.com/watch?v=QjdEHFULexI&t=50.32s)]
+*  Donald Trump was furious, with both Iran and particularly Israel, for not respecting the [[00:00:58](https://www.youtube.com/watch?v=QjdEHFULexI&t=58.36s)]
+*  deal. [[00:01:03](https://www.youtube.com/watch?v=QjdEHFULexI&t=63.52s)]
+*  I'm not happy with Israel. You know, when I say, OK, now you have 12 hours, you don't [[00:01:04](https://www.youtube.com/watch?v=QjdEHFULexI&t=64.52000000000001s)]
+*  go out in the first hour and just drop everything you have on them. So I'm not happy with them. [[00:01:09](https://www.youtube.com/watch?v=QjdEHFULexI&t=69.2s)]
+*  I'm not happy with Iran either. But I'm really unhappy if Israel is going out this morning [[00:01:13](https://www.youtube.com/watch?v=QjdEHFULexI&t=73.96000000000001s)]
+*  because of one rocket that didn't land, that was shot. [[00:01:18](https://www.youtube.com/watch?v=QjdEHFULexI&t=78.76s)]
+*  We often see President Trump exasperated, but never actually swearing like this. [[00:01:22](https://www.youtube.com/watch?v=QjdEHFULexI&t=82.76s)]
+*  You know what? We basically have two countries that have been fighting so long and so hard [[00:01:27](https://www.youtube.com/watch?v=QjdEHFULexI&t=87.84s)]
+*  that they don't know what the fuck they're doing. Do you understand that? [[00:01:33](https://www.youtube.com/watch?v=QjdEHFULexI&t=93.76s)]
+*  Understand that Israel has pushed him too far this time, just when he's on his way to [[00:01:38](https://www.youtube.com/watch?v=QjdEHFULexI&t=98.68s)]
+*  take a victory lap at a NATO summit in The Hague, but only if the truce holds. [[00:01:42](https://www.youtube.com/watch?v=QjdEHFULexI&t=102.6s)]
+*  You posted on social media, Israel, do not drop those bombs. If you do, it's a major [[00:01:48](https://www.youtube.com/watch?v=QjdEHFULexI&t=108.58s)]
+*  violation. Bring your pilots home now. [[00:01:53](https://www.youtube.com/watch?v=QjdEHFULexI&t=113.58s)]
+*  Then from onboard Air Force One, in a call to the Israeli prime minister, which the White [[00:01:58](https://www.youtube.com/watch?v=QjdEHFULexI&t=118.53999999999999s)]
+*  House described as exceptionally firm and direct, Trump demanded he stick to the ceasefire. [[00:02:02](https://www.youtube.com/watch?v=QjdEHFULexI&t=122.58s)]
+*  And then posted again, saying, Israel is not going to attack Iran. All planes will turn [[00:02:09](https://www.youtube.com/watch?v=QjdEHFULexI&t=129.57999999999998s)]
+*  around and head home while doing a friendly plane wave to Iran. Nobody will be hurt. The [[00:02:14](https://www.youtube.com/watch?v=QjdEHFULexI&t=134.57999999999998s)]
+*  ceasefire is in effect. [[00:02:19](https://www.youtube.com/watch?v=QjdEHFULexI&t=139.94s)]
+*  The NATO Secretary General, Mark Rutte, is hosting Donald Trump in The Hague tonight. [[00:02:24](https://www.youtube.com/watch?v=QjdEHFULexI&t=144.29999999999998s)]
+*  They get on well, but he might be very surprised to find the text messages he sent praising [[00:02:28](https://www.youtube.com/watch?v=QjdEHFULexI&t=148.82s)]
+*  the president posted on social media. [[00:02:33](https://www.youtube.com/watch?v=QjdEHFULexI&t=153.7s)]
+*  He wrote, Mr. President, dear Donald, congratulations and thank you for your decisive action in [[00:02:36](https://www.youtube.com/watch?v=QjdEHFULexI&t=156.82s)]
+*  Iran. That was truly extraordinary, something no one else dared to do. It makes us all safer. [[00:02:41](https://www.youtube.com/watch?v=QjdEHFULexI&t=161.9s)]
+*  On Air Force One, Mr. Trump is already talking about his desire to agree a ceasefire in Ukraine. [[00:02:49](https://www.youtube.com/watch?v=QjdEHFULexI&t=169.58s)]
+*  You know, I'd like to see a deal with Russia. As you know, Vladimir called me up. He said, [[00:02:54](https://www.youtube.com/watch?v=QjdEHFULexI&t=174.58s)]
+*  can I help you with Iran? I said, no, I don't need help with Iran. I need help with you. [[00:03:00](https://www.youtube.com/watch?v=QjdEHFULexI&t=180.14000000000001s)]
+*  Donald Trump loves a grand VIP welcome, arriving at the Royal Palace in The Hague, where he's [[00:03:05](https://www.youtube.com/watch?v=QjdEHFULexI&t=185.98000000000002s)]
+*  meeting other NATO leaders, talking to them about spending more on their own defence, [[00:03:10](https://www.youtube.com/watch?v=QjdEHFULexI&t=190.98s)]
+*  about Ukraine and what he considers to be his crowning achievement in the Middle East. [[00:03:15](https://www.youtube.com/watch?v=QjdEHFULexI&t=195.22s)]
+*  It's being reported here in America tonight that those American airstrikes on Iran might [[00:03:22](https://www.youtube.com/watch?v=QjdEHFULexI&t=202.85999999999999s)]
+*  not have done as much damage to their nuclear facilities as Donald Trump claimed when he [[00:03:26](https://www.youtube.com/watch?v=QjdEHFULexI&t=206.94s)]
+*  said they had been completely obliterated. An early defence department assessment that's [[00:03:30](https://www.youtube.com/watch?v=QjdEHFULexI&t=210.98s)]
+*  been leaked says that the core components of Iran's nuclear programme may not have [[00:03:36](https://www.youtube.com/watch?v=QjdEHFULexI&t=216.5s)]
+*  been destroyed, that the country might only have been set back a few months and that much [[00:03:41](https://www.youtube.com/watch?v=QjdEHFULexI&t=221.3s)]
+*  of their enriched uranium stockpiles could have been moved to secret sites before the [[00:03:45](https://www.youtube.com/watch?v=QjdEHFULexI&t=225.98s)]
+*  attack. Now, the White House are very angry about that. They've pushed back saying this [[00:03:50](https://www.youtube.com/watch?v=QjdEHFULexI&t=230.1s)]
+*  is flat wrong. The press secretary said everyone knows what happens when you drop 14, 30,000-pound [[00:03:53](https://www.youtube.com/watch?v=QjdEHFULexI&t=233.54s)]
+*  bombs perfectly on their target. Total obliteration, she said. But they're not saying the defence [[00:04:00](https://www.youtube.com/watch?v=QjdEHFULexI&t=240.54s)]
+*  department assessment is untrue. [[00:04:05](https://www.youtube.com/watch?v=QjdEHFULexI&t=245.86s)]
+*  Sarah Smith, North America editor, thank you. [[00:04:08](https://www.youtube.com/watch?v=QjdEHFULexI&t=248.70000000000002s)]
+*  Well, Israel and Iran had launched large-scale attacks at each other overnight. In Iran, [[00:04:11](https://www.youtube.com/watch?v=QjdEHFULexI&t=251.98000000000002s)]
+*  targets were hit in the capital Tehran and in the northern region of Gilan, where local [[00:04:16](https://www.youtube.com/watch?v=QjdEHFULexI&t=256.82s)]
+*  officials now say at least 16 people were killed. In Israel, the southern city of Becheba [[00:04:21](https://www.youtube.com/watch?v=QjdEHFULexI&t=261.42s)]
+*  was hit, four people were killed in a missile strike on a residential building from Jerusalem. [[00:04:26](https://www.youtube.com/watch?v=QjdEHFULexI&t=266.46000000000004s)]
+*  Lucy Williamson reports. [[00:04:32](https://www.youtube.com/watch?v=QjdEHFULexI&t=272.46000000000004s)]
+*  Becheba was still a war zone this morning as Iran announced its commitment to peace. [[00:04:35](https://www.youtube.com/watch?v=QjdEHFULexI&t=275.62s)]
+*  Rescue teams bringing out bodies from an apartment block, hit in a final salvo of missiles, fired [[00:04:41](https://www.youtube.com/watch?v=QjdEHFULexI&t=281.53999999999996s)]
+*  minutes before Iran agreed to the truce. One slice through the wall straight into a bomb [[00:04:47](https://www.youtube.com/watch?v=QjdEHFULexI&t=287.82s)]
+*  shelter, rescuers said, killing several people inside. [[00:04:53](https://www.youtube.com/watch?v=QjdEHFULexI&t=293.86s)]
+*  It's not about how many landed. It's why are missiles still being targeted towards civilian [[00:04:59](https://www.youtube.com/watch?v=QjdEHFULexI&t=299.62s)]
+*  buildings like this? [[00:05:04](https://www.youtube.com/watch?v=QjdEHFULexI&t=304.16s)]
+*  There's meant to be a ceasefire this morning. [[00:05:05](https://www.youtube.com/watch?v=QjdEHFULexI&t=305.16s)]
+*  You know, actions speak volumes and this speaks for itself. [[00:05:09](https://www.youtube.com/watch?v=QjdEHFULexI&t=309.04s)]
+*  I think Israel need to hit back Iran because Iran kill people. Iran said peace, but there [[00:05:11](https://www.youtube.com/watch?v=QjdEHFULexI&t=311.92s)]
+*  is no peace, no peace. [[00:05:19](https://www.youtube.com/watch?v=QjdEHFULexI&t=319.6s)]
+*  As we were there, another alert came in, warning of more missiles fired from Iran, after Israel [[00:05:21](https://www.youtube.com/watch?v=QjdEHFULexI&t=321.92s)]
+*  had also agreed to the truce. But Israeli planes, on their way to retaliate, were called [[00:05:28](https://www.youtube.com/watch?v=QjdEHFULexI&t=328.28000000000003s)]
+*  back home on the orders of Donald Trump. Tonight, Israel's prime minister vowed to act against [[00:05:34](https://www.youtube.com/watch?v=QjdEHFULexI&t=334.24s)]
+*  any new nuclear threat. [[00:05:40](https://www.youtube.com/watch?v=QjdEHFULexI&t=340.84000000000003s)]
+*  All the actions that our fighters have taken have brought Iran's nuclear program to ruins. [[00:05:45](https://www.youtube.com/watch?v=QjdEHFULexI&t=345.28000000000003s)]
+*  And if anyone in Iran tries to revive this project, we will act with the same determination [[00:05:49](https://www.youtube.com/watch?v=QjdEHFULexI&t=349.88s)]
+*  and strength to end any such attempt. I repeat, Iran will not have nuclear weapons. [[00:05:55](https://www.youtube.com/watch?v=QjdEHFULexI&t=355.32s)]
+*  Iran still has the capability to fire missiles at Israel and has warned of a powerful response [[00:06:02](https://www.youtube.com/watch?v=QjdEHFULexI&t=362.32s)]
+*  to any further attacks. The war has shifted power in Israel's favor. But tonight in Tehran, [[00:06:08](https://www.youtube.com/watch?v=QjdEHFULexI&t=368.64s)]
+*  protesters called for their leaders to resist. [[00:06:16](https://www.youtube.com/watch?v=QjdEHFULexI&t=376.24s)]
+*  We must see it through to the end. There's no benefit in stopping now. Just like what [[00:06:20](https://www.youtube.com/watch?v=QjdEHFULexI&t=380.24s)]
+*  happened in Gaza and Lebanon. Israel, America and Trump himself cannot be trusted at all. [[00:06:25](https://www.youtube.com/watch?v=QjdEHFULexI&t=385.2s)]
+*  Iran will avenge the people you killed, said Tugheila. One day we'll catch you off guard. [[00:06:33](https://www.youtube.com/watch?v=QjdEHFULexI&t=393.88s)]
+*  Be sure of that. [[00:06:39](https://www.youtube.com/watch?v=QjdEHFULexI&t=399.09999999999997s)]
+*  In northern Israel today, a souvenir from 12 days of conflict, an interceptor used in [[00:06:42](https://www.youtube.com/watch?v=QjdEHFULexI&t=402.08s)]
+*  Israel's air defenses. Israel says this short war has made the region safer by weakening [[00:06:47](https://www.youtube.com/watch?v=QjdEHFULexI&t=407.88s)]
+*  Iran as a military threat. But it's weakened the regime as well. [[00:06:54](https://www.youtube.com/watch?v=QjdEHFULexI&t=414.68s)]
+*  Lucy Williamson, BBC News, Be'er Sheva. [[00:07:00](https://www.youtube.com/watch?v=QjdEHFULexI&t=420.08s)]
