@@ -1,0 +1,77 @@
+---
+Date Generated: July 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 246s
+Video Keywords: []
+Video Views: 1832
+Video Rating: None
+Video Description: Millions of Americans are on the brink of defaulting on student loans.
+But it’s not just student loans. It’s also credit card and auto loan loans. 1 in 4 Americans now uses loans to buy groceries.
+In fact, US household debt is at the highest level ever recorded.
+BT’s Kei Pritsker explains the true scale of America’s debt crisis.
+---
+
+# Millions of Americans Are on The Brink of Defaulting on Student Loans
+**BreakThrough News - Explainers:** [July 09, 2025](https://www.youtube.com/watch?v=jgrcu_BKAK4)
+*  Millions of Americans are on the brink of defaulting on their student loans. [[00:00:00](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=0.0s)]
+*  A new analysis by TransUnion found that 5.8 million student borrowers, representing 31% [[00:00:04](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=4.22s)]
+*  of all federal student loans, are in late-stage delinquency, meaning they haven't made a [[00:00:10](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=10.46s)]
+*  single payment in 90 days. [[00:00:15](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=15.18s)]
+*  TransUnion estimated that by July, i.e. now, up to 1.8 million of these borrowers could [[00:00:17](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=17.26s)]
+*  enter default status, meaning they'll have missed 270 days of payments. [[00:00:23](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=23.28s)]
+*  In August, an additional 1 million could reach default status, and by September, another [[00:00:27](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=27.94s)]
+*  2 million. [[00:00:32](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=32.56s)]
+*  In fact, TransUnion stated that the rate of delinquency they recorded is the highest level [[00:00:33](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=33.56s)]
+*  of delinquency they've seen since they started collecting this data back in 2012. [[00:00:38](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=38.400000000000006s)]
+*  But it's not just student loans. [[00:00:43](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=43.480000000000004s)]
+*  Late payments on car loans also recently hit a 30-year record. [[00:00:45](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=45.6s)]
+*  U.S. credit card debt is also hitting record highs. [[00:00:49](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=49.040000000000006s)]
+*  Americans are also increasingly relying on microloan schemes, like buy-now-pay-later [[00:00:52](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=52.44s)]
+*  which allow people to take out loans to buy things that usually didn't take borrowed money to afford. [[00:00:57](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=57.52s)]
+*  These buy-now-pay-later schemes made headlines when some companies advertised that users [[00:01:02](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=62.46s)]
+*  could get a loan to buy a meal at Chipotle. [[00:01:06](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=66.38s)]
+*  Surveys show that up to 1 in 4 Americans are using buy-now-pay-later schemes to buy groceries. [[00:01:08](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=68.86s)]
+*  41% of respondents in that survey said they had made at least one late payment on a buy-now-pay-later [[00:01:13](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=73.82000000000001s)]
+*  loan in the past year. [[00:01:19](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=79.06s)]
+*  U.S. household debt itself has actually hit its highest level ever. [[00:01:20](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=80.94s)]
+*  And all this really just points to one simple fact. [[00:01:25](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=85.22s)]
+*  American workers are being stretched thinner than ever, and they're borrowing money to [[00:01:28](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=88.16s)]
+*  make ends meet. [[00:01:32](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=92.17999999999999s)]
+*  This is the real context for Donald Trump's so-called Big Beautiful Bill, which he signed [[00:01:33](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=93.52s)]
+*  into law on July 4th. [[00:01:38](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=98.12s)]
+*  One of the central things the law does is extend the 2017 Trump tax cut, which gave [[00:01:40](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=100.24s)]
+*  massive tax reductions to the ultra-rich. [[00:01:44](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=104.9s)]
+*  Under the law, households in the top 1% would get an average tax cut of $66,000, and in [[00:01:47](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=107.56s)]
+*  some states an average of $100,000. [[00:01:53](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=113.28s)]
+*  And just to put this in perspective, top 1% means that the households getting these tax [[00:01:55](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=115.88s)]
+*  cuts make a minimum of $917,000 a year. [[00:02:00](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=120.48s)]
+*  Overall, the new law will cut $4.5 trillion in taxes, the bulk of which will be enjoyed [[00:02:05](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=125.92s)]
+*  by the ultra-rich. [[00:02:12](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=132.24s)]
+*  The funny thing is that $4.5 trillion happens to be just enough to pay off all of the student [[00:02:13](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=133.78s)]
+*  loan, credit card, and auto loan debt in America. [[00:02:19](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=139.04s)]
+*  In other words, the Trump administration is choosing to give a massive handout to the [[00:02:23](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=143.0s)]
+*  people who need it least, while the American people, who he said his whole campaign was [[00:02:27](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=147.24s)]
+*  fighting for, go on historic levels of debt to get an education, to buy a car, to buy [[00:02:32](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=152.12s)]
+*  groceries. [[00:02:38](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=158.76s)]
+*  Not to mention, the other big part of this law is that it reduces government spending [[00:02:40](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=160.54s)]
+*  to offset the tax breaks by making the largest cuts ever to Medicaid, the government's [[00:02:44](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=164.86s)]
+*  plan for poor people, and food stamps. [[00:02:50](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=170.96s)]
+*  In other words, Medicare recipients and people with food stamps, i.e. the poor, will be paying [[00:02:53](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=173.84s)]
+*  for these tax cuts. [[00:02:59](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=179.84s)]
+*  And this will of course mean that these people are going to have less health coverage, so [[00:03:01](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=181.52s)]
+*  they'll go further into medical debt, and it'll be harder for them to afford groceries, [[00:03:05](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=185.36s)]
+*  so they'll have to rely even more on these predatory microloan schemes. [[00:03:10](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=190.0s)]
+*  It's also worth saying that this is going to disproportionately affect Trump's base, [[00:03:13](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=193.44s)]
+*  since the majority of low-income households voted for Donald Trump in 2024. [[00:03:18](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=198.52s)]
+*  If you actually wanted to make America great like Donald Trump says he does, wouldn't [[00:03:22](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=202.84s)]
+*  you want to relieve people of the burden of debt? [[00:03:27](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=207.48000000000002s)]
+*  Wouldn't you want people to not have to borrow money to buy groceries or for everyone [[00:03:30](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=210.28s)]
+*  who needs a car to be able to afford one? [[00:03:34](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=214.68s)]
+*  Why is he not trying to make America as educated as possible? [[00:03:37](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=217.60000000000002s)]
+*  Wouldn't it make more sense to make college affordable instead of an automatic 20-30 years [[00:03:40](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=220.8s)]
+*  of trying to pay it off? [[00:03:46](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=226.44000000000003s)]
+*  As the age-old saying goes, you judge a person by their actions, not their words. [[00:03:48](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=228.04s)]
+*  Donald Trump has often been accused of using patriotic slogans just to get votes and that [[00:03:52](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=232.92s)]
+*  he never actually cared about the American people. [[00:03:57](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=237.56s)]
+*  This welfare law for billionaires masquerading as budgeting might just be the greatest proof [[00:04:00](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=240.56s)]
+*  yet. [[00:04:05](https://www.youtube.com/watch?v=jgrcu_BKAK4&t=245.23999999999998s)]
