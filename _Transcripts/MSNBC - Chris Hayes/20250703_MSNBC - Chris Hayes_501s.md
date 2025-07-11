@@ -1,0 +1,123 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 501s
+Video Keywords: ['Chris Hayes']
+Video Views: 199406
+Video Rating: None
+Video Description: The New York Times reports that holdouts who visited Trump on Wednesday “walked out with signed merchandise, photos in the Oval Office and, by some accounts, a newfound appreciation for the bill.”
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#WhiteHouse #Trump #Republicans
+---
+
+# ‘Swag bag’: Trump reportedly won over GOP holdouts with signed merch
+**MSNBC - Chris Hayes:** [July 03, 2025](https://www.youtube.com/watch?v=30R-B-drZdw)
+*  Good evening from New York. I'm Chris Hayes. Well, Donald Trump got his bill. [[00:00:00](https://www.youtube.com/watch?v=30R-B-drZdw&t=0.0s)]
+*  It's unclear whether he understands what's in it, but he got his bill. Republicans got on board. [[00:00:05](https://www.youtube.com/watch?v=30R-B-drZdw&t=5.0s)]
+*  And now all that is left for those opposed to this monstrosity is to make the Republicans who voted for it pay a political price. [[00:00:10](https://www.youtube.com/watch?v=30R-B-drZdw&t=10.0s)]
+*  Just hours ago, House Republicans voted by a very thin margin to approve Donald Trump's deficit-busting, Medicaid-slashing, omnibus MAGA bill. [[00:00:18](https://www.youtube.com/watch?v=30R-B-drZdw&t=18.0s)]
+*  Trump's expected to sign it into law tomorrow, the 4th of July, in a televised event at the White House. [[00:00:28](https://www.youtube.com/watch?v=30R-B-drZdw&t=28.0s)]
+*  Now, he'll be signing into law a bill that virtually everyone on Capitol Hill either openly or tacitly admits is a piece of garbage. [[00:00:33](https://www.youtube.com/watch?v=30R-B-drZdw&t=33.0s)]
+*  I mean, its fundamental structure, like the big things it does, is hand out tax cuts to the very wealthy, into corporations, and cuts nearly a trillion dollars with a T out of Medicaid over the next decade. [[00:00:43](https://www.youtube.com/watch?v=30R-B-drZdw&t=43.0s)]
+*  It kicks an estimated 12 million Americans off their health insurance. [[00:00:57](https://www.youtube.com/watch?v=30R-B-drZdw&t=57.0s)]
+*  And because the bill will turn ICE into the world's largest police force and sets back the U.S. energy industry by decades with handouts to oil and coal, coal subsidies, the whole thing comes together to add $3 trillion to the deficit. [[00:01:00](https://www.youtube.com/watch?v=30R-B-drZdw&t=60.0s)]
+*  That has pitted Trump against his former benefactor, world's richest man Elon Musk. [[00:01:18](https://www.youtube.com/watch?v=30R-B-drZdw&t=78.0s)]
+*  Musk has blasted the bill as an insane attack on clean energy and balanced budgets. [[00:01:24](https://www.youtube.com/watch?v=30R-B-drZdw&t=84.0s)]
+*  He's vowed to primary Republicans who vote for it, and he's attacked Trump online over it. [[00:01:29](https://www.youtube.com/watch?v=30R-B-drZdw&t=89.0s)]
+*  This morning, before the House vote, someone on social media posted, release the unredacted Epstein files. [[00:01:34](https://www.youtube.com/watch?v=30R-B-drZdw&t=94.0s)]
+*  Musk replied with a single word, yes. [[00:01:40](https://www.youtube.com/watch?v=30R-B-drZdw&t=100.0s)]
+*  You'll remember last month at the height of their sniping over the bill. [[00:01:43](https://www.youtube.com/watch?v=30R-B-drZdw&t=103.0s)]
+*  Musk had said in a now-deleted post, quote, time to drop the really big bomb. [[00:01:46](https://www.youtube.com/watch?v=30R-B-drZdw&t=106.0s)]
+*  Donald Trump is in the Epstein piles. [[00:01:50](https://www.youtube.com/watch?v=30R-B-drZdw&t=110.0s)]
+*  He later apologized for that or said he went too far. [[00:01:53](https://www.youtube.com/watch?v=30R-B-drZdw&t=113.0s)]
+*  Obviously, we don't know if that's true. [[00:01:56](https://www.youtube.com/watch?v=30R-B-drZdw&t=116.0s)]
+*  All we know is that Donald Trump and Jeffrey Epstein were good buddies, and Donald Trump said that Jeffrey Epstein liked him young. [[00:01:58](https://www.youtube.com/watch?v=30R-B-drZdw&t=118.0s)]
+*  Now, I generally would take Elon Musk with a huge grain of salt, but some of his actual criticisms of the bill have been quite valid and shared by other Republicans. [[00:02:05](https://www.youtube.com/watch?v=30R-B-drZdw&t=125.0s)]
+*  All the way into the wee hours Wednesday night, Trump faced some resistance from holdouts in his own party. [[00:02:14](https://www.youtube.com/watch?v=30R-B-drZdw&t=134.0s)]
+*  Although I think most of us felt that we knew where this was going to end up. [[00:02:20](https://www.youtube.com/watch?v=30R-B-drZdw&t=140.0s)]
+*  But fundamentally, some of them at least know how ruinous it's going to be for the communities they represent and needed some convincing to get on board. [[00:02:24](https://www.youtube.com/watch?v=30R-B-drZdw&t=144.0s)]
+*  Even Trump's most stalwart allies couldn't really even bring themselves to fake enthusiasm for the thing. [[00:02:32](https://www.youtube.com/watch?v=30R-B-drZdw&t=152.0s)]
+*  It's really amazing. I've just been watching this. [[00:02:39](https://www.youtube.com/watch?v=30R-B-drZdw&t=159.0s)]
+*  Here's an example. Here's Congressman Ryan Zinke. [[00:02:41](https://www.youtube.com/watch?v=30R-B-drZdw&t=161.0s)]
+*  He's Trump's former Interior Secretary, giving an endorsement of the bill. [[00:02:44](https://www.youtube.com/watch?v=30R-B-drZdw&t=164.0s)]
+*  Endorsement of the bill that sounds like anything but. [[00:02:48](https://www.youtube.com/watch?v=30R-B-drZdw&t=168.0s)]
+*  It probably has too much salt, not enough pepper. [[00:02:51](https://www.youtube.com/watch?v=30R-B-drZdw&t=171.0s)]
+*  There are some small gambling issues in it that can be corrected. [[00:02:56](https://www.youtube.com/watch?v=30R-B-drZdw&t=176.0s)]
+*  But I don't think this is the vehicle to correct it. [[00:03:00](https://www.youtube.com/watch?v=30R-B-drZdw&t=180.0s)]
+*  Overall, there's no poison pills in it. [[00:03:03](https://www.youtube.com/watch?v=30R-B-drZdw&t=183.0s)]
+*  If you're a fiscal hawk on one side, you know, you're probably not satisfied. [[00:03:05](https://www.youtube.com/watch?v=30R-B-drZdw&t=185.0s)]
+*  If you're moderate on the other side, you're not satisfied. [[00:03:09](https://www.youtube.com/watch?v=30R-B-drZdw&t=189.0s)]
+*  So overall, I think this is the best we can do at the moment. [[00:03:11](https://www.youtube.com/watch?v=30R-B-drZdw&t=191.0s)]
+*  That's that's the that's the person voting for and advocating for the bill. [[00:03:16](https://www.youtube.com/watch?v=30R-B-drZdw&t=196.0s)]
+*  Now, despite all that, most of the Republican holdouts relented. [[00:03:21](https://www.youtube.com/watch?v=30R-B-drZdw&t=201.0s)]
+*  House Speaker Mike Johnson could afford to lose three votes. [[00:03:24](https://www.youtube.com/watch?v=30R-B-drZdw&t=204.0s)]
+*  Ultimately, only two Republicans voted against the bill. [[00:03:26](https://www.youtube.com/watch?v=30R-B-drZdw&t=206.0s)]
+*  The New York Times reports that holdouts who visited Trump yesterday walked out with signed merchandise, photos in the Oval Office, [[00:03:29](https://www.youtube.com/watch?v=30R-B-drZdw&t=209.0s)]
+*  and by some accounts, a newfound appreciation for the bill targets all of a blunt force charm offensive waged with precision by the president. [[00:03:37](https://www.youtube.com/watch?v=30R-B-drZdw&t=217.0s)]
+*  I mean, I don't think it's like that precise, right? [[00:03:45](https://www.youtube.com/watch?v=30R-B-drZdw&t=225.0s)]
+*  He just had the holdouts to the White House where he signed stuff for them. [[00:03:48](https://www.youtube.com/watch?v=30R-B-drZdw&t=228.0s)]
+*  One of those holdouts, Tim Burschette of Tennessee, a Freedom Caucus member whose social media bio calls him a fiscally conservative Republican, [[00:03:52](https://www.youtube.com/watch?v=30R-B-drZdw&t=232.0s)]
+*  posted a video to social media gushing about his White House visit and his swag bag. [[00:04:00](https://www.youtube.com/watch?v=30R-B-drZdw&t=240.0s)]
+*  President was wonderful, as always, informative, funny. [[00:04:06](https://www.youtube.com/watch?v=30R-B-drZdw&t=246.0s)]
+*  He told me he liked seeing me on TV. [[00:04:12](https://www.youtube.com/watch?v=30R-B-drZdw&t=252.0s)]
+*  It's kind of cool. [[00:04:14](https://www.youtube.com/watch?v=30R-B-drZdw&t=254.0s)]
+*  Thank you so much for sending me incredibly humble. [[00:04:15](https://www.youtube.com/watch?v=30R-B-drZdw&t=255.0s)]
+*  Yeah, he signed a bunch of stuff. [[00:04:18](https://www.youtube.com/watch?v=30R-B-drZdw&t=258.0s)]
+*  It's cool. [[00:04:20](https://www.youtube.com/watch?v=30R-B-drZdw&t=260.0s)]
+*  Oh, well, that's cool. [[00:04:22](https://www.youtube.com/watch?v=30R-B-drZdw&t=262.0s)]
+*  You got stuff signed by the press today. [[00:04:24](https://www.youtube.com/watch?v=30R-B-drZdw&t=264.0s)]
+*  Both those guys voted to add three trillion dollars to the deficit. [[00:04:28](https://www.youtube.com/watch?v=30R-B-drZdw&t=268.0s)]
+*  It was a replay of the scene last weekend before the Senate passed the bill. [[00:04:31](https://www.youtube.com/watch?v=30R-B-drZdw&t=271.0s)]
+*  Trump hosted a handful of Republican senators as Virginia Golf Resort before they voted his way. [[00:04:34](https://www.youtube.com/watch?v=30R-B-drZdw&t=274.0s)]
+*  One of them, Lindsey Graham of South Carolina, told the Times he likes hosting people. [[00:04:39](https://www.youtube.com/watch?v=30R-B-drZdw&t=279.0s)]
+*  It relaxes him. [[00:04:43](https://www.youtube.com/watch?v=30R-B-drZdw&t=283.0s)]
+*  Quote, Mr. Trump told him, Lindsey Graham, he could go to the pro shop and pick out a shirt. [[00:04:44](https://www.youtube.com/watch?v=30R-B-drZdw&t=284.0s)]
+*  Go pick out a shirt. [[00:04:54](https://www.youtube.com/watch?v=30R-B-drZdw&t=294.0s)]
+*  So Trump can still sway these folks into voting for a bill that just wrecks their constituents. [[00:04:56](https://www.youtube.com/watch?v=30R-B-drZdw&t=296.0s)]
+*  But now they got to sell it, right? [[00:05:02](https://www.youtube.com/watch?v=30R-B-drZdw&t=302.0s)]
+*  Today, as Republican caucus loudly celebrated the vote, Florida Republican Byron Donalds, [[00:05:04](https://www.youtube.com/watch?v=30R-B-drZdw&t=304.0s)]
+*  one of the guys who got some Trump swag, importantly, told NBC News the bill takes care of investors and job creators. [[00:05:09](https://www.youtube.com/watch?v=30R-B-drZdw&t=309.0s)]
+*  And pretty soon, their success will trickle down to the rest of us. [[00:05:16](https://www.youtube.com/watch?v=30R-B-drZdw&t=316.0s)]
+*  I was in Missouri. I spoke to actually a patient who voted for President Trump, [[00:05:22](https://www.youtube.com/watch?v=30R-B-drZdw&t=322.0s)]
+*  a Republican voter who was not qualified for Medicaid until Missouri voted to expand it [[00:05:26](https://www.youtube.com/watch?v=30R-B-drZdw&t=326.0s)]
+*  because of how low the wages there are for teachers, for nurses, for police officers. [[00:05:31](https://www.youtube.com/watch?v=30R-B-drZdw&t=331.0s)]
+*  What do you say to those people? Are you worried that you cost them their vote? [[00:05:35](https://www.youtube.com/watch?v=30R-B-drZdw&t=335.0s)]
+*  No, actually, I'm not worried because what we're also doing in this bill on the other side is we are expanding our economy. [[00:05:39](https://www.youtube.com/watch?v=30R-B-drZdw&t=339.0s)]
+*  We are going to get far more investment into the United States. [[00:05:44](https://www.youtube.com/watch?v=30R-B-drZdw&t=344.0s)]
+*  So whether it's Florida, Missouri, Utah, Texas, wherever you're talking about, California, [[00:05:47](https://www.youtube.com/watch?v=30R-B-drZdw&t=347.0s)]
+*  people will be able to have a stronger economy, a more durable economy. [[00:05:52](https://www.youtube.com/watch?v=30R-B-drZdw&t=352.0s)]
+*  So wages actually will go up. [[00:05:56](https://www.youtube.com/watch?v=30R-B-drZdw&t=356.0s)]
+*  This is the same thing that Republicans have been saying since Reagan, right? [[00:05:59](https://www.youtube.com/watch?v=30R-B-drZdw&t=359.0s)]
+*  Voodoo economics is back, right? [[00:06:02](https://www.youtube.com/watch?v=30R-B-drZdw&t=362.0s)]
+*  Supply side stuff, tax cuts for the rich and corporations. [[00:06:04](https://www.youtube.com/watch?v=30R-B-drZdw&t=364.0s)]
+*  Everyone else is going to benefit. [[00:06:07](https://www.youtube.com/watch?v=30R-B-drZdw&t=367.0s)]
+*  When it's not eroding civil liberties and constitutional safeguards and the fundamentals of American self-governance, [[00:06:09](https://www.youtube.com/watch?v=30R-B-drZdw&t=369.0s)]
+*  the modern Republican Party is just monomaniacally obsessed with this, [[00:06:15](https://www.youtube.com/watch?v=30R-B-drZdw&t=375.0s)]
+*  about cutting taxes for rich people and corporations and investors and taking away regular people's health care and food. [[00:06:19](https://www.youtube.com/watch?v=30R-B-drZdw&t=379.0s)]
+*  They voted almost in lockstep for precisely that. [[00:06:26](https://www.youtube.com/watch?v=30R-B-drZdw&t=386.0s)]
+*  All that is left is to hold them accountable for it. [[00:06:30](https://www.youtube.com/watch?v=30R-B-drZdw&t=390.0s)]
+*  That's got a clear picture today of a united Democratic Party. [[00:06:33](https://www.youtube.com/watch?v=30R-B-drZdw&t=393.0s)]
+*  I mean, say what you about the Democratic Party, and there's lots to say. [[00:06:37](https://www.youtube.com/watch?v=30R-B-drZdw&t=397.0s)]
+*  Every single member of both houses voted together against this bill. [[00:06:41](https://www.youtube.com/watch?v=30R-B-drZdw&t=401.0s)]
+*  They didn't lose a vote. [[00:06:47](https://www.youtube.com/watch?v=30R-B-drZdw&t=407.0s)]
+*  It's as clear a picture as you can get of what America's two parties stand for. [[00:06:48](https://www.youtube.com/watch?v=30R-B-drZdw&t=408.0s)]
+*  And the choice really can't be starker. [[00:06:53](https://www.youtube.com/watch?v=30R-B-drZdw&t=413.0s)]
+*  Something House Minority Leader Hakeem Jeffries laid out at length today in his eight-hour, 44-minute speech against the Trump bill, [[00:06:55](https://www.youtube.com/watch?v=30R-B-drZdw&t=415.0s)]
+*  the longest floor speech in the history of the House. [[00:07:03](https://www.youtube.com/watch?v=30R-B-drZdw&t=423.0s)]
+*  I ask the question, if Republicans were so proud of this one big ugly bill, [[00:07:05](https://www.youtube.com/watch?v=30R-B-drZdw&t=425.0s)]
+*  why did debate begin at 328 a.m. in the morning? [[00:07:13](https://www.youtube.com/watch?v=30R-B-drZdw&t=433.0s)]
+*  Republicans are once again, which has been the case, Mr. Speaker, through every step of this journey, [[00:07:18](https://www.youtube.com/watch?v=30R-B-drZdw&t=438.0s)]
+*  tried to jam this bill through the House of Representatives under cover of darkness. [[00:07:29](https://www.youtube.com/watch?v=30R-B-drZdw&t=449.0s)]
+*  But I'm here today to make it clear that I'm going to take my time [[00:07:38](https://www.youtube.com/watch?v=30R-B-drZdw&t=458.0s)]
+*  and ensure that the American people fully understand how damaging this bill will be to their quality of life. [[00:07:44](https://www.youtube.com/watch?v=30R-B-drZdw&t=464.0s)]
+*  Thank you. [[00:07:58](https://www.youtube.com/watch?v=30R-B-drZdw&t=478.0s)]

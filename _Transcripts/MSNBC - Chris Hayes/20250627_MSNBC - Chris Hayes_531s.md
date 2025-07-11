@@ -1,0 +1,122 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 531s
+Video Keywords: ['Chris Hayes']
+Video Views: 639144
+Video Rating: None
+Video Description: Justice Ketanji Brown Jackson issued a chilling warning after the Supreme Court’s conservative majority sided with Trump in the birthright citizenship injunction case. Sen. Chris Van Hollen joins to discuss. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#SupremeCourt #KetanjiBrownJackson #birthrightcitizenship
+---
+
+# ‘Disaster looms’: Justice Jackson warns the nation after latest Supreme Court ruling
+**MSNBC - Chris Hayes:** [June 27, 2025](https://www.youtube.com/watch?v=RPzJKJ7hols)
+*  Donald Trump wants to govern like a dictator, and the 6-3 conservative [[00:00:00](https://www.youtube.com/watch?v=RPzJKJ7hols&t=0.0s)]
+*  supermajority on the Supreme Court seems eager to let him. In an impassioned [[00:00:05](https://www.youtube.com/watch?v=RPzJKJ7hols&t=5.08s)]
+*  dissent to today's ruling on birthright citizenship and nationwide [[00:00:09](https://www.youtube.com/watch?v=RPzJKJ7hols&t=9.96s)]
+*  injunctions, Justice Katanji Brown Jackson warned of what lies ahead for [[00:00:13](https://www.youtube.com/watch?v=RPzJKJ7hols&t=13.98s)]
+*  our democracy now that her conservative colleagues have curtailed one of the [[00:00:18](https://www.youtube.com/watch?v=RPzJKJ7hols&t=18.900000000000002s)]
+*  only needs of reigning in potentially illegal actions from this or really any [[00:00:23](https://www.youtube.com/watch?v=RPzJKJ7hols&t=23.04s)]
+*  administration. Quote, disaster looms. What I mean by this is that our rights [[00:00:28](https://www.youtube.com/watch?v=RPzJKJ7hols&t=28.88s)]
+*  based legal system can only function properly if the executive and everyone [[00:00:35](https://www.youtube.com/watch?v=RPzJKJ7hols&t=35.2s)]
+*  else is always bound by law. Today's decision is a seismic shock to that [[00:00:40](https://www.youtube.com/watch?v=RPzJKJ7hols&t=40.7s)]
+*  foundational norm. Allowing the executive to violate the law at its [[00:00:47](https://www.youtube.com/watch?v=RPzJKJ7hols&t=47.480000000000004s)]
+*  prerogative with respect to anyone who has not yet sued, carves out a huge [[00:00:51](https://www.youtube.com/watch?v=RPzJKJ7hols&t=51.68s)]
+*  exception, a gash in the basic tenets of our founding charter that could turn out [[00:00:57](https://www.youtube.com/watch?v=RPzJKJ7hols&t=57.36s)]
+*  to be a mortal wound. What is more to me, requiring courts themselves to provide [[00:01:03](https://www.youtube.com/watch?v=RPzJKJ7hols&t=63.04s)]
+*  the dagger makes a mockery of the judiciary's solemn duty to safeguard the [[00:01:09](https://www.youtube.com/watch?v=RPzJKJ7hols&t=69.32s)]
+*  rule of law. Senator Chris Van Hollen is a Democrat of Maryland and he joins me [[00:01:15](https://www.youtube.com/watch?v=RPzJKJ7hols&t=75.12s)]
+*  now to discuss all this. Senator, thanks so much for joining me. Today you [[00:01:20](https://www.youtube.com/watch?v=RPzJKJ7hols&t=80.36s)]
+*  Good to be with you. Great to see you. Today you decried the court's seating power to [[00:01:25](https://www.youtube.com/watch?v=RPzJKJ7hols&t=85.12s)]
+*  what you call a lawless authoritarian president. What do you think the long [[00:01:30](https://www.youtube.com/watch?v=RPzJKJ7hols&t=90.28s)]
+*  term practical implications of this ruling are or could be? Well, I agree [[00:01:35](https://www.youtube.com/watch?v=RPzJKJ7hols&t=95.28s)]
+*  with Justice Jackson and with the dissent in this case, which is that it is [[00:01:42](https://www.youtube.com/watch?v=RPzJKJ7hols&t=102.80000000000001s)]
+*  a big blow to our ability to enforce our rights because our rights, our [[00:01:47](https://www.youtube.com/watch?v=RPzJKJ7hols&t=107.56s)]
+*  constitutional rights, our other legal rights are of course only as good is [[00:01:53](https://www.youtube.com/watch?v=RPzJKJ7hols&t=113.24s)]
+*  our ability to enforce them. And what this decision does is it throws up lots [[00:01:57](https://www.youtube.com/watch?v=RPzJKJ7hols&t=117.88s)]
+*  of additional roadblocks and obstacles to the remedy, right? Because when your [[00:02:03](https://www.youtube.com/watch?v=RPzJKJ7hols&t=123.0s)]
+*  constitutional rights are violated, this is going to make it much harder for [[00:02:08](https://www.youtube.com/watch?v=RPzJKJ7hols&t=128.64s)]
+*  individuals other than those who go to court and are themselves plaintiffs to [[00:02:14](https://www.youtube.com/watch?v=RPzJKJ7hols&t=134.51999999999998s)]
+*  have their rights adjudicated and restored. And so I do think this is a big [[00:02:19](https://www.youtube.com/watch?v=RPzJKJ7hols&t=139.32s)]
+*  blow and it's another example of this Supreme Court that's been largely [[00:02:24](https://www.youtube.com/watch?v=RPzJKJ7hols&t=144.95999999999998s)]
+*  stacked by Donald Trump appointees, seating their constitutional [[00:02:28](https://www.youtube.com/watch?v=RPzJKJ7hols&t=148.76s)]
+*  responsibilities and duties to the executive when under Article 3 they're [[00:02:33](https://www.youtube.com/watch?v=RPzJKJ7hols&t=153.44s)]
+*  the ones that should be standing up and making sure that we can enforce our [[00:02:40](https://www.youtube.com/watch?v=RPzJKJ7hols&t=160.51999999999998s)]
+*  rights. Well, not only seating their power to rein in the executive, but the [[00:02:44](https://www.youtube.com/watch?v=RPzJKJ7hols&t=164.44s)]
+*  power of other courts to potentially stop the executive from doing, from [[00:02:50](https://www.youtube.com/watch?v=RPzJKJ7hols&t=170.92000000000002s)]
+*  taking illegal actions. Absolutely, I mean the power of the judiciary. I mean [[00:02:57](https://www.youtube.com/watch?v=RPzJKJ7hols&t=177.16s)]
+*  the power of Article 3 courts. What the Supreme Court is done and again stacked [[00:03:02](https://www.youtube.com/watch?v=RPzJKJ7hols&t=182.64000000000001s)]
+*  largely by these Trump appointees is seating their power under the [[00:03:07](https://www.youtube.com/watch?v=RPzJKJ7hols&t=187.92s)]
+*  Constitution, in fact their responsibility as a judicial branch, [[00:03:13](https://www.youtube.com/watch?v=RPzJKJ7hols&t=193.72s)]
+*  they're seating that to Donald Trump who is a lawless president. So when you have [[00:03:18](https://www.youtube.com/watch?v=RPzJKJ7hols&t=198.68s)]
+*  a combination of a lawless president like Donald Trump and then you have a [[00:03:24](https://www.youtube.com/watch?v=RPzJKJ7hols&t=204.04s)]
+*  Supreme Court that wants to essentially get rid of the remedies that we have [[00:03:28](https://www.youtube.com/watch?v=RPzJKJ7hols&t=208.2s)]
+*  when it comes to enforcing our rights, this is a very dangerous moment. So I [[00:03:35](https://www.youtube.com/watch?v=RPzJKJ7hols&t=215.56s)]
+*  agree with Judge Jackson in her strong language. Senator, while Donald Trump [[00:03:41](https://www.youtube.com/watch?v=RPzJKJ7hols&t=221.92s)]
+*  faces more nationwide injunctions than any other president, he is correct about [[00:03:46](https://www.youtube.com/watch?v=RPzJKJ7hols&t=226.07999999999998s)]
+*  that. That's because he issues more unlawful orders than any other [[00:03:51](https://www.youtube.com/watch?v=RPzJKJ7hols&t=231.2s)]
+*  president. These injunctions are not unique to Republicans. Joe Biden, his [[00:03:55](https://www.youtube.com/watch?v=RPzJKJ7hols&t=235.56s)]
+*  predecessor, had a number of his priorities stymied by similar [[00:04:00](https://www.youtube.com/watch?v=RPzJKJ7hols&t=240.72s)]
+*  nationwide injunctions. So this cuts both ways, no? [[00:04:04](https://www.youtube.com/watch?v=RPzJKJ7hols&t=244.68s)]
+*  It does. You're exactly right. And there were judges who enjoined some of [[00:04:10](https://www.youtube.com/watch?v=RPzJKJ7hols&t=250.16s)]
+*  President Biden's actions as executive orders where I disagreed with them. And [[00:04:15](https://www.youtube.com/watch?v=RPzJKJ7hols&t=255.8s)]
+*  of course the idea then is they're adjudicated through the court system, [[00:04:21](https://www.youtube.com/watch?v=RPzJKJ7hols&t=261.44s)]
+*  from the district court level to the appellate court level and ultimately to [[00:04:25](https://www.youtube.com/watch?v=RPzJKJ7hols&t=265.64s)]
+*  the Supreme Court level. But when you have a system that doesn't allow the [[00:04:29](https://www.youtube.com/watch?v=RPzJKJ7hols&t=269.24s)]
+*  most obvious violations of constitutional legal rights to be [[00:04:34](https://www.youtube.com/watch?v=RPzJKJ7hols&t=274.24s)]
+*  remedied on a nationwide basis when they're violated, then you expose people [[00:04:38](https://www.youtube.com/watch?v=RPzJKJ7hols&t=278.56s)]
+*  for very long periods of time to being stripped of their constitution or other [[00:04:44](https://www.youtube.com/watch?v=RPzJKJ7hols&t=284.44s)]
+*  legal rights. And so that's why I think this was a blow to protecting our rights. [[00:04:48](https://www.youtube.com/watch?v=RPzJKJ7hols&t=288.96000000000004s)]
+*  And we now have two branches of government. We have the Article Three [[00:04:55](https://www.youtube.com/watch?v=RPzJKJ7hols&t=295.04s)]
+*  courts in the form of the Supreme Court anyway. And now the Congress, where you [[00:04:58](https://www.youtube.com/watch?v=RPzJKJ7hols&t=298.96s)]
+*  have majority Republicans who are ceding their power also to a president who wants [[00:05:03](https://www.youtube.com/watch?v=RPzJKJ7hols&t=303.88s)]
+*  to be king. I mean, just today, Republicans, all but one, voted against [[00:05:09](https://www.youtube.com/watch?v=RPzJKJ7hols&t=309.52s)]
+*  the War Powers Resolution. The War Powers Resolution was a very simple idea [[00:05:14](https://www.youtube.com/watch?v=RPzJKJ7hols&t=314.72s)]
+*  founded in the Constitution that says you can't go to war without congressional [[00:05:20](https://www.youtube.com/watch?v=RPzJKJ7hols&t=320.84000000000003s)]
+*  authorization. And yet all but one Republican senator abdicated their [[00:05:25](https://www.youtube.com/watch?v=RPzJKJ7hols&t=325.68s)]
+*  responsibility and essentially said, we're going to give that power to Donald [[00:05:32](https://www.youtube.com/watch?v=RPzJKJ7hols&t=332.28000000000003s)]
+*  Trump alone. So this is a very dangerous moment for our democracy and protection [[00:05:36](https://www.youtube.com/watch?v=RPzJKJ7hols&t=336.20000000000005s)]
+*  of our rights. [[00:05:41](https://www.youtube.com/watch?v=RPzJKJ7hols&t=341.76000000000005s)]
+*  You know, it's funny, I've heard over the years calls to abolish ICE, but I also [[00:05:43](https://www.youtube.com/watch?v=RPzJKJ7hols&t=343.6s)]
+*  wonder if we should just abolish Congress if your colleagues are not going [[00:05:47](https://www.youtube.com/watch?v=RPzJKJ7hols&t=347.52s)]
+*  to do their jobs. [[00:05:52](https://www.youtube.com/watch?v=RPzJKJ7hols&t=352.96s)]
+*  Yeah, I've not called to abolish ICE. I've called to rein in the excesses we see [[00:05:53](https://www.youtube.com/watch?v=RPzJKJ7hols&t=353.96s)]
+*  from ICE. [[00:06:02](https://www.youtube.com/watch?v=RPzJKJ7hols&t=362.52s)]
+*  Fair enough. I've taken us off track. I do want to ask your thoughts on where the [[00:06:03](https://www.youtube.com/watch?v=RPzJKJ7hols&t=363.08s)]
+*  so-called Big Beautiful bill stands at this point. Speaking of Congress acting [[00:06:08](https://www.youtube.com/watch?v=RPzJKJ7hols&t=368.15999999999997s)]
+*  or not acting, the negotiations seem to be ongoing. It seems like the ability to [[00:06:14](https://www.youtube.com/watch?v=RPzJKJ7hols&t=374.2s)]
+*  bring the Republican Party together has gotten harder since some of the [[00:06:22](https://www.youtube.com/watch?v=RPzJKJ7hols&t=382.08s)]
+*  provisions in the bill have been stricken for not complying with these, you know, [[00:06:27](https://www.youtube.com/watch?v=RPzJKJ7hols&t=387.03999999999996s)]
+*  esoteric rules to get a bill passed through party line vote. But Donald Trump [[00:06:32](https://www.youtube.com/watch?v=RPzJKJ7hols&t=392.8s)]
+*  says he wants this bill to be passed within the next week by July 4th. [[00:06:38](https://www.youtube.com/watch?v=RPzJKJ7hols&t=398.08s)]
+*  How realistic do you think that is at this point? [[00:06:41](https://www.youtube.com/watch?v=RPzJKJ7hols&t=401.91999999999996s)]
+*  Well, I hope that we're able to stop it. And of course, back in 2017 when Donald [[00:06:45](https://www.youtube.com/watch?v=RPzJKJ7hols&t=405.2s)]
+*  Trump and a majority Republican Congress tried to undo the Affordable Care Act, we [[00:06:51](https://www.youtube.com/watch?v=RPzJKJ7hols&t=411.71999999999997s)]
+*  ultimately stopped them with that one vote in the United States Senate. I hope [[00:06:57](https://www.youtube.com/watch?v=RPzJKJ7hols&t=417.48s)]
+*  we can stop them again this time in the United States Senate. They do seem, right [[00:07:01](https://www.youtube.com/watch?v=RPzJKJ7hols&t=421.76s)]
+*  now, Catherine, hell-bent on stripping away people's health care protections, [[00:07:07](https://www.youtube.com/watch?v=RPzJKJ7hols&t=427.28s)]
+*  especially very deep cuts in Medicaid, in order to partially finance these tax [[00:07:12](https://www.youtube.com/watch?v=RPzJKJ7hols&t=432.91999999999996s)]
+*  cuts for billionaires and the very wealthy. That framework is something that [[00:07:19](https://www.youtube.com/watch?v=RPzJKJ7hols&t=439.35999999999996s)]
+*  they continue to adhere to. Now, you're absolutely right. It's gotten complicated [[00:07:24](https://www.youtube.com/watch?v=RPzJKJ7hols&t=444.47999999999996s)]
+*  with individual provisions. And the Senate parliamentarian has said that [[00:07:29](https://www.youtube.com/watch?v=RPzJKJ7hols&t=449.4s)]
+*  they're trying to pass things in this bill that they're not allowed to pass in [[00:07:34](https://www.youtube.com/watch?v=RPzJKJ7hols&t=454.79999999999995s)]
+*  this particular form and this procedure. But look, I ask all the people who are [[00:07:40](https://www.youtube.com/watch?v=RPzJKJ7hols&t=460.16s)]
+*  listening to this program and others around the country, Americans, regardless [[00:07:47](https://www.youtube.com/watch?v=RPzJKJ7hols&t=467.64000000000004s)]
+*  of your party, please mobilize and call Republican senators and House members. [[00:07:50](https://www.youtube.com/watch?v=RPzJKJ7hols&t=470.92s)]
+*  This is the moment to stop this bill, which will do great harm and great damage [[00:07:57](https://www.youtube.com/watch?v=RPzJKJ7hols&t=477.56s)]
+*  to tens of millions of our fellow Americans. And again, all for the purpose [[00:08:03](https://www.youtube.com/watch?v=RPzJKJ7hols&t=483.36s)]
+*  of partially financing a tax cut for very wealthy people. And by the way, even [[00:08:08](https://www.youtube.com/watch?v=RPzJKJ7hols&t=488.16s)]
+*  after that, it will add $4.2 trillion to our deficit, which we will all pay for in [[00:08:13](https://www.youtube.com/watch?v=RPzJKJ7hols&t=493.72s)]
+*  one form or another. Senator Chris Van Hollen, thanks so much for joining us [[00:08:20](https://www.youtube.com/watch?v=RPzJKJ7hols&t=500.68s)]
+*  this evening. [[00:08:24](https://www.youtube.com/watch?v=RPzJKJ7hols&t=504.56s)]

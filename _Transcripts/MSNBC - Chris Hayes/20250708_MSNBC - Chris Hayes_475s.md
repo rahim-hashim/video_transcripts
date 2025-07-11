@@ -1,0 +1,123 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 475s
+Video Keywords: ['Chris Hayes']
+Video Views: 347045
+Video Rating: None
+Video Description: Mayor Karen Bass responds to DHS official Tricia McLaughlin saying, “We’re keeping everything on the table” when asked if the Trump administration would arrest Mayor Bass amid the deployment of federal agents in Los Angeles.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#DHS #LosAngeles #KarenBass
+---
+
+# ‘Pathetic’: Mayor Bass reacts to DHS official saying her arrest is ‘on the table’
+**MSNBC - Chris Hayes:** [July 08, 2025](https://www.youtube.com/watch?v=VRAfxumXnXQ)
+*  So what I saw in the park today looked like a city under siege, under armed [[00:00:00](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=0.0s)]
+*  occupation, and I have to tell you spending many years traveling into [[00:00:05](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=5.72s)]
+*  conflict areas, you know, it's the way the city, it's the way a city looks before [[00:00:09](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=9.18s)]
+*  a coup. That's how Los Angeles Mayor Karen Bass described this scene yesterday at [[00:00:15](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=15.06s)]
+*  MacArthur Park, the heart of a largely immigrant neighborhood. Federal [[00:00:21](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=21.64s)]
+*  immigration agents heavily armed in a military gear descended in armored [[00:00:26](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=26.2s)]
+*  vehicles and on horseback to conduct a sweep while a military style helicopter [[00:00:30](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=30.439999999999998s)]
+*  circled overhead. It was a truly bizarre scene. Journalist Ken [[00:00:34](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=34.84s)]
+*  Clippenstein reports of the whole operation was intended as a quote show [[00:00:40](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=40.0s)]
+*  of presence, according to internal army documents he obtained, which have not [[00:00:43](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=43.96s)]
+*  been independently verified by NBC News. Mayor Bass rushed to the scene Monday [[00:00:47](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=47.84s)]
+*  morning telling agents to leave the park quote right now and joining me now is [[00:00:52](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=52.48s)]
+*  Los Angeles Mayor Karen Bass. She previously represented the Los Angeles [[00:00:56](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=56.8s)]
+*  area as a Democratic congresswoman for 11 years. Mayor Bass, it's great to have [[00:01:00](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=60.239999999999995s)]
+*  you on first. I guess I want to find out from you how you knew about what was [[00:01:04](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=64.0s)]
+*  happening there and if the federal government communicated you formally [[00:01:08](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=68.24s)]
+*  through any channels in any way. No, there is no formal communication and [[00:01:11](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=71.8s)]
+*  basically it's because the immigrant rights institutions in our city are [[00:01:18](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=78.0s)]
+*  very well organized. They have a rapid response network and I get my news from [[00:01:22](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=82.84s)]
+*  them. So I was sitting in a room and everybody's phone started blowing up [[00:01:29](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=89.04s)]
+*  and that told me that the military had arrived in a park, a park where nothing [[00:01:33](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=93.68s)]
+*  was happening, Chris, and to see the soldiers march through, they literally [[00:01:39](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=99.6s)]
+*  marched through the kids summer camp. The kids had to be ushered in a building [[00:01:44](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=104.48s)]
+*  so that they weren't exposed to the scene. [[00:01:49](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=109.60000000000001s)]
+*  There were so there's a summer camp happening in the park. Now, did you do [[00:01:53](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=113.84s)]
+*  you can do you know that it was actual military is something that's been a [[00:01:56](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=116.84s)]
+*  little unclear in the reporting federal agents in Camo or actually members of [[00:01:59](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=119.68s)]
+*  the Marines or National Guard that have been mobilized by the Trump [[00:02:03](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=123.72s)]
+*  administration. Do you know that for a fact? [[00:02:07](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=127.44s)]
+*  No, and let me just tell you that that is one of the mysteries of what is going [[00:02:09](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=129.6s)]
+*  on in our town. What I do know is that the custom Border Patrol was definitely [[00:02:14](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=134.36s)]
+*  there. I have been told that the National Guards and the Marines were playing [[00:02:18](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=138.88s)]
+*  different roles, some on the periphery, but that we don't know that for sure. [[00:02:23](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=143.68s)]
+*  That is the problem. We have a lot of people who are not in uniform at all [[00:02:28](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=148.2s)]
+*  wearing street clothes with vests, but the vests sometimes say nothing more [[00:02:32](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=152.76s)]
+*  than police or it says nothing at all. Jumping out of unmarked cars with [[00:02:38](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=158.35999999999999s)]
+*  tinted windows, no license plate, wielding guns, pulling people off the [[00:02:43](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=163.32s)]
+*  street. That is the scene in L. A. Right now. And it's shameful because there [[00:02:48](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=168.68s)]
+*  isn't that we didn't. We were not having problems before the first raid, [[00:02:54](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=174.16s)]
+*  which was June six. The administration has brought deliberately chaos in a [[00:02:58](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=178.2s)]
+*  situation, chaos and fear because people around the city now are afraid to go [[00:03:04](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=184.24s)]
+*  to work. [[00:03:09](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=189.20000000000002s)]
+*  I want to. There's been a lot of invective hurled at you by federal [[00:03:11](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=191.8s)]
+*  spokespeople from the administration. I want to just give you a chance to [[00:03:16](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=196.36s)]
+*  respond to a few things. So one of them was the spokesperson DHS had this to [[00:03:18](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=198.92000000000002s)]
+*  say about the possibility of arresting you. Not sure for what, but here's what [[00:03:25](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=205.20000000000002s)]
+*  she had to say. [[00:03:29](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=209.92000000000002s)]
+*  When you have scenes like you did out in L. A. Today, where you have the [[00:03:31](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=211.04000000000002s)]
+*  mayor, Karen Bass, interfering with official federal officer proceedings, [[00:03:35](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=215.20000000000002s)]
+*  trying to enforce the laws that are put on the books by members of duly [[00:03:41](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=221.76000000000002s)]
+*  elected members of Congress. Are you all hesitant to just go out and arrest her? [[00:03:46](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=226.12s)]
+*  Or has it has all of this behavior not reached that threshold yet? [[00:03:51](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=231.72s)]
+*  We're certainly keeping everything on the table. Charlie, [[00:03:56](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=236.60000000000002s)]
+*  your reaction that mayor? [[00:04:02](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=242.0s)]
+*  Well, they're, you know, they're going to arrest me for doing my job. I mean, as [[00:04:05](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=245.20000000000002s)]
+*  mayor, my number one responsibility is to keep Angelino safe. Now, it never [[00:04:10](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=250.08s)]
+*  dawned on me that I would have to worry about keeping Angelino safe from my own [[00:04:15](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=255.60000000000002s)]
+*  government, from military that are supposed to be overseas fighting [[00:04:19](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=259.48s)]
+*  foreign enemies from the Custom and Border Patrol. We're about two and a half [[00:04:24](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=264.48s)]
+*  hours away from a border or from the National Guard that have been [[00:04:29](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=269.0s)]
+*  federalized unnecessarily. You know, this is an example of the federal [[00:04:33](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=273.68s)]
+*  government essentially seizing power from a governor, federalizing the [[00:04:38](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=278.16s)]
+*  National Guard's bringing them to Los Angeles when nobody asked for them. [[00:04:43](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=283.64000000000004s)]
+*  These air young women and men that have pulled been pulled out of work. They've [[00:04:47](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=287.8s)]
+*  been pulled from their families. They've been pulled from school for an [[00:04:51](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=291.56s)]
+*  assignment that is basically I mean, I don't know what this is other than a [[00:04:55](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=295.52s)]
+*  political stunt. I do feel like L. A. Is a Petri dish and we are the experiment [[00:04:59](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=299.28000000000003s)]
+*  and basically sending the signal to the nation that this is what's coming your [[00:05:04](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=304.84000000000003s)]
+*  way. First L. A. Let's see who's next. [[00:05:08](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=308.96s)]
+*  Yeah, and I want to when you talk about the sort of federal power grab here, [[00:05:13](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=313.12s)]
+*  this is what the Customs Border Patrol sector chief had to say, basically [[00:05:18](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=318.44s)]
+*  telling you that, you know, not quite. It's my city now, but but but sort of [[00:05:23](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=323.12s)]
+*  that idea. Take a listen. [[00:05:27](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=327.88s)]
+*  The federal government is not leaving L. A. I don't work for Karen Bass. The [[00:05:31](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=331.84s)]
+*  federal government doesn't work for Karen Bass. We're gonna be here till [[00:05:35](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=335.67999999999995s)]
+*  that mission is accomplished, as I said, and better get used to us now because [[00:05:39](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=339.08s)]
+*  this is gonna be normal very soon. [[00:05:44](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=344.59999999999997s)]
+*  What do you say that? I mean, I just I just have to say that I think that it's [[00:05:48](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=348.35999999999996s)]
+*  pathetic. I mean, last I checked all of us work for the American people. And so [[00:05:52](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=352.68s)]
+*  as I said, I am the duly elected official here to represent the city, and [[00:05:58](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=358.2s)]
+*  it is my job to protect the city. I was not interfering. It is my [[00:06:03](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=363.47999999999996s)]
+*  responsibility to ask what are you doing here in this park where nothing is [[00:06:07](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=367.76s)]
+*  going on? Why are you grabbing people off the street, making a lot of people [[00:06:14](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=374.03999999999996s)]
+*  believe that kidnappings are taking place? You know, we have whole sectors [[00:06:18](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=378.84s)]
+*  of the city now and the economy that has come to a halt. Our fashion district, [[00:06:23](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=383.2s)]
+*  4000 independent businesses is a ghost town. We have restaurants and other [[00:06:28](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=388.2s)]
+*  places of work where the workforce is afraid to come in. Having restaurant [[00:06:33](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=393.24s)]
+*  owners tell me that this is worse than Covid. So this is damaging to our [[00:06:37](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=397.68s)]
+*  economy. It's damaging, especially to the Children. And this is all about a [[00:06:42](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=402.8s)]
+*  political stunt. And I think it's really sad to disrupt people's lives. We don't [[00:06:48](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=408.56s)]
+*  know where people are taken. We don't know if they're in the state. They have [[00:06:52](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=412.44s)]
+*  no contact with their families, no contact with lawyers. They're held in [[00:06:55](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=415.84000000000003s)]
+*  inhumane conditions. They're held in mass cells with 300 people in them, and [[00:06:59](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=419.88s)]
+*  that are designed for, you know, maybe 30 or so multiple beds in the detention [[00:07:05](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=425.52s)]
+*  center where they're only supposed to be held for a day or less, and they've [[00:07:11](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=431.6s)]
+*  been held there for many days and in some cases weeks. [[00:07:16](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=436.04s)]
+*  Los Angeles Mayor Karen Bass. I really appreciate you taking time to speak to [[00:07:21](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=441.28000000000003s)]
+*  us tonight. Thank you. [[00:07:25](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=445.0s)]
+*  Thanks for having me on. [[00:07:27](https://www.youtube.com/watch?v=VRAfxumXnXQ&t=447.20000000000005s)]

@@ -94,8 +94,8 @@ class Video:
 			if url == None:
 				# ask for the url
 				url = input('Enter the URL of the video: ')
-			youtube_obj = YouTube(url)
 			try:
+				youtube_obj = YouTube(url)
 				youtube_obj.check_availability()
 				streams = youtube_obj.streams.filter(only_audio=True)
 			except Exception as e:
@@ -107,11 +107,12 @@ class Video:
 			# Set video attributes
 			self.title = stream.title
 			self.author = youtube_obj.author
+			self.url = url
 			if youtube_obj.publish_date == None:
 				youtube_obj.publish_date = datetime.now()
 				print('  No publish date found, using current date.')
+				return
 			self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
-			self.url = url
 			# rename the author to the specified author name
 			if playlist_url and playlist_url in podcast_playlist_names.keys():
 				print(f'  Renaming {self.author} to: {podcast_playlist_names[playlist_url]}')
@@ -329,7 +330,9 @@ if __name__ == '__main__':
 		args.source = 'local'
 		video=Video()
 		local_path = args.local_path
-		video.get_video(source=args.source, local_path=local_path)
+		video_success = video.get_video(source=args.source, local_path=local_path)
+		if not video_success:
+			print(f'  Video not found or could not be downloaded: {video.url}')
 		video.transcribe_video(video, model)
 		video.write_transcript(args.no_timestamps)
 		sys.exit()

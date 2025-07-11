@@ -1,0 +1,126 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 625s
+Video Keywords: ['Chris Hayes']
+Video Views: 398762
+Video Rating: None
+Video Description: “Today, every Democrat who holds office in this country woke up to the possibility of a primary challenge next year because of what happened last night in New York City,” says Chris Hayes on Zohran Mamdani’s NYC mayoral primary win over Andrew Cuomo.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+ 
+#NYC #ZohranMamdani #Democrats
+---
+
+# ‘Seismic’: Zohran Mamdani’s primary win is a ‘wake up call’ for Democrats, says Hayes
+**MSNBC - Chris Hayes:** [June 25, 2025](https://www.youtube.com/watch?v=d8CKXLa1R1o)
+*  Good evening from New York. I'm Chris Hayes. Today, every Democrat who holds office in the country [[00:00:00](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=0.0s)]
+*  woke up to the possibility of a primary challenge next year because of what happened last night in [[00:00:05](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=5.5200000000000005s)]
+*  New York City. Zoran Mamdani, a 33-year-old state assemblyman, three terms, democratic socialist, [[00:00:10](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=10.8s)]
+*  is going to be the Democratic nominee in the largest city in America, New York City's mayoral [[00:00:18](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=18.080000000000002s)]
+*  race in November. In fact, he'll be joining Jen Psaki at the top of the next hour. You're going [[00:00:22](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=22.32s)]
+*  to want to stick around for that. It's hard to see the results of this race and not take a step back [[00:00:26](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=26.8s)]
+*  and look at what this means, not just for the future of the Democratic Party in this country, [[00:00:31](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=31.92s)]
+*  but I would even say more importantly, the existential question of whether that party, [[00:00:36](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=36.16s)]
+*  the opposition party, the pro-democracy party at this moment, is up to the task that this moment [[00:00:40](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=40.56s)]
+*  demands. Mamdani's success last night tapped into the seismic dissatisfaction we see in poll after [[00:00:45](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=45.92s)]
+*  poll among the party base with the political establishment and status quo. The young Muslim [[00:00:53](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=53.28s)]
+*  immigrant born in Uganda, son of a acclaimed filmmaker and a college professor who came here [[00:00:59](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=59.28s)]
+*  when he was seven, toppled a multi-generational political dynasty here in New York, delivering a [[00:01:04](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=64.24000000000001s)]
+*  crushing defeat to the state's disgraced former governor Andrew Cuomo. In hindsight, the knockout [[00:01:10](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=70.08s)]
+*  blow came during a televised mayoral debate a few weeks ago when Mamdani took Cuomo to task over his [[00:01:15](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=75.84s)]
+*  many, many scandals and for his steadfast refusal to just pronounce Mamdani's name properly. [[00:01:21](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=81.36s)]
+*  To Mr. Cuomo, I have never had to resign in disgrace. I have never cut Medicaid. I have [[00:01:28](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=88.72s)]
+*  never stolen hundreds of millions of dollars from the MTA. I have never hounded the 13 women who [[00:01:34](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=94.56s)]
+*  credibly accused me of sexual harassment. I have never sued for their gynecological records, and I [[00:01:39](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=99.76s)]
+*  have never done those things because I am not you, Mr. Cuomo. And furthermore, the name is Mamdani, [[00:01:45](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=105.2s)]
+*  M-A-M-D-A-N-I. You should learn how to say it because we got to get it right. [[00:01:51](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=111.68s)]
+*  Mamdani's margin of victory in the first round of New York's rank choice voting was more decisive [[00:01:58](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=118.08s)]
+*  than even I think his most hopeful supporters were hoping for. And that's because he built a [[00:02:02](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=122.56s)]
+*  real coalition, multi-generational coalition of voters along lines of race and ethnicity, religion, [[00:02:08](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=128.16s)]
+*  class who stood up and rejected Cuomo and more broadly, I would say the political status quo that [[00:02:12](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=132.96s)]
+*  he had come to represent. Now, at some level, it's a news story, but it's really important to [[00:02:18](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=138.16s)]
+*  keep in mind this is something we have seen before in politics. In fact, happens quite a bit. [[00:02:24](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=144.0s)]
+*  Two candidates that come to mind that are the most successful Democratic politicians in my lifetime, [[00:02:30](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=150.0s)]
+*  Presidents Bill Clinton and Barack Obama, both kind of came out of nowhere, [[00:02:34](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=154.48000000000002s)]
+*  young, dynamic, shook up the establishment. In fact, in his endorsement of Mamdani today, [[00:02:38](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=158.8s)]
+*  New York Democratic Congressman Jerry Nadler, who's been in office for decades, said that [[00:02:44](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=164.0s)]
+*  Obama's victories in 2008 were the closest possible comparison to what we saw last night. [[00:02:48](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=168.4s)]
+*  Now, of course, President Bill Clinton, President Barack Obama, they were very different figures, [[00:02:54](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=174.08s)]
+*  ideologically speaking, and even in their backgrounds where they were coming from. [[00:02:58](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=178.64000000000001s)]
+*  But the key thing here is that like Mamdani, they did represent palpably, even to voters that are [[00:03:02](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=182.4s)]
+*  not like super invested in politics, like an obvious kind of generational shift against the [[00:03:07](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=187.44s)]
+*  status quo, against the party's old guard, against the political old guard. Clinton and Obama were [[00:03:12](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=192.96s)]
+*  both considered long shot candidates when they first announced their intentions to run for the [[00:03:18](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=198.56s)]
+*  presidency. The two men managed to put together winning coalitions in large part by rejecting a [[00:03:22](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=202.64s)]
+*  party establishment that was seen as increasingly out of touch with voters. Make no mistake. This [[00:03:28](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=208.32s)]
+*  election is about change, change in our party, change in our leadership, change in our nation. [[00:03:35](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=215.84s)]
+*  I believe we need a new kind of leadership, leadership not mired in the politics of the past, [[00:03:43](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=223.52s)]
+*  leadership not tied to the old ideologies. I recognize that there is a certain presumptuousness [[00:03:50](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=230.48000000000002s)]
+*  in this, a certain audacity to this announcement. I know that I haven't spent a lot of time [[00:03:57](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=237.68s)]
+*  learning the ways of Washington, but I've been there long enough to know that the ways of [[00:04:05](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=245.36s)]
+*  Washington must change. Good, good at what they were doing, right? Talented. Now, for some reason, [[00:04:11](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=251.36s)]
+*  the Democratic party sort of in mass seems to have forgotten just how important that is in politics, [[00:04:18](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=258.0s)]
+*  to run like really genuinely talented candidates rather than handing the reins to the people who've [[00:04:24](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=264.24s)]
+*  simply waited their turn. That strategy has proven pretty catastrophic. I mean, Hillary Clinton is [[00:04:28](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=268.8s)]
+*  talented politician in her own right. She won the nomination in 2016, but chiefly was on the [[00:04:35](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=275.59999999999997s)]
+*  argument that it was kind of her time to serve and she lost to Donald Trump. And then despite [[00:04:40](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=280.8s)]
+*  pledging to serve as a bridge to a new generation of leaders, Joe Biden, again, who in his time is [[00:04:46](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=286.32s)]
+*  a very talented politician, made the shockingly short sighted decision to run again in 2024 before [[00:04:50](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=290.88s)]
+*  dropping out the last minute and handing the nomination to Kamala Harris, next person in line [[00:04:56](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=296.15999999999997s)]
+*  with a very short timeframe. But even after those defeats, so many figures in the party establishment [[00:05:00](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=300.56s)]
+*  seem to still fail to get the message. It's how we got guys like South Carolina Congressman, [[00:05:07](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=307.6s)]
+*  Jim Clyburn and Bill Clinton himself telling voters that a disgraced 67 year old former [[00:05:12](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=312.32s)]
+*  governor is the future of their party instead of an outsider candidate who did really manage to [[00:05:17](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=317.04s)]
+*  inspire voters. Again, in politics, you got to try new stuff, right? Like Bill Clinton did that, [[00:05:21](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=321.44s)]
+*  Barack Obama did that. Lots of different folks of different ideological stripes have tried it. [[00:05:29](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=329.2s)]
+*  It should serve as a wake up call. The party needs to elevate voices from outside the establishment, [[00:05:33](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=333.44s)]
+*  elevate nude voices. Bernie Sanders may have fallen short in the 2016 campaign, but he also had that [[00:05:39](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=339.12s)]
+*  kind of effect on certain cohorts, particularly young folks, a once in a generation realignment [[00:05:45](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=345.84s)]
+*  with the Democratic base. And that campaign inspired a young bartender from the Bronx, [[00:05:51](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=351.12s)]
+*  Alexandria Ocasio-Cortez to unseat an establishment Democratic congressman here in New York, [[00:05:55](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=355.6s)]
+*  which was also a crazy upset. That upset victory in 2018 in turn inspired Zornan Mandani to run [[00:06:00](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=360.16s)]
+*  for the New York State Assembly two years later. To be really clear about how crazy this all is, [[00:06:06](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=366.72s)]
+*  right? Like what a big sort of out of nowhere win this was. A few months ago, [[00:06:13](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=373.36s)]
+*  Mandani's victory would have been basically inconceivable. I mean, he faced a massive uphill [[00:06:18](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=378.08000000000004s)]
+*  battle to get where he is today. An Emerson poll from February of this year showed him with 1% [[00:06:22](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=382.0s)]
+*  support. 1%. He had to overcome a barrage of really ugly Islamophobic spheres, $25 million [[00:06:27](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=387.6s)]
+*  in negative ads, all due to his longstanding unflinching pro-Palestinian politics and his [[00:06:35](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=395.28s)]
+*  criticism of Israel. And he also faced real skepticism from lots of Jewish New Yorkers who [[00:06:40](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=400.72s)]
+*  have seen anti-Semitic attacks in this city and vandalism and who go to synagogues. We can wake [[00:06:45](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=405.68s)]
+*  out with security watching over them. But Mandani overcame the odds by running a really, really, [[00:06:51](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=411.44s)]
+*  really good campaign. And a huge part of it was just staying relentlessly laser focused on one [[00:06:58](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=418.48s)]
+*  issue. Like Bill Clinton's It's the Economy, Stupid, or Barack Obama's Message of Hope and Change, [[00:07:06](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=426.4s)]
+*  or even Donald Trump's Make America Great Again. Right? Effective branding. Mandani ran on one [[00:07:12](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=432.24s)]
+*  consistent principle, make New York City more affordable. And he also did an excellent job of [[00:07:19](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=439.52s)]
+*  finding voters where they are. His first viral video was a video outlining his plan to lower [[00:07:26](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=446.0s)]
+*  the price of a New York City staple, which is like food from halal trucks, which had gone up. [[00:07:33](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=453.28s)]
+*  He masterfully gained the attention economy from that point on, much like Donald Trump and JD [[00:07:38](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=458.96s)]
+*  Vance. In 2024, he cast a really wide net, essentially never declining a media appearance, [[00:07:43](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=463.36s)]
+*  whether that was a conversation with the Centrist Bullwork podcast or an interview with an Urdu [[00:07:49](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=469.2s)]
+*  language news channel or just a fun video with the popular internet talk show Subway Takes. [[00:07:54](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=474.32s)]
+*  100% not sure. I mean, they're $9. I only want to make you can win this campaign easily. If you [[00:08:13](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=493.36s)]
+*  lower the cost of Matalas. I can only make the promises I can keep. What Mandani did in New York [[00:08:22](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=502.16s)]
+*  over the past few months shows that there really are solutions to these problems that have caused [[00:08:28](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=508.72s)]
+*  Democrats so much frustration and despair and sort of infighting since November's election. [[00:08:32](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=512.96s)]
+*  I mean, Mandani thrive with young men and in immigrant communities across the city. [[00:08:38](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=518.72s)]
+*  Remember, this is a city that swung hugely to Donald Trump, this city in 2024, [[00:08:42](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=522.64s)]
+*  just less than a year ago. Now, of course, Republicans are championing of the bit to smear [[00:08:49](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=529.28s)]
+*  Mandani to tie him to the future of the Democratic Party. In fact, in between his NATO meetings and [[00:08:53](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=533.4399999999999s)]
+*  travel, Donald Trump already posted calling him a communist lunatic. But again, New York's a strange [[00:08:58](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=538.08s)]
+*  distinct place. It remains to be seen how much the specifics of Mandani's campaign can be replicated [[00:09:04](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=544.08s)]
+*  across the country. It's also clear he tapped into something special. [[00:09:08](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=548.48s)]
+*  We dreamt in the night and we are now building in the dawn. [[00:09:16](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=556.16s)]
+*  That new day, the one that we have yearned for, the one that we have struggled for, [[00:09:26](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=566.4s)]
+*  the one that we have knocked for, have texted for, have called for, [[00:09:34](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=574.0s)]
+*  the one that we have obsessed over. That new day is finally here, my friends. [[00:09:40](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=580.8000000000001s)]
+*  And it is here because you have delivered it. [[00:09:53](https://www.youtube.com/watch?v=d8CKXLa1R1o&t=593.04s)]

@@ -1,0 +1,120 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 392s
+Video Keywords: ['Chris Hayes']
+Video Views: 84742
+Video Rating: None
+Video Description: “Here’s something we already know about Donald Trump’s big reconciliation bill: It is one of the most unpopular acts of Congress in recent history. This is not hyperbole,” says Chris Hayes. Data journalist G. Elliott Morris joins to discuss his findings. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #Congress #Republicans
+---
+
+# 'Not hyperbole': Trump’s 'popular' law is actually the most unpopular in 30 years
+**MSNBC - Chris Hayes:** [July 04, 2025](https://www.youtube.com/watch?v=T8qjFEaSXW0)
+*  Well, it's only been a law for a few minutes now, a few dozen minutes, an hour, two hours, [[00:00:00](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=0.0s)]
+*  something like that. [[00:00:05](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=5.5600000000000005s)]
+*  But here's something we already know about Donald Trump's big reconciliation bill. [[00:00:06](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=6.5600000000000005s)]
+*  It is one of the most unpopular acts of Congress in recent history. [[00:00:09](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=9.96s)]
+*  This is not hyperbole, and this is me not just articulating my hunches. [[00:00:14](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=14.42s)]
+*  That is according to data gathered by Georgetown political scientist Christopher Warshaw. [[00:00:20](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=20.16s)]
+*  Warshaw found that Trump's big, beautiful bill is the second most unpopular piece of [[00:00:25](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=25.48s)]
+*  legislation of any kind in Congress since 1990. [[00:00:30](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=30.840000000000003s)]
+*  You can see there that the only bill that was more unpopular than Trump's attempt was [[00:00:35](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=35.8s)]
+*  Trump's attempted repeal of Obamacare back in 2017, which also would have slashed Medicaid [[00:00:39](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=39.56s)]
+*  and cut taxes on high earners. [[00:00:45](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=45.06s)]
+*  That of course failed. [[00:00:47](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=47.64s)]
+*  The bill that Trump has just signed into law today is less popular than Republicans' previous [[00:00:49](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=49.28s)]
+*  tax cuts for rich folks, less popular even than the 2008 bank bailout, which is actually [[00:00:54](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=54.56s)]
+*  genuinely shocking to me, or the Affordable Care Act when they were passed. [[00:01:00](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=60.480000000000004s)]
+*  Also kind of surprising, I gotta think that's not great news for Republicans. [[00:01:05](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=65.14s)]
+*  And the thing about it is, it's not just because people don't know what's in it. [[00:01:10](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=70.42s)]
+*  The deeper you dive into the polling and people who know what's in it, the worse it gets. [[00:01:14](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=74.68s)]
+*  G. Eliot Morris is an independent data-driven journalist. [[00:01:19](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=79.80000000000001s)]
+*  He's author of Strength in Numbers Substack. [[00:01:22](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=82.16s)]
+*  He used to work at FiveThirtyEight. [[00:01:24](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=84.4s)]
+*  In a new post over Strength in Numbers, he examines the data on Trump's one big unpopular [[00:01:25](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=85.92s)]
+*  bill and he joins me now. [[00:01:30](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=90.2s)]
+*  Eliot, it's great to have you on. [[00:01:31](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=91.68s)]
+*  I've been a long-time fan of your work. [[00:01:33](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=93.16000000000001s)]
+*  I read your Substack. [[00:01:35](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=95.12s)]
+*  I really like the stuff you do, so it's great to have you. [[00:01:36](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=96.12s)]
+*  How do we do apples-to-apples comparisons of popularity of legislation over time? [[00:01:39](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=99.86000000000001s)]
+*  Hey, Chris. [[00:01:46](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=106.12s)]
+*  Thanks for having me. [[00:01:47](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=107.12s)]
+*  Happy Fourth. [[00:01:48](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=108.32000000000001s)]
+*  Auspicious occasion for talking about this. [[00:01:49](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=109.32000000000001s)]
+*  The way we do this is just by compiling the polling data. [[00:01:52](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=112.4s)]
+*  The polls are the same, roughly speaking, in methodology over time. [[00:01:56](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=116.08000000000001s)]
+*  If we have a bill that is, as that chart shows, 23 points underwater today, and there's another [[00:02:00](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=120.64s)]
+*  bill that's 30 points underwater historically, the way that we can attach meaning to that [[00:02:08](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=128.24s)]
+*  is by looking at what happened after a Congress or a president passed something really unpopular. [[00:02:14](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=134.6s)]
+*  If we go back to those examples, after 2017, when the GOP tries to pass a historic, at [[00:02:21](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=141.6s)]
+*  that point, rollback of Medicaid and passage of tax cuts, you get the 2018 wave election. [[00:02:28](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=148.96s)]
+*  After 2009, when the ACA passed, that also was unpopular at the time. [[00:02:35](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=155.78s)]
+*  It's popular now, but at the time, it's very unpopular. [[00:02:40](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=160.95999999999998s)]
+*  You get the 2010 wave against the Democrats. [[00:02:42](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=162.92s)]
+*  We look like these polls aren't happening in isolation. [[00:02:47](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=167.0s)]
+*  When we say something is 23 points unpopular, there are some stakes attached to that, and [[00:02:49](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=169.68s)]
+*  the historical examples bear that out. [[00:02:53](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=173.64000000000001s)]
+*  One thing that I think is interesting to consider, in the case of the ACA repeal, it didn't—it [[00:02:58](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=178.16s)]
+*  fails. [[00:03:04](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=184.16s)]
+*  I think there's a sense in which I think it may have actually politically redounded to [[00:03:05](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=185.92000000000002s)]
+*  Republicans' benefit. [[00:03:09](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=189.64000000000001s)]
+*  I think actually passing it might have led to bigger losses in the midterms. [[00:03:10](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=190.64000000000001s)]
+*  How much we think of public opinion in response to these bills being about what happens afterwards, [[00:03:15](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=195.96s)]
+*  or do they become signifiers for a party's priorities, if that makes sense? [[00:03:24](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=204.56s)]
+*  It's the thing attached to them that, independent of, oh, I haven't seen Medicaid cuts in my [[00:03:29](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=209.28s)]
+*  backyard yet because they're time-delayed in the bill. [[00:03:33](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=213.88s)]
+*  Right. [[00:03:36](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=216.36s)]
+*  I was going to say, the way that you know that Republicans are scared about the effects [[00:03:37](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=217.36s)]
+*  of the bill is because they time-delayed the rollback of Medicaid and food stamps and census. [[00:03:41](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=221.4s)]
+*  They know that there are costs to this. [[00:03:46](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=226.79999999999998s)]
+*  The polls bear that out. [[00:03:48](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=228.0s)]
+*  I think there's some parts of the bill, obviously, that are signaling, and part of the way that [[00:03:51](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=231.64s)]
+*  Republicans probably convince themselves, especially in the Senate, to pass this is [[00:03:57](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=237.07999999999998s)]
+*  that it's offering lots of signals to their voters, and it's aligning the signals that [[00:04:01](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=241.56s)]
+*  they're sending with the symbols from Donald Trump, their party leader, as well. [[00:04:05](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=245.35999999999999s)]
+*  We can't discount that fact. [[00:04:09](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=249.32s)]
+*  It's not just like politicians looking at the people to see what they should do. [[00:04:12](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=252.76s)]
+*  It's also trying to balance their priorities with the president. [[00:04:16](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=256.09999999999997s)]
+*  You should not think of the bill as just a reflection of priorities of the Republican [[00:04:20](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=260.54s)]
+*  masses. [[00:04:25](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=265.54s)]
+*  It's also a reflection of the prioritization of Republican elites above those masses, and [[00:04:26](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=266.65999999999997s)]
+*  probably a lot more prioritization of the masses—sorry, the elites than the masses, [[00:04:32](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=272.1s)]
+*  just based on the data. [[00:04:36](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=276.3s)]
+*  Yeah. [[00:04:37](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=277.58s)]
+*  One of the things you point out, because things can be unpopular and then get more popular [[00:04:39](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=279.34s)]
+*  later. [[00:04:43](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=283.65999999999997s)]
+*  The Affordable Care Act being a signature example of that. [[00:04:44](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=284.65999999999997s)]
+*  It was underwater in the past. [[00:04:47](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=287.5s)]
+*  It's now a very hard repeal because it has become quite popular. [[00:04:49](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=289.3s)]
+*  It's not like people pay that close attention to the legislative details. [[00:04:52](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=292.9s)]
+*  One of the things you note today, which I've been falling to, is the bill's net rating [[00:04:58](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=298.86s)]
+*  is generally worse the more specific upholster gets about what it does. [[00:05:02](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=302.9s)]
+*  On average, across upholsters and methods, 31 percent of Americans support it, 54 oppose [[00:05:08](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=308.08s)]
+*  it, net rating 23 to put it mildly, absolutely abysmal. [[00:05:12](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=312.52s)]
+*  When you start asking about the specific provisions, Elliot, those are not pulling well either. [[00:05:16](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=316.32s)]
+*  It's not like there's a misapprehension of what the bill does that's driving the bad [[00:05:21](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=321.84s)]
+*  top line number. [[00:05:27](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=327.78s)]
+*  Yeah. [[00:05:29](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=329.12s)]
+*  Then there's a disconnect that we need to think about here, that your viewers need to [[00:05:30](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=330.12s)]
+*  disconnect between what pollsters are asking and what people are hearing and also what [[00:05:35](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=335.2s)]
+*  the policy is actually doing. [[00:05:39](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=339.84s)]
+*  If you ask people, should we, in isolation, kick 14 billion people off of Medicaid, then [[00:05:41](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=341.59999999999997s)]
+*  they would say no. [[00:05:49](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=349.28s)]
+*  In our polling strength and numbers, we find about 54 percent of people say that they'd [[00:05:50](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=350.64s)]
+*  rather the government roll back tax cuts so that they can pay for these programs rather [[00:05:54](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=354.71999999999997s)]
+*  than the other way around. [[00:05:59](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=359.53999999999996s)]
+*  G. Eliot Morris, thank you so much for your time. [[00:06:01](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=361.24s)]
+*  Check out his substack strength and numbers ahead. [[00:06:04](https://www.youtube.com/watch?v=T8qjFEaSXW0&t=364.04s)]

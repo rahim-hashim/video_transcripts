@@ -1,0 +1,133 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 330s
+Video Keywords: ['Chris Hayes']
+Video Views: 147690
+Video Rating: None
+Video Description: “The reality is that people are going to die,” says Rep. Jasmine Crockett on the cuts to Medicaid proposed in the Trump/GOP budget bill. “We're talking about rich people just keeping more money in their pockets while literally other people are going to die.”
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+ReidOut Blog: https://www.msnbc.com/reidoutblog
+MSNBC delivers breaking news, in-depth analysis of politics headlines, as well as commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Morning Joe, The Beat with Ari Melber, Deadline: White House, The ReidOut, All In, Last Word, 11th Hour, and Alex Wagner who brings her breadth of reporting experience to MSNBC primetime. 
+ 
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#jasminecrockett #medicaid #republicans
+---
+
+# ‘People are going to die’: Jasmine Crockett sounds off on GOP cuts to health care
+**MSNBC - Chris Hayes:** [June 17, 2025](https://www.youtube.com/watch?v=NObnT3UOflU)
+*  Donald Trump's big bill is bigly unpopular. [[00:00:00](https://www.youtube.com/watch?v=NObnT3UOflU&t=0.0s)]
+*  Today, new polling from The Washington Post and Ipsos shows that Americans oppose the [[00:00:03](https://www.youtube.com/watch?v=NObnT3UOflU&t=3.6s)]
+*  plan two to one. [[00:00:07](https://www.youtube.com/watch?v=NObnT3UOflU&t=7.6000000000000005s)]
+*  It turns out cutting taxes for the very wealthy and for big corporations while cutting health [[00:00:09](https://www.youtube.com/watch?v=NObnT3UOflU&t=9.0s)]
+*  care for everyone else is not very popular. [[00:00:13](https://www.youtube.com/watch?v=NObnT3UOflU&t=13.88s)]
+*  And if you were hoping the Senate would moderate the worst impulses of the House Republican [[00:00:17](https://www.youtube.com/watch?v=NObnT3UOflU&t=17.34s)]
+*  caucus, I got some bad news. [[00:00:21](https://www.youtube.com/watch?v=NObnT3UOflU&t=21.8s)]
+*  As it turns out, the Senate version of the bill cuts more from Medicaid, imposing even [[00:00:23](https://www.youtube.com/watch?v=NObnT3UOflU&t=23.740000000000002s)]
+*  stricter work requirements than the House bill. [[00:00:27](https://www.youtube.com/watch?v=NObnT3UOflU&t=27.42s)]
+*  Congresswoman Jasmine Crockett is a Democrat of Texas. [[00:00:30](https://www.youtube.com/watch?v=NObnT3UOflU&t=30.82s)]
+*  She's running to serve as ranking member of the Oversight Committee, and she joins me [[00:00:32](https://www.youtube.com/watch?v=NObnT3UOflU&t=32.940000000000005s)]
+*  now. [[00:00:36](https://www.youtube.com/watch?v=NObnT3UOflU&t=36.94s)]
+*  Good to have you here. [[00:00:37](https://www.youtube.com/watch?v=NObnT3UOflU&t=37.94s)]
+*  Good to see you. [[00:00:38](https://www.youtube.com/watch?v=NObnT3UOflU&t=38.94s)]
+*  Let's start with the polling because it strikes me as both sort of encouraging for those opponents [[00:00:39](https://www.youtube.com/watch?v=NObnT3UOflU&t=39.94s)]
+*  of the bill, also a huge messaging opportunity because a third of people don't have an opinion [[00:00:44](https://www.youtube.com/watch?v=NObnT3UOflU&t=44.02s)]
+*  of it. [[00:00:47](https://www.youtube.com/watch?v=NObnT3UOflU&t=47.980000000000004s)]
+*  So you've got 23 support, 42% oppose, 34% no opinion. [[00:00:48](https://www.youtube.com/watch?v=NObnT3UOflU&t=48.980000000000004s)]
+*  What does that say to you? [[00:00:53](https://www.youtube.com/watch?v=NObnT3UOflU&t=53.540000000000006s)]
+*  Yeah, it says that we still have a lot of work to do as it relates to kind of getting [[00:00:54](https://www.youtube.com/watch?v=NObnT3UOflU&t=54.66s)]
+*  the message out. [[00:00:57](https://www.youtube.com/watch?v=NObnT3UOflU&t=57.9s)]
+*  I do appreciate the fact that we've had some time, which is something that we didn't have [[00:00:58](https://www.youtube.com/watch?v=NObnT3UOflU&t=58.9s)]
+*  when we went through the continuing resolution fight that we had where, you know, who sent [[00:01:02](https://www.youtube.com/watch?v=NObnT3UOflU&t=62.9s)]
+*  out a tweet and all of a sudden a bill went kaput. [[00:01:07](https://www.youtube.com/watch?v=NObnT3UOflU&t=67.02s)]
+*  And so I do appreciate that we're kind of getting through it, but you're talking about [[00:01:10](https://www.youtube.com/watch?v=NObnT3UOflU&t=70.53999999999999s)]
+*  pages and pages of legislation. [[00:01:14](https://www.youtube.com/watch?v=NObnT3UOflU&t=74.34s)]
+*  And then you have, you know, the Trump administration throwing things out like, oh, we're not going [[00:01:16](https://www.youtube.com/watch?v=NObnT3UOflU&t=76.74s)]
+*  to put a tax on this. [[00:01:20](https://www.youtube.com/watch?v=NObnT3UOflU&t=80.9s)]
+*  So you should love it, but they're not telling the other side of the story. [[00:01:22](https://www.youtube.com/watch?v=NObnT3UOflU&t=82.42s)]
+*  Like at the end of the day, would you rather have a tax bill that may be $5 less that you're [[00:01:25](https://www.youtube.com/watch?v=NObnT3UOflU&t=85.42s)]
+*  normally keeping in your pockets, but you don't have this crazy random healthcare bill? [[00:01:31](https://www.youtube.com/watch?v=NObnT3UOflU&t=91.82000000000001s)]
+*  Probably so, right? [[00:01:37](https://www.youtube.com/watch?v=NObnT3UOflU&t=97.74000000000001s)]
+*  Like, and the reality is that people are going to die. [[00:01:38](https://www.youtube.com/watch?v=NObnT3UOflU&t=98.74000000000001s)]
+*  You know, listening to the stories of people that literally have only been able to live [[00:01:41](https://www.youtube.com/watch?v=NObnT3UOflU&t=101.42s)]
+*  because of Medicaid, it's heartbreaking. [[00:01:46](https://www.youtube.com/watch?v=NObnT3UOflU&t=106.42s)]
+*  And the fact that we're talking about rich people just keeping more money in their pockets [[00:01:51](https://www.youtube.com/watch?v=NObnT3UOflU&t=111.06s)]
+*  while literally other people are going to die, it sounds anti-American and definitely [[00:01:54](https://www.youtube.com/watch?v=NObnT3UOflU&t=114.97999999999999s)]
+*  sounds anti-patriotic. [[00:01:59](https://www.youtube.com/watch?v=NObnT3UOflU&t=119.61999999999999s)]
+*  So one of the things that generally, when I've covered big bills and domestic policy [[00:02:01](https://www.youtube.com/watch?v=NObnT3UOflU&t=121.58s)]
+*  in D.C., you know, there's this idea of like the Senate is like the cooling saucer and [[00:02:06](https://www.youtube.com/watch?v=NObnT3UOflU&t=126.19999999999999s)]
+*  that, you know, and that usually things come back from the Senate like more moderate, but [[00:02:10](https://www.youtube.com/watch?v=NObnT3UOflU&t=130.82s)]
+*  both on the left and the right. [[00:02:14](https://www.youtube.com/watch?v=NObnT3UOflU&t=134.38s)]
+*  That is generally the way things go. [[00:02:15](https://www.youtube.com/watch?v=NObnT3UOflU&t=135.42s)]
+*  It seems to me like Ron Johnson and the sort of right-wing faction in the Senate is actually [[00:02:17](https://www.youtube.com/watch?v=NObnT3UOflU&t=137.44s)]
+*  pushing to make this bill more aggressive on the cuts side. [[00:02:21](https://www.youtube.com/watch?v=NObnT3UOflU&t=141.48s)]
+*  And I'm wondering if you were anticipating that or if you thought you were expecting [[00:02:27](https://www.youtube.com/watch?v=NObnT3UOflU&t=147.04s)]
+*  a more moderate bill. [[00:02:30](https://www.youtube.com/watch?v=NObnT3UOflU&t=150.66s)]
+*  No, I was expecting the Senate to fix everything. [[00:02:31](https://www.youtube.com/watch?v=NObnT3UOflU&t=151.66s)]
+*  I mean, I was expecting it still to come back as a bad bill, but we're talking about a bill. [[00:02:34](https://www.youtube.com/watch?v=NObnT3UOflU&t=154.04s)]
+*  You thought it would get better. [[00:02:38](https://www.youtube.com/watch?v=NObnT3UOflU&t=158.28s)]
+*  Correct. [[00:02:39](https://www.youtube.com/watch?v=NObnT3UOflU&t=159.28s)]
+*  I thought it would get better. [[00:02:40](https://www.youtube.com/watch?v=NObnT3UOflU&t=160.28s)]
+*  We're talking about a bill that only made it through the House by one vote. [[00:02:41](https://www.youtube.com/watch?v=NObnT3UOflU&t=161.28s)]
+*  One vote. [[00:02:44](https://www.youtube.com/watch?v=NObnT3UOflU&t=164.56s)]
+*  Literally, it's like two people went AWOL, right? [[00:02:45](https://www.youtube.com/watch?v=NObnT3UOflU&t=165.68s)]
+*  And another two Republicans voted with the Dems. [[00:02:48](https://www.youtube.com/watch?v=NObnT3UOflU&t=168.92000000000002s)]
+*  And then another one just said, listen, I'm just going to white light this or, you know, [[00:02:51](https://www.youtube.com/watch?v=NObnT3UOflU&t=171.4s)]
+*  vote present. [[00:02:55](https://www.youtube.com/watch?v=NObnT3UOflU&t=175.28s)]
+*  And so I expected in the Senate, especially because think about it this way, our congressional [[00:02:56](https://www.youtube.com/watch?v=NObnT3UOflU&t=176.56s)]
+*  districts are approximately 766,000 people. [[00:03:01](https://www.youtube.com/watch?v=NObnT3UOflU&t=181.6s)]
+*  And so literally there are some Republicans that don't have any hospitals whatsoever in [[00:03:05](https://www.youtube.com/watch?v=NObnT3UOflU&t=185.0s)]
+*  their districts. [[00:03:09](https://www.youtube.com/watch?v=NObnT3UOflU&t=189.0s)]
+*  But then you start talking about the Senate. [[00:03:10](https://www.youtube.com/watch?v=NObnT3UOflU&t=190.1s)]
+*  Every single state senator has hospitals. [[00:03:11](https://www.youtube.com/watch?v=NObnT3UOflU&t=191.74s)]
+*  And when you start to talk about rural hospitals possibly shutting down because they don't [[00:03:14](https://www.youtube.com/watch?v=NObnT3UOflU&t=194.38s)]
+*  have enough funding because you're now cutting this Medicaid funding and they can't supplement [[00:03:18](https://www.youtube.com/watch?v=NObnT3UOflU&t=198.46s)]
+*  because they don't have all these other people coming in with say private insurance. [[00:03:22](https://www.youtube.com/watch?v=NObnT3UOflU&t=202.86s)]
+*  I thought the senators would say, listen, we can do this. [[00:03:27](https://www.youtube.com/watch?v=NObnT3UOflU&t=207.02s)]
+*  You know, it's funny you say that because one of the things my understanding, again, [[00:03:30](https://www.youtube.com/watch?v=NObnT3UOflU&t=210.54000000000002s)]
+*  the details here get a little complicated, but there's this mechanism called the provider [[00:03:33](https://www.youtube.com/watch?v=NObnT3UOflU&t=213.74s)]
+*  tax, which actually would hurt hospitals. [[00:03:37](https://www.youtube.com/watch?v=NObnT3UOflU&t=217.70000000000002s)]
+*  Yeah. [[00:03:39](https://www.youtube.com/watch?v=NObnT3UOflU&t=219.46s)]
+*  They're trying to get squeeze more revenue. [[00:03:40](https://www.youtube.com/watch?v=NObnT3UOflU&t=220.86s)]
+*  My feeling always when I used to cover Congress day in day out was the hospitals were big [[00:03:44](https://www.youtube.com/watch?v=NObnT3UOflU&t=224.14000000000001s)]
+*  interest groups. [[00:03:48](https://www.youtube.com/watch?v=NObnT3UOflU&t=228.04000000000002s)]
+*  They are. [[00:03:49](https://www.youtube.com/watch?v=NObnT3UOflU&t=229.04000000000002s)]
+*  They will drop money on your head if they don't like it. [[00:03:50](https://www.youtube.com/watch?v=NObnT3UOflU&t=230.04000000000002s)]
+*  They will be up in your office. [[00:03:51](https://www.youtube.com/watch?v=NObnT3UOflU&t=231.34s)]
+*  Yes. [[00:03:52](https://www.youtube.com/watch?v=NObnT3UOflU&t=232.62s)]
+*  Where are the hospitals? [[00:03:53](https://www.youtube.com/watch?v=NObnT3UOflU&t=233.62s)]
+*  Honestly, I wild to me that they have not shown up in a big way. [[00:03:54](https://www.youtube.com/watch?v=NObnT3UOflU&t=234.62s)]
+*  I don't know. [[00:03:57](https://www.youtube.com/watch?v=NObnT3UOflU&t=237.9s)]
+*  Fight this bill. [[00:03:58](https://www.youtube.com/watch?v=NObnT3UOflU&t=238.9s)]
+*  I have no idea. [[00:03:59](https://www.youtube.com/watch?v=NObnT3UOflU&t=239.9s)]
+*  I mean, it's kind of like you saw the farmers, right? [[00:04:00](https://www.youtube.com/watch?v=NObnT3UOflU&t=240.9s)]
+*  Like when we were going through that, like continuing resolution, the farmers were like, [[00:04:02](https://www.youtube.com/watch?v=NObnT3UOflU&t=242.18s)]
+*  wait a minute, like they showed up like the Farm Bureau was like, we are here. [[00:04:06](https://www.youtube.com/watch?v=NObnT3UOflU&t=246.3s)]
+*  And so it is because the hospital lobby is a really big lobby. [[00:04:10](https://www.youtube.com/watch?v=NObnT3UOflU&t=250.78s)]
+*  And a lot of people probably think of lobbies and they think, oh, you're going to be the [[00:04:15](https://www.youtube.com/watch?v=NObnT3UOflU&t=255.3s)]
+*  antithesis of me. [[00:04:18](https://www.youtube.com/watch?v=NObnT3UOflU&t=258.48s)]
+*  But when you're talking about rural America, like I lived in East Texas, let me tell you, [[00:04:20](https://www.youtube.com/watch?v=NObnT3UOflU&t=260.34000000000003s)]
+*  hospitals are shutting down and in rural America, you don't have as many providers either. [[00:04:24](https://www.youtube.com/watch?v=NObnT3UOflU&t=264.86s)]
+*  And so literally, if you have this specialized cancer, you can't stay at home. [[00:04:30](https://www.youtube.com/watch?v=NObnT3UOflU&t=270.1s)]
+*  You've got to go somewhere else because there's no one that knows about the help that you [[00:04:34](https://www.youtube.com/watch?v=NObnT3UOflU&t=274.5s)]
+*  need. [[00:04:39](https://www.youtube.com/watch?v=NObnT3UOflU&t=279.34s)]
+*  So it is really odd. [[00:04:40](https://www.youtube.com/watch?v=NObnT3UOflU&t=280.34s)]
+*  And I tell you this, that there are there's going to be more hurt that comes to red states [[00:04:41](https://www.youtube.com/watch?v=NObnT3UOflU&t=281.53999999999996s)]
+*  than blue states. [[00:04:47](https://www.youtube.com/watch?v=NObnT3UOflU&t=287.58s)]
+*  Blue states can actually take in a lot of this, not to say that they should and not [[00:04:48](https://www.youtube.com/watch?v=NObnT3UOflU&t=288.98s)]
+*  to say that it's right. [[00:04:53](https://www.youtube.com/watch?v=NObnT3UOflU&t=293.09999999999997s)]
+*  But like it will be disproportionately red states will get hurt by the Medicaid cuts [[00:04:54](https://www.youtube.com/watch?v=NObnT3UOflU&t=294.62s)]
+*  in both these versions. [[00:04:58](https://www.youtube.com/watch?v=NObnT3UOflU&t=298.46s)]
+*  Yes. [[00:04:59](https://www.youtube.com/watch?v=NObnT3UOflU&t=299.46s)]
+*  Yes. [[00:05:00](https://www.youtube.com/watch?v=NObnT3UOflU&t=300.46s)]
+*  Absolutely. [[00:05:01](https://www.youtube.com/watch?v=NObnT3UOflU&t=301.46s)]
+*  Congressman Jasmine Cockett, who is from the state of Texas, thanks so much for your time. [[00:05:02](https://www.youtube.com/watch?v=NObnT3UOflU&t=302.46s)]
+*  Thank you. [[00:05:09](https://www.youtube.com/watch?v=NObnT3UOflU&t=309.26s)]

@@ -1,0 +1,122 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 768s
+Video Keywords: ['Chris Hayes']
+Video Views: 134870
+Video Rating: None
+Video Description: “It is just like the inauguration crowd fight. But this time, the stakes are so much higher. We are talking about a military conflict in the Middle East—and we are not getting any real clarity on what comes next from our own government,” says Catherine Rampell. Sen. Richard Blumenthal joins to discuss the Iran situation and more. 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#PeteHegseth #Iran #uranium
+---
+
+# ‘Absurd’: Trump reruns the Sean Spicer post-inauguration playbook with Hegseth presser
+**MSNBC - Chris Hayes:** [June 26, 2025](https://www.youtube.com/watch?v=XU39AQWw39k)
+*  Good evening from Washington. I'm Katherine Rampel in for Chris Hayes. [[00:00:00](https://www.youtube.com/watch?v=XU39AQWw39k&t=0.0s)]
+*  Tonight I want to begin by taking us all back to a gentler, simpler time. [[00:00:04](https://www.youtube.com/watch?v=XU39AQWw39k&t=4.4s)]
+*  January 21st 2017, which was Donald Trump's second day as president. That day [[00:00:09](https://www.youtube.com/watch?v=XU39AQWw39k&t=9.56s)]
+*  he sent out his press secretary Sean Spicer for an unscheduled six-minute [[00:00:16](https://www.youtube.com/watch?v=XU39AQWw39k&t=16.04s)]
+*  press conference to yell at journalists who had the gall to accurately report on [[00:00:20](https://www.youtube.com/watch?v=XU39AQWw39k&t=20.8s)]
+*  the relatively small size of Trump's inaugural crowd. [[00:00:26](https://www.youtube.com/watch?v=XU39AQWw39k&t=26.6s)]
+*  Yesterday at a time when our nation and the world was watching the peaceful [[00:00:30](https://www.youtube.com/watch?v=XU39AQWw39k&t=30.360000000000003s)]
+*  transition of power and as the president said the transition in the balance of [[00:00:35](https://www.youtube.com/watch?v=XU39AQWw39k&t=35.800000000000004s)]
+*  power from Washington to the citizens of the United States, some members [[00:00:40](https://www.youtube.com/watch?v=XU39AQWw39k&t=40.04s)]
+*  of the media were engaged in deliberately false reporting. Photographs [[00:00:44](https://www.youtube.com/watch?v=XU39AQWw39k&t=44.28s)]
+*  of the inaugural proceedings were intentionally framed in a way in one [[00:00:47](https://www.youtube.com/watch?v=XU39AQWw39k&t=47.68000000000001s)]
+*  particular tweet to minimize the enormous support that had gathered on [[00:00:51](https://www.youtube.com/watch?v=XU39AQWw39k&t=51.36s)]
+*  the National Mall. Inaccurate numbers involving crowd size were also tweeted. [[00:00:55](https://www.youtube.com/watch?v=XU39AQWw39k&t=55.12s)]
+*  This was the largest audience to ever witness an inauguration period. These [[00:00:58](https://www.youtube.com/watch?v=XU39AQWw39k&t=58.959999999999994s)]
+*  attempts to lessen the enthusiasm of the inauguration are shameful and wrong. [[00:01:03](https://www.youtube.com/watch?v=XU39AQWw39k&t=63.4s)]
+*  So obviously Sean Spicer's claims were absurd here. His blown-up selectively [[00:01:09](https://www.youtube.com/watch?v=XU39AQWw39k&t=69.92s)]
+*  cropped photos of the inauguration crowd were misleading. The whole scene was so [[00:01:16](https://www.youtube.com/watch?v=XU39AQWw39k&t=76.16s)]
+*  silly it spawned one of SNL's most memorable impersonations. [[00:01:20](https://www.youtube.com/watch?v=XU39AQWw39k&t=80.76s)]
+*  As you know, President Trump announced his Supreme Court pick on the national TV today when he [[00:01:27](https://www.youtube.com/watch?v=XU39AQWw39k&t=87.04s)]
+*  entered the room the crowd greeted him with a standing ovation which lasted a [[00:01:33](https://www.youtube.com/watch?v=XU39AQWw39k&t=93.64s)]
+*  full 15 minutes. You can check the tape on that. Everyone was smiling, everyone was happy. [[00:01:39](https://www.youtube.com/watch?v=XU39AQWw39k&t=99.28s)]
+*  The men all had erections and every single one of the women was ovulating left and right. [[00:01:48](https://www.youtube.com/watch?v=XU39AQWw39k&t=108.52s)]
+*  That was the very first White House fight massaging the ego of the most powerful and [[00:01:55](https://www.youtube.com/watch?v=XU39AQWw39k&t=115.8s)]
+*  yet somehow also most insecure man in the world. And it was a little bit hard not to [[00:02:05](https://www.youtube.com/watch?v=XU39AQWw39k&t=125.12s)]
+*  think of that this morning as Secretary of Defense Pete Hegseth held a press [[00:02:10](https://www.youtube.com/watch?v=XU39AQWw39k&t=130.0s)]
+*  conference with one mission to rake the Pentagon press corps over the coals because new reporting [[00:02:15](https://www.youtube.com/watch?v=XU39AQWw39k&t=135.08s)]
+*  has called into question Donald Trump's claims that he quote completely obliterated unquote [[00:02:22](https://www.youtube.com/watch?v=XU39AQWw39k&t=142.16000000000003s)]
+*  Iran's nuclear program. You see we're here this morning because in hunting for scandals all the [[00:02:27](https://www.youtube.com/watch?v=XU39AQWw39k&t=147.68s)]
+*  time in trying to find wedges and and spin stories this press corps and the press corps miss historic [[00:02:35](https://www.youtube.com/watch?v=XU39AQWw39k&t=155.52s)]
+*  moments. President Trump directed the most complex and secretive military operation in history and it [[00:02:44](https://www.youtube.com/watch?v=XU39AQWw39k&t=164.8s)]
+*  was a resounding success resulting in a ceasefire agreement and the end of the 12 day war. You and I [[00:02:52](https://www.youtube.com/watch?v=XU39AQWw39k&t=172.20000000000002s)]
+*  mean specifically you the press specifically you the press corps because you cheer against Trump so [[00:03:00](https://www.youtube.com/watch?v=XU39AQWw39k&t=180.8s)]
+*  hard it's like in your DNA and in your blood to cheer against Trump because you want him not to be [[00:03:08](https://www.youtube.com/watch?v=XU39AQWw39k&t=188.56s)]
+*  successful so bad. You have to cheer against the efficacy of these strikes. How about we take a beat [[00:03:14](https://www.youtube.com/watch?v=XU39AQWw39k&t=194.68s)]
+*  recognize first the success of our warriors hold them up tell their stories celebrate that wave an [[00:03:21](https://www.youtube.com/watch?v=XU39AQWw39k&t=201.44s)]
+*  American flag be proud of what we accomplished. The reason for Hegseth's rant was a preliminary [[00:03:27](https://www.youtube.com/watch?v=XU39AQWw39k&t=207.52s)]
+*  defense intelligence report saying the strikes had only set Iran's nuclear program back by a few [[00:03:35](https://www.youtube.com/watch?v=XU39AQWw39k&t=215.16s)]
+*  months. But if as Hegseth claimed that report was premature and politically motivated then surely so [[00:03:40](https://www.youtube.com/watch?v=XU39AQWw39k&t=220.68s)]
+*  were Trump's declarations that Iran's program was obliterated. Today when Fox veteran Pentagon [[00:03:47](https://www.youtube.com/watch?v=XU39AQWw39k&t=227.28s)]
+*  reporter Jennifer Griffin asked about where Iran's stores its enriched uranium Hegseth responded by [[00:03:54](https://www.youtube.com/watch?v=XU39AQWw39k&t=234.36s)]
+*  attacking her personally. Are you certain none of that highly enriched uranium was moved? Of course [[00:04:01](https://www.youtube.com/watch?v=XU39AQWw39k&t=241.48000000000002s)]
+*  we're watching every single aspect but Jennifer you've been about the worst the one who [[00:04:08](https://www.youtube.com/watch?v=XU39AQWw39k&t=248.12s)]
+*  misrepresents the most intentionally what the president says. I'm familiar. I was the first to report about the [[00:04:13](https://www.youtube.com/watch?v=XU39AQWw39k&t=253.51999999999998s)]
+*  ventilation shafts on Saturday night and in fact I was the first to describe the B2 bombers the refueling [[00:04:20](https://www.youtube.com/watch?v=XU39AQWw39k&t=260.24s)]
+*  the entire mission with great accuracy. So I take issue with that. [[00:04:28](https://www.youtube.com/watch?v=XU39AQWw39k&t=268.44s)]
+*  It is just like that inauguration crowd fight but this time the stakes are so much higher. We are talking about a military [[00:04:32](https://www.youtube.com/watch?v=XU39AQWw39k&t=272.76s)]
+*  conflict in the Middle East not a crowd size and we are not getting any real clarity on what comes next from our own [[00:04:43](https://www.youtube.com/watch?v=XU39AQWw39k&t=283.0s)]
+*  government. In fact after this morning's performance Hegseth joined Secretary of State Marco Rubio on Capitol Hill to [[00:04:49](https://www.youtube.com/watch?v=XU39AQWw39k&t=289.64s)]
+*  give the Senate its first classified briefing on the Iran strike and Democrats and actually even a few Republicans [[00:04:55](https://www.youtube.com/watch?v=XU39AQWw39k&t=295.84s)]
+*  came out of that briefing with even more questions. [[00:05:02](https://www.youtube.com/watch?v=XU39AQWw39k&t=302.48s)]
+*  Obviously I can't share any of the details from this briefing but I just do not think the president was telling the truth [[00:05:06](https://www.youtube.com/watch?v=XU39AQWw39k&t=306.64s)]
+*  when he said this program was obliterated. It was certainly damaged under the program but there is the significant there's [[00:05:14](https://www.youtube.com/watch?v=XU39AQWw39k&t=314.32s)]
+*  still significant remaining capability. The program was obliterated at those three sites but they still have ambitions. [[00:05:22](https://www.youtube.com/watch?v=XU39AQWw39k&t=322.96000000000004s)]
+*  I don't know where the 900 pounds of highly enriched uranium exists but it wasn't part of the target set. What was clear is [[00:05:30](https://www.youtube.com/watch?v=XU39AQWw39k&t=330.96s)]
+*  that there was no coherent strategy no end game no plan. [[00:05:38](https://www.youtube.com/watch?v=XU39AQWw39k&t=338.84s)]
+*  Senator Richard Blumenthal is a Democrat of Connecticut. He serves on the Armed Services Committee and was in that classified [[00:05:46](https://www.youtube.com/watch?v=XU39AQWw39k&t=346.84s)]
+*  hearing. He joins me now. Senator thanks so much for joining me. What were your top line impressions as you came out of [[00:05:52](https://www.youtube.com/watch?v=XU39AQWw39k&t=352.76s)]
+*  that briefing today. [[00:05:59](https://www.youtube.com/watch?v=XU39AQWw39k&t=359.4s)]
+*  I left that briefing with scant comfort that we know how much of Iran's nuclear arms program has been destroyed or how long [[00:06:01](https://www.youtube.com/watch?v=XU39AQWw39k&t=361.47999999999996s)]
+*  it will take them to rebuild it if they choose to do so. Anybody who is using that term completely obliterated is making it [[00:06:12](https://www.youtube.com/watch?v=XU39AQWw39k&t=372.35999999999996s)]
+*  up. And I certainly wouldn't use that term. What we were told in private today in this classified setting and I can't go into [[00:06:23](https://www.youtube.com/watch?v=XU39AQWw39k&t=383.88s)]
+*  the details but it was far different than the tone and content of what you heard from the secretary of defense this morning in [[00:06:33](https://www.youtube.com/watch?v=XU39AQWw39k&t=393.52s)]
+*  his briefing. And I will just say very flatly there's no reason right now for a mission accomplished moment. I'm in awe of the [[00:06:42](https://www.youtube.com/watch?v=XU39AQWw39k&t=402.56s)]
+*  brave and courageous and competent military men and women who executed this mission. But we need a final battle assessment a [[00:06:52](https://www.youtube.com/watch?v=XU39AQWw39k&t=412.56s)]
+*  damage assessment before we can draw any conclusions about how severely damaged Iran's nuclear program in fact has been. [[00:07:03](https://www.youtube.com/watch?v=XU39AQWw39k&t=423.79999999999995s)]
+*  One person who was noticeably absent from the briefing today as I understand it was the director of national intelligence [[00:07:14](https://www.youtube.com/watch?v=XU39AQWw39k&t=434.76s)]
+*  Tulsi Gabbard and she was sidelined after President Trump said bluntly said that her testimony from March when she asserted that [[00:07:20](https://www.youtube.com/watch?v=XU39AQWw39k&t=440.64000000000004s)]
+*  Iran was not building a nuclear weapon was wrong. How concerned does all of this make you about the administration's approach to [[00:07:28](https://www.youtube.com/watch?v=XU39AQWw39k&t=448.96000000000004s)]
+*  intelligence that she wasn't there. The person in her position has to be trusted to coordinate and draw together all the [[00:07:37](https://www.youtube.com/watch?v=XU39AQWw39k&t=457.6s)]
+*  different strands of the sources of intelligence. The director of the CIA was there today and was pretty forthcoming but still I [[00:07:48](https://www.youtube.com/watch?v=XU39AQWw39k&t=468.32s)]
+*  emerged with more questions than answers. And the person in Tulsi Gabbard's position as the director of national intelligence is the [[00:07:59](https://www.youtube.com/watch?v=XU39AQWw39k&t=479.68s)]
+*  one to answer many of those questions. So I think that what we see here is the lack of a strategy and obviously we need strength but [[00:08:10](https://www.youtube.com/watch?v=XU39AQWw39k&t=490.08s)]
+*  strategy is critical. Also this time may be a moment for diplomacy bombing our way to peace simply won't work. And the director of [[00:08:21](https://www.youtube.com/watch?v=XU39AQWw39k&t=501.15999999999997s)]
+*  national intelligence in her position if she isn't trusted or competent she ought to be replaced. [[00:08:31](https://www.youtube.com/watch?v=XU39AQWw39k&t=511.79999999999995s)]
+*  I know you can't tell us what you actually heard in the briefing but you've mentioned that you have some unanswered questions. Can you share [[00:08:38](https://www.youtube.com/watch?v=XU39AQWw39k&t=518.56s)]
+*  what some of those unanswered questions are that you're still trying to seek information on. That's really the question of the moment and thank [[00:08:46](https://www.youtube.com/watch?v=XU39AQWw39k&t=526.52s)]
+*  you for asking it. I want to know where the enriched uranium is. The mission of this very very important military operation. [[00:08:55](https://www.youtube.com/watch?v=XU39AQWw39k&t=535.0s)]
+*  Apparently I've heard a number of my colleagues say in public was not to destroy the uranium but in fact that's what constitutes a major [[00:09:06](https://www.youtube.com/watch?v=XU39AQWw39k&t=546.0799999999999s)]
+*  threat because enriched uranium obviously can be converted into a bomb. How long would it take to make a bomb. What are the intentions of the [[00:09:17](https://www.youtube.com/watch?v=XU39AQWw39k&t=557.36s)]
+*  Iranian government. We won't know them with certainty but at least we have some pretty good sources. And finally where are the [[00:09:27](https://www.youtube.com/watch?v=XU39AQWw39k&t=567.12s)]
+*  centrifuges. Are they still at Fordo and the other sites that were bombed. Again the military did its mission with tremendous [[00:09:35](https://www.youtube.com/watch?v=XU39AQWw39k&t=575.72s)]
+*  competence and skill and should be really applauded for it. But its job is not to do the assessment as the chairman of the Joint Chiefs of [[00:09:45](https://www.youtube.com/watch?v=XU39AQWw39k&t=585.72s)]
+*  the United States of America. And that's why I'm here. I'm here to answer the questions that said this morning the intelligence [[00:09:54](https://www.youtube.com/watch?v=XU39AQWw39k&t=594.4s)]
+*  community is responsible for the battle damage assessment. And so we need more of those kinds of answers to key questions here. And so [[00:10:01](https://www.youtube.com/watch?v=XU39AQWw39k&t=601.6s)]
+*  far the American people haven't gotten them. They're the ones who need them and deserve them. Not just the Congress. History teaches us [[00:10:12](https://www.youtube.com/watch?v=XU39AQWw39k&t=612.48s)]
+*  of a president. It's very very difficult to wage war or achieve a lasting peace. So do you think you didn't get the answers to those [[00:10:21](https://www.youtube.com/watch?v=XU39AQWw39k&t=621.36s)]
+*  questions because they're still not known or because the administration knows but is reluctant to share that information for whatever [[00:10:30](https://www.youtube.com/watch?v=XU39AQWw39k&t=630.6800000000001s)]
+*  reason. I think a combination Catherine. First of all the president has a narrative. He has his story and he's sticking to it. His [[00:10:42](https://www.youtube.com/watch?v=XU39AQWw39k&t=642.6s)]
+*  story began the night of the strike in Iran. He was out ahead of his intelligence community in saying that Iran's nuclear capacity [[00:10:52](https://www.youtube.com/watch?v=XU39AQWw39k&t=652.0400000000001s)]
+*  have has been fully obliterated. It couldn't have been based on even a preliminary assessment. But now he's threatening to sue a [[00:11:01](https://www.youtube.com/watch?v=XU39AQWw39k&t=661.64s)]
+*  number of media outlets CNN and the New York Times because they published a version of the assessment based on a intelligence [[00:11:11](https://www.youtube.com/watch?v=XU39AQWw39k&t=671.48s)]
+*  community preliminary assessment that contradicted that narrative. So he is hardly in favor of providing the whole truth. Now at the same [[00:11:21](https://www.youtube.com/watch?v=XU39AQWw39k&t=681.48s)]
+*  time in fairness the intelligence community a really accurate and reliable assessment takes time. The dust has barely settled at Fordow for [[00:11:30](https://www.youtube.com/watch?v=XU39AQWw39k&t=690.96s)]
+*  example knowing how effective those 12 bombs were in penetrating the layers of concrete as well as the mountain itself will take some time [[00:11:41](https://www.youtube.com/watch?v=XU39AQWw39k&t=701.44s)]
+*  and expertise and we are going to be relying frankly on Israeli intelligence as well as our own who has on the ground human [[00:11:51](https://www.youtube.com/watch?v=XU39AQWw39k&t=711.44s)]
+*  surveillance just as we do aerial surveillance. This business is complicated risky messy and so we need to take the time to fully assess [[00:12:01](https://www.youtube.com/watch?v=XU39AQWw39k&t=721.2s)]
+*  what the results were. Yeah I think we're all trying to sort out who are the credible sources here. Senator Richard Blumenthal thank you so [[00:12:13](https://www.youtube.com/watch?v=XU39AQWw39k&t=733.2s)]
+*  much for your time. [[00:12:20](https://www.youtube.com/watch?v=XU39AQWw39k&t=740.88s)]

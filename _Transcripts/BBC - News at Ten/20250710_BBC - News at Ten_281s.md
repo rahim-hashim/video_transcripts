@@ -1,9 +1,9 @@
 ---
-Date Generated: July 10, 2025
+Date Generated: July 11, 2025
 Transcription Model: whisper medium 20231117
 Length: 281s
 Video Keywords: ['bbc', 'bbc news', 'news', 'world', 'america', 'usa', 'usa news', 'india news', 'Israel', 'genocide', 'Gaza', 'war', 'crimes', 'illegal', 'Netanyahu', 'criminal', 'occupied', 'territories', 'aid', 'food', 'medical', 'supplies', 'West', 'Bank', 'UN', 'United', 'Nations', 'Security', 'Council', 'atrocity', 'atrocities', 'starvation', 'hunger', 'weapon', 'Palestinian', 'terror', 'Hamas', 'terrorism', 'airstrike', 'hospital', 'humanitarian', 'killed', 'injured', 'bombed', 'arrest', 'warrants', 'Hague', 'ICC', 'Trump', 'October', '7th', 'hostages', 'ethnic', 'cleansing', 'arms', 'embargo', 'medicine', 'blockade', 'blocked', 'project', 'Hope', 'children', 'centre', 'crime', 'humanity']
-Video Views: 14868
+Video Views: 23683
 Video Rating: None
 Video Description: At least 15 Palestinians, including 10 children, have been killed in an Israeli strike while queuing for nutritional supplements outside a medical clinic in central Gaza.
 US-based aid group Project Hope, which runs the clinic, said the attack was a blatant violation of international law. The Israeli military said it struck a "Hamas terrorist" and regretted any harm to civilians.   The victims were among 66 people reportedly killed in Israeli strikes on the same day.
