@@ -1,0 +1,122 @@
+---
+Date Generated: July 10, 2025
+Transcription Model: whisper medium 20231117
+Length: 390s
+Video Keywords: ['Joe Scarborough', 'Mika Brezinski', 'Willie Geist']
+Video Views: 20560
+Video Rating: None
+Video Description: Four days after President Donald Trump signed his “big, beautiful bill” into law, one of the Republicans who voted for it, Sen. Josh Hawley, wasn’t interested in touting the measure’s high-profile tax, immigration or health care provisions. Sen. Hawley said his “goal” is to ensure the provider tax changes, which will limit state reimbursement for Medicaid, don't go into effect in Missouri in 2030 — even as he helped to pass a piece of legislation that will do just that. Jen Psaki and Symone Sanders-Townsend discuss.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#JoshHawley #Politics #Medicaid
+---
+
+# 'Lab-invented spin': Jen Psaki SHREDS Josh Hawley
+**MSNBC - Morning Joe:** [July 10, 2025](https://www.youtube.com/watch?v=sKdgFgY7hak)
+*  To other matters now, just days after the passage of President Trump's sweeping domestic [[00:00:00](https://www.youtube.com/watch?v=sKdgFgY7hak&t=0.0s)]
+*  agenda, the so-called One Big Beautiful bill, Republican Senator Josh Hawley of Missouri [[00:00:05](https://www.youtube.com/watch?v=sKdgFgY7hak&t=5.74s)]
+*  says his goal is to ensure that one of its key Medicaid provisions never actually takes [[00:00:10](https://www.youtube.com/watch?v=sKdgFgY7hak&t=10.56s)]
+*  effect. [[00:00:15](https://www.youtube.com/watch?v=sKdgFgY7hak&t=15.84s)]
+*  Hawley worked to have the bill include an expanded fund for victims of nuclear waste [[00:00:17](https://www.youtube.com/watch?v=sKdgFgY7hak&t=17.240000000000002s)]
+*  and says that issue is why he was willing to vote for the bill despite all those drastic [[00:00:21](https://www.youtube.com/watch?v=sKdgFgY7hak&t=21.96s)]
+*  cuts to Medicaid. [[00:00:27](https://www.youtube.com/watch?v=sKdgFgY7hak&t=27.64s)]
+*  You hate, if I could say that, some pieces of this bill, but you voted for it. [[00:00:29](https://www.youtube.com/watch?v=sKdgFgY7hak&t=29.6s)]
+*  Why did you choose that strategy? [[00:00:35](https://www.youtube.com/watch?v=sKdgFgY7hak&t=35.2s)]
+*  Got to take the wins that you can. [[00:00:36](https://www.youtube.com/watch?v=sKdgFgY7hak&t=36.480000000000004s)]
+*  For me, getting RECA passed, getting health care expanded in Missouri for these survivors, [[00:00:37](https://www.youtube.com/watch?v=sKdgFgY7hak&t=37.96s)]
+*  I almost said the word victim, I hate that word, for survivors, these heroes, this is [[00:00:43](https://www.youtube.com/watch?v=sKdgFgY7hak&t=43.72s)]
+*  a multi-year journey and this was the chance to do it. [[00:00:48](https://www.youtube.com/watch?v=sKdgFgY7hak&t=48.44s)]
+*  The provider cuts that are now not going to affect Missouri until the 2030s, my goal is [[00:00:52](https://www.youtube.com/watch?v=sKdgFgY7hak&t=52.28s)]
+*  to make sure those never take effect, I'll be honest with you. [[00:00:55](https://www.youtube.com/watch?v=sKdgFgY7hak&t=55.88s)]
+*  How? [[00:00:58](https://www.youtube.com/watch?v=sKdgFgY7hak&t=58.2s)]
+*  I mean, listen, they don't affect Missouri until 2030, between now and then Missouri [[00:00:59](https://www.youtube.com/watch?v=sKdgFgY7hak&t=59.800000000000004s)]
+*  gets a billion dollars in increased rural hospital funds, that's great for our state. [[00:01:03](https://www.youtube.com/watch?v=sKdgFgY7hak&t=63.84s)]
+*  But the truth of the matter is we shouldn't be cutting rural hospitals, I'm completely [[00:01:08](https://www.youtube.com/watch?v=sKdgFgY7hak&t=68.36s)]
+*  opposed to cutting rural hospitals, period. [[00:01:10](https://www.youtube.com/watch?v=sKdgFgY7hak&t=70.96000000000001s)]
+*  I haven't changed my view on that one iota, we were able to delay it, we were able to [[00:01:12](https://www.youtube.com/watch?v=sKdgFgY7hak&t=72.8s)]
+*  get a plus up in funding for Missouri, which is terrific, but we shouldn't cut rural hospitals. [[00:01:17](https://www.youtube.com/watch?v=sKdgFgY7hak&t=77.16s)]
+*  I think it's a mistake, I've said that from the beginning and my view hasn't changed at [[00:01:21](https://www.youtube.com/watch?v=sKdgFgY7hak&t=81.36s)]
+*  all. [[00:01:25](https://www.youtube.com/watch?v=sKdgFgY7hak&t=85.08s)]
+*  I'm not going to work with anybody across the aisle, I don't care who it is, to make [[00:01:26](https://www.youtube.com/watch?v=sKdgFgY7hak&t=86.96s)]
+*  sure we do not cut rural hospitals ever, period. [[00:01:29](https://www.youtube.com/watch?v=sKdgFgY7hak&t=89.6s)]
+*  Senator Hawley speaking there with NBC's Julie Serkin. [[00:01:33](https://www.youtube.com/watch?v=sKdgFgY7hak&t=93.72s)]
+*  Let's now bring in host of MSNBC's The Briefing with Jen Psaki, co-host of MSNBC's The Weeknight, [[00:01:36](https://www.youtube.com/watch?v=sKdgFgY7hak&t=96.48s)]
+*  Simone Sanders Townsend and Vice Provost of Global Initiatives at the University of Pennsylvania, [[00:01:44](https://www.youtube.com/watch?v=sKdgFgY7hak&t=104.2s)]
+*  Dr. Zeke Emanuel. [[00:01:50](https://www.youtube.com/watch?v=sKdgFgY7hak&t=110.44s)]
+*  His latest piece for the bulwark is titled Dems Must Really Fix Medicaid, Not Just Undo [[00:01:53](https://www.youtube.com/watch?v=sKdgFgY7hak&t=113.08s)]
+*  Trump's Damage to It. [[00:01:59](https://www.youtube.com/watch?v=sKdgFgY7hak&t=119.96s)]
+*  And we will turn to that in just a moment. [[00:02:01](https://www.youtube.com/watch?v=sKdgFgY7hak&t=121.36s)]
+*  Great to see all of you here. [[00:02:03](https://www.youtube.com/watch?v=sKdgFgY7hak&t=123.92s)]
+*  Jen, I'll start with you. [[00:02:04](https://www.youtube.com/watch?v=sKdgFgY7hak&t=124.92s)]
+*  We noted earlier in the show, Senator Hawley, you know, there was a moment where he could [[00:02:06](https://www.youtube.com/watch?v=sKdgFgY7hak&t=126.75999999999999s)]
+*  have made changes to the bill, he could have insisted that things could have been pulled [[00:02:11](https://www.youtube.com/watch?v=sKdgFgY7hak&t=131.16s)]
+*  out or put in. [[00:02:15](https://www.youtube.com/watch?v=sKdgFgY7hak&t=135.72s)]
+*  That'd be before he voted to pass the bill. [[00:02:16](https://www.youtube.com/watch?v=sKdgFgY7hak&t=136.72s)]
+*  Maybe he needs a refresher in how a bill actually becomes law. [[00:02:20](https://www.youtube.com/watch?v=sKdgFgY7hak&t=140.8s)]
+*  So what do you make of this, you know, seemingly about face where he's trying to placate, I [[00:02:24](https://www.youtube.com/watch?v=sKdgFgY7hak&t=144.4s)]
+*  assume, pretty angry voters? [[00:02:31](https://www.youtube.com/watch?v=sKdgFgY7hak&t=151.64000000000001s)]
+*  Dare I say, Jonathan, he also could have voted against the bill. [[00:02:34](https://www.youtube.com/watch?v=sKdgFgY7hak&t=154.4s)]
+*  They're not under duress there in the Senate. [[00:02:37](https://www.youtube.com/watch?v=sKdgFgY7hak&t=157.96s)]
+*  They can vote however they would like to vote. [[00:02:40](https://www.youtube.com/watch?v=sKdgFgY7hak&t=160.02s)]
+*  I mean, it is quite telling. [[00:02:42](https://www.youtube.com/watch?v=sKdgFgY7hak&t=162.36s)]
+*  It's almost like his spin there was developed in a lab or something because the truth is, [[00:02:44](https://www.youtube.com/watch?v=sKdgFgY7hak&t=164.08s)]
+*  the 25 or the total amount that was in on for for helping rural hospitals is not nearly [[00:02:49](https://www.youtube.com/watch?v=sKdgFgY7hak&t=169.08s)]
+*  enough. [[00:02:55](https://www.youtube.com/watch?v=sKdgFgY7hak&t=175.20000000000002s)]
+*  It skins the surface. [[00:02:56](https://www.youtube.com/watch?v=sKdgFgY7hak&t=176.20000000000002s)]
+*  It's probably hundreds of billions of dollars short. [[00:02:57](https://www.youtube.com/watch?v=sKdgFgY7hak&t=177.20000000000002s)]
+*  Zeke can tell us what he thinks here, but that's not going to cover and keep rural hospitals [[00:02:58](https://www.youtube.com/watch?v=sKdgFgY7hak&t=178.88000000000002s)]
+*  open across the country. [[00:03:03](https://www.youtube.com/watch?v=sKdgFgY7hak&t=183.84s)]
+*  But what is most telling to me about what he just said is that he wants to already untangle [[00:03:05](https://www.youtube.com/watch?v=sKdgFgY7hak&t=185.28s)]
+*  and undo big swaths of the bill. [[00:03:10](https://www.youtube.com/watch?v=sKdgFgY7hak&t=190.88000000000002s)]
+*  Despite the fact that there is a pot of money he just referenced to help some people who [[00:03:14](https://www.youtube.com/watch?v=sKdgFgY7hak&t=194.28s)]
+*  have been victims, there are tens of thousands of people in his state and across the country [[00:03:17](https://www.youtube.com/watch?v=sKdgFgY7hak&t=197.68s)]
+*  who will still lose health care coverage. [[00:03:23](https://www.youtube.com/watch?v=sKdgFgY7hak&t=203.28s)]
+*  So yes, clearly people are very pissed off across the country for good reason. [[00:03:25](https://www.youtube.com/watch?v=sKdgFgY7hak&t=205.20000000000002s)]
+*  You can see that in polling as well. [[00:03:29](https://www.youtube.com/watch?v=sKdgFgY7hak&t=209.70000000000002s)]
+*  And he's, I guess, trying to do some lab invented spin. [[00:03:31](https://www.youtube.com/watch?v=sKdgFgY7hak&t=211.96s)]
+*  That's how I read his take. [[00:03:35](https://www.youtube.com/watch?v=sKdgFgY7hak&t=215.04000000000002s)]
+*  So Simone, to that point, doesn't this just feed into the sort of deep cynicism that so [[00:03:36](https://www.youtube.com/watch?v=sKdgFgY7hak&t=216.44s)]
+*  voters feel about Washington and the political process where a few months ago, Josh Hawley [[00:03:42](https://www.youtube.com/watch?v=sKdgFgY7hak&t=222.88s)]
+*  even authored an op ed saying, look, these Medicaid cuts can't happen for a moment. [[00:03:48](https://www.youtube.com/watch?v=sKdgFgY7hak&t=228.4s)]
+*  It seemed like he might defy his party, his president in order to do so. [[00:03:52](https://www.youtube.com/watch?v=sKdgFgY7hak&t=232.96s)]
+*  But at the end of the day, he voted yes and just registers his complaints in effectual [[00:03:57](https://www.youtube.com/watch?v=sKdgFgY7hak&t=237.76s)]
+*  as they may be after the fact. [[00:04:03](https://www.youtube.com/watch?v=sKdgFgY7hak&t=243.16s)]
+*  You know, for a moment it looked like he was going to support the people of Missouri that [[00:04:05](https://www.youtube.com/watch?v=sKdgFgY7hak&t=245.92000000000002s)]
+*  actually sent him to the United States Senate to work on their behalf. [[00:04:12](https://www.youtube.com/watch?v=sKdgFgY7hak&t=252.0s)]
+*  And then yet again, that rug was pulled out from under our feet and we smashed back into [[00:04:15](https://www.youtube.com/watch?v=sKdgFgY7hak&t=255.96s)]
+*  the reality of our current political situation, which is that Republicans in this Congress, [[00:04:21](https://www.youtube.com/watch?v=sKdgFgY7hak&t=261.40000000000003s)]
+*  in this particular iteration of the Republican Party, are not interested in going up against [[00:04:28](https://www.youtube.com/watch?v=sKdgFgY7hak&t=268.42s)]
+*  the president unless they are retiring or deciding not to run for reelection. [[00:04:33](https://www.youtube.com/watch?v=sKdgFgY7hak&t=273.92s)]
+*  C.C. Tom Tillis. [[00:04:38](https://www.youtube.com/watch?v=sKdgFgY7hak&t=278.48s)]
+*  I really believe that if Josh Hawley believed what he said in those comments at that press [[00:04:40](https://www.youtube.com/watch?v=sKdgFgY7hak&t=280.2s)]
+*  conference, then he should have voted no on the bill. [[00:04:46](https://www.youtube.com/watch?v=sKdgFgY7hak&t=286.40000000000003s)]
+*  And it is going to be up to the people of Missouri and frankly, the opposition party, [[00:04:49](https://www.youtube.com/watch?v=sKdgFgY7hak&t=289.20000000000005s)]
+*  which are the Democrats in the state of Missouri and Democrats across the country, to forcefully [[00:04:53](https://www.youtube.com/watch?v=sKdgFgY7hak&t=293.88s)]
+*  make that case to people in the states, in these competitive races, so that they decide [[00:04:58](https://www.youtube.com/watch?v=sKdgFgY7hak&t=298.3s)]
+*  to do something a little bit different. [[00:05:06](https://www.youtube.com/watch?v=sKdgFgY7hak&t=306.18s)]
+*  But Josh Hawley, he's not a spring chicken here for lack of a better term. [[00:05:07](https://www.youtube.com/watch?v=sKdgFgY7hak&t=307.68s)]
+*  The people of Missouri have repeatedly sent him back to the United States, sent him back [[00:05:11](https://www.youtube.com/watch?v=sKdgFgY7hak&t=311.78000000000003s)]
+*  to the Senate. [[00:05:16](https://www.youtube.com/watch?v=sKdgFgY7hak&t=316.18s)]
+*  He's done a lot, said a lot, but the rubber will now meet the road. [[00:05:17](https://www.youtube.com/watch?v=sKdgFgY7hak&t=317.58000000000004s)]
+*  And I'm not saying that Missouri is in play, but what I am saying is that the Senate could [[00:05:21](https://www.youtube.com/watch?v=sKdgFgY7hak&t=321.7s)]
+*  potentially be in play in some key places. [[00:05:25](https://www.youtube.com/watch?v=sKdgFgY7hak&t=325.58s)]
+*  I mean, North Carolina is an example of an open primary, an open race at this point. [[00:05:28](https://www.youtube.com/watch?v=sKdgFgY7hak&t=328.58s)]
+*  And in order for Democrats to be successful, it is not going to be enough to just play [[00:05:34](https://www.youtube.com/watch?v=sKdgFgY7hak&t=334.3s)]
+*  folks' comments back. [[00:05:38](https://www.youtube.com/watch?v=sKdgFgY7hak&t=338.08s)]
+*  In 2018, when Democrats took back the House, they had an aggressive campaign to educate [[00:05:39](https://www.youtube.com/watch?v=sKdgFgY7hak&t=339.94s)]
+*  the American people. [[00:05:46](https://www.youtube.com/watch?v=sKdgFgY7hak&t=346.86s)]
+*  And they had Republicans helping them because in 2018, it was about health care. [[00:05:47](https://www.youtube.com/watch?v=sKdgFgY7hak&t=347.86s)]
+*  This time, Republicans and the White House are saying it's about something else. [[00:05:52](https://www.youtube.com/watch?v=sKdgFgY7hak&t=352.06s)]
+*  It's about tax cuts. [[00:05:55](https://www.youtube.com/watch?v=sKdgFgY7hak&t=355.34s)]
+*  It's about small businesses. [[00:05:56](https://www.youtube.com/watch?v=sKdgFgY7hak&t=356.34s)]
+*  And the education gap, the chasm, is wide here, and it's going to take a lot more than [[00:05:58](https://www.youtube.com/watch?v=sKdgFgY7hak&t=358.18s)]
+*  one ad to close it. [[00:06:03](https://www.youtube.com/watch?v=sKdgFgY7hak&t=363.34s)]

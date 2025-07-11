@@ -107,6 +107,9 @@ class Video:
 			# Set video attributes
 			self.title = stream.title
 			self.author = youtube_obj.author
+			if youtube_obj.publish_date == None:
+				youtube_obj.publish_date = datetime.now()
+				print('  No publish date found, using current date.')
 			self.date = f"{youtube_obj.publish_date:%B %d, %Y}"
 			self.url = url
 			# rename the author to the specified author name
@@ -370,15 +373,11 @@ if __name__ == '__main__':
 				playlist_url = url_playlist_map[url]
 			else:
 				playlist_url = None
-			try:
-				status = video.get_video(
-					source=args.source, 
-					playlist_url=playlist_url, 
-					url=url
-				)
-			except Exception as e:
-				print(f'  Youtube URL Error: {e}')
-				continue
+			status = video.get_video(
+				source=args.source, 
+				playlist_url=playlist_url, 
+				url=url
+			)
 			# Transcribe the video
 			if not video.transcript_exists and status != None:
 				video.transcribe_video(video, model)
