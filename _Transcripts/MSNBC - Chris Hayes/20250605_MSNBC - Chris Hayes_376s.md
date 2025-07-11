@@ -1,0 +1,121 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 376s
+Video Keywords: ['Chris Hayes']
+Video Views: 348731
+Video Rating: None
+Video Description: Chris Hayes on the growing prevalence of “secret police” in the Trump-Stephen Miller era of ICE raids: “They’re usually masked—hiding their faces—and either wearing plain clothes or irregular uniforms. They won't give their names or say what agency they're with.” 
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#ICE #lawenforcement #immigration
+---
+
+# ‘Menacing’: Hayes sounds alarm on rise of ‘secret police’ under Trump
+**MSNBC - Chris Hayes:** [June 05, 2025](https://www.youtube.com/watch?v=5il6k7Dp4wM)
+*  The term secret police invokes a kind of haunting specter when you hear it. [[00:00:00](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=0.0s)]
+*  When we see representations of secret police in the movies or in history, [[00:00:05](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=5.2s)]
+*  we immediately identify it with a certain kind of regime, [[00:00:09](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=9.6s)]
+*  one that tramples people's liberty with no accountability. [[00:00:13](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=13.16s)]
+*  We associate it with authoritarian governments and dictatorships like the Soviet Union, [[00:00:16](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=16.26s)]
+*  where people usually armed can wield the authority of the state, [[00:00:21](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=21.56s)]
+*  but are themselves totally unaccountable in the same way. [[00:00:25](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=25.36s)]
+*  Whatever issues there are with American policing, [[00:00:29](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=29.36s)]
+*  and there are many, many of which we've covered here, [[00:00:31](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=31.86s)]
+*  at least our police officers have names on their uniforms and badge numbers. [[00:00:34](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=34.32s)]
+*  Now, in the Trump-Steven Miller era of immigration and renditioning, [[00:00:38](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=38.82s)]
+*  one cannot help but notice in clip after clip, [[00:00:43](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=43.22s)]
+*  in interaction after interaction, [[00:00:46](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=46.5s)]
+*  the people enacting these raids have all the qualities [[00:00:48](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=48.56s)]
+*  you associate with the concept of secret police. [[00:00:52](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=52.16s)]
+*  They are usually masked, [[00:00:55](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=55.3s)]
+*  hiding their faces and either wearing plain clothes or irregular uniforms. [[00:00:57](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=57.56s)]
+*  They won't give their names or say what agency they're with. [[00:01:02](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=62.260000000000005s)]
+*  Watching it, it feels wrong and weird and alien and menacing, [[00:01:05](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=65.92s)]
+*  like an irregular paramilitary operation or people gathering to rob a bank, [[00:01:12](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=72.52000000000001s)]
+*  as one observer said. [[00:01:18](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=78.0s)]
+*  It does not feel like law enforcement officials [[00:01:19](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=79.52000000000001s)]
+*  subject to the authority of a democratic government. [[00:01:22](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=82.46000000000001s)]
+*  It's so striking in scene after scene, [[00:01:25](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=85.56s)]
+*  you see regular people asking masked agents, [[00:01:27](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=87.7s)]
+*  who are you? [[00:01:31](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=91.4s)]
+*  What part of the government are you from? What are you doing? [[00:01:32](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=92.7s)]
+*  We saw something like that in one of the first videos made public, [[00:01:35](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=95.56s)]
+*  the arrest of Columbia student and lawful resident, Mahmoud Khalil, [[00:01:38](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=98.96000000000001s)]
+*  where plain clothes officers apprehended him in the lobby of his building [[00:01:42](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=102.96000000000001s)]
+*  and pointedly refused to identify themselves or who they were with. [[00:01:46](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=106.4s)]
+*  Let me ask, can we get a name, please? [[00:01:52](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=112.06s)]
+*  Can we get your name? [[00:01:57](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=117.46s)]
+*  I understand the lawyer is asking for your name. [[00:01:58](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=118.96s)]
+*  The lawyer is asking for your name. [[00:02:03](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=123.36s)]
+*  He's saying they don't give their names. [[00:02:05](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=125.06s)]
+*  We don't give our name, the man said, [[00:02:08](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=128.16s)]
+*  after handcuffing and detaining a legal resident of this country. [[00:02:09](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=129.76s)]
+*  Not long after that, we got this infamous video [[00:02:13](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=133.35999999999999s)]
+*  of the arrest of Tufts graduate student, Ramesa Ozturk. [[00:02:16](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=136.26s)]
+*  She was snatched off the street by masked agents [[00:02:19](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=139.85999999999999s)]
+*  and led away in handcuffs. [[00:02:22](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=142.45999999999998s)]
+*  Also in Massachusetts, there was this chilling scene from last month [[00:02:24](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=144.76s)]
+*  where masked agents apparently refused to provide a warrant [[00:02:28](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=148.26s)]
+*  before breaking a car window [[00:02:31](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=151.35999999999999s)]
+*  and forcibly removing a man that they say was in the country illegally. [[00:02:33](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=153.56s)]
+*  Do you have a warrant for arresting this man? [[00:02:37](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=157.85999999999999s)]
+*  Kevin, you're here illegally. I already know that. [[00:02:39](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=159.45999999999998s)]
+*  That's all I need to establish. [[00:02:42](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=162.16s)]
+*  I need to see a warrant. [[00:02:49](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=169.76s)]
+*  You have masked men taking people, abducting people without a warrant, without IDs. [[00:02:51](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=171.76s)]
+*  Just last weekend, this was seen in Great Barrington, Massachusetts [[00:02:59](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=179.76s)]
+*  where again, masked agents detained an apparently undocumented gardener [[00:03:02](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=182.76s)]
+*  at his place of work, [[00:03:07](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=187.76s)]
+*  all while his employees were being arrested. [[00:03:09](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=189.76s)]
+*  The police were arrested and arrested. [[00:03:11](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=191.76s)]
+*  The police were arrested and arrested. [[00:03:13](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=193.76s)]
+*  This is a scene where the man is being held by a undocumented gardener [[00:03:15](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=195.76s)]
+*  at his place of work, [[00:03:18](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=198.76s)]
+*  all while his employers ask questions. [[00:03:20](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=200.76s)]
+*  Why are you doing this? [[00:03:22](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=202.76s)]
+*  In San Diego, same weekend, [[00:03:23](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=203.76s)]
+*  residents managed to hold back what appeared to be heavily armed, militarized agents [[00:03:25](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=205.76s)]
+*  who were reportedly just executing an immigration raid on a local business [[00:03:30](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=210.76s)]
+*  and several local businesses. [[00:03:35](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=215.76s)]
+*  And we've also got these stories of all kinds of really unsettling lies, [[00:03:37](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=217.76s)]
+*  manipulation, subterfuge. [[00:03:41](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=221.76s)]
+*  The New York Times has also reported that the U.S. police in the Arizona area [[00:03:43](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=223.76s)]
+*  is saying that agents posed as city utility workers as part of an arrest attempt. [[00:03:47](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=227.76s)]
+*  There's been reports of agents gaining access to homes [[00:03:52](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=232.76s)]
+*  under the guise of performing wellness checks on children. [[00:03:55](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=235.76s)]
+*  All this feels like something distinct from the normal forms of policing [[00:04:01](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=241.76s)]
+*  and law enforcement you're used to. [[00:04:04](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=244.76s)]
+*  As the writer M. Gessen, who was born in the Soviet Union, [[00:04:06](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=246.76s)]
+*  put it in a recent column for the New York Times, [[00:04:09](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=249.76s)]
+*  I've seen it before, adding, [[00:04:11](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=251.76s)]
+*  This administration is treating people as if they have no rights, [[00:04:32](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=272.76s)]
+*  as if they can be rounded up at a whim, [[00:04:35](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=275.76s)]
+*  as if they don't get to have any kind of due process [[00:04:37](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=277.76s)]
+*  or have to show cause or get warrants. [[00:04:40](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=280.76s)]
+*  That is the legal theory of Stephen Miller, [[00:04:42](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=282.76s)]
+*  that immigrants in this country do not have rights, [[00:04:45](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=285.76s)]
+*  even though very clearly that's not true. [[00:04:48](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=288.76s)]
+*  This can't be stressed enough. [[00:04:51](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=291.76s)]
+*  The Constitution is clear on this in its plain text, [[00:04:52](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=292.76s)]
+*  in the 14th Amendment, for instance. [[00:04:54](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=294.76s)]
+*  The precedent is clear on this. [[00:04:56](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=296.76s)]
+*  Even Supreme Court justices, as conservative as the late Antonin Scalia, [[00:04:57](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=297.76s)]
+*  have been clear on this. [[00:05:01](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=301.76s)]
+*  Immigrants have constitutional rights. [[00:05:02](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=302.76s)]
+*  They have due process rights. [[00:05:05](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=305.76s)]
+*  But the Trump administration and Stephen Miller believe [[00:05:06](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=306.76s)]
+*  the state can do whatever it wants to these people. [[00:05:09](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=309.76s)]
+*  Now we should note Trump's borders are Tom Holman's, [[00:05:12](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=312.76s)]
+*  as the agents are wearing masks for their own safety. [[00:05:15](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=315.76s)]
+*  In a statement NBC News about these recent ice crackdowns, [[00:05:34](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=334.76s)]
+*  Assistant Homeland Security Secretary Tricia McLaughlin said, [[00:05:36](https://www.youtube.com/watch?v=5il6k7Dp4wM&t=336.76s)]

@@ -1,0 +1,123 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 650s
+Video Keywords: ['Chris Hayes']
+Video Views: 95762
+Video Rating: None
+Video Description: “Donald Trump is actually going to make one family better off financially, and that’s the Trump family. And everybody else, Donald Trump just couldn’t care less,” says Sen. Elizabeth Warren on President Trump’s Saudi visit and Qatar’s “gift” jet.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, Inside with Jen Psaki, Morning Joe, The Beat, Deadline: White House, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Trump #Qatar #luxuryjet
+---
+
+# Trump will leave ‘one family better off financially’ — his own: Sen. Warren on Trump’s corruption
+**MSNBC - Chris Hayes:** [May 13, 2025](https://www.youtube.com/watch?v=j60yw1Xi1JI)
+*  The only thing that unites the policies that Trump has announced today on his Middle East tour so far [[00:00:00](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=0.0s)]
+*  is that they are exactly what the Gulf states wanted. Adoring audiences, investment opportunities, [[00:00:06](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=6.4s)]
+*  a new flying palace. This is the place Donald Trump feels most at home because these countries [[00:00:12](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=12.72s)]
+*  get Trump in a way that they never got any other American president. This American president [[00:00:19](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=19.44s)]
+*  admires despots. He envies what they have. He wants to trade places. We know this about him [[00:00:24](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=24.08s)]
+*  when he had that love affair with North Korean dictator Kim Jong-un. [[00:00:30](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=30.32s)]
+*  Hey, he's the head of a country and I mean he's the strong head. Don't let anyone think anything [[00:00:36](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=36.16s)]
+*  different. He speaks and his people sit up at attention. I want my people to do the same. [[00:00:42](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=42.32s)]
+*  I want my people to do the same. He speaks, they stand up at attention. Yeah, they do that in Saudi [[00:00:47](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=47.120000000000005s)]
+*  for sure. We know this about Trump when a Washington Post writer named Jamal Khashoggi [[00:00:53](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=53.28s)]
+*  was brutally murdered and that is dismembered by thugs on orders from the man he's toasting today, [[00:00:59](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=59.36s)]
+*  the Saudi crown prince Mohammed bin Salman. But you take a look, it's a rough part of the world. [[00:01:05](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=65.28s)]
+*  It's a nasty place. It's a nasty part of the world. But if what happened happened and if the facts [[00:01:12](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=72.08s)]
+*  check out, it's something that's very bad. At the same time, they have been a very good ally of ours. [[00:01:20](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=80.72s)]
+*  They've been helping us a lot with respect to Israel. They've been funding a lot of things. [[00:01:27](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=87.92s)]
+*  Oh yeah, they've been funding a lot of good things. They've been funding a lot. [[00:01:34](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=94.0s)]
+*  That's true. The gulf states that are hosting Trump understand him. They recognize he's not there [[00:01:38](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=98.08s)]
+*  as a representative of the American people. [[00:01:45](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=105.67999999999999s)]
+*  Obviously not. He's there for himself and they're there to indulge him. And it's not because Trump [[00:01:51](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=111.28s)]
+*  is a unique force of nature. He's not special. He's just easy. I mean, he's not even the first [[00:01:58](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=118.47999999999999s)]
+*  for him later to be gifted a 747 by the Qataris. They've run this play before. Turkey's president, [[00:02:04](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=124.4s)]
+*  Erdogan, got a half billion dollar jumbo jet back in 2018 after Turkey broke a regional embargo on [[00:02:11](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=131.04s)]
+*  Qatar over its alleged support of jihadists. I think of this, the American president and Turkey's [[00:02:17](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=137.92s)]
+*  authoritarian strongman, the only two members of the Qatari Flying Palace Club. Yeah, that seems [[00:02:26](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=146.16s)]
+*  about right. And this is the thing, the gulf states have been doing this forever, right? They don't [[00:02:33](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=153.84s)]
+*  have huge armies. In the case of Qatar and the UAE, they tiny physically. What they've got is a [[00:02:38](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=158.96s)]
+*  lot of oil and a lot of money and they use it to extend their geopolitical dominance. Now, that [[00:02:44](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=164.16s)]
+*  goes a long way, but goes only so far with traditional law abiding American administrations. [[00:02:50](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=170.32s)]
+*  With Donald Trump, a man not just willing but thirsty to trade on the trappings of the office, [[00:02:55](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=175.20000000000002s)]
+*  American voters have stood on him. With a man that corrupt, well, the sky is the limit. [[00:03:00](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=180.16s)]
+*  Yeah. Senator Elizabeth Warren, Democrat of Massachusetts, sits on the Senate Banking and [[00:03:05](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=185.44000000000003s)]
+*  Finance Committees and she joins me now. I should say, Senator, that the president is once again [[00:03:10](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=190.24s)]
+*  defending his acceptance of this gift. Acceptance almost seems too passive. It's unclear to me that [[00:03:15](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=195.28s)]
+*  it wasn't actually solicited. You know, it would be crazy. Do you want the taxpayers to pay for it? [[00:03:22](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=202.24s)]
+*  What exactly is wrong with this in your mind? Well, as you rightly said, you know, he says [[00:03:27](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=207.68s)]
+*  he has to accept a gift. The Trojan horse was a gift, as you rightly pointed out, and the idea [[00:03:35](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=215.2s)]
+*  that he's just going to jump on this plane and fly all around. You know, there are folks in the [[00:03:41](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=221.28s)]
+*  Defense Department who are pointing out they're going to have to tear that plane apart and go [[00:03:46](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=226.16s)]
+*  over every nut, every bolt, every screw. We are now told in the Senate that it will cost more to [[00:03:51](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=231.2s)]
+*  take that plane apart and make sure there aren't tracking devices and listening devices in it [[00:03:57](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=237.51999999999998s)]
+*  and take longer than it would to build the original plane that they were trying to build. [[00:04:03](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=243.68s)]
+*  But all that really tells you is it's dumb. But the heart was still willing. What Donald Trump [[00:04:08](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=248.72s)]
+*  wanted was something that was a big giant plane for him to fly around in, and let's face it, [[00:04:16](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=256.48s)]
+*  for him to use personally and then at the end to give it to his library so he would have it [[00:04:22](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=262.08s)]
+*  forever and ever. And to me, this is the perfect example of what this Trump administration has [[00:04:26](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=266.56s)]
+*  become all about. For two years, he ran for president saying on day one, I will lower costs [[00:04:34](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=274.72s)]
+*  for American families. He gets elected. His first interview, he says, I got elected because I [[00:04:40](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=280.64s)]
+*  promised to lower costs on day one. About a month later, he gets asked about the tariffs and told [[00:04:46](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=286.56s)]
+*  that those are going to increase costs for American families. And his quote is that he [[00:04:53](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=293.84s)]
+*  couldn't care less. So it turns out we've now figured out maybe 115 days into this administration [[00:04:58](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=298.71999999999997s)]
+*  that Donald Trump is actually going to make one family better off financially, and that's the [[00:05:06](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=306.47999999999996s)]
+*  Trump family and everybody else. Donald Trump just couldn't care less. Yeah, I mean, there's [[00:05:13](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=313.52s)]
+*  something remarkable about your kids got to go down to two dollars max, maybe five pencils. [[00:05:18](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=318.48s)]
+*  We're just going to take the flying Qatari palace in the air. Don't you worry about it. I mean, [[00:05:24](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=324.88s)]
+*  within a week of each other, he's saying those two things. Right. And you know, the thing is about [[00:05:31](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=331.84000000000003s)]
+*  this. It's not just that the Saudis and the Qataris get to play. UAE is in on this as well [[00:05:37](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=337.68s)]
+*  with the Bitcoin scam. So here's Donald Trump, who announces a cut three weeks ago now. [[00:05:46](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=346.72s)]
+*  He says he's going to do a Bitcoin deal and the stable question, say Bitcoin, a stable coin deal. [[00:05:54](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=354.0s)]
+*  And here's the stable coin deal. He's going to go into business with an outfit called Binance. [[00:06:00](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=360.32000000000005s)]
+*  Now, this is an outfit that has been doing stable coins for a long time. They were forced to plead [[00:06:06](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=366.64000000000004s)]
+*  criminal money laundering that is helping out drug traffickers, terrorists and others. They're [[00:06:13](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=373.44s)]
+*  not permitted to do business in the United States. And their CEO actually went to jail. [[00:06:20](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=380.0s)]
+*  Remind yourself just how bad it has to be before CEOs get sent to jail for white collar crimes. So [[00:06:25](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=385.59999999999997s)]
+*  these guys end up in jail. Now they are business partners with Donald Trump while the guy, the [[00:06:33](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=393.44s)]
+*  former CEO, is allegedly asking for a pardon. What a great way to get up there with Donald Trump, [[00:06:40](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=400.96s)]
+*  offer to cut him in on the deal. But the UAE says, whoa, we can go better than that. [[00:06:48](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=408.96s)]
+*  Now that you have this partnership with Binance, here's what we're going to do. We're going to put [[00:06:56](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=416.47999999999996s)]
+*  $2 billion into the partnership, which boosts Donald Trump's fortunes immensely. He makes money [[00:07:02](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=422.64s)]
+*  off every transaction. He makes money off the money that is deposited and they pay no interest on. [[00:07:12](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=432.15999999999997s)]
+*  Another way for UAE to say, we understand how this works. We have just out in full view of everyone, [[00:07:18](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=438.71999999999997s)]
+*  basically offer Donald Trump a giant gift from a foreign entity in violation of the constitution, [[00:07:27](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=447.6s)]
+*  in violation of law and in violation of what is right in this country. [[00:07:37](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=457.36s)]
+*  The sort of the blatantness of all this, I think in a weird way has kind of redounded to his benefit. [[00:07:43](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=463.76s)]
+*  It's not like someone like if you discovered a secret message that the Emiratis were wiring [[00:07:50](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=470.8s)]
+*  $2 billion to a secret bank account, I think that would be an enormous scandal. [[00:07:56](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=476.96000000000004s)]
+*  Sort of doing out in the open, but I will say this, I want to show you something that [[00:08:01](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=481.84000000000003s)]
+*  some Republican senators do seem at the very least a little uneasy with the flying Qatari Palace. [[00:08:05](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=485.28000000000003s)]
+*  I want to play you some of it and get your reaction to see if there's anything there, [[00:08:11](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=491.68s)]
+*  there, and they're willing to do anything about it. Take a listen. [[00:08:15](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=495.44000000000005s)]
+*  I think maybe the thing to do is to say, hey, we appreciate it, but there's a lot of things [[00:08:20](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=500.32000000000005s)]
+*  you could help us out with. It doesn't seem to be right, and I think it's not going to pass [[00:08:23](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=503.68s)]
+*  the smell test. Well, my only concern is the safety of the president. I mean, [[00:08:28](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=508.24s)]
+*  Qatar's not, in my opinion, a great ally. Well, they better sweep that plane from front to back. [[00:08:31](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=511.68s)]
+*  And to your point, Senator, I mean, and to Senator Loomis's point, you know, I just want to say that [[00:08:45](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=525.6s)]
+*  like what you said before about it's going to cost a ton of money, like the thing's going to [[00:08:50](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=530.08s)]
+*  have to be basically taken apart and put back together again. Yeah. Yeah. But remember, [[00:08:54](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=534.0s)]
+*  these are Republicans who are just very tentatively saying might not be the greatest deal rather than [[00:09:00](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=540.24s)]
+*  say, whoa, S.T.O.P. No, we're not doing this. You're not doing this. President United States [[00:09:07](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=547.2800000000001s)]
+*  does not doing this. Is there anybody on God's green earth who thinks that the Qataris are giving [[00:09:13](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=553.84s)]
+*  a four hundred million dollar airplane to Donald Trump without expecting or having already gotten [[00:09:21](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=561.6s)]
+*  something in return? And keep in mind, this is the question about corruption is the central issue on [[00:09:28](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=568.5600000000001s)]
+*  this stable coins bill, which right now is being voted on in Congress. And all but one, [[00:09:35](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=575.84s)]
+*  senators on the Republican side said they are all in. They don't want any curbs that would prevent [[00:09:42](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=582.72s)]
+*  the president of the United States making what appears to be somewhere between hundreds of [[00:09:49](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=589.9200000000001s)]
+*  millions of dollars and billions of dollars off his stable coin undertakings from again, [[00:09:55](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=595.52s)]
+*  God only knows who we know two of the actors, the felon and the and the UAE, the Emirates. [[00:10:03](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=603.84s)]
+*  But who else is playing in this game and what favors are they getting from Donald Trump in [[00:10:13](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=613.28s)]
+*  return for the money that they are putting into these stable coins? And yet, so far, [[00:10:19](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=619.68s)]
+*  every Republican senator save one has said it's OK with them. [[00:10:25](https://www.youtube.com/watch?v=j60yw1Xi1JI&t=625.76s)]

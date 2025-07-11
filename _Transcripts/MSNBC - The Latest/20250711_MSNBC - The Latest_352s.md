@@ -1,0 +1,121 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 352s
+Video Keywords: ['MSNBC']
+Video Views: 2057
+Video Rating: None
+Video Description: Retired veteran Kevin Jones, who survived the catastrophic flooding in Texas, joins Alex Witt to detail his experience during the disaster and to share how his community is coming together during such a dark time.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Texas #Flood #Weather
+---
+
+# 'Tested me more' than war: Veteran says he 'lost everything' in Texas flood
+**MSNBC - The Latest:** [July 11, 2025](https://www.youtube.com/watch?v=aKZ4oSJQ3pM)
+*  So, Kevin, it's with a mixed bag, I think, that we talk to you. [[00:00:00](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=0.0s)]
+*  The feelings here, our hearts go out to you. [[00:00:05](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=5.44s)]
+*  But given your commitment to volunteering, helping others in times of incredible hardship, [[00:00:07](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=7.96s)]
+*  what kind of emotions are you going through being on the receiving end of help right now? [[00:00:13](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=13.24s)]
+*  Well, once you're a Marine, you're always a Marine. [[00:00:18](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=18.04s)]
+*  So there's no former Marines. [[00:00:21](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=21.88s)]
+*  I'm a retired gunnery sergeant from the United States Marine Corps. [[00:00:23](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=23.240000000000002s)]
+*  I served this country for 20 years. [[00:00:27](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=27.52s)]
+*  And yeah, so we're just going through the punches right now. [[00:00:31](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=31.72s)]
+*  It is what it is. [[00:00:37](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=37.76s)]
+*  We can't change the past. [[00:00:39](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=39.44s)]
+*  We've accepted what has happened. [[00:00:42](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=42.28s)]
+*  You know, we lost everything. [[00:00:45](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=45.56s)]
+*  We lost our vehicles, our home. [[00:00:46](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=46.96s)]
+*  We're just, you know, we're surviving, but we're thriving. [[00:00:51](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=51.4s)]
+*  The community has come together so much. [[00:00:57](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=57.68s)]
+*  You cannot go a block without getting free food here in Kirkland. [[00:01:00](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=60.64s)]
+*  There's water. [[00:01:07](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=67.48s)]
+*  There is anything you can think of. [[00:01:08](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=68.44s)]
+*  This is Texas. I'm a Texan. [[00:01:10](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=70.72s)]
+*  I was born and raised in Midland, Odessa. [[00:01:12](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=72.4s)]
+*  And I just, you know, we went through quite an ordeal. [[00:01:15](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=75.48s)]
+*  But, you know, we're just we're making it. [[00:01:22](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=82.56s)]
+*  I appreciate the positivity so much. [[00:01:26](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=86.16s)]
+*  And I don't know that everyone's able to share that. [[00:01:30](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=90.11999999999999s)]
+*  And it may come to your training. [[00:01:32](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=92.0s)]
+*  I want to ask you about that, because this harrowing night one week ago, [[00:01:33](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=93.6s)]
+*  you have floodwaters, as we understand, rushing into your home. [[00:01:38](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=98.03999999999999s)]
+*  You and your fiancee end up clinging to a beam for a couple of hours. [[00:01:41](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=101.36s)]
+*  You saw trucks floating by propane tanks exploding. [[00:01:45](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=105.83999999999999s)]
+*  And you say, quote, I've been to war. [[00:01:49](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=109.24s)]
+*  This tested me more. [[00:01:51](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=111.39999999999999s)]
+*  Was it your marine training, your experience responding to disastrous events [[00:01:53](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=113.84s)]
+*  that that literally saved both of you? [[00:01:58](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=118.84s)]
+*  Was it instinct kicking in over fear? [[00:02:01](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=121.36s)]
+*  Great question. [[00:02:06](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=126.24000000000001s)]
+*  So, yes, it was a bit of everything. [[00:02:07](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=127.88000000000001s)]
+*  My fiance, she, you know, she's the one that busts the window out. [[00:02:12](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=132.28s)]
+*  We gots to go. I'm like, OK, let's go. [[00:02:17](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=137.28s)]
+*  Put a pillow over the window. [[00:02:20](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=140.56s)]
+*  We've got to be smart about these things because you get cut up. [[00:02:22](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=142.04s)]
+*  And we, you know, we clung to the window or to that, not to the window, I'm sorry, [[00:02:25](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=145.52s)]
+*  to the support beam. [[00:02:29](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=149.72s)]
+*  But you, once you start to lose your cool, that's when things happen. [[00:02:32](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=152.36s)]
+*  That's when bad things happen, unfortunately. [[00:02:40](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=160.24s)]
+*  Yes, marine training, I've been in combat and just everything. [[00:02:43](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=163.0s)]
+*  You know, I've had a lot of water survival training in the Marine Corps. [[00:02:48](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=168.84s)]
+*  So, you know, I've already got a plan B. [[00:02:52](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=172.92000000000002s)]
+*  We're holding on to the beams. Right. [[00:02:55](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=175.64000000000001s)]
+*  And we have a. [[00:02:57](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=177.72s)]
+*  An emergency, what was it, an emergency vehicle, an emergency vehicle [[00:03:01](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=181.88000000000002s)]
+*  that had smashed in the first pillars and had taken it out. [[00:03:06](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=186.24s)]
+*  So we're working a plan B. Right. [[00:03:11](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=191.08s)]
+*  You know, if it keeps coming and smashing them down, we're [[00:03:13](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=193.60000000000002s)]
+*  this is what this is what we're going to do. [[00:03:18](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=198.72s)]
+*  Breath control, don't freak out. [[00:03:22](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=202.72s)]
+*  I've got my neighbors to the right of us that are out there [[00:03:24](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=204.64s)]
+*  playing and, yeah, they're scared. [[00:03:28](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=208.76s)]
+*  I'm just trying to keep everyone motivated. [[00:03:30](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=210.36s)]
+*  You know, yeah, it's going to be OK. [[00:03:32](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=212.12s)]
+*  It's going to be OK. [[00:03:37](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=217.4s)]
+*  And if this happens, you just go with the flow. [[00:03:39](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=219.16s)]
+*  Don't try and fight the current. [[00:03:42](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=222.56s)]
+*  You're going to grab on to something. [[00:03:44](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=224.16s)]
+*  There's there's going to be Kevin. [[00:03:46](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=226.51999999999998s)]
+*  And I just want to say the president is wheels up there on Air Force One. [[00:03:48](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=228.44s)]
+*  So he's heading your way. [[00:03:51](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=231.07999999999998s)]
+*  She'll be there shortly. [[00:03:52](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=232.51999999999998s)]
+*  But I'm just curious, is there will be reflection on all this? [[00:03:53](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=233.44s)]
+*  And we've heard a lot of different timelines from people about alerts, [[00:03:57](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=237.56s)]
+*  warnings that they got some joke at the wake at 330. [[00:04:01](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=241.32s)]
+*  I think the mayor wasn't alerted until a call at 530. [[00:04:04](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=244.56s)]
+*  Do you remember getting an alert about what time it was? [[00:04:07](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=247.48s)]
+*  We had alerts throughout the night. [[00:04:11](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=251.35999999999999s)]
+*  I think two o'clock was the first one. [[00:04:14](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=254.72s)]
+*  Yeah, yeah, there were a couple of separate ones, but. [[00:04:19](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=259.16s)]
+*  You know. A lot of people were fortunate enough to be up [[00:04:23](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=263.76s)]
+*  at the time we were at. [[00:04:28](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=268.44s)]
+*  All right, so my fiance goes to work at six. [[00:04:29](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=269.96s)]
+*  We were up at four thirty. [[00:04:32](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=272.72s)]
+*  We really didn't get much sleep that night because the thunder and the lightning. [[00:04:34](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=274.44s)]
+*  And it was just it was a pretty severe. [[00:04:38](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=278.76s)]
+*  You know, storm. [[00:04:42](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=282.48s)]
+*  About four thirty, four thirty five. [[00:04:45](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=285.36s)]
+*  I'm looking out there and there's, you know, there's some water coming at the park, [[00:04:47](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=287.24s)]
+*  you know, where I live and did a parking lot area. Yeah. [[00:04:50](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=290.16s)]
+*  By four forty five, it was already just flowing through the door. [[00:04:54](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=294.24s)]
+*  That is extraordinary. [[00:05:00](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=300.24s)]
+*  You're you're saying you woke up at four thirty, really? [[00:05:01](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=301.56s)]
+*  That's when you would wake up after a sleepless night by four forty five. [[00:05:04](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=304.36s)]
+*  That is how quickly things took over for you. [[00:05:08](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=308.08000000000004s)]
+*  I mean, listening to your story, Kevin Jones, I [[00:05:11](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=311.76000000000005s)]
+*  I think it's amazing that you and your fiance are still alive. [[00:05:15](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=315.12s)]
+*  We're very glad for that and appreciate your time with us and sharing your story. [[00:05:18](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=318.16s)]
+*  Do take care of yourself. [[00:05:23](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=323.44000000000005s)]
+*  We want to let everyone know as well that if they want to learn about your work [[00:05:24](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=324.96000000000004s)]
+*  with Team Rubicon, you can go ahead, everybody, and check that website. [[00:05:28](https://www.youtube.com/watch?v=aKZ4oSJQ3pM&t=328.84000000000003s)]

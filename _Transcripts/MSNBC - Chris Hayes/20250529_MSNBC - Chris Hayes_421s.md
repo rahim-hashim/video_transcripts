@@ -1,0 +1,121 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 421s
+Video Keywords: ['Chris Hayes']
+Video Views: 152862
+Video Rating: None
+Video Description: According to new reporting from Wired, Republican Congresswoman Nancy Mace’s former staffers say she had them make burner accounts to promote and defend her online.
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#MSNBC #Republicans #NancyMace
+---
+
+# GOP rep's ex-staffers say she made them use burner accounts to hype her up: Report
+**MSNBC - Chris Hayes:** [May 29, 2025](https://www.youtube.com/watch?v=PbTxuiPqf7s)
+*  One of the fundamental problems we're having as a country right now is that many of the things that make people good at getting elected, specifically in this age, the ability to generate attention, no matter the kind, doesn't make those people good at running the country. [[00:00:00](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=0.0s)]
+*  I mean, obviously Donald Trump is the prime example of this, but there are a bunch of other people who this applies to as well. [[00:00:15](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=15.0s)]
+*  One that really comes to mind is Republican Congresswoman Nancy Mace of South Carolina. [[00:00:20](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=20.0s)]
+*  The Daily Beast reported in 2023 that Mace's staffers were told they, quote, needed to book Mace on national TV outlet between one and three times per day, a staggered nine times per week at minimum. [[00:00:25](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=25.0s)]
+*  Now, Wired reports Mace's former staffers say she had them make burner accounts to promote and defend her online. [[00:00:37](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=37.0s)]
+*  Quote, we had to make multiple accounts, burner accounts, and go and reply to comments saying things that weren't true, even Reddit forums, a former staffer says. [[00:00:43](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=43.0s)]
+*  We were congressional staff and there were actual things we could be doing to help the constituents. [[00:00:50](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=50.0s)]
+*  Jake LaHutte is a senior writer for Wired who broke this story. [[00:00:55](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=55.0s)]
+*  He has been covering Nancy Mace for years. [[00:00:58](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=58.0s)]
+*  He actually wrote that 2023 Daily Beast piece as well, and he joins me now. [[00:01:00](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=60.0s)]
+*  It's good to have you here. [[00:01:04](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=64.0s)]
+*  Good to be back in person. [[00:01:05](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=65.0s)]
+*  So tell me about the burner, the burner accounts here. [[00:01:06](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=66.0s)]
+*  So these are essentially Mace has her own set of them, and I've gotten suggestions about which ones may be hers that, you know, I cannot confirm yet. [[00:01:10](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=70.0s)]
+*  But then you have the staff side. [[00:01:19](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=79.0s)]
+*  Wait, but let's just stop there. [[00:01:20](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=80.0s)]
+*  So she has her own, what her staff says is she has accounts that she makes that aren't her official accounts or just like random people who then come into social media to like defend her. [[00:01:21](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=81.0s)]
+*  Yeah, not necessarily a Mitt Romney Pierre delecto type deal from my understanding. [[00:01:32](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=92.0s)]
+*  But yet to follow monitor and see what people are saying about her and, you know, push back on folks. [[00:01:37](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=97.0s)]
+*  But then at the staffer levels where it gets really unconventional and weird because they're doing battle with randos in the comments on, you know, take your pick of social media sites. [[00:01:42](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=102.0s)]
+*  And I mean, the reddit one especially struck me as like quite a deep cut and wild. [[00:01:51](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=111.0s)]
+*  But I think, you know, this is the recurring theme when we talked about Mace. [[00:01:55](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=115.0s)]
+*  She does have she has this kind of unadulterated, rather pure insight into what drives attention now and kind of how the fracture me ecosystem means you got to be everywhere. [[00:01:58](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=118.0s)]
+*  You got to try everything. [[00:02:09](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=129.0s)]
+*  Yeah, I want to I want to. [[00:02:10](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=130.0s)]
+*  This was also a real wild part of the reporting. [[00:02:11](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=131.0s)]
+*  Wesley Donahue, whose firm did consulting work for me, said in a deposition. [[00:02:15](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=135.0s)]
+*  This is in deposition. [[00:02:18](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=138.0s)]
+*  Yes. [[00:02:19](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=139.0s)]
+*  She programs her own bots. [[00:02:20](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=140.0s)]
+*  She sets up Twitter burner accounts. [[00:02:21](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=141.0s)]
+*  This is the kind of thing she does. [[00:02:23](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=143.0s)]
+*  She sits all night on the coach couch and programs bots because she's very, very computer savvy. [[00:02:24](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=144.0s)]
+*  She controls her own voter database. [[00:02:30](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=150.0s)]
+*  She programs a lot of her own website. [[00:02:31](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=151.0s)]
+*  She programs Facebook bots and Instagram bots and Twitter bots. [[00:02:33](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=153.0s)]
+*  It's what she does for fun. [[00:02:36](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=156.0s)]
+*  This is again, this is someone saying this in a deposition to it, essentially an unrelated loss. [[00:02:38](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=158.0s)]
+*  Yeah. [[00:02:42](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=162.0s)]
+*  In in South Carolina, of course, I think she's a good example actually of this thing you describe in your book about the kind of spectrum from boomers to Gen X on down where the more people that are in the [[00:02:43](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=163.0s)]
+*  The more scarce information was earlier in your career, the kind of more hungry and you are for like whatever could come your way. [[00:02:52](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=172.0s)]
+*  And she came up in the early Internet. [[00:02:58](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=178.0s)]
+*  She's 47 years old. [[00:03:00](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=180.0s)]
+*  Yeah. [[00:03:01](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=181.0s)]
+*  And what was interesting in talking about the way she describes herself as a self-taught coder, which has been part of her political biography since the beginning, is that one of these people is like, hey, I never saw her code and anything. [[00:03:02](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=182.0s)]
+*  Right. [[00:03:13](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=193.0s)]
+*  That's not the quote in the story. [[00:03:14](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=194.0s)]
+*  I can't say on TV. [[00:03:15](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=195.0s)]
+*  Right. [[00:03:16](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=196.0s)]
+*  The odd part of it is she's basically using like rudimentary tools that are available for anyone with a public Facebook account. [[00:03:17](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=197.0s)]
+*  Anyone with an Instagram, like a professional page where you can automate comments. [[00:03:23](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=203.0s)]
+*  If someone says thank you, Nancy, it can give an automated response. [[00:03:27](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=207.0s)]
+*  Right. [[00:03:31](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=211.0s)]
+*  But what's what's clear to me is that this is a person who has created has sort of been I don't know if it's in her personality or her brain has been pickled in the brine of the Internet for too long. [[00:03:32](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=212.0s)]
+*  I think this happened to Elon Musk. [[00:03:43](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=223.0s)]
+*  I think it's happened to others. [[00:03:44](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=224.0s)]
+*  I mean, Musk being the most where getting attention at all times is clearly the her reason for being as a member of Congress. [[00:03:45](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=225.0s)]
+*  You think that's a fair characterization? [[00:03:54](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=234.0s)]
+*  I think that traditionally there's been this kind of two way tug for a newly elected member of Congress where it's like we're either going to focus on legislative affairs, allocating resources there or to constituent services. [[00:03:56](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=236.0s)]
+*  And I think the truly innovative thing about it, if I can give her some credit here. [[00:04:06](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=246.0s)]
+*  And she has been tweeting about the story a lot. [[00:04:12](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=252.0s)]
+*  Yes, of course. [[00:04:14](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=254.0s)]
+*  I mean, obviously, why not? [[00:04:15](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=255.0s)]
+*  Anyway, I think what's really innovative about her is that she's introduced this third pillar, which is the attention economy. [[00:04:17](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=257.0s)]
+*  And it's like, hey, what if we just go all in on this? [[00:04:23](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=263.0s)]
+*  And her staff will say, you know, she did reintroduce a bill on tech this year. [[00:04:26](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=266.0s)]
+*  She is involved in legislation. [[00:04:29](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=269.0s)]
+*  But like in terms of the real, you know, what's going to occupy your focus for most of the day and for the staff? [[00:04:31](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=271.0s)]
+*  That's it. [[00:04:36](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=276.0s)]
+*  Yeah, I mean, that's the thing that's so striking about your reporting is that this is it's not just her, but the idea that like you've got a big congressional staff, you have power on a platform as a member of Congress. [[00:04:37](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=277.0s)]
+*  What are you going to do with that staff? [[00:04:46](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=286.0s)]
+*  And it seems like in just a resource allocation sense, and I don't know if this true Marjorie Teller-Green, who has a somewhat similar profile, the resource allocation is really going towards like from her all the way down to staffers who are sitting with anonymous handles fighting with people on Reddit. [[00:04:47](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=287.0s)]
+*  Legislative assistance, drafting tweets for her to fire out. [[00:05:03](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=303.0s)]
+*  That was one of the ones in the handbook story. [[00:05:06](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=306.0s)]
+*  So that is where she has focused. [[00:05:07](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=307.0s)]
+*  And this is a kind of like new model of being a member of Congress, which I think is increasingly dominant in this time. [[00:05:11](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=311.0s)]
+*  Absolutely. And, you know, I think you see other members who are good at this. [[00:05:16](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=316.0s)]
+*  But I think Mase just goes so much deeper into making the staff get involved in these minutiae really that, you know, a competent comms office can accomplish. [[00:05:19](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=319.0s)]
+*  But she also churns through the staff at a high rate, which I think is notable as well. [[00:05:28](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=328.0s)]
+*  What was her response to your story? [[00:05:31](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=331.0s)]
+*  She preempted the story by saying Wired was writing about her dating life and that she is married to her job and the state of South Carolina. [[00:05:33](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=333.0s)]
+*  Were you writing about her dating life? [[00:05:42](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=342.0s)]
+*  No, it was tangentially related to this deposition. [[00:05:44](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=344.0s)]
+*  All right. That's the lawsuit has something to do with it. [[00:05:47](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=347.0s)]
+*  Yeah, right. Yeah. [[00:05:49](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=349.0s)]
+*  She also did like a bunch of things where she had a bunch of burner phones, as if you were saying she has burner phones. [[00:05:50](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=350.0s)]
+*  But but again, I think that one of the conundrums here for this kind of individual is when she does, you know, she takes his picture of herself from bathrooms everywhere she goes, is that she seems to also thrive on negative attention. [[00:05:54](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=354.0s)]
+*  A la Trump. [[00:06:07](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=367.0s)]
+*  And that is the key skill. [[00:06:08](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=368.0s)]
+*  That's the key skill in this era. [[00:06:10](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=370.0s)]
+*  I think that Elon was a different side of it, but kind of iterated to a new extent. [[00:06:11](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=371.0s)]
+*  And she's just the interesting, maybe the most interesting one in the house. [[00:06:15](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=375.0s)]
+*  Yeah, that's a question about like what kind of personalities and what kind of people we're selecting for in this age. [[00:06:20](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=380.0s)]
+*  But, you know, this is what we have to work with right now. [[00:06:28](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=388.0s)]
+*  Jake Laha has been doing great reporting on this for a while. [[00:06:31](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=391.0s)]
+*  Thank you. [[00:06:33](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=393.0s)]
+*  Thank you. [[00:06:49](https://www.youtube.com/watch?v=PbTxuiPqf7s&t=409.0s)]

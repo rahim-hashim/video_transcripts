@@ -1,0 +1,120 @@
+---
+Date Generated: July 11, 2025
+Transcription Model: whisper medium 20231117
+Length: 430s
+Video Keywords: ['MSNBC']
+Video Views: 9252
+Video Rating: None
+Video Description: Top Democratic lawmakers are formally demanding answers from the Trump administration about the impact of budget cuts and DHS policies on the government's ability to respond to the devastating Texas floods. Rep. Greg Casar (D-TX) joins Chris Jansing to share why the lack of funding is "extremely dangerous and disheartening."
+For more context and news coverage of the most important stories of our day click here: https://www.msnbc.com/
+» Subscribe to MSNBC: https://www.youtube.com/msnbc
+» Subscribe to MSNBC on TikTok https://www.tiktok.com/@msnbc 
+» Subscribe to MSNBC on Instagram https://www.instagram.com/msnbc 
+Download our new MSNBC app for the latest breaking news and daily headlines at a glance: https://www.msnbc.com/information/download-msnbc-app-n1241692
+Follow MSNBC Show Blogs 
+MaddowBlog: https://www.msnbc.com/maddowblog
+MSNBC delivers breaking news, in-depth analysis of political headlines, commentary and informed perspectives. Find video clips and segments from The Rachel Maddow Show, The Briefing with Jen Psaki, Morning Joe, The Beat, Deadline: White House, The Weeknight, All In, The Last Word, The 11th Hour, and more.
+Connect with MSNBC Online 
+Visit msnbc.com: https://www.msnbc.com/ 
+Subscribe to the MSNBC Daily Newsletter: https://link.msnbc.com/join/5ck/msnbc-daily-signup
+#Texas #KristiNoem #FEMA
+---
+
+# Texas 'deserves transparency!' Noem, Trump facing backlash over FEMA response
+**MSNBC - The Latest:** [July 11, 2025](https://www.youtube.com/watch?v=eRsab-iOZe8)
+*  Today, multiple Democratic lawmakers, including some from Texas, are formally demanding answers [[00:00:00](https://www.youtube.com/watch?v=eRsab-iOZe8&t=0.0s)]
+*  from the administration about the impact of budget cuts and DHS policies on the government's [[00:00:06](https://www.youtube.com/watch?v=eRsab-iOZe8&t=6.44s)]
+*  ability to respond to the devastating floods. [[00:00:11](https://www.youtube.com/watch?v=eRsab-iOZe8&t=11.4s)]
+*  Texas Democratic Congressman Greg Kessler is one of them, chair of the Congressional Progressive [[00:00:14](https://www.youtube.com/watch?v=eRsab-iOZe8&t=14.74s)]
+*  Caucus, and he joins me now. [[00:00:19](https://www.youtube.com/watch?v=eRsab-iOZe8&t=19.62s)]
+*  Congressman, it's good to have you on the program. [[00:00:21](https://www.youtube.com/watch?v=eRsab-iOZe8&t=21.32s)]
+*  Again, what are the specific concerns, both that you've heard raised, but also the questions [[00:00:23](https://www.youtube.com/watch?v=eRsab-iOZe8&t=23.44s)]
+*  you want answered? [[00:00:29](https://www.youtube.com/watch?v=eRsab-iOZe8&t=29.22s)]
+*  Pexons deserve answers. [[00:00:33](https://www.youtube.com/watch?v=eRsab-iOZe8&t=33.38s)]
+*  If we want to both respect the dead, have government accountability, and keep people [[00:00:35](https://www.youtube.com/watch?v=eRsab-iOZe8&t=35.42s)]
+*  safe moving forward, we can't let any mistakes be swept under the rug. [[00:00:40](https://www.youtube.com/watch?v=eRsab-iOZe8&t=40.74s)]
+*  And so I, as a member of the Oversight Committee, am working alongside our ranking member, [[00:00:46](https://www.youtube.com/watch?v=eRsab-iOZe8&t=46.379999999999995s)]
+*  the top Democrat, Robert Garcia, to demand an independent investigation into what went [[00:00:52](https://www.youtube.com/watch?v=eRsab-iOZe8&t=52.78s)]
+*  right. [[00:00:59](https://www.youtube.com/watch?v=eRsab-iOZe8&t=59.300000000000004s)]
+*  We should be thankful to the first responders that saved lives, but also what went wrong. [[00:01:00](https://www.youtube.com/watch?v=eRsab-iOZe8&t=60.300000000000004s)]
+*  I'm especially concerned with the reports coming out from whistleblowers at FEMA that [[00:01:05](https://www.youtube.com/watch?v=eRsab-iOZe8&t=65.58s)]
+*  DHS Secretary Noem waited 72 hours to approve search and rescue from FEMA. [[00:01:10](https://www.youtube.com/watch?v=eRsab-iOZe8&t=70.74000000000001s)]
+*  A request like that, you shouldn't have to think about it for even 72 seconds, much less [[00:01:17](https://www.youtube.com/watch?v=eRsab-iOZe8&t=77.9s)]
+*  72 hours. [[00:01:22](https://www.youtube.com/watch?v=eRsab-iOZe8&t=82.38s)]
+*  We have also not seen any public appearance or press conference from the director of FEMA, [[00:01:24](https://www.youtube.com/watch?v=eRsab-iOZe8&t=84.3s)]
+*  David Richardson. [[00:01:29](https://www.youtube.com/watch?v=eRsab-iOZe8&t=89.58s)]
+*  He's kind of the interim here since the flooding happened. [[00:01:30](https://www.youtube.com/watch?v=eRsab-iOZe8&t=90.46s)]
+*  Do you know why that is? [[00:01:34](https://www.youtube.com/watch?v=eRsab-iOZe8&t=94.53999999999999s)]
+*  And is it a problem? [[00:01:36](https://www.youtube.com/watch?v=eRsab-iOZe8&t=96.02s)]
+*  We deserve transparency at every level of government, local, state and federal. [[00:01:39](https://www.youtube.com/watch?v=eRsab-iOZe8&t=99.97999999999999s)]
+*  And I'm very concerned that the Trump administration has clearly said that they want to get rid [[00:01:46](https://www.youtube.com/watch?v=eRsab-iOZe8&t=106.5s)]
+*  of FEMA as we know it. [[00:01:52](https://www.youtube.com/watch?v=eRsab-iOZe8&t=112.14s)]
+*  And the American people and people in Texas especially deserve to know if the cuts at [[00:01:54](https://www.youtube.com/watch?v=eRsab-iOZe8&t=114.66s)]
+*  FEMA are impacting our preparedness for the next flood or the next fire and what impact [[00:02:00](https://www.youtube.com/watch?v=eRsab-iOZe8&t=120.7s)]
+*  they had here in central Texas. [[00:02:07](https://www.youtube.com/watch?v=eRsab-iOZe8&t=127.14s)]
+*  Right now where I'm sitting in Travis County, we had far too many people die. [[00:02:09](https://www.youtube.com/watch?v=eRsab-iOZe8&t=129.74s)]
+*  And then just, of course, up the road, which you just saw in Kerrville, is devastating. [[00:02:12](https://www.youtube.com/watch?v=eRsab-iOZe8&t=132.94s)]
+*  This is not about politics. [[00:02:17](https://www.youtube.com/watch?v=eRsab-iOZe8&t=137.14s)]
+*  This is about accountability for what just happened and making sure we keep people safe [[00:02:19](https://www.youtube.com/watch?v=eRsab-iOZe8&t=139.46s)]
+*  because Texans and Americans are facing deadlier fires, deadlier freezes and deadlier floods [[00:02:24](https://www.youtube.com/watch?v=eRsab-iOZe8&t=144.54000000000002s)]
+*  year after year after year. [[00:02:31](https://www.youtube.com/watch?v=eRsab-iOZe8&t=151.22s)]
+*  And Americans deserve to know whether these massive cuts at the National Weather Service [[00:02:33](https://www.youtube.com/watch?v=eRsab-iOZe8&t=153.82s)]
+*  and these failures at FEMA are making things worse. [[00:02:38](https://www.youtube.com/watch?v=eRsab-iOZe8&t=158.38s)]
+*  There's also a key question, which is whatever money there is, who should be spending it, [[00:02:42](https://www.youtube.com/watch?v=eRsab-iOZe8&t=162.3s)]
+*  right? [[00:02:46](https://www.youtube.com/watch?v=eRsab-iOZe8&t=166.54000000000002s)]
+*  Back in May, the Texas governor, Greg Abbott, said FEMA is, and I'm quoting him here, slow [[00:02:47](https://www.youtube.com/watch?v=eRsab-iOZe8&t=167.62s)]
+*  and clunky. [[00:02:52](https://www.youtube.com/watch?v=eRsab-iOZe8&t=172.62s)]
+*  He said states have proven that we can move more nimbly, more swiftly, more effectively. [[00:02:53](https://www.youtube.com/watch?v=eRsab-iOZe8&t=173.9s)]
+*  What do you think is that balance? [[00:03:00](https://www.youtube.com/watch?v=eRsab-iOZe8&t=180.18s)]
+*  I mean, is it less FEMA, more state? [[00:03:01](https://www.youtube.com/watch?v=eRsab-iOZe8&t=181.89999999999998s)]
+*  How do you see it as someone who lives in a state that has seen more than its share of [[00:03:06](https://www.youtube.com/watch?v=eRsab-iOZe8&t=186.01999999999998s)]
+*  natural disasters? [[00:03:10](https://www.youtube.com/watch?v=eRsab-iOZe8&t=190.28s)]
+*  Well, I've seen far too many failures from Governor Abbott during natural disasters just [[00:03:12](https://www.youtube.com/watch?v=eRsab-iOZe8&t=192.9s)]
+*  a few years ago. [[00:03:19](https://www.youtube.com/watch?v=eRsab-iOZe8&t=199.14000000000001s)]
+*  Here we had winter storm Uri where people were dying in a freeze while some of Governor [[00:03:20](https://www.youtube.com/watch?v=eRsab-iOZe8&t=200.66s)]
+*  Abbott's own donors were making millions and millions of dollars jacking up electricity [[00:03:27](https://www.youtube.com/watch?v=eRsab-iOZe8&t=207.14000000000001s)]
+*  prices. [[00:03:32](https://www.youtube.com/watch?v=eRsab-iOZe8&t=212.70000000000002s)]
+*  We need to ask real questions about why the state of Texas rejected grants to our communities [[00:03:33](https://www.youtube.com/watch?v=eRsab-iOZe8&t=213.70000000000002s)]
+*  for flood warning systems. [[00:03:39](https://www.youtube.com/watch?v=eRsab-iOZe8&t=219.29999999999998s)]
+*  And right now, the special session that the governor has called, I wish it was really [[00:03:41](https://www.youtube.com/watch?v=eRsab-iOZe8&t=221.98s)]
+*  about flooding, but what he has made his real priority in there is out of cycle redistricting, [[00:03:46](https://www.youtube.com/watch?v=eRsab-iOZe8&t=226.14s)]
+*  essentially doing Trump's bidding and trying to get even more gerrymandering in Texas to [[00:03:53](https://www.youtube.com/watch?v=eRsab-iOZe8&t=233.54s)]
+*  stop there being accountability for the Trump administration. [[00:03:59](https://www.youtube.com/watch?v=eRsab-iOZe8&t=239.14s)]
+*  I think we should be putting more money towards flooding, but we now have a governor that [[00:04:02](https://www.youtube.com/watch?v=eRsab-iOZe8&t=242.54s)]
+*  instead of having a special session really about these floods, he's making it about [[00:04:06](https://www.youtube.com/watch?v=eRsab-iOZe8&t=246.86s)]
+*  politics. [[00:04:11](https://www.youtube.com/watch?v=eRsab-iOZe8&t=251.06s)]
+*  This shouldn't be about politics. [[00:04:12](https://www.youtube.com/watch?v=eRsab-iOZe8&t=252.06s)]
+*  It should be about getting answers. [[00:04:13](https://www.youtube.com/watch?v=eRsab-iOZe8&t=253.06s)]
+*  And whether it is a Democratic or Republican administration, we should be getting answers [[00:04:15](https://www.youtube.com/watch?v=eRsab-iOZe8&t=255.3s)]
+*  about what went wrong at the state, local and federal levels. [[00:04:19](https://www.youtube.com/watch?v=eRsab-iOZe8&t=259.3s)]
+*  Let me ask you a big picture because you touched on this. [[00:04:24](https://www.youtube.com/watch?v=eRsab-iOZe8&t=264.54s)]
+*  The number and severity of natural disasters continues to increase all across the country. [[00:04:27](https://www.youtube.com/watch?v=eRsab-iOZe8&t=267.38s)]
+*  In fact, Texas got hit so far this year more than any other state. [[00:04:32](https://www.youtube.com/watch?v=eRsab-iOZe8&t=272.46s)]
+*  You see those numbers, California, Oklahoma and Washington, two, three and four there. [[00:04:37](https://www.youtube.com/watch?v=eRsab-iOZe8&t=277.09999999999997s)]
+*  Only a handful of states are immune so far this year. [[00:04:43](https://www.youtube.com/watch?v=eRsab-iOZe8&t=283.06s)]
+*  Is there any sense of urgency that you detect on Capitol Hill to deal with that? [[00:04:47](https://www.youtube.com/watch?v=eRsab-iOZe8&t=287.29999999999995s)]
+*  We know that with this administration and this majority, climate change and some of [[00:04:53](https://www.youtube.com/watch?v=eRsab-iOZe8&t=293.35999999999996s)]
+*  the programs that were put into effect by the Biden administration may be off the table. [[00:04:59](https://www.youtube.com/watch?v=eRsab-iOZe8&t=299.38s)]
+*  But do you think things like this in a red state could change the equation at all? [[00:05:04](https://www.youtube.com/watch?v=eRsab-iOZe8&t=304.85999999999996s)]
+*  It better because, look, I think it is extremely dangerous and disheartening that funds have [[00:05:12](https://www.youtube.com/watch?v=eRsab-iOZe8&t=312.97999999999996s)]
+*  been completely slashed to help prevent climate change and even worse disasters. [[00:05:20](https://www.youtube.com/watch?v=eRsab-iOZe8&t=320.17999999999995s)]
+*  But what I just am trying and struggling to understand here is why the Trump administration [[00:05:26](https://www.youtube.com/watch?v=eRsab-iOZe8&t=326.94s)]
+*  has cut funding for projects to protect us from disasters happening right now. [[00:05:32](https://www.youtube.com/watch?v=eRsab-iOZe8&t=332.62s)]
+*  Just up the street from where I'm sitting right now here in southeast Travis County, [[00:05:38](https://www.youtube.com/watch?v=eRsab-iOZe8&t=338.9s)]
+*  the Trump administration cut a grant that the Biden administration had already given [[00:05:43](https://www.youtube.com/watch?v=eRsab-iOZe8&t=343.74s)]
+*  to prevent flooding in the most flood ravaged part of the Austin area, just really close [[00:05:48](https://www.youtube.com/watch?v=eRsab-iOZe8&t=348.7s)]
+*  here to where the floods happened in Kerrville. [[00:05:55](https://www.youtube.com/watch?v=eRsab-iOZe8&t=355.65999999999997s)]
+*  And so what we're experiencing, seeing from the Trump administration is not just climate [[00:05:58](https://www.youtube.com/watch?v=eRsab-iOZe8&t=358.41999999999996s)]
+*  change denialism, but straight up natural disaster denialism. [[00:06:02](https://www.youtube.com/watch?v=eRsab-iOZe8&t=362.21999999999997s)]
+*  So that's why we're asking for this kind of accountability and transparency in these floods. [[00:06:07](https://www.youtube.com/watch?v=eRsab-iOZe8&t=367.41999999999996s)]
+*  Because when you have severe staffing shortages at the National Weather Service, when you [[00:06:13](https://www.youtube.com/watch?v=eRsab-iOZe8&t=373.2s)]
+*  have somebody in charge of FEMA who says she wants to get rid of FEMA as we know it, and [[00:06:18](https://www.youtube.com/watch?v=eRsab-iOZe8&t=378.14s)]
+*  then you have a devastating flood like this one, I think it's a disservice to the victims [[00:06:24](https://www.youtube.com/watch?v=eRsab-iOZe8&t=384.78s)]
+*  for us to not ask the hard questions. [[00:06:29](https://www.youtube.com/watch?v=eRsab-iOZe8&t=389.82s)]
+*  If we wait a few more weeks, we know sometimes the news cycle could just move on and we cannot [[00:06:32](https://www.youtube.com/watch?v=eRsab-iOZe8&t=392.65999999999997s)]
+*  forget these children and these seniors and these everyday neighbors that survived this [[00:06:37](https://www.youtube.com/watch?v=eRsab-iOZe8&t=397.0s)]
+*  traumatizing incident. [[00:06:42](https://www.youtube.com/watch?v=eRsab-iOZe8&t=402.02s)]
+*  And we especially can't forget those that did not survive. [[00:06:43](https://www.youtube.com/watch?v=eRsab-iOZe8&t=403.5s)]
+*  Congressman, we appreciate your time. [[00:06:46](https://www.youtube.com/watch?v=eRsab-iOZe8&t=406.29999999999995s)]
+*  I know it's very busy. [[00:06:48](https://www.youtube.com/watch?v=eRsab-iOZe8&t=408.14s)]
+*  Thank you. [[00:06:49](https://www.youtube.com/watch?v=eRsab-iOZe8&t=409.41999999999996s)]
